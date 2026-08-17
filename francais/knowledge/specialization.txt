@@ -1,0 +1,652 @@
+::GeneralInfo
+Tu peux renforcer les effets de tes talents en dépensant des points de spécialisation.
+
+Les bonus de spécialisation sont toujours listés par rapport aux effets d'origine du talent lié.
+
+::SprintSpeed
++{0} PM bonus de Sprint par point de spécialisation.
+
+::AimedShotCritDamage
++{0}% dégâts crit avec Aimed Shot par point de spécialisation (additif au bonus de dégâts crit normal).
+
+::AmbushCritChance
++{0}% taux de crit d'Ambush par point de spécialisation.
+
+::ArmorSloping
+Encore -{0}% malus d'armure par point de spécialisation.
+
+::Ballistics
+Encore +{0} seuil mécanique bonus par point de spécialisation.
+
+::BlitzCooldown
+Recharge -{0} par point de spécialisation.
+
+::BlitzMaxAp
++{0} PA max gagnables par point de spécialisation.
+
+::BoneBreakerDamage
++{0}% dégâts bonus des côtes cassées par stack, par point de spécialisation.
+
+::BowyerCritDamage
+Encore +{0}% dégâts crit bonus par point de spécialisation.
+
+::BurglarSpeed
+Encore -{0}% temps de crochetage et piratage par point de spécialisation.
+
+::BurglarStealth
+Encore +{0} bonus de furtivité par point de spécialisation.
+
+::CerebralTraumaDamage
+Encore +{0}% dégâts de base de Surcharge neuronale par point de spécialisation.
+
+::CerebralTraumaPsiBurn
++{0}% de points psi brûlés par point de spécialisation.
+
+::CheapShotsIncapacitationChance
++{0}% chances d'incapacité par point de spécialisation.
+
+::CheapShotsCritDamage
+Encore +{0}% dégâts crit par point de spécialisation.
+
+::Clothier
+Encore +{0}% qualité effective par point de spécialisation.
+
+::ComboDamage
++{0}% dégâts bonus par point de spécialisation.
+
+::ComboStunChance
++{0}% chances de stun par point de spécialisation.
+
+::CommandoApGain
+Kill avec un burst fusil d'assaut ou mitraillette : aussi +{0} PA par point de spécialisation. Une fois par tour max.
+
+::ConcentratedFireDamage
+Encore +{0}% dégâts de Concentrated Fire par stack, par point de spécialisation.
+
+::ConcussiveShotsDazeChance
+Encore +{0}% chances d'étourdissement par point de spécialisation.
+
+::Conditioning
+Encore -{0}% dégâts subis par point de spécialisation.
+
+::HighTechnicalitiesDamage
+Encore +{0}% dégâts bonus par point d'Intelligence au-dessus de {1}, par point de spécialisation.
+
+::CookedShotDamage
++{0}% dégâts de Cooked Shot par point de spécialisation.
+
+::CookedShotApCostReduction
+-{0}% modificateur de coût PA de Cooked Shot par point de spécialisation.
+
+::CorporealProjectionDamage
+Encore +{0}% tous dégâts télékinétiques par point de Force au-dessus de {1}, par point de spécialisation.
+
+::CripplingStrikeDamage
+Encore +{0}% modificateur de dégâts par point de spécialisation.
+
+::CriticalPowerCritDamage
+Encore +{0}% gain de dégâts crit par point de spécialisation (par condition indiquée).
+
+::CryogenicInductionThreshold
+-{0}% seuil de brisure par point de spécialisation.
+
+::CutthroatDamage
+Encore +{0}% dégâts de saignement de l'attaque par point de spécialisation.
+
+::CutthroatCooldown
+Recharge -{0} par point de spécialisation.
+
+::ShootingSpreeCooldown
+Recharge -{0} par point de spécialisation.
+
+::ShootingSpreeShots
++1 tir remboursé.
+
+::DeadlySnaresCritDamage
+Les crits de Deadly Snares : encore +{0}% dégâts crit par point de spécialisation.
+
+::DeflectionDodge
+Encore +{0}% bonus d'esquive issu de Mêlée par point de spécialisation.
+
+::DirtyKickDamage
++{0}% dégâts par point de spécialisation.
+
+::DisassembleQuality
++{0}% de la qualité d'origine des composants démontés par point de spécialisation.
+
+::DoctorHealingBonus
+Encore +{0}% bonus de soin par point de spécialisation.
+
+::ElementalBoltsDamage
+Encore +{0}% dégâts bonus par point de spécialisation.
+
+::EscapeBondsMpGain
+Réussir à se libérer donne aussi +{0} PM par point de spécialisation.
+
+::EvasiveManeuversConversion
++{0} évitement par PM, par point de spécialisation.
+
+::EviscerateDamage
++{0}% dégâts bonus par plaie saignante, par point de spécialisation.
+
+::ExecuteDamage
+Encore +{0}% modificateur de dégâts par point de spécialisation.
+
+::ExecuteCooldown
+Recharge -{0} par point de spécialisation.
+
+::ExpertiseMaxBonus
++{0} dégâts bonus max par point de spécialisation.
+
+::ExposeWeaknessDuration
++{0} durée par point de spécialisation.
+
+::ExposeWeaknessResistReduction
+Encore +{0}% réduction de résistance et seuil mécaniques par point de spécialisation.
+
+::FancyFootworkMovementPoints
++{0} PM max reçus par attaque, par point de spécialisation.
+
+::FastMetabolismHealing
+Encore +{0}% tous soins par point de spécialisation.
+
+::FastMetabolismPsi
+Psi boosters restaurent +{0} points psi par point de spécialisation.
+
+::FatalThrowHealthThreshold
+Seuil de PV de Fatal Throw +{0}% par point de spécialisation.
+
+::FatalThrowActionPoints
+Encore +{0} PA restaurés par point de spécialisation.
+
+::ForceUserDamage
+Encore +{0}% dégâts du coup télékinétique par point de spécialisation.
+
+::ForceUserForcefieldHealth
+Bonus de PV du force field +{0}% par point de spécialisation.
+
+::GuardBlockChance
++{0}% chances de bloc par point de spécialisation.
+
+::GuardBlockAmount
+Encore +{0} montant bloqué par point de Force, par point de spécialisation.
+
+::GunNutDamage
+Encore +{0}% sur le haut de la fourchette de dégâts par point de spécialisation.
+
+::GunslingerInitiative
+Encore +{0} initiative par point de spécialisation.
+
+::HeavyPunchCritDamage
++{0}% dégâts crit de Heavy Punch par point de spécialisation.
+
+::HeavyPunchDamage
++{0}% dégâts par point de spécialisation.
+
+::HeavyPunchActionPoints
+-{0}% modificateur de coût PA par point de spécialisation.
+
+::HeavyweightCritDamage
++{0}% dégâts crit par % de malus d'armure total, par point de spécialisation.
+
+::HitAndRunMaxMp
++{0} au plafond de reset de PM par point de spécialisation. Il faut encore avoir assez de PM max pour en profiter.
+
+::HypertoxicityDamage
+Encore +{0}% dégâts de poison par point de spécialisation.
+
+::HypothermiaMaxStacks
++{0} stacks max d'Hypothermie par point de spécialisation.
+
+::InterloperMovement
+Chaque point de spécialisation : encore -{0}% malus de vitesse en furtif, et jusqu'à +{1} PM conservés en combat en furtif.
+
+::JuggernautHealth
+Encore +{0}% bonus de PV par point de spécialisation.
+
+::KneecapShotDamage-Old
+Chaque point de spécialisation : +{0}% saignement de base et +{1}% saignement par point de Perception.
+
+::KneecapShotDamage
++{0}% dégâts de saignement par point de spécialisation.
+
+::KneecapShotCooldown
+Recharge -{0} par point de spécialisation.
+
+::LastStandCooldown
+Recharge -{0} par point de spécialisation.
+
+::LastStandDuration
++{0} durée par point de spécialisation.
+
+::LocusOfControlCooldown
+Recharge -{0} par point de spécialisation.
+
+::LocusOfControlDuration
++{0} durée par point de spécialisation.
+
+::MadChemistOnHit
+Encore +{0}% force des effets on-hit des pistolets chimiques par point de spécialisation.
+
+::MeditationPsiPoints
+Encore +{0} points psi max par point de spécialisation.
+
+::NeuralOverclockingCritDamage
+Encore +{0}% dégâts crit de tous les pouvoirs psi.
+
+::NeurologyPsiPoints
+Encore +{0} points psi max par point de spécialisation.
+
+::NimbleDodgeAndEvasion
+Encore +{0}% bonus d'esquive et d'évitement par point de spécialisation.
+
+::NinjaLooterSpeed
+Encore -{0}% temps de vol à la tire par point de spécialisation.
+
+::NinjaLooterSuspicion
+Encore -{0}% soupçon levé par point de spécialisation.
+
+::OpportunistDisabledTarget
+Encore +{0}% dégâts contre cibles root, stun ou incapacité par point de spécialisation.
+
+::OpportunistSlowedTarget
+Encore +{0}% dégâts contre cibles ralenties par point de spécialisation.
+
+::PackrathoundCarryCapacity
+Encore +{0} capacité de port par point de spécialisation.
+
+::BeastOfBurdenCarryCapacity
+Encore +{0} capacité de port par point de spécialisation.
+
+::ParanoiaDetectionBonus
+Encore +{0}% détection par point de spécialisation.
+
+::ParanoiaCritChanceReduction
+Encore -{0}% chances de te faire crit par point de spécialisation.
+
+::ParanoiaDamage
+Encore +{0}% dégâts armes et mains nues contre cibles en furtif par point de spécialisation.
+
+::ParanoiaInitiative
+Encore +{0} initiative par point de spécialisation.
+
+::PinningChance
++{0}% chances de pin par point de spécialisation.
+
+::PointShotApCost
+Encore -{0}% coût PA par point de spécialisation.
+
+::PowerManagementCapacity
+Encore +{0}% capacité d'énergie par point de spécialisation.
+
+::PracticalPhysicistCritDamage
+Encore +{0}% dégâts crit bonus par point de spécialisation.
+
+::PremeditationPsiCostReduction
+Encore -{0}% coût psi par point de spécialisation.
+
+::PremeditationCooldown
+Recharge -{0} par point de spécialisation.
+
+::PsionicManiaHealthCostReduction
+-{0}% coût en PV par point de spécialisation.
+
+::PsionicManiaCooldown
+Recharge -{0} par point de spécialisation.
+
+::QuickTinkeringCooldown
+Recharge -{0} par point de spécialisation.
+
+::QuickTinkeringAp
+-{0} PA pour poser des pièges sous Quick Tinkering, par point de spécialisation.
+
+::PsychosisPsiCostReduction
+-{0}% modificateur de coût psi par point de spécialisation.
+
+::PsychosisCritChance
+Encore +{0}% taux de crit par point de spécialisation.
+
+::PsychostaticElectricityCritChance
+Encore +{0}% chances de se faire crit par stack, par point de spécialisation.
+
+::PsychostaticElectricityDuration
++{0} durée par point de spécialisation.
+
+::PummelDamage
++{0}% modificateur de dégâts par point de spécialisation.
+
+::PummelActionPoints
+-{0} PA par point de spécialisation.
+
+::PyromaniacDamage
++{0}% dégâts de brûlure (de l'original) par point de spécialisation.
+
+::QuickPocketsApCost
+Encore -{0}% coût PA par point de spécialisation.
+
+::RapidFireApCost
+-{0}% modificateur de coût PA par point de spécialisation.
+
+::RecklessnessCritChance
+Chaque point de spécialisation : encore +{0}% taux de crit toutes armes, mais encore +{1}% chances de te faire crit.
+
+::RipperCritDamage
+Encore +{0}% modificateur de dégâts crit par % de PV manquants indiqué, par point de spécialisation.
+
+::Salesman
+Encore +{0}% volume d'achat des marchands par point de Négoce, par point de spécialisation.
+
+::SharpshooterCritDamage
+Encore +{0}% dégâts crit par point de spécialisation.
+
+::Skinner
+Encore +{0}% qualité effective par point de spécialisation.
+
+::SnipeDamage
+Chaque point de spécialisation : encore +{0}% dégâts bonus par point de furtivité.
+
+::SpecialTacticsCooldown
+Recharge -{0} par point de spécialisation.
+
+::SteadfastAimCritChance
+Encore +{0}% taux de crit par PA par point de spécialisation.
+
+::Stoicism
+Encore +{0}% réduction de dégâts par % de PV manquants indiqué, par point de spécialisation.
+
+::SuperSlamDamage
++{0}% des PV ajoutés aux dégâts par point de spécialisation.
+
+::SuppressiveFireHitChanceRed
+Encore -{0}% chance de toucher à distance de la cible par point de spécialisation.
+
+::SuppressiveFireActionPoints
+Encore -{0} PA de la cible par point de spécialisation.
+
+::SuppressiveFireMovementPoints
+Encore -{0} PM de la cible par point de spécialisation.
+
+::SurvivalInstinctsHealthThreshold
++{0}% seuil de PV par point de spécialisation.
+
+::SurvivalInstinctsCritChance
+Encore +{0}% taux de crit par point de spécialisation.
+
+::TasteForBloodDamage
+Encore +{0}% dégâts mêlée par stack, par point de spécialisation.
+
+::TelekineticUndulationDazeChance
++{0}% chances d'étourdissement par point de spécialisation.
+
+::ThermodynamicityActionPoints
+Encore -{0}% coût PA par point de spécialisation.
+
+::ThreePointerCritChance
+Chaque point de spécialisation : encore +{0}% taux de crit par tranche de skill indiquée.
+
+::Tranquility
+Encore -{0} PA par point de spécialisation.
+
+::TrapExpertSpeed
+Encore -{0}% temps pour armer/désarmer les pièges par point de spécialisation.
+
+::TrapExpertDetection
+Encore +{0}% difficulté de détection de tes pièges par point de spécialisation.
+
+::UncannyDodge
+-{0} points de skill requis pour une esquive supplémentaire, par point de spécialisation.
+
+::VileWeaponryDamage
+Encore +{0}% dégâts subis de toutes sources par stack, par point de spécialisation.
+
+::VileWeaponryHealingReduction
+Encore -{0}% soins par stack, par point de spécialisation.
+
+::WeaponsmithCritChance
+Encore +{0}% taux de crit par point de spécialisation.
+
+::WrestlingApplyChance
++{0}% chances d'appliquer le debuff par point de spécialisation.
+
+::YellReduction
++{0}% de réduction de skill par point de spécialisation.
+
+::BlindsidingDamage
+Encore +{0}% dégâts par point de spécialisation.
+
+::BrutalityFearChance
++{0}% chances d'inspirer la peur par point de spécialisation.
+
+::ContinuumRippleJumpChance
++{0}% chances de réapplication par point de spécialisation.
+
+::HemopsychosisHealthCost
+-{0}% coût en PV des pouvoirs psi par point de spécialisation.
+
+::HemopsychosisCooldown
+Recharge -{0} par point de spécialisation.
+
+::PsychotemporalAccelerationActionPoints
+Encore +{0} modification de PA par point de spécialisation.
+
+::ShieldArmBlockChance
+Encore +{0}% chances de bloc par point de spécialisation.
+
+::ShieldArmBlockAmount
+Encore +{0}% montant bloqué par point de spécialisation.
+
+::Strafe
+Encore -{0}% malus move and shoot par point de spécialisation.
+
+::TriggerHappy
+Encore +{0} initiative par point de spécialisation.
+
+::FullAutoDamage
++{0}% dégâts du burst par point de spécialisation.
+
+::LightningPunchesThreshold
++{0}% seuil de malus d'armure par point de spécialisation.
+
+::MarksmanPrecision
++{0}% chance de toucher à l'arbalète par point de spécialisation.
+
+::SnoopingPerception
+Encore +{0} Perception pour l'usage indiqué, par point de spécialisation.
+
+::SpecOpsFlashbangCooldown
+Encore -{0} recharge des flashbangs et grenades tactiques similaires par point de spécialisation.
+
+::SplitSpareDamage
+En lançant des couteaux sur deux cibles : +{0}% dégâts des deux couteaux par point de spécialisation.
+
+::SureStepBearTrap
+{0}% de chances par point de spécialisation d'esquiver tout piège à ours.
+
+::ThickSkull
++{0} vigueur par point de spécialisation.
+
+::FutureOrientationAp
+-{0} à l'augmentation de PA par point de spécialisation.
+
+::FendBlockAmount
++{0}% montant de dégâts bloqués en bonus par point de spécialisation.
+
+::FendApCost
+-{0}% coût PA par point de spécialisation.
+
+::SpearGuardian
++{0}% bonus de chances de bloc par point de spécialisation.
+
+::ImpaleCritDamage
+Encore +{0}% dégâts crit d'Impale par point de spécialisation (additif au bonus de dégâts crit normal).
+
+::SpearThrowDamage
+Encore +{0}% multiplicateur de dégâts par unité de distance, par point de spécialisation.
+
+::SpearThrowApCost
+-{0} PA par point de spécialisation.
+
+::SpearThrowRange
++{0} portée par point de spécialisation.
+
+::FlurryCooldown
+Recharge -{0} par point de spécialisation.
+
+::FlurryApCost
+-{0} coût PA.
+
+::OnslaughtDamage
++{0}% dégâts par stack, par point de spécialisation.
+
+::DecapitateThreshold
+-{0}% seuil de décapitation par point de spécialisation.
+
+::DecapitateDamage
++{0}% dégâts par point de spécialisation.
+
+::RiposteCritChance
++{0}% taux de crit de Riposte par point de spécialisation.
+
+::LeadingShot
++{0}% évitement ignoré (additif) par point de spécialisation.
+
+::FullAutoShotgunDamage
++{0}% dégâts du burst pompe par point de spécialisation.
+
+::BarrelStareDamage
+Encore +{0}% dégâts bonus (additif) par point de spécialisation.
+
+::PerfectScattering
++{0} dégâts bonus max par point de spécialisation.
+
+::FragmentedChaosCritDamage
++{0}% dégâts crit totaux par point de spécialisation.
+
+::PelletMayhemDamage
++{0}% taux de crit par cible, par point de spécialisation.
+
+::ParryChance
++{0}% chances de bloc par point de spécialisation.
+
+::ParryBlockAmount
++{0} montant bloqué par point de spécialisation.
+
+::Versatility
+Encore +{0}% de la valeur de skill utilisée par point de spécialisation.
+
+::ImprovedUnarmedCombatDamage
++{0}% dégâts bonus par point de spécialisation.
+
+::ImprovedUnarmedCombatDazeChance
++{0}% chances d'étourdissement par point de spécialisation.
+
+::ShieldBashDamage
++{0}% pourcentage de dégâts par point de spécialisation.
+
+::ShieldBashCooldown
+Recharge -{0} par point de spécialisation.
+
+::ShieldBashApCost
+-{0} PA par point de spécialisation.
+
+::BoardingUp
+Encore +{0}% montant de bloc par stack, par point de spécialisation.
+
+::SweepDamage
++{0}% modificateur de dégâts par point de spécialisation.
+
+::SweepCooldown
+Recharge -{0} par point de spécialisation.
+
+::SweepDuration
++{0} durée hors d'équilibre par point de spécialisation.
+
+::IronGrip
+-{0}% malus de dégâts par point de spécialisation.
+
+::SixthShellDamage
++{0}% dégâts bonus progressif par stack et +{1}% bonus final par point de spécialisation.
+
+::PsychoNeuralOptimization
+Encore -{0}% coût psi par point de spécialisation.
+
+::ExpandedPsiCapacitance
+Encore +{0}% bonus de réserves psi par point de spécialisation.
+
+::GunFu
+Encore +{0}% de la valeur de skill utilisée par point de spécialisation.
+
+::BulletTime
+Encore -{0}% coût PA (additif) par point de spécialisation.
+
+::RemoteSurgeon
+Encore +{0}% modificateur de dégâts non résisté (additif) par point de spécialisation.
+
+::CryogenicInductionBarrierHealth
+Bonus de PV de la barrière cryogénique +{0}% par point de spécialisation.
+
+::MagDumpLmg
+Encore +{0} balles de burst LMG par point de spécialisation.
+
+::MagDumpMinigun
+Encore +{0} balles par stack de montée en régime pour le burst minigun, par point de spécialisation.
+
+::HeavyMetalDamageBonus
+Encore +{0}% conversion malus d'armure → dégâts bonus par point de spécialisation.
+
+::HeavyMetalDamageReduction
+Encore -{0}% dégâts mécaniques subis par point d'exigence de Force de l'arme, par point de spécialisation.
+
+::BulletTranceDuration
++{0} durée par point de spécialisation.
+
+::BulletTranceDamage
++{0}% dégâts par stack, par point de spécialisation.
+
+::BulletTranceMaxStacks
++1 stack max par point de spécialisation.
+
+::PracticedParabola
++{0}% bonus de précision par point de spécialisation.
+
+::TrickyTrajectoryDamageBonus
++{0}% dégâts bonus par point de spécialisation.
+
+::TrickyTrajectoryEvasionIgnore
++{0}% évitement ignoré par point de spécialisation.
+
+::DemolitionManDamageBonus
++{0}% dégâts bonus par point de spécialisation.
+
+::DemolitionManDuration
++{0} tour de durée par point de spécialisation.
+
+::DemolitionManMaxStacks
++1 stack max par point de spécialisation.
+
+::GunnersHighDuration
++1 tour de durée par point de spécialisation.
+
+::GunnersHighThreshold
++{0}% au seuil de PV par point de spécialisation.
+
+::GunnersHighMaxStacks
++1 stack max par point de spécialisation.
+
+::ShellShockDuration
++1 tour de durée par point de spécialisation.
+
+::ShellShockMaxStacks
++1 stack max par point de spécialisation.
+
+::ShellShockSkillReduction
++{0} réduction de skill par stack, par point de spécialisation.
+
+::SapDamage
+Encore +{0}% dégâts bonus par point de spécialisation.
+
+::SapCooldown
+Recharge -{0} par point de spécialisation.
+
+::SapDuration
++{0} durée max d'incapacité par point de spécialisation.

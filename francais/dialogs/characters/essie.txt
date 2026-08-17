@@ -1,0 +1,414 @@
+=>q1_original
+::A willowy woman removes her respirator and exhibits the smile underneath. You remember talking to her the first time you came here, but for some reason her name eludes you at the moment, if she even mentioned it at all. Her light soprano voice is quick to remind you, though.::
+
+Hi, $(context.player.Name), remember me? Essie?<end>
+
+=>q1
+::Une femme saule enlève son respirateur et montre le sourire en dessous. Tu te souviens de lui avoir parlé la première fois que tu es venu ici, mais pour une raison quelconque son nom t'échappe en ce moment, si elle l'a même mentionné. Sa voix de soprano légère vous le rappelle.::
+
+Bonjour, $(context.player.Name), tu te souviens de moi ? Essie ?<end>
+
+=>a2_original
+Of course, Essie, how could I forget you.<end>
+
+=>a2
+Bien sûr, Essie, comment pourrais-je t'oublier.<end>
+
+=>q3_original
+How's it going?<end>
+
+=>q3
+Comment ça va ?<end>
+
+=>a4_original
+Good.<end>
+
+=>a4
+Bien.<end>
+
+=>q5_original
+Well, you've been admitted to the station, so I reckon it can't be bad, right? Right?<end>
+
+=>q5
+Vous avez été admis à la gare, donc je pense que ça ne peut pas être mauvais, non ? Pas vrai ?<end>
+
+=>q6_original
+So, you need some help? Directions, to be a bit more specific?<end>
+
+=>q6
+Vous avez besoin d'aide ? Pour être un peu plus précis ?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Yes, I was hoping you could tell me how to get somewhere.<end>
+
+=>a8
+J'espérais que tu pourrais me dire comment aller quelque part.<end>
+
+=>q9_original
+Sure. Where are you headed?<end>
+
+=>q9
+Bien sûr. Où allez-vous ?<end>
+
+=>a10_original
+How do I get to Rail Crossing?<end>
+
+=>a10
+Comment puis-je arriver à Rail Crossing?<end>
+
+=>q11_original
+The easiest way would be to take the train there.<end>
+
+=>q11
+Le moyen le plus facile serait de prendre le train là-bas.<end>
+
+=>q12_original
+But if you really want to stretch your legs, then exit the station to the north and from there try to head mostly to the west - northwest. Eventually you'll reach the area where the rails emerge from the tunnels again and the Rail Crossing depot won't be far off.<end>
+
+=>q12
+Mais si vous voulez vraiment vous étirer les jambes, alors sortez de la station au nord et de là essayez de vous diriger principalement vers l'ouest - le nord-ouest. Finalement, vous atteindrez la zone où les rails émergent à nouveau des tunnels et le dépôt Rail Crossing ne sera pas loin.<end>
+
+=>a13_original
+Thanks.<end>
+
+=>a13
+Merci.<end>
+
+=>q14_original
+Take care. <end>
+
+=>q14
+Prends soin de toi. <end>
+
+=>q15_original
+And watch out once you're past the perimeter, there are a lot of dangers lurking about.<end>
+
+=>q15
+Et attention une fois que vous avez dépassé le périmètre, il y a beaucoup de dangers qui se cachent.<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+I need to get to GMS compound.<end>
+
+=>a17
+Je dois aller à GMS composé.<end>
+
+=>q18_original
+That one's easy. Just exit the station to the north and head straight until the first crossroad. Then turn left and go straight until you come upon an auxiliary road. Keep going straight, following the road, and it will lead you into an abandoned warehouse block. GMS compound is in its northwest corner.<end>
+
+=>q18
+C'est facile. Il suffit de sortir de la station vers le nord et de se diriger tout droit jusqu'au premier carrefour. Puis tournez à gauche et allez tout droit jusqu'à ce que vous preniez une route auxiliaire. Continuez tout droit, en suivant la route, et cela vous mènera dans un entrepôt abandonné. Le composé GMS est dans son coin nord-ouest.<end>
+
+=>a19_original
+How do I get to Junkyard?<end>
+
+=>a19
+Comment puis-je arriver à Junkyard?<end>
+
+=>q20_original
+Hmm... The safest way would be to take a boat ride there from our docks. Or you could go to the abandoned building on the west bank of Mushroom Cove and then head straight north. Eventually you'll reach the Junkyard gate.<end>
+
+=>q20
+Oui. Le moyen le plus sûr serait de faire un tour en bateau depuis nos quais. Ou vous pourriez aller à l'immeuble abandonné sur la rive ouest de Mushroom Cove, puis vous diriger tout droit vers le nord. Finalement, vous atteindrez la porte Junkyard.<end>
+
+=>q21_original
+Be careful, though. Chances are you'll run into some rathounds or psi beetles on your way there.<end>
+
+=>q21
+Soyez prudent. Il y a des chances que tu croises des rathounds ou des coléoptères en chemin.<end>
+
+=>a22_original
+Thanks.<end>
+
+=>a22
+Merci.<end>
+
+=>a23_original
+How do I get to Camp Hathor?<end>
+
+=>a23
+Comment puis-je arriver à Camp Hathor?<end>
+
+=>q24_original
+Camp Hathor is not too far from here. Take the elevator down to the caves and just head east. You should expect rathounds along the way, but I'm sure you've gotten used to dealing with them by now.<end>
+
+=>q24
+Camp Hathor n'est pas trop loin d'ici. Prenez l'ascenseur jusqu'aux grottes et allez vers l'est. Tu devrais t'attendre à des râles en cours de route, mais je suis sûr que tu t'es habitué à les traiter maintenant.<end>
+
+=>q25_original
+Or, you could take the boat, which should've probably been my first recommendation.<end>
+
+=>q25
+Ou, vous pourriez prendre le bateau, ce qui aurait dû être ma première recommandation.<end>
+
+=>q26_original
+Camp Hathor is not too far from here, you take the elevator down to the caves and just head east. It's a bit dangerous because of all the rathounds, but you should know how to deal with them by now.<end>
+
+=>q26
+Camp Hathor n'est pas trop loin d'ici, vous descendez l'ascenseur vers les grottes et vous dirigez vers l'est. C'est un peu dangereux à cause de tous les rathounds, mais vous devriez savoir comment faire avec eux maintenant.<end>
+
+=>q27_original
+Boat rides are not possible at the moment, because the earthquake kind of cut us off and no one knows if Hathor's docks are still accessible; we got no word from Hathorians yet.<end>
+
+=>q27
+Les promenades en bateau ne sont pas possibles en ce moment, parce que le genre de tremblement de terre nous a coupés et que personne ne sait si les quais d'Hathor sont encore accessibles; nous n'avons encore aucun mot d'Hathoriens.<end>
+
+=>a28_original
+How do I get to Foundry?<end>
+
+=>a28
+Comment puis-je arriver à Foundry?<end>
+
+=>q29_original
+Train is the safest way as usual. If you want to walk, you'll have to walk north from here, and way past GMS. But I wouldn't recommend it since you would be going through Ironheads territory; they're especially concentrated around Warehouse Block Beta, which is along the way.<end>
+
+=>q29
+Le train est le moyen le plus sûr comme d'habitude. Si vous voulez marcher, vous devrez marcher au nord d'ici, et passer au-delà de GMS. Mais je ne le recommanderais pas car vous passeriez par le territoire de Ironheads ; ils sont particulièrement concentrés autour de l'entrepôt Block Beta, qui est en chemin.<end>
+
+=>q30_original
+I mean, you could take the train to Rail Crossing and then head northeast from there and reach Foundry that way, but if you're already boarding the train, then you should just go straight there. It's all your choice.<end>
+
+=>q30
+Vous pouvez prendre le train jusqu'à Rail Crossing, puis aller au nord-est et atteindre Foundry par là, mais si vous êtes déjà à bord du train, alors vous devriez aller tout droit là. C'est ton choix.<end>
+
+=>a31_original
+How do I get to Core City?<end>
+
+=>a31
+Comment puis-je arriver à Core City?<end>
+
+=>q32_original
+Train or boat. Both routes should be a lot safer now that the Faceless have retreated.<end>
+
+=>q32
+Train ou bateau. Les deux routes devraient être plus sûres maintenant que le Faceless a reculé.<end>
+
+=>q33_original
+Now, if you want to walk, head north from Rail Crossing and you'll get there. Know that the area in between is full of gangs and who knows what.<end>
+
+=>q33
+Maintenant, si vous voulez marcher, allez au nord de Rail Crossing et vous y arriverez. Sachez que la zone entre les deux est pleine de gangs et qui sait quoi.<end>
+
+=>q34_original
+So, to Core City it is, then? For that you have two options: You could take the train, or you could take the boat. Since the Faceless cut off the rail to North Underrail, it might not be the safest route at the moment, you never know what could happen.<end>
+
+=>q34
+Donc, à Core City c'est, alors ? Pour cela, vous avez deux options : prendre le train, ou prendre le bateau. Puisque le Faceless coupe le rail vers le Nord Underrail, il se peut que ce ne soit pas la route la plus sûre pour le moment, on ne sait jamais ce qui pourrait arriver.<end>
+
+=>q35_original
+Therefore, a boat is a safe alternative. Now, if you want to walk, head north from Rail Crossing and you'll get there. Know that the area in between is full of gangs and who knows what.<end>
+
+=>q35
+Par conséquent, un bateau est une alternative sûre. Maintenant, si vous voulez marcher, allez au nord de Rail Crossing et vous y arriverez. Sachez que la zone entre les deux est pleine de gangs et qui sait quoi.<end>
+
+=>a36_original
+Never mind. I just remembered I have to do something else first.<end>
+
+=>a36
+Laisse tomber. Je viens de me rappeler que je dois faire autre chose d'abord.<end>
+
+=>a37_original
+I was hoping you could tell me how to get somewhere.<end>
+
+=>a37
+J'espérais que tu pourrais me dire comment aller quelque part.<end>
+
+=>a38_original
+What can you tell me about Underrail Express?<end>
+
+=>a38
+Que pouvez-vous me dire sur Underrail Express ?<end>
+
+=>q39_original
+You mean, besides the obvious, that they control the railway traffic of the *entire* Underrail?<end>
+
+=>q39
+Vous voulez dire, outre l'évidence, qu'ils contrôlent le trafic ferroviaire de l'entier Underrail ?<end>
+
+=>a40_original
+Yes, besides the obvious.<end>
+
+=>a40
+Oui, outre l'évidence.<end>
+
+=>q41_original
+Well, how a company like that has managed to maintain such a uniquely independent status, if that's what you had in mind... now that's *not* obvious. Yes, yes, all stations need railway traffic, and one can say they've all reached some kind of a mutual agreement on allowing Underrail Express to run the whole show. But they've been around since Biocorp times, and the fact that they haven't been taken over by the Underrail Protectorate or whomever tells me that their influence goes, um... goes beyond what us commoners hope to understand.<end>
+
+=>q41
+Eh bien, comment une entreprise comme celle-ci a réussi à maintenir un statut aussi uniquement indépendant, si c'est ce que vous aviez à l'esprit... maintenant ce n'est pas évident. Oui, oui, toutes les gares ont besoin de trafic ferroviaire, et on peut dire qu'elles sont toutes parvenues à une sorte d'accord mutuel pour permettre à Underrail Express d'exécuter tout le spectacle. Mais ils ont été autour depuis Biocorp fois, et le fait qu'ils n'ont pas été repris par le Underrail Protectorate ou qui me dit que leur influence va, um... va au-delà de ce que nous les communs espérons comprendre.<end>
+
+=>q42_original
+I've talked to a lot of train personnel over the years, believe me, but their guess is as good as mine, $(context.player.Name).<end>
+
+=>q42
+J'ai parlé à beaucoup de personnel de formation au fil des ans, croyez-moi, mais leur hypothèse est aussi bonne que la mienne, $(context.player.Name).<end>
+
+=>a43_original
+::Nod.::<end>
+
+=>a43
+::Hocher la tête.::<end>
+
+=>a44_original
+What do you think of the Faceless invasion?<end>
+
+=>a44
+Que pensez-vous de l'invasion Faceless ?<end>
+
+=>q45_original
+I don't know what they want, but it's got something to do with cutting off the only tracks that connect North and South Underrail, as that's where the blockade is. Underrail Express trains are still going to Core City, but I don't know what the current situation is and if it's a good idea to go there by train right now.<end>
+
+=>q45
+Je ne sais pas ce qu'ils veulent, mais ça a quelque chose à voir avec couper les seules pistes qui relient Nord et Sud Underrail, car c'est là que se trouve le blocus. Les trains Underrail Express vont toujours à Core City, mais je ne sais pas quelle est la situation actuelle et si c'est une bonne idée d'y aller en train maintenant.<end>
+
+=>q46_original
+I've talked to some train operators who stopped by SGS, and they told me they haven't had any trouble. Still...<end>
+
+=>q46
+J'ai parlé à des opérateurs de trains qui se sont arrêtés par SGS, et ils m'ont dit qu'ils n'avaient pas eu de problème. Toujours...<end>
+
+=>a47_original
+What do you think about the Faceless retreat from Core City?<end>
+
+=>a47
+Que pensez-vous de la retraite Faceless de Core City ?<end>
+
+=>q48_original
+The Underrail Express traffic is still not at full capacity toward North Underrail, but I reckon that won't last for long. Other than that, what can I say, it's great we're all still alive.<end>
+
+=>q48
+Le trafic Underrail Express n'est toujours pas à pleine capacité vers North Underrail, mais je pense que cela ne durera pas longtemps. À part ça, que puis-je dire, c'est génial qu'on soit toujours en vie.<end>
+
+=>q49_original
+I just hope the Faceless do not return. Hope they didn't leave something important behind. ::She laughs.::<end>
+
+=>q49
+J'espère juste que le Faceless ne reviendra pas. J'espère qu'ils n'ont pas laissé quelque chose d'important. ::Elle rit.::<end>
+
+=>a50_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a50
+Que savez-vous de la mort de Patrick Pierce ?<end>
+
+=>q51_original
+::She shakes her head.:: Don't remind me of that, please. I really liked Pat, as have most of us here, and whenever I'd hear Big Bret complaining about those hopper pen heaters Pat installed, I get proper *mad*. Who gives a rathound's rear about your stinkin' heaters?<end>
+
+=>q51
+::Elle secoue la tête.:: Ne me le rappelle pas. J'ai vraiment aimé Pat, comme la plupart d'entre nous ici, et chaque fois que j'entendais Big Bret se plaindre de ces chauffe-stylos à trémies que Pat a installés, j'ai le bon *mad*. Qui donne l'arrière d'un raton laveur à propos de tes radiers puants ?<end>
+
+=>q52_original
+Quinton, being his pal, usually supports him. They get on my nerves, both of them. Let the man rest in peace, what the hell?
+
+Sorry, I'm raging a bit.<end>
+
+=>q52
+Quinton, étant son ami, le soutient habituellement. Ils m'énervent tous les deux. Que l'homme repose en paix, qu'est-ce qui se passe ?
+
+Désolé, je fais un peu rage.<end>
+
+=>a53_original
+Can you tell me what he was like as a person?<end>
+
+=>a53
+Pouvez-vous me dire comment il était en tant que personne ?<end>
+
+=>q54_original
+If I ever say anything bad about him, please punch me right in the kisser. I think that should explain it all.<end>
+
+=>q54
+Si jamais je dis quelque chose de mauvais à son sujet, s'il vous plaît frappez-moi dans le baiser. Ça devrait tout expliquer.<end>
+
+=>a55_original
+No thanks, I'll manage.<end>
+
+=>a55
+Non merci, je m'en occupe.<end>
+
+=>a56_original
+I gotta go.<end>
+
+=>a56
+Je dois y aller.<end>
+
+=>a57_original
+Decent.<end>
+
+=>a57
+C'est décent.<end>
+
+=>a58_original
+Got some stomach problems since I woke up, but I'll be better as soon as I take a nice walk.<end>
+
+=>a58
+J'ai quelques problèmes d'estomac depuis que je me suis réveillé, mais je serai mieux dès que je prendrai une belle promenade.<end>
+
+=>q59_original
+You... do that.<end>
+
+=>q59
+Fais ça.<end>
+
+=>a60_original
+Essie!<end>
+
+=>a60
+Essie !<end>
+
+=>q61_original
+::She laughs.:: Yes, that's my name. How's it going?<end>
+
+=>q61
+::Elle rit.:: Oui, c'est mon nom. Comment ça va ?<end>
+
+=>a62_original
+How's it going?<end>
+
+=>a62
+Comment ça va ?<end>
+
+=>q63_original
+Not too shabby, not too shabby. You?<end>
+
+=>q63
+Pas trop shabby, pas trop shabby. Toi ?<end>
+
+=>q64_original
+I went to see Lora just a minute ago. I know her, she's a fighter. She's gonna make it.<end>
+
+=>q64
+Je suis allé voir Lora il y a une minute. Je la connais, c'est une combattante. Elle va y arriver.<end>
+
+=>q65_original
+Did you hear? Bret was murdered by Lenox! Apparently he got drunk and attacked him because he thought Bret *killed* Patrick. What a tragedy.<end>
+
+=>q65
+Vous avez entendu ? Bret a été assassiné par Lenox ! Apparemment, il s'est saoulé et l'a attaqué parce qu'il pensait que Bret avait tué. Patrick. Quelle tragédie.<end>
+
+=>q66_original
+Be careful if you're heading out. I heard the Faceless are about. 
+
+Anyway, do you need directions?<end>
+
+=>q66
+Soyez prudent si vous partez. J'ai entendu dire que le Faceless était à propos.
+
+Quoi qu'il en soit, avez-vous besoin de directions ?<end>
+
+=>q67_original
+Hi, $(context.player.Name). Heading out somewhere? Do you need directions?<end>
+
+=>q67
+Bonjour, $(context.player.Name). Vous partez quelque part ? Vous avez besoin d'itinéraires ?<end>
+

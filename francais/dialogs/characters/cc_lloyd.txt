@@ -1,0 +1,322 @@
+=>q1_original
+Sorry, $(#sir/ma'am), but I can't let you in.<end>
+
+=>q1
+Désolé, $(#monsieur/madame), mais je ne peux pas vous laisser entrer.<end>
+
+=>q2_original
+::The soldier quirks an eyebrow as he examines your security pass.:: 
+
+So... your name is Bob then? That's a strange name for a woman.<end>
+
+=>q2
+::Le soldat a un sourcil alors qu'il examine votre laissez-passer de sécurité.::
+
+Alors... ton nom est Bob ? C'est un nom étrange pour une femme.<end>
+
+=>a3_original
+::[Persuade]:: Oops, it seems I accidentally swapped my security pass with Bob.<end>
+
+=>a3
+::[Persuader]:: Oups, il semble que j'ai accidentellement échangé ma carte de sécurité avec Bob.<end>
+
+=>q4_original
+And what would your name be?<end>
+
+=>q4
+Et quel serait votre nom ?<end>
+
+=>a5_original
+$(context.player.Name).<end>
+
+=>a5
+$(context.player.Name).<end>
+
+=>q6_original
+Nice try, but no one by that name works here. You're coming with me. ::He aims his weapon at you.::<end>
+
+=>q6
+Bien essayé, mais personne de ce nom ne fonctionne ici. Tu viens avec moi. ::Il vise son arme contre vous.::<end>
+
+=>a7_original
+Wait, I am one of you guys. Corporal $(context.player.Name). Stationed at Fort Apogee.<end>
+
+=>a7
+Attendez, je suis l'un d'entre vous. Caporal $(context.player.Name). Stationné au Fort Apogee.<end>
+
+=>q8_original
+Shut up and put your hands in the air, zoner!<end>
+
+=>q8
+Taisez-vous et mettez vos mains en l'air, zoneur !<end>
+
+=>a9_original
+::Resist arrest.::<end>
+
+=>a9
+::Résister à l'arrestation.::<end>
+
+=>a10_original
+Kate Johnson.<end>
+
+=>a10
+Kate Johnson.<end>
+
+=>a11_original
+Tina Miller.<end>
+
+=>a11
+Tina Miller.<end>
+
+=>a12_original
+Doris Davis.<end>
+
+=>a12
+Doris Davis.<end>
+
+=>a13_original
+Mary Scott.<end>
+
+=>a13
+C'est Mary Scott.<end>
+
+=>a14_original
+Never mind. I think I got the wrong building. Bye.<end>
+
+=>a14
+Laisse tomber. Je crois que je me suis trompé de bâtiment. Au revoir.<end>
+
+=>q15_original
+I don't think so. You're coming with me. ::He aims his weapon at you.::<end>
+
+=>q15
+Je ne crois pas. Tu viens avec moi. ::Il vise son arme contre vous.::<end>
+
+=>a16_original
+::Fight!::<end>
+
+=>a16
+::Lutte!::<end>
+
+=>q17_original
+Nice try, but you're coming with me. ::He aims his weapon at you.::<end>
+
+=>q17
+Bien essayé, mais tu viens avec moi. ::Il vise son arme contre vous.::<end>
+
+=>a18_original
+It's short for Kate.<end>
+
+=>a18
+C'est court pour Kate.<end>
+
+=>q19_original
+You're one dumb zoner, aren't you? You're coming with me. ::He aims his weapon at you.::<end>
+
+=>q19
+Tu n'es qu'un crétin, n'est-ce pas ? Tu viens avec moi. ::Il vise son arme contre vous.::<end>
+
+=>a20_original
+I think I got the wrong building. Excuse me.<end>
+
+=>a20
+Je crois que je me suis trompé de bâtiment. Excusez-moi.<end>
+
+=>a21_original
+::Attack.::<end>
+
+=>a21
+::Attaque.::<end>
+
+=>q22_original
+You're late again, Bob. <end>
+
+=>q22
+Tu es encore en retard, Bob. <end>
+
+=>q23_original
+And since when are you a marine?<end>
+
+=>q23
+Et depuis quand es-tu marine ?<end>
+
+=>a24_original
+::[Persuade]:: I had a bad day, man, just let me go inside before the commander notices.<end>
+
+=>a24
+::[Persuader]:: J'ai eu une mauvaise journée, mec, laisse-moi entrer avant que le commandant ne remarque.<end>
+
+=>q25_original
+Oh, he noticed already. He ordered that you report to him immediately. ::He speaks into his comm device and after a few moments the doors unlock.::<end>
+
+=>q25
+Oh, il a déjà remarqué. Il vous a ordonné de vous présenter immédiatement. ::Il parle dans son appareil de communication et après quelques instants les portes déverrouillent.::<end>
+
+=>q26_original
+Good luck, man.<end>
+
+=>q26
+Bonne chance.<end>
+
+=>q27_original
+::He looks at you suspiciously.:: You are not Bob. You're coming with me! ::He aims his weapon at you.::<end>
+
+=>q27
+::Il te regarde de façon suspecte.:: Vous n'êtes pas Bob. Tu viens avec moi ! ::Il vise son arme contre vous.::<end>
+
+=>a28_original
+This... is temporary. I left my armor inside.<end>
+
+=>a28
+C'est... temporaire. J'ai laissé mon armure à l'intérieur.<end>
+
+=>q29_original
+No you didn't...<end>
+
+=>q29
+Non, vous n'avez pas...<end>
+
+=>q30_original
+And why aren't you in your uniform?<end>
+
+=>q30
+Et pourquoi tu n'es pas en uniforme ?<end>
+
+=>a31_original
+I left it inside.<end>
+
+=>a31
+Je l'ai laissé à l'intérieur.<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+::The soldier quirks and eyebrow as he examines your security pass.:: Say, Bob... There's something different about you today.<end>
+
+=>q33
+::Le soldat court-circuite et sourcil alors qu'il examine votre carte de sécurité.:: Dites, Bob... Tu as quelque chose de différent aujourd'hui.<end>
+
+=>q34_original
+Can't quite put my finger on it. You're just looking a bit...<end>
+
+=>q34
+Je ne peux pas mettre mon doigt dessus. Vous avez juste l'air...<end>
+
+=>q35_original
+...pale today.<end>
+
+=>q35
+...pause aujourd'hui.<end>
+
+=>q36_original
+::He aims his weapon at you.:: Alright, buster, the jig is up.<end>
+
+=>q36
+::Il vise son arme contre vous.:: C'est bon, mon pote.<end>
+
+=>q37_original
+Move along, citizen. This is a restricted area.<end>
+
+=>q37
+Bougez, citoyen. C'est une zone restreinte.<end>
+
+=>a38_original
+Aren't you going to salute me, soldier?<end>
+
+=>a38
+Tu ne vas pas me saluer, soldat ?<end>
+
+=>q39_original
+Salute you? Who are you?<end>
+
+=>q39
+Vous saluer ? Qui êtes-vous ?<end>
+
+=>a40_original
+I am Corporal $(context.player.Name) and I need to get inside.<end>
+
+=>a40
+Je suis le caporal $(context.player.Name) et je dois entrer.<end>
+
+=>q41_original
+Yeah? On whose orders?<end>
+
+=>q41
+Oui ? Sur les ordres de qui ?<end>
+
+=>a42_original
+Colonel Cathcart himself sent me here to perform an inspection.<end>
+
+=>a42
+Le colonel Cathcart m'a envoyé faire une inspection.<end>
+
+=>q43_original
+Well, I wasn't informed anyone by that name was supposed to arrive. So I can't let you in. Orders.<end>
+
+=>q43
+Je n'ai pas été informé que ce nom devait arriver. Je ne peux pas te laisser entrer. Ordres.<end>
+
+=>a44_original
+But I am a corporal. I have a higher rank.<end>
+
+=>a44
+Mais je suis caporal. J'ai un grade supérieur.<end>
+
+=>q45_original
+Listen, $(#sir/ma'am), I am going to talk slower now: I... cannot... let... you... in. $(#Sir/Ma'am).<end>
+
+=>q45
+Ecoute, $(#monsieur/madame), je vais parler plus lentement maintenant: je... ne peux pas... laisser... toi... entrer. $(#Monsieur/Madame).<end>
+
+=>a46_original
+May I speak to your commanding officer?<end>
+
+=>a46
+Puis-je parler à votre commandant ?<end>
+
+=>q47_original
+To Captain Wilkins?<end>
+
+=>q47
+Pour le capitaine Wilkins ?<end>
+
+=>a48_original
+Yes.<end>
+
+=>a48
+Oui.<end>
+
+=>q49_original
+No.<end>
+
+=>q49
+Non.<end>
+
+=>a50_original
+Very good. Carry on, soldier.<end>
+
+=>a50
+Très bien. Continuez, soldat.<end>
+
+=>q51_original
+I will, $(#sir/ma'am). Um... ::He salutes you.::<end>
+
+=>q51
+Oui, $(#monsieur/madame). Oh... ::Il vous salue.::<end>
+
+=>a52_original
+::Leave.::<end>
+
+=>a52
+::Partir.::<end>
+
+=>q53_original
+Move along, citizen. This is a restricted area.<end>
+
+=>q53
+Bougez, citoyen. C'est une zone restreinte.<end>
+

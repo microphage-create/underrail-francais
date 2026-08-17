@@ -1,0 +1,96 @@
+=>q1_original
+::Welcome to *Hopperdrome*, the place for all your hopper racing needs!
+
+*Third South Underrail Hop-off - final day events*:
+        - Pentapus Tom's scrap juggling act
+        - Brew drinking contest
+        - *Hop-off Final - 10-lap race*
+        - Musical program: The Traveling Septaphonists, Metal Fatigue, 10011001
+*Hoppers*:
+        $(interfacing_xpbl_hopperRacing_hopper1info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper2info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper3info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper4info)
+        ------------------------------------------------------------------
+*Wager types*:
+        On the nose - back the hopper to finish first only
+        At the tail - back the hopper to finish second only
+        Slow show - back the hopper to finish third only
+        In the coins - back the hopper to finish either first or second; first place means full payment, second place is reduced payment::<end>
+
+=>q1
+::Bienvenue à *Hopperdrome*, l'endroit pour tous vos besoins de course de trémie!
+
+*Troisième Sud Underrail Hop-off - derniers événements du jour*:
+- Pentapus L'acte de jonglage de Tom
+- Concours de bière
+- *Hop-off Final - Course de 10 tours*
+- Programme musical : Septaphonistes itinérants, Fatigue des métaux, 10011001
+*Hoppers*:
+$(interface xpbl hopperRacing hopper1info)
+---------------------------------------------------------------------------------
+$(interface xpbl hopperRacing hopper2info)
+---------------------------------------------------------------------------------
+$(interface xpbl hopperRacing hopper3info)
+---------------------------------------------------------------------------------
+$(interface xpbl hopperRacing hopper4info)
+---------------------------------------------------------------------------------
+* Types d'attente*:
+Sur le nez - dos la trémie pour terminer en premier
+À la queue - derrière la trémie pour finir deuxième seulement
+Lent show - dos à la trémie pour terminer troisième seulement
+Dans les pièces - le dos de la trémie pour finir soit premier ou deuxième; la première place signifie le paiement intégral, la deuxième place est le paiement réduit::<end>
+
+=>a2_original
+::Flip the leaflet.::<end>
+
+=>a2
+::Flipez la notice.::<end>
+
+=>q3_original
+::*How does fixed-odds betting work*: Here at the Hopperdrome we use decimal odds. This type of odds takes into account that the bettor must first part with their part of the stake to make a bet. Therefore, the decimal odds of an outcome are equivalent to one plus the decimal value of the fractional odds.
+Example: Betting at 1.01 odds means that for every 100 charons the bettor earns one charon, or 1% of the wager.
+
+Below is a list of odds for each racing hopper, ordered by wager types (on the nose, at the tail, slow show and in the coins, respectively).
+
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper1quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper2quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper3quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper4quotas)
+-------------------------------------------------::<end>
+
+=>q3
+::*Comment fonctionnent les paris fixes ?*: Ici au Hopperdrome nous utilisons les probabilités décimales. Ce type de cotes tient compte du fait que le parieur doit d'abord faire partie de la mise pour faire un pari. Par conséquent, les cotes décimales d'un résultat sont équivalentes à une plus la valeur décimale des cotes fractionnelles.
+Exemple : Parier à 1,01 cote signifie que pour 100 charons, le parieur gagne un charon, ou 1% du pari.
+
+Voici une liste de cotes pour chaque trémie de course, commandée par types de paris (au nez, à la queue, lent spectacle et dans les pièces, respectivement).
+
+-------------------------------------------------
+$(interface xpbl hopperRacing hopper1quotas)
+-------------------------------------------------
+$(interface xpbl hopperRacing hopper2quotas)
+-------------------------------------------------
+$(interface xpbl hopperRacing hopper3quotas)
+-------------------------------------------------
+$(interface xpbl hopperRacing hopper4quotas)
+-------------------------------------------------::<end>
+
+=>a4_original
+::Flip the leaflet.::<end>
+
+=>a4
+::Flipez la notice.::<end>
+
+=>a5_original
+::Put it away.::<end>
+
+=>a5
+::Range ça.::<end>
+

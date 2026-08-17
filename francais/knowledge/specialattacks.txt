@@ -1,0 +1,276 @@
+::AutoAttack
+Attaque la cible avec l'arme équipée.
+
+::AttackGround
+Tire sur le sol ciblé avec l'arme équipée.
+
+::AutoAttack-old
+Commence à attaquer automatiquement la cible avec l'arme équipée.
+
+::AimedShot
+Tir visé monotarget à distance : crit garanti.
+
+::Snipe
+Attaque spéciale arbalète ou sniper : {0}% dégâts (scale avec la furtivité). Uniquement en furtif. Ne peut pas crit.
+
+::KCS
+Dégâts d'arme normaux + plaie saignante ({0}% dégâts, scale avec Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
+
+Pistolet, arbalète ou mitraillette uniquement.
+
+::KCS-XPBL
+Dégâts d'arme normaux + plaie saignante ({0}% dégâts, scale avec Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
+
+Pistolet, arbalète, mitraillette ou fusil à pompe uniquement.
+
+::KCS-Old
+Dégâts d'arme normaux + plaie saignante ({0}% dégâts sur {1} s) et réduit la vitesse de la cible jusqu'à {2}%.
+
+Pistolet, arbalète ou mitraillette. Cibles vivantes seulement (avec genoux).
+
+::Burst-old
+Tire rapidement cinq balles à précision réduite. Peut rater la cible principale et toucher d'autres personnages sur la ligne de tir. La chance augmente avec la distance.
+
+::Burst
+Tire rapidement {0} balles à précision réduite. Peut rater la cible principale et toucher d'autres personnages sur la ligne de tir. La chance augmente avec la distance. Attaque spéciale inconditionnelle.
+
+::ShotgunBurst
+Tire rapidement {0} cartouches à précision réduite. Attaque spéciale inconditionnelle.
+
+::PistolBurst
+Tire rapidement {0} balles à précision réduite. Attaque spéciale inconditionnelle.
+
+::RapidFire
+Tire rapidement {0} balles à précision réduite.
+
+::BurrowerPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison de burrower ({0} dégâts par tour, jusqu'à {1} tours). Stack {2} fois.
+
+::BurrowerPoisonItemEffect_Cap
+Applique {0} de poison de burrower sur une arme de mêlée adaptée : {1} dégâts par tour, jusqu'à {2} tours. Stack {3} fois.
+
+::ShootPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours.
+
+::ShootPoisonBoltStackable
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours. Stack {3} fois.
+
+::CaveEarPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison d'oreille de cave (+{0}% dégâts biologiques subis, -{1} Perception, jusqu'à {2}).
+
+::CaveEarPoisonItemEffect_Cap
+Applique {0} de poison d'oreille de cave sur une arme de mêlée adaptée : +{1}% dégâts biologiques subis, -{2} Perception, jusqu'à {3}.
+
+::ShootCaveEarPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison (+{0}% dégâts biologiques subis, -{1} Perception). Jusqu'à {2}.
+
+::SpiritPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison d'esprit ({0} dégâts par tour pendant {1}, -{2}% sang-froid). S'il n'est pas retiré avant expiration, invoque un doppelgänger psionique de la victime si humanoïde.
+
+::SpiritPoisonItemEffect_Cap
+Applique {0} de poison d'esprit sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}, -{3}% sang-froid. S'il n'est pas retiré avant expiration, invoque un doppelgänger psionique de la victime si humanoïde.
+
+::ShootSpiritPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}, -{2}% sang-froid). S'il n'est pas retiré avant expiration, invoque un doppelgänger psionique de la victime si humanoïde.
+
+::BlackDragonPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison dragon noir (inhibition psionique : pas d'invocation psi ni de regen psi pendant {0}).
+
+::BlackDragonPoisonItemEffect_Cap
+Applique {0} de poison dragon noir sur une arme de mêlée adaptée : inhibition psionique (pas d'invocation psi ni de regen psi pendant {1}).
+
+::ShootBlackDragonPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison (inhibition psionique : pas d'invocation psi ni de regen psi). Durée {0}.
+
+::BlindingPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison aveuglant ({0} dégâts par tour jusqu'à {1}, -{2} Perception). Stack {3} fois.
+
+::BlindingPoisonItemEffect_Cap
+Applique {0} de poison aveuglant sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, -{3} Perception. Stack {4} fois.
+
+::ShootBlindingPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, -{2} Perception). Stack {3} fois.
+
+::LeperPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison lépreux ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
+
+::LeperPoisonItemEffect_Cap
+Applique {0} de poison lépreux sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, +{3}% dégâts mécaniques subis. Stack {4} fois.
+
+::ShootLeperPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
+
+::HeartbreakPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison heartbreak ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+
+::HeartbreakPoisonItemEffect_Cap
+Applique {0} de poison heartbreak sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. Stack {3} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+
+::ShootHeartbreakPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+
+::CrawlerPoisonItemEffect_Applied
+Si l'attaque traverse l'armure : poison de crawler ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, stun pendant {2}.
+
+::CrawlerPoisonItemEffect_Cap
+Applique {0} de poison de crawler sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. S'il n'est pas retiré avant expiration, stun pendant {3}.
+
+::ShootCrawlerPoisonBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, stun pendant {2}.
+
+::ShootTranquilizingBolt
+Tire ce carreau d'arbalète : {0}% des dégâts de carreau, tente d'incapaciter la cible jusqu'à {1} tours.
+
+::ShootPutrefyingBolt
+Tire un carreau putréfiant expérimental qui devrait décomposer lentement les muscles de la cible.
+
+::ShootShockBolt
+Tire ce carreau : dégâts de carreau normaux + {0}. Sauf résistance totale, stun pendant {1} et l'électricité saute aux cibles adjacentes ({2} dégâts). Organiques et mécaniques.
+
+::ShootIncendiaryBolt
+Tire ce carreau d'arbalète : brûle tout sur sa trajectoire ({0} dégâts). Si la cible est touchée : dégâts de carreau normaux + {1}, {2}% de chances de s'enflammer ({3} = total des dégâts de chaleur subis de nouveau).
+
+Enflammer une cible vivante la met en panique extrême.
+
+::ShootAcidBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}.
+
+::ShootCorrosiveAcidBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, debuff Corrodé (-{1}% toutes résistances et seuils pendant {2}). Stack {3} fois.
+
+::ShootRustingAcidBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, debuff Rouille (-{1} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {2}). Stack {3} fois. +{4}% dégâts d'acide contre véhicules et machines.
+
+::ShootSerratedBolt
+Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie saignante ({0}% des dégâts d'origine sur {1}). Plus faible contre l'armure : +{2}% du seuil mécanique de la cible.
+
+::ShootBroadheadBolt
+Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie saignante ({0}% des dégâts d'origine sur {1}). Plus faible contre l'armure : +{2}% du seuil mécanique de la cible.
+
+::ShootVoidBolt
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, applique {2} stacks de Pourriture du vide ({1} dégâts d'énergie par stack). Stack {2} fois.
+
+::Execute
+Attaque spéciale à courte portée au pistolet : {0}% dégâts d'arme contre cibles stun ou incapacité.
+
+::CutThroat
+Attaque furtive puissante au couteau dans le dos : ignore résistances et boucliers, plaie saignante ({0}% dégâts sur {1}) et stun pour la même durée.
+
+Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+
+::Sap
+Attaque spéciale à la barre à mine dans le dos : ignore résistances et boucliers, incapacité jusqu'à {0}.
+
+Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+
+::ChuckAttack
+Roundhouse kick puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
+
+::Pummel
+Attaque spéciale à la masse : {0}% dégâts d'arme, ne ignore pas le seuil de dégâts, met les cibles vivantes hors d'équilibre pendant {1} si elle touche.
+
+Hors d'équilibre : esquive et évitement à zéro.
+
+::DirtyKick-Old
+Attaque spéciale à mains nues : dégâts normaux + stun cibles vivantes pendant {0}. Homme humain : stun {1} à la place.
+
+::DirtyKick
+Attaque spéciale à mains nues : {0} dégâts + stun cibles vivantes pendant {1}. Homme humanoïde : stun {2} à la place.
+
+Peu importe l'arme équipée.
+
+::ShieldBash
+Attaque spéciale au bouclier anti-émeute : {0} dégâts si touche + étourdissement pendant {1}.
+
+::CripplingStrike
+Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Force si ça traverse l'armure. Durée {2}. Stack {3} fois.
+
+Cibles vivantes uniquement.
+
+::HeavyPunch
+Attaque inconditionnelle à mains nues : {0}% dégâts.
+
+::ExposeWeakness
+Attaque de mêlée spéciale : dégâts normaux et, si elle touche, -{0}% résistance et seuil mécaniques pendant {1}. Effet divisé par deux sur cibles non vivantes.
+
+::Eviscerate
+Attaque spéciale au couteau : retire toutes les plaies saignantes et inflige +{0}% dégâts par plaie retirée.
+
+::PointShot
+Tir rapide pistolet, mitraillette ou fusil d'assaut : {0}% du coût PA standard, précision réduite.
+
+::SuperSlam
+Attaque à la masse : dégâts normaux + {0} dégâts mécaniques ({1}% de tes PV max).
+
+::CookedShot
+Attaque spéciale au pistolet à blob chimique : gros blob sur la zone, dégâts d'arme normaux dans un petit rayon.
+
+::CookedShotBonusDamage
+Attaque spéciale au pistolet à blob chimique : gros blob sur la zone, {0}% des dégâts d'arme normaux dans un petit rayon.
+
+::DoubleShot
+Attaque spéciale inconditionnelle : tire les deux cartouches d'un coup sur la cible.
+
+::Impale
+Attaque spéciale à la lance : crit auto si elle touche.
+
+::Flurry
+Lance {0} attaques d'épée consécutives. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+
+Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
+
+::Flurry-Old
+Lance {0} attaques d'épée consécutives à précision réduite. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+
+Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
+
+::Decapitate
+Attaque spéciale à l'épée : {0}% des dégâts d'arme. Kill instantané d'une cible vivante si plus de {1}% des PV restants (tête exposée requise).
+
+::DecapitateCritModIncreased
+Taux de crit de cette attaque +{0}%.
+
+::DecapitateCritModDecreased
+Taux de crit de cette attaque -{0}%.
+
+::Riposte
+Attaque d'épée spéciale à précision accrue, dégâts normaux, 0 PA. Disponible après avoir bloqué des dégâts en tenant une épée.
+
+::RiposteWithCrit
+Attaque d'épée spéciale à précision accrue, dégâts normaux, +{0}% taux de crit, 0 PA. Disponible après avoir bloqué des dégâts en tenant une épée.
+
+::SoundGunAmplifiedWave
+Attaque spéciale inconditionnelle : +{0}% dégâts sur la cible principale, mais seulement la moitié des dégâts de passage.
+
+::SoundGunDisruptiveWave
+Attaque spéciale inconditionnelle : -{0}% dégâts sur la cible principale et les cibles de passage, mais étourdit pendant {1}.
+
+::SoundGunResonatingWave
+Attaque spéciale inconditionnelle : double dégâts sur les cibles de passage, moitié des dégâts sur la cible principale.
+
+::Sweep
+Attaque spéciale à la lance : {0}% des dégâts d'arme à tous les ennemis adjacents, hors d'équilibre pendant {1} si touchés (cibles vivantes).
+
+::Sweep_generic
+Attaque de mêlée spéciale : {0}% des dégâts d'arme à tous les ennemis adjacents, hors d'équilibre pendant {1} si touchés (cibles vivantes).
+
+::PiercingShot
+Attaque spéciale qui tente aussi d'infliger les dégâts d'arme normaux aux cibles qu'elle traverse.
+
+::Cleave
+Attaque de mêlée spéciale : {0}% des dégâts d'arme.
+
+::QuickDraw
+Attaque spéciale : dégâts normaux. Coût PA -{0}% par point d'initiative.
+
+::Chainsaw
+Attaque spéciale au Chainsword : {0}% des dégâts d'arme jusqu'à {1} fois, chaque fois {2} énergie et {3} PA. Ignore {4}% de la résistance et du seuil mécaniques de la cible.
+
+::StunningPulse
+Attaque spéciale : coûte {0} énergie, seulement {1}% des dégâts d'arme normaux, mais stun les cibles vivantes 1 tour si elle fait des dégâts.
+
+::SoldierExoskeletonWristbladeStab
+Attaque spéciale à la lame de poignet intégrée : {0} dégâts mécaniques (scale avec Mêlée et Force), {1} chances de plaie saignante ({2} des dégâts initiaux sur {3} tours). Consomme {3} énergie.
+
+::Branding
+Attaque spéciale plus dure à placer : {0} dégâts et marque les humanoïdes (démoralisés, -{1} skills de combat pendant {2}).

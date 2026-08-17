@@ -1,0 +1,756 @@
+=>q1_original
+::Two robed women stand in the middle of a small cavern, facing each other. Their gleaming eyes become focused on you the moment you reveal your presence. The darkness of the cave as well as that of their hoods make it difficult for you to discern any facial features of these two women, but the details are not your concern right now - their hostile poses are.::<end>
+
+=>q1
+::Deux femmes volées se tiennent au milieu d'une petite caverne, face à face. Leurs yeux brillants se concentrent sur vous au moment où vous révèlez votre présence. L'obscurité de la grotte ainsi que celle de leurs capuches rendent difficile pour vous de discerner toutes les caractéristiques faciales de ces deux femmes, mais les détails ne sont pas votre préoccupation en ce moment - leurs poses hostiles sont.::<end>
+
+=>q2_original
+::One of the two women speaks with a frigid, unwelcoming voice.::
+
+Identify yourself, visitor. Who are you and what is your purpose here?<end>
+
+=>q2
+::L'une des deux femmes parle avec une voix frigide et peu accueillante.::
+
+Identifiez-vous. Qui êtes-vous et quel est votre but ici ?<end>
+
+=>a3_original
+I'm $(context.player.Name) and I mean you no harm.<end>
+
+=>a3
+Je suis $(context.player.Name) et je ne vous veux aucun mal.<end>
+
+=>q4_original
+::The two women exchange looks, but not words. A short glance is all it takes for them to know what the other one is thinking, it seems.::
+
+$(context.player.Name)... I am Adira, and this is my sister Beatrice.<end>
+
+=>q4
+::Les deux femmes échangent des regards, mais pas des mots. Un court coup d'œil est tout ce qu'il leur faut pour savoir ce que l'autre pense, il semble.::
+
+$(context.player.Name)... je suis Adira, et voici ma sœur Béatrice.<end>
+
+=>q5_original
+Your purpose here, $(context.player.Name)?<end>
+
+=>q5
+Votre but ici, $(context.player.Name) ?<end>
+
+=>a6_original
+I heard about the monster - Behemoth.<end>
+
+=>a6
+J'ai entendu parler du monstre Behemoth.<end>
+
+=>q7_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+Many came here for this very reason. I'm sure you walked past the remains of some on your way in.<end>
+
+=>q7
+::Les deux femmes échangent l'air encore une fois. Cette fois, leur communication sans mots a pris un peu plus de temps qu'auparavant. Pourtant, vous avez finalement votre réponse.::
+
+Beaucoup sont venus ici pour cette raison. Je suis sûr que vous avez passé les restes de certains en venant.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+What can you tell me about the Forsaken Behemoth?<end>
+
+=>a9
+Que pouvez-vous me dire sur le Behemoth abandonné ?<end>
+
+=>q10_original
+::She smiles.:: You've gotten this far, so I think you deserve the truth. The Forsaken Behemoth doesn't exist. All the things you've been told are, in fact, false.<end>
+
+=>q10
+::Elle sourit.:: Tu es allé jusqu'ici, donc je pense que tu mérites la vérité. Le Behemoth abandonné n'existe pas. Tout ce qu'on vous a dit est, en fait, faux.<end>
+
+=>q11_original
+Everything you heard is a product of my sister's skillful manipulation. If one has the ability to control fire, moving air to create frightening sounds is not an issue. Especially when the entrance to the cave helps it resonate and reach the ears of superstitious ferrymen.<end>
+
+=>q11
+Tout ce que vous avez entendu est le résultat de la manipulation habile de ma sœur. Si on a la capacité de contrôler le feu, déplacer l'air pour créer des sons effrayants n'est pas un problème. Surtout quand l'entrée de la grotte l'aide à résonner et atteindre les oreilles des ferrymen superstitieuses.<end>
+
+=>a12_original
+I guess your ruse worked. You convinced a lot of people that this island is the home of a terrifying monster.<end>
+
+=>a12
+Votre ruse a dû marcher. Vous avez convaincu beaucoup de gens que cette île abrite un monstre terrifiant.<end>
+
+=>q13_original
+Ironically, our whole plan also attracted a fair number of crazy monster hunters - or at least what we suspect they were, since they came well armed.<end>
+
+=>q13
+Ironiquement, tout notre plan a aussi attiré un bon nombre de chasseurs de monstres fous - ou du moins ce que nous soupçonnons qu'ils étaient, puisqu'ils étaient bien armés.<end>
+
+=>q14_original
+And some of them were really rude. They still haven't left the island to this day! It's impolite to overstay your welcome, I say. ::She flashes a malicious smile.::<end>
+
+=>q14
+Et certains étaient vraiment impolis. Ils n'ont toujours pas quitté l'île jusqu'à ce jour ! C'est impoli de surpasser votre accueil, je dis. ::Elle a un sourire malveillant.::<end>
+
+=>a15_original
+So basically, there's nothing interesting on this island.<end>
+
+=>a15
+Donc en gros, il n'y a rien d'intéressant sur cette île.<end>
+
+=>q16_original
+No... Unless you think hoppers and mindshrooms are interesting.<end>
+
+=>q16
+Non... A moins que vous ne pensiez que les trémies et les toilettes sont intéressantes.<end>
+
+=>q17_original
+Nothing interesting at all?<end>
+
+=>q17
+Rien d'intéressant ?<end>
+
+=>q18_original
+The visitor meant other than the two of us...<end>
+
+=>q18
+Le visiteur voulait dire autre chose que nous deux...<end>
+
+=>q19_original
+I'm sure of that...<end>
+
+=>q19
+J'en suis sûr...<end>
+
+=>a20_original
+I had other questions...<end>
+
+=>a20
+J'avais d'autres questions...<end>
+
+=>q21_original
+::They both nod.::<end>
+
+=>q21
+::Ils hochent la tête.::<end>
+
+=>a22_original
+But why are you doing all this?<end>
+
+=>a22
+Mais pourquoi fais-tu tout ça ?<end>
+
+=>q23_original
+We don't like visitors. I think that's fairly obvious.<end>
+
+=>q23
+On n'aime pas les visiteurs. Je pense que c'est assez évident.<end>
+
+=>a24_original
+I see you really don't want visitors here.<end>
+
+=>a24
+Je vois que vous ne voulez pas de visiteurs ici.<end>
+
+=>a25_original
+I heard about a creature called Forsaken Behemoth living on this island. Do you know anything about that?<end>
+
+=>a25
+J'ai entendu parler d'une créature appelée Forsaken Behemoth vivant sur cette île. Tu sais quelque chose ?<end>
+
+=>a26_original
+How did you two end up here, if I may ask?<end>
+
+=>a26
+Comment vous êtes-vous retrouvés ici ?<end>
+
+=>q27_original
+Allow us to tell you a story...<end>
+
+=>q27
+Laissez-nous vous raconter une histoire...<end>
+
+=>a28_original
+Alright. You may start.<end>
+
+=>a28
+Très bien. Vous pouvez commencer.<end>
+
+=>q29_original
+::You manage catch a little smile on Adira's face, vanishing as quickly as it appeared. Even if it was there only for a brief moment, you could tell that hiding behind that smile was not joy but, in fact, sadness.::<end>
+
+=>q29
+::Vous réussissez à attraper un petit sourire sur le visage d'Adira, en disparaissant aussi vite qu'il est apparu. Même si elle n'était là que pour un bref moment, on pouvait dire que se cacher derrière ce sourire n'était pas de la joie mais, en fait, de la tristesse.::<end>
+
+=>q30_original
+A young girl was born and raised in a small station far away from here. The girl had a twin sister whom she loved more than anything in this world. The two were inseparable.<end>
+
+=>q30
+Une jeune fille est née et a grandi dans une petite station loin d'ici. La fille avait une sœur jumelle qu'elle aimait plus que tout au monde. Les deux étaient inséparables.<end>
+
+=>q31_original
+The sisters were inseparable - as most twins tend to be. As unfortunate as it is, several tragedies made the bond between the sisters even stronger than before. Their father, a good and caring man, died from the hands of vile raiders that had constantly circled the station like packs of hungry rathounds. Their mother, a gorgeous woman and equally - if not more - caring than the father died from a broken heart.<end>
+
+=>q31
+Les sœurs étaient inséparables - comme la plupart des jumeaux tendent à l'être. Aussi malheureux qu'il soit, plusieurs tragédies ont rendu le lien entre les sœurs encore plus fort qu'auparavant. Leur père, un homme bon et bienveillant, est mort des mains de vicaires qui avaient constamment entouré la station comme des paquets de râteaux affamés. Leur mère, une femme magnifique et aussi - sinon plus - attentionnée que le père est mort d'un cœur brisé.<end>
+
+=>q32_original
+The little girl and her sister were left living with their grandmother, an old, disabled woman who could barely take care of herself, let alone feed and raise two young girls.<end>
+
+=>q32
+La petite fille et sa sœur ont été laissées vivre avec leur grand-mère, une vieille femme handicapée qui pouvait à peine prendre soin d'elle, encore moins nourrir et élever deux jeunes filles.<end>
+
+=>q33_original
+The sisters never loved her. She was a selfish and bitter old woman. It was a miracle how she even managed to raise such a selfless and intelligent son when she herself was quite the opposite.<end>
+
+=>q33
+Les sœurs ne l'ont jamais aimée. C'était une vieille femme égoïste et amère. C'était un miracle comment elle a même réussi à élever un fils aussi altruiste et intelligent quand elle-même était tout le contraire.<end>
+
+=>q34_original
+The next page of the story spells poverty and a life that was about to get even harder: The girl and her sister shared a gift - they were psionics. One was gifted with the ability to control fire, one the ability to control frost.<end>
+
+=>q34
+La page suivante de l'histoire évoque la pauvreté et une vie sur le point de devenir encore plus dure : La fille et sa sœur partageaient un cadeau - ils étaient psys. L'un était doué de la capacité de contrôler le feu, l'autre de contrôler le gel.<end>
+
+=>q35_original
+Control is the wrong word here, for they had no real control over their abilities and there was no one in that small, forgotten station that could help them embrace this ability that they possessed and teach them how to use it properly.<end>
+
+=>q35
+Le contrôle est le mauvais mot ici, car ils n'avaient aucun contrôle réel sur leurs capacités et il n'y avait personne dans cette petite station oubliée qui pourrait les aider à embrasser cette capacité qu'ils possédaient et à leur apprendre comment l'utiliser correctement.<end>
+
+=>q36_original
+Accidental fires, flying ice spikes and an occasional frozen door knob quickly raised the whole station to its feet; the residents were filled with fear as well as prejudice.<end>
+
+=>q36
+Des incendies accidentels, des pics de glace volants et un bouton de porte parfois gelé ont rapidement soulevé toute la station à ses pieds; les résidents étaient remplis de peur et de préjugés.<end>
+
+=>q37_original
+The sisters were scared too; they didn't want to hurt anyone, they tried not to. It was a true horror. There was no one to guide them, show them the right way to innervate and use their abilities - no one to help them! All they got were looks of fear and prejudice, and even hatred. Even their own grandmother proved even more useless and selfish than what the girls had originally thought.<end>
+
+=>q37
+Les sœurs avaient aussi peur; elles ne voulaient blesser personne, elles ont essayé de ne pas le faire. C'était une véritable horreur. Il n'y avait personne pour les guider, leur montrer le bon moyen d'intérioriser et d'utiliser leurs capacités - personne pour les aider! Ils n'avaient que des regards de peur et de préjugés, et même de haine. Même leur propre grand-mère s'est révélée encore plus inutile et égoïste que ce que les filles avaient pensé à l'origine.<end>
+
+=>q38_original
+Fear overcame the simple-minded. The girls were forced to leave in fear of their "evil" powers hurting the community. Grandmother had a pseudo-wise explanation which, at least in her own distorted mind, justified such actions. The sisters were given some money, some clothes, some food, and were told to go to Core City. There, someone could perhaps help them.<end>
+
+=>q38
+La peur a vaincu les simples esprits. Les filles ont été contraintes de partir dans la peur de leurs pouvoirs « mauvais » qui blessent la communauté. Grand-mère avait une pseudo-explication qui, du moins dans son propre esprit déformé, justifiait de telles actions. On leur donna de l'argent, des vêtements, de la nourriture et on leur dit d'aller à Core City. Là, quelqu'un pourrait peut-être les aider.<end>
+
+=>q39_original
+Nonsense...<end>
+
+=>q39
+N'importe quoi...<end>
+
+=>q40_original
+The capital of decadence, torn apart by rioters, was luckily not the destination of the little sisters. They were sick of people, of the whole treacherous human race! The bastards, the inconsiderate walking piles of rathound excrement threw us out - FORCED US OUT like we were... like we weren't even human beings... If we had been eaten by rabid animals right outside the station they wouldn't have cared one stinking bit! They got rid of us. We were not their problem anymore, and that's all they cared about.<end>
+
+=>q40
+La capitale de la décadence, déchirée par les émeutiers, n'était heureusement pas la destination des petites sœurs. Ils en avaient marre des gens, de toute la race humaine perfide ! Les bâtards, les tas inconsidérés d'excréments de rasoir nous ont jetés dehors, nous ont FORCÉS comme si nous étions... comme si nous n'étions même pas des êtres humains... Si nous avions été mangés par des animaux enragés juste à l'extérieur de la station, ils ne se seraient pas souciés d'un morceau puant ! Ils se sont débarrassés de nous. Nous n'étions plus leur problème, et c'est tout ce dont ils se souciaient.<end>
+
+=>q41_original
+::She gives her sister a short glance.:: Naturally, a place - any place untainted by humans was the best place for the little sisters to settle. Not only that, but it also had to be difficult for anyone to reach this place. The little girls tried to find a ferryman to take them to Forsaken Island, an island surrounded by dangerous currents that had doomed a vast number of unfortunate boats in the past and was often avoided. As there was no one willing to take them there, they had to... *steal* their ride.<end>
+
+=>q41
+::Elle donne un bref coup d'œil à sa sœur.:: Naturellement, un endroit - n'importe quel endroit non contaminé par les humains était le meilleur endroit pour les petites sœurs de s'installer. Non seulement cela, mais il devait aussi être difficile pour quiconque d'atteindre cet endroit. Les petites filles essayèrent de trouver un ferry pour les emmener à l'île Forsaken, une île entourée de courants dangereux qui avait condamné un grand nombre de bateaux malheureux dans le passé et était souvent évitée. Comme personne ne voulait les emmener là-bas, ils ont dû... voler leur voiture.<end>
+
+=>q42_original
+The island offered them a life of isolation and sufficient resources to survive. They grew up, and many years later they eventually mastered their "cursed" gifts. They sought and gained control over the abilities that were a burden up to that point. <end>
+
+=>q42
+L'île leur a offert une vie d'isolement et des ressources suffisantes pour survivre. Ils ont grandi, et de nombreuses années plus tard, ils ont fini par maîtriser leurs dons « maudits ». Ils ont cherché et ont pris le contrôle des capacités qui étaient un fardeau jusqu'à ce point. <end>
+
+=>q43_original
+In the end, they only needed each other in life. Through joint effort they managed to survive through everything. And to this day, their bond is stronger then ever. And so are their powers.<end>
+
+=>q43
+En fin de compte, ils n'avaient besoin que l'un de l'autre dans la vie. Grâce à des efforts conjoints, ils ont réussi à survivre à travers tout. Et à ce jour, leur lien est plus fort que jamais. Et leurs pouvoirs aussi.<end>
+
+=>a44_original
+That was a really sad story. Some people are so small-minded! But as you said, who needs those bastards!<end>
+
+=>a44
+C'était une histoire vraiment triste. Certaines personnes sont si petites ! Mais comme vous l'avez dit, qui a besoin de ces salauds !<end>
+
+=>q45_original
+Well... what's done is done. It's all in the past now.<end>
+
+=>q45
+Ce qui est fait est fait. Tout est dans le passé.<end>
+
+=>q46_original
+Ugh... I still hate them to this day! I wish...<end>
+
+=>q46
+Oui... Je les déteste encore aujourd'hui ! J'aimerais...<end>
+
+=>q47_original
+You wish nothing, Beatrice. Leave it be.<end>
+
+=>q47
+Tu ne souhaites rien, Béatrice. Laisse tomber.<end>
+
+=>q48_original
+I... ::She sighs.:: Yes, sister. I'll leave it be.<end>
+
+=>q48
+Oui, ma sœur. Je vous laisse.<end>
+
+=>q49_original
+::Both of them fall silent. They seem to have drifted off, perhaps somewhere far back in the past.::<end>
+
+=>q49
+::Les deux se taisent. Ils semblent avoir dérivé, peut-être quelque part dans le passé.::<end>
+
+=>a50_original
+You might not agree with me, but you were a potential danger to those people. Psionics out of control don't seem safe to me.<end>
+
+=>a50
+Vous n'êtes peut-être pas d'accord avec moi, mais vous étiez un danger potentiel pour ces gens. Psionics hors de contrôle ne me semble pas sûr.<end>
+
+=>q51_original
+So, throwing us out was perfectly justified according to you? How can you say such a thing? All we needed was some love... some understanding, some help. Nothing else. And we got none of it, not even a little.<end>
+
+=>q51
+Donc, nous jeter était parfaitement justifié selon vous ? Comment peux-tu dire ça ? Tout ce dont nous avions besoin, c'était de l'amour... de la compréhension, de l'aide. Rien d'autre. Et on n'en a rien, pas même un peu.<end>
+
+=>q52_original
+We never hurt anyone, and never would have - not even by accident!<end>
+
+=>q52
+Nous n'avons jamais fait de mal à personne, et nous n'aurions jamais fait de mal - pas même par accident!<end>
+
+=>a53_original
+I'm sorry. I didn't mean to sound like I support their decision. Forget I said anything.<end>
+
+=>a53
+Je suis désolé. Je ne voulais pas avoir l'air d'appuyer leur décision. Oubliez ce que j'ai dit.<end>
+
+=>a54_original
+Yeah, whatever you say. I had other question.<end>
+
+=>a54
+Oui, comme tu veux. J'avais une autre question.<end>
+
+=>q55_original
+::Both of them put on a frown but say nothing.::<end>
+
+=>q55
+::Ils ont tous les deux fait une fronce mais ne disent rien.::<end>
+
+=>a56_original
+I don't know what to say to all this...<end>
+
+=>a56
+Je ne sais pas quoi dire à tout ça...<end>
+
+=>q57_original
+That's alright. There are times when words cannot describe something you wish to express.<end>
+
+=>q57
+C'est bon. Il y a des moments où les mots ne peuvent décrire quelque chose que vous souhaitez exprimer.<end>
+
+=>q58_original
+Adira and I sometimes don't utter a single word for a whole day or two. Yet, we never fail to understand each other.<end>
+
+=>q58
+Adira et moi ne disons pas un mot pendant une journée ou deux. Pourtant, nous ne manquons jamais de nous comprendre.<end>
+
+=>q59_original
+Actually, we haven't talked this much in a long, long time...<end>
+
+=>q59
+En fait, on n'a pas beaucoup parlé depuis longtemps...<end>
+
+=>q60_original
+Well now we have a visitor. ::She smiles.::<end>
+
+=>q60
+Maintenant, nous avons un visiteur. ::Elle sourit.::<end>
+
+=>a61_original
+Now that was a long story! Hey, I grew a long gray beard!<end>
+
+=>a61
+C'était une longue histoire ! J'ai fait pousser une longue barbe grise !<end>
+
+=>q62_original
+::Both sisters stand in disbelief. Your comment wasn't the one they expected, it seems. They look at each other for a second before Adira replies.::
+
+I am at a loss for words, visitor.<end>
+
+=>q62
+::Les deux sœurs sont incrédules. Votre commentaire n'était pas celui qu'ils attendaient, apparemment. Ils se regardent une seconde avant de répondre à Adira.::
+
+Je suis à la perte des mots, visiteur.<end>
+
+=>q63_original
+You think you're funny? You think you can come to our home and act like a jerk!? Why I'll...<end>
+
+=>q63
+Tu te crois drôle ? Tu crois que tu peux venir chez nous et te comporter comme un crétin !? Pourquoi je vais...<end>
+
+=>a64_original
+I'm sorry, okay! I didn't mean it like that. Again, I'm sorry.<end>
+
+=>a64
+Je suis désolé. Je ne voulais pas dire ça. Encore une fois, désolé.<end>
+
+=>q65_original
+Let's all calm down. You better watch your words next time, visitor.<end>
+
+=>q65
+Calmez-vous. Tu ferais mieux de regarder tes mots la prochaine fois, visiteur.<end>
+
+=>q66_original
+::Beatrice says nothing. She just stares at you.::<end>
+
+=>q66
+::Béatrice ne dit rien. Elle te regarde.::<end>
+
+=>q67_original
+Did you have any other questions, visitor?<end>
+
+=>q67
+Avez-vous d'autres questions, visiteur ?<end>
+
+=>a68_original
+What? Please continue. I'm really interested in what you were going to say.<end>
+
+=>a68
+Quoi ? Continuez. Je suis vraiment intéressé par ce que vous alliez dire.<end>
+
+=>q69_original
+That's it! You're going down!<end>
+
+=>q69
+C'est ça ! Vous descendez !<end>
+
+=>a70_original
+::Fight!::<end>
+
+=>a70
+::Lutte!::<end>
+
+=>a71_original
+Wow, someone's oversensitive!<end>
+
+=>a71
+Quelqu'un est sursensible !<end>
+
+=>q72_original
+Overse--!? That's it! You're going down!<end>
+
+=>q72
+Surveiller... ? C'est ça ! Vous descendez !<end>
+
+=>a73_original
+What a long story! If I were a man, I'd be sporting a long gray beard by now!<end>
+
+=>a73
+Quelle longue histoire ! Si j'étais un homme, je porterais une longue barbe grise !<end>
+
+=>a74_original
+I think you misheard me. I didn't ask for a story, I asked you to tell me how you ended up here.<end>
+
+=>a74
+Vous m'avez mal entendu. Je n'ai pas demandé d'histoire, je t'ai demandé de me dire comment tu as fini ici.<end>
+
+=>q75_original
+ALLOW us to tell you a story...<end>
+
+=>q75
+Nous allons vous raconter une histoire...<end>
+
+=>a76_original
+Actually, before you start, I had other questions I wanted to ask you.<end>
+
+=>a76
+Avant de commencer, j'avais d'autres questions à vous poser.<end>
+
+=>a77_original
+What do you do to pass the time here?<end>
+
+=>a77
+Que faites-vous pour passer le temps ici ?<end>
+
+=>q78_original
+Besides fishing, picking mushrooms and hunting hoppers...<end>
+
+=>q78
+Outre la pêche, la cueillette de champignons et la chasse aux trémies...<end>
+
+=>q79_original
+I like creating ice sculptures...<end>
+
+=>q79
+J'aime créer des sculptures de glace...<end>
+
+=>q80_original
+I enjoy creating dancing flames of various shapes and sizes...<end>
+
+=>q80
+J'aime créer des flammes de différentes formes et tailles...<end>
+
+=>q81_original
+We come up with interesting tales...<end>
+
+=>q81
+On trouve des histoires intéressantes...<end>
+
+=>q82_original
+Or just meditate... or practice our skills.<end>
+
+=>q82
+Ou juste méditer... ou pratiquer nos compétences.<end>
+
+=>q83_original
+Life here is not as boring as one might think. Trust us.<end>
+
+=>q83
+La vie ici n'est pas aussi ennuyeuse qu'on pourrait le penser. Faites-nous confiance.<end>
+
+=>a84_original
+Have you ever left this island after you came here?<end>
+
+=>a84
+Avez-vous déjà quitté cette île après votre arrivée ici ?<end>
+
+=>q85_original
+No...<end>
+
+=>q85
+Non...<end>
+
+=>q86_original
+No! Why would we do that?<end>
+
+=>q86
+Pas du tout ! Pourquoi on ferait ça ?<end>
+
+=>q87_original
+We don't need anything from the outside world; we have everything we need *right* here.<end>
+
+=>q87
+Nous n'avons besoin de rien du monde extérieur ; nous avons tout ce dont nous avons besoin *juste* ici.<end>
+
+=>a88_original
+Well, I have to be leaving now. Goodbye.<end>
+
+=>a88
+Je dois partir maintenant. Au revoir.<end>
+
+=>q89_original
+Where do you think you're going?<end>
+
+=>q89
+Où tu crois aller ?<end>
+
+=>a90_original
+Home.<end>
+
+=>a90
+Chez moi.<end>
+
+=>q91_original
+Did you really think we were gonna let you just leave this place and tell anyone about what you witnessed here?<end>
+
+=>q91
+Tu croyais vraiment qu'on allait te laisser partir et dire à quelqu'un ce que tu as vu ici ?<end>
+
+=>a92_original
+But you seemed talkative and friendly.<end>
+
+=>a92
+Mais vous aviez l'air bavard et amical.<end>
+
+=>q93_original
+In all honesty, it was interesting to hear another voice. Perhaps something of the outside world, not that it matters much. In the end, we can't let you get out of here alive.<end>
+
+=>q93
+En toute honnêteté, il était intéressant d'entendre une autre voix. Peut-être quelque chose du monde extérieur, pas qu'il importe beaucoup. Finalement, on ne peut pas te laisser sortir d'ici vivant.<end>
+
+=>a94_original
+::[Persuade]:: Okay, kill me. Then my powerful friends, who know I'm here, will come looking for me - armed to the teeth. After all, they will be expecting the Behemoth to be here so they'll pack quite a bit of firepower. Can you deal with all of them?<end>
+
+=>a94
+::[Persuader]:: Tuez-moi. Puis mes puissants amis, qui savent que je suis là, viendront me chercher - armés jusqu'aux dents. Après tout, ils s'attendront à ce que les Béhémoth soient là pour qu'ils aient un peu de puissance de feu. Tu peux t'occuper de tous ?<end>
+
+=>q95_original
+::Adira is silent, and so is her sister.::<end>
+
+=>q95
+::Adira est silencieuse, et sa sœur aussi.::<end>
+
+=>a96_original
+I know it's hard to trust a complete stranger, but at least give it a shot. What I saw here will remain between you and me. You have my word.<end>
+
+=>a96
+Je sais qu'il est difficile de faire confiance à un inconnu complet, mais au moins, donnez-lui une chance. Ce que j'ai vu ici restera entre vous et moi. Vous avez ma parole.<end>
+
+=>q97_original
+::Looks are exchanged between the sisters once again. Your answer came quickly, preceded only by a short sigh.::
+
+You convinced us. We won't stop you from leaving, $(context.player.Name). You are free to go.<end>
+
+=>q97
+::Les regards sont échangés une fois de plus entre les sœurs. Votre réponse est venue rapidement, précédée seulement d'un court soupir.::
+
+Vous nous avez convaincus. Nous ne vous empêcherons pas de partir, $(context.player.Name). Vous êtes libre de partir.<end>
+
+=>a98_original
+Well, I'm outta here. So long!<end>
+
+=>a98
+Je m'en vais. Au revoir !<end>
+
+=>a99_original
+Goodbye.<end>
+
+=>a99
+Au revoir.<end>
+
+=>q100_original
+Your excuse is pathetic! Let's get this over with!<end>
+
+=>q100
+Votre excuse est pathétique ! Finissons ça !<end>
+
+=>a101_original
+I promise I'll bring you a gift if you let me go! I'll get you something nice!<end>
+
+=>a101
+Je te promets de t'apporter un cadeau si tu me laisses partir ! Je vais t'apporter quelque chose de gentil !<end>
+
+=>q102_original
+Oooh! I want a doll! ::She laughs out loud.:: Actually... no. I don't need a stinking doll!<end>
+
+=>q102
+C'est vrai ! Je veux une poupée ! ::Elle rit à voix haute.:: En fait... Non. Je n'ai pas besoin d'une poupée puante !<end>
+
+=>q103_original
+The talk is over!<end>
+
+=>q103
+C'est fini !<end>
+
+=>a104_original
+I'll give you money if you let me live!<end>
+
+=>a104
+Je te donnerai de l'argent si tu me laisses vivre !<end>
+
+=>q105_original
+::She laughs out loud.:: Money? We have no use for that here! That was pathetic!<end>
+
+=>q105
+::Elle rit à voix haute.:: Argent ? On n'a pas besoin de ça ici ! C'était pathétique !<end>
+
+=>a106_original
+I'm not going down without a fight! ::Attack!::<end>
+
+=>a106
+Je ne descendrai pas sans me battre ! ::Attaque!::<end>
+
+=>a107_original
+I just wanted to take a look around.<end>
+
+=>a107
+Je voulais juste jeter un oeil.<end>
+
+=>a108_original
+To kill all the hoppers on the island! I hate those filthy creatures!<end>
+
+=>a108
+Pour tuer toutes les trémies de l'île ! Je déteste ces créatures sales !<end>
+
+=>a109_original
+I'm going on a new adventure!<end>
+
+=>a109
+Je vais faire une nouvelle aventure !<end>
+
+=>a110_original
+To grab something to eat. I'm starving.<end>
+
+=>a110
+Pour prendre quelque chose à manger. Je meurs de faim.<end>
+
+=>a111_original
+I gotta go.<end>
+
+=>a111
+Je dois y aller.<end>
+
+=>a112_original
+A strong current pulled the ferry I was on and I ended up stranded here. I originally intended to go to Core City, but I guess I will be spending some time on this cursed place.<end>
+
+=>a112
+Un fort courant a tiré le ferry sur lequel j'étais et j'ai fini coincé ici. J'avais l'intention d'aller à Core City, mais je pense que je vais passer du temps sur cet endroit maudit.<end>
+
+=>q113_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+The Forsaken Island itself is very dangerous, and so are the waters around it. You are lucky to still be breathing, visitor.<end>
+
+=>q113
+::Les deux femmes échangent l'air encore une fois. Cette fois, leur communication sans mots a pris un peu plus de temps qu'auparavant. Pourtant, vous avez finalement votre réponse.::
+
+L'île Forsaken elle-même est très dangereuse, tout comme les eaux qui l'entourent. Vous avez de la chance de respirer encore, visiteur.<end>
+
+=>a114_original
+I wanted to explore the Forsaken Island despite the tales of a great and deadly creature inhabiting it.<end>
+
+=>a114
+Je voulais explorer l'île Forsaken malgré les contes d'une grande créature mortelle qui l'habite.<end>
+
+=>a115_original
+I'm here to kill you, steal your stuff and then try to sell it to someone. Die! ::Attack!::<end>
+
+=>a115
+Je suis là pour te tuer, voler tes affaires et essayer de les vendre à quelqu'un. Mort ! ::Attaque!::<end>
+
+=>a116_original
+Who are *you* and what is going on here?<end>
+
+=>a116
+Qui êtes-vous ?<end>
+
+=>q117_original
+We *suggest* you answer our question first, visitor.<end>
+
+=>q117
+Nous vous suggérons de répondre à notre question d'abord, visiteur.<end>
+
+=>a118_original
+I don't think so, ladies.<end>
+
+=>a118
+Je ne crois pas, mesdames.<end>
+
+=>q119_original
+So rude...<end>
+
+=>q119
+C'est si grossier...<end>
+
+=>a120_original
+I guess I took a wrong turn. Sorry for the disturbance. Bye bye!<end>
+
+=>a120
+J'ai dû me tromper. Désolé pour le dérangement. Au revoir !<end>
+
+=>q121_original
+Stop right there! Take a step back and it'll be your last one. Answer our question, visitor! Who are you and what are you doing here?<end>
+
+=>q121
+Arrêtez ! Reculez et ce sera votre dernier. Répondez à notre question, visiteur! Qui êtes-vous et que faites-vous ici ?<end>
+
+=>q122_original
+::The two sisters are silent.::<end>
+
+=>q122
+::Les deux sœurs sont silencieuses.::<end>
+

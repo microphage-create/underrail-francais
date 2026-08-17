@@ -1,0 +1,124 @@
+=>q1_original
+::Welcome, $(context.player.Name)::<end>
+
+=>q1
+::Bienvenue, $(context.player. Nom)::<end>
+
+=>a2_original
+::Encrypt the text.::<end>
+
+=>a2
+::Chiffrez le texte.::<end>
+
+=>q3_original
+::Unencrypted text:
+
+$(context.global_xpbl_unencryptedText)
+
+Encrypted text:
+
+$(context.global_xpbl_encryptedText)
+
+Key:
+
+$(context.global_xpbl_encryptionKey)
+::<end>
+
+=>q3
+::Texte non chiffré :
+
+$(context.global xpbl unencryptedText)
+
+Texte chiffré :
+
+$(context.global xpbl encryptedText)
+
+Clé :
+
+$(context.global xpbl encryptionKey)
+::<end>
+
+=>a4_original
+::Type password::<end>
+
+=>a4
+::Saisissez le mot de passe::<end>
+
+=>q5_original
+::Password: $(context.xpbl_loc_rf_lockerPassword)::<end>
+
+=>q5
+::Mot de passe : $(context.xpbl loc rf lockerMot de passe)::<end>
+
+=>a6_original
+1<end>
+
+=>a6
+1<end>
+
+=>a7_original
+2<end>
+
+=>a7
+2<end>
+
+=>a8_original
+3<end>
+
+=>a8
+3<end>
+
+=>a9_original
+4<end>
+
+=>a9
+4<end>
+
+=>a10_original
+5<end>
+
+=>a10
+5<end>
+
+=>a11_original
+6<end>
+
+=>a11
+6<end>
+
+=>a12_original
+7<end>
+
+=>a12
+7<end>
+
+=>a13_original
+8<end>
+
+=>a13
+8<end>
+
+=>a14_original
+9<end>
+
+=>a14
+9<end>
+
+=>a15_original
+0<end>
+
+=>a15
+0<end>
+
+=>a16_original
+::Clear::<end>
+
+=>a16
+::Clair::<end>
+
+=>a17_original
+::Main::<end>
+
+=>a17
+::Principale::<end>
+

@@ -1,0 +1,372 @@
+=>q1_original
+Step aside, $(#brother/sister) - the Faceless are here!<end>
+
+=>q1
+Écartez-vous, $(#brother/sister) - les Faceless sont là !<end>
+
+=>q2_original
+::You come up to a slim middle-aged woman who welcomes you to her office with an indistinct gaze. While her attractive face, marked by prominent green eyes, has an even, almost wrinkle-free appearance, her loose, deeply-lined neck is an honest indicator of her true age. Her voice is calm and collected, and only slightly rough on the edges. Additionally, more than one thing about her appearance and behavior seem familiar to you, but you cannot immediately figure out why.::
+
+Tchort is evolution. May I help you?<end>
+
+=>q2
+::Vous venez à une femme d'âge moyen mince qui vous accueille dans son bureau avec un regard indistinct. Alors que son visage attrayant, marqué par des yeux verts proéminents, a une apparence uniforme, presque sans rides, son cou lâche, profondément doublé est un indicateur honnête de son âge réel. Sa voix est calme et ramassée, et seulement légèrement rugueuse sur les bords. En outre, plus d'une chose sur son apparence et son comportement vous semblent familiers, mais vous ne pouvez pas immédiatement comprendre pourquoi.::
+
+Tchort est l'évolution. Puis-je vous aider ?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Evolution is Tchort. Sorry for the interruption but I'm $(context.player.Name) and I have some questions for you, if you have the time.<end>
+
+=>a4
+Evolution est Tchort. Désolé pour l'interruption mais je suis $(context.player.Name) et j'ai quelques questions pour vous, si vous avez le temps.<end>
+
+=>q5_original
+$(context.player.Name)? Mmmm, yes - I know exactly who you are. I am Episkopos Lydia, and as a matter of fact, I have sent a messenger to summon you here. Didn't you talk to her?<end>
+
+=>q5
+$(context.player.Name) ? Je sais exactement qui vous êtes. Je suis Episkopos Lydia, et en fait, j'ai envoyé un messager pour vous convoquer ici. Tu ne lui as pas parlé ?<end>
+
+=>a6_original
+I probably missed her.<end>
+
+=>a6
+Elle m'a probablement manqué.<end>
+
+=>q7_original
+Mmm, no matter. As you said - you probably missed her. But still, you are at the right place, $(context.player.Name).<end>
+
+=>q7
+Peu importe. Comme vous l'avez dit, elle vous a probablement manqué. Mais vous êtes au bon endroit, $(context.player.Name).<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+Why did you want to see me, Episkopos Lydia?<end>
+
+=>a10
+Pourquoi voulais-tu me voir, Episkopos Lydia ?<end>
+
+=>q11_original
+Because I was told good things about you from our principal investigators, $(context.player.Name); because I was told you took part in and greatly contributed to important projects, and because it is obvious you are drawn towards Investigation.<end>
+
+=>q11
+Parce qu'on m'a dit de bonnes choses à votre sujet de la part de nos principaux enquêteurs, $(context.player.Name); parce qu'on m'a dit que vous avez participé à des projets importants et qu'il est évident que vous êtes attiré vers l'enquête.<end>
+
+=>q12_original
+On the other hand, Principal Investigator Rista definitely doesn't share my opinion, or of his colleagues, since upon hearing about me seeking audience with you he protested the idea. Without going into details or quoting some of his, mmm, remarks, let's just say he wasn't pleased with your performance.<end>
+
+=>q12
+D'un autre côté, l'enquêteur principal Rista ne partage certainement pas mon opinion, ni celle de ses collègues, car en entendant parler de moi à la recherche d'audience avec vous, il a protesté contre l'idée. Sans entrer dans les détails ou citer certains de ses, mmm, remarques, disons juste qu'il n'était pas satisfait de votre performance.<end>
+
+=>a13_original
+That's not my problem. First he blamed me for the fact that his bug escaped the cell, then he demanded that I help him.<end>
+
+=>a13
+Ce n'est pas mon problème. D'abord il m'a blâmé pour le fait que son insecte a échappé à la cellule, puis il a exigé que je l'aide.<end>
+
+=>q14_original
+Calm down, $(context.player.Name). While it is unfortunate that a very important specimen was lost due to your actions, we can both agree that you were not trained and, therefore, not competent enough in dealing with such creatures. He shouldn't have asked you to do it - that is all.<end>
+
+=>q14
+Calme-toi, $(context.player.Name). Bien qu'il soit regrettable qu'un spécimen très important ait été perdu en raison de vos actions, nous pouvons tous les deux convenir que vous n'étiez pas formé et, par conséquent, pas assez compétent pour traiter ces créatures. Il n'aurait pas dû te demander de le faire - c'est tout.<end>
+
+=>q15_original
+Despite that little fluke, your record is quite satisfying, $(context.player.Name). Before you, only Monsignor Lenora, a novitiate like yourself back then, ever showed such remarkable results in such a short period of time since joining the Institute of Tchort. Consider yourself compared to one of the most prolific investigators in our history.<end>
+
+=>q15
+Malgré ce peu de fluke, votre record est assez satisfaisant, $(context.player.Name). Avant vous, seul Monseigneur Lenora, un noviciat comme vous à l'époque, a jamais montré des résultats aussi remarquables en si peu de temps depuis l'adhésion au Institute of Tchort. Considérez-vous comme un des enquêteurs les plus prolifiques de notre histoire.<end>
+
+=>q16_original
+But I digress, Eidein pardon me. Now, the time has come for you: I am offering you a position of an assistant investigator in the department of your choosing. You will be able to select your own projects, which you will be working on with full investigators. 
+
+Interested, $(context.player.Name)? Mmm?<end>
+
+=>q16
+Mais je digresse, Eidein pardonnez-moi. Le moment est venu pour vous : je vous offre un poste d'enquêteur adjoint dans le département de votre choix. Vous serez en mesure de sélectionner vos propres projets, sur lesquels vous travaillerez avec des chercheurs complets.
+
+Intéressé, $(context.player.Name) ? - Oui.<end>
+
+=>a17_original
+Ever since I came here, Your Eminence. Being an investigator is what I was born for.<end>
+
+=>a17
+Depuis mon arrivée, Votre Éminence. Être enquêteur est ce pour quoi je suis né.<end>
+
+=>q18_original
+::She nods.:: Mmm, $(context.player.Name). In that case, the only thing left for me to say is this: I will arrange a meeting with his illustriousness himself - Eidein. Speak to him about becoming an assistant investigator; after that it's all a matter of paperwork.<end>
+
+=>q18
+::Elle acquiesce.:: Mmm, $(context.player.Name). Dans ce cas, la seule chose qui me reste à dire est ceci: Je vais organiser une réunion avec son illustre - Eidein. Parlez-lui de devenir enquêteur adjoint; après cela, tout est une question de paperasse.<end>
+
+=>q19_original
+I will inform the protonotary to allow you entry to Eidein's office. His office is just across from mine. Do not keep him waiting, $(context.player.Name).<end>
+
+=>q19
+Je vais informer le protonotaire pour vous autoriser à entrer dans le bureau de Eidein. Son bureau est juste en face du mien. Ne le faites pas attendre, $(context.player.Name).<end>
+
+=>a20_original
+Thank you very much for your time, Your Eminence.<end>
+
+=>a20
+Merci beaucoup pour votre temps, Votre Éminence.<end>
+
+=>q21_original
+Mmmm. Are there any further questions you have for me?<end>
+
+=>q21
+Oui. Avez-vous d'autres questions pour moi ?<end>
+
+=>a22_original
+Thanks.<end>
+
+=>a22
+Merci.<end>
+
+=>a23_original
+It is a good career, I think. Yeah, I would like to become an investigator.<end>
+
+=>a23
+C'est une bonne carrière, je crois. J'aimerais devenir enquêteur.<end>
+
+=>a24_original
+I'm not sure yet. Maybe there is something else Institute of Tchort can offer me.<end>
+
+=>a24
+Je ne suis pas encore sûr. Peut-être qu'il y a autre chose que Institute of Tchort peut m'offrir.<end>
+
+=>q25_original
+::She nods.:: Mmm, that is understandable $(context.player.Name); think it through. Should you change your mind and decide that you wish to become an assistant investigator, speak to his illustriousness  - Eidein. After that it's only a matter of paperwork.<end>
+
+=>q25
+::Elle acquiesce.:: Mmm, c'est compréhensible $(context.player.Name) ; réfléchissez-y. Si vous changez d'avis et décidez que vous souhaitez devenir enquêteur adjoint, parlez à son illustre - Eidein. Après ça, ce n'est qu'une question de paperasse.<end>
+
+=>a26_original
+I know I made a mistake and I am very sorry for it. But I don't think all the blame should rest on me.<end>
+
+=>a26
+Je sais que j'ai fait une erreur et je suis désolé. Mais je ne pense pas que tout le blâme devrait reposer sur moi.<end>
+
+=>q27_original
+It is perfectly understandable and I agree with you: While it is unfortunate that a very important specimen was lost due to your actions, we can both agree that you were not trained and therefore not competent enough to handle such creatures. He shouldn't have asked you to do it in the first place.<end>
+
+=>q27
+C'est parfaitement compréhensible et je suis d'accord avec vous : Bien qu'il soit regrettable qu'un spécimen très important ait été perdu en raison de vos actions, nous pouvons tous les deux convenir que vous n'étiez pas formé et donc pas assez compétent pour gérer ces créatures. Il n'aurait pas dû te demander de le faire.<end>
+
+=>q28_original
+Mmm, I've checked your record, $(context.player.Name), and it is very satisfying. Before you, only Monsignor Lenora, a novitiate like yourself back then, ever showed such remarkable results in such a short period of time since joining Institute of Tchort. Consider yourself compared to one of the most prolific investigators in our history.<end>
+
+=>q28
+J'ai vérifié votre dossier, $(context.player.Name), et c'est très satisfaisant. Avant vous, seul Monseigneur Lenora, un noviciat comme vous à l'époque, a jamais montré des résultats aussi remarquables en si peu de temps depuis l'adhésion à Institute of Tchort. Considérez-vous comme un des enquêteurs les plus prolifiques de notre histoire.<end>
+
+=>a29_original
+What do you do here?<end>
+
+=>a29
+Que faites-vous ici ?<end>
+
+=>q30_original
+You mean in a sense, what job does an episkopos perform? If so, then the answer is simple: An episkopos oversees and manages all three departments within Investigation. I have been in this position for, I'd say almost ten years, and during that time we have had numerous achievements. <end>
+
+=>q30
+Dans un sens, quel travail un épiskopos accomplit-il ? Si oui, alors la réponse est simple: Un épiskopos supervise et gère les trois départements de l'enquête. Je suis dans cette position depuis, je dirais presque dix ans, et pendant ce temps nous avons eu de nombreuses réalisations. <end>
+
+=>q31_original
+Does that answer your question, $(context.player.Name)?<end>
+
+=>q31
+Cela répond-il à votre question, $(context.player.Name)?<end>
+
+=>a32_original
+Could you tell me more? I'm really curious.<end>
+
+=>a32
+Pourriez-vous m'en dire plus ? Je suis vraiment curieux.<end>
+
+=>q33_original
+Then you will have to wait for a more appropriate moment. I have plenty work to do at the moment, and time is short.<end>
+
+=>q33
+Alors vous devrez attendre un moment plus approprié. J'ai beaucoup de travail à faire en ce moment, et le temps est court.<end>
+
+=>a34_original
+Yes, it does.<end>
+
+=>a34
+Oui.<end>
+
+=>q35_original
+Good.<end>
+
+=>q35
+Bien.<end>
+
+=>a36_original
+I believe so.<end>
+
+=>a36
+Je crois.<end>
+
+=>a37_original
+What can you tell me about Investigation?<end>
+
+=>a37
+Que pouvez-vous me dire à propos de l'enquête ?<end>
+
+=>q38_original
+Mmmm, Investigation can be summarized easily with a single word: knowledge. As you know by now, I hope, Tchortism views Tchort as both a physical entity and a symbol of knowledge related to it. But it doesn't stop there, $(context.player.Name).<end>
+
+=>q38
+L'enquête peut se résumer facilement en un seul mot : la connaissance. Comme vous le savez maintenant, j'espère que Tchortism voit Tchort à la fois comme une entité physique et comme un symbole de la connaissance qui lui est liée. Mais ça ne s'arrête pas là, $(context.player.Name).<end>
+
+=>q39_original
+The evolution of humankind does not benefit *just* from genetic research; for example, by making ourselves physically resilient like, say, the recombinants. Physical form is only one fragment of the complex natural puzzle we've obliged ourselves to solve, and Investigation's goal is to discover each and every one of these fragments. Knowledge is key, $(context.player.Name).<end>
+
+=>q39
+L'évolution de l'humanité ne bénéficie pas *juste* de la recherche génétique ; par exemple, en se rendant physiquement résilient comme, par exemple, les recombinants. La forme physique n'est qu'un fragment du puzzle naturel complexe que nous nous sommes obligés de résoudre, et l'objectif de l'enquête est de découvrir chacun de ces fragments. La connaissance est la clé, $(context.player.Name).<end>
+
+=>q40_original
+That is all from me. For other details regarding Investigation you are to seek Praepostor Amelia.<end>
+
+=>q40
+Ça vient de moi. Pour d'autres détails concernant l'enquête, vous devez chercher Praepostor Amelia.<end>
+
+=>a41_original
+Would you like to hear a joke? It's about an investigator and a cell undergoing mitosis.<end>
+
+=>a41
+Tu veux entendre une blague ? Il s'agit d'un enquêteur et d'une cellule en mitose.<end>
+
+=>q42_original
+I don't think now is the appropriate time to tell jokes.<end>
+
+=>q42
+Je ne pense pas que le moment soit venu de raconter des blagues.<end>
+
+=>q43_original
+I have more pressing matters to attend to. However, I believe you will easily find someone in the Institute who will gladly listen to your jokes, $(context.player.Name).<end>
+
+=>q43
+J'ai des questions plus urgentes à régler. Cependant, je pense que vous trouverez facilement quelqu'un dans l'Institut qui écoutera volontiers vos blagues, $(context.player.Name).<end>
+
+=>a44_original
+I will leave you now, Your Eminence. Tchort guide you.<end>
+
+=>a44
+Je vais vous quitter, Votre Éminence. Tchort vous guide.<end>
+
+=>q45_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q45
+Tchort vous guide, $(#brother/sister).<end>
+
+=>a46_original
+I have to go. So long.<end>
+
+=>a46
+Je dois y aller. Au revoir.<end>
+
+=>a47_original
+Actually yes, I did meet her.<end>
+
+=>a47
+En fait oui, je l'ai rencontrée.<end>
+
+=>q48_original
+Mmm, excellent. Let us talk then, $(context.player.Name).<end>
+
+=>q48
+Parfait. Parlons donc, $(context.player.Name).<end>
+
+=>a49_original
+Evolution is Tchort. I am $(context.player.Name) and I was informed you wanted to see me.<end>
+
+=>a49
+Evolution est Tchort. Je suis $(context.player.Name) et on m'a informé que vous vouliez me voir.<end>
+
+=>q50_original
+Mmmm yes, $(context.player.Name), I do. But allow me to formally introduce myself - I am Episkopos Lydia - welcome to my office.<end>
+
+=>q50
+Oui, $(context.player.Name). Mais permettez-moi de me présenter officiellement - je suis Episkopos Lydia - bienvenue dans mon bureau.<end>
+
+=>a51_original
+Hi, I was told you wanted to see me. $(context.player.Name)'s the name!<end>
+
+=>a51
+On m'a dit que tu voulais me voir. $(context.player.Name) est le nom !<end>
+
+=>a52_original
+Sorry, wrong office.<end>
+
+=>a52
+Désolé, mauvais bureau.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>a54_original
+Evolution is Tchort. I'm $(context.player.Name) and I had some questions for you, if you have the time.<end>
+
+=>a54
+Evolution est Tchort. Je suis $(context.player.Name) et j'ai des questions pour vous, si vous avez le temps.<end>
+
+=>q55_original
+$(context.player.Name)? Mmmm, yes, I know exactly who you are. I am Episkopos Lydia - welcome to my office. I have very little time to chat so I ask of you to make your questions brief and as concise as possible.
+
+Now, what is it you needed of me, $(context.player.Name)?<end>
+
+=>q55
+$(context.player.Name) ? Je sais exactement qui vous êtes. Je suis Episkopos Lydia - bienvenue dans mon bureau. J'ai très peu de temps pour discuter, alors je vous demande de rendre vos questions brèves et concises.
+
+Qu'avez-vous besoin de moi, $(context.player.Name) ?<end>
+
+=>a56_original
+$(context.player.Name)'s the name, and you are...?<end>
+
+=>a56
+$(context.player.Name) est le nom, et vous êtes...?<end>
+
+=>q57_original
+Mmmm... $(context.player.Name), yes - I know exactly who you are. As to who I am... I am Episkopos Lydia, and you should learn some manners, $(#brother/sister). I will answer your questions *if* you make them as brief and concise as possible.<end>
+
+=>q57
+$(context.player.Name), oui - Je sais exactement qui vous êtes. Pour qui je suis... Je suis Episkopos Lydia, et vous devriez apprendre quelques manières, $(#brother/sister). Je répondrai à vos questions si vous les rendez aussi brèves et concises que possible.<end>
+
+=>a58_original
+Sorry to bother you. Tchort guide you.<end>
+
+=>a58
+Désolé de vous déranger. Tchort vous guide.<end>
+
+=>a59_original
+Whoops, wrong office. Goodbye.<end>
+
+=>a59
+Oups, mauvais bureau. Au revoir.<end>
+
+=>q60_original
+What do you need of me, $(context.player.Name)?<end>
+
+=>q60
+Que voulez-vous de moi, $(context.player.Name) ?<end>
+

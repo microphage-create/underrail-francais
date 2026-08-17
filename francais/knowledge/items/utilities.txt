@@ -1,0 +1,92 @@
+::ShieldRecharger
+Restaure {0} de bouclier à la cible sur {1} secondes, en consommant {2} d'énergie.
+
+::DogCrate
+Tenter de capturer la cible dans la caisse. Ne fonctionne que sur certaines petites créatures non hostiles.
+
+::ThrowingNet
+Lancer le filet sur la cible pour tenter de l'immobiliser jusqu'à {0} (selon sa force).
+
+::StoneBolas
+Lancer les bolas de pierre sur la cible pour tenter d'infliger {0} dégâts et l'immobiliser jusqu'à {1} (selon sa force). Si des dégâts sont infligés, les côtes de la cible sont cassées : elle reçoit {2}% de dégâts mécaniques supplémentaires de toutes sources. Cet effet dure {3} et s'empile jusqu'à {4} fois. Ne fonctionne que sur les cibles qui ont effectivement des côtes.
+
+::BarbedThrowingNet
+Lancer le filet sur la cible pour tenter d'infliger {0} dégâts et {1}% supplémentaires des dégâts initiaux en plaie saignante. La cible peut aussi être enserrée et immobilisée jusqu'à {2} (selon sa force).
+
+::ThrowingNet-Old
+Lancer le filet sur la cible pour tenter de l'immobiliser jusqu'à {0} secondes (selon sa force). Efficace uniquement contre les cibles de faible force.
+
+::FishingRod
+Monter une canne à pêche et commencer à pêcher.
+
+::FishingRodMountingFailed
+Les cannes à pêche ne se montent que sur des cases adjacentes à l'eau et avec assez d'espace.
+
+::PersonalCloaking
+Une fois activé, cet appareil augmente la furtivité de l'utilisateur de {0} et l'évitement de {1}. L'activer coûte {2} d'énergie et consomme {3} d'énergie supplémentaires toutes les {4} secondes.
+
+::CloakingDevice
+Générateur de champ de déflexion de lumière visible, communément appelé générateur de furtivité ou dispositif de camouflage.
+
+::ThrowFlare
+Éclaire une zone pendant {0} secondes et révèle immédiatement toute cible en furtivité à l'impact.
+
+::Nightvision
+Vous permet de voir dans le noir. L'activer coûte {0} d'énergie et consomme {1} d'énergie supplémentaires toutes les {2} secondes.
+
+::Compass
+L'aiguille rouge pointe vers le nord.
+
+::Taser
+Inflige {0} dégâts et étourdit la cible pendant {1}. Fonctionne sur les cibles vivantes et les machines. Coûte {2} d'énergie.
+
+::SpyUnderDoor
+Espionner la situation de l'autre côté de la porte.
+
+::SpyUnderDoorNightvision
+Espionner la situation de l'autre côté de la porte. Consomme {0} d'énergie pour fournir la vision nocturne.
+
+::PsiBeetleBrainPsi
+Invoquer une capacité psi aléatoire sur soi ou un autre. Consomme {0} d'énergie.
+
+::RefuelFireplace
+Ravitailler un foyer.
+
+::EtherealTorchAttack
+Lance une boule de lumière vers la zone désignée. Tous ceux pris dans le souffle subissent {0} dégâts. Cette attaque ignore {1}% de la résistance et du seuil de dégâts de la cible. La précision dépend de la volonté et du niveau de l'invocateur.
+
+::Vanish
+Entrer immédiatement en furtivité, disparaître de la vue de tous, et convertir tous les points d'action restants en points de mouvement.
+
+::ScrambleCortex
+Tenter de brouiller le cortex IA d'un robot, le rendant hostile envers tous et l'amenant à attaquer une cible aléatoire jusqu'à {1}. Il battra aussi occasionnellement en retraite dans la confusion. La chance de réussite dépend de la compétence de piratage de l'utilisateur. Pour ce brouillage, le piratage est augmenté de {0} points grâce à la qualité de cet appareil. Coûte {2} d'énergie.
+
+::ElectricTorchAura
+Une fois activé, draine immédiatement {0} d'énergie puis {1} supplémentaires chaque tour pour éclairer dans un rayon de {2}.
+
+::RegularThrowAcidVial
+Lancer la fiole sur la cible, en ignorant son bouclier énergétique et en infligeant {0} dégâts si elle touche.
+
+::ThrowCorrosiveAcidVial
+Lancer la fiole sur la cible, en ignorant son bouclier énergétique et en infligeant {0} dégâts si elle touche, et en appliquant {1} cumuls de Corrodé qui réduisent toutes les résistances et seuils de dégâts de {2}% par cumul pendant {3}. S'empile {4} fois.
+
+::ThrowRustingAcidVial
+Lancer la fiole sur la cible, en ignorant son bouclier énergétique et en infligeant {0} dégâts si elle touche, et en appliquant {1} cumuls de Rouille qui réduisent la durabilité de tous les objets mécaniques en possession de la cible de {2} par cumul chaque tour pendant {3}. S'empile {4} fois. Les dégâts d'acide sont augmentés de {5}% contre les véhicules et machines.
+
+::UseSuicideBomberBelt
+Activer instantanément une grenade de chaque type de votre ceinture.
+
+::Exsurge
+Retire instantanément les effets d'incapacité et d'effondrement mental de l'utilisateur. Peut être activé sous ces effets également, mais être refroidi ou gelé désactive cette capacité.
+
+::HeadTrapAttack
+Effectuer une attaque de mêlée de contact qui place un piège crânien sadique sur une cible humanoïde : inflige {0} dégâts sur {1} en ignorant la résistance aux dégâts, réduit sa perception de {2} et la fait paniquer jusqu'à {3}. Le piège crânien peut ensuite être trouvé en sa possession.
+
+::RemoteScanCallOverload
+Surcharger à distance l'IA de scan de la caméra, augmentant le temps de scan effectif de {0}% (augmente avec le piratage), ce qui la rend plus lente à repérer et signaler les intrus.
+
+::JumpstarterBoost
+Accorde {0} projectiles de rafale en plus à cette arme pendant {1}.
+
+::WildPsionicInnervation
+Augmente la compétence de {0}, le taux de critique de {1} et le bonus de dégâts critiques de {2}, tout en réduisant le coût en points de psi de {3} pour Psychokinèse ou Métathermique au hasard. Toutes les autres écoles psi non boostées ont leur coût en points de psi augmenté de {4}. Dure {5} tours. Consomme {6} d'énergie.

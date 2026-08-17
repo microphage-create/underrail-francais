@@ -1,0 +1,612 @@
+=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+We gotta figure out what to do next.<end>
+
+=>q2
+On doit trouver quoi faire ensuite.<end>
+
+=>q3_original
+I thought we were doomed.<end>
+
+=>q3
+Je croyais qu'on était condamnés.<end>
+
+=>q4_original
+The earthquake brought so much trouble for us.<end>
+
+=>q4
+Le tremblement de terre nous a causé tant de problèmes.<end>
+
+=>q5_original
+At least we are not dead.<end>
+
+=>q5
+Au moins, nous ne sommes pas morts.<end>
+
+=>q6_original
+Are they still here?<end>
+
+=>q6
+Ils sont toujours là ?<end>
+
+=>a7_original
+I've dealt with all the bandits. You are safe now.<end>
+
+=>a7
+Je me suis occupé de tous les bandits. Vous êtes en sécurité maintenant.<end>
+
+=>q8_original
+Woah... Uhh, I got no clue what we'll do now. Either way, thank you.<end>
+
+=>q8
+Ouah... Je ne sais pas ce qu'on va faire. De toute façon, merci.<end>
+
+=>a9_original
+You guys are now on your own. ::Leave.::<end>
+
+=>a9
+Vous êtes maintenant seuls. ::Partir.::<end>
+
+=>a10_original
+::Nod and leave.::<end>
+
+=>a10
+::Hochez la tête et partez.::<end>
+
+=>a11_original
+Not yet.<end>
+
+=>a11
+Pas encore.<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+I-I don't want to do anything with this.<end>
+
+=>q13
+Je ne veux rien faire avec ça.<end>
+
+=>q14_original
+Did you come here to finish us?<end>
+
+=>q14
+Tu es venu ici pour nous finir ?<end>
+
+=>q15_original
+Woah, hey. Just leave me alone.<end>
+
+=>q15
+Ouais. Laisse-moi tranquille.<end>
+
+=>q16_original
+I've made peace with what is to come.<end>
+
+=>q16
+J'ai fait la paix avec ce qui est à venir.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+::Surprised by your arrival, this drained man before you starts looking at you from bottom to top. His clothes, still in decent shape, are in total contradiction with the condition of his skin. Dark circles under his eyes stretch far below, as if he didn't sleep for days. Accumulated green food stains around his dry mouth indicate a high degree of hygiene negligence. His facial expression shows that you were not the person he was hoping to see. Questioning your arrival, it takes him a few seconds to formulate his words.::
+
+W-woah, who are you and uhh, ::he licks his lips ::how did you get in here? ::He continues to stare at you in confusion.::<end>
+
+=>q18
+::Surpris par votre arrivée, cet homme drainé avant de commencer à vous regarder de bas en haut. Ses vêtements, toujours en forme décente, sont en totale contradiction avec l'état de sa peau. Des cercles sombres sous ses yeux s'étendent bien en dessous, comme s'il n'avait pas dormi pendant des jours. Les taches de nourriture verte accumulées autour de sa bouche sèche indiquent un degré élevé de négligence en matière d'hygiène. Son expression faciale montre que vous n'étiez pas la personne qu'il espérait voir. En questionnant votre arrivée, il lui faut quelques secondes pour formuler ses mots.::
+
+Qui êtes-vous, ::il lèche ses lèvres::, comment êtes-vous entré ici ? ::Il continue à vous regarder dans la confusion.::<end>
+
+=>a19_original
+I'm $(context.player.Name), from South Gate Station.<end>
+
+=>a19
+Je suis $(context.player.Name), de South Gate Station.<end>
+
+=>q20_original
+Oh, SGS? ::You notice the shock on his face.:: Have you uhh, have you come here to settle the debt?<end>
+
+=>q20
+Oh, SGS ? ::Vous remarquez le choc sur son visage.:: Tu es venu ici pour régler la dette ?<end>
+
+=>a21_original
+I don't understand.<end>
+
+=>a21
+Je ne comprends pas.<end>
+
+=>q22_original
+Uhh, considering everything that went down, it better stay that way. ::He starts looking past you, deliberately attempting to avoid any eye contact with you.::<end>
+
+=>q22
+Vu tout ce qui s'est passé, il vaut mieux rester ainsi. ::Il commence à te regarder, à essayer délibérément d'éviter tout contact visuel avec toi.::<end>
+
+=>a23_original
+Go ahead you can tell me, I won't bite.<end>
+
+=>a23
+Vous pouvez me dire que je ne mordrai pas.<end>
+
+=>q24_original
+Uhh. ::He stops to think for a moment.:: you see, uhm... how should I say this... We are a bunch of *smugglers*, there I said it! ::He frantically looks around.:: And this, this hole, it's the place where we ended up in. Eventually, all the bad stuff catches up to you... And we... we're stuck, hell we even started to run out of stuff... All but food... ::A sudden pause followed up by some, quite strange mannerisms, leaves you hanging for further information.::<end>
+
+=>q24
+Oui. ::Il s'arrête pour réfléchir un moment.:: vous voyez, euh... comment devrais-je dire ça... Nous sommes un tas de "smugglers", je l'ai dit ! ::Il regarde frénétiquement.:: Et ce trou, c'est l'endroit où nous avons fini. Finalement, toutes les mauvaises choses te rattrapent... Et nous... nous sommes coincés, en enfer nous avons même commencé à manquer de trucs... Sauf la nourriture... ::Une pause soudaine suivie de quelques maniérismes assez étranges vous laisse accrocher pour plus d'informations.::<end>
+
+=>a25_original
+I have plenty of time. I assure you that it's in your interest to tell me more.<end>
+
+=>a25
+J'ai beaucoup de temps. Je vous assure qu'il est dans votre intérêt de me dire plus.<end>
+
+=>q26_original
+Uhh, ::he looks over his shoulder for a moment:: I don't really know how would everyone else feel about me if I were to lay it out all out, you know? ::All this talk makes him realize his mouth was covered in food stains, which he proceeds to wipe off with his skinny fingers.::<end>
+
+=>q26
+::il regarde par-dessus son épaule un moment:: Je ne sais pas vraiment ce que tout le monde penserait de moi si je devais tout expliquer. ::Tout ce discours lui fait réaliser que sa bouche était couverte de taches de nourriture, qu'il procède à essuyer avec ses doigts maigres.::<end>
+
+=>a27_original
+At this point, it seems you have nothing to lose.<end>
+
+=>a27
+À ce stade, il semble que vous n'ayez rien à perdre.<end>
+
+=>q28_original
+::He finishes cleaning up and nods slowly.:: I suppose you are right about that. They'll understand it. ::He stops for a moment to reflect upon himself, looking at his bare, weak hands. You can see that he's regretful as he proceeds to address you while looking down at his feet.:: Pretty much anything you could imagine went through here. All we cared about was to get paid, no allegiance to anyone or anything. We invited chaos and it came for us. ::He gasps.::<end>
+
+=>q28
+::Il finit par nettoyer et hoche lentement.:: Je suppose que vous avez raison. Ils comprendront. ::Il s'arrête un instant pour réfléchir sur lui-même, regardant ses mains nues et faibles. Vous pouvez voir qu'il est triste alors qu'il s'adresse à vous en regardant ses pieds.:: Tout ce que vous pouvez imaginer est passé par ici. Tout ce qui nous importait, c'était d'être payés, pas d'allégeance à qui que ce soit. Nous avons invité le chaos et il est venu pour nous. ::Il halète.::<end>
+
+=>a29_original
+What was contained in those shipments?<end>
+
+=>a29
+Que contenait ces envois?<end>
+
+=>q30_original
+All I will tell you is that one of those shipments contained a pair of these plasma sentries that walk around here. As if it couldn't get any worse, the damn machines went berserk on us out of nowhere. You see, they'd only bother us when they start running low on batteries. We figured this out the hard way. ::He shrugs his shoulders.:: We couldn't keep providing the power they needed, hence we went out, searching for more. Some have yet to return. ::He sighs.::<end>
+
+=>q30
+Tout ce que je vais vous dire, c'est qu'une de ces cargaisons contenait une paire de sentinelles de plasma qui marchent ici. Comme si ça ne pouvait pas empirer, ces satanées machines sont tombées sur nous de nulle part. Tu vois, ils ne nous embêteraient que quand ils commenceraient à rouler à basse tension. On a trouvé ça dur. ::Il lui écrase les épaules.:: Nous ne pouvions pas continuer à fournir le pouvoir dont ils avaient besoin, d'où nous sommes sortis, cherchant plus. Certains n'ont pas encore pu revenir. ::Il soupire.::<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Were you going to be the next one sent to scavenge?<end>
+
+=>a32
+Tu allais être le prochain envoyé à la chasse ?<end>
+
+=>q33_original
+It's going to be either Hannah or me, yes. Those ventures have always proven to be fatal. We have to figure something out to get out of here.<end>
+
+=>q33
+Ça va être Hannah ou moi, oui. Ces projets se sont toujours révélés fatals. Nous devons trouver quelque chose pour sortir d'ici.<end>
+
+=>a34_original
+I find it hard to believe that. They are just mindless robots.<end>
+
+=>a34
+J'ai du mal à croire ça. Ce ne sont que des robots sans esprit.<end>
+
+=>q35_original
+I'm not kidding. ::He nods.:: Sometimes I feel that even looking at the charging station we've made for those sentries could make them go on rampage. But you know, eventually, you get used to the new rules. Keep your distance away from those batteries for your own good. ::He pulls up his sleeve to reveal a large bruise on his right shoulder. It looks painful and swollen.:: Or this'll happen.<end>
+
+=>q35
+Je ne plaisante pas. ::Il acquiesce.:: Parfois, j'ai l'impression que même en regardant la borne de recharge que nous avons faite pour ces sentinelles pourraient les faire aller en rampant. Mais tu sais, finalement, tu t'habitues aux nouvelles règles. Gardez votre distance de ces batteries pour votre propre bien. ::Il relève sa manche pour révéler une grosse ecchymose sur son épaule droite. Ça a l'air douloureux et gonflé.:: Ou ça arrivera.<end>
+
+=>a36_original
+Hmm, okay. I'll see what I can do about those robots.<end>
+
+=>a36
+Ça va. Je vais voir ce que je peux faire pour ces robots.<end>
+
+=>a37_original
+I'll just mind my own business.<end>
+
+=>a37
+Je m'occupe de mes affaires.<end>
+
+=>a38_original
+What do the others say about this?<end>
+
+=>a38
+Que disent les autres à ce sujet ?<end>
+
+=>q39_original
+We're all devastated here. Some have lost their loved ones, and the others, their so called "careers" and petty fortune. At this point, we just don't have what it takes to take them all down. There's no hope left.<end>
+
+=>q39
+Nous sommes tous dévastés ici. Certains ont perdu leurs proches, et les autres, leurs soi-disant "soins" et leur petite fortune. À ce stade, on n'a pas ce qu'il faut pour les faire tomber. Il ne reste plus aucun espoir.<end>
+
+=>a40_original
+Why don't you just leave this place?<end>
+
+=>a40
+Pourquoi ne pas quitter cet endroit ?<end>
+
+=>q41_original
+We've put so much effort into making this place work out for us, you know? It's sort of... our new home. ::He pauses.:: Pretty much everyone else's still in shock from the recent events we've endured. Besides that, you've seen what's out there, and we're simply in no shape to move out just like that.<end>
+
+=>q41
+On a fait tant d'efforts pour que cet endroit fonctionne pour nous. C'est un peu... notre nouvelle maison. ::Il fait une pause.:: Presque tout le monde est toujours sous le choc des récents événements que nous avons endurés. En plus de ça, tu as vu ce qu'il y a dehors, et nous ne sommes tout simplement pas en forme pour déménager comme ça.<end>
+
+=>a42_original
+So, what's causing all the trouble here?<end>
+
+=>a42
+Qu'est-ce qui cause tous les ennuis ici ?<end>
+
+=>a43_original
+It seems you guys have plenty of stuff here.<end>
+
+=>a43
+Il semble que vous ayez plein de trucs ici.<end>
+
+=>q44_original
+Huh? ::He looks you in the eyes.:: W-what do you mean by that?<end>
+
+=>q44
+Quoi ? ::Il te regarde dans les yeux.:: W-que voulez-vous dire par là ?<end>
+
+=>a45_original
+Just an observation. Continue please, I believe there's more you can tell me about the situation here.<end>
+
+=>a45
+Juste une observation. Continuez, je crois qu'il y a plus que vous pouvez me parler de la situation ici.<end>
+
+=>a46_original
+The loot. It's all I care about and it's about to be all mine! ::Attack!::<end>
+
+=>a46
+Le butin. C'est tout ce qui m'importe et c'est sur le point d'être tout à moi ! ::Attaque!::<end>
+
+=>a47_original
+A criminal? I hate the likes of you! ::Attack!::<end>
+
+=>a47
+Un criminel ? Je vous déteste ! ::Attaque!::<end>
+
+=>a48_original
+Strange that you mention that. How bad can it be?<end>
+
+=>a48
+Étrange que tu en parles. C'est grave ?<end>
+
+=>a49_original
+Yeah, I don't really care.<end>
+
+=>a49
+Je m'en fiche.<end>
+
+=>q50_original
+Don't get me wrong. It has nothing to do with you. ::He peeks at you for a second only to turn back right after.:: Things out here were just going from bad to worse. At this point we could use any help we can get to bail out of this mess.<end>
+
+=>q50
+Ne vous méprenez pas. Ça n'a rien à voir avec toi. ::Il vous regarde une seconde seulement pour revenir en arrière.:: Les choses allaient de pire en pire. À ce stade, nous pourrions avoir besoin d'aide pour sortir de ce bordel.<end>
+
+=>a51_original
+Hmm, sure. I'll listen.<end>
+
+=>a51
+Bien sûr. Je vais écouter.<end>
+
+=>a52_original
+::Turn around and leave.::<end>
+
+=>a52
+::Faites demi-tour et partez.::<end>
+
+=>a53_original
+Suppose I'll just rip the secrets out of your heart! ::Attack!::<end>
+
+=>a53
+Supposons que je t'arrache les secrets du cœur ! ::Attaque!::<end>
+
+=>a54_original
+Yes, it's the time you pay for your crimes.<end>
+
+=>a54
+Oui, c'est le moment où vous payez pour vos crimes.<end>
+
+=>q55_original
+Uhh, I-I don't know what to tell you. ::He steps back.:: This has nothing to do with the rest of us here. <end>
+
+=>q55
+Je ne sais pas quoi te dire. ::Il recule.:: Ça n'a rien à voir avec nous. <end>
+
+=>a56_original
+I will reconsider my judgement if you tell me everything about this place.<end>
+
+=>a56
+Je reconsidérerai mon jugement si vous me dites tout sur cet endroit.<end>
+
+=>a57_original
+What seems to be the problem here?<end>
+
+=>a57
+Quel est le problème ici ?<end>
+
+=>a58_original
+All thieves deserve to die! ::Attack!::<end>
+
+=>a58
+Tous les voleurs méritent de mourir ! ::Attaque!::<end>
+
+=>a59_original
+I'm $(context.player.Name). I came from the northeast side of the cave.<end>
+
+=>a59
+Je suis $(context.player.Name). Je suis venu du côté nord-est de la grotte.<end>
+
+=>q60_original
+Uhh, did you see someone before you got here?<end>
+
+=>q60
+Tu as vu quelqu'un avant d'arriver ?<end>
+
+=>a61_original
+I'm investigating something highly confidential. I did run into some muggers along the way.<end>
+
+=>a61
+J'enquête sur quelque chose de très confidentiel. J'ai rencontré des agresseurs en chemin.<end>
+
+=>q62_original
+Oh... ::He stops for a moment.:: Those people came from here. I'm sorry if they acted hostile towards you.
+<end>
+
+=>q62
+Oh... ::Il s'arrête un moment.:: Ces gens sont venus d'ici. Je suis désolé s'ils ont agi hostile envers vous.
+<end>
+
+=>a63_original
+No offense taken. What's going on here, though?<end>
+
+=>a63
+Sans vouloir vous offenser. Mais qu'est-ce qui se passe ici ?<end>
+
+=>a64_original
+I see. Bunch of troublemakers.<end>
+
+=>a64
+Je vois. Un tas de fauteurs de troubles.<end>
+
+=>q65_original
+Huh? Uhh, please don't take this wrong. We wouldn't have sent anyone out if we didn't got into this mess ourselves.<end>
+
+=>q65
+Quoi ? Ne vous méprenez pas. On n'aurait envoyé personne si on n'était pas dans ce pétrin.<end>
+
+=>a66_original
+What mess?<end>
+
+=>a66
+Quoi ?<end>
+
+=>a67_original
+So you are just one of them. Time to put you in your place! ::Attack!::<end>
+
+=>a67
+Donc tu n'es qu'un des leurs. Il est temps de te mettre à ta place ! ::Attaque!::<end>
+
+=>a68_original
+None of my business.<end>
+
+=>a68
+Ça ne me regarde pas.<end>
+
+=>a69_original
+I was just scavenging around and ended up in here. I was all alone.<end>
+
+=>a69
+J'étais juste en train de chercher et je me suis retrouvé ici. J'étais toute seule.<end>
+
+=>q70_original
+All alone? ::He looks to the ground.:: It... it all went off the rails after the earthquake struck.<end>
+
+=>q70
+Tout seul ? ::Il regarde vers le sol.:: Tout... tout est parti des rails après le tremblement de terre.<end>
+
+=>a71_original
+Is something wrong?<end>
+
+=>a71
+Quelque chose ne va pas ?<end>
+
+=>a72_original
+My name is not of concern here. What is this place about?<end>
+
+=>a72
+Mon nom ne m'intéresse pas. De quoi parle cet endroit ?<end>
+
+=>q73_original
+Huh? Look, whatever trouble you had to go through to get here... ::he stops for a moment:: it had nothing to do with the rest of us, okay? <end>
+
+=>q73
+Quoi ? Ecoute, quel que soit le problème que tu as dû traverser pour arriver ici... ::il s'arrête un moment:: ça n'a rien à voir avec nous autres, ok ? <end>
+
+=>a74_original
+We'll see about that. Tell me more.<end>
+
+=>a74
+On va voir ça. Dis-moi plus.<end>
+
+=>q75_original
+Look, I-I don't know what your intentions are, nor how did you end up in here, okay? ::He looks over his shoulder and down the hall as if he's expecting someone.:: We are not looking for any more trouble than we already have here, alright?<end>
+
+=>q75
+Écoute, je ne sais pas ce que sont tes intentions, ni comment tu as fini ici, ok ? ::Il regarde par-dessus son épaule et dans le couloir comme s'il attendait quelqu'un.:: Nous ne cherchons pas plus de problèmes que nous n'avons déjà ici, d'accord ?<end>
+
+=>a76_original
+And why should I care?<end>
+
+=>a76
+Et pourquoi ça m'intéresse ?<end>
+
+=>q77_original
+At this point I-I don't know. ::He shakes his head, side to side.:: We ... ::He sighs:: we need any help we can get.<end>
+
+=>q77
+Je ne sais pas. ::Il secoue la tête, côte à côte.:: Nous ... ::Il soupire:: nous avons besoin d'aide que nous pouvons obtenir.<end>
+
+=>a78_original
+Hmph, okay. Let me hear it.<end>
+
+=>a78
+C'est bon. Laissez-moi l'entendre.<end>
+
+=>a79_original
+I'll just mind my own business.<end>
+
+=>a79
+Je m'occupe de mes affaires.<end>
+
+=>a80_original
+Trouble? Oh I'll bring you some trouble! ::Attack!::<end>
+
+=>a80
+Des problèmes ? Je vais t'apporter des ennuis ! ::Attaque!::<end>
+
+=>a81_original
+Stay out of my way.<end>
+
+=>a81
+Reste en dehors de mon chemin.<end>
+
+=>a82_original
+Actually, nevermind. I don't care anymore.<end>
+
+=>a82
+En fait, jamais. Je m'en fiche.<end>
+
+=>a83_original
+Just let me do my thing.<end>
+
+=>a83
+Laisse-moi faire mon truc.<end>
+
+=>q84_original
+Uhh, yeah?<end>
+
+=>q84
+Ah oui ?<end>
+
+=>a85_original
+The robots are no more.<end>
+
+=>a85
+Les robots ne sont plus.<end>
+
+=>q86_original
+Woah, I thought we'd never get rid of them. Crazy stuff.<end>
+
+=>q86
+Je pensais qu'on ne se débarrasserait jamais d'eux. Des trucs fous.<end>
+
+=>a87_original
+Yeah, now you are on your own.<end>
+
+=>a87
+Ouais, maintenant tu es tout seul.<end>
+
+=>q88_original
+I will consult with the others. We are kinda stuck in here you know.<end>
+
+=>q88
+Je vais consulter les autres. On est coincés ici.<end>
+
+=>a89_original
+Goodbye for now.<end>
+
+=>a89
+Au revoir pour l'instant.<end>
+
+=>a90_original
+::Nod and leave.::<end>
+
+=>a90
+::Hochez la tête et partez.::<end>
+
+=>a91_original
+Now you are free to do as you wish.<end>
+
+=>a91
+Maintenant vous êtes libre de faire ce que vous voulez.<end>
+
+=>a92_original
+Do you mind telling me more about this place?<end>
+
+=>a92
+Tu peux me parler de cet endroit ?<end>
+
+=>a93_original
+Time to die! ::Attack!::<end>
+
+=>a93
+Il est temps de mourir ! ::Attaque!::<end>
+
+=>a94_original
+Nothing much.<end>
+
+=>a94
+Rien.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>q96_original
+Weird stuff in here.<end>
+
+=>q96
+Des trucs bizarres ici.<end>
+
+=>q97_original
+Woooah! <end>
+
+=>q97
+C'est pas vrai ! <end>
+
+=>q98_original
+::Moves his head in circles.::<end>
+
+=>q98
+::Il bouge la tête en rond.::<end>
+
+=>q99_original
+::Breathes heavily.::<end>
+
+=>q99
+::Respire fortement.::<end>
+
+=>q100_original
+::Clears throat loudly.::<end>
+
+=>q100
+::Ça efface la gorge.::<end>
+
+=>q101_original
+The walls, they are moving back and forth.<end>
+
+=>q101
+Les murs, ils vont et viennent.<end>
+

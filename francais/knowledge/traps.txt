@@ -1,0 +1,68 @@
+::FragMine
+Place une mine à fragmentation sur la case ciblée. À l'activation, tous ceux pris dans le souffle subissent {0} de dégâts, plus les dégâts de {1}-{2} éclats, chaque éclat infligeant {3} de dégâts. Plus on est près de la détonation, plus la chance de prendre des éclats est élevée.
+
+::HeMine
+Place une mine HE sur la case ciblée. À l'activation, tous ceux pris dans le souffle subissent {0} de dégâts et {1} de dégâts. Ignore {2} % de la résistance et du seuil de dégâts.
+
+::EmpMine
+Place une mine EMP sur la case ciblée. À l'activation, tous les automates pris dans le souffle subissent {0} de dégâts (ignore résistances et boucliers) et sont stun pendant {1} tours. Toutes les autres cibles voient leur équipement électronique vidé de toute son énergie et subissent des dégâts électriques égaux à {2} % de l'énergie drainée.
+
+::PlasmaMine
+Place une mine à plasma sur la case ciblée. À l'activation, tous ceux pris dans le souffle subissent {0} et {1} de dégâts.
+
+::AcidBlob
+Place un piège chimique spécial qui, à l'activation, emprisonne la cible dans une boue acide, infligeant {0} de dégâts sur {1} et l'empêchant de bouger.
+
+::CorrosiveAcidBlob
+Place un piège chimique spécial qui, à l'activation, emprisonne la cible dans une boue acide, infligeant {0} de dégâts sur {1} et l'empêchant de bouger. Chaque tour d'enchevêtrement applique aussi {2} stacks du debuff Corrodé, qui réduit toutes les résistances et seuils de dégâts de {3} % par stack pendant {4}. Stacks jusqu'à {5} fois.
+
+::RustingAcidBlob
+Place un piège chimique spécial qui, à l'activation, emprisonne la cible dans une boue acide, infligeant {0} de dégâts sur {1} et l'empêchant de bouger. Dégâts augmentés de {2} % contre les machines. Chaque tour d'enchevêtrement applique aussi {3} stacks du debuff Rouille, qui réduit la durabilité de tous les objets mécaniques en possession de la cible de {4} par stack chaque tour pendant {5}. Stacks jusqu'à {6} fois.
+
+::CryoliquidBlob
+Place un piège chimique spécial qui inflige {0} de dégâts à l'activation et gèle la cible jusqu'à {1}.
+
+::IncendiaryBlob
+Place un piège chimique spécial qui enflamme la cible, infligeant jusqu'à {0} de dégâts sur jusqu'à {1}.
+
+::BearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+
+::HopperTrap
+Place un piège mécanique sans dégâts, capable de capturer de petits animaux à faible force jusqu'à {0}.
+
+::PoisonedBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible de {5}, qui inflige {6} de dégâts par stack chaque tour pendant jusqu'à {7} tours.
+
+::PoisonedBearTrapStacked
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible de {4} stacks de {5}, qui inflige {6} de dégâts par stack chaque tour pendant jusqu'à {7} tours.
+
+::CaveEarPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible du poison d'oreille des caves, qui augmente tous les dégâts biologiques subis de {4} % et réduit la perception de {5}. Dure jusqu'à {6}.
+
+::CrawlerPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible du poison de crawler, qui inflige {4} de dégâts par tour pendant {5}. Si le poison n'est pas retiré avant expiration, la victime est stun pendant {6}.
+
+::BlackDragonPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible du poison de dragon noir, qui cause une inhibition psionique : la victime ne peut plus lancer de pouvoirs psi ni régénérer de points psi. Dure {4}.
+
+::SpiritPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible du poison d'esprit, qui inflige {4} de dégâts par tour pendant {5} et réduit le sang-froid de {6} %. Si le poison n'est pas retiré avant expiration, il invoque un doppelgänger psionique de la victime si elle est humanoïde.
+
+::BlindingPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible de {4} stacks de poison aveuglant, qui inflige {5} de dégâts par stack chaque tour pendant jusqu'à {6} et réduit la perception de {7}. Stacks {8} fois.
+
+::LeperPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible de {4} stacks de poison de lépreux, qui inflige {5} de dégâts par stack chaque tour pendant jusqu'à {6} et augmente tous les dégâts mécaniques subis de {7} %. Stacks {8} fois.
+
+::HeartbreakPoisonBearTrap
+Place un piège à ours mécanique qui inflige {0} de dégâts instantanément, applique une plaie saignante pour {1} % des dégâts initiaux sur {2} et ancre la victime sur place pendant {3}.
+À l'activation, afflige aussi la cible de {4} stacks de poison heartbreak, qui inflige {5} de dégâts par stack chaque tour pendant jusqu'à {6}. Stacks {7} fois. S'il expire naturellement, il inflige ensuite une grosse salve de dégâts qui croît très vite avec chaque stack.

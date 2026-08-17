@@ -1,0 +1,1028 @@
+::Feats
+Talents
+
+::GeneralInfo
+Les talents sont des traits ou techniques que ton perso a appris avec le temps.
+
+::S2
+Tu peux activer Sprint : +{0} PM pendant {1}. Inactif en furtif.
+
+Recharge : {2}.
+
+::AS
+Tir visé avec n'importe quelle arme à distance monotarget : crit garanti.
+
+Recharge : {0}.
+
+::S-old
+Attaque spéciale arbalète ou sniper : dégâts bonus par point de furtivité. Uniquement en furtif. Ne peut pas crit.
+
+Recharge : {0}.
+
+::S
+Attaque spéciale arbalète ou sniper : {0}% des dégâts d'arme + {1}% par point de furtivité. Uniquement en furtif. Ne peut pas crit.
+
+Recharge : {2}.
+
+::CookedShot
+Attaque spéciale au pistolet à blob chimique : gros blob sur la zone, dégâts d'arme normaux dans un petit rayon. Coût : {0}% des PA d'une attaque normale.
+
+Recharge : {1}.
+
+::A
+Si ton snipe inflige plus de {0}% des PV restants de la cible, elle meurt sur le coup. La cible ne doit pas te savoir présent avant le tir.
+
+Cibles biologiques uniquement.
+
+::KCS-Old
+Attaque pistolet, arbalète ou mitraillette : dégâts normaux + plaie saignante ({0}% des dégâts d'origine sur {2} + {1}% par point de Perception) et retire tous les PM pendant {2} (la cible peut encore bouger avec des PA).
+
+Cibles vivantes seulement (avec genoux). Recharge : {3}.
+
+::KCS
+Attaque pistolet, arbalète ou mitraillette : dégâts normaux + plaie saignante ({0}% des dégâts d'origine sur {1}) et retire tous les PM pour la même durée.
+
+Cibles vivantes seulement (avec genoux).
+
+Recharge : {2}.
+
+::KCS-XPBL
+Attaque pistolet, arbalète, mitraillette ou fusil à pompe : dégâts normaux + plaie saignante ({0}% des dégâts d'origine sur {1}) et retire tous les PM pour la même durée.
+
+Cibles vivantes seulement (avec genoux).
+
+Recharge : {2}.
+
+::SS-Old
+Bonus de crit d'arme quand tu es pleinement focus :
+
+Pistolets +{0}%
+Arbalètes +{1}%
+Snipers +{2}%
+
+::SS
++{0}% dégâts crit avec pistolets, arbalètes et snipers quand tu es pleinement focus. Les pistolets à feu ont ce bonus en permanence, focus ou non.
+
+::O
++{0}% dégâts contre cibles immobilisées, stun ou incapacité, +{1}% contre cibles ralenties (armes, mains nues, couteaux de lancer).
+
+Cibles vivantes uniquement.
+
+::O-XPHW
++{0}% dégâts contre cibles immobilisées, stun ou incapacité, +{1}% contre cibles ralenties (armes hors AoE, mains nues, couteaux de lancer).
+
+Cibles vivantes uniquement.
+
+::G
+-{0} PA pour tirer au pistolet et +{1} initiative en le tenant. Armes à feu seulement.
+
+::QR
++20% vitesse d'attaque à l'arbalète.
+
+::PE
+Permet d'apprendre et d'invoquer des pouvoirs psi, mais PV de base réduits de {0}%.
+
+::CI
+Durée des effets de froid de tes pouvoirs psi +{0}. Permet de briser les cibles en cryostase si l'attaque inflige plus de {1}% des PV restants (seuls les dégâts mécaniques et de froid comptent).
+
+Aussi +{2}% PV à la barrière cryogénique.
+
+::IM
+Attaque spéciale à courte portée au pistolet : {0}% des dégâts d'arme contre cibles stun ou incapacité. Incompatible avec les pistolets dont les dégâts principaux touchent plusieurs cibles. Coûte 5 PA de plus qu'une attaque normale.
+
+Recharge : {1}.
+
+::H
+Tes pouvoirs métathermiques de froid réduisent aussi la Constitution de la cible de {0}. Stack jusqu'à {1} fois, durée max {2}.
+
+Mitigé par la résistance au froid ; immunité au gel/froid = immunité à l'hypothermie.
+
+::I
+Malus de vitesse en furtif abaissé à {0}%. Tu conserves jusqu'à {1} PM en combat en furtif.
+
+::ST
+Si tu restes plus de {0} s en furtif, tu gagnes {1}% de déplacement. L'effet dure toute la furtivité + {2} s après.
+
+::CT-Old
++{0}% dégâts de base de Surcharge neuronale. À chaque hit : -{1}% gains de points psi de la cible pendant {2} tours. Stack {3} fois.
+
+::CT
++{0}% dégâts de base de Surcharge neuronale. À chaque hit : brûle {1}% du max de points psi de la cible.
+
+::MS
+Chaque pouvoir psi offensif d'influence mentale qui touche réduit le sang-froid de la cible d'un petit pourcentage, jusqu'à {0}% au total.
+
+::CO
+-{0}% dégâts mécaniques, chaleur et froid subis, +{1}% par point de Constitution au-dessus de {2}.
+
+::DS-old
+Précision arbalète améliorée avec les carreaux spéciaux et retire le coût PA additionnel.
+
+::DS
+Retire le coût PA additionnel des carreaux spéciaux.
+
+::TD-Old
+Après un pouvoir psi de chaleur, tu gagnes thermodynamie : -{0}% coût psi du prochain pouvoir de froid, et inversement.
+
+Si non utilisé, expire après {1}.
+
+::TD
+Après un pouvoir psi de chaleur, tu gagnes thermodynamie : -{0}% coût en PA du prochain pouvoir de froid, et inversement.
+
+Si non utilisé, expire après {1}.
+
+::PM-Old
+Quand tu infliges des dégâts avec des pouvoirs psi de feu, {0}% de chances d'enflammer la cible : {1}% de ces dégâts encore sur {2} tours.
+
+Enflammer une cible vivante la met en panique extrême.
+
+::PM
+Quand tu infliges des dégâts avec des pouvoirs psi de feu, chance d'enflammer la cible : {0}% de ces dégâts encore sur {1} tours.
+
+Enflammer une cible vivante la met en panique extrême.
+
+::FullAuto
+Deux balles en plus sur le burst fusil d'assaut / mitraillette si tu es assez fort pour encaisser le recul.
+
+::FullAuto-XPBL
+Deux balles en plus sur le burst fusil d'assaut / mitraillette et une cartouche en plus sur le burst pompe, si tu encaisses le recul.
+
+::FullAuto-XPHW
+Deux balles en plus sur le burst fusil d'assaut, mitraillette, LMG et minigun si tu encaisses le recul.
+
+::FullAuto-XPBLXPHW
+Deux balles en plus sur le burst fusil d'assaut, mitraillette, LMG et minigun, et une cartouche en plus sur le burst pompe, si tu encaisses le recul.
+
+::MagDump
++{0} balles bonus pour le burst LMG, et +{1} balles bonus par stack de montée en régime pour le burst minigun.
+
+::Ambush
+Depuis l'ombre vers une cible éclairée, avec une arme à distance monotarget : ignore la moitié de l'évitement de la cible, +{0}% taux de crit + {1}% par point de furtivité.
+
+::ForceUser
+La télékinésie est avec toi.
+
++{0}% dégâts du coup télékinétique, force field +{1}% PV et +{2} tours, force emission -{3} points psi.
+
+::LocusOfControl
+Tu es maître de ton destin.
+
+Active : retire et immunise contre stun, peur, incapacité et contrôle mental pendant {0}.
+
+Pendant l'effet, tout pouvoir de contrôle mental peut être lancé en AoE, ce qui termine l'effet.
+
+Recharge : {1}.
+
+::Tranquility-Old
+-{0}% coût en points psi de tous les pouvoirs psi, mais + même % en PA.
+
+::Tranquility
+-{0} PA pour tous les pouvoirs psi à PV max.
+
+::Psychosis
++{0}% taux de crit des pouvoirs psi, mais +{1}% coût en points psi.
+
+::Premeditation-Old
+Active : prochain pouvoir psi gratuit en psi et +{0} portée.
+
+Recharge : {1}.
+
+::Premeditation
+Active : prochain pouvoir psi -{0}% coût psi, -{1}% PA et +{2} portée. Pas de bonus de portée pour les pouvoirs canalisés.
+
+Recharge : {3}.
+
+::Cutthroat
+Attaque furtive puissante au couteau dans le dos : ignore résistances et boucliers, plaie saignante ({0}% dégâts sur {1}) et stun pour la même durée.
+
+Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+
+Coût PA : {2}. Recharge : {3}.
+
+::Sap
++{2}% dégâts aux barres à mine, et attaque spéciale dans le dos : ignore résistances et boucliers, incapacité jusqu'à {0}.
+
+Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+
+Recharge : {1}.
+
+::Doctor
+Tu soignes n'importe quelle blessure avec des bandages. +{0}% PV reçus des médicaments de soin.
+
+::PowerManagement
+Appareils électroniques craftés : +{0}% capacité d'énergie.
+
+::LightningPunches-Old
+-{0} PA pour l'attaque à mains nues si malus d'armure sous {1}%.
+
+::LightningPunches
+-{0} PA pour mains nues et armes de poings si malus d'armure sous {1}%.
+
+::Deflection
+Mains nues ou armes de poings : esquive +{0}% de ta compétence Mêlée.
+
+::--ChuckAttack
+Roundhouse kick puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
+
+Un peu de renommée et d'infamie la première fois.
+
+Recharge : {3}.
+
+::Burglar
+-{0}% temps de crochetage et de piratage. +{1} furtivité en zones contrôlées.
+
+::NinjaLooter
+-{0}% temps de vol à la tire. -{1}% soupçon levé en volant si caché de la cible.
+
+::QuickPockets
+Un emplacement d'utilitaire en plus. -{0}% PA pour équiper des objets en combat.
+
+::Snooping
++{0} Perception pour détecter passages secrets et autres planques.
+
+::Recklessness
++{0}% taux de crit armes et mains nues, mais +{1}% chances de te faire crit (armes, mains nues, psi).
+
+::Nimble
+-{0}% malus d'armure. Si malus d'armure à zéro : +{1}% esquive et évitement.
+
+::SpecialTactics
+Active : prochain carreau spécial gratuit en PA. Activable hors combat uniquement.
+
+Recharge : {0} s.
+
+::Pummel
+Attaque spéciale à la masse : {0}% dégâts d'arme, ne ignore pas le seuil de dégâts, met les cibles vivantes hors d'équilibre pendant {1} si elle touche. Coût : seulement {2} PA.
+
+Hors d'équilibre : esquive et évitement à zéro.
+
+Recharge : {3}
+
+::Shroomhead-Old
+Tu regénères des points psi près des mindshrooms si tu es sous {0}% de ta capacité psi.
+
+::Shroomhead
+Ton subconscient est branché sur le mycélium : +{0} points psi en ramassant des mindshrooms.
+
+::Yell
+Cri intimidant : réduit la préparation au combat des ennemis autour et les sort de furtif. Skills offensifs réduits de {0}% de ton skill Intimidation pendant {1}.
+
+Recharge : {2}.
+
+::HitAndRun
+À chaque kill en mêlée ou à distance, tes PM repassent à {0} (sans dépasser ton max) s'ils étaient en dessous.
+
+Peut se proc plusieurs fois dans le même tour, mais l'effet est divisé par deux à chaque fois.
+
+::DirtyKick-Old
+Attaque spéciale à mains nues : dégâts normaux + stun cibles vivantes pendant {0}. Homme humain : stun {1} à la place.
+
+Recharge : {2}.
+
+::DirtyKick
+Attaque de mêlée spéciale pour {3} PA : dégâts mains nues augmentés + stun cibles vivantes pendant {0}. Homme humanoïde : stun {1} à la place.
+
+Peu importe l'arme équipée. Les dégâts scale avec ton attaque à mains nues.
+
+Recharge : {2}.
+
+::HeavyPunch
+Attaque inconditionnelle mains nues ou arme de poings : {0}% dégâts pour {1}% du coût PA.
+
+Recharge : {2}.
+
+::CripplingStrike
+Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Force si ça traverse l'armure. Durée {2}. Stack {3} fois.
+
+Cibles vivantes uniquement.
+
+Recharge : {4}.
+
+::BoneBreaker
+Les crits de mêlée contondante cassent les côtes s'ils infligent au moins {0}% des PV max en dégâts mécaniques. Côtes cassées : +{1}% dégâts mécaniques de toutes sources.
+
+Durée {2}, stack jusqu'à {3}. Cibles avec des côtes uniquement.
+
+::BoneBreaker_Cleave
+Si l'attaque inflige au moins {0}% des PV max en dégâts mécaniques, elle casse les côtes. Côtes cassées : +{1}% dégâts mécaniques de toutes sources.
+
+Durée {2}, stack jusqu'à {3}. Cibles avec des côtes uniquement.
+
+::CheapShots
++{0}% dégâts crit en mêlée. {1}% de chances d'incapacité pendant {2} sur tes attaques de mêlée.
+
+::Paranoia
+Tout le monde en a après toi, et tu le sais. +{0}% détection, +{1} initiative, -{2}% chances de te faire crit (armes et mains nues). +{3}% dégâts armes et mains nues contre cibles en furtif.
+
+::UncannyDodge
+Active : tu esquives les prochaines {0} attaques de mêlée (normales ou spéciales) contre toi, +1 par tranche de {1} points d'Esquive.
+
+Recharge : {2}.
+
+::EvasiveManeuvers
+Active : convertit tous les PM restants en triple d'évitement pendant {0}.
+
+Recharge : {1}.
+
+::Grenadier
+Recharge des grenades frag, HE et incendiaires -{0}, grenades spéciales -{1}.
+
+::TrapExpert
+-{0}% temps pour armer/désarmer les pièges. +{1}% difficulté de détection des pièges que tu poses.
+
+::ThreePointer-Old
+{0}% de chances de crit pour tes grenades qui font des dégâts. +{1}% par point de Dextérité au-dessus de {2}.
+
+::ThreePointer
+{0}% de chances de crit pour tes grenades qui font des dégâts. +{1}% par tranche de 10 points de Lancer au-dessus de {2}.
+
+::VileWeaponry
+Quand tu causes une plaie saignante (arme blanche, enhancement d'armure ou piège), tu appliques aussi une plaie infectée : +{0}% dégâts subis de toutes sources, -{1}% soins. Stack {2} fois.
+
+::ExposeWeakness
+Attaque de mêlée spéciale : dégâts normaux et, si elle touche, -{0}% résistance et seuil mécaniques de la cible (+{1}% par point d'Intelligence) pendant {2}. Effet divisé par deux sur cibles non vivantes.
+
+Recharge : {3}.
+
+::SteadfastAim
++{0}% taux de crit au pistolet par PA de base requis pour tirer au-dessus de {1}.
+
+::SpecOps
+Modificateur de coût PA du burst mitraillette de {0}% à {1}%. Recharge des flashbangs et grenades tactiques similaires -{2}.
+
+::SuppressiveFire
+Ennemis pris dans le cône de ton burst à feu (touchés ou non) : -{0}% chance de toucher à distance, -{1} PA, -{2} PM pendant {3}.
+
+::SuppressiveFire-OLD
+Ennemis pris dans le cône de ton burst fusil d'assaut / mitraillette (touchés ou non) : -{0}% chance de toucher à distance, -{1} PA, -{2} PM pendant {3}.
+
+::SuppressiveFire-XPBL
+Ennemis pris dans le cône de ton burst fusil d'assaut, mitraillette ou pompe (touchés ou non) : -{0}% chance de toucher à distance, -{1} PA, -{2} PM pendant {3}.
+
+::QuickTinkering-OLD
+Active : prochain piège armé instantanément, même en combat (0 PA).
+
+Recharge : {0}.
+
+::QuickTinkering
+Active : prochain piège armé instantanément, même en combat (coût {0} PA).
+
+Recharge : {1}.
+
+::FancyFootwork
+Quand tu touches en mêlée, tu gagnes jusqu'à {0} PM selon ton malus d'armure. Proc multi par tour, mais l'effet baisse de 1 PA à chaque fois.
+
+Ne peut pas monter tes PM au-delà du double de ton max normal.
+
+::TasteForBlood-Old
+Contre une cible qui saigne (mêlée ou mains nues) : +{0}% dégâts mêlée et -{1} PA armes de mêlée par plaie saignante. Stack jusqu'à {2}. Un killing blow sur cible vivante donne 1 stack même sans saignement.
+
+Expire après {3} si non refresh.
+
+::TasteForBlood
+Contre une cible qui saigne en mêlée : +{0}% dégâts mêlée par plaie saignante. Stack jusqu'à {1}. Un killing blow sur cible vivante donne 1 stack même sans saignement.
+
+Expire après {2} si non refresh.
+
+::Eviscerate
+Attaque spéciale au couteau : retire toutes les plaies saignantes et inflige +{0}% dégâts par plaie retirée.
+
+Recharge : {1}.
+
+::Hypertoxicity
++{0}% dégâts des poisons que tu appliques.
+
+::Hunter
++{0}% dégâts aux créatures à l'arbalète et au couteau.
+
+::Hunter-XPBL
++{0}% dégâts aux créatures à l'arbalète, au couteau et à la lance.
+
+::Wrestling
+Coup mains nues ou arme de poings sur cible vivante : {0}% de chances de -{1} PM, -{2} PA et -{3}% chance de toucher à distance. Stack {4} fois.
+
+::Combo
+Trois attaques consécutives mains nues ou armes de poings sur la même cible dans le même tour : la 3e fait +{0}% dégâts et a {1}% de chances de stun pendant {2}.
+
+::Packrathound
++{0} capacité de port.
+
+::BeastOfBurden
++{0} capacité de port.
+
+::LastStand-Old
+Active : +{0} PV immédiats et -{1}% dégâts de toutes sources pendant {2}. À la fin, perte des PV bonus (ne peut pas te tuer).
+
+Recharge : {3}.
+
+::LastStand
+Active : tes PV repassent temporairement au max pendant {0}. À la fin, PV = 1.
+
+Recharge : {1}.
+
+::Salesman
++{0}% de volume d'achat des marchands par point de Négoce.
+
+::Disassemble
+Plan pour démonter les objets marqués démontables et récupérer leurs composants à {0}% de la qualité d'origine.
+
+::ThickSkull
+Quand tu devrais être stun, tu es étourdi à la place : -{0} PA et -{1} PM, mais tu peux encore agir.
+
+::ConcentratedFire
+Chaque hit du burst fusil d'assaut +{0}% dégâts aux hits suivants du burst. Stack {1} fois jusqu'à la fin du tour.
+
+::ConcentratedFire-XPHW
+Chaque hit du burst fusil d'assaut, LMG et minigun +{0}% dégâts aux hits suivants. Stack {1} fois jusqu'à la fin du tour.
+
+::Commando
+Kill avec un burst fusil d'assaut ou mitraillette : un burst gratuit supplémentaire ce tour. Une fois par tour max.
+
+::Pinning
+Tes couteaux de lancer ont {0}% de chances de clouer au sol une cible vivante pour un tour.
+
+::FatalThrow
+Couteaux de lancer : crit auto sous {0}% PV. Kill au lancer de couteau : +{1} PA (une fois par tour max).
+
+::SplitSpare
+En lançant des couteaux, tu en lances un de plus sur une cible proche dans le cône d'attaque.
+
+::Ripper
+Dégâts crit au couteau et au couteau de lancer +{0}% par {1}% de PV manquants de la cible. Multiplicatif avec le bonus de dégâts crit normal.
+
+::Ripper-XPBL
+Dégâts crit au couteau, à l'épée et au couteau de lancer +{0}% par {1}% de PV manquants de la cible. Multiplicatif avec le bonus de dégâts crit normal.
+
+::CriticalPower
+Pour chaque {0}% de bonus de dégâts crit d'arme ou mains nues au-dessus de {1}%, +{2}% dégâts crit en plus.
+
+::Expertise
+Tes attaques non-crit arbalète, mêlée et armes à feu à balles infligent des dégâts mécaniques bonus égaux à ton niveau, max +{0}.
+
+::Blitz
+Active : convertit tous tes PM en PA (1 PA pour {0} PM), max {1} PA.
+
+Recharge : {2}.
+
+::PointShot
+Tir rapide pistolet, mitraillette ou fusil d'assaut : {0}% du coût PA standard, précision réduite.
+
+Recharge : {1}.
+
+::SurvivalInstincts
++{0}% taux de crit (armes, mains nues, psi) sous {1}% PV.
+
+::Stoicism
+-{0}% dégâts de toutes sources par {1}% de PV manquants.
+
+::Juggernaut
++{0}% PV totaux avec une armure dont le malus d'armure (non modifié) est de {1}% ou plus.
+
+::FastMetabolism
++{0}% tous soins. Psi boosters restaurent +{1} psi.
+
+::EscapeArtist
+Retire tous les effets d'immobilisation.
+
+Recharge : {0}.
+
+::RapidFire
+Tir rapide de {0} balles (pistolets à feu, mitraillettes, fusils d'assaut) à précision réduite pour {1}% du coût PA d'une attaque normale.
+
+Recharge : {2}.
+
+::Heavyweight
+Tu ajoutes ton malus d'armure total au bonus de dégâts crit des masses, armes de poings et mains nues.
+
+::SureStep
+Tu traverses chausse-trapes et flaques d'acide sans dégâts.
+
+::SuperSlam
+Attaque spéciale à la masse : dégâts normaux + {0}% des PV max de l'attaquant en dégâts mécaniques.
+
+Recharge : {1}.
+
+::Guard
+{0}% de chances de bloquer des dégâts mécaniques de mêlée égaux au double de ta Force. Inactif si stun ou totalement désactivé.
+
+::DeadlySnares
+Tes tirs d'arbalète critent toujours contre les cibles prises dans des pièges à ours ou enchevêtrements acides.
+
+::GunNut
++{0}% sur le haut de la fourchette de dégâts de toutes les armes à feu que tu craft.
+
+::MasterGunsmith
+Tous les plans d'armes à feu acceptent un enhancement supplémentaire.
+
+::Skinner
+La qualité des cuirs compte comme {0}% plus haute dans tous tes crafts.
+
+::ArmorSloping
+-{0}% malus d'armure des plaques métalliques au craft d'armure (multiplicatif).
+
+::Clothier
+La qualité des tissus compte comme {0}% plus haute dans tous tes crafts.
+
+::MadChemist
+Effets on-hit des pistolets chimiques craftés deux fois plus forts.
+
+::Weaponsmith
+Armes de mêlée non-poings craftées : +{0}% taux de crit.
+
+::PracticalPhysicist
++{0}% dégâts crit des armes énergétiques craftées (additif).
+
+::Ballistics
+Les gilets porteurs donnent +{0} seuil de dégâts mécaniques au craft.
+
+::Neurology
+Les bandeaux psi craftés donnent aussi +{0} points psi max.
+
+::ElementalBolts
++{0}% dégâts électriques, acide et chaleur de tous les carreaux spéciaux.
+
+::ElementalBolts-XPBL
++{0}% dégâts électriques, acide, chaleur et énergie de tous les carreaux spéciaux.
+
+::ConcussiveShots
+Dégâts mécaniques aux carreaux d'arbalète : {0}% de chances d'étourdir les cibles vivantes (-{1} PA, -{2} PM pendant {3}).
+
+::Meditation
++{0} points psi max.
+
+::NeuralOverclocking
++{0}% dégâts crit de tous les pouvoirs psi.
+
+::PsionicMania
+Active : prochain pouvoir psi offensif = crit auto. Retire jusqu'à {0}% de tes PV max (ne peut pas te tuer).
+
+Recharge : {1}.
+
+::TelekineticUndulation
+Quand tu dégâts une cible vivante en déplaçant ton proxy télékinétique, {0}% de chances d'étourdissement pendant {1}.
+
+::CorporealProjection
++{0}% tous dégâts télékinétiques par point de Force au-dessus de {1}.
+
+::PsychostaticElectricity
+Dégâts électriques psi : debuff qui +{0}% chances de se faire crit (armes, mains nues, psi) pendant {1}. Stack {2} fois.
+
+::EchoingSoliloquy
+Ralentit la vitesse à laquelle les choses innommables s'infiltrent dans ton esprit.
+
+::Fisherman
+Tu ne rates jamais la prise.
+
+::TemperedHeat
+-{0}% dégâts de chaleur subis.
+
+::TemperedCold
+-{0}% dégâts de froid subis.
+
+::TemperedAcid
+-{0}% dégâts d'acide subis.
+
+::TemperedElectricity
+-{0}% dégâts électriques subis.
+
+::AdvancedPsiEmpathy
+PV de base -{0}% de plus (additif au malus d'origine). Coût psi des pouvoirs -{1}% (multiplicatif).
+
+::Bodybuilding
++{0} PV.
+
+::ImprovedDodging
++{0}% chances d'esquiver une attaque de mêlée (additif).
+
+::ImprovedEvasion
++{0}% chances d'éviter un tir (additif).
+
+::ImprovedThrowing
++{0}% précision au lancer (additif).
+
+::SerialKiller
++{0}% dégâts armes et mains nues contre humanoïdes.
+
+::MonsterSlayer
++{0}% dégâts armes et mains nues contre créatures.
+
+::Decommissioner
++{0}% dégâts armes et mains nues contre machines.
+
+::FightResponse
+Début de tour sous {0}% PV max : +{1} PA.
+
+::FlightResponse
+Début de tour sous {0}% PV max : jusqu'à +{1} PM (selon malus d'armure).
+
+::Stuntman
+-20% dégâts des attaques de zone (additif à l'évitement normal).
+
+::BodyWeightTraining
+-{0}% malus d'armure.
+
+::MajorSupplier
++{0}% d'argent que les marchands sont prêts à dépenser avec toi par point de Négoce.
+
+::Mantra
++{0} régénération psi.
+
+::ShootingSpree
+Active : ton prochain tir de sniper rembourse 100% de son coût PA s'il tue. Expire en fin de tour si inutilisé.
+
+Recharge : {1}.
+
+Tuer une cible au sniper réduit aussi la recharge de Shooting Spree et Aimed Shot de {0}.
+
+::ShootingSpree-Old
+Tuer une cible au sniper réduit la recharge d'Aimed Shot de {0}.
+
+::Strafe
+-{0}% malus move and shoot.
+
+::Bowyer
+Arbalètes craftées : +{0}% dégâts crit (additif).
+
+::Brutality
+Kill en mêlée : {0}% de chances d'inspirer la peur à chaque ennemi proche pendant {1}.
+
+::ShieldArm
++{0}% chances de bloquer au bouclier (additif) et +{1}% montant bloqué.
+
+::TriggerHappy
++{0} initiative.
+
+::Hemopsychosis
+Active : jusqu'à la fin du tour, tes pouvoirs psi coûtent des PV au lieu de psi.
+
+Recharge : {0}.
+
+::Blindsiding
++{0}% dégâts armes et mains nues en furtif et pendant un tour après la sortie de furtif.
+
+::ContinuumRipple
+Quand ta distorsion temporelle se déclenche, {0}% de chances de l'appliquer à chaque ennemi proche. Ces distorsions peuvent elles-mêmes en déclencher d'autres.
+
+::PsychotemporalAcceleration
++{0} modification de PA de tous les effets psycho-temporels, +{1} durée.
+
+::FutureOrientation
+-{0} recharge de tous les pouvoirs de manipulation temporelle qui en ont, +{1} PA pour ceux qui ont un coût PA.
+
+::Fend
+Active : gagne immédiatement Garde de lance qui bloque {0}% de dégâts en plus, pour {1}% du coût PA d'une attaque normale.
+
+Recharge : {2}.
+
+::SpearGuardian
++{0}% chances de bloc de Garde de lance.
+
+::Impale
+Attaque spéciale à la lance : crit auto si elle touche.
+
+Recharge : {0}.
+
+::Flurry
+{0} attaques d'épée consécutives. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+
+Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
+
+::Flurry-Old
+{0} attaques d'épée consécutives à précision réduite. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+
+Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
+
+::SpearThrow
+Lance ta lance sur la cible : {0}% + {1}% par unité de distance des dégâts d'arme normaux. Précision = skill Lancer. Coût {2} PA.
+
+Recharge : {3}.
+
+Tu pourras en général récupérer la lance près de la cible, 0 PA.
+
+::Onslaught
+Attaques d'épée réussies : +{0}% dégâts des attaques d'épée suivantes pendant {1}. Stack {2} fois. Bonus retiré si une attaque d'épée rate ou ne fait aucun dégât.
+
+::Decapitate
+Attaque spéciale à l'épée : {0}% des dégâts d'arme. Kill instantané d'une cible vivante si plus de {1}% des PV restants (tête exposée requise).
+
+Recharge : {2}.
+
+::Riposte
+Quand tu bloques des dégâts en tenant une épée, attaque d'épée spéciale à précision accrue, dégâts normaux, 0 PA.
+
+::LeadingShot
+Tes tirs de pompe ignorent {0}% de l'évitement de la cible tant qu'aucun ennemi n'est en mêlée pour te gêner.
+
+::BarrelStare
++{0}% dégâts des tirs de pompe à très courte portée (quasi-mêlée).
+
+::PerfectScattering
+Chaque plomb de pompe inflige +{0} à {1} dégâts mécaniques.
+
+::FragmentedChaos
++{0}% dégâts crit des tirs de pompe, divisé par le nombre de plombs tirés.
+
+::PelletMayhem
+Tes tirs de pompe donnent +{0}% taux de crit par cible touchée pour le prochain tir de pompe.
+
+::Philosophy1
+Mettre un orteil en philo t'a ouvert un autre regard sur la vie.
+
++{0} sang-froid, +{1} points psi max.
+
+::Philosophy2
+Pas un philo formé, mais tu as les bases.
+
++{0} sang-froid, +{1} points psi max.
+
+::Philosophy3
+Les pièces s'assemblent… peut-être qu'il y a encore un sens derrière cette existence pourrie.
+
++{0} sang-froid, +{1} points psi max.
+
+::HighTechnicalities
++{0}% dégâts des armes et attachments énergétiques (électriques et énergie) par point d'Intelligence au-dessus de {1}.
+
+::Parry
+Épée ou couteau en main : {0}% + {1}% par point de Dextérité au-dessus de {2} de chances de bloquer une attaque de mêlée. Montant bloqué = dégâts mécaniques de base moyens de l'arme pour l'épée, double pour le couteau.
+
+::NavalCombat
++{0}% stabilité effective et +{1}% manœuvrabilité en jet ski. -{2} PA pour débarquer. Meilleure précision des armes montées pour ceux qui ne sont pas pro en armes à feu.
+
+::ImprovedNavalCombat
+Encore +{0}% stabilité effective et +{1}% manœuvrabilité en jet ski. Encore -{2} PA pour débarquer. Meilleure précision des armes montées pour les non-pro armes à feu.
+
+::JetAndJab
+Retire le malus de précision de {0}% en plus sur couteau, armes de poings et mains nues en jet ski.
+
+::NavalJousting
++30% dégâts à la lance en jet ski.
+
+::SeaDog
++{0}% dégâts armes et mains nues, +{1}% stabilité et manœuvrabilité effectives en attaquant depuis un jet ski.
+
+::Versatility
+Tes skills Armes à feu, Arbalètes et Mêlée effectifs montent à {0}% du plus haut des trois.
+
+::Versatility-XPHW
+Tes skills Armes à feu, Armes lourdes, Arbalètes et Mêlée effectifs montent à {0}% du plus haut des quatre.
+
+::Scrutinous
++{0}% taux de crit armes et mains nues.
+
+::ExpertSprint
+Sprint donne aussi +{0} PA.
+
+::IncreasedBaseAbility
+{0} +{1}. Ce talent augmente la valeur de base de {2} et compte pour les prérequis d'autres talents.
+
+::Strider
++{0} PM hors furtif, +{1}% vitesse de déplacement hors combat hors furtif.
+
+::IronWill
++{0}% sang-froid.
+
+::ImprovedUnarmedCombat
++{0}% dégâts à mains nues. {1}% de chances d'étourdir la cible pendant {2}.
+
+::ExpertUnarmedCombat
+Encore +{0}% dégâts à mains nues. {1}% de chances de stun la cible organique pendant {2}.
+
+::EmpoweredInvocation
+Active : +{1}% au skill {0} jusqu'à la fin du tour, puis vide tous les points psi restants.
+
+Recharge : {2}.
+
+::ShieldBash
+Attaque de mêlée : dégâts mécaniques égaux à {0}%-{1}% du montant bloqué par le bouclier anti-émeute, étourdit pendant {2}.
+
+Recharge : {3}.
+
+::BoardingUp
+Attaque de mêlée réussie avec un bouclier anti-émeute : +{0}% montant bloqué pendant {1}. Stack jusqu'à {2}.
+
+::Sweep
+Attaque spéciale à la lance : {0}% des dégâts d'arme à tous les ennemis adjacents, hors d'équilibre pendant {1} si touchés (cibles vivantes).
+
+Hors d'équilibre : esquive et évitement à zéro.
+
+Recharge : {2}.
+
+::BodyHorror
+Après ce que tu as vu, tu ne regarderas plus jamais la chair de la même façon.
+
++{0}% taux de crit armes et mains nues contre humanoïdes et créatures non insectoïdes. -{1}% sang-froid.
+
+::OuterVisions
+Tu as vu les possibilités des Extérieurs, le beau et l'abominable. Les limites de ce monde physique te semblent moins nécessaires.
+
++{0} portée de tous les pouvoirs psi.
+
+::IronGrip
+Permet de manier une lance à une main avec une armure à bouclier anti-émeute, mais -{0}% dégâts d'arme.
+
+::SixthShell
+Chaque tir de pompe donne +{0}% dégâts aux tirs de pompe. À 5 stacks, le bonus passe à {1}% ; après le 6e tir, reset.
+
+::ForcefullInnervation
+Tu as conditionné ton esprit au psi à la dure, et ça se voit. Tu utilises la Volonté de base au lieu de l'Intelligence pour le nombre de slots psi, mais -{0} points psi max.
+
+Tu as obtenu la rare pilule dorée qui pourrait annuler ça… pas sûr de vouloir l'utiliser.
+
+::PsychoNeuralOptimization
+Avec une seule école psi innervée : -{0}% coût psi de tous les pouvoirs.
+
+::PsychoNeuralFlexibility
+Une école psi est ignorée pour le malus de coût multi-écoles.
+
+::ExpandedPsiCapacitance
++{0}% réserves psi, + régénération psi égale à {1}% du max des réserves.
+
+::TattooProtectorate
+Repos. Caporal.
+
++{0}% PV.
+
+::TattooJKK
+Tu es un opérateur diplomate.
+
++{0} Persuasion.
+
+::TattooAnarchy
+Tu ne t'inclines devant aucune autorité.
+
++{0}% taux de crit armes et mains nues.
+
+::TattooCoretech
+Équipement de pointe, agent de pointe.
+
++{0} Mécanique et Électronique.
+
+::TattooPraetorianSecurity
+L'ordre par la force.
+
+-{0}% chances de te faire crit (armes et mains nues).
+
+::TattooAegisIncorporated
+Tu iras n'importe où, tant que c'est en avant.
+
++{0} tous les skills offensifs.
+
+::TattooMagnarGhost
+Le roi est mort, vive le roi !
+
++{0} Esquive et Évitement.
+
+::TattooShadowlith
+L'influence malveillante des monolithes a été ôtée… pas de ta peau.
+
++{0} régénération psi.
+
+::TattooTheBeast
+Être Homme, c'est combattre des monstres.
+
++{0}% dégâts armes et mains nues contre créatures.
+
+::TattooTchort
+Monstre ou dieu, il est mort maintenant.
+
++{0}% sang-froid, -{1}% détection.
+
+::TattooTchortInstitute
+Tchort est évolution. L'évolution est Tchort.
+
++{0} Biologie et Chimie.
+
+::TattooBalorsEye
+La seule chose que cet œil électrique n'a pas vue : la mort prématurée de Balor.
+
++{0}% détection.
+
+::TattooSGS
+Pas de station comme la station maison.
+
++{0} tous les skills.
+
+::TattooPirate
+Parfois il faut hisser le pavillon noir et ouvrir les gorges.
+
++{0}% tous skills offensifs et défensifs en jet ski.
+
+::TattooDrifter
+Tu ne tiens nulle part. À peine engagé quelque part, quelque chose te pousse à repartir.
+
++{0}% vitesse de déplacement et +{1} PM hors furtif.
+
+::TattooJetEater
+La puanteur caustique du liquide vil ne te quitte pas. Ta peau se souvient de la douleur.
+
++{0} seuil de dégâts d'acide.
+
+::TattooFatso
+Mange et bois à satiété. Gorge-toi des dons de la cave. Deviens large.
+
+Durée des aliments +{0} minutes.
+
+::TattooBlackCrawler
+Tu peux encore voir ses grands yeux rouges si tu fixes assez longtemps les coins les plus sombres d'Underrail.
+
++{0}% furtivité (de la valeur de base).
+
+::TattooAbomination
+Force vitale - primordiale, durable, puissante - tordue en forme monstrueuse.
+
+Le seuil de % PV au-dessus duquel tu regénères naturellement passe à {0}%.
+
+::TattooSkulljacked
+Rainures en spirale, tunnel fileté, de la machine à l'homme.
+
++{0} taux de crit des pouvoirs psi avec une armure dont le malus d'armure (non modifié) est de {1} ou plus.
+
+::TattooVoidBattle
+Vétéran de la guerre astrale !
+
++{0} sang-froid.
+
+::MonstrousYell
+Ton Yell est si dérangeant qu'il a aussi {0}% de chances d'inspirer la peur pendant {1}.
+
+::CohesiveMucusGlands
+Tu peux cracher des blobs d'acide qui dégâts et enchevêtrent.
+
+::GunFu
+Pistolets à feu en mêlée : skill d'attaque effectif +{0}% de ta Mêlée non modifiée (pour tout, y compris les dégâts).
+
+::BulletTime
+Active : -{0}% PA pour tirer aux pistolets à feu jusqu'à la fin du tour.
+
+Ne peut pas descendre sous le plancher de PA.
+
+Recharge : {1}.
+
+::RemoteSurgeon
++{0}% au modificateur de dégâts non résisté des couteaux de lancer.
+
+::PsychokineticElasticity
++1 portée des pouvoirs télékinétiques, et +1 maillon aux chaînes psychokinétiques.
+
+::BeyondCold
+Tu as connu cette sensation terrible de l'autre côté du froid extrême, au seuil de l'immobilité totale, quand le corps vivant est vidé de toute énergie.
+
+Gelé ou glacé : buff +{4} Volonté, -{0}% dégâts de froid, -{1}% dégâts mécaniques, immunité au gel/froid pendant {2}. Une fois tous les {3}.
+
+::Motioner
+Tu as abusé de cette substance une fois de trop. Ton cerveau en porte les séquelles.
+
+-{0} Intelligence, et parfois des effets aigus plus durs.
+
+::Shoemaker
+La qualité du cuir compte comme {0}% plus haute au craft de bottes en cuir.
+
+::FineTuned
+Tu commences à distinguer les nuances sonores. Dans un monde de grottes sombres et de tunnels de métro, ce n'est pas rien.
+
++{0}% détection.
+
+::HeavyMetal
+-1% dégâts mécaniques subis par point d'exigence de Force de l'arme actuelle, et +% dégâts égal à {0}% du malus d'armure total (moitié pour les lance-roquettes) en attaquant aux armes lourdes. Seulement si armes lourdes ou masses dans les deux slots d'arme et malus d'armure total ≥ {1}%.
+
+::BruteAim
+Ta Perception de base compte comme +{0} pour le skill Armes lourdes.
+
+::BulletTrance
++{0}% dégâts LMG et minigun à chaque kill avec ces armes. Durée {1}, stack {2} fois.
+
+::PracticedParabola
++{0}% précision aux lance-grenades, distance max de miss des grenades -1.
+
+::TrickyTrajectory
+Armes de zone : +{0}% dégâts et ignorent {1}% de l'évitement. Toutes les armes AoE non lancées.
+
+::TrickyTrajectory-XPBL
+Armes de zone : +{0}% dégâts et ignorent {1}% de l'évitement. Toutes les armes AoE non lancées, y compris montées sur véhicules.
+
+::DemolitionMan
+Subir des dégâts de chaleur de zone : +{0}% dégâts grenades et lance-roquettes pendant {1}. Stack {2} fois.
+
+::GunnersHigh
+Dégâts avec mitrailleuse ou minigun : effet qui soigne 1 PV par tour pendant {0} tours, sans dépasser {1}% des PV max. Stack {2} fois.
+
+::ShellShock
+Tous les humanoïdes dans le rayon d'explosion de ta grenade ou de ta roquette : -{0} skills offensifs et défensifs pendant {1}. Stack {2} fois.
+
+::Firebranded
+À ta plus grande honte, tes fesses portent l'image hideuse d'un bouc.
+
+-{0} chance de toucher max armes et mains nues.
+
+::Specialist
++1 point de spécialisation par niveau.
+
+::Polymath
++{0} points de compétence immédiatement, +{1} à chaque niveau suivant.
+
+::NoOtherEmpoweredInvocationFeatsRequirement
+Talents exclus : tous les autres talents d'Invocation renforcée
+
+::NoOtherIncreasedBaseAbilityFeatsRequirement
+Talents exclus : tous les autres talents d'Attribut de base augmenté

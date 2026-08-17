@@ -1,0 +1,346 @@
+=>q1_original
+Did you speak with Chief Briggs?<end>
+
+=>q1
+Avez-vous parlé au chef Briggs ?<end>
+
+=>q2_original
+::The guard stops you. You notice a badge on his chest - an orange and black shield, the colors being vertically divided at the center. At the bottom it reads: "Aegis."::
+
+Restricted area, $(#sir/ma'am). State your business.<end>
+
+=>q2
+::Le garde t'arrête. Vous remarquez un insigne sur sa poitrine - un bouclier orange et noir, les couleurs étant divisées verticalement au centre. En bas, il se lit : "Aegis."::
+
+Zone restreinte, $(#monsieur/madame). Dis ce que tu fais.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I guess I am looking for work after all.<end>
+
+=>a4
+Je suppose que je cherche du travail après tout.<end>
+
+=>q5_original
+Good. Do you have any combat experience?<end>
+
+=>q5
+Parfait. Avez-vous une expérience de combat ?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Hell yeah. These hands keep getting covered in blood and I can't seem to find a way to get them clean.<end>
+
+=>a7
+Oui. Ces mains sont toujours couvertes de sang et je n'arrive pas à les nettoyer.<end>
+
+=>q8_original
+::The guard nods.:: <end>
+
+=>q8
+::Le gardien hoche la tête.:: <end>
+
+=>q9_original
+We are Aegis Incorporated, a security company from North Underrail. We've been hired to protect scientific personnel during an important expedition to the Black Sea.<end>
+
+=>q9
+Nous sommes Aegis Incorporated, une société de sécurité de North Underrail. Nous avons été embauchés pour protéger le personnel scientifique lors d'une importante expédition au Black Sea.<end>
+
+=>q10_original
+We need highly skilled and competent individuals with sufficient combat experience. Background in personal protection, station security or similar is highly desirable but not strictly necessary. If you are capable of effectively operating alone or as part of a small, specialized team, that will greatly improve your chances of being hired. I think it is needless to say that this line of work entails great danger, but in turn know that the monetary compensation we offer will be quite appropriate.
+
+How does all of this sound to you? Do you think you meet these requirements?<end>
+
+=>q10
+Nous avons besoin d'individus hautement qualifiés et compétents ayant une expérience de combat suffisante. Les antécédents en matière de protection personnelle, de sécurité de la station ou d'autres éléments similaires sont hautement souhaitables, mais pas strictement nécessaires. Si vous êtes capable de fonctionner efficacement seul ou dans le cadre d'une petite équipe spécialisée, cela améliorera grandement vos chances d'être embauché. Je pense qu'il est inutile de dire que cette ligne de travail comporte un grand danger, mais que la compensation monétaire que nous offrons sera tout à fait appropriée.
+
+Qu'est-ce que tout ça te semble ? Tu crois que tu réponds à ces exigences ?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I've spent my life staring down danger until it dragged itself away into the hole it crawled out of. So yeah, I'm your $(#guy/girl).<end>
+
+=>a12
+J'ai passé ma vie à regarder le danger jusqu'à ce qu'il se traîne dans le trou qu'il a rampé. Donc oui, je suis votre $(#guy/girl).<end>
+
+=>q13_original
+Good. Proceed down this ramp and talk with Chief Briggs. 
+
+Do *not* wander around the dock. 
+
+If you interfere with anyone's work, you will be promptly removed.<end>
+
+=>q13
+Parfait. Remontez cette rampe et parlez avec le chef Briggs.
+
+Ne errez pas autour du quai.
+
+Si vous interférez avec le travail de quelqu'un, vous serez rapidement retiré.<end>
+
+=>a14_original
+How will I recognize him?<end>
+
+=>a14
+Comment le reconnaîtrai-je ?<end>
+
+=>q15_original
+Easily. 
+
+::He steps aside.:: You may proceed, $(#sir/ma'am).<end>
+
+=>q15
+Facilement.
+
+::Il s'écarte.:: Vous pouvez procéder, $(#monsieur/madame).<end>
+
+=>a16_original
+Understood. I'll go speak with him.<end>
+
+=>a16
+Compris. Je vais lui parler.<end>
+
+=>q17_original
+::He nods.::<end>
+
+=>q17
+::Il acquiesce.::<end>
+
+=>a18_original
+Thanks.<end>
+
+=>a18
+Merci.<end>
+
+=>a19_original
+::Nod and leave.::<end>
+
+=>a19
+::Hochez la tête et partez.::<end>
+
+=>q20_original
+::He nods as well.::<end>
+
+=>q20
+::Il hoche aussi.::<end>
+
+=>a21_original
+Yes. Where do I apply?<end>
+
+=>a21
+Oui. Où puis-je postuler?<end>
+
+=>a22_original
+::Shrug your shoulders.:: I suppose. Who do I see next?<end>
+
+=>a22
+::Écrase tes épaules.:: Je suppose. Qui je vois ensuite ?<end>
+
+=>a23_original
+I was told you are also looking for laborers and technicians.<end>
+
+=>a23
+On m'a dit que vous cherchiez aussi des ouvriers et des techniciens.<end>
+
+=>q24_original
+We were, but we've filled our quota in the meantime. Right now we are only looking for security personnel.<end>
+
+=>q24
+Nous l'étions, mais nous avons rempli notre quota en attendant. En ce moment, nous cherchons seulement du personnel de sécurité.<end>
+
+=>q25_original
+So, do you think you meet the requirements?<end>
+
+=>q25
+Tu crois que tu réponds aux exigences ?<end>
+
+=>q26_original
+Speaking of which, again, do you have any combat experience?<end>
+
+=>q26
+En parlant de quoi, encore une fois, avez-vous une expérience de combat?<end>
+
+=>a27_original
+Actually, I don't know much about the Black Sea, so it's not quite needless to say that it is dangerous. What is out there?<end>
+
+=>a27
+En fait, je ne sais pas grand chose du Black Sea, donc ce n'est pas inutile de dire que c'est dangereux. Qu'est-ce qu'il y a dehors ?<end>
+
+=>q28_original
+Mostly pirates and wildlife, as well as other hostile and potentially hostile inhabitants. We have to be ready for anything we might encounter there. That is why we need the best candidates we can find.<end>
+
+=>q28
+La plupart des pirates et des animaux sauvages, ainsi que d'autres habitants hostiles et potentiellement hostiles. Nous devons être prêts à tout ce que nous pourrions y rencontrer. C'est pourquoi nous avons besoin des meilleurs candidats que nous puissions trouver.<end>
+
+=>a29_original
+How much money is "quite appropriate"?<end>
+
+=>a29
+Combien d'argent est « tout à fait approprié »?<end>
+
+=>q30_original
+I am not at liberty to say that either.<end>
+
+=>q30
+Je ne suis pas libre de dire ça non plus.<end>
+
+=>q31_original
+I am not at liberty to say that to you.<end>
+
+=>q31
+Je ne suis pas libre de vous le dire.<end>
+
+=>a32_original
+What are you looking for there?<end>
+
+=>a32
+Que cherchez-vous là-bas ?<end>
+
+=>a33_original
+Nah, this isn't for me. Thank you for your time.<end>
+
+=>a33
+Ce n'est pas pour moi. Merci pour votre temps.<end>
+
+=>q34_original
+::He nods.:: <end>
+
+=>q34
+::Il acquiesce.:: <end>
+
+=>q35_original
+Move along then.<end>
+
+=>q35
+Allez-y.<end>
+
+=>a36_original
+Yes. I've done a lot of fighting.<end>
+
+=>a36
+Oui. J'ai fait beaucoup de combats.<end>
+
+=>a37_original
+I've seen my fair share of combat, yes.<end>
+
+=>a37
+J'ai vu ma part de combat, oui.<end>
+
+=>a38_original
+Killing is my business... and business is good.<end>
+
+=>a38
+Tuer est mon affaire... et le business est bon.<end>
+
+=>a39_original
+Yeah, of course I do. I wouldn't be here otherwise.<end>
+
+=>a39
+Oui, bien sûr. Je ne serais pas là autrement.<end>
+
+=>a40_original
+What's going on here?<end>
+
+=>a40
+Qu'est-ce qui se passe ici ?<end>
+
+=>q41_original
+::The guard briefly inspects you.::
+
+Are you looking for work?<end>
+
+=>q41
+::Le garde vous inspecte brièvement.::
+
+Vous cherchez du travail ?<end>
+
+=>a42_original
+Always.<end>
+
+=>a42
+Toujours.<end>
+
+=>a43_original
+Yes.<end>
+
+=>a43
+Oui.<end>
+
+=>a44_original
+Sure.<end>
+
+=>a44
+Bien sûr.<end>
+
+=>a45_original
+Not really.<end>
+
+=>a45
+Pas vraiment.<end>
+
+=>a46_original
+I was told you are going on an expedition to the Black Sea and needed some extra hands.<end>
+
+=>a46
+On m'a dit que vous alliez en expédition au Black Sea et que vous aviez besoin de mains supplémentaires.<end>
+
+=>q47_original
+::He nods.::
+
+You heard right. Do you have any combat experience?<end>
+
+=>q47
+::Il acquiesce.::
+
+Vous avez bien entendu. Avez-vous une expérience de combat ?<end>
+
+=>a48_original
+I heard there was some work to be had here, but I didn't catch what it's about, really.<end>
+
+=>a48
+J'ai entendu dire qu'il y avait du travail à faire ici, mais je n'ai pas compris de quoi il s'agissait, vraiment.<end>
+
+=>a49_original
+Just passing by.<end>
+
+=>a49
+Juste en passant.<end>
+
+=>q50_original
+You're back.<end>
+
+=>q50
+Tu es de retour.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+Actually, I want to join the expedition. I think I can handle anything the Black Sea can throw at me.<end>
+
+=>a52
+En fait, je veux rejoindre l'expédition. Je pense pouvoir gérer tout ce que le Black Sea peut me lancer.<end>
+
+=>a53_original
+I gotta go.<end>
+
+=>a53
+Je dois y aller.<end>
+

@@ -1,0 +1,879 @@
+::Sprint
+Points de mouvement augmentés de {0} hors furtivité.
+
+::Charging
+Points de mouvement augmentés de {0}. Ce personnage inflige {1}% de dégâts en bonus si son attaque de charge touche.
+
+::ChargingWithStun
+Points de mouvement augmentés de {0}. Ce personnage inflige {1}% de dégâts en bonus et étourdit la cible si son attaque de charge touche.
+
+::Sprint-RT
+Vitesse de déplacement augmentée de {0}% hors furtivité.
+
+::Frozen
+Gelé sur place. Aucune action possible, mais tout dégât direct annule l'effet.
+
+::Chilled
+Points de mouvement réduits de {0}.
+
+::Chilled-SlowImmune
+Ce personnage est immunisé au ralentissement.
+
+::Chilled-RT
+Vitesse de déplacement réduite de {0}%
+
+::AcidicEntanglement
+Personnage pris dans une masse acide collante qui l'empêche de bouger et inflige {0} dégâts d'acide chaque tour.
+
+::CorrosiveAcidicEntanglement
+Personnage pris dans une masse acide collante qui l'empêche de bouger, inflige {0} dégâts d'acide chaque tour et applique {1} cumuls de corrosion.
+
+::RustingAcidicEntanglement
+Personnage pris dans une masse acide collante qui l'empêche de bouger, inflige {0} dégâts d'acide chaque tour et applique {1} cumuls de rouille.
+
+::StealthMode
+Le personnage est en mode furtif : il peut se cacher des autres, mais sa vitesse de déplacement est réduite de {0}%.
+
+En combat, ses points de mouvement passent à {1} et il ne peut recevoir aucun PM bonus d'aucune source.
+
+::ShadowTricks
+{1}% de déplacement.
+
+::PsiBoost
+Restaure {0} psi chaque tour.
+
+::PsiBoost-Old
+Régénération de psi augmentée de {0}% plus {1}.
+
+::Adrenaline
+Points d'action augmentés de {0}, esquive et évitement de {1}%, force de {2}.
+
+::Adrenaline-Old
+Vitesse de déplacement augmentée de {0}%, délai entre attaques réduit de {1}%, esquive et évitement augmentés de {2}%.
+
+::VitalitySurge
+Points d'action augmentés de {0}, esquive et évitement de {1}%, force de {2}.
+
+::VitalityDrain
+Perd {0} points de vie par tour.
+
+::Fatigue
+Points d'action réduits de {0}.
+
+::Fatigue-Old
+Vitesse de déplacement réduite de {0}% et délai entre attaques augmenté de {1}%.
+
+::PsionicWithdrawal
+Draine {0} psi chaque tour. Intelligence, Volonté et Perception réduites de {1}.
+
+::PsionicWithdrawal-Old
+Tous les bonus de régénération de psi sont annulés et la régénération de psi est réduite de {0}%. Intelligence, Sagesse et Volonté réduites de {1}.
+
+::Stunned
+Ne peut ni se déplacer ni effectuer d'actions.
+
+::Incapacitated
+Ne peut ni se déplacer ni effectuer d'actions, mais tout dégât subi annule l'effet.
+
+::CerebralTrauma-Old
+Intelligence réduite de {0} et taux de régénération de psi réduit de {1}%.
+
+::CerebralTrauma-OldAsWell
+Intelligence réduite de {0}.
+
+::CerebralTrauma
+Tous les gains de points de psi réduits de {0}%.
+
+::MentalSubversion
+Sang-froid réduit de {0}%.
+
+::KneeWound1
+Le personnage subit {0} dégâts de saignement chaque tour et ne gagne aucun point de mouvement.
+
+::KneeWound2
+Ce personnage ne gagne aucun point de mouvement.
+
+::KneeWound1-SlowImmune
+Le personnage subit {0} dégâts de saignement chaque tour.
+
+::KneeWound2-SlowImmune
+Ce personnage est immunisé au ralentissement.
+
+::KneeWound1-Old
+Le personnage subit {0} dégâts de saignement chaque seconde et sa vitesse de déplacement est réduite de {1}%.
+
+::KneeWound2-Old
+Vitesse de déplacement réduite de {0}%.
+
+::Hypothermia
+Constitution réduite de {0}.
+
+::NetEntanglement
+Ne peut pas se déplacer.
+
+::StoneBolasEntanglement
+Ne peut pas se déplacer.
+
+::Webbed
+Ne peut pas se déplacer.
+
+::thermodynamicity_heat-Old
+Coût de la prochaine capacité psi de chaleur réduit de {0}%.
+
+::thermodynamicity_cold-Old
+Coût de la prochaine capacité psi de froid réduit de {0}%.
+
+::thermodynamicity_heat
+Coût en points d'action de la prochaine capacité psi de chaleur réduit de {0}%.
+
+::thermodynamicity_cold
+Coût en points d'action de la prochaine capacité psi de froid réduit de {0}%.
+
+::PackHunting-Old
+Cette créature chasse en meute. Ses dégâts augmentent contre les cibles entourées d'autres membres de la meute. Dégâts contre la cible actuelle augmentés de {0}%.
+
+::PackHunting
+Cette créature chasse en meute. Ses dégâts et sa compétence d'attaque augmentent contre les cibles entourées d'autres membres de la meute. Dégâts contre la cible actuelle augmentés de {0}% et compétence d'attaque de {1}.
+
+::BleedingWound
+Saignement : {0} dégâts chaque tour.
+
+::ContaminatedWound
+Subit {0} dégâts bio chaque tour.
+
+::Fear
+Une peur écrasante empêche ce personnage d'agir rationnellement.
+
+::Rage
+Ce personnage est en rage et peut attaquer n'importe qui.
+
+::Aphobia
+Immunité temporaire à tous les effets de peur.
+
+::SecondWind
+Immunité temporaire à l'étourdissement.
+
+::SafeMode
+Immunité temporaire à tous les effets invalidants.
+
+::Burning
+Ce personnage brûle pour {0} dégâts chaque tour.
+
+::BurningWithFear
+Ce personnage brûle pour {0} dégâts chaque tour, tout en courant paniqué.
+
+::Poison
+Ce personnage est affligé par {0} et subit {1} dégâts bio chaque tour.
+
+::CaveEarPoison
+Ce personnage est affligé par le poison d'oreille des caves. Tous les dégâts biologiques reçus augmentés de {0}% et perception réduite de {1}.
+
+::CrawlerPoison
+Ce personnage est affligé par le poison de crawler et subit {0} dégâts bio chaque tour. S'il n'est pas retiré avant expiration, il étourdit la victime jusqu'à {1}.
+
+::SpiritPoison
+Ce personnage est affligé par le poison d'esprit, subit {0} dégâts bio chaque tour et voit son sang-froid réduit de {1}%. S'il n'est pas retiré avant expiration, il invoque un doppelgänger psionique de la victime si elle est humaine.
+
+::ShortCircuited
+Cette machine est temporairement hors service et ne peut remplir aucune fonction.
+
+::PersonalCloaking
+Furtivité augmentée de {0} et évitement de {1}.
+
+::Nightvision
+Vous voyez dans le noir.
+
+::LocusOfControl
+Immunisé à l'étourdissement, la peur, l'incapacité et le contrôle mental.
+
+La prochaine capacité psi de contrôle mental invoquée aura une zone d'effet, mais mettra fin à cet effet.
+
+::Premeditation
+La prochaine capacité psi du personnage coûtera {0}% de psi en moins, {1}% de PA en moins et verra sa portée augmentée de {2}.
+
+::PsionicMania
+La prochaine capacité psi offensive du personnage sera un coup critique automatique.
+
+::psionicSynergy
+La proximité d'autres coléoptères Azuridae psioniquement actifs augmente les niveaux de compétences psi de cette créature de {0} et lui permet d'invoquer des capacités psi plus puissantes.
+
+::SpecialTactics
+La prochaine attaque de carreau spéciale du personnage ne coûtera aucun point d'action.
+
+::Food_rathoundBarbeque
+Force augmentée de 1.
+
+::Food_burrowerBurger
+Constitution augmentée de 1.
+
+::Food_caveHopperSteak
+Agilité augmentée de 1.
+
+::Food_eelSandwich
+Dextérité augmentée de 1.
+
+::Food_mushroomBrew
+Force augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et dextérité réduites de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
+
+::Food_coffee
+Points de mouvement augmentés de 5 et coût en psi de toutes les capacités psi réduit de 10%, mais régénération de psi aussi réduite de 3.
+
+::Food_baconCheeseSandwich
+Points de vie maximum augmentés de 20.
+
+::Food_cannedFish
+Dégâts de froid subis réduits de 15%.
+
+::Food_cannedMeat
+Dégâts mécaniques subis réduits de 5%.
+
+::Food_cannedMushrooms
+Dégâts bio subis réduits de 15%.
+
+::Food_cannedStew
+Dégâts de chaleur subis réduits de 8%.
+
+::Food_cookedBurrowerEgg
+Dégâts de poison subis réduits de 35%.
+
+::Food_coreChips
+Taux de critique des armes augmenté de 2%.
+
+::Food_hardcoreChips
+Taux de critique des armes augmenté de 5%, mais chance de subir un coup critique d'arme augmentée de 2%.
+
+::Food_friedSiphonerTongue
+Efficacité des soins augmentée de 15%.
+
+::Food_mushroomSalad
+Perception augmentée de 1.
+
+::Food_pentapusBarbecue
+Capacité de port augmentée de 25.
+
+::Food_pickledMindshrooms
+Bonus de dégâts critiques psioniques augmenté de 40%.
+
+::Food_psiBeetleBrainSoup
+Coût en psi des capacités psi réduit de 15%.
+
+::Food_rootSoda
+Initiative augmentée de 5.
+
+::Food_stuffedBat
+Détection augmentée de 15%.
+
+::Food_underPie
+Toutes les compétences augmentées de 3.
+
+::Food_cannedCzernina
+Dégâts de chaleur subis réduits de 15%.
+
+::Food_crabSandwich
+Seuil mécanique global augmenté de 15%.
+
+::Food_kzozel
+Esquive augmentée de 50 et tous les dégâts mécaniques subis réduits de 10%. Perception réduite de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
+
+::Food_kzozelYantar
+Esquive augmentée de 70 et tous les dégâts mécaniques subis réduits de 15%. Perception réduite de 3. Toutes les compétences psioniques réduites de 40 et régénération de psi réduite de 30.
+
+::Food_mutieStew
+Dégâts d'acide subis réduits de 35%, mais points de vie réduits de 20 et efficacité des soins diminuée de 35%.
+
+::Food_SeaSerpentFillet
+Dégâts de poison subis réduits de 20% et évitement augmenté de 30.
+
+::Food_butterySteamedClams
+Points de vie maximum augmentés de 40.
+
+::Food_bisonMilk
+Force augmentée de 1 et bonus de dégâts critiques des armes de mêlée et attaques à mains nues augmenté de 25%.
+
+::Food_mysteryCandy
+Taux de critique des armes, attaques à mains nues et psi augmenté de 5%, mais volonté réduite de 1 et sang-froid réduit de 100.
+
+::Food_iceOfSpades
+Métathermique augmentée de 20 mais points de mouvement réduits de 10.
+
+::Food_allIn
+Tous les attributs augmentés de 3. Chance de subir un coup critique d'arme, à mains nues ou psi augmentée de 100% (additif).
+
+::Food_boolean
+Tous les attributs réduits de 3. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
+
+::Food_stalagDrop
+Force augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et dextérité réduites de 1. Toutes les compétences psioniques réduites de 10 et régénération de psi réduite de 15.
+
+::Food_caveTear
+Force augmentée de 2 et tous les dégâts mécaniques subis réduits de 20%. Perception et dextérité réduites de 3. Toutes les compétences psioniques réduites de 30 et régénération de psi réduite de 40.
+
+::Food_cleanDeal
+Contrôle mental augmenté de 20, mais perception réduite de 1 et sang-froid réduit de 30.
+
+::Food_sleightOfTheNight
+Vol à la tire augmenté de 15.
+
+::Food_slampipe
+Force augmentée de 1 et le personnage inflige 15% de dégâts en bonus avec les armes de mêlée contondantes, armes de poings et attaques à mains nues. Agilité réduite de 1. 
+
+::Food_outwork
+Capacité de port augmentée de 30.
+
+::Food_jetdrag
+Stabilité sur jet-ski augmentée de 10%, mais points d'action réduits de 5.
+
+::Food_laylow
+Évitement augmenté de 15% et furtivité de 20. Aussi, tous les dégâts bio reçus réduits de 10%.
+
+::Food_mindshroomMartini
+Points de psi maximum augmentés de 10.
+
+::Food_whiteDude
+Agilité augmentée de 3, persuasion de 15, mais dextérité et perception réduites de 2 et régénération de psi réduite de 30.
+
+::Food_slackjaw
+Force et constitution augmentées de 1 et intimidation de 15, mais intelligence réduite de 3 et volonté de 1.
+
+::Food_absence
+Détection augmentée de 23,3%, chance de subir un crit d'arme, à mains nues ou psi réduite de 16,6%. Pour équilibrer les balances transcendantales, ce personnage a 16,6% de taux de critique psi en plus et 33,3% de coût en psi en plus. Il peut aussi eNfIn PerC3voir la rÉ4lité telle qu'elle est VRAImentŝş...
+
+::Food_bloodyOligarch
+Points de vie augmentés de 30, mais sang-froid réduit du même montant. Son goût répugnant vous collera à la bouche pendant des heures.
+
+::Food_scrapperac
+Ce personnage inflige 15% de dégâts en bonus avec les armes de mêlée et attaques à mains nues, et a une petite chance d'hébéter la cible, lui-même, ou les deux à chaque telle attaque.
+
+::Food_jonSpecial
+Toutes les compétences augmentées de 5.
+
+::StrangeFeeling
+Vous sentez l'obscurité se refermer sur vous et une présence menaçante dans un coin de votre esprit.
+
+::PsionicApparition
+Immunisé à toutes les attaques physiques.
+
+::OffBalance
+Esquive et évitement réduits à zéro.
+
+::IceRemnant
+Apparition de froid. Immunisée à tous les dégâts.
+
+::Intimidated
+Toutes les compétences offensives réduites de {0}.
+
+::CreepingDread
+Vous sentez une peur primordiale ramper au fond de votre crâne. Toutes les compétences offensives, défensives et psioniques réduites de {0}%.
+
+::SporeInfection
+Vous avez la tête qui tourne. Points de vie réduits de {0}%.
+
+::EyeOfTchort
+L'œil de Tchort est sur vous, presque à vous paralyser de peur. Toutes les compétences offensives, défensives et psioniques réduites de {0}%.
+
+::Crippled
+Force réduite de {0}.
+
+::Tackled
+Points de mouvement réduits de {0}, points d'action de {1} et chances de toucher avec toutes les armes à distance réduites de {2}%.
+
+::MorphineHypo
+Tous les dégâts subis réduits de {0}%. À l'expiration de l'effet, le personnage subit des dégâts égaux à {1}% de ses points de vie manquants.
+
+::Nervosomnifer
+Tous les dégâts subis réduits de {0}%. À l'expiration de l'effet, le personnage subit des dégâts égaux à {1}% de ses points de vie manquants.
+
+::Anticoagulation
+Prolonge tous les effets de saignement et augmente l'efficacité des attaques drainant le sang de {0}%. Aussi, tous les soins sont réduits de {1}%.
+
+::AnticoagulationItemEffect_Cap
+Applique un anticoagulant à une arme de mêlée adaptée : prolonge tous les effets de saignement et augmente l'efficacité des attaques drainant le sang de {0}% pendant {2}. Aussi, tous les soins sont réduits de {1}%. S'empile {3} fois.
+
+::AnticoagulationItemEffect_Applied
+Si l'attaque pénètre l'armure, un anticoagulant est appliqué : prolonge tous les effets de saignement et augmente l'efficacité des attaques drainant le sang de {0}% pendant {2}. Aussi, tous les soins sont réduits de {1}%. S'empile {3} fois.
+
+::BrokenRib
+Le personnage subit {0}% de dégâts mécaniques supplémentaires de toutes sources.
+
+::UncannyDodge-Old
+Ce personnage esquivera la prochaine attaque de mêlée normale ou spéciale.
+
+::UncannyDodge
+Ce personnage esquivera une attaque de mêlée normale ou spéciale pour chaque cumul de cet effet.
+
+::UncannyEvasion
+Ce personnage évitera une attaque d'arme à distance normale ou spéciale pour chaque cumul de cet effet.
+
+::EvasiveManeuvers
+Évitement augmenté de {0}.
+
+::MentalBreakdown
+Ce personnage est incapable d'agir et subit {0}% de sang-froid en moins. Si une capacité psi de contrôle mental néfaste est invoquée contre lui, elle aura un double effet, mais mettra fin à l'effondrement mental.
+
+::Trapped
+Ce personnage est cloué sur place par un piège.
+
+::Compass
+Ce personnage sait où se trouve le nord.
+
+::Infusion_Reflexes
+Esquive et évitement augmentés de {0}.
+
+::Infusion_Strength
+Force augmentée de {0}.
+
+::Infusion_Speed
+Points de mouvement augmentés de {0}.
+
+::Infusion_Focus
+Toutes les compétences psioniques augmentées de {0}
+
+::InfectedWound
+Tous les dégâts subis augmentés de {0}%. Efficacité des soins réduite de {1}%.
+
+::ExposedWeakness
+Résistance et seuil de dégâts mécaniques réduits de {0}%.
+
+::BlastedArmor
+Résistance et seuil de dégâts mécaniques et de chaleur réduits de {0}%.
+
+::Suppressed
+Précision à distance réduite de {0}%, points d'action réduits de {1} et points de mouvement de {2}.
+
+::QuickTinkering
+Ce personnage armera le prochain piège instantanément, même en combat, auquel cas cela coûtera {0} points d'action.
+
+::TasteForBlood
+Dégâts de mêlée augmentés de {0}%.
+
+::TasteForBlood2-Old
+Dégâts de mêlée augmentés de {0}% et coût en PA des armes de mêlée réduit de {1}.
+
+::Combo
+Si vous portez trois attaques consécutives infligeant des dégâts à mains nues ou à l'arme de poings contre une même cible en un seul tour, la troisième inflige {0}% de dégâts en bonus et étourdit la cible pendant {1}.
+
+::LastStand
+À l'expiration de cet effet, les points de vie du personnage passent à 1.
+
+::ThermodynamicDestabilization
+Si cette cible est détruite, elle explose et inflige {0} et {1} dégâts aux personnages alentour.
+
+::Irongut
+Tous les dégâts biologiques subis réduits de {0}%.
+
+::PsionicTrance
+Bonus de dégâts critiques des capacités psi augmenté de {0}%, mais coût en psi aussi augmenté de {1}%.
+
+::PainSuppression
+Tous les dégâts subis réduits de {0}%.
+
+::FocusBoost
+Taux de critique des armes, combat à mains nues et psionique augmenté de {0}%.
+
+::AgilityBoost
+Esquive et évitement augmentés de {0}%. Points de mouvement augmentés de {1} hors furtivité.
+
+::HerculeanMight
+Force, dextérité, agilité et constitution augmentées de {0}.
+
+::HerculeanWithdrawal
+Vous vous sentez mal. Force, dextérité, agilité et constitution réduites de {0}. Points d'action réduits de {0}. Points de mouvement réduits de {2} et vitesse de déplacement de {3}%. Subit {1} dégâts chaque tour.
+
+::ZombieMutating
+Ce personnage subit d'horribles mutations.
+
+::DreadnoughtPiloting
+Vous pilotez un dreadnought.
+
+::JetskiPiloting
+Vous pilotez un jet-ski.
+
+::Dazed
+Points d'action réduits de {0} et points de mouvement de {1}.
+
+::Inhibited
+Ne peut pas invoquer de capacités psi ni régénérer de points de psi naturellement.
+
+::ConcentratedFire
+Reçoit {0}% de dégâts en plus des attaques en rafale.
+
+::GunRush
+Votre prochaine rafale de fusil d'assaut ou de mitraillette ne coûtera aucun point d'action.
+
+::Immobilized
+Ne peut pas se déplacer.
+
+::Charged
+La prochaine attaque psionique électrique infligera {0} dégâts électriques supplémentaires.
+
+::Contaminated
+Tous les dégâts subis augmentés de {0}%.
+
+::WorkbenchSkillBonus
+{0} augmenté(e) de {1}%.
+
+::PseudoSpatialProjection
+Les attaques à mains nues et d'armes ont une chance de manquer ce personnage, en retirant à la place l'une des projections psioniques.
+
+::BlurredVision
+Perception réduite de {0} et détection de {1}%.
+
+::NeurovisualDisruption
+Ne peut pas détecter les personnages en furtivité.
+
+::DisruptiveField
+Chances de toucher avec les armes à distance et de jet réduites de {0}%.
+
+::ExothermicAura
+Vous êtes immunisé aux dégâts de chaleur et générez des flammes autour de vous et dans votre sillage (sauf au dernier tour).
+
+::CryoShield
+Chaque fois que le personnage subit une attaque de mêlée, il y a {0}% de chances qu'un des éclats bloque {1} de dégâts mécaniques et soit détruit dans le processus.
+
+::Bullhead
+Immunisé à l'étourdissement, l'hébétude et l'incapacité.
+
+::Regeneration
+Régénère {0} points de vie chaque tour.
+
+::PsiRegeneration
+Régénère {0} psi chaque tour.
+
+::SupersoldierDrug
+Force, dextérité, agilité, constitution et perception augmentées de {0}. Toutes les compétences de combat augmentées de {1}%.
+
+::ShieldRecharging
+Récupère {0} de bouclier chaque tour.
+
+::Corroded
+Toutes les résistances et seuils de dégâts réduits de {0}%.
+
+::BlackDragonPoison
+Affecté par un poison qui empêche l'invocation de capacités psi et la régénération de points de psi.
+
+::PsychostaticElectricity
+Chance de subir un coup critique d'arme, à mains nues ou psi augmentée de {0}%.
+
+::SecondSight
+Perception augmentée de {0} et le personnage reçoit le don de seconde vue.
+
+::Hemopsychosis
+Vos capacités psi coûtent des points de vie au lieu de points de psi.
+
+::HemopsychosisReduced
+Vos capacités psi coûtent des points de vie au lieu de points de psi, mais leur coût est réduit de {0}%.
+
+::Blindsiding
+Dégâts à mains nues et d'armes augmentés de {0}%.
+
+::TemporalDistorsion
+À l'expiration de cet effet, il infligera {0} et {1} dégâts à la cible. Ces dégâts ignorent le bouclier et {2}% de la résistance et du seuil de dégâts.
+
+::EntropicRecurrence
+Le personnage subit {0} dégâts chaque tour. Ces dégâts ignorent les boucliers et les résistances.
+
+::PsychotemporalDilation
+Points d'action réduits de {0} et points de mouvement de {1}.
+
+::PsychotemporalContraction
+Points d'action augmentés de {0} et points de mouvement de {1}. À la fin de l'effet, {2}% de chances qu'il s'inverse en dilatation psychotemporelle de puissance variable.
+
+::TemporaryRewind
+À la fin de cet effet, le personnage subira {0} dégâts. Ces dégâts ignorent les boucliers et les résistances.
+
+::Precognition
+Chances d'esquiver et d'éviter les attaques augmentées de {0}% (additif). Draine {1} points de psi chaque tour.
+
+::Stasis
+Immunisé à tous les dégâts et à la plupart des effets invalidants, mais ne peut pas agir. Les effets de statut du personnage ne progressent pas, mais les recharges oui.
+
+Le stase se brise s'il absorbe {0} dégâts de plus, sinon il expire au début du dernier tour de durée au lieu de la fin.
+
+::BlindingPoison
+Ce personnage est affligé par un poison aveuglant et subit {0} dégâts bio chaque tour. Sa perception est aussi réduite de {1}.
+
+::PsionicAcceleration
+Régénération de psi augmentée de {0}%.
+
+::BlackOilSlow
+Vitesse de déplacement réduite de {0}%.
+
+::WebSlow
+Vitesse de déplacement réduite de {0}%.
+
+::HeavyIntoxication
+Voilà ce qui arrive quand on se met une mine avec Dude. Tous vos attributs ont été réduits de {0}. Santé !
+
+::SoreHands
+Vos mains sont douloureuses. Votre dextérité a été réduite de {0}.
+
+::IntelligenceBoost
+Intelligence augmentée de {0}.
+
+::InitiativeBoost
+Initiative augmentée de {0}.
+
+::ThirdEye
+Détection augmentée de {0}%. Perception augmentée de {1} pour détecter les passages secrets et autres secrets.
+
+::SpearGuard
+A {0}% de chances de bloquer jusqu'à {1} dégâts mécaniques en tenant une lance.
+
+::ShatteredWill
+Votre volonté d'avancer se délite rapidement. Tous les attributs réduits de {0}, toutes les compétences de {1}, points de mouvement et d'action de {2}.
+
+::CarvedUp
+Points d'action réduits de {0} et chance de subir un coup critique d'arme ou à mains nues augmentée de {1}%.
+
+::ChemicalDestabilization
+Le personnage subit {0}% de dégâts {1} supplémentaires de toutes sources.
+
+::ChemicalDestabilizationProvider
+Vos attaques réussies au pistolet chimique augmentent les dégâts du type du pistolet subis de toutes sources de {0}% pendant {1}. S'empile {2} fois.
+
+::LeperPoison
+Ce personnage est affligé par le poison de lépreux, subit {0} dégâts bio chaque tour et reçoit {1}% de dégâts mécaniques en plus de toutes sources.
+
+::Submerged
+Ce personnage est immergé. Évitement augmenté de {0}, esquive de {1} et toutes les résistances aux dégâts de {2}%.
+
+::HeartbreakPoison
+Ce personnage est affligé par le poison cœur brisé et subit {0} dégâts bio chaque tour. S'il n'est pas retiré, il inflige {1} dégâts bio supplémentaires à l'expiration.
+
+::Rusting
+Réduit la durabilité de tous les objets mécaniques en votre possession de {0} chaque tour.
+
+::VehicleTurbo
+Vitesse et points de mouvement du véhicule augmentés de {0}%, mais consommation d'énergie augmentée de {1}%. Les bonus ne s'appliquent que si le véhicule n'est pas en surcharge.
+
+::Flurry
+Réduit le coût en PA de Rafale de {0}.
+
+::Onslaught
+Augmente les dégâts des épées de {0}%. Retiré si une attaque rate ou n'inflige aucun dégât.
+
+::Riposte
+Ce personnage peut effectuer une attaque d'épée gratuite.
+
+::PositiveVoidAffliction
+Affecté positivement par l'issue de la bataille précédente. 
+
+::NegativeVoidAffliction
+Affecté négativement par l'issue de la bataille précédente.
+
+::PlayerVoidApparition
+Votre esprit est détaché de votre corps, et ici c'est aussi votre seul outil disponible.
+
+::PelletMayhem
+Votre prochaine attaque au fusil à pompe aura son taux de critique augmenté de {0}%.
+
+::ElectroshockAura
+Draine {0} d'énergie de l'armure et frappe les personnages adjacents pour {1} dégâts à la fin de chaque tour, au coût de {2} d'énergie par personnage.
+
+De plus, chaque fois que ce personnage est attaqué en mêlée, l'attaquant subit les mêmes dégâts électriques au même coût d'énergie.
+
+Chaque fois que cette aura inflige des dégâts électriques, {3}% de chances d'étourdir la cible pendant {4}.
+
+::MetallineEnergization
+Draine {0} d'énergie de l'armure, mais réduit le malus d'armure global du personnage de {1}%.
+
+::EnergyShieldEmpowerment
+Draine {0} d'énergie de l'armure, mais augmente toutes les valeurs de protection énergétique de {1}%.
+
+::WirelessChargingAura
+Transfère jusqu'à {0} d'énergie à {1}% d'efficacité de l'objet source vers tous les autres objets équipés qui nécessitent une recharge, en répartissant l'énergie équitablement.
+
+::RestlessSpirits
+Dextérité et perception réduites de {0}.
+
+::DarkPresence
+Quelque chose d'malsain séjourne au fond de votre esprit. Volonté réduite de {0} et sang-froid de {1}%.
+
+::StriderParasiticInfestation_Base
+Ce personnage a été infesté !
+
+::StriderParasiticInfestation_Phase1
+Il subit {4} dégâts bio par tour.
+
+::StriderParasiticInfestation_Phase2
+Soins réduits de {0}%.
+
+::StriderParasiticInfestation_Phase3
+Régénération de psi réduite de {1}.
+
+::StriderParasiticInfestation_Phase4
+Points de mouvement réduits de {2}.
+
+::StriderParasiticInfestation_Phase5
+Points d'action réduits de {3}. La plaie infestée fait un mal abominable.
+
+::SwampTrance
+Ce personnage a sa perception augmentée de {0} et régénère {1} points de vie chaque tour. Le fait aussi briller.
+
+::Polarized
+Résistance et seuil aux dégâts d'énergie réduits de {0}% et électriques de {1}%. Chance de subir un coup critique d'arme augmentée de {2}%.
+
+::Hyperallergenic
+Consommer tout type de médicament infligera {0} dégâts bio inévitables à ce personnage et l'hébétera pendant {1}.
+
+::HyperallergenicItemEffect_Cap
+Applique un hyperallergène à une arme de mêlée adaptée : infligera jusqu'à {0} dégâts bio inévitables à la victime et l'hébétera pendant {1} si elle consomme tout type de médicament sous cet effet. Dure {2}.
+
+::HyperallergenicItemEffect_Applied
+Si l'attaque pénètre l'armure, un hyperallergène est appliqué : infligera jusqu'à {0} dégâts bio inévitables à la victime et l'hébétera pendant {1} si elle consomme tout type de médicament sous cet effet. Dure {2}.
+
+::BattleTrance
+Toutes les compétences offensives et psioniques augmentées de {0}%.
+
+::Smoking
+Augmente la régénération de psi de {0}, mais réduit la constitution de {1}.
+
+::CerebralAcidization
+Cette créature subit {0} dégâts d'acide chaque tour.
+
+::VoidRot
+Ce personnage subit {0} dégâts d'énergie chaque tour.
+
+::ImprovedSprint
+Points de mouvement augmentés de {0} et points d'action de {1} hors furtivité.
+
+::EmpoweredInvocation
+Compétence {0} augmentée de {1}%. À l'expiration de cet effet, le personnage perdra tous ses points de psi.
+
+::BoardedUp
+Augmente le montant bloqué par un bouclier anti-émeute de {0}%.
+
+::ShellCount
+Le prochain tir de fusil à pompe infligera {0}% de dégâts en bonus.
+
+::ScrambledCortex
+Cette machine est confuse et peut attaquer n'importe qui ou battre en retraite au hasard.
+
+::Chemhaze
+Chances de toucher avec les armes à distance réduites de {0}% et avec les armes de mêlée et à mains nues de {1}%.
+
+::HelmetLanternAura
+Draine {0} d'énergie chaque tour et éclaire jusqu'à {1} cases devant le porteur
+
+::ElectricTorchAura
+Draine {0} d'énergie chaque tour et éclaire dans un rayon de {1}.
+
+::IndustrialExoskeletonAura
+Force augmentée de {0} et points de mouvement de {1}. Malus de vitesse de déplacement de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} d'énergie supplémentaires par case de déplacement.
+
+::CombatExoskeletonAura
+Force augmentée de {0} et points de mouvement de {1}. Malus de vitesse de déplacement de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} d'énergie supplémentaires par case de déplacement.
+
+::ShootingSpree
+Votre prochaine attaque au sniper remboursera 100% du coût en PA si elle tue la cible.
+
+::PlayerMutantFireClaw
+Des flammes enveloppent votre griffe gauche, lui faisant infliger 10-15 dégâts de chaleur supplémentaires à chaque attaque de mêlée.
+
+::PlayerMutantFrostClaw
+Plonger votre griffe droite dans un congélateur d'azote liquide l'a enfermée dans la glace : 20-35 dégâts de froid supplémentaires à chaque attaque de mêlée, en refroidissant la cible au passage.
+
+::PlayerMutantRustingAcidInfusion
+Consommer un mystérieux breuvage a altéré vos glandes acides : votre Spray d'acide inflige désormais de l'acide rouillant.
+
+::BulletTime
+Réduit le coût en PA des tirs de pistolets à feu de {0}%. Ne peut pas descendre le coût sous le minimum absolu.
+
+::CutsceneDamageResistance
+Vous ne devriez pas voir ça. Regardez ailleurs.
+
+::Campfire
+Le feu vous réchauffe et vous détend. Points de mouvement augmentés de {0}, vitesse de déplacement de {1}%.
+
+::FrigidEnvironment
+Il gèle ici. Votre résistance et seuil au froid sont réduits de {0}%, et tous les dégâts de froid subis sont augmentés de {1}%.
+
+::PsychokineticChainLink
+Ce personnage est lié dans une chaîne psychokinétique : {0}% de tous les dégâts mécaniques et électriques directs subis seront transférés au maillon suivant, jusqu'à un maximum de {1} dégâts par transfert.
+
+::TelekineticGrounding
+Ce personnage est pour l'instant immobilisé par une force télékinétique, mais peut parvenir à se libérer.
+
+::PsychosomaticPredator
+Ce personnage chasse une proie précise et lui inflige des dégâts en bonus avec les armes et à mains nues. Les mêmes dégâts sont réduits de {0}% au total contre les autres cibles.
+
+::PsychosomaticPrey
+Ce personnage est chassé et recevra {0}% de dégâts en bonus des attaques d'arme et à mains nues de son chasseur. Doublé si l'attaque est en mêlée, et encore doublé si ce personnage est effrayé.
+
+::PsionicTransceiver
+Compétences psioniques augmentées de {0} grâce à la présence d'autres psioniques.
+
+::FreezingMemories
+Volonté augmentée de {2}. Tous les dégâts de froid subis réduits de {0}% et tous les dégâts mécaniques de {1}%. Le personnage est immunisé à tout nouvel effet de refroidissement ou de gel.
+
+::Motion
+Ce chat est en Motion : intelligence et perception réduites de {0}, points de psi maximum augmentés de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
+
+::MotionWithdrawal
+Ce chat souffre d'un grave manque de Motion : intelligence et perception réduites de {0}, points de psi maximum de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
+
+::MindFog
+Intelligence réduite de {0} et coût en psi augmenté de {1}%.
+
+::ToxicGasHealingForEnergyMicrofeat
+Restaure {0}-{1} points de vie chaque tour en se tenant dans un nuage de gaz toxique, au coût de jusqu'à {2} d'énergie. Le soin dépend de l'épaisseur du nuage et le coût d'énergie du montant soigné. Ne peut pas soigner au-delà de {3}% des PV max. Ne fonctionne pas gelé ou refroidi.
+
+::HeadTrap
+Subit {0} dégâts chaque tour. Perception réduite de {1}.
+
+::ScanCallOverload
+Temps de scan augmenté de {0}%, ce qui rend la caméra plus lente à repérer et signaler les intrus.
+
+::SweepingMomentum
+L'attaque de balayage inflige {0}% de dégâts en bonus.
+
+::BurstWindUp
+La rafale avec cette arme tirera {0} cartouche{1} en plus tout en coûtant {2} point{3} d'action en moins.
+
+::BulletTrance
+Ce personnage inflige {0}% de dégâts en bonus avec les armes lourdes.
+
+::DemolitionRage
+Ce personnage inflige {0}% de dégâts en bonus avec les lance-grenades et lance-roquettes.
+
+::GunnersHigh
+Soigne {0} points de vie par tour, mais ne peut pas soigner au-delà de {1}% des PV max.
+
+::JumpstarterBoost
+Accorde {0} projectiles de rafale en plus à {1}.
+
+::ColdLaserInterception
+Ce robot de soutien tactique est équipé d'un système de protection de zone actif qui intercepte et refroidit rapidement les grenades, les neutralisant de fait.
+
+::DesignatorLaser
+Ce robot de soutien tactique est équipé d'un désignateur laser informatisé qui fournit des infos de ciblage à ses alliés, améliorant ainsi leur précision et leur efficacité.
+
+::LaserDesignatedTarget
+Chance de subir un coup critique d'arme augmentée de {0}.
+
+::SensorimotorTransference
+Les performances du combattant sont influencées par des sources externes. Toutes les compétences offensives augmentées de {0}, coût en PA de toutes les attaques d'arme réduit de {1} et tous les dégâts subis réduits de {2}.
+
+::SensorimotorTransferenceDisruption
+Réduit le nombre de cumuls de Commande sensorimotrice de {0}.
+
+::SensorimotorAmplifier
+Renforce et contribue aux informations sensorimotrices reçues.
+
+::WildPsionicInnervation
+Niveau de compétence augmenté de {0}, taux de critique de {1} et dégâts critiques de {2}, tandis que le coût en points de psi est réduit de {3} pour les capacités psi {4}. Toutes les autres écoles psi non boostées ont leur coût en points de psi augmenté de {5}.
+
+::ParafibroticRegeneration
+Soigne {0} points de vie par tour et dégâts mécaniques et de chaleur subis réduits de {1}.
+
+::Demoralized
+Compétences offensives réduites de {0}.
+
+::ShellShocked
+Compétences offensives et défensives réduites de {0}.
+
+::MutationSickness
+Vous avez la nausée et tout le corps vous fait mal. Vos points de vie ont été temporairement réduits de {0}%.
+
+::MutationVigor
+Vous vous sentez étrangement revigoré. Vos points de vie ont été temporairement augmentés de {0}%.

@@ -1,0 +1,456 @@
+=>q1_original
+::As you approach Constantine you hear an unfamiliar cracking sound coming from outside, lasting but an instant. While certainly not deafening, it is loud enough to startle you. One moment later, another sound is heard - that of a dead body tumbling down the outside wall, after which everything becomes quiet again. Constantine simply laughs at the whole event.::
+
+Take that!<end>
+
+=>q1
+::Alors que vous approchez de Constantine, vous entendez un craquement inconnu venant de l’extérieur, qui ne dure qu’un instant. Bien qu’il ne soit certainement pas assourdissant, il est suffisamment fort pour vous surprendre. Un instant plus tard, un autre bruit se fait entendre : celui d'un cadavre tombant du mur extérieur, après quoi tout redevient calme. Constantine se contente de rire de tout l'événement.::
+
+Prends ça !<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have in store. ::Barter::<end>
+
+=>a3
+Montre-moi ce que tu as en magasin. ::Troc::<end>
+
+=>a4_original
+::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
+
+=>a4
+::[Mercantile]:: Dis... et si tu me montrais les très bonnes choses, hein ? Ce n’est pas parce que je suis relativement nouveau ici que je suis pauvre.<end>
+
+=>q5_original
+What makes you think I have the "good stuff"?<end>
+
+=>q5
+Qu'est-ce qui te fait penser que j'ai les « bonnes choses » ?<end>
+
+=>a6_original
+Being observant is a requirement here if I'm not mistaken.<end>
+
+=>a6
+Être observateur est une exigence ici si je ne me trompe pas.<end>
+
+=>q7_original
+Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
+
+=>q7
+Observateur, dites-vous... ::Il fait une pause.:: Eh bien, vous l'êtes très certainement, $(context.player.Name). Jetez un oeil à ceci.<end>
+
+=>a8_original
+::Barter.::<end>
+
+=>a8
+::Troc.::<end>
+
+=>q9_original
+No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
+
+=>q9
+Non, ce n'est pas le cas. Mais cela ne veut pas dire non plus que vous êtes riche. De toute façon, je n'ai rien d'autre à vous proposer.<end>
+
+=>a10_original
+How and why did you join Oculus?<end>
+
+=>a10
+Comment et pourquoi avez-vous rejoint Oculus ?<end>
+
+=>q11_original
+Well, we all go through a similar phase. You do small jobs, then, if they like you, they give you bigger jobs, those that require more of your skills. You've been through it all, you know it.<end>
+
+=>q11
+Eh bien, nous traversons tous une phase similaire. Vous faites de petits travaux, puis, s'ils vous aiment, ils vous confient des travaux plus importants, ceux qui nécessitent davantage de vos compétences. Vous avez tout vécu, vous le savez.<end>
+
+=>q12_original
+As to *why* I joined...
+
+::He raises his voice.:: So that I could stand around all day in this cramped bloody, freaking bloody pyramid bottom 2x2 platform... Arrrgh!<end>
+
+=>q12
+Quant à *pourquoi* j'ai rejoint...
+
+::Il élève la voix.:: Pour que je puisse rester debout toute la journée sur cette foutue et sanglante plateforme 2x2 au bas de la pyramide... Arrrgh !<end>
+
+=>q13_original
+::Clears throat.:: I apologize. Um... It was a pursuit of... work. Work brings money, money can be used to buy food and equipment. So, now I'm here. Selling... equipment...
+
+For money!<end>
+
+=>q13
+::Dégage la gorge.:: Je m'excuse. Euh... C'était une poursuite de... travail. Le travail rapporte de l’argent, l’argent peut être utilisé pour acheter de la nourriture et du matériel. Alors maintenant, je suis là. Vente... de matériel...
+
+Pour de l'argent !<end>
+
+=>a14_original
+So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cramped in here?<end>
+
+=>a14
+Alors, qu’est-ce que ça fait de travailler au niveau le plus bas d’Oculus ? N'est-ce pas un peu... à l'étroit ici ?<end>
+
+=>q15_original
+Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
+
+=>q15
+Bien sûr, c'est exigu, tu penses vraiment que je ne l'ai pas remarqué !? Je ne peux même pas bouger un pied sans heurter quelque chose ! Toutes ces foutues boîtes, j'aimerais pouvoir toutes les jeter dans l'abîme ! Arggh!<end>
+
+=>q16_original
+::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
+
+=>q16
+::Dégage la gorge.:: Je m'excuse, vous n'auriez pas dû être témoin de ça. Je suis d'accord, la zone est un peu... hmm, manquant au niveau de l'espace, et en plus, étant dans la partie la plus basse d'Oculus, j'entends... des choses qui tentent d'entrer.<end>
+
+=>a17_original
+What things?<end>
+
+=>a17
+Quelles choses ?<end>
+
+=>q18_original
+Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q18
+Eh bien, les chenilles, par exemple, je les entends escalader les murs. Un léger son au bas de l'Oculus se rapproche lentement... et devient plus fort. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là, peut-être qu'elle peut entendre qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qui peut être... consommé.<end>
+
+=>q19_original
+But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
+
+=>q19
+Mais alors l'EDS fait frire les bugs ! ::Il rit.:: Ils crient alors que leurs carcasses fumantes tombent dans l'obscurité ! Je les déteste, je les déteste tellement, ainsi que ces foutus Lunatic !<end>
+
+=>a20_original
+If you hear strange things, then maybe it's time to lay off the brew.<end>
+
+=>a20
+Si vous entendez des choses étranges, il est peut-être temps d'arrêter le breuvage.<end>
+
+=>q21_original
+::The moment he hears you uttering those words, his jaw clenches and the face slowly turns red. His piercing stare feels like you've been exposed to high-frequency radiation that's tearing through your tissue. He quickly calms down, slowly exhales and regains his natural color.::
+
+Khm, I hope you were joking... I don't drink.<end>
+
+=>q21
+::Au moment où il vous entend prononcer ces mots, sa mâchoire se serre et son visage devient lentement rouge. Son regard perçant donne l'impression que vous avez été exposé à un rayonnement à haute fréquence qui déchire vos tissus. Il se calme rapidement, expire lentement et retrouve sa couleur naturelle.::
+
+Khm, j'espère que tu plaisantais... Je ne bois pas.<end>
+
+=>q22_original
+I was talking about crawlers, not something I imagined, as you... *jokingly* implied. I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q22
+Je parlais de robots d'exploration, pas de quelque chose que j'imaginais, comme vous... *en plaisantant* l'avez laissé entendre. Je les entends escalader les murs. Un léger son au bas de l'Oculus se rapproche lentement... et devient plus fort. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là, peut-être qu'elle peut entendre qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qui peut être... consommé.<end>
+
+=>a23_original
+What is EDS?<end>
+
+=>a23
+Qu’est-ce qu’EDS ?<end>
+
+=>q24_original
+Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
+
+=>q24
+Système de défense électrique. Ce n'est pas le nom officiel, cependant, le nom original n'est connu que de... celui qui a construit Oculus.<end>
+
+=>q25_original
+I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
+
+=>q25
+Je n'ai aucune idée de comment cela fonctionne, mais en substance, il envoie une poussée d'électricité à travers tout ce qu'il juge dangereux, le faisant frire. Et c'est intelligent, le système sait ce qui doit être tué et ce qui ne doit pas l'être. Cela peut parfois être distrayant... entendre des Lunatic en feu crier et tomber dans l'abîme. Mais encore une fois, cela me fait aussi sourire.<end>
+
+=>q26_original
+'Cause I hate those bastards!<end>
+
+=>q26
+Parce que je déteste ces salauds !<end>
+
+=>a27_original
+You mentioned Lunatics, who are they?<end>
+
+=>a27
+Vous avez évoqué les Lunatic, qui sont-ils ?<end>
+
+=>q28_original
+You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
+
+=>q28
+Vous ne savez pas qui sont les Lunatic ? Restez dans les parages et vous le découvrirez peut-être. Eh bien, vous les entendrez essayer de grimper sur l'Oculus, car ils résident très près du fond de celui-ci. Contrairement aux robots d'exploration, les Lunatic sont toujours regroupés.<end>
+
+=>a29_original
+Do they bother you often?<end>
+
+=>a29
+Est-ce qu'ils vous dérangent souvent ?<end>
+
+=>q30_original
+Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
+
+=>q30
+Le font-ils ? Le font-ils ? Ils le font, putain ! C'est comme si j'étais maudit par ça, cet orbe d'agacement qui vole autour de ma tête et provoque toutes sortes de choses exaspérantes !<end>
+
+=>q31_original
+"WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
+
+They just... have to give it another go! And another, and another...<end>
+
+=>q31
+"WHAAAAAAAAAAAAA ! Nous allons entrer, même s'il y a un tas de cadavres brûlés sous l'Oculus." 
+
+Ils doivent juste... recommencer ! Et un autre, et un autre...<end>
+
+=>q32_original
+Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
+
+=>q32
+Khm... je m'excuse. Ces choses me dérangent vraiment parfois et je pourrais parfois... réagir de manière excessive.<end>
+
+=>a33_original
+You still didn't tell me who these Lunatics actually are.<end>
+
+=>a33
+Vous ne m'avez toujours pas dit qui sont réellement ces Lunatic.<end>
+
+=>q34_original
+Lunatics are... hmmm, think of Ironheads and Lurkers. A bandit gang that is similar in size, but composing mostly of psionics. Powerful psionics, while we're at it, but the trade-off is that they are insane and unpredictable.<end>
+
+=>q34
+Les Lunatic sont... hmmm, pensez aux Ironheads et aux Lurker. Un gang de bandits de taille similaire, mais composé principalement de psioniques. Des psioniques puissants, tant qu'on y est, mais le compromis est qu'ils sont fous et imprévisibles.<end>
+
+=>q35_original
+That is why the morons try to jump all over the bloody Oculus and disturb us! What a bunch of thick-headed cretins! Arrrgh!<end>
+
+=>q35
+C'est pourquoi ces crétins essaient de sauter partout dans ce foutu Oculus et de nous déranger ! Quelle bande de crétins à la tête épaisse ! Arrrgh!<end>
+
+=>a36_original
+Let's discuss something else.<end>
+
+=>a36
+Discutons d'autre chose.<end>
+
+=>q37_original
+Sure, but discuss what?<end>
+
+=>q37
+Bien sûr, mais discuter de quoi ?<end>
+
+=>a38_original
+Did they ever make it in?<end>
+
+=>a38
+Est-ce qu'ils ont déjà réussi à y arriver ?<end>
+
+=>q39_original
+Never. The EDS is there to prevent any unwanted entity from entering the Oculus. Lunatics are unwanted, therefore, they end up as ashes scattered all over the cave floor.<end>
+
+=>q39
+Jamais. L'EDS est là pour empêcher toute entité indésirable d'entrer dans l'Oculus. Les Lunatic ne sont pas désirés, ils finissent donc sous forme de cendres dispersées sur le sol de la grotte.<end>
+
+=>q40_original
+Personally, I've grown sick of those bloody idiots. It warms my heart to hear them die.<end>
+
+=>q40
+Personnellement, j'en ai marre de ces foutus idiots. Cela me fait chaud au cœur de les entendre mourir.<end>
+
+=>a41_original
+What can you tell me about Oculus?<end>
+
+=>a41
+Que pouvez-vous me dire sur Oculus ?<end>
+
+=>q42_original
+Oculus? You came down here to ask me that? You expect me... ME to answer your stupid questions!? "What can you tell me about Oculus?" Go ask Azif, he brought you here anyway...<end>
+
+=>q42
+Oculus? Tu es venu ici pour me demander ça ? Vous attendez de moi... que je réponde à vos questions stupides !? "Que peux-tu me dire sur Oculus ?" Allez demander à Azif, il vous a amené ici quand même...<end>
+
+=>q43_original
+::He takes a deep breath.:: I'm sorry, I guess I am a bit nervous.<end>
+
+=>q43
+::Il prend une profonde inspiration.:: Je suis désolé, je suppose que je suis un peu nerveux.<end>
+
+=>a44_original
+Who is that six-fingered cyborg?<end>
+
+=>a44
+Qui est ce cyborg à six doigts ?<end>
+
+=>q45_original
+Six? That's what we call him. Six. Because of his fingers. Six. That's how many there are. Um, yes...<end>
+
+=>q45
+Six? C'est comme ça qu'on l'appelle. Six. A cause de ses doigts. Six. Voilà combien il y en a. Euh, oui...<end>
+
+=>q46_original
+In any case, the cyborg is not the most... approachable type, so to say, so keep that in mind if you see him around here again. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q46
+De toute façon, le cyborg n'est pas le type le plus... accessible, pour ainsi dire, alors gardez cela à l'esprit si vous le revoyez par ici. Personne ne sait d'où il vient ni de quoi il est réellement capable ; nous savons seulement qu'il est un client et c'est tout ce dont nous avons besoin.<end>
+
+=>q47_original
+Still, you might try asking Azif about him, but I wouldn't put my charons on getting an answer.<end>
+
+=>q47
+Vous pourriez quand même essayer de poser des questions à Azif à son sujet, mais je ne mettrais pas mes charons à obtenir une réponse.<end>
+
+=>q48_original
+In any case, I suggest you do not bother the cyborg, no matter how intriguing he might appear. He's not the most... approachable type, so to say. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q48
+Dans tous les cas, je vous suggère de ne pas déranger le cyborg, aussi intriguant qu'il puisse paraître. Ce n'est pas le type le plus... accessible, pour ainsi dire. Personne ne sait d'où il vient ni de quoi il est réellement capable ; nous savons seulement qu'il est un client et c'est tout ce dont nous avons besoin.<end>
+
+=>a49_original
+Can I ask you something about the people in the Oculus?<end>
+
+=>a49
+Puis-je vous poser une question sur les gens de l'Oculus ?<end>
+
+=>q50_original
+Whom do you want to know about, $(context.player.Name)?<end>
+
+=>q50
+Sur qui voulez-vous savoir, $(context.player.Name) ?<end>
+
+=>a51_original
+Abram.<end>
+
+=>a51
+Abram.<end>
+
+=>q52_original
+Why him? Why did you ask about him first? It could've been any-bloody-else but you had to ask about him! What the hell is wrong with you!? Huh?<end>
+
+=>q52
+Pourquoi lui ? Pourquoi as-tu posé des questions sur lui en premier ? Ça aurait pu être n'importe quoi d'autre, mais il fallait poser des questions sur lui ! Qu'est-ce qui ne va pas chez toi !? Hein?<end>
+
+=>q53_original
+This is so damn tiring, always him! It's always bloody him!<end>
+
+=>q53
+C'est tellement fatiguant, toujours lui ! C'est toujours lui, putain !<end>
+
+=>q54_original
+::He calms down.:: I apologize for this. I really do. Um... can we not discuss other people in the future? Thank you, um, thank you.<end>
+
+=>q54
+::Il se calme.:: Je m'en excuse. Vraiment. Euh... ne pouvons-nous pas discuter d'autres personnes à l'avenir ? Merci, euh, merci.<end>
+
+=>a55_original
+Jack Quicksilver.<end>
+
+=>a55
+Jack Quicksilver.<end>
+
+=>a56_original
+Azif.<end>
+
+=>a56
+Azif.<end>
+
+=>a57_original
+Twitch.<end>
+
+=>a57
+Tic.<end>
+
+=>a58_original
+Phyllis.<end>
+
+=>a58
+Phyllis.<end>
+
+=>q59_original
+Why her? Why did you ask about her first? It could've been any-bloody-else but you had to ask about her! What the hell is wrong with you!? Huh?<end>
+
+=>q59
+Pourquoi elle ? Pourquoi as-tu posé des questions sur elle en premier ? Ça aurait pu être n'importe quoi d'autre, mais il fallait poser des questions sur elle ! Qu'est-ce qui ne va pas chez toi !? Hein?<end>
+
+=>q60_original
+This is so damn tiring, always her! It's always bloody her!<end>
+
+=>q60
+C'est tellement fatiguant, toujours elle ! C'est toujours elle, putain !<end>
+
+=>a61_original
+Actually, no one. I had other questions.<end>
+
+=>a61
+En fait, personne. J'avais d'autres questions.<end>
+
+=>q62_original
+Not a problem. I'm not going anywhere.<end>
+
+=>q62
+Pas de problème. Je ne vais nulle part.<end>
+
+=>a63_original
+What can you tell me about those robed oculites? <end>
+
+=>a63
+Que pouvez-vous me dire sur ces oculites en robe ? <end>
+
+=>q64_original
+We call them Whisperers. They are quite an interesting breed, I must say. They all belong to a single clan of psi-warriors, who call themselves Khazum Morakht. A very rough sounding word, I know. But believe me, it fits them well.<end>
+
+=>q64
+Nous les appelons les Whisperers. C'est une race assez intéressante, je dois dire. Ils appartiennent tous à un seul clan de guerriers psi, qui se font appeler Khazum Morakht. Un mot qui sonne très grossièrement, je sais. Mais croyez-moi, ça leur va bien.<end>
+
+=>q65_original
+They were here long before I arrived. I think they are all from North Underrail. You will find them throughtout Oculus, standing still, observing what happens around them, assessing everyone and everything. You can't initiate a conversation with them, trust me, I've tried... Especially with that one in the corner of this platform. ::Mutters something to himself.::<end>
+
+=>q65
+Ils étaient là bien avant mon arrivée. Je pense qu'ils viennent tous du Nord Underrail. Vous les trouverez partout dans Oculus, immobiles, observant ce qui se passe autour d’eux, évaluant tout et tout le monde. Vous ne pouvez pas engager une conversation avec eux, croyez-moi, j'ai essayé... Surtout avec celui-là dans le coin de cette plateforme. ::Marmonne quelque chose pour lui-même.::<end>
+
+=>a66_original
+Catch you later.<end>
+
+=>a66
+On se retrouve plus tard.<end>
+
+=>q67_original
+::You come up to a tall man with a mildly irritated look on his face. Despite that, his tone of voice is generally welcoming and doesn't imply that your presence bothers him.::
+
+And who do my eyes see? A newcomer. Welcome, $(context.player.Name), to a place that doesn't exist... to most people. I'm Constantine, the Oculus quartermaster.<end>
+
+=>q67
+::Vous arrivez devant un homme de grande taille avec un air légèrement irrité sur le visage. Malgré cela, son ton de voix est généralement accueillant et ne laisse pas entendre que votre présence le dérange.::
+
+Et qui voient mes yeux ? Un nouveau venu. Bienvenue, $(context.player.Name), dans un endroit qui n'existe pas... pour la plupart des gens. Je m'appelle Constantine, l'intendant d'Oculus.<end>
+
+=>q68_original
+Hey, I've got some new gear for you.<end>
+
+=>q68
+Hé, j'ai du nouvel équipement pour toi.<end>
+
+=>a69_original
+Show it to me. ::Barter.::<end>
+
+=>a69
+Montre-le-moi. ::Troc.::<end>
+
+=>a70_original
+Good. But let me ask you something first.<end>
+
+=>a70
+Bien. Mais laissez-moi d'abord vous demander quelque chose.<end>
+
+=>q71_original
+I'm listening.<end>
+
+=>q71
+J'écoute.<end>
+
+=>q72_original
+What do you need, $(context.player.Name)?<end>
+
+=>q72
+De quoi as-tu besoin, $(context.player.Name) ?<end>
+

@@ -1,0 +1,502 @@
+=>q1_original
+::You enter the office to see a short, thin man already standing behind his desk to greet you. Neatly dressed, neatly shaved, smooth-faced - and scar-free - and in possession of straight white teeth - this man is a Northerner. He greets you with a polite voice.::
+
+Welcome to the United Stations embassy, $(#Mister/Miss) $(context.player.Name). We've been expecting you.<end>
+
+=>q1
+::Vous entrez dans le bureau pour voir un petit, mince homme déjà debout derrière son bureau pour vous saluer. Doucement habillé, bien rasé, lisse - et sans cicatrice - et en possession de dents blanches droites - cet homme est un Nordiste. Il vous salue d'une voix polie.::
+
+Bienvenue à l'ambassade United Stations, $(#Mister/Miss) $(context.player.Name). On vous attendait.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Major Clifton told me you wanted to talk to me.<end>
+
+=>a3
+Le commandant Clifton m'a dit que vous vouliez me parler.<end>
+
+=>q4_original
+Ah, yes, the Major told me that you were an integral part in the recovery of the missing train. We were aware of the Free Drones threat in the South, but so far the've never been... this bold. Not in South Underrail, that is.<end>
+
+=>q4
+Ah, oui, le major m'a dit que vous étiez partie intégrante dans la récupération du train disparu. Nous étions au courant de la menace Free Drones dans le Sud, mais jusqu'à présent le n'a jamais été... aussi audacieux. Pas au Sud Underrail, c'est-à-dire.<end>
+
+=>a5_original
+Those anarchist bastards have stepped over the line.<end>
+
+=>a5
+Ces bâtards anarchistes ont franchi la ligne.<end>
+
+=>q6_original
+They sure have. But they couldn't fool you, $(context.player.Name). That's why I have a simple proposal for you.<end>
+
+=>q6
+Bien sûr. Mais ils ne pouvaient pas vous tromper, $(context.player.Name). C'est pourquoi j'ai une simple proposition pour vous.<end>
+
+=>a7_original
+You want to offer me a job?<end>
+
+=>a7
+Tu veux m'offrir un travail ?<end>
+
+=>q8_original
+Offer might not be the right word; it's better to say, refer to you to someone who can. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.<end>
+
+=>q8
+L'offre n'est peut-être pas le bon mot; il vaut mieux dire, vous référer à quelqu'un qui peut. Vous voyez, je crois que vous pouvez être un puissant allié des stations-service Underrail Protectorate et United Stations. D'après ce que j'ai compris, Mlle Hale, vous avez fait preuve d'ingéniosité envers SGS. Et alors que je n'avais aucune raison de douter d'elle, seulement après les récents événements, j'ai réalisé à quel point elle était correcte.<end>
+
+=>q9_original
+I've talked to some people and we have agreed that it would be beneficial for us all, United Stations, as well as you and South Gate Station, if you were to join the Protectorate ranks. Not as a common footsoldier, no. You are more valuable than that. Rather, as someone who will perform more important tasks.<end>
+
+=>q9
+J'ai parlé à certaines personnes et nous avons convenu qu'il serait bénéfique pour nous tous, United Stations, ainsi que vous et South Gate Station, si vous deviez rejoindre les rangs Protectorate. Pas comme un soldat de pieds, non. Vous êtes plus précieux que ça. Plutôt, en tant que quelqu'un qui accomplira des tâches plus importantes.<end>
+
+=>a10_original
+What sort of tasks we talking about, exactly?<end>
+
+=>a10
+De quelles tâches parlons-nous exactement ?<end>
+
+=>q11_original
+Your primary role will mostly be a military-oriented one, meaning you will be a part of Underrail Protectorate operations. Let's say... another train goes missing! Aren't you the right person for the job? ::He laughs.:: But, joking aside, there is more to it: You will also act as a representative of South Gate Station. Our cooperation has been very limited so far, sadly, despite Ms. Hale's commendable dedication; your involvement could elevate it to the next level.
+
+But, more on that later; I best leave something for the consul. ::He smiles.::<end>
+
+=>q11
+Votre rôle principal sera essentiellement militaire, ce qui signifie que vous serez partie des opérations Underrail Protectorate. Disons qu'un autre train a disparu ! Tu n'es pas la bonne personne pour le boulot ? ::Il rit.:: Mais, en plaisantant à part, il y a plus à cela: Vous agirez aussi en tant que représentant de South Gate Station. Notre coopération a été jusqu'à présent très limitée, malheureusement, malgré le dévouement louable de Mme Hale; votre participation pourrait l'élever au niveau suivant.
+
+Mais, plus tard, je préfère laisser quelque chose au consul. ::Il sourit.::<end>
+
+=>a12_original
+What do I get out of all this?<end>
+
+=>a12
+Qu'est-ce que j'en tire ?<end>
+
+=>q13_original
+I think that is obvious. The Protectorate is the most powerful entity in the Underrail. You will be compensated financially, and will be ensured safety and protection. That alone is worth it in this world.
+
+But, on a grand scale, you will be helping us protect our citizens and take part in building a better future. That is priceless, $(context.player.Name).<end>
+
+=>q13
+Je pense que c'est évident. Le Protectorate est l'entité la plus puissante du Underrail. Vous serez indemnisé financièrement et vous serez assuré de la sécurité et de la protection. Cela en vaut la peine dans ce monde.
+
+Mais, à grande échelle, vous nous aiderez à protéger nos citoyens et à participer à la construction d'un avenir meilleur. C'est inestimable, $(context.player.Name).<end>
+
+=>q14_original
+The choice is yours. If you are interested in becoming a part of the Protectorate, reach out to Consul Oliver in Fort Apogee, Upper Underrail. I had already contacted the consul and explained to him the whole situation, so he is expecting your arrival, $(context.player.Name).<end>
+
+=>q14
+Le choix est à vous. Si vous souhaitez faire partie du Protectorate, contactez le consul Oliver dans Fort Apogee, Upper Underrail. J'avais déjà contacté le consul et lui ai expliqué toute la situation, donc il attend votre arrivée, $(context.player.Name).<end>
+
+=>a15_original
+I'll think about it.<end>
+
+=>a15
+Je vais y réfléchir.<end>
+
+=>q16_original
+I understand perfectly well it's not an easy choice for you to make. Nevertheless, I think it would be the correct one.<end>
+
+=>q16
+Je comprends parfaitement que ce n'est pas un choix facile à faire. Néanmoins, je pense que ce serait le bon.<end>
+
+=>a17_original
+Is the pay good?<end>
+
+=>a17
+Le salaire est bon ?<end>
+
+=>q18_original
+You will be compensated generously, have no fear. But try to look at the bigger picture. You will be assisting us protect our citizens and take part in building a finer future for everyone. That is priceless, $(context.player.Name), I sincerely hope you agree.<end>
+
+=>q18
+Vous serez généreusement indemnisés, n'ayez pas peur. Mais essayez de regarder la vue d'ensemble. Vous nous aiderez à protéger nos citoyens et à construire un avenir meilleur pour tous. C'est inestimable, $(context.player.Name), j'espère sincèrement que vous êtes d'accord.<end>
+
+=>a19_original
+I'm all ears, Ambassador.<end>
+
+=>a19
+Je suis tout ouïe, ambassadeur.<end>
+
+=>q20_original
+$(context.player.Name), you have great potential. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.<end>
+
+=>q20
+$(context.player.Name), vous avez un grand potentiel. Voyez-vous, je crois que vous pouvez être un allié puissant des Underrail Protectorate et des United Stations. D'après ce que j'ai compris, Mlle Hale, vous avez fait preuve d'ingéniosité envers SGS. Et alors que je n'avais aucune raison de douter d'elle, seulement après les récents événements, j'ai réalisé à quel point elle était correcte.<end>
+
+=>a21_original
+Free Drones? But I thought they were just ordinary bandits.<end>
+
+=>a21
+Free Drones ? Mais je pensais qu'ils étaient des bandits ordinaires.<end>
+
+=>q22_original
+Bandits they are, indeed... but, not ordinary bandits, no. The train was actually hijacked by the Free Drones. They are a menace that followed us from North Underrail, trying to prevent us from unifying all the unprotected stations.<end>
+
+=>q22
+Ce sont des bandits, mais pas des bandits ordinaires. Le train a été effectivement détourné par le Free Drones. Ils sont une menace qui nous a suivis du Nord Underrail, en essayant de nous empêcher d'unifier toutes les stations non protégées.<end>
+
+=>q23_original
+Just take a look at the missing train scenario, the one you experienced. The Free Drones intercepted supplies headed to Rail Crossing, which was, at the time, attacked by the Faceless, and is constantly threatened by bandit raids. Tell me, $(context.player.Name), do these people, the *Free* Drones, seem like they want to help the people of this region?
+
+No, they see *us* as the bad guys, yet their actions show how inconsiderate and selfish they truly are.<end>
+
+=>q23
+Jetez un œil au scénario de train manquant, celui que vous avez connu. Le Free Drones intercepté les fournitures se dirige vers Rail Crossing, qui a été, à l'époque, attaqué par le Faceless, et est constamment menacé par des raids de bandits. Dites-moi, $(context.player.Name), ces gens, les drones libres, semblent-ils vouloir aider les gens de cette région ?
+
+Non, ils voient *nous* comme les méchants, mais leurs actions montrent à quel point ils sont inconsidérés et égoïstes.<end>
+
+=>q24_original
+I'm glad you chose the right side, $(context.player.Name), and that is why I have a proposal for you.<end>
+
+=>q24
+Je suis heureux que vous ayez choisi le bon côté, $(context.player.Name), et c'est pourquoi j'ai une proposition pour vous.<end>
+
+=>a25_original
+What is Fort Apogee and how do I get there?<end>
+
+=>a25
+Qu'est-ce que Fort Apogee et comment y arriver ?<end>
+
+=>q26_original
+Fort Apogee is the core of all Protectorate operations in the South. It was constructed - let me think - about five... four-five years ago in Upper Underrail, as a forward operations base in South Underrail. Sadly, the turbulent nature of Core City's leaders proved... troubling, to put it mildly, since going through the city itself is basically the only viable way to move between Upper and Lower Underrail.
+
+I guess no one anticipated such problems with the Oligarchy. Nevertheless, we manage somehow.<end>
+
+=>q26
+Fort Apogee est le noyau de toutes les opérations Protectorate dans le Sud. Il a été construit - laissez-moi penser - il y a environ cinq... quatre-cinq ans dans Upper Underrail, comme une base d'opérations avancée dans le Sud Underrail. Malheureusement, le caractère turbulent des dirigeants de Core City s'est révélé... troublant, pour le dire légèrement, puisque traverser la ville elle-même est fondamentalement la seule façon viable de se déplacer entre le Haut et Lower Underrail.
+
+Personne n'avait prévu de tels problèmes avec le Oligarchy. Néanmoins, nous nous en sortons.<end>
+
+=>q27_original
+The United Stations consulate lies within the base perimeter, and is open to all our citizens should they need some sort of protection. All in all, to reach Fort Apogee you would need to enter Upper Underrail through Core City. You could take the train from Core City's Upper Underrail station or, if for some reason you can't use the train, you could get to it on foot by following the green metro line.<end>
+
+=>q27
+Le consulat des stations unies se trouve dans le périmètre de la base et est ouvert à tous nos citoyens s'ils ont besoin d'une sorte de protection. Dans l'ensemble, pour atteindre Fort Apogee vous devez entrer Upper Underrail par Core City. Vous pouvez prendre le train depuis la station Core City de Upper Underrail ou, si pour une raison quelconque vous ne pouvez pas utiliser le train, vous pouvez le rejoindre à pied en suivant la ligne de métro verte.<end>
+
+=>a28_original
+Black Eels are preparing to move against the Scrappers and they are asking for your support.<end>
+
+=>a28
+Les anguilles noires se préparent à se déplacer contre les Scrappers et elles demandent votre soutien.<end>
+
+=>q29_original
+::The ambassador seems somewhat alarmed.:: We expected this to happen eventually, but not this soon. The tension between these two... factions has been steadily growing.<end>
+
+=>q29
+::L'ambassadeur semble quelque peu inquiet.:: Nous nous attendions à ce que cela arrive, mais pas si vite. La tension entre ces deux factions ne cesse de croître.<end>
+
+=>q30_original
+We would like to aid them, but I'm afraid that until the replacement for Second Lieutenant Garren arrives, I am not allowed to authorize such an operation.<end>
+
+=>q30
+Nous aimerions les aider, mais j'ai bien peur que, jusqu'à ce que le remplacement du lieutenant Garren arrive, je ne sois pas autorisé à autoriser une telle opération.<end>
+
+=>q31_original
+We will aid them, but in turn they will have to allow us to have some military presence on both the docks and the Old Junkyard gate. Let me know if these terms are acceptable.<end>
+
+=>q31
+Nous les aiderons, mais à leur tour ils devront nous permettre d'avoir une présence militaire sur les quais et sur la porte Old Junkyard. Dites-moi si ces termes sont acceptables.<end>
+
+=>a32_original
+I need to talk to someone about a train that was supposed to arrive to Rail Crossing?<end>
+
+=>a32
+Je dois parler à quelqu'un d'un train qui devait arriver à Rail Crossing ?<end>
+
+=>q33_original
+You'll have to talk to Major Clifton, the commanding officer of South Railroad Outpost about that. SRO is right above us.<end>
+
+=>q33
+Vous devrez parler au commandant Clifton, le commandant de South Railroad Outpost. SRO est juste au-dessus de nous.<end>
+
+=>q34_original
+You can use the elevator to get up there.<end>
+
+=>q34
+Tu peux utiliser l'ascenseur pour monter là-haut.<end>
+
+=>q35_original
+Since it's official business, I'll allow you access to the elevator that will get you up there. Just take the corridor next the embassy entrance and you'll find it.<end>
+
+=>q35
+Puisque c'est une affaire officielle, je vous autorise à accéder à l'ascenseur qui vous mènera là-haut. Prenez le couloir à côté de l'entrée de l'ambassade et vous le trouverez.<end>
+
+=>a36_original
+What can you tell me about the Free Drones?<end>
+
+=>a36
+Que pouvez-vous me dire sur le Free Drones ?<end>
+
+=>q37_original
+They're nothing but a group of violent anarchists. Sure, they cause some trouble to the Protectorate, but so do the Ironheads, Lunatics or other unwanted groups. They claim we're the bad guys, and they openly rebel against all of us, both the Protectorate and the United Stations. Us, who help stations survive these harsh conditions and protect their citizens against raiders and bandits!?<end>
+
+=>q37
+Ils ne sont qu'un groupe d'anarchistes violents. Bien sûr, ils causent des problèmes au Protectorate, mais les Ironheads, Lunatics ou d'autres groupes indésirables. Ils prétendent qu'on est les méchants, et ils se rebellent ouvertement contre nous tous, les Protectorate et les United Stations. Nous, qui aidons les stations à survivre à ces conditions difficiles et à protéger leurs citoyens contre les raideurs et les bandits!?<end>
+
+=>q38_original
+Sad, misguided people... but they are becoming a threat, and I'm afraid diplomacy can't help much there. Protectorate will have to apply harsher measures.<end>
+
+=>q38
+Des gens tristes et mal guidés... mais ils deviennent une menace, et j'ai bien peur que la diplomatie ne puisse rien y faire. Protectorate devra appliquer des mesures plus sévères.<end>
+
+=>a39_original
+Do you think they're behind the hacking of the Junkyard network?<end>
+
+=>a39
+Tu crois qu'ils sont derrière le piratage du réseau Junkyard ?<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>q41_original
+Most likely, Corporal. But I am reluctant to blame everything on the Free Drones, because if we allow ourselves that, then we might unintentionally become less attentive of our other enemies' actions; Free Drones are not the only ones, you know.<end>
+
+=>q41
+Probablement, caporal. Mais je suis réticent à tout blâmer sur le Free Drones, parce que si nous nous le permettons, alors nous pourrions involontairement devenir moins attentifs aux actions de nos autres ennemis ; Free Drones ne sont pas les seuls, vous savez.<end>
+
+=>q42_original
+We'll wait for the official investigation to complete, then we'll know for sure.<end>
+
+=>q42
+Nous attendrons que l'enquête officielle soit terminée, alors nous le saurons.<end>
+
+=>q43_original
+I don't know. Perhaps. Perhaps not. I'd rather not comment on it.<end>
+
+=>q43
+Je ne sais pas. Peut-être. Peut-être pas. Je préfère ne pas commenter.<end>
+
+=>a44_original
+I had other questions for you.<end>
+
+=>a44
+J'avais d'autres questions pour toi.<end>
+
+=>q45_original
+Yes?<end>
+
+=>q45
+Oui?<end>
+
+=>a46_original
+Silas has agreed to your terms.<end>
+
+=>a46
+Silas a accepté vos conditions.<end>
+
+=>q47_original
+::He nods.:: We will send an agent to coordinate battle plans.<end>
+
+=>q47
+::Il acquiesce.:: Nous enverrons un agent pour coordonner les plans de combat.<end>
+
+=>a48_original
+Vera sent you these trading documents. ::Give him the documents.::<end>
+
+=>a48
+Vera vous a envoyé ces documents de trading. ::Donnez-lui les documents.::<end>
+
+=>q49_original
+Very good, very good. Usually I would allow this sort of information to be wired, but we have reason to believe that the network going through Junkyard might have been compromised. You never know who might be listening and what they can do even with harmless trading agreement info.<end>
+
+=>q49
+Très bien, très bien. Habituellement, je permets que ce genre d'information soit câblé, mais nous avons des raisons de croire que le réseau passant par Junkyard aurait pu être compromis. Vous ne savez jamais qui pourrait être l'écoute et ce qu'ils peuvent faire même avec des informations inoffensives sur les accords commerciaux.<end>
+
+=>q50_original
+Have a nice day.<end>
+
+=>q50
+Bonne journée.<end>
+
+=>q51_original
+Just so you know, as a representative of South Gate Station, you are free to move around most of the embassy premises, and can also use our elevator to South Railroad Outpost.<end>
+
+=>q51
+Juste pour que vous sachiez, en tant que représentant de South Gate Station, vous êtes libre de vous déplacer dans la plupart des locaux de l'ambassade, et peut également utiliser notre ascenseur à South Railroad Outpost.<end>
+
+=>q52_original
+It's out of order at the moment because of the earthquake, but we're working on fixing it.<end>
+
+=>q52
+C'est en panne en ce moment à cause du tremblement de terre, mais nous travaillons à la réparer.<end>
+
+=>q53_original
+It was damaged recently by the earthquake, but it's fixed now and safe to use.<end>
+
+=>q53
+Il a été endommagé récemment par le tremblement de terre, mais il est maintenant réparé et sûr à utiliser.<end>
+
+=>a54_original
+Who do you suspect has hacked the Junkyard network?<end>
+
+=>a54
+Qui soupçonnez-vous d'avoir piraté le réseau Junkyard ?<end>
+
+=>q55_original
+We're not sure yet, but there's an ongoing investigation. Until further notice, I asked that any sensitive information coming from SGS and our other trading partners in the South be delivered physically.<end>
+
+=>q55
+Nous ne sommes pas encore sûrs, mais il y a une enquête en cours. Jusqu'à nouvel ordre, j'ai demandé que toute information sensible provenant de SGS et de nos autres partenaires commerciaux du Sud soit transmise physiquement.<end>
+
+=>q56_original
+I'm sure we'll get to the bottom of this soon so that the communication can continue as before.<end>
+
+=>q56
+Je suis sûr que nous en arriverons bientôt au fond pour que la communication puisse continuer comme avant.<end>
+
+=>a57_original
+I've heard of the name "Free Drones." Do you think these people could be behind the hacking of the Junkyard network?<end>
+
+=>a57
+J'ai entendu parler du nom "Free Drones". Pensez-vous que ces gens pourraient être derrière le piratage du réseau Junkyard ?<end>
+
+=>a58_original
+Do you think the Free Drones are behind the hacking of the Junkyard network?<end>
+
+=>a58
+Pensez-vous que les Free Drones sont derrière le piratage du réseau Junkyard ?<end>
+
+=>a59_original
+South Railroad Outpost?<end>
+
+=>a59
+Un avant-poste de South Railroad ?<end>
+
+=>q60_original
+That's the metro base right above us. We use an elevator here in the embassy to quickly access it. <end>
+
+=>q60
+C'est la base du métro juste au-dessus de nous. Nous utilisons un ascenseur ici à l'ambassade pour y accéder rapidement. <end>
+
+=>q61_original
+In fact, that's how we got to Junkyard in the first place - via railroad. Only later did we establish a waterways route after acquiring Port Zenith in Core City as well as reaching a mutually acceptable agreement with the Black Eels.<end>
+
+=>q61
+En fait, c'est ainsi que nous sommes arrivés à Junkyard en premier lieu - via le chemin de fer. Ce n'est que plus tard que nous avons établi une voie navigable après l'acquisition de Port Zenith dans Core City ainsi que la conclusion d'un accord mutuellement acceptable avec les anguilles noires.<end>
+
+=>a62_original
+Can you tell me a bit about the United Stations?<end>
+
+=>a62
+Pouvez-vous me parler un peu des United Stations ?<end>
+
+=>q63_original
+Of course. We are an ever growing confederacy of stations. Our goal is to unite the remnants of humanity in order to ensure our survival and prosperity. United Stations are ruled by the Council of Five and guarded by the Protectorate.<end>
+
+=>q63
+Bien sûr. Nous sommes une confédération sans cesse croissante de stations. Notre objectif est d'unir les restes de l'humanité pour assurer notre survie et notre prospérité. Les stations unies sont gouvernées par le Conseil des Cinq et gardées par le Protectorate.<end>
+
+=>q64_original
+We bring peace, order and law to the stations that we integrate in this union, but also allow for a degree of independence. The stations are still free to choose their own local governing body.<end>
+
+=>q64
+Nous apportons la paix, l'ordre et le droit aux postes que nous intégrons dans cette union, mais nous permettons également un certain degré d'indépendance. Les stations sont toujours libres de choisir leur propre organe directeur local.<end>
+
+=>q65_original
+Our member stations are the safest and most prosperous in the Underrail.<end>
+
+=>q65
+Nos stations membres sont les plus sûres et les plus prospères du Underrail.<end>
+
+=>q66_original
+We haven't integrated any stations here in the South Underrail, but we're hoping that will change soon.<end>
+
+=>q66
+Nous n'avons intégré aucune station ici dans le Sud Underrail, mais nous espérons que cela changera bientôt.<end>
+
+=>a67_original
+I want to report a security threat to the embassy.<end>
+
+=>a67
+Je veux signaler une menace pour la sécurité à l'ambassade.<end>
+
+=>q68_original
+Sounds serious. You best talk to second lieutenant Garren. He's in command of the Protectorate security forces here.<end>
+
+=>q68
+C'est sérieux. Parlez au lieutenant Garren. Il commande les forces de sécurité Protectorate ici.<end>
+
+=>a69_original
+I'll go see him then.<end>
+
+=>a69
+Je vais le voir.<end>
+
+=>a70_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a70
+Que pensez-vous de l'invasion Faceless ?<end>
+
+=>q71_original
+The Protectorate is investigating the matter as we speak, but until I get some word from them I cannot provide an official statement.<end>
+
+=>q71
+Le Protectorate enquête sur la question au moment où nous parlons, mais jusqu'à ce que j'obtienne un mot d'eux, je ne peux pas fournir une déclaration officielle.<end>
+
+=>a72_original
+I have to go now.<end>
+
+=>a72
+Je dois y aller maintenant.<end>
+
+=>q73_original
+Take care, Corporal. Feel free to come back anytime if there is something you wish to discuss.<end>
+
+=>q73
+Prenez soin de vous, caporal. N'hésitez pas à revenir si vous souhaitez discuter de quelque chose.<end>
+
+=>q74_original
+Take care, $(#Mister/Miss) $(context.player.Name). Feel free to come back anytime if there is something you wish to discuss.<end>
+
+=>q74
+Prenez soin, $(#Mister/Miss) $(context.player.Name). N'hésitez pas à revenir si vous souhaitez discuter de quelque chose.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>q76_original
+Corporal, I've received a complaint from my deputy regarding your "inappropriate" behavior. Your rank does not give you the right to mistreat the embassy staff, and if I hear one more complaint I will contact Fort Apogee immediately. That kind of behavior will not be tolerated. Mark my words.
+
+Why did you come to me?<end>
+
+=>q76
+J'ai reçu une plainte de mon adjoint au sujet de votre comportement « inapproprié ». Votre grade ne vous donne pas le droit de maltraiter le personnel de l'ambassade, et si j'entends une autre plainte, je vais contacter Fort Apogee immédiatement. Ce genre de comportement ne sera pas toléré. Notez mes mots.
+
+Pourquoi es-tu venu me voir ?<end>
+
+=>q77_original
+$(#Mister/Miss) $(context.player.Name), I've received a complaint from my deputy regarding your "inappropriate" behavior. You are in the United Stations embassy, remember that, and if you mistreat the embassy staff one more time, the consequences will be severe. Mark my words.
+
+Why did you come to me?<end>
+
+=>q77
+$(#Mister/Miss) $(context.player.Name), j'ai reçu une plainte de mon adjoint concernant votre comportement « inapproprié ». Vous êtes à l'ambassade United Stations, rappelez-vous que, et si vous maltraitez encore une fois le personnel de l'ambassade, les conséquences seront graves. Notez mes mots.
+
+Pourquoi es-tu venu me voir ?<end>
+
+=>q78_original
+How can I help you, Corporal?<end>
+
+=>q78
+Comment puis-je vous aider, caporal ?<end>
+
+=>q79_original
+How can I help you this time, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>q79
+Comment puis-je vous aider cette fois, $(#Mister/Miss) $(context.player.Name)?<end>
+

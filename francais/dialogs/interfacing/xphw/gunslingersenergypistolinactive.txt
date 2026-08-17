@@ -1,0 +1,226 @@
+=>q1_original
+::The weapon appears to be inactive. Yet when you hold it by the grip, the small display flashes red, displaying the message - "Unauthorized user".
+
+Upon further inspection you find a connector on the side...::<end>
+
+=>q1
+::L'arme semble inactive. Pourtant, lorsque vous le tenez par la poignée, le petit écran clignote en rouge, affichant le message - "Utilisateur non autorisé".
+
+Lors d'une inspection plus approfondie, vous trouvez un connecteur sur le côté...::<end>
+
+=>a2_original
+::Connect a haxxor to the weapon.::<end>
+
+=>a2
+::Connectez un haxxor à l'arme.::<end>
+
+=>q3_original
+::The weapon's display turns yellow. The "Unauthorized user" message persists.::<end>
+
+=>q3
+::L'écran de l'arme devient jaune. Le message « utilisateur non autorisé » persiste.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::[Hacking] Access basic information.::<end>
+
+=>a5
+::[Frappe] Accès aux informations de base.::<end>
+
+=>q6_original
+::*About:*
+
+Manufacturer: DETeK, Dis, North Underrail
+Product name: Pulsed Energy Service Pistol - Model 2, Alteration 3
+Model name: PESP-M02A3
+Serial number: DE8NA3CC0004
+Last servicing date: Unavailable::<end>
+
+=>q6
+::*À propos:*
+
+Fabricant: DETEK, Dis, North Underrail
+Nom du produit: Pistolet de service énergétique pulsé - Modèle 2, modification 3
+Nom du modèle: PESP-M02A3
+Numéro de série: DE8NA3CC0004
+Dernière date d'entretien: Indisponible::<end>
+
+=>a7_original
+::Software information::<end>
+
+=>a7
+::Informations sur les logiciels::<end>
+
+=>q8_original
+::*Software information:*
+
+OS version: 1.2.897
+UI version: 4.3
+Network address: Unavailable::<end>
+
+=>q8
+::*Informations sur les logiciels:*
+
+Version OS: 1.2.897
+Version UI: 4.3
+Adresse du réseau: Indisponible::<end>
+
+=>a9_original
+::Back::<end>
+
+=>a9
+::Retour::<end>
+
+=>a10_original
+::Exit::<end>
+
+=>a10
+::Sortie::<end>
+
+=>a11_original
+::Power information::<end>
+
+=>a11
+::Informations sur la puissance::<end>
+
+=>q12_original
+::*Power information:*
+
+Supercapacitor type: 1x HV hybrid
+Supercapacitor status: Good
+Battery type: 120v potassium-ion
+Battery status: Unavailable::<end>
+
+=>q12
+::*Informations sur la puissance:*
+
+Type de supercondensateur: 1x HV hybride
+État du surcondensateur: Bon
+Type de batterie: 120v potassique-ion
+État de la batterie : Indisponible::<end>
+
+=>a13_original
+::Weapon information::<end>
+
+=>a13
+::Informations sur les armes::<end>
+
+=>q14_original
+::*Weapon information:*
+
+*Lethal mode:*
+Energy per pulse: 240J
+Pulses per shot: 50 
+Pulse delay per shot: 10 µs
+Total energy output per shot: 12kJ
+
+*Less-lethal mode (default):*
+Energy per pulse: 2.4kJ
+Pulses per shot: 20
+Pulse delay per shot: 25 µs
+Total energy output per shot: 48kJ
+
+Note: energy "shot" as defined under section 4.8 of BCMS/5.3 UPMS::<end>
+
+=>q14
+::* Renseignements sur les armes :*
+
+* Mode létal:*
+Énergie par impulsion: 240 J
+Pouls par plan: 50
+Délai d'impulsion par injection : 10 μs
+Production totale d'énergie par shot: 12kJ
+
+*Mode lent (par défaut):*
+Énergie par impulsion: 2,4 kJ
+Pouls par coup: 20
+Délai d'impulsion par injection: 25 μs
+Production totale d'énergie par shot: 48kJ
+
+Note: énergie "capture" telle que définie à la section 4.8 du BCMS/5.3 UPSM::<end>
+
+=>a15_original
+::User information::<end>
+
+=>a15
+::Informations sur l'utilisateur::<end>
+
+=>q16_original
+::Authorized users (1):
+
+*U8HU3CSD* - Ronald Westrock
+
+Weapon administrator(s):
+
+Unavailable::<end>
+
+=>q16
+::Utilisateurs autorisés (1):
+
+*U8HU3CSD* - Ronald Westrock
+
+Administrateur(s) d'armes:
+
+Indisponible::<end>
+
+=>a17_original
+::[Hacking] Add a new user.::<end>
+
+=>a17
+::[Frappe] Ajouter un nouvel utilisateur.::<end>
+
+=>q18_original
+::Collecting biometric data...
+
+Please hold the weapon by its grip until all the necessary information has been collected.::<end>
+
+=>q18
+::Collecte de données biométriques...
+
+Veuillez tenir l'arme par sa poignée jusqu'à ce que toutes les informations nécessaires aient été recueillies.::<end>
+
+=>a19_original
+::Do as it says.::<end>
+
+=>a19
+::Fais ce qu'il dit.::<end>
+
+=>q20_original
+::Successfully added a new user:
+
+*TSMSL2SR - $(context.player.Name)*::<end>
+
+=>q20
+::Ajout réussi d'un nouvel utilisateur :
+
+*TSMSL2SR - $(context.player. Nom*::<end>
+
+=>q21_original
+::Error: Access Denied::<end>
+
+=>q21
+::Erreur : Accès refusé::<end>
+
+=>a22_original
+::Back::<end>
+
+=>a22
+::Retour::<end>
+
+=>q23_original
+::Warning: Unauthorized user detected. Logging biometric data...::<end>
+
+=>q23
+::Avertissement : Un utilisateur non autorisé a été détecté. Enregistrer des données biométriques...::<end>
+
+=>a24_original
+::Put it away.::<end>
+
+=>a24
+::Range ça.::<end>
+

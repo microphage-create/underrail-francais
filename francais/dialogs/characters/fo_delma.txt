@@ -1,0 +1,528 @@
+=>q1_original
+Stop bothering me, you idiot. Get out!<end>
+
+=>q1
+Arrête de me déranger, imbécile. Dehors !<end>
+
+=>q2_original
+::A middle-aged woman wearing gleaming metal armor gets up from behind her desk and stands up to meet her guest. She looks at you, lifting her slightly wrinkly eyelids to reveal experienced eyes that haven't lost much intensity since her younger days. Her voice, on the other hand, is already one step inside the grave, for it is heavy and low-pitched, sounding as if there is some weight on her vocal folds which pushes the voice down into the low range.::
+
+<end>
+
+=>q2
+::Une femme d'âge moyen portant une armure métallique brillante se lève de derrière son bureau et se lève pour rencontrer son invité. Elle vous regarde, soulevant ses paupières légèrement ridées pour révéler des yeux expérimentés qui n'ont pas perdu beaucoup d'intensité depuis ses plus jeunes jours. Sa voix, d'autre part, est déjà une étape dans la tombe, car elle est lourde et basse, sonnant comme s'il y avait un peu de poids sur ses plis qui pousse la voix vers le bas dans la gamme basse.::
+
+<end>
+
+=>q3_original
+Oh, aren't you $(context.player.Name)? It is a pleasure to finally meet you. I'm Delma Ward, the WARDen of Foundry prison. I will take this opportunity to say that we are all very grateful for what you did, getting rid of those rocky creatures and all. 
+
+Whatever it is you need, I will do my best to help you.<end>
+
+=>q3
+N'est-ce pas $(context.player.Name) ? C'est un plaisir de vous rencontrer enfin. Je suis Delma Ward, le WARDen de la prison Foundry. Je profiterai de cette occasion pour dire que nous sommes tous très reconnaissants pour ce que vous avez fait, se débarrasser de ces créatures rocheuses et tout.
+
+Je ferai de mon mieux pour vous aider.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I need to ask you some questions about a prisoner named Todor Sallywatch.<end>
+
+=>a5
+Je dois vous poser quelques questions sur un prisonnier nommé Todor Sallywatch.<end>
+
+=>q6_original
+Yes, Todor Sallywatch. What did you want to ask me about him? <end>
+
+=>q6
+Oui, Todor Sallywatch. Qu'est-ce que tu voulais me demander à son sujet ? <end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Why is he here?<end>
+
+=>a8
+Pourquoi est-il là ?<end>
+
+=>q9_original
+What is your relationship with him?<end>
+
+=>q9
+Quelle est votre relation avec lui ?<end>
+
+=>a10_original
+He's my cousin.<end>
+
+=>a10
+C'est mon cousin.<end>
+
+=>q11_original
+Cousin?<end>
+
+=>q11
+Cousin ?<end>
+
+=>a12_original
+::[Persuade]:: Yes, my mother's uncle and his father's father are brothers.<end>
+
+=>a12
+::[Persuader]:: Oui, l'oncle de ma mère et le père de son père sont frères.<end>
+
+=>q13_original
+Huh? Well, I guess that makes some sense. Yes. Okay, all is well. What was that you asked me, again?<end>
+
+=>q13
+Quoi ? C'est logique. Oui. Tout va bien. Qu'est-ce que tu m'as demandé ?<end>
+
+=>q14_original
+I don't fall for that. I'm sorry, but I can't give this sort of information to just about everyone.<end>
+
+=>q14
+Je ne tombe pas pour ça. Je suis désolé, mais je ne peux pas donner ce genre d'information à tout le monde.<end>
+
+=>a15_original
+Oh, come on! After all I've done for Foundry, you distrust me? Maybe I should have stayed out of the mine business and see how you fare without my help.<end>
+
+=>a15
+Allez ! Après tout ce que j'ai fait pour Foundry, tu me défies ? Peut-être que j'aurais dû rester à l'écart de la mine et voir comment vous allez sans mon aide.<end>
+
+=>q16_original
+::Your response instigates a long pause.:: Um, I'm sorry. I don't know what came over me, $(#amigo/chica). It seemed...
+
+Never mind, can you repeat the question you asked me a moment ago?<end>
+
+=>q16
+::Votre réponse provoque une longue pause.:: Désolé. Je ne sais pas ce qui m'a pris, $(#amigo/chica). Il semblait...
+
+Tu peux répéter la question que tu m'as posée il y a un moment ?<end>
+
+=>a17_original
+If that's the case, let's discuss something else.<end>
+
+=>a17
+Si c'est le cas, parlons d'autre chose.<end>
+
+=>q18_original
+If you say so.<end>
+
+=>q18
+Si vous le dites.<end>
+
+=>a19_original
+You don't trust me, after all I've done for Foundry?<end>
+
+=>a19
+Tu ne me fais pas confiance, après tout ce que j'ai fait pour Foundry ?<end>
+
+=>q20_original
+I'm sorry, I didn't mean it like that. Forget I said anything. What was it you asked me about him, again?<end>
+
+=>q20
+Désolé, je ne voulais pas dire ça. Oubliez ce que j'ai dit. Qu'est-ce que tu m'as demandé à son sujet ?<end>
+
+=>a21_original
+Actually, we're just friends.<end>
+
+=>a21
+En fait, on est juste amis.<end>
+
+=>q22_original
+I'm sorry, that's not good enough. Rules are rules.<end>
+
+=>q22
+Je suis désolé, ce n'est pas assez bon. Les règles sont les règles.<end>
+
+=>a23_original
+So, I saved Foundry from being overrun by monsters and can't even ask about or see my friend in prison. Well, thank you, Delma.<end>
+
+=>a23
+Donc, j'ai sauvé Foundry d'être envahi par des monstres et je ne peux même pas demander ou voir mon ami en prison. Merci, Delma.<end>
+
+=>q24_original
+::Your response instigates a long pause.:: All right, all right. What was that you wanted to ask me about Todor Sallywatch?<end>
+
+=>q24
+::Votre réponse provoque une longue pause.:: Très bien. Que voulais-tu me demander à propos de Todor Sallywatch ?<end>
+
+=>a25_original
+He's my husband.<end>
+
+=>a25
+C'est mon mari.<end>
+
+=>q26_original
+I believe I heard someone mention him having a wife, or was it... Anyway, all is well. Can you repeat the question again, please?<end>
+
+=>q26
+J'ai entendu quelqu'un dire qu'il avait une femme, ou était-ce... Bref, tout va bien. Pouvez-vous répéter la question ?<end>
+
+=>a27_original
+We're just friends.<end>
+
+=>a27
+On est juste amis.<end>
+
+=>q28_original
+He is accused of murdering a traveling merchant called Bolivar Daud. His case is currently on hold due to the unfortunate death of Judge Taylor, and it will be continued after a new judge has been elected.<end>
+
+=>q28
+Il est accusé d'avoir tué un marchand itinérant appelé Bolivar Daud. Son cas est actuellement en attente en raison du décès malheureux du juge Taylor, et il se poursuivra après l'élection d'un nouveau juge.<end>
+
+=>q29_original
+Or, if something important and urgent comes up, the current chief - Chief Banner in this case - can decide the fate of the accused. That is all according to Foundry law.<end>
+
+=>q29
+Ou, si quelque chose d'important et d'urgence se présente, le chef actuel - le chef Banner dans cette affaire - peut décider du sort de l'accusé. C'est tout selon la loi Foundry.<end>
+
+=>a30_original
+I'd like to see him.<end>
+
+=>a30
+J'aimerais le voir.<end>
+
+=>q31_original
+I'll allow it, but this one time only. I'll tell the guards to lead you to the visiting room.<end>
+
+=>q31
+Je le permettrai, mais une seule fois. Je dirai aux gardes de vous conduire à la salle de visite.<end>
+
+=>a32_original
+::Go meet Todor.::<end>
+
+=>a32
+::Va voir Todor.::<end>
+
+=>a33_original
+I changed my mind. I need to do something first.<end>
+
+=>a33
+J'ai changé d'avis. Je dois d'abord faire quelque chose.<end>
+
+=>q34_original
+As you wish $(#amigo/chica).<end>
+
+=>q34
+Comme vous le souhaitez $(#amigo/chica).<end>
+
+=>q35_original
+I'm sorry, but you've already talked to him. I can't allow more visits for the time being.<end>
+
+=>q35
+Je suis désolé, mais vous lui avez déjà parlé. Je ne peux pas laisser plus de visites pour le moment.<end>
+
+=>a36_original
+Actually, let's discuss something else.<end>
+
+=>a36
+En fait, parlons d'autre chose.<end>
+
+=>a37_original
+What can you tell me about this place?<end>
+
+=>a37
+Que pouvez-vous me dire sur cet endroit ?<end>
+
+=>q38_original
+You mean Foundry? Well, I don't know, $(#amigo/chica), I'm a prison warden, and most of the time I'm making sure murderers, thieves and other criminals stay locked up or do their community service. It's always the bad side of Foundry I see and deal with on a daily basis.<end>
+
+=>q38
+Tu veux dire Foundry ? Je ne sais pas, $(#amigo/chica), je suis gardien de prison, et la plupart du temps je fais en sorte que les meurtriers, les voleurs et les autres criminels restent enfermés ou fassent leur service communautaire. C'est toujours le mauvais côté de Foundry que je vois et traite sur une base quotidienne.<end>
+
+=>q39_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there, especially now with the infestation of some very, very aggressive creatures. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q39
+D'autre part, si vous posez la même question aux mineurs, ils vous parleront des blessures et de la mort dans la mine et des dangers de travailler là-bas, surtout maintenant avec l'infestation de certaines créatures très, très agressives. C'est la vie dans Foundry de leur perspective.
+
+C'était déprimant. ::Elle sourit.:: Il y a aussi des aspects positifs: L'activité minière apporte beaucoup d'argent et de biens, et Foundry est l'un des endroits les plus sûrs pour vivre dans le Sud Underrail grâce à la Foundry Guard. Il y a beaucoup de positifs aussi.<end>
+
+=>q40_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q40
+D'un autre côté, si vous posez la même question aux mineurs, ils vous parleront des blessures et de la mort dans la mine et des dangers de travailler là-bas. C'est la vie dans Foundry de leur perspective.
+
+C'était déprimant. ::Elle sourit.:: Il y a aussi des aspects positifs: L'activité minière apporte beaucoup d'argent et de biens, et Foundry est l'un des endroits les plus sûrs pour vivre dans le Sud Underrail grâce à la Foundry Guard. Il y a beaucoup de positifs aussi.<end>
+
+=>a41_original
+I see you like growing flowers.<end>
+
+=>a41
+Je vois que tu aimes cultiver des fleurs.<end>
+
+=>q42_original
+Yes, yes I do. Say, what do you think of them?<end>
+
+=>q42
+Oui. Qu'en pensez-vous ?<end>
+
+=>a43_original
+They are beautiful! Flowers are rare in general, let alone as exquisite as these.<end>
+
+=>a43
+Ils sont magnifiques ! Les fleurs sont rares en général, encore moins exquises.<end>
+
+=>q44_original
+Thank you very much! I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q44
+Merci beaucoup! Je trouve très relaxant d'avoir des fleurs dans le bureau, $(#amigo/chica). Quand je ressens le besoin de me détendre, je m'assieds et je les observe dans toute leur beauté. J'aime les couleurs merveilleuses qui manquent au monde qui nous entoure. Je les regarde simplement en silence, rien d'autre. Mes œuvres d'art ! ::Un sourire lui échappe un instant.::<end>
+
+=>q45_original
+And during that time, while I'm relaxing in my office, all is well! Then, someone brings in a guy who killed his brother with a jackhammer. A signal it's time to get back to work! I swear, people just get more and more violent these days.<end>
+
+=>q45
+Et pendant ce temps, pendant que je me détends dans mon bureau, tout va bien ! Puis quelqu'un amène un gars qui a tué son frère avec un jackhammer. Un signal c'est l'heure de retourner au travail ! Les gens deviennent de plus en plus violents ces temps-ci.<end>
+
+=>a46_original
+They are okay, I suppose.<end>
+
+=>a46
+Ils vont bien, je suppose.<end>
+
+=>q47_original
+Well, I really like them. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q47
+Je les aime vraiment. Je trouve très relaxant d'avoir des fleurs dans le bureau, $(#amigo/chica). Quand je ressens le besoin de me détendre, je m'assieds et je les observe dans toute leur beauté. J'aime les couleurs merveilleuses qui manquent au monde qui nous entoure. Je les regarde simplement en silence, rien d'autre. Mes œuvres d'art ! ::Un sourire lui échappe un instant.::<end>
+
+=>a48_original
+Nah, I hate flowers myself. Thankfully, there aren't many of those around.<end>
+
+=>a48
+Non, je déteste les fleurs. Heureusement, il n'y en a pas beaucoup.<end>
+
+=>q49_original
+Ah, well, I'm very sorry to hear that. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q49
+Je suis désolé de l'entendre. Je trouve très relaxant d'avoir des fleurs dans le bureau, $(#amigo/chica). Quand je ressens le besoin de me détendre, je m'assieds et je les observe dans toute leur beauté. J'aime les couleurs qui manquent au monde qui nous entoure. Je les regarde simplement en silence, rien d'autre. Mes œuvres d'art ! ::Un sourire lui échappe un instant.::<end>
+
+=>q50_original
+You should try it! Get yourself a plant if you can, water it, watch it grow and blossom. Trust me, there is something... magical about it. It's, it's hard to explain.<end>
+
+=>q50
+Tu devrais essayer ! Trouvez-vous une plante si vous le pouvez, arrosez-la, regardez-la grandir et fleurir. Crois-moi, il y a quelque chose de magique. C'est difficile à expliquer.<end>
+
+=>a51_original
+Do you know anything about those mine creatures?<end>
+
+=>a51
+Tu sais quelque chose sur mes créatures ?<end>
+
+=>q52_original
+Uh, well, the Foundry Guard is on high alert right now because of those things. Apparently, miners came in contact with some unknown species of violent creatures, and for safety reasons the mine has been temporarily closed.<end>
+
+=>q52
+La Garde Foundry est en alerte à cause de ces choses. Apparemment, les mineurs sont entrés en contact avec des espèces inconnues de créatures violentes, et pour des raisons de sécurité la mine a été temporairement fermée.<end>
+
+=>q53_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
+
+=>q53
+Mon conseil à vous, $(#amigo/chica), serait d'éviter d'approcher la mine et de rester généralement près du personnel armé jusqu'à ce que la situation soit réglée. Des meurtres violents ont été signalés dans la zone résidentielle, et même si nous savons maintenant que certains d'entre eux ont été exécutés par Evelyn Ingram, encore... certaines créatures pourraient trouver leur chemin. Les yeux ouverts, compris ? <end>
+
+=>q54_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
+
+=>q54
+Mon conseil à vous, $(#amigo/chica), serait d'éviter d'approcher la mine et de rester généralement près du personnel armé jusqu'à ce que la situation soit réglée. Des meurtres violents ont été signalés dans la zone résidentielle, et les créatures pourraient être responsables. Les yeux ouverts, compris ? <end>
+
+=>a55_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a55
+Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+
+=>q56_original
+Foundry is back on its feet, alive and kicking. We got rid of the Beast, with your help of course, $(#amigo/chica). ::She laughs.::<end>
+
+=>q56
+Foundry est de retour sur ses pieds, en vie et à coups de pied. Nous nous sommes débarrassés de la Bête, avec votre aide bien sûr, $(#amigo/chica). ::Elle rit.::<end>
+
+=>q57_original
+We still have to deal with the pollution and an increase in violent crimes, though. It's one step at a time, I suppose.<end>
+
+=>q57
+Mais nous devons encore nous attaquer à la pollution et à l'augmentation des crimes violents. C'est une étape à la fois, je suppose.<end>
+
+=>a58_original
+Tell me about the prison.<end>
+
+=>a58
+Parlez-moi de la prison.<end>
+
+=>q59_original
+This prison is so secure no one's ever managed to escape from here. No one even tried, everyone knows how any such attempts will end. Well, there was a riot several years ago, unsuccessful, of course, but other than that, nothing.<end>
+
+=>q59
+Cette prison est si sûre que personne n'a jamais réussi à s'échapper d'ici. Personne n'a même essayé, tout le monde sait comment ces tentatives finiront. Il y a eu une émeute il y a plusieurs années, sans succès, bien sûr, mais à part ça, rien.<end>
+
+=>q60_original
+Foundry prides itself with being a station of justice; all prisoners go through fair trial, something which is rarely performed nowadays, $(#amigo/chica). Usually it's "You seem guilty... BOOM! Next please." Sad but true.
+
+Those who end up here usually do community service, which includes mining and other types of work.<end>
+
+=>q60
+Foundry s'enorgueillit d'être une station de justice; tous les prisonniers passent par un procès équitable, ce qui est rarement accompli aujourd'hui, $(#amigo/chica). D'habitude, c'est "Tu sembles coupable... Suivant s'il vous plaît." C'est triste mais vrai.
+
+Ceux qui finissent ici font généralement un service communautaire, qui comprend l'exploitation minière et d'autres types de travaux.<end>
+
+=>a61_original
+Can you tell me more about the community service?<end>
+
+=>a61
+Pouvez-vous m'en dire plus sur le service communautaire ?<end>
+
+=>q62_original
+Sure I can, $(#amigo/chica). All prisoners are required to perform community service jobs. Since Foundry revolves around mining, all who are physically capable of such work are sent to the mine. It's like a regular job, only you get paid less... actually you don't get paid at all. Those who are not able to work inside the mine, we find something for them. It all depends on their previous skills, physical fitness and other factors.
+
+All is well, we never have problems with prisoners outside of the prison. They know they couldn't outsmart and escape the Foundry Guard anyway, so no one even bothered trying.<end>
+
+=>q62
+Bien sûr, $(#amigo/chica). Tous les détenus sont tenus d'effectuer des travaux d'intérêt général. Puisque Foundry tourne autour de l'exploitation minière, tous ceux qui sont physiquement capables de tels travaux sont envoyés à la mine. C'est comme un travail régulier, mais vous êtes moins payé... en fait vous n'êtes pas payé du tout. Ceux qui ne sont pas en mesure de travailler dans la mine, nous trouvons quelque chose pour eux. Tout dépend de leurs compétences antérieures, de leur condition physique et d'autres facteurs.
+
+Tout va bien, nous n'avons jamais de problèmes avec les prisonniers en dehors de la prison. Ils savent qu'ils ne pouvaient pas s'échapper et échapper à la Garde Foundry de toute façon, alors personne n'a même essayé.<end>
+
+=>a63_original
+I wanted to ask you something else.<end>
+
+=>a63
+Je voulais te demander autre chose.<end>
+
+=>q64_original
+You are free to ask.<end>
+
+=>q64
+Vous êtes libre de demander.<end>
+
+=>a65_original
+::[Persuade]:: I need full access to your surveillance room. I was sent here by Chief Banner himself.<end>
+
+=>a65
+::[Persuader]:: J'ai besoin d'un accès complet à votre salle de surveillance. Le chef Banner m'a envoyé ici.<end>
+
+=>q66_original
+::Her reply is preceded by a puzzled look.:: Excuse me? I was never informed of this. Care to explain?<end>
+
+=>q66
+::Sa réponse est précédée d'un regard perplexe.:: Excusez-moi. Je n'en ai jamais été informé. Vous voulez m'expliquer ?<end>
+
+=>a67_original
+I can't reveal the details, but since it came from the chief himself, do know that it is of utmost importance.<end>
+
+=>a67
+Je ne peux pas révéler les détails, mais comme il vient du chef lui-même, sachez qu'il est de la plus haute importance.<end>
+
+=>q68_original
+Okay. I understand. For an outsider, you have performed some great work for us, so I shouldn't have any reason to doubt you. All is well - you are free to conduct your investigation. If you need access to the main console, you are only allowed to review camera recordings - you are not allowed access to any of the other options.<end>
+
+=>q68
+Très bien. Je comprends. Pour un étranger, vous avez fait du bon travail pour nous, donc je ne devrais pas avoir de raison de douter de vous. Tout va bien - vous êtes libre de mener votre enquête. Si vous avez besoin d'accéder à la console principale, vous n'êtes autorisé à revoir que les enregistrements de caméras - vous n'êtes pas autorisé à accéder à l'une des autres options.<end>
+
+=>q69_original
+I'm sorry, but I'm going to have to speak to Chief Banner as soon as I see him. I know you've already cooperated with and helped the Foundry Guard, for which we are all thankful, but I'm saying no to your request. For now - until I speak to the chief.<end>
+
+=>q69
+Je suis désolé, mais je vais devoir parler au chef Banner dès que je le verrai. Je sais que vous avez déjà coopéré et aidé la Garde Foundry, pour laquelle nous sommes tous reconnaissants, mais je dis non à votre demande. Pour l'instant - jusqu'à ce que je parle au chef.<end>
+
+=>a70_original
+Something suspicious is happening within the Foundry Guard. Chief tasked me to conduct the whole investigation in secrecy, so I can't reveal too much information.<end>
+
+=>a70
+Quelque chose de suspect se passe dans la Garde Foundry. Le chef m'a chargé de mener toute l'enquête en secret, donc je ne peux pas révéler trop d'informations.<end>
+
+=>a71_original
+Goodbye.<end>
+
+=>a71
+Au revoir.<end>
+
+=>q72_original
+Good day, $(#sir/ma'am). My name's Delma Ward and I'm the warden of Foundry prison. Who might you be?<end>
+
+=>q72
+Bonjour, $(#monsieur/madame). Je m'appelle Delma Ward et je suis le directeur de la prison Foundry. Qui pourriez-vous être ?<end>
+
+=>a73_original
+I'm $(context.player.Name). It is a pleasure to meet you.<end>
+
+=>a73
+Je suis $(context.player.Name). C'est un plaisir de vous rencontrer.<end>
+
+=>q74_original
+Well, $(context.player.Name), what can I do to help you?<end>
+
+=>q74
+$(context.player.Name), que puis-je faire pour vous aider ?<end>
+
+=>a75_original
+That's none of your business, woman.<end>
+
+=>a75
+Ça ne te regarde pas, femme.<end>
+
+=>q76_original
+::She frowns.:: You're in my prison, $(#amigo/chica). If I ask for your name, you better give me a proper answer instead of a smartass remark. Let's do this again... shall we? 
+
+Who are you?<end>
+
+=>q76
+::Elle fronce.:: Vous êtes dans ma prison, $(#amigo/chica). Si je vous demande votre nom, vous feriez mieux de me donner une bonne réponse au lieu d'une remarque intelligente. Recommençons.
+
+Qui êtes-vous ?<end>
+
+=>a77_original
+Um, I'm very sorry for my behaviour. It's been a rough day and I don't know what came over me to reply like that. I'm $(context.player.Name).<end>
+
+=>a77
+Désolé pour mon comportement. Ça a été une dure journée et je ne sais pas ce qui m'est arrivé pour répondre comme ça. Je suis $(context.player.Name).<end>
+
+=>q78_original
+All is well, the recent events have had us all on the edge. Just don't let it happen again. What can I do to help you?<end>
+
+=>q78
+Tout va bien, les récents événements nous ont tous mis à l'écart. Ne laisse pas ça se reproduire. Que puis-je faire pour vous aider ?<end>
+
+=>a79_original
+Go to hell, woman. I'm not telling you my name!<end>
+
+=>a79
+Allez au diable, femme. Je ne vous dirai pas mon nom !<end>
+
+=>q80_original
+You're very lucky this is a civilized station; if you had said that somewhere else, you'd probably had gotten a bullet through your barren skull. 
+
+We're done here. Get out of my office or else you'll get yourself into real trouble.<end>
+
+=>q80
+Vous avez de la chance que ce soit une station civilisée; si vous aviez dit que quelque part ailleurs, vous auriez probablement eu une balle dans votre crâne stérile.
+
+C'est fini. Sortez de mon bureau ou vous aurez de vrais ennuis.<end>
+
+=>q81_original
+$(#Amigo/Chica), good to see you.<end>
+
+=>q81
+$(#Amigo/Chica), content de vous voir.<end>
+
+=>q82_original
+Yes? What can I do to help you?<end>
+
+=>q82
+Oui ? Que puis-je faire pour vous aider ?<end>
+

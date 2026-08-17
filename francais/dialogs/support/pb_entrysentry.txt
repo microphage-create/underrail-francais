@@ -1,0 +1,182 @@
+=>q1_original
+::Salutes you.:: Corporal.<end>
+
+=>q1
+Caporal ::Vous salue.::.<end>
+
+=>q2_original
+Citizen...<end>
+
+=>q2
+Citoyen...<end>
+
+=>q3_original
+Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
+
+=>q3
+N'oubliez pas, citoyen : Holster *toutes* vos armes avant d'entrer dans le consulat. Je vous remercie.<end>
+
+=>q4_original
+::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
+
+=>q4
+::Fidèle à ses paroles, le gardien revient rapidement.:: Vous êtes autorisé à entrer, $(#monsieur/madame). Je dois vous demander de ranger toutes les armes visibles, grenades et autres équipements potentiellement dangereux avant d'entrer dans le consulat. Ne pas le faire sera interprété comme un signe d'hostilité et sera traité en conséquence - et rapidement. Gardez ça à l'esprit.<end>
+
+=>q5_original
+To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
+
+I hope I made everything clear. You may proceed.<end>
+
+=>q5
+Pour arriver au consulat, vous devez vous diriger tout droit, puis à gauche dans le hall principal. Prenez l'escalier nord, puis prenez la deuxième porte à droite pour aller au bureau du consul. Ne vous écartez pas de mes directives; vous n'êtes pas autorisé à entrer dans une autre section de la base.
+
+J'espère avoir été clair. Vous pouvez continuer.<end>
+
+=>q6_original
+::The guard gestures you to stop.::
+
+Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
+
+=>q6
+::La garde vous fait signe d'arrêter.::
+
+Ne bougez pas, citoyen. Vous allez entrer dans le territoire Underrail Protectorate. L'admission n'est pas autorisée sans une autorisation appropriée. Par conséquent, je dois vous demander d'indiquer vos affaires ici.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
+
+=>a8
+Mon nom est $(context.player.Name) et j'ai été envoyé ici par l'Ambassadeur Athanas pour parler au consul Oliver.<end>
+
+=>q9_original
+::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
+
+=>q9
+::Le gardien vous inspecte visuellement avant de répondre.:: Je dois le confirmer. $(context.player.Name) - C'est ce que vous avez dit ?<end>
+
+=>a10_original
+Correct.<end>
+
+=>a10
+C'est exact.<end>
+
+=>q11_original
+Very well, please wait here. I will be with you shortly, citizen.<end>
+
+=>q11
+Très bien, attendez ici. Je serai bientôt avec vous, citoyen.<end>
+
+=>a12_original
+::Wait.::<end>
+
+=>a12
+::Attendez.::<end>
+
+=>a13_original
+No, I said $(context.player.Name).<end>
+
+=>a13
+Non, j'ai dit $(context.player.Name).<end>
+
+=>q14_original
+That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
+
+=>q14
+Voilà ce que j'ai dit. $(context.player.Name). Attendez ici. Je serai bientôt avec vous.<end>
+
+=>a15_original
+What is this place?<end>
+
+=>a15
+Quel est cet endroit ?<end>
+
+=>q16_original
+This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
+
+=>q16
+C'est Fort Apogee, citoyen, le siège de toutes les opérations Underrail Protectorate dans le Sud Underrail, ainsi que l'emplacement du consulat United Stations.<end>
+
+=>a17_original
+Can I join the Underrail Protectorate?<end>
+
+=>a17
+Puis-je rejoindre le Underrail Protectorate ?<end>
+
+=>q18_original
+We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
+
+=>q18
+Nous venons de recevoir un nouveau groupe de recrues et n'avons pas besoin de plus de recrues pour le moment, citoyen. Vérifiez avec l'un des deux centres de recrutement disponibles dans le Sud Underrail à un moment ultérieur - Core City ou Junkyard.<end>
+
+=>a19_original
+What's the purpose of the consulate?<end>
+
+=>a19
+Quel est le but du consulat ?<end>
+
+=>q20_original
+Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
+
+=>q20
+Vous avez besoin de la protection de Underrail Protectorate ? Le consulat offre une protection à tous les citoyens des stations unies. Tu devrais me montrer tes papiers.<end>
+
+=>a21_original
+I don't have those...<end>
+
+=>a21
+Je n'ai pas ça...<end>
+
+=>q22_original
+Then I can't help you.<end>
+
+=>q22
+Alors je ne peux pas t'aider.<end>
+
+=>a23_original
+Is South Gate Station a member of the United Stations?<end>
+
+=>a23
+South Gate Station est-il membre des United Stations?<end>
+
+=>q24_original
+I'm afraid not.<end>
+
+=>q24
+J'ai bien peur que non.<end>
+
+=>a25_original
+Let me ask you something else.<end>
+
+=>a25
+Laissez-moi vous demander autre chose.<end>
+
+=>q26_original
+Yes, citizen?<end>
+
+=>q26
+Oui, citoyen ?<end>
+
+=>a27_original
+Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
+
+=>a27
+Mort à Protectorate, ordure ! Pour le Free Drones ! ::Attaque!::<end>
+
+=>a28_original
+Sorry, I took a wrong turn. Goodbye.<end>
+
+=>a28
+Désolé, j'ai pris un mauvais tour. Au revoir.<end>
+
+=>q29_original
+Citizen?<end>
+
+=>q29
+Citoyen ?<end>
+

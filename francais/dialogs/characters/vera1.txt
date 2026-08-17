@@ -1,0 +1,1118 @@
+=>q1_original
+::While there are still signs of concern intertwined into her expression, you notice more confidence and resolution in her stance and speech.::
+
+Did you rest well, $(context.player.Name)?<end>
+
+=>q1
+::Bien qu'il y ait encore des signes d'inquiétude liés à son expression, vous remarquez plus de confiance et de résolution dans sa position et son discours.::
+
+Tu t'es bien reposé, $(context.player.Name) ?<end>
+
+=>a2_original
+Yes, I did.<end>
+
+=>a2
+Oui.<end>
+
+=>q3_original
+::She nods.::
+
+Do you know why I wanted to speak to you?<end>
+
+=>q3
+::Elle acquiesce.::
+
+Tu sais pourquoi je voulais te parler ?<end>
+
+=>a4_original
+You wanted to ask me something.<end>
+
+=>a4
+Tu voulais me demander quelque chose.<end>
+
+=>q5_original
+Yes. To be more specific, I wanted to offer something to you.<end>
+
+=>q5
+Oui. Pour être plus précis, je voulais vous offrir quelque chose.<end>
+
+=>q6_original
+How would you like to become one of the South Gate Station councilors?<end>
+
+=>q6
+Voulez-vous devenir l'un des conseillers South Gate Station ?<end>
+
+=>a7_original
+Why me?<end>
+
+=>a7
+Pourquoi moi ?<end>
+
+=>q8_original
+South Underrail hasn't been this turbulent ever since the break-up of Biocorp: Earthquake, Faceless invasion, United Stations integration and increasing conflicts between Underrail Protectorate and the Free Drones, to mention but a few. <end>
+
+=>q8
+Le Sud Underrail n'a jamais été aussi turbulent depuis la rupture de Biocorp : tremblement de terre, invasion Faceless, intégration United Stations et conflits croissants entre Underrail Protectorate et Free Drones, pour ne citer que quelques-uns. <end>
+
+=>q9_original
+After you left, the council discussed you and your recent, first-hand experiences throughout South Underrail. We feel what you know would be of great use to our station. That is why we offer you this position, and it is something upon which we all agreed.<end>
+
+=>q9
+Après votre départ, le conseil a discuté de vous et de vos expériences récentes de première main dans le Sud Underrail. Ce que vous savez serait très utile à notre station. C'est pourquoi nous vous offrons cette position, et c'est quelque chose sur lequel nous sommes tous d'accord.<end>
+
+=>q10_original
+You don't have to answer right away; think about this. You will most likely take over some of Tanner's duties, some of the ones you could manage. At first, then... well, we'll get into the details and specifics after you give me a positive answer.<end>
+
+=>q10
+Vous n'avez pas à répondre tout de suite; pensez à cela. Vous allez probablement reprendre certaines des tâches de Tanner, certaines de celles que vous pourriez gérer. Au début, alors... eh bien, nous allons entrer dans les détails et les détails après que vous m'ayez donné une réponse positive.<end>
+
+=>q11_original
+Do you want to become a councilor, $(context.player.Name)?<end>
+
+=>q11
+Voulez-vous devenir conseiller, $(context.player.Name)?<end>
+
+=>a12_original
+I accept. I want to become a South Gate Station councilor. ::Ends the game.::<end>
+
+=>a12
+J'accepte. Je veux devenir conseiller South Gate Station. ::Ça finit le jeu.::<end>
+
+=>q13_original
+::Vera smiles.:: I am pleased to hear that. We both know that is the right decision. ::Another smile escapes her, lasting for a brief moment.:: I'm sure you will do excellent work.<end>
+
+=>q13
+::Vera sourit.:: Je suis heureux d'entendre cela. Nous savons tous les deux que c'est la bonne décision. ::Un autre sourire lui échappe, qui dure un bref moment.:: Je suis sûr que vous ferez un excellent travail.<end>
+
+=>a14_original
+I hope so too. Now what happens?<end>
+
+=>a14
+Je l'espère aussi. Et maintenant ?<end>
+
+=>q15_original
+Now... you begin.<end>
+
+=>q15
+Maintenant... vous commencez.<end>
+
+=>a16_original
+::End Dialog.::<end>
+
+=>a16
+::Fin du dialogue.::<end>
+
+=>a17_original
+What benefits does a councilor get?<end>
+
+=>a17
+Quels sont les avantages d'un conseiller?<end>
+
+=>q18_original
+You will be able to directly influence the future of South Gate Station. Right now, we all live in similar living conditions, so do not expect a significant improvement in that regard. However, you will receive a better pay, respect both in and outside of South Gate Station and more.<end>
+
+=>q18
+Vous pourrez influencer directement l'avenir de South Gate Station. En ce moment, nous vivons tous dans des conditions de vie similaires, et ne nous attendons donc pas à une amélioration significative à cet égard. Cependant, vous recevrez un meilleur salaire, respect à la fois à l'intérieur et à l'extérieur de South Gate Station et plus.<end>
+
+=>a19_original
+I will have to think about it.<end>
+
+=>a19
+Je vais devoir y réfléchir.<end>
+
+=>q20_original
+Certainly. There is no pressure on you. We simply feel you would be a valuable contribution to the council. I will be here once you've make your decision.<end>
+
+=>q20
+Certainement. Il n'y a aucune pression sur vous. Nous pensons simplement que vous seriez une contribution précieuse au conseil. Je serai ici une fois que vous aurez pris votre décision.<end>
+
+=>a21_original
+I understand. I had some other questions to ask you.<end>
+
+=>a21
+Je comprends. J'avais d'autres questions à vous poser.<end>
+
+=>q22_original
+Certainly, $(context.player.Name).<end>
+
+=>q22
+Certainement, $(context.player.Name).<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+How's Lora holding up? Did you manage to speak to her?<end>
+
+=>a24
+Et Lora ? Tu as réussi à lui parler ?<end>
+
+=>q25_original
+She is still unconscious. Pasquale told me her condition is stable, but he doesn't know when she'll regain her consciousness.<end>
+
+=>q25
+Elle est encore inconsciente. Pasquale m'a dit que son état était stable, mais il ne sait pas quand elle reprendra conscience.<end>
+
+=>q26_original
+We will have to be patient.<end>
+
+=>q26
+Nous devrons être patients.<end>
+
+=>a27_original
+Did the Faceless return Lora?<end>
+
+=>a27
+Le Faceless a-t-il renvoyé Lora ?<end>
+
+=>q28_original
+Yes. Malcom informed me that Faceless have appeared just east of Crossroad Watch. We were worried they came with hostile intentions, but after seeing that they were carrying Lora, we sent a few men out. The Faceless simply turned her in and left.<end>
+
+=>q28
+Oui. Malcom m'a informé que Faceless est apparu juste à l'est de Crossroad Watch. Nous étions inquiets qu'ils soient venus avec des intentions hostiles, mais après avoir vu qu'ils portaient Lora, nous avons envoyé quelques hommes. Le Faceless l'a simplement rendue à gauche.<end>
+
+=>q29_original
+She is in the med bay, resting.<end>
+
+=>q29
+Elle est dans la baie des médicaments, au repos.<end>
+
+=>a30_original
+Gorsky died in Core City.<end>
+
+=>a30
+Gorsky est mort dans Core City.<end>
+
+=>q31_original
+::Your words provoke a shocked expression.::
+
+What? I cannot believe it... This is horrible, horrible. And at a time like this.<end>
+
+=>q31
+::Vos mots provoquent une expression choquée.::
+
+Quoi ? Je n'arrive pas à y croire... C'est horrible, horrible. Et à un moment comme celui-ci.<end>
+
+=>q32_original
+Gorsky and I may have had... disagreements, but I always held respect for him. He did a lot for this station. That is two councilors we have lost in a short period of time. Difficult times lay ahead of us.<end>
+
+=>q32
+Gorsky et moi avons peut-être eu... des désaccords, mais j'ai toujours tenu le respect pour lui. Il a fait beaucoup pour cette station. C'est deux conseillers que nous avons perdus en peu de temps. Des temps difficiles nous attendent.<end>
+
+=>a33_original
+::Show Vera the keycard you found.:: Did this belong to the Bakers?<end>
+
+=>a33
+::Montrez à Vera la carte que vous avez trouvée.:: Ça appartenait aux Bakers ?<end>
+
+=>q34_original
+::Vera inspects the card.:: Yes, it is but... ::She pauses.:: Why are you giving this to me? Where did you find this? What happened?<end>
+
+=>q34
+::Vera vérifie la carte.:: Oui, mais... ::Elle fait une pause.:: Pourquoi tu me donnes ça ? Où as-tu trouvé ça ? Que s'est-il passé ?<end>
+
+=>a35_original
+I found it on a man's corpse in a deserted camp, located in the caves north of the Rail Crossing train station. I'm afraid that corpse was Terry's. Lora was nowhere to be seen.<end>
+
+=>a35
+Je l'ai trouvé sur le cadavre d'un homme dans un camp désert, situé dans les grottes au nord de la gare Rail Crossing. Ce cadavre appartenait à Terry. Lora n'était nulle part où être vu.<end>
+
+=>q36_original
+::Vera opens her mouth to say something, but falls silent. Several seconds pass before she advances the conversation.:: This is very bad... The Bakers were wonderful people... and... 
+
+Have you learned anything else about what happened to them? Any clues, anything at all?<end>
+
+=>q36
+::Vera ouvre la bouche pour dire quelque chose, mais se tait. Plusieurs secondes passent avant qu'elle avance la conversation.:: C'est très mauvais... Les Baker étaient des gens merveilleux... et...
+
+Avez-vous appris autre chose sur ce qui leur est arrivé ? Des indices ?<end>
+
+=>a37_original
+I found out they were killed by the Acid Hunters, a group of scavengers from Core City.<end>
+
+=>a37
+J'ai découvert qu'ils ont été tués par les chasseurs d'acides, un groupe de charognards de Core City.<end>
+
+=>q38_original
+Scavengers? But, why? How do you know all that?<end>
+
+=>q38
+Des trésoriers ? Mais pourquoi ? Comment tu sais tout ça ?<end>
+
+=>a39_original
+I met them and their leader, Cornell, confessed. They wanted to rob them, so they followed them to Rail Crossing.<end>
+
+=>a39
+Je les ai rencontrés et leur chef, Cornell, a avoué. Ils voulaient les voler, donc ils les suivirent à Rail Crossing.<end>
+
+=>q40_original
+That is horrible, but it makes no sense! Why put in so much effort into robbing specifically Terry and Lora?<end>
+
+=>q40
+C'est horrible, mais ça n'a aucun sens ! Pourquoi déployer autant d'efforts pour voler spécifiquement Terry et Lora ?<end>
+
+=>a41_original
+The Acid Hunters wanted some special cube the Bakers had in their possession.<end>
+
+=>a41
+Les chasseurs d'acide voulaient un cube spécial que les Baker avaient en leur possession.<end>
+
+=>q42_original
+::Vera blankly stares at you.:: A cube? What cube? I was never told anything about... any cube. I need to ask Tanner about this, he is the last one who talked to them. I mean, when they contacted us from Core City.<end>
+
+=>q42
+::Vera te regarde à blanc.:: Un cube ? Quel cube ? On ne m'a jamais parlé d'un cube. Je dois demander Tanner à ce sujet, il est le dernier qui leur a parlé. Quand ils nous ont contactés de Core City.<end>
+
+=>q43_original
+So, these Acid Hunters... What happened to them? You said you met them?<end>
+
+=>q43
+Donc, ces chasseurs d'acide... Qu'est-ce qui leur est arrivé ? Vous avez dit les avoir rencontrés ?<end>
+
+=>a44_original
+Yes, in Core City. They were hiding in the sewers. Long story.<end>
+
+=>a44
+Oui, dans Core City. Ils se cachaient dans les égouts. Longue histoire.<end>
+
+=>q45_original
+Are they still there?<end>
+
+=>q45
+Ils sont toujours là ?<end>
+
+=>a46_original
+No, they are no longer in their hideout. I don't know where they are now.<end>
+
+=>a46
+Non, ils ne sont plus en cachette. Je ne sais pas où ils sont maintenant.<end>
+
+=>q47_original
+Right... I won't go into any more details about... them. Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?<end>
+
+=>q47
+Oui... Je n'entrerai plus dans les détails sur... eux. Dis-moi encore une chose. Vous avez dit que le corps de Lora était introuvable ? Et si elle est en vie ?<end>
+
+=>a48_original
+Lora was taken by the Faceless. I wasn't able to bring her back.<end>
+
+=>a48
+Lora a été prise par le Faceless. Je n'ai pas pu la ramener.<end>
+
+=>q49_original
+The Faceless? What happened to her?<end>
+
+=>q49
+Le Faceless ? Que lui est-il arrivé ?<end>
+
+=>a50_original
+I'm guessing the Faceless took her back to their own city. She is not in Deep Caverns anymore.<end>
+
+=>a50
+Le Faceless l'a ramenée dans leur ville. Elle n'est plus dans Deep Caverns.<end>
+
+=>q51_original
+That is terrible! This whole invasion turned into such a horrible thing.<end>
+
+=>q51
+C'est terrible ! Toute cette invasion s'est transformée en une chose horrible.<end>
+
+=>q52_original
+Well... Thank you, $(context.player.Name). I will speak to the rest of the council about this. ::She sighs.::<end>
+
+=>q52
+Et bien... Merci, $(context.player.Name). Je vais en parler au reste du conseil. ::Elle soupire.::<end>
+
+=>a53_original
+I had some questions...<end>
+
+=>a53
+J'avais quelques questions...<end>
+
+=>q54_original
+::She looks at you, awaiting your question.::<end>
+
+=>q54
+::Elle vous regarde, en attendant votre question.::<end>
+
+=>a55_original
+I will leave you now. Goodbye, Vera.<end>
+
+=>a55
+Je vais vous laisser. Au revoir, Vera.<end>
+
+=>a56_original
+I do not know.<end>
+
+=>a56
+Je ne sais pas.<end>
+
+=>a57_original
+I'm afraid she's dead.<end>
+
+=>a57
+J'ai peur qu'elle soit morte.<end>
+
+=>a58_original
+Cornell confessed he shot them both and left them for dead. I don't know what happened to her body.<end>
+
+=>a58
+Cornell a avoué qu'il les avait tués. Je ne sais pas ce qui est arrivé à son corps.<end>
+
+=>q59_original
+I know even less... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q59
+Je sais encore moins... ::Vera fait une longue pause, visiblement affligée par la conversation. Elle se recompose ensuite et continue.:: <end>
+
+=>q60_original
+Well... Thank you, $(context.player.Name). I will take the keycard and speak to the rest of the council about this. ::She sighs.::<end>
+
+=>q60
+Et bien... Merci, $(context.player.Name). Je vais prendre la carte et parler au reste du conseil à ce sujet. ::Elle soupire.::<end>
+
+=>a61_original
+There is a possibility...<end>
+
+=>a61
+Il y a une possibilité...<end>
+
+=>q62_original
+There is... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q62
+Il y a... ::Vera fait une longue pause, visiblement affligée par la conversation. Elle se recompose ensuite et continue.:: <end>
+
+=>a63_original
+Perhaps, but highly unlikely. Those caves harbor some deadly critters.<end>
+
+=>a63
+Peut-être, mais très peu probable. Ces grottes abritent des créatures mortelles.<end>
+
+=>q64_original
+Yes, yes... I see your point. ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q64
+Oui, oui... Je vois votre point de vue. ::Vera fait une longue pause, visiblement affligée par la conversation. Elle se recompose ensuite et continue.:: <end>
+
+=>a65_original
+No way. Those caves are like a death trap.<end>
+
+=>a65
+Pas moyen. Ces grottes sont comme un piège à mort.<end>
+
+=>q66_original
+I suppose you are right... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q66
+Je suppose que vous avez raison... ::Vera fait une longue pause, visiblement affligée par la conversation. Elle se recompose ensuite et continue.:: <end>
+
+=>a67_original
+There was another pool of blood next to Terry's. Perhaps some animals dragged the body away.<end>
+
+=>a67
+Il y avait une autre réserve de sang à côté de Terry. Des animaux ont peut-être traîné le corps.<end>
+
+=>q68_original
+::She frowns in disgust.:: Please, I don't want that image in my head. ::She makes a waving motion, as if driving away the dreadful image that was constructed inside her mind. Afterwards, she makes a lengthy pause, visibly distressed by the conversation. Then, she recomposes herself and continues.:: <end>
+
+=>q68
+::Elle fronce de dégoût.:: Je ne veux pas de cette image dans ma tête. ::Elle fait un mouvement agité, comme si elle repoussait l'image terrible qui a été construite dans son esprit. Ensuite, elle fait une longue pause, visiblement affligée par la conversation. Puis, elle se recompose et continue.:: <end>
+
+=>a69_original
+They are all dead. I made sure they were dead before I left.<end>
+
+=>a69
+Ils sont tous morts. J'ai fait en sorte qu'ils soient morts avant de partir.<end>
+
+=>q70_original
+::Even though you get no immediate response, you have a feeling she approves of your actions.:: Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?<end>
+
+=>q70
+::Même si vous n'obtenez aucune réponse immédiate, vous avez le sentiment qu'elle approuve vos actions.:: Dis-moi encore une chose. Vous avez dit que le corps de Lora n'était nulle part ? Et si elle est en vie ?<end>
+
+=>a71_original
+That I don't know.<end>
+
+=>a71
+Je ne sais pas.<end>
+
+=>a72_original
+One of the train operators told me the Bakers were led away from the Rail Crossing train station by some thugs who were wielding chemical weapons. They were probably the ones who killed Terry.<end>
+
+=>a72
+Un des opérateurs de train m'a dit que les Bakers ont été emmenés loin de la gare Rail Crossing par des voyous qui maniaient des armes chimiques. C'est probablement eux qui ont tué Terry.<end>
+
+=>q73_original
+That is horrible! So they were at Rail Crossing after all, or at least they managed to reach the station. What of Lora? Do you think she could have survived somehow? Escaped her captors, perhaps?<end>
+
+=>q73
+C'est horrible ! Ils étaient donc à Rail Crossing après tout, ou du moins ils ont réussi à atteindre la station. Et Lora ? Tu crois qu'elle aurait pu survivre ? Elle a échappé à ses ravisseurs, peut-être ?<end>
+
+=>a74_original
+Sadly, that is all I know.<end>
+
+=>a74
+Malheureusement, c'est tout ce que je sais.<end>
+
+=>q75_original
+::She nods several times.:: Lora's body wasn't there, you say? What if she is alive?<end>
+
+=>q75
+::Elle hoche plusieurs fois.:: Le corps de Lora n'était pas là, vous dites ? Et si elle est en vie ?<end>
+
+=>a76_original
+Is there something I can do to help with the Faceless situation?<end>
+
+=>a76
+Est-ce que je peux faire quelque chose pour aider à la situation Faceless ?<end>
+
+=>q77_original
+Yes, two of our own, Terry and Lora Baker, were on a merchant mission to the north when the Faceless invaded. We know they didn't get caught behind the blockade because they messaged in from the Core City before the assault happened.<end>
+
+=>q77
+Oui, deux des nôtres, Terry et Lora Baker, étaient en mission marchande au nord lorsque le Faceless envahit. Nous savons qu'ils n'ont pas été pris derrière le blocus parce qu'ils ont envoyé un message du Core City avant l'assaut.<end>
+
+=>q78_original
+They were supposed to head straight back to SGS, but then this earthquake happened and blocked the railway, preventing their return. They might have stopped by Rail Crossing, in which case they might have been caught by whatever trouble is happening there.<end>
+
+=>q78
+Ils devaient retourner tout droit à SGS, mais ce tremblement de terre s'est produit et a bloqué le chemin de fer, empêchant leur retour. Ils auraient pu s'arrêter par Rail Crossing, auquel cas ils auraient pu être pris par tout problème qui se passe là-bas.<end>
+
+=>q79_original
+Gorsky tells me you know how to handle trouble. Investigate these two places, find the Bakers and return them home safely.<end>
+
+=>q79
+Gorsky me dit que vous savez gérer les problèmes. Enquêter sur ces deux endroits, trouver les Bakers et les ramener en toute sécurité.<end>
+
+=>q80_original
+I hope it won't come to this, but if... they didn't make it, make sure you return their valuables and trade goods then.<end>
+
+=>q80
+J'espère que ça n'arrivera pas, mais si... ils ne l'ont pas fait, assurez-vous de rendre leurs objets de valeur et d'échanger des marchandises.<end>
+
+=>a81_original
+Alright, got it.<end>
+
+=>a81
+Compris.<end>
+
+=>a82_original
+I'm about to head out to investigate the Faceless situation. Tanner mentioned you had a job for me as well.<end>
+
+=>a82
+Je vais enquêter sur la situation Faceless. Tanner a mentionné que vous aviez un travail pour moi aussi.<end>
+
+=>a83_original
+Who are the Faceless exactly?<end>
+
+=>a83
+Qui sont exactement les Faceless ?<end>
+
+=>q84_original
+We don't know. They live somewhere in the tunnels below. They are human, I hope, but I'm not sure since I've never seen one without a mask.<end>
+
+=>q84
+Nous ne savons pas. Ils vivent quelque part dans les tunnels. Ils sont humains, j'espère, mais je ne suis pas sûr depuis que je n'en ai jamais vu sans masque.<end>
+
+=>a85_original
+What can you tell me about Core City?<end>
+
+=>a85
+Que pouvez-vous me dire sur Core City ?<end>
+
+=>q86_original
+It's a city to the north that spans both levels of Underrail. It serves as a gateway to both the Upper Underrail and to the United Stations territories to the north.<end>
+
+=>q86
+C'est une ville au nord qui s'étend sur les deux niveaux de Underrail. Il sert de porte d'entrée à la fois au Upper Underrail et aux territoires United Stations au nord.<end>
+
+=>q87_original
+The city used to be controlled by the Biocorp's security forces, but they went rogue and split into smaller factions. This was followed by a couple of years of street wars between these factions. <end>
+
+=>q87
+Avant, la ville était contrôlée par les forces de sécurité du Biocorp, mais elles se divisaient en factions plus petites. Cela a été suivi de quelques années de guerres de rue entre ces factions. <end>
+
+=>q88_original
+The fighting ceased eventually in light of outside threats and serious infrastructural problems and nowadays the three surviving factions rule the city together through their appointed mayors.<end>
+
+=>q88
+Les combats ont fini par cesser à la lumière de menaces extérieures et de graves problèmes d'infrastructure et, de nos jours, les trois factions survivantes dirigent la ville ensemble par l'intermédiaire de leurs maires désignés.<end>
+
+=>a89_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a89
+Que savez-vous de la mort de Patrick Pierce ?<end>
+
+=>q90_original
+He died in his sleep. While it's true that Pasquale never discovered the exact cause of death, I believe it's nothing to worry about. Someone suggested a bacteria that live in the ventilation system, but that would mean the death of us all, wouldn't it?<end>
+
+=>q90
+Il est mort dans son sommeil. Alors qu'il est vrai que Pasquale n'a jamais découvert la cause exacte de la mort, je pense que ce n'est pas pour s'inquiéter. Quelqu'un a suggéré une bactérie qui vit dans le système de ventilation, mais cela signifierait la mort de nous tous, n'est-ce pas ?<end>
+
+=>q91_original
+If you want to learn more, just go talk to Pasquale. I'm sure he'll tell you all you want to know. I'm far too busy anyway.<end>
+
+=>q91
+Si vous voulez en savoir plus, allez parler à Pasquale. Je suis sûr qu'il te dira tout ce que tu veux savoir. Je suis trop occupé de toute façon.<end>
+
+=>a92_original
+Can you tell me a bit about United Stations?<end>
+
+=>a92
+Pouvez-vous me parler de United Stations ?<end>
+
+=>q93_original
+Certainly. United Stations, also called Union by some, is a confederacy of stations in north and central Underrail. It's an attempt to unify the entirety of Underrail so that we could all work together towards a better future for the human race.<end>
+
+=>q93
+Certainement. United Stations, également appelé Union par certains, est une confédération de stations dans le nord et le centre Underrail. C'est une tentative d'unifier l'ensemble de Underrail afin que nous puissions tous travailler ensemble vers un avenir meilleur pour la race humaine.<end>
+
+=>q94_original
+Similar to our station, the Union is ruled by a Council of Five. Most stations of the Union have some degree of autonomy as well. <end>
+
+=>q94
+Comme notre station, l'Union est gouvernée par un Conseil des Cinq. La plupart des stations de l'Union ont également une certaine autonomie. <end>
+
+=>q95_original
+The United Stations are constantly expanding and while no stations here in the south are yet to become part of it, something like that will surely happen in the near future.<end>
+
+=>q95
+Les stations United sont en constante expansion et alors qu'aucune station ici dans le sud ne doit encore en faire partie, quelque chose comme cela se produira sûrement dans un avenir proche.<end>
+
+=>a96_original
+I want to learn about the Protectorate.<end>
+
+=>a96
+Je veux en savoir plus sur le Protectorate.<end>
+
+=>q97_original
+The Underrail Protectorate is a military organization that protects the United Stations from external and internal threats. It predates the Union itself and it also played a crucial role in its creation.<end>
+
+=>q97
+Le Underrail Protectorate est une organisation militaire qui protège les stations unies des menaces externes et internes. Elle précède l'Union elle-même et a également joué un rôle crucial dans sa création.<end>
+
+=>q98_original
+The Protectorate is under the command of General Melek, who is widely considered to be the most powerful man in Underrail. He holds a special place on the United Stations' Council of Five, and some also believe him to be de facto ruler of it.<end>
+
+=>q98
+Le Protectorate est sous le commandement du général Melek, largement considéré comme l'homme le plus puissant de Underrail. Il occupe une place spéciale au Conseil des Cinq des Stations unies, et certains le croient aussi chef de fait de celui-ci.<end>
+
+=>a99_original
+Are there plans for SGS to join the United Stations at some point?<end>
+
+=>a99
+Y a-t-il des plans pour SGS pour rejoindre les United Stations à un moment donné ?<end>
+
+=>q100_original
+Our citizens, and our councilors, are divided on that matter. <end>
+
+=>q100
+Nos citoyens et nos conseillers sont divisés sur cette question. <end>
+
+=>q101_original
+We currently have good trading relations with the Union and I personally think it would be a good idea to be among the first to join it here in the south. We are arguably the most powerful faction in these parts so we could position ourselves advantageously in their organization and also retain a high degree of independence.<end>
+
+=>q101
+Nous avons actuellement de bonnes relations commerciales avec l'Union et je pense personnellement que ce serait une bonne idée d'être parmi les premiers à y adhérer ici, dans le sud. Nous sommes sans doute la faction la plus puissante de ces parties afin que nous puissions nous positionner avantageusement dans leur organisation et conserver un degré élevé d'indépendance.<end>
+
+=>q102_original
+This would also ensure we avoid any potential military conflict in the future should the Protectorate decide to move against some of the... less-civilized communities in the neighborhood.<end>
+
+=>q102
+Cela permettrait également d'éviter tout conflit militaire potentiel à l'avenir si le Protectorate décidait de se déplacer contre certaines des... communautés moins civilisées du quartier.<end>
+
+=>q103_original
+But as I said, not everyone agrees with me here. You must understand that many of our current citizens come from... organizations that have, for various reasons, been Protectorate's targets in the past, so they are not very keen on being buddies with their old enemies.<end>
+
+=>q103
+Mais comme je l'ai dit, tout le monde n'est pas d'accord avec moi ici. Vous devez comprendre que beaucoup de nos citoyens actuels viennent d'organisations qui, pour diverses raisons, ont été les cibles de Protectorate dans le passé, donc ils ne sont pas très désireux d'être copains avec leurs anciens ennemis.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>q105_original
+But let me ask you what is your opinion on the matter? Would you like to see your station become a member of the United Stations?<end>
+
+=>q105
+Mais qu'en pensez-vous ? Voulez-vous voir votre station devenir membre des United Stations ?<end>
+
+=>a106_original
+Yeah, I think it's a good idea. Humanity is certainly better off united.<end>
+
+=>a106
+C'est une bonne idée. L'humanité est certainement mieux unie.<end>
+
+=>q107_original
+I'm very glad to hear that and I couldn't agree more.<end>
+
+=>q107
+Je suis très content d'entendre ça et je ne suis pas d'accord.<end>
+
+=>a108_original
+I'm not sure. I'm reserving judgment until I learn more about all this.<end>
+
+=>a108
+Je ne suis pas sûr. Je réserve le jugement jusqu'à ce que j'apprenne plus sur tout ça.<end>
+
+=>q109_original
+You are a wise $(#man/woman). I hope that, like me, your future dealings with the United Stations will encourage you to support their efforts.<end>
+
+=>q109
+Vous êtes un sage $(#man/woman). J'espère que, comme moi, vos futures relations avec United Stations vous encourageront à soutenir leurs efforts.<end>
+
+=>a110_original
+Hell no. It just sounds to me like a silly facade for this Melek guy ruling the Underrail through a gun.<end>
+
+=>a110
+C'est pas vrai. Ça me semble être une façade stupide pour ce Melek qui dirige le Underrail à travers une arme.<end>
+
+=>q111_original
+That may not be completely untrue, but keep in mind that every great civilization was created with a gun or a sword. I expect that in the future, in a more peaceful and safer time the focus will shift from the Protectorate towards the civil rule of the Union.
+
+We'll see. I hope you'll change your mind soon and give the United Stations a chance.<end>
+
+=>q111
+Cela peut ne pas être complètement faux, mais gardez à l'esprit que chaque grande civilisation a été créée avec un fusil ou une épée. J'espère qu'à l'avenir, dans un délai plus pacifique et plus sûr, l'accent passera du Protectorate au régime civil de l'Union.
+
+Nous verrons. J'espère que vous changerez d'avis et que vous donnerez une chance aux United Stations.<end>
+
+=>a112_original
+Tanner mentioned you need some documents delivered to an embassy in Junkyard.<end>
+
+=>a112
+Tanner mentionne que vous avez besoin de documents livrés à une ambassade dans Junkyard.<end>
+
+=>q113_original
+That's right. If you're heading that way you can deliver them for me.<end>
+
+=>q113
+C'est vrai. Si tu te diriges comme ça, tu peux me les livrer.<end>
+
+=>a114_original
+Sure, I'm going there right now.<end>
+
+=>a114
+Bien sûr, j'y vais tout de suite.<end>
+
+=>q115_original
+Great. Here are the documents. I'll let them know that you're coming. 
+
+Have a safe journey and send my regards to the ambassador.<end>
+
+=>q115
+Génial. Voici les documents. Je leur dirai que vous venez.
+
+Faites un bon voyage et adressez mes salutations à l'ambassadeur.<end>
+
+=>a116_original
+See you later.<end>
+
+=>a116
+À plus tard.<end>
+
+=>a117_original
+Perhaps later. Still got more work to do around here.<end>
+
+=>a117
+Peut-être plus tard. Il reste encore du travail à faire ici.<end>
+
+=>q118_original
+Alright. Let me know when you're ready to head over there.<end>
+
+=>q118
+Très bien. Préviens-moi quand tu seras prêt.<end>
+
+=>a119_original
+I can take those documents now. I'm heading out to Junkyard.<end>
+
+=>a119
+Je peux prendre ces documents maintenant. Je vais à Junkyard.<end>
+
+=>a120_original
+I delivered the trading documents.<end>
+
+=>a120
+J'ai livré les documents de trading.<end>
+
+=>q121_original
+Excellent. It's good to know I can count on you to get the job done.<end>
+
+=>q121
+Parfait. C'est bon de savoir que je peux compter sur toi pour faire le travail.<end>
+
+=>a122_original
+You wanted to tell me something.<end>
+
+=>a122
+Tu voulais me dire quelque chose.<end>
+
+=>a123_original
+You needed me for something?<end>
+
+=>a123
+Tu avais besoin de moi pour quelque chose ?<end>
+
+=>a124_original
+No.<end>
+
+=>a124
+Non.<end>
+
+=>q125_original
+I wanted to offer something to you.<end>
+
+=>q125
+Je voulais vous offrir quelque chose.<end>
+
+=>a126_original
+I feel I could've rested some more.<end>
+
+=>a126
+J'aurais pu me reposer.<end>
+
+=>a127_original
+I think I did.<end>
+
+=>a127
+Je crois que oui.<end>
+
+=>q128_original
+Go speak to Ezra, $(context.player.Name).<end>
+
+=>q128
+Allez parler à Ezra, $(context.player.Name).<end>
+
+=>q129_original
+::From the moment you stepped into the room, Vera's eyes were fixed on you. However, you are aware that the worried look is not only due to your lengthy absence.::
+
+$(context.player.Name), I am so glad you are alive. After we heard Protectorate forces were moving toward the Institute of Tchort and not hearing from you for so long, we became really worried.<end>
+
+=>q129
+::Dès que vous êtes entré dans la pièce, les yeux de Vera vous ont été fixés. Cependant, vous savez que le regard inquiet n'est pas seulement dû à votre longue absence.::
+
+$(context.player.Name), je suis si contente que tu sois en vie. Après avoir appris que les forces Protectorate se déplaçaient vers le Institute of Tchort et ne t'entendaient pas si longtemps, nous sommes devenus très inquiets.<end>
+
+=>a130_original
+Thank you for your concern, but I am fine.<end>
+
+=>a130
+Merci de votre inquiétude, mais je vais bien.<end>
+
+=>q131_original
+::She nods.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q131
+::Elle acquiesce.:: Je suis sûr que vous voulez vous reposer, et je ne voudrais pas le retarder plus longtemps, mais quelque chose s'est passé : Tanner a disparu.<end>
+
+=>q132_original
+<end>
+
+=>q132
+<end>
+
+=>a133_original
+I know.<end>
+
+=>a133
+Je sais.<end>
+
+=>q134_original
+::She pauses.:: So... the word is already out.<end>
+
+=>q134
+::Elle fait une pause.:: Donc... le mot est déjà sorti.<end>
+
+=>a135_original
+Tell me about Tanner's disappearance.<end>
+
+=>a135
+Parlez-moi de la disparition de Tanner.<end>
+
+=>q136_original
+He left his office some time ago, and no one has seen him since. No one saw him leave through any of the station's exits, like he vanished. This has never happened before. So many things are happening around South Underrail and his disappearance worries me.<end>
+
+=>q136
+Il a quitté son bureau il y a quelque temps, et personne ne l'a vu depuis. Personne ne l'a vu quitter les sorties de la station, comme s'il avait disparu. Cela ne s'est jamais produit auparavant. Tant de choses se passent autour du Sud Underrail et sa disparition m'inquiète.<end>
+
+=>q137_original
+::Vera looks at you, as if wanting to say something, but that statement seems like it has been replaced by a different one.::
+
+We still haven't checked his room. Since you are here, I think it is best you do it.<end>
+
+=>q137
+::Vera vous regarde, comme si vous vouliez dire quelque chose, mais cette déclaration semble avoir été remplacée par une autre.::
+
+On n'a toujours pas vérifié sa chambre. Puisque vous êtes ici, je pense que c'est mieux que vous le fassiez.<end>
+
+=>a138_original
+No problem, Vera. I will do it.<end>
+
+=>a138
+Pas de problème, Vera. Je vais le faire.<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>q140_original
+Usually, I would approach Gorsky with these kinds of things, but since he... is not with us anymore, you are the one I would trust the most with something this important.<end>
+
+=>q140
+Habituellement, j'approche Gorsky avec ce genre de choses, mais comme il... n'est plus avec nous, vous êtes celui que je ferais le plus confiance à quelque chose de si important.<end>
+
+=>a141_original
+In that case, I guess I will have to do it.<end>
+
+=>a141
+Dans ce cas, je vais devoir le faire.<end>
+
+=>q142_original
+See Ezra; he will let you into Tanner's room. Keep your eyes open and try to find anything at all which might shed some light on what is going on here.<end>
+
+=>q142
+Voir Ezra ; il vous laissera entrer dans la chambre de Tanner. Gardez les yeux ouverts et essayez de trouver tout ce qui pourrait éclairer ce qui se passe ici.<end>
+
+=>a143_original
+On my way.<end>
+
+=>a143
+En route.<end>
+
+=>q144_original
+Good. Meanwhile, I think it's time I assemble the council. Return to me once you and Ezra inspect Tanner's room.<end>
+
+=>q144
+Parfait. Pendant ce temps, je pense qu'il est temps de réunir le conseil. Retournez-moi une fois que vous et Ezra inspecterez la chambre de Tanner.<end>
+
+=>a145_original
+What do you want me to do?<end>
+
+=>a145
+Que veux-tu que je fasse ?<end>
+
+=>q146_original
+Usually, I would approach Gorsky with these kinds of things, but since he is still in Core City that leaves you as the one I would trust the most with something this important.<end>
+
+=>q146
+Habituellement, j'approche Gorsky avec ce genre de choses, mais puisqu'il est toujours dans Core City qui vous laisse comme celui que je ferais le plus confiance à quelque chose d'important.<end>
+
+=>a147_original
+I haven't had the time to tell you yet, but Gorsky died in Core City.<end>
+
+=>a147
+Je n'ai pas encore eu le temps de vous le dire, mais Gorsky est mort dans Core City.<end>
+
+=>q148_original
+::Your words provoke a shocked expression.::
+
+What? I cannot believe it... this is... No...<end>
+
+=>q148
+::Vos mots provoquent une expression choquée.::
+
+Quoi ? Je n'arrive pas à le croire... Non...<end>
+
+=>q149_original
+This is horrible, horrible. And at a time like this. Please, $(context.player.Name), go speak to Ezra; he will let you into Tanner's room. Um, I'm sorry... I... Anyway, keep your eyes open and try to find anything at all which might shed some light on what is going on here.<end>
+
+=>q149
+C'est horrible, horrible. Et à un moment comme celui-ci. S'il vous plaît, $(context.player.Name), allez parler à Ezra ; il vous laissera entrer dans la chambre de Tanner. Je suis désolé... de toute façon, garde les yeux ouverts et essaie de trouver quelque chose qui pourrait éclairer ce qui se passe ici.<end>
+
+=>a150_original
+Why me?<end>
+
+=>a150
+Pourquoi moi ?<end>
+
+=>a151_original
+Don't you have someone else to do these kind of things? It's always me.<end>
+
+=>a151
+Tu n'as pas quelqu'un d'autre pour faire ce genre de choses ? C'est toujours moi.<end>
+
+=>a152_original
+When?<end>
+
+=>a152
+Quand ?<end>
+
+=>a153_original
+What do you mean?<end>
+
+=>a153
+Que veux-tu dire?<end>
+
+=>a154_original
+We have yet to determine if I'm *actually* alive, considering the things I've been through.<end>
+
+=>a154
+Nous n'avons pas encore déterminé si je suis *en fait* vivant, compte tenu des choses que j'ai vécues.<end>
+
+=>q155_original
+I understand. And you deserve rest. I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q155
+Je comprends. Et tu mérites de te reposer. Je ne voudrais plus le retarder, mais quelque chose s'est passé : Tanner a disparu.<end>
+
+=>a156_original
+I need some rest.<end>
+
+=>a156
+J'ai besoin de repos.<end>
+
+=>q157_original
+I am sure you do, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q157
+Je suis sûr que oui, et je ne voudrais plus le retarder, mais quelque chose s'est passé : Tanner a disparu.<end>
+
+=>a158_original
+::Nod.::<end>
+
+=>a158
+::Hocher la tête.::<end>
+
+=>q159_original
+I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q159
+Je suis sûr que vous voulez vous reposer, et je ne voudrais pas le retarder plus longtemps, mais quelque chose s'est passé : Tanner a disparu.<end>
+
+=>a160_original
+You didn't seriously think I was going to die? ::Laugh.::<end>
+
+=>a160
+Tu ne pensais pas vraiment que j'allais mourir ? ::Rire.::<end>
+
+=>q161_original
+::A sign of being uneasy shoots across Vera's face. She then continues.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q161
+::Un signe de malaise dans le visage de Vera. Elle continue ensuite.:: Je suis sûr que vous voulez vous reposer, et je ne voudrais pas le retarder plus longtemps, mais quelque chose s'est passé : Tanner a disparu.<end>
+
+=>q162_original
+::You met Vera previously during your testing period. She is one of the councilors here at the South Gate Station.::
+
+Good to see you've found your way to my office, $(context.player.Name). How do you like your new home so far?<end>
+
+=>q162
+::Vous avez déjà rencontré Vera pendant votre période de test. Elle est l'une des conseillères ici à la gare de South Gate.::
+
+Content de voir que vous avez trouvé votre chemin pour mon bureau, $(context.player.Name). Comment aimez-vous votre nouvelle maison jusqu'ici ?<end>
+
+=>a163_original
+It's pretty good. I can see myself staying here for a long time.<end>
+
+=>a163
+C'est plutôt bon. Je me vois rester ici longtemps.<end>
+
+=>q164_original
+That's good to hear.
+
+So anyway, how can I help you?<end>
+
+=>q164
+C'est bon à entendre.
+
+Alors, comment puis-je vous aider ?<end>
+
+=>a165_original
+It's been fine so far.<end>
+
+=>a165
+Ça va jusqu'ici.<end>
+
+=>q166_original
+Very good.
+
+So what can I do for you?<end>
+
+=>q166
+Très bien.
+
+Que puis-je faire pour vous ?<end>
+
+=>a167_original
+People keep sending me to solo dangerous missions, it's derailed!<end>
+
+=>a167
+Les gens m'envoient dans des missions dangereuses en solo, ça a déraillé !<end>
+
+=>q168_original
+They must have faith in your abilities and, considering you're still alive, I guess their trust was not misplaced.<end>
+
+=>q168
+Ils doivent avoir foi en vos capacités et, vu que vous êtes encore en vie, je suppose que leur confiance n'était pas déplacée.<end>
+
+=>q169_original
+So, anyway, how can I help you?<end>
+
+=>q169
+De toute façon, comment puis-je vous aider ?<end>
+
+=>q170_original
+Have you heard what's happening in Core City?<end>
+
+=>q170
+Avez-vous entendu ce qui se passe dans Core City ?<end>
+
+=>a171_original
+Yes.<end>
+
+=>a171
+Oui.<end>
+
+=>q172_original
+It's crazy, isn't it? I'm wondering just what the Faceless want. It's very atypical of them to attack a station state.<end>
+
+=>q172
+C'est fou, n'est-ce pas ? Je me demande ce que le Faceless veut. C'est très atypique d'attaquer un état de station.<end>
+
+=>a173_original
+No.<end>
+
+=>a173
+Non.<end>
+
+=>q174_original
+The Faceless blockaded the city. They drilled right into the city perimeter defenses with their machines and caught them by surprise. Now we're cut off from the North and cannot receive any assistance from the Protectorate.<end>
+
+=>q174
+Le Faceless a bloqué la ville. Ils ont percé les défenses du périmètre avec leurs machines et les ont prises par surprise. Maintenant nous sommes coupés du Nord et ne pouvons recevoir aucune aide du Protectorate.<end>
+
+=>q175_original
+Unbelievable - a homicide inside the station! The word will surely get out, surely. I just hope it doesn't tarnish our reputation. This station is supposed to be safe.
+
+::She takes a deep breath.:: Excuse me, please. Uh, how can I help you?<end>
+
+=>q175
+Incroyable - un homicide dans la station! La parole sortira sûrement. J'espère juste que ça ne ternit pas notre réputation. Cette station est censée être en sécurité.
+
+::Elle prend une profonde inspiration.:: Veuillez m'excuser. Comment puis-je vous aider ?<end>
+
+=>q176_original
+$(context.player.Name). The whole station's talking about you. I hope Gorsky didn't give you too much trouble.
+
+So, how can I help you?<end>
+
+=>q176
+$(context.player.Name). Toute la station parle de toi. J'espère que Gorsky ne vous a pas causé trop de problèmes.
+
+Comment puis-je vous aider ?<end>
+
+=>q177_original
+Yes? How can I help you, $(context.player.Name)?<end>
+
+=>q177
+Oui ? Comment puis-je vous aider, $(context.player.Name) ?<end>
+

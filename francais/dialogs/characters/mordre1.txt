@@ -1,0 +1,600 @@
+=>q1_original
+Go bother someone else, Judge $(context.player.Name).<end>
+
+=>q1
+Allez déranger quelqu'un d'autre, juge $(context.player.Name).<end>
+
+=>q2_original
+Get lost.<end>
+
+=>q2
+Allez-vous-en.<end>
+
+=>q3_original
+He's gone.<end>
+
+=>q3
+Il est parti.<end>
+
+=>a4_original
+He sure is.<end>
+
+=>a4
+C'est sûr.<end>
+
+=>q5_original
+Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
+
+What did you need, $(context.player.Name)?<end>
+
+=>q5
+Juste avant que le Faceless ne recule, il a disparu. Juste avant votre retour de Deep Caverns, il a disparu. Un homme se demande...
+
+De quoi aviez-vous besoin, $(context.player.Name) ?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I've brought you some meat for the eels.<end>
+
+=>a7
+Je t'ai apporté de la viande pour les anguilles.<end>
+
+=>q8_original
+Good. Do you want to trade it?<end>
+
+=>q8
+Parfait. Tu veux l'échanger ?<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+What can you offer?<end>
+
+=>a10
+Que pouvez-vous offrir ?<end>
+
+=>q11_original
+How about a health hypo?<end>
+
+=>q11
+Et une hypoglycémie ?<end>
+
+=>a12_original
+Sounds fair. I'll take it.<end>
+
+=>a12
+Ça semble juste. Je le prends.<end>
+
+=>q13_original
+Good.<end>
+
+=>q13
+Bien.<end>
+
+=>q14_original
+Now to catch some eels.<end>
+
+=>q14
+Maintenant pour attraper des anguilles.<end>
+
+=>a15_original
+I had more questions, actually.<end>
+
+=>a15
+J'avais d'autres questions, en fait.<end>
+
+=>q16_original
+Ask.<end>
+
+=>q16
+Demander.<end>
+
+=>a17_original
+I'll leave you to it. Good luck.<end>
+
+=>a17
+Je vous laisse. Bonne chance.<end>
+
+=>a18_original
+::[Mercantile]:: Make it two and you have a deal.<end>
+
+=>a18
+::[Mercantile]:: Faites-en deux et vous avez un marché.<end>
+
+=>q19_original
+You drive a hard bargain, but very well.<end>
+
+=>q19
+Vous conduisez une affaire difficile, mais très bien.<end>
+
+=>q20_original
+No, one hypo. Take it or leave it.<end>
+
+=>q20
+Non, une hypoglycémie. À prendre ou à laisser.<end>
+
+=>a21_original
+Alright, I'll take it.<end>
+
+=>a21
+Très bien, je le prends.<end>
+
+=>a22_original
+In that case I'll pass.<end>
+
+=>a22
+Dans ce cas, je passerai.<end>
+
+=>a23_original
+Actually, I decided not to trade.<end>
+
+=>a23
+En fait, j'ai décidé de ne pas échanger.<end>
+
+=>q24_original
+Stop wasting my time then.<end>
+
+=>q24
+Arrête de perdre mon temps.<end>
+
+=>a25_original
+You can have it for free. It's no big deal.<end>
+
+=>a25
+Vous pouvez l'avoir gratuitement. C'est pas grave.<end>
+
+=>q26_original
+I *never* take charity. We must trade.<end>
+
+=>q26
+Je ne prends jamais de charité. Nous devons échanger.<end>
+
+=>a27_original
+Sorry, but I need it as well.<end>
+
+=>a27
+Désolé, mais j'en ai aussi besoin.<end>
+
+=>a28_original
+I know you killed Patrick Pierce.<end>
+
+=>a28
+Vous avez tué Patrick Pierce.<end>
+
+=>q29_original
+Killed? Patrick Pierce died in his sleep.<end>
+
+=>q29
+Tué ? Patrick Pierce est mort dans son sommeil.<end>
+
+=>a30_original
+::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
+
+=>a30
+::[Persuader]:: Vous étiez membre des Spectres, le seul qui a survécu à l'opération Banishment et vous avez décidé de vous venger de Patrick, sachant qu'il faisait partie de l'opération.<end>
+
+=>q31_original
+::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
+
+Yes. You got me. Tell Pat you got his murderer's confession.<end>
+
+=>q31
+::Silence. Il est sans expression. Ce n'est qu'après quelques moments tendus qu'il tire une longue fumée finale de son cigare, ses mouvements calment et ramassés, avant de la déposer doucement dans l'eau. Silence, mais ça finit bientôt.::
+
+Oui. Vous m'avez eu. Dites à Pat que vous avez les aveux de son meurtrier.<end>
+
+=>a32_original
+::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
+
+=>a32
+::[Persuader]:: Attendez ! Je n'en ai encore parlé à personne. Je te laisse partir et on oublie cette conversation.<end>
+
+=>q33_original
+::Mordre stops. An answer follows shortly.::
+
+I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
+
+=>q33
+::Mordre s'arrête. Une réponse suit sous peu.::
+
+Je ne sais pas à quoi tu joues, mais je ne reste pas ici pour le savoir. Dégage.<end>
+
+=>a34_original
+::Let him leave.::<end>
+
+=>a34
+::Laisse-le partir.::<end>
+
+=>q35_original
+::Mordre completely ignores your suggestion.::<end>
+
+=>q35
+::Mordre ignore complètement votre suggestion.::<end>
+
+=>a36_original
+::Fight!::<end>
+
+=>a36
+::Lutte!::<end>
+
+=>q37_original
+::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
+
+This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
+
+=>q37
+::Il s'arrête, secouant lentement la tête de chaque côté. Alors, il sourit.::
+
+Cette conversation est terminée, mon ami. Je veux dire, juge $(context.player.Name). Je te plains. Va déranger quelqu'un d'autre.<end>
+
+=>a38_original
+::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
+
+=>a38
+::[Intimider]:: Je sais que vous l'avez tué, j'ai toutes les preuves sur vous et les Spectres et l'opération Banishment. Confessez, ou je ferai ce que Praetorian Security a échoué - tuer tous vos salauds.<end>
+
+=>a39_original
+My mistake. Wrong man. Sorry.<end>
+
+=>a39
+Mon erreur. Mauvais homme. Désolé.<end>
+
+=>q40_original
+Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
+
+=>q40
+Attendez, mon ami. Vous m'avez accusé de meurtre. Ce n'est pas quelque chose à prendre à la légère. Je demande une explication.<end>
+
+=>a41_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a41
+Que savez-vous de la mort de Patrick Pierce ?<end>
+
+=>q42_original
+Died in his sleep. That's how I remember it, at least.<end>
+
+=>q42
+Mort dans son sommeil. C'est comme ça que je m'en souviens.<end>
+
+=>a43_original
+Can you tell me what was he like as a person?<end>
+
+=>a43
+Pouvez-vous me dire comment était-il en tant que personne ?<end>
+
+=>q44_original
+Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
+
+=>q44
+Patrick... Il allait bien. Les gens l'aimaient, il avait de bons amis ici à SGS. Je l'avais rencontré quelques fois dans le bar; nous parlions, mais nous n'avons jamais fait plus de socialisation.<end>
+
+=>a45_original
+Tell me about deep eels.<end>
+
+=>a45
+Parlez-moi des anguilles profondes.<end>
+
+=>q46_original
+There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
+
+=>q46
+Il y a beaucoup de sortes d'anguilles profondes. La plupart sont délicieux et très faciles à cuisiner et à manger. L'anguille bleue est la préférée de tout le monde, y compris moi.<end>
+
+=>q47_original
+The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
+
+=>q47
+Plus vous descendez les Celeritas, plus vous trouverez d'anguilles dangereuses. C'est la nature même de notre monde - plus vous allez profond, plus il devient dangereux.<end>
+
+=>a48_original
+What is this place?<end>
+
+=>a48
+Quel est cet endroit ?<end>
+
+=>q49_original
+It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
+
+=>q49
+Ça s'appelle Mushroom Cove. Mais c'est essentiellement un grand lac où tous ces petits ruisseaux convergent et forment la rivière Celeritas. Il court ensuite jusqu'au fond du Deep Caverns.<end>
+
+=>a50_original
+So how's the fishing going?<end>
+
+=>a50
+Alors comment se passe la pêche ?<end>
+
+=>q51_original
+Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
+
+=>q51
+Ça pourrait être mieux. J'espérais attraper des anguilles profondes, mais j'ai oublié d'apporter de la viande, et les anguilles ne se soucient pas beaucoup des vers; utilisez-les seulement si vous voulez les noyer.<end>
+
+=>a52_original
+Tell me about deep eels.<end>
+
+=>a52
+Parlez-moi des anguilles profondes.<end>
+
+=>a53_original
+What kind of meat do you need?<end>
+
+=>a53
+De quelle viande avez-vous besoin ?<end>
+
+=>q54_original
+Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
+
+=>q54
+N'importe quelle viande fera, mais la viande rouge crue fonctionne mieux. Je pourrais chasser une trémie, mais je ne peux pas laisser les tiges sans surveillance.<end>
+
+=>a55_original
+I'll get you some meat.<end>
+
+=>a55
+Je vais te chercher de la viande.<end>
+
+=>q56_original
+That would be great.<end>
+
+=>q56
+Ce serait génial.<end>
+
+=>a57_original
+I've got some meat right here.<end>
+
+=>a57
+J'ai de la viande ici.<end>
+
+=>a58_original
+Better come prepared next time then.<end>
+
+=>a58
+Il vaut mieux se préparer la prochaine fois.<end>
+
+=>q59_original
+::He nods.:: Yeah.<end>
+
+=>q59
+::Il acquiesce.:: Oui.<end>
+
+=>a60_original
+Too bad.<end>
+
+=>a60
+Dommage.<end>
+
+=>a61_original
+I didn't catch your name the first time.<end>
+
+=>a61
+Je n'ai pas eu ton nom la première fois.<end>
+
+=>q62_original
+::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
+
+=>q62
+::L'expression indifférente persiste.:: Je vous le dirais, mais je devrais vous tuer. Appelez-moi Mordre.<end>
+
+=>a63_original
+::[Intimidate]:: I'd like to see you try.<end>
+
+=>a63
+::[Intimider]:: J'aimerais vous voir essayer.<end>
+
+=>q64_original
+No, you wouldn't.<end>
+
+=>q64
+Non, tu ne le ferais pas.<end>
+
+=>a65_original
+In that case, Mordre will do.<end>
+
+=>a65
+Dans ce cas, Mordre le fera.<end>
+
+=>q66_original
+Good.<end>
+
+=>q66
+Bien.<end>
+
+=>a67_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a67
+Que pensez-vous de l'invasion Faceless ?<end>
+
+=>q68_original
+The Faceless spared them. There's nothing more to say.<end>
+
+=>q68
+Le Faceless les a épargnés. Il n'y a rien de plus à dire.<end>
+
+=>q69_original
+If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
+
+=>q69
+Si seulement le Faceless aurait pu enlever les Oligarch. Underrail serait certainement un meilleur endroit sans eux.<end>
+
+=>q70_original
+The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
+
+=>q70
+Les "Oligarch" de la Core City ne sont pas aussi puissants qu'ils le pensaient, assis dans leurs appartements de luxe, entourés de leurs gardes blindés.<end>
+
+=>q71_original
+I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
+
+=>q71
+J'espère qu'ils se rendent compte que le Faceless aurait pu aussi percer leur chemin à l'intérieur de la ville s'ils voulaient vraiment le prendre. Heureusement pour eux, le Faceless n'a probablement aucun intérêt dans leurs affaires.<end>
+
+=>a72_original
+I have a feeling you don't have much love for the Core City.<end>
+
+=>a72
+J'ai le sentiment que vous n'avez pas beaucoup d'amour pour le Core City.<end>
+
+=>q73_original
+It is their police and their so called "Oligarchs" that I dislike.<end>
+
+=>q73
+C'est leur police et leur soi-disant "Oligarchs" que je déteste.<end>
+
+=>q74_original
+They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
+
+=>q74
+Ils étaient fidèles à Biocorp : l'un était le chef de la sécurité Core City, l'autre le chef du département de recherche Core City. Pourtant, lorsque le quartier général du Nord Underrail a été envahi par le Protectorate il y a toutes ces années, ils n'ont rien fait.<end>
+
+=>q75_original
+And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
+
+=>q75
+Et non seulement ils s'asseyaient leur dos déloyal en toute sécurité derrière les barricades du Core City, les bâtards avides commençaient à se tourner l'un contre l'autre ; de haut en bas, tout le monde essayait de sécuriser la partie la plus confortable de la ville pour lui-même.<end>
+
+=>q76_original
+And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
+
+=>q76
+Et maintenant ces traîtres avides servent de gouvernement et de police de la ville. Ce n'est pas un endroit où je voudrais être citoyen.<end>
+
+=>a77_original
+That's a nice cigar you have there.<end>
+
+=>a77
+C'est un joli cigare.<end>
+
+=>q78_original
+Thanks.<end>
+
+=>q78
+Merci.<end>
+
+=>a79_original
+Where did you get them? It must've cost a lot.<end>
+
+=>a79
+Où les avez-vous eus ? Ça a dû coûter cher.<end>
+
+=>q80_original
+I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
+
+=>q80
+J'ai des moyens, et le coût, ce n'est pas autant que vous le pensez. ::Il tire une fumée, et son expression s'améliore.:: J'aime fumer ici. Personne pour se plaindre, personne pour demander un cigare.<end>
+
+=>a81_original
+Got a spare cigar?<end>
+
+=>a81
+Vous avez un cigare de rechange ?<end>
+
+=>q82_original
+No.<end>
+
+=>q82
+Non.<end>
+
+=>q83_original
+::He draws another smoke.::<end>
+
+=>q83
+::Il tire une autre fumée.::<end>
+
+=>a84_original
+I suppose so.<end>
+
+=>a84
+Je suppose que oui.<end>
+
+=>a85_original
+Nothing really. Was just stopping by.<end>
+
+=>a85
+Rien. C'était juste pour passer.<end>
+
+=>a86_original
+You talking about Tanner?<end>
+
+=>a86
+Vous parlez de Tanner ?<end>
+
+=>q87_original
+Of course. <end>
+
+=>q87
+Bien sûr. <end>
+
+=>a88_original
+Who?<end>
+
+=>a88
+OMS?<end>
+
+=>q89_original
+Tanner, of course. <end>
+
+=>q89
+Tanner, bien sûr. <end>
+
+=>q90_original
+What do you want?<end>
+
+=>q90
+Que voulez-vous ?<end>
+
+=>q91_original
+Something you need?<end>
+
+=>q91
+Vous avez besoin de quelque chose ?<end>
+
+=>q92_original
+::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
+
+Don't stomp around. You're scaring the fish away.<end>
+
+=>q92
+::L'homme d'âge moyen, grand et large, se tient près de la côte, fume un cigare et observe l'eau calme. Alors que vous approchez, il se retourne; il vous regarde un instant, en maintenant une expression indifférente, et puis vous parle d'une voix basse et frénétique.::
+
+Ne traînez pas. Tu fais peur au poisson.<end>
+
+=>q93_original
+You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
+
+I guess you got admitted.<end>
+
+=>q93
+Vous êtes le $(#guy/girl) qui faisait les tests de Tanner, c'est ça. $(context.player.Name), c'est ça ?
+
+Je suppose que vous avez été admis.<end>
+
+=>a94_original
+Yeah, and who're you?<end>
+
+=>a94
+Oui, et qui êtes-vous ?<end>
+
+=>a95_original
+I'd love to stay and chat, but I got things to do.<end>
+
+=>a95
+J'aimerais rester et discuter, mais j'ai des choses à faire.<end>
+
+=>q96_original
+Off you go then, but do it *quietly.*<end>
+
+=>q96
+Allez-y, mais faites-le tranquillement.<end>
+

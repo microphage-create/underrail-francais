@@ -1,0 +1,902 @@
+=>q1_original
+You sure know how to piss someone off. You got your money, now get lost.<end>
+
+=>q1
+Tu sais faire chier quelqu'un. Vous avez votre argent, maintenant vous perdez.<end>
+
+=>q2_original
+Ah, $(context.player.Name), good to see you. I have to apologize, but I'm busy at the moment. You've been paid for your services, so I believe we don't have anything urgent to discuss at the moment.<end>
+
+=>q2
+C'est bon de te voir. Je dois m'excuser, mais je suis occupé en ce moment. Vous avez été payé pour vos services, donc je pense que nous n'avons rien d'urgent à discuter en ce moment.<end>
+
+=>q3_original
+::The mayor removes his respirator, clears his throat and begins his speech.:: Beloved citizens of Foundry, today we have gathered here to celebrate a great victory! As you all know by now, we've been troubled by vile creatures that terrorized us all, especially you - the working people! The backbone of Foundry! <end>
+
+=>q3
+::Le maire enlève son respirateur, s'éclaircit la gorge et commence son discours.:: Citoyens bien-aimés de Foundry, aujourd'hui nous sommes réunis ici pour célébrer une grande victoire ! Comme vous le savez tous, nous avons été troublés par des créatures viles qui nous ont tous terrorisés, en particulier vous - les travailleurs! L'épine dorsale de Foundry ! <end>
+
+=>q4_original
+We couldn't let it continue! We couldn't let you suffer any longer! We couldn't let those monsters tear down what you've made with your own hands! So the Foundry Guard took action and protected you! Let's hear one big round of applause for our beloved Chief Banner!<end>
+
+=>q4
+On ne pouvait pas la laisser continuer ! On ne pouvait plus te laisser souffrir ! On ne pouvait pas laisser ces monstres détruire ce que tu as fait de tes propres mains ! Donc la Garde Foundry a agi et vous a protégé ! Écoutons un grand tour d'applaudissements pour notre cher chef Banner !<end>
+
+=>q5_original
+::The crowd cheers.::<end>
+
+=>q5
+::La foule applaudit.::<end>
+
+=>q6_original
+Thank you, sir. Before we begin, I'd just like to take a moment to mention those who died fighting to protect Foundry. Men and women who stared in the eyes of these creatures and bravely fought to allow you, their friends and family, to live another day. Let us never forget them.<end>
+
+=>q6
+Merci, monsieur. Avant de commencer, je voudrais juste prendre un moment pour mentionner ceux qui sont morts en combattant pour protéger Foundry. Des hommes et des femmes qui regardaient dans les yeux de ces créatures et luttaient courageusement pour vous permettre, vous, leurs amis et leur famille, de vivre un autre jour. Ne les oublions jamais.<end>
+
+=>q7_original
+::The crowd cheers.::<end>
+
+=>q7
+::La foule applaudit.::<end>
+
+=>q8_original
+However, the dead are not the only ones worthy of your praise.<end>
+
+=>q8
+Cependant, les morts ne sont pas les seuls dignes de votre louange.<end>
+
+=>q9_original
+This young $(#man/woman) played an important role in helping the Foundry Guard slay the largest of these beasts, and the one that was responsible for most deaths. ::He turns to you.:: $(context.PlayerNameCaps)!<end>
+
+=>q9
+Ce jeune $(#man/woman) a joué un rôle important en aidant la Garde Foundry à tuer le plus grand de ces animaux, et celui qui était responsable de la plupart des morts. ::Il se tourne vers toi.:: $(context.PlayerNameCaps) !<end>
+
+=>q10_original
+::The crowd cheers.::<end>
+
+=>q10
+::La foule applaudit.::<end>
+
+=>q11_original
+Would you like to say something, $(context.player.Name)?<end>
+
+=>q11
+Voulez-vous dire quelque chose, $(context.player.Name) ?<end>
+
+=>a12_original
+It was an honor working with the Foundry Guard. We crushed those monsters.<end>
+
+=>a12
+C'était un honneur de travailler avec la Garde Foundry. On a écrasé ces monstres.<end>
+
+=>q13_original
+True words indeed. Thank you, $(context.player.Name), and thank you all for coming here today! Goodbye!<end>
+
+=>q13
+C'est vrai. Merci, $(context.player.Name), et merci à tous d'être venus ici aujourd'hui! Au revoir !<end>
+
+=>q14_original
+::The crowd cheers.::<end>
+
+=>q14
+::La foule applaudit.::<end>
+
+=>a15_original
+::End Dialog.::<end>
+
+=>a15
+::Fin du dialogue.::<end>
+
+=>a16_original
+Foundry rules! It's a pleasure to be here.<end>
+
+=>a16
+Foundry règles! C'est un plaisir d'être ici.<end>
+
+=>a17_original
+Meh, I've seen worse stuff by now. I don't get what all the fuss was about.<end>
+
+=>a17
+J'ai déjà vu pire. Je ne comprends pas ce que c'était.<end>
+
+=>q18_original
+::The mayor laughs.:: Oh, $(#he/she) has a great sense of humor, am I right? Thank you $(context.player.Name), and thank you all for coming here today!<end>
+
+=>q18
+::Le maire rit.:: $(#il/elle) a un grand sens de l'humour, n'est-ce pas ? Merci $(context.player.Name), et merci à tous d'être venus ici aujourd'hui!<end>
+
+=>a19_original
+I did all the hard work! Just so you people know.<end>
+
+=>a19
+J'ai fait tout le dur labeur ! Juste pour que vous le sachiez.<end>
+
+=>a20_original
+How can you people live in such a polluted place?<end>
+
+=>a20
+Comment pouvez-vous vivre dans un endroit aussi pollué ?<end>
+
+=>a21_original
+Some of you will die tomorrow. I guarantee it. But don't be afraid, it won't be painful for most.<end>
+
+=>a21
+Certains d'entre vous vont mourir demain. Je le garantis. Mais n'ayez pas peur, ce ne sera pas douloureux pour la plupart.<end>
+
+=>q22_original
+Um, yes, that will be all for today. Thank you all for coming!<end>
+
+=>q22
+Oui, ce sera tout pour aujourd'hui. Merci à tous d'être venus !<end>
+
+=>a23_original
+You people should all burn in hell!<end>
+
+=>a23
+Vous devriez tous brûler en enfer !<end>
+
+=>a24_original
+You should elect a different mayor next time. This one is an idiot.<end>
+
+=>a24
+Tu devrais élire un autre maire la prochaine fois. C'est un idiot.<end>
+
+=>a25_original
+::Remain silent.::<end>
+
+=>a25
+::Restez silencieux.::<end>
+
+=>q26_original
+Speechless! ::He laughs.:: Thank you $(context.player.Name), and thank you all for coming here today!<end>
+
+=>q26
+Sans voix ! ::Il rit.:: Merci $(context.player.Name), et merci à tous d'être venus ici aujourd'hui!<end>
+
+=>q27_original
+::A pair of frowning eyes track you as you make your approach. Before you is a thin, short man wearing a well-made leather vest with finely polished shoulder pads cast out of metal, and his coal-black gloves, leather boots and pants seem to be of the same high quality. He addresses you with a tone of voice appropriate to his displeased expression.::
+
+What is the meaning of this? Who are you? Actually, it doesn't really matter anyway. We're busy, so if you could please leave us to our discussion, we would really appreciate it.<end>
+
+=>q27
+::Une paire d'yeux fronçants vous suit au fur et à mesure de votre approche. Avant d'être mince, un homme court portant un gilet en cuir bien fait avec des bandoulières finement polies en métal, et ses gants noir charbon, bottes en cuir et pantalons semblent être de la même qualité. Il vous adresse avec un ton de voix approprié à son expression déplaisante.::
+
+Qu'est-ce que cela signifie ? Qui êtes-vous ? En fait, ça n'a pas vraiment d'importance. Nous sommes occupés, donc si vous pouviez nous laisser à notre discussion, nous apprécierions vraiment.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I apologize for disturbing you, but I need to ask you a couple of questions. Are you the mayor of this place?<end>
+
+=>a29
+Désolé de vous déranger, mais je dois vous poser quelques questions. Vous êtes le maire de cet endroit ?<end>
+
+=>q30_original
+::He briefly exchanges looks with the man standing next to him.:: Yes, I see where this is headed. Fine. I'm Martin Marshall, and you're right - I am the mayor of Foundry. The gentlemen next to me is Chief Dalton Banner of the Foundry Guard.<end>
+
+=>q30
+::Il échange brièvement avec l'homme qui se tient à côté de lui.:: Oui, je vois où ça va. Très bien. Je suis Martin Marshall, et vous avez raison, je suis le maire de Foundry. Les messieurs à côté de moi sont le chef Dalton Banner de la Garde Foundry.<end>
+
+=>q31_original
+::The chief's appearance is quite the opposite of the mayor's, as he is both taller and wider-shouldered, and his mere presence you felt the instant you entered the room. Yet despite his imposing image his calm and collected behavior is in contrast to the mayor's so far feverish temperament. 
+
+Thus, the chief politely nods after having been introduced.::<end>
+
+=>q31
+::L'apparence du chef est tout à fait l'opposé de celle du maire, car il est à la fois plus grand et plus large, et sa simple présence vous avez senti l'instant où vous êtes entré dans la pièce. Pourtant, malgré son image imposante, son comportement calme et recueilli contraste avec le tempérament si fébrile du maire.
+
+Ainsi, le chef hoche poliment après avoir été présenté.::<end>
+
+=>q32_original
+Well, then, who are you?<end>
+
+=>q32
+Alors, qui êtes-vous ?<end>
+
+=>a33_original
+I'm $(context.player.Name). Pleased to meet you both.<end>
+
+=>a33
+Je suis $(context.player.Name). Ravi de vous rencontrer.<end>
+
+=>q34_original
+$(context.player.Name). That's well and good indeed. Now that we're properly introduced, unless you have something of utmost importance to tell us, I'm going to have to ask you to leave.<end>
+
+=>q34
+$(context.player.Name). C'est bien. Maintenant que nous sommes bien présentés, à moins que vous ayez quelque chose de très important à nous dire, je vais devoir vous demander de partir.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+About the mine creatures...<end>
+
+=>a36
+A propos de mes créatures...<end>
+
+=>q37_original
+Yes? Got any useful information?<end>
+
+=>q37
+Oui ? Vous avez des informations utiles ?<end>
+
+=>q38_original
+<end>
+
+=>q38
+<end>
+
+=>a39_original
+I've learned more about the Beast and how to defeat it.<end>
+
+=>a39
+J'en ai appris plus sur la Bête et comment la vaincre.<end>
+
+=>q40_original
+Oh? I'm all ears.<end>
+
+=>q40
+Oh? Je suis tout ouïe.<end>
+
+=>a41_original
+The creature is highly resistant to both mechanical forces as well as high temperatures. From what I've learned, our best way to defeat it is to use *extreme* heat. Temperature of over two and a half thousand degrees centigrade should be enough to melt its shell and kill the creature.<end>
+
+=>a41
+La créature est très résistante aux deux forces mécaniques ainsi qu'aux températures élevées. D'après ce que j'ai appris, notre meilleure façon de le vaincre est d'utiliser la chaleur *extreme*. La température de plus de deux mille degrés et demi centigrade devrait être suffisante pour faire fondre sa coquille et tuer la créature.<end>
+
+=>q42_original
+Heat? Oh, I know what you're trying to say! You want to lure the creature inside the metalworks and try to kill it with molten metal. Is that correct?<end>
+
+=>q42
+La chaleur ? Je sais ce que vous essayez de dire ! Vous voulez attirer la créature à l'intérieur de la métallurgie et essayer de la tuer avec du métal fondu. Est-ce exact ?<end>
+
+=>a43_original
+What about the large smelting furnace near the mine? I was thinking of perhaps using it to kill the Beast.<end>
+
+=>a43
+Et le grand four à fusion près de la mine ? Je pensais peut-être l'utiliser pour tuer la Bête.<end>
+
+=>q44_original
+That piece of junk? Please, that thing's been causing us more harm than good lately. It's been drawing power like a train-load of coil spiders, and even caused a blackout in half of Foundry. Just recently it completely broke down, and we won't bother fixing it for now, if ever.<end>
+
+=>q44
+Cette merde ? Cette chose nous a fait plus de mal que de bien ces derniers temps. Il a été de dessiner la puissance comme un train-charge d'araignées de bobines, et a même causé un blackout dans la moitié de Foundry. Tout récemment, il s'est complètement effondré, et nous n'allons pas le réparer pour le moment, si jamais.<end>
+
+=>q45_original
+Forget about that piece of junk and do *not* listen to Bernard. Don't.<end>
+
+=>q45
+Oublie cette merde et n'écoute pas Bernard. Arrête.<end>
+
+=>q46_original
+Luring the Beast into Foundry would be a high-risk operation. The creature could go on a rampage if let into Foundry, not to mention that the smaller creatures will most likely follow it.<end>
+
+=>q46
+Faire entrer la Bête dans Foundry serait une opération à haut risque. La créature pourrait aller sur un rampage si laissé dans Foundry, sans mentionner que les petites créatures le suivront très probablement.<end>
+
+=>q47_original
+Yes. Yes. That is what I was about to say. *And*, even if you can somehow lure it in, none of the working furnaces can produce temperatures of that magnitude, besides the smaller ones we use for melting chromium, but those are simply too small.<end>
+
+=>q47
+Oui. Oui. C'est ce que j'allais dire. *Et*, même si vous pouvez l'attirer en quelque sorte, aucun des fours de travail ne peut produire des températures de cette magnitude, en plus des plus petites que nous utilisons pour fondre le chrome, mais celles-ci sont tout simplement trop petites.<end>
+
+=>q48_original
+::The mayor takes a deep breath and regains his calm.:: Look, I'm, we are really thankful for your help. Really. But the plan you're proposing is just too risky; we need another way.<end>
+
+=>q48
+::Le maire respire profondément et retrouve son calme.:: Écoute, je suis, nous sommes vraiment reconnaissants pour ton aide. Vraiment. Mais le plan que vous proposez est trop risqué; nous avons besoin d'un autre moyen.<end>
+
+=>q49_original
+<end>
+
+=>q49
+<end>
+
+=>a50_original
+I was thinking of perhaps using that large smelting furnace near the mine to kill the Beast. I even have a way to lure it there.<end>
+
+=>a50
+Je pensais peut-être utiliser ce grand four à fusion près de la mine pour tuer la Bête. J'ai même un moyen de l'attirer là.<end>
+
+=>a51_original
+And I even have a way to lure it there.<end>
+
+=>a51
+Et j'ai même un moyen de l'attirer.<end>
+
+=>q52_original
+That would be a high-risk operation. The creature could go on a rampage if let into Foundry, not to mention that the smaller creatures will most likely follow it.<end>
+
+=>q52
+Ce serait une opération à haut risque. La créature pourrait aller sur un rampage si laissé dans Foundry, sans mentionner que les petites créatures le suivront très probablement.<end>
+
+=>a53_original
+Maybe we can even make it fall into one of the canals. Even if that does not outright kill it, we could pour more metal over it.<end>
+
+=>a53
+Peut-être qu'on peut le faire tomber dans l'un des canaux. Même si ça ne le tue pas, on pourrait verser plus de métal dessus.<end>
+
+=>a54_original
+Yes!<end>
+
+=>a54
+Oui !<end>
+
+=>a55_original
+Not yet.<end>
+
+=>a55
+Pas encore.<end>
+
+=>q56_original
+Then stop wasting my time.<end>
+
+=>q56
+Alors arrête de perdre mon temps.<end>
+
+=>a57_original
+I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
+
+=>a57
+J'ai récemment découvert que les commisions Institute of Tchort Foundry pour leur faire des figurines métalliques.<end>
+
+=>q58_original
+Institute of *Tchort*? You mean just the Institute? In which case yes, we do get commissioned for such work. In fact, we manufacture all manner of things for different parties, and the Upper Underrail Institute is one of them.<end>
+
+=>q58
+Institut de *Tchort*? Juste l'Institut ? Dans ce cas, oui, nous sommes mis en service pour ce travail. En fait, nous fabriquons toutes sortes de choses pour différentes parties, et l'Institut Upper Underrail en fait partie.<end>
+
+=>a59_original
+What do you know of this Institute?<end>
+
+=>a59
+Que savez-vous de cet institut ?<end>
+
+=>q60_original
+Not much, to be honest. I do know that they make their payments on time, and that is all I'm concerned about.<end>
+
+=>q60
+Pas beaucoup, pour être honnête. Je sais qu'ils font leurs paiements à temps, et c'est tout ce qui m'inquiète.<end>
+
+=>a61_original
+I had other questions.<end>
+
+=>a61
+J'avais d'autres questions.<end>
+
+=>q62_original
+::He says nothing.::<end>
+
+=>q62
+::Il ne dit rien.::<end>
+
+=>q63_original
+That's none of your business.<end>
+
+=>q63
+Ça ne te regarde pas.<end>
+
+=>q64_original
+Is there anything *important* you wanted to talk to me about?<end>
+
+=>q64
+Tu voulais me parler de quelque chose d'important ?<end>
+
+=>a65_original
+What about the large smelting furnace near the mine? I was thinking of perhaps using it to kill the Beast.<end>
+
+=>a65
+Et le grand four à fusion près de la mine ? Je pensais peut-être l'utiliser pour tuer la Bête.<end>
+
+=>q66_original
+That piece of junk? Please, that thing's been causing us more harm than good lately. It's been drawing power like a train-load of coil spiders, and even caused a blackout in half of Foundry. Just recently it completely broke down, and we won't bother fixing it for now, if ever.<end>
+
+=>q66
+Cette merde ? Cette chose nous a fait plus de mal que de bien ces derniers temps. Il a été de dessiner la puissance comme un train-charge d'araignées de bobines, et a même causé un blackout dans la moitié de Foundry. Tout récemment, il s'est complètement effondré, et nous n'allons pas le réparer pour le moment, si jamais.<end>
+
+=>q67_original
+Forget about that piece of junk and do *not* listen to Bernard. Don't.<end>
+
+=>q67
+Oublie cette merde et n'écoute pas Bernard. Arrête.<end>
+
+=>a68_original
+I heard you have problems with some mine creatures. Is there anything I can do to help?<end>
+
+=>a68
+J'ai entendu dire que vous aviez des problèmes avec certaines de mes créatures. Je peux vous aider ?<end>
+
+=>q69_original
+Yes... Chief told me you are someone who can be trusted. As far as I understood, you were of great assistance in some important matters. Well and good. If you really are so keen on helping us, $(context.player.Name), then why not give you a chance. You do have... energy.<end>
+
+=>q69
+Oui... Le chef m'a dit que vous étiez quelqu'un à qui on peut faire confiance. D'après ce que j'ai compris, vous avez été d'une grande aide pour certaines questions importantes. Bien et bien. Si vous êtes vraiment désireux de nous aider, $(context.player.Name), alors pourquoi ne pas vous donner une chance. Vous avez... de l'énergie.<end>
+
+=>q70_original
+Alright: As you know, unless you've been living in the most remote cave known... unknown to humanity, Foundry is the largest exporter of iron in Lower Underrail. What's even better is that our mine is rich not just with iron, but aluminum, titanium and, as of recently - chromium. We discovered large amounts of it several months ago, in the form of chromite ore.<end>
+
+=>q70
+Très bien. Comme vous le savez, à moins d'avoir vécu dans la grotte la plus éloignée connue de l'humanité, Foundry est le plus grand exportateur de fer dans Lower Underrail. Ce qui est encore mieux, c'est que notre mine est riche non seulement en fer, mais en aluminium, en titane et, comme récemment - le chrome. Nous en avons découvert de grandes quantités il y a plusieurs mois, sous forme de minerai de chromite.<end>
+
+=>q71_original
+Needless to say, as soon as we discovered it, our miners began following the chromite veins. And so, a few weeks ago they mined into a new cavern - and encountered the very creatures you mentioned.<end>
+
+=>q71
+Inutile de dire que, dès que nous l'avons découvert, nos mineurs ont commencé à suivre les veines de chromite. Et donc, il y a quelques semaines, ils ont miné dans une nouvelle caverne - et ont rencontré les créatures mêmes que vous avez mentionnées.<end>
+
+=>q72_original
+What they saw there was unlike anything we have ever seen or even heard of before. These beings had shells made of rock, with metallic blades protruding from their backs. Yes, you heard me right. Shells made of *rock*. The creatures were aggressive and we had to bring in the Foundry Guard to deal with them. Now, those creatures, while resilient, were still no match for our brave troops. The true problem revealed itself when the guards encountered... the Beast.<end>
+
+=>q72
+Ce qu'ils ont vu, c'était différent de tout ce que nous avons déjà vu ou entendu. Ces êtres avaient des coquillages en pierre, avec des lames métalliques qui s'écartaient du dos. Oui, vous m'avez bien entendu. Coques en pierre*. Les créatures étaient agressives et nous avons dû amener la Garde Foundry pour les traiter. Ces créatures, tout en étant résistantes, n'étaient toujours pas à la hauteur de nos braves troupes. Le vrai problème s'est révélé quand les gardes ont rencontré... la Bête.<end>
+
+=>a73_original
+The Beast?<end>
+
+=>a73
+La Bête ?<end>
+
+=>q74_original
+Yes. That thing may look like its smaller siblings, but it is in fact a four-legged boulder - a huge monster which stopped the Foundry Guard dead in its tracks. Meanwhile, it is unstoppable, and the guardsmen tried nearly everything: They shot it, burned it, threw grenades at it. Nothing! It's hard rock.<end>
+
+=>q74
+Oui. Cette chose peut ressembler à ses frères et sœurs plus petits, mais c'est en fait un rocher à quatre pattes - un énorme monstre qui a arrêté la Garde Foundry morte dans ses traces. Pendant ce temps, il est inarrêtable, et les gardes ont essayé presque tout: Ils l'ont tiré, brûlé, lancé des grenades dessus. Rien ! C'est dur.<end>
+
+=>q75_original
+Most of the men sent to clear the mine are now dead, and I've had no other options but to order the closing of the mine. This problem will be hurting Foundry *really* fast if we don't find a way to deal with those things. We have days, a week at most, before we run out of ore supplies, after which all production will stop.<end>
+
+=>q75
+La plupart des hommes envoyés pour nettoyer la mine sont morts, et je n'ai eu d'autre choix que d'ordonner la fermeture de la mine. Ce problème blessera Foundry *vraiment* rapidement si nous ne trouvons pas un moyen de gérer ces choses. Nous avons des jours, une semaine au plus, avant de manquer de minerai, après quoi toute la production s'arrêtera.<end>
+
+=>a76_original
+What can I do to help?<end>
+
+=>a76
+Que puis-je faire pour aider ?<end>
+
+=>q77_original
+We need a solution to this problem, and we would appreciate it if you can help us find one. At one point we considered using explosives to collapse the tunnel and seal them off, but our mining supervisor advised us against it. What's worse, even though things have been a bit quieter in the mines for a few days now, the rock creatures are emerging from the mines and attacking our citizens.<end>
+
+=>q77
+Nous avons besoin d'une solution à ce problème, et nous apprécierions que vous nous aidiez à en trouver un. À un moment donné, nous avons envisagé l'utilisation d'explosifs pour écrouler le tunnel et le fermer, mais notre superviseur minier nous a conseillé de s'y opposer. Pire, même si les choses sont un peu plus calmes dans les mines depuis quelques jours, les créatures rocheuses sortent des mines et attaquent nos citoyens.<end>
+
+=>q78_original
+Although, some of the deaths we thought were caused by the rock creatures were actually murders you helped Chief Banner solve. All entrances to the mine are heavily guarded, so we were baffled to have learned that some people have gone missing.<end>
+
+=>q78
+Bien que certains des décès que nous pensions causés par les créatures rocheuses soient en fait des meurtres que vous avez aidé le chef Banner à résoudre. Toutes les entrées de la mine sont fortement gardées, donc nous avons été déconcertés d'apprendre que certaines personnes ont disparu.<end>
+
+=>q79_original
+Mind if I interrupt you for a second, sir?<end>
+
+=>q79
+Je peux vous interrompre une seconde ?<end>
+
+=>q80_original
+Not at all, Chief, not at all. I was almost done anyway. Go ahead.<end>
+
+=>q80
+Pas du tout, chef, pas du tout. J'avais presque fini de toute façon. Allez-y.<end>
+
+=>q81_original
+As you see, young $(#man/lady), this is a problem which could, if left unsolved, mean the end of Foundry. The mine does not only feed the mouths of these people here, but also secures their protection. Do you think the Foundry Guard operates solely on good will?<end>
+
+=>q81
+Comme vous le voyez, jeune $(#man/lady), c'est un problème qui pourrait, s'il n'est pas résolu, signifier la fin de Foundry. La mine ne nourrit pas seulement la bouche de ces gens ici, mais assure également leur protection. Pensez-vous que la Foundry Guard fonctionne uniquement sur la bonne volonté ?<end>
+
+=>q82_original
+If you really want to help us, my suggestion is that you first speak with the only survivor from the unit that was tasked with clearing the mine; he knows more about the creatures than any one of us. His name is Saban Mulov, and you can find him at the mine entrance with the other guards. That is just to the east of metalworks.<end>
+
+=>q82
+Si vous voulez vraiment nous aider, ma suggestion est que vous parlez d'abord avec le seul survivant de l'unité qui a été chargé de nettoyer la mine; il en sait plus sur les créatures que nous tous. Son nom est Saban Mulov, et vous pouvez le trouver à l'entrée de la mine avec les autres gardes. C'est à l'est de la métallurgie.<end>
+
+=>a83_original
+Why didn't you relieve him of duty? I think he deserves some rest after what he's been through.<end>
+
+=>a83
+Pourquoi ne l'as-tu pas relevé de ses fonctions ? Je pense qu'il mérite un peu de repos après ce qu'il a vécu.<end>
+
+=>q84_original
+I discussed that with him, but he was adamant about staying in service; he asked to be posted right at the mine entrance. The first line of defense...
+
+Brave man, no doubt, and a fine example to other guardsmen.<end>
+
+=>q84
+J'en ai parlé avec lui, mais il était catégorique à propos de rester en service; il a demandé à être posté à l'entrée de la mine. La première ligne de défense...
+
+Un homme courageux, sans aucun doute, et un bel exemple pour les autres gardiens.<end>
+
+=>a85_original
+Got it. Is that all?<end>
+
+=>a85
+Compris. C'est tout ?<end>
+
+=>q86_original
+Nearly. You might also want to speak to Marcos Banti. He is our mining supervisor; you'll also find him at the mine entrance. He did advise us against collapsing that part of the mine with explosives, but talk to him again. Perhaps you could work out some solution to the problem. 
+
+I believe we've gone through everything.<end>
+
+=>q86
+Presque. Vous devriez aussi parler à Marcos Banti. Il est notre superviseur minier, vous le trouverez aussi à l'entrée de la mine. Il nous a conseillé de ne pas écraser cette partie de la mine avec des explosifs, mais de lui parler à nouveau. Vous pourriez peut-être trouver une solution au problème.
+
+Je crois qu'on a tout traversé.<end>
+
+=>q87_original
+<end>
+
+=>q87
+<end>
+
+=>a88_original
+I'm on the job.<end>
+
+=>a88
+Je travaille.<end>
+
+=>q89_original
+Well and good. Go now and report to us once you have something.<end>
+
+=>q89
+Bien et bien. Allez nous rapporter une fois que vous avez quelque chose.<end>
+
+=>a90_original
+And what do I get for doing all this?<end>
+
+=>a90
+Et qu'est-ce que j'ai pour faire tout ça ?<end>
+
+=>q91_original
+If you can help us deal with this problem, you'll be generously rewarded.<end>
+
+=>q91
+Si vous pouvez nous aider à résoudre ce problème, vous serez généreusement récompensé.<end>
+
+=>q92_original
+There's just one more thing: You might also want to speak to Marcos Banti. He is our mining supervisor; you'll also find him at the mine entrance. He did advise us against collapsing that part of the mine with explosives, but talk to him again. Perhaps you could work out some solution to the problem. 
+
+I believe we've went through everything.<end>
+
+=>q92
+Encore une chose : Vous devriez aussi parler à Marcos Banti. Il est notre superviseur minier, vous le trouverez aussi à l'entrée de la mine. Il nous a conseillé de ne pas écraser cette partie de la mine avec des explosifs, mais de lui parler à nouveau. Vous pourriez peut-être trouver une solution au problème.
+
+Je crois qu'on a tout traversé.<end>
+
+=>q93_original
+Even though all entrances to the mine are heavily guarded, some people have still gone missing.<end>
+
+=>q93
+Même si toutes les entrées de la mine sont fortement gardées, certaines personnes ont encore disparu.<end>
+
+=>a94_original
+Why not just use lots of explosives and call it a day?<end>
+
+=>a94
+Pourquoi ne pas juste utiliser beaucoup d'explosifs et l'appeler un jour ?<end>
+
+=>q95_original
+At one point we *did* consider using explosives to collapse the tunnel and seal them off, but our mining supervisor advised us against it. What's worse, even though things have been a bit quieter in the mines for a few days now, the rock creatures are emerging from the mines and attacking people.<end>
+
+=>q95
+À un moment donné, nous avons envisagé d'utiliser des explosifs pour écrouler le tunnel et les sceller, mais notre superviseur minier nous a conseillé de nous y opposer. Pire, même si les choses sont un peu plus calmes dans les mines depuis quelques jours, les créatures rocheuses émergent des mines et attaquent les gens.<end>
+
+=>a96_original
+Yes, I may have heard about it.<end>
+
+=>a96
+Oui, j'en ai peut-être entendu parler.<end>
+
+=>q97_original
+So the rumors are spreading, I see. Yes. That thing may look like its smaller siblings, but it is in fact a four-legged boulder, a huge monster which stopped the Foundry Guard dead in our tracks. Meanwhile, it is unstoppable, and the guardsmen tried nearly everything: They shot it, burned it, used grenades. Nothing! It's hard rock.<end>
+
+=>q97
+Les rumeurs se répandent, je vois. Oui. Cette chose peut ressembler à ses frères et sœurs plus petits, mais c'est en fait un rocher à quatre pattes, un énorme monstre qui a arrêté la Garde Foundry morte dans nos traces. Pendant ce temps, il est inarrêtable, et les gardes ont essayé presque tout: Ils ont tiré, brûlé, utilisé des grenades. Rien ! C'est dur.<end>
+
+=>a98_original
+I encountered that creature already: I went inside the mine on my own.<end>
+
+=>a98
+J'ai déjà rencontré cette créature : je suis entrée seule dans la mine.<end>
+
+=>q99_original
+You... you what? You absolute madman! Who let you-- But, but why would you do something as dangerous as that?<end>
+
+=>q99
+Quoi ? Espèce de fou ! Qui t'a laissé... Mais pourquoi faire quelque chose d'aussi dangereux que ça ?<end>
+
+=>a100_original
+I got lost.<end>
+
+=>a100
+Je me suis perdu.<end>
+
+=>q101_original
+You wanted to kill it and become a hero, to be celebrated as the sole savior of Foundry! Correct? Ah, so that's why you then came to me and asked if we needed help: You had failed. The Beast is not dead.<end>
+
+=>q101
+Vous vouliez le tuer et devenir un héros, à célébrer comme le seul sauveur de Foundry ! C'est exact ? C'est pour ça que tu es venu me voir et tu as demandé si on avait besoin d'aide. Vous aviez échoué. La Bête n'est pas morte.<end>
+
+=>a102_original
+No, it isn't.<end>
+
+=>a102
+Non, ça ne l'est pas.<end>
+
+=>q103_original
+::He shakes his head.:: Well, at least you made it out alive, but that creature is unstoppable. The Foundry Guard already tried nearly everything: The guardsmen shot it, burned it, used grenades. Nothing! It's hard rock, as you probably noticed for yourself.<end>
+
+=>q103
+::Il secoue la tête.:: Au moins tu l'as fait vivre, mais cette créature est inarrêtable. La Garde Foundry a déjà tout essayé : Les gardiens l'ont tiré, brûlé, utilisé des grenades. Rien ! C'est dur, comme vous l'avez probablement remarqué pour vous-même.<end>
+
+=>a104_original
+I wanted to take it on the Beast all by myself.<end>
+
+=>a104
+Je voulais la prendre toute seule.<end>
+
+=>q105_original
+And? Is it dead?<end>
+
+=>q105
+Et alors ? Il est mort ?<end>
+
+=>a106_original
+It's what I do, generally.<end>
+
+=>a106
+C'est ce que je fais, en général.<end>
+
+=>q107_original
+You wanted to kill it and become a hero, to be celebrated as the sole savior of Foundry! Correct? Ah, so that's why you then came to me and asked if we needed help: You had failed. The Beast is not dead.<end>
+
+=>q107
+Vous vouliez le tuer et devenir un héros, à célébrer comme le seul sauveur de Foundry ! C'est exact ? C'est pour ça que tu es venu me voir et tu as demandé si on avait besoin d'aide. Vous aviez échoué. La Bête n'est pas morte.<end>
+
+=>q108_original
+Needless to say, as soon as we discovered it, our miners began following the chromite veins. Several weeks ago they mined into a new cavern - and encountered these creatures...<end>
+
+=>q108
+Inutile de dire que, dès que nous l'avons découvert, nos mineurs ont commencé à suivre les veines de chromite. Il y a plusieurs semaines, ils se sont retrouvés dans une nouvelle caverne...<end>
+
+=>q109_original
+I'm sure you did. But please, let me tell you something: Foundry is one of the richest and best defended stations in Lower Underrail. We have so many well-trained and well-armed men and women to take on anyone who tries to disturb us. Why would we need *your* help?<end>
+
+=>q109
+J'en suis sûr. Mais s'il vous plaît, laissez-moi vous dire quelque chose : Foundry est l'une des stations les plus riches et les mieux défendues de Lower Underrail. Nous avons tant d'hommes et de femmes bien entraînés et bien armés à prendre ceux qui essaient de nous déranger. Pourquoi aurions-nous besoin de votre aide ?<end>
+
+=>q110_original
+<end>
+
+=>q110
+<end>
+
+=>a111_original
+I am the invictus.<end>
+
+=>a111
+Je suis l'invictus.<end>
+
+=>q112_original
+What?<end>
+
+=>q112
+Quoi?<end>
+
+=>a113_original
+Arena, do you watch it?<end>
+
+=>a113
+Arena, tu la regardes ?<end>
+
+=>q114_original
+Not since Carnifex began slaughtering everything. It got predictable. Besides, *you* an invictus? Please.<end>
+
+=>q114
+Pas depuis que Carnifex a commencé à tout massacrer. Ça a été prévisible. De plus, tu es un invictus ? S'il vous plaît.<end>
+
+=>a115_original
+Well, I come from South Gate Station, and I've helped them deal with a number of difficult problems in the past. It's what I do.<end>
+
+=>a115
+Je viens de South Gate Station, et je les ai aidés à résoudre un certain nombre de problèmes difficiles dans le passé. C'est ce que je fais.<end>
+
+=>q116_original
+That's what you say. You do realize I can't exactly trust any random person that walks into my office, do you?<end>
+
+=>q116
+C'est ce que tu dis. Tu réalises que je ne peux faire confiance à personne qui entre dans mon bureau ?<end>
+
+=>q117_original
+I'm sorry, but if you really want to gain my trust, you're going to have to do much better than simply be a Southgater who thinks he's better than everyone.<end>
+
+=>q117
+Je suis désolé, mais si vous voulez vraiment gagner ma confiance, vous allez devoir faire beaucoup mieux que simplement être un Southgater qui pense qu'il est meilleur que tout le monde.<end>
+
+=>a118_original
+::[Persuade]:: Maybe you people are not as tough as you think. If you were, you would've had this problem taken care of by now. And maybe I'm the $(#man/woman) that can do just that for you. I offered my help: You want it - good, you don't - your loss!<end>
+
+=>a118
+::[Persuader]:: Peut-être que vous n'êtes pas aussi durs que vous le pensez. Si tu l'étais, tu aurais déjà eu ce problème à régler. Et peut-être que je suis le $(#man/woman) qui peut faire ça pour toi. J'ai offert mon aide: Vous le voulez - bon, vous ne le faites pas - votre perte!<end>
+
+=>q119_original
+::After carefully listening to you, he responds in an unexpectedly calm manner.:: If you really are so keen on helping us, $(context.player.Name), then why not give you a chance. You do have... energy.<end>
+
+=>q119
+::Après vous avoir écouté attentivement, il répond de manière inattendue et calme.:: Si vous êtes vraiment désireux de nous aider, $(context.player.Name), alors pourquoi ne pas vous donner une chance. Vous avez... de l'énergie.<end>
+
+=>q120_original
+::He laughs.:: Not convinced. You really think you can deal with our problems. You? One $(#man/woman)?<end>
+
+=>q120
+::Il rit.:: Pas convaincu. Tu penses vraiment pouvoir gérer nos problèmes. Toi ? Un $(#man/woman) ?<end>
+
+=>q121_original
+Just find something else to do. Please.<end>
+
+=>q121
+Trouve autre chose à faire. S'il vous plaît.<end>
+
+=>a122_original
+Then you should have it all under control I suppose. Let's talk about something else.<end>
+
+=>a122
+Alors tu devrais tout contrôler. Parlons d'autre chose.<end>
+
+=>q123_original
+You really like wasting my time, do you?<end>
+
+=>q123
+Tu aimes vraiment perdre mon temps ?<end>
+
+=>a124_original
+One of your residents is being held captive by bandits close to Foundry, but the chief told me he can't help him because of your orders.<end>
+
+=>a124
+Un de vos résidents est détenu par des bandits proches de Foundry, mais le chef m'a dit qu'il ne pouvait pas l'aider à cause de vos ordres.<end>
+
+=>q125_original
+The Foundry Guard can guarantee protection only within Foundry. That was *my* order, yes.<end>
+
+=>q125
+La garde Foundry ne peut garantir la protection que dans le cadre de Foundry. C'était mon ordre, oui.<end>
+
+=>a126_original
+But why?<end>
+
+=>a126
+Mais pourquoi ?<end>
+
+=>q127_original
+I do not explain my decisions to anyone, understand? Now, what else did you want from me?<end>
+
+=>q127
+Je n'explique mes décisions à personne, compris ? Que vouliez-vous de moi ?<end>
+
+=>a128_original
+If he dies, it's your fault.<end>
+
+=>a128
+S'il meurt, c'est de ta faute.<end>
+
+=>q129_original
+I cannot be held responsible for deaths outside of Foundry. I will not explain my decisions to you, you understand? Now, what else did you want from me?<end>
+
+=>q129
+Je ne peux être tenu responsable des décès en dehors du Foundry. Je ne vous expliquerai pas mes décisions. Que vouliez-vous de moi ?<end>
+
+=>a130_original
+I've got something else to ask you.<end>
+
+=>a130
+J'ai autre chose à te demander.<end>
+
+=>q131_original
+::He says nothing.::<end>
+
+=>q131
+::Il ne dit rien.::<end>
+
+=>a132_original
+Fine. I have to go. Goodbye.<end>
+
+=>a132
+Très bien. Je dois y aller. Au revoir.<end>
+
+=>a133_original
+Do you need help with anything?<end>
+
+=>a133
+Vous avez besoin d'aide ?<end>
+
+=>q134_original
+Why do you ask me this? Why would I tell *you* anything?<end>
+
+=>q134
+Pourquoi tu me demandes ça ? Pourquoi je te dirais quelque chose ?<end>
+
+=>q135_original
+On the other hand, why am I even talking to you? Just leave us, please.<end>
+
+=>q135
+D'un autre côté, pourquoi je te parle ? Laissez-nous, s'il vous plaît.<end>
+
+=>a136_original
+What can you tell me about Foundry?<end>
+
+=>a136
+Que pouvez-vous me dire sur Foundry ?<end>
+
+=>q137_original
+I can tell you that we're strong and independent; I can tell you that many stations rely on our iron and our metalworking; I can tell you that even the mighty Underrail Protectorate is friable when compared to our Foundry Guard. Our enemies say that Foundry is polluted; I say their minds are polluted! They claim we don't care about the lives of our residents; I claim we gave them jobs, we gave them safety from bandits and raiders, and above all - we gave them life.<end>
+
+=>q137
+Je peux vous dire que nous sommes forts et indépendants; je peux vous dire que beaucoup de stations comptent sur notre fer et notre travail des métaux; je peux vous dire que même le puissant Underrail Protectorate est friable par rapport à notre Foundry Guard. Nos ennemis disent que Foundry est pollué ; je dis que leurs esprits sont pollués ! Ils prétendent que nous ne nous soucions pas de la vie de nos résidents; je prétends que nous leur avons donné des emplois, nous leur avons donné la sécurité des bandits et des raideurs, et surtout - nous leur avons donné la vie.<end>
+
+=>q138_original
+We care for our fellow Foundrymen more than any other station.<end>
+
+=>q138
+Nous prenons soin de nos compagnons Foundrymen plus que toute autre station.<end>
+
+=>q139_original
+I don't have time for this.<end>
+
+=>q139
+Je n'ai pas le temps pour ça.<end>
+
+=>a140_original
+Nothing at the moment. Goodbye.<end>
+
+=>a140
+Rien pour le moment. Au revoir.<end>
+
+=>a141_original
+$(context.player.Name)'s the name.<end>
+
+=>a141
+$(context.player.Name) est le nom.<end>
+
+=>a142_original
+Yo, you run this place? Got a few questions for ya.<end>
+
+=>a142
+Yo, vous dirigez cet endroit ? J'ai quelques questions pour vous.<end>
+
+=>q143_original
+::He briefly exchanges looks with the man standing next to him.:: I see where this is headed. Yes, *yo*, I "run" this "place." Martin Marshall, the mayor of Foundry. The gentlemen next to me is Chief Dalton Banner of the Foundry Guard.<end>
+
+=>q143
+::Il échange brièvement avec l'homme qui se tient à côté de lui.:: Je vois où ça va. Oui, *yo*, je cours ici. Martin Marshall, le maire de Foundry. Les messieurs à côté de moi sont le chef Dalton Banner de la Garde Foundry.<end>
+
+=>a144_original
+I won't bother you then.<end>
+
+=>a144
+Je ne vous dérangerai pas.<end>
+
+=>q145_original
+::He simply turns away from you.::<end>
+
+=>q145
+::Il se détourne de toi.::<end>
+
+=>q146_original
+You again?<end>
+
+=>q146
+Encore toi ?<end>
+
+=>q147_original
+What is it now?<end>
+
+=>q147
+Qu'est-ce qu'il y a ?<end>
+

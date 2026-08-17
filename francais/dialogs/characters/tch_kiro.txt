@@ -1,0 +1,276 @@
+=>q1_original
+We are not surviving this.<end>
+
+=>q1
+Nous ne survivons pas à cela.<end>
+
+=>q2_original
+::This thin man seems uninterested in you at first glance, as his facial expression doesn't change at all when he notices you trying to start a conversation - and his body language doesn't differ. What you also find peculiar is the fact that he almost never breaks eye contact, but maintains it during the whole conversation. Luckily, he blinks in regular intervals, or else the mechanical stare would seem even more awkward. Also, it comes as no surprise that his tone of voice is as flat as his excitement for the conversation he is engaged in.::
+
+Tchort is evolution. I am Investigator Kiro. Who are you?<end>
+
+=>q2
+::Cet homme mince ne semble pas intéressé par vous à première vue, car son expression faciale ne change pas du tout lorsqu'il remarque que vous essayez d'entamer une conversation - et son langage corporel ne diffère pas. Ce que vous trouvez également étrange, c'est le fait qu'il ne rompt presque jamais le contact visuel, mais qu'il le maintient tout au long de la conversation. Heureusement, il cligne des yeux à intervalles réguliers, sinon le regard mécanique semblerait encore plus gênant. De plus, il n’est pas surprenant que le ton de sa voix soit aussi plat que son enthousiasme pour la conversation dans laquelle il est engagé.::
+
+Tchort est une évolution. Je suis l'enquêteur Kiro. Qui es-tu?<end>
+
+=>a3_original
+Evolution is Tchort, brother. I am $(context.player.Name) and I wanted to ask you a few questions.<end>
+
+=>a3
+L'évolution est Tchort, frère. Je m'appelle $(context.player.Name) et je voulais vous poser quelques questions.<end>
+
+=>q4_original
+No problem at all, $(#brother/sister). What is on your mind?<end>
+
+=>q4
+Aucun problème, $(#brother/sister). Qu'avez-vous en tête ?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::[Mechanics]:: Do you happen to have any spare super steel sheets that aren't going to be used in the particle accelerator? I might need them for... constructing certain things.<end>
+
+=>a6
+::[Mechanics]:: Avez-vous des tôles de super acier de rechange qui ne seront pas utilisées dans l'accélérateur de particules ? Je pourrais en avoir besoin pour... construire certaines choses.<end>
+
+=>q7_original
+Super steel components for the particle accelerator are costly and take time to manufacture to our apex standards. Since the production is limited and demand great, I cannot spare a single one of those, $(#brother/sister).<end>
+
+=>q7
+Les composants en super acier pour l'accélérateur de particules sont coûteux et prennent du temps à fabriquer selon nos normes suprêmes. Comme la production est limitée et la demande importante, je ne peux pas en épargner un seul, $(#brother/sister).<end>
+
+=>q8_original
+However, sheets are sometimes replaced after a certain number of particular experiments. They degrade in quality and are no longer suitable for testing. We either recycle them or repurpose them.
+
+These I can spare. You may take a look at them if you wish.<end>
+
+=>q8
+Toutefois, les tôles sont parfois remplacées après un certain nombre d'expérimentations particulières. Leur qualité se dégrade et ne conviennent plus aux tests. Soit nous les recyclons, soit nous les réutilisons.
+
+Je peux les épargner. Vous pouvez y jeter un oeil si vous le souhaitez.<end>
+
+=>a9_original
+::Barter.::<end>
+
+=>a9
+::Troc.::<end>
+
+=>a10_original
+Principal Investigator Schteff told me I could purchase high-tech stuff from you.<end>
+
+=>a10
+L'enquêteur principal Schteff m'a dit que je pouvais vous acheter des produits de haute technologie.<end>
+
+=>q11_original
+Of course, $(#brother/sister). Please wait a moment and I will show you what is available.<end>
+
+=>q11
+Bien sûr, $(#brother/sister). Veuillez patienter un moment et je vais vous montrer ce qui est disponible.<end>
+
+=>a12_original
+I would like to purchase something.<end>
+
+=>a12
+Je voudrais acheter quelque chose.<end>
+
+=>a13_original
+I am in need of some high-tech gadgetry and components. I guess this would be the right place to ask...<end>
+
+=>a13
+J'ai besoin de gadgets et de composants de haute technologie. Je suppose que ce serait le bon endroit pour demander...<end>
+
+=>q14_original
+There are components and devices that I may be able to offer you for purchase, but I must have PI Schteff's permission before I can actually do so. You can go ask him.<end>
+
+=>q14
+Il existe des composants et des appareils que je peux vous proposer à l'achat, mais je dois avoir l'autorisation de PI Schteff avant de pouvoir le faire. Tu peux aller lui demander.<end>
+
+=>a15_original
+Okay, just tell me where can I find him?<end>
+
+=>a15
+D'accord, dis-moi juste où puis-je le trouver ?<end>
+
+=>q16_original
+His office is the one with double doors, just by the resonant transformer. Hard to miss it, $(#brother/sister).<end>
+
+=>q16
+Son bureau est celui à double porte, juste à côté du transformateur résonant. Difficile de le rater, $(#brother/sister).<end>
+
+=>a17_original
+I'll ask him that, but I had other questions first.<end>
+
+=>a17
+Je vais lui poser cette question, mais j'avais d'abord d'autres questions.<end>
+
+=>q18_original
+Of course, $(#brother/sister).<end>
+
+=>q18
+Bien sûr, $(#brother/sister).<end>
+
+=>a19_original
+I'll go ask him then. Will be right back.<end>
+
+=>a19
+Je vais lui demander alors. Je reviendrai tout de suite.<end>
+
+=>a20_original
+Can you tell me who's in charge here?<end>
+
+=>a20
+Pouvez-vous me dire qui commande ici ?<end>
+
+=>q21_original
+That would be Principal Investigator Schteff; he runs the Department of Physics. He should be in his office in case you need him.<end>
+
+=>q21
+Ce serait l'enquêteur principal Schteff ; il dirige le Département de physique. Il devrait être dans son bureau au cas où vous auriez besoin de lui.<end>
+
+=>q22_original
+Anything else on your mind, $(#brother/sister)?<end>
+
+=>q22
+Avez-vous autre chose en tête, $(#brother/sister) ?<end>
+
+=>a23_original
+What's that machine you're working on?<end>
+
+=>a23
+Quelle est cette machine sur laquelle vous travaillez ?<end>
+
+=>q24_original
+This is our particle accelerator.<end>
+
+=>q24
+C'est notre accélérateur de particules.<end>
+
+=>a25_original
+::[Electronics]:: What accelerates the particles? Electromagnetic fields?<end>
+
+=>a25
+::[Electronics]:: Qu'est-ce qui accélère les particules ? Des champs électromagnétiques ?<end>
+
+=>q26_original
+Precisely, $(#brother/sister). <end>
+
+=>q26
+Précisément, $(#brother/sister). <end>
+
+=>q27_original
+What you see before you is only one part of the machine - the rest is a five-hundred-meter-long circular *track* looping through the Institute building. This allows us to propel particles around until they reach sufficient speed, and then we steer them, guide them - like Tchort guides us - with superconducting magnets.<end>
+
+=>q27
+Ce que vous voyez devant vous n'est qu'une partie de la machine - le reste est une *piste* circulaire de cinq cents mètres de long qui traverse le bâtiment de l'Institut. Cela nous permet de propulser les particules jusqu'à ce qu'elles atteignent une vitesse suffisante, puis de les diriger, de les guider - comme nous guide Tchort - avec des aimants supraconducteurs.<end>
+
+=>q28_original
+The particles form beams, and then we can collide them or aim them at fixed targets.<end>
+
+=>q28
+Les particules forment des faisceaux, puis nous pouvons les entrer en collision ou les diriger vers des cibles fixes.<end>
+
+=>a29_original
+By Tchort!<end>
+
+=>a29
+Par Tchort !<end>
+
+=>q30_original
+Apex, is it not?<end>
+
+=>q30
+Apex, n'est-ce pas ?<end>
+
+=>a31_original
+What do you learn from all of this?<end>
+
+=>a31
+Qu’apprenez-vous de tout cela ?<end>
+
+=>q32_original
+We can study how the particles react during collision, what kind of radiation gets released - we can observe the effects it has on materials and tissue. It can be used for many things. Currently we use it to simulate Surface radiation, or what we hypothesize it could be like. 
+
+Or, we will be using it after the replacement super steel sheets are installed inside the track.<end>
+
+=>q32
+Nous pouvons étudier comment les particules réagissent lors d'une collision, quel type de rayonnement est libéré et observer ses effets sur les matériaux et les tissus. Il peut être utilisé pour beaucoup de choses. Actuellement, nous l'utilisons pour simuler le rayonnement de surface, ou ce que nous supposons qu'il pourrait être. 
+
+Ou bien, nous l’utiliserons une fois que les super tôles d’acier de remplacement auront été installées à l’intérieur de la voie.<end>
+
+=>q33_original
+We are fortunate to have inherited it from the original engineers of this building. We can maintain it - but constructing one today would be nigh impossible.<end>
+
+=>q33
+Nous avons la chance de l'avoir hérité des ingénieurs originaux de ce bâtiment. Nous pouvons le maintenir, mais en construire un aujourd’hui serait quasiment impossible.<end>
+
+=>a34_original
+What do you use it for?<end>
+
+=>a34
+À quoi sert-il ?<end>
+
+=>q35_original
+Experiments, $(#brother/sister). <end>
+
+=>q35
+Expériences, $(#brother/sister). <end>
+
+=>a36_original
+What's that?<end>
+
+=>a36
+Qu'est ce que c'est?<end>
+
+=>a37_original
+Tchort guide you.<end>
+
+=>a37
+Tchort vous guide.<end>
+
+=>q38_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q38
+Tchort vous guide, $(#brother/sister).<end>
+
+=>a39_original
+Goodbye, Kiro.<end>
+
+=>a39
+Au revoir, Kiro.<end>
+
+=>a40_original
+Hello, my name is $(context.player.Name) and I was wondering if you could answer a few questions for me.<end>
+
+=>a40
+Bonjour, je m'appelle $(context.player.Name) et je me demandais si vous pouviez répondre à quelques questions pour moi.<end>
+
+=>q41_original
+I do have the time, $(#brother/sister). What is on your mind?<end>
+
+=>q41
+J'ai le temps, $(#brother/sister). Qu'avez-vous en tête ?<end>
+
+=>a42_original
+Hey there, Kiro. $(context.player.Name) is the name I go by, and I had a couple of questions if I that's okay with you.<end>
+
+=>a42
+Salut, Kiro. $(context.player.Name) est mon nom et j'avais quelques questions si cela vous convient.<end>
+
+=>q43_original
+These constant tremors are really distracting.<end>
+
+=>q43
+Ces tremblements constants sont vraiment gênants.<end>
+
+=>q44_original
+What is on your mind, $(#brother/sister)?<end>
+
+=>q44
+Qu'est-ce qui te préoccupe, $(#brother/sister) ?<end>
+

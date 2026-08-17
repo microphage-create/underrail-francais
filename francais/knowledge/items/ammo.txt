@@ -1,0 +1,146 @@
+::ReloadCurrentWeapon
+Recharger l'arme actuelle avec des {0}.
+
+::ReloadWeapon
+Recharger une arme avec des {0}.
+
+::LoadOne
+Charge une seule {0} dans une arme. Hors combat uniquement.
+
+::LoadOneCurrent
+Charge une seule {0} dans l'arme actuelle. Hors combat uniquement.
+
+::UnloadWeapon
+Décharger toutes les munitions de l'arme.
+
+::Caliber_5_W2C
+Ignore 30% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_5_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_762_W2C
+Ignore 30% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_762_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_86_W2C
+Ignore 35% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_86_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_9_W2C
+Ignore 35% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_9_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_44_W2C
+Ignore 40% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_44_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_127_W2C
+Ignore 45% de la résistance aux dégâts mécaniques de la cible et 65% de son seuil de dégâts mécaniques.
+
+::Caliber_127_JHP
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::Caliber_762_MS
+Les dégâts qui percent l'armure sont augmentés de 25% contre les cibles organiques.
+
+::Sledgehammer
+Ignore le seuil de dégâts mécaniques contre les cibles organiques.
+
+::Knife
+Subit 125% de la résistance et du seuil de dégâts mécaniques.
+
+::Dagger
+Subit 125% de la résistance et du seuil de dégâts mécaniques, mais les dégâts qui percent l'armure sont augmentés de 25% contre les cibles organiques.
+
+::Bolts
+Subit 125% de la résistance et du seuil de dégâts mécaniques.
+
+::Unarmed
+Subit 140% de la résistance et du seuil de dégâts mécaniques.
+
+::FistWeapon
+Subit 140% de la résistance et du seuil de dégâts mécaniques.
+
+::ThrowingKnife
+Subit 130% de la résistance et du seuil de dégâts mécaniques.
+
+::Spear
+Ignore 25% (multiplicatif) de la résistance aux dégâts mécaniques contre les cibles organiques.
+
+::Sword
+Subit 125% de la résistance et du seuil de dégâts mécaniques.
+
+::ObsidianSword
+Subit 150% de la résistance et du seuil de dégâts mécaniques, mais les dégâts mécaniques qui percent l'armure sont augmentés de 40% contre les cibles organiques.
+
+::ShotgunShell_6
+Chacun des 6 plombs inflige 15% des dégâts nominaux du fusil à pompe. Ignore 70% du seuil de dégâts mécaniques de la cible et 30% de sa résistance aux dégâts mécaniques.
+
+::ShotgunShell_12
+Chacun des 12 plombs inflige 9% des dégâts nominaux du fusil à pompe. Ignore 55% du seuil de dégâts mécaniques de la cible.
+
+::ShotgunShell_20
+Chacun des 20 plombs inflige 6% des dégâts nominaux du fusil à pompe. Ignore 40% du seuil de dégâts mécaniques de la cible.
+
+::ShotgunShell_3
+Chacun des 3 plombs inflige 25% des dégâts nominaux du fusil à pompe. Ignore 80% du seuil de dégâts mécaniques de la cible et 50% de sa résistance aux dégâts mécaniques. 50% de chances d'hébéter la cible, réduisant ses PA de 15 et ses PM de 30 pendant 1 tour. Si la cible est déjà hébétée, elle est étourdie à la place.
+
+::Vial_Acid_Rusting
+Dégâts contre véhicules et machines augmentés de 35%.
+
+::Grenade_25_Frag
+Inflige 25% des dégâts nominaux en chaleur ainsi que des dégâts de 3-7 éclats, chaque éclat infligeant 20% des dégâts nominaux en mécaniques, à toutes les cibles dans un rayon de 1.
+
+::Grenade_25_He
+Inflige 50% des dégâts nominaux en mécaniques et 50% en chaleur à toutes les cibles dans un rayon de 1. Ignore 40% de la résistance et du seuil de dégâts.
+
+::Grenade_25_Concussive
+Inflige 65% des dégâts nominaux en mécaniques à toutes les cibles dans un rayon de 1 et les hébète pendant 1 tour si les dégâts percent l'armure. Les cibles déjà hébétées ont 35% de chances d'être aussi étourdies.
+
+::Grenade_25_Incendiary
+Inflige 40% des dégâts nominaux en chaleur à toutes les cibles dans un rayon de 2. Quiconque subit ces dégâts a 50% de chances de prendre feu, subissant 150% supplémentaires des dégâts d'origine sur 3 tours. Le carburant de la grenade met le sol en feu. Les créatures dans le feu subissent des dégâts de chaleur égaux à 6%-15% de leurs PV max (plafond 16-40), plus 7-29 supplémentaires selon l'intensité du feu, tandis que celles qui traversent le feu subissent un tiers de ces dégâts par case.
+
+::Grenade_40_Frag
+Tous ceux pris dans le souffle subissent 25% des dégâts nominaux en chaleur ainsi que des dégâts de 3-7 éclats, chaque éclat infligeant 20% des dégâts nominaux en mécaniques. Les cibles plus proches de la détonation ont plus de chances de recevoir des éclats.
+
+::Grenade_40_He
+Inflige 50% des dégâts nominaux en mécaniques et 50% en chaleur à toutes les cibles dans un rayon de 2. Ignore 40% de la résistance et du seuil de dégâts.
+
+::Grenade_40_Thermobaric
+Inflige 50% des dégâts nominaux en mécaniques et 75% en chaleur à toutes les cibles dans un rayon de 3. Ignore 30% de la résistance et du seuil de dégâts.
+
+::Grenade_40_Cluster
+Inflige 15% des dégâts nominaux en mécaniques et 15% en chaleur dans un petit rayon à l'impact, puis lance 8 bombes plus petites dans un rayon de 4, chacune infligeant les mêmes dégâts dans le même petit rayon.
+
+::Rocket_84_He
+Inflige {0} dégâts nominaux en mécaniques et {1} en chaleur à toutes les cibles dans un rayon de {2}. Ignore {3} de la résistance et du seuil de dégâts.
+
+::Rocket_84_Wp
+Inflige {0} dégâts nominaux en mécaniques et {1} en chaleur à toutes les cibles dans un rayon de {2}, avec une chance d'enflammer tout ce qui est pris dans le souffle pour {3} supplémentaires des dégâts de chaleur initiaux sur les {4} prochains tours. Laisse aussi un nuage enfumé de phosphore blanc brûlant. Les créatures dans ce nuage subissent {5}-{6} dégâts de chaleur selon l'épaisseur. Traverser le nuage inflige 1/3 de ces dégâts par case.
+
+::Rocket_84_Kin
+Inflige {0} dégâts nominaux en mécaniques au premier ennemi touché sur sa trajectoire. Si la cible est à moins de {1} cases, les dégâts sont réduits de {2} par case d'écart. Si les dégâts ne sont pas entièrement absorbés, elle continue vers sa destination en frappant tout sur son passage. Les dégâts sont réduits de {3} à chaque impact (multiplicatif). Ignore {4} de la résistance et du seuil de dégâts.
+
+::Rocket_84_Cs
+Inflige {0} dégâts nominaux en mécaniques et {1} des dégâts nominaux en chaleur à toutes les cibles dans un rayon de {2}. Les cibles vivantes sont aussi déséquilibrées pendant {3} tours et ont {4} de chances d'être hébétées pendant {5} tours si elles ne résistent pas à l'effet.
+
+::Rocket_66_Incendiary
+Inflige {0} dégâts nominaux en chaleur à toutes les cibles dans un rayon de {1}, avec une chance d'enflammer tout ce qui est pris dans le souffle pour {2} supplémentaires des dégâts de chaleur initiaux sur les {3} prochains tours. Laisse aussi un feu rugissant. Les créatures dans le feu subissent des dégâts de chaleur égaux à 6%-15% de leurs PV max (plafond 16-40), plus 7-29 supplémentaires selon l'intensité, tandis que celles qui traversent le feu subissent un tiers de ces dégâts par case.
+
+::Rocket_40_Tandem
+Cette roquette provoque deux explosions. La première inflige {0} dégâts nominaux en mécaniques et {1} en chaleur à toutes les cibles dans un rayon de {2}.
+
+De plus, cette explosion réduit la résistance et le seuil de dégâts mécaniques et de chaleur de {4} pendant {5} pour toutes les cibles prises dans le souffle.
+
+La seconde explosion suit immédiatement et inflige {6} dégâts nominaux en mécaniques et {7} en chaleur à toutes les cibles dans un rayon de {8}.
+
+Les deux souffles ignorent {3} de la résistance et du seuil de dégâts.

@@ -1,0 +1,836 @@
+::dutycalls
+Parle au conseiller Tanner dans son bureau aux communs (niveau trois).
+
+::targetpractice
+Parle à Gorsky au stand de tir et fais une séance d'entraînement.
+
+::targetpracticeb
+Lance la séance au stand de tir, marque dix touches, termine la séance et fais ton rapport à Tanner.
+
+::targetpracticec
+Retourne voir Tanner et dis-lui que tu as fait de l'entraînement au tir.
+
+::getfluxcontroller
+Parle à Harold au niveau ingénierie pour savoir comment réactiver le générateur des avant-postes au nord.
+
+::retakingoldoutposts
+Réactive le générateur et reprends les avant-postes dans les tunnels de caves au nord. Il y en a cinq en tout ; il faut en activer au moins trois.
+
+::jonaswatch
+Trouve la montre d'Old Jonas dans les caves au nord de South Gate Station.
+
+::bretquestfortanner
+Accomplis les tâches que Bret te donne et retourne voir Tanner.
+
+::gorskyquestfortanner
+Accomplis les tâches que Gorsky te donne et retourne voir Tanner.
+
+::hopperroundupquest
+Capture trois sauteurs des caves pour Big Bret.
+
+::findnewton
+Un jeune nommé Newton a été envoyé par Big Bret attraper des sauteurs des caves à Mushroom Cove, mais il n'est pas revenu. Va voir ce qui le retient.
+
+::hungryeels
+Apporte de la viande crue à Mordre à Mushroom Cove.
+
+::thevault
+Trouve un moyen d'ouvrir la porte scellée du compound GMS.
+
+::drpasquale
+Parle à Pasquale au niveau médical.
+
+::talktobretforroundup
+Parle à Bret à l'agronomie à propos de son « hopper round up ».
+
+::talktogorskyatgms
+Va au compound GMS et parle à Gorsky (Essie, à la sortie Lower Underrail, peut t'indiquer le chemin).
+
+::quintonpsitask
+Tire sur un rathound avec le carreau que Quinton t'a donné et récupère un échantillon de tissu.
+
+::packagedelivery
+Récupère le colis dans les baraquements de la plateforme SGS près du tunnel et apporte-le à l'entrepôt au sud du compound GMS.
+
+::findrotor
+Va à Junkyard et cherche une carte de circuit de rotor de foreuse classe Armadillo (un marchand peut en avoir une ou savoir où en trouver).
+
+::talktoveraaboutdocs
+Parle à Vera au niveau administration des documents commerciaux à livrer à l'ambassade des United Stations à Junkyard.
+
+::delivertradingdocs
+Livre les documents commerciaux à l'ambassadeur des United Stations à Junkyard.
+
+::assistrailcrossing
+Tanner veut que tu découvres ce qui se passe à Rail Crossing et que tu les aides avec leur problème.
+
+::meetgorskyincore
+Retrouve Gorsky à Core City. Cherche-le au Hardcore City Bar.
+
+::findmissingmerchants
+Vera veut que tu découvres ce qui est arrivé aux marchands Terry et Lora Baker (on les a vus pour la dernière fois à Core City ; ils ont peut-être fait étape à Rail Crossing ensuite).
+
+::findcornell
+Cherche Cornell et son gang des Acid Hunters à Core City et fais ton rapport à Tanner.
+
+::findoutwhatfacelesswant
+Découvre ce que cherchent les Faceless.
+
+::bigbretcamphathor
+Big Bret t'a dit que SGS a perdu le contact avec Camp Hathor après le séisme. Il veut que tu y ailles voir ce qui se passe. C'est dans les caves à l'est de SGS.
+
+::haroldneedsbatteries
+Harold veut que tu inspectes une vieille usine de recyclage de batteries dans les caves, droit à l'est de SGS. Cherche des cellules nucléaires optoélectriques, du matos associé, des plans ou équivalent, et rapporte-lui ça.
+
+::haroldyouaresosmrat
+Tu as parlé batteries de très haut niveau avec Harold. Où as-tu appris tout ça ?
+
+::getcube
+Trouve le mystérieux Cube que cherchent les Faceless et rapporte-le à Tanner.
+
+::infiltratechurchoftchort
+Infiltre l'Institute of Tchort et piste le Cube volé.
+
+::returntosgs
+Retourne à South Gate Station et parle aux conseillers à propos de Tanner.
+
+::searchtannersroom
+Fouille la chambre de Tanner pour des indices. Parle à Ezra pour qu'il te l'ouvre.
+
+::gameover
+Parle à Vera ou prends le train vers North Underrail.
+
+::dun_wastewater_body
+En apprendre davantage sur ce qui a mené à la mort brutale de $(context.frag_dun_wasteWater_corpseGender) dont le corps gît dans la salle d'opération du niveau médical.
+
+::dun_wastewater_ring
+Tu as trouvé une bague gravée des initiales JR dans une usine de traitement des eaux abandonnée près de Junkyard. Quelqu'un pourrait en vouloir…
+
+::dun_lup-a_lucassent
+Parle à Harland de sa demande d'une tourelle auto supplémentaire et de plus de munitions. Accessible depuis la station de métro SGS, puis les under-passages.
+
+::dun_lup-a_harlandsquest
+Quelqu'un a démonté une des caméras d'under-passage de Harland ; il croit que c'est en préparation d'une attaque sur son poste. Enquête.
+
+::dun_lup-a_harlandwantsbot
+Harland veut que tu parles à Harold pour réparer un bot qui t'aidera à explorer la cave sombre près de son poste.
+
+::jy_luckyknife
+Récupère le couteau porte-bonheur de Kohlmeier dans son ancienne maison, à l'est du quartier résidentiel, et rapporte-le-lui dans les bas-fonds.
+
+::jy_savejenny
+Sauve la copine de Cliff dans les ruines au sud-ouest de Junkyard.
+
+::jy_petdelivery
+Glisse la progéniture cybernétique d'Abram dans les conduits d'aération de l'ambassade des United Stations à Junkyard.
+
+::jy_rescuemission
+Sauve Maura de la prison du Protectorate à Junkyard pour Abram (accès par un trou dans les caves au nord de la porte de Junkyard).
+
+::jy_garrenabramshowdown
+Aide Garren à vaincre Abram dans les caves à l'ouest de la porte de Junkyard (Garren doit survivre).
+
+::jy_groversplan
+Retrouve Grover et Treasa dans la ruelle derrière la cabane de Grover, au nord de la taverne, pour le règlement de comptes.
+
+::jy_fishing
+Prouve à Geezer Ford que tu sais pêcher. Il veut un de chaque : pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp et walking fish.
+
+::jy_groversdebt
+Trouve Grover dans sa cabane au nord de la taverne, à côté de la boutique de Len, et récupère sa dette envers le dockmaster Silas - ou sa tête.
+
+::jy_lostcargo
+Navigue avec le capitaine Broderick jusqu'à l'île où, selon lui, la cargaison perdue s'est échouée, et récupère-la pour le dockmaster Silas.
+
+::jy_findblaine
+Trouve Blaine et apprends s'il y a un autre accès au QG des Scrappers depuis Old Junkyard.
+
+::jy_getsupportforeels
+Obtiens l'aide de SGS ou des United Stations/Protectorate pour que les Black Eels abattent les Scrappers.
+
+::jy_rigthecavern
+Prends les charges explosives de Colton et place-les au plafond de la caverne sous la porte d'Old Junkyard ; accès par les conduits d'aération du niveau inférieur d'Old Junkyard.
+
+::jy_eelsattack
+Aide Silas et les Black Eels à prendre le QG des Scrappers.
+
+::jy_getkeycard
+Cherche un type nommé Elwood dans la maison de jeu de la ruelle, côté nord des bas-fonds, et récupère sa keycard d'une manière ou d'une autre ; apporte-la ensuite à Eddy à Depot B.
+
+::jy_elwoodbreakin
+Eddy de Depot B veut que tu utilises la keycard d'Elwood pour entrer chez lui, dans la ruelle au nord de la taverne, et cherches un objet étrange en forme de disque.
+
+::jy_findwormhole
+Eddy, le boss scrapper, veut que tu découvres comment les Black Eels se faufilent dans Old Junkyard.
+
+::rc_getridoffaceless
+Le capitaine Herve veut que tu te débarrasses des Faceless, d'une manière ou d'une autre.
+
+::rc_savebuzzer
+Le capitaine Herve veut que tu sauves Buzzer, qu'il croit retenu prisonnier dans sa boutique.
+
+::rc_findempdevice
+Récupère l'étrange appareil électronique dans l'entrepôt abandonné au sud de Rail Crossing et apporte-le à Myles. Suis la plateforme est le long des voies au sud de Rail Crossing, puis tourne à l'ouest dans la première zone clôturée.
+
+::rc_dudesbrew
+Dude a eu une vision bizarre où il t'a vu sortir un truc vraiment important d'un casier, dans un entrepôt à l'est de Rail Crossing. Il veut que tu lui apportes cet objet.
+
+::rc_thethief
+Quelqu'un pique les stocks médicaux dans le casier du docteur Boudreau. Essaie d'attraper le voleur sur le fait.
+
+::rc_trainheist
+Le capitaine Herve veut que tu l'aides à comprendre ce qui est arrivé au train du Protectorate censé apporter des provisions à Rail Crossing, mais jamais arrivé. Le train devait partir de South Railroad Outpost.
+
+::rc_checkwhentrainisarriving
+Le capitaine Herve s'impatiente pour l'arrivée des provisions récupérées. Il t'a demandé de retourner à South Railroad Outpost et d'apprendre quand elles partiront pour Rail Crossing.
+
+::ch_burrowereradication
+Des fouisseurs sont sortis de la mine abandonnée après le séisme et menacent Camp Hathor. Entre dans la mine et vois s'il y a un moyen de les arrêter.
+
+::ch_killrathoundking
+Un homme mystérieux qui se fait appeler le Rathound King pose des problèmes à Camp Hathor. On le décrit comme un adversaire fort et rusé, capable de contrôler les rathounds. Trouve-le, tue-le et apporte sa tête à Edgar.
+
+::ch_rathoundkingmakepeace
+Tu as convaincu le Rathound King de négocier avec Camp Hathor, mais il veut que tu sois le négociateur. Parle-lui et à Edgar et tente de conclure une trêve.
+
+::ch_rathoundkingsqueen
+Le Rathound King veut que tu enlèves Sarine, une chasseuse de Camp Hathor. Amène-la dans son repaire, qu'elle le veuille ou non.
+
+::trackernecklace
+Trouve la source du signal que le collier étrange est réglé pour pister.
+
+::trackernecklace2
+Parle à Arlene du collier étrange que tu as trouvé.
+
+::lux_miltonskey
+Un type seul dans les caves a besoin d'une clé de coffre que portaient deux hommes censés se trouver quelque part dans la zone. Trouve la clé et apporte-la-lui.
+
+::fo_tilldeathdouspartnicolas
+Nicolas veut que tu tues sa femme Olivia, mais seulement si ça ressemble à un accident du travail. Sinon, il ne paiera pas. Tu la trouveras dans un entrepôt d'explosifs près de l'entrée de la mine.
+
+::fo_tilldeathdouspartolivia
+Olivia veut que tu tues son mari Nicolas, mais seulement si ça ressemble à un accident du travail. Sinon, elle ne paiera pas. Tu le trouveras aux ateliers de métallurgie.
+
+::fo_killbalor
+Le chef Banner veut que tu tues Balor, le chef des Ironheads, et que tu lui apportes son œil cybernétique rouge. Il se trouve probablement dans le complexe d'entrepôts au sud de Foundry.
+
+::fo_evelynchase
+Evelyn Ingram veut ta peau. Trouve un moyen de t'échapper et préviens les autorités.
+
+::fo_evelynevidence
+Tu as des preuves qu'Evelyn Ingram est une meurtrière en série. Tu devrais la signaler aux autorités.
+
+::fo_facelessrecon
+Des Faceless dans les caves à l'ouest de Foundry veulent ton aide pour localiser un objet mystérieux qu'on leur a volé. Interroge les marchands de Foundry.
+
+::fo_reportmurderblack
+Tu as parlé au chef Banner de la possible situation de meurtre entre Olivia et Nicolas.
+
+::fo_mainquestpart1
+Trouve un moyen d'arrêter la grosse créature qui, avec ses plus petits congénères, menace Foundry. Commence par la mine : parle à Marcos, le superviseur minier, et à Saban, un garde qui a survécu à la rencontre avec la Bête.
+
+::fo_discoverpsimorphs
+En apprendre davantage sur les étranges créatures de la mine de Foundry.
+
+::fo_psimorphbiologist
+Tu auras besoin d'aide pour en savoir plus sur les créatures de la mine de Foundry. Trouve un biologiste expert et apporte-lui des échantillons, ou si possible les créatures elles-mêmes.
+
+::fo_bringlarvatoezra
+Apporte le foreur capturé à Ezra. Avec un peu de chance, il pourra t'en dire plus.
+
+::fo_bringbladelingpiecetoezra
+Ezra veut un échantillon d'un bladeling à analyser : morceau de carapace, lame dorsale, peu importe. Ensuite seulement il pourra te dire comment vaincre la Bête.
+
+::fo_fixthefurnace
+Répare le grand four de fusion de Foundry.
+
+::fo_loadthefurnace
+Il faut charger le four avant de t'en servir pour tuer la Bête. (Trouve 30 lames de chrome impur)
+
+::fo_mainquestpart2
+Trouve un autre moyen de tuer la Bête. Ou…
+
+::fo_chiefinvestigatefaceless
+Le chef Banner veut que tu enquêtes sur un petit groupe de Faceless repéré à l'ouest de Foundry. Découvre pourquoi ils sont là et fais ton rapport.
+
+::fo_improvesupersteel
+Bernard veut des données sur les techniques d'affinage de super acier pour que Foundry produise du super acier de meilleure qualité. Plus tu en apportes, meilleure sera la qualité.
+
+::cc_recovertunneler
+Gorsky veut que tu trouves un moyen de récupérer un tunneler coincé dans la Drop Zone, niveau intermédiaire de Core City.
+
+::cc_raidprotwarehouse
+Gorsky veut que tu trouves un moyen d'entrer dans l'entrepôt du Protectorate aux docks de Core City et de récupérer une cargaison d'émetteurs de bouclier énergétique. Sneaky pourrait avoir une piste pour rentrer.
+
+::cc_raidprotwarehouse_collectothershields
+Gorsky a besoin de dix boucliers énergétiques de haute qualité, n'importe quel type. Sa définition de haute qualité : valeur supérieure à deux cents charons ; en option, priorise ceux avec modulateurs haute fréquence. Une fois en main, range-les dans le casier au coin de la pièce.
+
+::cc_retakeoutpostforgorsky
+Aide Gorsky à attaquer le camp des Black Crawlers. Retrouve-le près du tunneler quand tu es prêt.
+
+::cc_ct_findraul
+Harlan veut que tu trouves Raul, un agent Coretech porté disparu. On l'a vu pour la dernière fois entrer dans les égouts de Core City.
+
+::cc_ct_findicpd
+Harlan t'a parlé d'un employé Coretech soupçonné d'avoir volé un appareil important, le fameux ICPD, dans un labo Coretech. Trouve-le, règle le problème et récupère l'appareil.
+
+::cc_ct_defendwarehouse
+Un entrepôt Coretech est attaqué. Vas-y et élimine l'opposition. L'entrepôt est juste à l'ouest de l'entrée principale de la ville.
+
+::cc_ct_acidhunters
+Les Acid Hunters ont tué Edmund Knight, fils d'Archibald Knight, chef de Praetorian Security. M. Simmons veut que tu tues Cornell et que tu lui apportes sa tête.
+
+::cc_ct_researchfacility
+M. Simmons veut que tu ailles dans une installation de recherche Coretech secrète et t'assures que l'artefact qui s'y trouve y reste. Derrière une porte verrouillée dans la section inférieure de la Drop Zone, près d'une sortie d'under-passages.
+
+::cc_ps_killdepacino
+Localise un groupe de mercenaires à Core City mené par Joe De Pacino. Élimine-le et fais ton rapport à Stratford.
+
+::cc_ps_sewerpower
+Le lieutenant Stratford veut que tu inspectes et répares un générateur tombé en panne dans les égouts. Forte probabilité que les Faceless soient impliqués : au moindre signe de leur présence, informe le lieutenant Stratford au plus vite.
+
+::cc_ps_clearwarehouse
+Un entrepôt de Core City a été attaqué par des mercenaires. Vas-y, élimine toute opposition et cherche des indices sur l'attaque.
+
+::cc_ps_acidhunters
+Archibald Knight veut que tu cherches les Acid Hunters et découvres si Cornell est bien le meurtrier de son fils Edmund. Si oui, tue-le et apporte sa tête à Knight.
+
+::cc_ps_researchfacility
+Le chef Knight veut que tu ailles dans l'installation de recherche cachée de Coretech, que tu apprennes tout ce que tu peux sur son contenu et s'il y a un lien avec les Faceless. Derrière une porte verrouillée dans la section inférieure de la Drop Zone, près d'une sortie d'under-passages.
+
+::cc_jkk_findbogdan
+Vivian veut que tu trouves un agent nommé Bogdan Stravohodnik, censé avoir déraillé et introuvable. Seul indice : on l'a vu pour la dernière fois au Hardcore City Bar.
+
+::cc_jkk_disablesecurity
+JKK a besoin de toi pour sauver des otages retenus dans un entrepôt de Core City. Il faut désactiver le système de sécurité pour que les agents JKK puissent donner l'assaut. Parle à Ola et suis ses instructions.
+
+::cc_jkk_acidhunters
+Gunnar Edstrom veut que tu trouves les Acid Hunters et leur parles de l'appareil et du meurtre d'Edmund Knight.
+
+::cc_jkk_helpvivianrepairs
+Escorte Vivian et protège-la pendant qu'elle répare un générateur dans une installation abandonnée.
+
+::cc_jkk_researchfacility
+Gunnar Edstrom veut que tu récupères un appareil autrefois aux mains des Acid Hunters, désormais en possession de Coretech. Il est dans une installation de recherche secrète Coretech, derrière une porte verrouillée dans la section inférieure de la Drop Zone, près d'une sortie d'under-passages.
+
+::cc_arenamessenger_jkk
+Un messager t'informe qu'Ola Halidorson de JKK veut te parler d'urgence. Va le voir dès que possible.
+
+::cc_arenamessenger_ct
+Un messager t'informe que Joseph Harlan de Coretech veut te parler d'urgence. Va le voir dès que possible.
+
+::cc_arenamessenger_ps
+Un messager t'informe que le lieutenant Stratford de Praetorian Security veut te parler d'urgence. Va le voir dès que possible.
+
+::cc_acidmessenger_jkk
+Un messager t'informe que Gunnar Edstrom veut te parler. Va le voir dans son bureau dès que possible.
+
+::cc_acidmessenger_ct
+Un messager t'informe que Rupert Simmons veut te parler. Va le voir dans son bureau dès que possible.
+
+::cc_acidmessenger_ps
+Un messager t'informe qu'Archibald Knight veut te parler. Va le voir dans son bureau dès que possible.
+
+::boughtelectrobench
+Tu as acheté un établi d'électronique à West à Foundry. Va à la Core City Housing Corporation pour le faire livrer chez toi.
+
+::boughtmechbench
+Tu as acheté un établi de mécanique à Travis à Rail Crossing. Va à la Core City Housing Corporation pour le faire livrer chez toi.
+
+::boughtchembench
+Tu as acheté un établi de chimie et biologie à Fixer à Junkyard. Va à la Core City Housing Corporation pour le faire livrer chez toi.
+
+::boughttailoringbench
+Tu as acheté un établi de couture à Fredd à Camp Hathor. Va à la Core City Housing Corporation pour le faire livrer chez toi.
+
+::cc_housing_jkk
+Parle à Ola Halidorson.
+
+::cc_housing_ct
+Parle à Joseph Harlan.
+
+::cc_housing_ps
+Parle au lieutenant Stratford.
+
+::cc_housing_morgan
+Un homme nommé Samuel Morgan t'attendra devant ta résidence, dans la section la plus à l'est du quartier résidentiel de Core City.
+
+::cc_corecityarena
+Bats tous tes adversaires dans l'Arena.
+
+::cc_startgauntlet
+Inscris-toi et termine le Gauntlet avec succès.
+
+::cc_forger_noname
+Trouve plus d'infos sur les combines louches menées via les téléphones d'urgence du métro.
+
+::cc_forger_name
+Cherche d'autres indices sur la trace d'un hacker connu sous le nom de Phreak.
+
+::cc_forgerfindhvcables
+Phreak veut que tu ailles dans les égouts, tout au nord-ouest, et trouves un levier menant à l'une de ses planques. Sur place, règle le compte des Acid Hunters et rapporte-lui ses câbles d'alimentation haute tension.
+
+::cc_forgertickettesting
+Phreak t'a donné ses tickets de métro contrefaits pour un essai. Prends au moins un train n'importe où, puis reviens lui faire ton rapport.
+
+::cc_forgerhvpenetratorassembly
+Phreak t'a chargé de trouver les deux composants restants pour assembler un appareil sur lequel il travaille. Les deux pièces sont dans le métro Upper Underrail, dans ses planques isolées. Branche l'Orange Box sur n'importe quelle cabine téléphonique d'urgence et trouve un moyen d'accéder à ses refuges cachés.
+
+::cc_forgeroverchargefacility
+Maintenant que le High Voltage Penetrator est assemblé, Phreak veut ton aide pour surcharger toute l'installation : active les chaudières de l'installation voisine, un niveau en dessous puis à l'est de l'endroit où se trouve Phreak. Ensuite, trouve une console à proximité pour encore plus surcharger le système.
+
+::cc_forgerdeadassemblehpv
+Récupère l'Orange Box et trouve les trois composants nécessaires pour assembler le High Voltage Penetrator : son cœur et son contrôleur quelque part dans le métro Upper Underrail, et les câbles d'alimentation haute tension dans les égouts de Core City. Assemble le tout sur le réseau électrique et allume-le.
+
+::cc_forgerdeadassemblehpvwoc
+Récupère l'Orange Box et trouve les deux composants restants pour assembler le High Voltage Penetrator. Interagis avec les téléphones d'urgence du métro Upper Underrail et récupère le cœur et le contrôleur de l'appareil. Assemble le tout sur le réseau électrique et allume-le.
+
+::cc_forgerdeadoverchargefacility
+Maintenant que le High Voltage Penetrator est assemblé et actif, trouve un moyen de surcharger encore davantage toute l'installation.
+
+::cc_meetabram
+Retrouve Abram à Core City.
+
+::wa_vlatkosmonitor
+Vlatko Talloski a besoin de faire réparer son moniteur 8460p pour regarder ArenaNow dans toute sa splendeur.
+
+::wa_findfoundrycell
+Jack veut que tu ailles à Foundry et localises une de leurs cellules. Là-bas, Everard te donnera une mission. La réponse à « Qui va là ? » est « The neophyte. »
+
+::wa_talktoohadxander
+Retrouve Ohad Xander à la gare Lower Underrail, à Core City.
+
+::wa_talktolenoxpierce
+Retrouve Lenox Pierce à South Gate Station.
+
+::wa_reporttojack
+Parle à Jack Quicksilver une fois les trois missions terminées.
+
+::wa_danielarda
+Ohad Xander soupçonne que Daniel Arda, un commerçant de passage à Core City, vend une fausse drogue d'amélioration de combat appelée Hercules. Il veut que tu exposes cette fraude à tout Core City une fois les preuves en main.
+
+::wa_foundryprison
+Todor Sallywatch, un des hommes d'Everard, a été pris sur une scène de meurtre et est détenu dans la prison de Foundry. Il faut le libérer avant qu'il ne parle de la cellule. Sinon, trouve un autre moyen de le faire taire.
+
+::wa_deathinsgs
+Patrick Pierce, un mécanicien de SGS, a été trouvé mort dans sa chambre il y a quelque temps. Cause inconnue, mais Lenox, le frère de Pat, n'est pas content de la réponse de SGS et veut que tu enquêtes pour savoir comment Pat est mort.
+
+::wa_meetazif
+Va dans les caves sous le Lower Underrail et cherche Azif dans un endroit appelé le « Hanging Rat ».
+
+::wa_oldmannosek
+Localise l'ancien chercheur Biocorp Wit Nosek, mort ou vif, et découvre ce qu'il a trouvé en travaillant sur le projet « The Ark ».
+
+::fd_killenvoy
+Un émissaire du Protectorate avec escorte visite Rail Crossing. Attends-les à la gare et assassine l'émissaire. Ensuite, fais ton rapport à la dame mystérieuse près de l'entrée sud de Junkyard.
+
+::fd_lurkerescape
+Inspecte le campement Lurker à l'est de la base Free Drones. Cherche les captifs et sauve-les s'ils sont encore en vie.
+
+::fd_findbase
+Trouve la base Free Drones dans les under-passages. Entre par l'accès près de Rail Crossing et, une fois à l'intérieur, va à l'ouest jusqu'à une porte avec interphone. Le code est « delectable ».
+
+::fd_getequipmentfromjunkyard
+Trouve la planque Free Drones à Junkyard et ramène du matos à la base des under-passages. Frappe lentement quatre fois à la porte ouest de la ruelle au nord du bar de Kareem.
+
+::fd_sabotageelevator
+Détruis l'ascenseur de troupes du Protectorate à Epione Lab, Upper Underrail. À l'est de Core City, entre celle-ci et Fort Apogee, accessible en suivant la ligne de métro bleue. Infiltre Epione Lab, place des charges C4 sur les piliers porteurs du labo et fais-les sauter.
+
+::fd_attacksro
+Retrouve ton escouade au sud de GMS puis mène l'assaut sur South Railroad Outpost. Une fois la base nettoyée des troupes ennemies, fais ton rapport à Trenton.
+
+::fd_revealspy
+Tu as révélé qu'Alvin Bate était un espion travaillant pour le Protectorate.
+
+::pr_speakwithathanas
+L'ambassadeur Athanas souhaite te parler de ton rôle dans la récupération du train détourné. Tu le trouveras dans son bureau à l'ambassade de Junkyard.
+
+::pr_speakwitholiver
+L'ambassadeur Athanas t'a dit de voir le consul Oliver à Fort Apogee, Upper Underrail, si tu veux rejoindre l'Underrail Protectorate.
+
+::pr_helpepionelab
+Le colonel Cathcart veut que tu ailles à Epione Lab dans l'Upper Underrail et parles au capitaine Blackwall, qui a les détails de la mission. Une fois Blackwall aidé, retourne voir le colonel Cathcart.
+
+::pr_investigatearoundepione
+Le capitaine Blackwall à Epione Lab veut que tu inspectes les environs et lui fasses ton rapport.
+
+::pr_hephaestuscrew
+Le colonel Cathcart t'a parlé d'une expédition du Protectorate sans nouvelles depuis le séisme. Trouve l'installation Hephaestus Research dans les caves du Lower Underrail et localise l'équipe disparue.
+
+::pr_getmutagen
+Le capitaine Mareth t'a envoyé trouver au moins deux bidons de mutagène destinés aux Free Drones. Il a mentionné une installation qui pourrait en avoir, sans en connaître l'emplacement exact, sinon qu'elle est dans le système de caves au nord de Rail Crossing.
+
+::pr_gasfreedrones
+Le capitaine Mareth t'a dit de trouver quelqu'un à Fort Apogee qui montera les bidons de mutagène pour relâcher le gaz avec un délai. Ensuite, trouve l'entrée des under-passages juste au sud de Rail Crossing et rejoins la CAU.
+
+::pr_renegadesoldiers
+Le consul Oliver t'a demandé de négocier avec une escouade renégate du Protectorate qui a quitté Fort Apogee pour des raisons inconnues. Les renégats sont menés par le sergent-chef Timothy Holloway, à la station Dolos Center, ouest de l'Upper Underrail. Fais ton rapport au consul une fois la situation réglée.
+
+::tch_findfigurine
+L'Efreitor Denzil veut que tu trouves une figurine manquante qu'il soupçonne volée par les Lunatics. Elle est en métal et représente un homme tendant les bras vers la surface.
+
+::tch_getinterviewd
+Attends l'arrivée du Praepostor pour ton entretien d'admission à l'Institute of Tchort.
+
+::tch_pr_clearlunatics
+Le Mediant Samuel t'a demandé d'aller à Utility Station 7, accessible par une brèche dans le mur des niveaux inférieurs de l'Institut. Une fois sur place, sécurise la zone puis retourne le voir.
+
+::tch_pr_findmissingefreitor
+Le Mediant Samuel veut que tu trouves une unité de combat de Preservation envoyée à l'aile ouest il y a environ cinq jours, sans retour ni contact. Trouve-les, ou ce qu'il en reste, et fais ton rapport.
+
+::tch_pr_killmateo
+Tue l'Efreitor Mateo et fais ton rapport au Mediant Samuel.
+
+::tch_pr_killmateoandbringhead
+Tue l'Efreitor Mateo et apporte sa tête au Mediant Samuel.
+
+::tch_pr_trackdownnevil
+Le Mediant Samuel veut que tu localises un rassophore nommé Nevil, disparu et introuvable dans l'Institute of Tchort. On l'a vu pour la dernière fois près de la bibliothèque d'Eidein.
+
+::tch_ch_testchemweapon
+Le chercheur principal Georgis a besoin de toi pour tester sur le terrain un pistolet chimique expérimental - le XAL-001. Utilise-le au combat jusqu'à être sûr qu'il n'y a pas de problème de conception, puis retourne le voir.
+
+::tch_ch_findresearchdata
+Le chercheur principal Georgis veut que tu ailles à Hecate Research Outpost et que tu récupères des données de recherche sur le design de protéines. L'installation est dans le Lower Underrail, pas très loin à l'est de Core City.
+
+::tch_ch_alcoholtesting
+Le chercheur principal Georgis a besoin d'un volontaire pour tester les boissons alcoolisées qu'il concocte. Ça demande de l'engagement, de la patience, un bon sens du goût et de l'odorat - et un estomac solide.
+
+::tch_gen_capturebeetle
+Psycho, un des spécimens NPS dangereux, s'est échappé de son enclos à l'Institute of Tchort. On te donne un pacificateur neural portable à utiliser sur la créature, mais seulement après l'avoir affaiblie et incapacitée. Si Psycho est tué par accident, les conséquences seront graves.
+
+::tch_gen_investigateforsakenisland
+La chercheuse principale Rista veut que tu ailles à Forsaken Island et tentes de trouver le soi-disant Behemoth, une grande créature potentiellement dangereuse qui peuplerait l'île. Si tu le trouves, essaie d'en ramener un échantillon de tissu ou équivalent.
+
+::tch_gen_findhealth
+La chercheuse principale Rista a besoin que tu ailles dans la cour de l'Institute of Tchort et vérifies si certains d'entre eux ont survécu à des maladies dangereuses, mortelles pour la plupart des gens.
+
+::tch_phy_locatepavel
+Un rassophore nommé Pavel a été envoyé à l'aile ouest de l'Institute of Tchort il y a deux jours pour planter un émetteur de rayons T pour le chercheur principal Schteff, et n'est pas revenu. Découvre ce qui lui est arrivé et ramène-le s'il est encore en vie.
+
+::tch_phy_planttrayfirst
+Le chercheur principal Schteff veut que tu déploies un émetteur de rayons T quelque part sur Harpocrates Station, juste sous le bâtiment de l'Institut. Il t'a aussi donné un comm pour lui parler. Trouve un emplacement où le signal de l'émetteur est le plus fort, déploie-le, puis retourne à l'Institut.
+
+::tch_phy_planttraysecond
+Le chercheur principal Schteff veut que tu déploies un autre émetteur de rayons T, cette fois à la station Upper Underrail de Core City. Trouve un endroit isolé où personne ne le trouvera et déploie-le.
+
+::tch_findsourceoftremors
+D'étranges secousses ébranlent l'Institute of Tchort. Peut-être faudrait-il en chercher la cause.
+
+::tch_learnfacelessinvasion
+Découvre pourquoi les Faceless sont apparus dans l'aile ouest.
+
+::tch_escapetheinstitute
+Fuis l'Institute of Tchort avant que les Faceless ne le submergent !
+
+::tch_talktolydia
+Son Éminence, l'Episkopos Lydia, te demande en audience dans son bureau au dernier étage de l'Institute of Tchort. Va la voir dès que tu peux.
+
+::tch_meeteidein
+Une rencontre avec Eidein a été arrangée pour toi. Va le voir dans son bureau au dernier étage de l'Institute of Tchort, derrière les doubles portes en face des escaliers menant du hall principal. Ne le fais pas attendre.
+
+::tch_joininvestigation
+Investigation, l'une des trois divisions de l'Institute of Tchort, a ses trois départements dans l'aile est de l'Institut. Chaque département a son chercheur principal : parle-lui si tu cherches du travail pour ce département.
+
+::tch_joinpreservation
+Parle au Mediant Samuel pour rejoindre Preservation, l'une des divisions de l'Institute of Tchort.
+
+::tch_hannavathosphore
+Va voir l'Efreitor Hanna pour ton uniforme de cérémonie.
+
+::dc_leavedeepcaverns
+Trouve une sortie de Deep Caverns
+
+::dc_tchortistrecon
+L'Harmost Stavros veut que tu fasses de la recon de la caverne Hollow Earth et des zones à l'est. Il soupçonne aussi que les Faceless ont installé une ou plusieurs bases d'opérations où ils retiennent peut-être des rassophores capturés au combat. Repère-les et aide tout rassophore que tu trouverais.
+
+::dc_tchortistcaptives
+L'Harmost Stavros veut que tu libères les rassophores captifs que tu as vus à la base Faceless. Sors-en autant que possible et fais ton rapport à Son Excellence.
+
+::dc_leosknife
+Leo veut que tu retrouves son couteau, perdu lors d'une rencontre avec une patrouille tchortiste il y a six-sept jours. L'affaire s'est passée à l'ouest du bloc d'entrepôts, pile à l'entrée de la « grande ville ».
+
+::dc_repairgate
+Pour réparer le mécanisme d'une des grandes portes de la zone, il te faudrait : un accumulateur hydro-pneumatique, un arbre de transmission de pompe hydraulique, trois bidons de fluide hydraulique, une vanne de commande de système hydraulique. Il te faudrait aussi des outils si tu fais le boulot toi-même, ou un bot de réparation.
+
+::dc_repairbot
+Il y a un bot de réparation hors service dans la salle du mécanisme d'une des portes de la zone. Si tu trouves le moyen de le réparer, il pourrait te servir.
+
+::dc_killtchort
+Détruis Tchort.
+
+::dc_getpastgate
+Trouve un moyen d'ouvrir la grande porte métallique menant à Tchort.
+
+::dc_removeentanglement
+Une étrange masse organique recouvre la grande porte menant à Tchort. Trouve un moyen de l'enlever.
+
+::cc_otto_findjeteater
+Trouve Otto le chasseur près de l'entrée de cave, section nord-ouest du Core City Ring. Il veut ton aide pour se débarrasser de ses cauchemars
+
+::cc_otto_killjeteater
+Otto veut ton aide pour surmonter son plus grand défi. Tue le Jet Eater et aide-le à en faire son trophée.
+
+::cc_matriussdevice
+Matriuss Ludenlof veut que tu récupères son appareil personnel de suivi d'actualités. Il se trouve dans un immeuble de bureaux dans la section nord du quartier résidentiel de Core City
+
+::xpbl_ojyc_kayainvestigation
+Ion du Rig veut que tu découvres ce qui est arrivé au groupe envoyé explorer une installation de voies d'eau abandonnée, récemment ouverte après le séisme. Il a dit de naviguer tout à l'ouest depuis le Rig et de chercher une ouverture dans les murs sud.
+
+::xpbl_ojyc_altkayainvestigation
+Ion est content d'apprendre le sort du groupe envoyé explorer une installation de voies d'eau abandonnée à l'ouest du Rig, récemment ouverte après le séisme.
+
+::dudesotherquest
+Dude a eu une autre vision…
+
+::dudecc
+Aide Dude à fouiller son ancien chez-lui à Core City.
+
+::dudeup
+Aide Dude à fouiller son ancien chez-lui dans l'Upper Underrail.
+
+::dudelux
+Aide Dude à fouiller son ancien chez-lui dans une cave du Lower Underrail.
+
+::dudeingredients
+Dude a besoin de deux bières de champignons, deux mesures de catalyseurs psioniques non saturés, deux de morphine et deux de gyromitrine pour préparer le Juice pour vous deux. Parle-lui quand tu es prêt à continuer.
+
+::dudeoil
+Dude a besoin que tu trouves n'importe quelle huile minérale dans cette base. C'est le seul moyen de revenir d'où vous venez.
+
+::bringdudetwentybrew
+Dude a besoin de vingt bouteilles de bière de champignons pour que vous prépariez vos esprits à ce qui vient.
+
+::dudesjuicedeal
+Cueillir champignons et plantes pour le Juice prend trop de temps. Trouve quelqu'un qui fournira à Dude tous les ingrédients nécessaires et préviens-le.
+
+::xpbl_hearddockexpedition
+Découvre ce qui se passe dans la section est des docks de Core City.
+
+::xpbl_knowdockexpedition
+Il y a du boulot dans la section est des docks de Core City. Apparemment une sorte d'expédition. Tu devrais en savoir plus.
+
+::xpbl_talkwithbriggs
+Parle au chef Briggs pour rejoindre l'expédition. Tu le trouveras aux docks est de Core City.
+
+::xpbl_proveyourworthtobriggs
+Le chef Briggs d'Aegis Incorporated ne te laissera pas rejoindre leur expédition vers la Black Sea tant que tu ne lui auras pas prouvé ta valeur. Vu son attitude, il faudra un exploit vraiment impressionnant.
+
+::xpbl_joinexpedition
+Le chef Briggs attend ta réponse pour rejoindre leur expédition vers la Black Sea.
+
+::xpbl_meetninja
+Un homme connu seulement sous le nom d'Aran veut te rencontrer au bar Dominating, dans le quartier résidentiel de Core City, niveau supérieur. On l'a décrit portant une cape noir et rouge et une épée inhabituelle.
+
+::xpbl_meetoldfield
+Parle au professeur Oldfield. Sa tente est au milieu du camp.
+
+::xpbl_defendtheisland
+Le camp est attaqué ! Suis Yahota jusqu'à la plage sud-est de l'île et défends ta position contre les envahisseurs. Retourne voir le professeur une fois la zone sécurisée.
+
+::xpbl_getgear
+Va voir Marcus pour récupérer ton équipement. Sa tente est juste en face de celle du professeur Oldfield.
+
+::xpbl_talktoseeger
+Le professeur Oldfield veut que tu parles à un certain Jeremy Seeger de données NFT qu'il a réussi à récupérer. Sa tente est juste à l'est de la tente médicale. Fais ton rapport au professeur ensuite.
+
+::xpbl_briggsbriefing
+Va voir le chef Briggs pour ton briefing. Sa tente est juste au nord de la cuisine.
+
+::xpbl_jenkins
+Va au dock du camp et parle au sec-trooper Jenkins pour obtenir un jet ski.
+
+::xpbl_investigatemuties
+On t'a assigné l'enquête sur le West Storage Depot, installation de stockage aux coordonnées B7, pour trouver une micropuce A-RFID fonctionnelle ; tout le personnel NFT en a une implantée, le plus souvent dans la main droite. Fais ton rapport au chef Briggs ou au professeur Oldfield une fois trouvée.
+
+::xpbl_rescuetheprofessor
+Le professeur Oldfield a été enlevé. Trouve-le et ramène-le au camp s'il est encore en vie.
+
+::xpbl_startoldfieldliberation
+Libère le professeur en négociant avec les pirates ou en infiltrant leur base. Il y a une patrouille aux coordonnées F4 pour la négociation. Quoi qu'il arrive, Aegis Incorporated est prête à intervenir.
+
+::xpbl_briggsprofessorkidnapping
+Parle au chef Briggs de l'enlèvement du professeur Oldfield.
+
+::xpbl_briggsfailedpirateattack
+Parle au chef Briggs de l'accrochage avec les pirates dans le Keep.
+
+::xpbl_professorprivatetalk
+Le professeur Oldfield veut te parler d'urgence. Retrouve-le au camp.
+
+::xpbl_investigatenexus
+Enquête sur Nexus of Technology, aux coordonnées K7. Fais ton rapport au professeur Oldfield.
+
+::xpbl_investigatehorticulture
+Enquête sur Crimson Meadow Horticulture Center, aux coordonnées H7. Fais ton rapport au professeur Oldfield.
+
+::xpbl_investigatemedical
+Enquête sur Lemurian Health Center, aux coordonnées I1. Fais ton rapport au professeur Oldfield.
+
+::xpbl_investigatecompound
+Enquête sur Joint Security Headquarters, aux coordonnées F12. Fais ton rapport au professeur Oldfield.
+
+::xpbl_investigateabyss
+Le professeur Oldfield veut que tu ailles à Abyssal Station Zero, dans la baie sud-est de la Black Sea. Une fois sur place - trouve l'Acorn.
+
+::xpbl_campdefenses
+Le camp subit des attaques persistantes et toute amélioration de ses défenses serait bienvenue. Marcus suggère d'apprendre et d'activer les systèmes de sécurité latents de l'île, ou de récupérer tout équipement utile.
+
+::xpbl_camp_mines
+Tu as découvert des mines navales fonctionnelles qui pourraient être déployées autour de l'île du camp. Il ne manque plus que quelqu'un pour les y amener.
+
+::xpbl_camp_naga
+Les statues trouvées dans et autour des installations NFT sont en fait des bots latents aux capacités de combat variables. Certains pourraient renforcer les défenses du camp.
+
+::xpbl_camp_turrets
+Tu as trouvé le moyen d'activer les tourelles de défense de l'Arch Keep.
+
+::grimmainquest
+Le capitaine Grim veut que tu découvres quels savoirs et quel butin se cachent dans les installations isolées de la Black Sea et que tu lui fasses ton rapport. Tu es livré à toi-même : reste sur tes gardes et cherche tout indice utile.
+
+::razorsalvation
+Razor veut que tu trouves un fusil de chasse unique de l'ancien monde, propriété d'un de ses potes pirates disparu dans le Fetid Marsh et présumé mort. Il te paiera le fusil si tu le lui apportes.
+
+::raidmerchantshipparty
+Un ferry marchand part de Core City vers Camp Hathor. Les Grim Jetters prévoient de l'intercepter dans le Dreadpool ; ton boulot est de sécuriser le butin, quitte à tuer tout le monde à bord. Fais ton rapport au capitaine Grim une fois le navire pillé.
+
+::raidmerchantshipalone
+Un ferry marchand part de Core City vers Camp Hathor. Tu t'es porté volontaire pour sécuriser le navire toi-même, quitte à tuer tout le monde à bord. Fais ton rapport au capitaine Grim une fois le navire pillé.
+
+::raidprotectorateship_seerazor
+Le capitaine Grim veut que tu parles à Razor. Tu le trouveras à Port Crag, juste au nord-est de Port Ceto.
+
+::raidprotectorateship_seegrim
+Retourne voir le capitaine Grim.
+
+::raidprotectorateship
+L'UPCCS Armstrong a presque fini son long voyage du North Underrail à Core City. Retrouve Razor dans une anse au centre-ouest du Core Ring, puis remonte au nord et pille le navire avant qu'il n'atteigne Port Zenith, de préférence en débarrassant le monde de tous ses marins. Fais ton rapport au capitaine Grim ensuite.
+
+::therigsonarparty
+Les Black Eels se servent d'un sonar avancé pour détecter et contrer les raids pirates, installé sur le Rig sous leur contrôle. Vas-y et renseigne-toi sur le Rig, ses défenses et l'emplacement exact du sonar. Retrouve ensuite l'équipe de Cruzer dans les ruines au centre-est du Core Ring, au nord d'un avant-poste du Protectorate, et poursuis le plan.
+
+::therigsonarpartyturrets
+Cruzer et son équipe attaqueront dès que les tourelles seront désactivées. Ne traîne pas trop : les gardes Black Eel pourraient se méfier et commencer à fouiner.
+
+::therigsonaralone
+Les Black Eels se servent d'une sorte de sonar avancé pour détecter et contrer les raids pirates, installé sur le Rig sous leur contrôle. Vas-y, trouve et détruis ce sonar, coûte que coûte. Fais ton rapport au capitaine Grim ensuite.
+
+::defendceto
+Aegis attaque Port Ceto ! Ils ont percé un des murs nord mais n'ont pas poussé plus loin dans le port. Sécurise la zone entre le Shop et la porte principale et retourne voir le capitaine Grim.
+
+::pir_takeoutaegispatrols
+Chasse les patrouilles en jet ski d'Aegis Incorporated et tue-les jusqu'à ce qu'il n'y ait plus de renforts. Fais ton rapport au capitaine Grim ensuite.
+
+::xpbl_expeditionwithoutyou
+Il y a une sorte d'expédition à la Black Sea, et on dirait que tu as raté le coche pour la rejoindre. Découvre ce qu'ils cherchent.
+
+::xpbl_expeditionfired
+Tu as été viré de l'expédition Black Sea. Rien ne t'empêche toutefois de continuer à découvrir les secrets de la Black Sea, engagé ou non.
+
+::xpbl_expeditionnomore
+L'expédition Black Sea n'existe plus. Rien ne t'empêche toutefois de continuer à découvrir les secrets de la Black Sea par toi-même.
+
+::xpbl_foundphilsarm_notjoined
+Tu as trouvé un vieux bras sectionné dont le gant cache quelque chose de solide au toucher, pile entre l'index et le pouce…
+
+::xpbl_foundfortcoordinates
+Tu as découvert les coordonnées de plusieurs autres installations sur une console à l'intérieur de l'Arch Keep.
+
+::xpbl_hc_removeroots
+Une porte au Crimson Meadow Horticulture Center bloque le passage. Il y a une console à côté, mais elle est recouverte de racines épaisses dont le retrait par le feu ou la force brute risquerait de l'endommager. Trouve un autre moyen de te débarrasser de cette végétation.
+
+::xpbl_foundhorticulturecoordinates
+Tu as découvert les coordonnées de plusieurs autres installations sur une console au Crimson Meadow Horticulture Center.
+
+::xpbl_foundnexusmicrochipencoder
+Tu as découvert un encodeur d'implant micropuce à Nexus of Technology. Peut-être pourras-tu t'en servir sur l'implant de Phil Bridges.
+
+::xpbl_mc_implanternote
+Tu as trouvé une unité d'implantation/extraction de micropuce au Lemurian Health Center. Vérifie si elle fonctionne encore.
+
+::xpbl_implantedchipinmedical
+Tu t'es implanté l'implant micropuce de Phil Bridges dans le bras au Lemurian Health Center. Vous êtes inséparables, pour l'instant.
+
+::xpbl_findacorn
+Tu as appris que quelque chose appelé l'Acorn (ACoNR) existerait quelque part en Lemuria. Tu ne sais pas exactement ce que ça fait ni à quoi ça ressemble, mais ça a l'air plutôt important…
+
+::xpbl_foundacorn
+Tu as trouvé l'Acorn - mais pas le moyen de l'ouvrir ou de l'utiliser. Tu peux le remettre à quelqu'un qui le saura peut-être… ou le garder pour toi.
+
+::xpbl_sc_getgearback
+Toutes tes affaires ont été transférées dans une salle de décontamination quelque part dans Joint Security Headquarters. Fouine et trouve un moyen de les récupérer. Ça ne doit pas être loin…
+
+::xpbl_sc_scanning
+Tu ne passes pas le contrôle d'authentification pendant la procédure de bioscan à Joint Security Headquarters. Il semble qu'il faille trouver un moyen de garder l'implant micropuce en retirant tes objets…
+
+::xpbl_as_unlockr&d
+La porte menant au dôme Recherche et Développement d'Abyssal Station Zero ne s'ouvre pas avec l'implant micropuce de Phil Bridges. Trouve un autre moyen, ou un autre implant.
+
+::xpbl_sawsubmarine
+Tu as localisé un sous-marin dans une des installations de la Black Sea. Il pourrait servir à explorer les profondeurs.
+
+::xpbl_investigatedsubmarine
+Le sous-marin découvert à Blistering Shores utilise le système d'amarrage automatisé Course pour guider le sub vers un quai d'installation. Pour que ça marche, il te faudrait des coordonnées d'amarrage et - vu les thrusters endommagés - un moyen de le remorquer jusqu'au site de plongée choisi.
+
+::xpbl_submarinedockingcoordinates
+Tu as obtenu les coordonnées géographiques bidimensionnelles d'Abyssal Station Zero (L2) ainsi que les coordonnées d'amarrage pour le système Course (020 476 118 263 2115).
+
+::xpbl_submarinedescentintoabyss
+Utilise le sous-marin pour descendre à Abyssal Station Zero.
+
+::xpbl_playermutated
+Tu es un mutant. Les souvenirs s'éloignent, la pensée ralentit, les émotions s'affolent… Trouve quelqu'un qui peut t'aider, si une telle personne existe.
+
+::xpbl_mutant_destroyedsewerobstacle
+L'obstacle des égouts est en ruines, mais pas sans prix. En même temps, quelque chose te tire… plus près.
+
+::xpbl_mutant_turnongeneratorforvitek
+Vitek veut que tu allumes le générateur principal de l'installation, dans la section utilitaire en bas. La console verte le contrôle, mais pour l'activer il faut d'abord allumer les quatre bleues.
+
+::xpbl_mutant_turnedongenerator
+Tu as rétabli le courant dans l'installation de Kharon.
+
+::xpbl_mutant_findvitek
+Trouve Vitek, le bon ami de Kharon.
+
+::xpbl_mutant_aidjuraj
+Trouve un moyen de rétablir le courant dans l'installation. Juraj a mentionné une salle de générateur dans la section ventilation, en dessous de toi.
+
+::xpbl_mutant_killkharon
+Rejoins Juraj et sa bande pour vaincre votre nouvel ennemi commun, Kharon.
+
+::xpbl_mutant_followkharon
+Suis Kharon jusqu'au refuge mutie.
+
+::xpbl_mutant_ending
+Tu as trouvé ton sanctuaire, le refuge mutie, au cœur de la Black Sea. Les souvenirs s'effacent ; il ne te reste qu'à espérer que la douleur et la souffrance suivront le même chemin.
+
+::xpbl_mutant_bringvitekssuit
+Vitek veut sa combi. Elle est dans le coffre, quelque part au fond du couloir.
+
+::xpbl_mutant_bringmanssuit
+L'homme dans la machine-citerne veut sa combi. Elle est dans le coffre, quelque part au fond du couloir.
+
+::xphw_heardaboutnimble
+Apparemment quelqu'un du nom de Nimble cherche à monter une équipe. Cherche-le dans l'Upper Underrail et vois de quoi il retourne.
+
+::xphw_tripnorth
+Tu as été engagé par Buck Nimble pour l'aider à trouver la route alternative tant convoitée vers North Underrail. Protège l'équipe et le wagon nommé Marjorie.
+
+::xphw_findwayback
+Ton voyage vers North Underrail s'est arrêté net. Il te faudra de l'aide pour rentrer à travers ce territoire sombre labyrinthique, et Marjorie est le meilleur point de départ pour chercher une solution.
+
+::xphw_studieddarkterritorymap
+Tu as étudié la carte du territoire sombre au nord de l'Upper Underrail.
+
+::xphw_investigateexobase
+Enquête sur The Compound.
+
+::xphw_voidbattle
+Aide le Cognator à vaincre les envahisseurs du vide.
+
+::xphw_gunslingerteamup
+Tu as fait équipe avec le Gunslinger. Aidez-vous mutuellement à survivre à cette épreuve.
+
+::xphw_meetgunslingerend
+Retrouve le Gunslinger à la station Core City dans l'Upper Underrail, près du stand de bouffe de Zilla.

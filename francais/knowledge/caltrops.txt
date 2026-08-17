@@ -1,0 +1,14 @@
+::Regular
+Pose des chausse-trapes dans la zone ciblée. Quiconque marche dessus subit {0} de dégâts et perd {1} PM (s'il n'a plus de PM, il perd des PA à la place). Marcher sur une chausse-trape ne peut pas porter le coup fatal.
+
+::BurrowerPoison
+Pose des chausse-trapes empoisonnées dans la zone ciblée. Quiconque marche dessus subit immédiatement {0} de dégâts, perd {1} PM (s'il n'a plus de PM, il perd des PA à la place) et est infecté par le poison de fouisseur, qui inflige {2} de dégâts chaque tour pendant {3}. Stacks {4} fois.
+
+::CaveEarPoison
+Pose des chausse-trapes empoisonnées dans la zone ciblée. Quiconque marche dessus subit immédiatement {0} de dégâts, perd {1} PM (s'il n'a plus de PM, il perd des PA à la place) et est infecté par le poison d'oreille des caves, qui augmente tous les dégâts biologiques subis de {2} % et réduit la perception de {3}. Dure jusqu'à {4}.
+
+::CrawlerPoison
+Pose des chausse-trapes empoisonnées dans la zone ciblée. Quiconque marche dessus subit immédiatement {0} de dégâts, perd {1} PM (s'il n'a plus de PM, il perd des PA à la place) et est infecté par le poison de crawler, qui inflige {2} de dégâts chaque tour pendant {3}. Si le poison n'est pas retiré avant expiration, la victime est stun pendant {4}.
+
+::BlindingPoison
+Pose des chausse-trapes empoisonnées dans la zone ciblée. Quiconque marche dessus subit immédiatement {0} de dégâts, perd {1} PM (s'il n'a plus de PM, il perd des PA à la place) et est infecté par le poison aveuglant, qui inflige {2} de dégâts chaque tour pendant {3} et réduit la perception de {4}. Stacks {5} fois.

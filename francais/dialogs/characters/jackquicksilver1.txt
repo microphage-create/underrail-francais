@@ -1,0 +1,744 @@
+=>q1_original
+I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
+
+=>q1
+J'ai été informé de votre refus d'accomplir les missions. Cela conclut notre coopération. Au revoir, $(context.player.Name).<end>
+
+=>q2_original
+Yeah?<end>
+
+=>q2
+Oui ?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you've got for trade. ::Barter.::<end>
+
+=>a4
+Montrez-moi ce que vous avez pour le commerce. ::Troc.::<end>
+
+=>a5_original
+I have done everything you asked. Now what?<end>
+
+=>a5
+J'ai fait tout ce que tu as demandé. Et maintenant ?<end>
+
+=>q6_original
+Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
+
+=>q6
+Maintenant... nous attendons. Je n'ai aucune mission disponible pour le moment. Je vous contacterai quand vous en aurez besoin.<end>
+
+=>a7_original
+All right, see you later then.<end>
+
+=>a7
+À tout à l'heure.<end>
+
+=>q8_original
+Sure. See you later...<end>
+
+=>q8
+Bien sûr. A tout à l'heure...<end>
+
+=>a9_original
+How will you contact me?<end>
+
+=>a9
+Comment allez-vous me contacter ?<end>
+
+=>q10_original
+You ask me a question like that after all you've been through? 
+
+See you around, $(context.player.Name).<end>
+
+=>q10
+Tu me poses une question comme ça après tout ce que tu as traversé ?
+
+A bientôt, $(context.player.Name).<end>
+
+=>a11_original
+I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
+
+=>a11
+J'ai frappé à travers un mur de roche avec mes poings nus dans le mien d'Hathor ! Je n'ai pas le temps d'attendre !<end>
+
+=>q12_original
+Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
+
+=>q12
+Bien sûr. Nous devons tous attendre quelque chose. Pas vrai ? C'est tout ce que j'ai à dire.<end>
+
+=>q13_original
+Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
+
+=>q13
+En effet, vous avez, et avec des résultats optimaux même. Ça n'est pas passé inaperçu.<end>
+
+=>q14_original
+There's someone who wishes to speak with you.<end>
+
+=>q14
+Quelqu'un veut vous parler.<end>
+
+=>q15_original
+Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
+
+=>q15
+Voyagez dans les grottes au-dessous de Lower Underrail et recherchez Azif dans un endroit appelé le « Rat de Hanging ».<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+Who is Azif?<end>
+
+=>a17
+Qui est Azif?<end>
+
+=>q18_original
+You'll find out.<end>
+
+=>q18
+Tu le découvriras.<end>
+
+=>a19_original
+How do I find this place?<end>
+
+=>a19
+Comment trouver cet endroit ?<end>
+
+=>q20_original
+::He smirks.:: By being resourceful, as you were so far.<end>
+
+=>q20
+::Il sourit.:: En étant plein de ressources, comme vous l'étiez jusqu'ici.<end>
+
+=>q21_original
+Enter the caves from the Rail Crossing station and start your search from there.<end>
+
+=>q21
+Entrez dans les grottes de la station Rail Crossing et commencez votre recherche à partir de là.<end>
+
+=>a22_original
+Alright. I'll look for Azif.<end>
+
+=>a22
+Très bien. Je vais chercher Azif.<end>
+
+=>q23_original
+::He nods.::<end>
+
+=>q23
+::Il acquiesce.::<end>
+
+=>a24_original
+I'll think about it.<end>
+
+=>a24
+Je vais y réfléchir.<end>
+
+=>q25_original
+::He nods.:: Take your time.<end>
+
+=>q25
+::Il acquiesce.:: Prenez votre temps.<end>
+
+=>a26_original
+Forget it. I have more important things to do then wonder aimlessly through caves.<end>
+
+=>a26
+Oublie ça. J'ai des choses plus importantes à faire, puis je m'émerveille sans but dans les grottes.<end>
+
+=>q27_original
+Still, if you change your mind, you should make your way there.<end>
+
+=>q27
+Mais si tu changes d'avis, tu devrais y aller.<end>
+
+=>a28_original
+I'm done with Everard's assignment.<end>
+
+=>a28
+J'en ai fini avec la mission d'Everard.<end>
+
+=>q29_original
+I've been informed. ::He gives you 400 stygian coins.::<end>
+
+=>q29
+J'ai été informé. ::Il vous donne 400 pièces de monnaie.::<end>
+
+=>q30_original
+There you go. Anything else?<end>
+
+=>q30
+Voilà. Autre chose ?<end>
+
+=>a31_original
+I'm done with Xander's assignment.<end>
+
+=>a31
+J'en ai fini avec la mission de Xander.<end>
+
+=>q32_original
+Indeed you are. ::He gives you 400 stygian coins.::<end>
+
+=>q32
+En effet. ::Il vous donne 400 pièces de monnaie.::<end>
+
+=>a33_original
+I'm done with Pierce's assignment.<end>
+
+=>a33
+J'en ai fini avec la mission de Pierce.<end>
+
+=>q34_original
+As I hoped. ::He gives you 400 stygian coins.::<end>
+
+=>q34
+Comme je l'espérais. ::Il vous donne 400 pièces de monnaie.::<end>
+
+=>a35_original
+I'd like to know more about the organization you're working for.<end>
+
+=>a35
+J'aimerais en savoir plus sur l'organisation pour laquelle vous travaillez.<end>
+
+=>q36_original
+Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
+
+=>q36
+C'est dur. Abram ou je vous aurais déjà dit plus si nous pensions que vous devriez savoir à ce moment-ci.<end>
+
+=>q37_original
+But don't worry, just be patient.<end>
+
+=>q37
+Mais ne vous inquiétez pas, soyez juste patient.<end>
+
+=>a38_original
+I need some help with the assignments you gave me.<end>
+
+=>a38
+J'ai besoin d'aide pour les missions que tu m'as données.<end>
+
+=>q39_original
+$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
+
+=>q39
+$(context.player.Name), je ne peux pas dire beaucoup qui vous aidera. C'est à vous de comprendre ce qui doit être fait et de le faire, de préférence de manière optimale. Encore une fois, je suppose qu'un conseil ne ferait pas mal.<end>
+
+=>q40_original
+And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
+
+=>q40
+Et, c'est un conseil très simple: Gardez les yeux et les oreilles ouverts. Il y a toujours des fissures dans les murs pour que vous puissiez passer, de petits détails qui révèlent de grands secrets, de petites erreurs qui ont de grandes conséquences. Prenez soin de tout ce que vous faites, car une erreur imprudente pourrait causer des dommages irréparables.<end>
+
+=>q41_original
+That's enough of Jack's wisdom for now. ::He smiles.::<end>
+
+=>q41
+C'est assez de la sagesse de Jack pour le moment. ::Il sourit.::<end>
+
+=>a42_original
+Catch you later, Jack.<end>
+
+=>a42
+On se voit plus tard, Jack.<end>
+
+=>q43_original
+Maybe I should order another drink...<end>
+
+=>q43
+Je devrais peut-être commander un autre verre...<end>
+
+=>q44_original
+Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
+
+=>q44
+Quoi ? Désolé, je n'ai pas le temps de discuter, j'attends quelqu'un.<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
+
+=>q46
+$(context.player.Name), je t'attends depuis longtemps, mais tu n'es jamais venu. Je suis désolé, mais je devais passer à autre chose. J'avais des affaires à régler.<end>
+
+=>a47_original
+What was the meaning of all that?<end>
+
+=>a47
+Quel était le sens de tout ça ?<end>
+
+=>q48_original
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q48
+Je savais qu'on me regardait, alors j'ai dû utiliser quelqu'un comme un leurre pendant que je sortais le vrai paquet de la station.<end>
+
+=>q49_original
+I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
+
+=>q49
+Je vous ai dit qu'un homme vous attendait pour payer la livraison. Je n'ai jamais dit qui serait cet homme. J'ai attendu, attendu et attendu... ::Il vous donne des charons.:: En tout cas, merci pour l'aide. Tu as gagné ça.<end>
+
+=>q50_original
+Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
+
+=>q50
+Puisque c'est déplacé, je vais devoir m'excuser. J'attends quelqu'un d'important. A plus tard, $(context.player.Name).<end>
+
+=>q51_original
+Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q51
+Maintenant, sur des questions plus urgentes. Abram m'a informé que vous l'aviez aidé dans Junkyard. Je t'avais dit que tu avais du potentiel.<end>
+
+=>q52_original
+We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
+
+=>q52
+Nous allons vous mettre à l'épreuve, ne vous inquiétez pas. Avant tout ça, j'aimerais clarifier certaines choses avant de procéder.<end>
+
+=>q53_original
+Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
+
+=>q53
+Abram et moi travaillons pour une certaine organisation dont je ne peux pas vous révéler le nom en ce moment; moins vous en savez, mieux c'est. Ce que vous devez savoir, c'est que vous avez montré certaines qualités que nous recherchons, et si votre performance continue d'être satisfaisante... il pourrait y avoir plus de travail pour vous.<end>
+
+=>q54_original
+Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
+
+You get it, don't you?<end>
+
+=>q54
+Tout, et je veux dire tout, concernant Abram, moi-même et tout le monde - je veux dire tout le monde - impliqué dans ce que nous faisons, reste entre nous. Nous avons besoin d'une discrétion maximale, et, pour que vous le sachiez, nous avons des yeux et des oreilles partout.
+
+Vous comprenez, n'est-ce pas ?<end>
+
+=>q55_original
+I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
+
+First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
+
+=>q55
+J'en ai marre de parler alors écoutez, je serai bref: j'ai trois missions pour vous en ce moment; vous pouvez les faire dans n'importe quel ordre que vous voulez; savez que deux d'entre eux auront besoin de voyager.
+
+D'abord, allez à Foundry et trouvez notre cellule. Une fois que vous le ferez, on vous demandera : « Qui y va ? » auquel vous répondez : « Le néophyte ». Quand tu seras là, parle à Everard, il te dira ce qu'il faut faire.<end>
+
+=>a56_original
+How do I find the cell?<end>
+
+=>a56
+Comment trouver la cellule ?<end>
+
+=>q57_original
+$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
+
+=>q57
+$(context.player.Name), si je dois vous dire de telles choses de base, vous ne pourriez pas être coupé pour cette ligne de travail. Où étais-je ?<end>
+
+=>q58_original
+Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
+
+=>q58
+Deuxièmement, je veux que vous alliez à SGS - c'est exact - et que vous trouviez un homme appelé Lenox Pierce. Il a besoin de nos services, alors soyez poli et représentez-nous bien. <end>
+
+=>a59_original
+And what's the third assignment?<end>
+
+=>a59
+Et quelle est la troisième mission ?<end>
+
+=>q60_original
+The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
+
+Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
+
+=>q60
+Le troisième est ici, dans Core City. Un homme appelé Ohad Xander vous attend à la gare Core City. Il a aussi besoin d'aide pour un certain... « problème ».
+
+Ne faisons pas attendre les gens. Vous serez payé à la fin de l'affectation. Si vous avez d'autres questions ou que vous voulez échanger, je serai là pour profiter de mon verre.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+I got it, what's the second assignment.<end>
+
+=>a62
+J'ai compris, quelle est la deuxième mission.<end>
+
+=>a63_original
+You used me as a decoy.<end>
+
+=>a63
+Tu m'as utilisé comme leurre.<end>
+
+=>q64_original
+That I did. Guilty as charged.<end>
+
+=>q64
+Je l'ai fait. C'est la culpabilité.<end>
+
+=>q65_original
+I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
+
+=>q65
+Je t'avais dit qu'on se reverrait, $(context.player.Name). Vous avez l'air assez bien. Ecoute, j'aimerais parler, mais j'attends quelqu'un d'important, je te rejoins plus tard.<end>
+
+=>q66_original
+Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
+
+=>q66
+Oh, $(context.player.Name), il y a un visage familier. J'aimerais discuter avec vous en ce moment, mais j'attends quelqu'un d'important. Je te rejoins plus tard.<end>
+
+=>q67_original
+So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q67
+Donc vous êtes $(context.player.Name). C'est Jack Quicksilver. Abram m'a dit que vous venez de SGS. J'étais coincé là-bas récemment, c'est drôle comme on ne s'est jamais rencontrés. Mais, ce n'est pas important en ce moment. Il m'a aussi dit que vous l'aviez aidé dans Junkyard. Je t'avais dit que tu avais du potentiel.<end>
+
+=>q68_original
+...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
+
+=>q68
+Et ici $(#il/elle) est. Vous avez parlé à Abram, je suppose. Il m'a informé plus tôt que vous l'aviez aidé dans Junkyard. Je t'avais dit que tu avais du potentiel.<end>
+
+=>q69_original
+Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q69
+Si ce n'est pas $(context.player.Name). Je t'avais dit qu'on se reverrait. Abram m'a informé que vous l'aviez aidé dans Junkyard. Je t'avais dit que tu avais du potentiel.<end>
+
+=>q70_original
+Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q70
+Si ce n'est pas $(context.player.Name). Nous avons parlé brièvement à SGS, mais nous y voilà de nouveau. Intéressant. Abram m'a informé que vous l'aviez aidé dans Junkyard. Je t'avais dit que tu avais du potentiel.<end>
+
+=>q71_original
+Yeah?<end>
+
+=>q71
+Oui ?<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>a73_original
+Let's barter. ::Barter.::<end>
+
+=>a73
+Faisons le troc. ::Troc.::<end>
+
+=>a74_original
+Where are you from, Jack?<end>
+
+=>a74
+D'où venez-vous, Jack ?<end>
+
+=>q75_original
+I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
+
+=>q75
+Je ne suis un citoyen d'aucun endroit si c'est ce que vous demandez. Je voyage beaucoup, mais quand je ne suis pas en train, je passe la plupart de mon temps à Core City.<end>
+
+=>a76_original
+What brought you here in the first place?<end>
+
+=>a76
+Qu'est-ce qui vous a amené ici ?<end>
+
+=>q77_original
+A lucrative business opportunity. But it slipped past me, unfortunately.<end>
+
+=>q77
+Une opportunité commerciale lucrative. Mais ça m'a malheureusement échappé.<end>
+
+=>a78_original
+What do you do for living? Are you a trader?<end>
+
+=>a78
+Que faites-vous pour vivre ? Vous êtes un trader ?<end>
+
+=>q79_original
+Among other things, yeah. Are you looking to trade?<end>
+
+=>q79
+Entre autres, oui. Vous voulez échanger ?<end>
+
+=>a80_original
+Show me what you got. ::Barter.::<end>
+
+=>a80
+Montre-moi ce que tu as. ::Troc.::<end>
+
+=>a81_original
+Maybe later.<end>
+
+=>a81
+Peut-être plus tard.<end>
+
+=>q82_original
+I'll be here for a little while longer.<end>
+
+=>q82
+Je serai là encore un peu.<end>
+
+=>a83_original
+What happened with that business opportunity?<end>
+
+=>a83
+Que s'est-il passé avec cette opportunité d'affaires ?<end>
+
+=>q84_original
+It's a business secret.<end>
+
+=>q84
+C'est un secret d'affaires.<end>
+
+=>q85_original
+If you're interested in doing some work, though, that's something I can arrange.<end>
+
+=>q85
+Mais si tu veux travailler, je peux t'arranger ça.<end>
+
+=>a86_original
+What kind of work?<end>
+
+=>a86
+Quel genre de travail ?<end>
+
+=>q87_original
+Package delivery. I'll pay you in SGS credits. Hundred pieces.
+
+<end>
+
+=>q87
+Livraison de colis. Je vous paierai en SGS crédits. Cent pièces.
+
+<end>
+
+=>q88_original
+You interested?<end>
+
+=>q88
+Ça t'intéresse ?<end>
+
+=>q89_original
+<end>
+
+=>q89
+<end>
+
+=>a90_original
+Yeah. Tell me the details.<end>
+
+=>a90
+Oui. Dites-moi les détails.<end>
+
+=>q91_original
+::He beckons you closer.:: You know where the GMS warehouse block is?<end>
+
+=>q91
+::Il vous appelle plus près.:: Vous savez où se trouve l'entrepôt GMS ?<end>
+
+=>a92_original
+Yes.<end>
+
+=>a92
+Oui.<end>
+
+=>q93_original
+First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
+
+=>q93
+D'abord aller à la caserne à la plate-forme de la gare ici dans SGS. Cette clé ouvrira l'un des verrous et le paquet sera à l'intérieur. ::Il vous donne la clé.::<end>
+
+=>q94_original
+Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
+
+=>q94
+Emmenez le paquet jusqu'au bloc d'entrepôt, jusqu'au bâtiment situé juste au sud du complexe GMS. Un homme attendra le paquet et tu auras ton argent.<end>
+
+=>a95_original
+Alright.<end>
+
+=>a95
+Très bien.<end>
+
+=>q96_original
+We will not speak of this again until the job is done.<end>
+
+=>q96
+Nous n'en reparlerons que lorsque le travail sera terminé.<end>
+
+=>a97_original
+Why don't you just take the package yourself?<end>
+
+=>a97
+Pourquoi tu ne prends pas le paquet toi-même ?<end>
+
+=>q98_original
+No questions. <end>
+
+=>q98
+Pas de questions. <end>
+
+=>a99_original
+Actually I changed my mind.<end>
+
+=>a99
+En fait, j'ai changé d'avis.<end>
+
+=>q100_original
+Too late for that now. <end>
+
+=>q100
+Trop tard pour ça. <end>
+
+=>a101_original
+No.<end>
+
+=>a101
+Non.<end>
+
+=>q102_original
+Never mind then. Can't risk you getting lost with the package.<end>
+
+=>q102
+Peu importe. Tu ne peux pas risquer de te perdre avec le paquet.<end>
+
+=>a103_original
+Maybe later.<end>
+
+=>a103
+Peut-être plus tard.<end>
+
+=>a104_original
+What's the pay?<end>
+
+=>a104
+Quel est le salaire ?<end>
+
+=>q105_original
+I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
+
+<end>
+
+=>q105
+Je vous paierai en SGS crédits. Cent pièces. C'est un travail de livraison.
+
+<end>
+
+=>a106_original
+Perhaps later.<end>
+
+=>a106
+Peut-être plus tard.<end>
+
+=>q107_original
+::He nods.::<end>
+
+=>q107
+::Il acquiesce.::<end>
+
+=>a108_original
+Tell me about that job you mentioned earlier again.<end>
+
+=>a108
+Parlez-moi de votre travail.<end>
+
+=>a109_original
+Catch you later, Jack.<end>
+
+=>a109
+On se voit plus tard, Jack.<end>
+
+=>q110_original
+Or maybe I'll catch you.<end>
+
+=>q110
+Ou peut-être que je t'attraperai.<end>
+
+=>q111_original
+Haven't seen you around here before. You stuck in this hole now as well?<end>
+
+=>q111
+Je ne t'ai pas vu ici avant. Tu es coincé dans ce trou aussi maintenant ?<end>
+
+=>a112_original
+No, actually, I'm new here.<end>
+
+=>a112
+Non, je suis nouveau ici.<end>
+
+=>q113_original
+Name's Jack Quicksilver.<end>
+
+=>q113
+C'est Jack Quicksilver.<end>
+
+=>q114_original
+ Who're you?<end>
+
+=>q114
+ Qui êtes-vous ?<end>
+
+=>a115_original
+My name is $(context.player.Name).<end>
+
+=>a115
+Je m'appelle $(context.player.Name).<end>
+
+=>q116_original
+::He just nods in confirmation.::<end>
+
+=>q116
+::Il fait juste signe de confirmation.::<end>
+
+=>a117_original
+Why would I be stuck?<end>
+
+=>a117
+Pourquoi je serais coincé ?<end>
+
+=>q118_original
+Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
+
+=>q118
+Je pensais que tu allais te faire prendre par le tremblement de terre. Oublie ça.<end>
+
+=>a119_original
+Who wants to know?<end>
+
+=>a119
+Qui veut savoir ?<end>
+
+=>q120_original
+Don't answer a question with a question. It's irritating.<end>
+
+=>q120
+Ne répondez pas à une question. C'est irritant.<end>
+

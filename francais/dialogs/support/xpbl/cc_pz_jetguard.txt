@@ -1,0 +1,248 @@
+=>q1_original
+::The marine raises his hand and signals you to stop.::
+
+Hold it. The port is off-limits to unauthorized personnel.<end>
+
+=>q1
+::Le marin lève la main et vous indique d'arrêter.::
+
+Attendez. Le port est interdit au personnel non autorisé.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Name's $(context.player.Name).<end>
+
+=>a3
+C'est $(context.player.Name).<end>
+
+=>q4_original
+::He points a handheld scanner at your jet ski; red light reflects off his goggles.::
+
+<end>
+
+=>q4
+::Il pointe un scanner portatif sur votre jet ski; la lumière rouge réfléchit sur ses lunettes.::
+
+<end>
+
+=>q5_original
+I'm sorry, Corporal, but you're going to have to see Private Lloyd at the warehouse entrance, over at the civilian dock. This entrance is for authorized vessels only.<end>
+
+=>q5
+Désolé, caporal, mais vous allez devoir voir le soldat Lloyd à l'entrée de l'entrepôt, au quai civil. Cette entrée est réservée aux bateaux autorisés.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+And my vessel is not authorized?<end>
+
+=>a7
+Et mon vaisseau n'est pas autorisé ?<end>
+
+=>q8_original
+No, $(#sir/ma'am). Not according to the scanner.<end>
+
+=>q8
+Non, $(#monsieur/madame). Pas selon le scanner.<end>
+
+=>a9_original
+I'm Corporal $(context.player.Name).<end>
+
+=>a9
+Je suis le caporal $(context.player.Name).<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+This has got to be some kind of mistake.<end>
+
+=>a11
+Ça doit être une erreur.<end>
+
+=>q12_original
+If you're not in the system, you're not docking here. You should know this, Corporal.<end>
+
+=>q12
+Si vous n'êtes pas dans le système, vous n'êtes pas en train d'accoster ici. Vous devriez le savoir, caporal.<end>
+
+=>a13_original
+But I was allowed to pass just a few days ago on this very jet ski.<end>
+
+=>a13
+Mais j'ai pu passer il y a quelques jours sur ce jet ski.<end>
+
+=>q14_original
+Then you were authorized to dock on that day. For today you aren't. Simple as that. 
+
+Now please, Corporal, go speak with Private Lloyd at the warehouse entrance and hopefully he'll be able to refer you to someone who can help you.<end>
+
+=>q14
+Puis vous avez été autorisé à stationner ce jour-là. Pour aujourd'hui tu ne l'es pas. Simple comme ça.
+
+Caporal, allez parler au soldat Lloyd à l'entrée de l'entrepôt et espérons qu'il pourra vous diriger vers quelqu'un qui pourra vous aider.<end>
+
+=>a15_original
+I'll get going then.<end>
+
+=>a15
+Je m'en vais.<end>
+
+=>q16_original
+No argument: You're not authorized; you cannot dock.<end>
+
+=>q16
+Aucun argument : vous n'êtes pas autorisé ; vous ne pouvez pas docker.<end>
+
+=>q17_original
+You're not authorized to dock here. Please turn around. Thank you.<end>
+
+=>q17
+Vous n'êtes pas autorisé à stationner ici. Tourne-toi. Je vous remercie.<end>
+
+=>a18_original
+This is where they told me to dock.<end>
+
+=>a18
+C'est là qu'ils m'ont dit de m'amarrer.<end>
+
+=>a19_original
+What is this place?<end>
+
+=>a19
+Quel est cet endroit ?<end>
+
+=>q20_original
+This is the entrance to Port Zenith, $(#sir/ma'am). Authorized vessels only.<end>
+
+=>q20
+C'est l'entrée de Port Zenith, $(#monsieur/madame). Navires autorisés seulement.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+What did I tell you? Turn around your vessel and leave.<end>
+
+=>q22
+Qu'est-ce que je t'ai dit ? Tournez-vous et partez.<end>
+
+=>a23_original
+My bad. Goodbye.<end>
+
+=>a23
+Ma faute. Au revoir.<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>q26_original
+You may not dock here, Corporal.<end>
+
+=>q26
+Vous ne pouvez pas stationner ici, caporal.<end>
+
+=>q27_original
+::He points his rifle at you.::
+
+Hands up! Now!<end>
+
+=>q27
+::Il pointe son fusil sur vous.::
+
+Levez les mains ! Tout de suite !<end>
+
+=>a28_original
+Wait, wait! I'm one of you guys. I'm Corporal $(context.player.Name).<end>
+
+=>a28
+Attendez ! Je suis l'un de vous. Je suis le caporal $(context.player.Name).<end>
+
+=>q29_original
+Yeah, right! <end>
+
+=>q29
+Ouais, c'est ça ! <end>
+
+=>q30_original
+Stay still - you're coming with me!
+
+::He speaks into his radio.:: Zenith Command, this is Jay-Seven-Five...<end>
+
+=>q30
+Ne bougez pas, vous venez avec moi !
+
+::Il parle dans sa radio.:: Zenith Command, voici Jay-Seven-Five...<end>
+
+=>a31_original
+Listen to me!<end>
+
+=>a31
+Écoute-moi !<end>
+
+=>q32_original
+...I'm detaining a suspicious person. Will need assistance, over.<end>
+
+=>q32
+J'arrête une personne suspecte. J'aurai besoin d'aide.<end>
+
+=>a33_original
+::Resist arrest.::<end>
+
+=>a33
+::Résister à l'arrestation.::<end>
+
+=>a34_original
+::Resist arrest.::<end>
+
+=>a34
+::Résister à l'arrestation.::<end>
+
+=>a35_original
+::Resist arrest.::<end>
+
+=>a35
+::Résister à l'arrestation.::<end>
+
+=>a36_original
+Why? I didn't do anything wrong.<end>
+
+=>a36
+Pourquoi ? Je n'ai rien fait de mal.<end>
+
+=>a37_original
+::Raise your hands.:: What's going on?<end>
+
+=>a37
+::Levez la main.:: Qu'est-ce qui se passe ?<end>
+
+=>a38_original
+::Fight!::<end>
+
+=>a38
+::Lutte!::<end>
+

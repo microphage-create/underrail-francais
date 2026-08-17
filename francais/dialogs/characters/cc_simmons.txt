@@ -1,0 +1,842 @@
+=>q1_original
+::Upon stepping into the office, you see a smiling man of average height, watching you and filling the room with thick cigar smoke. His sizable belly pours out of his - without a doubt - expensive suit, drawing eyes away from the suit's high-class design, effectively ruining it. Looking up does not result in a much prettier sight either, for age and lack of care have truly taken a toll on this man's appearance. Regardless, he smiles. He removes the cigar from his mouth and fills the room again, now with his voice.::
+
+Agent $(context.player.Name), welcome to my office. Please make yourself comfortable. I'm Mr. Rupert Simmons - your boss. ::He laughs.:: How are you feeling today?<end>
+
+=>q1
+::En entrant dans le bureau, vous voyez un homme souriant de taille moyenne, vous regardant et remplissant la pièce de fumée de cigare épais. Son gros ventre se déverse de son costume cher, sans aucun doute, en éloignant les yeux du design haut de gamme du costume, ce qui le ruine efficacement. La recherche n'entraîne pas non plus une vue plus belle, car l'âge et le manque de soin ont réellement porté préjudice à l'apparence de cet homme. Peu importe, il sourit. Il enlève le cigare de sa bouche et remplit à nouveau la pièce, maintenant de sa voix.::
+
+Agent $(context.player.Name), bienvenue dans mon bureau. Mettez-vous à l'aise. Je suis M. Rupert Simmons, votre patron. ::Il rit.:: Comment te sens-tu aujourd'hui ?<end>
+
+=>a2_original
+Now that I'm here, excellent!<end>
+
+=>a2
+Maintenant que je suis là, excellent !<end>
+
+=>q3_original
+Beautiful, that's what I like to hear, son! You'll feel even better after I tell you why I called you up here.<end>
+
+=>q3
+Magnifique, c'est ce que j'aime entendre, fiston ! Tu te sentiras encore mieux quand je t'aurai dit pourquoi je t'ai appelé ici.<end>
+
+=>a4_original
+Son? But, I'm a woman...<end>
+
+=>a4
+Fils ? Mais je suis une femme...<end>
+
+=>q5_original
+::He laughs.:: That's how I call everyone younger than me! It's not meant to be taken literally. But, we're not here to talk about that. I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, a great agent, and I've seen how you fight in the Arena! I loved it!<end>
+
+=>q5
+::Il rit.:: C'est comme ça que j'appelle tout le monde plus jeune que moi ! Ce n'est pas censé être pris littéralement. Mais nous ne sommes pas là pour en parler. Je voudrais profiter de cette occasion pour vous promouvoir personnellement, fils. J'ai entendu dire que tu étais un bon employé, un grand agent, et j'ai vu comment tu te battais dans l'aréna ! J'adorais ça !<end>
+
+=>q6_original
+To have *the* Invictus working for Coretech, now that is just astonishing, son! Let me tell you something, son - you really earned this promotion!<end>
+
+=>q6
+Avoir *l'* Invictus travaillant pour Coretech, maintenant c'est tout simplement étonnant, fils! Laisse-moi te dire quelque chose, fiston, tu as vraiment gagné cette promotion !<end>
+
+=>a7_original
+Thank you, sir!<end>
+
+=>a7
+Merci, monsieur !<end>
+
+=>q8_original
+Thank you for being such a good employee! Son, with this promotion, you become my personal agent, which also comes with a fatter pay. You will answer to me - and me only. If someone asks you where you're going or what you're doing, you can just say: "Mr. Simmons says that's none of your damn business!" ::He laughs.::<end>
+
+=>q8
+Merci d'être un si bon employé ! Fils, avec cette promotion, tu deviens mon agent personnel, qui vient aussi avec un salaire plus gros. Vous me répondrez - et moi seulement. Si quelqu'un te demande où tu vas ou ce que tu fais, tu peux juste dire : "M. Simmons dit que ça ne te regarde pas !" ::Il rit.::<end>
+
+=>q9_original
+Also, you gain access to our internal store. Talk to Harlan about that. 
+
+There. That is all wanted to tell you, son!<end>
+
+=>q9
+En outre, vous avez accès à notre magasin interne. Parlez-en à Harlan.
+
+Voilà. C'est tout ce que je voulais te dire, fils !<end>
+
+=>q10_original
+::He pauses.:: Actually, maybe that's not all... I don't know if you've heard by now, but Edmund Knight was murdered recently.<end>
+
+=>q10
+::Il fait une pause.:: En fait, ce n'est peut-être pas tout... Je ne sais pas si vous avez déjà entendu, mais Edmund Knight a été assassiné récemment.<end>
+
+=>a11_original
+Edmund Knight?<end>
+
+=>a11
+Edmund Knight ?<end>
+
+=>q12_original
+Edmund is the son of Archibald Knight, chief of Praetorian Security, one of the Oligarchs, and a dear friend of mine. Edmund was an intelligent, ambitious, solid as steel, and quite a handsome young man. His life had to be taken away at an early age by these... these evil, monstrous... barbarians. These... These Acid Hunters! Led by a man known only as Cornell.<end>
+
+=>q12
+Edmund est le fils d'Archibald Knight, chef de Praetorian Security, l'un des Oligarch, et un de mes amis. Edmund était un homme intelligent, ambitieux, solide comme l'acier, et très beau jeune homme. Sa vie a dû être enlevée à un âge précoce par ces... méchants, monstrueux... barbares. Ces chasseurs d'acides ! Mené par un homme connu uniquement sous le nom de Cornell.<end>
+
+=>a13_original
+I've heard of them before.<end>
+
+=>a13
+J'en ai déjà entendu parler.<end>
+
+=>q14_original
+Then I'm sure you are not surprised by what I'm telling you. I don't think you've heard anything good about these lowlifes, scum - barbarians! They deserve the most severe punishment for what they did, and that's where you come in, son.<end>
+
+=>q14
+Alors je suis sûr que vous n'êtes pas surpris par ce que je vous dis. Je ne pense pas que tu aies entendu quelque chose de bien à propos de ces imbéciles, des barbares ! Ils méritent le châtiment le plus sévère pour ce qu'ils ont fait, et c'est là que vous entrez, fils.<end>
+
+=>q15_original
+We have tracked down these animals. They are hiding in the sewers beneath Core City.<end>
+
+=>q15
+Nous avons retrouvé ces animaux. Ils se cachent dans les égouts sous Core City.<end>
+
+=>a16_original
+How did you manage to do that?<end>
+
+=>a16
+Comment avez-vous réussi à faire ça ?<end>
+
+=>q17_original
+Listen, son, Coretech is the most powerful company in Core City. We have our ways. Let's just say those rathounds left giant footprints, just waiting to be tracked.<end>
+
+=>q17
+Ecoute, fils, Coretech est la compagnie la plus puissante de Core City. Nous avons nos moyens. Disons que ces rats ont laissé des empreintes géantes, attendant d'être suivis.<end>
+
+=>a18_original
+What do you want me to do?<end>
+
+=>a18
+Que veux-tu que je fasse ?<end>
+
+=>q19_original
+Kill Cornell, and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>q19
+Tuez Cornell et apportez-moi sa tête. Quant au reste, tuez-les aussi. Comme disent les gens... dominez-les !<end>
+
+=>a20_original
+I've already been to their hideout.<end>
+
+=>a20
+Je suis déjà allé à leur cachette.<end>
+
+=>q21_original
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+And what did you find, son?<end>
+
+=>q21
+::Il sourit, levant un coin de sa bouche tandis que l'autre mord dans son cigare.::
+
+Et qu'as-tu trouvé, fils ?<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+Oh, I did. ::Show him Cornell's head.::<end>
+
+=>a23
+C'est vrai. ::Montre-lui la tête de Cornell.::<end>
+
+=>q24_original
+::He takes a look into the bag, moving the cigar from one side of his mouth to the other. His face - as if he was inspecting a train schedule.:: 
+
+Beautiful! Beautiful! Ha! Justice is served! I knew I could count on you, son.<end>
+
+=>q24
+::Il jette un oeil dans le sac, déplaçant le cigare d'un côté de sa bouche à l'autre. Son visage - comme s'il inspectait un horaire de train.::
+
+Magnifique ! Magnifique ! C'est vrai ! La justice est servie ! Je savais que je pouvais compter sur toi.<end>
+
+=>q25_original
+You have done great service to Core City.<end>
+
+=>q25
+Vous avez fait un excellent service à Core City.<end>
+
+=>a26_original
+There is just this little thing about Edmund's death...<end>
+
+=>a26
+Il y a juste une petite chose sur la mort d'Edmund...<end>
+
+=>q27_original
+And what is that, son?<end>
+
+=>q27
+Et qu'est-ce que c'est, fils ?<end>
+
+=>a28_original
+Cornell told me your son, Miland, killed him.<end>
+
+=>a28
+Cornell m'a dit que votre fils, Miland, l'avait tué.<end>
+
+=>q29_original
+You trust that animal? Son... don't disappoint me like this. He was trying to trick you, trick you into not killing him! It didn't work, judging by this head of his. ::He takes another peek into the bag.:: What an ugly bastard...
+
+Hell, why are you mentioning this if you have already done your duty?<end>
+
+=>q29
+Tu fais confiance à cet animal ? Fils... ne me décevez pas comme ça. Il essayait de vous piéger, de ne pas le tuer ! Ça n'a pas marché, à en juger par son chef. ::Il jette un coup d'œil dans le sac.:: Quel sale salaud...
+
+Pourquoi tu en parles si tu as déjà fait ton devoir ?<end>
+
+=>a30_original
+::[Persuade]:: You tricked me. Only after killing Cornell did I find evidence that proves your son killed Edmund.<end>
+
+=>a30
+::[Persuader]:: Vous m'avez trompé. Seulement après avoir tué Cornell, j'ai trouvé des preuves qui prouvent que votre fils a tué Edmund.<end>
+
+=>q31_original
+::He removes the cigar from his mouth, extinguishing it with one slow motion.:: It's true. What Cornell told you is true. Miland killed Edmund. My son. He confessed everything. I wanted Cornell dead not only to protect my son, but to protect Core City. If Knight was to do something foolish in his rage... it would spell the end for, for all this we've worked hard to build. And if you value the lives of the people that reside here - you'll shut your damn mouth!
+
+::He pauses.:: Here's for bringing me that head. ::He gives you 600 charons.:: <end>
+
+=>q31
+::Il enlève le cigare de sa bouche, l'éteint d'un seul mouvement.:: C'est vrai. Ce que Cornell t'a dit est vrai. Miland a tué Edmund. Mon fils. Il a tout avoué. Je voulais la mort de Cornell non seulement pour protéger mon fils, mais aussi pour protéger Core City. Si Knight faisait quelque chose d'idiot dans sa rage, ça serait la fin pour, pour tout ce que nous avons travaillé dur pour construire. Et si vous appréciez la vie des gens qui résident ici, vous fermerez la bouche !
+
+::Il fait une pause.:: Voilà pour m'avoir apporté cette tête. ::Il vous donne 600 charons.:: <end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+I have more work for you.<end>
+
+=>q33
+J'ai plus de travail pour toi.<end>
+
+=>q34_original
+Now, what I'm about to tell you son, is highly confidential. You are to mention what I'll be telling you to no one, in or out of Coretech. Get it? Beautiful!<end>
+
+=>q34
+Ce que je vais vous dire, mon fils, est très confidentiel. Vous devez dire ce que je vais vous dire à personne, dans ou hors de Coretech. Compris ? Magnifique !<end>
+
+=>q35_original
+We have recently acquired a rare and strange artifact of unknown origin. We believe that, if we were to unlock its powers, we will be able to launch Coretech into a whole new era of technological advancement! Imagine that, son!<end>
+
+=>q35
+Nous avons récemment acquis un artefact rare et étrange d'origine inconnue. Nous pensons que si nous débloquions ses pouvoirs, nous pourrons lancer Coretech dans une toute nouvelle ère de progrès technologique ! Imaginez ça, fils !<end>
+
+=>q36_original
+I also believe, and with full support from my advisors, that this little thing of power is precisely the reason why these Faceless are here. I want this object secured son, at all costs. And I want you to make sure of it.<end>
+
+=>q36
+Je crois aussi, et avec le plein soutien de mes conseillers, que cette petite chose de pouvoir est précisément la raison pour laquelle ces Faceless sont ici. Je veux ce fils sécurisé, à tout prix. Et je veux que tu en sois sûr.<end>
+
+=>a37_original
+It will be done sir.<end>
+
+=>a37
+Ce sera fait monsieur.<end>
+
+=>q38_original
+Beautiful! This is where you need to go: On the lower level of Core City, near one of the under-passage exits in Drop Zone you will find a locked door. Behind it lies the passageway leading to a facility of ours. Use this keycard to unlock the door; this pass must be worn at all times so that the security bots don't rip you to shreds. ::He gives you the keycard.::<end>
+
+=>q38
+Magnifique ! C'est là que vous devez aller : Au niveau inférieur de Core City, près de l'une des sorties sous-passage de Drop Zone, vous trouverez une porte verrouillée. Derrière elle se trouve le passage menant à notre installation. Utilisez cette carte-clé pour déverrouiller la porte; ce passe doit être porté en tout temps afin que les robots de sécurité ne vous déchirent pas. ::Il vous donne la carte.::<end>
+
+=>q39_original
+That would be bad, son. ::He laughs.:: There will be a few scientists there, but other than them *no one* else is allowed. I'm counting on you. Keep that artifact safe and sound. For Coretech, for our future.<end>
+
+=>q39
+Ce serait mal, fiston. ::Il rit.:: Il y aura quelques scientifiques là-bas, mais à part eux * personne d'autre * n'est autorisé. Je compte sur toi. Gardez cet artefact sain et sauf. Pour Coretech, pour notre avenir.<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+I've already been to this facility. It's not as secure as you think it is.<end>
+
+=>a41
+J'ai déjà été dans cette installation. Ce n'est pas aussi sûr que vous le pensez.<end>
+
+=>q42_original
+What? You... you cannot be serious, son!?<end>
+
+=>q42
+Quoi ? Tu... tu ne peux pas être sérieux, fils ! ?<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+The Tchortists stormed in, killed the scientists and fled with the artifact. There was nothing I could have done.<end>
+
+=>a44
+Les Tchortists ont envahi, tué les scientifiques et fui avec l'artefact. Je n'ai rien pu faire.<end>
+
+=>q45_original
+Tchortists! TCHORTISTS! ::His clenched fist strikes the table, making you flinch from the sheer volume of the sound produced.:: Curse them, curse them all! Those lying bastards, they... We should never have let the bastards into the city!<end>
+
+=>q45
+Tchortistes ! Les TCHORTISTES ! ::Son poing serré frappe la table, vous faisant flipper du volume pur du son produit.:: Maudits-les tous ! Ces salauds menteurs, ils... On n'aurait jamais dû laisser ces salauds entrer en ville !<end>
+
+=>q46_original
+::He bows his head, letting it hang above his desk while his fist remains in contact with the table.:: 
+
+All went down the pipes... Sons of rats.<end>
+
+=>q46
+::Il s'incline la tête, le laissant au-dessus de son bureau pendant que son poing reste en contact avec la table.::
+
+Tout est descendu dans les tuyaux... Fils de rats.<end>
+
+=>q47_original
+::He lifts his head and adjusts his suit. A steady motion of his hand as it slides across his receding hair seems to have a calming effect on him.::
+ 
+I need to be alone now.<end>
+
+=>q47
+::Il lève la tête et règle son costume. Un mouvement constant de sa main alors qu'il glisse sur ses cheveux reculants semble avoir un effet apaisant sur lui.::
+
+Je dois être seule maintenant.<end>
+
+=>a48_original
+Goodby--<end>
+
+=>a48
+Bonjour...<end>
+
+=>q49_original
+Wait, wait... 
+
+Talk to Harlan. Now leave me.<end>
+
+=>q49
+Attendez...
+
+Parle à Harlan. Maintenant laisse-moi.<end>
+
+=>a50_original
+I will. Goodbye, Mr. Simmons.<end>
+
+=>a50
+Oui. Au revoir, M. Simmons.<end>
+
+=>a51_original
+As you wi--<end>
+
+=>a51
+Comme vous...<end>
+
+=>a52_original
+::Nod.::<end>
+
+=>a52
+::Hocher la tête.::<end>
+
+=>a53_original
+I understand.<end>
+
+=>a53
+Je comprends.<end>
+
+=>q54_original
+Beautiful! That's it, son. Get going.<end>
+
+=>q54
+Magnifique ! C'est ça, fiston. Allez.<end>
+
+=>q55_original
+<end>
+
+=>q55
+<end>
+
+=>a56_original
+How do I find the Acid Hunters again?<end>
+
+=>a56
+Comment retrouver les chasseurs d'acides ?<end>
+
+=>q57_original
+Don't disappoint me like this, son! Pay attention! 
+
+Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed.<end>
+
+=>q57
+Ne me décevez pas comme ça ! Faites attention !
+
+Va dans les égouts et trouve un grand tuyau d'évacuation, un homme peut entrer. Ce grand tuyau a des sorties vers différentes chambres, et l'un d'eux a une fissure dans le mur. Mets ta main dans la fissure et tu trouveras un levier. Tirez le levier, et l'entrée de leur tanière sera révélée.<end>
+
+=>q58_original
+You catch all that - good.<end>
+
+=>q58
+C'est bon.<end>
+
+=>a59_original
+About the Acid Hunters...<end>
+
+=>a59
+À propos des chasseurs d'acide...<end>
+
+=>q60_original
+::He smiles, lifting one corner of his mouth while the other bites into his cigar.::
+
+Did you get them, son?<end>
+
+=>q60
+::Il sourit, levant un coin de sa bouche tandis que l'autre mord dans son cigare.::
+
+Tu les as eus, fils ?<end>
+
+=>a61_original
+How do I get to that research facility again?<end>
+
+=>a61
+Comment puis-je retourner dans ce centre de recherche ?<end>
+
+=>q62_original
+I'll explain again. On the lower level of Core City, near one of the under-passages exits in the Drop Zone you will find a locked door. Behind it lies the passageway leading to the facility. Use the keycard I gave you to unlock the door; the pass must be worn at all times so that the security bots don't rip you to shreds.<end>
+
+=>q62
+Je vous expliquerai. Au niveau inférieur de Core City, près de l'une des sorties sous-passages du Drop Zone, vous trouverez une porte verrouillée. Derrière elle se trouve le passage menant à l'installation. Utilisez la carte-clé que je vous ai donnée pour déverrouiller la porte; le laissez-passer doit être porté en tout temps pour que les robots de sécurité ne vous déchirent pas.<end>
+
+=>q63_original
+That's it! Easy to remember.<end>
+
+=>q63
+C'est ça ! Facile à retenir.<end>
+
+=>a64_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a64
+Avez-vous déjà entendu parler de l'Acorn, alias ACoNR ?<end>
+
+=>q65_original
+Acorn? What's that?<end>
+
+=>q65
+Du maïs ? C'est quoi ?<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>a67_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could prove to be a great asset to our company.<end>
+
+=>a67
+Je ne sais pas grand chose de moi-même, mais selon moi, c'est une technologie très précieuse qui pourrait s'avérer un atout pour notre entreprise.<end>
+
+=>q68_original
+Hm. ::He bites into his cigar.:: Look, son, in <end>
+
+=>q68
+Hm. ::Il mord dans son cigare.:: Ecoute, fils, en <end>
+
+=>q69_original
+all my years of doing this business I've never heard of anything like this thing you mentioned. What is it? Biocorp technology?<end>
+
+=>q69
+Toutes mes années de travail, je n'ai jamais entendu parler de ce que vous avez dit. Qu'est-ce que c'est ? La technologie Biocorp?<end>
+
+=>q70_original
+But... ::He shakes his head.:: Forget it. I can't deal with that right now. <end>
+
+=>q70
+Mais... ::Il secoue la tête.:: Oublie ça. Je ne peux pas gérer ça maintenant. <end>
+
+=>q71_original
+We've got the Faceless all around us<end>
+
+=>q71
+Nous avons le Faceless autour de nous<end>
+
+=>q72_original
+, we have to secure our research facility, and we've got a bevy of other issues to deal with. <end>
+
+=>q72
+, nous devons sécuriser notre centre de recherche, et nous avons un peu d'autres problèmes à régler. <end>
+
+=>q73_original
+As soon as we're done with all of that we'll return to this Acorn thing of yours, eh, son. ::He puffs some smoke.:: 
+
+There. Now...<end>
+
+=>q73
+Dès qu'on en aura fini avec tout ça, on reviendra à ton truc d'Acor, fiston. ::Il souffle de la fumée.::
+
+Voilà. Maintenant...<end>
+
+=>q74_original
+, these Acid Hunters<end>
+
+=>q74
+, ces chasseurs d'acide<end>
+
+=>q75_original
+ and a bevy of other problems plaguing this city.<end>
+
+=>q75
+ et un peu d'autres problèmes qui affligent cette ville.<end>
+
+=>q76_original
+::But he then shakes his head.:: Look, son, forget it. I can't deal with that now. <end>
+
+=>q76
+::Mais il se secoue la tête.:: Écoute, fiston, oublie ça. Je ne peux pas gérer ça maintenant. <end>
+
+=>a77_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could prove to be a great asset to our company.<end>
+
+=>a77
+Tout ce que je sais, c'est qu'il est en quelque sorte connecté à des machines de haute technologie capables de traverser de grandes distances, voire d'atteindre la surface. Ça pourrait être un atout pour notre société.<end>
+
+=>a78_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a78
+Il semble être un appareil capable de fabriquer des choses très avancées, comme des objets et des machines. Ça pourrait être un atout pour notre société.<end>
+
+=>q79_original
+What the...? ::He takes the cigar out of his mouth.:: In <end>
+
+=>q79
+Qu'est-ce que... ::Il sort le cigare de sa bouche.:: dans <end>
+
+=>a80_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a80
+C'est un dispositif capable d'utiliser des matériaux de son environnement pour construire des objets et des machines complexes. Ça pourrait être un atout pour notre société.<end>
+
+=>a81_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could prove to be a great asset to our company.<end>
+
+=>a81
+C'est un superordinateur capable de contrôler les nanobots qui peuvent utiliser des matériaux de leur environnement pour construire des objets et des machines complexes. Ça pourrait être un atout pour notre société.<end>
+
+=>a82_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a82
+Laisse tomber. Il y avait autre chose que je voulais te demander.<end>
+
+=>q83_original
+::He puffs some smoke.:: Well?<end>
+
+=>q83
+::Il souffle de la fumée.:: Alors ?<end>
+
+=>a84_original
+About the Acorn again...<end>
+
+=>a84
+A propos de l'Acorn encore...<end>
+
+=>q85_original
+That again?<end>
+
+=>q85
+Encore ?<end>
+
+=>a86_original
+I've been to the facility.<end>
+
+=>a86
+Je suis allé au centre.<end>
+
+=>q87_original
+Returned? Did... did something happen to the artifact? Did the Faceless get to it? Tell me what happened, son, damn it!<end>
+
+=>q87
+De retour ? Il est arrivé quelque chose à l'artefact ? Le Faceless y est-il arrivé ? Dis-moi ce qui s'est passé, fiston !<end>
+
+=>a88_original
+Can you tell me how the Oligarchy came to be?<end>
+
+=>a88
+Pouvez-vous me dire comment est arrivé le Oligarchy ?<end>
+
+=>q89_original
+A long time ago, Archie and I were employed at Biocorp. If you're unfamiliar with its history, it used to be a supercorporation which owned everything in Underrail. Understand, son? *Everything*. They had full control over military, economy, scientific research, politics... *Everything*. But unfortunately, once you grow to that size, you need to make sure you can support all that weight. And Biocorp had a rotten core.<end>
+
+=>q89
+Il y a longtemps, Archie et moi étions employés à Biocorp. Si vous n'êtes pas familier avec son histoire, c'était une supersociété qui possédait tout dans Underrail. Compris, fils ? Tout. Ils avaient le contrôle total sur l'armée, l'économie, la recherche scientifique, la politique... *Tout*. Mais malheureusement, une fois que vous grandissez à cette taille, vous devez vous assurer que vous pouvez soutenir tout ce poids. Et Biocorp avait un noyau pourri.<end>
+
+=>q90_original
+Due to internal conflicts and other external problems, Biocorp fell apart. Then it reformed. Then the cracks appeared again. When the Protectorate came fifteen years ago, Biocorp was no match. No, no. They took out their headquarters in North Underrail, and that was the final blow. Damn it all, we used to be beautiful! Core City belonged to Biocorp. Top scientists lived and worked here. All began to fall apart after that, and Archie and I tried to keep this place together. 
+
+He was the chief of security while I was the head of research department here in Core City - a technocrat, as we used to call ourselves. He formed Praetorian Security; I formed Coretech with the help of my colleagues, in an attempt to continue what Biocorp began.<end>
+
+=>q90
+En raison de conflits internes et d'autres problèmes externes, Biocorp s'est effondré. Puis il s'est réformé. Puis les fissures sont revenues. Lorsque le Protectorate est arrivé il y a quinze ans, Biocorp n'était pas un match. Non, pas du tout. Ils ont pris leur quartier général dans le Nord Underrail, et c'était le coup final. Bon sang, on était beaux ! Core City appartenait à Biocorp. Les meilleurs scientifiques vivaient et travaillaient ici. Tout a commencé à s'effondrer après cela, et Archie et moi avons essayé de garder cet endroit ensemble.
+
+Il était le chef de la sécurité pendant que j'étais le chef du département de recherche ici à Core City - un technocrate, comme nous nous appelions nous-mêmes. Il a formé Praetorian Security; j'ai formé Coretech avec l'aide de mes collègues, dans une tentative de continuer ce que Biocorp a commencé.<end>
+
+=>q91_original
+Son, it was difficult, but the Arena saved us all. It brought in so much money to Core City. Truthfully, Edstrom should be partially thanked for that, as he was the one who raised its popularity to a whole new level. He was an outsider, so he had the connections, and he had the brains to make everything go his way! ::He laughs.::
+
+That pretty much sums it up, son.<end>
+
+=>q91
+Fils, c'était difficile, mais l'Arena nous a tous sauvés. Il a apporté tellement d'argent à Core City. En vérité, Edstrom devrait être en partie remercié pour cela, car il était celui qui a élevé sa popularité à un tout nouveau niveau. C'était un étranger, donc il avait les liens, et il avait les cerveaux pour que tout aille bien ! ::Il rit.::
+
+Ça résume tout, fiston.<end>
+
+=>a92_original
+Goodbye, Mr. Simmons.<end>
+
+=>a92
+Au revoir, M. Simmons.<end>
+
+=>q93_original
+::He removes the cigar from his mouth, extinguishing it with one angry motion.:: Son, I'll pretend you never said that. I don't care what evidence you found nor what that savage told you. Cornell killed Edmund! That's the truth! Take this and shut the hell up! ::He gives you 600 charons.::
+
+::He calms down.:: Damn it, son. You've done so well so far, why tarnish it, why bite the hand that feeds you. 
+
+<end>
+
+=>q93
+::Il enlève le cigare de sa bouche, l'éteint d'un mouvement de colère.:: Fils, je ferai comme si tu n'avais jamais dit ça. Je me fiche des preuves que tu as trouvées, ni de ce que ce sauvage t'a dit. Cornell a tué Edmund ! C'est la vérité ! Prends ça et ferme-la ! ::Il vous donne 600 charons.::
+
+::Il se calme.:: Merde, fils. Tu as si bien fait jusqu'ici, pourquoi la ternir, pourquoi mordre la main qui te nourrit. 
+
+<end>
+
+=>a94_original
+It all seemed *very* suspicious.<end>
+
+=>a94
+Tout semblait très suspect.<end>
+
+=>q95_original
+::He laughs.:: Son, you were loyal to Coretech from your first day. Don't tarnish it now. But, I understand, I understand. We all have moments like this. Here's something to help you... calm down. ::He gives you 600 charons.:: 
+
+<end>
+
+=>q95
+::Il rit.:: Fils, tu étais fidèle à Coretech dès ton premier jour. Ne le ternissez pas maintenant. Mais je comprends, je comprends. On a tous des moments comme ça. Voilà quelque chose pour t'aider... à te calmer. ::Il vous donne 600 charons.:: 
+
+<end>
+
+=>a96_original
+Thank you, sir. I was just doing my job.<end>
+
+=>a96
+Merci, monsieur. Je faisais juste mon travail.<end>
+
+=>q97_original
+You most definitely were. ::He laughs.::<end>
+
+=>q97
+Vous l'avez certainement été. ::Il rit.::<end>
+
+=>q98_original
+::He gives you 600 charons.:: Take this. <end>
+
+=>q98
+::Il vous donne 600 charons.:: Prends ça. <end>
+
+=>a99_original
+::Show him Cornell's head.:: He was guilty of some other crimes as well.<end>
+
+=>a99
+::Montre-lui la tête de Cornell.:: Il était aussi coupable d'autres crimes.<end>
+
+=>a100_original
+They weren't there. I searched everything, but no trace of Acid Hunters.<end>
+
+=>a100
+Ils n'étaient pas là. J'ai tout fouillé, mais aucune trace de chasseurs acides.<end>
+
+=>q101_original
+So, they escaped... ::He removes the cigar from his mouth, extinguishing it with one swift motion.:: That is disappointing... Not your fault, of course. Your results have been outstanding so far, so I'm assured you did everything within your powers. I'll inform all our forces of this situation; maybe those rats still haven't managed to leave Core City.<end>
+
+=>q101
+Donc, ils se sont échappés... ::Il enlève le cigare de sa bouche, l'éteint d'un mouvement rapide.:: C'est décevant... Pas ta faute, bien sûr. Vos résultats ont été remarquables jusqu'à présent, donc je suis sûr que vous avez tout fait dans vos pouvoirs. Je vais informer toutes nos forces de cette situation; peut-être que ces rats n'ont toujours pas réussi à quitter Core City.<end>
+
+=>a102_original
+No, but I will.<end>
+
+=>a102
+Non, mais je le ferai.<end>
+
+=>q103_original
+Don't be a zoner, son! Stop fooling around and get to work. We have to get to those animals *before* they escape.<end>
+
+=>q103
+Ne sois pas un zoneur, fiston ! Arrête de déconner et va travailler. Nous devons aller voir ces animaux avant qu'ils ne s'échappent.<end>
+
+=>a104_original
+What about capturing them? Can't you put them on a trial or something?<end>
+
+=>a104
+Et les capturer ? Tu ne peux pas les mettre en procès ?<end>
+
+=>q105_original
+Listen, son, let's not lie to each other. I'm not an evil man. Angry, definitely, but evil? No. There is a reason why they must die; we've all already discussed this - I mean, the Oligarchs - and we came to a conclusion that for a crime this severe - death is the only punishment. All evidence points to them, son, all of it.<end>
+
+=>q105
+Écoute, fiston, ne nous mentons pas. Je ne suis pas un homme mauvais. La colère, certainement, mais le mal ? C'est pas vrai. Il y a une raison pour laquelle ils doivent mourir; nous avons tous déjà discuté de cela - je veux dire, les Oligarch - et nous sommes arrivés à la conclusion que pour un crime aussi grave - la mort est la seule punition. Toutes les preuves les indiquent, fiston, tout ça.<end>
+
+=>a106_original
+I'll do as you ask. How do I get to them?<end>
+
+=>a106
+Je ferai ce que vous me demandez. Comment les atteindre ?<end>
+
+=>q107_original
+That's what I like to hear, son! This is the info we have... Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed. That's exactly how I've been told.<end>
+
+=>q107
+C'est ce que j'aime entendre, fiston ! C'est l'info que nous avons... Va dans les égouts et trouve un grand tuyau d'évacuation, un homme peut entrer. Ce grand tuyau a des sorties vers différentes chambres, et l'un d'eux a une fissure dans le mur. Mets ta main dans la fissure et tu trouveras un levier. Tirez le levier, et l'entrée de leur tanière sera révélée. C'est exactement ce qu'on m'a dit.<end>
+
+=>a108_original
+Are you sure that's true?<end>
+
+=>a108
+Tu es sûr que c'est vrai ?<end>
+
+=>q109_original
+Of course, son! Who do you take me for? ::He laughs.:: Now go, bring me Cornell's head.<end>
+
+=>q109
+Bien sûr, fils ! Pour qui me prenez-vous ? ::Il rit.:: Amène-moi la tête de Cornell.<end>
+
+=>a110_original
+I'm on the job.<end>
+
+=>a110
+Je travaille.<end>
+
+=>q111_original
+One more thing: Put the head in a leak-proof bag or something, son, as I don't want blood all over my office. You got that - good.<end>
+
+=>q111
+Une dernière chose: mettre la tête dans un sac étanche ou quelque chose, fils, comme je ne veux pas de sang partout dans mon bureau. C'est bon.<end>
+
+=>a112_original
+So, you want them dead?<end>
+
+=>a112
+Tu veux qu'ils meurent ?<end>
+
+=>q113_original
+That's it son! I want you to kill Cornell and bring me his head. As for the rest, kill them too. As commoners would say... dominate them!<end>
+
+=>q113
+C'est ça, fils ! Tuer Cornell et m'apporter sa tête. Quant au reste, tuez-les aussi. Comme disent les gens... dominez-les !<end>
+
+=>a114_original
+I'm quite familiar with them.<end>
+
+=>a114
+Je les connais bien.<end>
+
+=>a115_original
+Who are these Acid Hunters?<end>
+
+=>a115
+Qui sont ces chasseurs acides ?<end>
+
+=>q116_original
+Lowlife scum, barbarians! This Cornell and his band of rats deserve nothing but the most severe punishment for what they did, so that's where you come in, son!<end>
+
+=>q116
+Pauvre con, barbares ! Ce Cornell et sa bande de rats ne méritent que la punition la plus sévère pour ce qu'ils ont fait, donc c'est là que vous entrez, fils !<end>
+
+=>a117_original
+That's horrible, but I'm not sure I know who that is.<end>
+
+=>a117
+C'est horrible, mais je ne sais pas qui c'est.<end>
+
+=>q118_original
+You deserve some rest, and I'll call you when I need the best agent in Coretech. ::Laughs.:: See you again, son.<end>
+
+=>q118
+Vous méritez un peu de repos, et je vous appellerai quand j'aurai besoin du meilleur agent dans Coretech. ::Rit.:: A bientôt, fiston.<end>
+
+=>a119_original
+What do I get with this promotion?<end>
+
+=>a119
+Qu'est-ce que j'obtiens avec cette promotion ?<end>
+
+=>q120_original
+Straight to the point, I like that, son! I most certainly do. Son, with this promotion, you become my personal agent! You will answer to me, and me only. If someone asks you where you're going and what you're doing, you can just say: "Mr. Simmons says that's none of your damn business." ::He laughs.::<end>
+
+=>q120
+Tout droit, j'aime ça, fiston ! Certainement. Fils, avec cette promotion, tu deviens mon agent personnel ! Tu vas me répondre, et moi seulement. Si quelqu'un te demande où tu vas et ce que tu fais, tu peux juste dire : "M. Simmons dit que ça ne te regarde pas." ::Il rit.::<end>
+
+=>q121_original
+With the way you've been fighting in there, son, I'm sure you can become invictus one day! If you do, having the invictus working for Coretech would be astonishing! Let me tell you something, son - you really earned this promotion!<end>
+
+=>q121
+Avec la façon dont tu t'es battu là-dedans, je suis sûr que tu peux devenir invictus un jour ! Si vous le faites, avoir les invictus travaillant pour Coretech serait étonnant! Laisse-moi te dire quelque chose, fiston, tu as vraiment gagné cette promotion !<end>
+
+=>a122_original
+Can't wait to hear it, sir.<end>
+
+=>a122
+J'ai hâte de l'entendre.<end>
+
+=>q123_original
+Beautiful! I would like to take this opportunity to personally promote you, son. I've heard that you are a good employee, and I've seen how you fight in the Arena!<end>
+
+=>q123
+Magnifique ! Je voudrais profiter de cette occasion pour vous promouvoir personnellement, fils. J'ai entendu dire que tu étais un bon employé, et j'ai vu comment tu te battais dans l'aréna !<end>
+
+=>a124_original
+Pretty darn good.<end>
+
+=>a124
+Très bien.<end>
+
+=>a125_original
+I've been having these leg cramps for quite some time now.<end>
+
+=>a125
+J'ai eu ces crampes depuis un moment.<end>
+
+=>q126_original
+Oh, I'm sure it'll go away, son. Especially after I tell you why I called you up here.<end>
+
+=>q126
+Oh, je suis sûr que ça va partir, fiston. Surtout après t'avoir dit pourquoi je t'ai appelé ici.<end>
+
+=>q127_original
+Son. I need to talk to you about something very important. I don't know if you've heard, but Edmund Knight was killed just recently.<end>
+
+=>q127
+Fils. Je dois te parler de quelque chose de très important. Je ne sais pas si vous avez entendu, mais Edmund Knight a été tué récemment.<end>
+
+=>q128_original
+I need to be alone for a while.<end>
+
+=>q128
+J'ai besoin d'être seule un moment.<end>
+
+=>q129_original
+Ah, son, you are here. What've you got for me?<end>
+
+=>q129
+Ah, fiston, tu es là. Qu'avez-vous pour moi ?<end>
+

@@ -1,0 +1,172 @@
+::Health
+PV actuels / max. À 0, t'es mort.
+
+::HealingEffectiveness
+Multiplicateur sur tous les soins reçus.
+
+::Shield
+Points de bouclier actuels / max. À l'impact, le bouclier absorbe une partie des dégâts selon la vitesse d'impact, tant qu'il reste de la charge. Il se vide aussi lentement tout seul une fois allumé.
+
+::Psi
+Points psi actuels / max, et regen par tour. Sert à lancer les pouvoirs psi.
+
+::PsiReserve
+Réserve psi actuelle / max. Alimente la regen naturelle des points psi.
+
+::Dodge
+Chances d'éviter la mêlée.
+
+::Evasion
+Chances d'éviter les tirs. Réduit aussi les dégâts d'AoE.
+
+::Fortitude
+Résiste aux debuffs physiques directs (stun, incapacité…). Monte aussi la résist poison.
+
+::Resolve
+Résiste aux debuffs mentaux (stun / incapacité psy) et atténue certains psi qui tapent l'esprit.
+
+::ToGetWeaponCritChanceMod
+Modifie tes chances de te prendre un crit d'arme ou de mains nues.
+
+::ToGetPsiCritChanceMod
+Modifie tes chances de te prendre un crit psi.
+
+::ArmorPenalty
+Malus sur esquive, évitement, furtivité et PM.
+
+::ShieldCapacity
+Dégâts max absorbables par le bouclier à pleine charge.
+
+::ShieldingDescription
+Certaines attaques percent un % de la protection — ou l'ignorent carrément.
+
+::ShieldingVeryLow
+Absorption max par coup à très faible vitesse d'impact (mêlée).
+
+::ShieldingLow
+Absorption max par coup à faible vitesse d'impact (carreaux d'arbalète).
+
+::ShieldingMedium
+Absorption max par coup à vitesse moyenne (armes à feu classiques).
+
+::ShieldingHigh
+Absorption max par coup à haute vitesse d'impact (fusils de précision).
+
+::ShieldingVeryHigh
+Absorption max par coup à très haute vitesse d'impact (armes énergétiques).
+
+::ResistanceDescription
+L'armure absorbe soit le %, soit le flat — le meilleur des deux pour toi. Poison et dégâts mentaux directs passent souvent outre.
+
+Le chiffre entre crochets modifie les dégâts qui ont déjà traversé bouclier + résist.
+
+::ResistanceMechanical
+Absorption des dégâts mécaniques par l'armure.
+
+::ResistanceHeat
+Absorption des dégâts de chaleur.
+
+::ResistanceCold
+Absorption des dégâts de froid.
+
+::ResistanceElectricity
+Absorption des dégâts électriques.
+
+::ResistanceAcid
+Absorption des dégâts d'acide.
+
+::ResistanceEnergy
+Absorption des dégâts d'énergie.
+
+::ResistanceBio
+Absorption des dégâts bio.
+
+::Stealth
+Qualité de déplacement furtif. Plus ton rating est haut face à la détection ennemie, plus tu restes invisible. Trop bas = spot instant à portée max.
+
+::Detection
+Vitesse pour repérer les personnages cachés.
+
+::TrapDetection
+Qualité de détection des pièges (dérivée de détection + skill Pièges).
+
+::WeaponDamage
+Fourchette de dégâts de l'attaque normale. Inclut skill et force (mêlée) seulement.
+
+::WeaponActionPointCost
+PA pour une attaque normale avec l'arme actuelle.
+
+::WeaponImpactSpeed
+Vitesse d'impact de l'attaque.
+
+::WeaponCritChance
+Taux de crit sur attaque normale.
+
+::WeaponCritBonus
+Bonus de dégâts sur crit d'arme.
+
+::Initiative
+Qui joue en premier au début du combat.
+
+::WeaponMaxRange
+Portée max de l'arme.
+
+::WeaponOptimalRange
+Portée optimale. Au-delà, la précision chute plus vite.
+
+::MetathermicsSkill
+Skill effectif pour les psi métathermiques.
+
+::MetathermicsCritChance
+Taux de crit (métathermiques).
+
+::MetathermicsCritBonus
+Bonus de dégâts sur crit métathermique.
+
+::MetathermicsPsiCost
+Mod. de coût psi de base (métathermiques).
+
+::PsychokinesisSkill
+Skill effectif pour les psi psychokinétiques.
+
+::PsychokinesisCritChance
+Taux de crit (psychokinèse).
+
+::PsychokinesisCritBonus
+Bonus de dégâts sur crit psychokinétique.
+
+::PsychokinesisPsiCost
+Mod. de coût psi de base (psychokinèse).
+
+::ThoughtControlSkill
+Skill effectif pour le contrôle mental.
+
+::ThoughtControlCritChance
+Taux de crit (contrôle mental).
+
+::ThoughtControlCritBonus
+Bonus de dégâts sur crit contrôle mental.
+
+::ThoughtControlPsiCost
+Mod. de coût psi de base (contrôle mental).
+
+::TemporalManipulationSkill
+Skill effectif pour la manipulation temporelle.
+
+::TemporalManipulationCritChance
+Taux de crit (temporel).
+
+::TemporalManipulationCritBonus
+Bonus de dégâts sur crit temporel.
+
+::TemporalManipulationPsiCost
+Mod. de coût psi de base (temporel).
+
+::SpecialAttackBonusDamage
+Boost des dégâts des attaques spéciales d'arme / mains nues (pas les spéciales « gratuites »).
+
+::ActionPoints
+PA en début de tour. Pour toute action, y compris se déplacer.
+
+::MovementPoints
+PM en début de tour. Déplacement uniquement.

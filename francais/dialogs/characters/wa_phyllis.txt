@@ -1,0 +1,406 @@
+=>q1_original
+::The woman turns toward you, slowly and calmly. She looks at you with emotionless eyes, greets you with an impassive expression, and speaks to you in a toneless voice.::
+
+$(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
+
+=>q1
+::La femme se tourne vers vous, lentement et calmement. Elle vous regarde avec des yeux sans émotion, vous salue avec une expression impassible et vous parle d'une voix sans ton.::
+
+$(context.player.Name). Je m'appelle Phyllis et j'effectue des réparations sur toutes les oculites, ou si vous préférez un terme différent, je propose des « soins médicaux ».<end>
+
+=>a2_original
+Nice to meet you, Phyllis.<end>
+
+=>a2
+Ravi de vous rencontrer, Phyllis.<end>
+
+=>q3_original
+The pleasure is mine. If you get damaged, do not hesitate to see me. During my time here, not a single one of my patients expired.<end>
+
+=>q3
+Le plaisir est pour moi. Si vous êtes endommagé, n'hésitez pas à me voir. Pendant mon séjour ici, pas un seul de mes patients n’est décédé.<end>
+
+=>a4_original
+Expired?<end>
+
+=>a4
+Expiré?<end>
+
+=>q5_original
+Dead, deceased, departed... One that has ceased to be.<end>
+
+=>q5
+Mort, défunt, disparu... Celui qui a cessé d'exister.<end>
+
+=>a6_original
+I have no wish to expire. I'll see you if I need help.<end>
+
+=>a6
+Je n'ai aucune envie d'expirer. Je te verrai si j'ai besoin d'aide.<end>
+
+=>q7_original
+Please do. All treatment will be free of charge.<end>
+
+=>q7
+S'il vous plaît, faites-le. Tous les soins seront gratuits.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Show me what you have for sale. ::Barter.::<end>
+
+=>a9
+Montre-moi ce que tu as à vendre. ::Troc.::<end>
+
+=>a10_original
+Could you take a look at my injuries?<end>
+
+=>a10
+Pourriez-vous jeter un œil à mes blessures ?<end>
+
+=>q11_original
+You are severely damaged, $(context.player.Name). I will fix you up.<end>
+
+=>q11
+Vous êtes gravement endommagé, $(context.player.Name). Je vais te soigner.<end>
+
+=>a12_original
+::Let her treat you.::<end>
+
+=>a12
+::Laissez-la vous soigner.::<end>
+
+=>q13_original
+You are lightly damaged. The repairs will not take too long.<end>
+
+=>q13
+Vous êtes légèrement endommagé. Les réparations ne prendront pas trop de temps.<end>
+
+=>a14_original
+You mentioned "repairing" Oculites...<end>
+
+=>a14
+Vous avez parlé de "réparer" les Oculites...<end>
+
+=>q15_original
+Yes, that is what I said. Why? Is that term bothering you in that particular context?<end>
+
+=>q15
+Oui, c'est ce que j'ai dit. Pourquoi? Est-ce que ce terme vous dérange dans ce contexte particulier ?<end>
+
+=>a16_original
+It does, actually. How can you say that you "repair" human beings? Unless there's something I'm missing here...<end>
+
+=>a16
+En fait, c’est le cas. Comment peut-on dire que vous « réparez » les êtres humains ? À moins qu'il y ait quelque chose qui me manque ici...<end>
+
+=>q17_original
+You are not the first person to tell me that. Let me explain to you why I use such terminology.<end>
+
+=>q17
+Vous n'êtes pas la première personne à me dire cela. Laissez-moi vous expliquer pourquoi j'utilise une telle terminologie.<end>
+
+=>q18_original
+I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
+
+=>q18
+Je comprends que nous, les humains, croyons que nous sommes en quelque sorte spéciaux, en quelque sorte uniques, que nous possédons d'une manière ou d'une autre une certaine propriété, peut-être... une âme si vous voulez. Certains diraient même que nous avons été créés par une puissance supérieure. Quel que soit le cas, c’est notre manque de compréhension, ou mieux encore, notre manque de connaissances sur les humains ou les autres créatures vivantes, qui nous fait penser cela.<end>
+
+=>q19_original
+From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
+
+=>q19
+De mon point de vue, la réalité est différente. Quand je regarde un corps vivant, je vois des muscles qui se contractent pour tirer les tendons qui plient le bras ; Je vois un cœur, une simple pompe, l'organe le plus facilement remplacé, qui fait exactement cela : pomper du liquide. Je vois ce même liquide contenant des globules rouges, qui à leur tour contiennent de l'hémoglobine, qui contient des molécules de fer qui se lient à l'oxygène, qui est ensuite transporté vers les cellules pour les alimenter avec cet oxygène - le carburant.<end>
+
+=>q20_original
+It is all these... mechanisms, chemical reactions, electrical signals... within our bodies that make it function. And it is all these smaller living beings that make up a whole, larger being that falsely considers itself a unique entity - one of a kind. It is made of flesh, true, but in essence, it is nothing but a complex machinery, and those I repair. 
+
+And only if I see it as such - a living machine - will I be able to reach a new level, reach new frontiers of medicine... and perhaps one day "repair" something that we dared not touch, for we were observing it from the wrong angle, our perception impeded by false presumptions.
+<end>
+
+=>q20
+Ce sont tous ces... mécanismes, réactions chimiques, signaux électriques... au sein de notre corps qui le font fonctionner. Et ce sont tous ces êtres vivants plus petits qui constituent un être entier, plus grand, qui se considère à tort comme une entité unique, unique en son genre. Il est fait de chair, c'est vrai, mais au fond, ce n'est qu'une machinerie complexe, et celles-là, je les répare. 
+
+Et c'est seulement si je le vois comme tel - une machine vivante - que je pourrai atteindre un nouveau niveau, franchir de nouvelles frontières de la médecine... et peut-être un jour "réparer" quelque chose que nous n'osions pas toucher, car nous l'observions sous un mauvais angle, notre perception entravée par de fausses présomptions.
+<end>
+
+=>q21_original
+There you are. And one more thing that I like to point out whenever this discussion gets brought up: All living things, including us human beings, are mainly made from some of the most common chemical elements: hydrogen, oxygen, carbon and nitrogen. If we were somehow special... somehow unique or, yes, even *created* by something or someone greater - in case you believe something like that - then why aren't we made from, say, polonium? Or bismuth, yes... That would make us *very* unique, don't you think?<end>
+
+=>q21
+Vous y êtes. Et encore une chose que j'aime souligner chaque fois que cette discussion est évoquée : tous les êtres vivants, y compris nous, les êtres humains, sont principalement constitués de certains des éléments chimiques les plus courants : l'hydrogène, l'oxygène, le carbone et l'azote. Si nous étions d'une manière ou d'une autre spéciaux... d'une certaine manière uniques ou, oui, même *créés* par quelque chose ou quelqu'un de plus grand - au cas où vous croiriez quelque chose comme ça - alors pourquoi ne sommes-nous pas faits, disons, de polonium ? Ou du bismuth, oui... Cela nous rendrait *très* uniques, vous ne trouvez pas ?<end>
+
+=>q22_original
+Think about it. I have not told you anything untrue.<end>
+
+=>q22
+Pensez-y. Je ne vous ai rien dit de faux.<end>
+
+=>a23_original
+I just find the choice of words strange. That is all.<end>
+
+=>a23
+Je trouve juste le choix des mots étrange. C'est tout.<end>
+
+=>q24_original
+In that case, I will give you an explanation, $(context.player.Name).<end>
+
+=>q24
+Dans ce cas, je vais vous donner une explication, $(context.player.Name).<end>
+
+=>a25_original
+It doesn't bother me, not at all. I just suspect that there is a reason for using that specific word in that context, and I'd like to hear it.<end>
+
+=>a25
+Cela ne me dérange pas, pas du tout. Je soupçonne simplement qu'il y a une raison pour utiliser ce mot spécifique dans ce contexte, et j'aimerais l'entendre.<end>
+
+=>a26_original
+What can you tell me about Oculus?<end>
+
+=>a26
+Que pouvez-vous me dire sur Oculus ?<end>
+
+=>q27_original
+As far as I am aware, unknown beings, dubbed Godmen by Azif, built Oculus for purposes... unknown. I have inquired about this subject on numerous occasions, but most of the answers can be summed up with, "We're not sure, but we think..."<end>
+
+=>q27
+Pour autant que je sache, des êtres inconnus, surnommés Godmen par Azif, ont construit Oculus à des fins... inconnues. Je me suis renseigné à ce sujet à de nombreuses reprises, mais la plupart des réponses peuvent se résumer à : "Nous n'en sommes pas sûrs, mais nous pensons..."<end>
+
+=>q28_original
+Living in a place you know little about can be both fascinating and frightening. And yes, I have emotions, despite what *you* may think of me; I noticed your stare. Now, fascinating, I think it is obvious why. Oculus is so much more advanced than anything what you will find outside of it. Also, every new discovery we make opens new possibilities and knowledge. Frightening, I think it's also obvious why...<end>
+
+=>q28
+Vivre dans un endroit que l’on connaît peu peut être à la fois fascinant et effrayant. Et oui, j'ai des émotions, malgré ce que *vous* pensez de moi ; J'ai remarqué ton regard. Maintenant, c’est fascinant, je pense que la raison est évidente. Oculus est bien plus avancé que tout ce que vous trouverez en dehors de lui. De plus, chaque nouvelle découverte que nous faisons ouvre de nouvelles possibilités et connaissances. Effrayant, je pense que c'est aussi évident pourquoi...<end>
+
+=>q29_original
+Ignoring the deadly drop - if you trip and fall into the darkness - which, granted, never destroyed any oculites so far - who knows what else we will find here. Maybe one day, our curiosity will lead us to our destruction. No one can tell for certain.<end>
+
+=>q29
+Ignorant la chute mortelle - si vous trébuchez et tombez dans l'obscurité - qui, certes, n'a jamais détruit aucune oculite jusqu'à présent - qui sait ce que nous trouverons d'autre ici. Peut-être qu'un jour, notre curiosité nous mènera à notre destruction. Personne ne peut le dire avec certitude.<end>
+
+=>a30_original
+Are you a machine?<end>
+
+=>a30
+Êtes-vous une machine ?<end>
+
+=>q31_original
+::She stares at you blankly.::<end>
+
+=>q31
+::Elle vous regarde d'un air vide.::<end>
+
+=>q32_original
+I may seem like one, due to my views and behavior, but I am not.<end>
+
+=>q32
+J’en ai peut-être l’air, en raison de mes opinions et de mon comportement, mais ce n’est pas le cas.<end>
+
+=>q33_original
+::A genuine smile shatters her bland expression.::
+
+Does that make you feel better?<end>
+
+=>q33
+::Un sourire sincère brise son expression fade.::
+
+Est-ce que cela vous fait vous sentir mieux ?<end>
+
+=>a34_original
+How and why did you join Oculus?<end>
+
+=>a34
+Comment et pourquoi avez-vous rejoint Oculus ?<end>
+
+=>q35_original
+Everyone in Oculus was carefully evaluated for a prolonged time before finally being approached with the offer to join Oculus. Such was my case, yet, unlike most oculites here, I did not seek Oculus... Oculus sought me.<end>
+
+=>q35
+Tout le monde chez Oculus a été soigneusement évalué pendant une période prolongée avant de finalement être contacté avec une offre de rejoindre Oculus. Tel était mon cas, et pourtant, contrairement à la plupart des oculites d'ici, je n'ai pas cherché Oculus... Oculus m'a cherché.<end>
+
+=>a36_original
+Can you explain?<end>
+
+=>a36
+Pouvez-vous expliquer ?<end>
+
+=>q37_original
+Certainly. Most oculites started out by performing smaller, simpler jobs. Then, naturally, as they progressed and displayed the ability to perform more difficult tasks, they were given more difficult tasks, and if they could perform even more difficult, they were give those, and so on and so forth.<end>
+
+=>q37
+Certainement. La plupart des oculites ont commencé par effectuer des tâches plus petites et plus simples. Puis, naturellement, à mesure qu’ils progressaient et démontraient leur capacité à accomplir des tâches plus difficiles, on leur confiait des tâches plus difficiles, et s’ils pouvaient accomplir des tâches encore plus difficiles, on leur donnait celles-là, et ainsi de suite.<end>
+
+=>q38_original
+I will take this opportunity, $(context.player.Name), to say a few words about the progression of an oculite: In Oculus, there are no ranks, levels or titles to attain; we are all the same, and we are not. You will always be an oculite, but some oculites are better than others, and it is the level of your own skills and abilities that determines your duties - hence your place in Oculus - not hierarchical gradation.
+
+In any case, let us get back to the subject at hand.<end>
+
+=>q38
+J'en profite, $(context.player.Name), pour dire quelques mots sur la progression d'une oculite : Dans Oculus, il n'y a pas de rangs, de niveaux ou de titres à atteindre ; nous sommes tous pareils, et nous ne le sommes pas. Vous serez toujours une oculite, mais certaines oculites sont meilleures que d'autres, et c'est le niveau de vos propres compétences et aptitudes qui détermine vos fonctions - d'où votre place dans Oculus - et non la gradation hiérarchique.
+
+Quoi qu’il en soit, revenons au sujet qui nous occupe.<end>
+
+=>q39_original
+I was selected based on my performance as a physician and my will to perfect my skills to the absolute maximum. I was approached and offered advanced medical knowledge, beyond what I had available at the time, in exchange for becoming a part of Oculus. I could not refuse.<end>
+
+=>q39
+J'ai été sélectionné en fonction de mes performances en tant que médecin et de ma volonté de perfectionner mes compétences au maximum. J'ai été approché et on m'a proposé des connaissances médicales avancées, au-delà de ce dont je disposais à l'époque, en échange de mon adhésion à Oculus. Je ne pouvais pas refuser.<end>
+
+=>q40_original
+I do not regret my decision. Not even a bit.<end>
+
+=>q40
+Je ne regrette pas ma décision. Pas même un peu.<end>
+
+=>a41_original
+Who is that six-fingered cyborg?<end>
+
+=>a41
+Qui est ce cyborg à six doigts ?<end>
+
+=>q42_original
+A fascinating creature, unlike any I have ever seen, and I am sure I am not speaking only for myself. He does not seem very concerned with any one of us and performs his own tasks within Oculus as if he were alone.<end>
+
+=>q42
+Une créature fascinante, différente de toutes celles que j'ai jamais vues, et je suis sûr que je ne parle pas seulement pour moi. Il ne semble pas très concerné par aucun d’entre nous et accomplit ses propres tâches au sein d’Oculus comme s’il était seul.<end>
+
+=>a43_original
+What does he do around here, exactly?<end>
+
+=>a43
+Que fait-il ici, exactement ?<end>
+
+=>q44_original
+He is one of the clients. Azif informed us that he is allowed to move freely around Oculus, and that he is not to be disturbed. I have not seen him in some time, though, but he might return at any moment.<end>
+
+=>q44
+Il fait partie des clients. Azif nous a informé qu'il est autorisé à se déplacer librement autour d'Oculus et qu'il ne doit pas être dérangé. Cependant, je ne l'ai pas vu depuis un certain temps, mais il pourrait revenir à tout moment.<end>
+
+=>q45_original
+He is one of the clients. Azif told us that he can move freely around Oculus, and that he is not to be disturbed. That is all I can tell you about him.<end>
+
+=>q45
+Il fait partie des clients. Azif nous a dit qu'il peut se déplacer librement autour d'Oculus et qu'il ne doit pas être dérangé. C'est tout ce que je peux vous dire sur lui.<end>
+
+=>a46_original
+Interesting, but I have other questions.<end>
+
+=>a46
+Intéressant, mais j'ai d'autres questions.<end>
+
+=>q47_original
+I am sure you do.<end>
+
+=>q47
+Je suis sûr que oui.<end>
+
+=>a48_original
+What can you tell me about those robed oculites? <end>
+
+=>a48
+Que pouvez-vous me dire sur ces oculites en robe ? <end>
+
+=>q49_original
+Khazum Morakht? We call them Whisperers, but that is the proper name of the clan they belong to. They came from North Underrail, as far as I understood. I could be wrong, though. You will find them throughout Oculus, standing in silence and almost completely motionless.<end>
+
+=>q49
+Khazoum Morakht ? Nous les appelons les Chuchoteurs, mais c'est le nom propre du clan auquel ils appartiennent. Ils venaient du Nord Underrail, d'après ce que j'ai compris. Mais je peux me tromper. Vous les trouverez partout dans Oculus, debout en silence et presque complètement immobiles.<end>
+
+=>q50_original
+Their task is to guard Oculus, but frankly, they have not seen much action, and you can presume why. At least not since I arrived here.
+
+You will get used to their presence soon.<end>
+
+=>q50
+Leur tâche est de garder Oculus, mais franchement, ils n’ont pas vu beaucoup d’action, et vous pouvez deviner pourquoi. Du moins, pas depuis mon arrivée ici.
+
+Vous vous habituerez bientôt à leur présence.<end>
+
+=>a51_original
+I'd like to ask you about some of the people here.<end>
+
+=>a51
+J'aimerais vous poser des questions sur certaines personnes ici.<end>
+
+=>q52_original
+If you want to know more about other oculites, ask them yourself.<end>
+
+=>q52
+Si vous souhaitez en savoir plus sur les autres oculites, posez-leur la question vous-même.<end>
+
+=>q53_original
+That is my recommendation.<end>
+
+=>q53
+C'est ma recommandation.<end>
+
+=>a54_original
+Goodbye, Phyllis.<end>
+
+=>a54
+Au revoir, Phyllis.<end>
+
+=>a55_original
+It's a pleasure, Doctor.<end>
+
+=>a55
+C'est un plaisir, docteur.<end>
+
+=>a56_original
+Hey there, how's it going?<end>
+
+=>a56
+Salut, comment ça va ?<end>
+
+=>q57_original
+It... is going well. Thank you for asking.<end>
+
+=>q57
+Ça... va bien. Merci d'avoir demandé.<end>
+
+=>a58_original
+::Remain silent.::<end>
+
+=>a58
+::Restez silencieux.::<end>
+
+=>q59_original
+::She also remains silent, probably waiting for you to say something.::<end>
+
+=>q59
+::Elle reste également silencieuse, attendant probablement que vous disiez quelque chose.::<end>
+
+=>a60_original
+::Remain silent.::<end>
+
+=>a60
+::Restez silencieux.::<end>
+
+=>q61_original
+Did you want to talk to me about something?<end>
+
+=>q61
+Veux-tu me parler de quelque chose ?<end>
+
+=>a62_original
+So, I had some questions I wanted to ask you.<end>
+
+=>a62
+J'avais donc quelques questions à vous poser.<end>
+
+=>q63_original
+Go ahead, I am listening.<end>
+
+=>q63
+Allez-y, je vous écoute.<end>
+
+=>q64_original
+Yes?<end>
+
+=>q64
+Oui?<end>
+

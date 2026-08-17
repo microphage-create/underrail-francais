@@ -1,0 +1,386 @@
+=>q1_original
+::The light coming from the console's display illuminates the gratings on which you stand, catching your attention to look below. Down there, you see that this cabin you're in right now is on top of a large machine with countless coupled gears and long pipes all leading to the head of the engine. The observation point from which you stand doesn't allow you to see the bottom of this massive motor which is used to run the intricate hanging crane system outside. 
+
+The display on the console showcases two green graphs, one on each monitor, with several large red circles, seemingly placed at random all throughout the scheme. These dots most likely represent the positions of the crane's many lifting arms available at your disposal. Some sections at both monitors are starting to fade out, the others outright not showing up. In the top right corner of the left screen you can see what seems to be a power bar, and it's showing a number: *21*. In between the two large monitors is a third one which shows two large rectangles on it. However, the diminished visuals there leave you with no useful information other than the fact that they are pulsating in orange color.::<end>
+
+=>q1
+::La lumière provenant de l'affichage de la console éclaire les grilles sur lesquelles vous vous tenez, captant votre attention pour regarder ci-dessous. Là-bas, vous voyez que cette cabine dans laquelle vous êtes en ce moment est au-dessus d'une grande machine avec d'innombrables engrenages couplés et de longs tuyaux qui mènent à la tête du moteur. Le point d'observation à partir duquel vous êtes debout ne vous permet pas de voir le fond de ce moteur massif qui est utilisé pour exécuter le système de grue suspendu complexe à l'extérieur.
+
+L'affichage sur la console présente deux graphiques verts, un sur chaque moniteur, avec plusieurs grands cercles rouges, apparemment placés au hasard tout au long du schéma. Ces points représentent probablement les positions des nombreux bras de levage de la grue disponibles à votre disposition. Certaines sections des deux moniteurs commencent à s'effacer, les autres n'apparaissent pas. Dans le coin supérieur droit de l'écran gauche, vous pouvez voir ce qui semble être une barre de puissance, et cela montre un nombre : *21*. Entre les deux grands moniteurs est un troisième qui montre deux grands rectangles sur lui. Cependant, les visuels diminués là vous laissent avec aucune information utile autre que le fait qu'ils sont pulsant en couleur orange.::<end>
+
+=>q2_original
+::With a few swipes, you clean the accumulated dust from the keyboard. The letters on them are still preserved and it doesn't take you long to figure the controls out.::
+
+::This vantage point allows you to see very far away. By leaning back and forth you can observe every section of the room. Outside the double doors you've walked in is a wide open clear area suitable for lowering anything you can pick up with the crane.::
+
+<end>
+
+=>q2
+::Avec quelques swips, vous nettoyez la poussière accumulée du clavier. Les lettres sur eux sont toujours conservées et il ne vous faut pas longtemps pour comprendre les contrôles.::
+
+::Ce point de vue vous permet de voir très loin. En vous penchant, vous pouvez observer chaque section de la pièce. À l'extérieur des portes doubles que vous avez marché est une large zone libre ouverte adapté pour abaisser tout ce que vous pouvez ramasser avec la grue.::
+
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is functional.::
+
+::Clear trash from: ::<end>
+
+=>q4
+::Affichage de puissance : $(context.loc dun cc sChannels craneUses). La console est fonctionnelle.::
+
+::Effacer les ordures de :::<end>
+
+=>a5_original
+::North channel.::<end>
+
+=>a5
+::Canal nord.::<end>
+
+=>q6_original
+::Use the crane to: ::<end>
+
+=>q6
+::Utilisez la grue pour :::<end>
+
+=>a7_original
+::Bring over the western floating barrel.::<end>
+
+=>a7
+::Apportez le baril flottant ouest.::<end>
+
+=>q8_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q8
+::À l'aide de la grue, vous réussissez à ramasser le canon et à l'amener devant la cabine.::
+
+<end>
+
+=>a9_original
+::Bring over the floating corpse in the east.::<end>
+
+=>a9
+::Amenez le corps flottant à l'est.::<end>
+
+=>q10_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q10
+::En utilisant la grue, vous réussissez à ramasser la boîte et à la ramener devant la cabine.::
+
+<end>
+
+=>a11_original
+::Back.::<end>
+
+=>a11
+::En arrière.::<end>
+
+=>a12_original
+::South channel.::<end>
+
+=>a12
+::Chaîne sud.::<end>
+
+=>q13_original
+::Use the crane to: ::<end>
+
+=>q13
+::Utilisez la grue pour :::<end>
+
+=>a14_original
+::Bring over the western floating barrel.::<end>
+
+=>a14
+::Apportez le baril flottant ouest.::<end>
+
+=>q15_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q15
+::À l'aide de la grue, vous réussissez à ramasser le canon et à l'amener devant la cabine.::
+
+<end>
+
+=>a16_original
+::Bring over the eastern floating box.::<end>
+
+=>a16
+::Apportez la boîte flottante orientale.::<end>
+
+=>q17_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q17
+::En utilisant la grue, vous réussissez à ramasser la boîte et à la ramener devant la cabine.::
+
+<end>
+
+=>a18_original
+::Clear the obstacle next to most southern point of the section.::<end>
+
+=>a18
+::Effacer l'obstacle à côté du point le plus au sud de la section.::<end>
+
+=>q19_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q19
+::En utilisant la grue, vous réussissez à dégager l'obstacle.::
+
+<end>
+
+=>a20_original
+::Middle channel. ::<end>
+
+=>a20
+::Canal moyen.::<end>
+
+=>q21_original
+::Use the crane to: ::<end>
+
+=>q21
+::Utilisez la grue pour :::<end>
+
+=>a22_original
+::Bring over the northen floating box.::<end>
+
+=>a22
+::Apportez la boîte flottante nord.::<end>
+
+=>q23_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q23
+::En utilisant la grue, vous réussissez à ramasser la boîte et à la ramener devant la cabine.::
+
+<end>
+
+=>a24_original
+::Bring over the southern floating barrel.::<end>
+
+=>a24
+::Apportez le canon flottant du sud.::<end>
+
+=>q25_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q25
+::À l'aide de la grue, vous réussissez à ramasser le canon et à l'amener devant la cabine.::
+
+<end>
+
+=>a26_original
+::East platform.::<end>
+
+=>a26
+::Plate-forme Est.::<end>
+
+=>q27_original
+::Use the crane to: ::<end>
+
+=>q27
+::Utilisez la grue pour :::<end>
+
+=>a28_original
+::Clear the obstacle next to the north sewage pool.::<end>
+
+=>a28
+::Dégagez l'obstacle à côté de la piscine d'égouts nord.::<end>
+
+=>q29_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q29
+::En utilisant la grue, vous réussissez à dégager l'obstacle.::
+
+<end>
+
+=>a30_original
+::Clear the obstacle next to the south sewage pool.::<end>
+
+=>a30
+::Dégagez l'obstacle à côté de la piscine d'égouts sud.::<end>
+
+=>q31_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q31
+::En utilisant la grue, vous réussissez à dégager l'obstacle.::
+
+<end>
+
+=>a32_original
+::Bring over the floating barrel which is inside the southern sewage pool.::<end>
+
+=>a32
+::Apportez le baril flottant qui se trouve à l'intérieur de la piscine d'égout du sud.::<end>
+
+=>q33_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q33
+::En utilisant la grue, vous réussissez à dégager l'obstacle.::
+
+<end>
+
+=>a34_original
+::West platform.::<end>
+
+=>a34
+::La plate-forme ouest.::<end>
+
+=>q35_original
+::Use the crane to: ::<end>
+
+=>q35
+::Utilisez la grue pour :::<end>
+
+=>a36_original
+::Clear the trash which is covering the northen sewage pool and bring the box closer to you.::<end>
+
+=>a36
+::Dégagez les ordures qui recouvrent la piscine d'égouts du nord et rapprochez-vous de vous.::<end>
+
+=>q37_original
+::Using the crane you manage to remove the obstacles and move the box closer to the cabin. ::
+
+<end>
+
+=>q37
+::En utilisant la grue, vous réussissez à enlever les obstacles et déplacer la boîte plus près de la cabine.::
+
+<end>
+
+=>a38_original
+::Clear the trash in the middle, which is east from the small console.::<end>
+
+=>a38
+::Videz la poubelle au milieu, qui est à l'est de la petite console.::<end>
+
+=>q39_original
+::Using the crane you manage to remove the trash. ::
+
+<end>
+
+=>q39
+::En utilisant la grue, vous réussissez à enlever la poubelle.::
+
+<end>
+
+=>a40_original
+::Clear the trash in the middle, which is south from the small console.::<end>
+
+=>a40
+::Videz la poubelle au milieu, qui est au sud de la petite console.::<end>
+
+=>q41_original
+::Using the crane you manage to remove the trash. ::
+
+<end>
+
+=>q41
+::En utilisant la grue, vous réussissez à enlever la poubelle.::
+
+<end>
+
+=>a42_original
+::Clear the crates in the south, which are east from the sewage pool.::<end>
+
+=>a42
+::Effacer les caisses au sud, qui sont à l'est de la piscine d'égouts.::<end>
+
+=>q43_original
+::Using the crane you manage to remove the crates. ::
+
+<end>
+
+=>q43
+::En utilisant la grue, vous réussissez à enlever les caisses.::
+
+<end>
+
+=>a44_original
+::Clear the trash in the south, which is south from the sewage pool.::<end>
+
+=>a44
+::Videz les ordures dans le sud, qui est au sud de la piscine d'égouts.::<end>
+
+=>q45_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q45
+::En utilisant la grue, vous réussissez à dégager l'obstacle.::
+
+<end>
+
+=>a46_original
+::Bring over the floating box which is inside the southern sewage pool.::<end>
+
+=>a46
+::Apportez la boîte flottante qui se trouve à l'intérieur de la piscine d'égout du sud.::<end>
+
+=>q47_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q47
+::En utilisant la grue, vous réussissez à ramasser la boîte et à la ramener devant la cabine.::
+
+<end>
+
+=>a48_original
+::Leave.::<end>
+
+=>a48
+::Partir.::<end>
+
+=>q49_original
+::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is no longer responding to any of your inputs. It has self locked itself.::<end>
+
+=>q49
+::Affichage de puissance : $(context.loc dun cc sChannels craneUses). La console ne répond plus à aucune de vos entrées. Il s'est enfermé lui-même.::<end>
+
+=>a50_original
+::Leave.::<end>
+
+=>a50
+::Partir.::<end>
+
+=>q51_original
+::Most of the display has been turned off. Little what was left can be barely seen as it's mostly faded out. All of the controls have become unresponsive. All three monitors share a common message: Power Critical!::<end>
+
+=>q51
+::La plupart de l'écran a été éteint. Peu de ce qui restait peut à peine être vu comme il est presque disparu. Tous les contrôles sont devenus insensibles. Les trois moniteurs partagent un message commun : Power Critical !::<end>
+

@@ -1,0 +1,114 @@
+=>q1_original
+::Session in progress.::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>q1
+::Séance en cours.::
+
+::Total des captures : $(context. Prise de vueRangeConsoleData.TotalShots)::
+::Affichages : $(context. Tirer sur RangeConsoleData. Hits) ($(context.ShootingRangeConsoleData. Pourcentage)::
+::Mlle : $(context. ShootingRangeConsoleData.Misses) ($ (context. TournageRangeConsoleData.MissesPourcentage)%)::
+::Dommages moyens : $(context. TournageRangeConsoleData.MoyenneDamage)::<end>
+
+=>a2_original
+::End session::<end>
+
+=>a2
+::Fin de la session::<end>
+
+=>q3_original
+::Session ended. Final statistics: ::
+
+::Total shots: $(context.ShootingRangeConsoleData.TotalShots)::
+::Hits: $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Misses: $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
+
+=>q3
+::La séance est terminée. Statistiques finales:::
+
+::Total des captures : $(context. Prise de vueRangeConsoleData.TotalShots)::
+::Affichages : $(context. Tirer sur RangeConsoleData. Hits) ($(context.ShootingRangeConsoleData. Pourcentage)::
+::Mlle : $(context. ShootingRangeConsoleData.Misses) ($ (context. TournageRangeConsoleData.MissesPourcentage)%)::
+::Dommages moyens : $(context. TournageRangeConsoleData.MoyenneDamage)::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Continue session::<end>
+
+=>a5
+::Session suivante::<end>
+
+=>q6_original
+::Welcome to the Shooting Range. 
+
+What do you wish to do?::<end>
+
+=>q6
+::Bienvenue au champ de tir.
+
+Que voulez-vous faire ?::<end>
+
+=>a7_original
+::Configure target distance::<end>
+
+=>a7
+::Configurer la distance cible::<end>
+
+=>q8_original
+::Choose target distance.::<end>
+
+=>q8
+::Choisissez la distance cible.::<end>
+
+=>a9_original
+::5 meters::<end>
+
+=>a9
+::5 mètres::<end>
+
+=>a10_original
+::8 meters::<end>
+
+=>a10
+::8 mètres::<end>
+
+=>a11_original
+::10 meters::<end>
+
+=>a11
+::10 mètres::<end>
+
+=>a12_original
+::Leave it as it is::<end>
+
+=>a12
+::Laisse-le comme il est::<end>
+
+=>a13_original
+::Start new session::<end>
+
+=>a13
+::Démarrer une nouvelle session::<end>
+
+=>q14_original
+Session started.<end>
+
+=>q14
+La séance a commencé.<end>
+
+=>a15_original
+::Leave::<end>
+
+=>a15
+::Partir::<end>
+
