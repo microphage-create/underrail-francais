@@ -1,26 +1,30 @@
-# Copie le pack FR v2 vers l'install Steam. Jeu fermé. Admin parfois requis.
+# Install one language pack into Steam. Close the game first.
+param(
+  [string]$Pack = "francais",
+  [string]$GameRoot = "C:\Program Files (x86)\Steam\steamapps\common\Underrail"
+)
 $ErrorActionPreference = "Stop"
-$src = Join-Path $PSScriptRoot "francais"
-$dst = "C:\Program Files (x86)\Steam\steamapps\common\Underrail\data\localization\francais"
-if (-not (Test-Path $src)) { throw "Pack introuvable: $src" }
-if (-not (Test-Path (Split-Path $dst))) { throw "Install Underrail introuvable" }
+$src = Join-Path $PSScriptRoot "packs\$Pack"
+if (-not (Test-Path $src)) { throw "Pack not found: $src" }
+$loc = Join-Path $GameRoot "data\localization"
+if (-not (Test-Path $loc)) { throw "Underrail localization folder not found: $loc" }
+$dst = Join-Path $loc $Pack
 Write-Host "Source: $src"
 Write-Host "Dest:   $dst"
 if (Test-Path $dst) {
   $bakRoot = Join-Path $PSScriptRoot "backups"
   New-Item -ItemType Directory -Force -Path $bakRoot | Out-Null
-  $bak = Join-Path $bakRoot "francais.backup-$(Get-Date -Format yyyyMMdd-HHmmss)"
+  $bak = Join-Path $bakRoot "$Pack.backup-$(Get-Date -Format yyyyMMdd-HHmmss)"
   Write-Host "Backup -> $bak"
   Copy-Item $dst $bak -Recurse -Force
 }
 New-Item -ItemType Directory -Force -Path $dst | Out-Null
-# Copier le *contenu* (évite dest\francais\francais)
 Copy-Item (Join-Path $src '*') $dst -Recurse -Force
-# Dossier niqué d'un vieil install
-$nested = Join-Path $dst "francais"
+$nested = Join-Path $dst $Pack
 if (Test-Path $nested) {
   Remove-Item $nested -Recurse -Force
-  Write-Host "Supprime nest francais\francais"
+  Write-Host "Removed nested $Pack\$Pack"
 }
-Write-Host "OK. Options -> Language -> Francais. Quitter le process. Relancer."
-Get-Content (Join-Path $dst "info.txt")
+$info = Join-Path $dst "info.txt"
+Write-Host "OK. Options -> Language -> $((Get-Content $info -Raw).Trim())"
+Write-Host "Quit the process, then relaunch."

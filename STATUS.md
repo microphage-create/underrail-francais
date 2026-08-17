@@ -1,4 +1,8 @@
-# Status — Underrail FR v2
+# Status — packs
+
+Hub : un dossier = une langue (`packs/francais` aujourd’hui).
+
+# Status — français v2
 
 Couverture : **1042** dialogues + **59** knowledge (héritage v1, FR présent).  
 Nickel (voix + charte) : **amorcé**.

@@ -8,7 +8,7 @@ Ce dépôt n’est **pas** un produit officiel. Stygian expose un système de pa
 Ne pas inclure ici l’exécutable, les maps, les textures ou tout autre asset du jeu.
 
 ## Traduction
-Sauf mention contraire, le travail de traduction française de ce dépôt est mis à disposition sous **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0).
+Sauf mention contraire, les **traductions** de ce dépôt (toutes langues) sont sous **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0).
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 

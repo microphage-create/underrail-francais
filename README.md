@@ -1,45 +1,59 @@
-# Underrail — pack français (v2)
+# Underrail community localizations
 
-Localisation française **communautaire** pour [Underrail](https://store.steampowered.com/app/250520/Underrail/) (base + Expedition + Heavy Duty).
+Unofficial **language packs** for [Underrail](https://store.steampowered.com/app/250520/Underrail/) (base game + Expedition + Heavy Duty).
 
-Le jeu est © Stygian Software. Ce dépôt ne contient **que** le pack `data/localization/` prévu par le studio. Pas d’exe, pas de maps, pas d’assets.
+The game is © Stygian Software. This repo only holds `data/localization/` packs — the format the studio already supports. No exe, no maps, no art.
 
-## État
+**Any language can live here.** French is the first pack. German, Spanish, Polish, etc. are the same shape: one folder, one `info.txt`, drop it into Steam.
 
-**v2 = reprise voix par voix.** Le v1 était une couverture MT (tout le jeu en FR, qualité machine). Ici chaque fichier est revu à la charte avant d’être marqué `nickel`.
+---
 
-Le pack reste **jouable** à tout moment : les fichiers pas encore repris sont du FR de couverture, pas de l’anglais.
+## Packs
 
-Voir `STATUS.md`.
+| Folder | Menu name | Status |
+|---|---|---|
+| [`packs/francais/`](packs/francais/) | Français | Playable coverage. Voice pass in progress (`STATUS.md`) |
 
-## Installer
+Want another language? → [`docs/ADDING-A-LANGUAGE.md`](docs/ADDING-A-LANGUAGE.md)
 
-1. Underrail installé (Steam).
-2. PowerShell :
+---
+
+## Install (any pack)
+
+Game **closed**. PowerShell (admin if Windows blocks Program Files):
 
 ```powershell
-cd $env:USERPROFILE\Documents\Underrail-FR-v2
-.\INSTALL-PACK.ps1
+cd path\to\underrail-francais
+.\INSTALL-PACK.ps1 -Pack francais
+# .\INSTALL-PACK.ps1 -Pack deutsch
 ```
 
-3. Jeu **fermé**. Puis **Options → Language → Français**. Quitter le process. Relancer.
+Or copy `packs/<id>\` into:
 
-Copie manuelle : coller le dossier `francais\` dans  
 `Steam\steamapps\common\Underrail\data\localization\`
 
-## Règles (lire avant de toucher une ligne)
+Then **Options → Language → (your pack name)**. Quit the process. Relaunch.
 
-- `CHARTE-TRADUCTION.md` — voix par faction, tokens genre, barre nickel
-- `GLOSSAIRE.md` — un terme = une forme
-- Skills / feats / attributs / checks `::[Persuasion]::` : **EN**
-- Ne **jamais** éditer `*_original`
-- Placeholders `{0}` et `$(…)` intacts
+---
 
-## Contribuer
+## Rules that apply to every language
 
-Voir `CONTRIBUTING.md`. Un fichier à la fois. Pas de dump MT.
+- Never edit `*_original` (English reference).
+- Keep `{0}` `{1}` and `$(…)` placeholders.
+- Dialog player/NPC keys are `q*` / `a*`.
+- Line endings: CRLF (`\r\n`). Never `\r\r\n` (the engine falls back to English).
+- Gender tokens `$(#he/she)` display **literally**. Translate both sides for *your* language.
 
-## Licence
+French-specific voice/glossary: `CHARTE-TRADUCTION.md`, `GLOSSAIRE.md`.  
+Other languages: write your own `packs/<id>/CHARTE.md` if you need it.
 
-- Texte et univers du jeu : © Stygian Software
-- Traduction FR de ce dépôt : voir `LICENSE.md`
+---
+
+## Contribute
+
+See `CONTRIBUTING.md`. One file per PR. No machine-dump of the whole game.
+
+## License
+
+- Game text and setting: © Stygian Software
+- Translations in this repo: `LICENSE.md` (CC BY-NC-SA 4.0)

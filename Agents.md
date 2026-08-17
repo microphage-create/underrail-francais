@@ -1,6 +1,6 @@
 # Underrail FR v2 — Grok
 
-Repo **public prévu** : pack loc only. Pas d’exe, pas de `_en_src`.
+Repo **public** : hub multi-langues. Packs dans `packs/<id>/`. Pas d’exe, pas de `_en_src`.
 
 ## Session
 1. `CHARTE-TRADUCTION.md` + `GLOSSAIRE.md` + `STATUS.md`

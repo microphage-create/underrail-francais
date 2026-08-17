@@ -1,21 +1,20 @@
-# Contribuer
+# Contribute
 
-## Avant toute PR
-Lire `CHARTE-TRADUCTION.md` + `GLOSSAIRE.md`.
+## New language
+Read [`docs/ADDING-A-LANGUAGE.md`](docs/ADDING-A-LANGUAGE.md).  
+`python tools/new-pack.py --id deutsch --name "Deutsch"` then translate live keys.
 
-## Un fichier = une PR
-Pas de « j’ai tout re-passé au modèle ».  
-Relire le FR **sans** l’EN. Relire **dans la voix** du PNJ (Tchort ≠ Ola ≠ pirate).
+## Existing pack (e.g. French)
+One file per PR. Read `CHARTE-TRADUCTION.md` + `GLOSSAIRE.md` for French.
 
-## Checklist
-- [ ] `*_original` intact
-- [ ] `{0}` / `$(context…)` / `$(#a/b)` intacts (tokens **FR** selon le locuteur)
-- [ ] Checks `::[Persuasion]::` `::[Hacking]::` **EN**
-- [ ] CTA joueur : infinitif court, ou réplique à la 1re personne
-- [ ] Fins de ligne CRLF (`\r\n`), **jamais** `\r\r\n`
-- [ ] Fichier listé `nickel` dans `STATUS.md`
+## Every PR
+- [ ] `*_original` untouched
+- [ ] `{0}` / `$(context…)` / `$(#a/b)` intact (both sides of `#` in **your** language)
+- [ ] Dialog checks: keep `::[Persuasion]::` unless your pack documents otherwise
+- [ ] CRLF line endings, never `\r\r\n`
+- [ ] No whole-game machine dump
 
-## Voix (rappel)
-Institute of Tchort : frère / sœur, vouvoiement, pas *Bro*.  
-Ola / street : gars / sœurette.  
-Oldfield : professeur chaleureux, un peu bavard, vous.
+## French voice (this pack only)
+Tchort: frère / sœur, not Bro.  
+Ola / street: gars / sœurette.  
+Oldfield: warm professor, vous.
