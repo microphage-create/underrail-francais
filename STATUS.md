@@ -9,7 +9,7 @@ Nickel (voix + charte) : **amorcé**.
 
 | Lot | Nickel | Notes |
 |---|---|---|
-| Oldfield — 1re rencontre (q873, a874, a902, a906, a907, q909) | **oui** | camp Aegis |
+| Oldfield — 1re rencontre (q873–q909, y compris Briggs dans la tente) | **oui** | camp Aegis |
 | Marcus q16 (occupé) | **oui** | |
 | Briggs (tout le fichier) | non | MT |
 | Reste Expedition `xpbl/` | non | MT ; 19 fichiers avaient `\r\r\n` (corrigé) |
