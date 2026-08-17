@@ -1,0 +1,6 @@
+# Underrail loc parser needs CRLF. LF-only files fall back to English.
+* text=auto
+*.txt text eol=crlf
+*.md text eol=crlf
+*.ps1 text eol=crlf
+*.py text eol=lf
