@@ -1,4 +1,5 @@
 =>q1_original
+
 ::LEMCO L-MSU-P4 - Medication Synthesis Unit
 
 This unit is a working prototype and as such might exhibit errors during operation. Contact us at nexus.medtech.medsynth for problem reporting and suggestions. 
@@ -8,6 +9,7 @@ Please select the item you want to synthesize. The percentage of total MedSynth 
 ::<end>
 
 =>q1
+
 ::LEMCO L-MSU-P4 - Unité de synthèse des médicaments
 
 Cette unité est un prototype fonctionnel et, à ce titre, peut présenter des erreurs pendant le fonctionnement. Contactez-nous à nexus.medtech.medsynth pour des informations et des suggestions.
@@ -17,36 +19,47 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 ::<end>
 
 =>q2_original
+
 <end>
 
 =>q2
+
 <end>
 
 =>q3_original
+
 ::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
 
 =>q3
+
 ::Niveau de jauge MSCC: $(context.loc xpbl rf medicationSynthesisCanisterCharge)%::<end>
 
 =>q4_original
+
 :: - Please replace the MedSynth chemical canister.::<end>
 
 =>q4
+
 ::- Veuillez remplacer la boîte chimique MedSynth.::<end>
 
 =>q5_original
+
 <end>
 
 =>q5
+
 <end>
 
 =>a6_original
+
 ::Synthesize antidote (-5%)::<end>
 
 =>a6
+
 ::Antidote de synthèse (-5%)::<end>
 
 =>q7_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -54,6 +67,7 @@ Synthesizing...
 Synthesis successful. Please collect your item from the deposit tray.::<end>
 
 =>q7
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -61,118 +75,155 @@ La synthèse...
 Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
 
 =>a8_original
+
 ::Synthesize health hypo (-5%)::<end>
 
 =>a8
-::Synthétiser l'hypoglycémie (-5%)::<end>
+
+::Synthétiser l'hypo (-5%)::<end>
 
 =>a9_original
+
 ::Synthesize advanced health hypo (-10%)::<end>
 
 =>a9
-::Synthétiser l'hypoglycémie avancée (-10%)::<end>
+
+::Synthétiser l'hypo avancé (-10%)::<end>
 
 =>a10_original
+
 ::Synthesize morphine shot (-10%)::<end>
 
 =>a10
+
 ::Synthétisation de la morphine (-10%)::<end>
 
 =>a11_original
+
 ::Synthesize adrenaline shot (-10%)::<end>
 
 =>a11
+
 ::Synthétiser la dose d'adrénaline (-10%)::<end>
 
 =>a12_original
+
 ::Synthesize psi booster (-5%)::<end>
 
 =>a12
+
 ::Synthétiser l'amplificateur psi (-5%)::<end>
 
 =>a13_original
+
 ::Synthesize desaturated psionic inhalant (-5%)::<end>
 
 =>a13
+
 ::Inhalant psionique désaturé synthétisé (-5%)::<end>
 
 =>a14_original
+
 ::Synthesize irongut (-15%)::<end>
 
 =>a14
+
 ::Synthétisation de l'ongle (-15%)::<end>
 
 =>a15_original
+
 ::Synthesize coagulation shot (-15%)::<end>
 
 =>a15
+
 ::Synthétisation de la coagulation (-15%)::<end>
 
 =>a16_original
+
 ::Other medication::<end>
 
 =>a16
+
 ::Autres médicaments::<end>
 
 =>q17_original
+
 ::Synthesis of these types of medication is currently disabled. Check work log for more information.::<end>
 
 =>q17
+
 ::La synthèse de ces types de médicaments est actuellement désactivée. Vérifiez le journal de travail pour plus d'informations.::<end>
 
 =>a18_original
+
 ::[Hacking] Enable synthesis of more medication types::<end>
 
 =>a18
-::[Frappe] Activer la synthèse d'autres types de médicaments::<end>
+
+::[Hacking] Activer la synthèse d'autres types de médicaments::<end>
 
 =>q19_original
+
 ::Please wait...::<end>
 
 =>q19
+
 ::Attendez...::<end>
 
 =>q20_original
+
 <end>
 
 =>q20
+
 <end>
 
 =>q21_original
+
 ::Warning: Synthesis of these types of medication hasn't been fully tested and could result in malsynthesized substances or even complete synthesis failures!
 
 ::<end>
 
 =>q21
+
 ::Avertissement : La synthèse de ces types de médicaments n'a pas été entièrement testée et pourrait entraîner des substances malsynthétiques ou même des échecs de synthèse complets !
 
 ::<end>
 
 =>q22_original
+
 ::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
 
 =>q22
+
 ::Niveau de jauge MSCC: $(context.loc xpbl rf medicationSynthesisCanisterCharge)%::<end>
 
 =>q23_original
+
 :: - Please replace the canister.::<end>
 
 =>q23
+
 ::- Veuillez remplacer la boîte.::<end>
 
 =>q24_original
+
 <end>
 
 =>q24
+
 <end>
 
 =>a25_original
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>a25
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>q26_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -180,6 +231,7 @@ Synthesizing...
 ::<end>
 
 =>q26
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -187,12 +239,15 @@ La synthèse...
 ::<end>
 
 =>q27_original
+
 <end>
 
 =>q27
+
 <end>
 
 =>q28_original
+
 ::Synthesis unsuccessful!
 
 Disposing of waste product...
@@ -200,6 +255,7 @@ Disposing of waste product...
 Waste disposal successful.::<end>
 
 =>q28
+
 ::Synthèse infructueuse !
 
 Élimination des déchets...
@@ -207,34 +263,43 @@ Waste disposal successful.::<end>
 L'élimination des déchets est réussie.::<end>
 
 =>q29_original
+
 ::Synthesis data has been logged for evaluation.
 
 ::<end>
 
 =>q29
+
 ::Les données de synthèse ont été enregistrées pour évaluation.
 
 ::<end>
 
 =>q30_original
+
 <end>
 
 =>q30
+
 <end>
 
 =>q31_original
+
 ::Synthesis successful. Please collect your item from the deposit tray.::<end>
 
 =>q31
+
 ::Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
 
 =>a32_original
+
 ::Synthesize super health hypo (-15%)::<end>
 
 =>a32
+
 ::Synthétiser l'hypo super-santé (-15%)::<end>
 
 =>q33_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -242,6 +307,7 @@ Synthesizing...
 ::<end>
 
 =>q33
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -249,24 +315,31 @@ La synthèse...
 ::<end>
 
 =>q34_original
+
 <end>
 
 =>q34
+
 <end>
 
 =>q35_original
+
 <end>
 
 =>q35
+
 <end>
 
 =>a36_original
+
 ::Synthesize supersoldier drug (-25%)::<end>
 
 =>a36
+
 ::Synthesize supersoldier médicament (-25%)::<end>
 
 =>q37_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -274,6 +347,7 @@ Synthesizing...
 ::<end>
 
 =>q37
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -281,24 +355,31 @@ La synthèse...
 ::<end>
 
 =>q38_original
+
 <end>
 
 =>q38
+
 <end>
 
 =>q39_original
+
 <end>
 
 =>q39
+
 <end>
 
 =>a40_original
+
 ::Synthesize psi reinvigorator (-30%)::<end>
 
 =>a40
+
 ::Synthesize psi revigorer (-30%)::<end>
 
 =>q41_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -306,6 +387,7 @@ Synthesizing...
 ::<end>
 
 =>q41
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -313,60 +395,78 @@ La synthèse...
 ::<end>
 
 =>q42_original
+
 <end>
 
 =>q42
+
 <end>
 
 =>q43_original
+
 <end>
 
 =>q43
+
 <end>
 
 =>a44_original
+
 ::Back::<end>
 
 =>a44
+
 ::Retour::<end>
 
 =>q45_original
+
 ::Unknown error! 
 
 Rebooting...::<end>
 
 =>q45
+
 ::Erreur inconnue !
 
 Redémarrer...::<end>
 
 =>a46_original
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>a46
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>a47_original
+
 ::Synthesize super health hypo (-15%)::<end>
 
 =>a47
+
 ::Synthétiser l'hypo super-santé (-15%)::<end>
 
 =>a48_original
+
 ::Synthesize supersoldier drug (-25%)::<end>
 
 =>a48
+
 ::Synthesize supersoldier médicament (-25%)::<end>
 
 =>a49_original
+
 ::Synthesize psi reinvigorator (-30%)::<end>
 
 =>a49
+
 ::Synthesize psi revigorer (-30%)::<end>
 
 =>a50_original
+
 ::Exit::<end>
 
 =>a50
+
 ::Sortie::<end>
 

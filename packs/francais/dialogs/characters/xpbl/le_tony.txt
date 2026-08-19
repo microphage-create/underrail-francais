@@ -4,9 +4,9 @@
 Was I a good serpent? Gotcha leeeeeg, you gonna die, bwahahah!<end>
 
 =>q1
-::Tu descends de la table, et Ladelman arrête de la balancer.:: Voilà, $(context.npc_xpbl_ladelman_playerName). Maintenant vous êtes prêt à faire tout ça sur un vrai jet.
+::Vous descendez de la table, et Ladelman arrête de la faire tanguer.:: Voilà, $(context.npc_xpbl_ladelman_playerName). Maintenant vous êtes prêt$(#/e) à faire tout ça sur un vrai jet.
 
-J'étais un bon serpent ? Tu vas mourir, bwahahah !<end>
+J'étais un bon serpent ? Attrapé la jaaaambe, tu vas mourir, bwahahah !<end>
 
 =>a2_original
 Uncanny.<end>
@@ -36,13 +36,13 @@ J'aimerais que tu m'aides pour le combat naval.<end>
 Fifty coins. ::He puts his hand out.:: As my dad used to say, if you're hardcore at somethin', you're hardcore at somethin'. And I'm hardcore at this, so I want fifty coins.<end>
 
 =>q6
-Cinquante pièces. ::Il met sa main dehors.:: Comme mon père disait, si tu es hardcore à quelque chose, tu es hardcore à quelque chose. Et je suis hardcore, donc je veux cinquante pièces.<end>
+Cinquante charons. ::Il tend la main.:: Comme disait mon père, si t'es hardcore à un truc, t'es hardcore à un truc. Et moi je suis hardcore à ça, alors je veux cinquante charons.<end>
 
 =>a7_original
 Here you go. ::Give him fifty stygian coins.::<end>
 
 =>a7
-Voilà. ::Donnez-lui cinquante pièces de monnaie.::<end>
+Voilà. ::Lui donner cinquante charons stygien.::<end>
 
 =>q8_original
 Yeeeeeah! <end>
@@ -62,15 +62,15 @@ Oui ! <end>
 Think like a wave. Waaaave... Whoosh and whoosh and whoosh...<end>
 
 =>q10
-::il saute sur la table, la tête se frottant contre le toit de la tente en se tenant debout.:: Maintenant, $(context.npc_xpbl_ladelman_playerName), rock cette table aller-retour.
+::il saute sur la table, la tête frôlant le toit de la tente une fois debout.:: Maintenant, $(context.npc_xpbl_ladelman_playerName), faites tanguer cette table.
 
-Pense comme une vague. Waaaave... Ouah, ouah, ouah...<end>
+Pensez vague. Waaaague... Whoosh et whoosh et whoosh...<end>
 
 =>a11_original
 ::Rock the table.::<end>
 
 =>a11
-::Déchirez la table.::<end>
+::Balancer la table.::<end>
 
 =>q12_original
 ::He shakes his head.:: Zone me out with a rusty pipe... I said *wave* - not whaaaaaaaaaeEeeeeeeeEeeeeeeE! 
@@ -78,9 +78,9 @@ Pense comme une vague. Waaaave... Ouah, ouah, ouah...<end>
 Make me feel like I'm on a jet. Back and forth - back and forth!<end>
 
 =>q12
-::Il secoue la tête.:: Zone moi dehors avec un tuyau rouillé... J'ai dit *wave* - pas whaaaaaaaaeEeeeeeeEeeeeE!
+::Il secoue la tête.:: Qu'on me zone avec un tuyau rouillé... J'ai dit *vague* - pas whaaaaaaaaeEeeeeeeEeeeeE !
 
-Fais-moi sentir que je suis dans un jet. Aller et retour - aller et retour!<end>
+Faites-moi sentir que je suis sur un jet. Avant, arrière - avant, arrière !<end>
 
 =>a13_original
 Why not do this in a real jet?<end>
@@ -110,7 +110,7 @@ Yeeeeeeah, écoute bien...<end>
 ::End Dialog.::<end>
 
 =>a17
-::Fin du dialogue.::<end>
+::Partir::<end>
 
 =>q18_original
 ::To your surprise ::<end>
@@ -140,7 +140,7 @@ Est-ce qu'il y a un moyen pour moi d'obtenir un meilleur jet ski par ici ?<end>
 Well, you got the Patroller now. That thing's a lot more hardcore than that piece o' junk you started with. <end>
 
 =>q22
-Vous avez le patrouilleur. Ce truc est beaucoup plus hardcore que ce morceau avec lequel tu as commencé. <end>
+Vous avez le Patroller, maintenant. Ce truc est bien plus hardcore que le tas de ferraille avec lequel vous avez commencé. <end>
 
 =>q23_original
 If you want somethin' better... ::He leans closer so that Marcus couldn't hear him.:: <end>
@@ -162,7 +162,7 @@ Vous pouvez sortir du Black Sea et visiter le magasin Ray aux quais Core City, s
 Dominatin' selection of jets and parts, and Ray's himself's a hardcore guy. Real hardcore.<end>
 
 =>q25
-La sélection de jets et pièces de Dominatin, et Ray est lui-même un gars hardcore. Vraiment hardcore.<end>
+Une sélection de jets et de pièces qui domine, et Ray lui-même est un gars hardcore. Vraiment hardcore.<end>
 
 =>q26_original
 In and out, no one'll know.<end>
@@ -182,7 +182,7 @@ Yeah, $(context.npc_xpbl_ladelman_playerName), I hear ya. A crappy jet feels lik
 Uh, not that it ever happened to me, nah. <end>
 
 =>q28
-Oui, $(context.npc_xpbl_ladelman_playerName), je vous entends. Un jet merdique se sent comme parier 'vos pièces sur un challenger qui utilise 'est *actuel* nom.
+Ouais, $(context.npc_xpbl_ladelman_playerName), je vous entends. Un jet de merde, c'est comme parier vos charons sur un challenger qui utilise son *vrai* nom.
 
 Euh, pas que ça ne m'est jamais arrivé, nah. <end>
 
@@ -284,7 +284,7 @@ Attendez... <end>
 The Invictus $(#him/her)self <end>
 
 =>q44
-Les Invictus $(#le/la) se <end>
+L'Invictus $(#lui/elle)-même <end>
 
 =>q45_original
 is asking *me* for help with fighting? Me?
@@ -304,7 +304,7 @@ Hardcore !<end>
 Your fandom pleases the Invictus. But we haven't got all day.<end>
 
 =>a46
-Votre fandome plaît aux Invictus. Mais on n'a pas toute la journée.<end>
+Votre ferveur plaît à l'Invictus. Mais on n'a pas toute la journée.<end>
 
 =>q47_original
 Yeah, yeah, jets are wobbly. Fightin's tough. I may not dominate, but I've had enough experience zonin' out freelooters and other kinds of sea zoners to humbly say I'm "pretty hardcore."<end>
@@ -334,7 +334,7 @@ Tu peux me donner quelques conseils ?<end>
 I can give you more than a tip - I could teach you some basic naval combat. <end>
 
 =>q51
-Je peux vous donner plus qu'un pourboire - je pourrais vous apprendre un combat naval de base. <end>
+Je peux vous donner plus qu'un conseil - je pourrais vous apprendre les bases du combat naval. <end>
 
 =>q52_original
 For you, totally free of charge.<end>
@@ -424,13 +424,13 @@ About collecting my pay...<end>
 Ah, I think you should see the sec-chef for that.<end>
 
 =>q66
-Ah, je pense que vous devriez voir le secrétaire-chef pour ça.<end>
+Ah, je pense que vous devriez voir le sec-chef pour ça.<end>
 
 =>a67_original
 Sec-chef? Why him?<end>
 
 =>a67
-Un secrétaire ? Pourquoi lui ?<end>
+Le sec-chef ? Pourquoi lui ?<end>
 
 =>q68_original
 Don't ask me, $(context.npc_xpbl_ladelman_playerName). Probably 'cause there ain't no one else and he's already workin' with coinage. 
@@ -488,7 +488,7 @@ J'attends de sortir.<end>
 It's just good ol' grindin' anyway, the fun stuff. She ain't gettin' beaten up or, or asked to eat five *raw* hoppers in a single go. I ain't worried about 'er - she's doin' hardcore.<end>
 
 =>q76
-C'est bon de toute façon. Elle ne se fait pas tabasser ou, ou a demandé à manger cinq trémies "raw" en un seul coup. Je ne m'inquiète pas pour elle.<end>
+C'est bon de toute façon. Elle ne se fait pas tabasser ou, ou a demandé à manger cinq sauteurs "raw" en un seul coup. Je ne m'inquiète pas pour elle.<end>
 
 =>q77_original
 Hell, if I had her bosomage ya bet I'd be monetizin' those babies as well, bwahahaha! But alas, all I got is a hairy, laddish chest.<end>
@@ -598,7 +598,7 @@ Et si on parlait d'autre chose ? Qu'en dites-vous ?<end>
 Ooooh, tittle-tattlin'.<end>
 
 =>q93
-Ooooh, c'est de la charcuterie.<end>
+Ooooh, des cancans.<end>
 
 =>q94_original
 <end>
@@ -634,7 +634,7 @@ Mais les établissements d'enseignement offrent un environnement d'apprentissage
 And then you get folks which can spew out long la-di-da sentences but can't even catch a damn hopper. There's also brainwashin'. Don't forget brainwashin', Marky! They're teachin' you what they want you to know, like *their* history... and *their* math.<end>
 
 =>q99
-Et puis tu as des gens qui peuvent sortir de longues phrases de la-di-da mais qui ne peuvent même pas attraper une trémie. Il y a aussi un lavage de cerveau. N'oublie pas le lavage de cerveau, Marky ! Ils vous enseignent ce qu'ils veulent que vous sachiez, comme leur histoire... et leurs mathématiques.<end>
+Et puis tu as des gens qui peuvent sortir de longues phrases de la-di-da mais qui ne peuvent même pas attraper une sauteur. Il y a aussi un lavage de cerveau. N'oublie pas le lavage de cerveau, Marky ! Ils vous enseignent ce qu'ils veulent que vous sachiez, comme leur histoire... et leurs mathématiques.<end>
 
 =>q100_original
 There's no point arguing with you, Tone, is there?<end>
@@ -944,7 +944,7 @@ Marcus, parle-moi de toi.<end>
 I'm a sec-engineer. I handle weapons, electronic equipment, shield emitters, turrets. Surveillance too. Those sorts of things.<end>
 
 =>q148
-Je suis un second mécanicien. Je manipule des armes, du matériel électronique, des émetteurs de boucliers, des tourelles. La surveillance aussi. Ce genre de choses.<end>
+Je suis sec-engineer. Je manipule des armes, du matériel électronique, des émetteurs de boucliers, des tourelles. La surveillance aussi. Ce genre de choses.<end>
 
 =>q149_original
 Hey, how long have you been here again?<end>
@@ -1076,7 +1076,7 @@ Des rumeurs ? Tu veux dire qu'elle est Briggs' daunt...<end>
 That they were grindin'!<end>
 
 =>q168
-Qu'ils mouillaient !<end>
+Qu'ils s'envoyaient en l'air !<end>
 
 =>q169_original
 ::His eyes almost pop out of their sockets.:: What!?<end>
@@ -1120,13 +1120,13 @@ It's telling me we're done discussing this.<end>
 Eh... what a dropjoy.<end>
 
 =>q174
-Quelle joie.<end>
+Quel rabat-joie.<end>
 
 =>q175_original
 That they're grindin'!<end>
 
 =>q175
-Qu'ils broyent !<end>
+Qu'ils s'envoyaient en l'air !<end>
 
 =>q176_original
 Well, she is second in command here. Not saying she is not a bit difficult sometimes, but let's face it, she earned it. She's been on many jobs, always performing flawlessly in pretty much any role you put her.<end>
@@ -1150,13 +1150,13 @@ Elle est ce que nous appelons un *spécialiste de la sécurité*.<end>
 Seeger...<end>
 
 =>a179
-Le spectateur...<end>
+Seeger...<end>
 
 =>q180_original
 Ginger! Professor's computer guy. Can't dig half the things he's sayin'.<end>
 
 =>q180
-Gingembre ! L'ordinateur du professeur. Je ne peux pas creuser la moitié de ce qu'il dit.<end>
+Ginger ! Le type ordi du professeur. Je pige pas la moitié de ce qu'il dit.<end>
 
 =>q181_original
 He can't understand half the things you're saying.<end>
@@ -1180,7 +1180,7 @@ Pour clarifier, $(context.player.Name), ce n'est pas les termes techniques qui c
 X-this, x-that. It's a one-trick hopper, don't you think?<end>
 
 =>q184
-Ça, ça. C'est une trémie à un bout, non ?<end>
+Ça, ça. C'est une sauteur à un bout, non ?<end>
 
 =>q185_original
 You mean like pipe-this, pipe-that?<end>
@@ -1312,7 +1312,7 @@ Ton de tous les métiers, oui.<end>
 ::[Guns]:: Do you just maintain firearms or do you have any gunsmithing experience?<end>
 
 =>a204
-::[Guns]:: Gardez-vous des armes à feu ou avez-vous de l'expérience en armure?<end>
+::[Guns]:: Vous vous contentez d'entretenir les armes, ou vous avez de l'expérience en gunsmithing ?<end>
 
 =>q205_original
 I got one word for you: Sewage pipe molotov launcher. That's four words, but it's also one of my finest creations. You put the molotov in, light the rag, pull the trigger and zone out any pipeworker dumb enough to mess with you.<end>
@@ -1342,19 +1342,19 @@ Tony de tous les métiers!<end>
 ::[Guns] or [Heavy Guns]:: Do you just maintain firearms or do you have any gunsmithing experience?<end>
 
 =>a209
-::[Armes] ou [Heavy Guns]:: Gardez-vous des armes à feu ou avez-vous de l'expérience en armure?<end>
+::[Guns] ou [Heavy Guns]:: Vous vous contentez d'entretenir les armes, ou vous avez de l'expérience en gunsmithing ?<end>
 
 =>a210_original
 ::[Throwing]:: Ever worked as an animal catcher? Throwing nets or perhaps things of a more lethal nature.<end>
 
 =>a210
-::[Passer]:: Tu as déjà travaillé comme attrapeur d'animaux ? Jeter des filets ou peut-être des choses de nature plus mortelle.<end>
+::[Throwing]:: Tu as déjà travaillé comme attrapeur d'animaux ? Jeter des filets ou peut-être des choses de nature plus mortelle.<end>
 
 =>q211_original
 $(context.npc_xpbl_ladelman_playerName), I lived by the Mushroom Cove most of my life. Used to be the second best hopper netter back in my teens. Chased 'em into their crevices back when I was slimmer.<end>
 
 =>q211
-$(context.npc_xpbl_ladelman_playerName), j'ai vécu la plus grande partie de ma vie. C'était le deuxième meilleur filet de trémie de mon adolescence. Je les ai poussés dans leurs crevasses quand j'étais plus mince.<end>
+$(context.npc_xpbl_ladelman_playerName), j'ai vécu la plus grande partie de ma vie. C'était le deuxième meilleur filet de sauteur de mon adolescence. Je les ai poussés dans leurs crevasses quand j'étais plus mince.<end>
 
 =>a212_original
 Who was the first?<end>
@@ -1372,7 +1372,7 @@ Qui était le premier ?<end>
 ::[Crossbows]:: What about crossbows? Ever dabbled in those kinds of weapons?<end>
 
 =>a214
-::[Crosses]:: Et les arbalètes ? Tu as déjà pris ce genre d'armes ?<end>
+::[Crossbows]:: Et les arbalètes ? Tu as déjà pris ce genre d'armes ?<end>
 
 =>q215_original
 Pffffffffft! Do I work with crossbows, $(#he/she) says? I made my own simple crossbow before I had a gun. With it I shot bats, rats and rabid feral cats. Then I made a better one and moved onto hoppers. Then some punks beat me up and stole it. Then I returned to shootin' bats, rats and rabid feral cats.
@@ -1380,7 +1380,7 @@ Pffffffffft! Do I work with crossbows, $(#he/she) says? I made my own simple cro
 Do I work with crossbows!<end>
 
 =>q215
-C'est ça ! Est-ce que je travaille avec les arbalètes, dit $(#il/elle) ? J'ai fait ma propre arbalète avant d'avoir une arme. Avec ça, j'ai tiré sur des chauves-souris, des rats et des chats sauvages enragés. Puis j'en ai fait un meilleur et je me suis déplacé sur des trémies. Puis des punks m'ont battu et volé. Puis je suis retourné à des chauves-souris, des rats et des chats sauvages enragés.
+C'est ça ! Est-ce que je travaille avec les arbalètes, dit $(#il/elle) ? J'ai fait ma propre arbalète avant d'avoir une arme. Avec ça, j'ai tiré sur des chauves-souris, des rats et des chats sauvages enragés. Puis j'en ai fait un meilleur et je me suis déplacé sur des sauteurs. Puis des punks m'ont battu et volé. Puis je suis retourné à des chauves-souris, des rats et des chats sauvages enragés.
 
 Je travaille avec des arbalètes !<end>
 
@@ -1414,7 +1414,7 @@ Qui est brutal, Joe ? Bwahahaha !<end>
 ::[Hacking]:: You surely aren't into hacking?<end>
 
 =>a219
-::[Frappe]:: Vous n'aimez pas le piratage ?<end>
+::[Hacking]:: Vous n'aimez pas le piratage ?<end>
 
 =>q220_original
 Sure I am. That time when I worked as a butcher I used to hack 'em hopper heads off all day long. Yeeeeah, ya littl' food-offs, bwahaha!<end>
@@ -1448,7 +1448,7 @@ Soit tu meurs d'un petit voleur, soit tu restes assez longtemps pour te voir dev
 ::[Pickpocketing]:: What about the oldest trade of them all - pickpocketing.<end>
 
 =>a224
-::[Coup de poing]:: Qu'en est - il du plus vieux commerce de tous?<end>
+::[Pickpocketing]:: Qu'en est - il du plus vieux commerce de tous?<end>
 
 =>q225_original
 That's not the oldest trade as far as I know, bwahahaha. ::He slaps his butt.::
@@ -1482,7 +1482,7 @@ Oui, sauf le tir. C'était... bruyant. Et tu es trempé de sang et de morceaux.<
 ::[Traps]:: How about trapping?<end>
 
 =>a228
-::[Traitements]:: Et le piégeage ?<end>
+::[Traps]:: Et le piégeage ?<end>
 
 =>q229_original
 Done that too. Was taught by the best, in fact: the hunters of Camp Hathor. Lived there for a few months. Actually, in a stranded boat near the camp, but that's hardly worse than sleepin' in the camp itself, bwahaha!<end>
@@ -1540,7 +1540,7 @@ Je ne suis rien. Zoner.<end>
 ::He speaks with a smug smile.:: Tell $(#'im/'er), Markyeh!<end>
 
 =>q237
-::Il parle avec un sourire épouvantable.:: Dites $(#'im/'er), Markyeh !<end>
+::Il parle avec un sourire épouvantable.:: Dites $(#le/la), Markyeh !<end>
 
 =>q238_original
 Ladelman? Wouldn't let him change my navcom's batteries.<end>
@@ -1622,7 +1622,7 @@ Et comme les porcs, les gens et les zones sont tous semblables à l'intérieur, 
 ::[Tailoring]:: How well can you sew?<end>
 
 =>a248
-::[Tailant]:: Tu sais coudre ?<end>
+::[Tailoring]:: Tu sais coudre ?<end>
 
 =>q249_original
 As well as the Invictus dominates. My poor mom had shaky hands and could never get the thread through the eye, so I picked up sewin' before I picked up brewin', bwahahah! A few years of experience and I was a decent tailor, fixin' stuff for the locals.
@@ -1806,7 +1806,7 @@ Bwahahaha !<end>
 ::[Any psionic discipline]:: But I betcha never worked with psionic equipment.<end>
 
 =>a272
-::[Toute discipline psionique]:: Mais je n'ai jamais travaillé avec de l'équipement psionique.<end>
+::[Any psionic discipline]:: Mais je n'ai jamais travaillé avec de l'équipement psionique.<end>
 
 =>q273_original
 A-HA! That's where you're wrong! I was once takin' care of this - what's it called - idiot savant psionic. Uh, for coins. Don't ask. 
@@ -1974,7 +1974,7 @@ Au revoir, Ladelman.<end>
 Can't talk now. Hardcore busy.<end>
 
 =>q298
-Je ne peux pas parler maintenant. Hardcore est occupé.<end>
+Je peux pas parler maintenant. Hardcore occupé.<end>
 
 =>q299_original
 Pipeworkin' drop-off!<end>
@@ -2004,7 +2004,7 @@ Prêt pour le carnage, $(context.npc_xpbl_ladelman_playerName).<end>
 Imma grind those pipeworkin' bastard sons of sows right in their ugly...<end>
 
 =>q303
-Imma a broyé ces sales fils de truies dans leur laid...<end>
+Je vais moudre ces putains de fils de truies, droit dans leur moche...<end>
 
 =>q304_original
 Yeeeah, I think I saw somethin' like this in the Arena once.<end>
@@ -2028,7 +2028,7 @@ Merde, Marky...<end>
 Zone out the pipeworkers!<end>
 
 =>q307
-Zone hors des pipeworkers!<end>
+Zonez-moi ces pipeworkers !<end>
 
 =>q308_original
 <end>
@@ -2076,7 +2076,7 @@ C'était hardcore.<end>
 Speak to Marcus if you wanna get your gear. It's that wimp over there.<end>
 
 =>q315
-Parlez à Marcus si vous voulez obtenir votre équipement. C'est cette garce là-bas.<end>
+Parlez à Marcus si vous voulez obtenir votre équipement. C'est cette mauviette, là-bas.<end>
 
 =>q316_original
 The chief wants to see you. Seemed pissed off, so good luck.<end>
@@ -2112,7 +2112,7 @@ Oui, j'ai besoin de fournitures. ::Troc.::<end>
 No. Just came to say goodbye.<end>
 
 =>a321
-C'est pas vrai. Je suis venu te dire au revoir.<end>
+Non. Je passais juste dire au revoir.<end>
 
 =>q322_original
 Take care, $(context.npc_xpbl_ladelman_playerName). And stay hardcore. Yeeeeah.<end>

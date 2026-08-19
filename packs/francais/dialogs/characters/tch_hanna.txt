@@ -2,13 +2,13 @@
 Adapt and overcome!<end>
 
 =>q1
-Adaptez-vous et dépassez-vous !<end>
+Adaptez-vous et surmontez !<end>
 
 =>q2_original
 $(context.player.Name), Mediant Samuel wishes to see you. He is in his office with Efreitor Denzil.<end>
 
 =>q2
-$(context.player.Name), Médiant Samuel souhaite vous voir. Il est dans son bureau avec Efreitor Denzil.<end>
+$(context.player.Name), Mediant Samuel souhaite vous voir. Il est dans son bureau, avec Efreitor Denzil.<end>
 
 =>q3_original
 ::This young woman welcomes you by putting her hand on her chest and follows with a verbal greeting. Her bright and high-pitched voice sounds pleasant and matches her petiteness perfectly. On the other hand, the full combat uniform that she is wearing - complete with a mask she never removes, a characteristic you noticed in all rassophores throughout the Institute; creates a different, if conflicting visual image.::
@@ -16,27 +16,27 @@ $(context.player.Name), Médiant Samuel souhaite vous voir. Il est dans son bure
 Tchort is evolution. I am Efreitor Hanna, armory keeper for Institute of Tchort. You're $(context.player.Name), if I'm not mistaken?<end>
 
 =>q3
-::Cette jeune femme vous accueille en mettant sa main sur sa poitrine et suit avec un salut verbal. Sa voix brillante et haute sonne agréable et correspond parfaitement à sa petiteté. D'autre part, l'uniforme de combat complet qu'elle porte - complet avec un masque qu'elle ne retire jamais, une caractéristique que vous avez remarqué dans tous les rassophores à travers l'Institut ; crée une image visuelle différente, si contradictoire.::
+::Cette jeune femme vous accueille en portant la main à sa poitrine, puis enchaîne sur un salut. Sa voix claire, aiguë, est agréable et colle parfaitement à sa petite taille. En revanche, l'uniforme de combat complet qu'elle porte - masque compris, qu'elle ne retire jamais, un détail que vous avez remarqué chez tous les rassophores de l'Institute - donne une image toute différente, presque contradictoire.::
 
-Tchort est l'évolution. Je suis Efreitor Hanna, armurier pour Institute of Tchort. Vous êtes $(context.player.Name), si je ne me trompe pas ?<end>
+Tchort est l'évolution. Je suis Efreitor Hanna, responsable de l'armurerie de l'Institute of Tchort. Vous êtes $(context.player.Name), si je ne me trompe pas ?<end>
 
 =>a4_original
 Evolution is Tchort. Yes, I am $(#him/her). Pleasure to meet you.<end>
 
 =>a4
-Evolution est Tchort. Oui, je suis $(#le/la). Ravi de vous rencontrer.<end>
+L'évolution est Tchort. Oui, c'est bien moi. $(#Enchanté/Enchantée) de vous rencontrer.<end>
 
 =>q5_original
 Pleasure to meet you too, $(context.player.Name). Under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.<end>
 
 =>q5
-Ravi de vous rencontrer aussi, $(context.player.Name). Sous les ordres directs de M. Samuel, vous pouvez accéder à l'armure de Preservation, malgré le fait que vous n'êtes pas encore un rasophore.<end>
+Enchantée moi aussi, $(context.player.Name). Sur ordre direct de Mediant Samuel, vous avez accès à l'armurerie de Preservation, même si vous n'êtes pas encore rassophore.<end>
 
 =>q6_original
 Of course, armory access is not free, so prepare some charons before making a purchase.<end>
 
 =>q6
-Bien sûr, l'accès aux armures n'est pas gratuit, alors préparez quelques charons avant de faire un achat.<end>
+Bien sûr, l'accès à l'armurerie n'est pas gratuit : prévoyez quelques charons avant d'acheter.<end>
 
 =>q7_original
 <end>
@@ -48,7 +48,7 @@ Bien sûr, l'accès aux armures n'est pas gratuit, alors préparez quelques char
 Eidein told me to see you about my uniform.<end>
 
 =>a8
-Eidein m'a dit de vous voir pour mon uniforme.<end>
+Eidein m'a dit de venir vous voir pour mon uniforme.<end>
 
 =>q9_original
 ::She signals the other rassophore, and he leaves the the room.::
@@ -56,9 +56,9 @@ Eidein m'a dit de vous voir pour mon uniforme.<end>
 We keep the new vathosphores... downstairs. <end>
 
 =>q9
-::Elle signale l'autre rasophore, et il quitte la pièce.::
+::Elle fait signe à l'autre rassophore, qui quitte la pièce.::
 
-On garde les nouveaux vathosphores en bas. <end>
+On garde les nouveaux vathosphores... en bas. <end>
 
 =>q10_original
 ::While the rassophore is away, she grabs a rassophore armor from one of the lockers.::
@@ -66,9 +66,9 @@ On garde les nouveaux vathosphores en bas. <end>
 This is your standard issue armored robe. You will be wearing this when on duty as a rassophore.<end>
 
 =>q10
-::Pendant que le rasophore est parti, elle prend une armure rasophore dans un des casiers.::
+::Pendant que le rassophore est parti, elle sort une armure de rassophore d'un casier.::
 
-C'est votre robe blindée standard. Vous le porterez en tant que rasophore.<end>
+Voici votre robe blindée réglementaire. Vous la porterez en service, une fois rassophore.<end>
 
 =>q11_original
 ::Some ten minutes later, the rassophore returns with a bulky-looking green robe and an unusual backpack-like device.::
@@ -78,17 +78,17 @@ Now this - this is the new vathosphore armored robe. Lucky you. Take good care o
 No one wants novitiates tipping over during one of their most apex hours. Totally not. ::She chuckles.::<end>
 
 =>q11
-::Une dizaine de minutes plus tard, le rasophore revient avec une robe verte volumineuse et un dispositif de type sac à dos inhabituel.::
+::Une dizaine de minutes plus tard, le rassophore revient avec une robe verte, massive, et un appareil bizarre, façon sac à dos.::
 
-Voici la nouvelle robe blindée vathosphore. Heureusement. Prenez bien soin de cela - vous ne voulez pas l'obtenir sale ou endommagé avant la cérémonie. Eidein vous a permis de le prendre si tôt seulement pour que vous puissiez le porter confortablement.
+Ça, par contre - ça, c'est la nouvelle robe blindée de vathosphore. Vous avez de la chance. Prenez-en soin : pas question de la salir ou de l'abîmer avant la cérémonie. Eidein vous autorise à la prendre si tôt uniquement pour que vous vous y habituiez.
 
-Personne ne veut que les noviciates se retournent pendant l'une de leurs heures de pointe. Absolument pas. ::Elle vomit.::<end>
+Personne n'a envie de voir des novices basculer pendant l'une de leurs heures les plus apex. Carrément pas. ::Elle glousse.::<end>
 
 =>q12_original
 Therefore, mind that ecopack; it's heavy. And don't fiddle with it too much.<end>
 
 =>q12
-Par conséquent, pensez à cet ecopack; il est lourd. Et ne te mêle pas trop de ça.<end>
+Donc, gare à l'ecopack : il est lourd. Et ne jouez pas trop avec.<end>
 
 =>a13_original
 Ecopack?<end>
@@ -102,15 +102,15 @@ That device on the back. It houses, and let me quote the manual: "...an ecosyste
 I think I got that right.<end>
 
 =>q14
-Cet appareil derrière. Il abrite, et je cite le manuel: "...un écosystème de micro-organismes thermosynthétiques vivant de la chaleur capturée du porteur. Ces micro-organismes sont capables de produire de l'air respirable enrichi de composés bénéfiques à la santé générale et au combat du porteur.
+L'appareil dans le dos. Il abrite, et je cite le manuel : «... un écosystème de micro-organismes thermosynthétiques qui vivent de la chaleur captée du porteur. Ces micro-organismes produisent de l'air respirable, enrichi de composés bénéfiques à la santé générale et aux performances au combat du porteur. »
 
-Je crois que j'ai raison.<end>
+Je crois que c'est ça.<end>
 
 =>a15_original
 Interesting. What else can you tell me about the armor?<end>
 
 =>a15
-Intéressant. Que pouvez-vous me dire d'autre sur l'armure ?<end>
+Intéressant. Qu'est-ce que vous pouvez me dire de plus sur l'armure ?<end>
 
 =>q16_original
 Well, it's a new series of armored robes, designed jointly by both Preservation and Investigation experts. The ecopack and the added hazardous protection make it suitable for extreme environments. A few of you lucky ones will get to show it off during the ceremony, but whether you get to keep it afterwards... that I ain't got a clue.
@@ -118,9 +118,9 @@ Well, it's a new series of armored robes, designed jointly by both Preservation 
 So keep it nice and clean, $(context.player.Name).<end>
 
 =>q16
-C'est une nouvelle série de robes blindées, conçues conjointement par des experts en préservation et en investigation. L'éco-emballage et la protection dangereuse ajoutée le rendent adapté aux environnements extrêmes. Quelques-uns d'entre vous auront la chance de le montrer pendant la cérémonie, mais si vous pouvez le garder après... que je n'ai aucune idée.
+C'est une nouvelle série de robes blindées, conçue par des experts de Preservation et d'Investigation, ensemble. L'ecopack et la protection contre les milieux hostiles la rendent utilisable dans les environnements extrêmes. Quelques chanceux parmi vous pourront la montrer à la cérémonie. Après, si vous la gardez... ça, j'en sais rien.
 
-Alors gardez-le bien et propre, $(context.player.Name).<end>
+Alors gardez-la propre et nette, $(context.player.Name).<end>
 
 =>a17_original
 Understood. Now, I better go and get changed.<end>
@@ -132,25 +132,25 @@ Compris. Je ferais mieux d'aller me changer.<end>
 ::She waves at you.:: Tchort guide you.<end>
 
 =>q18
-::Elle t'en veut.:: Tchort vous guide.<end>
+::Elle vous fait un signe de la main.:: Que Tchort vous guide.<end>
 
 =>a19_original
 I'd like to see what you have in the armory. ::Barter.::<end>
 
 =>a19
-J'aimerais voir ce que vous avez dans l'armurerie. ::Troc.::<end>
+J'aimerais voir ce que vous avez à l'armurerie. ::Troc.::<end>
 
 =>a20_original
 ::[Mercantile]:: Excuse me, Efreitor, but would you mind showing me the... rest of the equipment? The things you don't show to just about any novitiate. Price is not an issue - I've got the coin to spend.<end>
 
 =>a20
-::[Mercantile]:: Excusez-moi, Efreitor, mais pourriez-vous me montrer le... reste de l'équipement ? Les choses que vous ne montrez pas à n'importe quel noviciat. Le prix n'est pas un problème - j'ai la pièce à dépenser.<end>
+::[Mercantile]:: Excusez-moi, Efreitor, mais pourriez-vous me montrer le... reste de l'équipement ? Ce que vous ne sortez pas pour n'importe quel novice. Le prix n'est pas un problème - j'ai de quoi.<end>
 
 =>q21_original
 If that is the case... then let me show you what we got, $(context.player.Name).<end>
 
 =>q21
-Si c'est le cas, laissez-moi vous montrer ce qu'on a, $(context.player.Name).<end>
+Si c'est comme ça... laissez-moi vous montrer ce qu'on a, $(context.player.Name).<end>
 
 =>a22_original
 ::Barter.::<end>
@@ -162,73 +162,73 @@ Si c'est le cas, laissez-moi vous montrer ce qu'on a, $(context.player.Name).<en
 Sorry, but I cannot grant you access to the rest of the armory inventory, $(context.player.Name). It's... Never mind. I cannot.<end>
 
 =>q23
-Désolé, mais je ne peux pas vous donner accès au reste de l'inventaire des armures, $(context.player.Name). C'est... Laisse tomber. Je ne peux pas.<end>
+Désolée, mais je ne peux pas vous ouvrir le reste de l'inventaire de l'armurerie, $(context.player.Name). C'est... Laissez tomber. Je ne peux pas.<end>
 
 =>a24_original
 How and why did you join Institute of Tchort?<end>
 
 =>a24
-Comment et pourquoi avez-vous rejoint Institute of Tchort ?<end>
+Comment, et pourquoi, avez-vous rejoint l'Institute of Tchort ?<end>
 
 =>q25_original
 Institute-born here. ::She laughs.:: That means I've been exposed to Tchortism all my life and I am glad for it. I was lucky; outsiders who come here as novitiates always talk how difficult life on the outside is. Poverty, disease, bandits... wars even. While we do have our own problems here, namely with the Faceless and - as of late - Lunatics, the quality of life in the Institute is unmatched by anything in South Underrail.<end>
 
 =>q25
-Il est né ici. ::Elle rit.:: Cela signifie que j'ai été exposé au Tchortism toute ma vie et je suis heureux pour elle. J'ai eu de la chance; les étrangers qui viennent ici en tant que noviciates parlent toujours à quel point la vie est difficile à l'extérieur. Pauvreté, maladie, bandits... guerres même. Alors que nous avons nos propres problèmes ici, à savoir avec les Faceless et - à partir de la fin - Lunatics, la qualité de vie dans l'Institut est inégalée par tout dans le Sud Underrail.<end>
+Née à l'Institute. ::Elle rit.:: Ça veut dire que j'ai baigné dans le Tchortisme toute ma vie, et j'en suis contente. J'ai eu de la chance. Les gens de l'extérieur qui arrivent en novices n'arrêtent pas de dire à quel point c'est dur, dehors. Pauvreté, maladie, bandits... les guerres, même. On a nos problèmes, ici : les Faceless, et - depuis peu - les Lunatics. Mais le niveau de vie à l'Institute, rien ne l'égale, dans tout South Underrail.<end>
 
 =>q26_original
 All in all, the Institute is totally apex! ::She laughs.::<end>
 
 =>q26
-Dans l'ensemble, l'Institut est totalement apex! ::Elle rit.::<end>
+En gros, l'Institute, c'est totalement apex ! ::Elle rit.::<end>
 
 =>a27_original
 Have you ever been outside?<end>
 
 =>a27
-Avez-vous déjà été dehors ?<end>
+Vous êtes déjà allée dehors ?<end>
 
 =>q28_original
 Other than a few Upper Underrail patrols when I was a rassophore trainee, I've never went too far from the Institute. I saw nothing of interest during that time anyway, totally nothing, so I did not really feel the need to see what lies beyond. I'm sure it's just more of the same.<end>
 
 =>q28
-A part quelques patrouilles Upper Underrail quand j'étais stagiaire rasophore, je n'ai jamais été trop loin de l'Institut. Je n'ai rien vu d'intéressant pendant ce temps de toute façon, totalement rien, donc je n'ai pas vraiment ressenti le besoin de voir ce qui se trouve au-delà. Je suis sûr que c'est plus pareil.<end>
+À part quelques patrouilles en Upper Underrail, quand j'étais stagiaire rassophore, je ne me suis jamais trop éloignée de l'Institute. Je n'ai rien vu d'intéressant, de toute façon. Totalement rien. Alors je n'ai pas vraiment senti le besoin d'aller voir plus loin. Je suis sûre que c'est toujours la même chose.<end>
 
 =>q29_original
 I've got everything I need right here. I have friends, family... and this totally apex armory. And I suppose I have a purpose: Tchortism is something you dedicate your life to, something that fulfills you. All in all, I have everything here.<end>
 
 =>q29
-J'ai tout ce dont j'ai besoin ici. J'ai des amis, de la famille... et cette armure complètement apex. Et je suppose que j'ai un but: Tchortism est quelque chose à laquelle vous consacrez votre vie, quelque chose qui vous remplit. J'ai tout ici.<end>
+J'ai tout ce qu'il me faut, ici. Des amis, une famille... et cette armurerie, totalement apex. Et je suppose que j'ai un but : le Tchortisme, on y consacre sa vie, ça vous remplit. En gros, j'ai tout, ici.<end>
 
 =>a30_original
 Glad to hear that. Allow me to ask you something else.<end>
 
 =>a30
-Heureux d'entendre ça. Permettez-moi de vous demander autre chose.<end>
+$(#Content/Contente) de l'entendre. Permettez-moi de vous demander autre chose.<end>
 
 =>q31_original
 Sure, $(context.player.Name). I'm listening...<end>
 
 =>q31
-Bien sûr, $(context.player.Name). J'écoute...<end>
+Bien sûr, $(context.player.Name). Je vous écoute...<end>
 
 =>a32_original
 I am looking for a rassophore called Nevil. Have you seen him recently?<end>
 
 =>a32
-Je recherche un rassophore appelé Nevil. L'avez-vous vu récemment ?<end>
+Je cherche un rassophore nommé Nevil. L'avez-vous vu récemment ?<end>
 
 =>q33_original
 As I have already reported to Mediant Samuel, I haven't seen Rassophore Nevil today. The last time we spoke was two days ago when he came to the armory with a request for ammunition for his rifle, but that was all. He got what he needed and walked away.<end>
 
 =>q33
-Comme je l'ai déjà signalé au Médiant Samuel, je n'ai pas vu Rassophore Nevil aujourd'hui. La dernière fois que nous avons parlé, c'était il y a deux jours quand il est venu à l'armurerie avec une demande de munitions pour son fusil, mais c'était tout. Il a eu ce dont il avait besoin et il est parti.<end>
+Comme je l'ai déjà rapporté à Mediant Samuel, je n'ai pas vu Rassophore Nevil aujourd'hui. La dernière fois qu'on s'est parlé, c'était il y a deux jours : il est venu à l'armurerie demander des munitions pour son fusil, et c'est tout. Il a pris ce qu'il lui fallait, et il est parti.<end>
 
 =>q34_original
 He is not a talkative man anyway, so that is how our interaction usually goes. Totally.<end>
 
 =>q34
-Il n'est pas un homme bavard de toute façon, c'est ainsi que notre interaction se déroule habituellement. Totalement.<end>
+Ce n'est pas un bavard, de toute façon. C'est généralement comme ça, entre nous. Totalement.<end>
 
 =>a35_original
 What can you tell me about Mediant Samuel?<end>
@@ -240,43 +240,43 @@ Que pouvez-vous me dire sur Mediant Samuel ?<end>
 His Notability is a dedicated Tchortist and a good man, and it is an honor and a privilege to be a rassophore under his command. He can be strict - but he is always just.<end>
 
 =>q36
-Sa Notabilité est un Tchortiste dévoué et un homme bon, et c'est un honneur et un privilège d'être un rasophore sous son commandement. Il peut être strict - mais il est toujours juste.<end>
+Sa Notabilité est un Tchortiste dévoué, et un homme bon. C'est un honneur, et un privilège, d'être rassophore sous ses ordres. Il peut être strict - mais il est toujours juste.<end>
 
 =>a37_original
 Is he in charge of all forces or...<end>
 
 =>a37
-Est-il responsable de toutes les forces ou...<end>
+Il commande toutes les forces, ou...<end>
 
 =>q38_original
 No, $(context.player.Name) - that would be His Excellency, Harmost Stavros. Mediant, as a rank, is someone who relays harmost's commands to efreitors and rassophores; the middle link in the command chain, so to speak. But since His Excellency is in Deep Caverns at the moment, he left Mediant Samuel in command of the Institute forces up here.<end>
 
 =>q38
-Non, $(context.player.Name) - ce serait Son Excellence, Harmost Stavros. Médiant, en tant que grade, est quelqu'un qui relaie les commandes de Harmost aux éfrieurs et aux rasophores; le lien moyen dans la chaîne de commande, pour ainsi dire. Mais puisque Son Excellence est en Deep Caverns en ce moment, il a quitté le médiateur Samuel au commandement des forces de l'Institut ici.<end>
+Non, $(context.player.Name) - ça, c'est Son Excellence, Harmost Stavros. Mediant, comme grade, c'est celui qui relaie les ordres du harmost aux efreitors et aux rassophores ; le maillon du milieu, si vous voulez. Mais Son Excellence est dans les Deep Caverns, pour le moment, alors il a laissé Mediant Samuel aux commandes des forces de l'Institute, ici.<end>
 
 =>q39_original
 So in a way he *is* in command, but only temporarily.<end>
 
 =>q39
-Donc d'une certaine manière il *est * dans le commandement, mais seulement temporairement.<end>
+Donc, d'une certaine manière, il *commande*, mais seulement pour un temps.<end>
 
 =>a40_original
 Interesting... I had something else I wanted to ask you.<end>
 
 =>a40
-Intéressant... J'avais autre chose à te demander.<end>
+Intéressant... J'avais autre chose à vous demander.<end>
 
 =>a41_original
 What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
 
 =>a41
-Que dit une cellule sur le point de subir une mitose à un chercheur intéressé ? « J'espère que j'ai votre attention partagée !<end>
+Que dit une cellule sur le point d'entrer en mitose à un investigator intéressé ? « J'espère avoir votre attention... divisée ! »<end>
 
 =>q42_original
 ::At first, the joke is met with a giggle. However, a moment later Hanna bursts into full-blown laughter. She lowers her head and soon enough you don't even hear her anymore but only see her shaking.::<end>
 
 =>q42
-::Au début, la blague est rencontrée avec un rire. Cependant, un moment plus tard Hanna éclate en rires. Elle baisse la tête et assez tôt tu ne l'entends plus, mais tu la vois trembler.::<end>
+::La blague est d'abord accueillie par un gloussement. Une seconde plus tard, Hanna éclate vraiment de rire. Elle baisse la tête, et très vite vous ne l'entendez plus : vous la voyez seulement trembler.::<end>
 
 =>q43_original
 ::She returns to you eventually.::
@@ -284,21 +284,21 @@ Que dit une cellule sur le point de subir une mitose à un chercheur intéressé
 That was totally apex. Undivid-- ::She bursts into laughter again.::<end>
 
 =>q43
-::Elle finit par te revenir.::
+::Elle finit par se tourner vers vous.::
 
-C'était totalement apex. Undivid-- ::Elle éclate encore de rire.::<end>
+C'était totalement apex. Indivi-- ::Elle éclate de rire à nouveau.::<end>
 
 =>a44_original
 Glad you like it.<end>
 
 =>a44
-Content que ça te plaise.<end>
+$(#Content/Contente) que ça vous plaise.<end>
 
 =>q45_original
 ::She nods a few times, still laughing.::<end>
 
 =>q45
-::Elle hoche quelques fois, toujours en riant.::<end>
+::Elle hoche la tête plusieurs fois, toujours en riant.::<end>
 
 =>a46_original
 There was something else I wanted to talk about.<end>
@@ -316,55 +316,55 @@ Je vous laisse.<end>
 ::She nods a few times, still laughing.::<end>
 
 =>q48
-::Elle hoche quelques fois, toujours en riant.::<end>
+::Elle hoche la tête plusieurs fois, toujours en riant.::<end>
 
 =>a49_original
 Tchort guide you, sister.<end>
 
 =>a49
-Tchort vous guide, ma sœur.<end>
+Que Tchort vous guide, sœur.<end>
 
 =>q50_original
 I wouldn't have it any other way, $(context.player.Name). You too.<end>
 
 =>q50
-Je ne l'aurais pas fait autrement, $(context.player.Name). Toi aussi.<end>
+Je n'en voudrais pas d'autre, $(context.player.Name). Vous aussi.<end>
 
 =>a51_original
 See ya later, Hanna.<end>
 
 =>a51
-A tout à l'heure, Hanna.<end>
+À plus tard, Hanna.<end>
 
 =>a52_original
 That is correct. How did you know?<end>
 
 =>a52
-C'est exact. Comment le savez-vous ?<end>
+C'est exact. Comment le saviez-vous ?<end>
 
 =>q53_original
 News spreads fast; the Institute is not a very big place. A place of big ideas - perhaps, but not a physically big place. Also, your totally apex retrieval of the figurine stolen by those... devolved Lunatics is a something that really caught everyone's attention.<end>
 
 =>q53
-Les nouvelles se répandent rapidement; l'Institut n'est pas un grand endroit. Un endroit de grandes idées - peut-être, mais pas un endroit physiquement grand. Aussi, votre récupération totalement apex de la figurine volée par ces... Lunatics dévolus est quelque chose qui a vraiment attiré l'attention de tout le monde.<end>
+Les nouvelles vont vite ; l'Institute n'est pas très grand. Un lieu de grandes idées, peut-être - mais pas grand, physiquement. Et puis, votre récupération totalement apex de la figurine volée par ces... Lunatics dégénérés, ça a vraiment retenu l'attention de tout le monde.<end>
 
 =>q54_original
 Now, under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.<end>
 
 =>q54
-Maintenant, sous les ordres directs de Médiant Samuel, vous avez accès à l'armure de Conservation, malgré le fait que vous n'êtes pas encore un rasophore.<end>
+À présent, sur ordre direct de Mediant Samuel, vous avez accès à l'armurerie de Preservation, même si vous n'êtes pas encore rassophore.<end>
 
 =>a55_original
 I am, and I'm looking to get acquire weapons if possible. Mediant Samuel told me that you can help me with that.<end>
 
 =>a55
-Je le suis, et je cherche à obtenir des armes si possible. Le médiateur Samuel m'a dit que tu pouvais m'aider.<end>
+Oui, et je cherche à me procurer des armes, si possible. Mediant Samuel m'a dit que vous pouviez m'aider.<end>
 
 =>q56_original
 ::She nods.:: That is correct. Even though you are not a rassophore yet, $(context.player.Name), you will be granted access to Preservation's armory - as instructed by the mediant himself.<end>
 
 =>q56
-::Elle acquiesce.:: C'est exact. Même si vous n'êtes pas encore un rasophore, $(context.player.Name), vous aurez accès à l'armure de Préservation - selon les instructions de la médiane lui-même.<end>
+::Elle acquiesce.:: C'est exact. Même si vous n'êtes pas encore rassophore, $(context.player.Name), vous aurez accès à l'armurerie de Preservation - sur instruction du mediant lui-même.<end>
 
 =>q57_original
 Hey, $(context.player.Name). If you heard any loud banging on your way here, those were the weights falling off the weight rack in the gym. The armory is perfectly safe. 
@@ -372,31 +372,30 @@ Hey, $(context.player.Name). If you heard any loud banging on your way here, tho
 Still... don't stand near the cabinets.<end>
 
 =>q57
-Bonjour, $(context.player.Name). Si vous avez entendu des coups forts sur votre chemin ici, ce sont les poids tombant de la grille de poids dans le gymnase. L'armurerie est parfaitement sûre.
+Hé, $(context.player.Name). Si vous avez entendu du grabuge en venant, c'étaient les poids qui tombaient du rack, à la salle. L'armurerie est parfaitement sûre.
 
-Ne restez pas près des armoires.<end>
+Quand même... ne restez pas près des armoires.<end>
 
 =>q58_original
 $(context.player.Name), you totally have to see the new equipment we've just received.<end>
 
 =>q58
-$(context.player.Name), vous devez absolument voir le nouvel équipement que nous venons de recevoir.<end>
+$(context.player.Name), vous devez absolument voir le nouvel équipement qu'on vient de recevoir.<end>
 
 =>a59_original
 In a moment, I had some questions first.<end>
 
 =>a59
-Dans un moment, j'ai d'abord eu quelques questions.<end>
+Dans un instant. J'avais d'abord quelques questions.<end>
 
 =>q60_original
 Yes?<end>
 
 =>q60
-Oui?<end>
+Oui ?<end>
 
 =>q61_original
 Hey, $(context.player.Name). What culling tools do you need now?<end>
 
 =>q61
-Bonjour, $(context.player.Name). De quels outils d'abattage avez-vous besoin ?<end>
-
+Hé, $(context.player.Name). De quels outils d'élimination avez-vous besoin, là ?<end>

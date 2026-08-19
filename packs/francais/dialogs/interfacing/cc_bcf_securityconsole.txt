@@ -6,7 +6,7 @@ Firmware version - 3.4::<end>
 =>q1
 ::Console de sécurité BCF
 Biocorp Core Electronics
-Version Firmware - 3.4::<end>
+Firmware 3.4::<end>
 
 =>q2_original
 <end>
@@ -18,13 +18,13 @@ Version Firmware - 3.4::<end>
 ::Check Sector 2 doors status::<end>
 
 =>a3
-::Vérifier l'état des portes du secteur 2::<end>
+::État des portes, secteur 2::<end>
 
 =>q4_original
 ::Sector 2 doors are unlocked::<end>
 
 =>q4
-::Les portes du secteur 2 sont déverrouillées::<end>
+::Portes du secteur 2 déverrouillées::<end>
 
 =>a5_original
 ::Back::<end>
@@ -36,13 +36,13 @@ Version Firmware - 3.4::<end>
 ::Sector 2 Doors are locked::<end>
 
 =>q6
-::Secteur 2 Portes verrouillées::<end>
+::Portes du secteur 2 verrouillées::<end>
 
 =>a7_original
 ::[Hacking] Unlock Sector 2 doors:: <end>
 
 =>a7
-::Déverrouillez les portes du secteur 2:: <end>
+::[Hacking] Déverrouiller les portes du secteur 2:: <end>
 
 =>q8_original
 ::Please wait...
@@ -50,9 +50,9 @@ Version Firmware - 3.4::<end>
 Sector 2 doors have been unlocked::<end>
 
 =>q8
-::Attendez...
+::Patientez...
 
-Les portes du secteur 2 ont été déverrouillées::<end>
+Portes du secteur 2 déverrouillées.::<end>
 
 =>q9_original
 ::Unknown error::<end>
@@ -64,37 +64,37 @@ Les portes du secteur 2 ont été déverrouillées::<end>
 ::Check Sector 1 security status::<end>
 
 =>a10
-::Vérifier l'état de sécurité du secteur 1::<end>
+::État sécurité, secteur 1::<end>
 
 =>q11_original
 ::Please wait...::<end>
 
 =>q11
-::Attendez...::<end>
+::Patientez...::<end>
 
 =>q12_original
 ::No active security bots detected::<end>
 
 =>q12
-::Aucun bot de sécurité actif détecté::<end>
+::Aucun bot de sécurité actif::<end>
 
 =>a13_original
 ::Check Sector 2 security status::<end>
 
 =>a13
-::Vérifier l'état de sécurité du secteur 2::<end>
+::État sécurité, secteur 2::<end>
 
 =>q14_original
 ::Please wait...::<end>
 
 =>q14
-::Attendez...::<end>
+::Patientez...::<end>
 
 =>q15_original
 ::No active security bots detected::<end>
 
 =>q15
-::Aucun bot de sécurité actif détecté::<end>
+::Aucun bot de sécurité actif::<end>
 
 =>q16_original
 <end>
@@ -106,7 +106,7 @@ Les portes du secteur 2 ont été déverrouillées::<end>
 ::[Hacking] Disable guard mode for all security bots::<end>
 
 =>a17
-::[Frappe] Désactiver le mode garde pour tous les robots de sécurité::<end>
+::[Hacking] Désactiver le mode garde de tous les bots de sécurité::<end>
 
 =>q18_original
 ::Please wait...
@@ -114,9 +114,9 @@ Les portes du secteur 2 ont été déverrouillées::<end>
 Success: Guard mode has been disabled for all security bots.::<end>
 
 =>q18
-::Attendez...
+::Patientez...
 
-Succès : le mode Guard a été désactivé pour tous les robots de sécurité.::<end>
+OK : mode garde désactivé pour tous les bots de sécurité.::<end>
 
 =>q19_original
 ::Unknown error::<end>
@@ -130,9 +130,9 @@ Succès : le mode Guard a été désactivé pour tous les robots de sécurité.:
 Guard mode: Disabled::<end>
 
 =>q20
-::Détecté les robots de sécurité actifs dans le secteur 2.
+::Bots de sécurité actifs, secteur 2.
 
-Mode garde: désactivé::<end>
+Mode garde : désactivé::<end>
 
 =>q21_original
 ::Detected active security bots in Sector 2
@@ -140,13 +140,12 @@ Mode garde: désactivé::<end>
 Guard mode: Enabled::<end>
 
 =>q21
-::Les robots de sécurité actifs détectés dans le secteur 2
+::Bots de sécurité actifs, secteur 2
 
-Mode Garde : activé::<end>
+Mode garde : activé::<end>
 
 =>a22_original
 ::Exit::<end>
 
 =>a22
-::Sortie::<end>
-
+::Quitter::<end>

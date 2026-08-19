@@ -2,13 +2,13 @@
 Alright, I fixed the necklace as best as I could. Receiver should still work, but you'll only be able to pinpoint the location at short distances.<end>
 
 =>q1
-J'ai réparé le collier du mieux que je pouvais. Le récepteur devrait encore fonctionner, mais vous ne pourrez identifier l'emplacement que sur de courtes distances.<end>
+Bon, j'ai réparé le collier comme j'ai pu. Le récepteur devrait encore marcher, mais tu localiseras l'endroit seulement de près.<end>
 
 =>q2_original
 No luck with the emitter component, but perhaps that's for the best. You don't know who might be, heh, holdin' the other receiver, if you dig.<end>
 
 =>q2
-Pas de chance avec le composant émetteur, mais c'est peut-être pour le mieux. Vous ne savez pas qui pourrait être, heh, tenir l'autre récepteur, si vous creusez.<end>
+L'émetteur, j'ai pas pu. Tant mieux, peut-être. Tu sais jamais qui tient, hé, l'autre récepteur, si tu piges.<end>
 
 =>q3_original
 ::A young, slender, tall redhead stands before you. She addresses you with a rather thick accent.::
@@ -16,9 +16,9 @@ Pas de chance avec le composant émetteur, mais c'est peut-être pour le mieux. 
 I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this little shop. You here lookin' for some electronics, maybe?<end>
 
 =>q3
-::Une rouquine jeune et mince se tient devant vous. Elle s'adresse à vous avec un accent assez épais.::
+::Une grande rouquine, jeune, mince, se tient devant toi. Elle t'adresse la parole avec un accent bien marqué.::
 
-Je te vois pas d'ici, $(#slick/sis). Je suis Katherine, et je dirige ce petit magasin. Vous cherchez de l'électronique ?<end>
+Je te vois pas d'ici, $(#gars/sœurette). Moi c'est Katherine, c'est ma petite boutique. T'es là pour de l'électronique, peut-être ?<end>
 
 =>q4_original
 <end>
@@ -30,13 +30,13 @@ Je te vois pas d'ici, $(#slick/sis). Je suis Katherine, et je dirige ce petit ma
 Show me what you have. ::Barter.::<end>
 
 =>a5
-Montre-moi ce que tu as. ::Troc.::<end>
+Voir le stock. ::Troc.::<end>
 
 =>a6_original
 Hey, Katherine, do you know what this is? ::Show her the damaged necklace.::<end>
 
 =>a6
-Hé, Katherine, tu sais ce que c'est ? ::Montre-lui le collier endommagé.::<end>
+Hé, Katherine, tu sais ce que c'est ? ::Lui montrer le collier abîmé.::<end>
 
 =>q7_original
 Lemme see. ::She inspects the necklace.::<end>
@@ -48,19 +48,19 @@ Laisse-moi voir. ::Elle inspecte le collier.::<end>
 Hmmmm... I've... yeah, I've seen these before. It's one of them tracker-emitter necklaces. Folks that wanted to make sure not to lose each other in Underrail - like scavengers, for example - used to make these.<end>
 
 =>q8
-Oui. J'ai déjà vu ça. C'est l'un de ces colliers tracker-émitter. Les gens qui voulaient s'assurer de ne pas se perdre dans Underrail - comme les charognards, par exemple - ont utilisé pour les faire.<end>
+Hmmmm... j'ai... ouais, j'en ai déjà vu. C'est un de ces colliers tracker-émetteur. Les types qui voulaient pas se perdre de vue dans Underrail - les récupérateurs, par exemple - ils s'en fabriquaient.<end>
 
 =>q9_original
 This one seems to be one part of a pair. It's basically both a receiver and an emitter so either necklace of the pair can be used to track the other one.<end>
 
 =>q9
-Celui-ci semble faire partie d'une paire. C'est essentiellement à la fois un récepteur et un émetteur, de sorte que chaque collier de la paire peut être utilisé pour suivre l'autre.<end>
+Celui-là, c'est un morceau d'une paire. Récepteur et émetteur en même temps. Chaque collier peut pister l'autre.<end>
 
 =>q10_original
 ::She pauses, taking a look at the necklace again.:: Not any more, obviously, since the thing is broken.<end>
 
 =>q10
-::Elle s'arrête, regarde de nouveau le collier.:: Pas plus, évidemment, puisque la chose est cassée.<end>
+::Elle s'arrête, reprend le collier.:: Plus maintenant, forcément. Le truc est niqué.<end>
 
 =>a11_original
 Can you repair it?<end>
@@ -72,31 +72,31 @@ Tu peux le réparer ?<end>
 The receiver... possibly. But I doubt it's gonna be workin' as well as it used to. I mean... that's the way things are. Emitter is way beyond repair, though. All in all, the fixin' would cost you fifteen charons. Interested?<end>
 
 =>q12
-Le récepteur... peut-être. Mais je doute que ça marche aussi bien qu'avant. C'est comme ça. Mais l'émitter est loin d'être réparé. Dans l'ensemble, la réparation vous coûterait 15 charons. Intéressé ?<end>
+Le récepteur... possible. Mais ça marchera plus aussi bien qu'avant. C'est comme ça. L'émetteur, par contre, c'est mort. En tout, la réparation te coûte quinze charons. Ça te dit ?<end>
 
 =>a13_original
 Sure, here's fifteen. ::Give her 15 stygian coins::<end>
 
 =>a13
-Bien sûr, voilà quinze. ::Donnez-lui 15 pièces de style::<end>
+Voilà quinze. ::Lui donner 15 charons.::<end>
 
 =>q14_original
 Alright, lemme see what I can do.<end>
 
 =>q14
-Bon, laisse-moi voir ce que je peux faire.<end>
+OK, laisse-moi voir ce que je peux faire.<end>
 
 =>a15_original
 ::End Dialog::<end>
 
 =>a15
-::Fin de la boîte de dialogue::<end>
+::Partir::<end>
 
 =>a16_original
 Perhaps later.<end>
 
 =>a16
-Peut-être plus tard.<end>
+Plus tard.<end>
 
 =>q17_original
 Fine with me. I'm gonna be here if you change your mind.<end>
@@ -114,31 +114,31 @@ Merci pour les infos.<end>
 So, can you repair this damaged necklace?<end>
 
 =>a19
-Tu peux réparer ce collier endommagé ?<end>
+Tu peux réparer ce collier abîmé ?<end>
 
 =>a20_original
 Merchants here only accept stygian coins? How do I get some of those?<end>
 
 =>a20
-Les marchands ici n'acceptent que les pièces stygiennes ? Comment puis-je en obtenir?<end>
+Les marchands ici prennent que des charons ? Comment j'en choppe ?<end>
 
 =>q21_original
 Yeah, look for a Black Eel by the name of Colton. Colton. He can set you up for some charons if you provide him other currencies.<end>
 
 =>q21
-Oui, cherchez une Anguille Noire du nom de Colton. C'est Colton. Il peut vous installer pour quelques charons si vous lui fournissez d'autres devises.<end>
+Ouais, cherche un Black Eel, Colton. Colton. Tu lui files d'autres devises, il te les change en charons.<end>
 
 =>a22_original
 Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
 
 =>a22
-Auriez-vous, par hasard, un circuit imprimé de rotor de forage de classe Armadillo ?<end>
+T'aurais pas un circuit de rotor de forage classe Armadillo, des fois ?<end>
 
 =>q23_original
 No drill parts, sorry. Ain't got anythin' of the kind.<end>
 
 =>q23
-Pas de pièces de forage, désolé. Rien de tel.<end>
+Pas de pièces de forage, désolée. J'ai rien de ce genre.<end>
 
 =>q24_original
 Good luck findin' it, though. That junk's *old*. 
@@ -146,129 +146,129 @@ Good luck findin' it, though. That junk's *old*.
 I've only ever seen one... yeah, one Armadillo, and that thing was stripped down to the bone. All the way to the bone, $(#slick/sis).<end>
 
 =>q24
-Bonne chance. Cette merde est vieille.
+Bonne chance pour en trouver un, par contre. Cette ferraille, elle est *vieille*.
 
-Je n'en ai jamais vu qu'un... Oui, un Armadillo, et cette chose a été dépouillée jusqu'à l'os. Jusqu'à l'os, $(#slick/sis).<end>
+J'en ai vu qu'un... ouais, un Armadillo, et le truc était dépouillé jusqu'à l'os. Jusqu'à l'os, $(#gars/sœurette).<end>
 
 =>a25_original
 Any hints as to where I should look?<end>
 
 =>a25
-Des indices sur l'endroit où je devrais regarder ?<end>
+Des pistes, pour chercher ?<end>
 
 =>q26_original
 Well, uh, I mean, you can try the bigger junk merchants at the docks and the Depot B. If that fails, there might be one somewhere in Depot A, but it ain't worth riskin' your neck.<end>
 
 =>q26
-Eh bien, euh, je veux dire, vous pouvez essayer les plus gros marchands de malbouffe aux quais et au Dépôt B. Si ça échoue, il pourrait y en avoir un quelque part dans Depot A, mais ça ne vaut pas la peine de risquer votre cou.<end>
+Bah, euh, tu peux essayer les gros marchands de ferraille aux quais et au Depot B. Si ça donne rien, y en a peut-être un dans Depot A, mais ça vaut pas le coup de risquer ta peau.<end>
 
 =>a27_original
 What's so bad about Depot A?<end>
 
 =>a27
-Qu'est-ce qui ne va pas chez Depot A ?<end>
+Qu'est-ce qui cloche, à Depot A ?<end>
 
 =>q28_original
 Rabid mutated dogs for starters, that much I know myself. Granted, I've never been too far in, but those who *have* and returned in one piece claim there are also rogue turrets, mine fields and even mutated folks in there. All sorts of freakin' dangerous stuff.<end>
 
 =>q28
-Des chiens mutés pour commencer, que je me connais. Certes, je n'ai jamais été trop loin, mais ceux qui *ont* et sont revenus en une seule pièce prétendent qu'il y a aussi des tourelles voyous, des champs de mines et même des gens mutés là-dedans. Toutes sortes de trucs dangereux.<end>
+Des chiens mutants enragés, déjà. Ça, je le sais. J'y suis jamais allée bien loin, mais ceux qui *y sont allés* et qui sont revenus en un seul morceau parlent aussi de tourelles devenues folles, de champs de mines, et même de types mutés là-dedans. Toute une flopée de trucs dangereux.<end>
 
 =>q29_original
 If you really want to check it out for yourself, you gonna have to convince Scrappers to let you in, 'cause the entrance to Depot A is, well, it is from within their base.<end>
 
 =>q29
-Si vous voulez vraiment vérifier par vous-même, vous devrez convaincre Scrappers de vous laisser entrer, parce que l'entrée de Depot A est, eh bien, c'est de l'intérieur de leur base.<end>
+Si tu veux vraiment voir par toi-même, faudra convaincre les Scrappers de te laisser entrer. L'entrée de Depot A, bah... elle est dans leur base.<end>
 
 =>a30_original
 Before I leave, there was something else I wanted to ask you.<end>
 
 =>a30
-Avant de partir, je voulais te demander autre chose.<end>
+Avant de partir, j'avais autre chose à te demander.<end>
 
 =>q31_original
 Shoot.<end>
 
 =>q31
-Tirez.<end>
+Balance.<end>
 
 =>a32_original
 I see. Appreciate the info. I'll be on my way now.<end>
 
 =>a32
-Je vois. J'apprécie les infos. Je vais y aller.<end>
+Merci pour les infos. Je me casse.<end>
 
 =>a33_original
 Thanks for the tips. Gotta run now.<end>
 
 =>a33
-Merci pour les conseils. Il faut courir.<end>
+Merci pour les tuyaux. Faut que je file.<end>
 
 =>a34_original
 Thanks. I feel I'm going to need it.<end>
 
 =>a34
-C'est gentil. Je sens que je vais en avoir besoin.<end>
+Merci. Je sens que j'en aurai besoin.<end>
 
 =>a35_original
 How come your store is here in the slums?<end>
 
 =>a35
-Comment se fait-il que votre magasin soit ici dans les bidonvilles ?<end>
+C'est quoi l'idée, ta boutique dans les bidonvilles ?<end>
 
 =>q36_original
 This the only buildin' I could get my hands on.<end>
 
 =>q36
-C'est le seul moyen de me mettre la main dessus.<end>
+C'est le seul local que j'ai pu choper.<end>
 
 =>q37_original
 And it ain't that bad, $(#slick/sis), seriously. There ain't any really comfortable place to live in Junkyard unless you one of the wealthier merchants with a place in the residential district, or a high rankin' gangster.<end>
 
 =>q37
-Et ce n'est pas si mal, $(#slick/sis), sérieusement. Il n'y a aucun endroit vraiment confortable pour vivre à Junkyard à moins que vous l'un des marchands plus riches avec une place dans le quartier résidentiel, ou un gangster de haut rang.<end>
+Et c'est pas si mal, $(#gars/sœurette), sérieux. Y a pas un vrai endroit confortable à Junkyard, sauf si t'es un marchand qui a les moyens, avec un local dans le quartier résidentiel, ou un caïd.<end>
 
 =>a38_original
 So how's life in the slums?<end>
 
 =>a38
-Alors comment va la vie dans les bidonvilles ?<end>
+Et la vie, dans les bidonvilles ?<end>
 
 =>q39_original
 For me, it's alright. I make enough coin from tradin' with the local customers and folks from the outside. Yeah, it's alright.<end>
 
 =>q39
-Pour moi, ça va. Je fais assez de pièces de tradin avec les clients locaux et les gens de l'extérieur. Oui, ça va.<end>
+Pour moi, ça va. Je gagne assez à troquer avec les clients du coin et les types de l'extérieur. Ouais, ça va.<end>
 
 =>q40_original
 But for those poor saps out there it must be terrible. They're surrounded by heavily armed men from all sides. They can do little to protect themselves. <end>
 
 =>q40
-Mais pour ces pauvres sèves, ça doit être terrible. Ils sont entourés d'hommes lourdement armés de toutes parts. Ils peuvent faire peu pour se protéger. <end>
+Mais pour ces pauvres types dehors, ça doit être l'enfer. Encadrés d'hommes armés jusqu'aux dents, de tous les côtés. Ils peuvent presque rien faire pour se protéger. <end>
 
 =>q41_original
 I mean, it's bad enough they gotta keep an eye out for their neighbors that might knife them in their sleep for a piece of cave hopper meat or an eel, or some petty coin - or just 'cause they derailed, but gangsters and thugs also sweep in from time to time to take whatever they fancy.<end>
 
 =>q41
-Je veux dire, c'est assez mauvais qu'ils gardent un œil sur leurs voisins qui pourraient les poignarder dans leur sommeil pour un morceau de viande de trémie de caverne ou une anguille, ou une petite pièce de monnaie - ou juste parce qu'ils ont déraillé, mais les gangsters et les voyous balayent aussi de temps en temps pour prendre ce qu'ils veulent.<end>
+Déjà qu'ils doivent surveiller les voisins, des types capables de les planter dans leur sommeil pour un morceau de sauteur des caves, une anguille, trois charons - ou juste parce qu'ils ont déraillé. En plus les caïds et les voyous débarquent de temps en temps pour piquer ce qui leur plaît.<end>
 
 =>q42_original
 The Protectorate promises to bring the Union laws and protection, but so far nothin' has changed. Nothin'. Lotsa hobos just take to the caves instead, spelunkin' around, and maybe they right in doing so. Heck, they might not find more safety, but at least there's more food to be found out there.<end>
 
 =>q42
-Le Protectorate promet d'apporter la législation et la protection de l'Union, mais jusqu'à présent rien n'a changé. Rien. Lotsa hookos prend juste dans les grottes à la place, spelunkin, et peut-être qu'ils ont raison de le faire. Ils pourraient ne pas trouver plus de sécurité, mais au moins il y a plus de nourriture à trouver là-bas.<end>
+Le Protectorate promet les lois de l'Union et la protection, mais pour l'instant rien n'a bougé. Rien. Plein de zonards filent dans les grottes à la place, ils fouillent, et peut-être qu'ils ont pas tort. Ils trouveront pas plus de sécurité, mais au moins y a plus à manger là-bas.<end>
 
 =>a43_original
 I'm looking for a guy named Blaine. Seen him around?<end>
 
 =>a43
-Je cherche un gars nommé Blaine. Vous l'avez vu ?<end>
+Je cherche un gars, Blaine. Tu l'as vu ?<end>
 
 =>q44_original
 Mmm... maybe, *maybe*. What's it worth to you?<end>
 
 =>q44
-Peut-être. Ça vaut quoi pour toi ?<end>
+Mmm... peut-être. *Peut-être*. Ça te vaut quoi ?<end>
 
 =>q45_original
 <end>
@@ -280,67 +280,67 @@ Peut-être. Ça vaut quoi pour toi ?<end>
 ::[Persuade]:: Let's say I'll owe you a favor if you point me in the right direction.<end>
 
 =>a46
-::[Persuader]:: Disons que je vous dois une faveur si vous me pointez dans la bonne direction.<end>
+::[Persuade]:: Disons que je te dois une faveur si tu m'orientes.<end>
 
 =>q47_original
 Hmm... alright. That might come in handy.<end>
 
 =>q47
-Ça va. Ça pourrait être utile.<end>
+Hmm... OK. Ça peut toujours servir.<end>
 
 =>q48_original
 Look for him in the Lower Underrail near SGS. He has his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
 
 =>q48
-Recherchez-le dans le Lower Underrail près de SGS. Il a sa boutique dans le sous-passage. Mais tout le monde ne peut pas entrer. Tu vas devoir sonner l'interphone deux fois rapidement, une fois longtemps, puis deux fois rapidement. C'est ça ? Deux rapides, un longs, deux rapides et vous entrez.<end>
+Cherche-le dans le Lower Underrail, près de SGS. Il a comme une boutique dans le sous-passage, là-bas. Mais tout le monde entre pas. Faut sonner à l'interphone : deux coups rapides, un long, encore deux rapides. T'as pigé ? Deux courts, un long, deux courts, et t'es dedans.<end>
 
 =>a49_original
 I dig. Thanks, sis.<end>
 
 =>a49
-Je creuse. Merci, sœurette.<end>
+Ouais je vois. Merci, sœurette.<end>
 
 =>a50_original
 I understand. I'll see you around, Katherine.<end>
 
 =>a50
-Je comprends. A bientôt, Katherine.<end>
+Compris. À plus, Katherine.<end>
 
 =>q51_original
 No deal, $(#slick/sis). You gonna have to do better than that.<end>
 
 =>q51
-Pas de marché, $(#slick/sis). Tu vas devoir faire mieux que ça.<end>
+Pas de marché, $(#gars/sœurette). Faudra faire mieux que ça.<end>
 
 =>a52_original
 Got some charons here I'm looking to spend. What's you price?<end>
 
 =>a52
-J'ai des charons à dépenser. Qu'est-ce que tu prix ?<end>
+J'ai des charons à claquer. C'est combien ?<end>
 
 =>q53_original
 Gimme a hundred of those and I'll tell you where to find him.<end>
 
 =>q53
-Donne-moi cent d'entre eux et je te dirai où le trouver.<end>
+Balance-m'en cent et je te dis où le trouver.<end>
 
 =>a54_original
 Fine, here you go. ::Give her 100 stygian coins.::<end>
 
 =>a54
-Voilà. ::Donnez-lui 100 pièces de stylet.::<end>
+OK, tiens. ::Lui donner 100 charons.::<end>
 
 =>q55_original
 Look for him in the Lower Underrail, near SGS. He got his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
 
 =>q55
-Cherchez-le dans le Lower Underrail, près de SGS. Il a sa boutique dans le sous-passage. Mais tout le monde ne peut pas entrer. Tu vas devoir sonner l'interphone deux fois rapidement, une fois longtemps, puis deux fois rapidement. C'est ça ? Deux rapides, un longs, deux rapides et vous entrez.<end>
+Cherche-le dans le Lower Underrail, près de SGS. Il a comme une boutique dans le sous-passage, là-bas. Mais tout le monde entre pas. Faut sonner à l'interphone : deux coups rapides, un long, encore deux rapides. T'as pigé ? Deux courts, un long, deux courts, et t'es dedans.<end>
 
 =>a56_original
 ::[Mercantile]:: I'll give you fifty and a big smile.<end>
 
 =>a56
-::[Mercantile]:: Je vais vous faire un grand sourire.<end>
+::[Mercantile]:: Je te donne cinquante, et un grand sourire.<end>
 
 =>q57_original
 Seventy-five, keep the smile.<end>
@@ -352,55 +352,55 @@ Soixante-quinze, garde le sourire.<end>
 Deal! ::Give her 75 stygain coins.::<end>
 
 =>a58
-Marché conclu ! ::Donnez-lui 75 pièces.::<end>
+Marché conclu. ::Lui donner 75 charons.::<end>
 
 =>a59_original
 Forget it.<end>
 
 =>a59
-Oublie ça.<end>
+Laisse tomber.<end>
 
 =>q60_original
 No way. One hundred or forget it.<end>
 
 =>q60
-Pas moyen. Une centaine ou l'oublier.<end>
+Même pas. Cent, ou tu dégages.<end>
 
 =>a61_original
 Alright, here you go. ::Give her 100 stygian coins.::<end>
 
 =>a61
-Voilà. ::Donnez-lui 100 pièces de stylet.::<end>
+OK, tiens. ::Lui donner 100 charons.::<end>
 
 =>a62_original
 I'll pass.<end>
 
 =>a62
-Je vais passer.<end>
+Je passe.<end>
 
 =>a63_original
 That's a bit too steep for me.<end>
 
 =>a63
-C'est trop raide pour moi.<end>
+C'est un peu salé pour moi.<end>
 
 =>q64_original
 Oh, yeah? Well too bad. Come back when you richer, you hear?<end>
 
 =>q64
-Ah oui ? Dommage. Revenez quand vous êtes plus riche, vous entendez ?<end>
+Ah ouais ? Tant pis. Reviens quand t'auras les poches plus pleines, compris ?<end>
 
 =>a65_original
 Not much really.<end>
 
 =>a65
-Pas vraiment.<end>
+Pas grand-chose.<end>
 
 =>q66_original
 Then we don't have much to talk about, do we?<end>
 
 =>q66
-Alors on n'a pas beaucoup à parler, n'est-ce pas ?<end>
+Alors on a plus grand-chose à se dire, non ?<end>
 
 =>a67_original
 About Blaine...<end>
@@ -412,17 +412,16 @@ About Blaine...<end>
 Got an offer for me?<end>
 
 =>q68
-Vous avez une offre pour moi ?<end>
+T'as une offre ?<end>
 
 =>a69_original
 I have to go.<end>
 
 =>a69
-Je dois y aller.<end>
+Partir.<end>
 
 =>q70_original
 How you doin'? Back for some shoppin'?<end>
 
 =>q70
-Comment ça va ? De retour pour faire du shopping ?<end>
-
+Ça va ? T'es là pour le stock ?<end>

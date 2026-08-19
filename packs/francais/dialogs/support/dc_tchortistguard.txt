@@ -96,13 +96,13 @@ I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
 =>q12
 ::Le rasophore d'Edgy lève son arme.::
 
-Je le savais ! infiltrateur Faceless ! CULL $(#HIM/HER) !<end>
+Je le savais ! infiltrateur Faceless ! CULL $(#lui/elle) !<end>
 
 =>a13_original
 ::Fight!::<end>
 
 =>a13
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a14_original
 I am *not* one of the Faceless. I just need help!<end>
@@ -178,7 +178,7 @@ That's good enough! ::As you come to a full stop, all eyes fall on you in an act
 $(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
 
 =>q25
-$(#Il/Elle) correspond à la description. C'est un soulagement ! Vous pouvez entrer dans Cytosine Outpost, $(#brother/sister). Tchort est Evolution.<end>
+$(#Il/Elle) correspond à la description. C'est un soulagement ! Vous pouvez entrer dans Cytosine Outpost, $(#frère/sœur). Tchort est Evolution.<end>
 
 =>a26_original
 I would like to talk with whoever is in charge here.<end>
@@ -196,7 +196,7 @@ Son Excellence, Harmost Stavros peut être trouvé dans son bureau; aller tout d
 Tchort guide you, $(#brother/sister).<end>
 
 =>q28
-Tchort vous guide, $(#brother/sister).<end>
+Tchort vous guide, $(#frère/sœur).<end>
 
 =>a29_original
 Tchort guide you too.<end>
@@ -220,13 +220,13 @@ J'ai besoin de nourriture, de fournitures et de soins médicaux, frères.<end>
 You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
 
 =>q32
-Vous serez pris en charge, $(#brother/sister), mais d'abord parler avec Son Excellence, Harmost Stavros; aller tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
+Vous serez pris en charge, $(#frère/sœur), mais d'abord parler avec Son Excellence, Harmost Stavros; aller tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
 
 =>q33_original
 Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
 
 =>q33
-Et bien, $(#il/elle) ressemble à l'un de nous... Tchort est l'évolution, $(#brother/sister).<end>
+Et bien, $(#il/elle) ressemble à l'un de nous... Tchort est l'évolution, $(#frère/sœur).<end>
 
 =>a34_original
 Yes.<end>
@@ -250,7 +250,7 @@ Eidein est génial.<end>
 Tchort is evolution.<end>
 
 =>a37
-Tchort est une évolution.<end>
+Tchort est l'évolution.<end>
 
 =>q38_original
 ::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
@@ -326,7 +326,7 @@ You can enter Cytosine Outpost, $(#brother/sister).<end>
 =>q49
 C'est exact; je pense que c'est toute la preuve dont nous avons besoin.
 
-Vous pouvez entrer dans Cytosine Outpost, $(#brother/sister).<end>
+Vous pouvez entrer dans Cytosine Outpost, $(#frère/sœur).<end>
 
 =>a50_original
 Finally, it's about time.<end>
@@ -338,7 +338,7 @@ Enfin, il était temps.<end>
 $(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
 
 =>q51
-$(#Brother/Sister), je vous suggère d'aller parler avec Son Excellence Harmost Stavros; allez tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
+$(#Frère/Sœur), je vous suggère d'aller parler avec Son Excellence Harmost Stavros; allez tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
 
 =>a52_original
 ::[Intelligence]:: Sagan.<end>
@@ -398,19 +398,19 @@ Neuf ? Qu...<end>
 Where is your robe, $(#brother/sister)?<end>
 
 =>q61
-Où est votre robe, $(#brother/sister) ?<end>
+Où est votre robe, $(#frère/sœur) ?<end>
 
 =>a62_original
 ::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
 
 =>a62
-::[Persuader]:: Seul un idiot porterait une robe Tchortist dans les grottes infestées de Faceless ; je ne veux pas être abattu à vue. De plus, leur attaque contre l'Institut a été soudaine et je n'ai pas eu le temps de prendre ma robe.<end>
+::[Persuade]:: Seul un idiot porterait une robe Tchortist dans les grottes infestées de Faceless ; je ne veux pas être abattu à vue. De plus, leur attaque contre l'Institut a été soudaine et je n'ai pas eu le temps de prendre ma robe.<end>
 
 =>q63_original
 That makes sense... Tchort is evolution, $(#brother/sister).<end>
 
 =>q63
-C'est logique... Tchort est l'évolution, $(#brother/sister).<end>
+C'est logique... Tchort est l'évolution, $(#frère/sœur).<end>
 
 =>q64_original
 And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
@@ -434,7 +434,7 @@ C'est un séchage.<end>
 $(#Brother/Sister).<end>
 
 =>q67
-$(#Brother/Sister).<end>
+$(#Frère/Sœur).<end>
 
 =>q68_original
 <end>
@@ -452,5 +452,5 @@ Je vous aurais tiré dessus.<end>
 I'm watching you, $(#brother/sister).<end>
 
 =>q70
-Je te regarde, $(#brother/sister).<end>
+Je te regarde, $(#frère/sœur).<end>
 

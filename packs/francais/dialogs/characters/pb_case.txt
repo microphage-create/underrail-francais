@@ -10,15 +10,15 @@ Le DFAC est réservé au personnel militaire.<end>
 Oh, Corporal, hello. First time seeing you here. Welcome to DFAC, better known as the mess hall. ::He laughs.:: As you can probably tell, we're quite busy here. ::He turns to the cook.:: Running low on rathound stew, Kost.<end>
 
 =>q2
-::Vous approchez d’un jeune garçon costaud. Il semble travailler avec beaucoup de rapidité et de précision, servir les soldats, parler au cuisinier et même vous remarquer en dehors de la file d'attente, essayant d'entamer une conversation.::
+::Vous vous approchez d'un jeune homme costaud. Il travaille vite, précis : il sert les soldats, parle au cuistot, et vous remarque même hors de la file, en train d'essayer d'engager la conversation.::
 
-Oh, Caporal, bonjour. C'est la première fois que je te vois ici. Bienvenue au DFAC, mieux connu sous le nom de mess. ::Il rit.:: Comme vous pouvez probablement le constater, nous sommes très occupés ici. ::Il se tourne vers le cuisinier.:: Je manque de ragoût de rathound, Kost.<end>
+Oh, caporal, bonjour. Première fois que je vous vois ici. Bienvenue au DFAC, plus connu sous le nom de mess. ::Il rit.:: Comme vous le voyez sans doute, on est pas mal occupés. ::Il se tourne vers le cuistot.:: On manque de ragoût de rathound, Kost.<end>
 
 =>q3_original
 Everyone calls me Case, $(#sir/ma'am), especially when they're hungry, but then it often sounds like: "Hey Case, step it up, boy. We're starving here!" ::He laughs.::<end>
 
 =>q3
-Tout le monde m'appelle Case, $(#monsieur/madame), surtout quand ils ont faim, mais cela ressemble souvent à : "Hé Case, accélère, mon garçon. Nous mourons de faim ici !" ::Il rit.::<end>
+Tout le monde m'appelle Case, $(#monsieur/madame), surtout quand ils ont faim, et ça sonne souvent : « Hé Case, accélère, gamin. On crève de faim, ici ! » ::Il rit.::<end>
 
 =>q4_original
 <end>
@@ -30,7 +30,7 @@ Tout le monde m'appelle Case, $(#monsieur/madame), surtout quand ils ont faim, m
 I am hungry, can I see what you have? ::Barter.::<end>
 
 =>a5
-J'ai faim, puis-je voir ce que tu as ? ::Troc.::<end>
+J'ai faim, je peux voir ce que vous avez ? ::Troc.::<end>
 
 =>q6_original
 Sure, but you have to wait for your turn, Corporal.
@@ -38,9 +38,9 @@ Sure, but you have to wait for your turn, Corporal.
 I hope you didn't, um, mean to jump the queue?<end>
 
 =>q6
-Bien sûr, mais vous devez attendre votre tour, caporal.
+Bien sûr, mais il faut attendre votre tour, caporal.
 
-J'espère que tu ne voulais pas éviter la file d'attente ?<end>
+J'espère que vous n'aviez pas, euh, l'intention de griller la file ?<end>
 
 =>a7_original
 But, I'm really hungry!<end>
@@ -54,15 +54,15 @@ Mais j'ai vraiment faim !<end>
 You are not the only one who's hungry here, Corporal. Rules are rules. You have to wait in the queue - just like everyone else.<end>
 
 =>q8
-::Chaque personne dans la file d'attente vous regarde intensément - à tel point, en fait, que vous pouvez presque sentir leur énergie combinée vous brûler. Ensuite, Case continue.::
+::Tout le monde dans la file vous fixe - si fort, d'ailleurs, que vous sentez presque leur énergie combinée vous brûler. Puis Case reprend.::
 
-Vous n'êtes pas le seul à avoir faim ici, caporal. Les règles sont des règles. Vous devez faire la queue, comme tout le monde.<end>
+Vous n'êtes pas $(#le seul/la seule) à avoir faim, ici, caporal. Les règles sont les règles. Il faut faire la queue, comme tout le monde.<end>
 
 =>a9_original
 ::Wait for your turn.::<end>
 
 =>a9
-::Attendez votre tour.::<end>
+::Attendre son tour.::<end>
 
 =>a10_original
 Actually, I had some other questions.<end>
@@ -74,7 +74,7 @@ En fait, j'avais d'autres questions.<end>
 Sure. Ask me anything, $(#sir/ma'am).<end>
 
 =>q11
-Bien sûr. Demandez-moi n'importe quoi, $(#monsieur/madame).<end>
+Bien sûr. Demandez-moi ce que vous voulez, $(#monsieur/madame).<end>
 
 =>a12_original
 No, not at all.<end>
@@ -86,31 +86,31 @@ Non, pas du tout.<end>
 Oh, good. Glad to hear it. ::He watches you, clearly waiting for you to stand at the back of the queue.::<end>
 
 =>q13
-Oh, bien. Heureux de l'entendre. ::Il vous regarde, attendant clairement que vous vous teniez au fond de la file d'attente.::<end>
+Oh, bien. Content de l'entendre. ::Il vous regarde, visiblement en attendant que vous alliez au fond de la file.::<end>
 
 =>q14_original
 Please wait for your turn.<end>
 
 =>q14
-Veuillez attendre votre tour.<end>
+Attendez votre tour, s'il vous plaît.<end>
 
 =>a15_original
 Does everyone eat here or just the soldiers?<end>
 
 =>a15
-Est-ce que tout le monde mange ici ou seulement les soldats ?<end>
+Tout le monde mange ici, ou seulement les soldats ?<end>
 
 =>q16_original
 Well, $(#sir/ma'am), the mess hall is for everyone. Everyone from Fort Apogee, that is. ::He laughs.:: Soldiers, workers, mechanics... medical staff, officers. It makes the atmosphere a bit more interesting, in my opinion.<end>
 
 =>q16
-Eh bien, $(#monsieur/madame), le réfectoire est pour tout le monde. Tout le monde de Fort Apogee, bien sûr. ::Il rit.:: Militaires, ouvriers, mécaniciens... personnel médical, officiers. Cela rend l'atmosphère un peu plus intéressante, à mon avis.<end>
+Eh bien, $(#monsieur/madame), le mess est pour tout le monde. Tout le monde de Fort Apogee, hein. ::Il rit.:: Soldats, ouvriers, mécaniciens... personnel médical, officiers. Ça rend l'ambiance un peu plus intéressante, à mon avis.<end>
 
 =>q17_original
 For instance, you can see Luka, our head mechanic, and Anastasia, um,  Doctor Merrick, sitting together and chatting; two completely different people, different backgrounds, jobs... They sit down, chat, joke or discuss important subjects. Like childhood friends, even though they are far from it.<end>
 
 =>q17
-Par exemple, vous pouvez voir Luka, notre chef mécanicien, et Anastasia, euh, le docteur Merrick, assis ensemble et discutant ; deux personnes complètement différentes, des parcours, des métiers différents... Ils s'assoient, discutent, plaisantent ou discutent de sujets importants. Comme des amis d’enfance, même s’ils en sont loin.<end>
+Par exemple, vous pouvez voir Luka, notre chef mécanicien, et Anastasia, euh, le docteur Merrick, assis ensemble, en train de discuter ; deux personnes complètement différentes, des milieux, des métiers différents... Ils s'assoient, causent, plaisantent ou parlent de choses importantes. Comme des amis d'enfance, même s'ils en sont loin.<end>
 
 =>q18_original
 But, others are not so friendly. Some Northerners here feel that they shouldn't socialize with *us.* Southerners, that is. Like, for example Eric... I mean, Staff Sergeant Fraser.
@@ -118,9 +118,9 @@ But, others are not so friendly. Some Northerners here feel that they shouldn't 
 ::He stops for a moment, looking around. You suspect that he realized he spoke the name a bit too loud.::<end>
 
 =>q18
-Mais d’autres ne sont pas aussi amicaux. Certains habitants du Nord estiment qu'ils ne devraient pas socialiser avec *nous.* Les sudistes, bien sûr. Comme, par exemple, Eric... Je veux dire, le sergent d'état-major Fraser.
+Mais d'autres sont moins amicaux. Certains Nordistes, ici, estiment qu'ils ne devraient pas fréquenter *nous.* Les sudistes, hein. Comme, par exemple, Eric... je veux dire, le sergent d'état-major Fraser.
 
-::Il s'arrête un instant, regardant autour de lui. Vous soupçonnez qu'il s'est rendu compte qu'il avait prononcé le nom un peu trop fort.::<end>
+::Il s'arrête un instant, regarde autour de lui. Vous soupçonnez qu'il a compris qu'il avait dit le nom un peu trop fort.::<end>
 
 =>a19_original
 Why did you join the Protectorate?<end>
@@ -134,51 +134,51 @@ Opportunity presented itself, $(#sir/ma'am). I am a Southerner, just like you. I
 Where was I... Oh, yes. I wanted to get away from all that and help my fellow Southerners.<end>
 
 =>q20
-L'opportunité s'est présentée, $(#monsieur/madame). Je suis sudiste, tout comme toi. Je voulais... Juste une seconde... ::Il compte les dollars et rend la monnaie à l'un des soldats.:: Ouais, merci, bon appétit !
+L'occasion s'est présentée, $(#monsieur/madame). Je suis sudiste, comme vous. Je voulais... Une seconde... ::Il compte les dollars et rend la monnaie à un soldat.:: Ouais, merci, bon appétit !
 
-Où étais-je... Oh, oui. Je voulais m'éloigner de tout ça et aider mes compatriotes du Sud.<end>
+Où j'en étais... Ah oui. Je voulais m'éloigner de tout ça et aider mes compatriotes du Sud.<end>
 
 =>q21_original
 I... I think this is a rotten place to live in. Poverty, death, disease... *people.* Then Underrail Protectorate arrived. United Stations, unification... it seemed like the right idea at the time. Still does, actually. <end>
 
 =>q21
-Je... Je pense que c'est un endroit pourri où vivre. La pauvreté, la mort, la maladie... *les gens.* Puis Underrail Protectorate est arrivé. Stations Unies, unification... cela semblait être la bonne idée à l'époque. C’est toujours le cas, en fait. <end>
+Je... je pense que c'est un endroit pourri, pour vivre. La pauvreté, la mort, la maladie... *les gens.* Puis l'Underrail Protectorate est arrivé. United Stations, l'unification... ça avait l'air d'être la bonne idée, à l'époque. Ça l'a toujours, d'ailleurs. <end>
 
 =>a22_original
 So, how did you end up in the mess hall?<end>
 
 =>a22
-Alors, comment es-tu arrivé au réfectoire ?<end>
+Alors, comment avez-vous atterri au mess ?<end>
 
 =>q23_original
 I have some knee issues. Rotten thing... Um, not literally, of course. It's just... I wasn't meant to be a soldier, Corporal. ::He smiles.::<end>
 
 =>q23
-J'ai quelques problèmes au genou. Chose pourrie... Euh, pas littéralement, bien sûr. C'est juste... Je n'étais pas censé être un soldat, caporal. ::Il sourit.::<end>
+J'ai des problèmes de genou. Un truc pourri... Euh, pas au sens littéral, évidemment. C'est juste... J'étais pas fait pour être soldat, caporal. ::Il sourit.::<end>
 
 =>q24_original
 Wasn't meant to be...<end>
 
 =>q24
-Ce n'était pas censé être...<end>
+J'étais pas fait pour...<end>
 
 =>a25_original
 Can I ask you something else?<end>
 
 =>a25
-Puis-je vous demander autre chose ?<end>
+Je peux vous demander autre chose ?<end>
 
 =>a26_original
 What can you tell me about the Free Drones?<end>
 
 =>a26
-Que pouvez-vous me dire sur le Free Drones ?<end>
+Que pouvez-vous me dire sur les Free Drones ?<end>
 
 =>q27_original
 I... I can't talk about that, Corporal. Forgive me.<end>
 
 =>q27
-Je... je ne peux pas parler de ça, caporal. Pardonne-moi.<end>
+Je... je peux pas en parler, caporal. Pardonnez-moi.<end>
 
 =>q28_original
 It's complicated.<end>
@@ -190,7 +190,7 @@ C'est compliqué.<end>
 ::[Persuade]:: Tell me when the queue clears. *If* it's something you don't want everyone to hear.<end>
 
 =>a29
-::[Persuader]:: Dites-moi quand la file d'attente se vide. *Si* c'est quelque chose que tu ne veux pas que tout le monde entende.<end>
+::[Persuade]:: Dites-moi quand la file se vide. *Si* c'est quelque chose que vous ne voulez pas que tout le monde entende.<end>
 
 =>q30_original
 ::He considers it for several moments, looking really unconfortable. Still, your words seem to have persuaded him.::
@@ -198,9 +198,9 @@ C'est compliqué.<end>
 Let's wait for the queue to clear. Just another moment.<end>
 
 =>q30
-::Il y réfléchit pendant plusieurs instants, l'air vraiment inconfortable. Pourtant, vos paroles semblent l’avoir convaincu.::
+::Il y réfléchit plusieurs instants, visiblement mal à l'aise. Pourtant, vos paroles semblent l'avoir convaincu.::
 
-Attendons que la file d'attente se vide. Juste un autre instant.<end>
+Attendons que la file se vide. Encore un instant.<end>
 
 =>q31_original
 ::After the queue finally disperses, Case leans on the counter and whispers to you.::
@@ -208,15 +208,15 @@ Attendons que la file d'attente se vide. Juste un autre instant.<end>
 Free Drones... I... I know several people who are...  members, fighters... however you want to call them. Oh, and, this stays between us, of course, $(#sir/ma'am). Anyway, I've known those people since childhood; they were good kids... good men and women later. I couldn't possibly imagine them joining an, an anarchist group, a violent group like the Free Drones.<end>
 
 =>q31
-::Une fois la file d'attente enfin dispersée, Case s'appuie sur le comptoir et vous chuchote.::
+::Quand la file s'est enfin dispersée, Case s'appuie sur le comptoir et vous chuchote.::
 
-Free Drones... Je... Je connais plusieurs personnes qui sont... des membres, des combattants... comme vous voulez les appeler. Oh, et cela reste entre nous, bien sûr, $(#monsieur/madame). Quoi qu'il en soit, je connais ces gens depuis l'enfance ; c'étaient de bons enfants... de bons hommes et de bonnes femmes plus tard. Je ne pouvais pas les imaginer rejoindre un groupe anarchiste, un groupe violent comme Free Drones.<end>
+Les Free Drones... Je... je connais plusieurs personnes qui sont... membres, combattants... appelez-les comme vous voulez. Oh, et ça reste entre nous, évidemment, $(#monsieur/madame). Bref, je les connais depuis l'enfance ; c'étaient de bons gosses... de bons hommes et de bonnes femmes, plus tard. J'arrivais pas à les imaginer rejoindre un, un groupe anarchiste, un groupe violent comme les Free Drones.<end>
 
 =>a32_original
 What?<end>
 
 =>a32
-Quoi?<end>
+Quoi ?<end>
 
 =>q33_original
 Look, I know they are our enemies, and the Drones *are* ruthless and... rotten and everything... But I always think about my... my childhood friends. They are always in my head whenever I hear Drones mentioned. What if they are killed somewhere, captured? What if I see them again, or they see me, working for the Protectorate? It's... confusing.
@@ -224,15 +224,15 @@ Look, I know they are our enemies, and the Drones *are* ruthless and... rotten a
 Do you dig-- I mean understand what I mean, Corporal?<end>
 
 =>q33
-Écoutez, je sais qu'ils sont nos ennemis, et les Drones *sont* impitoyables et... pourris et tout... Mais je pense toujours à mes... mes amis d'enfance. Ils sont toujours dans ma tête chaque fois que j’entends parler de drones. Et s'ils étaient tués quelque part, capturés ? Et si je les revois, ou s'ils me voient travailler pour le Protectorate ? C'est... déroutant.
+Écoutez, je sais que c'est nos ennemis, et les Drones *sont* impitoyables et... pourris et tout... Mais je pense toujours à mes... mes amis d'enfance. Ils sont toujours dans ma tête, dès qu'on parle des Drones. S'ils se font tuer quelque part, capturer ? Si je les revois, ou s'ils me voient, à bosser pour le Protectorate ? C'est... confus.
 
-Est-ce que vous creusez... Je veux dire, comprenez ce que je veux dire, caporal ?<end>
+Vous pigez... je veux dire, vous comprenez ce que je veux dire, caporal ?<end>
 
 =>a34_original
 I understand. Life is not black and white, as some would like to believe.<end>
 
 =>a34
-Je comprends. La vie n’est pas en noir et blanc, comme certains voudraient le croire.<end>
+Je comprends. La vie n'est pas noire ou blanche, comme certains voudraient le croire.<end>
 
 =>q35_original
 Thank you for listening, Corporal. Thank you.
@@ -240,15 +240,15 @@ Thank you for listening, Corporal. Thank you.
 ::He spots a person approaching.:: Um, let's change the subject.<end>
 
 =>q35
-Merci de votre écoute, Caporal. Merci.
+Merci d'avoir écouté, caporal. Merci.
 
-::Il aperçoit une personne qui s'approche.:: Hum, changeons de sujet.<end>
+::Il aperçoit quelqu'un qui s'approche.:: Euh, changeons de sujet.<end>
 
 =>a36_original
 You have to forget about them. They are our enemies and are not your friends anymore. Do you really think they are concerned about you?<end>
 
 =>a36
-Il faut les oublier. Ils sont nos ennemis et ne sont plus vos amis. Pensez-vous vraiment qu'ils s'inquiètent pour vous ?<end>
+Il faut les oublier. Ce sont nos ennemis, et ce ne sont plus vos amis. Vous pensez vraiment qu'ils se soucient de vous ?<end>
 
 =>q37_original
 That is a good question, Corporal. I suppose they don't, but how can I be sure. I'll think about what you said. Thank you. Again, I'd like this to stay between you and me.
@@ -257,16 +257,16 @@ That is a good question, Corporal. I suppose they don't, but how can I be sure. 
 <end>
 
 =>q37
-C'est une bonne question, caporal. Je suppose que non, mais comment puis-je en être sûr. Je vais réfléchir à ce que tu as dit. Merci. Encore une fois, j'aimerais que cela reste entre toi et moi.
+C'est une bonne question, caporal. Je suppose que non, mais comment en être sûr. Je vais réfléchir à ce que vous avez dit. Merci. Encore une fois, j'aimerais que ça reste entre vous et moi.
 
-::Il aperçoit une personne qui s'approche.:: Hum, changeons de sujet.
+::Il aperçoit quelqu'un qui s'approche.:: Euh, changeons de sujet.
 <end>
 
 =>a38_original
 You have friends there? Do you still see them?<end>
 
 =>a38
-Tu as des amis là-bas ? Les voyez-vous encore ?<end>
+Vous avez des amis là-bas ? Vous les voyez encore ?<end>
 
 =>q39_original
 Of course not! Are you derailed... um, $(#sir/ma'am)? If anyone was to find out-- Look, I know they are our enemies, and the Drones *are* ruthless and... rotten and everything... But I always think of my... my childhood friends. They are always in my head whenever I hear Drones mentioned. What if they are killed somewhere, captured? What if I see them again, or they see me, working for the Protectorate? It's... confusing.
@@ -274,9 +274,9 @@ Of course not! Are you derailed... um, $(#sir/ma'am)? If anyone was to find out-
 Do you dig-- I mean understand what I mean, Corporal?<end>
 
 =>q39
-Bien sûr que non! Êtes-vous déraillé... euh, $(#monsieur/madame) ? Si quelqu'un devait le découvrir... Écoutez, je sais qu'ils sont nos ennemis, et les Drones *sont* impitoyables et... pourris et tout... Mais je pense toujours à mes... mes amis d'enfance. Ils sont toujours dans ma tête chaque fois que j’entends parler de drones. Et s'ils étaient tués quelque part, capturés ? Et si je les revois, ou s'ils me voient travailler pour le Protectorate ? C'est... déroutant.
+Bien sûr que non ! Vous êtes $(#déraillé/déraillée)... euh, $(#monsieur/madame) ? Si quelqu'un l'apprenait... Écoutez, je sais que c'est nos ennemis, et les Drones *sont* impitoyables et... pourris et tout... Mais je pense toujours à mes... mes amis d'enfance. Ils sont toujours dans ma tête, dès qu'on parle des Drones. S'ils se font tuer quelque part, capturer ? Si je les revois, ou s'ils me voient, à bosser pour le Protectorate ? C'est... confus.
 
-Est-ce que vous creusez... Je veux dire, comprenez ce que je veux dire, caporal ?<end>
+Vous pigez... je veux dire, vous comprenez ce que je veux dire, caporal ?<end>
 
 =>q40_original
 ::He considers it for a second, but before he voiced it, you could tell what the answer was going to be.::
@@ -284,7 +284,7 @@ Est-ce que vous creusez... Je veux dire, comprenez ce que je veux dire, caporal 
 I'm sorry.<end>
 
 =>q40
-::Il y réfléchit une seconde, mais avant de l'exprimer, on pouvait deviner quelle serait la réponse.::
+::Il y réfléchit une seconde, mais avant qu'il parle, on voyait déjà la réponse.::
 
 Je suis désolé.<end>
 
@@ -292,19 +292,19 @@ Je suis désolé.<end>
 Can we talk about something else, if you don't mind?<end>
 
 =>q41
-Pouvons-nous parler d'autre chose, si cela ne vous dérange pas ?<end>
+On peut parler d'autre chose, si ça ne vous dérange pas ?<end>
 
 =>a42_original
 Okay then. I'll ask something else then.<end>
 
 =>a42
-D'accord alors. Je vais alors demander autre chose.<end>
+D'accord. Je vais demander autre chose, alors.<end>
 
 =>a43_original
 Where in Fort Apogee can I exchange currencies?<end>
 
 =>a43
-Où puis-je échanger des devises dans Fort Apogee ?<end>
+Où puis-je changer des devises, à Fort Apogee ?<end>
 
 =>q44_original
 Staff Sergeant Fraser can help you with that, Corporal.<end>
@@ -316,25 +316,25 @@ Le sergent d'état-major Fraser peut vous aider, caporal.<end>
 He's by the entrance. Hard to miss, $(#sir/ma'am).<end>
 
 =>q45
-Il est à l'entrée. Difficile de le manquer, $(#monsieur/madame).<end>
+Il est près de l'entrée. Difficile à rater, $(#monsieur/madame).<end>
 
 =>a46_original
 What can you tell me about Fraser?<end>
 
 =>a46
-Que peux-tu me dire sur Fraser ?<end>
+Que pouvez-vous me dire sur Fraser ?<end>
 
 =>q47_original
 ::He pauses briefly.:: Corporal, you know how they often say...<end>
 
 =>q47
-::Il fait une brève pause.:: Caporal, vous savez comme on dit souvent...<end>
+::Il s'arrête un instant.:: Caporal, vous savez comme on dit souvent...<end>
 
 =>q48_original
 If you can't say something nice about someone... don't say anything at all.<end>
 
 =>q48
-Si vous ne pouvez pas dire quelque chose de gentil à propos de quelqu'un... ne dites rien du tout.<end>
+Si on a rien de gentil à dire sur quelqu'un... on dit rien du tout.<end>
 
 =>a49_original
 What can you tell me about Consul Oliver?<end>
@@ -346,7 +346,7 @@ Que pouvez-vous me dire sur le consul Oliver ?<end>
 Well, $(#sir/ma'am), I respect the consul, I really do. And he is a very dedicated man, one who believes that the unification should be accomplished primarily through diplomatic means, which is unlike some of the recent "shoot first, and ask questions later" kind of policies. But, he... um... he needs to have... um...<end>
 
 =>q50
-Eh bien, $(#monsieur/madame), je respecte le consul, vraiment. Et c’est un homme très dévoué, qui croit que l’unification doit être réalisée principalement par des moyens diplomatiques, ce qui est différent de certaines politiques récentes du type « tirer d’abord et poser des questions ensuite ». Mais, il... euh... il a besoin d'avoir... euh...<end>
+Eh bien, $(#monsieur/madame), je respecte le consul, vraiment. Et c'est un homme très dévoué, qui croit que l'unification doit se faire d'abord par la diplomatie, contrairement à certaines politiques récentes du genre « on tire d'abord, on pose les questions après ». Mais il... euh... il a besoin d'avoir... euh...<end>
 
 =>a51_original
 Needs what?<end>
@@ -358,13 +358,13 @@ Besoin de quoi ?<end>
 ::After a brief moment, he finds the word he was looking for.:: He needs bigger stones, $(#sir/ma'am). Fort Apogee is an odd place, in some things stranger than the rest of South Underrail. You need to elbow your way through if you want something done. And the poor consul, he just plays it too nice.<end>
 
 =>q52
-::Après un bref instant, il trouve le mot qu'il cherchait.:: Il a besoin de plus grosses pierres, $(#monsieur/madame). Fort Apogee est un endroit étrange, à certains égards plus étrange que le reste du Sud Underrail. Vous devez vous frayer un chemin si vous voulez que quelque chose soit fait. Et le pauvre consul, il joue trop gentiment.<end>
+::Après un instant, il trouve le mot.:: Il a besoin de plus de couilles, $(#monsieur/madame). Fort Apogee est un endroit bizarre, plus étrange que le reste de South Underrail, sur certains points. Faut se frayer un chemin à coups de coude, si on veut que ça avance. Et le pauvre consul, il joue trop gentil.<end>
 
 =>q53_original
 But, again, I respect him. I really do. And I'm not the only one.<end>
 
 =>q53
-Mais encore une fois, je le respecte. Vraiment. Et je ne suis pas le seul.<end>
+Mais encore une fois, je le respecte. Vraiment. Et je suis pas le seul.<end>
 
 =>a54_original
 What can you tell me about Colonel Cathcart?<end>
@@ -376,73 +376,73 @@ Que pouvez-vous me dire sur le colonel Cathcart ?<end>
 Well, $(#sir/ma'am), his work is rather difficult, I can tell you. He has to deal with a lot of... well, problems. All South Underrail troops are under his direct command, so it takes a real man to be able to coordinate that. Is he the man?<end>
 
 =>q55
-Eh bien, $(#monsieur/madame), son travail est plutôt difficile, je peux vous le dire. Il doit faire face à beaucoup de… enfin, de problèmes. Toutes les troupes Sud Underrail sont sous son commandement direct, il faut donc un vrai homme pour pouvoir coordonner cela. Est-ce lui l'homme ?<end>
+Eh bien, $(#monsieur/madame), son boulot est plutôt dur, je peux vous le dire. Il a un tas de... enfin, de problèmes. Toutes les troupes de South Underrail sont sous son commandement direct, ça prend un vrai homme pour coordonner ça. C'est lui, l'homme ?<end>
 
 =>q56_original
 I think he is. It can be a rotten place, South Underrail; you and me know it, Corporal. Five years ago, Protectorate had no presence in the South. Now... I mean, we'd have more if Core City wasn't in the way, but still, look at us now. We are expanding our influence. I think the South will benefit from it. I really do.<end>
 
 =>q56
-Je pense qu'il l'est. Ça peut être un endroit pourri, Sud Underrail ; vous et moi le savons, caporal. Il y a cinq ans, Protectorate n'était pas présent dans le Sud. Maintenant... je veux dire, nous en aurions plus si Core City n'était pas un obstacle, mais quand même, regardez-nous maintenant. Nous élargissons notre influence. Je pense que le Sud en bénéficiera. Vraiment.<end>
+Je pense que oui. Ça peut être un endroit pourri, South Underrail ; vous et moi on le sait, caporal. Il y a cinq ans, le Protectorate n'était pas dans le Sud. Maintenant... je veux dire, on en aurait plus si Core City était pas au milieu, mais quand même, regardez-nous. On étend notre influence. Je pense que le Sud y gagnera. Vraiment.<end>
 
 =>a57_original
 What can you tell me about Luka?<end>
 
 =>a57
-Que peux-tu me dire sur Luka ?<end>
+Que pouvez-vous me dire sur Luka ?<end>
 
 =>q58_original
 Hey, he's a fellow Southerner, just like you and me, $(#sir/ma'am). One from Core City. First man I befriended in this rotten place... whoops... I didn't mean it that way. ::He laughs.:: Although my first days here sort of felt like that.<end>
 
 =>q58
-Hé, c'est un compatriote du Sud, tout comme vous et moi, $(#monsieur/madame). Un de Core City. Le premier homme avec qui je me suis lié d'amitié dans cet endroit pourri... oups... Je ne voulais pas le dire de cette façon. ::Il rit.:: Bien que mes premiers jours ici aient été un peu comme ça.<end>
+Hé, c'est un sudiste, comme vous et moi, $(#monsieur/madame). Un de Core City. Le premier avec qui je me suis lié ici, dans cet endroit pourri... oups... je voulais pas dire ça comme ça. ::Il rit.:: Même si mes premiers jours ici, ça ressemblait un peu à ça.<end>
 
 =>q59_original
 Anyway, he's the head mechanic; you can find him in the mech bay. He fell in love with Dreadnoughts from the moment he laid his eyes on the beasts, and I can't blame him. Those machines are... nice! Hardcore, hardcore.<end>
 
 =>q59
-Quoi qu'il en soit, c'est le mécanicien en chef ; vous pouvez le trouver dans la baie mécanique. Il est tombé amoureux des Dreadnoughts dès le moment où il a posé les yeux sur les bêtes, et je ne peux pas lui en vouloir. Ces machines sont... sympas ! Du hardcore, du hardcore.<end>
+Bref, c'est le chef mécanicien ; vous le trouverez dans la baie méca. Il est tombé amoureux des Dreadnoughts dès qu'il a vu les bêtes, et je lui en veux pas. Ces machines sont... balèzes ! Hardcore, hardcore.<end>
 
 =>q60_original
 We often hang out near the ring, have a few brews. Okay, a lot of brews. You are free to join us, Corporal. If you have the time and will.<end>
 
 =>q60
-Nous traînons souvent près du ring, prenons quelques bières. D'accord, beaucoup de bières. Vous êtes libre de nous rejoindre, Caporal. Si vous avez le temps et la volonté.<end>
+On traîne souvent près du ring, on prend quelques bières. Bon, beaucoup de bières. Vous êtes libre de nous rejoindre, caporal. Si vous avez le temps et l'envie.<end>
 
 =>a61_original
 What can you tell me about Anastasia?<end>
 
 =>a61
-Que peux-tu me dire sur Anastasia ?<end>
+Que pouvez-vous me dire sur Anastasia ?<end>
 
 =>q62_original
 ::His expression saddens.:: You know, if you ask people about Doc Merrick, everyone immediately goes, "Oh, poor woman, her voice is ruined, she this, she that." Move aside, I mean really. Look past that, you don't need to constantly yap about it and show that you recognize how difficult it is for her.<end>
 
 =>q62
-::Son expression est attristée.:: Vous savez, si vous interrogez les gens sur Doc Merrick, tout le monde répond immédiatement : "Oh, pauvre femme, sa voix est ruinée, elle ceci, elle cela." Écartez-vous, je veux dire vraiment. Regardez au-delà de cela, vous n'avez pas besoin de japper constamment à ce sujet et de montrer que vous reconnaissez à quel point c'est difficile pour elle.<end>
+::Son expression s'assombrit.:: Vous savez, si vous demandez aux gens pour Doc Merrick, tout le monde enchaîne tout de suite : « Oh, la pauvre, sa voix est fichue, elle ci, elle ça. » Poussez-vous, je veux dire vraiment. Voyez au-delà. Pas besoin de jaspiner sans arrêt là-dessus pour montrer qu'on a compris à quel point c'est dur pour elle.<end>
 
 =>q63_original
 Talk about the good, about her being a great person, a great doctor. You dig? I mean, not you, but the people around here. Personally, it's my honor to put food on her plate everyday, and I make sure I always greet her with a smile. She deserves it.<end>
 
 =>q63
-Parlez du bien, du fait qu’elle est une personne formidable, un grand médecin. Tu creuses ? Je veux dire, pas vous, mais les gens d'ici. Personnellement, c'est un honneur pour moi de mettre de la nourriture dans son assiette tous les jours et je m'assure de toujours la saluer avec le sourire. Elle le mérite.<end>
+Parlez du bon, du fait que c'est une personne formidable, un grand médecin. Vous pigez ? Enfin, pas vous, les gens d'ici. Personnellement, c'est un honneur de lui mettre à manger dans l'assiette tous les jours, et je fais gaffe à toujours la saluer avec le sourire. Elle le mérite.<end>
 
 =>a64_original
 What can you tell me about CAU?<end>
 
 =>a64
-Que pouvez-vous me dire sur CAU ?<end>
+Que pouvez-vous me dire sur le CAU ?<end>
 
 =>q65_original
 Whoa, keep it down, you don't want everyone to hear you. ::He begins whispering.:: As far as I'm concerned... the chems are a bunch of rotten, derailed psychos. They give Protectorate a bad name, and are often pointed at by our enemies as an example of Protectorate brutality. I don't even know why we even have a unit like that...<end>
 
 =>q65
-Whoa, baisse-le, tu ne veux pas que tout le monde t'entende. ::Il commence à chuchoter.:: En ce qui me concerne... les chimistes sont une bande de psychopathes pourris et déraillés. Ils donnent une mauvaise réputation à Protectorate et sont souvent cités par nos ennemis comme un exemple de la brutalité de Protectorate. Je ne sais même pas pourquoi nous avons une unité comme celle-là...<end>
+Whoa, baissez d'un ton, vous voulez pas que tout le monde entende. ::Il se met à chuchoter.:: Pour ce qui me concerne... les chems, c'est une bande de psychopathes pourris, déraillés. Ils donnent une sale réputation au Protectorate, et nos ennemis les citent souvent comme exemple de la brutalité du Protectorate. Je sais même pas pourquoi on a une unité comme ça...<end>
 
 =>q66_original
 They use, guess what - chemical weapons. They kill people in horrible ways and, I mean, I'm sure you have seen a lot of things in life, just as I have, but that... I've heard horror stories about them, but I hope they're just exaggerations. I really do.<end>
 
 =>q66
-Ils utilisent, devinez quoi, des armes chimiques. Ils tuent les gens de manière horrible et, je veux dire, je suis sûr que vous avez vu beaucoup de choses dans la vie, tout comme moi, mais ça... J'ai entendu des histoires d'horreur à leur sujet, mais j'espère que ce ne sont que des exagérations. Vraiment.<end>
+Ils utilisent, devinez quoi : des armes chimiques. Ils tuent les gens de façons horribles et, je veux dire, je suis sûr que vous avez vu pas mal de choses, comme moi, mais ça... J'ai entendu des histoires d'horreur sur eux, j'espère que c'est juste des exagérations. Vraiment.<end>
 
 =>q67_original
 I'm glad they're gone, Corporal.<end>
@@ -460,35 +460,34 @@ Et leurs masques... Pas de commentaire.<end>
 What can you tell me about the Faceless?<end>
 
 =>a69
-Que pouvez-vous me dire sur le Faceless ?<end>
+Que pouvez-vous me dire sur les Faceless ?<end>
 
 =>q70_original
 I've heard stories of Tunnelers, better known as Faceless, since I was a little kid, but I never believed any of that. Now, that story is different. Everyone is aware of them, and everyone is afraid of those rotten... cyborgs, whatever they are.<end>
 
 =>q70
-J'ai entendu des histoires sur les Tunneler, mieux connus sous le nom de Faceless, depuis que je suis petit, mais je n'y ai jamais cru. Maintenant, cette histoire est différente. Tout le monde en est conscient et tout le monde a peur de ces pourris... cyborgs, quels qu'ils soient.<end>
+J'entends parler des Tunnelers, mieux connus sous le nom de Faceless, depuis que je suis gosse, mais j'y ai jamais cru. Maintenant, c'est une autre histoire. Tout le monde les connaît, et tout le monde a peur de ces... cyborgs pourris, peu importe ce que c'est.<end>
 
 =>q71_original
 It's not their looks, it's not their weapons or their huge tunneling machines that frightens everyone... It's that we know so little about them.<end>
 
 =>q71
-Ce n'est pas leur apparence, ce ne sont pas leurs armes ou leurs énormes tunneliers qui effraient tout le monde... C'est qu'on sait si peu de choses sur eux.<end>
+C'est pas leur gueule, c'est pas leurs armes ni leurs énormes tunneliers qui font peur à tout le monde... C'est qu'on en sait si peu sur eux.<end>
 
 =>q72_original
 You dig-- understand what I'm saying, $(#sir/ma'am)? It's the fear of the unknown that make the Faceless so... dreadful.<end>
 
 =>q72
-Vous creusez... vous comprenez ce que je dis, $(#monsieur/madame) ? C'est la peur de l'inconnu qui rend le Faceless si... terrible.<end>
+Vous pigez... vous comprenez ce que je dis, $(#monsieur/madame) ? C'est la peur de l'inconnu qui rend les Faceless si... terribles.<end>
 
 =>a73_original
 I'll leave you to your job, Case. See you later.<end>
 
 =>a73
-Je te laisse à ton travail, Case. À plus tard.<end>
+Je vous laisse à votre boulot, Case. À plus tard.<end>
 
 =>q74_original
 Feelin' hungry, Corporal?<end>
 
 =>q74
 Vous avez faim, caporal ?<end>
-

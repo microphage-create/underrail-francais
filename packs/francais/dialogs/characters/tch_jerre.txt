@@ -2,7 +2,7 @@
 The Faceless are here! Save yourself, $(#brother/sister)!<end>
 
 =>q1
-Les Faceless sont là ! Sauvez-vous, $(#brother/sister) !<end>
+Les Faceless sont là ! Sauvez-vous, $(#frère/sœur) !<end>
 
 =>q2_original
 ::An unexpectedly tiny and shy voice comes out of this lofty man. While he is loud enough for you to hear him, you can't shake off the feeling that the sound of a humble fly gliding into the room would overpower his voice. Fortunately, nothing similar happens during his introduction.::
@@ -10,9 +10,9 @@ Les Faceless sont là ! Sauvez-vous, $(#brother/sister) !<end>
 Tchort is evolution. My name is Jerre Franz and I am an Investigator of Medicine and the Institute's protophysician. You must be $(context.player.Name). Usually our fellow Tchortists refer to me as IM, to which I have no objection. Now, how may I help you?<end>
 
 =>q2
-::Une voix étonnamment petite et timide sort de cet homme noble. Bien qu'il soit suffisamment fort pour que vous puissiez l'entendre, vous ne pouvez pas vous débarrasser du sentiment que le bruit d'une humble mouche glissant dans la pièce dominerait sa voix. Heureusement, rien de semblable ne se produit lors de son introduction.::
+::Une voix étonnamment fluette, presque timide, sort de cet homme imposant. Il parle assez fort pour qu'on l'entende, et pourtant on a l'impression qu'une mouche qui entrerait dans la pièce couvrirait tout. Heureusement, rien de tel pendant sa présentation.::
 
-Tchort est une évolution. Je m'appelle Jerre Franz et je suis chercheur en médecine et protophysicien de l'Institut. Vous devez être $(context.player.Name). Habituellement, nos collègues Tchortistes m'appellent IM, ce à quoi je n'ai aucune objection. Maintenant, comment puis-je vous aider ?<end>
+Tchort est l'évolution. Je m'appelle Jerre Franz. Investigator of Medicine, et protophysician de l'Institute. Vous devez être $(context.player.Name). Les Tchortistes m'appellent généralement IM, et je n'y vois pas d'inconvénient. Alors, comment puis-je vous aider ?<end>
 
 =>q3_original
 <end>
@@ -30,13 +30,13 @@ Où puis-je acheter des médicaments ?<end>
 I can help you with that, $(#brother/sister). I'll show you what I have...<end>
 
 =>q5
-Je peux vous aider, $(#brother/sister). Je vais vous montrer ce que j'ai...<end>
+Je peux vous aider, $(#frère/sœur). Je vais vous montrer ce que j'ai...<end>
 
 =>a6_original
 ::Barter.::<end>
 
 =>a6
-::Troc.::<end>
+::Barter.::<end>
 
 =>a7_original
 I would like to purchase medication.<end>
@@ -48,103 +48,103 @@ Je voudrais acheter des médicaments.<end>
 Right away. This is what I have at the moment...<end>
 
 =>q8
-Tout de suite. C'est ce que j'ai en ce moment...<end>
+Tout de suite. Voici ce que j'ai pour l'instant...<end>
 
 =>a9_original
 Can you check my wounds?<end>
 
 =>a9
-Pouvez-vous vérifier mes blessures ?<end>
+Pouvez-vous examiner mes blessures ?<end>
 
 =>q10_original
 Of course, that is the reason I'm here. Medical examination and treatment costs twenty charons.<end>
 
 =>q10
-Bien sûr, c'est la raison pour laquelle je suis ici. L'examen médical et le traitement coûtent vingt charons.<end>
+Bien sûr, c'est pour cela que je suis là. L'examen et le traitement coûtent vingt charons.<end>
 
 =>a11_original
 Here you go. ::Give him 20 stygian coins.::<end>
 
 =>a11
-Voici. ::Donnez-lui 20 pièces stygiennes.::<end>
+Voilà. ::Lui donner 20 pièces stygiennes.::<end>
 
 =>q12_original
 Alright, $(#brother/sister), let me see what is causing you pain...<end>
 
 =>q12
-Très bien, $(#brother/sister), laisse-moi voir ce qui te fait souffrir...<end>
+Très bien, $(#frère/sœur). Voyons ce qui vous fait mal...<end>
 
 =>a13_original
 ::Let him treat you.::<end>
 
 =>a13
-::Laissez-le vous soigner.::<end>
+::Le laisser vous soigner.::<end>
 
 =>a14_original
 Erm, I suddenly feel a lot better.<end>
 
 =>a14
-Euh, je me sens soudain beaucoup mieux.<end>
+Euh... je me sens soudain beaucoup mieux.<end>
 
 =>q15_original
 That is good news, $(#brother/sister). Was there anything else you needed of me?<end>
 
 =>q15
-C'est une bonne nouvelle, $(#brother/sister). Aviez-vous besoin d'autre chose de moi ?<end>
+Voilà une bonne nouvelle, $(#frère/sœur). Aviez-vous encore besoin de moi ?<end>
 
 =>q16_original
 Of course. That would be twenty charons.<end>
 
 =>q16
-Bien sûr. Cela ferait vingt charons.<end>
+Bien sûr. Ce sera vingt charons.<end>
 
 =>a17_original
 What do you think of the Faceless?<end>
 
 =>a17
-Que pensez-vous du Faceless ?<end>
+Que pensez-vous des Faceless ?<end>
 
 =>q18_original
 Foul, corrupted beings. Ugh, I sympathize with Core City residents who have to endure being close to such disgusting creatures. Tchort help them.<end>
 
 =>q18
-Des êtres immondes et corrompus. Ugh, je sympathise avec les résidents de Core City qui doivent endurer la proximité de créatures aussi dégoûtantes. Tchort aidez-les.<end>
+Des êtres immondes, corrompus. Pouah. Je plains les habitants de Core City, forcés de vivre si près de créatures aussi répugnantes. Que Tchort les aide.<end>
 
 =>q19_original
 In the end, the augmented monstrosities will die out eventually, while all completely natural beings, like us, will live on - for it is the superior design. Proven.<end>
 
 =>q19
-En fin de compte, les monstruosités augmentées finiront par disparaître, tandis que tous les êtres complètement naturels, comme nous, continueront à vivre – car c’est la conception supérieure. Éprouvé.<end>
+À la fin, les monstruosités augmentées s'éteindront. Les êtres entièrement naturels, comme nous, demeureront. C'est le dessein supérieur. Prouvé.<end>
 
 =>a20_original
 How and why did you join Institute of Tchort?<end>
 
 =>a20
-Comment et pourquoi avez-vous rejoint Institute of Tchort ?<end>
+Comment et pourquoi avez-vous rejoint l'Institute of Tchort ?<end>
 
 =>q21_original
 Ah, it is a long story...<end>
 
 =>q21
-Ah, c'est une longue histoire...<end>
+Ah. C'est une longue histoire...<end>
 
 =>a22_original
 Go on, I have the time.<end>
 
 =>a22
-Allez, j'ai le temps.<end>
+Allez-y. J'ai le temps.<end>
 
 =>q23_original
 I become a Tchortist about seven years ago - either in year ninety-two or ninety-three, one of the two - and it was all due to a single fortunate event of me meeting with a former colleague of mine who had just returned from South Underrail where he was on some, well, private business of his. Oh yes, I forgot to mention that I am from the North Underrail, and the meeting also took place there. In Dis, to be precise. <end>
 
 =>q23
-Je suis devenu Tchortiste il y a environ sept ans - soit en l'an quatre-vingt-douze ou quatre-vingt-treize, l'une des deux - et tout cela était dû à un seul événement heureux où j'ai rencontré un de mes anciens collègues qui venait de rentrer du Sud Underrail où il s'occupait de certaines de ses affaires privées. Ah oui, j'ai oublié de préciser que je suis du Nord Underrail, et la rencontre a également eu lieu là-bas. À Dis, pour être précis. <end>
+Je suis devenu Tchortiste il y a environ sept ans - l'an quatre-vingt-douze ou quatre-vingt-treize, l'un des deux - et tout ça à cause d'un seul hasard heureux : j'ai croisé un ancien collègue, de retour du South Underrail, où il était pour... enfin, des affaires privées. Ah oui, j'ai oublié : je viens du North Underrail, et la rencontre a eu lieu là-bas. À Dis, pour être précis. <end>
 
 =>q24_original
 Thomas Harding, the man I spoke with, informed me how dreadful the living conditions were in the south; of persistent and ever growing bandit menace, poverty, as well as the rise of violent sports in Core City. Naturally, the bottom line is that the south is a place of decadence and should be avoided at all costs.<end>
 
 =>q24
-Thomas Harding, l'homme avec qui j'ai parlé, m'a informé à quel point les conditions de vie étaient épouvantables dans le sud ; de la menace persistante et toujours croissante des bandits, de la pauvreté, ainsi que de la montée des sports violents dans Core City. Naturellement, l’essentiel est que le Sud est un lieu de décadence et qu’il faut l’éviter à tout prix.<end>
+Thomas Harding, l'homme avec qui je parlais, m'a décrit les conditions de vie du sud : une menace de bandits persistante, qui ne fait que croître, la pauvreté, et la montée des sports violents à Core City. La conclusion, naturellement : le sud est un lieu de décadence. À éviter à tout prix.<end>
 
 =>q25_original
 Except... there was one thing he mentioned in a positive light - the Institute of Tchort. He had the, in his words, pleasure to speak to several Tchortists during his stay here, in Upper Underrail - and in fact, one of those Tchortists was none other than Minister Percival himself! Well, Assistant Minister back then.
@@ -152,103 +152,102 @@ Except... there was one thing he mentioned in a positive light - the Institute o
 Tom was impressed by what he learned, about the body of knowledge the Tchortists possess and their intentions of changing - evolving the human future. He also told me about the duality of Tchort: one side is the physical side, the being itself; the other is knowledge obtained through scientific methods. The only way possible, really...<end>
 
 =>q25
-Sauf que... il y a une chose qu'il a mentionnée sous un jour positif : le Institute of Tchort. Il a eu, selon ses mots, le plaisir de parler à plusieurs Tchortistes lors de son séjour ici, à Upper Underrail - et en fait, l'un de ces Tchortistes n'était autre que le Ministre Percival lui-même ! Eh bien, ministre adjoint à l'époque.
+Sauf que... il a parlé d'une chose sous un jour favorable : l'Institute of Tchort. Il a eu, selon ses mots, le plaisir de s'entretenir avec plusieurs Tchortistes pendant son séjour ici, en Upper Underrail. Et l'un d'eux n'était autre que Minister Percival lui-même ! Assistant Minister, à l'époque.
 
-Tom a été impressionné par ce qu'il a appris sur l'ensemble des connaissances que possèdent les Tchortistes et leurs intentions de changer – de faire évoluer l'avenir de l'humanité. Il m'a également parlé de la dualité de Tchort : un côté est le côté physique, l'être lui-même ; l’autre est la connaissance obtenue grâce à des méthodes scientifiques. Le seul moyen possible, vraiment...<end>
+Tom a été impressionné par ce qu'il a appris : le corpus de connaissances des Tchortistes, leur volonté de changer - d'évoluer - l'avenir humain. Il m'a aussi parlé de la dualité de Tchort : d'un côté le physique, l'être lui-même ; de l'autre, le savoir obtenu par la méthode scientifique. La seule voie possible, vraiment...<end>
 
 =>q26_original
 Ah, I still remember Tom's words, explanations and praises of the Institute of Tchort; the first time he told me about Tchort itself and, especially due to his fantastic way with words, it floored me. Magnificent Tchort, I was astonished!<end>
 
 =>q26
-Ah, je me souviens encore des paroles, des explications et des éloges de Tom à propos du Institute of Tchort ; la première fois qu'il m'a parlé de Tchort lui-même et, surtout à cause de sa manière fantastique avec les mots, cela m'a sidéré. Magnifique Tchort, j'ai été étonné !<end>
+Ah, je me souviens encore des mots de Tom, de ses explications, de ses éloges de l'Institute of Tchort. La première fois qu'il m'a parlé de Tchort lui-même - et avec ce don extraordinaire qu'il avait pour les phrases - ça m'a cloué sur place. Magnifique Tchort, j'étais stupéfait !<end>
 
 =>q27_original
 Of course, all that sparked my imagination and I decided I *had* to come to South Underrail. So I did. I still remember seeing the rassophores at the entrance; all glorious in their beautiful robes... Sure, it was unusual but once you understand the purpose of such appearance it all makes sense, perfect sense.<end>
 
 =>q27
-Bien sûr, tout cela a éveillé mon imagination et j'ai décidé que je *devais* venir dans le sud de Underrail. Alors je l'ai fait. Je me souviens encore d'avoir vu les rassophores à l'entrée ; tous glorieux dans leurs belles robes... Bien sûr, c'était inhabituel, mais une fois que vous comprenez le but d'une telle apparition, tout prend un sens, un sens parfait.<end>
+Tout ça a enflammé mon imagination. J'ai décidé que je *devais* venir au South Underrail. Et j'y suis allé. Je me souviens encore des rassophores à l'entrée, splendides dans leurs belles robes... Oui, c'était inhabituel. Mais une fois qu'on comprend le but d'une telle apparence, tout s'éclaire. Parfaitement.<end>
 
 =>q28_original
 You know what happened next, $(#brother/sister). I became a proud Tchortist, and still am - to this day. Tchort is evolution.<end>
 
 =>q28
-Vous savez ce qui s'est passé ensuite, $(#brother/sister). Je suis devenu un fier Tchortiste, et je le suis toujours – à ce jour. Tchort est une évolution.<end>
+Vous savez la suite, $(#frère/sœur). Je suis devenu un Tchortiste fier, et je le suis encore. Jusqu'à ce jour. Tchort est l'évolution.<end>
 
 =>a29_original
 Thomas seemed very impressed with Tchortism. Where is he now? Did he also join the Institute?<end>
 
 =>a29
-Thomas semblait très impressionné par le Tchortisme. Où est-il maintenant ? A-t-il également rejoint l'Institut ?<end>
+Thomas semblait très impressionné par le Tchortisme. Où est-il maintenant ? A-t-il rejoint l'Institute, lui aussi ?<end>
 
 =>q30_original
 ::Jerre Franz's face turns sour.:: Tom was unfortunately mortally wounded soon after we spoke. Free Drones bombing attack. Many were killed by those corrupted, inbred, dystrophic... ugh...<end>
 
 =>q30
-::Le visage de Jerre Franz devient aigre.:: Tom a malheureusement été mortellement blessé peu après notre conversation. Attaque à la bombe Free Drones. Beaucoup ont été tués par des gens corrompus, consanguins, dystrophiques... pouah...<end>
+::Le visage de Jerre Franz se crispe.:: Tom a été mortellement blessé peu après notre conversation. Attentat à la bombe des Free Drones. Beaucoup sont morts sous les coups de ces êtres corrompus, consanguins, dystrophiques... pouah...<end>
 
 =>q31_original
 ::He sighs.:: Had he lived a bit longer, I'm sure he would have joined me here. I'm positive.<end>
 
 =>q31
-::Il soupire.:: S'il avait vécu un peu plus longtemps, je suis sûr qu'il m'aurait rejoint ici. Je suis positif.<end>
+::Il soupire.:: S'il avait vécu un peu plus longtemps, je suis sûr qu'il m'aurait rejoint ici. J'en suis certain.<end>
 
 =>a32_original
 Interesting story... Let me ask you something else.<end>
 
 =>a32
-Histoire intéressante... Laissez-moi vous demander autre chose.<end>
+Histoire intéressante... Permettez-moi de vous demander autre chose.<end>
 
 =>q33_original
 $(#Brother/Sister)?<end>
 
 =>q33
-$(#Brother/Sister)?<end>
+$(#Frère/Sœur) ?<end>
 
 =>a34_original
 Then perhaps you better tell it some other time. I had other questions anyway.<end>
 
 =>a34
-Alors peut-être que tu ferais mieux de le dire une autre fois. J'avais d'ailleurs d'autres questions.<end>
+Alors racontez-la une autre fois, peut-être. J'avais d'autres questions de toute façon.<end>
 
 =>q35_original
 Feel free to ask.<end>
 
 =>q35
-N'hésitez pas à demander.<end>
+Demandez.<end>
 
 =>a36_original
 Tchort guide you, Jerre Franz.<end>
 
 =>a36
-Tchort vous guide, Jerre Franz.<end>
+Que Tchort vous guide, Jerre Franz.<end>
 
 =>q37_original
 Tchort guide you too, $(#brother/sister).<end>
 
 =>q37
-Tchort vous guide aussi, $(#brother/sister).<end>
+Que Tchort vous guide aussi, $(#frère/sœur).<end>
 
 =>a38_original
 I have to leave now. Goodbye.<end>
 
 =>a38
-Je dois partir maintenant. Au revoir.<end>
+Je dois partir. Au revoir.<end>
 
 =>q39_original
 Tchort guide you.<end>
 
 =>q39
-Tchort vous guide.<end>
+Que Tchort vous guide.<end>
 
 =>q40_original
 Magnificent Tchort, what's with all this shaking?<end>
 
 =>q40
-Magnifique Tchort, c'est quoi tout ce tremblement ?<end>
+Magnifique Tchort, qu'est-ce que c'est que ces secousses ?<end>
 
 =>q41_original
 Need assistance, $(#brother/sister)?<end>
 
 =>q41
-Besoin d'aide, $(#brother/sister) ?<end>
-
+Besoin d'aide, $(#frère/sœur) ?<end>

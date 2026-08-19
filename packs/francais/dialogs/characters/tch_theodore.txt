@@ -8,7 +8,7 @@ Les Faceless sont là !<end>
 Magnificent Tchort! What are you doing here, $(#brother/sister)? The kitchen is for staff ONLY!<end>
 
 =>q2
-Magnifique Tchort ! Que fais-tu ici, $(#brother/sister) ? La cuisine est réservée UNIQUEMENT au personnel !<end>
+Magnifique Tchort ! Que faites-vous ici, $(#frère/sœur) ? La cuisine est réservée au personnel, UNIQUEMENT !<end>
 
 =>q3_original
 ::The man behind the counter strikes you as being calm, friendly and radiates a positive attitude. Appearance-wise, young and handsome are the words that describe him most accurate, while his confident posture is also difficult to ignore. He greets you with a familiar Tchortist salute.::
@@ -16,21 +16,21 @@ Magnifique Tchort ! Que fais-tu ici, $(#brother/sister) ? La cuisine est réser
 Tchort is evolution, $(#brother/sister). My name is Theodore, often called Theo by... by almost everyone. ::He smiles.:: How may I help you?<end>
 
 =>q3
-::L'homme derrière le comptoir vous semble calme, amical et dégage une attitude positive. Du point de vue de son apparence, jeune et beau sont les mots qui le décrivent le plus précisément, tandis que sa posture confiante est également difficile à ignorer. Il vous accueille avec un salut tchortiste familier.::
+::L'homme derrière le comptoir vous paraît calme, amical, d'humeur positive. Jeune et beau, pour l'apparence ; sa posture sûre d'elle n'est pas à négliger non plus. Il vous salue d'un salut Tchortist, le familier.::
 
-Tchort est une évolution, $(#brother/sister). Je m'appelle Théodore, souvent appelé Théo par... par presque tout le monde. ::Il sourit.:: Comment puis-je vous aider ?<end>
+Tchort est l'évolution, $(#frère/sœur). Je m'appelle Theodore, souvent Theo pour... pour à peu près tout le monde. ::Il sourit.:: Comment puis-je vous aider ?<end>
 
 =>a4_original
 Evolution is Tchort, brother. I'm $(context.player.Name).<end>
 
 =>a4
-L'évolution est Tchort, frère. Je m'appelle $(context.player.Name).<end>
+L'évolution est Tchort, frère. Je suis $(context.player.Name).<end>
 
 =>q5_original
 Welcome to the Institute of Tchort, $(#brother/sister). Our institution is very different from those on the outside I'm sure, but you'll get used to it, don't worry.<end>
 
 =>q5
-Bienvenue sur Institute of Tchort, $(#brother/sister). Notre institution est très différente de celles de l'extérieur, j'en suis sûr, mais vous vous y habituerez, ne vous inquiétez pas.<end>
+Bienvenue à l'Institute of Tchort, $(#frère/sœur). Notre institution n'a rien à voir avec celles du dehors, j'en suis sûr, mais vous vous y ferez, ne vous inquiétez pas.<end>
 
 =>q6_original
 <end>
@@ -42,7 +42,7 @@ Bienvenue sur Institute of Tchort, $(#brother/sister). Notre institution est tr�
 Show me what you got. I'm starving!<end>
 
 =>a7
-Montre-moi ce que tu as. Je meurs de faim!<end>
+Montrez-moi ce que vous avez. Je meurs de faim !<end>
 
 =>q8_original
 Today's we have...<end>
@@ -60,49 +60,49 @@ Aujourd'hui, nous avons...<end>
 Show me what you got. I'm starving! ::Barter.::<end>
 
 =>a10
-Montre-moi ce que tu as. Je meurs de faim! ::Troc.::<end>
+Montrez-moi ce que vous avez. Je meurs de faim ! ::Troc.::<end>
 
 =>a11_original
 How and why did you join Institute of Tchort?<end>
 
 =>a11
-Comment et pourquoi avez-vous rejoint Institute of Tchort ?<end>
+Comment et pourquoi avez-vous rejoint l'Institute of Tchort ?<end>
 
 =>q12_original
 I am institute-born, $(#brother/sister). It wasn't my decision to become a Tchortist, but with all the things I heard about the outside world, I'm better off. Life here is better without a doubt, and here people care about each other, care about progress - evolution, rather than just about their own hide, so to speak.<end>
 
 =>q12
-Je suis né à l'institut, $(#brother/sister). Ce n'était pas ma décision de devenir un Tchortiste, mais avec tout ce que j'ai entendu sur le monde extérieur, je me sens mieux. La vie ici est sans aucun doute meilleure, et ici les gens se soucient les uns des autres, se soucient du progrès – de l'évolution, plutôt que seulement de leur propre peau, pour ainsi dire.<end>
+Je suis né à l'Institute, $(#frère/sœur). Ce n'était pas ma décision de devenir Tchortist, mais d'après tout ce que j'ai entendu sur le dehors, je m'en sors mieux ici. La vie y est meilleure, sans aucun doute, et les gens se soucient les uns des autres, du progrès - de l'évolution, plutôt que de leur seule peau, pour ainsi dire.<end>
 
 =>a13_original
 Wait, you never left this building?<end>
 
 =>a13
-Attends, tu n'as jamais quitté ce bâtiment ?<end>
+Attendez, vous n'avez jamais quitté ce bâtiment ?<end>
 
 =>q14_original
 No. Again, from what I heard in the past... I'm better off being here.<end>
 
 =>q14
-Non. Encore une fois, d'après ce que j'ai entendu dans le passé... je ferais mieux d'être ici.<end>
+Non. Encore une fois, d'après ce que j'ai entendu... je m'en sors mieux ici.<end>
 
 =>a15_original
 Maybe I can share a few stories about the outside world. It's rough alright, but not everything is so grim. There is much beauty outside of the Institute.<end>
 
 =>a15
-Peut-être que je peux partager quelques histoires sur le monde extérieur. C'est dur, certes, mais tout n'est pas si sombre. Il y a beaucoup de beauté en dehors de l’Institut.<end>
+Je pourrais vous raconter un peu le dehors. C'est rude, oui, mais tout n'est pas si sombre. Il y a beaucoup de beauté hors de l'Institute.<end>
 
 =>q16_original
 Maybe some other time, $(#brother/sister); now's not the time. Anything else you needed? And please, let's make it quick, refectory is always a busy place.<end>
 
 =>q16
-Peut-être une autre fois, $(#brother/sister) ; ce n'est pas le moment. Avez-vous besoin d'autre chose ? Et s'il vous plaît, faisons vite, le réfectoire est toujours un endroit très fréquenté.<end>
+Une autre fois, peut-être, $(#frère/sœur) ; ce n'est pas le moment. Autre chose ? Et vite, je vous prie, le réfectoire est toujours bondé.<end>
 
 =>a17_original
 Interesting... I had other questions though.<end>
 
 =>a17
-Intéressant... J'avais cependant d'autres questions.<end>
+Intéressant... J'avais d'autres questions, pourtant.<end>
 
 =>q18_original
 Yes, what?<end>
@@ -114,55 +114,55 @@ Oui, quoi ?<end>
 What can you tell me about the Faceless?<end>
 
 =>a19
-Que pouvez-vous me dire sur le Faceless ?<end>
+Que pouvez-vous me dire sur les Faceless ?<end>
 
 =>q20_original
 Keep the Faceless out of the refectory please, people are trying to eat here.<end>
 
 =>q20
-Gardez le Faceless hors du réfectoire s'il vous plaît, les gens essaient de manger ici.<end>
+Gardez les Faceless hors du réfectoire, je vous prie. Les gens essaient de manger.<end>
 
 =>q21_original
 Magnificent Tchort! Stop mentioning those... those vomit-inducing freaks here - we are trying to eat!<end>
 
 =>q21
-Magnifique Tchort ! Arrêtez de mentionner ici ces... ces monstres qui font vomir - nous essayons de manger !<end>
+Magnifique Tchort ! Arrêtez de parler de ces... de ces horreurs à vomir, ici. Nous essayons de manger !<end>
 
 =>q22_original
 That's what I was talking about...<end>
 
 =>q22
-C'est de ça que je parlais...<end>
+C'est exactement ce que je disais...<end>
 
 =>a23_original
 What can you tell me about the West Wing?<end>
 
 =>a23
-Que pouvez-vous me dire sur l'aile ouest ?<end>
+Que pouvez-vous me dire sur la West Wing ?<end>
 
 =>q24_original
 It is dangerous, do not go there.<end>
 
 =>q24
-C'est dangereux, n'y allez pas.<end>
+C'est dangereux. N'y allez pas.<end>
 
 =>q25_original
 It is that simple, $(#brother/sister).<end>
 
 =>q25
-C'est aussi simple que cela, $(#brother/sister).<end>
+C'est aussi simple que ça, $(#frère/sœur).<end>
 
 =>a26_original
 But what is so dangerous about it?<end>
 
 =>a26
-Mais qu’y a-t-il de si dangereux là-dedans ?<end>
+Mais qu'est-ce qui est si dangereux, là-dedans ?<end>
 
 =>q27_original
 I am sorry but I can't explain it now, $(#brother/sister) - this is neither the time nor the place for that. This is where people eat and I have got my hands a bit busy at the moment.<end>
 
 =>q27
-Je suis désolé mais je ne peux pas l'expliquer maintenant, $(#brother/sister) - ce n'est ni le moment ni l'endroit pour cela. C'est ici que les gens mangent et j'ai les mains un peu occupées en ce moment.<end>
+Je suis désolé, mais je ne peux pas l'expliquer maintenant, $(#frère/sœur) - ni le moment, ni l'endroit. Ici, les gens mangent, et j'ai les mains un peu prises.<end>
 
 =>q28_original
 Just trust me... it is dangerous; there is a reason no one goes there.
@@ -170,9 +170,9 @@ Just trust me... it is dangerous; there is a reason no one goes there.
 Now, $(#brother/sister), are you ordering something or not?<end>
 
 =>q28
-Faites-moi confiance... c'est dangereux ; il y a une raison pour laquelle personne n'y va.
+Faites-moi confiance... c'est dangereux. Il y a une raison pour que personne n'y aille.
 
-Maintenant, $(#brother/sister), commandez-vous quelque chose ou pas ?<end>
+Alors, $(#frère/sœur), vous commandez quelque chose, ou pas ?<end>
 
 =>a29_original
 Understood. Let me ask you something else.<end>
@@ -184,163 +184,163 @@ Compris. Laissez-moi vous demander autre chose.<end>
 Hey, do you want to hear a joke?<end>
 
 =>a30
-Hé, tu veux entendre une blague ?<end>
+Vous voulez entendre une blague ?<end>
 
 =>q31_original
 Is it the one about a cell undergoing mitosis?<end>
 
 =>q31
-Est-ce celui d’une cellule en mitose ?<end>
+C'est celle de la cellule en mitose ?<end>
 
 =>a32_original
 No, it's about a rathound that walks into a bar - and the barkeeper shoots the filthy thing!<end>
 
 =>a32
-Non, il s'agit d'un chien qui entre dans un bar - et le barman tire sur cet sale truc !<end>
+Non, c'est un rathound qui entre dans un bar - et le tavernier descend la saleté !<end>
 
 =>q33_original
 ::He laughs.:: 'Cause everyone hates rathounds! Yes, I like that one.<end>
 
 =>q33
-::Il rit.:: Parce que tout le monde déteste les chiens ! Oui, j'aime celui-là.<end>
+::Il rit.:: Parce que tout le monde déteste les rathounds ! Oui, celle-là je l'aime.<end>
 
 =>q34_original
 Apex joke, $(#brother/sister).<end>
 
 =>q34
-Blague Apex, $(#brother/sister).<end>
+Blague apex, $(#frère/sœur).<end>
 
 =>a35_original
 Erm, yes it is...<end>
 
 =>a35
-Euh, oui, c'est le cas...<end>
+Euh, oui, c'est ça...<end>
 
 =>q36_original
 Sorry, $(#brother/sister), already heard that one. One of the genetics investigators already told it to me.<end>
 
 =>q36
-Désolé, $(#brother/sister), j'ai déjà entendu celui-là. Un des enquêteurs en génétique me l'a déjà dit.<end>
+Désolé, $(#frère/sœur), déjà entendue. Un investigator de la génétique me l'a déjà faite.<end>
 
 =>q37_original
 Need anything else?<end>
 
 =>q37
-Besoin d'autre chose ?<end>
+Autre chose ?<end>
 
 =>a38_original
 I would like to ask you some questions about Tchortism.<end>
 
 =>a38
-J'aimerais vous poser quelques questions sur le Tchortisme.<end>
+J'aimerais vous poser quelques questions sur le Tchortism.<end>
 
 =>q39_original
 I'm sorry, but I'm working at the moment, and a discussion about Tchortism would take too long.<end>
 
 =>q39
-Je suis désolé, mais je travaille en ce moment, et une discussion sur le Tchortisme prendrait trop de temps.<end>
+Je suis désolé, mais je travaille, et une discussion sur le Tchortism prendrait trop de temps.<end>
 
 =>q40_original
 Seek Praepostor Amelia, or visit Eidein's Library. Oh, and read the Original Report if you haven't already.<end>
 
 =>q40
-Cherchez la préposteuse Amelia ou visitez la bibliothèque de Eidein. Oh, et lisez le rapport original si vous ne l'avez pas déjà fait.<end>
+Allez voir Praepostor Amelia, ou Eidein's Library. Oh, et lisez l'Original Report, si ce n'est pas déjà fait.<end>
 
 =>a41_original
 Hi, I'd like one cute Theo for takeout. Hot if possible.<end>
 
 =>a41
-Salut, j'aimerais un joli Théo à emporter. Chaud si possible.<end>
+Bonjour, je voudrais un joli Theo à emporter. Bien chaud, si possible.<end>
 
 =>q42_original
 Sorry, we are not serving Theo today. Are you perhaps interested in something else?<end>
 
 =>q42
-Désolé, nous ne servons pas Théo aujourd'hui. Etes-vous peut-être intéressé par autre chose ?<end>
+Désolé, on ne sert pas Theo aujourd'hui. Quelque chose d'autre, peut-être ?<end>
 
 =>q43_original
 Hopper stew is hot too, sister.<end>
 
 =>q43
-Le ragoût de trémie est chaud aussi, ma sœur.<end>
+Le ragoût de hopper est chaud aussi, sœur.<end>
 
 =>a44_original
 Hi, I wanted to ask you something really important, but was stunned by how handsome you are. Now I can't remember.<end>
 
 =>a44
-Salut, je voulais te demander quelque chose de vraiment important, mais j'ai été stupéfait de voir à quel point tu es beau. Maintenant, je ne m'en souviens plus.<end>
+Bonjour, je voulais vous demander quelque chose d'important, mais votre beauté m'a coupé le souffle. Maintenant, je ne me souviens plus.<end>
 
 =>q45_original
 That happens pretty often actually, so don't worry about it.<end>
 
 =>q45
-En fait, cela arrive assez souvent, alors ne vous inquiétez pas.<end>
+Ça arrive assez souvent, en vrai. Ne vous en faites pas.<end>
 
 =>q46_original
 While you're trying to remember, maybe grab something to eat, sister?<end>
 
 =>q46
-Pendant que vous essayez de vous souvenir, peut-être prendre quelque chose à manger, ma sœur ?<end>
+Pendant que vous cherchez, un petit quelque chose à manger, sœur ?<end>
 
 =>a47_original
 ::Wave and wink at him seductively.::<end>
 
 =>a47
-::Faites-lui signe de la main et faites-lui un clin d’œil séduisant.::<end>
+::Lui faire un signe et un clin d'œil séducteur.::<end>
 
 =>q48_original
 ::He waves back and leans forward slightly, as if he is going to wink. However, he stops, eyes wide open. Then, he shrugs his shoulders.::<end>
 
 =>q48
-::Il fait un signe de la main et se penche légèrement en avant, comme s'il allait faire un clin d'œil. Cependant, il s'arrête, les yeux grands ouverts. Puis il hausse les épaules.::<end>
+::Il répond au signe et se penche un peu, comme pour cligner de l'œil. Puis il s'arrête, les yeux grands ouverts. Il hausse les épaules.::<end>
 
 =>q49_original
 Oh no, I guess we are out of winks. How about hopper stew?<end>
 
 =>q49
-Oh non, je suppose que nous n'avons plus de clins d'œil. Et le ragoût de trémie ?<end>
+Oh non, plus de clins d'œil, on dirait. Un ragoût de hopper ?<end>
 
 =>a50_original
 I'm new to the Institute of Tchort. Could you give me directions to your room?<end>
 
 =>a50
-Je suis nouveau sur le Institute of Tchort. Pourriez-vous me donner l'itinéraire jusqu'à votre chambre ?<end>
+Je suis $(#nouveau/nouvelle) à l'Institute of Tchort. Vous pourriez m'indiquer le chemin jusqu'à votre chambre ?<end>
 
 =>q51_original
 Certainly, exit the refectory, up the stairs, then take four left turns, down the stairs and then turn right.<end>
 
 =>q51
-Bien sûr, sortez du réfectoire, montez les escaliers, puis faites quatre virages à gauche, descendez les escaliers puis tournez à droite.<end>
+Bien sûr : sortez du réfectoire, montez l'escalier, quatre virages à gauche, descendez, puis à droite.<end>
 
 =>q52_original
 See you soon, sister!<end>
 
 =>q52
-A bientôt, ma sœur !<end>
+À tout de suite, sœur !<end>
 
 =>a53_original
 My lips hurt! Will you kiss them and make the pain go away?<end>
 
 =>a53
-J'ai mal aux lèvres ! Allez-vous les embrasser et faire disparaître la douleur ?<end>
+J'ai mal aux lèvres ! Vous voulez bien les embrasser, pour que ça passe ?<end>
 
 =>q54_original
 You know, sister, maybe I can help you with that...<end>
 
 =>q54
-Tu sais, sœur, peut-être que je peux t'aider avec ça...<end>
+Vous savez, sœur, je pourrais peut-être vous aider...<end>
 
 =>a55_original
 Oh?<end>
 
 =>a55
-Oh?<end>
+Oh ?<end>
 
 =>q56_original
 Or, I better leave it to the professional. Jerre-Franz's medical office is right past the sleeping quarters; he'll give you something for the pain. Trust me, he is the best.<end>
 
 =>q56
-Ou alors, je ferais mieux de laisser le soin au professionnel. Le cabinet médical de Jerre-Franz se trouve juste après les dortoirs ; il te donnera quelque chose pour la douleur. Croyez-moi, il est le meilleur.<end>
+Ou alors, je laisse ça au professionnel. Le cabinet de Jerre-Franz est juste après les dortoirs ; il vous donnera quelque chose pour la douleur. Croyez-moi, c'est le meilleur.<end>
 
 =>a57_original
 I give up...<end>
@@ -352,95 +352,94 @@ J'abandonne...<end>
 Hungry?<end>
 
 =>q58
-Affamé?<end>
+Faim ?<end>
 
 =>a59_original
 ::Leave without saying anything.::<end>
 
 =>a59
-::Partez sans rien dire.::<end>
+::Partir sans rien dire.::<end>
 
 =>a60_original
 Really?<end>
 
 =>a60
-Vraiment?<end>
+Vraiment ?<end>
 
 =>a61_original
 ::Pout your lips.::<end>
 
 =>a61
-::Boudez vos lèvres.::<end>
+::Faire la moue.::<end>
 
 =>a62_original
 See you next time, Theo.<end>
 
 =>a62
-A la prochaine fois, Théo.<end>
+À la prochaine, Theo.<end>
 
 =>q63_original
 Tchort guides, $(#brother/sister).<end>
 
 =>q63
-Guides Tchort, $(#brother/sister).<end>
+Tchort guide, $(#frère/sœur).<end>
 
 =>a64_original
 I'm $(context.player.Name) and I'm very, very hungry.<end>
 
 =>a64
-Je m'appelle $(context.player.Name) et j'ai très, très faim.<end>
+Je suis $(context.player.Name), et j'ai très, très faim.<end>
 
 =>q65_original
 ::He laughs.:: Don't worry, $(#brother/sister), we'll fill that belly of yours in just a moment. What'll it be?<end>
 
 =>q65
-::Il rit.:: Ne vous inquiétez pas, $(#brother/sister), nous allons remplir votre ventre dans un instant. Qu'est-ce que ce sera ?<end>
+::Il rit.:: Ne vous inquiétez pas, $(#frère/sœur), on va vous remplir le ventre dans un instant. Qu'est-ce que ce sera ?<end>
 
 =>a66_original
 Hi, Theo. I'm $(#brother/sister) $(context.player.Name).<end>
 
 =>a66
-Salut Théo. Je m'appelle $(#brother/sister) $(context.player.Name).<end>
+Bonjour, Theo. Je suis $(#frère/sœur) $(context.player.Name).<end>
 
 =>a67_original
 Tchort is handsome... I mean you're evolution... You're handsome! That's the one! And I'm $(context.player.Name).<end>
 
 =>a67
-Tchort est beau... Je veux dire, tu es une évolution... Tu es beau ! C'est celui-là ! Et je m'appelle $(context.player.Name).<end>
+Tchort est beau... je veux dire vous êtes l'évolution... Vous êtes beau ! Voilà, c'est ça ! Et je m'appelle $(context.player.Name).<end>
 
 =>q68_original
 Uhm... While I should thank you for the compliment, our greeting is not something that should be twisted in such a manner. Please, make sure you always say the phrase in its proper form.<end>
 
 =>q68
-Euh... Même si je devrais vous remercier pour le compliment, notre salutation ne doit pas être déformée de cette manière. S'il vous plaît, assurez-vous de toujours prononcer la phrase sous sa forme appropriée.<end>
+Euh... Je devrais vous remercier pour le compliment, mais notre salut n'est pas fait pour être tordu de la sorte. Prononcez-le toujours dans sa forme correcte, je vous prie.<end>
 
 =>a69_original
 I understand. Still, you're handsome.<end>
 
 =>a69
-Je comprends. Pourtant, tu es beau.<end>
+Je comprends. Vous êtes beau, quand même.<end>
 
 =>q70_original
 That I am. ::Smiles:: What'll it be, $(context.player.Name)?<end>
 
 =>q70
-C'est ce que je suis. ::Sourires:: Qu'est-ce que ça sera, $(context.player.Name) ?<end>
+Ça, oui. ::Sourire.:: Qu'est-ce que ce sera, $(context.player.Name) ?<end>
 
 =>a71_original
 I'm very sorry. Won't happen again.<end>
 
 =>a71
-Je suis vraiment désolé. Cela n'arrivera plus.<end>
+Je suis vraiment $(#désolé/désolée). Ça n'arrivera plus.<end>
 
 =>q72_original
 Apology accepted. Now, what'll it be, $(context.player.Name)?<end>
 
 =>q72
-Excuses acceptées. Maintenant, qu'est-ce que ça va être, $(context.player.Name) ?<end>
+Excuses acceptées. Alors, qu'est-ce que ce sera, $(context.player.Name) ?<end>
 
 =>q73_original
 Hungry again, $(#brother/sister)?<end>
 
 =>q73
-Encore faim, $(#brother/sister) ?<end>
-
+Encore faim, $(#frère/sœur) ?<end>

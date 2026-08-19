@@ -8,13 +8,13 @@
 We all saw Ethan attacked you first.<end>
 
 =>q2
-Nous avons tous vu Ethan vous attaquer en premier.<end>
+On a tous vu qu'Ethan s'en est pris à vous en premier.<end>
 
 =>q3_original
 Did Ethan... turn into an old man?<end>
 
 =>q3
-Ethan... est-il devenu un vieil homme ?<end>
+Ethan... il est devenu un vieil homme ?<end>
 
 =>q4_original
 Any news on Tanner?<end>
@@ -26,25 +26,25 @@ Des nouvelles de Tanner ?<end>
 I visited Lora an hour ago. She is still unconscious.<end>
 
 =>q5
-J'ai visité Lora il y a une heure. Elle est toujours inconsciente.<end>
+Je suis passé voir Lora il y a une heure. Elle est toujours inconsciente.<end>
 
 =>q6_original
 Cheers!<end>
 
 =>q6
-Acclamations!<end>
+Santé !<end>
 
 =>q7_original
 The Faceless just left? What the rocky hell is going on?<end>
 
 =>q7
-Le Faceless vient de partir ? Que se passe-t-il ?<end>
+Les Faceless viennent de partir ? C'est quoi ce bordel ?<end>
 
 =>q8_original
 So, how did it go in GMS?<end>
 
 =>q8
-Alors, comment ça s’est passé dans GMS ?<end>
+Alors, ça s'est passé comment, à GMS ?<end>
 
 =>q9_original
 Oh... Lenox is back.<end>
@@ -56,25 +56,25 @@ Oh... Lenox est de retour.<end>
 Newton's pissed at you. Everytime you walk by he's giving you the evil eye.<end>
 
 =>q10
-Newton est en colère contre toi. Chaque fois que vous passez devant, il vous jette un mauvais œil.<end>
+Newton vous en veut. Chaque fois que vous passez, il vous fusille du regard.<end>
 
 =>q11_original
 What are the Faceless doing in Core City?<end>
 
 =>q11
-Que font les Faceless dans Core City ?<end>
+Qu'est-ce que les Faceless fichent à Core City ?<end>
 
 =>q12_original
 Heard you took care of the outposts. That's the stuff. Good work.<end>
 
 =>q12
-J'ai entendu dire que tu t'occupais des avant-postes. C'est ça le truc. Bon travail.<end>
+J'ai entendu que vous aviez réglé les avant-postes. Voilà qui est parler. Beau boulot.<end>
 
 =>q13_original
 Did I tell you the one about that dude who did the range completely drunk?<end>
 
 =>q13
-Je t'ai parlé de ce type qui a fait le stand complètement ivre ?<end>
+Je vous ai raconté celui du type qui a fait le stand complètement bourré ?<end>
 
 =>q14_original
 Hey, $(context.player.Name).<end>
@@ -92,13 +92,13 @@ Comment ça va ?<end>
 I think Arlene's started offering psi beetle brain soup again. Try one. It'll blow your mind.<end>
 
 =>q16
-Je pense qu'Arlene a recommencé à proposer de la soupe au cerveau de scarabée psi. Essayez-en un. Cela va vous époustoufler.<end>
+Je crois qu'Arlene a remis la soupe au cerveau de scarabée psi au menu. Goûtez-en un bol. Ça vous retourne le crâne.<end>
 
 =>q17_original
 Well done, $(context.player.Name). I hope you're satisfied now. ::He yawns.::<end>
 
 =>q17
-Bravo, $(context.player.Name). J'espère que vous êtes satisfait maintenant. ::Il bâille.::<end>
+Bien joué, $(context.player.Name). J'espère que vous êtes $(#satisfait/satisfaite), maintenant. ::Il bâille.::<end>
 
 =>q18_original
 <end>
@@ -110,7 +110,7 @@ Bravo, $(context.player.Name). J'espère que vous êtes satisfait maintenant. ::
 Will my performance on this run affect my overall results?<end>
 
 =>a19
-Ma performance sur cette course affectera-t-elle mes résultats globaux ?<end>
+Est-ce que ce passage va compter dans mes résultats ?<end>
 
 =>q20_original
 Nope.<end>
@@ -122,37 +122,37 @@ Non.<end>
 Nope. Although I should put in that you're a camera smasher. I'll think about it.<end>
 
 =>q21
-Non. Même si je devrais ajouter que tu es un briseur de caméras. Je vais y réfléchir.<end>
+Non. Même si je devrais noter que vous cassez les caméras. Je vais y réfléchir.<end>
 
 =>a22_original
 How about I do another one? Eh?<end>
 
 =>a22
-Et si j'en faisais un autre ? Hein ?<end>
+Et si j'en refaisais un ? Hein ?<end>
 
 =>q23_original
 No, please, no. Aren't you tired already? Just... no.<end>
 
 =>q23
-Non, s'il vous plaît, non. N'es-tu pas déjà fatigué ? Juste... non.<end>
+Non, s'il vous plaît, non. Vous n'êtes pas déjà $(#fatigué/fatiguée) ? Juste... non.<end>
 
 =>a24_original
 I'm done here. It's time to check out my new room.<end>
 
 =>a24
-J'ai fini ici. Il est temps de découvrir ma nouvelle chambre.<end>
+J'ai fini, ici. Il est temps d'aller voir ma nouvelle chambre.<end>
 
 =>q25_original
 I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
 
 =>q25
-Je n'ai aucun doute que vous l'aimerez. Je n'ai encore vu aucun nouveau venu se plaindre. ::Il rit.::<end>
+Vous allez aimer, j'en doute pas. J'ai encore jamais vu un nouveau se plaindre. ::Il rit.::<end>
 
 =>q26_original
 Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
 
 =>q26
-Rien d'autre à dire que félicitations encore, $(context.player.Name), et bienvenue sur South Gate Station. Allez vous reposer.<end>
+Rien d'autre à ajouter que encore félicitations, $(context.player.Name), et bienvenue à South Gate Station. Allez vous reposer.<end>
 
 =>a27_original
 See you around, Vencel. ::Leave.::<end>
@@ -166,9 +166,9 @@ See you around, Vencel. ::Leave.::<end>
 What was that all about? What did cameras ever do to you, $(context.player.Name)? I mean-- There was no reason to do that. Man...<end>
 
 =>q28
-::Vous voyez un froncement de sourcils sur le visage de Vencel et il vous parle sur un ton de voix correspondant.::
+::Vencel fronce les sourcils et vous parle sur le même ton.::
 
-De quoi s’agissait-il ? Qu'est-ce que les caméras vous ont fait, $(context.player.Name) ? Je veux dire... Il n'y avait aucune raison de faire ça. Homme...<end>
+C'était quoi, ça ? Qu'est-ce que les caméras vous ont fait, $(context.player.Name) ? Je veux dire... Y avait aucune raison. Sérieux...<end>
 
 =>a29_original
 It was inevitable.<end>
@@ -180,7 +180,7 @@ C'était inévitable.<end>
 Man! We've never had anyone ever destroy any of our cameras. Ever.<end>
 
 =>q30
-Homme! Personne n’a jamais détruit nos caméras. Jamais.<end>
+Sérieux ! Personne a jamais détruit une de nos caméras. Jamais.<end>
 
 =>q31_original
 Dammit. I'll have to take care of this. Harold could come here or... I'll think of something. ::He gives you an angry look once more, and then he yawns.:: 
@@ -188,15 +188,15 @@ Dammit. I'll have to take care of this. Harold could come here or... I'll think 
 Anyway, are we finally done?<end>
 
 =>q31
-Bon sang. Je vais devoir m'en occuper. Harold pourrait venir ici ou... je penserai à quelque chose. ::Il vous lance à nouveau un regard furieux, puis il bâille.:: 
+Bon sang. Je vais devoir m'en occuper. Harold pourrait passer, ou... je trouverai. ::Il vous fusille encore du regard, puis il bâille.::
 
-Quoi qu'il en soit, avons-nous enfin terminé ?<end>
+Bref, on a enfin fini ?<end>
 
 =>a32_original
 You never told me anything about the cameras.<end>
 
 =>a32
-Vous ne m'avez jamais rien dit à propos des caméras.<end>
+Vous ne m'avez jamais rien dit sur les caméras.<end>
 
 =>a33_original
 Whoops.<end>
@@ -208,7 +208,7 @@ Oups.<end>
 Go through the gate, $(context.player.Name).<end>
 
 =>q34
-Franchissez la porte, $(context.player.Name).<end>
+Passez la porte, $(context.player.Name).<end>
 
 =>q35_original
 ::An unexpected yawn interrupts Vencel. He instinctively raises his left hand to cover his mouth, forgetting that he is wearing a respirator. A tiny smile creeps up on your face due to this very fact, yet you understand that after so many hours of testing these kinds of lapses tend to sneak up on people.::
@@ -216,7 +216,7 @@ Franchissez la porte, $(context.player.Name).<end>
 Excuse me.<end>
 
 =>q35
-::Un bâillement inattendu interrompt Vencel. Il lève instinctivement sa main gauche pour se couvrir la bouche, oubliant qu'il porte un respirateur. Un petit sourire apparaît sur votre visage de ce fait même, mais vous comprenez qu'après tant d'heures de tests, ce genre d'erreurs a tendance à se faufiler sur les gens.::
+::Un bâillement surprend Vencel. Il lève instinctivement la main gauche pour se couvrir la bouche, oubliant le respirateur. Un sourire vous échappe, juste pour ça, mais vous comprenez : après autant d'heures de tests, ce genre de raté finit par arriver.::
 
 Excusez-moi.<end>
 
@@ -226,15 +226,15 @@ Excusez-moi.<end>
 So all in all, as far as I'm concerned, $(context.player.Name), we're done here. I've got a few other things to do, but unless you'd like to have another go at the testing range, you've got no reason to stay here any longer.<end>
 
 =>q36
-::Il reprend là où il s'était arrêté.::
+::Il reprend où il s'était arrêté.::
 
-Donc dans l’ensemble, en ce qui me concerne, $(context.player.Name), nous en avons terminé ici. J'ai encore quelques choses à faire, mais à moins que vous souhaitiez tenter à nouveau le stand d'essai, vous n'avez aucune raison de rester ici plus longtemps.<end>
+Bon, pour ce qui me concerne, $(context.player.Name), on a fini. J'ai encore deux-trois trucs à faire, mais à moins que vous vouliez retenter le stand, vous n'avez plus de raison de rester.<end>
 
 =>a37_original
 As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>
 
 =>a37
-En fait, j'aimerais essayer encore une fois. Je n'ai jamais eu accès à une telle gamme auparavant, alors pourquoi ne pas en profiter au maximum pendant que je suis ici. ::[Démarrer le tutoriel]::<end>
+Justement, j'aimerais réessayer. Je n'avais jamais eu accès à un stand comme ça, autant en profiter tant que je suis là. ::[Lancer le tutoriel]::<end>
 
 =>q38_original
 ::His tired eyes aren't exactly radiating joy at your response, but he still nods.::
@@ -242,39 +242,39 @@ En fait, j'aimerais essayer encore une fois. Je n'ai jamais eu accès à une tel
 No problem, but know that it won't affect your previous results. I guess it's best we go through the whole procedure as if this is your first time at the range. <end>
 
 =>q38
-::Ses yeux fatigués ne rayonnent pas vraiment de joie face à votre réponse, mais il hoche quand même la tête.::
+::Ses yeux fatigués n'éclatent pas de joie, mais il hoche quand même la tête.::
 
-Pas de problème, mais sachez que cela n'affectera pas vos résultats précédents. Je suppose qu'il est préférable que nous suivions toute la procédure comme si c'était votre première fois au stand. <end>
+Pas de problème, mais ça ne changera rien à vos résultats d'avant. Autant reprendre toute la procédure, comme si c'était votre première fois au stand. <end>
 
 =>q39_original
 Okay, I'll now open the gate for you to go through. As before, I'll be watching you through the cameras. We'll continue once you get past the gate.<end>
 
 =>q39
-D'accord, je vais maintenant ouvrir la porte pour que vous puissiez passer. Comme avant, je vous surveillerai à travers les caméras. Nous continuerons une fois que vous aurez passé la porte.<end>
+D'accord, je vous ouvre la porte. Comme tout à l'heure, je vous surveille par les caméras. On reprend une fois que vous l'aurez passée.<end>
 
 =>a40_original
 I'm ready, Vencel.<end>
 
 =>a40
-Je suis prêt, Vencel.<end>
+Je suis $(#prêt/prête), Vencel.<end>
 
 =>a41_original
 I'm feeling pretty tired, and it's hardly a secret you are too. Besides, I can't wait to check out my new room. ::[Skip the tutorial]::<end>
 
 =>a41
-Je me sens plutôt fatigué, et ce n'est un secret pour personne que vous l'êtes aussi. En plus, j'ai hâte de découvrir ma nouvelle chambre. ::[Passer le tutoriel]::<end>
+Je suis $(#crevé/crevée), et ça se voit que vous aussi. En plus, j'ai hâte de voir ma nouvelle chambre. ::[Passer le tutoriel]::<end>
 
 =>q42_original
 I have no doubt you'll like it. I have yet to see any newcomers complain. ::He laughs.::<end>
 
 =>q42
-Je n'ai aucun doute que vous l'aimerez. Je n'ai encore vu aucun nouveau venu se plaindre. ::Il rit.::<end>
+Vous allez aimer, j'en doute pas. J'ai encore jamais vu un nouveau se plaindre. ::Il rit.::<end>
 
 =>q43_original
 Nothing more to say than congratulations again, $(context.player.Name), and welcome to South Gate Station. Go and get some rest.<end>
 
 =>q43
-Rien d'autre à dire que félicitations encore, $(context.player.Name), et bienvenue sur South Gate Station. Allez vous reposer.<end>
+Rien d'autre à ajouter que encore félicitations, $(context.player.Name), et bienvenue à South Gate Station. Allez vous reposer.<end>
 
 =>a44_original
 See you around, Vencel. ::Leave.::<end>
@@ -286,7 +286,7 @@ See you around, Vencel. ::Leave.::<end>
 How do I compare to other newcomers, Vencel?<end>
 
 =>a45
-Comment puis-je me comparer aux autres nouveaux arrivants, Vencel ?<end>
+Je me situe où, par rapport aux autres nouveaux, Vencel ?<end>
 
 =>q46_original
 I can't tell you that, $(context.player.Name).<end>
@@ -298,77 +298,76 @@ Je ne peux pas vous le dire, $(context.player.Name).<end>
 ::[Persuade]:: Come on, man, it'll stay between you and me.<end>
 
 =>a47
-::[Persuader]:: Allez mec, ça restera entre toi et moi.<end>
+::[Persuade]:: Allez, ça restera entre vous et moi.<end>
 
 =>q48_original
 ::He yawns again.:: Excuse me. Well, if you really want to know... Your score was below average.<end>
 
 =>q48
-::Il bâille à nouveau.:: Excusez-moi. Eh bien, si vous voulez vraiment savoir... Votre score était inférieur à la moyenne.<end>
+::Il bâille encore.:: Excusez-moi. Bon, si vous tenez vraiment à savoir... Votre score était sous la moyenne.<end>
 
 =>a49_original
 Then you must have some outstanding people here.<end>
 
 =>a49
-Alors vous devez avoir des personnes exceptionnelles ici.<end>
+Alors vous devez avoir du monde costaud, ici.<end>
 
 =>q50_original
 I was only joking, but that's a good response. ::He laughs.:: You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
 
 =>q50
-Je plaisantais seulement, mais c'est une bonne réponse. ::Il rit.:: Vous avez obtenu d'excellents résultats à la plupart de nos tests. Dès que nous aurons terminé, je les enverrai à Tanner. Je pense qu'il sera content.<end>
+Je plaisantais, mais c'est une bonne réponse. ::Il rit.:: Vous avez bien cartonné sur la plupart des tests. Dès qu'on a fini, j'envoie ça à Tanner. Il va être content, je pense.<end>
 
 =>q51_original
 So, are we done here or...?<end>
 
 =>q51
-Alors, on a fini ici ou... ?<end>
+Bon, on a fini, ou... ?<end>
 
 =>a52_original
 What? Only below average? But how?<end>
 
 =>a52
-Quoi? Seulement en dessous de la moyenne ? Mais comment ?<end>
+Quoi ? Juste sous la moyenne ? Mais comment ?<end>
 
 =>q53_original
 ::He laughs.:: I was joking, you scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
 
 =>q53
-::Il rit.:: Je plaisantais, vous avez obtenu de bons résultats à la plupart de nos tests. Dès que nous aurons terminé, je les enverrai à Tanner. Je pense qu'il sera content.<end>
+::Il rit.:: Je plaisantais. Vous avez bien cartonné sur la plupart des tests. Dès qu'on a fini, j'envoie ça à Tanner. Il va être content, je pense.<end>
 
 =>a54_original
 YES!<end>
 
 =>a54
-OUI!<end>
+OUI !<end>
 
 =>q55_original
 Now I know how that-- Oh. I was actually joking. You scored highly on most of our tests. As soon as we're done here I'll be sending them to Tanner. I think he'll be pleased.<end>
 
 =>q55
-Maintenant, je sais comment ça... Oh. En fait, je plaisantais. Vous avez obtenu de très bons résultats à la plupart de nos tests. Dès que nous aurons terminé, je les enverrai à Tanner. Je pense qu'il sera content.<end>
+Maintenant je vois comment ça... Oh. En fait, je plaisantais. Vous avez bien cartonné sur la plupart des tests. Dès qu'on a fini, j'envoie ça à Tanner. Il va être content, je pense.<end>
 
 =>a56_original
 I shouldn't have asked.<end>
 
 =>a56
-Je n'aurais pas dû demander.<end>
+J'aurais pas dû demander.<end>
 
 =>q57_original
 ::He yawns again.:: Nah. You'll have to be patient, I'm afraid.<end>
 
 =>q57
-::Il bâille à nouveau.:: Nan. Il faudra être patient, j'en ai peur.<end>
+::Il bâille encore.:: Nan. Il va falloir patienter, désolé.<end>
 
 =>a58_original
 I guess that'll have to do.<end>
 
 =>a58
-Je suppose que ça devra suffire.<end>
+Ça devra suffire, alors.<end>
 
 =>q59_original
 ::He nods.:: So, are we done here or...?<end>
 
 =>q59
-::Il acquiesce.:: Alors, on a fini ici ou... ?<end>
-
+::Il hoche la tête.:: Bon, on a fini, ou... ?<end>

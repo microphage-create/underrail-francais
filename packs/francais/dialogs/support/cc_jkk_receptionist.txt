@@ -12,7 +12,7 @@ Welcome to JKK headquarters, $(#Mister/Miss)...?<end>
 =>q2
 ::Il arrête de taper et te regarde.::
 
-Bienvenue au siège du JKK, $(#Mister/Miss)...?<end>
+Bienvenue au siège du JKK, $(#Monsieur/Mademoiselle)...?<end>
 
 =>a3_original
 $(context.player.Name).<end>
@@ -24,7 +24,7 @@ $(context.player.Name).<end>
 $(#Mister/Miss) $(context.player.Name), nice to meet you. My name is Van. How can I help you?<end>
 
 =>q4
-$(#Mister/Miss) $(context.player.Name), ravi de vous rencontrer. Mon nom est Van. Comment puis-je vous aider ?<end>
+$(#Monsieur/Mademoiselle) $(context.player.Name), ravi de vous rencontrer. Mon nom est Van. Comment puis-je vous aider ?<end>
 
 =>q5_original
 <end>
@@ -66,7 +66,7 @@ Quelque chose d'amusant qui paie bien.<end>
 $(#Mister/Miss) $(context.player.Name), I'm very sorry, but we can't offer you a working position here at JKK at the moment. The reason for this is, if I've been told correctly, that you are already working for a different organization. I apologize again, and wish you a dominating day.<end>
 
 =>q11
-$(#Mister/Miss) $(context.player.Name), je suis désolé, mais nous ne pouvons pas vous offrir un poste de travail ici à JKK pour le moment. La raison en est que, si on m'a dit correctement, vous travaillez déjà pour une organisation différente. Je m'excuse encore et je vous souhaite une journée de domination.<end>
+$(#Monsieur/Mademoiselle) $(context.player.Name), je suis désolé, mais nous ne pouvons pas vous offrir un poste de travail ici à JKK pour le moment. La raison en est que, si on m'a dit correctement, vous travaillez déjà pour une organisation différente. Je m'excuse encore et je vous souhaite une journée de domination.<end>
 
 =>a12_original
 Thank you for your time. Goodbye.<end>
@@ -178,5 +178,5 @@ Quoi de neuf, $(context.player.Name) ?<end>
 Good day, $(#Mister/Miss) $(context.player.Name). How can I help you?<end>
 
 =>q29
-Bonjour, $(#Mister/Miss) $(context.player.Name). Comment puis-je vous aider ?<end>
+Bonjour, $(#Monsieur/Mademoiselle) $(context.player.Name). Comment puis-je vous aider ?<end>
 

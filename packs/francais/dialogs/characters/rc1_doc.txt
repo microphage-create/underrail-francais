@@ -4,15 +4,15 @@
 What is going on here? Jared?<end>
 
 =>q1
-::Aliza vous regarde tous les deux avec incrédulité alors que vous sortez de la salle de stockage.:: 
+::Aliza vous fixe tous les deux, incrédule, alors que vous sortez de la réserve.:: 
 
-Que se passe-t-il ici ? Jared?<end>
+Qu'est-ce qui se passe ici ? Jared ?<end>
 
 =>q2_original
 ::Jared takes a step forward to speak, his face pale, his voice trembling.:: I am the one - I have been stealing the supplies from your office. But I can explain everything: Ever since I had that injury several months ago, from that Ironhead that shot me, I've... I've been addicted to painkillers. I know, it's pathetic. I've been stealing them for some time from the lockers, but I also took other things the eliminate the chance someone would suspect me.<end>
 
 =>q2
-::Jared fait un pas en avant pour parler, le visage pâle, la voix tremblante.:: C'est moi qui ai volé les fournitures de votre bureau. Mais je peux tout expliquer : depuis que j'ai eu cette blessure il y a plusieurs mois, à cause de l'Ironhead qui m'a tiré dessus, je suis... Je suis accro aux analgésiques. Je sais, c'est pathétique. Je les vole depuis un certain temps dans les casiers, mais j'ai aussi pris d'autres choses pour éliminer tout risque que quelqu'un me soupçonne.<end>
+::Jared fait un pas en avant pour parler, le visage pâle, la voix tremblante.:: C'est moi. C'est moi qui volais le stock dans votre bureau. Mais je peux tout expliquer : depuis cette blessure, il y a plusieurs mois, l'Ironhead qui m'a tiré dessus, je... je suis accro aux antalgiques. Je sais, c'est pathétique. Ça fait un moment que je les pique dans les casiers, mais j'ai aussi pris d'autres trucs, pour que personne ne me soupçonne.<end>
 
 =>q3_original
 I'm disappointed in you. This Jared before me, that is not the one I know. I should have you arrested right now for what you did. You endangered everyone in this station. Do you know how much damage you did? 
@@ -20,45 +20,45 @@ I'm disappointed in you. This Jared before me, that is not the one I know. I sho
 ::She pauses.:: You should have come to me, you know that?<end>
 
 =>q3
-Je suis déçu de toi. Ce Jared devant moi, ce n'est pas celui que je connais. J'aurais dû vous faire arrêter maintenant pour ce que vous avez fait. Vous avez mis tout le monde en danger dans cette station. Savez-vous combien de dégâts vous avez fait ? 
+Je suis déçue. Le Jared devant moi, ce n'est pas celui que je connais. J'aurais dû te faire arrêter sur-le-champ pour ce que tu as fait. Tu as mis tout le monde en danger dans cette station. Tu te rends compte des dégâts ? 
 
-::Elle fait une pause.:: Tu aurais dû venir vers moi, tu le sais ?<end>
+::Elle s'arrête.:: Tu aurais dû venir me voir, tu le sais ?<end>
 
 =>q4_original
 I can't explain how sorry I am... ::He starts crying.:: I still have some of the things I stole, I have it stashed somewhere. I'll give it back, I promise. And I'll pay for everything I took - everything!<end>
 
 =>q4
-Je ne peux pas expliquer à quel point je suis désolé... ::Il se met à pleurer.:: J'ai encore certaines des choses que j'ai volées, je les ai cachées quelque part. Je le rendrai, promis. Et je paierai pour tout ce que j'ai pris - tout !<end>
+Je peux pas dire à quel point je suis désolé... ::Il se met à pleurer.:: Il me reste une partie de ce que j'ai volé, je l'ai planqué quelque part. Je vais tout rendre, je le promets. Et je paierai pour tout ce que j'ai pris. Tout !<end>
 
 =>q5_original
 You will pay for everything, definitely. However... I will not call the captain. Instead, you need help, Jared, and I'm willing to offer it. I'll help you with this addiction. But if you give me any single reason to doubt your honesty again - the consequences will be severe. ::She sighs.:: Deal?<end>
 
 =>q5
-Vous paierez tout, c’est certain. Cependant... je n'appellerai pas le capitaine. Au lieu de cela, vous avez besoin d'aide, Jared, et je suis prêt à vous l'offrir. Je vais vous aider avec cette dépendance. Mais si vous me donnez une seule raison de douter à nouveau de votre honnêteté, les conséquences seront graves. Accord ::Elle soupire.:: ?<end>
+Tu paieras tout, ça c'est sûr. Par contre... je n'appellerai pas le capitaine. Toi, Jared, tu as besoin d'aide, et je veux bien te la donner. Je t'aiderai avec cette addiction. Mais si tu me donnes une seule raison de douter encore de toi, les conséquences seront graves. ::Elle soupire.:: Marché conclu ?<end>
 
 =>q6_original
 ::He nods.::<end>
 
 =>q6
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>q7_original
 $(context.player.Name), you've done your part, and I thank you for it. If you ever need free medical assistance, come and see me. As for Jared, we've got some more talking before us.<end>
 
 =>q7
-$(context.player.Name), vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir. Quant à Jared, nous avons encore quelques discussions devant nous.<end>
+$(context.player.Name), vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de soins gratuits, venez me voir. Quant à Jared, on a encore à se parler.<end>
 
 =>a8_original
 ::End Dialog.::<end>
 
 =>a8
-::Fin du dialogue.::<end>
+::Partir::<end>
 
 =>q9_original
 Sorry. ::Shakes her head.::<end>
 
 =>q9
-Désolé. ::Secoue la tête.::<end>
+Désolée. ::Elle secoue la tête.::<end>
 
 =>q10_original
 ::You see an exhausted-looking woman - as her barely open eyes and sluggish motions suggest - removing her blood stained surgical gloves and throwing them in a garbage can, filled with predominantly red contents. It takes her a second to realize she is not alone, after which she barely manages to smile before addressing you.::
@@ -66,9 +66,9 @@ Désolé. ::Secoue la tête.::<end>
 Hello, traveler. My name is Aliza Boudreau, but you can just call me Doc. Are you hurt?<end>
 
 =>q10
-::Vous voyez une femme à l'air épuisée - comme le suggèrent ses yeux à peine ouverts et ses mouvements lents - retirer ses gants chirurgicaux tachés de sang et les jeter dans une poubelle remplie d'un contenu à dominante rouge. Il lui faut une seconde pour réaliser qu'elle n'est pas seule, après quoi elle parvient à peine à sourire avant de s'adresser à vous.::
+::Vous voyez une femme épuisée - les yeux à peine ouverts, les gestes lents - retirer ses gants chirurgicaux tachés de sang et les jeter dans une poubelle au contenu surtout rouge. Il lui faut une seconde pour réaliser qu'elle n'est pas seule. Elle parvient à peine à sourire avant de vous adresser la parole.::
 
-Bonjour, voyageur. Je m'appelle Aliza Boudreau, mais vous pouvez simplement m'appeler Doc. Êtes-vous blessé ?<end>
+Bonjour, voyageur. Je m'appelle Aliza Boudreau, mais appelez-moi Doc. Vous êtes blessé ?<end>
 
 =>q11_original
 <end>
@@ -80,157 +80,157 @@ Bonjour, voyageur. Je m'appelle Aliza Boudreau, mais vous pouvez simplement m'ap
 Do you have anything to trade? ::Barter.::<end>
 
 =>a12
-Avez-vous quelque chose à échanger ? ::Troc.::<end>
+Vous avez quelque chose à vendre ? ::Troc.::<end>
 
 =>a13_original
 Can you check my wounds?<end>
 
 =>a13
-Pouvez-vous vérifier mes blessures ?<end>
+Vous pouvez regarder mes blessures ?<end>
 
 =>q14_original
 Okay, let me see your wounds.<end>
 
 =>q14
-D'accord, laisse-moi voir tes blessures.<end>
+Très bien, montrez-moi ça.<end>
 
 =>q15_original
 Hmmm, that doesn't look good. I will need to stich it up.<end>
 
 =>q15
-Hmmm, ça n'a pas l'air bien. Il va falloir que je le recousue.<end>
+Hmmm, ça a pas l'air bon. Il va falloir recoudre.<end>
 
 =>a16_original
 ::You remove your clothes.::<end>
 
 =>a16
-::Vous enlevez vos vêtements.::<end>
+::Enlever ses vêtements.::<end>
 
 =>q17_original
 Okay, okay... This isn't too bad. I'll just give you some antibiotics and you are good to go.<end>
 
 =>q17
-D'accord, d'accord... Ce n'est pas trop mal. Je vais juste vous donner des antibiotiques et vous êtes prêt à partir.<end>
+Ça va, ça va... C'est pas trop grave. Je vous file des antibiotiques et vous pourrez y aller.<end>
 
 =>a18_original
 ::Take the anitbiotics.::<end>
 
 =>a18
-::Prenez les antibiotiques.::<end>
+::Prendre les antibiotiques.::<end>
 
 =>q19_original
 Yes. It'll cost you ten charons.<end>
 
 =>q19
-Oui. Cela vous coûtera dix charons.<end>
+Oui. Ça vous coûtera dix charons.<end>
 
 =>a20_original
 Here you go, Doc. ::Pay 10 stygian coins.::<end>
 
 =>a20
-Et voilà, Doc. ::Payez 10 pièces stygiennes.::<end>
+Voilà, Doc. ::Payer 10 charons.::<end>
 
 =>a21_original
 Actually, it stopped hurting.<end>
 
 =>a21
-En fait, ça a cessé de faire mal.<end>
+En fait, ça s'est arrêté de faire mal.<end>
 
 =>q22_original
 Please don't waste my time.<end>
 
 =>q22
-S'il vous plaît, ne me faites pas perdre mon temps.<end>
+Ne me faites pas perdre mon temps, s'il vous plaît.<end>
 
 =>a23_original
 You seem rather overwhelmed with work. Is there something I can do to help you?<end>
 
 =>a23
-Vous semblez plutôt débordé de travail. Y a-t-il quelque chose que je puisse faire pour vous aider ?<end>
+Vous avez l'air débordée. Je peux vous donner un coup de main ?<end>
 
 =>q24_original
 Overwhelmed - you betcha. Any extra pair of helping hands is welcome, but...<end>
 
 =>q24
-Accablé – vous pariez. Toute aide supplémentaire est la bienvenue, mais...<end>
+Débordée, ça oui. Toute paire de mains en plus est la bienvenue, mais...<end>
 
 =>a25_original
 But what?<end>
 
 =>a25
-Mais quoi ?<end>
+Mais ?<end>
 
 =>q26_original
 But... there are some other issues I've been having. ::It takes a few moments before she continues, but she does it eventually.:: Someone's been stealing medical supplies from the supply locker; it's behind that door over there. The door is always locked, and I have the *only* key, you see. We are extremely low on supplies at this time, so I have to make every hypo, bandage - even needle count. <end>
 
 =>q26
-Mais... j'ai d'autres problèmes. ::Il lui faut quelques instants avant de continuer, mais elle finit par le faire.:: Quelqu'un a volé des fournitures médicales dans le casier à fournitures ; c'est derrière cette porte là-bas. La porte est toujours verrouillée et j'ai la *seule* clé, voyez-vous. Nous manquons extrêmement de fournitures en ce moment, je dois donc compter chaque hypo, chaque pansement et même chaque aiguille. <end>
+Mais... j'ai d'autres problèmes. ::Elle met un moment avant de continuer, mais elle finit par le faire.:: Quelqu'un pille le casier à fournitures médicales. C'est derrière cette porte, là-bas. La porte est toujours fermée à clé, et j'ai la *seule* clé, vous voyez. On est à sec en ce moment, alors je dois compter chaque hypo, chaque pansement, chaque aiguille. <end>
 
 =>a27_original
 Have you talked to the captain? I'm sure he could send some men here to guard the door.<end>
 
 =>a27
-Avez-vous parlé au capitaine ? Je suis sûr qu'il pourrait envoyer des hommes ici pour garder la porte.<end>
+Vous en avez parlé au capitaine ? Je suis sûr qu'il pourrait envoyer des hommes ici pour garder la porte.<end>
 
 =>q28_original
 Oh my, yes, yes... I turned to the captain on many occasions. Guards have been posted here plenty of times, but the thing is, we live in dangerous territory, and we are short of men; we can't have people stand here day and night when there are so many threats lurking around Rail Crossing that require as many watchful eyes as we can spare.<end>
 
 =>q28
-Oh mon Dieu, oui, oui... Je me suis tourné vers le capitaine à plusieurs reprises. Des gardes ont été postés ici à de nombreuses reprises, mais le fait est que nous vivons dans un territoire dangereux et que nous manquons d'hommes ; nous ne pouvons pas laisser des gens rester ici jour et nuit alors qu'il y a tant de menaces qui rôdent autour de Rail Crossing et qui nécessitent autant d'yeux vigilants que possible.<end>
+Oh là, oui, oui... J'ai demandé au capitaine plus d'une fois. On a posté des gardes ici, souvent. Le problème, c'est qu'on vit dans un coin dangereux, et on manque d'hommes. On peut pas laisser des gens plantés ici jour et nuit, pas avec tout ce qui rôde autour de Rail Crossing. On a besoin de tous les yeux qu'on a.<end>
 
 =>q29_original
 Sometimes I stay here when everyone else is asleep, but being the only doctor in a small station can leave one... tired. I fall asleep as soon as it gets quiet. When I wake up, I always go and check the supplies, and often I find something is missing. I never heard anything while I was sleeping here. The key is always with me, yet I sometimes find the storage door unlocked. ::She grabs her head with one hand and shakes it from side to side.:: I can't believe this is happening...<end>
 
 =>q29
-Parfois, je reste ici quand tout le monde dort, mais être le seul médecin dans une petite station peut laisser quelqu'un... fatigué. Je m'endors dès que le calme se fait sentir. Quand je me réveille, je vais toujours vérifier les fournitures et souvent je constate qu'il manque quelque chose. Je n'ai jamais rien entendu pendant que je dormais ici. La clé est toujours avec moi, mais je trouve parfois la porte du rangement déverrouillée. ::Elle saisit sa tête d'une main et la secoue d'un côté à l'autre.:: Je n'arrive pas à croire que cela arrive...<end>
+Parfois je reste ici quand tout le monde dort, mais être la seule médecin d'une petite station, ça... ça use. Je m'endors dès que ça se calme. Au réveil, je vais toujours vérifier le stock, et souvent il manque quelque chose. Je n'ai jamais rien entendu pendant que je dormais ici. La clé est toujours sur moi, et pourtant je trouve parfois la porte de la réserve ouverte. ::Elle se prend la tête d'une main et la secoue.:: J'arrive pas à croire que ça arrive...<end>
 
 =>a30_original
 Have you checked for a hidden entrance or something, maybe that's how the thief gets in?<end>
 
 =>a30
-Avez-vous vérifié s'il y avait une entrée cachée ou quelque chose du genre, c'est peut-être par là que le voleur entre ?<end>
+Vous avez cherché une entrée cachée, un truc du genre ? C'est peut-être comme ça que le voleur rentre.<end>
 
 =>q31_original
 We've searched for one, but haven't found anything. Whoever is doing this is good at it. <end>
 
 =>q31
-Nous en avons cherché un, mais n'avons rien trouvé. Celui qui fait ça est bon dans ce domaine. <end>
+On a cherché, on a rien trouvé. Celui qui fait ça s'y connaît. <end>
 
 =>q32_original
 If you really want to help, then help me with this. Help us all, in fact.<end>
 
 =>q32
-Si vous voulez vraiment aider, alors aidez-moi. Aidez-nous tous, en fait.<end>
+Si vous voulez vraiment aider, aidez-moi là-dessus. Aidez-nous tous, en fait.<end>
 
 =>a33_original
 I'll help. I'll stick around and see if I can catch this thief.<end>
 
 =>a33
-Je vais aider. Je vais rester dans les parages et voir si je peux attraper ce voleur.<end>
+Je vais aider. Je reste dans le coin, on verra si je peux coincer le voleur.<end>
 
 =>q34_original
 Oh, thank you so much. If you can catch him, I promise you free medical attention whenever you need it.<end>
 
 =>q34
-Oh, merci beaucoup. Si vous parvenez à l'attraper, je vous promets des soins médicaux gratuits chaque fois que vous en aurez besoin.<end>
+Oh, merci beaucoup. Si vous l'attrapez, je vous promets des soins gratuits, dès que vous en aurez besoin.<end>
 
 =>a35_original
 Deal, let's catch this thief.<end>
 
 =>a35
-Marché conclu, attrapons ce voleur.<end>
+Marché conclu. On coince ce voleur.<end>
 
 =>q36_original
 ::She smiles.:: Great! Great.<end>
 
 =>q36
-::Elle sourit.:: Super ! Super.<end>
+::Elle sourit.:: Parfait. Parfait.<end>
 
 =>a37_original
 Sorry, I have something more important to do.<end>
 
 =>a37
-Désolé, j'ai quelque chose de plus important à faire.<end>
+Désolé, j'ai plus important à faire.<end>
 
 =>q38_original
 ::She sighs.::<end>
@@ -242,37 +242,37 @@ Désolé, j'ai quelque chose de plus important à faire.<end>
 What's in it for me?<end>
 
 =>a39
-Qu'est-ce que j'y gagne ?<end>
+Et moi, j'y gagne quoi ?<end>
 
 =>q40_original
 Um, I can offer you free medical attention whenever you need it.<end>
 
 =>q40
-Hum, je peux vous offrir des soins médicaux gratuits chaque fois que vous en avez besoin.<end>
+Hum, je peux vous offrir des soins gratuits, dès que vous en aurez besoin.<end>
 
 =>a41_original
 I think you're on your own.<end>
 
 =>a41
-Je pense que tu es seul.<end>
+Je pense que vous vous débrouillerez seule.<end>
 
 =>a42_original
 Well, don't sleep when you're on guard duty.<end>
 
 =>a42
-Eh bien, ne dormez pas lorsque vous êtes de garde.<end>
+Ben, dormez pas quand vous êtes de garde.<end>
 
 =>q43_original
 ::She frowns, and her voice comes out with a bit more energy than earlier.:: Please, you think I do nothing around here so that I can stay up all day and night? People come here with problems you wouldn't even dream about - all the time. I only have two hands available and time is not an ally. Sometimes... sometimes I'm so overworked I feel like I'm going to hit the ground from exhaustion.<end>
 
 =>q43
-::Elle fronce les sourcils et sa voix est un peu plus énergique que précédemment.:: S'il vous plaît, vous pensez que je ne fais rien ici pour pouvoir rester éveillé toute la journée et toute la nuit ? Les gens viennent ici avec des problèmes dont vous ne rêveriez même pas – tout le temps. Je n'ai que deux mains disponibles et le temps n'est pas un allié. Parfois... parfois, je suis tellement surmené que j'ai l'impression que je vais tomber par terre à cause de l'épuisement.<end>
+::Elle fronce les sourcils, et sa voix a un peu plus d'énergie qu'avant.:: S'il vous plaît. Vous croyez que je reste les bras croisés ici, que je peux veiller jour et nuit ? Les gens débarquent avec des problèmes dont vous n'avez même pas idée. Tout le temps. Je n'ai que deux mains, et le temps n'est pas de mon côté. Parfois... parfois je suis tellement surmenée que j'ai l'impression que je vais m'écrouler.<end>
 
 =>a44_original
 Sorry, I didn't mean it that way. Ignore my comment, please.<end>
 
 =>a44
-Désolé, je ne voulais pas dire ça de cette façon. Ignorez mon commentaire, s'il vous plaît.<end>
+Désolé, je voulais pas dire ça comme ça. Oubliez ce que j'ai dit.<end>
 
 =>q45_original
 ::She calms down a bit.:: Thank you.<end>
@@ -284,115 +284,115 @@ Désolé, je ne voulais pas dire ça de cette façon. Ignorez mon commentaire, s
 You know what? Let's discuss something else.<end>
 
 =>a46
-Vous savez quoi? Discutons d'autre chose.<end>
+Vous savez quoi ? Parlons d'autre chose.<end>
 
 =>a47_original
 I just remembered something important. Gotta go.<end>
 
 =>a47
-Je viens de me souvenir de quelque chose d'important. Je dois y aller.<end>
+Je viens de me rappeler un truc important. Faut que j'y aille.<end>
 
 =>a48_original
 About the medical supplies theft...<end>
 
 =>a48
-À propos du vol de fournitures médicales...<end>
+Pour le vol de fournitures médicales...<end>
 
 =>q49_original
 Yes, have you found anything?<end>
 
 =>q49
-Oui, as-tu trouvé quelque chose ?<end>
+Oui, vous avez trouvé quelque chose ?<end>
 
 =>a50_original
 I've caught the thief red handed - it was your *friendly* neighbor Jared. He didn't survive our encounter, though.<end>
 
 =>a50
-J'ai pris le voleur les mains dans le sac - c'était votre *sympathique* voisin Jared. Mais il n’a pas survécu à notre rencontre.<end>
+J'ai pris le voleur la main dans le sac. C'était votre *charmant* voisin Jared. Il n'a pas survécu à notre rencontre, par contre.<end>
 
 =>q51_original
 Oh my, Jared? But why, why would Jared do this? He was a good man, we never had any problems with him?<end>
 
 =>q51
-Oh mon Dieu, Jared ? Mais pourquoi, pourquoi Jared ferait-il ça ? C'était un homme bien, nous n'avons jamais eu de problèmes avec lui ?<end>
+Oh mon Dieu, Jared ? Mais pourquoi, pourquoi Jared ferait ça ? C'était un homme bien, on n'a jamais eu de problèmes avec lui.<end>
 
 =>a52_original
 He got hooked on painkillers after an injury he suffered several months ago. He stole a bunch of other things from the storage so no one would suspect him. Just in case, he said.<end>
 
 =>a52
-Il est devenu accro aux analgésiques après une blessure subie il y a plusieurs mois. Il a volé plein d'autres choses dans l'entrepôt pour que personne ne le soupçonne. Juste au cas où, dit-il.<end>
+Il est devenu accro aux antalgiques après une blessure, il y a plusieurs mois. Il a piqué un tas d'autres trucs dans la réserve, pour que personne le soupçonne. Au cas où, qu'il a dit.<end>
 
 =>q53_original
 I had no idea about his addiction, he never told me anything. But to go so far as to steal medical supplies...<end>
 
 =>q53
-Je n'avais aucune idée de sa dépendance, il ne m'a jamais rien dit. Mais aller jusqu'à voler du matériel médical...<end>
+Je ne savais rien de son addiction, il ne m'a jamais rien dit. Mais aller jusqu'à voler du matériel médical...<end>
 
 =>a54_original
 I guess he was really desperate.<end>
 
 =>a54
-Je suppose qu'il était vraiment désespéré.<end>
+Je suppose qu'il était vraiment au bout.<end>
 
 =>q55_original
 ::She sighs.:: So it seems. Well, you've done your part, and I thank you for it. If you ever need free medical assistance, come and see me.<end>
 
 =>q55
-::Elle soupire.:: Il semble donc. Eh bien, vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir.<end>
+::Elle soupire.:: On dirait. Vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de soins gratuits, venez me voir.<end>
 
 =>a56_original
 Yeah, yeah. Now, about my free medical attention...<end>
 
 =>a56
-Ouais, ouais. Maintenant, à propos de mes soins médicaux gratuits...<end>
+Ouais, ouais. Pour mes soins gratuits, maintenant...<end>
 
 =>q57_original
 I see that is all you care about. Yes, from now on, I'll treat you for free.<end>
 
 =>q57
-Je vois que c'est tout ce qui t'importe. Oui, à partir de maintenant, je te soignerai gratuitement.<end>
+Je vois que c'est tout ce qui vous intéresse. Oui, à partir de maintenant, je vous soignerai gratuitement.<end>
 
 =>a58_original
 Don't really know, I shoot first and ask questions later.<end>
 
 =>a58
-Je ne sais pas vraiment, je tire d'abord et je pose des questions après.<end>
+Je sais pas trop. Je tire d'abord, je pose les questions après.<end>
 
 =>q59_original
 He was one of us, lived here for several years. Why would he do this?<end>
 
 =>q59
-Il était l'un des nôtres et a vécu ici plusieurs années. Pourquoi ferait-il ça ?<end>
+Il était des nôtres, il vivait ici depuis des années. Pourquoi il ferait ça ?<end>
 
 =>a60_original
 Yes, Jared's the one who's been stealing your medical supplies.<end>
 
 =>a60
-Oui, c'est Jared qui a volé vos fournitures médicales.<end>
+Oui, c'est Jared qui volait vos fournitures médicales.<end>
 
 =>q61_original
 Oh my, Jared? But why, why would Jared do this? I've known him for years; he is a good man. Why would he do something like this?<end>
 
 =>q61
-Oh mon Dieu, Jared ? Mais pourquoi, pourquoi Jared ferait-il ça ? Je le connais depuis des années; c'est un homme bon. Pourquoi ferait-il quelque chose comme ça ?<end>
+Oh mon Dieu, Jared ? Mais pourquoi, pourquoi Jared ferait ça ? Je le connais depuis des années. C'est un homme bien. Pourquoi il ferait un truc pareil ?<end>
 
 =>a62_original
 He got hooked on painkillers after an injury he suffered several months ago. He stole everything from the locker so it would be less likely for anyone to suspect him. Just in case, he said.<end>
 
 =>a62
-Il est devenu accro aux analgésiques après une blessure subie il y a plusieurs mois. Il a tout volé dans le casier pour que quiconque ne le soupçonne pas. Juste au cas où, dit-il.<end>
+Il est devenu accro aux antalgiques après une blessure, il y a plusieurs mois. Il a tout piqué dans le casier, pour que ça ait moins l'air d'être pour les cachets. Au cas où, qu'il a dit.<end>
 
 =>q63_original
 Oh dear. Where is he now?<end>
 
 =>q63
-Oh cher. Où est-il maintenant ?<end>
+Oh là. Où est-il, maintenant ?<end>
 
 =>a64_original
 He escaped. Inform the captain to arrest him on sight. Hopefully he won't make it far.<end>
 
 =>a64
-Il s'est échappé. Informez le capitaine de l'arrêter à vue. J'espère qu'il n'ira pas loin.<end>
+Il s'est barré. Dites au capitaine de l'arrêter à vue. J'espère qu'il ira pas loin.<end>
 
 =>q65_original
 Then that is what I'll do. I'll call the captain right away.
@@ -400,39 +400,39 @@ Then that is what I'll do. I'll call the captain right away.
 You've done your part, and I thank you for it. If you ever need free medical assistance, come and see me.<end>
 
 =>q65
-Alors c'est ce que je ferai. J'appelle le capitaine tout de suite.
+C'est ce que je vais faire. J'appelle le capitaine tout de suite.
 
-Vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir.<end>
+Vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de soins gratuits, venez me voir.<end>
 
 =>a66_original
 ::End Dialog.::<end>
 
 =>a66
-::Fin du dialogue.::<end>
+::Partir::<end>
 
 =>a67_original
 He's in the supply room, said he won't try to escape.<end>
 
 =>a67
-Il est dans la salle des fournitures, il a dit qu'il n'essaierait pas de s'échapper.<end>
+Il est dans la réserve. Il a dit qu'il essaierait pas de s'enfuir.<end>
 
 =>q68_original
 Good. I'll go talk to him. I want to hear what he has to say first before calling the captain.<end>
 
 =>q68
-Bien. Je vais lui parler. Je veux d'abord entendre ce qu'il a à dire avant d'appeler le capitaine.<end>
+Bien. Je vais lui parler. Je veux d'abord entendre ce qu'il a à dire, avant d'appeler le capitaine.<end>
 
 =>q69_original
 You've done your part, and I thank you for it. If you ever need free medical assistance, come and see me.<end>
 
 =>q69
-Vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir.<end>
+Vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de soins gratuits, venez me voir.<end>
 
 =>a70_original
 He's in the supply room, but I fear he might turn violent toward you. I don't trust him one but, and I think he didn't resist while I was there simply because he was afraid of me. You, however... I'd just have him arrested and be done with it.<end>
 
 =>a70
-Il est dans la salle des fournitures, mais j'ai peur qu'il ne devienne violent envers vous. Je ne lui fais pas encore confiance, et je pense qu'il n'a pas résisté pendant que j'étais là simplement parce qu'il avait peur de moi. Cependant, vous... je voudrais simplement le faire arrêter et en finir avec ça.<end>
+Il est dans la réserve, mais j'ai peur qu'il devienne violent avec vous. Je lui fais pas confiance, et je pense qu'il a pas résisté tant que j'étais là simplement parce qu'il avait peur de moi. Vous, par contre... je le ferais arrêter, et on en parlerait plus.<end>
 
 =>q71_original
 Violent? Oh my... What happened to him? I've known him for years and... different person altogether. There is nothing else for me to do but to call the captain and have Jared taken away. If you say he is dangerous, then I have no reason to doubt you.
@@ -440,9 +440,9 @@ Violent? Oh my... What happened to him? I've known him for years and... differen
 You've done your part, and I thank you for it. If you ever need free medical assistance, come and see me.<end>
 
 =>q71
-Violent? Oh mon Dieu... Que lui est-il arrivé ? Je le connais depuis des années et... c'est une personne complètement différente. Je n'ai rien d'autre à faire que d'appeler le capitaine et de faire emmener Jared. Si vous dites qu'il est dangereux, je n'ai aucune raison de douter de vous.
+Violent ? Oh mon Dieu... Qu'est-ce qui lui est arrivé ? Je le connais depuis des années et... c'est plus du tout le même. Je n'ai plus qu'à appeler le capitaine et le faire emmener. Si vous dites qu'il est dangereux, je n'ai aucune raison d'en douter.
 
-Vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir.<end>
+Vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de soins gratuits, venez me voir.<end>
 
 =>q72_original
 <end>
@@ -454,67 +454,67 @@ Vous avez fait votre part et je vous en remercie. Si jamais vous avez besoin d�
 Don't know, I don't talk to thieves.<end>
 
 =>a73
-Je ne sais pas, je ne parle pas aux voleurs.<end>
+Je sais pas, je parle pas aux voleurs.<end>
 
 =>a74_original
 He even tried to bribe me! That man'll do anything to save his filthy hide.<end>
 
 =>a74
-Il a même essayé de me soudoyer ! Cet homme fera tout pour sauver sa sale peau.<end>
+Il a même essayé de me soudoyer ! Ce type ferait n'importe quoi pour sauver sa sale peau.<end>
 
 =>q75_original
 Oh my... Thievery, bribery? What happened to him? I've known him for years and... different person altogether. Who knows what else has he been doing around here while hidden behind this deceptive personality of his? There is nothing else for me to do but to call the captain and have Jared taken away. Where is he now?<end>
 
 =>q75
-Oh mon Dieu... Vol, corruption ? Que lui est-il arrivé ? Je le connais depuis des années et... c'est une personne complètement différente. Qui sait ce qu'il a fait d'autre ici alors qu'il était caché derrière sa personnalité trompeuse ? Je n'ai rien d'autre à faire que d'appeler le capitaine et de faire emmener Jared. Où est-il maintenant ?<end>
+Oh mon Dieu... Vol, corruption ? Qu'est-ce qui lui est arrivé ? Je le connais depuis des années et... c'est plus du tout le même. Qui sait ce qu'il a fait d'autre ici, caché derrière cette personnalité ? Je n'ai plus qu'à appeler le capitaine et le faire emmener. Où est-il, maintenant ?<end>
 
 =>a76_original
 The scum is in the supply room.<end>
 
 =>a76
-La racaille est dans la salle des fournitures.<end>
+La racaille est dans la réserve.<end>
 
 =>q77_original
 Good, I'll call the captain right away. You've done your part, and I am thankful for it. If you ever need free medical assistance, come and see me.<end>
 
 =>q77
-Bien, j'appelle le capitaine tout de suite. Vous avez fait votre part et je vous en suis reconnaissant. Si jamais vous avez besoin d’une assistance médicale gratuite, venez me voir.<end>
+Bien, j'appelle le capitaine tout de suite. Vous avez fait votre part, et je vous en suis reconnaissante. Si jamais vous avez besoin de soins gratuits, venez me voir.<end>
 
 =>a78_original
 Actually, no. I'll be back.<end>
 
 =>a78
-En fait, non. Je reviendrai.<end>
+En fait, non. Je reviens.<end>
 
 =>q79_original
 Oh, alright then.<end>
 
 =>q79
-Oh, très bien alors.<end>
+Oh, très bien.<end>
 
 =>a80_original
 I changed my mind. I don't want to waste my time on this nonsense. Catch your own thieves.<end>
 
 =>a80
-J'ai changé d'avis. Je ne veux pas perdre mon temps avec ces bêtises. Attrapez vos propres voleurs.<end>
+J'ai changé d'avis. Je vais pas perdre mon temps avec ces conneries. Attrapez vos voleurs vous-même.<end>
 
 =>q81_original
 Oh, I thought... Sorry to hear that. ::She falls silent and returns to her work.::<end>
 
 =>q81
-Oh, je pensais... Désolé d'entendre ça. ::Elle se tait et retourne à son travail.::<end>
+Oh, je pensais... C'est dommage. ::Elle se tait et reprend son travail.::<end>
 
 =>a82_original
 Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
 
 =>a82
-Avez-vous remarqué quelqu'un d'inhabituel se rendant récemment dans la boutique de Buzzer ? Selon vous, quelqu'un pourrait être lié au Faceless souhaitant occuper son magasin.<end>
+Vous avez vu passer quelqu'un d'inhabituel chez Buzzer, récemment ? Quelqu'un qui pourrait expliquer pourquoi les Faceless ont voulu occuper sa boutique.<end>
 
 =>q83_original
 Don't know, don't know. All I've heard is that the Faceless are after some traders.<end>
 
 =>q83
-Je ne sais pas, je ne sais pas. Tout ce que j'ai entendu, c'est que les Faceless s'en prennent à certains traders.<end>
+Je sais pas, je sais pas. Tout ce que j'ai entendu, c'est que les Faceless en ont après certains marchands.<end>
 
 =>q84_original
 That's all I've heard.<end>
@@ -526,107 +526,106 @@ C'est tout ce que j'ai entendu.<end>
 What's the situation? With the Faceless attacking and all.<end>
 
 =>a85
-Quelle est la situation ? Avec le Faceless attaquant et tout.<end>
+C'est quoi la situation ? Avec l'attaque des Faceless, tout ça.<end>
 
 =>q86_original
 It's really messy. Hell, more like it. Max lost so much blood, thought I was going to lose him.<end>
 
 =>q86
-C'est vraiment compliqué. Bon sang, c'est plutôt ça. Max a perdu tellement de sang que je pensais que j'allais le perdre.<end>
+C'est le bazar. L'enfer, plutôt. Max a perdu tellement de sang, je pensais que j'allais le perdre.<end>
 
 =>q87_original
 Morphine and bandages are scarce, so I really can't afford to sell you any right now.<end>
 
 =>q87
-La morphine et les bandages sont rares, donc je ne peux vraiment pas me permettre de vous en vendre pour le moment.<end>
+La morphine et les pansements sont rares, je peux vraiment pas vous en vendre pour le moment.<end>
 
 =>q88_original
 But I'll be more than glad to buy any spare bandages or medicine that you can spare.<end>
 
 =>q88
-Mais je serai plus qu'heureux d'acheter des bandages ou des médicaments de rechange dont vous pourrez vous passer.<end>
+Par contre, je vous achète volontiers les pansements ou les médicaments dont vous pouvez vous passer.<end>
 
 =>a89_original
 Do you know anything about the Free Drones?<end>
 
 =>a89
-Savez-vous quelque chose sur le Free Drones ?<end>
+Vous savez un truc sur les Free Drones ?<end>
 
 =>q90_original
 I know nothing, sorry. First time hearing about Free Drones. Is it something I should know?<end>
 
 =>q90
-Je ne sais rien, désolé. C'est la première fois que j'entends parler de Free Drones. Est-ce quelque chose que je devrais savoir ?<end>
+Je ne sais rien, désolée. Première fois que j'entends parler des Free Drones. C'est quelque chose que je devrais connaître ?<end>
 
 =>q91_original
 Actually, hold on, I believe Buzzer mentioned these Drones before. Yes, yes, that's right. Either way, I know nothing useful. On this topic, of course.<end>
 
 =>q91
-En fait, attendez, je crois que Buzzer a déjà mentionné ces drones. Oui, oui, c'est vrai. Quoi qu'il en soit, je n'en sais rien d'utile. Sur ce sujet, bien sûr.<end>
+Attendez, en fait, je crois que Buzzer a déjà parlé de ces Drones. Oui, oui, c'est ça. Dans tous les cas, je n'ai rien d'utile. Sur ce sujet, bien sûr.<end>
 
 =>a92_original
 Why did the Faceless attack Rail Crossing?<end>
 
 =>a92
-Pourquoi le Faceless a-t-il attaqué Rail Crossing ?<end>
+Pourquoi les Faceless ont attaqué Rail Crossing ?<end>
 
 =>q93_original
 I don't know exactly. I've heard some rumors that they're after some traders. You should ask the captain about that, he'll be able to tell you more. He's in the station building.<end>
 
 =>q93
-Je ne sais pas exactement. J'ai entendu des rumeurs selon lesquelles ils s'en prendraient à certains commerçants. Vous devriez demander cela au capitaine, il pourra vous en dire plus. Il est dans le bâtiment de la gare.<end>
+Je ne sais pas exactement. J'ai entendu des rumeurs, qu'ils en auraient après certains marchands. Demandez au capitaine, il pourra vous en dire plus. Il est dans le bâtiment de la station.<end>
 
 =>a94_original
 How's Jared doing?<end>
 
 =>a94
-Comment va Jared ?<end>
+Comment va Jared ?<end>
 
 =>q95_original
 He did return some of the things he stole, and regarding his addiction - we're making progress already. It might take a while, but I believe he'll claw his way out of it somehow.<end>
 
 =>q95
-Il a restitué certaines des choses qu'il avait volées, et concernant sa dépendance, nous faisons déjà des progrès. Cela peut prendre un certain temps, mais je pense qu’il s’en sortira d’une manière ou d’une autre.<end>
+Il a rendu une partie de ce qu'il avait volé, et pour l'addiction, on avance déjà. Ça peut prendre du temps, mais je crois qu'il s'en sortira, d'une manière ou d'une autre.<end>
 
 =>q96_original
 These things take time.<end>
 
 =>q96
-Ces choses prennent du temps.<end>
+Ces choses-là prennent du temps.<end>
 
 =>a97_original
 What happened with that Jared guy?<end>
 
 =>a97
-Que s'est-il passé avec ce type Jared ?<end>
+Qu'est-ce qui s'est passé avec ce Jared ?<end>
 
 =>q98_original
 He got addicted to painkillers after an injury he suffered several months ago. And because of it, he started stealing from my medical storage. He took more than just painkillers so it wouldn't seem like the thief came only for them. I was furious at him, but after we talked, he promised to compensate for all the supplies he took.<end>
 
 =>q98
-Il est devenu accro aux analgésiques après une blessure subie il y a plusieurs mois. Et à cause de ça, il a commencé à voler mon stock médical. Il a pris plus que des analgésiques pour qu'il ne semble pas que le voleur soit venu uniquement pour eux. J'étais furieux contre lui, mais après avoir parlé, il a promis de compenser toutes les fournitures qu'il avait prises.<end>
+Il est devenu accro aux antalgiques après une blessure, il y a plusieurs mois. Et à cause de ça, il a commencé à piller ma réserve médicale. Il a pris plus que des antalgiques, pour que ça ait pas l'air d'un vol ciblé. J'étais furieuse contre lui, mais après qu'on ait parlé, il a promis de compenser tout ce qu'il avait pris.<end>
 
 =>q99_original
 You know, he's just another poor soul that needs help. I'll help him with his addiction, but I'm keeping my eyes open.<end>
 
 =>q99
-Vous savez, c'est juste une pauvre âme parmi d'autres qui a besoin d'aide. Je vais l'aider avec sa dépendance, mais je garde les yeux ouverts.<end>
+Vous savez, c'est juste une pauvre âme de plus qui a besoin d'aide. Je vais l'aider avec son addiction, mais je garde l'œil ouvert.<end>
 
 =>a100_original
 Got to go.<end>
 
 =>a100
-Je dois y aller.<end>
+Faut que j'y aille.<end>
 
 =>q101_original
 I'm really busy here because of the shooting and all, so make it quick.<end>
 
 =>q101
-Je suis vraiment occupé ici à cause du tournage et tout, alors faites vite.<end>
+Je suis vraiment occupée, avec la fusillade et tout, alors faites vite.<end>
 
 =>q102_original
 Need medical attention?<end>
 
 =>q102
-Besoin de soins médicaux ?<end>
-
+Besoin de soins ?<end>

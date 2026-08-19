@@ -1,29 +1,29 @@
 ::Regular
-Lance le couteau, infligeant {0} de dégâts en cas de touche. Ces dégâts appliquent {2} % de la résistance et du seuil mécaniques de la cible, mais les dégâts qui passent l'armure sont augmentés de {3} % contre les cibles vivantes. Dégâts et précision scalent avec la compétence Lancer. En mêlée d'un ennemi, malus de {1} % aux chances de toucher.
+Lance le couteau : {0} dégâts si ça touche. Ces dégâts n'appliquent que {2} % de la résistance et du seuil mécaniques de la cible, mais ce qui passe l'armure est augmenté de {3} % contre les cibles vivantes. Dégâts et précision suivent Throwing. En mêlée d'un ennemi : malus de {1} % aux chances de toucher.
 
 ::BurrowerPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison de fouisseur, qui inflige {0} de dégâts chaque tour pendant jusqu'à {1}. Stacks {2} fois.
+Si la cible subit des dégâts, elle est aussi affligée du poison de fouisseur : {0} dégâts chaque tour, jusqu'à {1}. Stack {2} fois.
 
 ::CaveEarPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison d'oreille des caves, qui augmente tous les dégâts biologiques subis de {0} % et réduit la perception de {1}. Dure jusqu'à {2}.
+Si la cible subit des dégâts, elle est aussi affligée du poison d'oreille des caves : +{0} % dégâts biologiques subis, -{1} Perception. Jusqu'à {2}.
 
 ::CrawlerPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison de crawler, qui inflige {0} de dégâts chaque tour pendant {1}. Si le poison n'est pas retiré avant expiration, la victime est stun pendant {2}.
+Si la cible subit des dégâts, elle est aussi affligée du poison de crawler : {0} dégâts chaque tour pendant {1}. S'il n'est pas retiré avant expiration, étourdissement pendant {2}.
 
 ::BlackDragonPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison de dragon noir, qui cause une inhibition psionique : la victime ne peut plus lancer de pouvoirs psi ni régénérer de points psi. Dure {0}.
+Si la cible subit des dégâts, elle est aussi affligée du poison dragon noir : inhibition psionique, plus d'invocation psi ni de regen psi. Dure {0}.
 
 ::SpiritPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison d'esprit, qui inflige {0} de dégâts par tour pendant {1} et réduit le sang-froid de {2} %. Si le poison n'est pas retiré avant expiration, il invoque un doppelgänger psionique de la victime si elle est humanoïde.
+Si la cible subit des dégâts, elle est aussi affligée du poison d'esprit : {0} dégâts par tour pendant {1}, -{2} % sang-froid. S'il n'est pas retiré avant expiration, invoque un doppelgänger psionique de la victime si elle est humanoïde.
 
 ::BlindingPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison aveuglant, qui inflige {0} de dégâts chaque tour pendant jusqu'à {1} et réduit la perception de {2}. Stacks {3} fois.
+Si la cible subit des dégâts, elle est aussi affligée du poison aveuglant : {0} dégâts chaque tour jusqu'à {1}, -{2} Perception. Stack {3} fois.
 
 ::LeperPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison de lépreux, qui inflige {0} de dégâts chaque tour pendant jusqu'à {1} et augmente tous les dégâts mécaniques subis de {2} %. Stacks {3} fois.
+Si la cible subit des dégâts, elle est aussi affligée du poison de lépreux : {0} dégâts chaque tour jusqu'à {1}, +{2} % dégâts mécaniques subis. Stack {3} fois.
 
 ::HeartbreakPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison heartbreak, qui inflige {0} de dégâts chaque tour pendant jusqu'à {1}. Stacks {2} fois. S'il expire naturellement, il inflige ensuite une grosse salve de dégâts qui croît très vite avec chaque stack.
+Si la cible subit des dégâts, elle est aussi affligée du poison Heartbreak : {0} dégâts chaque tour jusqu'à {1}. Stack {2} fois. S'il expire naturellement, il inflige ensuite une grosse salve de dégâts qui croît très vite avec chaque stack.
 
 ::ShockShuriken
-Lance le shuriken, infligeant {0} de dégâts (appliquant {3} % de la résistance et du seuil mécaniques de la cible) et {1} de dégâts en cas de touche. Si des dégâts électriques sont infligés, {4} % de chance de stun ou de court-circuiter la cible pendant un tour. En mêlée d'un ennemi, malus de {2} % aux chances de toucher.
+Lance le shuriken : {0} dégâts (n'applique que {3} % de la résistance et du seuil mécaniques de la cible) et {1} dégâts si ça touche. Si des dégâts électriques passent, {4} % de chances d'étourdir ou de court-circuiter la cible pendant un tour. En mêlée d'un ennemi : malus de {2} % aux chances de toucher.

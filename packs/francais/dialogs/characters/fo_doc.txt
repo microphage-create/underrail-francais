@@ -4,7 +4,7 @@
 Hello, I'm Doctor Stevenson. How may I help you?<end>
 
 =>q1
-::Tu vois un homme au visage terne en blouse de médecin. En la regardant, tu imagines qu'elle fut un jour fraîche et blanc craie, avant que l'âge et l'usage constant n'y introduisent des saletés indélébiles. On dirait que la blouse reflète son propriétaire : lui aussi évoque clairement quelqu'un qui fut jeune et plein d'entrain, mais qui se ratatine à mesure que les épreuves de la vie gagnent leur guerre personnelle, bataille après bataille. Il te regarde de ses yeux fatigués, sans vie, et s'adresse à toi d'une voix monotone.::
+::Vous voyez un homme au visage terne, en blouse de médecin. À la regarder, on imagine qu'elle a été blanche craie, un jour, avant que l'âge et l'usage n'y incrustent des taches qu'on ne lave plus. On dirait que la blouse ressemble à son propriétaire : lui aussi, on le voit jeune, plein d'allant, et maintenant il se ratatine pendant que la vie gagne sa petite guerre, bataille après bataille. Il vous regarde de ses yeux fatigués, sans vie, et vous parle d'une voix plate.::
 
 Bonjour, je suis le docteur Stevenson. En quoi puis-je vous aider ?<end>
 
@@ -30,13 +30,13 @@ Bien sûr, mais ça vous coûtera dix charons.<end>
 Here you go, doc. ::Pay ten stygian coins.::<end>
 
 =>a5
-Voilà, doc. ::Payer dix stygian coins.::<end>
+Voilà, Doc. ::Payer dix charons.::<end>
 
 =>a6_original
 I'm okay, I was just joking.<end>
 
 =>a6
-Je vais bien, je plaisantais.<end>
+Ça va, je plaisantais.<end>
 
 =>q7_original
 ::He answers with a sour face.:: Yes. Anything else?<end>
@@ -68,21 +68,21 @@ Foundry... people die in this place in such numbers it makes me sick. I often wa
 But no, I just face death. Each and every day.<end>
 
 =>q11
-Foundry... les gens meurent ici en si grand nombre que j'en ai la nausée. Je me réveille souvent en pensant aux vies perdues, aux gens que j'aurais pu sauver, ou aux corps démembrés qu'on m'amène chaque jour. Je voulais aider les gens, voir des visages joyeux quand je leur dis que leurs proches s'en sortiront, que ces blessures guériront vite, ou que la pollution ne leur causera pas de dégâts à long terme.
+Foundry... les gens meurent ici en si grand nombre que j'en ai la nausée. Je me réveille souvent en pensant aux vies perdues, aux gens que j'aurais pu sauver, ou aux corps démembrés qu'on m'amène chaque jour. Je voulais aider les gens. Voir des visages soulagés quand je leur dis que leurs proches s'en sortiront, que ces blessures vont se refermer, ou que la pollution ne leur fera pas de mal sur la durée.
 
-Mais non, je ne fais que faire face à la mort. Chaque jour.<end>
+Mais non. Je ne vois que la mort. Tous les jours.<end>
 
 =>q12_original
 So, enjoy your stay, traveler, and take care.<end>
 
 =>q12
-Alors, profitez de votre séjour, voyageur, et prenez soin de vous.<end>
+Alors profitez de votre séjour, voyageur, et prenez soin de vous.<end>
 
 =>a13_original
 On second thought, maybe not.<end>
 
 =>a13
-À bien y réfléchir, peut-être pas.<end>
+À y réfléchir, peut-être pas.<end>
 
 =>q14_original
 Good choice. Anything else?<end>
@@ -94,19 +94,19 @@ Bon choix. Autre chose ?<end>
 How do you feel now that the mine has been reopened?<end>
 
 =>a15
-Comment vous vous sentez maintenant que la mine a rouvert ?<end>
+Comment vous sentez-vous, maintenant que la mine a rouvert ?<end>
 
 =>q16_original
 Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
 
 =>q16
-Content. Maintenant que les gardes auxquels les créatures de la mine arrachaient les extrémités ont cessé d'arriver, les ouvriers aux os brisés, aux brûlures graves ou aux yeux arrachés vont revenir. Et les morts, oh, eux n'ont jamais cessé d'arriver.<end>
+Content. Maintenant que les gardes auxquels les créatures de la mine arrachaient les membres ont cessé d'arriver, ce seront de nouveau les ouvriers aux os brisés, aux brûlures graves, aux yeux arrachés. Et les morts, eux, n'ont jamais cessé d'arriver.<end>
 
 =>q17_original
 Foundry is back in business; the muck machine roars again.<end>
 
 =>q17
-Foundry a repris du service ; la machine à merde rugit à nouveau.<end>
+Foundry a repris du service. La machine à merde rugit à nouveau.<end>
 
 =>a18_original
 So, how's it going?<end>
@@ -118,7 +118,7 @@ Alors, comment ça va ?<end>
 ::His barren stare meets yours.:: People are still dying.<end>
 
 =>q19
-::Son regard désert croise le tien.:: Les gens meurent encore.<end>
+::Son regard éteint croise le vôtre.:: Les gens meurent encore.<end>
 
 =>q20_original
 So, the usual.<end>
@@ -130,13 +130,13 @@ Donc, comme d'habitude.<end>
 Can you tell me anything about the mine creatures?<end>
 
 =>a21
-Pouvez-vous me dire quelque chose sur les créatures de la mine ?<end>
+Vous pouvez me dire quelque chose sur les créatures de la mine ?<end>
 
 =>q22_original
 The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
 
 =>q22
-La seule chose que ces trucs ont faite, c'est augmenter le bilan. Les gens mouraient déjà à Foundry, et en bien plus grand nombre qu'on ne le révèle d'habitude. C'est juste que maintenant encore plus de vies sont perdues, d'une façon un peu différente. Percés, griffés, mis en pièces, à demi mangés, au lieu d'être écrasés par des éboulements de mine, incinérés, asphyxiés et compagnie. Certains survivent à une partie de tout ça et doivent maintenant vivre estropiés.<end>
+Ces choses n'ont fait qu'augmenter le bilan. Les gens mouraient déjà à Foundry, et bien plus qu'on ne le dit. Simplement, maintenant, on en perd encore plus, un peu autrement. Percés, griffés, mis en pièces, à moitié dévorés, au lieu d'être écrasés par un éboulement, incinérés, asphyxiés, ce genre de choses. Certains survivent à une partie de tout ça, et vivent estropiés.<end>
 
 =>q23_original
 That's all I know about the creatures. They kill.<end>
@@ -148,19 +148,19 @@ C'est tout ce que je sais des créatures. Elles tuent.<end>
 Is there something wrong with that crazy man outside?<end>
 
 =>a24
-Il y a un problème avec ce fou dehors ?<end>
+Il y a un problème avec ce fou, dehors ?<end>
 
 =>q25_original
 The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
 
 =>q25
-L'homme souffre de graves dommages cérébraux, très probablement causés par l'air ou la nourriture pollués. Ça pourrait aussi venir de certains traumatismes crâniens. Je ne sais pas, je n'ai jamais eu l'occasion de l'examiner.<end>
+L'homme a de graves lésions cérébrales, très probablement à cause de l'air ou de la nourriture pollués. Ça peut aussi venir d'un traumatisme crânien. Je ne sais pas. Je n'ai jamais eu l'occasion de l'examiner.<end>
 
 =>q26_original
 Not important anyway. I have better things to do.<end>
 
 =>q26
-Pas important de toute façon. J'ai mieux à faire.<end>
+Ce n'est pas important, de toute façon. J'ai mieux à faire.<end>
 
 =>a27_original
 I don't need anything. Goodbye.<end>
@@ -172,4 +172,4 @@ Je n'ai besoin de rien. Au revoir.<end>
 Next, please.<end>
 
 =>q28
-Suivant, s'il vous plaît.<end>
+Au suivant.<end>

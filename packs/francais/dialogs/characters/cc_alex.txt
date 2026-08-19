@@ -5,9 +5,9 @@ You need something, $(#bud/sugar)?
 <end>
 
 =>q1
-::Vous arrivez à un petit homme basculant qui regarde la table devant lui. La table est jonchée de nombreuses lunettes, dont une seule est pleine; en la ramenant, vos yeux deviennent attirés par un tatouage noir de charbon sur son bras droit. Vous regardez l'encre : Il représente une fissure de terre complexe qui commence du coude et descend vers sa main, avec de petites fissures angulaires rayonnant de lui dans toutes les directions. En regardant plus attentivement, cependant, vous réalisez que le centre du tatouage est en fait une grande cicatrice, faisant efficacement le tatouage son embellissement. Votre regard curieux provoque une personne indifférente de lui ainsi que quelques mots exprimés d'une manière légèrement ennuyeuse.::
+::Tu t'approches d'un homme petit et trapu, le regard collé à la table devant lui. La table est jonchée de verres, un seul encore plein. Quand il le ramasse, ton œil accroche un gros tatouage noir charbon sur son bras droit. L'encre : une faille de terre tordue qui part du coude et descend jusqu'à la main, avec de petites craquelures anguleuses qui rayonnent dans tous les sens. En y regardant de plus près, tu vois que le centre du tatouage, c'est une large cicatrice. Le tatouage ne fait que l'habiller. Ton regard curieux lui en tire un, indifférent, plus deux-trois mots, un peu agacé.::
 
-Vous avez besoin de quelque chose, $(#bud/sugar) ?
+T'as besoin de quelque chose, $(#mec/nana) ?
 <end>
 
 =>q2_original
@@ -20,13 +20,13 @@ Vous avez besoin de quelque chose, $(#bud/sugar) ?
 Who are you?<end>
 
 =>a3
-Qui es-tu?<end>
+T'es qui ?<end>
 
 =>q4_original
 Who are *you*?<end>
 
 =>q4
-Qui êtes-vous ?<end>
+*Toi*, t'es qui ?<end>
 
 =>q5_original
 <end>
@@ -38,13 +38,13 @@ Qui êtes-vous ?<end>
 My name is $(context.player.Name) and I had some questions.<end>
 
 =>a6
-Mon nom est $(context.player.Name) et j'ai eu quelques questions.<end>
+Je m'appelle $(context.player.Name), j'avais des questions.<end>
 
 =>q7_original
 Questions, questions... a man gets tired of those after a while, especially if they are being asked by random strangers.<end>
 
 =>q7
-Questions, questions... un homme se lasse de celles-ci après un moment, surtout si elles sont posées par des étrangers aléatoires.<end>
+Des questions, des questions... un homme, ça s'en lasse, surtout quand ça vient d'inconnus au pif.<end>
 
 =>a8_original
 Is that a yes or a no?<end>
@@ -56,7 +56,7 @@ C'est un oui ou un non ?<end>
 ::He inspects you for a few seconds too long.:: I'll bite - ask your questions. Now whether you'll get an answer, that's a whole different matter. ::He returns to his drink.::<end>
 
 =>q9
-::Il vous inspecte pendant quelques secondes.:: Je vais mordre - posez vos questions. Si vous avez une réponse, c'est tout autre chose. ::Il revient à son verre.::<end>
+::Il te toise un peu trop longtemps.:: Allez, j'mords. Pose tes questions. Après, que t'aies une réponse, ça c'est une autre histoire. ::Il retourne à son verre.::<end>
 
 =>q10_original
 <end>
@@ -68,31 +68,31 @@ C'est un oui ou un non ?<end>
 Who are you anyway?<end>
 
 =>a11
-Qui êtes-vous ?<end>
+T'es qui, au juste ?<end>
 
 =>q12_original
 Why do you ask?<end>
 
 =>q12
-Pourquoi ?<end>
+Pourquoi tu demandes ?<end>
 
 =>a13_original
 You seem somewhat familiar.<end>
 
 =>a13
-Vous semblez familier.<end>
+Tu me dis quelque chose.<end>
 
 =>q14_original
 ::He answers without looking at you.:: From where?<end>
 
 =>q14
-::Il répond sans te regarder.:: D'où?<end>
+::Il répond sans te regarder.:: D'où ?<end>
 
 =>a15_original
 Gene told me you are an Underrail Express train operator. Maybe I've seen you before.<end>
 
 =>a15
-Gene m'a dit que vous étiez un opérateur de train Underrail Express. Peut-être que je vous ai déjà vu.<end>
+Gene m'a dit que t'étais conducteur pour Underrail Express. P't-être que je t'ai déjà vu.<end>
 
 =>q16_original
 ::He downs the remainder of his drink in a single gulp, then follows it by contorting his face and holding the expression for a few seconds. When he opens his eyes again he raises his hand and signals the bartender to bring him another drink.::
@@ -100,57 +100,57 @@ Gene m'a dit que vous étiez un opérateur de train Underrail Express. Peut-êtr
 Yeah, you were told right. I operate one of the trains circling the Lower Underrail.<end>
 
 =>q16
-::Il descend le reste de sa boisson dans un seul goupille, puis le suit en contorsant son visage et en tenant l'expression pendant quelques secondes. Quand il ouvre les yeux, il lève la main et signale au barman de lui apporter un autre verre.::
+::Il descend le reste d'une traite, grimace, et garde la grimace quelques secondes. Quand il rouvre les yeux, il lève la main et fait signe au barman de lui en ramener un autre.::
 
-Oui, on vous a dit que c'était bien. J'exploite l'un des trains du Lower Underrail.<end>
+Ouais, on t'a pas menti. Je conduis un des trains qui tournent dans le Lower Underrail.<end>
 
 =>q17_original
 What's it to ya, $(#bud/sugar)? You got a better job to offer, perhaps?<end>
 
 =>q17
-Qu'est-ce que c'est, $(#bud/sugar) ? Vous avez un meilleur travail à offrir, peut-être ?<end>
+Et ça te fait quoi, $(#mec/nana) ? T'as un meilleur boulot à me proposer, p't-être ?<end>
 
 =>a18_original
 You ask a lot of questions, do you know that?<end>
 
 =>a18
-Vous posez beaucoup de questions, vous le savez ?<end>
+Tu poses beaucoup de questions, tu le sais ?<end>
 
 =>q19_original
 Well, $(#bud/sugar), so do you. Now, what did you say about me being familiar?<end>
 
 =>q19
-Et bien, $(#bud/sugar), vous aussi. Qu'est-ce que tu as dit de moi ?<end>
+Ben, $(#mec/nana), toi aussi. Alors, c'était quoi déjà, que je te disais quelque chose ?<end>
 
 =>a20_original
 Gene told me you are one of Underrail Express train operators.<end>
 
 =>a20
-Gene m'a dit que vous étiez l'un des opérateurs de trains Underrail Express.<end>
+Gene m'a dit que t'étais un des conducteurs d'Underrail Express.<end>
 
 =>a21_original
 Forget about it. I had other questions for you.<end>
 
 =>a21
-Oublie ça. J'avais d'autres questions pour toi.<end>
+Laisse tomber. J'avais d'autres questions.<end>
 
 =>q22_original
 Aight.<end>
 
 =>q22
-A vue.<end>
+Ouais.<end>
 
 =>a23_original
 Never mind. Let me ask you something else.<end>
 
 =>a23
-Laisse tomber. Laisse-moi te demander autre chose.<end>
+Laisse béton. Laisse-moi te demander autre chose.<end>
 
 =>a24_original
 I was wondering if you remember any merchants from SGS ever taking the train you operated. Terry and Lora Baker, husband and wife.<end>
 
 =>a24
-Je me demandais si vous vous souveniez d'un marchand de SGS qui prenait le train que vous conduisiez. Terry et Lora Baker, mari et femme.<end>
+Je me demandais si tu te souvenais de marchands de SGS dans le train que tu conduisais. Terry et Lora Baker, un couple.<end>
 
 =>q25_original
 ::Your question seems to have struck a chord with him, since he puts down his drink and turns to you.::
@@ -158,15 +158,15 @@ Je me demandais si vous vous souveniez d'un marchand de SGS qui prenait le train
 Husband and wife from SGS? South Gate Station?<end>
 
 =>q25
-::Votre question semble avoir frappé un accord avec lui, puisqu'il pose sa boisson et se tourne vers vous.::
+::Ta question a l'air de faire mouche : il pose son verre et se tourne vers toi.::
 
-Mari et femme de SGS ? South Gate Station ?<end>
+Un couple de SGS ? South Gate Station ?<end>
 
 =>a26_original
 *Yes*! Do you know anything about them?<end>
 
 =>a26
-Oui ! Tu sais quelque chose sur eux ?<end>
+*Oui* ! Tu sais quelque chose sur eux ?<end>
 
 =>q27_original
 ::He makes a long pause, takes full shot of whatever he is having and contorts his face again. This time it took him a bit longer to recuperate, but when he's done he turns to you once more.::
@@ -174,69 +174,69 @@ Oui ! Tu sais quelque chose sur eux ?<end>
 Aight, listen $(#bud/sugar) - I think I know about those people. ::He signals the bartender for another drink.::<end>
 
 =>q27
-::Il fait une longue pause, prend plein coup de ce qu'il a et contorse à nouveau son visage. Cette fois, il lui a fallu un peu plus de temps pour récupérer, mais quand il a fini, il se tourne vers vous une fois de plus.::
+::Il marque une longue pause, descend d'un trait ce qu'il a dans le verre, et grimace encore. Cette fois ça lui prend un peu plus longtemps de s'en remettre, mais quand c'est fini il se tourne de nouveau vers toi.::
 
-Écoutez $(#bud/sugar) - Je crois savoir pour ces gens. ::Il envoie un autre verre au barman.::<end>
+Ouais, écoute $(#mec/nana) : je crois que je vois de qui tu parles. ::Il fait signe au barman pour un autre verre.::<end>
 
 =>q28_original
 Usually I don't care about people. People - they're jerks, scum. People, I meet and forget - their name, appearance, what we talked about... just like I'm going to forget you and this whole stupid conversation. But those two, I remembered those two. For a strange reason, but I did.<end>
 
 =>q28
-D'habitude, je me fiche des gens. Les gens, ce sont des abrutis. Les gens, j'oublie leur nom, leur apparence, ce dont on a parlé... comme je vais t'oublier et cette conversation stupide. Mais ces deux-là, je me souviens de ces deux-là. Pour une raison étrange, mais je l'ai fait.<end>
+D'habitude, les gens, je m'en fous. Les gens, c'est des cons, de la racaille. Les gens, je les croise et j'oublie : le nom, la gueule, ce qu'on s'est dit... comme je vais t'oublier, toi, et toute cette conversation à la con. Mais ces deux-là, ceux-là je m'en souviens. Pour une raison bizarre, mais je m'en souviens.<end>
 
 =>q29_original
 ::He continues after his drink arrives.:: Aight, let's get things rolling. I remember first seeing them right here in Core City. I was chillin' by my train when they approached me and asked where the train was headed. I told them to Rail Crossing, and they boarded the train. I heard them mention SGS at some point, can't be bothered to remember exactly when, but I think you and I are thinking of the same people.<end>
 
 =>q29
-::Il continue après l'arrivée de son verre.:: Allons-y. Je me souviens avoir d'abord vu ça ici dans Core City. J'étais dans mon train quand ils m'ont approché et m'ont demandé où allait le train. Je leur ai dit à Rail Crossing, et ils sont montés à bord du train. Je les ai entendus mentionner SGS à un moment donné, on ne peut pas se souvenir exactement quand, mais je pense que vous et moi pensons aux mêmes personnes.<end>
+::Il reprend quand son verre arrive.:: Ouais, on y va. Je me souviens de les avoir vus d'abord ici, à Core City. Je traînais près de mon train, ils sont venus me demander où ça allait. Je leur ai dit Rail Crossing, et ils sont montés. Je les ai entendus parler de SGS à un moment, j'ai pas la tête à me souvenir exactement quand, mais je pense qu'on parle des mêmes.<end>
 
 =>a30_original
 Rail Crossing, why would they go to Rail Crossing?<end>
 
 =>a30
-Rail Crossing, pourquoi iraient-ils à Rail Crossing?<end>
+Rail Crossing, pourquoi ils iraient à Rail Crossing ?<end>
 
 =>q31_original
 How would I know that, $(#bud/sugar)? All I knew about them was that they were headed for Rail Crossing - that's it.<end>
 
 =>q31
-Comment le saurais-je, $(#bud/sugar) ? Tout ce que je savais sur eux, c'est qu'ils se dirigeaient vers Rail Crossing - c'est tout.<end>
+Comment tu veux que je sache, $(#mec/nana) ? Tout ce que je savais, c'est qu'ils allaient à Rail Crossing. C'est tout.<end>
 
 =>q32_original
 So we arrived at the Rail Crossing station. I walked outside to stretch my freakin' legs when I saw those two friends of yours being harassed by some gang at the station, which was mostly empty at the time. So, these damn gangsters pulled out their weapons and forced the duo into the caves north. Dragged them, actually. That was the last I've seen of them.<end>
 
 =>q32
-Nous sommes donc arrivés à la station Rail Crossing. Je suis sorti pour m'étirer les jambes quand j'ai vu tes deux amis harcelés par un gang à la gare, qui était presque vide à l'époque. Donc, ces satanés gangsters ont sorti leurs armes et forcé le duo dans les grottes au nord. Je les ai fait glisser. C'est la dernière fois que je les vois.<end>
+On arrive à la gare de Rail Crossing. Je sors me dérouiller les putains de jambes, et je vois tes deux potes se faire emmerder par un gang, la gare quasi vide. Ces enfoirés sortent les armes et forcent le duo vers les grottes au nord. Ils les ont traînés, en fait. C'est la dernière fois que je les ai vus.<end>
 
 =>a33_original
 Why didn't you do anything to help them? How could you have just stood there and watched all that?<end>
 
 =>a33
-Pourquoi tu n'as rien fait pour les aider ? Comment aurais-tu pu rester là et regarder tout ça ?<end>
+Pourquoi t'as rien fait pour les aider ? Comment t'as pu rester là à regarder ?<end>
 
 =>q34_original
 ::He chuckles.:: Help them? Don't be stupid, $(#bud/sister). Every day I see people getting killed like pigs, or beaten or, or pulled away somewhere into the darkness. If I tried to help every single poor soul I'd be a goner by now. Dead. Ice cold, $(#bud/sister). I mind my own business and let the world do its freakin' thing.<end>
 
 =>q34
-::Il rit.:: Les aider ? Ne sois pas stupide, $(#bud/sister). Chaque jour, je vois des gens se faire tuer comme des cochons, ou battus ou, ou s'éloigner quelque part dans l'obscurité. Si j'essayais d'aider chaque pauvre âme, je serais déjà en retard. Mort. Glace froide, $(#bud/sister). Je m'occupe de mes affaires et je laisse le monde faire son truc.<end>
+::Il ricane.:: Les aider ? Sois pas bête, $(#mec/sœurette). Tous les jours je vois des gens se faire buter comme des porcs, ou tabasser, ou, ou se faire emmener quelque part dans le noir. Si j'essayais d'aider chaque pauvre type, je serais déjà cuit. Mort. Froid comme un cadavre, $(#mec/sœurette). Je m'occupe de mes affaires, et je laisse le monde faire sa putain de vie.<end>
 
 =>a35_original
 Can you tell me anything about the gang that kidnapped them?<end>
 
 =>a35
-Pouvez-vous me parler du gang qui les a kidnappés ?<end>
+T'as quelque chose à me dire sur le gang qui les a kidnappés ?<end>
 
 =>q36_original
 Gangsters like any other gangsters - filthy, dumb and packing major firepower. ::He laughs.:: Hmmm - actually, those folks had chemical pistols as far as I can remember. That's the only thing I can tell you about them.<end>
 
 =>q36
-Des gangsters comme n'importe quel autre gangster - sales, stupides et empaquetant une grande puissance de feu. ::Il rit.:: Hmm - en fait, ces gens avaient des pistolets chimiques aussi loin que je me souvienne. C'est la seule chose que je puisse te dire à propos d'eux.<end>
+Des gangsters comme les autres : sales, cons, et calés en artillerie. ::Il rit.:: Hmm, en fait, ces types avaient des pistolets chimiques, pour ce que j'en retiens. C'est tout ce que je peux te dire sur eux.<end>
 
 =>a37_original
 You just told me you don't care about people and forget everyone, yet you remembered Terry and Lora. How come?<end>
 
 =>a37
-Vous venez de me dire que vous ne vous souciez pas des gens et d'oublier tout le monde, mais vous vous êtes souvenu de Terry et Lora. Pourquoi ?<end>
+T'as dit que tu t'en fous des gens, que t'oublies tout le monde, et tu te souviens de Terry et Lora. Comment ça se fait ?<end>
 
 =>q38_original
 ::He pauses to think, then takes a solid gulp of his drink.::
@@ -244,9 +244,9 @@ Vous venez de me dire que vous ne vous souciez pas des gens et d'oublier tout le
 I don't know. I usually get sick when I see people care so much about each other, like those two did. At least from what I saw at the station. Maybe it's the negative emotion I felt that got engraved in my mind. I don't know. Don't care, though.<end>
 
 =>q38
-::Il s'arrête pour penser, puis il prend une forte gorgée de sa boisson.::
+::Il s'arrête pour réfléchir, puis prend une bonne gorgée.::
 
-Je ne sais pas. D'habitude, je tombe malade quand je vois que les gens se soucient tellement les uns des autres, comme ces deux-là. Du moins de ce que j'ai vu à la station. C'est peut-être l'émotion négative que j'ai ressentie. Je ne sais pas. Mais je m'en fiche.<end>
+Je sais pas. D'habitude ça me donne la nausée, de voir des gens autant attachés l'un à l'autre, comme ces deux-là. Du moins de ce que j'ai vu à la gare. P't-être que c'est ce que ça m'a fait, le mauvais truc, qui s'est gravé. Je sais pas. Et je m'en fous.<end>
 
 =>a39_original
 Is that all you know?<end>
@@ -258,7 +258,7 @@ C'est tout ce que tu sais ?<end>
 ::He finishes his drink.:: That is all. Hope that's what you wanted, $(#bud/sister), and to give you some advice while we're here: Forget about your friends - they are probably rotting somewhere in the caves right now. I've seen a lot of that stuff and... just forget about them.<end>
 
 =>q40
-::Il finit son verre.:: C'est tout. J'espère que c'est ce que vous vouliez, $(#bud/sister), et pour vous donner quelques conseils pendant que nous sommes ici: Oubliez vos amis - ils sont probablement pourrir quelque part dans les grottes en ce moment. J'en ai vu beaucoup et... oublie-les.<end>
+::Il finit son verre.:: C'est tout. J'espère que c'est ce que tu voulais, $(#mec/sœurette). Et un conseil, tant qu'on y est : oublie tes potes. Ils sont sûrement en train de pourrir quelque part dans les grottes. J'en ai vu des tonnes, de ces trucs-là, et... oublie-les, c'est tout.<end>
 
 =>a41_original
 Go on...<end>
@@ -270,19 +270,19 @@ Continue...<end>
 They went to Core City but never made it back to SGS. I'm trying to learn what happened to them.<end>
 
 =>a42
-Ils sont allés à Core City mais ne sont jamais revenus à SGS. J'essaie d'apprendre ce qui leur est arrivé.<end>
+Ils sont allés à Core City et ils sont jamais rentrés à SGS. J'essaie de savoir ce qui leur est arrivé.<end>
 
 =>a43_original
 ::[Persuade]:: Tell me what happened to your son. Sometimes talking helps.<end>
 
 =>a43
-::[Persuader]:: Dites-moi ce qui est arrivé à votre fils. Parfois, parler aide.<end>
+::[Persuade]:: Raconte-moi ce qui est arrivé à ton fils. Des fois, parler, ça aide.<end>
 
 =>q44_original
 It won't help. I've talked to people before. It doesn't help.<end>
 
 =>q44
-Ça n'aidera pas. J'ai déjà parlé aux gens. Ça n'aide pas.<end>
+Ça aidera pas. J'ai déjà parlé aux gens. Ça aide pas.<end>
 
 =>q45_original
 ::He continues after a pause.:: His name was Timothy. His mother died at birth, so I was all he had, and he was all I had. Until some... some freakin' lowlife scumbags, some dirtbags broke into our house one day, many years ago. We didn't have anything valuable, and I told them that. But they... they weren't there for valuables - but for blood. Psychos. Bastards!
@@ -290,21 +290,21 @@ It won't help. I've talked to people before. It doesn't help.<end>
 I tried to protect him. I failed. I squeezed the lives out of those rats as hard as I could, but for my boy... it was too late. The grin on the man's face while he was killing my... my boy still haunts me. I see it even now. It's like he...<end>
 
 =>q45
-::Il continue après une pause.:: Il s'appelait Timothy. Sa mère est morte à la naissance, donc j'étais tout ce qu'il avait, et il était tout ce que j'avais. Jusqu'à ce que... des connards de merde, des salauds soient entrés chez nous un jour, il y a de nombreuses années. Nous n'avions rien de précieux, et je leur ai dit ça. Mais ils n'étaient pas là pour les objets de valeur, mais pour le sang. Des psychopathes. Des salauds !
+::Il reprend après une pause.:: Il s'appelait Timothy. Sa mère est morte en le mettant au monde, alors j'étais tout ce qu'il avait, et il était tout ce que j'avais. Jusqu'à ce que... des putains de sous-merdes, des salopards débarquent chez nous un jour, y a des années. On avait rien qui valait, et je leur ai dit. Mais ils... ils étaient pas là pour le fric. Ils étaient là pour le sang. Des fous. Des salauds !
 
-J'ai essayé de le protéger. J'ai échoué. J'ai tiré les vies de ces rats aussi fort que possible, mais pour mon garçon... c'était trop tard. Le sourire sur le visage de l'homme pendant qu'il tuait mon... mon garçon me hante encore. Je le vois même maintenant. Comme s'il...<end>
+J'ai essayé de le protéger. J'ai merdé. J'ai vidé ces rats de leur vie, aussi fort que j'ai pu, mais pour mon gamin... c'était trop tard. Le sourire de ce type pendant qu'il tuait mon... mon gamin, ça me hante encore. Je le vois même maintenant. Comme s'il...<end>
 
 =>q46_original
 ::He makes a lenghty pause before continuing.:: This scar, one of them slashed my arm with a knife. And the tattoo... I did that myself. My life was torn apart so I... well... ::He abruptly stops talking and finishes his drink.::<end>
 
 =>q46
-::Il fait une longue pause avant de continuer.:: Cette cicatrice, l'un d'eux m'a cassé le bras avec un couteau. Et le tatouage... Je l'ai fait moi-même. Ma vie a été déchirée alors je... bien... ::Il arrête brusquement de parler et termine sa boisson.::<end>
+::Il marque une longue pause avant de reprendre.:: Cette cicatrice, l'un d'eux m'a entaillé le bras au couteau. Et le tatouage... je l'ai fait moi-même. Ma vie était en lambeaux alors je... bon... ::Il s'arrête net et finit son verre.::<end>
 
 =>a47_original
 I'm very sorry about your boy. Things like that shouldn't happen.<end>
 
 =>a47
-Je suis désolé pour votre garçon. Ça ne devrait pas arriver.<end>
+Je suis vraiment $(#désolé/désolée) pour ton gamin. Ça devrait pas arriver, des trucs comme ça.<end>
 
 =>q48_original
 ::Before you even get the chance to speak your thoughts, Gorge angrily interrupts you.::
@@ -312,9 +312,9 @@ Je suis désolé pour votre garçon. Ça ne devrait pas arriver.<end>
 Whatever you were gonna say - I don't care. It's meaningless. All this was meaningless. Now you can politely DROP OFF! And if you ask me about my son, scar, tattoo or... or anything like that again, I'm gonna smash your freakin' windpipe. You dig that, $(#bud/sugar)?<end>
 
 =>q48
-::Avant même que vous ayez la chance de parler vos pensées, Gorge vous interrompt avec colère.::
+::Avant même que tu aies le temps de parler, Gorge t'interrompt, furieux.::
 
-Je m'en fiche. C'est sans signification. Tout cela n'avait aucun sens. Maintenant, vous pouvez poliment éteindre ! Et si tu m'interroges sur mon fils, une cicatrice, un tatouage ou quelque chose comme ça encore, je vais écraser ton putain de vent. Tu creuses ça, $(#bud/sugar) ?<end>
+Ce que t'allais dire, je m'en fous. Ça veut rien dire. Tout ça voulait rien dire. Maintenant tu peux POLIMENT DÉGAGER ! Et si tu me reposes une question sur mon fils, la cicatrice, le tatouage ou... ou un truc comme ça, je te broie la trachée. T'as pigé, $(#mec/nana) ?<end>
 
 =>q49_original
 ::He signals the bartender for another drink, then turns to you?::
@@ -322,45 +322,45 @@ Je m'en fiche. C'est sans signification. Tout cela n'avait aucun sens. Maintenan
 Get it? Aight?<end>
 
 =>q49
-::Il envoie un autre verre au barman, puis se tourne vers vous ?::
+::Il fait signe au barman pour un autre verre, puis se tourne vers toi.::
 
-Compris ? Une vue ?<end>
+T'as pigé ? Ouais ?<end>
 
 =>a50_original
 I understand it is a terrible loss, and it saddens me to hear stories like this. But, you have to be strong. Help others - help yourself! Don't drown your life in liquor.<end>
 
 =>a50
-Je comprends que c'est une terrible perte, et ça m'attriste d'entendre des histoires comme ça. Mais il faut être fort. Aidez les autres - servez-vous! Ne noyez pas votre vie dans l'alcool.<end>
+Je comprends, c'est une perte terrible, et ça me peine d'entendre des histoires comme ça. Mais il faut que tu tiennes. Aide les autres, aide-toi. Te noie pas dans l'alcool.<end>
 
 =>a51_original
 So you get yourself wasted every chance you get? Is that the man your son would've wanted you to become?<end>
 
 =>a51
-Tu te fais gaspiller toutes tes chances ? C'est l'homme que votre fils aurait voulu que vous deveniez ?<end>
+Alors tu te bourres dès que t'as l'occasion ? C'est ça, l'homme que ton fils aurait voulu que tu sois ?<end>
 
 =>a52_original
 Your son died, yet you are still alive. Maybe you were more concerned whether you were going to survive, not little Tim.<end>
 
 =>a52
-Votre fils est mort, mais vous êtes toujours en vie. Peut-être étiez-vous plus inquiet si vous alliez survivre, pas petit Tim.<end>
+Ton fils est mort, et toi t'es encore là. Peut-être que t'étais plus inquiet pour ta peau que pour le petit Tim.<end>
 
 =>a53_original
 I have no comment.<end>
 
 =>a53
-Je n'ai aucun commentaire.<end>
+Rien à dire.<end>
 
 =>q54_original
 Stop asking me about that, aight? Just... leave it.<end>
 
 =>q54
-Arrête de m'en parler. Laisse tomber.<end>
+Arrête de m'en parler, ouais ? Laisse... laisse tomber.<end>
 
 =>a55_original
 What can you tell me about your tattooed scar?<end>
 
 =>a55
-Que pouvez-vous me dire sur votre cicatrice tatouée ?<end>
+T'as quoi à me dire sur ta cicatrice tatouée ?<end>
 
 =>q56_original
 ::He takes a look at his scar, staring at it for a few moments, taking a sip of his drink in the process.::
@@ -368,21 +368,21 @@ Que pouvez-vous me dire sur votre cicatrice tatouée ?<end>
 The scar is from an accident. The tattoo is from a tattoo shop.<end>
 
 =>q56
-::Il regarde sa cicatrice, la fixe pendant quelques instants, en prenant une gorgée de sa boisson dans le processus.::
+::Il jette un œil à sa cicatrice, la fixe un moment, en prenant une gorgée au passage.::
 
-La cicatrice vient d'un accident. Le tatouage vient d'un magasin de tatouage.<end>
+La cicatrice, c'est un accident. Le tatouage, un salon de tatouage.<end>
 
 =>a57_original
 Can you tell me a bit more about it?<end>
 
 =>a57
-Pouvez-vous m'en dire un peu plus ?<end>
+Tu peux m'en dire un peu plus ?<end>
 
 =>q58_original
 Nope. ::He takes a sip of his drink.::<end>
 
 =>q58
-Pas du tout. ::Il prend une gorgée de son verre.::<end>
+Non. ::Il prend une gorgée.::<end>
 
 =>a59_original
 Why not?<end>
@@ -394,19 +394,19 @@ Pourquoi pas ?<end>
 Why should I?<end>
 
 =>q60
-Pourquoi ?<end>
+Pourquoi je le ferais ?<end>
 
 =>a61_original
 Because I asked you nicely.<end>
 
 =>a61
-Parce que je t'ai demandé gentiment.<end>
+Parce que je te l'ai demandé gentiment.<end>
 
 =>q62_original
 Well, tough luck. Any more questions?<end>
 
 =>q62
-C'est la chance. D'autres questions ?<end>
+Ben, tant pis. D'autres questions ?<end>
 
 =>a63_original
 Because I really want to know.<end>
@@ -418,25 +418,25 @@ Parce que je veux vraiment savoir.<end>
 Let's forget about this. I have more important things to ask you.<end>
 
 =>a64
-Oublions ça. J'ai des choses plus importantes à vous demander.<end>
+Oublions ça. J'ai des trucs plus importants à te demander.<end>
 
 =>a65_original
 That's good enough for me. I had other things to ask you.<end>
 
 =>a65
-Ça me suffit. J'avais d'autres choses à vous demander.<end>
+Ça me suffit. J'avais d'autres trucs à te demander.<end>
 
 =>a66_original
 Where were the Bakers captured, again?<end>
 
 =>a66
-Où ont été capturés les Baker ?<end>
+C'est où déjà, qu'on a chopé les Baker ?<end>
 
 =>q67_original
 Rail Crossing train station. The gangsters took them to the caves north.<end>
 
 =>q67
-Gare Rail Crossing. Les gangsters les ont emmenés dans les grottes au nord.<end>
+Gare de Rail Crossing. Les gangsters les ont emmenés dans les grottes au nord.<end>
 
 =>q68_original
 That's all I know.<end>
@@ -448,7 +448,7 @@ C'est tout ce que je sais.<end>
 I heard you got that tattoo while defending your brother from bandits.<end>
 
 =>a69
-J'ai entendu dire que tu avais ce tatouage en défendant ton frère des bandits.<end>
+J'ai entendu que t'avais eu ce tatouage en défendant ton frère contre des bandits.<end>
 
 =>q70_original
 ::He is about to take another sip from the glass when your words strike him like one of the trains he operates. He puts the glass down and turns to you.::
@@ -456,7 +456,7 @@ J'ai entendu dire que tu avais ce tatouage en défendant ton frère des bandits.
 Who told you that?<end>
 
 =>q70
-::Il va prendre une autre gorgée du verre quand vos mots le frapperont comme un des trains qu'il exploite. Il pose le verre et se tourne vers vous.::
+::Il allait reprendre une gorgée quand tes mots lui rentrent dedans comme un de ses trains. Il pose le verre et se tourne vers toi.::
 
 Qui t'a dit ça ?<end>
 
@@ -478,63 +478,63 @@ Il avait tort...<end>
 He was wrong, aight. It... wasn't my brother. It was my son.<end>
 
 =>q73
-::Gorge va pour le verre, mais gèle après une seconde. Il reste comme ça pendant quelques instants, puis vous fait face à nouveau.::
+::Gorge va vers le verre, mais se fige au bout d'une seconde. Il reste comme ça un moment, puis se tourne de nouveau vers toi.::
 
-Il avait tort. Ce n'était pas mon frère. C'était mon fils.<end>
+Il avait tort, ouais. C'était... pas mon frère. C'était mon fils.<end>
 
 =>a74_original
 I'm very sorry to hear that.<end>
 
 =>a74
-Je suis désolé d'entendre ça.<end>
+Je suis vraiment $(#désolé/désolée).<end>
 
 =>q75_original
 I gain nothing out of you being sorry, so spare me.<end>
 
 =>q75
-Je n'ai rien à gagner à ce que tu sois désolé, alors épargne-moi.<end>
+Ta peine, j'en fais rien, alors évite.<end>
 
 =>a76_original
 Can you tell me more about what happened?<end>
 
 =>a76
-Pouvez-vous m'en dire plus sur ce qui s'est passé ?<end>
+Tu peux m'en dire plus, sur ce qui s'est passé ?<end>
 
 =>q77_original
 Look, you ask too many questions, $(#bud/sugar). I don't know why I'm even freakin' talking to you.<end>
 
 =>q77
-Vous posez trop de questions, $(#bud/sugar). Je ne sais même pas pourquoi je te parle.<end>
+Écoute, tu poses trop de questions, $(#mec/nana). Je sais même pas pourquoi je te parle, putain.<end>
 
 =>a78_original
 What can you tell me about Underrail Express?<end>
 
 =>a78
-Que pouvez-vous me dire sur Underrail Express ?<end>
+T'as quoi à me dire sur Underrail Express ?<end>
 
 =>q79_original
 Go bug someone else about it, aight? The reason I come to places like this is so that I don't have to think about my freakin' job, and now you're reminding me of it.<end>
 
 =>q79
-Tu vas mettre quelqu'un d'autre sur le coup ? La raison pour laquelle je viens dans des endroits comme celui-ci est pour que je n'ai pas à penser à mon putain de travail, et maintenant tu me le rappelles.<end>
+Va casser les pieds à quelqu'un d'autre, ouais ? Je viens dans des endroits comme ici pour pas penser à mon putain de boulot, et maintenant tu me le ramènes.<end>
 
 =>q80_original
 Let me drink in freakin' peace.<end>
 
 =>q80
-Laisse-moi boire en paix.<end>
+Laisse-moi picoler tranquille, putain.<end>
 
 =>a81_original
 Can you not call me "bud"?<end>
 
 =>a81
-Tu ne peux pas m'appeler "bud" ?<end>
+Tu peux pas m'appeler « mec » ?<end>
 
 =>q82_original
 ::He gives you an indifferent look.:: Aight, bud, not a problem.<end>
 
 =>q82
-::Il vous donne un regard indifférent.:: Ce n'est pas un problème.<end>
+::Il te lance un regard indifférent.:: Ouais, mec, pas de souci.<end>
 
 =>q83_original
 Better?<end>
@@ -546,13 +546,13 @@ Mieux ?<end>
 Can you not call me "sugar"?<end>
 
 =>a84
-Tu ne peux pas m'appeler "sucre" ?<end>
+Tu peux pas m'appeler « nana » ?<end>
 
 =>q85_original
 ::He gives you an indifferent look.:: Aight, sugar, not a problem.<end>
 
 =>q85
-::Il vous donne un regard indifférent.:: Pas de problème.<end>
+::Il te lance un regard indifférent.:: Ouais, nana, pas de souci.<end>
 
 =>a86_original
 I gotta go.<end>
@@ -564,53 +564,52 @@ Je dois y aller.<end>
 Well, I told you my name - so I'm not a complete stranger.<end>
 
 =>a87
-Je t'ai dit mon nom, alors je ne suis pas un parfait étranger.<end>
+Bon, je t'ai dit mon nom, donc je suis plus un parfait inconnu.<end>
 
 =>q88_original
 ::He chuckles.:: No, you said *a* name. I don't know if it's really yours, $(#bud/sugar). You could be anyone for all I know.<end>
 
 =>q88
-::Il rit.:: Non, vous avez dit *a* nom. Je ne sais pas si c'est vraiment à toi, $(#bud/sugar). Tu pourrais être n'importe qui pour tout ce que je sais.<end>
+::Il ricane.:: Non, t'as dit *un* nom. Je sais pas si c'est vraiment le tien, $(#mec/nana). T'es n'importe qui, pour ce que j'en sais.<end>
 
 =>a89_original
 Still, can I just ask you few questions?<end>
 
 =>a89
-Je peux vous poser quelques questions ?<end>
+Quand même, je peux te poser quelques questions ?<end>
 
 =>a90_original
 No one. Sorry for bothering you.<end>
 
 =>a90
-Personne. Désolé de vous déranger.<end>
+Personne. Pardon pour le dérangement.<end>
 
 =>a91_original
 Hi, my name is $(context.player.Name) and I had some questions.<end>
 
 =>a91
-Bonjour, mon nom est $(context.player.Name) et j'ai eu quelques questions.<end>
+Salut, je m'appelle $(context.player.Name), j'avais des questions.<end>
 
 =>a92_original
 You have an interesting tattoo there.<end>
 
 =>a92
-Vous avez un tatouage intéressant.<end>
+T'as un tatouage intéressant, là.<end>
 
 =>q93_original
 Who the hell are you and what do you want?<end>
 
 =>q93
-Qui êtes-vous et que voulez-vous ?<end>
+T'es qui, putain, et tu veux quoi ?<end>
 
 =>a94_original
 No. ::Leave.::<end>
 
 =>a94
-C'est pas vrai. ::Partir.::<end>
+Non. ::Partir.::<end>
 
 =>q95_original
 Eh?<end>
 
 =>q95
 Hein ?<end>
-

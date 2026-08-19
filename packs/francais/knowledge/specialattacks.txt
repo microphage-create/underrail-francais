@@ -11,15 +11,15 @@ Commence à attaquer automatiquement la cible avec l'arme équipée.
 Tir visé monotarget à distance : crit garanti.
 
 ::Snipe
-Attaque spéciale arbalète ou sniper : {0}% dégâts (scale avec la furtivité). Uniquement en furtif. Ne peut pas crit.
+Attaque spéciale arbalète ou sniper : {0}% dégâts (suivent la furtivité). Uniquement en furtif. Ne peut pas crit.
 
 ::KCS
-Dégâts d'arme normaux + plaie saignante ({0}% dégâts, scale avec Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
+Dégâts d'arme normaux + plaie saignante ({0}% dégâts, suivent Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
 
 Pistolet, arbalète ou mitraillette uniquement.
 
 ::KCS-XPBL
-Dégâts d'arme normaux + plaie saignante ({0}% dégâts, scale avec Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
+Dégâts d'arme normaux + plaie saignante ({0}% dégâts, suivent Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
 
 Pistolet, arbalète, mitraillette ou fusil à pompe uniquement.
 
@@ -110,13 +110,13 @@ Applique {0} de poison heartbreak sur une arme de mêlée adaptée : {1} dégât
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
 
 ::CrawlerPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison de crawler ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, stun pendant {2}.
+Si l'attaque traverse l'armure : poison de crawler ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, étourdissement pendant {2}.
 
 ::CrawlerPoisonItemEffect_Cap
-Applique {0} de poison de crawler sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. S'il n'est pas retiré avant expiration, stun pendant {3}.
+Applique {0} de poison de crawler sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. S'il n'est pas retiré avant expiration, étourdissement pendant {3}.
 
 ::ShootCrawlerPoisonBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, stun pendant {2}.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, étourdissement pendant {2}.
 
 ::ShootTranquilizingBolt
 Tire ce carreau d'arbalète : {0}% des dégâts de carreau, tente d'incapaciter la cible jusqu'à {1} tours.
@@ -125,7 +125,7 @@ Tire ce carreau d'arbalète : {0}% des dégâts de carreau, tente d'incapaciter 
 Tire un carreau putréfiant expérimental qui devrait décomposer lentement les muscles de la cible.
 
 ::ShootShockBolt
-Tire ce carreau : dégâts de carreau normaux + {0}. Sauf résistance totale, stun pendant {1} et l'électricité saute aux cibles adjacentes ({2} dégâts). Organiques et mécaniques.
+Tire ce carreau : dégâts de carreau normaux + {0}. Sauf résistance totale, étourdissement pendant {1} et l'électricité saute aux cibles adjacentes ({2} dégâts). Organiques et mécaniques.
 
 ::ShootIncendiaryBolt
 Tire ce carreau d'arbalète : brûle tout sur sa trajectoire ({0} dégâts). Si la cible est touchée : dégâts de carreau normaux + {1}, {2}% de chances de s'enflammer ({3} = total des dégâts de chaleur subis de nouveau).
@@ -151,10 +151,10 @@ Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie sai
 Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, applique {2} stacks de Pourriture du vide ({1} dégâts d'énergie par stack). Stack {2} fois.
 
 ::Execute
-Attaque spéciale à courte portée au pistolet : {0}% dégâts d'arme contre cibles stun ou incapacité.
+Attaque spéciale à courte portée au pistolet : {0}% dégâts d'arme contre cibles étourdies ou incapacitées.
 
 ::CutThroat
-Attaque furtive puissante au couteau dans le dos : ignore résistances et boucliers, plaie saignante ({0}% dégâts sur {1}) et stun pour la même durée.
+Attaque furtive puissante au couteau dans le dos : ignore résistances et boucliers, plaie saignante ({0}% dégâts sur {1}) et étourdissement pour la même durée.
 
 Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
 
@@ -167,15 +167,15 @@ Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Huma
 Roundhouse kick puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
 
 ::Pummel
-Attaque spéciale à la masse : {0}% dégâts d'arme, ne ignore pas le seuil de dégâts, met les cibles vivantes hors d'équilibre pendant {1} si elle touche.
+Attaque spéciale à la masse : {0}% dégâts d'arme, n'ignore pas le seuil de dégâts, met les cibles vivantes hors d'équilibre pendant {1} si elle touche.
 
-Hors d'équilibre : esquive et évitement à zéro.
+Hors d'équilibre : Dodge et Evasion à zéro.
 
 ::DirtyKick-Old
-Attaque spéciale à mains nues : dégâts normaux + stun cibles vivantes pendant {0}. Homme humain : stun {1} à la place.
+Attaque spéciale à mains nues : dégâts normaux + étourdissement des cibles vivantes pendant {0}. Si la cible est un homme : {1} à la place.
 
 ::DirtyKick
-Attaque spéciale à mains nues : {0} dégâts + stun cibles vivantes pendant {1}. Homme humanoïde : stun {2} à la place.
+Attaque spéciale à mains nues : {0} dégâts + étourdissement des cibles vivantes pendant {1}. Si la cible est un humanoïde mâle : {2} à la place.
 
 Peu importe l'arme équipée.
 
@@ -183,7 +183,7 @@ Peu importe l'arme équipée.
 Attaque spéciale au bouclier anti-émeute : {0} dégâts si touche + étourdissement pendant {1}.
 
 ::CripplingStrike
-Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Force si ça traverse l'armure. Durée {2}. Stack {3} fois.
+Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Strength si ça traverse l'armure. Durée {2}. Stack {3} fois.
 
 Cibles vivantes uniquement.
 
@@ -267,10 +267,10 @@ Attaque spéciale : dégâts normaux. Coût PA -{0}% par point d'initiative.
 Attaque spéciale au Chainsword : {0}% des dégâts d'arme jusqu'à {1} fois, chaque fois {2} énergie et {3} PA. Ignore {4}% de la résistance et du seuil mécaniques de la cible.
 
 ::StunningPulse
-Attaque spéciale : coûte {0} énergie, seulement {1}% des dégâts d'arme normaux, mais stun les cibles vivantes 1 tour si elle fait des dégâts.
+Attaque spéciale : coûte {0} énergie, seulement {1}% des dégâts d'arme normaux, mais étourdit les cibles vivantes 1 tour si elle fait des dégâts.
 
 ::SoldierExoskeletonWristbladeStab
-Attaque spéciale à la lame de poignet intégrée : {0} dégâts mécaniques (scale avec Mêlée et Force), {1} chances de plaie saignante ({2} des dégâts initiaux sur {3} tours). Consomme {3} énergie.
+Attaque spéciale à la lame de poignet intégrée : {0} dégâts mécaniques (suivent Melee et Strength), {1} chances de plaie saignante ({2} des dégâts initiaux sur {3} tours). Consomme {3} énergie.
 
 ::Branding
 Attaque spéciale plus dure à placer : {0} dégâts et marque les humanoïdes (démoralisés, -{1} skills de combat pendant {2}).

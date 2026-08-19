@@ -2,13 +2,13 @@
 Please don't hurt me!<end>
 
 =>q1
-Me fais pas de mal !<end>
+Me faites pas de mal !<end>
 
 =>q2_original
 Leave me alone!<end>
 
 =>q2
-Laisse-moi tranquille!<end>
+Laissez-moi tranquille !<end>
 
 =>q3_original
 ::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
@@ -16,15 +16,15 @@ Laisse-moi tranquille!<end>
 Hi, stranger. Are you also here to join the Tchortists?<end>
 
 =>q3
-::Une petite jeune femme semble perdue dans ses pensées, le regard fixé sur un endroit lointain, loin derrière vous. En s'approchant d'elle, elle vous regarde et sourit, faisant rebondir ses joues. Lorsqu'elle parle, sa voix a un timbre plutôt agréable, mais il y a aussi un soupçon d'abrasivité de temps en temps, comme si sa voix avait subi un certain degré de dommages.::
+::Une jeune femme, petite, semble perdue dans ses pensées, le regard fixé quelque part loin derrière vous. Quand vous vous approchez, elle lève les yeux et sourit : ses joues s'arrondissent. Sa voix a un timbre plutôt agréable, mais un grain râpeux revient par moments, comme si elle avait un peu abîmé les cordes.::
 
-Salut, étranger. Êtes-vous également ici pour rejoindre les Tchortists ?<end>
+Salut. Vous aussi, vous venez pour les Tchortistes ?<end>
 
 =>a4_original
 Maybe. What can you tell me about them?<end>
 
 =>a4
-Peut être. Que pouvez-vous me dire à leur sujet ?<end>
+Peut-être. Vous pouvez m'en dire quoi, sur eux ?<end>
 
 =>q5_original
 Oh. Well then... if you are - join the line, hah!
@@ -32,9 +32,9 @@ Oh. Well then... if you are - join the line, hah!
 But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
 
 =>q5
-Oh. Eh bien... si c'est le cas, rejoignez la file d'attente, hah !
+Oh. Dans ce cas... si c'est ça, rangez-vous dans la file, hah !
 
-Mais d’abord, permettez-moi de me présenter. Je m'appelle Daphné. Ravi de vous rencontrer... hein... ?<end>
+Mais d'abord, je me présente. Daphne. Enchantée... euh... ?<end>
 
 =>q6_original
 <end>
@@ -46,7 +46,7 @@ Mais d’abord, permettez-moi de me présenter. Je m'appelle Daphné. Ravi de vo
 It's $(context.player.Name). Nice to meet you too, Daphne.<end>
 
 =>a7
-C'est $(context.player.Name). Ravi de te rencontrer aussi, Daphné.<end>
+$(context.player.Name). Enchanté aussi, Daphne.<end>
 
 =>q8_original
 $(context.player.Name). Got it.
@@ -54,9 +54,9 @@ $(context.player.Name). Got it.
 Okay, $(context.player.Name), let's talk.<end>
 
 =>q8
-$(context.player.Name). J'ai compris.
+$(context.player.Name). C'est noté.
 
-D'accord, $(context.player.Name), parlons-en.<end>
+Bon, $(context.player.Name), on discute.<end>
 
 =>q9_original
 <end>
@@ -68,19 +68,19 @@ D'accord, $(context.player.Name), parlons-en.<end>
 What can you tell me about yourself?<end>
 
 =>a10
-Que peux-tu me dire sur toi ?<end>
+Vous pouvez me parler de vous ?<end>
 
 =>q11_original
 I am a geneticist from Foundry.<end>
 
 =>q11
-Je suis généticien de Foundry.<end>
+Je suis généticienne, de Foundry.<end>
 
 =>a12_original
 What exactly do you mean by that?<end>
 
 =>a12
-Que veux-tu dire exactement par là ?<end>
+C'est-à-dire ?<end>
 
 =>q13_original
 You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
@@ -88,153 +88,153 @@ You see, Foundry is a station, town - call it however you will - that revolves a
 Anyway, I had to get outta there.<end>
 
 =>q13
-Vous voyez, Foundry est une station, une ville - appelez-la comme vous voulez - qui tourne autour d'une seule chose : l'exploitation minière. Eh bien, l'extraction, la transformation et la fabrication de produits à partir de minerais extraits, c'est vrai, mais l'aspect le plus important est qu'un tel endroit n'a pas de place, par exemple, pour un biologiste. C'est comme un... comme un... pêcheur dans une gare : il n'a rien à faire, hah !
+Voilà : Foundry, c'est une station, une ville, appelez ça comme vous voulez, et ça tourne autour d'une seule chose. La mine. Bon, extraire, traiter, fabriquer avec le minerai, d'accord. Mais le vrai problème, c'est qu'un endroit comme ça n'a pas de place pour, disons, une biologiste. C'est comme... comme... un pêcheur dans une gare : il n'a rien à faire, hah !
 
-Quoi qu'il en soit, je devais sortir de là.<end>
+Bref. Fallait que je me tire de là.<end>
 
 =>a14_original
 How did you end up there in the first place?<end>
 
 =>a14
-Comment en êtes-vous arrivé là en premier lieu ?<end>
+Comment vous vous êtes retrouvée là-bas, au départ ?<end>
 
 =>q15_original
 My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
 
 =>q15
-Mes parents m'y ont amené quand j'étais petite. L'argent était bon, bien sûr, mais si nous étions allés à South Gate ou Rail Crossing, nous aurions été en or. Mais, oh, eh bien... je me suis retrouvé là-bas. Les années ont passé, j'ai grandi. "Je ne perdrai plus mon temps dans cette décharge", me suis-je dit. J'ai des aspirations, et je vais étudier autant que je peux, sortir de ce trou et avancer dans la vie !<end>
+Mes parents m'y ont amenée toute petite. L'argent était bon, d'accord, mais si on était allés à South Gate ou Rail Crossing, on aurait été tranquilles. Enfin... je me suis retrouvée là-bas. Les années ont passé, j'ai grandi. « Plus question de gâcher ma vie dans ce trou », je me suis dit. J'ai des ambitions. Je vais étudier autant que je peux, sortir de ce trou, et avancer !<end>
 
 =>a16_original
 Isn't it a bit dangerous to travel around alone?<end>
 
 =>a16
-N'est-il pas un peu dangereux de voyager seul ?<end>
+C'est pas un peu dangereux, de voyager seule ?<end>
 
 =>q17_original
 Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
 
 =>q17
-Techniquement, c'est plus dangereux de vivre à Foundry, hah. Je n'exagère pas, $(context.player.Name). Non.<end>
+Techniquement, c'est plus dangereux de vivre à Foundry, hah. J'exagère pas, $(context.player.Name). Non.<end>
 
 =>a18_original
 Well said. Now, let me ask you something else.<end>
 
 =>a18
-Bien dit. Maintenant, laissez-moi vous demander autre chose.<end>
+Bien vu. Autre chose, du coup.<end>
 
 =>q19_original
 Why not, $(context.player.Name). What did you have in mind?<end>
 
 =>q19
-Pourquoi pas, $(context.player.Name). Qu’avais-tu en tête ?<end>
+Pourquoi pas, $(context.player.Name). Vous aviez quoi en tête ?<end>
 
 =>a20_original
 And...?<end>
 
 =>a20
-Et...?<end>
+Et... ?<end>
 
 =>a21_original
 Actually, that tells me all I need to know. Let me ask you something else.<end>
 
 =>a21
-En fait, cela me dit tout ce que j'ai besoin de savoir. Laissez-moi vous demander autre chose.<end>
+En fait, ça me dit tout ce que j'ai besoin de savoir. Autre question.<end>
 
 =>q22_original
 Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
 
 =>q22
-Rien. Je peux, mais je ne le ferai pas. Pourquoi devrais-je divulguer des informations personnelles si vous ne parvenez pas à trouver la décence de vous présenter au moins ?<end>
+Rien. Je peux, je ne le ferai pas. Pourquoi je vous filerais des infos perso si vous n'avez même pas la décence de vous présenter ?<end>
 
 =>q23_original
 It was rhetorical; Don't answer it...<end>
 
 =>q23
-C'était de la rhétorique ; Ne répondez pas...<end>
+C'était rhétorique. Ne répondez pas...<end>
 
 =>a24_original
 Why are you here and what can you tell me about this place?<end>
 
 =>a24
-Pourquoi es-tu ici et que peux-tu me dire sur cet endroit ?<end>
+Pourquoi vous êtes ici, et c'est quoi cet endroit ?<end>
 
 =>q25_original
 Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
 
 =>q25
-Eh bien, j'en avais marre de vivre dans un environnement pollué, c'est une des raisons. L'autre est que ce Institute of Tchort semble avoir besoin de nombreux experts dans le domaine de la biologie, de la génétique et autres. Je ne dis pas *je suis* un expert, mais les rejoindre pourrait être la première étape pour en devenir un, hah. En plus, je suis sûr qu'ils paient beaucoup d'argent. Il suffit de regarder le bâtiment.<end>
+J'en avais marre de vivre dans la pollution, ça c'est une raison. L'autre, c'est que l'Institute of Tchort a l'air d'avoir besoin de beaucoup d'experts en biologie, génétique, tout ça. Je dis pas que *je suis* une experte, mais les rejoindre, ça peut être le premier pas pour le devenir, hah. Et puis je suis sûre qu'ils paient bien. Regardez juste le bâtiment.<end>
 
 =>a26_original
 Do you even know why they need so many scientists?<end>
 
 =>a26
-Savez-vous au moins pourquoi ils ont besoin de tant de scientifiques ?<end>
+Vous savez au moins pourquoi ils ont besoin d'autant de scientifiques ?<end>
 
 =>q27_original
 I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
 
 =>q27
-Je sais ce que tu veux vraiment dire : « Ces types sont-ils des sectateurs maléfiques qui réalisent des expériences tordues et torturent les gens et si oui, pourquoi voudrais-je les rejoindre ? Eh bien... ::Elle fait une pause un peu plus longue.:: Franchement, je ne sais pas ce qui se passe à l'intérieur, mais je sais une chose : il n'y a aucun autre endroit dans Underrail où vous pouvez aller et *ne pas* vous poser la même question, $(context.player.Name).<end>
+Je sais ce que vous voulez vraiment dire : « C'est une secte de tarés qui font des expériences tordues, qui torturent les gens, et si c'est ça, pourquoi je voudrais les rejoindre ? » Bon... ::Elle s'arrête un peu plus longtemps.:: Franchement, je sais pas ce qui se passe là-dedans. Mais je sais une chose : il n'y a nulle part ailleurs dans Underrail où on peut aller *sans* se poser la même question, $(context.player.Name).<end>
 
 =>q28_original
 This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
 
 =>q28
-Ce monde entier est... tordu, et... malgré leur apparence étrange, ces Tchortistes semblent... je veux dire...<end>
+Le monde entier est... tordu, et... malgré leur tête bizarre, ces Tchortistes ont l'air... je veux dire...<end>
 
 =>q29_original
 Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
 
 =>q29
-Écoute, je fais attention... si je sens qu'il se passe quelque chose de trop étrange, je me retirerai. Je n'ai pas perdu tous mes sens en vivant à Foundry, hah. Vous avez celui-là ?<end>
+Écoutez, je fais gaffe... si je sens que ça dérape trop, je me retire. J'ai pas perdu tous mes sens à Foundry, hah. Vous voyez le tableau ?<end>
 
 =>a30_original
 How about a different question?<end>
 
 =>a30
-Et pourquoi pas une autre question ?<end>
+Autre question ?<end>
 
 =>q31_original
 Sure, $(context.player.Name).<end>
 
 =>q31
-Bien sûr, $(context.player.Name).<end>
+Allez-y, $(context.player.Name).<end>
 
 =>q32_original
 This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
 
 =>q32
-Il s'agit de Institute of Tchort, le bâtiment principal de l'organisation Tchortist. Quant à savoir pourquoi je suis ici...<end>
+C'est l'Institute of Tchort, le bâtiment principal de l'organisation tchortiste. Quant à pourquoi je suis ici...<end>
 
 =>q33_original
 That I'm not willing to share with you.<end>
 
 =>q33
-Que je ne veux pas partager avec vous.<end>
+Ça, je ne le partagerai pas avec vous.<end>
 
 =>a34_original
 What can you tell me about the Tchortists?<end>
 
 =>a34
-Que pouvez-vous me dire sur les Tchortists ?<end>
+Vous pouvez me dire quoi sur les Tchortistes ?<end>
 
 =>q35_original
 From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
 
 =>q35
-D'après ce que je sais, Institute of Tchort est un organisme de recherche qui célèbre une créature appelée Tchort. On suppose que le génome de cette créature est tout à fait unique et que tout ce qu’ils en ont appris peut également être appliqué aux humains. J'ai entendu des termes comme « évolution dirigée » et « conquérir la surface », mais je ne ferai aucun commentaire à ce sujet avant d'en savoir plus.<end>
+D'après ce que je sais, l'Institute of Tchort est un organisme de recherche qui célèbre une créature appelée Tchort. Son génome serait très particulier, et tout ce qu'ils en ont tiré pourrait s'appliquer aux humains aussi. J'ai entendu des termes comme « évolution dirigée » et « conquérir la Surface », mais je commenterai pas tant que j'en saurai pas plus.<end>
 
 =>q36_original
 This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
 
 =>q36
-C'est leur bâtiment principal ; ils sont censés avoir également des installations à Deep Caverns. C'est à peu près tout ce que je sais, hah. Ce n'est pas ma faute, c'est juste que les informations à leur sujet sont plutôt rares.<end>
+C'est leur bâtiment principal. Ils auraient aussi des installations dans les Deep Caverns. C'est à peu près tout ce que je sais, hah. C'est pas ma faute : les infos sur eux, y en a pas des masses.<end>
 
 =>q37_original
 Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
 
 =>q37
-Institute of Tchort est un organisme de recherche qui célèbre une créature appelée Tchort. On suppose que le génome de cette créature est tout à fait unique et que tout ce qu’ils en ont appris peut également être appliqué aux humains.<end>
+L'Institute of Tchort est un organisme de recherche qui célèbre une créature appelée Tchort. Son génome serait très particulier, et tout ce qu'ils en ont tiré pourrait s'appliquer aux humains aussi.<end>
 
 =>q38_original
 And this is their main building.That's pretty much all I know.<end>
@@ -246,37 +246,37 @@ Et voici leur bâtiment principal. C'est à peu près tout ce que je sais.<end>
 Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
 
 =>a39
-Avez-vous peut-être vu l'un des Tchortistes portant un étrange artefact ? Cela ressemble à un polyèdre à vingt côtés.<end>
+Vous n'auriez pas vu des Tchortistes avec un artefact bizarre ? Un polyèdre à vingt faces.<end>
 
 =>q40_original
 What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
 
 =>q40
-Ce que vous décrivez, non, je ne l'ai pas vu. Mais je me souviens d'un grand groupe de Tchortistes revenant de Core City - c'est ce que j'ai entendu - et ils semblent avoir eu quelque chose d'assez précieux avec eux. Encore une fois, je les ai en quelque sorte entendus parler.<end>
+Ce que vous décrivez, non, je l'ai pas vu. Par contre, je me souviens d'un gros groupe de Tchortistes qui rentrait de Core City, c'est ce que j'ai entendu, et ils avaient l'air d'avoir un truc plutôt précieux. Encore une fois, je les ai un peu entendus parler.<end>
 
 =>a41_original
 What happened then?<end>
 
 =>a41
-Que s’est-il passé alors ?<end>
+Et ensuite ?<end>
 
 =>q42_original
 They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
 
 =>q42
-Ils sont entrés, hah, quoi d'autre ? Quoi qu'il en soit, c'est tout ce dont je me souviens avoir vu.<end>
+Ils sont rentrés, hah, vous voulez que je dise quoi d'autre ? Enfin. C'est tout ce dont je me souviens.<end>
 
 =>q43_original
 I don't think I have.<end>
 
 =>q43
-Je ne pense pas l'avoir fait.<end>
+Je crois pas, non.<end>
 
 =>q44_original
 Anything else?<end>
 
 =>q44
-Autre chose?<end>
+Autre chose ?<end>
 
 =>a45_original
 I have to go. Goodbye.<end>
@@ -288,19 +288,19 @@ Je dois y aller. Au revoir.<end>
 I can't reveal my name to you. It must remain a secret.<end>
 
 =>a46
-Je ne peux pas vous révéler mon nom. Cela doit rester un secret.<end>
+Je peux pas vous dire mon nom. Ça doit rester secret.<end>
 
 =>q47_original
 ::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
 
 =>q47
-::Elle devient légèrement inquiète après avoir entendu ce que vous dites.:: D'accord... ::Elle se tait.::<end>
+::Elle se sent un peu mal à l'aise en vous entendant.:: D'accord... ::Elle se tait.::<end>
 
 =>a48_original
 I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
 
 =>a48
-Je plaisantais avec toi. Je voulais juste voir ta réaction. Je m'appelle $(context.player.Name).<end>
+Je plaisantais. Je voulais juste voir votre réaction. Je m'appelle $(context.player.Name).<end>
 
 =>q49_original
 ::At first she seems confused, then she smiles - then starts laughing.::
@@ -310,29 +310,29 @@ Honestly, the way you said that was... slightly alarming. There's a lot of weird
 Anyway, $(context.player.Name), let's talk.<end>
 
 =>q49
-::Au début, elle semble confuse, puis elle sourit – puis se met à rire.::
+::D'abord elle a l'air perdue, puis elle sourit, puis elle part d'un rire.::
 
-Honnêtement, la façon dont vous avez dit cela était... légèrement alarmante. Il y a beaucoup de gens bizarres dans Underrail et... je pensais... qu'est-ce que ce $(#guy/woman) me veut ? Quelles sont les véritables intentions de $(#son/sa) ? Hah !
+Honnêtement, la façon dont vous avez dit ça... c'était un peu flippant. Y a plein de gens bizarres dans Underrail et... je me disais... qu'est-ce que $(#ce gars/cette femme) me veut ? C'est quoi ses vraies intentions ? Hah !
 
-Quoi qu'il en soit, $(context.player.Name), parlons-en.<end>
+Bon, $(context.player.Name), on discute.<end>
 
 =>a50_original
 I'm sorry, but really can't tell you my name. I had some questions, though.<end>
 
 =>a50
-Je suis désolé, mais je ne peux vraiment pas vous dire mon nom. J'avais cependant quelques questions.<end>
+Désolé, mais je peux vraiment pas vous dire mon nom. J'avais des questions, par contre.<end>
 
 =>q51_original
 ::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
 
 =>q51
-::Elle semble plus réservée qu'auparavant.:: D'accord, je suppose que je peux répondre à certaines de ces questions.<end>
+::Elle a l'air plus sur ses gardes qu'avant.:: D'accord. Je suppose que je peux répondre à certaines.<end>
 
 =>a52_original
 To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
 
 =>a52
-Pour être honnête, je ne *veux* pas te dire mon nom, Daphné. C'est gentil à vous de me dire le vôtre. Cela pourrait s’avérer utile.<end>
+Pour être honnête, je *veux* pas vous dire mon nom, Daphne. C'est gentil d'avoir donné le vôtre. Ça pourra servir.<end>
 
 =>q53_original
 ::Her eyes widen into a nervous stare as she takes a few steps back.::
@@ -340,55 +340,54 @@ Pour être honnête, je ne *veux* pas te dire mon nom, Daphné. C'est gentil à 
 Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
 
 =>q53
-::Ses yeux s'écarquillent et deviennent nerveux alors qu'elle recule de quelques pas.::
+::Ses yeux s'écarquillent, figés par la nervosité. Elle recule de quelques pas.::
 
-Écoute, je n'aime pas où ça va. Je pense qu'on devrait s'arrêter là... qui que vous soyez ! Laissez-moi tranquille ou j'appelle à l'aide. Au revoir.<end>
+Écoutez, j'aime pas du tout la tournure. On s'arrête là... qui que vous soyez ! Laissez-moi tranquille ou j'appelle à l'aide. Au revoir.<end>
 
 =>a54_original
 Wait, I was joking!<end>
 
 =>a54
-Attends, je plaisantais !<end>
+Attendez, je plaisantais !<end>
 
 =>q55_original
 ::She raises her voice.:: I said GOODBYE!<end>
 
 =>q55
-::Elle élève la voix.:: J'ai dit AU REVOIR !<end>
+::Elle élève la voix.:: J'ai dit AU REVOIR !<end>
 
 =>a56_original
 Goodbye, Daphne.<end>
 
 =>a56
-Au revoir, Daphné.<end>
+Au revoir, Daphne.<end>
 
 =>a57_original
 No, I'm just passing by. But, I had some questions if you don't mind.<end>
 
 =>a57
-Non, je ne fais que passer. Mais j'avais quelques questions si cela ne vous dérange pas.<end>
+Non, je ne fais que passer. Mais j'avais des questions, si ça vous dérange pas.<end>
 
 =>q58_original
 It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
 
 =>q58
-Ce n'est pas comme si j'avais autre chose à faire, hah ! ::Elle fait une brève pause.:: Ecoute, je m'appelle Daphné... Enchantée de vous rencontrer... hein... ?<end>
+C'est pas comme si j'avais mieux à faire, hah ! ::Elle s'arrête un instant.:: Voilà, je m'appelle Daphne... Enchantée... euh... ?<end>
 
 =>a59_original
 I'm sorry, I gotta go. See ya some other time.<end>
 
 =>a59
-Je suis désolé, je dois y aller. A une autre fois.<end>
+Désolé, je dois y aller. À une autre fois.<end>
 
 =>q60_original
 Hi, $(context.player.Name). More questions?<end>
 
 =>q60
-Bonjour, $(context.player.Name). D'autres questions ?<end>
+Salut, $(context.player.Name). D'autres questions ?<end>
 
 =>q61_original
 Hey... you.<end>
 
 =>q61
-Hey vous.<end>
-
+Hé... vous.<end>

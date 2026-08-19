@@ -2,19 +2,19 @@
 ::He comes back a few minutes later, carrying a bag of coins which he promptly places with a thud on his side of the table. ::<end>
 
 =>q1
-::Il revient quelques minutes plus tard, portant un sac de pièces qu'il place rapidement avec un bruit sur son côté de la table.::<end>
+::Il revient quelques minutes plus tard, un sac de pièces à la main, qu'il pose d'un coup sourd de son côté de la table. ::<end>
 
 =>a2_original
 ::Give him the Acorn and take the money.::<end>
 
 =>a2
-::Donne-lui le maïs et prends l'argent.::<end>
+::Lui donner l'Acorn et prendre l'argent.::<end>
 
 =>q3_original
 ::He slides the bag of money into your hands while you push the Acorn to him. ::<end>
 
 =>q3
-::Il glisse le sac d'argent dans tes mains pendant que tu pousses le maïs vers lui.::<end>
+::Il vous glisse le sac d'argent dans les mains pendant que vous lui poussez l'Acorn. ::<end>
 
 =>q4_original
 ::He takes the Acorn, glancing at its unusual features before placing it by his side.::
@@ -22,7 +22,7 @@
 Very good. <end>
 
 =>q4
-::Il prend l'Acorn, regardant ses traits inhabituels avant de le placer à ses côtés.::
+::Il prend l'Acorn, en examine les formes inhabituelles, puis le pose à ses côtés.::
 
 Très bien. <end>
 
@@ -30,31 +30,31 @@ Très bien. <end>
 This went much better than I had imagined. <end>
 
 =>q5
-Ça s'est beaucoup mieux passé que prévu. <end>
+Ça s'est bien mieux passé que ce que j'imaginais. <end>
 
 =>q6_original
 The United Stations are thankful for your cooperation, $(context.player.Name)<end>
 
 =>q6
-Les United Stations sont reconnaissantes pour votre coopération, $(context.player.Name)<end>
+Les United Stations vous remercient de votre coopération, $(context.player.Name)<end>
 
 =>q7_original
 . And don't worry about Professor Oldfield. <end>
 
 =>q7
-Et ne vous inquiétez pas pour le professeur Oldfield. <end>
+. Et ne vous inquiétez pas pour le professeur Oldfield. <end>
 
 =>q8_original
 We'll make sure he gets back home safely. <end>
 
 =>q8
-On veillera à ce qu'il rentre chez lui en toute sécurité. <end>
+Nous veillerons à ce qu'il rentre chez lui sain et sauf. <end>
 
 =>q9_original
 His contribution is invaluable and he will be compensated accordingly.<end>
 
 =>q9
-Sa contribution est inestimable et il sera indemnisé en conséquence.<end>
+Sa contribution est inestimable, et il sera dédommagé en conséquence.<end>
 
 =>q10_original
 <end>
@@ -66,7 +66,7 @@ Sa contribution est inestimable et il sera indemnisé en conséquence.<end>
 As long as I'm loaded.<end>
 
 =>a11
-Tant que je suis chargé.<end>
+Tant que je suis riche.<end>
 
 =>q12_original
 <end>
@@ -78,7 +78,7 @@ Tant que je suis chargé.<end>
 Take good care of my katana. I hope it'll serve you as well as it has served me.<end>
 
 =>q13
-Prends bien soin de mon katana. J'espère que ça vous servira autant que ça m'a servi.<end>
+Prenez bien soin de mon katana. J'espère qu'il vous servira aussi bien qu'il m'a servi.<end>
 
 =>q14_original
 Goodbye, $(context.player.Name).<end>
@@ -90,31 +90,31 @@ Au revoir, $(context.player.Name).<end>
 It was a pleasure doing business with you.<end>
 
 =>a15
-C'était un plaisir de faire des affaires avec vous.<end>
+Ce fut un plaisir de faire affaire avec vous.<end>
 
 =>a16_original
 ::Feel the katana's blade.:: I'm good, friend.<end>
 
 =>a16
-::Sens la lame du katana.:: Je vais bien, mon ami.<end>
+::Toucher la lame du katana.:: Ça me va, l'ami.<end>
 
 =>a17_original
 So long.<end>
 
 =>a17
-Au revoir.<end>
+Salut.<end>
 
 =>a18_original
 Are we done?<end>
 
 =>a18
-C'est fini ?<end>
+On a fini ?<end>
 
 =>q19_original
 We are. <end>
 
 =>q19
-Nous le sommes. <end>
+Oui. <end>
 
 =>q20_original
 . <end>
@@ -126,7 +126,7 @@ Nous le sommes. <end>
  - and so am I. You've made my job a lot simpler.<end>
 
 =>q21
- - et moi aussi. Tu as rendu mon travail beaucoup plus simple.<end>
+ - et moi aussi. Vous m'avez grandement simplifié le travail.<end>
 
 =>q22_original
 <end>
@@ -138,19 +138,19 @@ Nous le sommes. <end>
 Leave.<end>
 
 =>q23
-Partir.<end>
+Partez.<end>
 
 =>q24_original
 Not interested.<end>
 
 =>q24
-Pas intéressé.<end>
+Ça ne m'intéresse pas.<end>
 
 =>q25_original
 We have no business together, you and I.<end>
 
 =>q25
-On n'a pas d'affaires ensemble, toi et moi.<end>
+Nous n'avons aucune affaire en commun, vous et moi.<end>
 
 =>q26_original
 <end>
@@ -162,7 +162,7 @@ On n'a pas d'affaires ensemble, toi et moi.<end>
 Leave.<end>
 
 =>q27
-Partir.<end>
+Partez.<end>
 
 =>q28_original
 Goodbye, $(context.player.Name).<end>
@@ -176,7 +176,7 @@ Au revoir, $(context.player.Name).<end>
 <end>
 
 =>q29
-::Il s'adresse à vous calmement, sa voix non seulement sans entrave par son masque, mais plutôt sonne plus résonante et claire qu'une voix ne devrait l'être. Sa main droite repose confortablement sur la table; sa gauche reste à la cachette de son épée gainée en tout temps.:: 
+::Il s'adresse à vous d'une voix calme, que le masque n'étouffe pas : elle sonne même plus claire et plus résonante qu'une voix ne le devrait. Sa main droite repose tranquillement sur la table ; la gauche ne quitte jamais la poignée de son épée au fourreau.:: 
 
 <end>
 
@@ -208,7 +208,7 @@ Je suis Aran, <end>
 a representative of the United Stations, even though I may not look the part. <end>
 
 =>q34
-un représentant des United Stations, même si je ne regarde pas la partie. <end>
+un représentant des United Stations, même si je n'en ai pas l'air. <end>
 
 =>q35_original
 <end>
@@ -220,31 +220,31 @@ un représentant des United Stations, même si je ne regarde pas la partie. <end
 Then why isn't this conversation taking place at Fort Apogee? If you are who you say you are you should know I'm with the Underrail Protectorate.<end>
 
 =>a36
-Alors pourquoi cette conversation n'a-t-elle pas lieu au Fort Apogee ? Si vous êtes qui vous dites être vous devez savoir que je suis avec le Underrail Protectorate.<end>
+Alors pourquoi cette conversation n'a-t-elle pas lieu à Fort Apogee ? Si vous êtes bien qui vous prétendez, vous savez que je suis avec l'Underrail Protectorate.<end>
 
 =>q37_original
 I do. But this is a matter that doesn't concern Consul Oliver or anyone else at Fort Apogee.<end>
 
 =>q37
-Oui. Mais c'est une question qui ne concerne ni le consul Oliver ni personne d'autre au Fort Apogee.<end>
+Je le sais. Mais cette affaire ne concerne ni le consul Oliver, ni quiconque à Fort Apogee.<end>
 
 =>q38_original
 I have information that you<end>
 
 =>q38
-J'ai des informations que vous<end>
+J'ai des informations selon lesquelles vous<end>
 
 =>q39_original
 've joined Doctor Oldfield's expedition to the Black Sea and <end>
 
 =>q39
-J'ai rejoint l'expédition du Docteur Oldfield au Black Sea et <end>
+ avez rejoint l'expédition du docteur Oldfield au Black Sea et <end>
 
 =>q40_original
  may be in possession of an object called the Acorn. If that is true, the United Stations are very - *very* - interested in this object. They would gladly pay you a generous sum of money for it, no questions asked how you obtained it.<end>
 
 =>q40
- peut être en possession d'un objet appelé le maïs. Si c'est vrai, les United Stations sont très - *très - intéressées par cet objet. Ils vous paieraient volontiers une généreuse somme d'argent pour cela, aucune question ne vous demande comment vous l'avez obtenu.<end>
+ pourriez être en possession d'un objet appelé l'Acorn. Si c'est vrai, les United Stations sont très - *très* - intéressées par cet objet. Elles vous paieraient volontiers une somme généreuse, sans poser de questions sur la façon dont vous l'avez obtenu.<end>
 
 =>q41_original
 <end>
@@ -256,7 +256,7 @@ J'ai rejoint l'expédition du Docteur Oldfield au Black Sea et <end>
 It's true. I have the Acorn...<end>
 
 =>a42
-C'est vrai. J'ai le maïs...<end>
+C'est vrai. J'ai l'Acorn...<end>
 
 =>q43_original
 ::He nods.::<end>
@@ -274,7 +274,7 @@ C'est vrai. J'ai le maïs...<end>
 ...but I'm not willing to part with it.<end>
 
 =>a45
-...mais je ne veux pas me séparer.<end>
+...mais je ne veux pas m'en séparer.<end>
 
 =>q46_original
 I'm offering you <end>
@@ -292,7 +292,7 @@ neuf mille <end>
 charons, it being the preferred currency in these parts. <end>
 
 =>q48
-Charons, c'est la monnaie préférée dans ces parties. <end>
+charons, la monnaie d'usage par ici. <end>
 
 =>q49_original
 <end>
@@ -304,7 +304,7 @@ Charons, c'est la monnaie préférée dans ces parties. <end>
 ::[Mercantile]:: Sixteen thousand and the Acorn is yours.<end>
 
 =>a50
-::[Mercantile]:: Seize mille et le maïs est à toi.<end>
+::[Mercantile]:: Seize mille, et l'Acorn est à vous.<end>
 
 =>q51_original
 <end>
@@ -326,7 +326,7 @@ The sum you're asking for is acceptable. We have a deal.<end>
 =>q53
 ::Il considère brièvement votre offre.::
 
-La somme que vous demandez est acceptable. Nous avons un marché.<end>
+La somme que vous demandez est acceptable. Nous avons un accord.<end>
 
 =>q54_original
 ::He rises.::
@@ -336,25 +336,25 @@ I need a moment to collect your money. I will be back shortly and then we'll mak
 =>q54
 ::Il se lève.::
 
-J'ai besoin d'un moment pour récupérer votre argent. Je reviens bientôt et nous ferons notre échange.<end>
+J'ai besoin d'un instant pour rassembler votre argent. Je reviens tout de suite, et nous ferons l'échange.<end>
 
 =>a55_original
 You don't have it on you?<end>
 
 =>a55
-Tu ne l'as pas sur toi ?<end>
+Vous ne l'avez pas sur vous ?<end>
 
 =>q56_original
 In a place like this? That would be a stupid thing to do indeed.<end>
 
 =>q56
-Dans un endroit pareil ? Ce serait une chose stupide à faire.<end>
+Dans un endroit pareil ? Ce serait effectivement stupide.<end>
 
 =>a57_original
 ::Wait.::<end>
 
 =>a57
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>q58_original
 <end>
@@ -372,31 +372,31 @@ Dans un endroit pareil ? Ce serait une chose stupide à faire.<end>
 As important as the Acorn is, I do have a limited budget.<end>
 
 =>q60
-Aussi important que soit le maïs, j'ai un budget limité.<end>
+Aussi important que soit l'Acorn, mon budget n'est pas illimité.<end>
 
 =>q61_original
 I cannot accept your offer. But I'm sure we'll reach some kind of an agreement.<end>
 
 =>q61
-Je ne peux pas accepter votre offre. Mais je suis sûr que nous parviendrons à un accord.<end>
+Je ne peux pas accepter votre offre. Mais je suis certain que nous trouverons un terrain d'entente.<end>
 
 =>a62_original
 ::[Mercantile]:: Thirteen thousand and the Acorn is yours.<end>
 
 =>a62
-::[Mercantile]:: Treize mille et le maïs est à toi.<end>
+::[Mercantile]:: Treize mille, et l'Acorn est à vous.<end>
 
 =>a63_original
 ::[Mercantile]:: Ten thousand and the Acorn is yours.<end>
 
 =>a63
-::[Mercantile]:: Dix mille et le maïs est à toi.<end>
+::[Mercantile]:: Dix mille, et l'Acorn est à vous.<end>
 
 =>a64_original
 ::[Mercantile]:: Seventeen thousand and the Acorn is yours.<end>
 
 =>a64
-::[Mercantile]:: Dix-sept mille et le maïs est à vous.<end>
+::[Mercantile]:: Dix-sept mille, et l'Acorn est à vous.<end>
 
 =>q65_original
 <end>
@@ -426,19 +426,19 @@ Je ne peux pas accepter votre offre. Mais je suis sûr que nous parviendrons à 
 ::[Mercantile]:: Fourteen thousand and the Acorn is yours.<end>
 
 =>a69
-::[Mercantile]:: Quatorze mille et le maïs est à toi.<end>
+::[Mercantile]:: Quatorze mille, et l'Acorn est à vous.<end>
 
 =>a70_original
 ::[Mercantile]:: Eleven thousand and the Acorn is yours.<end>
 
 =>a70
-::[Mercantile]:: Onze mille et le maïs est à toi.<end>
+::[Mercantile]:: Onze mille, et l'Acorn est à vous.<end>
 
 =>a71_original
 ::[Mercantile]:: Eighteen thousand and the Acorn is yours.<end>
 
 =>a71
-::[Mercantile]:: Dix-huit mille et le maïs est à toi.<end>
+::[Mercantile]:: Dix-huit mille, et l'Acorn est à vous.<end>
 
 =>q72_original
 <end>
@@ -468,19 +468,19 @@ Je ne peux pas accepter votre offre. Mais je suis sûr que nous parviendrons à 
 ::[Mercantile]:: Fifteen thousand and the Acorn is yours.<end>
 
 =>a76
-::[Mercantile]:: Quinze mille et le maïs est à vous.<end>
+::[Mercantile]:: Quinze mille, et l'Acorn est à vous.<end>
 
 =>a77_original
 ::[Mercantile]:: Twelve thousand and the Acorn is yours.<end>
 
 =>a77
-::[Mercantile]:: Douze mille et le maïs est à toi.<end>
+::[Mercantile]:: Douze mille, et l'Acorn est à vous.<end>
 
 =>a78_original
 ::[Mercantile]:: Twenty thousand and the Acorn is yours.<end>
 
 =>a78
-::[Mercantile]:: Vingt mille et le maïs est à toi.<end>
+::[Mercantile]:: Vingt mille, et l'Acorn est à vous.<end>
 
 =>q79_original
 <end>
@@ -510,13 +510,13 @@ Je ne peux pas accepter votre offre. Mais je suis sûr que nous parviendrons à 
 ::[Mercantile]:: Seventeen thousand and the Acorn is yours.<end>
 
 =>a83
-::[Mercantile]:: Dix-sept mille et le maïs est à vous.<end>
+::[Mercantile]:: Dix-sept mille, et l'Acorn est à vous.<end>
 
 =>a84_original
 ::[Mercantile]:: Fourteen thousand and the Acorn is yours.<end>
 
 =>a84
-::[Mercantile]:: Quatorze mille et le maïs est à toi.<end>
+::[Mercantile]:: Quatorze mille, et l'Acorn est à vous.<end>
 
 =>a85_original
 Fifteen thousand coins sounds like a good deal to me.<end>
@@ -528,13 +528,13 @@ Quinze mille pièces, ça me semble une bonne affaire.<end>
 Excellent - we have a deal then.<end>
 
 =>q86
-Excellent - nous avons un marché alors.<end>
+Excellent - alors c'est d'accord.<end>
 
 =>a87_original
 Twelve thousand coins sounds like a good deal to me.<end>
 
 =>a87
-Douze mille pièces me semblent bonnes.<end>
+Douze mille pièces, ça me semble une bonne affaire.<end>
 
 =>a88_original
 Nine thousand coins sounds like a good deal to me.<end>
@@ -546,7 +546,7 @@ Neuf mille pièces, ça me semble une bonne affaire.<end>
 I don't want any money. Take the Acorn. ::Give him the Acorn.::<end>
 
 =>a89
-Je ne veux pas d'argent. Prends le maïs. ::Donne-lui le maïs.::<end>
+Je ne veux pas d'argent. Prenez l'Acorn. ::Lui donner l'Acorn.::<end>
 
 =>q90_original
 Just like that?
@@ -568,7 +568,7 @@ Comme ça.<end>
 The thing's nothing but burden anyway.<end>
 
 =>a92
-Ce n'est qu'un fardeau.<end>
+De toute façon, ce truc n'est qu'un boulet.<end>
 
 =>a93_original
 Yes. I think it'll be in better hands.<end>
@@ -586,7 +586,7 @@ Je veux juste m'en débarrasser.<end>
 Are you going to take it or not?<end>
 
 =>a95
-Tu vas le prendre ou pas ?<end>
+Vous le prenez, oui ou non ?<end>
 
 =>q96_original
 Certainly. <end>
@@ -604,13 +604,13 @@ L'argent ne m'intéresse pas. Je veux le katana.<end>
 ::He pauses.:: You want my katana in exchange for the Acorn? Only that?<end>
 
 =>q98
-::Il fait une pause.:: Tu veux mon katana en échange du maïs ? Seulement ça ?<end>
+::Il s'arrête.:: Vous voulez mon katana en échange de l'Acorn ? Rien d'autre ?<end>
 
 =>a99_original
 Yeah. Will you give me the katana or what?<end>
 
 =>a99
-Oui. Tu me donnes le katana ou quoi ?<end>
+Ouais. Vous me donnez le katana, ou quoi ?<end>
 
 =>q100_original
 ::He takes his scabbard and lays it on the table: It is embellished with an intricate drawing of hexagonal shapes looped by a long, serpentine red dragon. He stares at it for a while, as if silently marveling at its beauty. He then responds.::
@@ -620,23 +620,23 @@ This katana has been by my side for many years. But Acorn... Acorn takes precede
 ::He pushes the sword to your side of the table.:: I will miss it greatly. ::His hand is still on the scabbard, however.::<end>
 
 =>q100
-::Il prend son fourreau et le pose sur la table. Il est agrémenté d'un dessin complexe de formes hexagonales enroulées par un long dragon rouge serpentin. Il le fixe pendant un moment, comme s'il s'émerveillait silencieusement de sa beauté. Il répond alors.::
+::Il prend son fourreau et le pose sur la table : il est orné d'un dessin complexe de formes hexagonales enlacées par un long dragon rouge, sinueux. Il le fixe un moment, comme s'il s'émerveillait en silence de sa beauté. Puis il répond.::
 
-Ce katana est à mes côtés depuis de nombreuses années. Mais Acorn... Le gland a priorité.
+Ce katana m'accompagne depuis des années. Mais l'Acorn... l'Acorn passe avant.
 
-::Il pousse l'épée sur ton côté de la table.:: Il me manquera beaucoup. ::Mais sa main est encore sur le fourreau.::<end>
+::Il pousse l'épée de votre côté de la table.:: Il me manquera beaucoup. ::Sa main reste pourtant sur le fourreau.::<end>
 
 =>a101_original
 ::Give him the Acorn.::<end>
 
 =>a101
-::Donne-lui le maïs.::<end>
+::Lui donner l'Acorn.::<end>
 
 =>q102_original
 ::He takes the Acorn and lets go of the sword.::<end>
 
 =>q102
-::Il prend le maïs et lâche l'épée.::<end>
+::Il prend l'Acorn et lâche l'épée.::<end>
 
 =>a103_original
 Correct.<end>
@@ -648,7 +648,7 @@ C'est exact.<end>
 A good blade is all a $(#man/woman) needs.<end>
 
 =>a104
-Une bonne lame est tout un $(#man/woman) besoin.<end>
+Une bonne lame, c'est tout ce dont $(#un homme/une femme) a besoin.<end>
 
 =>a105_original
 Actually, wait...<end>
@@ -666,19 +666,19 @@ En fait, attendez...<end>
 Money doesn't interest me. I want your sword.<end>
 
 =>a107
-L'argent ne m'intéresse pas. Je veux ton épée.<end>
+L'argent ne m'intéresse pas. Je veux votre épée.<end>
 
 =>a108_original
 That sword you got there. Looks interesting.<end>
 
 =>a108
-L'épée que vous avez là. Ça a l'air intéressant.<end>
+Cette épée que vous avez là. Elle a l'air intéressante.<end>
 
 =>q109_original
 It's a katana. Fine swords they are. Require a lot of finesse to cut right, although the energy edge on this one makes it a bit more forgiving. <end>
 
 =>q109
-C'est une katana. De belles épées. Nécessite beaucoup de finesse à couper à droite, bien que le bord de l'énergie sur celui-ci rend un peu plus pardonnant. <end>
+C'est un katana. De belles lames. Il faut beaucoup de finesse pour bien couper, même si le tranchant énergétique de celui-ci pardonne un peu plus. <end>
 
 =>q110_original
 <end>
@@ -690,7 +690,7 @@ C'est une katana. De belles épées. Nécessite beaucoup de finesse à couper à
 ::[Perception]:: What is that animal on the scabbard? A red... snake?<end>
 
 =>a111
-::[Perception]:: Quel est cet animal sur le fourreau ? Un serpent rouge ?<end>
+::[Perception]:: C'est quel animal, sur le fourreau ? Un... serpent rouge ?<end>
 
 =>q112_original
 Dragon. Red Dragon...<end>
@@ -702,61 +702,61 @@ Dragon. Dragon rouge...<end>
 ::[Decapitate]:: Is it good for cutting heads off?<end>
 
 =>a113
-::[Décapit]:: C'est bon pour couper les têtes ?<end>
+::[Decapitate]:: C'est bon pour trancher des têtes ?<end>
 
 =>q114_original
 With proper edge alignment, yes. The energy edge makes the cervical spine a non-obstacle.<end>
 
 =>q114
-Avec un bon alignement des bords, oui. Le bord énergétique fait de la colonne cervicale un obstacle.<end>
+Si le tranchant est bien aligné, oui. Avec le fil énergétique, la colonne cervicale n'est plus un obstacle.<end>
 
 =>a115_original
 ::[Riposte] or [Parry]:: Is it good for parrying?<end>
 
 =>a115
-::[Riposte] ou [Parry]:: C'est bon pour parier ?<end>
+::[Riposte] or [Parry]:: C'est bon pour parer ?<end>
 
 =>q116_original
 Although you can deflect attacks just fine, the katana is not designed to be a defensive weapon: The guard is small and the single-edged blade is disadvantageous in that role. Defense with a katana is overwhelming offense - swift movement, swift attacks and swift kills.<end>
 
 =>q116
-Bien que vous puissiez détourner les attaques, le katana n'est pas conçu pour être une arme défensive : La garde est petite et la lame à simple tranchant est désavantageuse dans ce rôle. La défense avec un katana est une offense écrasante - mouvement rapide, attaques rapides et tués rapidement.<end>
+Vous pouvez tout à fait dévier les coups, mais le katana n'est pas conçu comme une arme défensive : la garde est petite, et le simple tranchant est un handicap dans ce rôle. Défendre au katana, c'est submerger l'adversaire - mouvement vif, attaques vives, et tuer vite.<end>
 
 =>a117_original
 ::[Flurry]:: How fast can you cut with it?<end>
 
 =>a117
-::[Flurry]:: À quelle vitesse pouvez-vous couper avec ?<end>
+::[Flurry]:: À quelle vitesse on peut couper, avec ?<end>
 
 =>q118_original
 Lightning fast. It's a light, well-balanced sword; even a slightly off-set energy edge will ruin the balance, but this one is perfect.<end>
 
 =>q118
-Vite. C'est une épée légère et équilibrée ; même un bord d'énergie légèrement décalé ruinera l'équilibre, mais celui-ci est parfait.<end>
+À la vitesse de l'éclair. C'est une épée légère, bien équilibrée ; même un tranchant énergétique un peu décalé ruinerait l'équilibre, mais celui-ci est parfait.<end>
 
 =>a119_original
 I don't want the money - I want your katana.<end>
 
 =>a119
-Je ne veux pas l'argent, je veux ton katana.<end>
+Je ne veux pas l'argent - je veux votre katana.<end>
 
 =>a120_original
 Interesting. Where were we...?<end>
 
 =>a120
-Intéressant. Où en étions-nous ?<end>
+Intéressant. Où en étions-nous... ?<end>
 
 =>q121_original
 The Acorn.<end>
 
 =>q121
-Le maïs.<end>
+L'Acorn.<end>
 
 =>a122_original
 Tell me about the Acorn. What's the deal with it, anyway?<end>
 
 =>a122
-Parlez-moi du maïs. C'est quoi le problème ?<end>
+Parlez-moi de l'Acorn. Qu'est-ce que c'est, au juste ?<end>
 
 =>q123_original
 <end>
@@ -768,31 +768,31 @@ Parlez-moi du maïs. C'est quoi le problème ?<end>
 The professor hadn't told you anything about it?<end>
 
 =>q124
-Le professeur ne t'en a rien dit ?<end>
+Le professeur ne vous en a rien dit ?<end>
 
 =>a125_original
 He did, but not enough.<end>
 
 =>a125
-Il l'a fait, mais pas assez.<end>
+Si, mais pas assez.<end>
 
 =>q126_original
 Don't expect me to overly illuminate you either, but... very well. <end>
 
 =>q126
-Ne vous attendez pas non plus à ce que je vous éclaire trop, mais... très bien. <end>
+Ne vous attendez pas à ce que je vous éclaire beaucoup non plus, mais... très bien. <end>
 
 =>q127_original
 There's no reason to hide anything at this point.<end>
 
 =>q127
-Il n'y a aucune raison de cacher quoi que ce soit.<end>
+À ce stade, plus aucune raison de cacher quoi que ce soit.<end>
 
 =>q128_original
 The Acorn is a device capable of autonomously manufacturing highly complex things out of whatever materials are available to it. I couldn't possibly give you the details of the process itself, but some of the things it is capable of producing cannot be accomplished by any other means, at least not easily or as well.<end>
 
 =>q128
-L'Acorn est un appareil capable de fabriquer de façon autonome des choses hautement complexes à partir de tous les matériaux disponibles. Je ne pourrais pas vous donner les détails du processus lui-même, mais certaines des choses qu'il est capable de produire ne peuvent être accomplies par aucun autre moyen, du moins pas facilement ou aussi bien.<end>
+L'Acorn est un appareil capable de fabriquer tout seul des choses très complexes, à partir de n'importe quels matériaux à sa portée. Je ne pourrais pas vous donner les détails du processus lui-même, mais certaines des choses qu'il arrive à produire, on ne les fait par aucun autre moyen - du moins pas aussi facilement, ni aussi bien.<end>
 
 =>q129_original
 You must already be thinking: "What can I do with such a thing?" But the truth is, *you* can't do anything. You can't open the container: It has a quantum near-field lock that can only be opened by a coded signal. A coded signal lost in time.
@@ -800,21 +800,21 @@ You must already be thinking: "What can I do with such a thing?" But the truth i
 And the lock is so advanced not a single one has ever been fooled.<end>
 
 =>q129
-Vous devez déjà penser: "Que puis-je faire d'une telle chose?" Mais la vérité, c'est que tu ne peux rien faire. Vous ne pouvez pas ouvrir le conteneur : Il a un verrou quantique à champ proche qui ne peut être ouvert que par un signal codé. Un signal codé perdu dans le temps.
+Vous devez déjà vous dire : « Qu'est-ce que je pourrais faire d'un truc pareil ? » Mais la vérité, c'est que *vous* n'en ferez rien. Vous ne pouvez pas ouvrir le conteneur : il a une serrure quantique à champ proche, qui ne s'ouvre que sur un signal codé. Un signal perdu dans le temps.
 
-Et la serrure est tellement avancée que personne n'a jamais été dupé.<end>
+Et la serrure est si avancée que jamais aucune n'a été trompée.<end>
 
 =>q130_original
 Truthfully, and between you and me, I doubt any of the experts at United Stations would be up to the task. Once they figure that out they'll turn to someone else for help. Hexagon, perhaps.<end>
 
 =>q130
-En vérité, et entre vous et moi, je doute que les experts de United Stations soient à la hauteur. Une fois qu'ils auront compris, ils se tourneront vers quelqu'un d'autre pour obtenir de l'aide. Peut-être l'hexagone.<end>
+Honnêtement, et entre nous, je doute que les experts des United Stations soient à la hauteur. Quand ils s'en rendront compte, ils iront chercher de l'aide ailleurs. Hexagon, peut-être.<end>
 
 =>q131_original
 So in the end, your options are rather limited, you know. <end>
 
 =>q131
-Donc en fin de compte, vos options sont assez limitées, vous savez. <end>
+Alors au final, vos options sont assez limitées, vous savez. <end>
 
 =>q132_original
 You could try wasting your time but no one here will get to the goods inside, so it will inevitably end up in the North anyway. Few even know what the Acorn is, so if you decide to sell it you're unlikely... let's be straight with each other - you'll *never* get as good a deal as I'm offering you right here, right now. 
@@ -822,9 +822,9 @@ You could try wasting your time but no one here will get to the goods inside, so
 So just cut out the middle man and walk away rich. <end>
 
 =>q132
-Vous pourriez essayer de perdre votre temps mais personne ici n'arrivera aux marchandises à l'intérieur, donc il finira inévitablement dans le Nord de toute façon. Peu de gens savent ce qu'est le maïs, donc si vous décidez de le vendre, vous êtes peu probables... soyons honnêtes l'un avec l'autre - vous n'obtiendrez jamais un accord aussi bon que je vous offre ici, maintenant.
+Vous pourriez perdre votre temps, mais personne ici n'accédera à ce qu'il y a dedans, donc ça finira de toute façon dans le Nord. Peu de gens savent seulement ce qu'est l'Acorn, alors si vous décidez de le vendre, vous n'avez guère de chances... soyons francs - vous n'aurez *jamais* une offre aussi bonne que celle que je vous fais, ici, maintenant.
 
-Alors coupe le milieu et pars riche. <end>
+Alors sautez l'intermédiaire, et partez riche. <end>
 
 =>q133_original
 <end>
@@ -836,19 +836,19 @@ Alors coupe le milieu et pars riche. <end>
 And your offer is?<end>
 
 =>a134
-Et votre offre est ?<end>
+Et votre offre ?<end>
 
 =>a135_original
 I cannot give it to you. It belongs to Professor Oldfield.<end>
 
 =>a135
-Je ne peux pas te la donner. Il appartient au professeur Oldfield.<end>
+Je ne peux pas vous le donner. Il appartient au professeur Oldfield.<end>
 
 =>a136_original
 It's going to cost you a lot.<end>
 
 =>a136
-Ça va te coûter cher.<end>
+Ça va vous coûter cher.<end>
 
 =>a137_original
 No.<end>
@@ -866,31 +866,31 @@ Très bien. <end>
 I get the impression that the preferred outcome is for the Acorn to ultimately end up in Hexagon, you being Hexagonian yourself.<end>
 
 =>a139
-J'ai l'impression que le résultat préféré est que le maïs finit par se retrouver à Hexagon, vous étant vous-même Hexagonien.<end>
+J'ai l'impression que le dénouement souhaité, c'est que l'Acorn finisse à Hexagon, vous étant vous-même d'Hexagon.<end>
 
 =>q140_original
 I am Hexagonian, a fact I'm not attempting to conceal. I am a loyal servant to the United Stations, make no mistake, but when it comes to technology, Hexagon is *unrivaled*, which is another fact I won't conceal.<end>
 
 =>q140
-Je suis Hexagonien, un fait que je n'essaie pas de cacher. Je suis un fidèle serviteur des United Stations, ne vous méprenez pas, mais quand il s'agit de technologie, Hexagon est *invisible*, ce qui est un autre fait que je ne cacherai pas.<end>
+Je suis d'Hexagon, je ne cherche pas à le cacher. Je suis un fidèle serviteur des United Stations, ne vous y trompez pas, mais dès qu'il s'agit de technologie, Hexagon est *sans égale*, et ça non plus je ne le cacherai pas.<end>
 
 =>q141_original
 It is not a preferred outcome; it is perhaps inevitable.<end>
 
 =>q141
-Ce n'est pas un résultat privilégié, c'est peut-être inévitable.<end>
+Ce n'est pas un dénouement souhaité ; c'est peut-être inévitable.<end>
 
 =>a142_original
 ::[Intelligence]:: I get the impression that the preferred outcome is for the Acorn to ultimately end up in Hexagon, you being Hexagonian yourself.<end>
 
 =>a142
-::[Intelligence]:: J'ai l'impression que le résultat préféré est que le maïs finit par se retrouver en Hexagone, vous étant vous-même Hexagonien.<end>
+::[Intelligence]:: J'ai l'impression que le dénouement souhaité, c'est que l'Acorn finisse à Hexagon, vous étant vous-même d'Hexagon.<end>
 
 =>a143_original
 I don't have the Acorn on me at the moment. I'll go get it, then we can continue our negotiations.<end>
 
 =>a143
-Je n'ai pas le maïs sur moi en ce moment. Je vais le chercher, alors nous pourrons poursuivre nos négociations.<end>
+Je n'ai pas l'Acorn sur moi pour l'instant. Je vais le chercher, ensuite on pourra continuer les négociations.<end>
 
 =>q144_original
 I see you've taken all the necessary precautions.
@@ -900,19 +900,19 @@ Very well. I'll wait, I'll wait. Just don't make me think you're not coming back
 =>q144
 Vous avez pris toutes les précautions nécessaires.
 
-Très bien. Je vais attendre. Ne me faites pas croire que vous ne reviendrez pas.<end>
+Très bien. J'attendrai. Ne me donnez pas l'impression que vous ne reviendrez pas.<end>
 
 =>a145_original
 No deal. The Acorn stays with me.<end>
 
 =>a145
-Pas de marché. L'Acorn reste avec moi.<end>
+Pas d'accord. L'Acorn reste avec moi.<end>
 
 =>q146_original
 Listen: <end>
 
 =>q146
-Écoute. <end>
+Écoutez : <end>
 
 =>q147_original
 <end>
@@ -924,7 +924,7 @@ Listen: <end>
 If you're still doubtful as to how important the Acorn is to us, $(context.player.Name), ask yourself this question: Do I look to you like someone who'd leave South Underrail without it?<end>
 
 =>q148
-Si vous doutez encore de l'importance du maïs pour nous, $(context.player.Name), posez-vous cette question : Est-ce que je te regarde comme quelqu'un qui quitterait Sud Underrail sans ça ?<end>
+Si vous doutez encore de l'importance de l'Acorn pour nous, $(context.player.Name), posez-vous cette question : est-ce que j'ai l'air de quelqu'un qui quitterait le South Underrail sans ça ?<end>
 
 =>q149_original
 ::He pauses, then continues.:: <end>
@@ -936,37 +936,37 @@ Si vous doutez encore de l'importance du maïs pour nous, $(context.player.Name)
 You do speak with impenetrable conviction, but if you're smart enough to obtain the Acorn you're smart enough to know how to keep it.<end>
 
 =>q150
-Vous parlez avec une conviction impénétrable, mais si vous êtes assez intelligent pour obtenir le maïs, vous êtes assez intelligent pour savoir comment le garder.<end>
+Vous parlez avec une conviction impénétrable, mais si vous êtes assez malin pour mettre la main sur l'Acorn, vous l'êtes assez pour savoir le garder.<end>
 
 =>q151_original
 I'll give you one more chance to change your answer. Do you have the Acorn?<end>
 
 =>q151
-Je vous donne une autre chance de changer votre réponse. Vous avez le maïs ?<end>
+Je vous donne encore une chance de changer de réponse. Avez-vous l'Acorn ?<end>
 
 =>a152_original
 I have the Acorn.<end>
 
 =>a152
-J'ai le maïs.<end>
+J'ai l'Acorn.<end>
 
 =>q153_original
 ::He nods after a pause.:: Excellent. Now we're getting somewhere.<end>
 
 =>q153
-::Il fait signe après une pause.:: Excellent. Maintenant nous allons quelque part.<end>
+::Il hoche la tête après une pause.:: Excellent. Voilà qui avance.<end>
 
 =>a154_original
 No. I don't have the Acorn.<end>
 
 =>a154
-C'est pas vrai. Je n'ai pas le maïs.<end>
+Non. Je n'ai pas l'Acorn.<end>
 
 =>q155_original
 Then we're done here - but we're not *done*. <end>
 
 =>q155
-Alors on a fini ici, mais on n'est pas morts. <end>
+Alors on en a fini ici - mais on n'en a pas *fini*. <end>
 
 =>q156_original
 <end>
@@ -980,9 +980,9 @@ I'll look into what you told me.
 If I find out you crossed me - we'll meet again.<end>
 
 =>q157
-Je vais voir ce que tu m'as dit.
+Je vais vérifier ce que vous m'avez dit.
 
-Si je découvre que tu m'as croisé, on se reverra.<end>
+Si j'apprends que vous m'avez joué - on se reverra.<end>
 
 =>q158_original
 Now if you'd excuse me...<end>
@@ -994,13 +994,13 @@ Si vous voulez bien m'excuser...<end>
 Wait. What's so important about the Acorn anyway?<end>
 
 =>a159
-Attendez. Qu'y a-t-il de si important dans le maïs ?<end>
+Attendez. Qu'est-ce qui est si important, avec l'Acorn ?<end>
 
 =>q160_original
 Leave.<end>
 
 =>q160
-Partir.<end>
+Partez.<end>
 
 =>a161_original
 Farewell.<end>
@@ -1012,19 +1012,19 @@ Adieu.<end>
 Yeah. And tell your tailor to take it easy on the drugs.<end>
 
 =>a162
-Oui. Et dis à ton tailleur de s'en occuper facilement.<end>
+Ouais. Et dites à votre tailleur d'y aller mollo sur la came.<end>
 
 =>a163_original
 Freak...<end>
 
 =>a163
-Crétin...<end>
+Taré...<end>
 
 =>a164_original
 ::Leave without saying a word.::<end>
 
 =>a164
-::Partez sans dire un mot.::<end>
+::Partir sans un mot.::<end>
 
 =>q165_original
 We'll meet again.<end>
@@ -1036,7 +1036,7 @@ Nous nous reverrons.<end>
 No. Now leave me alone.<end>
 
 =>a166
-C'est pas vrai. Laisse-moi tranquille.<end>
+Non. Maintenant, laissez-moi tranquille.<end>
 
 =>q167_original
 <end>
@@ -1054,7 +1054,7 @@ C'est pas vrai. Laisse-moi tranquille.<end>
 Captain Grim of the Grim Jetters - the pirates of the Black Sea.<end>
 
 =>a169
-Capitaine Grim des Jetters Grim - les pirates du Black Sea.<end>
+Le capitaine Grim des Grim Jetters - les pirates du Black Sea.<end>
 
 =>q170_original
 The pirates?<end>
@@ -1066,31 +1066,31 @@ Les pirates ?<end>
 I'm a man of many hobbies, piracy being one of them.<end>
 
 =>a171
-Je suis un homme de nombreux passe-temps, la piraterie étant l'un d'entre eux.<end>
+J'ai plus d'un dada, la piraterie en fait partie.<end>
 
 =>q172_original
 It could be. <end>
 
 =>q172
-Ça pourrait l'être. <end>
+Ça se pourrait. <end>
 
 =>q173_original
 But how can I know that you're telling me the truth?<end>
 
 =>q173
-Mais comment savoir que tu me dis la vérité ?<end>
+Mais comment savoir que vous me dites la vérité ?<end>
 
 =>a174_original
 I'd be glad to help you any way I can. I want this to get cleared up as much as you do.<end>
 
 =>a174
-Je serais ravi de t'aider. Je veux que ça soit aussi clair que vous.<end>
+Je vous aiderai volontiers, de toutes les façons possibles. Je veux que ça soit éclairci autant que vous.<end>
 
 =>q175_original
 ::He observes you, pondering.:: <end>
 
 =>q175
-::Il vous observe, réfléchissant.:: <end>
+::Il vous observe, songeur.:: <end>
 
 =>a176_original
 Not my problem.<end>
@@ -1108,19 +1108,19 @@ Rupert Simmons.<end>
 *The* Rupert Simmons?<end>
 
 =>q178
-*Les * Rupert Simmons ?<end>
+*Le* Rupert Simmons ?<end>
 
 =>a179_original
 I work for Coretech... but you knew that already, right?<end>
 
 =>a179
-Je travaille pour Coretech... mais tu le savais déjà, non ?<end>
+Je travaille pour Coretech... mais vous le saviez déjà, non ?<end>
 
 =>q180_original
 Yes. Fortunately, what you told me can be verified. I have contacts there.<end>
 
 =>q180
-Oui. Heureusement, ce que vous m'avez dit peut être vérifié. J'ai des contacts.<end>
+Oui. Heureusement, ce que vous m'avez dit peut se vérifier. J'ai des contacts là-bas.<end>
 
 =>a181_original
 Gunnar Edstrom.<end>
@@ -1138,7 +1138,7 @@ Gunnar Edstrom.<end>
 I work for JKK... but you knew that already, right?<end>
 
 =>a183
-Je travaille pour JKK... mais tu le savais déjà, non ?<end>
+Je travaille pour JKK... mais vous le saviez déjà, non ?<end>
 
 =>q184_original
 Indeed. <end>
@@ -1150,25 +1150,25 @@ En effet. <end>
 Archibald Knight.<end>
 
 =>a185
-Chevalier Archibald.<end>
+Archibald Knight.<end>
 
 =>q186_original
 *The* Archibald Knight?<end>
 
 =>q186
-Le Chevalier de l'Archibalde ?<end>
+*L'*Archibald Knight ?<end>
 
 =>a187_original
 I work for Praetorian Security... but you knew that already, right?<end>
 
 =>a187
-Je travaille pour Praetorian Security... mais tu le savais déjà, non ?<end>
+Je travaille pour Praetorian Security... mais vous le saviez déjà, non ?<end>
 
 =>a188_original
 Hadrian Tanner at SGS.<end>
 
 =>a188
-Hadrien Tanner à SGS.<end>
+Hadrian Tanner, à SGS.<end>
 
 =>q189_original
 South Gate Station?<end>
@@ -1216,7 +1216,7 @@ Bien sûr.<end>
 I see. Although it wasn't planned, I suppose I will be paying Consul Oliver a visit after all. <end>
 
 =>q196
-Je vois. Bien que ce n'était pas prévu, je suppose que je vais rendre visite au consul Oliver. <end>
+Je vois. Même si ce n'était pas prévu, je suppose que je vais tout de même rendre visite au consul Oliver. <end>
 
 =>a197_original
 Free Drones.<end>
@@ -1228,7 +1228,7 @@ Free Drones.<end>
 The Free Drones?<end>
 
 =>q198
-Le Free Drones ?<end>
+Les Free Drones ?<end>
 
 =>a199_original
 Yes. Problem?<end>
@@ -1240,7 +1240,7 @@ Oui. Un problème ?<end>
 Indeed. There is no way for me to know you're telling the truth, is there?<end>
 
 =>q200
-En effet. Il n'y a aucun moyen pour moi de savoir que tu dis la vérité, n'est-ce pas ?<end>
+En effet. Je n'ai aucun moyen de savoir si vous dites la vérité, n'est-ce pas ?<end>
 
 =>a201_original
 Gloria.<end>
@@ -1258,19 +1258,19 @@ Gloria ? Gloria qui ?<end>
 Gloria, the electric arc furnace in Foundry.<end>
 
 =>a203
-Gloria, le four à arc électrique en Foundry.<end>
+Gloria, le four à arc électrique de Foundry.<end>
 
 =>q204_original
 Are you... telling me you destroyed it? ::His eyes broaden in disbelief.:: You fool! Can you even possibly fathom what you've done?<end>
 
 =>q204
-Vous me dites que vous l'avez détruit ? ::Ses yeux s'élargissent dans l'incrédulité.:: Imbécile ! Pouvez-vous comprendre ce que vous avez fait ?<end>
+Vous... me dites que vous l'avez détruite ? ::Ses yeux s'écarquillent, incrédule.:: Imbécile ! Pouvez-vous seulement concevoir ce que vous avez fait ?<end>
 
 =>a205_original
 I rid the world of that thing. Go to Foundry yourself if you don't believe me.<end>
 
 =>a205
-Je me suis débarrassé de ce truc. Allez à Foundry vous-même si vous ne me croyez pas.<end>
+J'ai débarrassé le monde de ce truc. Allez à Foundry vous-même si vous ne me croyez pas.<end>
 
 =>q206_original
 This cannot be true... ::He takes a moment to recompose himself.::
@@ -1278,15 +1278,15 @@ This cannot be true... ::He takes a moment to recompose himself.::
 I will go there at once. If I find out you crossed me - we'll meet again.<end>
 
 =>q206
-Cela ne peut pas être vrai... ::Il prend un moment pour se recomposer.::
+Ce n'est pas possible... ::Il prend un moment pour se reprendre.::
 
-Je vais y aller immédiatement. Si je découvre que tu m'as croisé, on se reverra.<end>
+J'y vais tout de suite. Si j'apprends que vous m'avez joué - on se reverra.<end>
 
 =>a207_original
 Yup. It's gone.<end>
 
 =>a207
-Oui. C'est parti.<end>
+Ouais. Elle n'est plus.<end>
 
 =>a208_original
 Someone...<end>
@@ -1304,25 +1304,25 @@ Quelqu'un...<end>
 I'm not at liberty to say.<end>
 
 =>a210
-Je ne suis pas libre de le dire.<end>
+Je n'ai pas le droit de le dire.<end>
 
 =>a211_original
 That's none of your business.<end>
 
 =>a211
-Ça ne te regarde pas.<end>
+Ça ne vous regarde pas.<end>
 
 =>a212_original
 I'm tired of your questions. I don't have it anymore and that's all you need to know.<end>
 
 =>a212
-J'en ai assez de vos questions. Je ne l'ai plus et c'est tout ce que vous devez savoir.<end>
+J'en ai assez de vos questions. Je ne l'ai plus, et c'est tout ce que vous avez besoin de savoir.<end>
 
 =>q213_original
 ::He answers after a brief delay.:: I see. <end>
 
 =>q213
-::Il répond après un bref délai.:: Je vois. <end>
+::Il répond après un court silence.:: Je vois. <end>
 
 =>a214_original
 This conversation is over.<end>
@@ -1334,13 +1334,13 @@ Cette conversation est terminée.<end>
 Don't be stupid.<end>
 
 =>q215
-Ne sois pas stupide.<end>
+Ne soyez pas stupide.<end>
 
 =>a216_original
 On second thought...<end>
 
 =>a216
-À la seconde réflexion...<end>
+À y réfléchir...<end>
 
 =>q217_original
 ::He nods.::<end>
@@ -1352,31 +1352,31 @@ On second thought...<end>
 No deal.<end>
 
 =>a218
-Pas de marché.<end>
+Pas d'accord.<end>
 
 =>q219_original
 Now, do you have the Acorn or not? I won't ask you again.<end>
 
 =>q219
-Vous avez le maïs ou pas ? Je ne vous le demanderai plus.<end>
+Alors, vous avez l'Acorn, oui ou non ? Je ne vous le demanderai pas deux fois.<end>
 
 =>q220_original
 I already told you I'm not going back without the Acorn.<end>
 
 =>q220
-Je t'ai déjà dit que je ne reviendrai pas sans l'Acorn.<end>
+Je vous l'ai déjà dit : je ne rentre pas sans l'Acorn.<end>
 
 =>a221_original
 No deal. I've made up my mind.<end>
 
 =>a221
-Pas de marché. Je me suis décidé.<end>
+Pas d'accord. J'ai fait mon choix.<end>
 
 =>q222_original
 twelve thousand <end>
 
 =>q222
-12 000 <end>
+douze mille <end>
 
 =>q223_original
 fifteen thousand <end>
@@ -1388,31 +1388,31 @@ quinze mille <end>
 ...but I cannot give it to you. It belongs to Professor Oldfield.<end>
 
 =>a224
-...mais je ne peux pas te la donner. Il appartient au professeur Oldfield.<end>
+...mais je ne peux pas vous le donner. Il appartient au professeur Oldfield.<end>
 
 =>q225_original
 I've met with the professor following his return. He is in no condition to take care of himself let alone something as important as the Acorn.<end>
 
 =>q225
-J'ai rencontré le professeur après son retour. Il n'est pas en état de prendre soin de lui et encore moins de quelque chose d'aussi important que le maïs.<end>
+J'ai vu le professeur à son retour. Il n'est pas en état de s'occuper de lui-même, encore moins de quelque chose d'aussi important que l'Acorn.<end>
 
 =>q226_original
 I'm sure Professor Oldfield wouldn't mind if I took the Acorn. After all, he's perfectly aware that it is, as of the moment of its discovery, the property of United Stations.<end>
 
 =>q226
-Je suis sûr que le professeur Oldfield ne me dérangerait pas si je prenais le maïs. Après tout, il est parfaitement conscient que c'est, dès le moment de sa découverte, la propriété de United Stations.<end>
+Je suis certain que le professeur Oldfield n'y verrait pas d'inconvénient si je prenais l'Acorn. Après tout, il sait parfaitement que, dès l'instant de sa découverte, c'est la propriété des United Stations.<end>
 
 =>a227_original
 Here it is then. ::Give him the Acorn.::<end>
 
 =>a227
-Voilà. ::Donne-lui le maïs.::<end>
+Voilà. ::Lui donner l'Acorn.::<end>
 
 =>a228_original
 Perhaps. But Professor Oldfield would've paid me as well.<end>
 
 =>a228
-Peut-être. Mais le professeur Oldfield m'aurait aussi payé.<end>
+Peut-être. Mais le professeur Oldfield m'aurait payé, lui aussi.<end>
 
 =>q229_original
 ::He nods.:: No problem. <end>
@@ -1424,13 +1424,13 @@ Peut-être. Mais le professeur Oldfield m'aurait aussi payé.<end>
 To make a decision I'd need to know a bit more about the Acorn.<end>
 
 =>a230
-Pour prendre une décision, j'aurais besoin d'en savoir un peu plus sur le maïs.<end>
+Pour décider, j'aurais besoin d'en savoir un peu plus sur l'Acorn.<end>
 
 =>q231_original
 Then why haven't you given it to him already?<end>
 
 =>q231
-Alors pourquoi tu ne lui as pas déjà donné ?<end>
+Alors pourquoi ne le lui avez-vous pas déjà donné ?<end>
 
 =>a232_original
 I was about to.<end>
@@ -1448,37 +1448,37 @@ J'allais le faire.<end>
 Things got in the way.<end>
 
 =>a234
-Les choses sont en travers du chemin.<end>
+Les choses se sont mises en travers.<end>
 
 =>a235_original
 I'm waiting for the right opportunity. He's surrounded with people who can't be trusted.<end>
 
 =>a235
-J'attends la bonne opportunité. Il est entouré de gens à qui on ne peut pas faire confiance.<end>
+J'attends le bon moment. Il est entouré de gens auxquels on ne peut pas faire confiance.<end>
 
 =>a236_original
 I wanted to see if I could learn more about it first.<end>
 
 =>a236
-Je voulais voir si je pouvais en apprendre davantage.<end>
+Je voulais d'abord voir si je pouvais en apprendre davantage.<end>
 
 =>a237_original
 ...but it's going to cost you a lot.<end>
 
 =>a237
-Mais ça va te coûter cher.<end>
+...mais ça va vous coûter cher.<end>
 
 =>a238_original
 ...but before we do anything else, I'd like to know more about what it does.<end>
 
 =>a238
-...mais avant de faire autre chose, j'aimerais en savoir plus sur ce qu'il fait.<end>
+...mais avant d'aller plus loin, j'aimerais en savoir plus sur ce que ça fait.<end>
 
 =>a239_original
 Here, take it. ::Give him the Acorn.::<end>
 
 =>a239
-Tiens, prends-le. ::Donne-lui le maïs.::<end>
+Tenez, prenez-le. ::Lui donner l'Acorn.::<end>
 
 =>a240_original
 I don't have it.<end>
@@ -1490,25 +1490,25 @@ Je ne l'ai pas.<end>
 I know it's been found.<end>
 
 =>q241
-Je sais qu'on l'a trouvé.<end>
+Je sais qu'il a été trouvé.<end>
 
 =>a242_original
 ::[Persuade]:: It was taken from me.<end>
 
 =>a242
-::[Persuader]:: Ça m'a été pris.<end>
+::[Persuade]:: On me l'a pris.<end>
 
 =>q243_original
 ::He pauses, staring.::<end>
 
 =>q243
-::Il s'arrête, il regarde.::<end>
+::Il s'arrête, le regard fixe.::<end>
 
 =>a244_original
 It was the bloody pirates! I was returning to Core City when they surrounded me in Dreadpool and robbed me.<end>
 
 =>a244
-C'était les pirates ! Je retournais à Core City quand ils m'ont encerclé à Dreadpool et m'ont volé.<end>
+C'était ces putains de pirates ! Je rentrais à Core City quand ils m'ont encerclé$(#/e) à Dreadpool et tout piqué.<end>
 
 =>q245_original
 The pirates... <end>
@@ -1520,13 +1520,13 @@ Les pirates... <end>
 ::He looks at you with distrust.::<end>
 
 =>q246
-::Il te regarde avec méfiance.::<end>
+::Il vous regarde avec méfiance.::<end>
 
 =>a247_original
 Search me if you'd like. Here. ::Reach for your things.::<end>
 
 =>a247
-Fouillez-moi si vous voulez. Ici. ::Atteindre vos affaires.::<end>
+Fouillez-moi, si vous voulez. Voilà. ::Porter la main à vos affaires.::<end>
 
 =>q248_original
 ::He leans back, raising his head slightly.::
@@ -1534,21 +1534,21 @@ Fouillez-moi si vous voulez. Ici. ::Atteindre vos affaires.::<end>
 Stop. It's meaningless. <end>
 
 =>q248
-::Il se penche en arrière, levant légèrement la tête.::
+::Il se recule, la tête légèrement relevée.::
 
-Arrête. C'est sans signification. <end>
+Stop. Ça ne sert à rien. <end>
 
 =>q249_original
 Don't lie to me. <end>
 
 =>q249
-Ne me mens pas. <end>
+Ne me mentez pas. <end>
 
 =>a250_original
 ::[Intelligence]:: I ran into a Faceless patrol near Core City. My mind went blurry and I fell to the ground. I woke up later, and the Acorn was gone.<end>
 
 =>a250
-::[Intelligence]:: J'ai rencontré une patrouille Faceless près de Core City. Mon esprit est devenu flou et je suis tombé à terre. Je me suis réveillé plus tard, et l'Acor était parti.<end>
+::[Intelligence]:: Je suis tombé$(#/e) sur une patrouille Faceless près de Core City. L'esprit s'est brouillé, je me suis écroulé$(#/e). Je me suis réveillé$(#/e) plus tard : l'Acorn n'était plus là.<end>
 
 =>q251_original
 <end>
@@ -1560,13 +1560,13 @@ Ne me mens pas. <end>
 The Faceless... <end>
 
 =>q252
-Le Faceless... <end>
+Les Faceless... <end>
 
 =>a253_original
 I ran into a Faceless patrol near Core City, armed to their wicked masks. The Acorn was the only thing they took from me. As if they...<end>
 
 =>a253
-J'ai croisé une patrouille Faceless près de Core City, armée de leurs mauvais masques. Le maïs était la seule chose qu'ils m'ont prise. Comme s'ils...<end>
+Je suis tombé$(#/e) sur une patrouille Faceless près de Core City, armée jusqu'à leurs masques tordus. L'Acorn est la seule chose qu'ils m'ont prise. Comme s'ils...<end>
 
 =>q254_original
 <end>
@@ -1578,7 +1578,7 @@ J'ai croisé une patrouille Faceless près de Core City, armée de leurs mauvais
 A... lover of mine robbed me. Some $(#girl/guy) called $(#Janice/Ben) whom I met at the Hardcore City Bar. $(#She/He) put something in my brew and when I woke up I realized all my things were gone, Acorn included. $(#Snake/Bastard)!<end>
 
 =>a255
-Un de mes amis m'a volé. Quelque $(#girl/guy) appelé $(#Janice/Ben) que j'ai rencontré au Hardcore City Bar. $(#She/He) a mis quelque chose dans ma brasserie et quand je me suis réveillé, j'ai réalisé que toutes mes choses étaient parties, y compris Acorn. $(#Snake/Bastard) !<end>
+$(#Une amante/Un amant) m'a volé$(#/e). $(#Une fille/Un gars) du nom de $(#Janice/Ben), que j'ai rencontré$(#e/) au Hardcore City Bar. $(#Elle/Il) a mis quelque chose dans ma pinte, et au réveil plus rien : affaires, Acorn, tout. $(#Vipère/Salaud) !<end>
 
 =>q256_original
 <end>
@@ -1590,19 +1590,19 @@ Un de mes amis m'a volé. Quelque $(#girl/guy) appelé $(#Janice/Ben) que j'ai r
 A lover drugged you... <end>
 
 =>q257
-Un amant t'a drogué... <end>
+Un amant vous a drogué$(#/e)... <end>
 
 =>a258_original
 You can choose to believe me or not, but I was intercepted by Ironheads just south of Core City. Usually I can handle a few mooks, but this time there was too many of them. They took most of my stuff and Acorn as well.<end>
 
 =>a258
-Vous pouvez choisir de me croire ou non, mais j'ai été intercepté par Ironheads juste au sud de Core City. D'habitude, je peux m'en occuper, mais cette fois, il y en avait trop. Ils ont pris la plupart de mes affaires et Acorn aussi.<end>
+Croyez-moi ou non, mais des Ironheads m'ont intercepté$(#/e) juste au sud de Core City. D'habitude je me débrouille avec quelques sbires, mais cette fois ils étaient trop nombreux. Ils ont pris le gros de mon matos, l'Acorn avec.<end>
 
 =>q259_original
 Ironheads... <end>
 
 =>q259
-Des têtes de fer... <end>
+Des Ironheads... <end>
 
 =>a260_original
 I had it, but I gave it to someone.<end>
@@ -1614,19 +1614,19 @@ Je l'avais, mais je l'ai donné à quelqu'un.<end>
 Who?<end>
 
 =>q261
-OMS?<end>
+Qui ?<end>
 
 =>a262_original
 But not by me. I never had this Acorn thing. I don't even know what it is.<end>
 
 =>a262
-Mais pas par moi. Je n'ai jamais eu ce truc avec Acorn. Je ne sais même pas ce que c'est.<end>
+Mais pas par moi. Je n'ai jamais eu ce truc, l'Acorn. Je ne sais même pas ce que c'est.<end>
 
 =>a263_original
 How could you possibly know whether I have such a thing?<end>
 
 =>a263
-Comment pouvez-vous savoir si j'ai une telle chose ?<end>
+Comment pourriez-vous savoir si j'ai un truc pareil ?<end>
 
 =>q264_original
 I know.<end>
@@ -1638,37 +1638,37 @@ Je sais.<end>
 What is this about, exactly?<end>
 
 =>a265
-De quoi s'agit-il exactement ?<end>
+C'est à propos de quoi, exactement ?<end>
 
 =>a266_original
 I see the United Stations have a very lenient dress code up North.<end>
 
 =>a266
-Je vois que les United Stations ont un code vestimentaire très clément au nord.<end>
+Je vois que les United Stations ont un code vestimentaire très souple, dans le Nord.<end>
 
 =>q267_original
 Their code is rather strict, but it doesn't apply to me. And we are not in North Underrail.<end>
 
 =>q267
-Leur code est assez strict, mais il ne s'applique pas à moi. Et nous ne sommes pas dans le Nord Underrail.<end>
+Leur code est plutôt strict, mais il ne s'applique pas à moi. Et nous ne sommes pas dans le North Underrail.<end>
 
 =>a268_original
 What do you want, Aran?<end>
 
 =>a268
-Que voulez-vous, Aran ?<end>
+Qu'est-ce que vous voulez, Aran ?<end>
 
 =>a269_original
 Jon told me your name. What is this all about?<end>
 
 =>a269
-Jon m'a dit votre nom. De quoi s'agit-il ?<end>
+Jon m'a dit votre nom. C'est à propos de quoi ?<end>
 
 =>a270_original
 You've mistaken me for someone else.<end>
 
 =>a270
-Tu me prends pour quelqu'un d'autre.<end>
+Vous me prenez pour quelqu'un d'autre.<end>
 
 =>q271_original
 I know who you are.
@@ -1684,37 +1684,37 @@ Je sais qui vous êtes.
 Take a seat. I have an offer for you.<end>
 
 =>q272
-Asseyez-vous. J'ai une offre pour toi.<end>
+Asseyez-vous. J'ai une offre pour vous.<end>
 
 =>a273_original
 I'll stand. Speak.<end>
 
 =>a273
-Je vais me lever. Parle.<end>
+Je reste debout. Parlez.<end>
 
 =>q274_original
 Suit yourself. <end>
 
 =>q274
-Comme tu veux. <end>
+Comme vous voudrez. <end>
 
 =>a275_original
 What is this about?<end>
 
 =>a275
-De quoi s'agit-il ?<end>
+C'est à propos de quoi ?<end>
 
 =>a276_original
 What's your problem, man? I told you I'm not $(context.player.Name).<end>
 
 =>a276
-C'est quoi ton problème ? Je ne suis pas $(context.player.Name).<end>
+C'est quoi votre problème ? Je ne suis pas $(context.player.Name).<end>
 
 =>q277_original
 Listen: <end>
 
 =>q277
-Écoute. <end>
+Écoutez : <end>
 
 =>a278_original
 I'm out of here.<end>
@@ -1726,7 +1726,7 @@ Je m'en vais.<end>
 Don't be stupid. You'll regret it.<end>
 
 =>q279
-Ne sois pas stupide. Vous le regretterez.<end>
+Ne soyez pas stupide. Vous le regretterez.<end>
 
 =>q280_original
 <end>
@@ -1738,37 +1738,37 @@ Ne sois pas stupide. Vous le regretterez.<end>
 Alright, what is this about?<end>
 
 =>a281
-Bon, de quoi s'agit-il ?<end>
+Bon, c'est à propos de quoi ?<end>
 
 =>a282_original
 Screw it. ::Leave.::<end>
 
 =>a282
-Fais chier. ::Partir.::<end>
+Merde. ::Partir.::<end>
 
 =>a283_original
 ::Leave without saying anything.::<end>
 
 =>a283
-::Partez sans rien dire.::<end>
+::Partir sans un mot.::<end>
 
 =>a284_original
 ::Turn around and leave.::<end>
 
 =>a284
-::Faites demi-tour et partez.::<end>
+::Faire demi-tour et partir.::<end>
 
 =>a285_original
 The one and only.<end>
 
 =>a285
-Le seul et unique.<end>
+En personne.<end>
 
 =>a286_original
 Who are you?<end>
 
 =>a286
-Qui es-tu?<end>
+Qui êtes-vous ?<end>
 
 =>a287_original
 You got the wrong person.<end>
@@ -1782,15 +1782,15 @@ Vous vous trompez de personne.<end>
 What'll it be?<end>
 
 =>q288
-::Il te regarde.::
+::Il vous regarde.::
 
-Qu'est-ce que ce sera ?<end>
+Alors, qu'est-ce que ça sera ?<end>
 
 =>q289_original
 Have you thought about my offer?<end>
 
 =>q289
-Avez-vous pensé à mon offre ?<end>
+Vous avez réfléchi à mon offre ?<end>
 
 =>q290_original
 Do you have it?<end>
@@ -1820,5 +1820,5 @@ Pas encore.<end>
 Don't try my patience, $(context.player.Name).<end>
 
 =>q294
-N'essaie pas ma patience, $(context.player.Name).<end>
+Ne mettez pas ma patience à l'épreuve, $(context.player.Name).<end>
 

@@ -346,7 +346,7 @@ Je vous salue. Protectorate est le meilleur ici.<end>
 ::The enforcer lowers the device. Then, he starts staring at the dirty water you are currently sailing on.:: $(#Sir/Miss), how can we help you?<end>
 
 =>q57
-::L'exécuteur abaisse l'appareil. Ensuite, il commence à regarder l'eau sale sur laquelle vous naviguez actuellement.:: $(#Sir/Miss), comment pouvons-nous vous aider ?<end>
+::L'exécuteur abaisse l'appareil. Ensuite, il commence à regarder l'eau sale sur laquelle vous naviguez actuellement.:: $(#Monsieur/Mademoiselle), comment pouvons-nous vous aider ?<end>
 
 =>a58_original
 I see you are stuck here in this filth. Anything I can do about it?<end>
@@ -438,7 +438,7 @@ $(#Sir/Miss), I'm afraid you are wrong about that claim, and as such, we are goi
 =>q71
 ::Il s'arrête un moment. Puis, il regarde son collègue pour obtenir une approbation mais n'en reçoit aucun. Après cela, il entend quelqu'un de l'intérieur du navire. Il hoche la tête quelques fois, car il obtient des informations.::
 
-$(#Sir/Miss), je crains que vous ayez tort à ce sujet, et en tant que tel, nous allons rester ici pour une période indéterminée. Nous ne sommes donc pas tenus de nous y conformer. Retournez à votre routine.<end>
+$(#Monsieur/Mademoiselle), je crains que vous ayez tort à ce sujet, et en tant que tel, nous allons rester ici pour une période indéterminée. Nous ne sommes donc pas tenus de nous y conformer. Retournez à votre routine.<end>
 
 =>a72_original
 Your superious will be informed about this, Enforcer. Take care.<end>
@@ -522,7 +522,7 @@ Ahoy, les amis ! Vous êtes un piège facile ici.<end>
 ::Fight!::<end>
 
 =>a85
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a86_original
 To the bottom you go! ::Attack!::<end>
@@ -558,7 +558,7 @@ Tiens, prends ça. Voyons ce que tu peux faire. ::Il vous remet l'appareil et vo
 ::[Electronics] Take the device and attempt to fix it.::<end>
 
 =>a91
-::[Électronique] Prenez l'appareil et essayez de le réparer.::<end>
+::[Electronics] Prenez l'appareil et essayez de le réparer.::<end>
 
 =>q92_original
 ::You pick up the device and you discover that it is some sort of custom made radio. It is quite old and has a imprinted name on it: "Matriuss Ludenlof." It features a digital display with a touchpad. A segment of its screen has a dedicated field seemingly used for filtering the displayed information by an inserted keyword. The device was handled poorly though, as it bears visible damage. From the back, exposed electronics could be reached by hand.::
@@ -682,7 +682,7 @@ Enforceurs ! ::Il lève son arme.:: <end>
 ::Fight!::<end>
 
 =>a110
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a111_original
 Fools! Time to die! ::Attack!::<end>

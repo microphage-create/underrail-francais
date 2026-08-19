@@ -8,31 +8,31 @@
 When's the party starting?<end>
 
 =>q2
-Quand commence la fête ?<end>
+C'est quand la fête ?<end>
 
 =>q3_original
 What's the hold up, $(context.player.Name)?<end>
 
 =>q3
-Quel est le problème, $(context.player.Name) ?<end>
+On attend quoi, $(context.player.Name) ?<end>
 
 =>q4_original
 Can't wait to see the Beast take a hot swim!<end>
 
 =>q4
-J'ai hâte de voir la Bête nager !<end>
+J'ai hâte de voir la Bête prendre un bain brûlant !<end>
 
 =>q5_original
 The Beast ends today!<end>
 
 =>q5
-La Bête s'arrête aujourd'hui !<end>
+Aujourd'hui, la Bête meurt !<end>
 
 =>q6_original
 Gun - check. Ammo - check. Shield - check!<end>
 
 =>q6
-Vérifie. Ammo - chèque. Bouclier - Vérifiez !<end>
+Arme - check. Munitions - check. Bouclier - check !<end>
 
 =>q7_original
 ::At first, the tall guard responds to your approach with silence. The uniformed nature of all Foundry guardsmen makes it difficult for you to discern any distinct features, but in this case one jumps into view like a mindshroom in the dark: His damaged shield bears wounds of a relentless attack that can only be attributed to a wild, savage creature. Large scratches, dents and dried blood streak the shield as if it was a canvas left at the mercy of a deranged painter, and the shield's outer rim has numerous bite marks on it that seem to have been caused by the malicious motion of powerful jaws.
@@ -40,15 +40,15 @@ Vérifie. Ammo - chèque. Bouclier - Vérifiez !<end>
 Your inspection comes to a halt when the guard utters a simple word...::<end>
 
 =>q7
-::Au début, la haute garde répond à votre approche avec silence. La nature uniforme de tous les gardes de la Fonderie rend difficile pour vous de discerner des caractéristiques distinctes, mais dans ce cas on saute en vue comme une salle d'esprit dans le noir: Son bouclier endommagé porte des blessures d'une attaque acharnée qui ne peut être attribuée qu'à une créature sauvage et sauvage. De grandes égratignures, des bosselures et du sang séché sillonnent le bouclier comme s'il s'agissait d'une toile laissée à la merci d'un peintre dérangé, et le bord extérieur du bouclier a de nombreuses marques de morsure qui semblent avoir été causées par le mouvement malveillant des mâchoires puissantes.
+::Au début, le grand garde répond à votre approche par le silence. Tous les gardes de Foundry ont le même uniforme : difficile de distinguer un visage. Mais là, un détail saute aux yeux comme un mindshroom dans le noir : son bouclier abîmé porte les plaies d'une attaque acharnée, qu'on ne peut attribuer qu'à une créature sauvage, brutale. De grandes griffures, des bosses et du sang séché zèbrent le bouclier comme une toile laissée à la merci d'un peintre fou, et le bord extérieur est couvert de marques de morsure, visiblement laissées par le mouvement malveillant de mâchoires puissantes.
 
-Votre inspection s'arrête quand le gardien prononce un mot simple...::<end>
+Votre inspection s'arrête net quand le garde lâche un seul mot...::<end>
 
 =>q8_original
 Yes?<end>
 
 =>q8
-Oui?<end>
+Oui ?<end>
 
 =>q9_original
 <end>
@@ -60,19 +60,19 @@ Oui?<end>
 Can you tell me anything about the mine creatures?<end>
 
 =>a10
-Pouvez-vous me parler de mes créatures ?<end>
+Vous pouvez me dire quelque chose sur les créatures de la mine ?<end>
 
 =>q11_original
 First, it's very unsafe to be in this area and you should leave. Second, I can't speak about it; it's classified.<end>
 
 =>q11
-Premièrement, c'est très dangereux d'être dans cette région et vous devriez partir. Deuxièmement, je ne peux pas en parler, c'est confidentiel.<end>
+Premièrement, rester ici n'est pas sûr, vous devriez partir. Deuxièmement, je ne peux pas en parler : c'est classifié.<end>
 
 =>a12_original
 It's all right, Chief Banner sent me here to talk to you about the current situation.<end>
 
 =>a12
-Tout va bien, le chef Banner m'a envoyé ici pour vous parler de la situation actuelle.<end>
+C'est en règle, le chef Banner m'envoie vous parler de la situation.<end>
 
 =>q13_original
 I see. Well, in that case, my name is Saban, but almost everyone here calls me Sapke.<end>
@@ -84,19 +84,19 @@ Je vois. Dans ce cas, je m'appelle Saban, mais presque tout le monde ici m'appel
 I'll stick to Saban. I'm $(context.player.Name).<end>
 
 =>a14
-Je m'en tiendrai à Saban. Je suis $(context.player.Name).<end>
+Je reste sur Saban. Je suis $(context.player.Name).<end>
 
 =>q15_original
 Pleased to meet you, $(context.player.Name). Now, listen up...<end>
 
 =>q15
-Ravi de vous rencontrer, $(context.player.Name). Écoutez...<end>
+Enchanté, $(context.player.Name). Maintenant, écoutez bien...<end>
 
 =>q16_original
 ::His voice undergoes a few subtle changes, becoming drier and somewhat distant.:: After our miners first encountered the bladelings, a group of us was sent inside the mine to deal with the creatures. While the reports implied they were "unusual" in appearance, only when we encountered them did we realize how strange these creatures actually were: Sure, they had four legs, two eyes, mouth - the usual, but their shells were made of hardened rock, fused with their bodies, with metallic blades protruding from their backs. It was an unreal sight!<end>
 
 =>q16
-::Sa voix subit quelques changements subtils, devenant plus sèche et quelque peu distante.:: Après que nos mineurs eurent rencontré les lamelles, un groupe d'entre nous fut envoyé à l'intérieur de la mine pour s'occuper des créatures. Alors que les rapports impliquaient qu'ils étaient "inhabituels" en apparence, seulement quand nous les avons rencontrés nous avons réalisé à quel point ces créatures étaient vraiment étranges: Bien sûr, ils avaient quatre jambes, deux yeux, bouche - l'habitude, mais leurs coquilles étaient faites de roche durcie, fusionnées avec leur corps, avec des lames métalliques qui sortaient du dos. C'était un spectacle irréel !<end>
+::Sa voix change par petites touches, plus sèche, un peu distante.:: Après que nos mineurs ont rencontré les bladelings pour la première fois, un groupe d'entre nous a été envoyé dans la mine pour s'occuper des créatures. Les rapports disaient qu'ils avaient l'air « inhabituels », mais c'est seulement en les voyant qu'on a compris à quel point ces créatures étaient vraiment étranges : quatre pattes, deux yeux, une bouche, le classique, oui, mais leurs carapaces étaient de la roche durcie, soudée au corps, avec des lames de métal qui leur sortaient du dos. C'était irréel !<end>
 
 =>q17_original
 <end>
@@ -108,25 +108,25 @@ Ravi de vous rencontrer, $(context.player.Name). Écoutez...<end>
 Why do you call them bladelings?<end>
 
 =>a18
-Pourquoi tu les appelles des lamelles ?<end>
+Pourquoi vous les appelez bladelings ?<end>
 
 =>q19_original
 Alp, one of the guardsmen, gave them that name. We were clearing the mine together and he named the creatures like that because of the blades on their backs. He called them "rockies," then "little blades" and then finally bladelings.<end>
 
 =>q19
-Alp, l'un des gardiens, leur a donné ce nom. Nous allions nettoyer la mine ensemble et il a nommé les créatures comme ça à cause des lames sur leur dos. Il les appelait des "rockies", puis des "petites lames" et enfin des lames.<end>
+Alp, un des gardes, leur a collé ce nom. On nettoyait la mine ensemble, et il les a appelées comme ça à cause des lames dans le dos. D'abord « rockies », puis « petites lames », et enfin bladelings.<end>
 
 =>q20_original
 The name bladeling kinda stuck.<end>
 
 =>q20
-Le nom est resté coincé.<end>
+Bladeling, ça a collé.<end>
 
 =>a21_original
 Can you tell me about your encounter with the Beast?<end>
 
 =>a21
-Pouvez-vous me parler de votre rencontre avec la Bête ?<end>
+Vous pouvez me parler de votre rencontre avec la Bête ?<end>
 
 =>q22_original
 Yes, the Beast... That bloody creature was responsible for the deaths of nine guardsmen... nine of my dear friends. It looks similar to bladelings in general appearance but is much bigger, with longer back blades and a much thicker shell. In fact, its shell was so thick nothing we used could penetrate it. Fire, bullets, high-explosives... the Beast shrugged it off like we were throwing marbles at it.
@@ -134,15 +134,15 @@ Yes, the Beast... That bloody creature was responsible for the deaths of nine gu
 It, on the other hand, had no trouble doing damage to us. By... by pure luck I was the only one who had managed to escape with my head still sitting on my shoulders. This shield here... it serves as a reminder.<end>
 
 =>q22
-Oui, la Bête... Cette foutue créature était responsable de la mort de neuf gardes... de neuf de mes chers amis. Il ressemble aux lames en apparence générale, mais est beaucoup plus grand, avec des lames arrière plus longues et une coquille beaucoup plus épaisse. En fait, sa coquille était si épaisse que rien n'a pu la pénétrer. Le feu, les balles, les grandes explosions... la Bête l'a ébranlé comme si on lançait des billes.
+Oui, la Bête... Cette saloperie a tué neuf gardes... neuf de mes chers amis. Elle ressemble aux bladelings, grosso modo, mais en beaucoup plus gros, lames dorsales plus longues, carapace bien plus épaisse. Tellement épaisse que rien de ce qu'on a sorti n'a percé. Feu, balles, explosifs... la Bête a tout encaissé, comme si on lui lançait des billes.
 
-D'un autre côté, elle n'a eu aucun mal à nous endommager. Par... par pure chance, j'étais le seul à avoir réussi à m'échapper avec la tête assise sur mes épaules. Ce bouclier... sert de rappel.<end>
+Elle, par contre, n'a eu aucun mal à nous mettre en pièces. Par... par pure chance, j'ai été le seul à m'en sortir avec la tête encore sur les épaules. Ce bouclier, là... c'est un rappel.<end>
 
 =>a23_original
 I faced the Beast too. But I'm wondering if it's the only of its size? Are there more... Beasts?<end>
 
 =>a23
-J'ai affronté la Bête aussi. Mais je me demande si c'est le seul de sa taille ? Y a-t-il plus... Des bêtes ?<end>
+J'ai affronté la Bête, moi aussi. Mais je me demande si c'est la seule de sa taille ? Il y en a d'autres... des Bêtes ?<end>
 
 =>q24_original
 Then you have witnessed the battleground. It's good you didn't become a part of that bloody scenery. And... I can only imagine what that thing did to the bodies after I had fled. ::He pauses briefly before continuing.:: But, that Beast is the only one I saw. You must've noticed the numerous scars it had on its body, and it looked - at least to me - to be very old. Ancient. 
@@ -150,153 +150,153 @@ Then you have witnessed the battleground. It's good you didn't become a part of 
 The Beast... If there are more of them... of that size... well, we're in a lot of muck.<end>
 
 =>q24
-Alors vous avez été témoin du champ de bataille. C'est bien que tu ne sois pas devenu une partie de ce paysage. Et... Je ne peux qu'imaginer ce que cette chose a fait aux corps après ma fuite. ::Il s'arrête brièvement avant de continuer.:: Mais, cette Bête est la seule que j'ai vue. Vous avez dû remarquer les nombreuses cicatrices qu'il avait sur son corps, et il semblait - du moins pour moi - être très vieux. Ancien.
+Alors vous avez vu le champ de bataille. Heureux que vous n'ayez pas fini dans ce tableau de sang. Et... j'imagine à peine ce que cette chose a fait aux corps après que j'ai filé. ::Il s'arrête un instant, puis reprend.:: Mais cette Bête, c'est la seule que j'ai vue. Vous avez dû remarquer les cicatrices partout sur son corps, et elle avait l'air, du moins pour moi, très vieille. Ancienne.
 
-La Bête... S'il y en a plus... de cette taille... on est dans le pétrin.<end>
+La Bête... S'il y en a d'autres... de cette taille... on est dans une sacrée merde.<end>
 
 =>q25_original
 Whatever the case may be - I *will* hunt down that creature and end its existence. I feel it.<end>
 
 =>q25
-Quoi qu'il en soit, je vais chasser cette créature et mettre fin à son existence. Je le sens.<end>
+Quoi qu'il en soit, je *vais* traquer cette créature et mettre fin à son existence. Je le sens.<end>
 
 =>a26_original
 Do you think it's the only one, or could there be more?<end>
 
 =>a26
-Pensez-vous que c'est le seul, ou pourrait-il y en avoir plus ?<end>
+Vous pensez que c'est la seule, ou il pourrait y en avoir d'autres ?<end>
 
 =>q27_original
 So far we've only seen one, luckily. It was in one of the dormant caves deeper past the mine. It appeared to be very old with, as I've said, much thicker shell than the smaller ones; also, it was riddled with scars. It was tough, like a boulder rolling toward you. If there are more like that... well, we're in a lot of muck.<end>
 
 =>q27
-Jusqu'à présent, nous n'en avons vu qu'un, heureusement. C'était dans l'une des grottes dormantes au-delà de la mine. Il semblait être très vieux avec, comme je l'ai dit, des coquilles beaucoup plus épaisses que les plus petites; aussi, il était criblé de cicatrices. C'était dur, comme un rocher qui roulait vers toi. S'il y a plus comme ça... on est dans la merde.<end>
+Pour l'instant on n'en a vu qu'une, heureusement. Dans une des grottes dormantes, plus loin derrière la mine. Elle avait l'air très vieille, avec, comme je l'ai dit, une carapace bien plus épaisse que les petites ; et elle était criblée de cicatrices. Costaude, comme un rocher qui vous déboule dessus. S'il y en a d'autres comme ça... on est dans une sacrée merde.<end>
 
 =>a28_original
 That's all I needed to know, thank you.<end>
 
 =>a28
-C'est tout ce que j'avais besoin de savoir, merci.<end>
+C'est tout ce que je voulais savoir, merci.<end>
 
 =>a29_original
 It's very brave of you to be at the first line of defense after what happened to your friends.<end>
 
 =>a29
-C'est très courageux d'être à la première ligne de défense après ce qui est arrivé à vos amis.<end>
+C'est courageux, de tenir la première ligne après ce qui est arrivé à vos amis.<end>
 
 =>q30_original
 Look, I've worked with those men for years. We've fought Ironheads, raiders and whatnot. Not for a second was I in any doubt that my back wasn't safe whenever chaos ensued, and I know they felt the same. It is a special connection and trust burned into you by the hot branding iron of combat! Seeing them die there saddens me... and infuriates me. If I could strangle the Beast with my own hands and shove this shield down its throat I'd do it in a heartbeat. I'm here because I'm waiting for it to come to me.<end>
 
 =>q30
-J'ai travaillé avec ces hommes pendant des années. On s'est battus contre Ironheads, les raideurs et tout. Ce n'était pas pour une seconde que je doutais que mon dos n'était pas en sécurité quand le chaos s'ensuivait, et je sais qu'ils ressentaient la même chose. C'est une connexion spéciale et la confiance brûlée en vous par la marque chaude fer de combat! Les voir mourir m'attriste et m'en veut. Si je pouvais étrangler la Bête de mes propres mains et lui pousser ce bouclier dans la gorge, je le ferais dans un battement de coeur. Je suis là parce que j'attends qu'il vienne me voir.<end>
+Écoutez, j'ai bossé avec ces hommes pendant des années. On s'est battus contre les Ironheads, des raiders, et tout le reste. Pas une seconde je n'ai douté que mon dos était couvert dès que ça partait en vrille, et je sais qu'eux sentaient la même chose. C'est un lien à part, une confiance que le fer rouge du combat vous cuit dans la peau ! Les voir mourir là-bas, ça me chagrine... et ça me rend fou. Si je pouvais étrangler la Bête à mains nues et lui enfoncer ce bouclier dans la gorge, je le ferais sans une hésitation. Je suis là parce que j'attends qu'elle vienne à moi.<end>
 
 =>a31_original
 I don't think you can kill it alone.<end>
 
 =>a31
-Je ne pense pas que tu puisses le tuer seul.<end>
+Je ne pense pas que vous puissiez la tuer seul.<end>
 
 =>q32_original
 I don't care. I just want it to die as painfully as possible.<end>
 
 =>q32
-Je m'en fiche. Je veux juste qu'elle meure aussi douloureusement que possible.<end>
+Je m'en fous. Je veux juste qu'elle meure, le plus douloureusement possible.<end>
 
 =>a33_original
 That's the spirit!<end>
 
 =>a33
-C'est l'esprit !<end>
+Ça, c'est l'esprit !<end>
 
 =>q34_original
 That's my duty, $(context.player.Name).<end>
 
 =>q34
-C'est mon devoir.<end>
+C'est mon devoir, $(context.player.Name).<end>
 
 =>a35_original
 Do you know anything about the worms in the mine?<end>
 
 =>a35
-Tu sais quelque chose sur les vers de la mine ?<end>
+Vous savez quelque chose sur les vers dans la mine ?<end>
 
 =>q36_original
 I remember those things. They had strange heads shaped like drills. But, they weren't aggressive, so we usually paid no attention to them; we had bigger problems to deal with.<end>
 
 =>q36
-Je me souviens de ces choses. Ils avaient des têtes étranges en forme de forets. Mais, ils n'étaient pas agressifs, donc nous n'avons généralement pas prêté attention à eux; nous avions de plus gros problèmes à régler.<end>
+Je me souviens de ces trucs. Ils avaient des têtes bizarres, en forme de foret. Mais ils n'étaient pas agressifs, alors on n'y faisait pas attention ; on avait plus gros à gérer.<end>
 
 =>q37_original
 Some of the guys did shoot them or step on a few that hadn't had the time to find a hiding place. In any case, they were no threat to us at the time.<end>
 
 =>q37
-Certains gars les ont abattus ou ont marché sur quelques-uns qui n'avaient pas eu le temps de trouver une cachette. En tout cas, ils n'étaient pas une menace pour nous à l'époque.<end>
+Certains gars leur ont quand même tiré dessus, ou ont écrasé ceux qui n'avaient pas eu le temps de se planquer. Dans tous les cas, à l'époque, ça n'était pas une menace.<end>
 
 =>a38_original
 Sapke it is. I'm $(context.player.Name).<end>
 
 =>a38
-Ça l'est. Je suis $(context.player.Name).<end>
+Sapke, très bien. Je suis $(context.player.Name).<end>
 
 =>a39_original
 Fair enough. I'll leave you to your duty.<end>
 
 =>a39
-Assez. Je vous laisse à votre devoir.<end>
+Soit. Je vous laisse à votre poste.<end>
 
 =>q40_original
 Much appreciated. Take care.<end>
 
 =>q40
-Très apprécié. Prends soin de toi.<end>
+Merci. Prenez soin de vous.<end>
 
 =>a41_original
 I'd like to ask you something about the creatures again.<end>
 
 =>a41
-J'aimerais vous poser une autre question sur les créatures.<end>
+J'aimerais vous poser encore une question sur les créatures.<end>
 
 =>q42_original
 Go ahead.<end>
 
 =>q42
-Poursuivre.<end>
+Allez-y.<end>
 
 =>a43_original
 Would you like to help me kill the Beast?<end>
 
 =>a43
-Voulez-vous m'aider à tuer la Bête ?<end>
+Vous voulez m'aider à tuer la Bête ?<end>
 
 =>q44_original
 ::His words fly out of his mouth without delay.:: The question is completely redundant. Yes, I will help you kill the Beast. I'm guessing someone came up with a decent plan to kill it, right?<end>
 
 =>q44
-::Ses paroles sortent de sa bouche sans tarder.:: La question est complètement redondante. Oui, je vais vous aider à tuer la Bête. Je suppose que quelqu'un a trouvé un plan décent pour le tuer, non ?<end>
+::Les mots lui sortent de la bouche sans un temps d'arrêt.:: La question est complètement redondante. Oui, je vous aide à tuer la Bête. Je suppose que quelqu'un a trouvé un plan correct pour la tuer, non ?<end>
 
 =>a45_original
 We're gonna use the large smelting furnace to kill it.<end>
 
 =>a45
-On va utiliser le grand four à fusion pour le tuer.<end>
+On va se servir du grand four de fusion pour la tuer.<end>
 
 =>q46_original
 Liquidation. That's an even worse death than I had imagined. Great. I'll join the rest of the Foundry Guard at the furnace as soon as possible.<end>
 
 =>q46
-Liquidation. C'est une mort encore pire que je ne l'imaginais. Génial. Je vais rejoindre le reste de la Garde Foundry au four dès que possible.<end>
+Liquidation. C'est une mort encore pire que ce que j'imaginais. Parfait. Je rejoins le reste de la Foundry Guard au four, dès que possible.<end>
 
 =>a47_original
 Actually, there's only one person besides you and me. Dan.<end>
 
 =>a47
-En fait, il n'y a qu'une seule personne à part toi et moi. - Oui.<end>
+En fait, à part vous et moi, il n'y a qu'une personne. Dan.<end>
 
 =>q48_original
 What? I don-- Are you telling me you planned all this pretty much on your own!?<end>
 
 =>q48
-Quoi ? Je fais... Tu es en train de me dire que tu as planifié tout ça tout seul !?<end>
+Quoi ? Je ne-- Vous me dites que vous avez planifié tout ça à peu près $(#tout seul/toute seule) !?<end>
 
 =>a49_original
 Yes.<end>
@@ -308,19 +308,19 @@ Oui.<end>
 You're derailed! In that case, I must be even more derailed for saying this, but... I'll be there.<end>
 
 =>q50
-Vous avez déraillé ! Dans ce cas, je dois être encore plus déraillé pour avoir dit ça, mais... J'y serai.<end>
+Vous avez déraillé ! Dans ce cas, je dois être encore plus déraillé pour dire ça, mais... j'y serai.<end>
 
 =>q51_original
 I'll be there as soon as possible, $(context.player.Name).<end>
 
 =>q51
-Je serai là dès que possible, $(context.player.Name).<end>
+J'y serai dès que possible, $(context.player.Name).<end>
 
 =>a52_original
 Hell yeah!<end>
 
 =>a52
-Ouais !<end>
+Putain, ouais !<end>
 
 =>a53_original
 Why not, we can do it.<end>
@@ -332,7 +332,7 @@ Pourquoi pas, on peut le faire.<end>
 There's no one else but the two of us. Yeah.<end>
 
 =>a54
-Il n'y a que nous deux. Oui.<end>
+Il n'y a que nous deux. Ouais.<end>
 
 =>a55_original
 How do you feel now that the mine has been reopened?<end>
@@ -344,7 +344,7 @@ Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
 Strange. I thought killing the Beast and avenging my fallen friends would have made me feel better, but it hasn't. Those who died will remain dead, and life in Foundry will go on as usual. Like nothing happened. But it did! They just don't realize it because they haven't lost anyone. Nothing in their lives changed, it was just some time off work for them. Ugh!<end>
 
 =>q56
-Étrange. Je pensais que tuer la Bête et venger mes amis déchus m'auraient fait me sentir mieux, mais ce n'est pas le cas. Ceux qui sont morts resteront morts, et la vie dans Foundry continuera comme d'habitude. Comme si rien ne s'était passé. Mais c'est vrai ! Ils ne s'en rendent pas compte parce qu'ils n'ont perdu personne. Rien dans leur vie n'a changé, c'était juste un moment de congé pour eux. Oui !<end>
+Étrange. Je pensais que tuer la Bête et venger mes amis tombés me ferait du bien. Ça n'a pas marché. Les morts resteront morts, et la vie à Foundry reprendra comme avant. Comme si de rien n'était. Mais si ! Ils ne s'en rendent pas compte, ils n'ont perdu personne. Rien n'a changé dans leur vie, c'était juste un congé forcé. Pff !<end>
 
 =>q57_original
 They just don't understand...<end>
@@ -356,19 +356,19 @@ Ils ne comprennent pas...<end>
 While I'm glad the Beast is dead, I don't feel right. I should have killed the Beast. Yes, I should have been there to take the life away from that monster, just like it took from the people that were so close to me. I should have been there to see its dying eyes twitch in pain before they finally close.<end>
 
 =>q58
-Tant que je suis content que la Bête soit morte, je ne me sens pas bien. J'aurais dû tuer la Bête. Oui, j'aurais dû être là pour ôter la vie à ce monstre, tout comme il a pris aux gens qui étaient si proches de moi. J'aurais dû être là pour voir ses yeux mourants trembler dans la douleur avant qu'ils ne se referment.<end>
+Content que la Bête soit morte, oui, mais je ne me sens pas bien. J'aurais dû tuer la Bête. Oui, j'aurais dû être là pour lui prendre sa vie, comme elle l'a prise aux gens qui m'étaient si proches. J'aurais dû être là pour voir ses yeux tressaillir de douleur en mourant, avant de se fermer pour de bon.<end>
 
 =>q59_original
 Now... I feel like I ran away as my friends were dying. Like some petty quaker. Damn it...<end>
 
 =>q59
-Maintenant... J'ai l'impression de m'enfuir pendant que mes amis mouraient. Comme un petit quaker. Bon sang...<end>
+Maintenant... j'ai l'impression d'avoir détalé pendant que mes amis mouraient. Comme un petit quaker. Merde...<end>
 
 =>a60_original
 What happened to your shield?<end>
 
 =>a60
-Qu'est-il arrivé à ton bouclier ?<end>
+Qu'est-il arrivé à votre bouclier ?<end>
 
 =>q61_original
 I will not answer that question.<end>
@@ -380,7 +380,7 @@ Je ne répondrai pas à cette question.<end>
 So? Anything else you wanted to ask me?<end>
 
 =>q62
-Alors ? Autre chose que tu voulais me demander ?<end>
+Alors ? Autre chose à me demander ?<end>
 
 =>a63_original
 Goodbye.<end>
@@ -392,5 +392,5 @@ Au revoir.<end>
 Greetings, $(context.player.Name).<end>
 
 =>q64
-Bonjour, $(context.player.Name).<end>
+Salutations, $(context.player.Name).<end>
 

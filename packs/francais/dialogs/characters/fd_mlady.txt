@@ -8,7 +8,7 @@ Bonne chance, $(context.player.Name).<end>
 ::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
 
 =>q2
-::Vous êtes accueilli par un coup lent.:: Tu l'as fait, $(context.player.Name). Vous l'avez fait.<end>
+::Un clap lent vous accueille.:: Tu l'as fait, $(context.player.Name). Tu l'as fait.<end>
 
 =>a3_original
 I did it.<end>
@@ -20,19 +20,19 @@ Je l'ai fait.<end>
 Yeah, you did - and you did it oh so well. <end>
 
 =>q4
-Oui, et tu l'as fait si bien. <end>
+Ouais, tu l'as fait. Et tu l'as fait tellement bien. <end>
 
 =>q5_original
 You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
 
 =>q5
-Vous nous avez prouvé que vous êtes prêt et digne de faire partie de notre famille. Nous n'avons pas de richesses, nous n'avons pas de pouvoir et nous devons vivre en danger constant. Mais nous avons l'humanité, l'honnêteté et la volonté d'envoyer le mal Protectorate dans l'oubli ! Et nous le ferons ensemble.<end>
+Tu nous as prouvé que t'es $(#prêt/prête) et digne de rentrer dans la famille. On a pas de richesses, on a pas le pouvoir, et on vit en danger tout le temps. Mais on a l'humanité, on a l'honnêteté, et on a la volonté d'envoyer ce Protectorate de merde dans l'oubli ! Et on le fera. Ensemble.<end>
 
 =>a6_original
 Do you always give such lovely speeches to new recruits?<end>
 
 =>a6
-Tu fais toujours de si beaux discours aux nouvelles recrues ?<end>
+Tu sors toujours des discours aussi jolis aux nouvelles recrues ?<end>
 
 =>q7_original
 ::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
@@ -40,21 +40,21 @@ Tu fais toujours de si beaux discours aux nouvelles recrues ?<end>
 It's time to meet the rest of the family.<end>
 
 =>q7
-::Elle vomit.:: Je sais comment ça peut sonner, certains diraient même que c'est comme la propagande Protectorate, mais sachez que je vous dis la vérité, et je vous en offre la preuve. Vous le verrez assez tôt.
+::Elle ricane.:: Je sais comment ça sonne. Y en a même qui diraient que c'est de la propagande Protectorate. Sauf que je te dis la vérité, et j'ai de quoi le prouver. Tu verras assez vite.
 
-Il est temps de rencontrer le reste de la famille.<end>
+C'est l'heure de rencontrer le reste de la famille.<end>
 
 =>q8_original
 I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
 
 =>q8
-Je veux que vous alliez à la base Free Drones dans les passages inférieurs. La façon la plus simple d'expliquer comment y arriver est de trouver l'entrée sous-passages juste au sud de Rail Crossing, puis aller à l'ouest et vous arriverez à une porte verrouillée avec un interphone à côté. Utilisez l'interphone; le mot de passe est "delectable".<end>
+Je veux que tu ailles à la base Free Drones, dans les sous-passages. Le plus simple : trouve l'entrée des sous-passages juste au sud de Rail Crossing, puis va à l'ouest. Tu tomberas sur une porte verrouillée, avec un interphone à côté. Utilise l'interphone. Le mot de passe, c'est « delectable ».<end>
 
 =>a9_original
 Got it. "Delectable."<end>
 
 =>a9
-Compris. "Délicieux."<end>
+Compris. « delectable ».<end>
 
 =>q10_original
 Great! Just be careful, the under-passages are full of Lurkers.
@@ -62,9 +62,9 @@ Great! Just be careful, the under-passages are full of Lurkers.
 I gotta move. Do you have any questions before we depart?<end>
 
 =>q10
-Génial ! Attention, les passages inférieurs sont pleins de Lurkers.
+Parfait ! Fais gaffe, les sous-passages sont pleins de Lurkers.
 
-Je dois bouger. Avez-vous des questions avant de partir ?<end>
+Je dois y aller. T'as des questions avant qu'on se quitte ?<end>
 
 =>q11_original
 <end>
@@ -76,25 +76,25 @@ Je dois bouger. Avez-vous des questions avant de partir ?<end>
 You mentioned Lurkers. What can you tell me about them?<end>
 
 =>a12
-Vous avez mentionné Lurkers. Que pouvez-vous me dire à leur sujet ?<end>
+T'as parlé des Lurkers. Tu peux m'en dire plus ?<end>
 
 =>q13_original
 Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
 
 =>q13
-Lurkers... Ce sont des créatures horribles ! Ce sont nos voisins dans les sous-passages, une bande de tueurs déments qui couperont ceux qui oseront respirer en leur présence. La seule bonne chose est que chacun sait qu'il habite dans les passages, ce qui en fait une bonne cachette du Protectorate.<end>
+Les Lurkers... Des créatures horribles ! Nos voisins dans les sous-passages. Une bande de tueurs détraqués qui découpent quiconque ose seulement respirer près d'eux. Le seul bon côté, c'est que tout le monde sait qu'ils squattent les passages. Donc c'est une bonne planque, loin du Protectorate.<end>
 
 =>q14_original
 Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
 
 =>q14
-Bien sûr, vivre près de Lurker central n'est pas du tout sûr, se sent généralement comme une stalactite est accrochée sur votre tête, mais rien n'est parfait dans la vie.<end>
+Évidemment, vivre aussi près de la centrale Lurker, c'est pas safe du tout. On a souvent l'impression qu'une stalactite te pend au-dessus du crâne. Mais rien n'est parfait.<end>
 
 =>a15_original
 I never learned your name.<end>
 
 =>a15
-Je n'ai jamais appris ton nom.<end>
+J'ai jamais appris ton nom.<end>
 
 =>q16_original
 It's Sarah...<end>
@@ -106,55 +106,55 @@ C'est Sarah...<end>
 Sarah Allene. Nice to meet you. ::She smiles.::<end>
 
 =>q17
-Sarah Allene. Ravi de vous rencontrer. ::Elle sourit.::<end>
+Sarah Allene. Enchantée. ::Elle sourit.::<end>
 
 =>a18_original
 What are these "under-passages"?<end>
 
 =>a18
-Qu'est-ce que ces "sous-passages" ?<end>
+C'est quoi, ces « sous-passages » ?<end>
 
 =>q19_original
 Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
 
 =>q19
-Les passages souterrains sont un ensemble de passages connectés juste en dessous du niveau du métro. Ils relient plusieurs emplacements majeurs sur Lower Underrail, comme Core City, Rail Crossing, GMS et autres.<end>
+Les sous-passages, c'est un réseau juste sous le niveau du métro. Ils relient plusieurs gros coins du Lower Underrail : Core City, Rail Crossing, GMS, ce genre.<end>
 
 =>q20_original
 Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
 
 =>q20
-Ces passages étaient une façon très pratique de faire le tour, mais les Lurker ont pensé que ça ferait un bel abattoir. Maintenant, seuls les plus désespérés passent par là. Et nous, qui sommes les mêmes, d'une certaine manière.<end>
+Ces passages, c'était un moyen trop pratique de circuler. Puis les Lurkers se sont dit que ça ferait un bel abattoir. Maintenant, seuls les plus désespérés y passent. Et nous. Ce qui revient au même, d'une certaine façon.<end>
 
 =>a21_original
 Why do the Free Drones have a base in the under-passages?<end>
 
 =>a21
-Pourquoi le Free Drones a-t-il une base dans les passages inférieurs ?<end>
+Pourquoi les Free Drones ont une base dans les sous-passages ?<end>
 
 =>q22_original
 It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
 
 =>q22
-C'est simple : Les passages sont extrêmement dangereux à cause des Lurker, donc c'est le meilleur endroit pour nous cacher du Protectorate.<end>
+C'est simple : les passages sont extrêmement dangereux à cause des Lurkers, donc c'est le meilleur endroit pour se cacher du Protectorate.<end>
 
 =>q23_original
 Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
 
 =>q23
-De plus, les couloirs étroits sont faciles à défendre, niant l'avantage numérique Protectorate aurait sûrement sur nous s'ils essayaient de nous chasser de là. Je sais, je sais, ce n'est pas le meilleur endroit où vivre, mais c'est ce qui nous retient. Ça pourrait être pire.<end>
+En plus, les couloirs étroits se défendent bien. Ça annule l'avantage du nombre que le Protectorate aurait forcément s'ils tentaient de nous déloger. Je sais, je sais, c'est pas le meilleur endroit pour vivre. Mais on est coincés avec. Ça pourrait être pire.<end>
 
 =>a24_original
 I have no further questions.<end>
 
 =>a24
-Je n'ai pas d'autres questions.<end>
+J'ai plus de questions.<end>
 
 =>q25_original
 In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
 
 =>q25
-Dans ce cas, bonne chance, $(#brother/sister). Je t'y conduirais, mais j'ai des affaires importantes ici. Au revoir et reste libre.<end>
+Dans ce cas, bonne chance, $(#frère/sœur). Je t'y emmènerais bien, mais j'ai un truc important ici. Au revoir, et reste libre.<end>
 
 =>a26_original
 Goodbye.<end>
@@ -172,13 +172,13 @@ Reste libre.<end>
 ::Let her continue.::<end>
 
 =>a28
-::Laisse-la continuer.::<end>
+::La laisser continuer.::<end>
 
 =>q29_original
 Now it's time to meet the rest of the family.<end>
 
 =>q29
-Il est temps de rencontrer le reste de la famille.<end>
+C'est l'heure de rencontrer le reste de la famille.<end>
 
 =>a30_original
 Thank you, thank you. I love you all. ::Bow down.::<end>
@@ -196,13 +196,13 @@ Merci, merci. Je vous aime tous. ::S'incliner.::<end>
 ::The woman completely ignores you.::<end>
 
 =>q32
-::La femme t'ignore complètement.::<end>
+::La femme vous ignore complètement.::<end>
 
 =>q33_original
 You better get going, the envoy is not gonna wait for you...<end>
 
 =>q33
-Tu ferais mieux d'y aller, l'envoyé ne va pas t'attendre...<end>
+Tu ferais mieux d'y aller, l'envoyé va pas t'attendre...<end>
 
 =>q34_original
 I'm still waiting for an answer...<end>
@@ -220,19 +220,19 @@ Compte sur moi.<end>
 ::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
 
 =>q36
-::Elle sourit.:: Crois-moi, tu as fait le bon choix. Je vous donnerai donc votre première mission afin que vous puissiez prouver que vous êtes prêts et prêts à vous battre avec nous.<end>
+::Elle sourit.:: Crois-moi : t'as fait le bon choix. Alors je vais te filer ta première mission, pour que tu prouves que t'es $(#prêt/prête) à te battre avec nous.<end>
 
 =>q37_original
 I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
 
 =>q37
-Je veux que vous assassiniez un envoyé Protectorate. Lui et quelques Cans l'escortant visitent Rail Crossing pour des affaires "diplomatiques". Il ne devrait pas y en avoir beaucoup, et votre meilleur pari est de les attraper à la gare pendant qu'ils attendent que le Protectorate les ramasse. C'est l'une des stations les plus dangereuses du Sud Underrail en raison de l'absence de sécurité, le rendant idéal pour une embuscade.<end>
+Je veux que tu assassinies un envoyé du Protectorate. Lui et deux-trois Cans en escorte visitent Rail Crossing pour des affaires... « diplomatiques ». Y devrait pas y en avoir des masses. Ton meilleur coup, c'est de les chopper à la gare, pendant qu'ils attendent que le Protectorate vienne les récupérer. C'est une des stations les plus dangereuses du South Underrail : zéro sécu. Idéal pour une embuscade.<end>
 
 =>q38_original
 In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
 
 =>q38
-Pour l'essentiel, c'est simple de tuer l'envoyé et vous y êtes. Des questions ?<end>
+En gros, c'est simple : tu tues l'envoyé, t'es des nôtres. Des questions ?<end>
 
 =>q39_original
 <end>
@@ -244,73 +244,73 @@ Pour l'essentiel, c'est simple de tuer l'envoyé et vous y êtes. Des questions 
 You mentioned some cans?<end>
 
 =>a40
-Vous avez mentionné des boîtes ?<end>
+T'as parlé de cans ?<end>
 
 =>q41_original
 Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
 
 =>q41
-Oui. C'est comme ça qu'on appelle les troupes Protectorate, ou Protectorate en général : les boîtes d'étain, ou juste les boîtes. C'est leur armure en métal, au cas où vous ne l'auriez pas compris.<end>
+Ouais. C'est comme ça qu'on appelle les troupes du Protectorate, ou le Protectorate en général : les Tin Cans, ou juste les Cans. C'est l'armure en métal, au cas où t'aurais pas pigé.<end>
 
 =>q42_original
 You'll be hearing that term *pretty* often from now on, so get used to it.<end>
 
 =>q42
-Vous entendrez ce terme *pretty* souvent à partir de maintenant, alors habituez-vous à lui.<end>
+Tu vas entendre ce mot *pas mal* souvent, à partir de maintenant. Habitue-toi.<end>
 
 =>a43_original
 What is a Protectorate envoy doing in Rail Crossing?<end>
 
 =>a43
-Que fait un envoyé Protectorate dans Rail Crossing?<end>
+Qu'est-ce qu'un envoyé du Protectorate fiche à Rail Crossing ?<end>
 
 =>q44_original
 Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
 
 =>q44
-Notre meilleure idée est qu'il a quelque chose à voir avec ce train que nous avions capturé. Nous n'avons aucune preuve concrète de cela, non, mais c'est plus logique.<end>
+Notre meilleur pari, c'est que ça a un rapport avec le train qu'on a capturé. On a aucune preuve concrète, non. Mais ça tient le plus la route.<end>
 
 =>q45_original
 The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
 
 =>q45
-Le Protectorate utilise le métro pour se déplacer, comme tout le monde. Ils ont leurs propres trains, mais ils doivent utiliser les mêmes voies. Le fait est qu'ils doivent être à la gare à un moment donné. C'est probablement le meilleur endroit pour les embusquer.<end>
+Le Protectorate utilise le métro pour se déplacer, comme tout le monde. Bon, ils ont leurs propres trains, mais ils sont obligés de prendre les mêmes voies. Le truc, c'est qu'à un moment ils sont à la gare. C'est probablement le meilleur endroit pour leur tendre une embuscade.<end>
 
 =>a46_original
 I'm ready to do it.<end>
 
 =>a46
-Je suis prêt à le faire.<end>
+Je suis $(#prêt/prête) à le faire.<end>
 
 =>q47_original
 Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
 
 =>q47
-Parfait ! Écoutez bien, je ne le dirai qu'une seule fois. Une fois que j'aurai appris que l'envoyé est mort, je vous rejoindrai juste devant l'entrée sud de Junkyard. Compris ? Je vous dirai ensuite quoi faire.<end>
+Parfait ! Écoute bien, je le dis qu'une fois. Dès que j'apprends que l'envoyé est mort, je te retrouve juste devant l'entrée sud de Junkyard. Compris ? Je te dirai la suite à ce moment-là.<end>
 
 =>q48_original
 ::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
 
 =>q48
-::Elle te tape sur l'épaule.:: Il faut courir maintenant. Ne sois pas une mauviette et ne tremble pas. Va t'occuper de ces salauds. Au revoir.<end>
+::Elle vous tape sur l'épaule.:: Je dois filer. Toi : fais pas ta mauviette, et te dégonfle pas. Va t'occuper de ces salauds. Ciao.<end>
 
 =>a49_original
 I will, goodbye.<end>
 
 =>a49
-Je vais, au revoir.<end>
+Ça marche. Au revoir.<end>
 
 =>a50_original
 Yeah, see ya later.<end>
 
 =>a50
-Oui, à plus tard.<end>
+Ouais, à plus.<end>
 
 =>a51_original
 I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
 
 =>a51
-Je refuse de tuer l'envoyé. Je suis prêt à combattre des soldats, mais assassiner un envoyé ? Je ne crois pas.<end>
+Je refuse de tuer l'envoyé. Je veux bien me battre contre des soldats, mais assassiner un envoyé ? Hors de question.<end>
 
 =>q52_original
 ::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
@@ -318,39 +318,39 @@ Je refuse de tuer l'envoyé. Je suis prêt à combattre des soldats, mais assass
 Goodbye. Forever.<end>
 
 =>q52
-::Elle semble surprise par votre réponse.:: Oh? Vous refusez... Tu sais ce que je pense ? Tu n'as pas le courage de devenir l'un de nous. Oui. Mais, si c'est votre dernière réponse, c'est une honte, $(context.player.Name), une telle honte.
+::Elle a l'air surprise par votre réponse.:: Oh ? Tu refuses... Tu sais ce que je pense ? Je pense que t'as pas les tripes, finalement, pour devenir des nôtres. Ouais. Mais si c'est ta dernière réponse, c'est dommage, $(context.player.Name). Tellement dommage.
 
-Au revoir. Pour toujours.<end>
+Au revoir. Pour de bon.<end>
 
 =>a53_original
 Sorry, I am not interested.<end>
 
 =>a53
-Désolé, ça ne m'intéresse pas.<end>
+$(#Désolé/Désolée), ça m'intéresse pas.<end>
 
 =>q54_original
 It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
 
 =>q54
-C'est dommage. Même si vous êtes tombés pour leur propagande, je crois toujours que nous aurions ouvert les yeux si nous avions eu la chance. Mais comme ce n'est pas le cas, je dois vous quitter. Au revoir, $(context.player.Name)...<end>
+C'est dommage. Même si t'es $(#tombé/tombée) dans leur propagande, je crois encore qu'on t'aurait ouvert les yeux, si on avait eu la chance. Mais c'est pas le cas, alors je te laisse. Adieu, $(context.player.Name)...<end>
 
 =>q55_original
 It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
 
 =>q55
-C'est dommage - vous auriez été un grand ajout à notre famille. Mais comme ce n'est pas le cas, je dois vous quitter. Au revoir, $(context.player.Name)...<end>
+C'est dommage. T'aurais été un sacré plus pour la famille. Mais c'est pas le cas, alors je te laisse. Adieu, $(context.player.Name)...<end>
 
 =>a56_original
 I need to think some more.<end>
 
 =>a56
-J'ai besoin de réfléchir.<end>
+J'ai besoin d'y réfléchir encore.<end>
 
 =>q57_original
 You do that... I'll be here.<end>
 
 =>q57
-Tu fais ça... Je serai là.<end>
+Fais ça... Je serai là.<end>
 
 =>q58_original
 Farewell, $(context.player.Name).<end>
@@ -364,57 +364,57 @@ Adieu, $(context.player.Name).<end>
 Hey, you... are you $(context.player.Name)?<end>
 
 =>q59
-::Une jeune femme s'approche, regardant avec prudence avant de vous chuchoter.::
+::Une jeune femme s'approche, jette un œil autour d'elle, puis vous chuchote.::
 
-Vous êtes $(context.player.Name) ?<end>
+Hé, toi... t'es $(context.player.Name) ?<end>
 
 =>a60_original
 Yes, that's me. Who are you?<end>
 
 =>a60
-Oui, c'est moi. Qui êtes-vous ?<end>
+Oui, c'est moi. T'es qui ?<end>
 
 =>q61_original
 How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
 
 =>q61
-Et si tu devinais ? Laissez-moi vous donner un indice : Vous cherchiez un train Protectorate manquant que nous avions capturé. Vous nous avez trouvés, mais vous ne nous avez jamais signalés, et à cause de cela nous avons réussi à échapper en toute sécurité avec les fournitures. Qui sommes-nous ?<end>
+Et si tu devinais, hein ? Indice : tu cherchais un train Protectorate disparu, celui qu'on avait capturé. Tu nous as trouvés, et t'as jamais rien balancé. Grâce à ça, on s'est barrés avec le ravitaillement. On est qui ?<end>
 
 =>a62_original
 The Free Drones?<end>
 
 =>a62
-Le Free Drones ?<end>
+Les Free Drones ?<end>
 
 =>q63_original
 Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
 
 =>q63
-Le bingo ! Je savais que tu connaîtrais la réponse. Maintenant, $(context.player.Name), j'ai une simple question pour vous J'aimerais répondre: Que pensez-vous du Underrail Protectorate ? Quoi ?<end>
+Bingo ! Je savais que tu savais. Maintenant, $(context.player.Name), j'ai une question simple, et je veux une réponse : t'en penses quoi, du Underrail Protectorate ? Hein ?<end>
 
 =>a64_original
 As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
 
 =>a64
-Comme leur nom l'indique, je crois que l'objectif ultime du Underrail Protectorate est d'apporter protection et paix au Sud Underrail, dans lequel je les soutiens pleinement. Le Sud a besoin d'une unification ou il se déchirera.<end>
+Comme leur nom l'indique, je crois que le but ultime du Underrail Protectorate, c'est d'apporter protection et paix au South Underrail, et je les soutiens là-dessus. Le Sud a besoin de s'unifier, sinon il va se déchirer tout seul.<end>
 
 =>q65_original
 ::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
 
 =>q65
-::Elle a failli éclater de rire, en réussissant à peine à se contrôler.:: Tu es tombé pour leurs mensonges ? Je ne peux pas croire ce que j'entends ! Ils ne sont pas ici pour unir, protéger ou améliorer nos vies. Tout ce qui les intéresse, c'est le pouvoir ! Pouvoir et richesse ! Ils se fichent de toi, moi ou la pauvre Jane et ses sept enfants. Ils ne se soucient même pas de cette puante Rail Crossing que le train devait fournir en premier lieu...<end>
+::Elle manque d'éclater de rire, elle se retient à peine.:: T'as vraiment gobé leurs mensonges ? J'en reviens pas ! Ils sont pas là pour unir, protéger, ni améliorer nos vies. Tout ce qu'ils veulent, c'est le pouvoir ! Le pouvoir et le fric ! Ils en ont rien à foutre de toi, de moi, ou de la pauvre Jane et de ses sept gosses. Ils en ont même rien à foutre de ce putain de Rail Crossing que le train était censé ravitailler, au départ...<end>
 
 =>q66_original
 If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
 
 =>q66
-Si vous voulez voir le monde tel qu'il est vraiment et non pas ce fantasme tout-est-gonna-be-well-if-You-bow-down image le Protectorate est si désespéré de projeter, vous devrez nous faire confiance. Je sais comment ça peut vous sembler, j'en ai approché beaucoup jusqu'ici, mais ce que je vous dis est la vérité. Je le jure sur la tombe de ma mère.<end>
+Si tu veux voir le monde comme il est vraiment, et pas ce fantasme tout-ira-bien-si-tu-t'agenouilles que le Protectorate s'épuise à coller sur les murs, il va falloir nous faire confiance. Je sais comment ça sonne. J'en ai approché des tas, déjà. Mais ce que je te dis, c'est la vérité. Je le jure sur la tombe de ma mère.<end>
 
 =>q67_original
 There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
 
 =>q67
-Il y a encore une chance de changement... Je vais maintenant vous poser la dernière question : Est-ce que vous, $(context.player.Name), voulez nous aider à combattre les salauds d'invasion Protectorate et les ramener d'où ils viennent ? Nous voulons seulement ce qui est le mieux pour les gens, vous avez ma parole.<end>
+Y a encore une chance de changer les choses... Je te pose la dernière question : est-ce que toi, $(context.player.Name), tu veux nous aider à combattre ces salauds d'envahisseurs du Protectorate, et les renvoyer d'où ils viennent ? On veut seulement ce qu'il y a de mieux pour les gens. T'as ma parole.<end>
 
 =>q68_original
 <end>
@@ -432,43 +432,43 @@ C'est une décision difficile. J'ai besoin de temps pour y réfléchir.<end>
 I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
 
 =>a70
-Je suis plutôt ambivalent quand il s'agit du Underrail Protectorate. Sur certaines questions, je dirais que je les soutiens, mais sur d'autres, je suis complètement en désaccord. Rien n'est purement noir et blanc.<end>
+Je suis assez $(#ambivalent/ambivalente) sur le Underrail Protectorate. Sur certains points je les soutiens, sur d'autres je suis totalement contre. Rien n'est tout noir ou tout blanc.<end>
 
 =>q71_original
 Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
 
 =>q71
-Nous - le Free Drones - ne voyons rien de bon dans le Protectorate. Il peut sembler qu'ils ont de bonnes intentions, mais une fois que vous regardez sous le tapis propre et agréable, vous ne voyez que des saletés. Seulement... sale...<end>
+Nous, les Free Drones, on voit rien de bon dans le Protectorate. On dirait qu'ils ont de bonnes intentions, mais dès que tu soulèves le tapis propre et nickel, y a que de la crasse. Rien que... de la crasse...<end>
 
 =>q72_original
 Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
 
 =>q72
-Maintenant, la dernière question: Voulez-vous, $(context.player.Name), nous aider à combattre les enfoirés d'invasion Protectorate et les ramener d'où ils viennent? Le Free Drones veut seulement ce qui est le mieux pour les gens, vous avez ma parole sur cela.<end>
+Maintenant, la dernière question : est-ce que toi, $(context.player.Name), tu veux nous aider à combattre ces salauds d'envahisseurs du Protectorate, et les renvoyer d'où ils viennent ? Les Free Drones veulent seulement ce qu'il y a de mieux pour les gens. T'as ma parole.<end>
 
 =>a73_original
 I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
 
 =>a73
-Je pense qu'ils sont, en substance, une force expansionniste agressive qui cache son vrai programme en créant des illusions que l'unification apportera l'ordre, la paix et la sécurité à ceux qui en ont le plus besoin. La propagande est la semence de la tyrannie.<end>
+Je pense qu'au fond, c'est une force expansionniste agressive, qui cache son vrai programme derrière l'illusion que l'unification apportera l'ordre, la paix et la sécu à ceux qui en ont le plus besoin. La propagande, c'est la graine de la tyrannie.<end>
 
 =>q74_original
 ::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
 
 =>q74
-::Elle laisse ses lèvres se transformer en un sourire satisfait.:: Ensuite nous pensons comme, $(context.player.Name). Nous, le Free Drones, sentons la botte en métal du Protectorate sur notre dos, essayant de nous pousser dans la boue et de nous étouffer. Nous ne laisserons pas ces porcs nous conquérir.<end>
+::Un sourire satisfait lui vient aux lèvres.:: Alors on pense pareil, $(context.player.Name). Nous, les Free Drones, on sent la botte en métal du Protectorate dans le dos, qui veut nous enfoncer dans la boue et nous étouffer. On laissera pas ces porcs nous conquérir.<end>
 
 =>a75_original
 I'm not answering your silly question. It's time to leave, missy.<end>
 
 =>a75
-Je ne réponds pas à votre question stupide. Il est temps de partir, mademoiselle.<end>
+Je réponds pas à ta question à la con. Il est temps que je file, mademoiselle.<end>
 
 =>q76_original
 ::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
 
 =>q76
-::La femme te perce avec son regard avant de reparler.:: Si c'est ce que vous voulez... *$(context.player.Name).*<end>
+::La femme vous transperce du regard avant de reparler.:: Si c'est ce que tu veux... *$(context.player.Name).*<end>
 
 =>q77_original
 <end>
@@ -480,19 +480,19 @@ Je ne réponds pas à votre question stupide. Il est temps de partir, mademoisel
 Some random bandits?<end>
 
 =>a78
-Des bandits au hasard ?<end>
+Des bandits au pif ?<end>
 
 =>q79_original
 Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
 
 =>q79
-Pas du tout. Nous ne sommes pas des bandits "randomes" - nous sommes les Free Drones ! Je trouve étrange que vous ayez échoué, mais voyons comment vous répondrez à cette question : Que pensez-vous du Underrail Protectorate ? Quoi ?<end>
+Nan. On est pas des bandits « au pif ». On est les Free Drones ! Je trouve ça bizarre que t'aies loupé celle-là, mais voyons comment tu gères la suivante : t'en penses quoi, du Underrail Protectorate ? Hein ?<end>
 
 =>a80_original
 No idea. Nope.<end>
 
 =>a80
-Aucune idée. Pas du tout.<end>
+Aucune idée. Nan.<end>
 
 =>q81_original
 Come on, $(context.player.Name), think...<end>
@@ -504,11 +504,10 @@ Allez, $(context.player.Name), réfléchis...<end>
 Who wants to know?<end>
 
 =>a82
-Qui veut savoir ?<end>
+Qui demande ?<end>
 
 =>a83_original
 Get lost, I'm not interested in anything someone like *you* has to say.<end>
 
 =>a83
-Perdez-vous, je ne suis pas intéressé par quelque chose comme *vous* a à dire.<end>
-
+Dégage. Rien de ce que quelqu'un comme *toi* a à dire m'intéresse.<end>

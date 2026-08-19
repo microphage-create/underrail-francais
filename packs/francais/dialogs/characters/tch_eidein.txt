@@ -48,7 +48,7 @@ You started your Tchortist journey by challenging the devolved and successfully 
 =>q6
 ::Eidein tourne la tête vers vous d'un seul mouvement élégant. Il vous fixe un instant, sans un mot. Vous n'avez toujours aucune idée de ce qui se cache derrière le masque sinistre, et s'il descend bien dans les Deep Caverns vous ne le saurez peut-être jamais, vous dites-vous. Mais une fois de plus, vos pensées sont interrompues par sa voix profonde et étouffée.::
 
-Vous avez commencé votre parcours Tchortist en défiant les dégénérés et en les vainquant. J'espère seulement que votre parcours ne se terminera pas par les dégénérés vous vainquant. Bientôt ils arriveront, affamés de chair Tchortist, assoiffés de sang Tchortist. Ne les laissez pas y goûter.<end>
+Vous avez commencé votre parcours Tchortist en défiant les dégénérés et en les vainquant. J'espère seulement que ce ne seront pas les dégénérés qui vous vaincront, cette fois. Bientôt ils arriveront, affamés de chair Tchortist, assoiffés de sang Tchortist. Ne les laissez pas y goûter.<end>
 
 =>a7_original
 I want to go to Deep Caverns with you.<end>
@@ -466,7 +466,7 @@ J'aimerais aller dans les Deep Caverns et garder personnellement Tchort, si vous
 Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
 
 =>q71
-Tchort n'est gardé que par les membres les plus d'élite des Preservation Forces. Même si vous possédez la volonté, que j'admire et reconnais, vous ne possédez pas encore certaines compétences et connaissances ; les Deep Caverns sont un endroit menaçant, avec une faune vorace sans égale à ce que vous avez vu jusqu'ici ; infestées des Faceless corrompus aussi habiles à apporter la ruine aux autres qu'à eux-mêmes.<end>
+Tchort n'est gardé que par l'élite des Preservation Forces. Même si vous possédez la volonté, que j'admire et reconnais, il vous manque encore certaines compétences et connaissances ; les Deep Caverns sont un endroit menaçant, une faune vorace comme vous n'en avez jamais vu ; infestées par les Faceless corrompus, aussi habiles à apporter la ruine aux autres qu'à eux-mêmes.<end>
 
 =>q72_original
 In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
@@ -550,7 +550,7 @@ The Institute of Tchort always needs dedicated $(#men/women) like you, and I am 
 =>q83
 Si devenir assistant investigateur est votre souhait, vous n'aurez pas longtemps à attendre, $(context.player.Name) ; c'est une question de quelques jours avant que vous ne travailliez sur votre premier projet, résolvant vos premiers problèmes en tant qu'investigateur.
 
-L'Institute of Tchort a toujours besoin de $(#men/women) dévoué(e)s comme vous, et je suis satisfait de savoir que nous en avons.<end>
+L'Institute of Tchort a toujours besoin de $(#hommes/femmes) dévoué(e)s comme vous, et je suis satisfait de savoir que nous en avons.<end>
 
 =>q84_original
 If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
@@ -814,7 +814,7 @@ Pour quelque chose comme ça... c'est acceptable.
 ::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
 
 =>q123
-::Il fait signe à l'un de ses rassophores.:: Apportez à $(context.player.Name) la somme qu'il a demandée.<end>
+::Il fait signe à l'un de ses rassophores.:: Apportez à $(context.player.Name) la somme qu'$(#il/elle) a demandée.<end>
 
 =>q124_original
 ::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
@@ -822,7 +822,7 @@ Pour quelque chose comme ça... c'est acceptable.
 <end>
 
 =>q124
-::Après un court délai le rassophore revient avec vos pièces stygiennes. Vous remettez ensuite l'Acorn à Eidein.::
+::Après un court délai le rassophore revient avec vos charons. Vous remettez ensuite l'Acorn à Eidein.::
 
 <end>
 
@@ -948,7 +948,7 @@ C'est un appareil capable d'utiliser les matériaux de son environnement pour co
 That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
 
 =>q144
-C'est fort intrigant, $(#brother/sister). Et cela convient bien à un tel nom - Acorn. <end>
+C'est fort intrigant, $(#frère/sœur). Et cela convient bien à un tel nom - Acorn. <end>
 
 =>a145_original
 It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
@@ -1284,7 +1284,7 @@ Il baisse la tête pour vous regarder, et délivre ses mots d'une voix profondé
 Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
 
 =>q198
-Tchort est l'évolution, $(context.player.Name) ; enfin nous nous rencontrons. Je voudrais m'introduire officiellement : je suis Eidein. Je n'ai jamais eu l'occasion de vous remercier d'avoir rendu la pièce de l'ensemble à l'Institute of Tchort ; si elle était restée entre les mains des dégénérés, j'aurais été grandement déçu. Bien joué.<end>
+Tchort est l'évolution, $(context.player.Name) ; enfin nous nous rencontrons. Permettez-moi de me présenter officiellement : je suis Eidein. Je n'ai jamais eu l'occasion de vous remercier d'avoir rendu la pièce de l'ensemble à l'Institute of Tchort ; si elle était restée entre les mains des dégénérés, j'aurais été grandement déçu. Bien joué.<end>
 
 =>a199_original
 Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>

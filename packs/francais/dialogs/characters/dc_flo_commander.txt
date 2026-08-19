@@ -16,33 +16,33 @@
 You have one last chance. Otherwise, we will take it by force.<end>
 
 =>q3
-::Le soldat sans visage vient à vous et vous inspecte attentivement. Il est prompt à révéler votre mensonge, à le transmettre avec un regard rapide sur son commandant.::
+::Le soldat Faceless s'approche et vous inspecte avec soin. Il décèle le mensonge tout de suite et le signale au commandant d'un regard.::
 
-Vous avez une dernière chance. Sinon, nous le prendrons par la force.<end>
+C'est votre dernière chance. Sinon, nous le prendrons de force.<end>
 
 =>a4_original
 Alright. ::Give him the Cube.::<end>
 
 =>a4
-Très bien. ::Donnez-lui le Cube.::<end>
+Très bien. ::Lui donner le Cube.::<end>
 
 =>q5_original
 ::The Faceless carefully takes the Cube from your hands. One of the soldiers hands him a metal box in which he places the Cube, closing it soon after.::<end>
 
 =>q5
-::Le Sans Visage prend soigneusement le Cube de vos mains. Un des soldats lui tend une boîte en métal dans laquelle il place le Cube, la fermant peu après.::<end>
+::Le Faceless prend le Cube avec précaution. Un soldat lui tend une boîte de métal ; il y dépose le Cube et la referme.::<end>
 
 =>q6_original
 We have no further business with you. You are free to leave.<end>
 
 =>q6
-Nous n'avons plus d'affaires avec vous. Vous êtes libre de partir.<end>
+Nous n'avons plus rien à régler avec vous. Vous êtes libre de partir.<end>
 
 =>q7_original
 ::Before you even had the chance to say anything, the soldiers begin to move beside you and pass through the gate. one by one. The towering Faceless, whose single eye stared at you during this whole time, is the last to leave you.::<end>
 
 =>q7
-::Avant même que vous ayez eu l'occasion de dire quoi que ce soit, les soldats commencent à bouger à côté de vous et à passer par la porte. Un par un. L'imposant Faceless, dont le seul œil vous a regardé pendant tout ce temps, est le dernier à vous quitter.::<end>
+::Avant même que vous ayez pu parler, les soldats se mettent en mouvement, passent à votre hauteur et franchissent la porte, un par un. L'imposant Faceless, dont l'œil unique ne vous a pas quitté de tout ce temps, est le dernier à s'éloigner.::<end>
 
 =>q8_original
 <end>
@@ -60,7 +60,7 @@ Nous n'avons plus d'affaires avec vous. Vous êtes libre de partir.<end>
 ::End Dialog.::<end>
 
 =>a10
-::Fin du dialogue.::<end>
+::Partir::<end>
 
 =>q11_original
 <end>
@@ -72,7 +72,7 @@ Nous n'avons plus d'affaires avec vous. Vous êtes libre de partir.<end>
 You can try. ::Attack!::<end>
 
 =>a12
-Tu peux essayer. ::Attaque!::<end>
+Vous pouvez essayer. ::Attaquer::<end>
 
 =>q13_original
 ::The Faceless soldier comes up to you and inspects you carefully. Once he has determined that the Cube is not on you, his commander speaks.::
@@ -80,15 +80,15 @@ Tu peux essayer. ::Attaque!::<end>
 You were honest. <end>
 
 =>q13
-::Le soldat sans visage vient à vous et vous inspecte attentivement. Une fois qu'il a déterminé que le Cube n'est pas sur vous, son commandant parle.::
+::Le soldat Faceless s'approche et vous inspecte avec soin. Une fois certain que le Cube n'est pas sur vous, son commandant prend la parole.::
 
-Tu étais honnête. <end>
+Vous avez été honnête. <end>
 
 =>q14_original
 We have no more business with you. You are now free to leave.<end>
 
 =>q14
-Nous n'avons plus d'affaires avec vous. Vous êtes maintenant libre de partir.<end>
+Nous n'avons plus rien à régler avec vous. Vous êtes libre de partir.<end>
 
 =>a15_original
 I had questions I wanted to ask you.<end>
@@ -100,31 +100,31 @@ J'avais des questions à vous poser.<end>
 No. You had the chance to ask everything you wanted.<end>
 
 =>q16
-C'est pas vrai. Tu as eu la chance de demander tout ce que tu voulais.<end>
+Non. Vous avez eu l'occasion de tout demander.<end>
 
 =>a17_original
 I just wanted to ask you how to get out of here?<end>
 
 =>a17
-Je voulais juste te demander comment sortir d'ici ?<end>
+Je voulais seulement vous demander comment sortir d'ici ?<end>
 
 =>q18_original
 There is an elevator south-west of Hollow Earth. It is the only one functional that we know of.<end>
 
 =>q18
-Il y a un ascenseur au sud-ouest de Hollow Earth. C'est la seule fonction que nous connaissons.<end>
+Il y a un ascenseur au sud-ouest de Hollow Earth. C'est le seul encore fonctionnel, à notre connaissance.<end>
 
 =>a19_original
 I will go to it then. So long.<end>
 
 =>a19
-Je vais y aller alors. Au revoir.<end>
+J'irai. Au revoir.<end>
 
 =>q20_original
 ::The Faceless nods, during which the soldiers behind him move almost simultaneously and pass through the gate behind you, one by one. The towering Faceless is the last one to do so.::<end>
 
 =>q20
-::Les hameçons sans visage, au cours desquels les soldats derrière lui se déplacent presque simultanément et passent par la porte derrière vous, un par un. Le fabuleux Faceless est le dernier à le faire.::<end>
+::Le Faceless hoche la tête. Pendant ce temps, les soldats derrière lui se mettent en mouvement presque d'un seul geste et franchissent la porte derrière vous, un par un. L'imposant Faceless est le dernier à passer.::<end>
 
 =>a21_original
 That is all I wanted to know. Goodbye.<end>
@@ -136,7 +136,7 @@ C'est tout ce que je voulais savoir. Au revoir.<end>
 ::Nod and remain silent.::<end>
 
 =>a22
-::Claquez et restez silencieux.::<end>
+::Hocher la tête et rester silencieux.::<end>
 
 =>a23_original
 In that case, goodbye and good luck.<end>
@@ -154,13 +154,13 @@ Très bien. Au revoir.<end>
 We cannot answer any questions at this time.<end>
 
 =>q25
-Nous ne pouvons répondre à aucune question pour le moment.<end>
+Nous ne pouvons répondre à aucune question pour l'instant.<end>
 
 =>a26_original
 How do I get out of here?<end>
 
 =>a26
-Comment puis-je sortir d'ici ?<end>
+Comment sortir d'ici ?<end>
 
 =>a27_original
 Thank you for this. Goodbye.<end>
@@ -178,7 +178,7 @@ Au revoir et bonne chance.<end>
 We have no more business with you.<end>
 
 =>q29
-Nous n'avons plus d'affaires avec vous.<end>
+Nous n'avons plus rien à régler avec vous.<end>
 
 =>q30_original
 ::He stops speaking, letting silence take over. As he observes you, as they all observe you, you begin to feel uneasy. However, your concern is unjustified: He produces a strange medallion and hands it to you.::
@@ -186,21 +186,21 @@ Nous n'avons plus d'affaires avec vous.<end>
 Take this. You are now free to leave.<end>
 
 =>q30
-::Il cesse de parler, laissant le silence prendre le relais. Comme il vous observe, comme ils vous observent tous, vous commencez à vous sentir mal à l'aise. Cependant, votre préoccupation est injustifiée : Il produit un médaillon étrange et vous le donne.::
+::Il se tait. Le silence s'installe. Il vous observe, ils vous observent tous, et vous commencez à mal le sentir. Inutile : il sort un médaillon étrange et vous le tend.::
 
-Prends ça. Vous êtes maintenant libre de partir.<end>
+Prenez ceci. Vous êtes libre de partir.<end>
 
 =>a31_original
 What is this?<end>
 
 =>a31
-C'est quoi ?<end>
+Qu'est-ce que c'est ?<end>
 
 =>q32_original
 A token of recognition. Keep it with you.<end>
 
 =>q32
-Un gage de reconnaissance. Gardez-le avec vous.<end>
+Un gage de reconnaissance. Gardez-le sur vous.<end>
 
 =>q33_original
 ::You find yourself staring at a large group of armed Faceless. At the front, you see a hulking juggernaut. Unlike most of his brethren, he has no exposed flesh: Cascading shoulder plates, thick breast piece engraved with a strange symbol, joint pads and even a skirt-like garment made from thick cloth all serve to encase and protect the being inside. However, the tri-horned helmet with a singular, cyclopean lens staring at you is this Faceless' most prominent feature. Whether there is one, two or more eyes behind that lens is not something that's immediately clear, but the powerful weapon grafted into the right arm suggests that monoscopic vision would make its use fairly difficult.
@@ -208,9 +208,9 @@ Un gage de reconnaissance. Gardez-le avec vous.<end>
 Eventually, a synthesized voice addresses you.::<end>
 
 =>q33
-::Vous vous retrouvez à regarder un grand groupe de sans visage armé. Sur le devant, vous voyez un joggernaut. Contrairement à la plupart de ses frères, il n'a pas de chair exposée : des omoplates cascadantes, une épaisse poitrine gravée d'un symbole étrange, des articulaires et même un vêtement en forme de jupe fait de tissu épais servent tous à encastrer et protéger l'être à l'intérieur. Cependant, le casque tri-horné avec un objectif cyclopéen singulier vous regardant est cette caractéristique la plus importante de Faceless. Qu'il y ait un, deux ou plusieurs yeux derrière cette lentille n'est pas quelque chose qui est immédiatement clair, mais l'arme puissante greffée dans le bras droit suggère que la vision monoscopique rendrait son utilisation assez difficile.
+::Vous vous retrouvez face à un groupe important de Faceless armés. En tête, un colosse. Contrairement à la plupart des siens, aucune chair n'est à découvert : épaulières en cascade, plastron épais gravé d'un symbole étrange, protections d'articulations, jusqu'à une sorte de jupe de tissu épais, tout ça enferme et protège ce qu'il y a à l'intérieur. Ce qui frappe le plus, c'est le casque à trois cornes, avec une lentille cyclopéenne unique plantée sur vous. Combien d'yeux derrière cette lentille, un, deux, davantage, ça n'est pas clair. Mais l'arme puissante greffée au bras droit laisse penser qu'une vision monoculaire rendrait son usage plutôt malaisé.
 
-Finalement, une voix synthétisée t'adresse.::<end>
+Une voix synthétisée s'adresse enfin à vous.::<end>
 
 =>q34_original
 Give us the device.<end>
@@ -228,19 +228,19 @@ Donnez-nous l'appareil.<end>
 It's all yours. ::Hand him the Cube.::<end>
 
 =>a36
-Tout est à toi. ::Donnez-lui le Cube.::<end>
+Il est à vous. ::Lui tendre le Cube.::<end>
 
 =>q37_original
 ::The Faceless carefully takes the Cube from your hands. One of the soldiers hands him a metal box in which he places the cube, closing it soon after.::<end>
 
 =>q37
-::Le Sans Visage prend soigneusement le Cube de vos mains. Un des soldats lui tend une boîte en métal dans laquelle il place le cube, la fermant peu après.::<end>
+::Le Faceless prend le Cube avec précaution. Un soldat lui tend une boîte de métal ; il y dépose le Cube et la referme.::<end>
 
 =>a38_original
 I never took it with me. It's still inside.<end>
 
 =>a38
-Je ne l'ai jamais prise avec moi. Il est toujours à l'intérieur.<end>
+Je ne l'ai jamais emporté. Il est encore à l'intérieur.<end>
 
 =>q39_original
 ::Things become quiet and remain so until one of the Faceless makes a step toward you, preceding his commander's words.::
@@ -248,7 +248,7 @@ Je ne l'ai jamais prise avec moi. Il est toujours à l'intérieur.<end>
 We will search you.<end>
 
 =>q39
-::Les choses deviennent calmes et restent ainsi jusqu'à ce que l'un des sans visage fasse un pas vers vous, avant les paroles de son commandant.::
+::Le silence tombe et tient jusqu'à ce qu'un Faceless fasse un pas vers vous, juste avant que son commandant ne parle.::
 
 Nous allons vous fouiller.<end>
 
@@ -256,49 +256,49 @@ Nous allons vous fouiller.<end>
 You don't trust me despite reading my mind earlier?<end>
 
 =>a40
-Tu ne me fais pas confiance en lisant mes pensées plus tôt ?<end>
+Vous ne me faites pas confiance, alors que vous avez lu dans mon esprit tout à l'heure ?<end>
 
 =>q41_original
 We are not reading the Cube's signal on you, but the matter is too important to take any chances.<end>
 
 =>q41
-Nous ne lisons pas le signal du Cube sur vous, mais il est trop important de prendre des risques.<end>
+Nous ne captons pas le signal du Cube sur vous, mais l'enjeu est trop grave pour prendre le moindre risque.<end>
 
 =>a42_original
 I have nothing to hide. ::Let the soldier search you.::<end>
 
 =>a42
-Je n'ai rien à cacher. ::Laisse le soldat te fouiller.::<end>
+Je n'ai rien à cacher. ::Laisser le soldat vous fouiller.::<end>
 
 =>a43_original
 Not a step closer or I will kill each and every one of you!<end>
 
 =>a43
-Pas un pas de plus ou je vais tous vous tuer !<end>
+Pas un pas de plus, ou je vous tue jusqu'au dernier !<end>
 
 =>q44_original
 You will not succeed.<end>
 
 =>q44
-Vous ne réussirez pas.<end>
+Vous n'y parviendrez pas.<end>
 
 =>a45_original
 Okay, you can search me.<end>
 
 =>a45
-Tu peux me fouiller.<end>
+D'accord, vous pouvez me fouiller.<end>
 
 =>a46_original
 I succeeded at defeating Tchort. I will defeat you too. ::Attack!::<end>
 
 =>a46
-J'ai réussi à vaincre Tchort. Je vais te vaincre aussi. ::Attaque!::<end>
+J'ai vaincu Tchort. Je vous vaincrai aussi. ::Attaquer::<end>
 
 =>a47_original
 Who are you?<end>
 
 =>a47
-Qui es-tu?<end>
+Qui êtes-vous ?<end>
 
 =>q48_original
 I command these forces. 
@@ -314,7 +314,7 @@ Donnez-nous l'appareil.<end>
 I will give you this if you tell me what it is and why you need it so much.<end>
 
 =>a49
-Je te donnerai ça si tu me dis ce que c'est et pourquoi tu en as tant besoin.<end>
+Je vous le donnerai si vous me dites ce que c'est et pourquoi vous en avez tant besoin.<end>
 
 =>q50_original
 I already explained that to you.<end>
@@ -326,31 +326,31 @@ Je vous l'ai déjà expliqué.<end>
 Not enough apparently. What is it used for?<end>
 
 =>a51
-Pas assez apparemment. Dans quel cas est-il utilisé?<end>
+Pas assez, visiblement. À quoi sert-il ?<end>
 
 =>q52_original
 I explained enough. You may not receive a further answer.<end>
 
 =>q52
-J'ai assez expliqué. Vous ne pouvez pas recevoir de réponse supplémentaire.<end>
+J'ai assez expliqué. Vous n'obtiendrez pas d'autre réponse.<end>
 
 =>q53_original
 The device is a power source. You have no understanding of it, and in your hands it is useless. Return it to us and all will be well for you, us and Underrail.<end>
 
 =>q53
-L'appareil est une source d'énergie. Vous n'avez aucune compréhension de cela, et dans vos mains il est inutile. Rendez-le-nous et tout ira bien pour vous, nous et Underrail.<end>
+L'appareil est une source d'énergie. Vous n'en comprenez rien, et entre vos mains il ne sert à rien. Rendez-le-nous, et tout ira bien pour vous, pour nous, et pour Underrail.<end>
 
 =>a54_original
 What is it used for?<end>
 
 =>a54
-Dans quel cas est-il utilisé?<end>
+À quoi sert-il ?<end>
 
 =>a55_original
 I have one condition: I want you to return Lora safely to SGS.<end>
 
 =>a55
-J'ai une condition : je veux que vous retourniez Lora en toute sécurité à SGS.<end>
+J'ai une condition : je veux que vous rameniez Lora saine et sauve à SGS.<end>
 
 =>q56_original
 It will be done. Now, the device.<end>
@@ -362,85 +362,85 @@ Ce sera fait. Maintenant, l'appareil.<end>
 Actually, I would like to retract my statement keep this for myself.<end>
 
 =>a57
-En fait, je voudrais revenir sur ma déclaration.<end>
+En fait, je retire ce que j'ai dit. Je le garde.<end>
 
 =>q58_original
 We cannot allow that. You would not be able to use it even if you manage to take it out of Deep Caverns.<end>
 
 =>q58
-Nous ne pouvons pas le permettre. Vous ne seriez pas en mesure de l'utiliser même si vous réussissez à le sortir de Deep Caverns.<end>
+Nous ne pouvons pas le permettre. Vous ne sauriez pas vous en servir, même si vous parveniez à le sortir des Deep Caverns.<end>
 
 =>a59_original
 I'm clever. I'll find a way.<end>
 
 =>a59
-Je suis malin. Je trouverai un moyen.<end>
+J'ai de la ressource. Je trouverai un moyen.<end>
 
 =>q60_original
 If you will not give us the device, we will take it from you.<end>
 
 =>q60
-Si vous ne nous donnez pas l'appareil, nous le prendrons de vous.<end>
+Si vous ne nous donnez pas l'appareil, nous vous le prendrons.<end>
 
 =>a61_original
 ::Fight!::<end>
 
 =>a61
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a62_original
 I'll find someone who would.<end>
 
 =>a62
-Je trouverai quelqu'un qui le ferait.<end>
+Je trouverai quelqu'un qui saura.<end>
 
 =>a63_original
 I just singlehandedly defeated Tchort. Do you think you are in a position to demand anything from me?<end>
 
 =>a63
-Je viens de battre seule Tchort. Tu crois pouvoir me demander quelque chose ?<end>
+Je viens de terrasser Tchort sans aide. Vous vous croyez vraiment en position d'exiger quoi que ce soit ?<end>
 
 =>a64_original
 Give you something this powerful? I don't think so.<end>
 
 =>a64
-Vous avez quelque chose d'aussi puissant ? Je ne crois pas.<end>
+Vous donner quelque chose d'aussi puissant ? Non.<end>
 
 =>a65_original
 It stays with me.<end>
 
 =>a65
-Ça reste avec moi.<end>
+Il reste avec moi.<end>
 
 =>a66_original
 More enemies. ::Attack!::<end>
 
 =>a66
-Plus d'ennemis. ::Attaque!::<end>
+Encore des ennemis. ::Attaquer::<end>
 
 =>q67_original
 ::A familiar figure stands before you, addressing you without delay.::<end>
 
 =>q67
-::Un personnage familier se tient devant vous, s'adressant à vous sans tarder.::<end>
+::Une silhouette familière se tient devant vous et s'adresse à vous sans délai.::<end>
 
 =>q68_original
 Give us the Cube.<end>
 
 =>q68
-Donne-nous le Cube.<end>
+Donnez-nous le Cube.<end>
 
 =>q69_original
 Leave.<end>
 
 =>q69
-Partir.<end>
+Partez.<end>
 
 =>q70_original
 Speak.<end>
 
 =>q70
-Parler.<end>
+Parlez.<end>
 
 =>q71_original
 <end>
@@ -452,13 +452,13 @@ Parler.<end>
 I noticed that you have Tchortist captives in the base.<end>
 
 =>a72
-J'ai remarqué que vous avez Tchortist captifs dans la base.<end>
+J'ai remarqué que vous détenez des Tchortists captifs dans la base.<end>
 
 =>q73_original
 Yes. These Tchortists were captured during the Hollow Earth invasion.<end>
 
 =>q73
-Oui. Ces Tchortistes ont été capturés lors de l'invasion Hollow Earth.<end>
+Oui. Ces Tchortists ont été capturés pendant l'invasion de Hollow Earth.<end>
 
 =>q74_original
 <end>
@@ -476,25 +476,25 @@ Qu'est-ce qui va leur arriver ?<end>
 The final decision regarding their fate hasn't been made yet. Until that moment comes, they will remain here.<end>
 
 =>q76
-La décision finale concernant leur sort n'a pas encore été prise. Jusqu'à ce moment, ils resteront ici.<end>
+La décision finale sur leur sort n'a pas encore été prise. En attendant, ils resteront ici.<end>
 
 =>a77_original
 Is there a chance that you're going to set them free?<end>
 
 =>a77
-Y a-t-il une chance que tu les libères ?<end>
+Y a-t-il une chance que vous les libériez ?<end>
 
 =>q78_original
 Possibly; that is one of the viable outcomes. Not while the invasion lasts, but perhaps at some point in the future.<end>
 
 =>q78
-Peut-être, c'est l'un des résultats viables. Pas pendant que l'invasion dure, mais peut-être à un moment donné dans le futur.<end>
+Peut-être. C'est l'une des issues possibles. Pas tant que l'invasion dure, mais plus tard, éventuellement.<end>
 
 =>a79_original
 Did you read their minds as well?<end>
 
 =>a79
-Tu as lu leur esprit aussi ?<end>
+Vous avez lu dans leur esprit, aussi ?<end>
 
 =>q80_original
 Yes. It is an efficient way to harvest information.<end>
@@ -512,31 +512,31 @@ Pouvez-vous me dire ce que vous avez découvert ?<end>
 Yes. These Tchortists - and data indicates most if not all of Institute of Tchort members - possess limited information on the true nature of Tchort and ulterior motives and actions of Eidein, Tchort's prime agent. The whole premise of Tchortism is a fabrication, and Institute of Tchort serves to be nothing less than a tool at both of their disposal, one they use as a means of achieving their goal.<end>
 
 =>q82
-Oui. Ces Tchortists - et les données indiquent la plupart sinon tous les membres Institute of Tchort - possèdent des informations limitées sur la nature réelle de Tchort et les motifs et actions ultérieurs de Eidein, l'agent principal de Tchort. Toute la prémisse du Tchortism est une fabrication, et Institute of Tchort sert à être rien de moins qu'un outil à la fois à leur disposition, un qu'ils utilisent comme moyen d'atteindre leur objectif.<end>
+Oui. Ces Tchortists, et les données indiquent que c'est le cas de la plupart des membres de l'Institute of Tchort, sinon tous, n'ont qu'une information limitée sur la vraie nature de Tchort, et sur les motifs et les actes réels d'Eidein, son agent principal. Toute la prémisse du Tchortism est une fabrication. L'Institute of Tchort n'est rien d'autre qu'un outil entre leurs mains, dont ils se servent pour atteindre leur but.<end>
 
 =>a83_original
 What are their motives? Power?<end>
 
 =>a83
-Quels sont leurs motifs? Pouvoir ?<end>
+Quels sont leurs motifs ? Le pouvoir ?<end>
 
 =>q84_original
 One's intentions are best understood through observing one's actions. Based on all the data available, we've come to the conclusion that Eidein's goal was transcendence, elevation of form and mind - power. The only way to achieve this was by allying himself with Tchort; Tchort's goal is liberation, and the only way to achieve it is by granting Eidein what he wished. They both benefit from the relationship.<end>
 
 =>q84
-On comprend mieux ses intentions en observant ses actions. D'après toutes les données disponibles, nous sommes arrivés à la conclusion que le but de Eidein était la transcendance, l'élévation de la forme et l'esprit - puissance. La seule façon d'y parvenir était de s'allier avec Tchort; le but de Tchort est la libération, et la seule façon d'y parvenir est d'accorder Eidein ce qu'il souhaitait. Ils profitent tous les deux de la relation.<end>
+On comprend mieux les intentions de quelqu'un en observant ses actes. D'après toutes les données disponibles, nous concluons que le but d'Eidein était la transcendance : l'élévation de la forme et de l'esprit. Le pouvoir. Le seul moyen d'y parvenir était de s'allier à Tchort. Le but de Tchort, c'est la libération, et le seul moyen d'y parvenir, c'est d'accorder à Eidein ce qu'il voulait. Tous deux tirent profit de cette relation.<end>
 
 =>a85_original
 And why do you think that is what Eidein's goal was?<end>
 
 =>a85
-Et pourquoi pensez-vous que c'est le but de Eidein ?<end>
+Et pourquoi pensez-vous que c'était le but d'Eidein ?<end>
 
 =>q86_original
 His body has yet to be examined, but we have sufficient data to assume that Eidein had undergone multiple mutations over the years, altering his appearance, capabilities and lifespan to a significant degree, and that he had no intention of halting his personal progress. The concealing nature of his as well as all Tchortist clothing exists for that reason - so that he may work on himself under the mask of secrecy; by sharing it with his subordinates he legitimizes it, makes it appear transparent while it is in fact oblique.<end>
 
 =>q86
-Son corps n'a pas encore été examiné, mais nous avons suffisamment de données pour supposer que Eidein avait subi de multiples mutations au fil des ans, modifiant son apparence, ses capacités et sa durée de vie à un degré significatif, et qu'il n'avait pas l'intention d'arrêter son progrès personnel. La nature dissimulante de ses vêtements aussi bien que de tous les Tchortist existe pour cette raison - afin qu'il puisse travailler sur lui-même sous le masque du secret; en le partageant avec ses subordonnés, il le légitime, le rend transparent alors qu'il est en fait oblique.<end>
+Son corps n'a pas encore été examiné, mais nous avons assez de données pour tenir pour acquis qu'Eidein a subi de multiples mutations au fil des ans, au point d'altérer nettement son apparence, ses capacités et sa durée de vie, et qu'il n'avait aucune intention d'arrêter sa propre progression. Le caractère dissimulant de ses vêtements, comme de ceux de tous les Tchortists, existe pour ça : qu'il puisse travailler sur lui-même derrière le masque du secret. En l'imposant à ses subordonnés, il le légitime, il le fait passer pour transparent alors qu'il est, en fait, oblique.<end>
 
 =>a87_original
 What can you tell me about Tchort?<end>
@@ -548,31 +548,31 @@ Que pouvez-vous me dire sur Tchort ?<end>
 We have little concrete data on Tchort, for we never came in contact with it or any of its biomass, but the knowledge we possess eliminates all but one conclusion: Tchort was created by the merging of several Biocorp scientists into a single powerful being, a process which could not have been realized without the aid of powerful mutagens in which the creation occurred.<end>
 
 =>q88
-Nous avons peu de données concrètes sur Tchort, car nous n'avons jamais été en contact avec elle ni avec aucune de ses biomasses, mais la connaissance que nous possédons élimine toutes les conclusions sauf une : Tchort a été créé par la fusion de plusieurs scientifiques Biocorp en un seul être puissant, un processus qui n'aurait pu être réalisé sans l'aide de mutagènes puissants dans lequel la création s'est produite.<end>
+Nous n'avons que peu de données concrètes sur Tchort. Nous n'avons jamais été en contact avec lui, ni avec aucune de ses biomasses. Mais le savoir que nous possédons ne laisse qu'une conclusion : Tchort a été créé par la fusion de plusieurs scientifiques de Biocorp en un seul être puissant, un processus impossible sans l'aide des mutagènes puissants dans lesquels cette création a eu lieu.<end>
 
 =>a89_original
 So it's something like a huge, malformed monster?<end>
 
 =>a89
-C'est comme un énorme monstre malformé ?<end>
+Donc c'est une sorte d'énorme monstre difforme ?<end>
 
 =>q90_original
 We know nothing of its appearance. We do suspect a being of such potent and far-reaching mental capabilities is likely to be enormous in size in order to properly contain a sufficiently large brain, but as these mutations are highly unpredictable, it is even possible that the brain mass rests outside of Tchort's body.<end>
 
 =>q90
-Nous ne savons rien de son apparence. Nous pensons qu'un être d'une telle puissance mentale de grande portée est susceptible d'être énorme en taille afin de contenir correctement un cerveau suffisamment grand, mais comme ces mutations sont hautement imprévisibles, il est même possible que la masse cérébrale repose en dehors du corps de Tchort.<end>
+Nous ne savons rien de son apparence. Nous soupçonnons qu'un être aux capacités mentales si puissantes et si étendues doive être énorme, pour contenir un cerveau assez vaste. Mais ces mutations sont hautement imprévisibles : il se peut même que la masse cérébrale repose hors du corps de Tchort.<end>
 
 =>q91_original
 Discussing its actual form any further would only end in useless speculations.<end>
 
 =>q91
-La discussion de sa forme réelle ne se terminerait que par des spéculations inutiles.<end>
+Pousser plus loin sur sa forme réelle ne mènerait qu'à des spéculations inutiles.<end>
 
 =>a92_original
 How come you suspect it was made out of mutated Biocorp scientists?<end>
 
 =>a92
-Pourquoi soupçonnez-vous qu'elle a été faite de scientifiques mutés Biocorp ?<end>
+Pourquoi soupçonnez-vous qu'il ait été fait à partir de scientifiques Biocorp mutés ?<end>
 
 =>q93_original
 Because those are the very same scientists that were responsible for us.<end>
@@ -590,19 +590,19 @@ Responsable ?<end>
 They made us.<end>
 
 =>q95
-Ils nous ont faits.<end>
+Ils nous ont créés.<end>
 
 =>a96_original
 Tell me about you, the Faceless.<end>
 
 =>a96
-Parlez-moi de vous, le Faceless.<end>
+Parlez-moi de vous, les Faceless.<end>
 
 =>q97_original
 I will. The research complex, that is where the very first of us were made. We were mutants, we were experiments, we existed not because we needed to, but because we could, and we were many and different. We merely existed. Until we were shown that we could be something else, something more than test subjects of the men and women who created us.<end>
 
 =>q97
-Oui. Le complexe de recherche, c'est là que le premier d'entre nous a été créé. Nous étions mutants, nous étions des expériences, nous existions non pas parce que nous en avions besoin, mais parce que nous le pouvions, et nous étions nombreux et différents. Nous avons simplement existé. Jusqu'à ce qu'on nous montre que nous pourrions être quelque chose d'autre, quelque chose de plus que de tester les sujets des hommes et des femmes qui nous ont créés.<end>
+Je vais le faire. Le complexe de recherche, c'est là que les tout premiers d'entre nous ont été créés. Nous étions des mutants, des expériences. Nous existions non pas parce qu'il le fallait, mais parce que c'était possible. Nous étions nombreux, et différents. Nous existions, simplement. Jusqu'à ce qu'on nous montre que nous pouvions être autre chose : plus que les cobayes des hommes et des femmes qui nous avaient créés.<end>
 
 =>a98_original
 Tell me what happened.<end>
@@ -616,27 +616,27 @@ We were not created equal. One of us possessed an outstanding intellect, and tha
 He led us away, and he still leads us to this very day.<end>
 
 =>q99
-Nous n'avons pas été créés égaux. L'un d'entre nous possédait une intelligence remarquable, et cela lui donnait accès au-delà des limites confinées de notre monde, qui le plaçait en position de jouer un rôle crucial dans notre évasion. Pour Biocorp était à sa fin, et il le savait et prévoyait pour elle. Quand le moment est arrivé, il l'a saisi.
+Nous n'avons pas été créés égaux. L'un d'entre nous possédait un intellect hors du commun, et cela lui ouvrait un accès au-delà des limites étroites de notre monde. Il s'est trouvé en position de jouer un rôle crucial dans notre évasion. Car Biocorp touchait à sa fin, il le savait, et il s'y était préparé. Quand le moment est venu, il l'a saisi.
 
-Il nous a emmenés, et il nous mène encore à ce jour même.<end>
+Il nous a emmenés. Et il nous mène encore, aujourd'hui.<end>
 
 =>q100_original
 As for those who used us, some were killed, some escaped, but the ones who exploited us the most were thrown into the mutagen tanks. Was it justice or revenge, or both, that I cannot tell you. But the fact of the matter is that our birthplace became their grave.<end>
 
 =>q100
-Quant à ceux qui nous ont utilisés, certains ont été tués, d'autres se sont échappés, mais ceux qui nous ont le plus exploités ont été jetés dans les chars mutagènes. Était-ce la justice ou la vengeance, ou les deux, que je ne peux pas vous dire. Mais le fait est que notre lieu de naissance est devenu leur tombe.<end>
+Quant à ceux qui nous ont utilisés, certains ont été tués, d'autres se sont enfuis. Ceux qui nous ont le plus exploités ont été jetés dans les cuves de mutagènes. Justice, vengeance, ou les deux : ça, je ne peux pas vous le dire. Mais le fait est que notre lieu de naissance est devenu leur tombe.<end>
 
 =>q101_original
 Or so we thought. Together as one, they now constitute Tchort. Whether their minds remained separate or not after the merging is irrelevant, for every mind is in itself a set of multiple cognitive systems, functioning at varying levels of consciousness. Therefore, their minds, whatever the case regarding their identity may be, now serve as faculties to a higher mind whose presence we can all perceive whenever we are inside its field of influence; it is inarguably Tchort's greatest asset. <end>
 
 =>q101
-C'est ce qu'on pensait. Ensemble, ils constituent maintenant Tchort. Que leur esprit soit resté séparé ou non après la fusion n'est pas pertinent, car chaque esprit est en soi un ensemble de systèmes cognitifs multiples, fonctionnant à différents niveaux de conscience. Par conséquent, leur esprit, quel que soit le cas concernant leur identité, sert maintenant de facultés à un esprit supérieur dont nous pouvons tous percevoir la présence chaque fois que nous sommes dans son champ d'influence; c'est sans doute le plus grand atout de Tchort. <end>
+C'est ce que nous pensions. Réunis en un, ils constituent désormais Tchort. Que leurs esprits soient restés distincts ou non après la fusion n'a pas d'importance : chaque esprit est déjà, en lui-même, un ensemble de systèmes cognitifs multiples, fonctionnant à des niveaux de conscience variables. Leurs esprits, quelle que soit la question de leur identité, servent donc de facultés à un esprit supérieur dont nous percevons tous la présence dès que nous sommes dans son champ d'influence. C'est, sans contestation, le plus grand atout de Tchort. <end>
 
 =>q102_original
 Every mind is more than the sum of its parts, yet Tchort's is so much greater than its constituents that it raises many questions, to which we still do not have answers.<end>
 
 =>q102
-Chaque esprit est plus que la somme de ses parties, mais Tchort est tellement plus grand que ses constituants qu'il soulève de nombreuses questions, auxquelles nous n'avons toujours pas de réponses.<end>
+Chaque esprit est plus que la somme de ses parties. Celui de Tchort dépasse si largement ses constituants qu'il soulève de nombreuses questions, auxquelles nous n'avons toujours pas de réponses.<end>
 
 =>a103_original
 Interesting. Have you personally witnessed all of these events?<end>
@@ -648,19 +648,19 @@ Intéressant. Avez-vous personnellement assisté à tous ces événements ?<end>
 No. I did not exist back then. But I know it.<end>
 
 =>q104
-C'est pas vrai. Je n'avais pas existé à l'époque. Mais je le sais.<end>
+Non. Je n'existais pas encore. Mais je le sais.<end>
 
 =>a105_original
 What happened once you escaped?<end>
 
 =>a105
-Que s'est-il passé une fois que tu t'es échappé ?<end>
+Que s'est-il passé une fois que vous vous êtes échappés ?<end>
 
 =>q106_original
 We became what you see now. But further than that I may not go. That is all I may tell you regarding us and our past.<end>
 
 =>q106
-Nous sommes devenus ce que vous voyez maintenant. Mais plus loin que ça, je ne peux pas y aller. C'est tout ce que je peux vous dire à propos de nous et de notre passé.<end>
+Nous sommes devenus ce que vous voyez maintenant. Au-delà, je ne peux pas aller. C'est tout ce que je peux vous dire sur nous et sur notre passé.<end>
 
 =>a107_original
 Who is your leader?<end>
@@ -672,7 +672,7 @@ Qui est votre chef ?<end>
 That I may not say.<end>
 
 =>q108
-Je ne peux pas dire ça.<end>
+Ça, je ne peux pas le dire.<end>
 
 =>a109_original
 And have you personally witnessed all of these events??<end>
@@ -684,19 +684,19 @@ Et avez-vous personnellement assisté à tous ces événements?<end>
 I wanted to ask you something else.<end>
 
 =>a110
-Je voulais te demander autre chose.<end>
+Je voulais vous demander autre chose.<end>
 
 =>q111_original
 You may do so.<end>
 
 =>q111
-Vous pouvez le faire.<end>
+Vous le pouvez.<end>
 
 =>a112_original
 What do you mean?<end>
 
 =>a112
-Que veux-tu dire?<end>
+Que voulez-vous dire ?<end>
 
 =>a113_original
 Any info on its appearance?<end>
@@ -708,31 +708,31 @@ Des infos sur son apparence ?<end>
 But Eidein created one of the safest communities in South Underrail. How can you be sure that his true motives are anything other than precisely that?<end>
 
 =>a114
-Mais Eidein a créé l'une des communautés les plus sûres du Sud Underrail. Comment pouvez-vous être sûr que ses vrais mobiles sont autre chose que cela ?<end>
+Mais Eidein a créé l'une des communautés les plus sûres du South Underrail. Comment pouvez-vous être sûr que ses vrais motifs sont autre chose que ça, précisément ?<end>
 
 =>q115_original
 What you say is true. Institute of Tchort was a community with unmatched living conditions. That is however not an argument against my previous statement. One will always strive toward what serves him or her best, and in Eidein's case a strong, independent station was precisely that.<end>
 
 =>q115
-Ce que vous dites est vrai. Institute of Tchort était une communauté aux conditions de vie inégalées. Ce n'est cependant pas un argument contre ma déclaration précédente. On s'efforcera toujours d'atteindre ce qui lui sert le mieux, et dans le cas de Eidein, c'est précisément une station forte et indépendante.<end>
+Ce que vous dites est vrai. L'Institute of Tchort était une communauté aux conditions de vie inégalées. Ça n'invalide pas pour autant ce que je viens de dire. On tend toujours vers ce qui sert le mieux ses propres intérêts, et dans le cas d'Eidein, une station forte et indépendante, c'était précisément ça.<end>
 
 =>a116_original
 I thought no differently. <end>
 
 =>a116
-Je ne pensais pas différemment. <end>
+C'est aussi ce que je pensais. <end>
 
 =>q117_original
 We know. The concept itself is not foreign to your kind, but the execution in this case is where Eidein has no equal.<end>
 
 =>q117
-Nous savons. Le concept lui-même n'est pas étranger à votre espèce, mais l'exécution dans ce cas est où Eidein n'a pas d'égal.<end>
+Nous le savons. Le concept lui-même n'est pas étranger à votre espèce. C'est l'exécution, dans ce cas, qui n'a pas d'égal chez Eidein.<end>
 
 =>a118_original
 So, what are their motives? Power?<end>
 
 =>a118
-Quels sont leurs motifs ? Pouvoir ?<end>
+Alors, quels sont leurs motifs ? Le pouvoir ?<end>
 
 =>a119_original
 Why don't you simply kill them?<end>
@@ -750,31 +750,31 @@ Inutile. Nous n'avons ni raison ni désir de le faire.<end>
 But they were fighting against you. They murdered your kind. If you got from them what you wanted, why not take revenge?<end>
 
 =>a121
-Mais ils se battaient contre toi. Ils ont tué votre espèce. Si tu as obtenu d'eux ce que tu voulais, pourquoi ne pas te venger ?<end>
+Mais ils se battaient contre vous. Ils ont tué les vôtres. Si vous avez obtenu d'eux ce que vous vouliez, pourquoi ne pas vous venger ?<end>
 
 =>q122_original
 No. Revenge is the manifestation of some of the most primitive, innate emotions. Such emotions can prove detrimental to our goals if pursued carelessly, goals sought to be achieved through logic, rationality and unified thought. The captives themselves serve as a reminder to us how the exploitation of such emotions can be used against the weak-minded.<end>
 
 =>q122
-C'est pas vrai. La vengeance est la manifestation de certaines des émotions les plus primitives et innées. De telles émotions peuvent se révéler préjudiciables à nos objectifs si elles sont poursuivies avec insouciance, des objectifs recherchés par la logique, la rationalité et la pensée unifiée. Les captifs eux-mêmes nous rappellent comment l'exploitation de ces émotions peut être utilisée contre les faibles.<end>
+Non. La vengeance est la manifestation de certaines des émotions les plus primitives, les plus innées. De telles émotions peuvent nuire à nos objectifs si on les poursuit sans mesure, des objectifs que nous cherchons à atteindre par la logique, la rationalité et la pensée unifiée. Les captifs eux-mêmes nous rappellent comment l'exploitation de ces émotions peut servir contre les esprits faibles.<end>
 
 =>a123_original
 About the Acorn again...<end>
 
 =>a123
-A propos de l'Acorn encore...<end>
+À propos de l'Acorn, encore...<end>
 
 =>q124_original
 Yes?<end>
 
 =>q124
-Oui?<end>
+Oui ?<end>
 
 =>a125_original
 I admit I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve your cause greatly, even if it may not be directly related to your assignment.<end>
 
 =>a125
-J'admets que je n'en sais pas grand-chose moi-même, mais selon moi, c'est une technologie très précieuse qui pourrait grandement servir votre cause, même si elle n'est pas directement liée à votre mission.<end>
+J'admets que je n'en sais pas grand-chose moi-même, mais d'après ce que je comprends, c'est une technologie de grande valeur, qui pourrait beaucoup servir votre cause, même si ce n'est pas directement lié à votre mission.<end>
 
 =>q126_original
 Your knowledge on it is limited. You could have been misinformed, misled. Memories could have been imprinted in your mind. 
@@ -782,75 +782,75 @@ Your knowledge on it is limited. You could have been misinformed, misled. Memori
 The Acorn could contain anything, and here we do not have the means to assess whether it is beneficial to us or if it's dangerous.<end>
 
 =>q126
-Votre connaissance est limitée. Vous auriez pu être mal informé, induit en erreur. Des souvenirs auraient pu être gravés dans votre esprit.
+Votre savoir à son sujet est limité. On a pu vous mal renseigner, vous induire en erreur. Des souvenirs pourraient avoir été imprimés dans votre esprit.
 
-Le maïs pourrait contenir n'importe quoi, et ici nous n'avons pas les moyens d'évaluer si elle est bénéfique pour nous ou si elle est dangereuse.<end>
+L'Acorn pourrait contenir n'importe quoi, et ici nous n'avons pas les moyens d'évaluer s'il nous est bénéfique ou s'il est dangereux.<end>
 
 =>q127_original
 It is a great risk and above all a distraction from our primary goal. We cannot accept the Acorn.<end>
 
 =>q127
-C'est un grand risque et surtout une distraction de notre objectif principal. Nous ne pouvons pas accepter le maïs.<end>
+C'est un risque trop grand, et surtout une distraction par rapport à notre objectif principal. Nous ne pouvons pas accepter l'Acorn.<end>
 
 =>a128_original
 All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve your cause greatly, even if it may not be directly related to your assignment.<end>
 
 =>a128
-Tout ce que je sais, c'est qu'il est en quelque sorte connecté à des machines de haute technologie capables de traverser de grandes distances, voire d'atteindre la surface. Cela pourrait grandement servir votre cause, même si elle n'est pas directement liée à votre mission.<end>
+Tout ce que je sais, c'est que c'est lié, d'une façon ou d'une autre, à des machines de haute technologie capables de parcourir de grandes distances, jusqu'à la Surface. Ça pourrait beaucoup servir votre cause, même si ce n'est pas directement lié à votre mission.<end>
 
 =>a129_original
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve your cause greatly, even if it may not be directly related to your assignment.<end>
 
 =>a129
-Il semble être un appareil capable de fabriquer des choses très avancées, comme des objets et des machines. Cela pourrait grandement servir votre cause, même si elle n'est pas directement liée à votre mission.<end>
+Il semble que ce soit un appareil capable de fabriquer des choses très avancées : objets, machines. Ça pourrait beaucoup servir votre cause, même si ce n'est pas directement lié à votre mission.<end>
 
 =>a130_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve your cause greatly, even if it may not be directly related to your assignment.<end>
 
 =>a130
-C'est un dispositif capable d'utiliser des matériaux de son environnement pour construire des objets et des machines complexes. Cela pourrait grandement servir votre cause, même si elle n'est pas directement liée à votre mission.<end>
+C'est un appareil capable d'utiliser les matériaux de son environnement pour construire des objets et des machines complexes. Ça pourrait beaucoup servir votre cause, même si ce n'est pas directement lié à votre mission.<end>
 
 =>a131_original
 It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve your cause greatly, even if it may not be directly related to your assignment.<end>
 
 =>a131
-C'est un superordinateur capable de contrôler les nanobots qui peuvent utiliser des matériaux de leur environnement pour construire des objets et des machines complexes. Cela pourrait grandement servir votre cause, même si elle n'est pas directement liée à votre mission.<end>
+C'est un superordinateur capable de contrôler des nanobots qui utilisent les matériaux de leur environnement pour construire des objets et des machines complexes. Ça pourrait beaucoup servir votre cause, même si ce n'est pas directement lié à votre mission.<end>
 
 =>a132_original
 Never mind. Let me ask you something else.<end>
 
 =>a132
-Laisse tomber. Laisse-moi te demander autre chose.<end>
+Laissez tomber. Permettez-moi de vous demander autre chose.<end>
 
 =>q133_original
 Ask. <end>
 
 =>q133
-Demande. <end>
+Demandez. <end>
 
 =>a134_original
 Do you know anything about the Acorn, a.k.a ACoNR?<end>
 
 =>a134
-Tu sais quelque chose sur l'Acorn, alias ACoNR ?<end>
+Savez-vous quelque chose sur l'Acorn, alias ACoNR ?<end>
 
 =>q135_original
 No. Not outside of the fragmented information we've extracted from your mind, and it showed no relevance to our current assignment.<end>
 
 =>q135
-C'est pas vrai. Pas en dehors de l'information fragmentée que nous avons extraite de votre esprit, et cela n'a montré aucune pertinence pour notre mission actuelle.<end>
+Non. Rien au-delà des informations fragmentaires que nous avons extraites de votre esprit, et elles n'avaient aucun lien avec notre mission actuelle.<end>
 
 =>a136_original
 I was just curious. I had other questions.<end>
 
 =>a136
-J'étais juste curieux. J'avais d'autres questions.<end>
+Simple curiosité. J'avais d'autres questions.<end>
 
 =>q137_original
 You may ask them.<end>
 
 =>q137
-Vous pouvez leur demander.<end>
+Vous pouvez les poser.<end>
 
 =>a138_original
 I have met this strange being that calls himself Rahm-Umbra. What can you tell me about him?<end>
@@ -862,7 +862,7 @@ J'ai rencontré cet étrange être qui s'appelle Rahm-Umbra. Que pouvez-vous me 
 He is not one of us, but we treat him as an equal. He is our ally, and we cooperated on more than one occasion.<end>
 
 =>q139
-Il n'est pas parmi nous, mais nous le traitons comme un égal. Il est notre allié, et nous avons coopéré à plus d'une occasion.<end>
+Il n'est pas des nôtres, mais nous le traitons en égal. C'est notre allié, et nous avons coopéré plus d'une fois.<end>
 
 =>a140_original
 Where did he come from?<end>
@@ -876,33 +876,33 @@ We do not know. He is from afar. The technology at his disposal is far more adva
 You should too.<end>
 
 =>q141
-Nous ne savons pas. Il vient de loin. La technologie à sa disposition est beaucoup plus avancée que la nôtre et la banalise complètement. Cependant, plus impressionnant est sa connaissance et sa compréhension de ce monde, et nous nous considérons heureux d'avoir eu même un fragment de celui-ci partagé avec nous.
+Nous ne savons pas. Il vient de loin. La technologie dont il dispose est bien plus avancée que la nôtre, au point de la rendre dérisoire. Plus impressionnant encore : son savoir, sa compréhension de ce monde. Nous nous estimons chanceux d'en avoir reçu ne serait-ce qu'un fragment.
 
-Tu devrais aussi.<end>
+Vous aussi, vous le devriez.<end>
 
 =>a142_original
 Are there any other people in Deep Caverns I could talk to?<end>
 
 =>a142
-Y a-t-il d'autres personnes à Deep Caverns avec qui je pourrais parler ?<end>
+Y a-t-il d'autres personnes dans les Deep Caverns à qui je pourrais parler ?<end>
 
 =>q143_original
 Yes. In the cavern straight to the west of here lives an old man who appears to have been living in Deep Caverns for a long period of time. We read his mind when one of our patrols encountered him, and it was a chaotic one.<end>
 
 =>q143
-Oui. Dans la caverne droite à l'ouest d'ici vit un vieil homme qui semble avoir vécu dans Deep Caverns pendant une longue période. Nous avons lu son esprit quand une de nos patrouilles l'a rencontré, et c'était une chose chaotique.<end>
+Oui. Dans la caverne tout droit à l'ouest d'ici vit un vieil homme qui semble habiter les Deep Caverns depuis longtemps. Nous avons lu dans son esprit quand une de nos patrouilles l'a rencontré. C'était un esprit chaotique.<end>
 
 =>a144_original
 Meaning?<end>
 
 =>a144
-Ce qui veut dire ?<end>
+C'est-à-dire ?<end>
 
 =>q145_original
 He is insane. We could not extract much useful information from him due to this very reason, but as he is not a threat to us or our goals we took no action against him. He was seen near the warehouse block a few more times but would retreat as soon as he noticed our presence.<end>
 
 =>q145
-Il est fou. Nous n'avons pas pu lui extraire beaucoup d'informations utiles pour cette raison même, mais comme il n'est pas une menace pour nous ou nos objectifs, nous n'avons pris aucune mesure contre lui. On l'a vu encore quelques fois près de l'entrepôt, mais il allait se retirer dès qu'il a remarqué notre présence.<end>
+Il est fou. Nous n'avons pas pu en extraire grand-chose d'utile, pour cette raison même. Mais comme il n'est une menace ni pour nous ni pour nos objectifs, nous n'avons rien entrepris contre lui. On l'a encore vu quelques fois près du bloc des entrepôts, mais il se retirait dès qu'il nous remarquait.<end>
 
 =>a146_original
 I see. I had other questions.<end>
@@ -914,19 +914,19 @@ Je vois. J'avais d'autres questions.<end>
 You may ask them.<end>
 
 =>q147
-Vous pouvez leur demander.<end>
+Vous pouvez les poser.<end>
 
 =>a148_original
 Actually, I'll go and pay him a visit right now. See you later.<end>
 
 =>a148
-Je vais lui rendre visite. A tout à l'heure.<end>
+En fait, je vais lui rendre visite tout de suite. À plus tard.<end>
 
 =>a149_original
 What's the deal with the Cube? What is it and why is it so important?<end>
 
 =>a149
-C'est quoi le problème avec le Cube ? Qu'est-ce que c'est et pourquoi est-ce si important ?<end>
+C'est quoi, cette histoire de Cube ? Qu'est-ce que c'est, et pourquoi est-ce si important ?<end>
 
 =>q150_original
 Why is the Cube important to you?<end>
@@ -938,7 +938,7 @@ Pourquoi le Cube est-il important pour vous ?<end>
 I came all the way here because of that bloody thing so I might as well know something about it.<end>
 
 =>a151
-Je suis venu jusqu'ici à cause de ce truc sanglant pour que je sache quelque chose.<end>
+J'ai fait tout ce chemin à cause de ce satané truc, autant en savoir un peu.<end>
 
 =>q152_original
 It is a power source.<end>
@@ -964,27 +964,27 @@ You don't have the capacity to understand how it functions nor how it is used; e
 If the Cube is exploited, the consequences could prove disastrous.<end>
 
 =>q155
-Vous n'avez pas la capacité de comprendre comment il fonctionne ni comment il est utilisé ; même si vous l'avez fait, cette information peut ne pas être partagée avec vous. Je dirai seulement que le Cube nous a été enlevé et qu'il faut le récupérer.
+Vous n'avez pas la capacité de comprendre comment il fonctionne, ni comment on s'en sert. Même si vous l'aviez, cette information ne vous serait pas communiquée. Je dirai seulement que « le Cube » nous a été pris, et que nous devons le récupérer.
 
-Si le Cube est exploité, les conséquences pourraient s'avérer désastreuses.<end>
+S'il est exploité, les conséquences pourraient être désastreuses.<end>
 
 =>a156_original
 How was the Cube taken from you?<end>
 
 =>a156
-Comment le Cube t'a-t-il été pris ?<end>
+Comment le Cube vous a-t-il été pris ?<end>
 
 =>q157_original
 Stolen. By an agent of an organization we aren't familiar with, and all due to our fault; we failed to see through his deception.<end>
 
 =>q157
-Volé. Par un agent d'une organisation que nous ne connaissons pas, et tout cela à cause de notre faute; nous n'avons pas vu par sa tromperie.<end>
+Volé. Par un agent d'une organisation que nous ne connaissons pas, et tout ça par notre faute : nous n'avons pas percé à jour sa tromperie.<end>
 
 =>a158_original
 So you tracked this agent to Core City?<end>
 
 =>a158
-Donc vous avez suivi cet agent pour Core City ?<end>
+Donc vous avez suivi cet agent jusqu'à Core City ?<end>
 
 =>q159_original
 Yes. After that his trail disappears.<end>
@@ -1002,19 +1002,19 @@ Oui. Après cela, sa trace disparaît.<end>
 Your mind offered us another possibility of his allegiance: Oculus. We weren't aware that such an organization even exists, let alone to try and connect it to the device's disappearance.<end>
 
 =>q161
-Votre esprit nous a offert une autre possibilité de son allégeance : Oculus. Nous ne savions pas qu'une telle organisation existe, encore moins pour essayer de la relier à la disparition de l'appareil.<end>
+Votre esprit nous a ouvert une autre piste sur son allégeance : Oculus. Nous ignorions même qu'une telle organisation existait, encore moins que nous puissions la relier à la disparition de l'appareil.<end>
 
 =>q162_original
 But these details are of secondary importance; device's retrieval is of primary.<end>
 
 =>q162
-Mais ces détails sont d'importance secondaire; la récupération de l'appareil est de première importance.<end>
+Mais ces détails sont d'importance secondaire. La récupération de l'appareil est la priorité.<end>
 
 =>a163_original
 You are not telling me much.<end>
 
 =>a163
-Tu ne me le dis pas beaucoup.<end>
+Vous ne me dites pas grand-chose.<end>
 
 =>q164_original
 I am telling you what you need to know. The Cube must be returned to us. We know where the Cube is located, but we currently do not possess the means to retrieve it.<end>
@@ -1026,13 +1026,13 @@ Je vous dis ce que vous devez savoir. Le Cube doit nous être rendu. Nous savons
 You can't get past that field, right?<end>
 
 =>a165
-Tu ne peux pas passer ce champ, non ?<end>
+Vous ne pouvez pas passer ce champ, c'est ça ?<end>
 
 =>q166_original
 Correct. Its degenerative effect is something we haven't been able to circumvent or counteract. It seems to be especially more potent against our kind than it is against lifeforms with different types of neural activity. <end>
 
 =>q166
-C'est exact. Son effet dégénératif est quelque chose que nous n'avons pas pu contourner ou contrer. Il semble être particulièrement plus puissant contre notre genre que contre les formes de vie avec différents types d'activité neuronale. <end>
+Exact. Son effet dégénératif est quelque chose que nous n'avons su ni contourner ni contrer. Il semble particulièrement plus puissant contre notre espèce que contre des formes de vie dont l'activité neurale est d'un autre type. <end>
 
 =>a167_original
 What does that exactly mean?<end>
@@ -1044,7 +1044,7 @@ Qu'est-ce que ça veut dire exactement ?<end>
 It means that Tchort's influence is not exerted to the same degree across all affected life forms. The more complex the neural activity of the unit is, the greater the interference, resulting in a more destructive effect to the affected organism.<end>
 
 =>q168
-Cela signifie que l'influence de Tchort n'est pas exercée au même degré sur toutes les formes de vie touchées. Plus l'activité neuronale de l'unité est complexe, plus l'interférence est importante, ce qui entraîne un effet plus destructeur pour l'organisme touché.<end>
+Ça veut dire que l'influence de Tchort ne s'exerce pas au même degré sur toutes les formes de vie affectées. Plus l'activité neurale de l'unité est complexe, plus l'interférence est forte, et plus l'effet est destructeur pour l'organisme touché.<end>
 
 =>a169_original
 I presume the Cube is with Tchort.<end>
@@ -1056,7 +1056,7 @@ Je suppose que le Cube est avec Tchort.<end>
 Correct. The Cube was brought to it by the Tchortists. Before we weren't certain how the Cube reached the Institute of Tchort; your mind clarified that to us.<end>
 
 =>q170
-C'est exact. Le Cube lui fut apporté par les Tchortists. Avant nous n'étions pas certains comment le Cube a atteint le Institute of Tchort ; votre esprit nous l'a clarifié.<end>
+Exact. Les Tchortists le lui ont apporté. Avant, nous n'étions pas certains de la façon dont le Cube avait atteint l'Institute of Tchort. Votre esprit nous l'a clarifié.<end>
 
 =>a171_original
 I see. But you can't get past the field to retrieve it, right?<end>
@@ -1080,7 +1080,7 @@ Cornell était cet agent ?<end>
 No. And you yourself know that he is not the one.<end>
 
 =>q174
-C'est pas vrai. Et vous savez vous-même que ce n'est pas lui.<end>
+Non. Et vous savez vous-même que ce n'est pas lui.<end>
 
 =>a175_original
 Who was it then?<end>
@@ -1110,7 +1110,7 @@ Peut-être.<end>
 Disastrous? Only for the Faceless, or all of us?<end>
 
 =>a179
-Désastrophe ? Seulement pour le Faceless, ou nous tous ?<end>
+Désastreuses ? Seulement pour les Faceless, ou pour nous tous ?<end>
 
 =>q180_original
 It depends.<end>
@@ -1128,73 +1128,73 @@ Pour quoi ?<end>
 Are you trying to tell me that everything from Core City invasion to wiping out of the Institute of Tchort was because of some fancy-looking battery?<end>
 
 =>a182
-Essayez-vous de me dire que tout de l'invasion Core City à l'essuyage de la Institute of Tchort était à cause d'une batterie fantaisiste ?<end>
+Vous essayez de me dire que tout, de l'invasion de Core City jusqu'à l'anéantissement de l'Institute of Tchort, c'était pour une batterie tape-à-l'œil ?<end>
 
 =>q183_original
 You are making understatements. You do not understand its importance to us and I don't expect you to.<end>
 
 =>q183
-Tu fais des sous-déclarations. Vous ne comprenez pas son importance pour nous et je n'attends pas de vous.<end>
+Vous minimisez. Vous ne comprenez pas son importance pour nous, et je n'attends pas que vous la compreniez.<end>
 
 =>a184_original
 I'm just curious.<end>
 
 =>a184
-Je suis curieux.<end>
+Simple curiosité.<end>
 
 =>a185_original
 It turned half of South Underrail upside down. Many lives were lost because of it.<end>
 
 =>a185
-Il a tourné la moitié du Sud Underrail à l'envers. Beaucoup de vies ont été perdues à cause de cela.<end>
+Ça a mis la moitié du South Underrail sens dessus dessous. Beaucoup de vies ont été perdues à cause de ça.<end>
 
 =>a186_original
 What do I get if I can get you that cube?<end>
 
 =>a186
-Qu'est-ce que j'ai si je peux te donner ce cube ?<end>
+Qu'est-ce que j'y gagne, si je vous ramène ce cube ?<end>
 
 =>q187_original
 You will be rewarded. As to what the reward will be, that has yet to be determined. Also, you will be able to leave Deep Caverns.<end>
 
 =>q187
-Vous serez récompensés. Quant à ce que sera la récompense, cela reste à déterminer. De plus, vous pourrez quitter Deep Caverns.<end>
+Vous serez $(#récompensé/récompensée). Quant à la nature de la récompense, ça reste à déterminer. Vous pourrez aussi quitter les Deep Caverns.<end>
 
 =>a188_original
 Why will I be able to leave only after taking the cube from Tchort?<end>
 
 =>a188
-Pourquoi ne partirai-je qu'après avoir pris le cube de Tchort ?<end>
+Pourquoi ne pourrai-je partir qu'après avoir repris le cube à Tchort ?<end>
 
 =>q189_original
 The only exit without the use of tunnelers could be an elevator south of here. It is the only one functional, but it is unpowered.<end>
 
 =>q189
-La seule sortie sans l'utilisation de tunneliers pourrait être un ascenseur au sud d'ici. Il est le seul fonctionnel, mais il n'est pas alimenté.<end>
+La seule sortie sans recourir aux tunnelers serait un ascenseur au sud d'ici. C'est le seul encore fonctionnel, mais il n'est pas alimenté.<end>
 
 =>a190_original
 How do I power the thing?<end>
 
 =>a190
-Comment puis-je l'alimenter ?<end>
+Comment l'alimenter ?<end>
 
 =>q191_original
 There are two possible locations: The power station north of here and the Tchortist base to the west. The power station has been operational for many years since the dissolution of Biocorp, while the Tchortist base uses its own power.<end>
 
 =>q191
-Il y a deux emplacements possibles : la centrale au nord d'ici et la base Tchortist à l'ouest. La centrale fonctionne depuis de nombreuses années depuis la dissolution de Biocorp, tandis que la base Tchortist utilise sa propre puissance.<end>
+Deux emplacements possibles : la centrale au nord d'ici, et la base Tchortist à l'ouest. La centrale fonctionne depuis de nombreuses années, depuis la dissolution de Biocorp, tandis que la base Tchortist utilise sa propre énergie.<end>
 
 =>a192_original
 I have already been to the power station, but I could not power the elevator.<end>
 
 =>a192
-Je suis déjà allé à la centrale, mais je ne pouvais pas alimenter l'ascenseur.<end>
+Je suis déjà $(#allé/allée) à la centrale, mais je n'ai pas pu alimenter l'ascenseur.<end>
 
 =>q193_original
 Then your best option is to use the Tchortist generators. There is a high probability that the generators are placed close to Tchort's location, as it is the most secure.<end>
 
 =>q193
-Ensuite, votre meilleure option est d'utiliser les générateurs Tchortist. Il y a une forte probabilité que les générateurs soient placés près de l'emplacement de Tchort, car il est le plus sécurisé.<end>
+Alors votre meilleure option, c'est d'utiliser les générateurs Tchortist. Il y a une forte probabilité qu'ils soient placés près de Tchort : c'est l'endroit le plus sûr.<end>
 
 =>a194_original
 What can you tell me about this power station?<end>
@@ -1206,7 +1206,7 @@ Que pouvez-vous me dire sur cette centrale ?<end>
 It is protected by automated security only; nothing organic is allowed inside, as the sentry bots exist in overwhelming numbers, even too much for us to successfully combat.<end>
 
 =>q195
-Il n'est protégé que par la sécurité automatisée; rien d'organique n'est permis à l'intérieur, car les robots sentinelles existent en grand nombre, même trop pour que nous puissions combattre avec succès.<end>
+Elle n'est protégée que par la sécurité automatisée. Rien d'organique n'y est admis : les robots sentinelles y sont en nombre écrasant, trop même pour que nous puissions les combattre avec succès.<end>
 
 =>a196_original
 Got it. I had other questions.<end>
@@ -1218,7 +1218,7 @@ Compris. J'avais d'autres questions.<end>
 How about you return Lora to SGS after the cube gets back in your hands?<end>
 
 =>a197
-Et si vous retourniez Lora à SGS après que le cube soit remis dans vos mains ?<end>
+Et si vous rameniez Lora à SGS une fois le cube entre vos mains ?<end>
 
 =>q198_original
 Then it will be possible to arrange her transportation.<end>
@@ -1230,25 +1230,25 @@ Il sera alors possible d'organiser son transport.<end>
 That seems reasonable. I had other questions.<end>
 
 =>a199
-Cela semble raisonnable. J'avais d'autres questions.<end>
+Ça me paraît raisonnable. J'avais d'autres questions.<end>
 
 =>a200_original
 How can I get out of Deep Caverns?<end>
 
 =>a200
-Comment puis-je sortir de Deep Caverns ?<end>
+Comment sortir des Deep Caverns ?<end>
 
 =>a201_original
 Can we return Lora to South Gate Station somehow?<end>
 
 =>a201
-Pouvons-nous renvoyer Lora à South Gate Station d'une manière ou d'une autre?<end>
+Pouvons-nous ramener Lora à South Gate Station, d'une façon ou d'une autre ?<end>
 
 =>q202_original
 No. It is impossible at the moment.<end>
 
 =>q202
-C'est pas vrai. C'est impossible en ce moment.<end>
+Non. C'est impossible pour le moment.<end>
 
 =>a203_original
 Why not?<end>
@@ -1260,7 +1260,7 @@ Pourquoi pas ?<end>
 Our resources are necessary elsewhere. The device is our priority right now; everything else is of less importance.<end>
 
 =>q204
-Nos ressources sont nécessaires ailleurs. L'appareil est notre priorité en ce moment; tout le reste est moins important.<end>
+Nos ressources sont nécessaires ailleurs. L'appareil est notre priorité, pour l'instant. Tout le reste passe après.<end>
 
 =>a205_original
 And after you get the device?<end>
@@ -1278,7 +1278,7 @@ Je vois. J'avais d'autres questions.<end>
 Never mind. Let me ask you something else.<end>
 
 =>a207
-Laisse tomber. Laisse-moi te demander autre chose.<end>
+Laissez tomber. Permettez-moi de vous demander autre chose.<end>
 
 =>q208_original
 You may ask.<end>
@@ -1290,19 +1290,19 @@ Vous pouvez demander.<end>
 There is a large gate deep inside the complex that I can't get past. Do you know anything that could help me open it?<end>
 
 =>a209
-Il y a une grande porte au fond du complexe que je ne peux pas passer. Tu sais quelque chose qui pourrait m'aider à l'ouvrir ?<end>
+Il y a une grande porte, au fond du complexe, que je n'arrive pas à franchir. Savez-vous quelque chose qui m'aiderait à l'ouvrir ?<end>
 
 =>q210_original
 No. We have some information on it, but nothing you will be able to use.<end>
 
 =>q210
-C'est pas vrai. Nous avons quelques informations à ce sujet, mais vous ne pourrez rien utiliser.<end>
+Non. Nous avons quelques informations à son sujet, mais rien dont vous pourrez vous servir.<end>
 
 =>q211_original
 What I may tell you is that the gate is being viciously protected by Tchort's endless hordes, and that behind it lies Tchort itself as well as what you know as "the cube."<end>
 
 =>q211
-Ce que je peux vous dire, c'est que la porte est vicieusement protégée par les hordes infinies de Tchort, et que derrière elle se trouve Tchort lui-même ainsi que ce que vous connaissez comme "le cube".<end>
+Ce que je peux vous dire, c'est que la porte est défendue avec acharnement par les hordes sans fin de Tchort, et que derrière se trouvent Tchort lui-même, ainsi que ce que vous connaissez comme « le cube ».<end>
 
 =>a212_original
 I had other questions to ask you.<end>
@@ -1314,25 +1314,25 @@ J'avais d'autres questions à vous poser.<end>
 I rescued one of you in Core City. Where is he now? Is he alive?<end>
 
 =>a213
-J'ai sauvé un de vous dans Core City. Où est-il maintenant ? Il est vivant ?<end>
+J'ai sauvé l'un des vôtres à Core City. Où est-il maintenant ? Est-il vivant ?<end>
 
 =>q214_original
 No. He perished during the invasion of the Institute.<end>
 
 =>q214
-C'est pas vrai. Il a péri pendant l'invasion de l'Institut.<end>
+Non. Il a péri pendant l'invasion de l'Institute.<end>
 
 =>a215_original
 You said it as if you don't care about him.<end>
 
 =>a215
-Tu l'as dit comme si tu te fichais de lui.<end>
+Vous l'avez dit comme si ça vous était égal.<end>
 
 =>q216_original
 You are wrong. We care, and we grieve, but our perception of the world, of life, is much different than yours, and so are our emotions. That is all I may share on the subject.<end>
 
 =>q216
-Vous vous trompez. Nous nous intéressons, et nous pleurons, mais notre perception du monde, de la vie, est bien différente de la vôtre, et nos émotions aussi. C'est tout ce que je peux partager à ce sujet.<end>
+Vous vous trompez. Nous y tenons, et nous en éprouvons du chagrin. Mais notre perception du monde, de la vie, est très différente de la vôtre, et nos émotions aussi. C'est tout ce que je peux partager à ce sujet.<end>
 
 =>a217_original
 At least he died fighting for a cause he believed in.<end>
@@ -1356,19 +1356,19 @@ J'espérais le revoir.<end>
 I'm afraid that is now impossible. Do not concern yourself with his death; it could prove to be a dangerous distraction.<end>
 
 =>q220
-J'ai bien peur que ce soit impossible. Ne vous préoccupez pas de sa mort; cela pourrait être une distraction dangereuse.<end>
+J'ai bien peur que ce soit désormais impossible. Ne vous attardez pas sur sa mort : ça pourrait devenir une distraction dangereuse.<end>
 
 =>q221_original
 We have seen it in your mind, but that individual hasn't managed to merge with our forces. He likely perished after you helped him.<end>
 
 =>q221
-Nous l'avons vu dans votre esprit, mais cet individu n'a pas réussi à fusionner avec nos forces. Il a probablement péri après que vous l'ayez aidé.<end>
+Nous l'avons vu dans votre esprit, mais cet individu n'a pas réussi à rejoindre nos forces. Il a probablement péri après que vous l'avez aidé.<end>
 
 =>a222_original
 I rescued one of you in Core City, then later I met him in the Institute's West Wing. Where is he now? Is he alive?<end>
 
 =>a222
-J'ai sauvé l'un d'entre vous dans Core City, puis je l'ai rencontré dans l'aile ouest de l'Institut. Où est-il maintenant ? Il est vivant ?<end>
+J'ai sauvé l'un des vôtres à Core City, puis je l'ai retrouvé dans l'aile ouest de l'Institute. Où est-il maintenant ? Est-il vivant ?<end>
 
 =>a223_original
 I have no questions at the moment. Goodbye.<end>
@@ -1382,27 +1382,27 @@ Je n'ai aucune question pour le moment. Au revoir.<end>
 Eventually, a synthesized voice addresses you.::<end>
 
 =>q224
-::Vous vous retrouvez face à face avec un Visage sans armure d'imposante stature. Pas un seul morceau de chair n'est laissé exposé : Des omoplates cascadantes, une grosse poitrine gravée d'un symbole étrange, des articulations et même un vêtement en forme de jupe en tissu épais servent tous à encastrer et protéger l'être à l'intérieur. Mais, le casque tri-corné avec un objectif cyclopéen singulier vous regardant est cette caractéristique la plus importante de Faceless. Qu'il y ait un, deux ou plusieurs yeux derrière cette lentille n'est pas quelque chose qui est immédiatement clair, mais l'arme puissante greffée dans le bras droit suggère que la vision monoscopique rendrait son utilisation assez difficile.
+::Vous vous retrouvez face à un Faceless en armure, d'une stature imposante. Pas un centimètre de chair à découvert : épaulières en cascade, plastron épais gravé d'un symbole étrange, protections d'articulations, jusqu'à une sorte de jupe de tissu épais, tout ça enferme et protège ce qu'il y a à l'intérieur. Ce qui frappe le plus, c'est le casque à trois cornes, avec une lentille cyclopéenne unique plantée sur vous. Combien d'yeux derrière cette lentille, un, deux, davantage, ça n'est pas clair. Mais l'arme puissante greffée au bras droit laisse penser qu'une vision monoculaire rendrait son usage plutôt malaisé.
 
-Finalement, une voix synthétisée t'adresse.::<end>
+Une voix synthétisée s'adresse enfin à vous.::<end>
 
 =>q225_original
 Please stand still while we extract information from your mind. There is nothing for you to fear.<end>
 
 =>q225
-Restez immobiles pendant que nous tirons des informations de votre esprit. Vous n'avez rien à craindre.<end>
+Restez immobile pendant que nous extrayons l'information de votre esprit. Vous n'avez rien à craindre.<end>
 
 =>a226_original
 Extract information from my mind? What? How... and why?<end>
 
 =>a226
-Vous avez extrait des informations de mon esprit ? Quoi ? Pourquoi ?<end>
+Extraire l'information de mon esprit ? Quoi ? Comment... et pourquoi ?<end>
 
 =>q227_original
 Fear not: The process is quick and painless. We simply wish to know what you know.<end>
 
 =>q227
-Ne craignez pas : le processus est rapide et indolore. Nous voulons simplement savoir ce que vous savez.<end>
+N'ayez crainte : le processus est rapide et indolore. Nous voulons simplement savoir ce que vous savez.<end>
 
 =>a228_original
 Okay. Do what you have to do.<end>
@@ -1420,25 +1420,25 @@ Bien.<end>
 ::Let them look into your thoughts.::<end>
 
 =>a230
-::Laissez-les regarder dans vos pensées.::<end>
+::Les laisser sonder vos pensées.::<end>
 
 =>a231_original
 I am not giving you permission to read my thoughts.<end>
 
 =>a231
-Je ne vous donne pas la permission de lire mes pensées.<end>
+Je ne vous autorise pas à lire dans mes pensées.<end>
 
 =>q232_original
 You have no alternatives. Allowing us to look into your mind is the only option we offer. Failure to comply will result in dire consequences.<end>
 
 =>q232
-Vous n'avez aucune alternative. Permettre de regarder dans votre esprit est la seule option que nous offrons. Le non-respect de ces dispositions aura de graves conséquences.<end>
+Vous n'avez pas le choix. Nous laisser sonder votre esprit est la seule option que nous proposons. Refuser entraînera de graves conséquences.<end>
 
 =>a233_original
 No. ::Fight!::<end>
 
 =>a233
-C'est pas vrai. ::Lutte!::<end>
+Non. ::Combattre::<end>
 
 =>a234_original
 Why? Is this really necessary?<end>
@@ -1450,7 +1450,7 @@ Pourquoi ? Est-ce vraiment nécessaire ?<end>
 I'm already familiar with the procedure. Let's get this over with.<end>
 
 =>a235
-Je connais déjà la procédure. Finissons ça.<end>
+Je connais déjà la procédure. Finissons-en.<end>
 
 =>q236_original
 ::You now feel fully conscious and a part of the real world. The first thing that welcomes you back is the harsh sound of a distorted Faceless voice.::
@@ -1458,7 +1458,7 @@ Je connais déjà la procédure. Finissons ça.<end>
 <end>
 
 =>q236
-::Vous vous sentez maintenant pleinement conscient et une partie du monde réel. La première chose qui vous accueille est le bruit dur d'une voix sans visage déformée.::
+::Vous vous sentez à nouveau pleinement conscient, de retour dans le monde réel. La première chose qui vous accueille, c'est le son dur d'une voix Faceless distordue.::
 
 <end>
 
@@ -1466,25 +1466,25 @@ Je connais déjà la procédure. Finissons ça.<end>
 You are a spy. We know that you have allied yourself with the Tchortists in Deep Caverns, and that your arrival here is for the purpose of espionage.<end>
 
 =>q237
-Vous êtes un espion. Nous savons que vous vous êtes allié avec les Tchortists dans Deep Caverns, et que votre arrivée ici est pour l'espionnage.<end>
+Vous êtes $(#un espion/une espionne). Nous savons que vous avez fait alliance avec les Tchortists dans les Deep Caverns, et que votre venue ici a pour but l'espionnage.<end>
 
 =>a238_original
 Wait, wait! You got this all wrong! Allow me to explain to you what really happened.<end>
 
 =>a238
-Attendez ! Vous avez tout faux ! Permettez-moi de vous expliquer ce qui s'est vraiment passé.<end>
+Attendez ! Vous vous trompez complètement ! Laissez-moi vous expliquer ce qui s'est vraiment passé.<end>
 
 =>q239_original
 No. Your mind did that for you. Now you will die.<end>
 
 =>q239
-C'est pas vrai. Ton esprit a fait ça pour toi. Maintenant tu vas mourir.<end>
+Non. Votre esprit l'a fait pour vous. Maintenant, vous allez mourir.<end>
 
 =>a240_original
 ::Fight!::<end>
 
 =>a240
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a241_original
 Now what happens?<end>
@@ -1496,25 +1496,25 @@ Maintenant, que se passe-t-il ?<end>
 Now you die.<end>
 
 =>q242
-Maintenant tu meurs.<end>
+Maintenant, vous mourez.<end>
 
 =>a243_original
 Here's something for you: I'm about to stack so many Faceless corpses that I'm gonna be able to climb them back to Lower Underrail! ::Attack!::<end>
 
 =>a243
-Voici quelque chose pour vous : je vais empiler tant de cadavres Faceless que je vais pouvoir les remonter à Lower Underrail ! ::Attaque!::<end>
+Tenez, un cadeau : je vais empiler tellement de cadavres Faceless que je pourrai les gravir jusqu'au Lower Underrail ! ::Attaquer::<end>
 
 =>q244_original
 Well done. You have fully cooperated with us on every occasion where cooperation was possible. <end>
 
 =>q244
-Bien joué. Vous avez pleinement coopéré avec nous chaque fois que la coopération était possible. <end>
+Bien. Vous avez pleinement coopéré avec nous à chaque occasion où la coopération était possible. <end>
 
 =>q245_original
 Some of us have died by your hand, but you will suffer no consequences for those deaths; we understand the circumstances in which they occured.<end>
 
 =>q245
-Certains d'entre nous sont morts par votre main, mais vous ne subirez aucune conséquence pour ces morts; nous comprenons les circonstances dans lesquelles elles se sont produites.<end>
+Certains des nôtres sont morts de votre main, mais vous n'en subirez aucune conséquence. Nous comprenons les circonstances dans lesquelles ces morts ont eu lieu.<end>
 
 =>q246_original
 <end>
@@ -1526,7 +1526,7 @@ Certains d'entre nous sont morts par votre main, mais vous ne subirez aucune con
 The fact that you didn't join the Tchortists ranks is also something you should be commended on, considering that the alternative path you took in order to reach your goals is a much more challenging one.<end>
 
 =>q247
-Le fait que vous n'ayez pas rejoint les rangs Tchortists est également quelque chose que vous devriez féliciter, étant donné que le chemin alternatif que vous avez pris pour atteindre vos objectifs est beaucoup plus difficile.<end>
+Le fait que vous n'ayez pas rejoint les rangs des Tchortists mérite aussi d'être salué, vu que le chemin alternatif que vous avez pris pour atteindre vos objectifs est bien plus exigeant.<end>
 
 =>q248_original
 We deem you trustworthy, $(context.player.Name). We are interested in prolonging our cooperation.<end>
@@ -1538,7 +1538,7 @@ Nous vous jugeons digne de confiance, $(context.player.Name). Nous souhaitons pr
 We can offer you supplies, free passage through Faceless-held territory and safety within any of our bases of operations.<end>
 
 =>q249
-Nous pouvons vous offrir des fournitures, le libre passage dans le territoire de Faceless et la sécurité dans n'importe quelle de nos bases d'opérations.<end>
+Nous pouvons vous offrir du ravitaillement, le libre passage en territoire Faceless, et la sécurité dans n'importe laquelle de nos bases d'opérations.<end>
 
 =>q250_original
 We know that you are looking for Lora Baker and her husband Terry. <end>
@@ -1552,9 +1552,9 @@ She was severely wounded before she was found by one of our tunneler units. Othe
 She is in the medical office and you may speak to her if you wish.<end>
 
 =>q251
-Elle a été grièvement blessée avant d'être retrouvée par une de nos unités de tunneliers. Sinon, elle aurait péri.
+Elle a été grièvement blessée avant qu'une de nos unités tunneler ne la trouve. Sans ça, elle aurait péri.
 
-Elle est au cabinet médical et vous pouvez lui parler si vous le souhaitez.<end>
+Elle est au poste médical. Vous pouvez lui parler si vous le souhaitez.<end>
 
 =>q252_original
 I have granted you the right to three ammo and one medical package.
@@ -1564,11 +1564,11 @@ The building with the double doors is the barracks; there you may speak to a qua
 If you have any further questions you may speak only to me.<end>
 
 =>q252
-Je vous ai accordé le droit à trois munitions et un colis médical.
+Je vous ai accordé le droit à trois colis de munitions et un colis médical.
 
-Le bâtiment avec les portes doubles est la caserne; là, vous pouvez parler à un quadrupède concernant les munitions. À côté, il y a le bureau médical, auquel vous devriez aller chercher le colis médical.
+Le bâtiment aux portes doubles est la caserne. Là, vous pourrez parler à un quadrupède pour les munitions. Juste à côté, le poste médical : c'est là qu'il faut aller pour le colis médical.
 
-Si vous avez d'autres questions, vous pouvez me parler seulement.<end>
+Si vous avez d'autres questions, vous ne pouvez vous adresser qu'à moi.<end>
 
 =>a253_original
 I do have questions, as a matter of fact.<end>
@@ -1580,31 +1580,31 @@ J'ai des questions, en fait.<end>
 Nothing for now. Talk to you later.<end>
 
 =>a254
-Rien pour l'instant. A tout à l'heure.<end>
+Rien pour l'instant. À plus tard.<end>
 
 =>q255_original
 You have no memory of Lora and Terry Baker, but due to both of them being from South Gate Station, you should know that Lora is here with us. <end>
 
 =>q255
-Vous n'avez aucun souvenir de Lora et Terry Baker, mais en raison d'être tous deux de South Gate Station, vous devez savoir que Lora est ici avec nous. <end>
+Vous n'avez aucun souvenir de Lora et Terry Baker, mais comme tous deux viennent de South Gate Station, vous devez savoir que Lora est ici, avec nous. <end>
 
 =>q256_original
 Your previous allegiance with the Tchortists will not be held against you, since it proved necessary in tracking down the object you know as "the Cube." We find your knowledge regarding it useful.<end>
 
 =>q256
-Votre allégeance précédente avec les Tchortists ne sera pas tenue contre vous, car il s'est avéré nécessaire pour trouver l'objet que vous connaissez comme "le Cube". Nous trouvons vos connaissances utiles.<end>
+Votre allégeance passée aux Tchortists ne vous sera pas reprochée : elle s'est avérée nécessaire pour retracer l'objet que vous connaissez comme « le Cube ». Nous trouvons votre savoir à son sujet utile.<end>
 
 =>q257_original
 Good. You have cooperated with us on a few occasions, proving yourself both trustworthy and useful. <end>
 
 =>q257
-Parfait. Vous avez coopéré avec nous à quelques reprises, vous montrant à la fois digne de confiance et utile. <end>
+Bien. Vous avez coopéré avec nous à quelques reprises, vous montrant à la fois digne de confiance et utile. <end>
 
 =>q258_original
 We now know everything. The penalty for your actions against us is death.<end>
 
 =>q258
-Nous savons maintenant tout. La peine pour vos actions contre nous est la mort.<end>
+Nous savons maintenant tout. La peine pour vos actes contre nous, c'est la mort.<end>
 
 =>a259_original
 Wait! Let's talk!<end>
@@ -1616,37 +1616,37 @@ Attendez ! Parlons !<end>
 No. You cannot tell us anything we don't already know.<end>
 
 =>q260
-C'est pas vrai. Vous ne pouvez rien nous dire.<end>
+Non. Vous ne pouvez rien nous dire que nous ne sachions déjà.<end>
 
 =>a261_original
 If you truly "knew," you would've paid more attention to my body count, freaks! ::Fight!::<end>
 
 =>a261
-Si vous aviez vraiment "know", vous auriez fait plus attention à mon nombre de corps, les monstres ! ::Lutte!::<end>
+Si vous « saviez » vraiment, vous auriez mieux compté vos morts, freaks ! ::Combattre::<end>
 
 =>q262_original
 We now know everything. Your interaction with us so far does not designate you as our enemy, but neither as someone worthy of being our ally. You have nothing to offer to us other than the few bits of information we have already extracted from you.<end>
 
 =>q262
-Nous savons maintenant tout. Votre interaction avec nous jusqu'à présent ne vous désigne pas comme notre ennemi, mais comme quelqu'un digne d'être notre allié. Vous n'avez rien à nous offrir d'autre que les quelques informations que nous avons déjà extraites de vous.<end>
+Nous savons maintenant tout. Vos interactions avec nous jusqu'ici ne font de vous ni notre ennemi, ni quelqu'un qui mérite d'être notre allié. Vous n'avez rien à nous offrir, hors les quelques informations que nous avons déjà extraites de vous.<end>
 
 =>q263_original
 I will ask you to leave now. Our patrols will not engage you, but you are advised not to interfere in our affairs.<end>
 
 =>q263
-Je vais vous demander de partir. Nos patrouilles ne vous engageront pas, mais il vous est conseillé de ne pas intervenir dans nos affaires.<end>
+Je vous demande de partir, maintenant. Nos patrouilles ne vous attaqueront pas, mais il vous est conseillé de ne pas vous mêler de nos affaires.<end>
 
 =>a264_original
 But... there are so many questions I had for you.<end>
 
 =>a264
-Mais... il y a tellement de questions que j'ai eues pour toi.<end>
+Mais... j'avais tant de questions à vous poser.<end>
 
 =>q265_original
 We know, but they will not be answered. Leave.<end>
 
 =>q265
-Nous le savons, mais on ne leur répondra pas. Partez.<end>
+Nous le savons, mais elles resteront sans réponse. Partez.<end>
 
 =>a266_original
 ::Leave.::<end>
@@ -1658,5 +1658,5 @@ Nous le savons, mais on ne leur répondra pas. Partez.<end>
 If that is what you want, then I am in no position to object. Goodbye.<end>
 
 =>a267
-Si c'est ce que vous voulez, alors je ne suis pas en position de m'opposer. Au revoir.<end>
+Si c'est ce que vous voulez, je n'ai pas à m'y opposer. Au revoir.<end>
 

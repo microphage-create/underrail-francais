@@ -10,15 +10,15 @@
 My name is Boyd, Edgard's deputy. We haven't had the chance to talk before.<end>
 
 =>q2
-::Devant vous est un jeune homme maigre. Il enlève un instant son respirateur pour révéler un beau visage rasé. Ses bras exposés, d'autre part, sont presque entièrement enveloppés par un collage de tatouages chaotiques, sauf pour quelques endroits où un fer de marque chaud a été utilisé pour souder la peau. En fait, chaque tatouage agit comme une marque, et représente un gang différent. L'homme est parfaitement conscient de ce que vos yeux sont concentrés, mais il l'ignore simplement. Il vous parle poliment.::
+::Face à vous, un jeune homme fluet. Il retire un instant son respirateur : un beau visage, rasé de près. Ses bras, eux, sont presque entièrement recouverts d'un collage de tatouages chaotiques, sauf quelques plages où un fer rouge a brûlé la peau. Chaque tatouage est une marque, et chacun représente un gang différent. Il voit bien où se posent vos yeux, mais il n'en tient pas compte. Il vous parle, poli.::
 
-Mon nom est Boyd, l'adjoint d'Edgard. On n'a pas eu l'occasion de parler avant.<end>
+Boyd. Adjoint d'Edgard. On n'avait pas encore eu l'occasion de se parler.<end>
 
 =>q3_original
 I'd like to speak to you about the... um, recent events, $(context.player.Name). Edgar has been killed, as you already know, so it is now up to me to tell you a few things I feel should be said. You've proven that you have, in your mind, in your heart, the things we value the most - courage and strength. You're a part of Camp Hathor now as much as I am, and Edgar unfortunately was. So, when you have some free time, talk to me. I have something to teach you.<end>
 
 =>q3
-J'aimerais vous parler des récents événements, $(context.player.Name). Edgar a été tué, comme vous le savez déjà, donc c'est maintenant à moi de vous dire quelques choses que je pense devoir dire. Vous avez prouvé que vous avez, dans votre esprit, dans votre cœur, les choses que nous apprécions le plus - le courage et la force. Vous faites partie de Camp Hathor maintenant autant que moi, et Edgar l'a malheureusement été. Quand vous aurez du temps libre, parlez-moi. J'ai quelque chose à t'apprendre.<end>
+J'aimerais vous parler des... euh, événements récents, $(context.player.Name). Edgar a été tué, vous le savez déjà, alors c'est à moi de vous dire quelques choses que je crois devoir dire. Vous avez prouvé que vous avez, dans l'esprit, dans le cœur, ce qui compte le plus pour nous : le courage et la force. Vous faites partie de Camp Hathor maintenant, autant que moi, autant qu'Edgar l'était, malheureusement. Alors, quand vous aurez un moment, venez me voir. J'ai quelque chose à vous apprendre.<end>
 
 =>q4_original
 <end>
@@ -30,7 +30,7 @@ J'aimerais vous parler des récents événements, $(context.player.Name). Edgar 
 You said you wanted to teach me something?<end>
 
 =>a5
-Vous vouliez m'apprendre quelque chose ?<end>
+Vous m'avez dit que vous vouliez m'apprendre quelque chose ?<end>
 
 =>q6_original
 Yeah. I wanted to teach you some... hm, hunting methods and techniques developed by hunters from Camp Hathor. I was taught these things when I came here and thought it'd be fair to teach them to you now. You've done so much for us and I'm sure Edgar would've done the same thing I'm doing right now. Yeah.
@@ -38,39 +38,39 @@ Yeah. I wanted to teach you some... hm, hunting methods and techniques developed
 So you know, this might... take a while.<end>
 
 =>q6
-Oui. Je voulais vous apprendre... les méthodes et techniques de chasse développées par les chasseurs de Camp Hathor. On m'a appris ces choses quand je suis venu ici et j'ai pensé que ce serait juste de vous les apprendre maintenant. Tu as tellement fait pour nous et je suis sûr qu'Edgar aurait fait la même chose que moi en ce moment. Oui.
+Oui. Je voulais vous apprendre... hm, des méthodes et des techniques de chasse mises au point par les chasseurs de Camp Hathor. On me les a enseignées quand je suis arrivé ici, et j'ai pensé que ce serait juste de vous les transmettre maintenant. Vous avez tellement fait pour nous, et je suis sûr qu'Edgar aurait fait la même chose. Oui.
 
-Ça pourrait prendre un moment.<end>
+Alors, sachez que ça pourrait... prendre un moment.<end>
 
 =>a7_original
 Time is not a issue, Boyd. I'm ready to learn.<end>
 
 =>a7
-Le temps n'est pas un problème. Je suis prêt à apprendre.<end>
+Le temps n'est pas un problème, Boyd. Je suis $(#prêt/prête) à apprendre.<end>
 
 =>q8_original
 Dominating! Let's get started... <end>
 
 =>q8
-Dominer ! Commençons... <end>
+Dominating ! On commence... <end>
 
 =>a9_original
 ::Let him teach you.::<end>
 
 =>a9
-::Laisse-le t'apprendre.::<end>
+::Le laisser vous apprendre.::<end>
 
 =>a10_original
 You don't seem like you're from around here.<end>
 
 =>a10
-Vous n'avez pas l'air d'être d'ici.<end>
+Vous n'avez pas l'air d'ici.<end>
 
 =>q11_original
 Hmmm. What gave it away?<end>
 
 =>q11
-Oui. Qu'est-ce qui l'a donné ?<end>
+Hmmm. Qu'est-ce qui m'a trahi ?<end>
 
 =>a12_original
 Tattoos and scars.<end>
@@ -82,7 +82,7 @@ Tatouages et cicatrices.<end>
 I see. Yeah, I am not from around here. I came from Core City. I like it here more. Life is simpler.<end>
 
 =>q13
-Je vois. Je ne suis pas d'ici. Je viens de Core City. J'aime mieux ici. La vie est plus simple.<end>
+Je vois. Oui, je ne suis pas d'ici. Je viens de Core City. J'aime mieux ici. La vie est plus simple.<end>
 
 =>a14_original
 Can you tell me more about yourself?<end>
@@ -94,37 +94,37 @@ Pouvez-vous m'en dire plus sur vous ?<end>
 Maybe some other time. Yeah. Def some other time.<end>
 
 =>q15
-Peut-être une autre fois. Oui. Défendez une autre fois.<end>
+Peut-être une autre fois. Oui. Une autre fois, c'est sûr.<end>
 
 =>a16_original
 The way you talk. The words you use.<end>
 
 =>a16
-La façon dont tu parles. Les mots que vous utilisez.<end>
+La façon dont vous parlez. Les mots que vous employez.<end>
 
 =>a17_original
 I can't pinpoint it exactly.<end>
 
 =>a17
-Je ne peux pas l'identifier exactement.<end>
+Je n'arrive pas à mettre le doigt dessus.<end>
 
 =>a18_original
 What can you tell me about Camp Hathor?<end>
 
 =>a18
-Que pouvez-vous me dire sur Camp Hathor ?<end>
+Que pouvez-vous me dire sur Camp Hathor ?<end>
 
 =>q19_original
 There's not much to say. We're a small but proud hunting community; basically, miners turned hunters after the Hathor mine was closed, if you will. Not much happens here, 'cept for the earthquake and 'cept for that recent burrower problem, but you would know how they got zoned out in the end. ::He laughs.:: That's pretty much it.<end>
 
 =>q19
-Il n'y a pas grand chose à dire. Nous sommes une petite communauté de chasse, mais fière; en gros, les mineurs ont fait des chasseurs après la fermeture de la mine Hathor, si vous voulez. Il n'arrive pas grand-chose ici, 'cept pour le tremblement de terre et 'cept pour ce récent problème de terriers, mais vous savez comment ils ont été zonés à la fin. ::Il rit.:: C'est à peu près ça.<end>
+Il n'y a pas grand-chose à dire. Nous sommes une petite communauté de chasseurs, mais fière ; en gros, des mineurs devenus chasseurs après la fermeture de la mine Hathor, si vous voulez. Il ne se passe pas grand-chose ici, à part le tremblement de terre, et à part ce récent problème de fouisseurs, mais vous savez comment ils se sont fait zoner, à la fin. ::Il rit.:: C'est à peu près tout.<end>
 
 =>q20_original
 And now that we are free of the Rathound King, things are even more mundane around here.<end>
 
 =>q20
-Et maintenant que nous sommes libres du Rathound King, les choses sont encore plus banales ici.<end>
+Et maintenant que nous voilà débarrassés du Rathound King, c'est encore plus monotone, par ici.<end>
 
 =>a21_original
 I had other questions.<end>
@@ -136,55 +136,55 @@ J'avais d'autres questions.<end>
 Yes?<end>
 
 =>q22
-Oui?<end>
+Oui ?<end>
 
 =>q23_original
 That is, if you ignore a small-scale war with a pipeworker who calls himself the Rathound King.<end>
 
 =>q23
-C'est-à-dire, si vous ignorez une petite guerre avec un pipeworker qui s'appelle le Rathound King.<end>
+C'est-à-dire, si l'on met de côté une petite guerre avec un tuyautier qui se fait appeler le Rathound King.<end>
 
 =>a24_original
 What's your opinion on this whole situation with the Rathound King?<end>
 
 =>a24
-Quelle est votre opinion sur toute cette situation avec le Rathound King ?<end>
+Qu'est-ce que vous pensez de toute cette histoire avec le Rathound King ?<end>
 
 =>q25_original
 I could hardly believe it when I heard it. We made truce with that pipeworker? The man who killed so many of us? Even children from what I've heard in the past. I think of the guy less than I think of the mud on my boots, and I think he's got some cheap trick up his sleeve. But if Edgar says otherwise...<end>
 
 =>q25
-Je ne pouvais pas le croire quand je l'ai entendu. On a fait une trêve avec ce pipeworker ? L'homme qui a tué tant d'entre nous ? Même les enfants de ce que j'ai entendu dans le passé. Je pense au gars moins que je ne pense à la boue sur mes bottes, et je pense qu'il a un truc pas cher dans sa manche. Mais si Edgar dit le contraire...<end>
+J'avais du mal à y croire, quand je l'ai entendu. On a fait une trêve avec ce tuyautier ? L'homme qui a tué tant des nôtres ? Même des enfants, d'après ce que j'ai entendu. Ce type, je le respecte moins que la boue de mes bottes, et je suis sûr qu'il a un sale tour dans sa manche. Mais si Edgar dit le contraire...<end>
 
 =>q26_original
 I don't know. It is what it is. We'll see.<end>
 
 =>q26
-Je ne sais pas. C'est ce que c'est. Nous verrons.<end>
+Je ne sais pas. C'est comme ça. On verra.<end>
 
 =>q27_original
 It's a bittersweet victory. The Rathound King has been zoned out, sure, but he took Edgar with him too. I, as his deputy, I am in charge of this place from now on, at least until we choose a new leader. So if you need anything important, talk directly to me. These are troubling times now, with Edgar's death and everything, but we'll manage somehow.<end>
 
 =>q27
-C'est une victoire amère. Le Rathound King a été délocalisé, bien sûr, mais il a emmené Edgar avec lui aussi. En tant que son adjoint, je suis maintenant responsable de cet endroit, du moins jusqu'à ce que nous choisissions un nouveau chef. Donc si vous avez besoin de quelque chose d'important, parlez-moi directement. Ce sont des temps troublants maintenant, avec la mort d'Edgar et tout, mais nous allons nous débrouiller.<end>
+C'est une victoire douce-amère. Le Rathound King a été zoné, c'est vrai, mais il a emporté Edgar avec lui. Moi, en tant qu'adjoint, je m'occupe de cet endroit à partir de maintenant, du moins jusqu'à ce qu'on choisisse un nouveau chef. Donc si vous avez besoin de quelque chose d'important, adressez-vous directement à moi. Ce sont des temps difficiles, avec la mort d'Edgar et tout le reste, mais on s'en sortira.<end>
 
 =>q28_original
 Edgar was a not only a good leader, but an exceptional man as well. He meant a lot to us all, and especially to me. He welcomed me here despite who I was before and... I found home here. I'll miss him, dammit.<end>
 
 =>q28
-Edgar était non seulement un bon chef, mais aussi un homme exceptionnel. Il comptait beaucoup pour nous tous, et surtout pour moi. Il m'a accueilli ici malgré qui j'étais avant et... J'ai trouvé ici. Il va me manquer.<end>
+Edgar n'était pas seulement un bon chef, c'était aussi un homme exceptionnel. Il comptait beaucoup pour nous tous, et surtout pour moi. Il m'a accueilli ici malgré ce que j'étais avant, et... j'y ai trouvé un foyer. Il va me manquer, bon sang.<end>
 
 =>q29_original
 That pipeworker has been zoned out at last! And that is a big relief. Hunting will be much safer from now on and, generally speaking, you can step outside the camp without seeing lotsa pairs of yellow eyes stalking you. So, yeah, everyone's feelin' hardcore.<end>
 
 =>q29
-Ce pipe-worker a enfin été arrêté ! Et c'est un grand soulagement. La chasse sera plus sûre à partir de maintenant et, généralement, vous pouvez sortir du camp sans voir beaucoup de paires d'yeux jaunes vous traquer. Tout le monde se sent hardcore.<end>
+Ce tuyautier a enfin été zoné ! Et quel soulagement. La chasse sera bien plus sûre, à partir de maintenant, et, d'une manière générale, on peut sortir du camp sans se coltiner des paires d'yeux jaunes qui vous traquent. Alors voilà, tout le monde se sent hardcore.<end>
 
 =>q30_original
 'Cept for the Rathound King himself, of course. ::He laughs.::<end>
 
 =>q30
-'Cept pour le Rathound King lui-même, bien sûr. ::Il rit.::<end>
+Sauf le Rathound King lui-même, évidemment. ::Il rit.::<end>
 
 =>a31_original
 How does it feel like being Edgar's deputy?<end>
@@ -196,13 +196,13 @@ How does it feel like being Edgar's deputy?<end>
 Dominating, I'd say. Edgar's a great leader and an even greater man, and helping someone like that run this community is a hard but very, very fulfilling job. I'm not saying this just because he's standing in the same room and can probably hear us, I really mean it. ::He laughs.:: I like it here.<end>
 
 =>q32
-En dominant, je dirais. Edgar est un grand leader et un homme encore plus grand, et aider quelqu'un comme lui diriger cette communauté est un travail difficile mais très, très satisfaisant. Je ne dis pas ça juste parce qu'il est dans la même pièce et peut probablement nous entendre, je le pense vraiment. ::Il rit.:: J'aime bien ici.<end>
+Dominating, je dirais. Edgar est un grand chef, et un homme encore plus grand, et aider quelqu'un comme lui à diriger cette communauté, c'est un boulot dur, mais très, très gratifiant. Je ne dis pas ça juste parce qu'il est dans la pièce et qu'il peut probablement nous entendre, je le pense vraiment. ::Il rit.:: J'aime bien ici.<end>
 
 =>q33_original
 I haven't found a reason to complain... yet! :: He laughs.::<end>
 
 =>q33
-Je n'ai pas encore trouvé de raison de me plaindre ! ::Il rit.::<end>
+Je n'ai pas trouvé de raison de me plaindre... pour l'instant ! ::Il rit.::<end>
 
 =>a34_original
 What can you tell me about the Rathound King?<end>
@@ -214,7 +214,7 @@ Que pouvez-vous me dire sur le Rathound King ?<end>
 Nothing good. He's a menace to our community, and a hardcore pipeworker. In short, he's a savage who's got an army of rathounds attacking us at his command. I've never seen any man being able to do that but him, at least not with more than one or two tamed rats. No one knows how he does it. What's even worse, we don't even know where the bastard is hiding.<end>
 
 =>q35
-Rien de bon. C'est une menace pour notre communauté, et un travailleur de pipe. Bref, c'est un sauvage qui a une armée de râteaux qui nous attaque à son commandement. Je n'ai jamais vu un homme capable de faire ça mais lui, du moins pas avec plus d'un ou deux rats apprivoisés. Personne ne sait comment il fait. Pire encore, on ne sait même pas où il se cache.<end>
+Rien de bon. C'est une menace pour notre communauté, et un tuyautier hardcore. Bref, c'est un sauvage qui a une armée de rathounds à ses ordres. Je n'ai jamais vu un homme capable de faire ça, à part lui, du moins pas avec plus d'un ou deux rats apprivoisés. Personne ne sait comment il s'y prend. Pire encore, on ne sait même pas où le salaud se cache.<end>
 
 =>a36_original
 Why are you guys fighting?<end>
@@ -226,49 +226,49 @@ Pourquoi vous vous battez ?<end>
 It all started a couple of years ago. Camp Hathor had a different leader back then, and he opposed Rathound King's attempts at claiming *our* lands for himself. I don't know the details as I moved to Camp Hathor just a year ago, but that's what I was told when I got here.<end>
 
 =>q37
-Tout a commencé il y a quelques années. Camp Hathor avait un leader différent à l'époque, et il s'est opposé aux tentatives de Rathound King de revendiquer *notre* terres pour lui-même. Je ne connais pas les détails alors que j'ai déménagé à Camp Hathor il y a un an, mais c'est ce qu'on m'a dit quand je suis arrivé ici.<end>
+Tout a commencé il y a quelques années. Camp Hathor avait un autre chef, à l'époque, et il s'est opposé aux tentatives du Rathound King de s'approprier *nos* terres. Je ne connais pas les détails, je n'ai emménagé à Camp Hathor qu'il y a un an, mais c'est ce qu'on m'a dit en arrivant.<end>
 
 =>q38_original
 Be careful if you run into him. He's an animal who often sets traps for our hunters or outright attacks them. He's smart, a smart savage, I give him that, and he's not someone you can afford to underestimate. Unless you wanna get zoned out.<end>
 
 =>q38
-Soyez prudent si vous le rencontrez. C'est un animal qui pose souvent des pièges pour nos chasseurs ou les attaque carrément. Il est intelligent, un sauvage intelligent, je lui donne ça, et ce n'est pas quelqu'un que tu peux te permettre de sous-estimer. A moins que tu ne veuilles sortir.<end>
+Faites attention si vous tombez sur lui. C'est une bête : il tend souvent des pièges à nos chasseurs, ou il les attaque de front. Il est intelligent, un sauvage intelligent, je lui concède ça, et ce n'est pas quelqu'un qu'on peut se permettre de sous-estimer. Sauf si vous voulez vous faire zoner.<end>
 
 =>a39_original
 You don't know where he's hiding? You need to work on your tracking skills...<end>
 
 =>a39
-Tu ne sais pas où il se cache ? Vous devez travailler sur vos compétences de suivi...<end>
+Vous ne savez pas où il se cache ? Il faudrait soigner votre pistage...<end>
 
 =>q40_original
 I'm sad to admit this, but he's that good. And we've had quite some time to find him. <end>
 
 =>q40
-Je suis triste d'admettre ça, mais il est si bon. Et nous avons eu du temps pour le trouver. <end>
+Ça me peine de l'admettre, mais il est à ce niveau-là. Et on a eu largement le temps de le trouver. <end>
 
 =>a41_original
 I wanted to ask you something else...<end>
 
 =>a41
-Je voulais te demander autre chose...<end>
+Je voulais vous demander autre chose...<end>
 
 =>q42_original
 Go ahead.<end>
 
 =>q42
-Poursuivre.<end>
+Allez-y.<end>
 
 =>a43_original
 Bye Boyd, got to go.<end>
 
 =>a43
-Au revoir Boyd, il faut y aller.<end>
+Au revoir Boyd, je dois y aller.<end>
 
 =>q44_original
 I'm quite busy, so please, if you need something, talk to Edgar. Thank you.<end>
 
 =>q44
-Je suis très occupé, alors s'il vous plaît, parlez à Edgar. Je vous remercie.<end>
+Je suis assez occupé, alors s'il vous plaît, si vous avez besoin de quelque chose, parlez à Edgar. Merci.<end>
 
 =>q45_original
 Sorry, I'm busy.<end>
@@ -282,9 +282,9 @@ Désolé, je suis occupé.<end>
 Hello, $(context.player.Name). I'm Boyd, Edgar's deputy. I gotta thank you for dealing with those burrowers. Dominating work for which we owe you big time. Now, tell me what do you need?<end>
 
 =>q46
-::Devant vous est un jeune homme maigre. Il enlève un instant son respirateur pour révéler un beau visage rasé. Ses bras exposés, en revanche, sont presque entièrement enveloppés par un collage de tatouages chaotiques, à l'exception de quelques endroits où le fer de marque chaud a été utilisé pour souder la peau. En fait, chaque tatouage agit comme une marque, et représente un gang différent. L'homme est parfaitement conscient de ce que vos yeux sont concentrés, mais il l'ignore simplement. Il vous parle poliment.::
+::Face à vous, un jeune homme fluet. Il retire un instant son respirateur : un beau visage, rasé de près. Ses bras, eux, sont presque entièrement recouverts d'un collage de tatouages chaotiques, sauf quelques plages où un fer rouge a brûlé la peau. Chaque tatouage est une marque, et chacun représente un gang différent. Il voit bien où se posent vos yeux, mais il n'en tient pas compte. Il vous parle, poli.::
 
-Bonjour, $(context.player.Name). Je suis Boyd, l'adjoint d'Edgar. Je dois vous remercier d'avoir traité avec ces terriers. Le travail dominant pour lequel nous vous devons beaucoup. Dites-moi de quoi vous avez besoin ?<end>
+Bonjour, $(context.player.Name). Boyd, adjoint d'Edgar. Je dois vous remercier d'avoir réglé le problème des fouisseurs. Du travail Dominating, et on vous en doit une sacrée. Alors, de quoi avez-vous besoin ?<end>
 
 =>q47_original
 Yeah?<end>

@@ -6,7 +6,7 @@ Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you ne
 =>q1
 ::L'homme s'éclaircit la gorge avant de parler.::
 
-Bonne journée, $(#monsieur/madame). Je suis Kevin Grey de la Garde Foundry. Vous avez besoin d'aide ?<end>
+Bonjour, $(#monsieur/madame). Je suis le Surveillant Kevin Grey, de la Garde Foundry. Vous avez besoin d'aide ?<end>
 
 =>q2_original
 <end>
@@ -18,61 +18,61 @@ Bonne journée, $(#monsieur/madame). Je suis Kevin Grey de la Garde Foundry. Vou
 You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
 
 =>a3
-Tu sais... Je veux des armes et des munitions. Pourriez-vous, par hasard, vous aider à tout ça ?<end>
+Écoutez... je cherche des armes et des munitions. Vous pourriez, par hasard... m'arranger ça, hmm ?<end>
 
 =>q4_original
 I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
 
 =>q4
-Je ne sais pas de quoi tu parles. Peut-être devriez-vous voir un des marchands locaux à propos... de ça.<end>
+Je... ne vois pas de quoi vous parlez. Peut-être devriez-vous voir un marchand du coin pour... ça.<end>
 
 =>a5_original
 ::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
 
 =>a5
-::[Mercantile]:: Dommage, je suppose que je vais devoir dépenser mon argent ailleurs. Ce sera difficile. Parce que j'en ai beaucoup. Oui.<end>
+::[Mercantile]:: Dommage. Je vais devoir dépenser mon argent ailleurs. Ça va être dur. Parce que j'en ai beaucoup. Ouais.<end>
 
 =>q6_original
 Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
 
 =>q6
-Très bien. Vous avez bien entendu, je peux vous avoir des armes et des munitions militaires - mais juste pour qu'on sache : pas un seul mot à ce sujet pour personne. Compris ? Oui ?<end>
+Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions de qualité militaire. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
 
 =>a7_original
 Show me what you've got. ::Barter.::<end>
 
 =>a7
-Montrez-moi ce que vous avez. ::Troc.::<end>
+Montrez-moi ça. ::Troc.::<end>
 
 =>q8_original
 Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
 
 =>q8
-Je ne peux pas t'aider, je suis désolé. Tu voulais me demander autre chose ?<end>
+Je ne peux rien pour vous, je suis vraiment désolé. Vous vouliez me demander autre chose ?<end>
 
 =>a9_original
 ::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
 
 =>a9
-::[Persuader]:: Tu sais de quoi je parle. On m'a dit que c'était à toi de parler si j'avais besoin d'armes. Je peux me taire, promis.<end>
+::[Persuade]:: Oh, vous *savez* très bien de quoi je parle. On m'a dit que c'était vous, pour les armes. Je sais me taire, promis.<end>
 
 =>q10_original
 Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
 
 =>q10
-Très bien. Vous avez bien entendu, je peux vous avoir des armes et des munitions militaires - mais juste pour qu'on sache : pas un seul mot à ce sujet pour personne. Compris ? Oui ?<end>
+Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions de qualité militaire. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
 
 =>q11_original
 I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
 
 =>q11
-Je pense que vous parlez à la mauvaise personne. Je ne peux pas t'aider, je suis désolé.<end>
+Je crois que vous vous adressez à la mauvaise personne. Je ne peux rien pour vous, je suis vraiment désolé.<end>
 
 =>a12_original
 Oh well. In that case, I'd like to ask you something else.<end>
 
 =>a12
-Oh bien. Dans ce cas, j'aimerais vous demander autre chose.<end>
+Tant pis. Dans ce cas, j'ai autre chose à vous demander.<end>
 
 =>q13_original
 Like what?<end>
@@ -84,7 +84,7 @@ Comme quoi ?<end>
 ::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
 
 =>a14
-::[Mercantile]:: Je suis un acheteur sérieux, Kevin, et je pense que vous ne l'avez pas encore réalisé. Pourquoi je dis ça ? Eh bien, je n'ai toujours pas vraiment vu les choses vraiment de haute qualité quelqu'un comme vous devrait offrir.<end>
+::[Mercantile]:: Je suis un acheteur sérieux, Kevin, et je pense que vous ne l'avez pas encore compris. Pourquoi je dis ça ? Parce que je n'ai toujours pas vu le vrai haut de gamme que quelqu'un comme vous devrait proposer.<end>
 
 =>q15_original
 <end>
@@ -96,13 +96,13 @@ Comme quoi ?<end>
 Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
 
 =>q16
-Et bien... Un acheteur sérieux devrait avoir une pièce sérieuse sur $(#le/la). Très bien. Je vais vous montrer le reste de mon inventaire. Mais vous connaissez la foreuse : vous restez silencieux et nous sommes dorés. Oui ?<end>
+Eh bien... Un acheteur sérieux devrait avoir des charons sur $(#lui/elle). Bon, bon. Je vais vous montrer le reste de mon stock. Mais vous connaissez la règle : vous restez discret, et c'est nickel. Oui ?<end>
 
 =>q17_original
 Alright. Check this out.<end>
 
 =>q17
-Très bien. Regarde ça.<end>
+Très bien. Regardez ça.<end>
 
 =>a18_original
 ::Barter.::<end>
@@ -114,37 +114,37 @@ Très bien. Regarde ça.<end>
 What you see is what you get. I've got nothing else to show you.<end>
 
 =>q19
-Ce que vous voyez est ce que vous obtenez. Je n'ai rien d'autre à te montrer.<end>
+Ce que vous voyez, c'est tout. Je n'ai rien d'autre à vous montrer.<end>
 
 =>a20_original
 Where do you get all these weapons, if I may ask?<end>
 
 =>a20
-Où trouvez-vous toutes ces armes ?<end>
+Où est-ce que vous trouvez toutes ces armes, si je peux me permettre ?<end>
 
 =>q21_original
 That is none of your business.<end>
 
 =>q21
-Ça ne te regarde pas.<end>
+Ça ne vous regarde pas.<end>
 
 =>q22_original
 I'll pretend you never asked me this question.<end>
 
 =>q22
-Je ferai comme si tu ne m'avais jamais posé cette question.<end>
+Je vais faire comme si vous ne m'aviez jamais posé la question.<end>
 
 =>a23_original
 What does an overseer do?<end>
 
 =>a23
-Que fait un surveillant?<end>
+Que fait un surveillant ?<end>
 
 =>q24_original
 Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
 
 =>q24
-Surveille les gardes Foundry. Je pense que c'est assez explicite.<end>
+Il supervise les gardes de Foundry. Je pense que c'est assez explicite.<end>
 
 =>q25_original
 Any more questions?<end>
@@ -156,97 +156,97 @@ D'autres questions ?<end>
 Do you remember anyone coming to you with any strange items? Anything really striking?<end>
 
 =>a26
-Tu te souviens de quelqu'un qui vient te voir avec des objets étranges ? Quelque chose de vraiment frappant ?<end>
+Vous vous souvenez de quelqu'un venu vous voir avec des objets étranges ? Un truc vraiment frappant ?<end>
 
 =>q27_original
 Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
 
 =>q27
-Vraiment frappant ? C'est très vague. Je ne me souviens de rien de tel. Désolé, je n'ai pas beaucoup de gens qui viennent ici.<end>
+Vraiment frappant ? C'est très vague. Non... je ne me souviens de rien de tel. Désolé, ce n'est pas comme s'il défilait du monde ici.<end>
 
 =>q28_original
 Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
 
 =>q28
-Peut-être devriez-vous demander autour; les nouvelles de choses inhabituelles se répandent assez rapidement tout au long de Foundry, comme c'est le cas pour toute station.<end>
+Peut-être devriez-vous demander autour de vous. Les nouvelles bizarres, ça circule vite à Foundry, comme dans n'importe quelle station.<end>
 
 =>a29_original
 What can you tell me about Foundry?<end>
 
 =>a29
-Que pouvez-vous me dire sur Foundry ?<end>
+Que pouvez-vous me dire sur Foundry ?<end>
 
 =>q30_original
 Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
 
 =>q30
-Foundry est indéniablement la station la plus sûre du Sud Underrail. Il est totalement inaccessible et, permettez-moi de vous dire tout de suite, il rivalise même avec Underrail Protectorate de Fort Apogee. Tout cela en raison d'une position forte et de la valeur indiscutable de la Garde Foundry, qui existent pour servir et protéger tous à l'intérieur des murs de la station. Si vous vous trouvez dans un problème, ou si vous avez besoin d'aide autrement, il suffit de trouver un des gardes et ils vous aideront volontiers.<end>
+Foundry est indéniablement la station la plus sûre du South Underrail. Elle est complètement imprenable, et je vous le dis tout de suite : elle rivalise même avec Fort Apogee du Protectorate. Tout ça grâce à une position solide et au courage indiscutable de la Garde Foundry, qui existe pour servir et protéger tous ceux qui sont dans les murs. Si vous avez des ennuis, ou besoin d'aide, trouvez un garde. Il vous aidera volontiers.<end>
 
 =>q31_original
 Although, maybe you can take care of yourself just fine.<end>
 
 =>q31
-Peut-être que tu peux prendre soin de toi.<end>
+Après, vous savez peut-être déjà vous débrouiller.<end>
 
 =>q32_original
 One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
 
 =>q32
-Un avertissement, cependant : ne vous approchez pas de la mine. Aussi, si vous avez besoin d'eau, Claude peut vous aider avec cela; éviter d'autres sources. Vous l'entendrez avant de le voir, ne vous inquiétez pas.<end>
+Un avertissement, cependant : n'approchez pas de la mine. Et si vous avez besoin d'eau, Claude peut s'en charger. Évitez les autres sources. Vous l'entendrez avant de le voir, ne vous inquiétez pas.<end>
 
 =>q33_original
 That's all you need to know for now. Take care.<end>
 
 =>q33
-C'est tout ce que vous devez savoir pour l'instant. Prends soin de toi.<end>
+C'est tout ce qu'il vous faut savoir pour l'instant. Prenez soin de vous.<end>
 
 =>a34_original
 How do you feel now that the mine has been reopened?<end>
 
 =>a34
-Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+Comment vous le prenez, maintenant que la mine a rouvert ?<end>
 
 =>q35_original
 You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
 
 =>q35
-Vous êtes venu ici pour m'entendre vous féliciter pour un travail bien fait ? Pour vous remercier de nous aider à prendre soin de la Bête ? Ecoute, $(context.player.Name), la Foundry Guard peut gérer ses propres problèmes ; il n'y a jamais eu besoin d'un étranger pour interférer. Souviens-toi de ça. Vous venez de venir.<end>
+Vous venez m'entendre vous féliciter pour un travail bien fait ? Pour que je vous remercie de nous avoir aidés à régler la Bête ? Écoutez, $(context.player.Name), la Garde Foundry gère ses propres problèmes. Jamais eu besoin d'un étranger pour s'en mêler. Retenez ça. Vous avez juste suivi le mouvement.<end>
 
 =>q36_original
 On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
 
 =>q36
-D'un autre côté, tu as des tripes, je peux te donner ça. Mais ne le laisse pas aller à ta tête, compris ?<end>
+D'un autre côté, vous avez du cran, ça je vous l'accorde. Mais ne vous montez pas la tête, compris ?<end>
 
 =>a37_original
 Do you know anything about the mine creatures?<end>
 
 =>a37
-Tu sais quelque chose sur mes créatures ?<end>
+Vous savez quelque chose sur les créatures de la mine ?<end>
 
 =>q38_original
 Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
 
 =>q38
-Tu as appris ça rapidement. Eh bien, peu de gens ont vu ces choses en personne. Ce qui s'est passé, c'est que certains mineurs ont plongé dans une caverne et ont couru dans ces étranges créatures rocheuses. Ces choses étaient incroyablement agressives et l'exploitation minière a dû être arrêtée, à juste titre. Certains mineurs ont été - malheureusement - tués, et à cause de cela nous sommes en haute alerte en ce moment. On soupçonne même que les créatures sont... peu importe.<end>
+Ah... vous l'avez appris vite. Peu de gens ont vu ces choses en face. Voilà : des mineurs ont percé jusqu'à une caverne et sont tombés sur d'étranges créatures de pierre. Ces choses étaient d'une agressivité folle, et l'exploitation a dû s'arrêter, à juste titre. Des mineurs ont été tués, malheureusement, et c'est pour ça qu'on est en alerte maximale. On soupçonne même que les créatures sont... euh... laissez tomber.<end>
 
 =>q39_original
 The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
 
 =>q39
-Les fonctionnaires discutent actuellement de la situation et préparent la prochaine étape. On verra ce qu'ils vont trouver. En attendant, prenez soin de vous et éloignez-vous de la mine. Compris ?<end>
+Les responsables discutent de la situation et préparent la suite. On verra ce qu'ils sortent. En attendant, prenez soin de vous et restez loin de la mine. Compris ?<end>
 
 =>a40_original
 Why didn't someone already arrest that derailed robed dude?<end>
 
 =>a40
-Pourquoi quelqu'un n'a-t-il pas déjà arrêté ce type volé ?<end>
+Pourquoi personne n'a encore arrêté ce cinglé en robe ?<end>
 
 =>q41_original
 You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
 
 =>q41
-Tu veux dire le mec Tchort ? Je préfère le tuer, mais ce serait contraire à la loi. Pour ce qui est de ne pas l'arrêter, je suppose que quelqu'un de plus haut dans la chaîne a beaucoup aimé le gars, je ne sais pas. De plus, il n'a jamais causé de perturbations majeures, il n'a fait qu'ennuyer les billes de tout le monde.<end>
+Le type qui parle de Tchort ? Je lui tirerais bien dessus, mais ce serait illégal. Quant à ne pas l'arrêter, je suppose que quelqu'un plus haut dans la chaîne s'est attaché à lui, je ne sais pas. Et puis il n'a jamais vraiment fait de dégâts. Il n'a fait que taper sur les nerfs de tout le monde.<end>
 
 =>q42_original
 And he never gets tired! Unbelievable...<end>
@@ -258,19 +258,19 @@ Et il ne se fatigue jamais ! Incroyable...<end>
 I have to go. See you later.<end>
 
 =>a43
-Je dois y aller. A tout à l'heure.<end>
+Je dois y aller. À plus tard.<end>
 
 =>q44_original
 Hey - just in time. Check out the new stuff I just got.<end>
 
 =>q44
-- Juste à temps. Regarde les nouvelles choses que je viens d'avoir.<end>
+Hé. Pile au bon moment. Regardez le nouveau stock que je viens de recevoir.<end>
 
 =>a45_original
 Maybe later. I came here for other reasons.<end>
 
 =>a45
-Peut-être plus tard. Je suis venu ici pour d'autres raisons.<end>
+Peut-être plus tard. Je suis là pour autre chose.<end>
 
 =>q46_original
 What other reasons?<end>
@@ -282,5 +282,5 @@ Quelles autres raisons ?<end>
 Need something?<end>
 
 =>q47
-Besoin de quelque chose ?<end>
+Vous avez besoin de quelque chose ?<end>
 

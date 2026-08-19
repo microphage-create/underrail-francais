@@ -4,7 +4,7 @@
 Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
 
 =>q1
-::Un homme de petite taille se lève de derrière son bureau avec une caisse de grenades dans les mains. La caisse lourde rencontre le plateau du bureau avec un bruit sourd, ce qui te fait lever les sourcils, ce qui à son tour fait sourire l'homme. Il retire son gant et te serre la main d'une poigne forte, peut-être trop forte, avant de s'adresser à toi.::
+::Un homme de petite taille se lève de derrière son bureau, une caisse de grenades dans les mains. La caisse lourde claque sur le plateau, tu lèves les sourcils, et ça le fait sourire. Il retire son gant et te serre la main d'une poigne forte, trop forte peut-être, avant de te parler.::
 
 T'inquiète. $(context.player.Name), je vais pas nous faire sauter. Nan. Bref, Vencel m'a dit que tu resterais avec nous un moment.<end>
 
@@ -12,13 +12,13 @@ T'inquiète. $(context.player.Name), je vais pas nous faire sauter. Nan. Bref, V
 Yeah. I like it here so far.<end>
 
 =>a2
-Ouais. J'aime bien ici pour l'instant.<end>
+Ouais. J'aime bien ici, pour l'instant.<end>
 
 =>q3_original
 Well, friend - make yourself at home.<end>
 
 =>q3
-Ben, l'ami - fais comme chez toi.<end>
+Ben, l'ami : fais comme chez toi.<end>
 
 =>q4_original
 <end>
@@ -30,25 +30,25 @@ Ben, l'ami - fais comme chez toi.<end>
 I'd like to see your stock. ::Barter.::<end>
 
 =>a5
-J'aimerais voir ton stock. ::Troquer.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a6_original
 I'd like to see your stock. ::Barter.::<end>
 
 =>a6
-J'aimerais voir ton stock. ::Troquer.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>q7_original
 One sec: <end>
 
 =>q7
-Une sec : <end>
+Une seconde : <end>
 
 =>q8_original
 Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
 
 =>q8
-Tu veux bien me rendre un petit service ? Harland, un de nos officiers de sécurité, a demandé une auto-tourelle en plus à la sortie des under-passages. Ça - et un train de munitions, comme s'il se préparait à <end>
+Tu me rends un petit service ? Harland, un de nos officiers de sécu, a demandé une tourelle auto en plus à la sortie des under-passages. Ça, et un train de munitions, comme s'il se préparait à <end>
 
 =>q9_original
 a massive Faceless assault.<end>
@@ -78,7 +78,7 @@ Eh. Aussi dangereux que les Lurkers puissent être, <end>
 Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
 
 =>q13
-Harland... il a tendance à devenir, hm, parano de temps en temps. J'imagine que surveiller des couloirs sombres sans arrêt, ça finit par te ronger. Et après il devient tout quaky.<end>
+Harland... il a tendance à virer, hm, parano, de temps en temps. Surveiller des couloirs sombres sans arrêt, ça te ronge, au bout d'un moment. Et après il flippe. Les mains qui tremblent.<end>
 
 =>a14_original
 You're making it sound as if it's something unreasonable.<end>
@@ -90,7 +90,7 @@ Tu le présentes comme si c'était déraisonnable.<end>
 I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
 
 =>q15
-Je veux dire, ça l'est pas, et on a clairement renforcé toutes nos défenses, mais cette sortie des under-passages - soyons raisonnables - est difficilement une cible prioritaire pour les Faceless au point d'exiger une telle quantité d'obus. <end>
+Je veux dire, ça l'est pas, et on a clairement renforcé toutes nos défenses. Mais cette sortie des under-passages, soyons honnêtes, c'est pas une cible prioritaire pour les Faceless au point de pomper autant de munitions. <end>
 
 =>a16_original
 Did he tell you why he needs all of this?<end>
@@ -102,31 +102,31 @@ Il t'a dit pourquoi il a besoin de tout ça ?<end>
 "He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
 
 =>q17
-« Il en a besoin. » Mais pourquoi concrètement, ça c'est un truc que j'arrive pas à lui tirer. Hé, je serais maudit s'il le sait lui-même. <end>
+« Il en a besoin. » Mais pourquoi, concrètement, ça j'arrive pas à le lui tirer. Hé, j'suis pas sûr qu'il le sache lui-même. <end>
 
 =>a18_original
 Quaky?<end>
 
 =>a18
-Quaky ?<end>
+Les mains qui tremblent ?<end>
 
 =>q19_original
 Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
 
 =>q19
-Quaky. Eh, comme un peureux. Ou un hopper - *flippé*. Tu dig ?<end>
+Ouais. Les mains qui tremblent. Comme un peureux. Ou un sauteur : *flippé à mort*. Tu piges ?<end>
 
 =>a20_original
 Dig?<end>
 
 =>a20
-Dig ?<end>
+Piger ?<end>
 
 =>q21_original
 Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
 
 =>q21
-Dig : capter - comprendre. Putain, $(context.player.Name), t'as vécu où tout ce temps ?<end>
+Piger : capter. Comprendre. Putain, $(context.player.Name), t'as vécu où, jusqu'ici ?<end>
 
 =>a22_original
 Damn?<end>
@@ -138,31 +138,31 @@ Putain ?<end>
 Heh. Now you're just playing slackjaw.<end>
 
 =>q23
-Hé. Là tu joues juste au badaud.<end>
+Hé. Là tu fais exprès.<end>
 
 =>a24_original
 Just tell me where to find him.<end>
 
 =>a24
-Dis-moi juste où le trouver.<end>
+Où le trouver.<end>
 
 =>q25_original
 There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
 
 =>q25
-Y a une entrée vers les under-passages à la station de métro au-dessus de nous. Tu peux pas la rater. Descends les marches et tu le trouveras là.<end>
+Y a une entrée vers les under-passages à la station de métro, au-dessus de nous. Tu peux pas la rater. Tu descends les marches, tu le trouves là.<end>
 
 =>q26_original
 See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
 
 =>q26
-Vois si ce qui l'a flippé cette fois est une vraie inquiétude, et si oui, je lui enverrai tout ce qu'il faut. <end>
+Tu vois si ce qui l'a flippé cette fois, c'est du solide. Si oui, je lui envoie tout ce qu'il faut. <end>
 
 =>q27_original
 I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
 
 =>q27
-Je m'inquiète juste d'immobiliser inutilement autant d'obus là-bas alors que ça pourrait être plus nécessaire ailleurs, c'est tout.<end>
+Je m'inquiète juste d'immobiliser inutilement autant de munitions là-bas, alors que ça pourrait servir ailleurs. C'est tout.<end>
 
 =>q28_original
 <end>
@@ -174,13 +174,13 @@ Je m'inquiète juste d'immobiliser inutilement autant d'obus là-bas alors que �
 I'd like to see your stock now. ::Barter.::<end>
 
 =>a29
-J'aimerais voir ton stock maintenant. ::Troquer.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a30_original
 I'd like to see your stock before I go. ::Barter.::<end>
 
 =>a30
-J'aimerais voir ton stock avant de partir. ::Troquer.::<end>
+Voir le stock avant de partir. ::Troquer.::<end>
 
 =>a31_original
 Got it.<end>
@@ -198,13 +198,13 @@ Compris.<end>
 It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
 
 =>q33
-C'est juste que je veux pas qu'on trimballe tout cet armement dans les deux sens à cause de deux voyous - ou d'un rathound.<end>
+C'est juste que je veux pas qu'on trimballe tout ce matos dans les deux sens à cause de deux voyous, ou d'un rathound.<end>
 
 =>a34_original
 I'll see him if I get the chance.<end>
 
 =>a34
-Je le verrai si j'en ai l'occasion.<end>
+Le voir si l'occasion se présente.<end>
 
 =>q35_original
 Thanks. <end>
@@ -216,19 +216,19 @@ Merci. <end>
 Sorry. I got more important things to do.<end>
 
 =>a36
-Désolé. J'ai des trucs plus importants à faire.<end>
+Refuser. Autre chose à faire.<end>
 
 =>q37_original
 Alright. Then I'll send someone else.<end>
 
 =>q37
-D'accord. Alors j'enverrai quelqu'un d'autre.<end>
+OK. J'enverrai quelqu'un d'autre, alors.<end>
 
 =>a38_original
 See ya.<end>
 
 =>a38
-À plus.<end>
+Partir.<end>
 
 =>a39_original
 Yeah.<end>
@@ -246,13 +246,13 @@ une invasion de Lurkers.<end>
 Can I have my weapon back?<end>
 
 =>a41
-Je peux récupérer mon arme ?<end>
+Récupérer mon arme.<end>
 
 =>q42_original
 Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
 
 =>q42
-Bien sûr. C'était le, euh... ouais, pistolet de cinq millimètres et des munitions, si je me souviens bien. Hein ? Celui-ci ? ::Il sort un pistolet dans un tel état que les gens paieraient pour s'en débarrasser.::<end>
+Bien sûr. C'était le, euh... ouais, le pistolet de cinq millimètres et des cartouches, si je me souviens bien. Hein ? Celui-ci ? ::Il sort un pistolet dans un tel état que les gens paieraient pour s'en débarrasser.::<end>
 
 =>q43_original
 <end>
@@ -276,13 +276,13 @@ Alors à qui...? Oh ! Ça doit être le flingue de Newton. Hé, ma faute. Voilà
 There. With that out of the way, may I interest you in a couple more things, hm?<end>
 
 =>q46
-Voilà. Maintenant que c'est réglé, puis-je t'intéresser à deux-trois autres trucs, hm ?<end>
+Voilà. Maintenant que c'est réglé, je te tente avec deux-trois autres trucs, hm ?<end>
 
 =>a47_original
 ::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
 
 =>a47
-::[Persuasion]:: Cinq millimètres ? Je suis venu avec un quarante-quatre, mec.<end>
+::[Persuade]:: Cinq millimètres ? Je suis venu avec un 44.<end>
 
 =>q48_original
 <end>
@@ -294,13 +294,13 @@ Voilà. Maintenant que c'est réglé, puis-je t'intéresser à deux-trois autres
 What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
 
 =>q49
-Quoi ? ::Un de ses yeux se plisse à moitié tandis que l'autre se tend.:: Non, sérieux, c'est ton pistolet ?<end>
+Quoi ? ::Un de ses yeux se plisse à moitié, l'autre se tend.:: Non, sérieux, c'est ton pistolet ?<end>
 
 =>a50_original
 ::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
 
 =>a50
-::[Persuasion]:: C'était même pas un flingue. C'était une machette.<end>
+::[Persuade]:: C'était même pas un flingue. C'était une machette.<end>
 
 =>q51_original
 <end>
@@ -312,7 +312,7 @@ Quoi ? ::Un de ses yeux se plisse à moitié tandis que l'autre se tend.:: Non, 
 ::[Persuade]:: A pistol? I had a bloody shotgun.<end>
 
 =>a52
-::[Persuasion]:: Un pistolet ? J'avais un putain de fusil à pompe.<end>
+::[Persuade]:: Un pistolet ? J'avais un putain de fusil à pompe.<end>
 
 =>q53_original
 <end>
@@ -328,7 +328,7 @@ I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up 
 =>q54
 ::Il lève le sourcil droit.:: Un fusil à pompe, tu dis...
 
-J'ai un fusil à pompe non inventorié ici. ::Il te montre un fusil rongé de rouille, scotché.::<end>
+J'en ai un hors inventaire, ici. ::Il te montre un fusil rongé de rouille, scotché.::<end>
 
 =>a55_original
 Shoddy Shotty!<end>
@@ -340,19 +340,19 @@ Shoddy Shotty !<end>
 ::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
 
 =>q56
-::Il te tend le fusil et quelques cartouches.:: Hmmm, j'imagine que le pistolet appartient à Newton alors.<end>
+::Il te tend le fusil et quelques cartouches.:: Hmmm, j'imagine que le pistolet, c'est celui de Newton, alors.<end>
 
 =>a57_original
 ::Accept it in silence.::<end>
 
 =>a57
-::L'accepter en silence.::<end>
+::Accepter en silence.::<end>
 
 =>a58_original
 Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
 
 =>a58
-Euh, non. Je crois que j'avais un fusil à pompe automatique de calibre douze.<end>
+Euh, non. Je crois que j'avais un fusil automatique de calibre 12.<end>
 
 =>q59_original
 Ha! Yeah, right! <end>
@@ -364,7 +364,7 @@ Ha ! Ouais, c'est ça ! <end>
 What the hell is this?<end>
 
 =>a60
-C'est quoi ce bordel ?<end>
+C'est quoi, ce bordel ?<end>
 
 =>q61_original
 Your shotgun. <end>
@@ -376,31 +376,31 @@ Ton fusil à pompe. <end>
 A... a shotgun? But we don't even have any shotguns here.<end>
 
 =>q62
-Un... un fusil à pompe ? Mais on a même pas de fusils à pompe ici.<end>
+Un... un fusil à pompe ? Mais on a même pas de pompe, ici.<end>
 
 =>q63_original
 Come on, stop messing around and tell me: Is this your pistol or not?<end>
 
 =>q63
-Allez, arrête de déconner et dis-moi : c'est ton pistolet ou pas ?<end>
+Allez, arrête de déconner et dis-moi : c'est ton pistolet, ou pas ?<end>
 
 =>a64_original
 Actually, no, I had a crossbow.<end>
 
 =>a64
-En fait, non, j'avais une arbalète.<end>
+En fait, non. J'avais une arbalète.<end>
 
 =>a65_original
 Guns are for wussies. All I need is a knife.<end>
 
 =>a65
-Les flingues c'est pour les mauviettes. Tout ce qu'il me faut c'est un couteau.<end>
+Les flingues, c'est pour les mauviettes. Tout ce qu'il me faut, c'est un couteau.<end>
 
 =>a66_original
 You and Vencel are good pals?<end>
 
 =>a66
-Toi et Vencel vous êtes bons potes ?<end>
+Toi et Vencel, vous êtes bons potes ?<end>
 
 =>q67_original
 Pals? We're brothers!<end>
@@ -412,7 +412,7 @@ Potes ? On est frères !<end>
 I'm sorry, I never noticed the resemblance.<end>
 
 =>a68
-Désolé, j'avais jamais remarqué la ressemblance.<end>
+Désolé, j'avais jamais vu la ressemblance.<end>
 
 =>q69_original
 Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
@@ -420,7 +420,7 @@ Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to 
 ::He laughs.:: That's *exactly* how it went.<end>
 
 =>q69
-Ben, les respirateurs aident pas vraiment, hé. Mais ouais, on est frères. On est arrivés à cette station ensemble il y a quelques années, et quand ils ont vu à quel point on était cools, ils nous ont pas laissés partir. 
+Ben, les respirateurs aident pas vraiment, hé. Mais ouais, on est frères. On est arrivés à cette station ensemble, y a quelques années, et quand ils ont vu à quel point on était cools, ils nous ont pas laissés partir.
 
 ::Il rit.:: C'est *exactement* comme ça que c'est passé.<end>
 
@@ -428,55 +428,55 @@ Ben, les respirateurs aident pas vraiment, hé. Mais ouais, on est frères. On e
 What do you know about Patrick Pierce's death?<end>
 
 =>a70
-Tu sais quoi sur la mort de Patrick Pierce ?<end>
+Qu'est-ce que tu sais sur la mort de Patrick Pierce ?<end>
 
 =>q71_original
 Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
 
 =>q71
-Le pauvre est mort dans son sommeil, $(context.player.Name), et même si Pasquale n'a jamais cerné la cause, j'espère que c'était rapide et sans douleur. La plupart d'entre nous l'aimaient bien, et t'aurais du mal à en trouver un qui ne l'aimait pas.<end>
+Le pauvre est mort dans son sommeil, $(context.player.Name), et même si Pasquale a jamais cerné la cause, j'espère que c'était rapide et sans douleur. La plupart d'entre nous l'aimaient bien, et t'aurais du mal à en trouver un qui l'aimait pas.<end>
 
 =>a72_original
 Can you tell me what he was like as a person?<end>
 
 =>a72
-Tu peux me dire comment il était en tant que personne ?<end>
+C'était quoi, comme type ?<end>
 
 =>q73_original
 He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
 
 =>q73
-Il était très... quel est le mot juste... concentré ! Oui, concentré. Il se mettait à travailler sur un truc et s'arrêtait pas avant que ce soit parfait. C'est comme ça qu'il faisait tout. Puis Bret arrive comme le seul à se plaindre. Apparemment, Patrick avait installé des radiateurs et ils marchaient pas comme il fallait, alors le Grand Râleur a piqué une petite crise. Mais ouais, hé, Bret.<end>
+Il était très... c'est quoi le mot... concentré ! Ouais, concentré. Il se mettait sur un truc et il lâchait pas avant que ce soit parfait. Tout, comme ça. Puis Bret débarque, le seul à râler. Apparemment Patrick avait posé des chauffages, ça marchait pas comme il fallait, alors le Grand Râleur a piqué sa crise. Mais ouais, hé, Bret.<end>
 
 =>a74_original
 What do you think of the Faceless invasion?<end>
 
 =>a74
-Tu penses quoi de l'invasion Faceless ?<end>
+T'en penses quoi, de l'invasion Faceless ?<end>
 
 =>q75_original
 I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
 
 =>q75
-J'ai beaucoup entendu parler des Faceless, ou Tunnelers, comme certains les appellent, et rien de bon. Ce sont des créatures viles des profondeurs, très probablement des Deep Caverns, qui volent des Underrailers et se nourrissent de leur chair. Un peu comme les Lurkers, mais moins humains. Un cousin à moi m'a dit qu'ils avaient volé son fils, et il les a vus le faire.<end>
+J'ai beaucoup entendu parler des Faceless, ou Tunnelers, comme certains les appellent, et rien de bon. Des créatures viles des profondeurs, très probablement des Deep Caverns, qui chopent des gens de l'Underrail et se nourrissent de leur chair. Un peu comme les Lurkers, mais moins humains. Un cousin à moi m'a dit qu'ils avaient chopé son fils. Il les a vus le faire.<end>
 
 =>q76_original
 If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
 
 =>q76
-Si Core City tombe, on tombe tous, sauf si le Protectorate fait d'une façon ou d'une autre une dernière résistance à Fort Apogee. Mais ils sont coupés du Nord. Toutefois, je suis optimiste. Les humains sont des créatures résilientes, et on va pas abandonner facilement.<end>
+Si Core City tombe, on tombe tous, sauf si le Protectorate tient Fort Apogee jusqu'au bout. Mais ils sont coupés du Nord. Moi, je reste optimiste. Les humains, ça tient le coup, et on va pas se coucher comme ça.<end>
 
 =>a77_original
 What do you think of the Faceless retreat from Core City?<end>
 
 =>a77
-Tu penses quoi de la retraite des Faceless de Core City ?<end>
+T'en penses quoi, de la retraite des Faceless de Core City ?<end>
 
 =>q78_original
 Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
 
 =>q78
-Ben, $(context.player.Name), je pense que c'est une autre victoire pour l'humanité. Je veux dire, comme je le vois, t'as ces monstruosités augmentées qui émergent des profondeurs et nous attaquent, voulant sucer notre sang ou nous manger ou je sais pas quoi, et vu comment l'invasion a commencé on dirait qu'on allait se faire submerger.<end>
+Ben, $(context.player.Name), je pense que c'est une autre victoire pour l'humanité. T'as ces monstruosités augmentées qui sortent des profondeurs et nous tombent dessus, pour nous sucer le sang ou nous bouffer, j'en sais rien, et vu comment l'invasion a commencé, on allait déjà se faire déborder.<end>
 
 =>q79_original
 Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
@@ -484,21 +484,21 @@ Then, all of us, together, we fight back, every station, together. Get away, you
 ::He pauses.:: The point of the story is... I'm glad they're gone.<end>
 
 =>q79
-Puis, tous ensemble, on riposte, chaque station, ensemble. Dégagez, putains d'abominations ! Et on a prévalu. Les difformes sont de retour dans leurs fosses sombres, attendant l'heure de frapper à nouveau.
+Puis on riposte, tous ensemble, chaque station. Dégagez, putains d'abominations ! Et on a tenu. Les difformes sont rentrés dans leurs fosses, à attendre l'heure de frapper à nouveau.
 
-::Il s'arrête.:: Le point de l'histoire c'est... je suis content qu'ils soient partis.<end>
+::Il s'arrête.:: Le fond de l'histoire... je suis content qu'ils soient partis.<end>
 
 =>a80_original
 I gotta go.<end>
 
 =>a80
-Je dois y aller.<end>
+Partir.<end>
 
 =>q81_original
 Hey, hold up a sec. <end>
 
 =>q81
-Hé, attends une sec. <end>
+Hé, attends une seconde. <end>
 
 =>q82_original
 But you'll be back, heh.<end>
@@ -530,7 +530,7 @@ Think Harland's pretty pleased with his new turret.
 ::He sighs.:: <end>
 
 =>q86
-Je pense que Harland est plutôt content de sa nouvelle tourelle. 
+Je pense que Harland est plutôt content de sa nouvelle tourelle.
 
 ::Il soupire.:: <end>
 
@@ -538,7 +538,7 @@ Je pense que Harland est plutôt content de sa nouvelle tourelle.
 He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
 
 =>q87
-C'est un bon gars, mais je serais maudit si son R&R n'est pas en retard.<end>
+C'est un bon gars, mais s'il a pas largement mérité ses jours de repos, je veux plus rien comprendre.<end>
 
 =>q88_original
 Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
@@ -546,7 +546,7 @@ Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
 <end>
 
 =>q88
-J'ai envoyé des munitions à Harland. J'espère qu'il arrêtera de m'emmerder avec ça maintenant.
+J'ai envoyé des munitions à Harland. J'espère qu'il arrêtera de m'emmerder avec ça.
 
 <end>
 
@@ -556,7 +556,7 @@ At least Harland got a neat minibot out of all this, if nothing else.
 <end>
 
 =>q89
-Au moins Harland a eu un joli minibot de tout ça, si rien d'autre.
+Au moins Harland a chopé un joli minibot dans l'histoire. C'est déjà ça.
 
 <end>
 
@@ -564,13 +564,13 @@ Au moins Harland a eu un joli minibot de tout ça, si rien d'autre.
 I gotta say, thanks for helping Harland. <end>
 
 =>q90
-Je dois dire, merci d'avoir aidé Harland. <end>
+Merci d'avoir aidé Harland, vraiment. <end>
 
 =>q91_original
 Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
 
 =>q91
-Tout le monde parle de la disparition de Tanner alors qu'ils devraient parler de la tienne. T'étais où tout ce temps, $(context.player.Name). Tu viens faire le plein, hein ?<end>
+Tout le monde parle de la disparition de Tanner, alors qu'ils devraient parler de la tienne. T'étais où, tout ce temps, $(context.player.Name) ? Tu viens faire le plein, hein ?<end>
 
 =>q92_original
 I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
@@ -578,9 +578,9 @@ I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dre
 What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
 
 =>q92
-J'arrive pas à croire que Gorsky soit mort. Putain, $(context.player.Name), je l'ai vu dans mon rêve la nuit dernière. En train de tirer au stand, tout dans le centre, zéro déviation. Et puis il a regardé vers l'armurerie... et il m'a souri. 
+J'arrive pas à croire que Gorsky soit mort. Putain, $(context.player.Name), je l'ai vu dans un rêve, la nuit dernière. En train de tirer au stand, tout dans le mille, zéro déviation. Et puis il a regardé vers l'armurerie... et il m'a souri.
 
-Quelle sorte de rêve hors des rails c'est ça où Gorsky sourit. Repose en paix, grand gars.<end>
+Quel genre de rêve déraillé, ça, où Gorsky sourit. Repose en paix, grand gars.<end>
 
 =>q93_original
 Hey, is it true?<end>
@@ -592,19 +592,19 @@ Hé, c'est vrai ?<end>
 Is what true?<end>
 
 =>a94
-C'est vrai quoi ?<end>
+C'est vrai, quoi ?<end>
 
 =>q95_original
 About that psionic, Ethan, turning old in a blink of an eye<end>
 
 =>q95
-À propos de ce psionique, Ethan, qui est devenu vieux en un clin d'œil<end>
+À propos de ce psionique, Ethan, qui a vieilli en un clin d'œil<end>
 
 =>q96_original
 , attacking you and you had to take him out?<end>
 
 =>q96
-, t'a attaqué et tu as dû le descendre ?<end>
+, qui t'a attaqué, et que tu as dû descendre ?<end>
 
 =>q97_original
 <end>
@@ -628,7 +628,7 @@ Putain. <end>
 Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
 
 =>q100
-J'aurais aimé voir ça. J'ai entendu que c'était... ::Il penche la tête de gauche à droite.:: *Novel*.<end>
+J'aurais aimé voir ça. J'ai entendu que c'était... ::Il penche la tête de gauche à droite.:: *du jamais-vu*.<end>
 
 =>q101_original
 Anyway, you came here for a reason, didn't you?<end>
@@ -640,7 +640,7 @@ Bref, t'es venu ici pour une raison, non ?<end>
 Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
 
 =>q102
-Ben, c'est l'occasion d'investir plus dans ta défense, $(context.player.Name).<end>
+Ben, c'est l'occasion d'investir un peu plus dans ta défense, $(context.player.Name).<end>
 
 =>a103_original
 No.<end>
@@ -658,7 +658,7 @@ Non.<end>
 I don't have time for this. Show me your stock. ::Barter.::<end>
 
 =>a105
-J'ai pas le temps pour ça. Montre-moi ton stock. ::Troquer.::<end>
+Pas le temps. Voir le stock. ::Troquer.::<end>
 
 =>q106_original
 ?<end>
@@ -688,13 +688,13 @@ Non.<end>
 Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
 
 =>a110
-Oui. Maintenant montre-moi ton stock, je suis pressé. ::Troquer.::<end>
+Oui. Voir le stock, je suis pressé. ::Troquer.::<end>
 
 =>a111_original
 No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
 
 =>a111
-Non. Maintenant montre-moi ton stock, je suis pressé. ::Troquer.::<end>
+Non. Voir le stock, je suis pressé. ::Troquer.::<end>
 
 =>q112_original
 So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
@@ -702,9 +702,9 @@ So, Core City... ::He shakes his head a few times.:: Apparently there's an entir
 Well, if you're going out, you better stock up - we got some new gear.<end>
 
 =>q112
-Alors, Core City... ::Il secoue la tête plusieurs fois.:: Apparemment y a toute une armée d'eux là-bas. 
+Alors, Core City... ::Il secoue la tête plusieurs fois.:: Apparemment y a toute une armée d'eux, là-bas.
 
-Bon, si tu sors, tu ferais mieux de faire le plein - on a du nouveau matos.<end>
+Bon, si tu sors, tu ferais mieux de faire le plein. On a du nouveau matos.<end>
 
 =>q113_original
 Hey, $(context.player.Name). What do you need?<end>

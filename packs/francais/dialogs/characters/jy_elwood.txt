@@ -42,7 +42,7 @@ M. Dégage.<end>
 How are the dice treating you today?<end>
 
 =>a7
-Comment les dés te traitent aujourd'hui ?<end>
+Les dés sont avec toi, aujourd'hui ?<end>
 
 =>q8_original
 Mind your own damn business.<end>
@@ -54,7 +54,7 @@ Occupe-toi de tes putains d'affaires.<end>
 ::[Persuade]:: Hey, are you Elwood? Someone wants to see you outside.<end>
 
 =>a9
-::[Persuasion]:: Hé, t'es Elwood ? Quelqu'un veut te voir dehors.<end>
+::[Persuade]:: Hé, t'es Elwood ? Quelqu'un veut te voir dehors.<end>
 
 =>q10_original
 Tell 'im I'm busy.<end>
@@ -78,19 +78,19 @@ Elle ? Mais qui c'est cette femme ? Elle ressemble à quoi ?<end>
 Didn't say her name. But boy does she have a nice round belly.<end>
 
 =>a13
-A pas dit son nom. Mais putain qu'est-ce qu'elle a un beau ventre rond.<end>
+Elle a pas dit son nom. Par contre, putain, quel beau ventre rond.<end>
 
 =>q14_original
 What the...? Belly? ::He grabs his head.:: Alright, alright, I'm comin' out.<end>
 
 =>q14
-Quoi le...? Ventre ? ::Il se prend la tête.:: D'accord, d'accord, j'arrive.<end>
+C'est quoi ce... ? Un ventre ? ::Il se prend la tête.:: Bon, bon, je sors.<end>
 
 =>q15_original
 Hey! Leave me alone, will ya? I'm busy here.<end>
 
 =>q15
-Hé ! Laisse-moi tranquille, ok ? Je suis occupé ici.<end>
+Hé ! Tu me laisses tranquille, ok ? Je suis occupé, là.<end>
 
 =>a16_original
 Fine. I'll leave you to it then.<end>
@@ -102,7 +102,7 @@ Bon. Je te laisse alors.<end>
 ::He gives you a thumbs up and returns to what he was doing.::<end>
 
 =>q17
-::Il te fait un pouce en l'air et reprend ce qu'il faisait.::<end>
+::Il te fait un pouce levé et reprend ce qu'il faisait.::<end>
 
 =>a18_original
 I need the key card to your place.<end>
@@ -114,7 +114,7 @@ J'ai besoin de la carte d'accès de ton appart.<end>
 Not right now, baby, I got to win me some cash first. But stick around, perhaps, eh... we can *party* later.<end>
 
 =>q19
-Pas tout de suite, baby, faut d'abord que je me fasse un peu de fric. Mais reste dans le coin, peut-être, eh... on pourra *faire la fête* plus tard.<end>
+Pas tout de suite, bébé, faut d'abord que je me fasse un peu de fric. Mais reste dans le coin, peut-être, eh... on pourra *faire la fête* plus tard.<end>
 
 =>q20_original
 <end>
@@ -126,7 +126,7 @@ Pas tout de suite, baby, faut d'abord que je me fasse un peu de fric. Mais reste
 ::[Intimidate]:: I wasn't asking. Give me the damn key card right now or I'll blow your brains out.<end>
 
 =>a21
-::[Intimidation]:: Je demandais pas. Donne-moi cette putain de carte tout de suite ou je te fais sauter le crâne.<end>
+::[Intimidate]:: Je demandais pas. Donne-moi cette putain de carte tout de suite ou je te fais sauter le crâne.<end>
 
 =>q22_original
 ::Visibly intimidated by your threats, the man takes a step back and reaches for his gun, all the while keeping you in focus with his wide-open, fearful eyes.::<end>
@@ -144,7 +144,7 @@ Combattre !<end>
 You're messin' with the wrong Scrapper, $(#jack/baby)! ::He reaches for his gun.::<end>
 
 =>q24
-Tu t'en prends au mauvais Scrapper, $(#jack/baby) ! ::Il tend la main vers son arme.::<end>
+Tu t'en prends au mauvais Scrapper, $(#gars/bébé) ! ::Il tend la main vers son arme.::<end>
 
 =>a25_original
 Your loss.<end>
@@ -162,7 +162,7 @@ Tant pis pour toi.<end>
 Sorry, jack, I don't swing that way.<end>
 
 =>q27
-Désolé, jack, c'est pas mon truc.<end>
+Désolé, gars, je joue pas dans cette équipe.<end>
 
 =>a28_original
 Never mind.<end>

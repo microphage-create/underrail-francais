@@ -10,9 +10,9 @@ Excusez-moi, $(#monsieur/madame), mais je vais devoir vous demander de partir.<e
 Greetings, $(#sir/ma'am), and welcome to Coretech. How may I help you?<end>
 
 =>q2
-::La jeune femme rencontre votre approche avec un sourire blanc craie et un salut poli.::
+::La jeune femme accueille votre approche d'un sourire blanc craie et d'un salut poli.::
 
-Salutations, $(#monsieur/madame), et bienvenue à Coretech. Comment puis-je vous aider ?<end>
+Bienvenue à Coretech, $(#monsieur/madame). Que puis-je faire pour vous ?<end>
 
 =>q3_original
 <end>
@@ -30,19 +30,19 @@ Je cherche du travail. Vous avez quelque chose ?<end>
 Most certainly, $(#sir/ma'am). Coretech is the top technology research and application company in Underrail. We have several open positions in the fields of geophysics, chemistry and ballistics. Could you please specify your qualifications so that we may proceed?<end>
 
 =>q5
-Certainement, $(#monsieur/madame). Coretech est la principale société de recherche et d'application technologique de Underrail. Nous avons plusieurs positions ouvertes dans les domaines de la géophysique, de la chimie et de la balistique. Pourriez-vous préciser vos qualifications afin que nous puissions procéder?<end>
+Tout à fait, $(#monsieur/madame). Coretech est la première société de recherche et d'application technologique d'Underrail. Nous avons plusieurs postes ouverts en géophysique, chimie et balistique. Pourriez-vous préciser vos qualifications, afin que nous puissions continuer ?<end>
 
 =>a6_original
 ::[Electronics]:: How about a different branch of physics? I'm good with electronics. Will that do?<end>
 
 =>a6
-::[Electronics]:: Et une autre branche de la physique ? Je suis doué pour l'électronique. Ça va ?<end>
+::[Electronics]:: Et une autre branche de la physique ? Je me débrouille en électronique. Ça irait ?<end>
 
 =>q7_original
 I'm afraid not. As I said, we are in need of someone who is an expert in geophysics, not electronics. But we might have something else available. <end>
 
 =>q7
-Je n'en ai pas peur. Comme je l'ai dit, nous avons besoin de quelqu'un qui est un expert en géophysique, pas en électronique. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+J'ai bien peur que non. Comme je l'ai dit, nous cherchons un expert en géophysique, pas en électronique. Mais nous aurions peut-être autre chose. <end>
 
 =>q8_original
 
@@ -52,7 +52,7 @@ Could you please tell me your full name?<end>
 =>q8
 
 
-Pouvez-vous me dire votre nom complet ?<end>
+Pourriez-vous me donner votre nom complet ?<end>
 
 =>a9_original
 $(context.player.Name).<end>
@@ -64,13 +64,13 @@ $(context.player.Name).<end>
 Allow me to do a quick check on you. ::She starts typing something on the keyboard.::<end>
 
 =>q10
-Permettez-moi de vous vérifier rapidement. ::Elle commence à taper quelque chose sur le clavier.::<end>
+Laissez-moi faire une vérification rapide. ::Elle se met à taper sur le clavier.::<end>
 
 =>q11_original
 ::Soon, she shakes her head and continues.:: It seems that you have already been hired by a different employer. I'm afraid we cannot offer you a job due to our company policy. Still, thank you for applying.<end>
 
 =>q11
-::Bientôt, elle secoue la tête et continue.:: Il semble que vous ayez déjà été embauché par un autre employeur. Je crains que nous ne puissions vous offrir un emploi en raison de notre politique d'entreprise. Merci quand même d'avoir postulé.<end>
+::Peu après, elle secoue la tête et reprend.:: Il semblerait que vous soyez déjà engagé chez un autre employeur. J'ai bien peur que notre règlement nous interdise de vous proposer un poste. Merci tout de même d'avoir postulé.<end>
 
 =>a12_original
 Thank you for your time.<end>
@@ -82,7 +82,7 @@ Merci pour votre temps.<end>
 Yeah, well, who cares about your stupid company anyway. Goodbye!<end>
 
 =>a13
-Ouais, et bien, qui se soucie de votre stupide compagnie de toute façon. Au revoir !<end>
+Ouais, de toute façon, on se fout de votre boîte à la noix. Au revoir !<end>
 
 =>q14_original
 Hmm, I see. You seem to be in luck, $(#sir/ma'am). We do have a position available. Please, if you'd like, talk to Mister Joseph Harlan. He's in the office right next to this one, down the hallway, first door to the left. 
@@ -90,9 +90,9 @@ Hmm, I see. You seem to be in luck, $(#sir/ma'am). We do have a position availab
 Oh, and before you go: I also need to inform you that the upper floor is off limits to all nonemployees. Thank you.<end>
 
 =>q14
-Je vois. Vous semblez chanceuse, $(#monsieur/madame). Nous avons une position disponible. S'il vous plaît, parlez à Monsieur Joseph Harlan. Il est dans le bureau juste à côté de celui-ci, dans le couloir, première porte à gauche.
+Je vois. Vous tombez bien, $(#monsieur/madame). Nous avons un poste. Si vous voulez, parlez à monsieur Joseph Harlan. Son bureau est juste à côté, au fond du couloir, première porte à gauche.
 
-Et avant de partir, je dois aussi vous informer que l'étage supérieur est interdit à tous les non-employés. Je vous remercie.<end>
+Et avant de partir : l'étage supérieur est interdit à tous les non-employés. Merci.<end>
 
 =>a15_original
 Thank you, I'll go see him.<end>
@@ -110,61 +110,61 @@ J'avais d'autres questions.<end>
 Feel free to ask me anything.<end>
 
 =>q17
-N'hésitez pas à me demander quoi que ce soit.<end>
+N'hésitez pas, je vous écoute.<end>
 
 =>a18_original
 I'm sorry, but this isn't for me. Can we discuss something else?<end>
 
 =>a18
-Désolé, mais ce n'est pas pour moi. On peut discuter d'autre chose ?<end>
+Désolé, mais ce n'est pas pour moi. On peut parler d'autre chose ?<end>
 
 =>a19_original
 ::[Chemistry]:: I'm a self-taught chemist.<end>
 
 =>a19
-::[Chemistry]:: Je suis un chimiste autodidacte.<end>
+::[Chemistry]:: Je suis chimiste autodidacte.<end>
 
 =>q20_original
 We are in need of someone who is an *expert* in organic chemistry. But we might have something else available. <end>
 
 =>q20
-Nous avons besoin de quelqu'un qui est *expert* en chimie organique. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+Nous cherchons un *expert* en chimie organique. Mais nous aurions peut-être autre chose. <end>
 
 =>a21_original
 ::[Guns]:: If by "ballistics" you mean someone that can shoot a gun, then I'm your $(#man/woman)!<end>
 
 =>a21
-::[Guns]:: Si par "ballistique" vous voulez dire quelqu'un qui peut tirer sur une arme, alors je suis votre $(#man/woman) !<end>
+::[Guns]:: Si par « balistique » vous entendez quelqu'un qui sait tirer, alors je suis votre $(#homme/femme) !<end>
 
 =>q22_original
 Well, I'm afraid not. We are in need of a ballistics *expert*. But we might have something else available. <end>
 
 =>q22
-J'en ai bien peur. Nous avons besoin d'un *expert* balistique. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+J'ai bien peur que non. Nous avons besoin d'un *expert* en balistique. Mais nous aurions peut-être autre chose. <end>
 
 =>a23_original
 ::[Heavy Guns]:: I shoot big guns. Really big guns.<end>
 
 =>a23
-::[Guns lourds]:: Je tire sur de grosses armes. Vraiment de grandes armes.<end>
+::[Heavy Guns]:: Je tire au gros calibre. Vraiment gros.<end>
 
 =>q24_original
 That's very good, but we're not in need of... that at the moment. But we might have something else available. <end>
 
 =>q24
-C'est très bien, mais on n'a pas besoin de ça pour le moment. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+C'est très bien, mais on n'a pas besoin de... ça, pour le moment. Mais nous aurions peut-être autre chose. <end>
 
 =>a25_original
 ::[Crossbows]:: As a proficient crossbow user, I think I know a thing or two about ballistics.<end>
 
 =>a25
-::[Crosses]:: En tant qu'utilisateur compétent d'arbustes, je pense savoir quelque chose ou deux sur la balistique.<end>
+::[Crossbows]:: En tant qu'arbalétrier, je m'y connais un peu en balistique.<end>
 
 =>a26_original
 ::[Tailoring]:: How about a tailor? I can design and make you wonderful lab coats or security uniforms. Imagine: $(context.player.Name)'s Coreware - clothing of the future, today.<end>
 
 =>a26
-::[Tailant]:: Un tailleur ? Je peux concevoir et faire des manteaux de labo merveilleux ou des uniformes de sécurité. Imaginez : Coreware $(context.player.Name) - vêtements du futur, aujourd'hui.<end>
+::[Tailoring]:: Un tailleur, ça vous dit ? Je peux vous concevoir de superbes blouses de labo ou des uniformes de sécu. Imaginez : Coreware $(context.player.Name) - les vêtements du futur, aujourd'hui.<end>
 
 =>q27_original
 ::Her response comes after a slight delay.:: 
@@ -172,85 +172,84 @@ C'est très bien, mais on n'a pas besoin de ça pour le moment. Mais nous pourri
 Ehm... We don't have an open position for that. But we might have something else available. <end>
 
 =>q27
-::Sa réponse intervient après un léger retard.::
+::Sa réponse met un petit moment à venir.::
 
-C'est... Nous n'avons pas de position ouverte pour ça. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+Euh... Nous n'avons pas de poste ouvert pour ça. Mais nous aurions peut-être autre chose. <end>
 
 =>a28_original
 ::[Mechanics]:: I suppose you aren't looking for a mechanical engineer or anything similar?<end>
 
 =>a28
-::[Mechanics]:: Je suppose que vous n'êtes pas à la recherche d'un ingénieur mécanique ou quelque chose de similaire?<end>
+::[Mechanics]:: Je suppose que vous ne cherchez pas un ingénieur mécanique, ou un profil du genre ?<end>
 
 =>q29_original
 I'm afraid not. Not at the moment, at least. But we might have something else available. <end>
 
 =>q29
-Je n'en ai pas peur. Pas pour le moment, du moins. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+J'ai bien peur que non. Pas pour le moment, en tout cas. Mais nous aurions peut-être autre chose. <end>
 
 =>a30_original
 ::[Biology]:: You don't work with living creatures much, do you?<end>
 
 =>a30
-::[Biology]:: Tu ne travailles pas beaucoup avec des créatures vivantes, n'est-ce pas ?<end>
+::[Biology]:: Vous ne travaillez pas beaucoup avec le vivant, si ?<end>
 
 =>q31_original
 If by that you mean: "Do we have an open position for a biologist?", then the answer is no, I'm afraid. But we might have something else available. <end>
 
 =>q31
-Si par cela vous voulez dire : « Avons-nous un poste ouvert pour un biologiste ? », alors la réponse est non, j'ai peur. Mais nous pourrions avoir quelque chose d'autre disponible. <end>
+Si par là vous voulez dire : « Avez-vous un poste ouvert pour un biologiste ? », alors la réponse est non, j'ai bien peur. Mais nous aurions peut-être autre chose. <end>
 
 =>a32_original
 ::[Hacking]:: Need someone who's good with computers?<end>
 
 =>a32
-::[Frappe]:: Besoin de quelqu'un qui est bon avec les ordinateurs ?<end>
+::[Hacking]:: Vous cherchez quelqu'un de doué avec les ordis ?<end>
 
 =>a33_original
 Yes, qualifications. Is there any other kind of work I could do here?<end>
 
 =>a33
-Oui, des qualifications. Y a-t-il un autre genre de travail que je pourrais faire ici ?<end>
+Oui, les qualifications. Il y a un autre type de travail que je pourrais faire ici ?<end>
 
 =>q34_original
 Well, we might have something available. <end>
 
 =>q34
-On a peut-être quelque chose de disponible. <end>
+Nous aurions peut-être quelque chose. <end>
 
 =>a35_original
 I don't think I have the right qualifications. I've got other questions for you, though.<end>
 
 =>a35
-Je ne pense pas avoir les bonnes qualifications. J'ai d'autres questions pour toi.<end>
+Je ne pense pas avoir les bonnes qualifications. J'ai d'autres questions, par contre.<end>
 
 =>a36_original
 What can you tell me about Coretech?<end>
 
 =>a36
-Que pouvez-vous me dire sur Coretech ?<end>
+Que pouvez-vous me dire sur Coretech ?<end>
 
 =>q37_original
 Coretech is the primary technology research, manufacturing and application company in Core City. Being a successor to the great Biocorp, Coretech employs some of the brightest minds in solving difficult problems of today.<end>
 
 =>q37
-Coretech est la principale société de recherche, de fabrication et d'application en technologie dans Core City. Comme successeur du grand Biocorp, Coretech emploie certains des esprits les plus brillants pour résoudre des problèmes difficiles d'aujourd'hui.<end>
+Coretech est la principale société de recherche, fabrication et application technologique de Core City. Successeur du grand Biocorp, Coretech emploie certains des meilleurs esprits pour résoudre les problèmes d'aujourd'hui.<end>
 
 =>q38_original
 Coretech's desire to create a better future for everyone through technological advancement remains unmatched.<end>
 
 =>q38
-Le désir de Coretech de créer un avenir meilleur pour tous grâce au progrès technologique reste inégalé.<end>
+La volonté de Coretech de bâtir un avenir meilleur pour tous, par le progrès technique, reste sans égale.<end>
 
 =>a39_original
 I'll be going now.<end>
 
 =>a39
-Je vais y aller maintenant.<end>
+Je m'en vais.<end>
 
 =>q40_original
 Welcome back, $(#sir/ma'am). How may I help you?<end>
 
 =>q40
-Bienvenue, $(#monsieur/madame). Comment puis-je vous aider ?<end>
-
+Bienvenue, $(#monsieur/madame). Que puis-je faire pour vous ?<end>

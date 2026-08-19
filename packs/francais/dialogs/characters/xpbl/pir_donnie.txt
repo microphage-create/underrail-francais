@@ -8,13 +8,13 @@ On est attaqués !<end>
 Yo. Got them shinies?<end>
 
 =>q2
-Oui. Vous les avez ?<end>
+Yo. T'as les brillants ?<end>
 
 =>a3_original
 ::Enter the game with twenty charons.:: Let's play some strippage!<end>
 
 =>a3
-::Entrez dans le jeu avec vingt charons.:: Jouons au strip-tease !<end>
+::Entrer dans la partie avec vingt charons.:: On se fait une partie de strippage !<end>
 
 =>q4_original
 Alright. Now, help Senda move that table over there and...<end>
@@ -26,7 +26,7 @@ Très bien. Aide Senda à déplacer cette table et...<end>
 ::Play strippage.::<end>
 
 =>a5
-::Jouez au strippage.::<end>
+::Jouer au strippage.::<end>
 
 =>a6_original
 I changed my mind. I need ya back at the shop.<end>
@@ -50,7 +50,7 @@ Ya wouldn't mind waitin' on me for a bit longer? <end>
 I'll be back at the shop before ya know it. We alright? We good? Atta $(#boy/girl).<end>
 
 =>q9
-Je reviens au magasin avant que tu le saches. Ça va ? Ça va ? Atta $(#boy/girl).<end>
+Je suis de retour à la boutique avant que tu t'en rendes compte. On est bons ? On est bons ? Atta $(#gars/fille).<end>
 
 =>q10_original
 Oh, alright.<end>
@@ -62,19 +62,19 @@ Oh, très bien.<end>
 Sorry, ladies, but Donnie's gotta jet away. But I'll catch ya later, alright? Atta girls, yea.<end>
 
 =>q11
-Désolé, mesdames, mais Donnie doit partir. Mais je te rejoins plus tard. Les filles bien, oui.<end>
+Désolé, mesdames, mais Donnie doit jeter. Je vous rattrape plus tard, d'accord ? Atta les filles, ouais.<end>
 
 =>q12_original
 Alright, $(#banga/sweet), follow me.<end>
 
 =>q12
-Très bien, $(#banga/sweet), suivez-moi.<end>
+Ça marche, $(#banga/chérie), suis-moi.<end>
 
 =>a13_original
 ::Follow Donnie to his shop.::<end>
 
 =>a13
-::Suivez Donnie à sa boutique.::<end>
+::Suivre Donnie jusqu'à sa boutique.::<end>
 
 =>a14_original
 Not yet. Will be back soon.<end>
@@ -86,7 +86,7 @@ Pas encore. Je reviens bientôt.<end>
 We're waitin', $(#banga/sweet).<end>
 
 =>q15
-Nous attendons, $(#banga/sweet).<end>
+On attend, $(#banga/chérie).<end>
 
 =>q16_original
 Now, Senda baby, eh... how 'bout ya move that table right over there, yea. And, and, and if you, Chalice dear, if *you* could lift that--<end>
@@ -102,7 +102,7 @@ H-hey. Ya that new $(#banga/girl). The... eh... yea! Pleased to meet ya! I'm Don
 =>q17
 ::Et puis il vous remarque.::
 
-- Oui. Oui, le nouveau $(#banga/girl). Le... eh... oui ! Ravi de vous rencontrer ! Je suis Donnie Merchant - le marchand - et ceux-ci sont Senda, Chalice et Ruth. <end>
+H-hé. T'es c'nouveau $(#banga/fille). Le... eh... ouais ! Enchanté ! Moi c'est Donnie Merchant - le marchand - et celles-là c'est Senda, Chalice et Ruth. <end>
 
 =>q18_original
 Us Jetters got only the *finest* ladies 'ere. Am I right, eh, sweet, am I right?<end>
@@ -126,7 +126,7 @@ Salut, chérie.<end>
 ::[Persuade]:: It's an emergency. We're about to go on a raid and I need some gear fast. I need *you*, man.<end>
 
 =>a21
-::[Persuader]:: C'est une urgence. On va faire un raid et j'ai besoin de vitesse. J'ai besoin de toi, mec.<end>
+::[Persuade]:: C'est une urgence. On va faire un raid et j'ai besoin de vitesse. J'ai besoin de toi, mec.<end>
 
 =>q22_original
 <end>
@@ -270,7 +270,7 @@ Très bien.<end>
 Atta $(#boy/girl).<end>
 
 =>q45
-Atta $(#boy/girl).<end>
+Atta $(#gars/fille).<end>
 
 =>a46_original
 No.<end>
@@ -498,7 +498,7 @@ Devine qui a battu D' Flinger à un jeu de lancer de couteau.<end>
 You're kiddin' me, $(#banga/sweet)? You're seriously jettin' kiddin' me?<end>
 
 =>q81
-Vous me kidnappez, $(#banga/sweet) ? Tu te moques sérieusement de moi ?<end>
+Tu te fous de moi, $(#banga/chérie) ? Tu te fous de moi pour de vrai ?<end>
 
 =>a82_original
 Nope.<end>
@@ -522,7 +522,7 @@ Je suppose que tout le monde va le savoir.<end>
 It's a massive deal, $(#banga/sweet). Ya beat D' Flinger! Ha-ha, atta $(#boy/girl)! Now you're D' Flinger, technically speakin', and D' Flinger is... A Flinger?<end>
 
 =>q85
-C'est une affaire énorme, $(#banga/sweet). Tu as battu D' Flinger ! Ha-ha, atta $(#boy/girl) ! Maintenant vous êtes D' Flinger, techniquement parlant, et D' Flinger est... un Flinger ?<end>
+C'est énorme, $(#banga/chérie). T'as battu D' Flinger ! Ha-ha, atta $(#gars/fille) ! Maintenant t'es D' Flinger, techniquement, et D' Flinger c'est... un Flinger ?<end>
 
 =>a86_original
 I'm happy with the name I already have, thank you.<end>
@@ -1714,7 +1714,7 @@ Northern security contractors. Protectorate veterans, most of them, at least. Al
 However... the Scalers have *numbers* and, and lack fear. Now that they've started attackin' them, they're bound to send 'em under eventually unless they pack their bags.<end>
 
 =>q276
-Entrepreneurs de la sécurité du Nord. Protectorate vétérans, la plupart, au moins. Tous hautement entraînés et bien équipés. Ne pas être jeté avec, $(#banga/sweet), non, non, ne pas être jeté avec.
+Contractuels de sécu du Nord. Des vétérans du Protectorate, la plupart, en tout cas. Tous bien formés, bien équipés. On joue pas avec, $(#banga/chérie), non, non, on joue pas avec.
 
 Cependant... les Scalers ont *nombres* et, et manquent de peur. Maintenant qu'ils ont commencé à les attaquer, ils sont tenus de les envoyer sous leurs sacs.<end>
 
@@ -1746,7 +1746,7 @@ Que pouvez-vous me dire sur le territoire de Scaler ?<end>
 We don't go there, $(#banga/sweet). ::He shakes his head.:: Whatcha see is whatcha... see, ha-ha. The Ferryman's the only guy I know of that sails there *without* gettin' 'is head impaled on a spear. He doesn't talk much about what he's seen, but he does bring fur from there. The stuff the Scalers wear. Some of the mates have seen herds of these big, chest-high horned beasts covered in the same thick fur, weighin' a ton they do. How the Ferryman gets it I ain't sure, but the only way I can think if is through trade.<end>
 
 =>q281
-On n'y va pas, $(#banga/sweet). ::Il secoue la tête.:: Ce que tu vois, c'est ce que tu... vois, ha-ha. Le Ferryman est le seul homme que je connaisse à naviguer là-bas *sans * obtenir 'est la tête empalée sur une lance. Il ne parle pas beaucoup de ce qu'il a vu, mais il apporte de la fourrure de là. Les trucs que portent les Scalers. Certains des compagnons ont vu des troupeaux de ces grosses bêtes cornées à la poitrine recouvertes de la même fourrure épaisse, pesant une tonne qu'ils font. Comment le Ferryman l'obtient je ne suis pas sûr, mais la seule façon de penser si c'est par le commerce.<end>
+On n'y va pas, $(#banga/chérie). ::Il secoue la tête.:: C'que tu vois, c'est c'que tu... vois, ha-ha. Le Ferryman, c'est le seul que je connaisse qui navigue là-bas *sans* se faire empaler la tête sur une lance. Il cause pas beaucoup de c'qu'il a vu, mais il ramène de la fourrure de là-bas. Le truc que portent les Scalers. Y'a des mates qui ont vu des troupeaux de ces grosses bêtes cornées, hauteur de poitrine, la même fourrure épaisse, une tonne le morceau. Comment le Ferryman l'a, j'suis pas sûr, mais la seule façon que je vois, c'est le troc.<end>
 
 =>q282_original
 But, but, now that you've asked... I remember a little somethin' Bleedin' Boil Jim told me a few years ago and just before 'is disease got the better of 'im.<end>
@@ -1864,7 +1864,7 @@ Est. Juste à l'est.<end>
 Don't be a clod, $(#banga/sweet). If you're goin' there, go prepared.<end>
 
 =>q300
-Ne sois pas un clode, $(#banga/sweet). Si vous y allez, préparez-vous.<end>
+Fais pas l'andouille, $(#banga/chérie). Si tu y vas, vas-y préparé.<end>
 
 =>a301_original
 I'm interested in Lower Underrail waterway hydrography. Can you give me a run-down of all the lakes and rivers.<end>
@@ -2392,7 +2392,7 @@ Atta, $(#boy/girl)! We, we, we're swimmin' in sweet Protectorate loot.
 Wanna... check it out, ay?<end>
 
 =>q385
-Atta, $(#boy/girl) ! Nous, on nage dans le doux butin Protectorate.
+Atta, $(#gars/fille) ! Nous, on nage dans le doux butin Protectorate.
 
 Tu veux... vérifier, ay ?<end>
 

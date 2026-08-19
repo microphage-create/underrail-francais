@@ -20,10 +20,10 @@ Chances d'éviter la mêlée.
 Chances d'éviter les tirs. Réduit aussi les dégâts d'AoE.
 
 ::Fortitude
-Résiste aux debuffs physiques directs (stun, incapacité…). Monte aussi la résist poison.
+Résiste aux debuffs physiques directs (étourdissement, incapacité…). Monte aussi la résist poison.
 
 ::Resolve
-Résiste aux debuffs mentaux (stun / incapacité psy) et atténue certains psi qui tapent l'esprit.
+Résiste aux debuffs mentaux (étourdissement / incapacité psy) et atténue certains psi qui tapent l'esprit.
 
 ::ToGetWeaponCritChanceMod
 Modifie tes chances de te prendre un crit d'arme ou de mains nues.
@@ -32,7 +32,7 @@ Modifie tes chances de te prendre un crit d'arme ou de mains nues.
 Modifie tes chances de te prendre un crit psi.
 
 ::ArmorPenalty
-Malus sur esquive, évitement, furtivité et PM.
+Malus sur Dodge, Evasion, Stealth et PM.
 
 ::ShieldCapacity
 Dégâts max absorbables par le bouclier à pleine charge.
@@ -88,10 +88,10 @@ Qualité de déplacement furtif. Plus ton rating est haut face à la détection 
 Vitesse pour repérer les personnages cachés.
 
 ::TrapDetection
-Qualité de détection des pièges (dérivée de détection + skill Pièges).
+Qualité de détection des pièges (dérivée de détection + Traps).
 
 ::WeaponDamage
-Fourchette de dégâts de l'attaque normale. Inclut skill et force (mêlée) seulement.
+Fourchette de dégâts de l'attaque normale. Inclut skill et Strength (mêlée) seulement.
 
 ::WeaponActionPointCost
 PA pour une attaque normale avec l'arme actuelle.
@@ -115,52 +115,52 @@ Portée max de l'arme.
 Portée optimale. Au-delà, la précision chute plus vite.
 
 ::MetathermicsSkill
-Skill effectif pour les psi métathermiques.
+Skill effectif pour Metathermics.
 
 ::MetathermicsCritChance
-Taux de crit (métathermiques).
+Taux de crit (Metathermics).
 
 ::MetathermicsCritBonus
-Bonus de dégâts sur crit métathermique.
+Bonus de dégâts sur crit Metathermics.
 
 ::MetathermicsPsiCost
-Mod. de coût psi de base (métathermiques).
+Mod. de coût psi de base (Metathermics).
 
 ::PsychokinesisSkill
-Skill effectif pour les psi psychokinétiques.
+Skill effectif pour Psychokinesis.
 
 ::PsychokinesisCritChance
-Taux de crit (psychokinèse).
+Taux de crit (Psychokinesis).
 
 ::PsychokinesisCritBonus
-Bonus de dégâts sur crit psychokinétique.
+Bonus de dégâts sur crit Psychokinesis.
 
 ::PsychokinesisPsiCost
-Mod. de coût psi de base (psychokinèse).
+Mod. de coût psi de base (Psychokinesis).
 
 ::ThoughtControlSkill
-Skill effectif pour le contrôle mental.
+Skill effectif pour Thought Control.
 
 ::ThoughtControlCritChance
-Taux de crit (contrôle mental).
+Taux de crit (Thought Control).
 
 ::ThoughtControlCritBonus
-Bonus de dégâts sur crit contrôle mental.
+Bonus de dégâts sur crit Thought Control.
 
 ::ThoughtControlPsiCost
-Mod. de coût psi de base (contrôle mental).
+Mod. de coût psi de base (Thought Control).
 
 ::TemporalManipulationSkill
-Skill effectif pour la manipulation temporelle.
+Skill effectif pour Temporal Manipulation.
 
 ::TemporalManipulationCritChance
-Taux de crit (temporel).
+Taux de crit (Temporal Manipulation).
 
 ::TemporalManipulationCritBonus
-Bonus de dégâts sur crit temporel.
+Bonus de dégâts sur crit Temporal Manipulation.
 
 ::TemporalManipulationPsiCost
-Mod. de coût psi de base (temporel).
+Mod. de coût psi de base (Temporal Manipulation).
 
 ::SpecialAttackBonusDamage
 Boost des dégâts des attaques spéciales d'arme / mains nues (pas les spéciales « gratuites »).

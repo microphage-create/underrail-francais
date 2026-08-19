@@ -2,49 +2,49 @@
 ::You can sense his mind's eye fall upon you with hostile intentions.::<end>
 
 =>q1
-::Vous pouvez sentir son esprit se poser sur vous avec des intentions hostiles.::<end>
+::Vous sentez son œil mental se poser sur vous, chargé d'intentions hostiles.::<end>
 
 =>a2_original
 ::Fight!::<end>
 
 =>a2
-::Lutte!::<end>
+::Combattre::<end>
 
 =>q3_original
 ::The metal hand grips your forehead and your thoughts begin to swirl in your brain. It's like someone put your mind on fast-forward, except that the thoughts are not moving in sequence, but instead your brain is jumping from one to another, seemingly randomly. They switch so fast you can barely make out what they are.::<end>
 
 =>q3
-::La main métallique saisit votre front et vos pensées commencent à tourbillonner dans votre cerveau. C'est comme si quelqu'un vous faisait avancer rapidement, sauf que les pensées ne bougent pas dans l'ordre, mais que votre cerveau passe de l'une à l'autre, apparemment au hasard. Ils changent si vite que vous pouvez à peine les distinguer.::<end>
+::La main de métal se referme sur votre front, et vos pensées se mettent à tourbillonner. Comme si quelqu'un avait lancé votre esprit en avance rapide, sauf que rien ne défile dans l'ordre : le cerveau saute d'une pensée à l'autre, au hasard. Ça bascule trop vite pour que vous puissiez seulement les saisir.::<end>
 
 =>q4_original
 ::[Thought Control] Thanks to your training, you manage to compose yourself somewhat. The Faceless seem to be searching your memory for an item of great importance, but you cannot tell what it is. You feel the urgency of his quest.::<end>
 
 =>q4
-::[Contrôle de la pensée] Grâce à votre entraînement, vous parvenez à vous ressaisir quelque peu. Les Sans-Visage semblent chercher dans votre mémoire un objet de grande importance, mais vous ne pouvez pas dire de quoi il s'agit. On ressent l'urgence de sa quête.::<end>
+::[Thought Control] Grâce à votre entraînement, vous parvenez à vous ressaisir un peu. Les Faceless fouillent votre mémoire à la recherche d'un objet d'une importance capitale, mais vous n'arrivez pas à dire lequel. Vous sentez l'urgence de sa quête.::<end>
 
 =>q5_original
 ::[Thought Control] As he continues to search you, you let more of his thoughts flood in. You find out that his group is just one of many that have been dispatched across South Underrail in search of this item.::<end>
 
 =>q5
-::[Contrôle de la pensée] Alors qu'il continue de vous fouiller, vous laissez davantage de pensées vous envahir. Vous découvrez que son groupe n'est que l'un des nombreux groupes qui ont été envoyés à travers South Underrail à la recherche de cet objet.::<end>
+::[Thought Control] Tandis qu'il continue de vous fouiller, vous laissez davantage de ses pensées affluer. Vous comprenez que son groupe n'est qu'un parmi tant d'autres, envoyés à travers le South Underrail à la recherche de cet objet.::<end>
 
 =>q6_original
 ::After a while it stops and the metal hand releases you. For a moment you stand there confused but pull yourself together quickly.::<end>
 
 =>q6
-::Au bout d'un moment, il s'arrête et la main métallique vous libère. Pendant un moment, vous restez là, confus, mais vous vous ressaisissez rapidement.::<end>
+::Au bout d'un moment, ça s'arrête. La main de métal vous lâche. Un instant, la tête à l'envers, puis vous vous ressaisissez.::<end>
 
 =>q7_original
 Thank you for cooperating, $(context.player.Name). We will be leaving now.<end>
 
 =>q7
-Merci de votre coopération, $(context.player.Name). Nous allons partir maintenant.<end>
+Merci de votre coopération, $(context.player.Name). Nous partons maintenant.<end>
 
 =>q8_original
  But before we leave, I'm afraid we must deal with our unwilling host.<end>
 
 =>q8
- Mais avant de partir, j'ai bien peur que nous devions nous occuper de notre hôte réticent.<end>
+ Mais avant de partir, je crains que nous devions nous occuper de notre hôte récalcitrant.<end>
 
 =>q9_original
 <end>
@@ -56,37 +56,37 @@ Merci de votre coopération, $(context.player.Name). Nous allons partir maintena
 Wait... if I'm not mistaken you came here looking for something but did not find it?<end>
 
 =>a10
-Attendez... si je ne me trompe pas, vous êtes venu ici pour chercher quelque chose mais vous ne l'avez pas trouvé ?<end>
+Attendez... si je ne me trompe pas, vous êtes venus chercher quelque chose, et vous ne l'avez pas trouvé ?<end>
 
 =>q11_original
 We know you spoke to us before. But that does not change the fact that this person must die.<end>
 
 =>q11
-Nous savons que vous nous avez déjà parlé. Mais cela ne change rien au fait que cette personne doit mourir.<end>
+Nous savons que vous nous avez déjà parlé. Ça ne change rien : cette personne doit mourir.<end>
 
 =>a12_original
 Look, while I did tell you guys where to look for the item, you still haven't found it, or else you wouldn't be here. This man might still prove useful to your investigation.<end>
 
 =>a12
-Écoutez, même si je vous ai dit où chercher l'objet, vous ne l'avez toujours pas trouvé, sinon vous ne seriez pas là. Cet homme pourrait encore s'avérer utile à votre enquête.<end>
+Écoutez. Je vous ai dit où chercher l'objet, et vous ne l'avez toujours pas, sinon vous ne seriez pas là. Cet homme peut encore servir à votre enquête.<end>
 
 =>q13_original
 ::He pauses for a moment.:: This is true. Though leaving him alive is risky, we will take this chance. Should it come to pass that this was a bad decision, we will return to correct it.<end>
 
 =>q13
-::Il fait une pause un instant.:: C'est vrai. Même si le laisser en vie est risqué, nous saisirons cette chance. S'il s'avère que c'est une mauvaise décision, nous reviendrons pour la corriger.<end>
+::Il s'arrête un instant.:: C'est vrai. Le laisser en vie est un risque. Nous le prendrons. Si cette décision s'avérait mauvaise, nous reviendrons la corriger.<end>
 
 =>a14_original
 ::End Dialog::<end>
 
 =>a14
-::Fin de la boîte de dialogue::<end>
+::Partir::<end>
 
 =>a15_original
 ::[Persuade]:: Perhaps leaving him alive can increase your chances of finding the item in the future. Surely you are cutting off one avenue of investigation by killing him.<end>
 
 =>a15
-::[Persuader]:: Peut-être que le laisser en vie peut augmenter vos chances de retrouver l'objet à l'avenir. Vous coupez sûrement une piste d’enquête en le tuant.<end>
+::[Persuade]:: Le laisser en vie peut encore vous servir, plus tard, pour retrouver l'objet. En le tuant, vous vous fermez une piste.<end>
 
 =>q16_original
 <end>
@@ -104,167 +104,167 @@ Ce n'est pas acceptable.<end>
 Look...<end>
 
 =>a18
-Regarder...<end>
+Écoutez...<end>
 
 =>q19_original
 What is it?<end>
 
 =>q19
-Qu'est-ce que c'est?<end>
+Qu'y a-t-il ?<end>
 
 =>q20_original
 This is none of your concern.<end>
 
 =>q20
-Cela ne vous regarde pas.<end>
+Ça ne vous regarde pas.<end>
 
 =>a21_original
 ::[Persuade]:: Perhaps leaving him alive can increase your chances of finding it in the future. Surely you are cutting off one avenue of investigation by killing him.<end>
 
 =>a21
-::[Persuader]:: Peut-être que le laisser en vie peut augmenter vos chances de le retrouver à l'avenir. Vous coupez sûrement une piste d’enquête en le tuant.<end>
+::[Persuade]:: Le laisser en vie peut encore vous servir, plus tard, pour le retrouver. En le tuant, vous vous fermez une piste.<end>
 
 =>a22_original
 ::[Intimidate]:: I cannot allow you to kill Buzzer.<end>
 
 =>a22
-::[Intimider]:: Je ne peux pas vous permettre de tuer Buzzer.<end>
+::[Intimidate]:: Je ne peux pas vous laisser tuer Buzzer.<end>
 
 =>q23_original
 Then you must die as well. <end>
 
 =>q23
-Alors vous devez mourir aussi. <end>
+Alors vous mourrez aussi. <end>
 
 =>q24_original
 ::As his voice retreats from your mind, you can feel a rush of hostile thoughts.::<end>
 
 =>q24
-::Alors que sa voix s'éloigne de votre esprit, vous pouvez ressentir une vague de pensées hostiles.::<end>
+::Sa voix se retire de votre esprit. Une vague de pensées hostiles déferle.::<end>
 
 =>a25_original
 ::Fight!::<end>
 
 =>a25
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a26_original
 What will happen to Buzzer?<end>
 
 =>a26
-Qu'arrivera-t-il à Buzzer ?<end>
+Qu'est-ce qui va arriver à Buzzer ?<end>
 
 =>q27_original
 I'm afraid he must die.<end>
 
 =>q27
-J'ai peur qu'il doive mourir.<end>
+Je crains qu'il doive mourir.<end>
 
 =>a28_original
 Why?<end>
 
 =>a28
-Pourquoi?<end>
+Pourquoi ?<end>
 
 =>q29_original
 I may not answer that.<end>
 
 =>q29
-Je ne peux pas répondre à cela.<end>
+Je ne puis répondre.<end>
 
 =>a30_original
 Not so fast, buddy. ::Attack!::<end>
 
 =>a30
-Pas si vite, mon pote. ::Attaque!::<end>
+Pas si vite. ::Attaquer.::<end>
 
 =>a31_original
 I can't let you to do this, freak! ::Attack!::<end>
 
 =>a31
-Je ne peux pas te laisser faire ça, monstre ! ::Attaque!::<end>
+Je peux pas vous laisser faire ça, monstre. ::Attaquer.::<end>
 
 =>a32_original
 I understand. ::Let them wrap up their business and be on their way.::<end>
 
 =>a32
-Je comprends. ::Laissez-les conclure leurs affaires et partir.::<end>
+Je comprends. ::Les laisser terminer et partir.::<end>
 
 =>q33_original
 ::As he continues, it becomes much harder to focus your mind on his thoughts and you feel dizzy from mental exhaustion.::<end>
 
 =>q33
-::Au fur et à mesure qu’il continue, il devient beaucoup plus difficile de concentrer votre esprit sur ses pensées et vous vous sentez étourdi par l’épuisement mental.::<end>
+::Plus il continue, plus il devient difficile de coller à ses pensées. La tête tourne, vidée.::<end>
 
 =>q34_original
 ::You can sense his mind's eye fall upon you. For a moment it's as if he's about to attack, but his curiosity stops him.::<end>
 
 =>q34
-::Vous pouvez sentir que son esprit se tourne vers vous. Pendant un instant, c'est comme s'il était sur le point d'attaquer, mais sa curiosité l'arrête.::<end>
+::Vous sentez son œil mental se poser sur vous. Un instant, on dirait qu'il va attaquer. La curiosité le retient.::<end>
 
 =>q35_original
 ::You hear an echoing voice in the back of your head. The words sound familiar, but you cannot make them out; it's as if it speaks in a language you once knew but had forgotten.::<end>
 
 =>q35
-::Vous entendez une voix qui résonne à l'arrière de votre tête. Les mots semblent familiers, mais vous ne pouvez pas les distinguer ; c'est comme s'il parlait dans une langue que vous connaissiez autrefois mais que vous aviez oubliée.::<end>
+::Une voix résonne au fond de votre crâne. Les mots sonnent familiers, mais vous n'arrivez pas à les saisir. Comme une langue que vous avez connue, et oubliée.::<end>
 
 =>q36_original
 ::As the voice gets louder, it starts making sense.:: Sss.. sub-sub-sub...Ssssubmit...<end>
 
 =>q36
-::À mesure que la voix devient plus forte, elle commence à avoir un sens.:: Sss.. sous-sous-sous...Sssoumettre...<end>
+::La voix monte. Ça commence à vouloir dire quelque chose.:: Sss.. sou-sou-sou... Sssoumettez-vous...<end>
 
 =>a37_original
 ::Allow his excursion into your mind to continue.::<end>
 
 =>a37
-::Permettez à son excursion dans votre esprit de continuer.::<end>
+::Laisser l'intrusion se poursuivre.::<end>
 
 =>q38_original
 ...Submit... to the questioning...<end>
 
 =>q38
-...Se soumettre... à l'interrogatoire...<end>
+...Soumettez-vous... à l'interrogatoire...<end>
 
 =>q39_original
 ...Submit to the questioning or we shall resolve this in combat. ::The voice speaks fluently now.::<end>
 
 =>q39
-... Soumettez-vous à l'interrogatoire ou nous résoudrons cela au combat. ::La voix parle couramment maintenant.::<end>
+...Soumettez-vous à l'interrogatoire, ou nous réglerons ça au combat. ::La voix est fluide, maintenant.::<end>
 
 =>a40_original
 What would you like to know?<end>
 
 =>a40
-Qu'aimeriez-vous savoir ?<end>
+Que voulez-vous savoir ?<end>
 
 =>q41_original
 Everything... ::The mechanical grappling arm protruding from his helmet starts moving.:: I will look into your thoughts and extract the answers to my questions. The process is painless and after this we will depart and leave you unharmed.<end>
 
 =>q41
-Tout... ::Le bras de grappin mécanique dépassant de son casque se met à bouger.:: Je vais examiner vos réflexions et extraire les réponses à mes questions. Le processus est indolore et après cela, nous partirons et vous laisserons indemnes.<end>
+Tout... ::Le bras mécanique qui dépasse de son casque se met en mouvement.:: Je vais entrer dans vos pensées et extraire les réponses à mes questions. Le processus est indolore. Ensuite, nous partirons, et nous vous laisserons indemne.<end>
 
 =>a42_original
 Very well. ::Allow him to inspect your head.::<end>
 
 =>a42
-Très bien. ::Permettez-lui d’inspecter votre tête.::<end>
+Très bien. ::Le laisser inspecter votre tête.::<end>
 
 =>a43_original
 No way, you're not touching my mind with that dirty claw.<end>
 
 =>a43
-Pas question, tu ne touches pas mon esprit avec cette sale griffe.<end>
+Pas question. Vous touchez pas à mon esprit avec cette griffe crasseuse.<end>
 
 =>a44_original
 ::Attack!::<end>
 
 =>a44
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a45_original
 ::Attack!::<end>
 
 =>a45
-::Attaque!::<end>
+::Attaquer.::<end>
 

@@ -22,7 +22,7 @@
         In the coins - back the hopper to finish either first or second; first place means full payment, second place is reduced payment::<end>
 
 =>q1
-::Bienvenue à *Hopperdrome*, l'endroit pour tous vos besoins de course de trémie!
+::Bienvenue à *Hopperdrome*, l'endroit pour tous vos besoins de course de sauteur!
 
 *Troisième Sud Underrail Hop-off - derniers événements du jour*:
 - Pentapus L'acte de jonglage de Tom
@@ -39,10 +39,10 @@ $(interface xpbl hopperRacing hopper3info)
 $(interface xpbl hopperRacing hopper4info)
 ---------------------------------------------------------------------------------
 * Types d'attente*:
-Sur le nez - dos la trémie pour terminer en premier
-À la queue - derrière la trémie pour finir deuxième seulement
-Lent show - dos à la trémie pour terminer troisième seulement
-Dans les pièces - le dos de la trémie pour finir soit premier ou deuxième; la première place signifie le paiement intégral, la deuxième place est le paiement réduit::<end>
+Sur le nez - dos la sauteur pour terminer en premier
+À la queue - derrière la sauteur pour finir deuxième seulement
+Lent show - dos à la sauteur pour terminer troisième seulement
+Dans les pièces - le dos de la sauteur pour finir soit premier ou deuxième; la première place signifie le paiement intégral, la deuxième place est le paiement réduit::<end>
 
 =>a2_original
 ::Flip the leaflet.::<end>
@@ -70,7 +70,7 @@ $(interfacing_xpbl_hopperRacing_hopper4quotas)
 ::*Comment fonctionnent les paris fixes ?*: Ici au Hopperdrome nous utilisons les probabilités décimales. Ce type de cotes tient compte du fait que le parieur doit d'abord faire partie de la mise pour faire un pari. Par conséquent, les cotes décimales d'un résultat sont équivalentes à une plus la valeur décimale des cotes fractionnelles.
 Exemple : Parier à 1,01 cote signifie que pour 100 charons, le parieur gagne un charon, ou 1% du pari.
 
-Voici une liste de cotes pour chaque trémie de course, commandée par types de paris (au nez, à la queue, lent spectacle et dans les pièces, respectivement).
+Voici une liste de cotes pour chaque sauteur de course, commandée par types de paris (au nez, à la queue, lent spectacle et dans les pièces, respectivement).
 
 -------------------------------------------------
 $(interface xpbl hopperRacing hopper1quotas)

@@ -2,7 +2,7 @@
 STOP! ::Shouts at you an armed woman who is struggling to catch her breath.::<end>
 
 =>q1
-ARRÊT! ::Vous crie une femme armée qui peine à reprendre son souffle.::<end>
+HALTE ! ::Une femme armée, à bout de souffle, vous hurle.::<end>
 
 =>q2_original
 ::With her left arm placed just below her neck, she struggles to catch breath as she's clearly winded..::
@@ -10,9 +10,9 @@ ARRÊT! ::Vous crie une femme armée qui peine à reprendre son souffle.::<end>
 You... ::She coughs:: you don't belong to the group... I've been keeping an eye on, don't you?<end>
 
 =>q2
-::Avec son bras gauche placé juste en dessous de son cou, elle a du mal à reprendre son souffle car elle est clairement essoufflée.::
+::Le bras gauche coincé juste sous la gorge, elle peine à reprendre son souffle, clairement à bout.::
 
-Vous... ::Elle tousse:: vous n'appartenez pas au groupe... que je surveille, n'est-ce pas ?<end>
+Vous... ::Elle tousse.:: vous êtes pas du groupe... que je surveille, hein ?<end>
 
 =>q3_original
 <end>
@@ -30,13 +30,13 @@ Quel groupe ?<end>
 We've been scavenging these warehouses until suddenly we got cornered here by a group of maniacs trying to kill us. Since then, we've had few small skirmishes with them, but we weren't able to break out. This time though, I just saw a bunch of them on the move.<end>
 
 =>q5
-Nous avons fouillé ces entrepôts jusqu'à ce que soudainement nous nous retrouvions coincés ici par un groupe de fous qui essayaient de nous tuer. Depuis, nous avons eu quelques petites escarmouches avec eux, mais nous n'avons pas réussi à nous en sortir. Mais cette fois, j’en ai vu un groupe en mouvement.<end>
+On fouillait ces entrepôts, et d'un coup une bande de dingues nous a coincés ici. Ils veulent nous buter. Depuis, quelques accrochages, mais on a pas réussi à sortir. Là, je viens d'en voir un paquet en mouvement.<end>
 
 =>a6_original
 I could aid you.<end>
 
 =>a6
-Je pourrais t'aider.<end>
+Je pourrais vous aider.<end>
 
 =>q7_original
 ::Her partner adresses you.::
@@ -46,25 +46,25 @@ We could use any help we can get. If what Ryl was saying is true, we are about t
 =>q7
 ::Son partenaire s'adresse à vous.::
 
-Nous pourrions avoir besoin de toute l'aide que nous pouvons obtenir. Si ce que Ryl disait est vrai, nous sommes sur le point d'être attaqués par un groupe important. Je peux vous promettre que si nous nous en sortons vivants, je vous laisserai acheter quelques biens que nous avons récupérés ici et je vous donnerai la carte-clé de la réserve derrière nous. ::Il montre l'est.::<end>
+On prendra toute l'aide possible. Si Ryl a vu juste, on va se prendre un sacré groupe. Je vous promets : si on s'en sort vivants, je vous vendrai une partie de ce qu'on a récupéré ici, et je vous file la carte-clé de la réserve derrière nous. ::Il montre l'est.::<end>
 
 =>q8_original
 We've gathered all we can carry so the rest is all yours. ::Ryl nods.::<end>
 
 =>q8
-Nous avons rassemblé tout ce que nous pouvons transporter, le reste vous appartient donc. ::Ryl hoche la tête.::<end>
+On a pris tout ce qu'on peut porter, le reste est à vous. ::Ryl hoche la tête.::<end>
 
 =>a9_original
 Sounds good, I will help you.<end>
 
 =>a9
-Ça a l'air bien, je vais t'aider.<end>
+D'accord, je vous aide.<end>
 
 =>q10_original
 Get ready! ::Both of them move into defensive positions.::<end>
 
 =>q10
-Se préparer! ::Tous deux se mettent en position défensive.::<end>
+En position ! ::Tous les deux se mettent en défense.::<end>
 
 =>q11_original
 <end>
@@ -88,13 +88,13 @@ Se préparer! ::Tous deux se mettent en position défensive.::<end>
 ::Attack!::<end>
 
 =>a14
-::Attaque!::<end>
+::Attaquer !::<end>
 
 =>a15_original
 ::End Dialog.::<end>
 
 =>a15
-::Fin du dialogue.::<end>
+::Partir.::<end>
 
 =>q16_original
 <end>
@@ -112,55 +112,55 @@ Se préparer! ::Tous deux se mettent en position défensive.::<end>
 I don't care, this is your mess and you'll have to deal with it yourselves.<end>
 
 =>a18
-Je m'en fiche, c'est votre gâchis et vous devrez vous en occuper vous-mêmes.<end>
+Je m'en fiche. C'est votre bordel, débrouillez-vous.<end>
 
 =>q19_original
 Damn, I had my hopes high, we needed all the help we can get. Ryl, get ready!. ::With great concern, both of them assume their defensive positions.::<end>
 
 =>q19
-Bon sang, j’avais de grands espoirs, nous avions besoin de toute l’aide possible. Ryl, prépare-toi !. ::Avec une grande inquiétude, tous deux adoptent leurs positions défensives.::<end>
+Putain, je m'étais fait trop d'espoir. On avait besoin de toute l'aide possible. Ryl, en position ! ::Inquiets, tous les deux se mettent en défense.::<end>
 
 =>a20_original
 I'll just take it all myself! ::Attack!::<end>
 
 =>a20
-Je vais tout prendre moi-même ! ::Attaque!::<end>
+Je prends tout moi-même ! ::Attaquer !::<end>
 
 =>q21_original
 We hoped there was another way around this...<end>
 
 =>q21
-Nous espérions qu'il y avait un autre moyen de contourner ce problème...<end>
+On espérait s'en sortir autrement...<end>
 
 =>a22_original
 No, I've just climbed down here searching out the area.<end>
 
 =>a22
-Non, je suis juste descendu ici pour explorer la région.<end>
+Non, je viens de descendre explorer le coin.<end>
 
 =>q23_original
 Oh, uhh, I see. ::She breathes a sigh of relief.::<end>
 
 =>q23
-Oh, euh, je vois. ::Elle pousse un soupir de soulagement.::<end>
+Oh... euh. Je vois. ::Elle pousse un soupir de soulagement.::<end>
 
 =>a24_original
 I don't answer to anyone! ::Attack!::<end>
 
 =>a24
-Je ne réponds à personne ! ::Attaque!::<end>
+Je ne rends de comptes à personne ! ::Attaquer !::<end>
 
 =>q25_original
 HOLD IT! ::Shouts at you a man who seems to be ready for your arrival.::<end>
 
 =>q25
-TENEZ-LE ! ::Vous crie un homme qui semble prêt à votre arrivée.::<end>
+ON BOUGE PAS ! ::Un homme qui avait l'air de vous attendre vous hurle.::<end>
 
 =>q26_original
 ::His fingers are slowly twitching, eagerly awaiting for your next move.::<end>
 
 =>q26
-::Ses doigts tremblent lentement, attendant avec impatience votre prochain mouvement.::<end>
+::Ses doigts tressaillent, impatients, prêts à réagir.::<end>
 
 =>q27_original
 ::An armed woman in the rear speaks to you. She is constantly turning her head back and forth as if she's expecting someone. ::
@@ -168,7 +168,7 @@ TENEZ-LE ! ::Vous crie un homme qui semble prêt à votre arrivée.::<end>
 <end>
 
 =>q27
-::Une femme armée à l'arrière vous parle. Elle tourne constamment la tête d'avant en arrière comme si elle attendait quelqu'un.::
+::Une femme armée, à l'arrière, vous parle. Elle tourne la tête sans arrêt, comme si elle attendait quelqu'un.::
 
 <end>
 

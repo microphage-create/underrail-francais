@@ -10,15 +10,15 @@
 You... you can see me?<end>
 
 =>q2
-::Vous voyez cette personne regarder nonchalamment les autres personnes dans la cour. Il a un sourire satisfait sur son visage tout en regardant tout le monde autour de lui, et il semble également tenir son menton régulièrement relevé, comme s'il posait pour qu'un sculpteur le transfère sur un buste élaboré. Fait intéressant, il semble étonné lorsque vous vous approchez de lui et tentez d’entamer une conversation. Votre approche est accueillie par un regard perplexe, suivi par le fait qu'il regarde son corps pour une raison qui vous est inconnue. Il relève alors la tête et vous parle.::
+::Vous voyez cet homme regarder les autres dans la cour, nonchalant. Sourire suffisant, il toise tout le monde, le menton bien haut, comme s'il posait pour qu'un sculpteur en fasse un buste. Chose intéressante : il a l'air stupéfait quand vous vous approchez pour lui parler. Votre approche se heurte à un regard hébété, puis il se regarde le corps, pour une raison qui vous échappe. Il relève la tête et vous parle.::
 
-Tu... tu peux me voir ?<end>
+Vous... vous pouvez me voir ?<end>
 
 =>a3_original
 Yup. You seem pretty visible to me.<end>
 
 =>a3
-Ouais. Vous me semblez assez visible.<end>
+Ouais. T'as l'air plutôt visible, d'ici.<end>
 
 =>q4_original
 ::He ponders the situation for a moment.:: 
@@ -26,9 +26,9 @@ Ouais. Vous me semblez assez visible.<end>
 The only *reasonable* explanation for you being able to see me must be that you possess some special gift... some special power, *mortal.* Yes... yes! That must be it!<end>
 
 =>q4
-::Il réfléchit un instant à la situation.:: 
+::Il réfléchit un instant.:: 
 
-La seule explication *raisonnable* pour laquelle vous pouvez me voir doit être que vous possédez un don spécial... un pouvoir spécial, *mortel.* Oui... oui ! Ça doit être ça !<end>
+La seule explication *raisonnable* à ce que vous puissiez me voir, c'est que vous possédez un don spécial... un pouvoir spécial, *mortel.* Oui... oui ! Ça ne peut être que ça !<end>
 
 =>q5_original
 <end>
@@ -40,19 +40,19 @@ La seule explication *raisonnable* pour laquelle vous pouvez me voir doit être 
 Oh... That's good to know. Who are you anyway?<end>
 
 =>a6
-Oh... C'est bon à savoir. Qui es-tu de toute façon ?<end>
+Oh... Bon à savoir. T'es qui, au fait ?<end>
 
 =>q7_original
 I'm Cale, the Lord of Invisibility. I am the only one who has truly mastered the art of being in a state of gone -  complete invisibility to the naked eye. "Gone" is the proper term for such state, and it was I who came up with it.<end>
 
 =>q7
-Je suis Cale, le Seigneur de l'Invisibilité. Je suis le seul à maîtriser véritablement l'art d'être dans un état d'invisibilité totale à l'œil nu. « Fini » est le terme approprié pour désigner un tel état, et c'est moi qui l'ai inventé.<end>
+Je suis Cale, le Seigneur de l'Invisibilité. Je suis le seul à avoir vraiment maîtrisé l'art d'être en état de gone - l'invisibilité totale à l'œil nu. « Gone » est le terme exact pour cet état, et c'est moi qui l'ai inventé.<end>
 
 =>a8_original
 That sounds pretty cool.<end>
 
 =>a8
-Cela a l'air plutôt cool.<end>
+Ça a l'air plutôt classe.<end>
 
 =>q9_original
 Of course, I can see how such divine things can impress a mortal being... such as yourself.
@@ -60,9 +60,9 @@ Of course, I can see how such divine things can impress a mortal being... such a
 Yes... would you be so kind to tell me your name?<end>
 
 =>q9
-Bien sûr, je peux voir comment de telles choses divines peuvent impressionner un être mortel... comme vous.
+Évidemment, je vois comment de telles choses divines peuvent impressionner un être mortel... comme vous.
 
-Oui... auriez-vous la gentillesse de me dire votre nom ?<end>
+Oui... auriez-vous l'amabilité de me dire votre nom ?<end>
 
 =>a10_original
 It's $(context.player.Name).<end>
@@ -74,37 +74,37 @@ C'est $(context.player.Name).<end>
 $(context.player.Name), you say. A mortal name indeed. Well, let's talk about that gift of yours, shall we?<end>
 
 =>q11
-$(context.player.Name), dites-vous. Un nom mortel en effet. Eh bien, parlons de votre cadeau, d'accord ?<end>
+$(context.player.Name), dites-vous. Un nom bien mortel. Eh bien, parlons de ce don, voulez-vous ?<end>
 
 =>a12_original
 Let's...<end>
 
 =>a12
-Allons...<end>
+Allons-y...<end>
 
 =>q13_original
 Tell me of this gift of yours. When did you first realize you were able to see invisible people?<end>
 
 =>q13
-Parlez-moi de votre cadeau. Quand avez-vous réalisé pour la première fois que vous étiez capable de voir des personnes invisibles ?<end>
+Parlez-moi de ce don. Quand avez-vous réalisé, pour la première fois, que vous pouviez voir les gens invisibles ?<end>
 
 =>a14_original
 If you can see someone then he is not invisible.<end>
 
 =>a14
-Si vous pouvez voir quelqu'un, alors il n'est pas invisible.<end>
+Si on peut voir quelqu'un, il n'est pas invisible.<end>
 
 =>q15_original
 You don't seem to understand the question, I... ugh... Working with mortals is painful...<end>
 
 =>q15
-Vous ne semblez pas comprendre la question, je... pouah... Travailler avec des mortels est douloureux...<end>
+Vous ne semblez pas comprendre la question, je... pff... Travailler avec des mortels est douloureux...<end>
 
 =>q16_original
 Let's try it like this: I am invisible; you can see me. Therefore, since common mortals can't see me, but you can - you must have some special ability which allows you to do so. That is the only logical conclusion. And if you...<end>
 
 =>q16
-Essayons comme ceci : je suis invisible ; tu peux me voir. Par conséquent, puisque le commun des mortels ne peut pas me voir, mais que vous le pouvez, vous devez avoir une capacité spéciale qui vous permet de le faire. C'est la seule conclusion logique. Et si vous...<end>
+Essayons comme ça : je suis invisible ; vous me voyez. Donc, puisque les mortels ordinaires ne me voient pas, mais que vous, si - vous devez avoir une faculté spéciale qui vous le permet. C'est la seule conclusion logique. Et si vous...<end>
 
 =>q17_original
 ::He stops speaking. As his eyes shift away from you he begins scratching his beard. Soon after, he points his finger at you and speaks.::
@@ -112,45 +112,45 @@ Essayons comme ceci : je suis invisible ; tu peux me voir. Par conséquent, puis
 I understand now why you're so confused! HA! You haven't had the opportunity to see an invisible person because there wasn't an invisible person to see! <end>
 
 =>q17
-::Il arrête de parler. Alors que ses yeux se détournent de vous, il commence à se gratter la barbe. Peu de temps après, il vous montre du doigt et parle.::
+::Il s'arrête. Ses yeux se détournent, il se gratte la barbe. Puis il vous montre du doigt et reprend.::
 
-Je comprends maintenant pourquoi tu es si confus ! HA! Vous n’avez pas eu l’occasion de voir une personne invisible parce qu’il n’y avait pas de personne invisible à voir ! <end>
+Je comprends maintenant pourquoi vous êtes si confus ! HA ! Vous n'avez jamais eu l'occasion de voir une personne invisible, parce qu'il n'y avait pas de personne invisible à voir ! <end>
 
 =>a18_original
 I think I'm starting to lose you.<end>
 
 =>a18
-Je pense que je commence à te perdre.<end>
+Je crois que je commence à vous perdre.<end>
 
 =>q19_original
 You are a *mortal* so its not surprising to me. Now, where was I...<end>
 
 =>q19
-Vous êtes un *mortel* donc cela ne me surprend pas. Maintenant, où en étais-je...<end>
+Vous êtes un *mortel*, donc ça ne me surprend pas. Bon, où en étais-je...<end>
 
 =>q20_original
 You cannot answer my question about first noticing you had a gift which allows you to see invisible people because you never had the opportunity to see an invisible person. I - Cale, the Lord of Invisibility - am the first invisible person you *were* able to see and that is why the existence of your gift seems to perplex you so much.<end>
 
 =>q20
-Vous ne pouvez pas répondre à ma question sur le fait d’avoir d’abord remarqué que vous aviez un don qui vous permet de voir des personnes invisibles parce que vous n’avez jamais eu l’occasion de voir une personne invisible. Moi – Cale, le Seigneur de l'Invisibilité – je suis la première personne invisible que vous avez *pu* voir et c'est pourquoi l'existence de votre don semble vous laisser tellement perplexe.<end>
+Vous ne pouvez pas répondre à ma question sur le moment où vous avez remarqué ce don de voir les invisibles, parce que vous n'avez jamais eu l'occasion d'en voir un. Moi - Cale, le Seigneur de l'Invisibilité - je suis la première personne invisible que vous *avez* pu voir, et c'est pour ça que l'existence de votre don vous laisse tellement perplexe.<end>
 
 =>q21_original
 For one to know if he is capable of seeing invisible people, he must first see someone who is invisible so that his mind can confirm that he had seen someone invisible, but since he could never see anyone invisible because there wasn't anyone invisible to see, then that one is unaware of his ability to see invisible people; so when he finally has an invisible person to see and he sees it, he doesn't attribute that to the fact that he is able to see invisible people but considers the invisible person to be visible to everyone.<end>
 
 =>q21
-Pour savoir s'il est capable de voir des personnes invisibles, il faut d'abord voir quelqu'un qui est invisible afin que son esprit puisse confirmer qu'il a vu quelqu'un d'invisible, mais comme il n'a jamais pu voir quelqu'un d'invisible parce qu'il n'y avait personne d'invisible à voir, alors cette personne ignore sa capacité à voir des personnes invisibles ; ainsi, quand il a enfin une personne invisible à voir et qu'il la voit, il n'attribue pas cela au fait qu'il est capable de voir des personnes invisibles mais considère que la personne invisible est visible par tout le monde.<end>
+Pour savoir si l'on est capable de voir les gens invisibles, il faut d'abord voir quelqu'un d'invisible, pour que l'esprit confirme qu'on a vu quelqu'un d'invisible ; mais comme on n'a jamais pu en voir, faute de personne invisible à voir, on ignore cette capacité ; donc quand enfin il y a une personne invisible à voir et qu'on la voit, on n'attribue pas ça au fait qu'on peut voir les invisibles : on considère que la personne invisible est visible de tout le monde.<end>
 
 =>q22_original
 But, that still doesn't answer how you are able to see me... or the origin of your gift... *mortal.* Well, since you seem to have no frickin' clue what I'm even talking about I suppose you won't be of much help, so we better leave it at this. I'll just disregard you as an anomaly and stop concerning myself with it.<end>
 
 =>q22
-Mais cela ne répond toujours pas à la façon dont vous êtes capable de me voir... ni à l'origine de votre don... *mortel.* Eh bien, puisque vous semblez n'avoir aucune idée de ce dont je parle, je suppose que vous ne serez pas d'une grande aide, alors nous ferions mieux d'en rester là. Je vais simplement vous ignorer comme une anomalie et arrêter de m'en préoccuper.<end>
+Mais ça ne dit toujours pas comment vous arrivez à me voir... ni l'origine de votre don... *mortel.* Bon, puisque visiblement vous n'avez aucune putain d'idée de ce dont je parle, je suppose que vous ne serez pas d'une grande aide, alors on va en rester là. Je vais simplement vous ranger dans les anomalies et cesser de m'en soucier.<end>
 
 =>a23_original
 I understood nothing of what you just said.<end>
 
 =>a23
-Je n'ai rien compris à ce que tu viens de dire.<end>
+J'ai rien compris à ce que vous venez de dire.<end>
 
 =>q24_original
 Typical mortal...<end>
@@ -168,55 +168,55 @@ Mortel typique...<end>
 You were interested in my "gift," as you call it?<end>
 
 =>a26
-Vous étiez intéressé par mon « cadeau », comme vous l'appelez ?<end>
+Vous vous intéressiez à mon « don », comme vous dites ?<end>
 
 =>q27_original
 Yes, *mortal.* If it wasn't for it we most likely wouldn't be having this conversation right now; me being completely invisible would prevent you from noticing me, naturally.<end>
 
 =>q27
-Oui, *mortel.* Sans cela, nous n'aurions probablement pas cette conversation en ce moment ; le fait que je sois complètement invisible t'empêcherait de me remarquer, naturellement.<end>
+Oui, *mortel.* Sans ça, nous n'aurions probablement pas cette conversation ; le fait que je sois complètement invisible vous empêcherait de me remarquer, naturellement.<end>
 
 =>a28_original
 If you call everyone "mortal," does that mean that you are immortal?<end>
 
 =>a28
-Si vous appelez tout le monde « mortel », cela signifie-t-il que vous êtes immortel ?<end>
+Si vous appelez tout le monde « mortel », ça veut dire que vous êtes immortel ?<end>
 
 =>q29_original
 But of course - I am special! Do you think this ability that was bestowed upon me would fit a mortal man? Just... wasted once I - Cale, the Lord of Invisibility - perishes? No, that is not how this things work, mortal, and I don't expect you to understand.<end>
 
 =>q29
-Mais bien sûr, je suis spécial ! Pensez-vous que cette capacité qui m’a été conférée conviendrait à un homme mortel ? Juste... gaspillé une fois que moi – Cale, le Seigneur de l'Invisibilité – péris ? Non, ce n'est pas ainsi que les choses fonctionnent, mortel, et je ne m'attends pas à ce que tu comprennes.<end>
+Mais évidemment - je suis spécial ! Vous croyez que cette faculté qui m'a été accordée irait à un homme mortel ? Juste... gâchée une fois que moi - Cale, le Seigneur de l'Invisibilité - je péris ? Non, ce n'est pas ainsi que ça marche, mortel, et je n'attends pas que vous compreniez.<end>
 
 =>a30_original
 How can you be so sure?<end>
 
 =>a30
-Comment peux-tu en être si sûr ?<end>
+Comment pouvez-vous en être si sûr ?<end>
 
 =>q31_original
 ::He rolls his eyes.:: You and your mortal questions. "How are you so sure?" I am sure because what I possess should not be possessed by a *mortal* man. And if it is not for mortal men - then I am not mortal. Do you understand?<end>
 
 =>q31
-::Il lève les yeux au ciel.:: Vous et vos questions mortelles. "Comment en es-tu si sûr ?" J'en suis sûr parce que ce que je possède ne devrait pas être possédé par un homme *mortel*. Et si ce n’est pas pour les mortels, alors je ne suis pas mortel. Est-ce que tu comprends?<end>
+::Il lève les yeux au ciel.:: Vous et vos questions de mortel. « Comment en êtes-vous si sûr ? » J'en suis sûr parce que ce que je possède ne devrait pas appartenir à un homme *mortel*. Et si ce n'est pas pour les mortels - alors je ne suis pas mortel. Vous comprenez ?<end>
 
 =>a32_original
 But, why exactly shouldn't a mortal man have the power to be invisible?<end>
 
 =>a32
-Mais pourquoi exactement un mortel n’aurait-il pas le pouvoir d’être invisible ?<end>
+Mais pourquoi, exactement, un mortel n'aurait-il pas le pouvoir d'être invisible ?<end>
 
 =>q33_original
 Because mortal people are regular people, common - and common men cannot enter the state of gone. I - Cale, the Lord of Invisiblity am special, can enter the state of gone, therefore I am not mortal. Simple logic... *mortal.*<end>
 
 =>q33
-Parce que les mortels sont des gens ordinaires, ordinaires – et les hommes ordinaires ne peuvent pas entrer dans l’état de disparu. Je - Cale, le Seigneur de l'Invisibilité, je suis spécial, je peux entrer dans l'état de disparu, donc je ne suis pas mortel. Logique simple... *mortel.*<end>
+Parce que les mortels sont des gens ordinaires, communs - et les hommes communs ne peuvent pas entrer dans l'état de gone. Moi - Cale, le Seigneur de l'Invisibilité, je suis spécial, je peux entrer dans l'état de gone, donc je ne suis pas mortel. Logique simple... *mortel.*<end>
 
 =>q34_original
 Now stop bothering me with these silly questions.<end>
 
 =>q34
-Maintenant, arrête de me déranger avec ces questions idiotes.<end>
+Maintenant, cessez de m'ennuyer avec ces questions idiotes.<end>
 
 =>a35_original
 Yeah, yeah... I had other questions.<end>
@@ -234,7 +234,7 @@ Oui, *mortel* ?<end>
 Can you tell me more about your invisibility and gone?<end>
 
 =>a37
-Pouvez-vous m'en dire plus sur votre invisibilité et votre disparition ?<end>
+Vous pouvez m'en dire plus sur votre invisibilité et le gone ?<end>
 
 =>q38_original
 It might be too much for your *mortal* brain to handle, so I'll explain it to you in *mortal* terms. I was born special: When I was five, I noticed that when I focused really, really hard I could become invisible. People walked past me like I wasn't there - like I was completely... gone! The older I got, the easier it became for me to enter the state of gone. Therefore, I entered it more often, naturally.
@@ -242,15 +242,15 @@ It might be too much for your *mortal* brain to handle, so I'll explain it to yo
 By now, I have pretty much perfected my craft. Well... *you* can see me, but you must possess something special which allows you so.<end>
 
 =>q38
-C'est peut-être trop difficile à gérer pour votre cerveau *mortel*, alors je vais vous l'expliquer en termes *mortel*. Je suis née spéciale : quand j'avais cinq ans, j'ai remarqué que lorsque je me concentrais très très fort, je pouvais devenir invisible. Les gens sont passés devant moi comme si je n'étais pas là - comme si j'étais complètement... parti ! Plus je vieillissais, plus il me devenait facile d’entrer dans l’état de disparu. Par conséquent, j’y suis entré plus souvent, naturellement.
+C'est peut-être trop pour votre cerveau *mortel*, alors je vais vous l'expliquer en termes *mortels*. Je suis né spécial : à cinq ans, j'ai remarqué que si je me concentrais très, très fort, je pouvais devenir invisible. Les gens passaient à côté de moi comme si je n'étais pas là - comme si j'étais complètement... gone ! Plus je vieillissais, plus il me devenait facile d'entrer dans l'état de gone. Donc j'y entrais plus souvent, naturellement.
 
-À présent, j’ai quasiment perfectionné mon métier. Eh bien... *vous* pouvez me voir, mais vous devez posséder quelque chose de spécial qui vous le permet.<end>
+À présent, j'ai à peu près perfectionné mon art. Bon... *vous* pouvez me voir, mais vous devez posséder quelque chose de spécial qui vous le permet.<end>
 
 =>a39_original
 What if people just ignored you?<end>
 
 =>a39
-Et si les gens vous ignoraient ?<end>
+Et si les gens vous ignoraient, tout simplement ?<end>
 
 =>q40_original
 Impossible! It would mean that all those mortals had to know *exactly* when I was focusing really hard to enter the state of gone, and then simultaneously decide to ignore me. That sounds... well, retarded!
@@ -258,27 +258,27 @@ Impossible! It would mean that all those mortals had to know *exactly* when I wa
 The only logical explanation is that I became truly invisible to them.<end>
 
 =>q40
-Impossible! Cela signifierait que tous ces mortels devaient savoir *exactement* quand je me concentrais très fort pour entrer dans l'état de disparu, et puis simultanément décider de m'ignorer. Cela semble… eh bien, attardé !
+Impossible ! Ça voudrait dire que tous ces mortels savaient *exactement* quand je me concentrais très fort pour entrer dans l'état de gone, et qu'ils décidaient tous en même temps de m'ignorer. Ça sonne... comment dire, attardé !
 
-La seule explication logique est que je suis devenu véritablement invisible pour eux.<end>
+La seule explication logique, c'est que je suis devenu vraiment invisible pour eux.<end>
 
 =>a41_original
 Why did you call it "gone"?<end>
 
 =>a41
-Pourquoi l'as-tu appelé "parti" ?<end>
+Pourquoi vous avez appelé ça « gone » ?<end>
 
 =>q42_original
 I liked the way it sounded... Gone... Gone! Don't you hear the majesticness? No? Never mind then...<end>
 
 =>q42
-J'ai aimé la façon dont ça sonnait... Fini... Fini ! N'entendez-vous pas la majesté ? Non? Peu importe alors...<end>
+J'aimais la façon dont ça sonnait... Gone... Gone ! Vous n'entendez pas la majesté ? Non ? Tant pis alors...<end>
 
 =>a43_original
 Couldn't you pick a better name than "gone"?<end>
 
 =>a43
-Ne pourriez-vous pas choisir un meilleur nom que « disparu » ?<end>
+Vous auriez pas pu choisir un meilleur nom que « gone » ?<end>
 
 =>a44_original
 That's very interesting, but I had other questions.<end>
@@ -290,37 +290,37 @@ C'est très intéressant, mais j'avais d'autres questions.<end>
 Let's hear them.<end>
 
 =>q45
-Écoutons-les.<end>
+Je vous écoute.<end>
 
 =>a46_original
 Why are you here and what do you know about this place?<end>
 
 =>a46
-Pourquoi es-tu ici et que sais-tu de cet endroit ?<end>
+Pourquoi êtes-vous ici, et que savez-vous de cet endroit ?<end>
 
 =>q47_original
 I am here to show my power to the Tchortists. Unlike you, *mortals,* I can go everywhere I like without being detected by *mortal* eyes. I am special! With that said, I believe these Tchortists - who seem to  love praising powerful entities - should be presented with an invisible man. ME. As soon as I decide to reveal myself they will most certainly praise *me* and I will be granted entry into this glorious building.<end>
 
 =>q47
-Je suis ici pour montrer mon pouvoir aux Tchortistes. Contrairement à vous, *mortels*, je peux aller partout où je veux sans être détecté par les yeux des *mortels*. Je suis spécial ! Cela dit, je pense que ces Tchortistes – qui semblent aimer louer des entités puissantes – devraient se voir présenter un homme invisible. MOI. Dès que je déciderai de me révéler, ils me féliciteront très certainement et j'aurai accès à ce glorieux bâtiment.<end>
+Je suis ici pour montrer mon pouvoir aux Tchortistes. Contrairement à vous, *mortels,* je vais où je veux sans être détecté par des yeux *mortels*. Je suis spécial ! Cela dit, je pense que ces Tchortistes - qui semblent aimer louer les entités puissantes - devraient se voir présenter un homme invisible. MOI. Dès que je déciderai de me révéler, ils me loueront *moi* à coup sûr, et on me laissera entrer dans ce glorieux bâtiment.<end>
 
 =>a48_original
 But why Tchortists? Couldn't you find someone else to praise you?<end>
 
 =>a48
-Mais pourquoi Tchortistes ? Ne pourriez-vous pas trouver quelqu'un d'autre pour vous féliciter ?<end>
+Mais pourquoi les Tchortistes ? Vous auriez pas pu trouver quelqu'un d'autre pour vous louer ?<end>
 
 =>q49_original
 Filth! I - Cale, the Lord of Invisibility - dislike everything Underrail has to offer - everything but the Tchort institute... or whatever it is called. This building is worthy of being my residence - and so it shall be once Tchortists see the invisible man - ME! They must live in abundance, and I deserve only the best.<end>
 
 =>q49
-Saleté! Moi - Cale, le Seigneur de l'Invisibilité - je n'aime pas tout ce que Underrail a à offrir - tout sauf l'institut Tchort... ou quel que soit son nom. Ce bâtiment est digne d'être ma résidence - et il en sera ainsi une fois que les Tchortistes verront l'homme invisible - MOI ! Ils doivent vivre dans l’abondance et je ne mérite que le meilleur.<end>
+Ordure ! Moi - Cale, le Seigneur de l'Invisibilité - je n'aime rien de ce qu'Underrail a à offrir - rien sauf l'institut Tchort... ou quel que soit son nom. Ce bâtiment est digne d'être ma résidence - et il le sera dès que les Tchortistes verront l'homme invisible - MOI ! Ils doivent vivre dans l'abondance, et je ne mérite que le meilleur.<end>
 
 =>q50_original
 I hope that answers your question, *mortal.*<end>
 
 =>q50
-J'espère que cela répond à votre question, *mortel.*<end>
+J'espère que ça répond à votre question, *mortel.*<end>
 
 =>a51_original
 I had other questions.<end>
@@ -338,19 +338,19 @@ Que savez-vous des Tchortistes ?<end>
 While they are mere *mortals,* which usually aren't worth my time, these Tchortists seem very religious to me. They praise this Tchort *something,* and that's all I know about them. Now, once I show them what I - Cale, the Lord of Invisibility - am capable of...<end>
 
 =>q53
-Bien qu'ils ne soient que de simples *mortels*, ce qui ne vaut généralement pas mon temps, ces Tchortistes me semblent très religieux. Ils font l'éloge de ce Tchort *quelque chose* et c'est tout ce que je sais d'eux. Maintenant, une fois que je leur ai montré de quoi moi - Cale, le Seigneur de l'Invisibilité - suis capable...<end>
+Même s'ils ne sont que de simples *mortels,* ce qui ne vaut généralement pas mon temps, ces Tchortistes me semblent très religieux. Ils louent ce Tchort *quelque chose,* et c'est tout ce que je sais d'eux. Maintenant, une fois que je leur aurai montré de quoi moi - Cale, le Seigneur de l'Invisibilité - je suis capable...<end>
 
 =>a54_original
 Invisibility?<end>
 
 =>a54
-Invisibilité?<end>
+L'invisibilité ?<end>
 
 =>q55_original
 Well, of course. Do I have to  explain everything to you... *mortals*? Where was I... Oh, never mind.<end>
 
 =>q55
-Eh bien, bien sûr. Dois-je tout vous expliquer... *mortels* ? Où étais-je... Oh, tant pis.<end>
+Eh bien, évidemment. Dois-je tout vous expliquer... *mortels* ? Où en étais-je... Oh, tant pis.<end>
 
 =>a56_original
 How about we change the subject.<end>
@@ -362,19 +362,19 @@ Et si on changeait de sujet.<end>
 Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
 
 =>a57
-Avez-vous peut-être vu l'un des Tchortistes portant un étrange artefact ? Cela ressemble à un polyèdre à vingt côtés.<end>
+Avez-vous vu l'un des Tchortistes porter un artefact bizarre, par hasard ? Un polyèdre à vingt faces, on dirait.<end>
 
 =>q58_original
 Hmmm... I don't remember seeing what you describe, no.<end>
 
 =>q58
-Hmmm... Je ne me souviens pas avoir vu ce que vous décrivez, non.<end>
+Hmmm... Je ne me souviens pas d'avoir vu ce que vous décrivez, non.<end>
 
 =>q59_original
 To be honest, most of the time I don't concern myself with *mortal* affairs. It's beneath me.<end>
 
 =>q59
-Pour être honnête, la plupart du temps, je ne me préoccupe pas des affaires *mortelles*. C'est en dessous de moi.<end>
+Pour être honnête, la plupart du temps, les affaires *mortelles* ne me concernent pas. C'est au-dessous de moi.<end>
 
 =>a60_original
 Goodbye, Cale.<end>
@@ -392,7 +392,7 @@ Au revoir, mortel.<end>
 I think it's best if we discuss something else.<end>
 
 =>a62
-Je pense qu'il est préférable que nous discutions d'autre chose.<end>
+Je pense qu'on ferait mieux de parler d'autre chose.<end>
 
 =>q63_original
 If we must.<end>
@@ -404,31 +404,31 @@ S'il le faut.<end>
 What?<end>
 
 =>a64
-Quoi?<end>
+Quoi ?<end>
 
 =>a65_original
 This is too confusing; can we change the subject?<end>
 
 =>a65
-C'est trop déroutant ; on peut changer de sujet ?<end>
+C'est trop confus ; on peut changer de sujet ?<end>
 
 =>q66_original
 Confusing? ::He laughs.:: Perhaps to you - but not to me!<end>
 
 =>q66
-Déroutant ? ::Il rit.:: Peut-être pour vous – mais pas pour moi !<end>
+Confus ? ::Il rit.:: Peut-être pour vous - mais pas pour moi !<end>
 
 =>q67_original
 By the way, we are not changing the subject - I am not done with this yet!<end>
 
 =>q67
-D’ailleurs, nous ne changeons pas de sujet – je n’en ai pas encore fini !<end>
+Au fait, on ne change pas de sujet - je n'en ai pas encore fini !<end>
 
 =>a68_original
 I was never able to see invisible people.<end>
 
 =>a68
-Je n'ai jamais pu voir des personnes invisibles.<end>
+Je n'ai jamais pu voir de gens invisibles.<end>
 
 =>a69_original
 I had some questions first.<end>
@@ -446,19 +446,19 @@ Très bien, très bien... Posez vos petites questions.<end>
 I'd rather not.<end>
 
 =>a71
-Je préfère ne pas le faire.<end>
+Je préfère pas.<end>
 
 =>q72_original
 Fine! To be honest, it's probably some simple mortal name like $(#Bob/Susan) or $(#Mike/Ann)... I'm more interested in that ability of yours, the one that allows you to see me.<end>
 
 =>q72
-Bien! Pour être honnête, il s'agit probablement d'un simple nom de mortel comme $(#Bob/Susan) ou $(#Mike/Ann)... Je suis plus intéressé par votre capacité, celle qui vous permet de me voir.<end>
+Soit ! Pour être honnête, c'est probablement un simple nom de mortel, genre $(#Bob/Susan) ou $(#Mike/Ann)... Je m'intéresse davantage à cette faculté, celle qui vous permet de me voir.<end>
 
 =>a73_original
 Oh divine one, that is indeed something I want to know more about!<end>
 
 =>a73
-Oh divin, c'est effectivement quelque chose sur lequel je veux en savoir plus !<end>
+Ô divin, c'est effectivement quelque chose dont je veux en savoir plus !<end>
 
 =>q74_original
 Well, yes.  I can see how such divine powers can impress a mortal being... such as yourself, of course.
@@ -466,15 +466,15 @@ Well, yes.  I can see how such divine powers can impress a mortal being... such 
 Yes... would you be so kind to tell me your name?<end>
 
 =>q74
-Eh bien, oui.  Je peux voir comment de tels pouvoirs divins peuvent impressionner un être mortel... comme vous, bien sûr.
+Eh bien, oui.  Je vois comment de tels pouvoirs divins peuvent impressionner un être mortel... comme vous, évidemment.
 
-Oui... auriez-vous la gentillesse de me dire votre nom ?<end>
+Oui... auriez-vous l'amabilité de me dire votre nom ?<end>
 
 =>a75_original
 ::Laugh.:: Well, it ain't working, pal!<end>
 
 =>a75
-::Rire.:: Eh bien, ça ne marche pas, mon pote !<end>
+::Rire.:: Eh ben, ça marche pas, mon pote !<end>
 
 =>q76_original
 ::He frowns.:: You know what? I have no wish to speak to you anymore. I will not be laughed at nor ridiculed by a mere *mortal*!
@@ -482,27 +482,27 @@ Oui... auriez-vous la gentillesse de me dire votre nom ?<end>
 Good-bye!<end>
 
 =>q76
-::Il fronce les sourcils.:: Vous savez quoi ? Je n'ai plus envie de te parler. Un simple *mortel* ne se moquera pas de moi ni ne le ridiculisera !
+::Il fronce les sourcils.:: Vous savez quoi ? Je n'ai plus envie de vous parler. Un simple *mortel* ne se paiera pas ma tête, ni ne me ridiculisera !
 
-Au revoir!<end>
+Adieu !<end>
 
 =>a77_original
 Goodbye, you derailed moron.<end>
 
 =>a77
-Au revoir, espèce d'idiot qui a déraillé.<end>
+Au revoir, espèce de débile déraillé.<end>
 
 =>a78_original
 ::Leave and say nothing.::<end>
 
 =>a78
-::Pars et ne dis rien.::<end>
+::Partir sans un mot.::<end>
 
 =>a79_original
 Oh divine one, it is an honor to be in your presence!<end>
 
 =>a79
-Ô divin, c'est un honneur d'être en ta présence !<end>
+Ô divin, c'est un honneur d'être en votre présence !<end>
 
 =>q80_original
 ::He simply couldn't hide his smug smile.:: Oh... yes... I like the sound of *that*! Divine one...
@@ -510,7 +510,7 @@ Oh divine one, it is an honor to be in your presence!<end>
 Allow me to introduce myself...<end>
 
 =>q80
-::Il ne pouvait tout simplement pas cacher son sourire suffisant.:: Oh... oui... J'aime le son de *ça* ! Divin...
+::Il n'arrivait tout simplement pas à cacher son sourire suffisant.:: Oh... oui... j'aime le son de *ça* ! Divin...
 
 Permettez-moi de me présenter...<end>
 
@@ -518,7 +518,7 @@ Permettez-moi de me présenter...<end>
 You've lost your marbles a long time ago, man.<end>
 
 =>a81
-Tu as perdu la boule il y a longtemps, mec.<end>
+T'as perdu la boule y a longtemps, mec.<end>
 
 =>q82_original
 What did you say to me, you... you... petty $(#caveman/cavewoman)! I simply can't believe it!
@@ -526,55 +526,54 @@ What did you say to me, you... you... petty $(#caveman/cavewoman)! I simply can'
 We are done here, *mortal.* I might not be invisible to *you,* but from now on, you'll be invisible to *me*!<end>
 
 =>q82
-Qu'est-ce que tu m'as dit, toi... toi... petit $(#caveman/cavewoman) ! Je n'arrive tout simplement pas à y croire !
+Qu'est-ce que vous m'avez dit, vous... vous... misérable $(#caverneux/caverneuse) ! Je n'arrive tout simplement pas à y croire !
 
-Nous avons fini ici, *mortel.* Je ne suis peut-être pas invisible pour *vous*, mais à partir de maintenant, vous serez invisible pour *moi* !<end>
+C'est fini, *mortel.* Je ne suis peut-être pas invisible pour *vous,* mais à partir de maintenant, c'est *vous* qui serez invisible pour *moi* !<end>
 
 =>a83_original
 I can see you! Yes I can!<end>
 
 =>a83
-Je vous vois! Oui, je peux !<end>
+Je vous vois ! Oui, je vous vois !<end>
 
 =>a84_original
 ::Touch him.::<end>
 
 =>a84
-::Touchez-le.::<end>
+::Le toucher.::<end>
 
 =>q85_original
 ::He slaps your hand.:: Stop that! I will not allow some... petty *mortal* to touch me. How dare you!?<end>
 
 =>q85
-::Il vous gifle la main.:: Arrêtez ça ! Je ne permettrai pas à certains... mesquins *mortel* de me toucher. Comment oses-tu !?<end>
+::Il vous gifle la main.:: Arrêtez ça ! Je n'autoriserai pas un... misérable *mortel* à me toucher. Comment osez-vous !?<end>
 
 =>a86_original
 Whoa, are you invisible!?<end>
 
 =>a86
-Whoa, es-tu invisible !?<end>
+Whoa, vous êtes invisible !?<end>
 
 =>q87_original
 Well, not to you it seems! It... It's very strange...<end>
 
 =>q87
-Eh bien, pas pour vous, semble-t-il ! C'est... C'est très étrange...<end>
+Eh bien, pas pour vous, on dirait ! C'est... C'est très étrange...<end>
 
 =>a88_original
 No, I can't! What is going on? Where are you, where are you!?<end>
 
 =>a88
-Non, je ne peux pas ! Que se passe-t-il? Où es-tu, où es-tu !?<end>
+Non, je peux pas ! Qu'est-ce qui se passe ? Où êtes-vous, où êtes-vous !?<end>
 
 =>q89_original
 Listen, *mortal,* I don't like being ridiculed! Not by you or anyone else, for that matter! It's quite obvious that you can see me... I am just at a loss at how is such a thing is even possible...<end>
 
 =>q89
-Écoute, *mortel*, je n'aime pas être ridiculisé ! Ni par vous ni par quelqu'un d'autre, d'ailleurs ! Il est évident que vous pouvez me voir... Je ne sais pas comment une telle chose est possible...<end>
+Écoutez, *mortel,* je n'aime pas qu'on se paie ma tête ! Ni par vous, ni par quiconque, d'ailleurs ! Il est assez évident que vous me voyez... Je ne sais simplement pas comment une telle chose est même possible...<end>
 
 =>q90_original
 Yes, mortal?<end>
 
 =>q90
 Oui, mortel ?<end>
-

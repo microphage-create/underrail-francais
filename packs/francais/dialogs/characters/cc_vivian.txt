@@ -2,19 +2,19 @@
 $(context.player.Name), if you're just gonna get yourself lost every time I take you somewhere, I think it would be better to leave you home next time. ::She laughs.:: Just kidding; lovely to see you're alive and in one piece, $(#friend/girl).<end>
 
 =>q1
-$(context.player.Name), si tu te perds à chaque fois que je t'emmène quelque part, je pense qu'il vaudrait mieux te quitter la prochaine fois. ::Elle rit.:: Juste plaisanter, ravi de vous voir vivant et en un seul morceau, $(#friend/girl).<end>
+$(context.player.Name), si tu te perds à chaque fois que je t'emmène quelque part, la prochaine fois je te laisse à la maison. ::Elle rit.:: Je plaisante. Chouette de te voir $(#vivant/vivante) et en un seul morceau, $(#mon pote/ma belle).<end>
 
 =>a2_original
 Thank you for your help. Without you that place would have been my coffin, albeit a very large one.<end>
 
 =>a2
-Merci de votre aide. Sans toi, cet endroit aurait été mon cercueil, bien qu'il soit très grand.<end>
+Merci pour le coup de main. Sans toi, cet endroit aurait été mon cercueil. Un très grand, certes.<end>
 
 =>q3_original
 Oh, yes, it would! ::She laughs.:: You owe me for that one - don't you forget that, $(#mister/girl).<end>
 
 =>q3
-Oh, oui ! ::Elle rit.:: Tu me dois ça, n'oublie pas ça, $(#mister/girl).<end>
+Oh, oui ! ::Elle rit.:: Tu me dois celle-là. Oublie pas, $(#mec/nana).<end>
 
 =>a4_original
 Well, how about I take you to Hardcore City Bar? You know, as a thank you.<end>
@@ -34,9 +34,9 @@ I accept. I haven't been there in ages! You and me, two girls, we're gonna have 
 Okay Vivian, let's see now...<end>
 
 =>q6
-J'accepte. Je n'y suis pas allé depuis longtemps ! Toi et moi, deux filles, on va s'amuser ! Sans risque de tomber dans les grilles, j'espère. À moins qu'on soit trop saouls. Ce sera charmant ! ::Elle rit.::
+J'accepte. J'y suis pas allée depuis une éternité ! Toi et moi, deux filles, on va s'éclater ! Sans risque de passer à travers une grille, j'espère. À moins qu'on soit trop saoules. Ce sera chouette ! ::Elle rit.::
 
-Ok Vivian, voyons...<end>
+Bon, Vivian, voyons voir...<end>
 
 =>q7_original
 This piece of junk's been repaired... The power generator, I mean. I'm tired, I'm dirty and I'm tired. I'll meet you back at JKK after I get some rest; don't forget to remind me to give you your reward. And after all that, to wreck that Hardcore City Bar. To *dominate* the Hardcore Bar! ::She laughs:: Lovely.
@@ -44,15 +44,15 @@ This piece of junk's been repaired... The power generator, I mean. I'm tired, I'
 See you later, $(context.player.Name). Take care.<end>
 
 =>q7
-Ce truc a été réparé... Le générateur, je veux dire. Je suis fatiguée, sale et fatiguée. Je vous rejoins au JKK après avoir pris un peu de repos ; n'oubliez pas de me rappeler de vous donner votre récompense. Et après tout ça, pour détruire ce Hardcore City Bar. Pour *dominer* le Hardcore Bar! ::Elle rit:: Magnifique.
+Ce tas de ferraille est réparé... Le générateur, je veux dire. Je suis fatiguée, je suis sale, et je suis fatiguée. Je te retrouve au JKK après un peu de repos. Oublie pas de me rappeler de te filer ta récompense. Et après ça, on démolit le Hardcore City Bar. On *domine* le Hardcore Bar ! ::Elle rit.:: Chouette.
 
-A plus tard, $(context.player.Name). Prends soin de toi.<end>
+À plus, $(context.player.Name). Prends soin de toi.<end>
 
 =>a8_original
 See you later.<end>
 
 =>a8
-A tout à l'heure.<end>
+À plus.<end>
 
 =>q9_original
 I accept. I'd like to go to Hardcore City Bar with you. I haven't been there in ages, to be completely honest! I think it'll be just lovely, unless you find some grates there to fall through! Again! ::She laughs.:: 
@@ -60,15 +60,15 @@ I accept. I'd like to go to Hardcore City Bar with you. I haven't been there in 
 Okay Vivian, let's see...<end>
 
 =>q9
-J'accepte. J'aimerais aller au Hardcore City Bar avec toi. Je n'y suis pas allé depuis longtemps, pour être complètement honnête ! Je pense que ce sera charmant, à moins que vous ne trouviez des grats pour tomber ! Encore ! ::Elle rit.::
+J'accepte. J'aimerais bien aller au Hardcore City Bar avec toi. J'y suis pas allée depuis une éternité, pour être honnête ! Je pense que ce sera chouette, à moins que tu trouves encore des grilles pour tomber dedans ! Encore ! ::Elle rit.::
 
-Ok Vivian, voyons...<end>
+Bon, Vivian, voyons voir...<end>
 
 =>a10_original
 You're right, thank you. I'll make it up to you somehow.<end>
 
 =>a10
-Vous avez raison, merci. Je vais me rattraper.<end>
+T'as raison, merci. Je me rattraperai.<end>
 
 =>q11_original
 This piece of junk is repaired... The power generator, I mean. I'm tired, I'm dirty and I'm tired. I'll meet you back at JKK after I get some rest; don't forget to remind me to give you your reward. 
@@ -76,9 +76,9 @@ This piece of junk is repaired... The power generator, I mean. I'm tired, I'm di
 I think that's all. See you later, $(context.player.Name). Take care.<end>
 
 =>q11
-Cette merde est réparée... Le générateur, je veux dire. Je suis fatiguée, sale et fatiguée. Je vous rejoins au JKK après avoir pris un peu de repos ; n'oubliez pas de me rappeler de vous donner votre récompense.
+Ce tas de ferraille est réparé... Le générateur, je veux dire. Je suis fatiguée, je suis sale, et je suis fatiguée. Je te retrouve au JKK après un peu de repos. Oublie pas de me rappeler de te filer ta récompense.
 
-Je crois que c'est tout. A plus tard, $(context.player.Name). Prends soin de toi.<end>
+Je crois que c'est tout. À plus, $(context.player.Name). Prends soin de toi.<end>
 
 =>a12_original
 Bye, Vivian.<end>
@@ -96,25 +96,25 @@ Au revoir, Vivian.<end>
 Yeah, this was nothing. I've been through worse.<end>
 
 =>a14
-C'était rien. J'ai vécu pire.<end>
+C'était rien. J'ai vu pire.<end>
 
 =>q15_original
 I'm not so sure you could have do it all on your own. ::She laughs.:: I think I deserve at least some credit.<end>
 
 =>q15
-Je ne suis pas sûr que tu aurais pu tout faire tout seul. ::Elle rit.:: Je pense que je mérite au moins un peu de crédit.<end>
+Je suis pas sûre que t'aurais pu tout faire $(#seul/seule). ::Elle rit.:: Je pense que je mérite au moins un peu de reconnaissance.<end>
 
 =>a16_original
 You're right. How about I take you to Hardcore City Bar? You know, as a thank you.<end>
 
 =>a16
-Vous avez raison. Et si je vous emmenais au Hardcore City Bar ? Tu sais, pour te remercier.<end>
+T'as raison. Et si je t'emmenais au Hardcore City Bar ? Tu sais, pour te remercier.<end>
 
 =>a17_original
 I would have gotten out of there... eventually... on my own.<end>
 
 =>a17
-Je serais sorti de là... finalement... tout seul.<end>
+Je serais $(#sorti/sortie) de là... tôt ou tard... $(#tout seul/toute seule).<end>
 
 =>q18_original
 Okay, okay, I'll let you have this one. You can do everything alone. ::Laughs.:: So, this junk is repaired... The power generator, I mean. I'm tired, I'm dirty and I'm tired. I'll meet you back at JKK, don't forget to remind me to give you your reward. I think that's all. Lovely.
@@ -122,45 +122,45 @@ Okay, okay, I'll let you have this one. You can do everything alone. ::Laughs.::
 See you later, $(context.player.Name). Take care.<end>
 
 =>q18
-Je vous laisse celui-là. Tu peux tout faire seul. ::Rit.:: Donc, cette merde est réparée... Le générateur, je veux dire. Je suis fatiguée, sale et fatiguée. Je te retrouve au JKK, n'oublie pas de me rappeler de te donner ta récompense. Je crois que c'est tout. Magnifique.
+Ok, ok, je te laisse celle-là. Tu peux tout faire $(#seul/seule). ::Rit.:: Donc, cette ferraille est réparée... Le générateur, je veux dire. Je suis fatiguée, je suis sale, et je suis fatiguée. Je te retrouve au JKK, oublie pas de me rappeler de te filer ta récompense. Je crois que c'est tout. Chouette.
 
-A plus tard, $(context.player.Name). Prends soin de toi.<end>
+À plus, $(context.player.Name). Prends soin de toi.<end>
 
 =>q19_original
 Just pull that switch over there for me.<end>
 
 =>q19
-Arrête ce bouton pour moi.<end>
+Actionne juste cet interrupteur, là-bas.<end>
 
 =>q20_original
 It's tinkering time! Let's see now... ::She begins working on the broken power generator.:: Okay... This piece of junk goes away... I need this one...<end>
 
 =>q20
-C'est l'heure de bricoler ! Voyons... ::Elle commence à travailler sur le générateur d'énergie cassé.:: Ok... Cette merde s'en va... J'ai besoin de celui-ci...<end>
+C'est l'heure de bricoler ! Voyons voir... ::Elle commence à travailler sur le générateur cassé.:: Ok... Cette ferraille, dehors... Il me faut celui-là...<end>
 
 =>q21_original
 Ah, there... You know, I don't think this is going to be a difficult fix.<end>
 
 =>q21
-Ah, voilà... Tu sais, je ne pense pas que ça va être difficile.<end>
+Ah, voilà... Tu sais, je pense pas que ce soit une réparation difficile.<end>
 
 =>a22_original
 ::[Mechanics]:: Do you need any help with that? I've skills!<end>
 
 =>a22
-::[Mécanique]:: Vous avez besoin d'aide ? J'ai des compétences !<end>
+::[Mechanics]:: T'as besoin d'un coup de main ? Je m'y connais !<end>
 
 =>q23_original
 No need, I can... hold on... ::She grabs one of the generator's components.:: Oh, that goes in there. I can fix it on my own, but thanks. You're lovely.<end>
 
 =>q23
-Pas besoin, je peux... tenir... ::Elle prend un des composants du générateur.:: Ça y est. Je peux le réparer tout seul, mais merci. Vous êtes adorable.<end>
+Pas besoin, je peux... attends... ::Elle attrape une pièce du générateur.:: Ah, ça va là. Je peux le réparer toute seule, mais merci. T'es adorable.<end>
 
 =>a24_original
 Sooooo - now what?<end>
 
 =>a24
-Et maintenant ?<end>
+Etttt maintenant ?<end>
 
 =>q25_original
 Now we chat while I fix this pipewor-- Whoops! Pardon the language.
@@ -168,15 +168,15 @@ Now we chat while I fix this pipewor-- Whoops! Pardon the language.
 Anyway, we'll get a chance to talk about stuff other than the stuff I talk about most of the time: go there, do that, pull this, push this guy over the ledge into his death and watch as he becomes a red pancake. Mmm, pancakes...<end>
 
 =>q25
-Maintenant on discute pendant que je répare cette pipewor... Oups ! Pardonnez la langue.
+Maintenant on discute pendant que je répare ce putai-- Oups ! Pardon le langage.
 
-Quoi qu'il en soit, nous aurons l'occasion de parler de choses autres que celles dont je parle la plupart du temps : allez là-bas, faites ça, tirez ça, poussez ce type sur le rebord dans sa mort et regardez comme il devient un pancake rouge. Des crêpes...<end>
+Bref, on va pouvoir parler d'autre chose que de ce que je raconte tout le temps : va là-bas, fais ci, tire ça, pousse ce type par-dessus le rebord et regarde-le devenir une crêpe rouge. Mmm, les crêpes...<end>
 
 =>q26_original
 These are the rules, you ask me a question, I answer, then I ask you a question, you answer, and we repeat the process! You have the honor, $(#friend/girl). Go!<end>
 
 =>q26
-Ce sont les règles, vous me posez une question, je réponds, puis je vous pose une question, vous répondez, et nous répétons le processus! Vous avez l'honneur, $(#friend/girl). Allez !<end>
+Les règles, c'est ça : tu me poses une question, je réponds, ensuite je t'en pose une, tu réponds, et on recommence ! T'as l'honneur, $(#mon pote/ma belle). Vas-y !<end>
 
 =>q27_original
 <end>
@@ -188,7 +188,7 @@ Ce sont les règles, vous me posez une question, je réponds, puis je vous pose 
 So, how did you end up working for JKK?<end>
 
 =>a28
-Comment avez-vous fini par travailler pour JKK ?<end>
+Comment t'as fini par bosser pour JKK ?<end>
 
 =>q29_original
 Lovely question, $(#my friend/girl), lovely. I was working for my father in his mechanical store up until a few years ago. The business was going okay at the time, but living in Core City is quite hard. JKK was at the time offering a position for a trim serviceman - you know, those street monitors - and they were paying quite... generously.
@@ -196,15 +196,15 @@ Lovely question, $(#my friend/girl), lovely. I was working for my father in his 
 I went there and told Rodger: "Sir, I want to apply for the position of a service-*woman*!" He told me to shut the hell up and sign the papers. ::She laughs.:: So that's how that started.<end>
 
 =>q29
-Belle question, $(#my friend/girl), charmante. Je travaillais pour mon père dans son magasin mécanique jusqu'à il y a quelques années. Les affaires allaient bien à l'époque, mais vivre dans Core City est assez difficile. JKK était à l'époque en train d'offrir une position pour un agent de compensation - vous savez, ces moniteurs de rue - et ils payaient assez... généreusement.
+Jolie question, $(#mon ami/ma belle), vraiment. Je bossais pour mon père dans son atelier méca, jusqu'à il y a quelques années. Les affaires tournaient, à l'époque, mais vivre à Core City, c'est pas donné. JKK cherchait un technicien de trims - tu sais, les moniteurs de rue - et ils payaient plutôt... généreusement.
 
-J'y suis allé et j'ai dit à Rodger: "Monsieur, je veux postuler pour le poste de femme de service*!" Il m'a dit de la fermer et de signer les papiers. ::Elle rit.:: C'est comme ça que ça a commencé.<end>
+J'y suis allée et j'ai dit à Rodger : « Monsieur, je postule pour le poste de *technicienne* ! » Il m'a dit de la fermer et de signer les papiers. ::Elle rit.:: C'est comme ça que ça a commencé.<end>
 
 =>a30_original
 From what I've experienced, you do a lot more than just servicing.<end>
 
 =>a30
-D'après ce que j'ai vécu, tu fais bien plus que de servir.<end>
+Vu ce que j'ai vu, tu fais un peu plus que de l'entretien.<end>
 
 =>q31_original
 Erm... okay... Well, the thing about JKK is that they're very flexible regarding what you can become. So, you might start as say... a toilet cleaner, like you wanted to. ::She laughs.:: and if you have certain talents, skills and whatnot you could end up transitioning into a whole different career.
@@ -212,21 +212,21 @@ Erm... okay... Well, the thing about JKK is that they're very flexible regarding
 I started simple, and perhaps they saw I had other qualities, so step by step, I ended up working as a coordinator for all these important operations for JKK, as you know. I might be a little wacky in general, but when there's serious work to be done, serious Vivian steps in and dominates it.<end>
 
 =>q31
-Euh... ok... Eh bien, la chose à propos de JKK est qu'ils sont très flexibles en ce qui concerne ce que vous pouvez devenir. Donc, vous pourriez commencer comme dire... un nettoyant de toilette, comme vous le vouliez. ::Elle rit.:: et si vous avez certains talents, compétences et ce que vous ne pourriez pas finir par passer à une toute autre carrière.
+Euh... ok... Le truc avec JKK, c'est qu'ils sont très souples sur ce que tu peux devenir. Donc tu peux commencer, disons... laveur de chiottes, comme tu voulais. ::Elle rit.:: Et si t'as certains talents, des skills et tout le reste, tu peux finir dans une tout autre carrière.
 
-J'ai commencé simple, et peut-être ils ont vu que j'avais d'autres qualités, donc pas à pas, j'ai fini par travailler comme coordinateur pour toutes ces opérations importantes pour le JKK, comme vous le savez. Je suis peut-être un peu largué en général, mais quand il y a du travail sérieux à faire, Vivian est sérieuse et la domine.<end>
+J'ai commencé simple, et peut-être qu'ils ont vu que j'avais d'autres qualités. Pas à pas, je me suis retrouvée coordinatrice de toutes ces ops importantes pour JKK, comme tu sais. Je suis un peu barrée, en général, mais quand y a du vrai boulot, Vivian sérieuse débarque et elle le domine.<end>
 
 =>a32_original
 No, I said I DIDN'T want to clean toilets!<end>
 
 =>a32
-Non, j'ai dit que je ne voulais pas nettoyer les toilettes !<end>
+Non, j'ai dit que je voulais PAS nettoyer les chiottes !<end>
 
 =>q33_original
 Calm down, I'm just joking. ::She laughs.:: I swear, your reactions can be so adorable at times.<end>
 
 =>q33
-Calme-toi, je plaisante. ::Elle rit.:: Je le jure, vos réactions peuvent parfois être adorables.<end>
+Calme-toi, je plaisante. ::Elle rit.:: Je te jure, tes réactions sont trop adorables, des fois.<end>
 
 =>q34_original
 <end>
@@ -238,7 +238,7 @@ Calme-toi, je plaisante. ::Elle rit.:: Je le jure, vos réactions peuvent parfoi
 My turn! Tell me your story. Where are you from?<end>
 
 =>q35
-Mon tour ! Racontez-moi votre histoire. D'où venez-vous ?<end>
+Mon tour ! Raconte-moi. T'es d'où ?<end>
 
 =>a36_original
 I come from South Gate Station.<end>
@@ -250,19 +250,19 @@ Je viens de South Gate Station.<end>
 South Gate Station? I heard about it, but where is it exactly?<end>
 
 =>q37
-South Gate Station ? J'en ai entendu parler, mais où est-il exactement ?<end>
+South Gate Station ? J'en ai entendu parler, mais c'est où, exactement ?<end>
 
 =>a38_original
 It's east from here.<end>
 
 =>a38
-C'est l'est d'ici.<end>
+À l'est d'ici.<end>
 
 =>q39_original
 ::She laughs.:: You're messing with me! At least tell me what's it like there?<end>
 
 =>q39
-::Elle rit.:: Tu te fous de moi ! Au moins, dis-moi comment c'est là ?<end>
+::Elle rit.:: Tu te fous de moi ! Au moins, dis-moi comment c'est, là-bas.<end>
 
 =>q40_original
 <end>
@@ -274,13 +274,13 @@ C'est l'est d'ici.<end>
 It's great! I really enjoy life there. It's just that my job requires me traveling around, so I spend a lot of time away from SGS.<end>
 
 =>a41
-C'est génial ! J'aime vraiment la vie là-bas. C'est juste que mon travail exige que je voyage autour, donc je passe beaucoup de temps loin de SGS.<end>
+C'est génial ! J'aime vraiment la vie là-bas. C'est juste que le boulot m'oblige à tourner, donc je passe beaucoup de temps loin de SGS.<end>
 
 =>q42_original
 Lovely. Not many have that privilege, you know. Glad to hear someone say they're happy with their community.<end>
 
 =>q42
-Magnifique. Peu ont ce privilège. Heureux d'entendre quelqu'un dire qu'ils sont satisfaits de leur communauté.<end>
+Chouette. Y en a pas beaucoup qui ont ce luxe, tu sais. Ravie d'entendre quelqu'un dire qu'il est bien dans sa communauté.<end>
 
 =>q43_original
 Your turn!<end>
@@ -292,97 +292,97 @@ Your turn!<end>
 It's okay. Some people are nice, while others are jerks. There's this Gorsky guy who's been making my blood boil!<end>
 
 =>a44
-C'est bon. Certaines personnes sont gentilles, tandis que d'autres sont des cons. Il y a un mec Gorsky qui fait bouillir mon sang !<end>
+Ça va. Y a des gens bien, et y a des cons. Y a un certain Gorsky qui me fait bouillir le sang !<end>
 
 =>q45_original
 Unfortunately, there's always people like that. But who cares about jerks - just ignore them if you can and spend more time with the people who make you feel good. Make you feel lovely.<end>
 
 =>q45
-Malheureusement, il y a toujours des gens comme ça. Mais qui se soucie des crétins - il suffit de les ignorer si vous pouvez et passer plus de temps avec les gens qui vous font vous sentir bien. Fais-toi plaisir.<end>
+Malheureusement, y en a toujours, des gens comme ça. Mais on s'en fiche des cons : tu les ignores si tu peux, et tu passes plus de temps avec ceux qui te font du bien. Qui te font te sentir bien.<end>
 
 =>a46_original
 I really hated it there. It was horrible for so many reasons it would take me far too much time to name them all. That is the reason why I came to Core City - to escape that hole!<end>
 
 =>a46
-J'ai vraiment détesté. C'était horrible pour tant de raisons ça me prendrait beaucoup trop de temps pour les nommer tous. C'est la raison pour laquelle je suis venu à Core City - pour échapper à ce trou!<end>
+J'ai vraiment détesté. C'était horrible pour tellement de raisons que ça me prendrait trop de temps de toutes les lister. C'est pour ça que je suis $(#venu/venue) à Core City : pour sortir de ce trou !<end>
 
 =>q47_original
 Ouch, I'm so sorry. Life in the Underrail can truly be tough; I hope you find what you're looking for right here in Core City! While it has its flaws, at least ts better than what you described.<end>
 
 =>q47
-Je suis désolée. La vie dans le Underrail peut vraiment être difficile; j'espère que vous trouverez ce que vous cherchez ici dans Core City! Bien qu'il ait ses défauts, au moins c'est mieux que ce que vous avez décrit.<end>
+Aïe, je suis désolée. La vie dans l'Underrail peut vraiment être dure. J'espère que tu trouveras ce que tu cherches ici, à Core City ! Elle a ses défauts, mais au moins c'est mieux que ce que tu décris.<end>
 
 =>a48_original
 It's west from here.<end>
 
 =>a48
-C'est l'ouest d'ici.<end>
+À l'ouest d'ici.<end>
 
 =>a49_original
 It's north from here.<end>
 
 =>a49
-C'est au nord d'ici.<end>
+Au nord d'ici.<end>
 
 =>a50_original
 It's south from here.<end>
 
 =>a50
-C'est au sud d'ici.<end>
+Au sud d'ici.<end>
 
 =>q51_original
 Oh, really! ::She laughs.:: I would have never guessed. Well, of course its to the south, I mean... Anyway, at least tell me what's it like there?<end>
 
 =>q51
-Vraiment ! ::Elle rit.:: Je n'aurais jamais deviné. Bien sûr, au sud, je veux dire... Quoi qu'il en soit, dites-moi au moins comment c'est là ?<end>
+Ah bon ! ::Elle rit.:: J'aurais jamais deviné. Enfin, bien sûr que c'est au sud, je veux dire... Bref, dis-moi au moins comment c'est, là-bas.<end>
 
 =>a52_original
 Nowhere important.<end>
 
 =>a52
-Rien d'important.<end>
+Nulle part d'important.<end>
 
 =>q53_original
 Come on! ::She laughs.:: Just tell me.<end>
 
 =>q53
-Allez ! ::Elle rit.:: Dis-moi juste.<end>
+Allez ! ::Elle rit.:: Juste, dis-le-moi.<end>
 
 =>a54_original
 I can't... some horrible things happened... I just can't...<end>
 
 =>a54
-Je ne peux pas... des choses horribles sont arrivées... Je ne peux pas...<end>
+Je peux pas... des choses horribles se sont passées... Je peux pas...<end>
 
 =>q55_original
 Oh, I'm so sorry! I didn't know. Drats, I'm so stupid. Good job, Vivian! Um, it's your turn to ask questions if you want to.<end>
 
 =>q55
-Oh, je suis désolée ! Je ne savais pas. Drats, je suis stupide. Bon travail, Vivian ! C'est à votre tour de poser des questions.<end>
+Oh, je suis désolée ! Je savais pas. Mince, je suis trop bête. Beau travail, Vivian ! Euh, c'est à toi de poser des questions, si tu veux.<end>
 
 =>a56_original
 I come from a place far, far away...<end>
 
 =>a56
-Je viens d'un endroit loin, loin...<end>
+Je viens d'un endroit très, très loin...<end>
 
 =>q57_original
 Okay...<end>
 
 =>q57
-Très bien...<end>
+D'accord...<end>
 
 =>a58_original
 It's a black fortress overlooking a huge abyss. The walls are made of granite, while the large cavern the fortress is in is littered with creepy-crawlies of many different kinds.<end>
 
 =>a58
-C'est une forteresse noire surplombant un énorme abîme. Les murs sont en granit, tandis que la grande caverne dans laquelle se trouve la forteresse est jonchée de rameaux rampants de toutes sortes.<end>
+C'est une forteresse noire au-dessus d'un énorme gouffre. Les murs sont en granit, et la grande caverne autour est pleine de bestioles de toutes sortes.<end>
 
 =>q59_original
 Wow, that sounds really menacing! Never heard of anyone living in a granite fortress before; must be a pretty lovely place to live, though. Em, I don't think "lovely" is the right word here. What about other people there?<end>
 
 =>q59
-Ça semble vraiment menaçant ! Jamais entendu parler de quelqu'un vivant dans une forteresse de granit auparavant; doit être un endroit assez agréable pour vivre, cependant. Em, je ne pense pas que "bien" soit le bon mot ici. Et les autres ?<end>
+Ouah, ça a l'air vraiment menaçant ! J'ai jamais entendu parler de quelqu'un qui vit dans une forteresse en granit. Ça doit être un endroit assez chouette, quand même. Euh, je crois pas que « chouette » soit le mot. Et les autres, là-bas ?<end>
 
 =>q60_original
 <end>
@@ -394,79 +394,79 @@ Wow, that sounds really menacing! Never heard of anyone living in a granite fort
 The people are great! Every time I'm gone, I feel like I've left a part of me there.<end>
 
 =>a61
-Le peuple est génial ! Chaque fois que je pars, j'ai l'impression d'y avoir laissé une partie de moi.<end>
+Les gens sont géniaux ! Chaque fois que je pars, j'ai l'impression d'y laisser un morceau de moi.<end>
 
 =>a62_original
 The people are nice.<end>
 
 =>a62
-Les gens sont gentils.<end>
+Les gens sont bien.<end>
 
 =>a63_original
 The people suck and as far as I'm concerned should all be killed. I ran away from there and I'm not looking back.<end>
 
 =>a63
-Les gens sont nuls et en ce qui me concerne devraient tous être tués. Je me suis enfui et je ne regarde pas en arrière.<end>
+Les gens sont nuls et, pour moi, ils devraient tous y passer. J'ai fui cet endroit, et je me retourne pas.<end>
 
 =>a64_original
 It's a small shack with me, my mom, my one-eyed father and seven brothers and sisters.<end>
 
 =>a64
-C'est une petite cabane avec moi, ma mère, mon père aux yeux simples et sept frères et sœurs.<end>
+C'est une petite cabane : moi, ma mère, mon père borgne et sept frères et sœurs.<end>
 
 =>q65_original
 That sounds really overcrowded! No wonder you left. Drats, I didn't mean to sound insensitive. I'm sorry, and I wish you and your family the best. Um...<end>
 
 =>q65
-Ça semble vraiment surpeuplé ! Pas étonnant que tu sois partie. Drats, je ne voulais pas paraître insensible. Je suis désolé, et je vous souhaite le meilleur. Euh...<end>
+Ça a l'air vraiment bondé ! Pas étonnant que tu sois $(#parti/partie). Mince, je voulais pas avoir l'air insensible. Je suis désolée, et je te souhaite le meilleur, à toi et à ta famille. Euh...<end>
 
 =>a66_original
 It's a metal platform built in the middle of a large lake.<end>
 
 =>a66
-C'est une plateforme métallique construite au milieu d'un grand lac.<end>
+C'est une plateforme métallique au milieu d'un grand lac.<end>
 
 =>q67_original
 That sounds interesting. I think that's a pretty lovely place to live, especially if you like fishing. But, I hope there aren't any pirates around to bother you. What are the people like there?<end>
 
 =>q67
-Ça semble intéressant. Je pense que c'est un bel endroit où vivre, surtout si vous aimez pêcher. Mais j'espère qu'il n'y a pas de pirates autour pour vous déranger. Comment sont les gens là-bas ?<end>
+Ça a l'air intéressant. Je trouve que c'est un bel endroit pour vivre, surtout si t'aimes pêcher. J'espère juste qu'y a pas de pirates pour t'embêter. Ils sont comment, les gens, là-bas ?<end>
 
 =>a68_original
 It's a station famous for its pink walls, far away from here. No one knows exactly why the walls are pink, but I've heard scary and probably untrue legends that supposedly explain it.<end>
 
 =>a68
-C'est une station célèbre pour ses murs roses, loin d'ici. Personne ne sait exactement pourquoi les murs sont roses, mais j'ai entendu des légendes effrayantes et probablement fausses qui l'expliquent.<end>
+C'est une station connue pour ses murs roses, loin d'ici. Personne sait vraiment pourquoi ils sont roses, mais j'ai entendu des légendes flippantes, et probablement fausses, qui sont censées l'expliquer.<end>
 
 =>q69_original
 ::She laughs.:: That is the most ridiculous thing I think I've ever heard in my moderately long life. Pink! ::She laughs again.:: Lovely... And, what about the people there?<end>
 
 =>q69
-::Elle rit.:: C'est la chose la plus ridicule que j'ai jamais entendue dans ma vie moyennement longue. Rose ! ::Elle rit encore.:: Magnifique... Et les gens là-bas ?<end>
+::Elle rit.:: C'est la chose la plus ridicule que j'aie entendue de toute ma vie moyennement longue. Roses ! ::Elle rit encore.:: Chouette... Et les gens, là-bas ?<end>
 
 =>q70_original
 My turn! Do you have any lovely stories you'd want to share with me?<end>
 
 =>q70
-Mon tour ! Avez-vous de belles histoires que vous voudriez partager avec moi ?<end>
+Mon tour ! T'as des histoires chouettes à me raconter ?<end>
 
 =>a71_original
 I had to get these drill parts for an Armadillo class drill, you see, and the only ones I could find were in the old section of Junkyard. It was full of horrible mutants, which were out to get and devour me, but I prevailed, got the parts, and left that cursed place in one piece.<end>
 
 =>a71
-J'ai dû obtenir ces pièces pour un exercice de classe Armadillo, vous voyez, et les seuls que j'ai pu trouver étaient dans l'ancienne section de Junkyard. Il était plein d'horribles mutants, qui étaient dehors pour me prendre et dévorer, mais j'ai dominé, obtenu les parties, et laissé cette place maudite en une seule pièce.<end>
+J'ai dû récupérer des pièces pour une foreuse classe Armadillo, tu vois, et les seules que j'ai trouvées étaient dans le vieux quartier de Junkyard. Plein d'horribles mutants, décidés à me croquer. J'ai tenu, j'ai pris les pièces, et je suis $(#reparti/repartie) de cet endroit maudit en un seul morceau.<end>
 
 =>q72_original
 Mutants? ::She shudders.:: We also have those nasties appear from time to time in Core City, and I even had the "fortune" of meeting a few in person. Long time ago it was. It ended bad for them, and were it not for my trusty crossbow to poke them to death I'd have been one dead Vivian. ::She laughs.:: Those things are tough.<end>
 
 =>q72
-Des mutants ? ::Elle tremble.:: Nous avons aussi ces nasties apparaissent de temps en temps dans Core City, et j'ai même eu la « chance » de rencontrer quelques-uns en personne. Il y a longtemps. Ça s'est fini mal pour eux, et n'était-ce pas pour mon arbalète fidèle de les faire mourir, j'aurais été une Viviane morte. ::Elle rit.:: Ces choses sont difficiles.<end>
+Des mutants ? ::Elle frissonne.:: On a aussi ces saletés qui débarquent de temps en temps à Core City, et j'ai même eu la « chance » d'en croiser quelques-uns en personne. Y a longtemps. Ça s'est mal fini pour eux, et sans mon arbalète pour les percer jusqu'à ce qu'ils y restent, y aurait eu une Vivian de moins. ::Elle rit.:: Ces trucs sont costauds.<end>
 
 =>a73_original
 I helped some Milton guy find a key to his footlocker.<end>
 
 =>a73
-J'ai aidé un gars de Milton à trouver la clé de son verrou.<end>
+J'ai aidé un certain Milton à retrouver la clé de sa cantine.<end>
 
 =>q74_original
 And?<end>
@@ -478,157 +478,157 @@ Et alors ?<end>
 Nothing, he was happy.<end>
 
 =>a75
-Rien, il était heureux.<end>
+Rien, il était content.<end>
 
 =>q76_original
 Okay. I don't know what I expected from that. ::She laughs.:: Well, that's a lovely thing you did there. Good work.<end>
 
 =>q76
-Très bien. Je ne sais pas ce que j'attendais de ça. ::Elle rit.:: C'est une belle chose que tu as faite là-bas. Bon travail.<end>
+Ok. Je sais pas trop ce que j'attendais. ::Elle rit.:: Enfin, c'est gentil ce que t'as fait. Beau travail.<end>
 
 =>a77_original
 He gave me a lot of cash for it. Yup, I like money.<end>
 
 =>a77
-Il m'a donné beaucoup d'argent pour ça. J'aime l'argent.<end>
+Il m'a filé un tas de fric pour ça. Ouais, j'aime l'argent.<end>
 
 =>q78_original
 There must have been something important in that footlocker. Oh, well, okay, that was a lovely story, if a bit short. ::She laughs.::<end>
 
 =>q78
-Il devait y avoir quelque chose d'important dans ce porte-pied. C'était une belle histoire, un peu courte. ::Elle rit.::<end>
+Y avait forcément un truc important dans cette cantine. Bon, ok, c'était une chouette histoire, un peu courte. ::Elle rit.::<end>
 
 =>a79_original
 I helped Foundry destroy the Beast, a giant monster that terrorized the whole station. I lured the creature to a large smelting furnace and poured enough molten metal onto it to teach it a valuable life lesson - do not mess with $(context.player.Name).<end>
 
 =>a79
-J'ai aidé Foundry à détruire la Bête, un monstre géant qui a terrorisé toute la station. J'ai attiré la créature dans un grand four de fusion et versé assez de métal fondu sur elle pour lui enseigner une leçon de vie précieuse - ne gâchez pas $(context.player.Name).<end>
+J'ai aidé Foundry à détruire la Bête, un monstre géant qui terrorisait toute la station. Je l'ai attirée vers un grand four de fusion et je lui ai versé assez de métal fondu pour lui apprendre une leçon : on cherche pas $(context.player.Name).<end>
 
 =>q80_original
 Wow! There's really no messing around with you, $(context.player.Name). I've seen some action, but what you just told me... man. I can now be sure I'm in safe hands in case something nasty crawls out of those vents. ::She laughs.::<end>
 
 =>q80
-Ouah ! Il n'y a vraiment aucun problème avec toi, $(context.player.Name). J'ai vu de l'action, mais ce que tu viens de me dire... mec. Je peux être sûr d'être en sécurité au cas où quelque chose de méchant sortirait de ces évents. ::Elle rit.::<end>
+Ouah ! On plaisante pas avec toi, $(context.player.Name). J'ai vu de l'action, mais ce que tu viens de me raconter... dis donc. Je peux être sûre d'être en de bonnes mains si une saleté sort de ces conduits. ::Elle rit.::<end>
 
 =>a81_original
 I did a burrower infestation cleanup in Camp Hathor. The creatures were swarming from the nearby Hathor mine. So I went in there - bravely - and used TNT to demolish a section of the cave, making way for an underground river to send the bugs to their watery grave.<end>
 
 =>a81
-J'ai fait un nettoyage d'infestation de terriers dans Camp Hathor. Les créatures grouillaient de la mine Hathor voisine. Alors j'y suis allé - courageusement - et j'ai utilisé TNT pour démolir une partie de la grotte, faisant place à une rivière souterraine pour envoyer les insectes à leur tombe aqueuse.<end>
+J'ai nettoyé une infestation de burrowers à Camp Hathor. Les bestioles sortaient de la mine Hathor, à côté. Alors j'y suis $(#allé/allée) - courageusement - et j'ai utilisé du TNT pour faire sauter un morceau de grotte. La rivière souterraine a envoyé les insectes se noyer pour de bon.<end>
 
 =>q82_original
 Wow! That is an interesting story. I hate burrowers and I'm pleased whenever I hear about their eradication! The violenter - the better. ::She laughs.:: Although, I don't think "violenter" is a real word... Meh.<end>
 
 =>q82
-Ouah ! C'est une histoire intéressante. Je déteste les terriers et je suis content quand j'entends parler de leur éradication ! Le plus violent - le mieux. ::Elle rit.:: Bien que, je ne pense pas que "violent" soit un vrai mot... - Oui.<end>
+Ouah ! Histoire intéressante. Je déteste les burrowers, et je suis ravie dès que j'entends qu'on les éradique ! Plus c'est violentère, mieux c'est. ::Elle rit.:: Enfin, je crois pas que « violentère » soit un vrai mot... Bof.<end>
 
 =>a83_original
 I did a burrower infestation cleanup in Camp Hathor. The creatures came from the nearby Hathor mine. So, I went in there like a bloody destroyer I am and smashed a cave wall with my own fists to make way for an underground river to send the bugs to their watery grave.<end>
 
 =>a83
-J'ai fait un nettoyage d'infestation de terriers dans Camp Hathor. Les créatures venaient de la mine d'Hathor. Donc, j'y suis entré comme un destroyer ensanglanté et j'ai brisé un mur de caverne avec mes propres poings pour faire place à une rivière souterraine pour envoyer les insectes dans leur tombe aqueuse.<end>
+J'ai nettoyé une infestation de burrowers à Camp Hathor. Les bestioles venaient de la mine Hathor, à côté. Alors j'y suis $(#entré/entrée) comme le destroyer que je suis et j'ai pulvérisé un mur de grotte à coups de poings. La rivière souterraine a envoyé les insectes se noyer pour de bon.<end>
 
 =>q84_original
 I meant real stories, not $(#manly man/super girl) fantasies! ::She laughs.:: But, I really hate burrowers, so I'll give you that.<end>
 
 =>q84
-Je voulais dire de vraies histoires, pas des fantasmes $(#manly man/super girl) ! ::Elle rit.:: Mais, je déteste vraiment les terriers, alors je vais te donner ça.<end>
+Je parlais de vraies histoires, pas de tes fantasmes de $(#gros dur/super nana) ! ::Elle rit.:: Mais je déteste vraiment les burrowers, alors je te l'accorde.<end>
 
 =>a85_original
 I was using a remote to control a utility bot in an abandoned battery recycling plant. It was really cool.<end>
 
 =>a85
-J'utilisais une télécommande pour contrôler un robot dans une usine de recyclage de piles abandonnée. C'était vraiment cool.<end>
+Je pilotais un utility bot à distance dans une usine de recyclage de piles abandonnée. C'était vraiment cool.<end>
 
 =>q86_original
 Now, you lucky... Lucky you! I think robots are the most awesome thing ever! I wish *I* could have done that! That's it: When I'm done here, I'm making myself a lovely little robot. I'll call him Mr. Tin! ::She pauses to think:: I'll think about the name, but I want a robot!<end>
 
 =>q86
-Maintenant, vous avez de la chance... Heureusement ! Je pense que les robots sont la chose la plus géniale jamais ! J'aurais aimé pouvoir faire ça ! C'est tout : quand j'ai fini ici, je me fais un joli petit robot. Je vais l'appeler M. Tin ! ::Elle s'arrête pour penser:: Je vais réfléchir au nom, mais je veux un robot !<end>
+Alors là, espèce de $(#veinard/veinarde)... $(#Chanceux/Chanceuse), va ! Les robots, c'est ce que je préfère au monde ! J'aurais trop voulu faire ça ! Voilà : quand j'ai fini ici, je me fabrique un petit robot tout mignon. Je l'appellerai Mr. Tin ! ::Elle s'arrête pour réfléchir:: Je réfléchirai au nom, mais je veux un robot !<end>
 
 =>a87_original
 I fought in the Arena and became the Invictus. How about that?<end>
 
 =>a87
-Je me suis battu dans l'aréna et je suis devenu l'Invictus. Et ça ?<end>
+Je me suis $(#battu/battue) dans l'Arena et je suis $(#devenu/devenue) l'Invictus. Ça te va ?<end>
 
 =>q88_original
 Nice try, $(context.player.Name). I was watching that final match with Carnifex; the new Invictus is much taller than you. The cameras don't lie. ::She laughs.::<end>
 
 =>q88
-Bien essayé, $(context.player.Name). Je regardais ce dernier match avec Carnifex ; le nouvel Invictus est beaucoup plus grand que vous. Les caméras ne mentent pas. ::Elle rit.::<end>
+Bien essayé, $(context.player.Name). Je regardais la finale contre Carnifex. Le nouvel Invictus est beaucoup plus grand que toi. Les caméras mentent pas. ::Elle rit.::<end>
 
 =>a89_original
 I'm actually a really boring $(#guy/girl). Nothing interesting happens in my life.<end>
 
 =>a89
-Je suis vraiment un $(#guy/girl) très ennuyeux. Rien d'intéressant ne se passe dans ma vie.<end>
+En vrai, je suis $(#un gars/une fille) vraiment $(#ennuyeux/ennuyeuse). Rien d'intéressant dans ma vie.<end>
 
 =>q90_original
 Nothing? Hmm, you are either really, really humble or a truly boring person. I'll go with humble!<end>
 
 =>q90
-Rien ? Tu es soit vraiment, vraiment humble, soit vraiment ennuyeux. J'irai avec humble !<end>
+Rien ? Hmm, soit t'es vraiment, vraiment humble, soit t'es quelqu'un de vraiment chiant. Je vote humble !<end>
 
 =>q91_original
 My turn! So, what's your opinion on Core City?<end>
 
 =>q91
-Mon tour ! Alors, quel est votre avis sur Core City ?<end>
+Mon tour ! Alors, t'en penses quoi, de Core City ?<end>
 
 =>a92_original
 I think it's great. I mean sure, the Faceless are invading, there's crime and poverty, death and famine in some parts, but it's like that all over Underrail. Maybe not the Faceless, though.<end>
 
 =>a92
-Je pense que c'est génial. Je veux dire, le Faceless envahit, il y a le crime et la pauvreté, la mort et la famine dans certaines parties, mais c'est comme ça partout dans Underrail. Peut-être pas le Faceless.<end>
+Je trouve que c'est génial. Bon, ok, les Faceless envahissent, y a du crime et de la misère, de la mort et de la famine par endroits, mais c'est comme ça partout dans l'Underrail. Les Faceless, peut-être pas.<end>
 
 =>q93_original
 You have a point there. There are so many things wrong with Core City, and it is by no means perfect, but I think it's still better than most other places in South Underrail. I mean, you've traveled around, you know what it's like. I think we can be happy with what we have here.<end>
 
 =>q93
-Vous avez raison. Il y a tellement de choses qui ne vont pas avec Core City, et c'est loin d'être parfait, mais je pense que c'est encore mieux que la plupart des autres endroits du Sud Underrail. Tu as voyagé, tu sais comment c'est. Je pense que nous pouvons être heureux de ce que nous avons ici.<end>
+T'as pas tort. Y a tellement de trucs qui clochent à Core City, et c'est loin d'être parfait, mais je trouve que c'est encore mieux que la plupart des autres endroits du South Underrail. T'as tourné, tu sais comment c'est. Je pense qu'on peut être contents de ce qu'on a ici.<end>
 
 =>q94_original
 ::After she places the final component into its place, a self-satisfied smile appears on her face.:: Wait! I think I got this. Would you mind going there and pulling that switch; I think we'll be done here in just a minute, and then it's mission accomplished for team Vivian and $(context.player.Name). Lovely.<end>
 
 =>q94
-::Après avoir placé la dernière composante à sa place, un sourire auto-satisfait apparaît sur son visage.:: Attendez ! Je crois que j'ai compris. Pourriez-vous aller là-bas et tirer ce commutateur ; je pense que nous allons être terminés ici dans une minute, et puis c'est la mission accomplie pour l'équipe Vivian et $(context.player.Name). Magnifique.<end>
+::Après avoir mis la dernière pièce en place, un sourire satisfait lui vient au visage.:: Attends ! Je crois que j'ai bon. Tu peux aller actionner cet interrupteur ? On en a pour une minute, et ce sera mission accomplie pour l'équipe Vivian et $(context.player.Name). Chouette.<end>
 
 =>a95_original
 Some things I like, others I dislike. At least it's better than some other places I've been to.<end>
 
 =>a95
-Certaines choses que j'aime, d'autres que j'aime pas. Au moins, c'est mieux que d'autres endroits où je suis allé.<end>
+Y a des trucs que j'aime, d'autres non. Au moins, c'est mieux que certains endroits où je suis $(#allé/allée).<end>
 
 =>a96_original
 I hate this city with a passion. Nearly everything in it is horrible.<end>
 
 =>a96
-Je déteste cette ville avec passion. Presque tout est horrible.<end>
+Je déteste cette ville, vraiment. Presque tout est horrible.<end>
 
 =>q97_original
 I'm sad to hear that. I hope that doesn't apply to JKK, and especially me. I mean, there is a lot of things wrong with Core City, but it's not *that* bad. A lot of other places are oh so much worse. Spend some more time here, and I guarantee you'll find something, at least something good. If not, then... well...<end>
 
 =>q97
-Je suis triste d'entendre ça. J'espère que ça ne s'applique pas au JKK, et surtout à moi. Il y a beaucoup de choses qui ne vont pas avec Core City, mais ce n'est pas mauvais. Beaucoup d'autres endroits sont tellement pires. Passez plus de temps ici, et je vous garantis que vous trouverez quelque chose, au moins quelque chose de bon. Sinon, alors...<end>
+Ça me fait de la peine. J'espère que ça s'applique pas au JKK, et surtout pas à moi. Y a beaucoup de trucs qui clochent à Core City, mais c'est pas *à ce point*. Plein d'autres endroits sont tellement pires. Reste un peu, et je te garantis que tu trouveras quelque chose. Au moins un truc bien. Sinon... bon...<end>
 
 =>a98_original
 You remembered that one about the toilet.<end>
 
 =>a98
-Tu t'en souviens à propos des toilettes.<end>
+T'as retenu celle des chiottes.<end>
 
 =>q99_original
 I wasn't expecting it! People who come to work for JKK are all miserable, understandably, so that was quite... lovely. ::She smiles.::<end>
 
 =>q99
-Je ne m'y attendais pas ! Les gens qui viennent travailler pour le JKK sont tous misérables, c'est compréhensible, donc c'était très... charmant. ::Elle sourit.::<end>
+Je m'y attendais pas ! Les gens qui viennent bosser pour JKK sont tous misérables, c'est compréhensible, alors ça, c'était plutôt... chouette. ::Elle sourit.::<end>
 
 =>a100_original
 Maybe I'll too become more than *just* an operative.<end>
 
 =>a100
-Je deviendrai peut-être plus qu'un simple agent.<end>
+Peut-être que moi aussi je deviendrai plus qu'$(#un simple agent/une simple agente).<end>
 
 =>q101_original
 Maybe... Maybe...<end>
@@ -654,15 +654,15 @@ Erm... okay... Well, the thing about JKK is that they're very flexible regarding
 I started simple, and perhaps they saw I had other qualities, so step by step, I ended up working as a coordinator for all these important operations for JKK, as you know. I might be a little wacky in general, but when there's serious work to be done, serious Vivian steps in and dominates it.<end>
 
 =>q104
-Euh... ok... Eh bien, la chose à propos de JKK est qu'ils sont très flexibles en ce qui concerne ce que vous pouvez devenir. Donc, vous pourriez commencer comme dire... un mécanicien, et si vous avez certains talents, compétences et quoi que ce soit vous pourriez finir par passer à une toute autre carrière.
+Euh... ok... Le truc avec JKK, c'est qu'ils sont très souples sur ce que tu peux devenir. Donc tu peux commencer, disons... mécanicien, et si t'as certains talents, des skills et tout le reste, tu peux finir dans une tout autre carrière.
 
-J'ai commencé simple, et peut-être ils ont vu que j'avais d'autres qualités, donc pas à pas, j'ai fini par travailler comme coordinateur pour toutes ces opérations importantes pour le JKK, comme vous le savez. Je suis peut-être un peu largué en général, mais quand il y a du travail sérieux à faire, Vivian est sérieuse et la domine.<end>
+J'ai commencé simple, et peut-être qu'ils ont vu que j'avais d'autres qualités. Pas à pas, je me suis retrouvée coordinatrice de toutes ces ops importantes pour JKK, comme tu sais. Je suis un peu barrée, en général, mais quand y a du vrai boulot, Vivian sérieuse débarque et elle le domine.<end>
 
 =>a105_original
 Carry on...<end>
 
 =>a105
-Continuez...<end>
+Continuer...<end>
 
 =>q106_original
 Well, the thing about JKK is that they're very flexible regarding what you can become. So, you might start as say... a toilet cleaner, like you wanted to. ::She laughs.:: and if you have certain talents, skills and whatnot you could end up transitioning into a whole different career.
@@ -670,9 +670,9 @@ Well, the thing about JKK is that they're very flexible regarding what you can b
 I started simple, and perhaps they saw I had other qualities, so step by step, I ended up working as a coordinator for all these important operations for JKK, as you know. I might be a little wacky in general, but when there's serious work to be done, serious Vivian steps in and dominates it.<end>
 
 =>q106
-Eh bien, la chose à propos de JKK est qu'ils sont très flexibles en ce qui concerne ce que vous pouvez devenir. Donc, vous pourriez commencer comme dire... un nettoyant de toilette, comme vous le vouliez. ::Elle rit.:: et si vous avez certains talents, compétences et ce que vous ne pourriez pas finir par passer à une toute autre carrière.
+Le truc avec JKK, c'est qu'ils sont très souples sur ce que tu peux devenir. Donc tu peux commencer, disons... laveur de chiottes, comme tu voulais. ::Elle rit.:: Et si t'as certains talents, des skills et tout le reste, tu peux finir dans une tout autre carrière.
 
-J'ai commencé simple, et peut-être ils ont vu que j'avais d'autres qualités, donc pas à pas, j'ai fini par travailler comme coordinateur pour toutes ces opérations importantes pour le JKK, comme vous le savez. Je suis peut-être un peu largué en général, mais quand il y a du travail sérieux à faire, Vivian est sérieuse et la domine.<end>
+J'ai commencé simple, et peut-être qu'ils ont vu que j'avais d'autres qualités. Pas à pas, je me suis retrouvée coordinatrice de toutes ces ops importantes pour JKK, comme tu sais. Je suis un peu barrée, en général, mais quand y a du vrai boulot, Vivian sérieuse débarque et elle le domine.<end>
 
 =>q107_original
 Well, the thing about JKK is that they're very flexible regarding what you can become. So, you might start as say... a mechanic, and if you have certain talents, skills and whatnot you could end up transitioning into a whole different career.
@@ -680,21 +680,21 @@ Well, the thing about JKK is that they're very flexible regarding what you can b
 I started simple, and perhaps they saw I had other qualities, so step by step, I ended up working as a coordinator for all these important operations for JKK, as you know. I might be a little wacky in general, but when there's serious work to be done, serious Vivian steps in and dominates it.<end>
 
 =>q107
-Eh bien, la chose à propos de JKK est qu'ils sont très flexibles en ce qui concerne ce que vous pouvez devenir. Donc, vous pourriez commencer comme dire... un mécanicien, et si vous avez certains talents, compétences et quoi que ce soit vous pourriez finir par passer à une toute autre carrière.
+Le truc avec JKK, c'est qu'ils sont très souples sur ce que tu peux devenir. Donc tu peux commencer, disons... mécanicien, et si t'as certains talents, des skills et tout le reste, tu peux finir dans une tout autre carrière.
 
-J'ai commencé simple, et peut-être ils ont vu que j'avais d'autres qualités, donc pas à pas, j'ai fini par travailler comme coordinateur pour toutes ces opérations importantes pour le JKK, comme vous le savez. Je suis peut-être un peu largué en général, mais quand il y a du travail sérieux à faire, Vivian est sérieuse et la domine.<end>
+J'ai commencé simple, et peut-être qu'ils ont vu que j'avais d'autres qualités. Pas à pas, je me suis retrouvée coordinatrice de toutes ces ops importantes pour JKK, comme tu sais. Je suis un peu barrée, en général, mais quand y a du vrai boulot, Vivian sérieuse débarque et elle le domine.<end>
 
 =>a108_original
 Tell me honestly: Do you like working for JKK?<end>
 
 =>a108
-Vous aimez travailler pour JKK ?<end>
+Dis-moi franchement : t'aimes bosser pour JKK ?<end>
 
 =>q109_original
 I don't, they are the most horrible people I've ever met.<end>
 
 =>q109
-Non, ce sont les gens les plus horribles que j'aie jamais rencontrés.<end>
+Non. C'est les gens les plus horribles que j'aie jamais croisés.<end>
 
 =>a110_original
 Really?<end>
@@ -706,109 +706,109 @@ Vraiment ?<end>
 ::She laughs.:: No! No, no, no! You don't get jokes, do you? Listen: All the people I've worked with have been just... lovely. ::She smiles.:: That includes you too, silly. I just can't complain: The money is good, the people are good, the work hours are managable. It's lovely.<end>
 
 =>q111
-::Elle rit.:: Non ! Non, non, non ! Vous n'avez pas de blagues ? Toutes les personnes avec qui j'ai travaillé ont été... charmantes. ::Elle sourit.:: Ça inclut toi aussi, idiot. Je ne peux pas me plaindre. L'argent est bon, les gens sont bons, les heures de travail sont maniables. C'est charmant.<end>
+::Elle rit.:: Non ! Non, non, non ! Tu piges pas les blagues, hein ? Écoute : tous les gens avec qui j'ai bossé ont été juste... adorables. ::Elle sourit.:: Toi aussi, andouille. Je peux vraiment pas me plaindre : le fric est bon, les gens sont bien, les horaires sont gérables. C'est chouette.<end>
 
 =>a112_original
 You must be joking.<end>
 
 =>a112
-Vous plaisantez.<end>
+Tu plaisantes.<end>
 
 =>q113_original
 ::She laughs.:: Of course I am, $(#silly/girl). All the people I've worked with have been just... lovely. ::She smiles.:: That includes you too, silly. I just can't complain: The money is good, the people are good, the work hours are managable. It's lovely.<end>
 
 =>q113
-::Elle rit.:: Bien sûr que oui, $(#silly/girl). Toutes les personnes avec qui j'ai travaillé ont été... charmantes. ::Elle sourit.:: Ça inclut toi aussi, idiot. Je ne peux pas me plaindre. L'argent est bon, les gens sont bons, les heures de travail sont maniables. C'est charmant.<end>
+::Elle rit.:: Bien sûr que oui, $(#andouille/ma belle). Tous les gens avec qui j'ai bossé ont été juste... adorables. ::Elle sourit.:: Toi aussi, andouille. Je peux vraiment pas me plaindre : le fric est bon, les gens sont bien, les horaires sont gérables. C'est chouette.<end>
 
 =>a114_original
 Then let's run away together and form our own JKK. Will give it a different name, though!<end>
 
 =>a114
-Alors fuyons ensemble et formons notre propre JKK. Je vais lui donner un nom différent.<end>
+Alors on se casse ensemble et on se fait notre propre JKK. On lui trouvera un autre nom !<end>
 
 =>q115_original
 Let's go! Oh, wait... I have to fix this junk first. ::She laughs.:: No, I'm messing around. All the people I've worked with have been just... lovely. ::She smiles.:: That includes you too, silly. I just can't complain: The money is good, the people are good, the work hours are managable. It's lovely.<end>
 
 =>q115
-Allons-y ! Attendez... Je dois d'abord réparer cette merde. ::Elle rit.:: Non, je déconne. Toutes les personnes avec qui j'ai travaillé ont été... charmantes. ::Elle sourit.:: Ça inclut toi aussi, idiot. Je ne peux pas me plaindre. L'argent est bon, les gens sont bons, les heures de travail sont maniables. C'est charmant.<end>
+On y va ! Attends... Je dois d'abord réparer cette ferraille. ::Elle rit.:: Non, je déconne. Tous les gens avec qui j'ai bossé ont été juste... adorables. ::Elle sourit.:: Toi aussi, andouille. Je peux vraiment pas me plaindre : le fric est bon, les gens sont bien, les horaires sont gérables. C'est chouette.<end>
 
 =>a116_original
 How come they sent you to fix this stuff? Seems pretty basic and unfitting of someone that deals with covert operations.<end>
 
 =>a116
-Pourquoi t'ont-ils envoyé réparer ça ? Il semble assez basique et inapte à quelqu'un qui s'occupe d'opérations secrètes.<end>
+Pourquoi c'est toi qu'ils envoient réparer ça ? Ça a l'air basique, pas vraiment le job de quelqu'un qui gère des ops discrètes.<end>
 
 =>q117_original
 Well, while it's true that I *can* fix it, it is a bit strange. But, to tell you the truth - I don't mind it, even though I'm... ::She yanks a stuck generator part a few times.:: Drats, this stupid part won't get out... Anyway, you get the picture. I... ::She finally manages to pull the part out.:: I haven't done this in a while, so I don't mind the change. Oh, maybe it's because I have combat experience; this place is a bit more dangerous than the city streets... perhaps even Drop Zone.<end>
 
 =>q117
-Bien que je puisse le réparer, c'est un peu étrange. Mais pour vous dire la vérité, je m'en fiche, même si je suis... ::Elle tire un générateur coincé quelques fois.:: Drats, cette partie stupide ne sortira pas... Quoi qu'il en soit, vous avez la photo. Je... ::Elle arrive enfin à retirer la partie.:: Je n'ai pas fait ça depuis un moment, donc ça ne me dérange pas. Oh, peut-être que c'est parce que j'ai une expérience de combat; cet endroit est un peu plus dangereux que les rues de la ville... peut-être même Drop Zone.<end>
+C'est vrai que je *peux* le réparer, mais c'est un peu bizarre. Pour te dire la vérité, ça me dérange pas, même si je... ::Elle tire plusieurs fois sur une pièce coincée du générateur.:: Mince, cette pièce débile veut pas sortir... Bref, tu vois le tableau. Je... ::Elle arrive enfin à l'arracher.:: J'ai pas fait ça depuis un moment, alors le changement me va. Oh, peut-être que c'est parce que j'ai de l'expérience au combat. Ici, c'est un peu plus dangereux que les rues... peut-être même que Drop Zone.<end>
 
 =>a118_original
 Um, what is your relationship with Ola?<end>
 
 =>a118
-Quelle est votre relation avec Ola ?<end>
+Euh, t'as quel rapport avec Ola ?<end>
 
 =>q119_original
 ::She slowly turns toward you.:: Why do you ask?<end>
 
 =>q119
-::Elle se tourne lentement vers toi.:: Pourquoi ?<end>
+::Elle se tourne lentement vers toi.:: Pourquoi tu demandes ?<end>
 
 =>a120_original
 You seem like you're good... friends?<end>
 
 =>a120
-Vous semblez être de bons amis ?<end>
+Vous avez l'air d'être de bons... amis ?<end>
 
 =>q121_original
 We're just friends. Good friends, I must add. He's often away, working throughout Core City, but when he gets back, we always have fun, joke around and all that.<end>
 
 =>q121
-On est juste amis. Bons amis, je dois ajouter. Il est souvent absent, travaillant tout au long de Core City, mais quand il revient, on s'amuse toujours, on plaisante et tout ça.<end>
+On est juste amis. Bons amis, même. Il est souvent dehors, à bosser dans toute Core City, mais quand il rentre, on s'amuse, on déconne, tout ça.<end>
 
 =>a122_original
 No reason.<end>
 
 =>a122
-Aucune raison.<end>
+Pour rien.<end>
 
 =>q123_original
 Ola and I are friends. Good friends, I must add. He's often away, working throughout Core City, but when he gets back, we always have fun, joke around and all that.<end>
 
 =>q123
-Ola et moi sommes amis. Bons amis, je dois ajouter. Il est souvent absent, travaillant tout au long de Core City, mais quand il revient, on s'amuse toujours, on plaisante et tout ça.<end>
+Ola et moi, on est amis. Bons amis, même. Il est souvent dehors, à bosser dans toute Core City, mais quand il rentre, on s'amuse, on déconne, tout ça.<end>
 
 =>a124_original
 Are you guys, like, together?<end>
 
 =>a124
-Vous êtes ensemble ?<end>
+Vous êtes ensemble, genre ?<end>
 
 =>q125_original
 Me and Ola? ::She drops her screwdriver and erupts with laughter.:: No, no, no! Ola and I are just friends. Just good friends, that is all. You, $(#silly/crazy girl)! That was so funny, really made me laugh. And that is why I need someone to chat with when I'm working. See?<end>
 
 =>q125
-Moi et Ola ? ::Elle laisse tomber son tournevis et éclate de rire.:: Non, non, non ! Ola et moi sommes juste amis. Juste de bons amis, c'est tout. Toi, $(#silly/crazy girl) ! C'était drôle, ça m'a fait rire. Et c'est pourquoi j'ai besoin de quelqu'un avec qui discuter quand je travaille. Vous voyez ?<end>
+Moi et Ola ? ::Elle lâche son tournevis et éclate de rire.:: Non, non, non ! Ola et moi, on est juste amis. De bons amis, c'est tout. Toi, $(#andouille/folle) ! C'était trop drôle, ça m'a bien fait rire. Et c'est pour ça que j'ai besoin de quelqu'un à qui parler quand je bosse. Tu vois ?<end>
 
 =>a126_original
 I never saw you as someone who repairs power generators.<end>
 
 =>a126
-Je ne t'ai jamais vu comme quelqu'un qui répare des générateurs.<end>
+Je t'avais jamais vue comme quelqu'un qui répare des générateurs.<end>
 
 =>q127_original
 My father is a mechanic; I would spend hours watching him work when I was a wee girl. Then, when I grew old enough to hold a wrench without dropping it on my lovely little toes, I began doing my own "work." :: She laughs.:: And little by little, a master was raised! Lovely times. Lovely times.<end>
 
 =>q127
-Mon père est mécanicien; je passais des heures à le regarder travailler quand j'étais petite fille. Puis, quand j'ai grandi assez vieux pour tenir une clé sans la laisser tomber sur mes jolis petits orteils, j'ai commencé à faire mon propre "travail". ::Elle rit.:: Et petit à petit, un maître a été élevé ! De beaux temps. De beaux temps.<end>
+Mon père est mécano. Je passais des heures à le regarder bosser, quand j'étais toute petite. Ensuite, quand j'ai été assez grande pour tenir une clé sans me la lâcher sur les orteils, j'ai commencé à faire mon propre « travail ». ::Elle rit.:: Et petit à petit, une pro est née ! Le bon temps. Le bon temps.<end>
 
 =>a128_original
 You mentioned your father was a mechanic. Tell me more about that.<end>
 
 =>a128
-Vous avez dit que votre père était mécanicien. Parle-moi de ça.<end>
+T'as dit que ton père était mécano. Raconte-moi.<end>
 
 =>q129_original
 He still is. He owns a shop here in Core City, but he's not young anymore. Get it? Cause our last name is Young... Never mind.
@@ -816,69 +816,69 @@ He still is. He owns a shop here in Core City, but he's not young anymore. Get i
 Oh, I haven't seen him in several years... ::She pauses.:: I miss him, you know. He, um, do-- ::A sound of something metal hitting the ground is heard..:: Drats, I dropped a part! Did you see where it went?<end>
 
 =>q129
-Il l'est toujours. Il possède un magasin ici à Core City, mais il n'est plus jeune. Compris ? Parce que notre nom de famille est Young... Laisse tomber.
+Il l'est toujours. Il a un atelier ici, à Core City, mais il n'est plus Young... jeune. Tu piges ? Young, jeune... Laisse tomber.
 
-Oh, je ne l'ai pas vu depuis plusieurs années... ::Elle fait une pause.:: Il me manque. Il, euh, fait... ::Un bruit de quelque chose de métal frappant le sol est entendu..:: Drats, j'ai laissé tomber une partie ! Tu as vu où ça allait ?<end>
+Oh, je l'ai pas vu depuis plusieurs années... ::Elle fait une pause.:: Il me manque, tu sais. Il, euh, fai-- ::On entend un truc en métal taper le sol..:: Mince, j'ai fait tomber une pièce ! T'as vu où elle est allée ?<end>
 
 =>a130_original
 Why haven't you seen your father in so many years?<end>
 
 =>a130
-Pourquoi tu n'as pas vu ton père depuis tant d'années ?<end>
+Pourquoi t'as pas vu ton père depuis si longtemps ?<end>
 
 =>q131_original
 There you are! ::She picks up a small piece of metal.:: Well, unfortunately, we've had a fight back when I got the job at JKK. And it didn't end well. He... really dislikes JKK. I told him about why I'm doing all that, that the pay is good and that I was going to help him... But no. He disapproved of my career choice and... that's that, sadly.<end>
 
 =>q131
-Te voilà ! ::Elle prend un petit morceau de métal.:: Malheureusement, on s'est disputés quand j'ai eu le boulot au JKK. Et ça n'a pas bien fini. Il n'aime vraiment pas JKK. Je lui ai dit pourquoi je faisais tout ça, que le salaire était bon et que j'allais l'aider... Mais non. Il a désapprouvé mon choix de carrière et... c'est tristement ça.<end>
+Te voilà ! ::Elle ramasse un petit morceau de métal.:: Malheureusement, on s'est disputés quand j'ai eu le boulot au JKK. Et ça s'est mal fini. Il... aime vraiment pas JKK. Je lui ai dit pourquoi je faisais tout ça, que la paye était bonne et que j'allais l'aider... Mais non. Il a pas voulu de mon choix, et... voilà, malheureusement.<end>
 
 =>a132_original
 You and your father are not in good relationship?<end>
 
 =>a132
-Toi et ton père n'êtes pas en bonne relation ?<end>
+Toi et ton père, ça va pas ?<end>
 
 =>q133_original
 There you are! ::She picks up a small piece of metal.:: Well, unfortunately, we've had a fight back when I got the job at JKK. And it didn't end well. He... really dislikes JKK. I told him about why I'm doing all that, that the pay is good and that I was going to help him... But no. He disproves of what my career choice and... that's that, sadly.<end>
 
 =>q133
-Te voilà ! ::Elle prend un petit morceau de métal.:: Malheureusement, on s'est disputés quand j'ai eu le boulot au JKK. Et ça n'a pas bien fini. Il n'aime vraiment pas JKK. Je lui ai dit pourquoi je faisais tout ça, que le salaire était bon et que j'allais l'aider... Mais non. Il réfute mon choix de carrière et... c'est tristement ça.<end>
+Te voilà ! ::Elle ramasse un petit morceau de métal.:: Malheureusement, on s'est disputés quand j'ai eu le boulot au JKK. Et ça s'est mal fini. Il... aime vraiment pas JKK. Je lui ai dit pourquoi je faisais tout ça, que la paye était bonne et que j'allais l'aider... Mais non. Il a pas voulu de mon choix, et... voilà, malheureusement.<end>
 
 =>a134_original
 It's there, to the right of you. ::Point at the small piece of metal.::<end>
 
 =>a134
-C'est là, à droite de toi. ::Pointez le petit morceau de métal.::<end>
+Là, à ta droite. ::Désigner le petit morceau de métal.::<end>
 
 =>q135_original
 Oh, thanks. ::She picks up a small piece of metal.:: Now, let's put it here... There, that's done. Now, where were we?<end>
 
 =>q135
-Oh, merci. ::Elle prend un petit morceau de métal.:: Maintenant, mettons-le ici... Voilà, c'est fait. Où en étions-nous ?<end>
+Oh, merci. ::Elle ramasse un petit morceau de métal.:: Allez, on la remet ici... Voilà, c'est fait. Alors, on en était où ?<end>
 
 =>a136_original
 Do you need me here, or am I free to go now? Standing around and watching you work is not what I'd call fun.<end>
 
 =>a136
-Tu as besoin de moi ici, ou je suis libre de partir maintenant ? Te regarder travailler n'est pas ce que j'appellerais amusant.<end>
+T'as besoin de moi ici, ou je peux y aller ? Rester $(#planté/plantée) à te regarder bosser, c'est pas mon idée du fun.<end>
 
 =>q137_original
 $(context.player.Name)! Don't be like that, of course I need you here. I want to chat! Work goes by much quicker when you have someone to talk to.<end>
 
 =>q137
-$(context.player.Name) ! Ne sois pas comme ça, bien sûr que j'ai besoin de toi ici. Je veux parler ! Le travail passe beaucoup plus vite quand on a quelqu'un à qui parler.<end>
+$(context.player.Name) ! Fais pas ça, bien sûr que j'ai besoin de toi ici. Je veux discuter ! Le boulot passe beaucoup plus vite quand t'as quelqu'un à qui parler.<end>
 
 =>q138_original
 You got here just in time, $(context.player.Name); The elevator is working again. Shall we go down?<end>
 
 =>q138
-Vous êtes arrivé juste à temps, $(context.player.Name); l'ascenseur fonctionne à nouveau. On va descendre ?<end>
+T'arrives pile à l'heure, $(context.player.Name). L'ascenseur refonctionne. On descend ?<end>
 
 =>a139_original
 I'm ready.<end>
 
 =>a139
-Je suis prêt.<end>
+C'est bon.<end>
 
 =>q140_original
 Lovely. Before we go down there, let me give you this communicator. It's standard procedure; all JKK personnel are required to have one when performing repairs in the field. Be careful not to lose it.
@@ -886,39 +886,39 @@ Lovely. Before we go down there, let me give you this communicator. It's standar
 Okay, let's get in the elevator. Follow me.<end>
 
 =>q140
-Magnifique. Avant de descendre, laissez-moi vous donner ce communicateur. C'est une procédure standard; tout le personnel du JKK doit en avoir une lorsqu'il effectue des réparations sur le terrain. Faites attention de ne pas le perdre.
+Chouette. Avant qu'on descende, je te file ce communicateur. Procédure standard : tout le personnel JKK doit en avoir un pour les réparations sur le terrain. Fais gaffe à pas le perdre.
 
-Allons dans l'ascenseur. Suivez-moi.<end>
+Allez, on prend l'ascenseur. Suis-moi.<end>
 
 =>a141_original
 ::Follow her.::<end>
 
 =>a141
-::Suivez-la.::<end>
+::La suivre.::<end>
 
 =>a142_original
 I saw something interesting around here. I'll be back later.<end>
 
 =>a142
-J'ai vu quelque chose d'intéressant par ici. Je reviens plus tard.<end>
+J'ai vu un truc intéressant par ici. Je reviens plus tard.<end>
 
 =>q143_original
 Oooooookay. I'll be here. Waiting. Freezing. Starving... No, no, no - you take your time. ::She smiles.::<end>
 
 =>q143
-Ouooooookay. Je serai là. Attendez. Gel. J'ai faim... Prends ton temps. ::Elle sourit.::<end>
+Oooooké. Je reste là. J'attends. Je gèle. Je crève de faim... Non, non, non, prends ton temps. ::Elle sourit.::<end>
 
 =>q144_original
 Are you ready now?<end>
 
 =>q144
-Tu es prêt ?<end>
+T'es $(#prêt/prête), maintenant ?<end>
 
 =>q145_original
 I need to do some more work and then I'll meet you in the under-passage.<end>
 
 =>q145
-J'ai besoin d'un peu plus de travail et je te rejoins dans le sous-passage.<end>
+J'ai encore un peu de boulot, après je te retrouve dans le sous-passage.<end>
 
 =>q146_original
 Goodbye, $(context.player.Name).<end>
@@ -930,19 +930,19 @@ Au revoir, $(context.player.Name).<end>
 I'm so sorry, but we've been informed you are working for another organization at the moment. I know, it sucks, but I'm afraid that's how things are around here. I wish you all the best. Goodbye, $(context.player.Name).<end>
 
 =>q147
-Je suis désolée, mais on nous a informés que vous travaillez pour une autre organisation. Je sais, c'est nul, mais j'ai peur que ce soit comme ça. Je vous souhaite bonne chance. Au revoir, $(context.player.Name).<end>
+Je suis désolée, mais on nous a dit que tu bossais pour une autre organisation, en ce moment. Je sais, c'est nul, mais c'est comme ça, ici. Je te souhaite le meilleur. Au revoir, $(context.player.Name).<end>
 
 =>a148_original
 I too am sorry to hear that, but what's done is done. Goodbye, Miss Young.<end>
 
 =>a148
-Je suis aussi désolé d'entendre ça, mais ce qui est fait est fait. Au revoir, Mlle Young.<end>
+Moi aussi je suis $(#désolé/désolée) d'entendre ça, mais c'est comme ça. Au revoir, Miss Young.<end>
 
 =>a149_original
 Your loss. Bye.<end>
 
 =>a149
-Votre perte. Au revoir.<end>
+Tant pis pour toi. Au revoir.<end>
 
 =>a150_original
 Whatever. Goodbye!<end>
@@ -954,7 +954,7 @@ Peu importe. Au revoir !<end>
 So, did you make up your mind?<end>
 
 =>q151
-Alors, tu as décidé ?<end>
+Alors, t'as décidé ?<end>
 
 =>a152_original
 I'm in.<end>
@@ -966,13 +966,13 @@ J'en suis.<end>
 ::A smile shines on her face.:: Lovely! There is only one thing left for me to say: Welcome to JKK, $(context.player.Name). I hope you'll like it here with us; we try to maintain a mostly informal and warm atmosphere here. I think you'll fit right in!<end>
 
 =>q153
-::Un sourire brille sur son visage.:: Magnifique ! Il ne me reste qu'une chose à dire : Bienvenue à JKK, $(context.player.Name). J'espère que vous aimerez ici avec nous; nous essayons de maintenir une atmosphère majoritairement informelle et chaleureuse ici. Je pense que tu vas t'intégrer !<end>
+::Un sourire lui éclaire le visage.:: Chouette ! Il me reste qu'une chose à dire : bienvenue au JKK, $(context.player.Name). J'espère que tu te plairas avec nous. On essaie de garder une ambiance plutôt décontractée et chaleureuse, ici. Je pense que tu vas t'y faire !<end>
 
 =>q154_original
 And speaking of fitting in... <end>
 
 =>q154
-Et en parlant de s'intégrer... <end>
+Et en parlant de s'y faire... <end>
 
 =>q155_original
 ::She walks to one of the lockers in the back. Then she turns around, eyes you briefly, then picks up a leather jacket, eyes you again, returns it and grabs another one, then nods with satisfaction before picking up a few more items and returning to you.::
@@ -980,15 +980,15 @@ Et en parlant de s'intégrer... <end>
 Here's your uniform. ::She hands you everything but the ::<end>
 
 =>q155
-::Elle va à l'un des casiers derrière. Puis elle se retourne, vous regarde brièvement, puis prend une veste en cuir, vous regarde à nouveau, la retourne et en prend une autre, puis hoche les clins d'œil avec satisfaction avant de ramasser quelques autres articles et de vous revenir.::
+::Elle va jusqu'à un des casiers au fond. Elle se retourne, te toise un instant, prend une veste en cuir, te toise encore, la repose, en attrape une autre, hoche la tête, satisfaite, ramasse encore quelques trucs et revient vers toi.::
 
-Voilà votre uniforme. ::Elle te donne tout sauf le::<end>
+Voilà ton uniforme. ::Elle te tend tout sauf la ::<end>
 
 =>q156_original
 ::cap, which she puts on your head.:: There.<end>
 
 =>q156
-::cap, qu'elle met sur ta tête.:: Voilà.<end>
+::casquette, qu'elle te met sur la tête.:: Voilà.<end>
 
 =>q157_original
 ::She looks around once more time.:: 
@@ -996,9 +996,9 @@ Voilà votre uniforme. ::Elle te donne tout sauf le::<end>
 Remember: Shhhhh!<end>
 
 =>q157
-::Elle regarde encore une fois.::
+::Elle jette encore un œil autour.::
 
-Souvenez-vous : Shhhh !<end>
+Souviens-toi : Shhhh !<end>
 
 =>q158_original
 <end>
@@ -1010,277 +1010,277 @@ Souvenez-vous : Shhhh !<end>
 For some reason I still haven't gotten my uniform.<end>
 
 =>a159
-Je n'ai toujours pas mon uniforme.<end>
+Toujours pas reçu mon uniforme.<end>
 
 =>q160_original
 Eh... what? ::She looks around furtively.:: Let's... let's not tell anyone about this.<end>
 
 =>q160
-Quoi ? ::Elle regarde furtivement.:: N'en parlons à personne.<end>
+Hein... quoi ? ::Elle jette un œil autour, furtive.:: On... on en parle à personne, ok ?<end>
 
 =>a161_original
 I'm ready for my next mission.<end>
 
 =>a161
-Je suis prêt pour ma prochaine mission.<end>
+$(#Prêt/Prête) pour la prochaine mission.<end>
 
 =>q162_original
 *Our* next mission! You are going to help me repair an old facility's power generator: JKK wants to install some high-tech electronic equipment there - I'm sure you don't care about the details - so I was ordered to go there and get the power back online.<end>
 
 =>q162
-*Notre prochaine mission! Vous allez m'aider à réparer un générateur d'énergie d'une ancienne installation: JKK veut installer un équipement électronique de haute technologie là-bas - je suis sûr que vous ne vous souciez pas des détails - donc on m'a ordonné d'aller là-bas et de récupérer l'énergie en ligne.<end>
+*Notre* prochaine mission ! Tu vas m'aider à réparer le générateur d'une vieille installation. JKK veut y poser du matos électronique high-tech - je suis sûre que les détails t'intéressent pas - donc on m'a envoyée y remettre le courant.<end>
 
 =>a163_original
 I know nothing about repairs.<end>
 
 =>a163
-Je ne sais rien des réparations.<end>
+Je connais rien aux réparations.<end>
 
 =>q164_original
 Aren't you lovely. *I'll* be doing all the repairs, silly, you'll just make sure I don't get torn to pieces by some evil beast that lurks in the darkness. You can do that, can you?<end>
 
 =>q164
-Tu n'es pas adorable. Je vais faire toutes les réparations, idiot, tu m'assureras de ne pas être déchiré par une bête maléfique qui se cache dans les ténèbres. Tu peux faire ça ?<end>
+T'es trop adorable. C'est *moi* qui répare, andouille. Toi, tu t'assures juste que je me fasse pas mettre en pièces par une bête méchante dans le noir. Tu sais faire ça, hein ?<end>
 
 =>a165_original
 I never saw you as someone who repairs power generators.<end>
 
 =>a165
-Je ne t'ai jamais vu comme quelqu'un qui répare des générateurs.<end>
+Je t'avais jamais vue comme quelqu'un qui répare des générateurs.<end>
 
 =>q166_original
 My father is a mechanic; I would spend hours watching him work when I was a wee girl. Then, when I grew old enough to hold a wrench without dropping it on my lovely little toes, I began doing my own "work." ::She laughs.:: And little by little, a master was raised! Lovely times. Lovely times.<end>
 
 =>q166
-Mon père est mécanicien; je passais des heures à le regarder travailler quand j'étais petite fille. Puis, quand j'ai grandi assez vieux pour tenir une clé sans la laisser tomber sur mes jolis petits orteils, j'ai commencé à faire mon propre "travail". ::Elle rit.:: Et petit à petit, un maître a été élevé ! De beaux temps. De beaux temps.<end>
+Mon père est mécano. Je passais des heures à le regarder bosser, quand j'étais toute petite. Ensuite, quand j'ai été assez grande pour tenir une clé sans me la lâcher sur les orteils, j'ai commencé à faire mon propre « travail ». ::Elle rit.:: Et petit à petit, une pro est née ! Le bon temps. Le bon temps.<end>
 
 =>a167_original
 Okay, I'm ready, where are we going?<end>
 
 =>a167
-Je suis prêt, où allons-nous ?<end>
+C'est bon, on va où ?<end>
 
 =>q168_original
 I've got some things to finish here first, but when I'm done I'll meet you near an old elevator in one of the old utility rooms in the... ::She mockingly takes a deep breath.::.. very old under-passage beneath Core City. And yes, everything is old in Core City. Even Zilla's stuffed mushrooms. ::She giggles.::<end>
 
 =>q168
-J'ai quelques choses à finir ici d'abord, mais quand j'aurai fini, je vous rejoindrai près d'un ancien ascenseur dans une des anciennes salles de service dans le... ::Elle prend une profonde respiration.::.. très vieux sous-passage sous Core City. Et oui, tout est vieux en Core City. Même les champignons farcis de Zilla. ::Elle rigole.::<end>
+J'ai encore deux-trois trucs à finir ici, mais quand c'est bon je te retrouve près d'un vieil ascenseur, dans une des vieilles salles techniques du... ::Elle inspire à fond, en se moquant.::.. très vieux sous-passage sous Core City. Et oui, tout est vieux à Core City. Même les champignons farcis de Zilla. ::Elle glousse.::<end>
 
 =>a169_original
 How do I get there?<end>
 
 =>a169
-Comment je peux y arriver ?<end>
+Comment j'y vais ?<end>
 
 =>q170_original
 Take the elevator down to the lower level of Core City, there is a set of stairs there that'll lead you to the under-passages. You know, just past the main entrance, next to Moe's stand. You know, the bald guy. ::She speaks to herself in a quiet voice.:: Another bald man.<end>
 
 =>q170
-Prenez l'ascenseur jusqu'au niveau inférieur de Core City, il y a un ensemble d'escaliers qui vous mènera aux passages inférieurs. Juste après l'entrée principale, à côté du stand de Moe. Tu sais, le chauve. ::Elle se parle d'une voix tranquille.:: Un autre chauve.<end>
+Tu prends l'ascenseur jusqu'au niveau bas de Core City. Y a un escalier qui mène aux sous-passages. Juste après l'entrée principale, à côté du stand de Moe. Tu sais, le chauve. ::Elle se parle à voix basse.:: Encore un chauve.<end>
 
 =>a171_original
 Got it, see you there.<end>
 
 =>a171
-Compris, à tout à l'heure.<end>
+Compris, à plus là-bas.<end>
 
 =>q172_original
 See you later, $(#friend/girl).<end>
 
 =>q172
-A plus tard, $(#friend/girl).<end>
+À plus, $(#mon pote/ma belle).<end>
 
 =>a173_original
 Why do I have to go there?<end>
 
 =>a173
-Pourquoi je dois y aller ?<end>
+Pourquoi c'est moi qui dois y aller ?<end>
 
 =>q174_original
 Oh, come on, girl! It's gonna be fun. We'll get to know each other a bit better, and talk about stuff, and... and... It'll be lovely!<end>
 
 =>q174
-Allez ! Ça va être marrant. On apprendra à mieux se connaître, à parler de choses, et... et... Ce sera charmant !<end>
+Allez, $(#mon grand/ma grande) ! Ça va être marrant. On apprendra à se connaître un peu, on parlera de trucs, et... et... Ce sera chouette !<end>
 
 =>q175_original
 You are... very capable. There could be some surprises down there, you know. Evil beasts, munch, munch, Vivian dead. Besides, it's gonna be fun! I'm sure of it.<end>
 
 =>q175
-Vous êtes... très capable. Il pourrait y avoir des surprises là-bas. Bête maléfique, munch, munch, Vivian morte. Et puis, ça va être marrant ! J'en suis sûr.<end>
+T'es... très capable. Y pourrait y avoir des surprises, là-dessous. Bêtes méchantes, miam miam, Vivian morte. Et puis ça va être marrant ! J'en suis sûre.<end>
 
 =>a176_original
 Security disabled. ::Dust off your hands.::<end>
 
 =>a176
-Sécurité désactivée. ::Poussez vos mains.::<end>
+Sécu coupée. ::S'épousseter les mains.::<end>
 
 =>q177_original
 Lovely! Ola already informed me of everything. Just so you know, the operation was a complete success. The hostages are unharmed - the kidnappers lie dead.<end>
 
 =>q177
-Magnifique ! Ola m'a déjà tout informé. Pour info, l'opération a été un succès total. Les otages sont indemnes, les ravisseurs sont morts.<end>
+Chouette ! Ola m'a déjà tout dit. Pour info, l'opération a été un carton. Les otages sont indemnes, les ravisseurs sont morts.<end>
 
 =>a178_original
 Do you know who was behind all this?<end>
 
 =>a178
-Savez-vous qui était derrière tout ça ?<end>
+Tu sais qui était derrière tout ça ?<end>
 
 =>q179_original
 Well, no, unfortunately not. But, our teams are trying to figure it out; we are sure some larger entity was behind the whole hostage situation. <end>
 
 =>q179
-Non, malheureusement pas. Mais, nos équipes essaient de le comprendre; nous sommes certains qu'une entité plus grande a été derrière toute la situation d'otage. <end>
+Non, malheureusement. Mais nos équipes cherchent. On est sûrs qu'une plus grosse entité était derrière toute cette histoire d'otages. <end>
 
 =>q180_original
 So, since the mission went as smooth as possible... it's time for your reward! You like this part don't you? Drats, I didn't want it to sound like I think all you care about is the reward, no, no! It was... it was... Damn it Vivian! Here, just take this. ::She gives you 400 stygian coins and a cloaking device.::<end>
 
 =>q180
-Donc, puisque la mission s'est déroulée aussi bien que possible... il est temps pour votre récompense ! Tu aimes cette partie, n'est-ce pas ? Drats, je ne voulais pas que ça sonne comme si tout ce qui t'intéresse, c'était la récompense, non, non ! C'était... c'était... Merde, Vivian ! Tiens, prends ça. ::Elle vous donne 400 pièces de monnaie et un masque.::<end>
+Donc, puisque la mission s'est passée aussi bien que possible... c'est l'heure de ta récompense ! T'aimes bien ce moment, hein ? Mince, je voulais pas que ça sonne comme si tout ce qui t'intéressait c'était la récompense, non, non ! C'était... c'était... Merde, Vivian ! Tiens, prends ça. ::Elle te donne 400 pièces stygiennes et un cloaking device.::<end>
 
 =>q181_original
 Now, there *is* another mission currently available...<end>
 
 =>q181
-Il y a une autre mission actuellement disponible...<end>
+Là, y a *une* autre mission dispo...<end>
 
 =>a182_original
 Glad to hear it.<end>
 
 =>a182
-Content de l'entendre.<end>
+$(#Content/Contente) de l'entendre.<end>
 
 =>a183_original
 I'm ready for my next mission.<end>
 
 =>a183
-Je suis prêt pour ma prochaine mission.<end>
+$(#Prêt/Prête) pour la prochaine mission.<end>
 
 =>q184_original
 Lovely! Now that we're all here, we can begin, right? Ola?<end>
 
 =>q184
-Magnifique ! Maintenant qu'on est tous là, on peut commencer, non ? C'est Ola ?<end>
+Chouette ! Maintenant qu'on est tous là, on peut commencer, non ? Ola ?<end>
 
 =>q185_original
 Thank you. Listen carefully, $(context.player.Name), this is going to be a very important mission.<end>
 
 =>q185
-Je vous remercie. Écoutez bien, $(context.player.Name), ce sera une mission très importante.<end>
+Merci. Écoute bien, $(context.player.Name), ça va être une mission très importante.<end>
 
 =>q186_original
 We have received information that some very important men are being held hostage in an old warehouse, here in Core City. JKK is going to attempt a rescue operation and get them out of there safe and sound. We have everything ready, but there is only one problem...<end>
 
 =>q186
-Nous avons reçu des informations selon lesquelles des hommes très importants sont détenus en otage dans un ancien entrepôt, ici dans Core City. JKK va tenter une opération de sauvetage et les sortir de là sain et sauf. Tout est prêt, mais il n'y a qu'un problème...<end>
+On a appris que des hommes très importants sont retenus en otage dans un vieil entrepôt, ici à Core City. JKK va tenter une exfil et les sortir de là sains et saufs. Tout est prêt, mais y a un seul problème...<end>
 
 =>a187_original
 You need me to do something behind the scenes, right?<end>
 
 =>a187
-Tu veux que je fasse quelque chose dans les coulisses ?<end>
+T'as besoin que je fasse un truc en coulisses, c'est ça ?<end>
 
 =>q188_original
 Yup, you got it. The warehouse has a very... troublesome security system. Before we can begin the rescue operation, we need you to disable the security system in question.<end>
 
 =>q188
-Oui, c'est bon. L'entrepôt a un système de sécurité très... gênant. Avant de commencer l'opération de sauvetage, vous devez désactiver le système de sécurité en question.<end>
+Ouais, c'est ça. L'entrepôt a un système de sécu très... pénible. Avant qu'on lance l'exfil, on a besoin que tu coupes ce système.<end>
 
 =>q189_original
 To do that, we need to go through the sewers, then through some caves, and finally through the back entrance into the security room. All the way around. I'll explain everything when we get there.<end>
 
 =>q189
-Pour cela, nous devons passer par les égouts, puis par quelques grottes, et enfin par l'entrée arrière dans la salle de sécurité. Jusqu'au bout. Je vous expliquerai tout.<end>
+Pour ça, il faut passer par les égouts, ensuite des grottes, et enfin l'entrée arrière de la salle sécu. Tout le tour. Je t'expliquerai tout une fois sur place.<end>
 
 =>q190_original
 Lovely. I think Ola got everything covered. Time is of the essence here: once you are ready, talk to Ola, and he'll show you where you need to go. Take care both of you.<end>
 
 =>q190
-Magnifique. Je pense qu'Ola a tout couvert. Le temps est essentiel ici: une fois que vous êtes prêt, parlez à Ola, et il vous montrera où vous devez aller. Prenez soin de vous deux.<end>
+Chouette. Je pense qu'Ola a tout prévu. Le temps presse : dès que t'es $(#prêt/prête), tu parles à Ola, et il te montre où aller. Prenez soin de vous deux.<end>
 
 =>a191_original
 I will. Bye.<end>
 
 =>a191
-Oui. Au revoir.<end>
+Ça marche. Au revoir.<end>
 
 =>a192_original
 We will, bye.<end>
 
 =>a192
-Au revoir.<end>
+On fera gaffe. Au revoir.<end>
 
 =>a193_original
 I volunteer to go alone and kill everything! Except the hostages, of course.<end>
 
 =>a193
-Je suis volontaire pour aller seul et tout tuer ! Sauf les otages, bien sûr.<end>
+Y aller $(#seul/seule) et tout tuer. Sauf les otages, évidemment.<end>
 
 =>q194_original
 Nah, going in guns blazing is reckless in this sort of situation. Maybe you've been used to solving problems with rains of bullets, but with us, that is out of the question. See, the major problem here is that the warehouse has a very... troublesome security system. Before we can begin the rescue operation, we need you to disable the security system in question.<end>
 
 =>q194
-Nah, aller dans les armes à feu est imprudent dans ce genre de situation. Peut-être que vous avez été habitué à résoudre des problèmes avec des pluies de balles, mais avec nous, c'est hors de question. Le gros problème ici est que l'entrepôt a un système de sécurité très... gênant. Avant de commencer l'opération de sauvetage, vous devez désactiver le système de sécurité en question.<end>
+Nan, débarquer armes au poing, dans ce genre de situation, c'est cramé. T'as peut-être l'habitude de régler les trucs à coups de pluie de balles, mais chez nous, c'est hors de question. Le gros problème, c'est que l'entrepôt a un système de sécu très... pénible. Avant qu'on lance l'exfil, on a besoin que tu coupes ce système.<end>
 
 =>a195_original
 And what is this problem?<end>
 
 =>a195
-Et quel est ce problème ?<end>
+Et c'est quoi, ce problème ?<end>
 
 =>q196_original
 See, the warehouse has a very... troublesome security system. Before we can begin the rescue operation, we need you to disable the security system in question.<end>
 
 =>q196
-L'entrepôt a un système de sécurité très... gênant. Avant de commencer l'opération de sauvetage, vous devez désactiver le système de sécurité en question.<end>
+L'entrepôt a un système de sécu très... pénible. Avant qu'on lance l'exfil, on a besoin que tu coupes ce système.<end>
 
 =>a197_original
 I'm ready for my first mission.<end>
 
 =>a197
-Je suis prêt pour ma première mission.<end>
+$(#Prêt/Prête) pour la première mission.<end>
 
 =>q198_original
 Oh, lovely. Let's see what you're made of, $(#friend/girl). ::She whispers to herself.:: Vivian, be serious for once. ::She slowly inhales before continuing.:: JKK needs your help in dealing with a man called Bogdan Stravohodnik. He is... was one of our operatives, just like you. The problem is, he has gone completely mad and has disappeared. So far we weren't able to locate him.<end>
 
 =>q198
-Magnifique. Voyons de quoi vous êtes fait, $(#friend/girl). ::Elle murmure à elle-même.:: Vivian, soyez sérieux pour une fois. ::Elle inhale lentement avant de continuer.:: JKK a besoin de votre aide pour traiter avec un homme appelé Bogdan Stravohodnik. Il est... un de nos agents, tout comme vous. Le problème, c'est qu'il est devenu complètement fou et a disparu. Jusqu'ici, on n'a pas pu le localiser.<end>
+Oh, chouette. Voyons de quel bois tu te chauffes, $(#mon pote/ma belle). ::Elle se murmure.:: Vivian, sois sérieuse, pour une fois. ::Elle inspire lentement avant de continuer.:: JKK a besoin de toi pour un certain Bogdan Stravohodnik. C'est... c'était un de nos agents, comme toi. Le problème, c'est qu'il a complètement pété un câble et qu'il a disparu. Pour l'instant, on l'a pas retrouvé.<end>
 
 =>a199_original
 So, you want me to find the guy?<end>
 
 =>a199
-Tu veux que je le trouve ?<end>
+Donc tu veux que je le trouve ?<end>
 
 =>q200_original
 Yes, and yes. Wait, just one yes. Sorry! Yes, we want you to find him if possible, and I don't think I need to explain why. The only thing we are positively certain of is that he is still somewhere in the city. Just, take care during this mission: anything can happen when you deal with someone that's missing a few screws, especially if that someone used to be a veteran operative.<end>
 
 =>q200
-Oui, et oui. Attendez, juste un oui. Désolé ! Oui, nous voulons que vous le trouviez si possible, et je ne pense pas devoir expliquer pourquoi. La seule chose dont nous sommes sûrs, c'est qu'il est toujours quelque part dans la ville. Juste, prenez soin pendant cette mission: tout peut arriver quand vous traitez avec quelqu'un qui manque quelques vis, surtout si quelqu'un était un agent vétéran.<end>
+Oui, et oui. Attends, un seul oui. Désolée ! Oui, on veut que tu le trouves si possible, et je pense pas avoir besoin d'expliquer pourquoi. La seule chose dont on est vraiment sûrs, c'est qu'il est encore quelque part dans la ville. Fais juste gaffe : tout peut arriver avec quelqu'un à qui il manque une vis, surtout si ce quelqu'un était un agent vétéran.<end>
 
 =>a201_original
 Where do I start?<end>
 
 =>a201
-Par où je commence ?<end>
+Je commence où ?<end>
 
 =>q202_original
 Well, there was a rumor that he was last seen in Hardcore City Bar. Maybe you could start your search there.<end>
 
 =>q202
-Une rumeur disait qu'il avait été vu pour la dernière fois au Hardcore City Bar. Tu pourrais peut-être commencer tes recherches là-bas.<end>
+Y a une rumeur comme quoi on l'aurait vu pour la dernière fois au Hardcore City Bar. Tu pourrais commencer par là.<end>
 
 =>q203_original
 Again, he is still in the city. We have operatives monitoring all known exits: all main exits, under-passages... everything. Good luck on your search and... yeah, just good luck. ::She laughs.::<end>
 
 =>q203
-Encore une fois, il est toujours dans la ville. Nous avons des agents qui surveillent toutes les sorties connues : toutes les sorties principales, les passages souterrains... tout. Bonne chance pour vos recherches et... bonne chance. ::Elle rit.::<end>
+Encore une fois, il est toujours dans la ville. On a des agents sur toutes les sorties connues : sorties principales, sous-passages... tout. Bonne chance pour tes recherches, et... ouais, juste bonne chance. ::Elle rit.::<end>
 
 =>a204_original
 I've dealt with derailed people in the past, fret not. Just tell me where to begin my search.<end>
 
 =>a204
-J'ai eu affaire à des gens déraillés dans le passé. Dis-moi où commencer mes recherches.<end>
+J'ai déjà géré des déraillés, t'inquiète. Dis-moi juste où commencer.<end>
 
 =>a205_original
 I found Bogdan.<end>
@@ -1292,49 +1292,49 @@ J'ai trouvé Bogdan.<end>
 You did? What happened?<end>
 
 =>q206
-Vraiment ? Que s'est-il passé ?<end>
+Vraiment ? Qu'est-ce qui s'est passé ?<end>
 
 =>a207_original
 He attacked me on sight, so I was forced to kill him.<end>
 
 =>a207
-Il m'a attaqué à vue, donc j'ai été forcé de le tuer.<end>
+Il m'a $(#attaqué/attaquée) à vue, j'ai été $(#forcé/forcée) de le tuer.<end>
 
 =>q208_original
 He... he attacked you? Drats, that's horrible. Did you manage to learn anything about the whole situation?<end>
 
 =>q208
-Il vous a attaqué ? Drats, c'est horrible. Avez-vous appris quelque chose sur toute la situation ?<end>
+Il... il t'a $(#attaqué/attaquée) ? Mince, c'est horrible. T'as réussi à apprendre un truc sur toute cette histoire ?<end>
 
 =>a209_original
 Well, he met some man named Slavomir in Hardcore City Bar. Then, after they had an argument, they both left for Drop Zone. But there I only managed to find Bogdan.<end>
 
 =>a209
-Il a rencontré un certain Slavomir au Hardcore City Bar. Puis, après avoir eu une dispute, ils sont partis pour Drop Zone. Mais là, j'ai seulement réussi à trouver Bogdan.<end>
+Il a croisé un certain Slavomir au Hardcore City Bar. Après une dispute, ils sont partis tous les deux pour Drop Zone. Mais là-bas, j'ai seulement trouvé Bogdan.<end>
 
 =>q210_original
 That's interesting, but far from explaining anything. ::She sighs.::<end>
 
 =>q210
-C'est intéressant, mais loin de tout expliquer. ::Elle soupire.::<end>
+C'est intéressant, mais ça explique pas grand-chose. ::Elle soupire.::<end>
 
 =>q211_original
 So, $(context.player.Name), $(#friend/girl), I guess your first mission has been accomplished. Here is something for your efforts. ::She gives you 300 stygian coins and a crossbow.::<end>
 
 =>q211
-Donc, $(context.player.Name), $(#friend/girl), je suppose que votre première mission a été accomplie. Voici quelque chose pour vos efforts. ::Elle vous donne 300 pièces et une arbalète.::<end>
+Donc, $(context.player.Name), $(#mon pote/ma belle), je crois que ta première mission est pliée. Voilà pour tes efforts. ::Elle te donne 300 pièces stygiennes et une arbalète.::<end>
 
 =>q212_original
 You did what you had to do, and we'll take care of the rest. Now that Ola is here, we can discuss your next mission.<end>
 
 =>q212
-Tu as fait ce que tu devais faire, et on s'occupera du reste. Maintenant qu'Ola est là, nous pouvons discuter de votre prochaine mission.<end>
+T'as fait ce qu'il fallait, on s'occupe du reste. Maintenant qu'Ola est là, on peut parler de ta prochaine mission.<end>
 
 =>q213_original
 ::She stops to think for a second.:: Or, better yet, to introduce you two! Finally. $(context.player.Name), this is Ola Halidorson, the man I've told you about. ::She whispers to you.:: You know, the bald guy.<end>
 
 =>q213
-::Elle s'arrête pour réfléchir une seconde.:: Ou mieux encore, pour vous présenter ! Enfin. $(context.player.Name), voici Ola Halidorson, l'homme dont je vous ai parlé. ::Elle te chuchote.:: Tu sais, le chauve.<end>
+::Elle s'arrête une seconde pour réfléchir.:: Ou mieux : vous présenter ! Enfin. $(context.player.Name), voici Ola Halidorson, celui dont je t'ai parlé. ::Elle te chuchote.:: Tu sais, le chauve.<end>
 
 =>q214_original
 Hey, what's with the whispering, Vivian? ::The bald man genuinely laughs at the joke aimed at his expense, before he turns to you. He is a wide-shouldered man of average height with an informal attitude, much like Vivian's.::
@@ -1342,45 +1342,45 @@ Hey, what's with the whispering, Vivian? ::The bald man genuinely laughs at the 
 Hey, $(#bro/sis). Nice to meet you.<end>
 
 =>q214
-Hé, c'est quoi ce chuchotement, Vivian ? ::L'homme chauve se moque vraiment de la blague à ses dépens, avant qu'il ne se tourne vers vous. C'est un homme à larges épaules de taille moyenne avec une attitude informelle, comme celle de Vivian.::
+Hé, c'est quoi ces chuchotements, Vivian ? ::L'homme chauve rit vraiment de la vanne à ses dépens, puis se tourne vers toi. Large d'épaules, taille moyenne, le même genre décontracté que Vivian.::
 
-Bonjour, $(#bro/sis). Ravi de vous rencontrer.<end>
+Hé, $(#gars/sœurette). Content de te rencontrer.<end>
 
 =>q215_original
 And Ola, this is $(context.player.Name), the ugly one.<end>
 
 =>q215
-Et Ola, voici $(context.player.Name), la laid.<end>
+Et Ola, voici $(context.player.Name), $(#le moche/la moche).<end>
 
 =>a216_original
 Excuse me!?<end>
 
 =>a216
-Excusez-moi !<end>
+Pardon !?<end>
 
 =>q217_original
 Oh, I'm just joking, don't be such a fuddy-duddy! ::She laughs.::<end>
 
 =>q217
-Oh, je plaisante juste, ne sois pas si bête ! ::Elle rit.::<end>
+Oh, je plaisante, te prends pas au sérieux ! ::Elle rit.::<end>
 
 =>q218_original
 Now that you two know each other, we can finally discuss your next mission, $(#friend/girl).<end>
 
 =>q218
-Maintenant que vous vous connaissez, nous pouvons enfin discuter de votre prochaine mission, $(#friend/girl).<end>
+Maintenant que vous vous connaissez, on peut enfin parler de ta prochaine mission, $(#mon pote/ma belle).<end>
 
 =>a219_original
 Ugly and proud of it! Nice to meet you, Ola.<end>
 
 =>a219
-C'est affreux et fier ! Ravi de vous rencontrer, Ola.<end>
+Moche et $(#fier/fière) ! $(#Enchanté/Enchantée), Ola.<end>
 
 =>q220_original
 ::He laughs.:: Sweet! $(#He's/She's) got a sense of humor! That's hardcore.<end>
 
 =>q220
-::Il rit.:: Doucement ! $(#He's/She's) a un sens de l'humour ! C'est hardcore.<end>
+::Il rit.:: Cool ! $(#Il/Elle) a le sens de l'humour ! Ça, c'est hardcore.<end>
 
 =>a221_original
 Nothing important.<end>
@@ -1392,103 +1392,103 @@ Rien d'important.<end>
 So, basically, we've got nothing. ::She sighs.:: Core City - where all the weird stuff happens.<end>
 
 =>q222
-Donc, en gros, nous n'avons rien. ::Elle soupire.:: Core City - où toutes les choses bizarres se produisent.<end>
+Donc, en gros, on a rien. ::Elle soupire.:: Core City : l'endroit où tous les trucs chelous arrivent.<end>
 
 =>a223_original
 What can you tell me about this Bogdan guy?<end>
 
 =>a223
-Que pouvez-vous me dire sur ce Bogdan ?<end>
+Qu'est-ce que tu peux me dire sur ce Bogdan ?<end>
 
 =>q224_original
 He was a good, reliable operative, and a funny, normal guy. All that until he got derailed.<end>
 
 =>q224
-C'était un bon agent fiable, et un type drôle et normal. Tout ça jusqu'à ce qu'il déraille.<end>
+C'était un bon agent, fiable, un type drôle, normal. Tout ça jusqu'à ce qu'il déraille.<end>
 
 =>a225_original
 How did that happen?<end>
 
 =>a225
-Comment c'est arrivé ?<end>
+Comment ça s'est passé ?<end>
 
 =>q226_original
 Well, constant danger, lots of stress, bad barrel soup... I don't know. Once we find him we'll know more, I suppose.<end>
 
 =>q226
-Et bien, danger constant, beaucoup de stress, mauvaise soupe en tonneau... Je ne sais pas. Une fois qu'on le trouvera, on en saura plus.<end>
+Ben, le danger en continu, le stress, la mauvaise soupe de baril... Je sais pas. Une fois qu'on l'aura, on en saura plus, j'imagine.<end>
 
 =>a227_original
 What can you tell me about JKK?<end>
 
 =>a227
-Que pouvez-vous me dire sur JKK ?<end>
+Qu'est-ce que tu peux me dire sur JKK ?<end>
 
 =>q228_original
 Ah, Listen now: Gunnar Edstrom, owner of JKK came to Core City many years ago. ::She laughs.:: It sounds like some prophet story. Be serious Vivian!<end>
 
 =>q228
-Ah, écoutez maintenant: Gunnar Edstrom, propriétaire de JKK est venu à Core City il y a de nombreuses années. ::Elle rit.:: Ça ressemble à une histoire de prophète. Sois sérieuse Vivian !<end>
+Ah, écoute : Gunnar Edstrom, le patron de JKK, est arrivé à Core City y a des années. ::Elle rit.:: On dirait une histoire de prophète. Sois sérieuse, Vivian !<end>
 
 =>q229_original
 Anyway, since he possessed a sixth sense for good business, he saw the potential for the Arena to become the most popular sport in the whole Underrail, after witnessing its popularity in Core City. So he founded JKK and immediately set out to do just that - with the help of state-of-the-art equipment, he began broadcasting Arena matches throughout Underrail. The rest is history.<end>
 
 =>q229
-De toute façon, puisqu'il possédait un sixième sens pour les bonnes affaires, il a vu le potentiel pour que l'Arène devienne le sport le plus populaire dans l'ensemble Underrail, après avoir vu sa popularité dans Core City. Il a donc fondé JKK et s'est immédiatement mis à le faire - avec l'aide d'équipements de pointe, il a commencé à diffuser des matchs Arena tout au long de Underrail. Le reste est de l'histoire.<end>
+Bref, comme il avait un sixième sens pour les bonnes affaires, il a vu que l'Arena pouvait devenir le sport le plus populaire de tout l'Underrail, après avoir vu à quel point ça marchait à Core City. Il a fondé JKK et s'est mis à faire exactement ça : avec du matos de pointe, il a commencé à diffuser les matchs d'Arena dans tout l'Underrail. Tu connais la suite.<end>
 
 =>q230_original
 After JKK's rapid success, Edstrom became an Oligarch, and expanded his business even more. So we have ArenaNow and Gauntlet channels, we import beasts for the Arena, own all the betting stations in the city, have a small but highly-trained security force, and the most important thing of all - we have Vivian. ::She laughs.:: You'd agree I'm JKK's most important asset, right? ::She laughs.:: Just kidding!<end>
 
 =>q230
-Après le succès rapide de JKK, Edstrom est devenu un Oligarch, et a développé son entreprise encore plus. Nous avons donc ArenaNow et Gauntlet canaux, nous importons des bêtes pour l'Arena, possédons toutes les stations de paris dans la ville, ont une petite mais hautement entraînée force de sécurité, et la chose la plus importante de tous - nous avons Vivian. ::Elle rit.:: Vous conviendrez que je suis le plus important atout du JKK ? ::Elle rit.:: C'est une blague !<end>
+Après le carton rapide de JKK, Edstrom est devenu oligarque, et il a encore agrandi la boîte. Donc on a les chaînes ArenaNow et Gauntlet, on importe des bêtes pour l'Arena, on tient toutes les stations de paris de la ville, on a une petite force de sécu très entraînée, et le plus important de tout : on a Vivian. ::Elle rit.:: Tu es d'accord que je suis l'atout n°1 du JKK, hein ? ::Elle rit.:: Je plaisante !<end>
 
 =>a231_original
 What can you tell me about Coretech?<end>
 
 =>a231
-Que pouvez-vous me dire sur Coretech ?<end>
+Qu'est-ce que tu peux me dire sur Coretech ?<end>
 
 =>q232_original
 Oh no, you're not leaving us to work for Coretech? No! ::She laughs.:: Just kidding, Coretech is *the* technological research company of Core City, a sort of a Biocorp successor. They have some great minds working in their labs, which is truly lovely, but their president, Rupert Simmons, is not one of them, which is not lovely.<end>
 
 =>q232
-Tu ne nous laisses pas travailler pour Coretech ? Pas du tout ! ::Elle rit.:: A vrai dire, Coretech est *la* société de recherche technologique de Core City, une sorte de successeur Biocorp. Ils ont de grands esprits travaillant dans leurs laboratoires, ce qui est vraiment charmant, mais leur président, Rupert Simmons, n'est pas l'un d'eux, ce qui n'est pas charmant.<end>
+Oh non, tu nous quittes pas pour aller chez Coretech ? Non ! ::Elle rit.:: Je plaisante. Coretech, c'est *la* boîte de recherche tech de Core City, une sorte de successeur de Biocorp. Ils ont de sacrés cerveaux dans leurs labs, et ça c'est vraiment chouette, mais leur président, Rupert Simmons, n'en fait pas partie, et ça c'est moins chouette.<end>
 
 =>q233_original
 Yeah, he used to be the head of some Biocorp research department back in the day, but to tell you the truth, I wouldn't even trust him with making barrel soup. ::She laughs.::<end>
 
 =>q233
-Oui, il était à la tête d'un département de recherche Biocorp à l'époque, mais pour vous dire la vérité, je ne lui ferais même pas confiance pour faire de la soupe en baril. ::Elle rit.::<end>
+Ouais, il dirigeait un département de recherche Biocorp, à l'époque, mais pour te dire la vérité, je lui confierais même pas une soupe de baril. ::Elle rit.::<end>
 
 =>a234_original
 What can you tell me about Praetorian Security?<end>
 
 =>a234
-Que pouvez-vous me dire sur Praetorian Security ?<end>
+Qu'est-ce que tu peux me dire sur Praetorian Security ?<end>
 
 =>q235_original
 Praetorian Security is the largest fighting force in Core City. Even though both Coretech and JKK have their own security forces which help with local and internal matters, only Praetorians can deal with, say, the Faceless and have enough personnel to safeguard the whole city.<end>
 
 =>q235
-Praetorian Security est la plus grande force de combat de Core City. Même si Coretech et JKK ont leurs propres forces de sécurité qui aident les affaires locales et internes, seuls les prétoriens peuvent traiter, par exemple, le Faceless et avoir suffisamment de personnel pour protéger toute la ville.<end>
+Praetorian Security, c'est la plus grosse force de combat de Core City. Coretech et JKK ont leurs propres sécu pour le local et l'interne, mais seuls les Praetorians peuvent gérer, disons, les Faceless, et ont assez de monde pour tenir toute la ville.<end>
 
 =>q236_original
 Okay, not the whole city, since there is absolutely no law in Drop Zone. They also tend to stick their nose where it doesn't belong, if ya catch my drift, but we can outplay the Praetorians when they get too cocky.<end>
 
 =>q236
-Pas toute la ville, puisqu'il n'y a absolument aucune loi dans Drop Zone. Ils ont aussi tendance à coller leur nez là où il n'a pas sa place, si vous attrapez ma dérive, mais nous pouvons dépasser les Praetorians quand ils deviennent trop cocu.<end>
+Bon, pas toute la ville : à Drop Zone, y a zéro loi. Ils ont aussi tendance à fourrer leur nez où on les a pas sonnés, si tu vois ce que je veux dire. Mais on peut les recaler, les Praetorians, quand ils se la pètent trop.<end>
 
 =>a237_original
 What do you think about the Faceless invasion?<end>
 
 =>a237
-Que pensez-vous de l'invasion Faceless ?<end>
+T'en penses quoi, de l'invasion Faceless ?<end>
 
 =>q238_original
 If they kill us, we're dead. Erm... there's a few words of great wisdom for ya right there. ::She laughs.::<end>
 
 =>q238
-S'ils nous tuent, nous sommes morts. Il y a quelques mots de sagesse pour toi. ::Elle rit.::<end>
+S'ils nous tuent, on est morts. Euh... voilà quelques mots de grande sagesse, pour toi. ::Elle rit.::<end>
 
 =>q239_original
 But now, seriously, I don't know what to think. It's all really scary... and I just hope that the Praetorians are good enough to stop the Faceless if they mount an actual assault on the city. 
@@ -1496,27 +1496,27 @@ But now, seriously, I don't know what to think. It's all really scary... and I j
 Let's talk about something else, huh?<end>
 
 =>q239
-Mais sérieusement, je ne sais pas quoi penser. C'est vraiment effrayant... et j'espère juste que les Praetorians sont assez bons pour arrêter le Faceless s'ils montent un véritable assaut sur la ville.
+Bon, sérieusement, je sais pas quoi en penser. C'est vraiment flippant... et j'espère juste que les Praetorians seront assez bons pour arrêter les Faceless s'ils montent un vrai assaut sur la ville.
 
-Parlons d'autre chose.<end>
+On parle d'autre chose, hein ?<end>
 
 =>a240_original
 See you later, Vivian.<end>
 
 =>a240
-A tout à l'heure, Vivian.<end>
+À plus, Vivian.<end>
 
 =>q241_original
 Bye, $(context.player.Name).<end>
 
 =>q241
-Au revoir, $(context.player.Name).<end>
+Salut, $(context.player.Name).<end>
 
 =>q242_original
 You're now free to move around the building as you please. ::She pauses for and looks around before continuing.:: Now, let's see if Ola is somewhere around here? I'd like you to meet him. Ola! Ola!<end>
 
 =>q242
-Vous êtes maintenant libre de vous déplacer dans le bâtiment comme vous voulez. ::Elle s'arrête pour et regarde autour avant de continuer.:: Voyons si Ola est quelque part par ici. J'aimerais que tu le rencontres. C'est vrai ! C'est vrai !<end>
+T'es libre de circuler dans le bâtiment, maintenant. ::Elle s'arrête et jette un œil autour avant de continuer.:: Voyons si Ola est dans le coin. J'aimerais que tu le rencontres. Ola ! Ola !<end>
 
 =>q243_original
 Ola, oh you bald prince, where are you? Drats, maybe he's out: I heard some zoners recently smashed several trims because of an Arena match. Maybe that's the reason. Just lovely.... 
@@ -1524,21 +1524,21 @@ Ola, oh you bald prince, where are you? Drats, maybe he's out: I heard some zone
 Now, there was something else I wanted to tell you...? Oh, your mission. It happens that I already have something for you. Yup.<end>
 
 =>q243
-Ola, oh, prince chauve, où es-tu ? Drats, peut-être qu'il est sorti : j'ai entendu que des zoners ont récemment cassé plusieurs garnitures à cause d'un match d'aréna. C'est peut-être la raison. C'est charmant...
+Ola, oh prince chauve, t'es où ? Mince, peut-être qu'il est dehors : j'ai entendu que des zoners avaient explosé plusieurs trims à cause d'un match d'Arena. C'est peut-être ça. Génial....
 
-Je voulais te dire autre chose ? Votre mission. Il se trouve que j'ai déjà quelque chose pour toi. Oui.<end>
+Y avait autre chose que je voulais te dire... ? Ah, ta mission. Il se trouve que j'ai déjà un truc pour toi. Ouais.<end>
 
 =>q244_original
 ::large shades, which she puts on your face.:: Looking hardcore, girl.<end>
 
 =>q244
-::grandes nuances, qu'elle met sur votre visage.:: Ça a l'air hardcore.<end>
+::grandes lunettes, qu'elle te met sur le nez.:: T'as l'air hardcore.<end>
 
 =>a245_original
 I'll consider it some more. Talk to you later.<end>
 
 =>a245
-Je vais y réfléchir. A tout à l'heure.<end>
+Je vais encore y réfléchir. À plus.<end>
 
 =>q246_original
 ::The young, slender woman gets up from behind her desk to meet you. At first glance she appears to be a rather gentle creature, one that would find great difficulty facing the hardships of life outside her comfy desk; yet, something in her stance and confident motions suggests the exact opposite, that beneath this soft exterior exists one resilient human being, only hidden from plain sight. As your eyes meet, she flashes an almost blinding smile that precedes her equally bright and pleasant voice.::
@@ -1546,75 +1546,75 @@ Je vais y réfléchir. A tout à l'heure.<end>
 Oh, hello and welcome. I'm Vivian Young, and you must be $(context.player.Name), if I'm not mistaken?<end>
 
 =>q246
-::La jeune femme mince se lève de derrière son bureau pour te rencontrer. À première vue, elle semble être une créature plutôt douce, qui rencontrerait de grandes difficultés face aux difficultés de la vie à l'extérieur de son bureau confortable; cependant, quelque chose dans sa position et ses mouvements confiants suggère le contraire exact, que sous cet extérieur doux existe un être humain résilient, seulement caché à la vue ordinaire. Alors que vos yeux se rencontrent, elle éclaire un sourire presque aveuglant qui précède sa voix tout aussi lumineuse et agréable.::
+::La jeune femme, mince, se lève de derrière son bureau pour t'accueillir. Au premier regard, on dirait une créature plutôt douce, le genre qui peinerait face aux duretés hors de son bureau confortable. Pourtant, quelque chose dans sa tenue et ses gestes sûrs dit l'inverse : sous cet extérieur tendre, y a quelqu'un de solide, juste pas visible au premier coup d'œil. Tes yeux croisent les siens, et elle te lance un sourire presque aveuglant, juste avant une voix aussi claire et agréable.::
 
-Bonjour et bienvenue. Je suis Vivian Young, et vous devez être $(context.player.Name), si je ne me trompe pas ?<end>
+Oh, salut. Bienvenue. Je suis Vivian Young, et tu dois être $(context.player.Name), sauf erreur ?<end>
 
 =>a247_original
 Yes, my name is $(context.player.Name).<end>
 
 =>a247
-Oui, mon nom est $(context.player.Name).<end>
+Oui, je m'appelle $(context.player.Name).<end>
 
 =>q248_original
 Lovely! In that case, I have a very interesting proposal for you, $(context.player.Name). You came here at just the right time, and by simply looking at you, I have a feeling that you could be *the* right $(#man/woman) for this job!<end>
 
 =>q248
-Magnifique ! Dans ce cas, j'ai une proposition très intéressante pour vous, $(context.player.Name). Vous êtes venu ici juste au bon moment, et en vous regardant simplement, j'ai le sentiment que vous pourriez être *la* droite $(#man/woman) pour ce travail!<end>
+Chouette ! Dans ce cas, j'ai une proposition très intéressante pour toi, $(context.player.Name). T'arrives pile au bon moment, et rien qu'à te regarder, j'ai le sentiment que t'es *$(#celui/celle)* qu'il nous faut pour ce job !<end>
 
 =>a249_original
 I like the sound of that!<end>
 
 =>a249
-J'aime ça !<end>
+J'aime bien ça !<end>
 
 =>q250_original
 Okay, let's go! I don't know how well informed you are, but JKK plays an important, dominating role in Core City's complex ecosystem. Founded by Mr. Gunnar Edstrom, an Oligarch, JKK easily cemented itself as one of the largest and most successful organizations in Core City, primarily thanks to the development of an advanced broadcasting system which popularized the Arena throughout the Underrail.<end>
 
 =>q250
-Allons-y ! Je ne sais pas à quel point vous êtes bien informé, mais JKK joue un rôle important et dominant dans l'écosystème complexe de Core City. Fondé par M. Gunnar Edstrom, un Oligarch, JKK s'est facilement cimenté comme l'une des organisations les plus importantes et les plus réussies de Core City, principalement grâce au développement d'un système de radiodiffusion avancé qui a popularisé l'Arena tout au long du Underrail.<end>
+Allez, c'est parti ! Je sais pas à quel point t'es au courant, mais JKK joue un rôle important, dominant, dans l'écosystème tordu de Core City. Fondée par M. Gunnar Edstrom, un oligarque, JKK s'est vite imposée comme une des plus grosses et des plus solides orgs de Core City, surtout grâce à un système de diffusion avancé qui a popularisé l'Arena dans tout l'Underrail.<end>
 
 =>q251_original
 Of course, while it is what JKK is most famous for, there is more to JKK than just broadcasting Arena matches: JKK is the dominating player in the betting business, advertisement, animal import for the Arena... and much more. So, what does JKK need from you exactly, hmm? We need someone we can trust to perform certain tasks for us.<end>
 
 =>q251
-Bien sûr, alors que c'est ce pour quoi JKK est le plus célèbre, il y a plus à JKK que de simplement diffuser des matchs de l'aréna: JKK est le joueur dominant dans les paris, la publicité, l'importation d'animaux pour l'aréna... et bien plus encore. Qu'est-ce que JKK a besoin de toi exactement ? Nous avons besoin de quelqu'un de confiance pour accomplir certaines tâches pour nous.<end>
+Bien sûr, c'est pour ça qu'on nous connaît, mais JKK c'est plus que diffuser des matchs d'Arena : on domine les paris, la pub, l'import de bêtes pour l'Arena... et le reste. Alors, qu'est-ce que JKK veut de toi, exactement, hmm ? On a besoin de quelqu'un de fiable pour faire certains trucs pour nous.<end>
 
 =>a252_original
 Do continue.<end>
 
 =>a252
-Continuez.<end>
+Continuer.<end>
 
 =>q253_original
 In today's world, big organizations like the JKK, Coretech and such, no matter how powerful they might be are still very, very vulnerable, to corporate espionage, property theft and destruction, and, dare I say, much worse things. That is why we need trusted and capable operatives to help us combat all that.<end>
 
 =>q253
-Dans le monde d'aujourd'hui, de grandes organisations comme le JKK, Coretech et d'autres, peu importe leur puissance, sont encore très, très vulnérables, à l'espionnage des entreprises, au vol de biens et à la destruction, et, oserais-je dire, bien pire. C'est pourquoi nous avons besoin d'agents fiables et capables pour nous aider à combattre tout cela.<end>
+Aujourd'hui, les grosses orgs comme JKK, Coretech et compagnie, peu importe leur puissance, restent très, très vulnérables : espionnage, vol, destruction, et, osons le dire, bien pire. C'est pour ça qu'on a besoin d'agents fiables et capables pour nous aider à gérer tout ça.<end>
 
 =>q254_original
 Specifically, we want to offer this job to *you.* We want you as one of our operatives.<end>
 
 =>q254
-Plus précisément, nous voulons offrir ce travail à *vous.* Nous voulons que vous soyez l'un de nos agents.<end>
+Concrètement, on veut proposer ce job à *toi.* On te veut comme agent.<end>
 
 =>a255_original
 Me? How do you know I can be trusted? I just walked in here straight from the street.<end>
 
 =>a255
-Moi ? Comment savez-vous qu'on peut me faire confiance ? Je viens d'entrer directement de la rue.<end>
+Moi ? Comment tu sais qu'on peut me faire confiance ? Je viens d'entrer, direct de la rue.<end>
 
 =>q256_original
 We have eyes and ears everywhere; we're the JKK. ::She smiles.:: I mean, we can't tell 100%, let's be honest about that, but we will put you to the test soon enough. So far, when all is taken into consideration, you look promising.<end>
 
 =>q256
-Nous avons des yeux et des oreilles partout, nous sommes le JKK. ::Elle sourit.:: Je veux dire, nous ne pouvons pas dire 100%, soyons honnêtes à ce sujet, mais nous allons vous mettre à l'épreuve assez tôt. Jusqu'à présent, quand tout est pris en compte, vous semblez prometteur.<end>
+On a des yeux et des oreilles partout. On est le JKK. ::Elle sourit.:: Bon, on peut pas dire à 100 %, soyons honnêtes, mais on te mettra à l'épreuve assez vite. Pour l'instant, tout pris en compte, t'as l'air $(#prometteur/prometteuse).<end>
 
 =>a257_original
 So if I accept this job, what will I be doing exactly?<end>
 
 =>a257
-Donc si j'accepte ce travail, que vais-je faire exactement ?<end>
+Si j'accepte, je fais quoi, exactement ?<end>
 
 =>q258_original
 Well, as an operative, you must be capable of working alone and executing your missions both effectively and efficiently. Some missions might even lead you into very dangerous situations, so you must be prepared for that too. Most, if not all of them will be strictly confidential - so we require your absolute discretion. All details will be revealed to you once we make an agreement. 
@@ -1622,9 +1622,9 @@ Well, as an operative, you must be capable of working alone and executing your m
 So, did you make up your mind?<end>
 
 =>q258
-En tant qu'agent, vous devez être capable de travailler seul et d'exécuter vos missions avec efficacité. Certaines missions pourraient même vous mener dans des situations très dangereuses, alors vous devez être prêt pour cela aussi. La plupart, sinon tous seront strictement confidentiels - nous avons donc besoin de votre discrétion absolue. Tous les détails vous seront communiqués une fois que nous aurons conclu un accord.
+En tant qu'agent, tu dois pouvoir bosser $(#seul/seule) et mener tes missions de façon carrée. Certaines peuvent même te mettre dans des situations très dangereuses, donc t'es $(#prévenu/prévenue). La plupart, sinon toutes, seront strictement confidentielles : on a besoin de ta discrétion totale. Tous les détails, une fois qu'on a un accord.
 
-Alors, tu as décidé ?<end>
+Alors, t'as décidé ?<end>
 
 =>a259_original
 I'd like to think about this,<end>
@@ -1636,73 +1636,73 @@ J'aimerais y réfléchir.<end>
 I'll be here once you make up your mind.<end>
 
 =>q260
-Je serai là une fois que tu auras décidé.<end>
+Je serai là quand t'auras décidé.<end>
 
 =>a261_original
 I like the sound of that. What will I be doing exactly?<end>
 
 =>a261
-J'aime ça. Que vais-je faire exactement ?<end>
+J'aime bien ça. Je fais quoi, exactement ?<end>
 
 =>a262_original
 So, no toilet cleaning?<end>
 
 =>a262
-Donc, pas de nettoyage des toilettes ?<end>
+Donc, pas de nettoyage de chiottes ?<end>
 
 =>q263_original
 No toil-- ::She bursts out laughing again.:: Oh dear! What's with the toilets? ::She recomposes herself..:: No, Vivian, be professional now. Inhale. ::She inhales.:: Lovely, let's continue.<end>
 
 =>q263
-Pas de travail-- ::Elle éclate encore de rire.:: Oh mon Dieu ! C'est quoi les toilettes ? ::Elle se recompose...:: Non, Vivian, sois professionnelle maintenant. Inhalez. ::Elle inhale.:: Magnifique, continuons.<end>
+Pas de toi-- ::Elle éclate encore de rire.:: Oh là ! C'est quoi cette histoire de chiottes ? ::Elle se reprend..:: Non, Vivian, sois pro, maintenant. Inspire. ::Elle inspire.:: Chouette, on continue.<end>
 
 =>a264_original
 How do you know I can be trusted? I mean, I literally just walked in here.<end>
 
 =>a264
-Comment savez-vous qu'on peut me faire confiance ? Je viens littéralement d'entrer ici.<end>
+Comment tu sais qu'on peut me faire confiance ? Je viens littéralement d'entrer.<end>
 
 =>a265_original
 *Certain* tasks? Some shady business?<end>
 
 =>a265
-*Certaines* tâches? Des affaires louches ?<end>
+*Certains* trucs ? Des affaires louches ?<end>
 
 =>q266_original
 No, no, no! Drats! I'm sorry if I was misinterpreted, but that's not what I meant! Allow me to explain: <end>
 
 =>q266
-Non, non, non ! Des drags ! Je suis désolé si j'ai été mal interprétée, mais ce n'est pas ce que je voulais dire ! Permettez-moi d'expliquer : <end>
+Non, non, non ! Mince ! Désolée si t'as mal compris, mais c'est pas ce que je voulais dire ! Laisse-moi expliquer : <end>
 
 =>a267_original
 Just so you know, I'm not cleaning any toilets, if that's what you wanted to ask of me!<end>
 
 =>a267
-Juste pour que tu saches, je ne nettoie pas les toilettes, si c'est ce que tu voulais me demander !<end>
+Pour que ce soit clair : je nettoie pas les chiottes, si c'est ça que tu voulais me demander !<end>
 
 =>q268_original
 No, n-- ::She bursts out laughing.:: No, that's not what we need from you! For a second there I was worried of being misinterpreted, but I did not expect anything like this! :: She continues laughing.:: You silly!<end>
 
 =>q268
-Numéro, n-- ::Elle éclate de rire.:: Non, ce n'est pas ce dont on a besoin de toi ! Pendant une seconde, j'avais peur d'être mal interprété, mais je ne m'attendais à rien de tel! ::Elle continue à rire.:: Imbécile !<end>
+Non, n-- ::Elle éclate de rire.:: Non, c'est pas ça qu'on te demande ! Une seconde j'avais peur qu'on me comprenne mal, mais ça, je m'y attendais vraiment pas ! ::Elle continue de rire.:: Espèce d'andouille !<end>
 
 =>q269_original
 Allow me to explain: <end>
 
 =>q269
-Permettez-moi d'expliquer : <end>
+Laisse-moi expliquer : <end>
 
 =>a270_original
 That's why I'm here. What've you got for me?<end>
 
 =>a270
-C'est pour ça que je suis là. Qu'avez-vous pour moi ?<end>
+C'est pour ça que je suis là. T'as quoi pour moi ?<end>
 
 =>a271_original
 Cool.<end>
 
 =>a271
-Génial.<end>
+Cool.<end>
 
 =>a272_original
 Last time I checked, it was $(context.player.Name).<end>
@@ -1714,11 +1714,10 @@ La dernière fois que j'ai vérifié, c'était $(context.player.Name).<end>
 Hey, my girl, good to see you. What's going on?<end>
 
 =>q273
-C'est bon de te voir. Qu'est-ce qui se passe ?<end>
+Hé, ma belle, ça fait plaisir de te voir. Quoi de neuf ?<end>
 
 =>q274_original
 Hey, friend. How's life treating you?<end>
 
 =>q274
-Hé, mon ami. Comment la vie te traite ?<end>
-
+Hé, l'ami. La vie te traite comment ?<end>

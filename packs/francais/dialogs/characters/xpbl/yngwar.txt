@@ -2,7 +2,7 @@
 ::He is focused on packing.::<end>
 
 =>q1
-::Il est concentré sur l'emballage.::<end>
+::Il est concentré sur son paquetage.::<end>
 
 =>q2_original
 Æterbæren!
@@ -10,33 +10,33 @@
 ::The man swiftly grabs his spear and assumes a fighting stance.::<end>
 
 =>q2
-C'est vrai !
+Æterbæren!
 
-::L'homme saisit rapidement sa lance et prend position.::<end>
+::L'homme saisit sa lance d'un geste vif et prend une garde.::<end>
 
 =>a3_original
 ::Show him your open palms and try to act as nonthreatening as possible.::<end>
 
 =>a3
-::Montrez-lui vos paumes ouvertes et essayez de ne pas menacer autant que possible.::<end>
+::Montrer les paumes ouvertes et essayer d'avoir l'air inoffensif.::<end>
 
 =>q4_original
 ::Your peaceful actions do not seem to have the desired effect: ::<end>
 
 =>q4
-::Vos actions pacifiques ne semblent pas avoir l'effet souhaité :::<end>
+::Le geste pacifique n'a pas l'effet voulu : ::<end>
 
 =>q5_original
 ::He advances forward, skillfully maintaining his stance and keeping himself well behind the deadly tip of his spear which is now, in turn, getting dangerously close to your own body.::<end>
 
 =>q5
-::Il avance, maintient habilement sa position et se tient bien derrière la pointe mortelle de sa lance qui, à son tour, se rapproche dangereusement de votre propre corps.::<end>
+::Il avance, garde intacte, bien en retrait derrière la pointe mortelle de sa lance, qui se rapproche dangereusement de vous.::<end>
 
 =>a6_original
 Forskar Flotsourmir!<end>
 
 =>a6
-Forskar Flotsourmir !<end>
+Forskar Flotsourmir!<end>
 
 =>q7_original
 ::The name roots him in place. It does not disarm the man - the spear tip still hovers before you - but instead makes him echo the name, uttering it with great respect and pride.::
@@ -44,15 +44,15 @@ Forskar Flotsourmir !<end>
 Forskarr Flottsørmir.<end>
 
 =>q7
-::Le nom l'enracine. Il ne désarme pas l'homme - la pointe de lance continue à s'approcher devant vous - mais il fait écho au nom, le prononçant avec grand respect et fierté.::
+::Le nom le cloue sur place. Ça ne le désarme pas - la pointe de lance reste là, devant vous - mais il répète le nom, avec un grand respect et une grande fierté.::
 
-Pour les flottsørmir.<end>
+Forskarr Flottsørmir.<end>
 
 =>a8_original
 Forskarr Flotsourmir!<end>
 
 =>a8
-Pour le flotsourmir !<end>
+Forskarr Flotsourmir!<end>
 
 =>q9_original
 ::He echoes it again, louder and fiercer.::
@@ -60,27 +60,27 @@ Pour le flotsourmir !<end>
 Forskarr Flottsørmir!<end>
 
 =>q9
-::Il le rappelle, plus fort et plus féroce.::
+::Il le répète, plus fort, plus féroce.::
 
-Pour les flottsørmir !<end>
+Forskarr Flottsørmir!<end>
 
 =>a10_original
 Forskarr Flotsourmir!<end>
 
 =>a10
-Pour le flotsourmir !<end>
+Forskarr Flotsourmir!<end>
 
 =>q11_original
 Dur... hruknepönen ot meltønge lætta?<end>
 
 =>q11
-Dur... hruknepönen ot fondønge lætta ?<end>
+Dur... hruknepönen ot meltønge lætta?<end>
 
 =>a12_original
 ::Shrug your shoulders.::<end>
 
 =>a12
-::Écrase tes épaules.::<end>
+::Hausser les épaules.::<end>
 
 =>q13_original
 ::He briefly inspects you, his eyes mostly focused on your upper body.::
@@ -88,33 +88,33 @@ Dur... hruknepönen ot fondønge lætta ?<end>
 Dur nikkt vertään det saperønt ot Firg, met Flottsørmir Dur forskarren. Polløknæ...<end>
 
 =>q13
-::Il vous inspecte brièvement, ses yeux se concentrant surtout sur votre haut du corps.::
+::Il vous inspecte un instant, le regard surtout sur le haut du corps.::
 
-Dur nikkt vertään det saperønt ot Firg, rencontré Flottsørmir Dur forskarren. Polløknae...<end>
+Dur nikkt vertään det saperønt ot Firg, met Flottsørmir Dur forskarren. Polløknæ...<end>
 
 =>q14_original
 ::You both stare at each other motionlessly. As the atmosphere begins to cool down, you notice a pleasant smell of crab meat being cooked over a steady, calm fire; the sight of it glimmering so succulently is as inviting as the host wasn't during the first moments of your encounter. But even that seems to be changing: The man slowly crouches next to the fire, places his spear at his feet and checks the tender meat. He is still quite cautious of you but seems at ease enough that you may attempt to approach him.::<end>
 
 =>q14
-::Vous vous fixez sans bouger. Alors que l'atmosphère commence à se refroidir, vous remarquez une agréable odeur de viande de crabe cuite au cours d'un feu calme et régulier; la vue de celle-ci brille si succulentement est aussi accueillante que l'hôte n'a pas été lors des premiers moments de votre rencontre. Mais même cela semble changer: L'homme s'accroche lentement à côté du feu, met sa lance à ses pieds et vérifie la viande tendre. Il est encore très prudent de vous, mais semble assez à l'aise pour que vous tentiez de l'approcher.::<end>
+::Vous vous fixez, immobiles. L'atmosphère se détend, et vous sentez une bonne odeur de crabe qui cuit sur un feu calme, régulier ; la viande luisante, succulente, est plus accueillante que l'hôte au premier contact. Ça aussi, ça change : l'homme s'accroupit près du feu, pose sa lance à ses pieds et vérifie la viande. Il reste méfiant, mais assez détendu pour que vous puissiez tenter de vous approcher.::<end>
 
 =>a15_original
 ::Pat your chest.:: $(context.player.Name). ::Then point your finger at him.::<end>
 
 =>a15
-::Patientez votre poitrine.:: $(context.player.Name). ::Alors pointe ton doigt sur lui.::<end>
+::Se frapper la poitrine.:: $(context.player.Name). ::Puis le pointer du doigt.::<end>
 
 =>q16_original
 ::He observes you with an expressionless countenance.::<end>
 
 =>q16
-::Il vous observe avec un visage sans expression.::<end>
+::Il vous observe, visage sans expression.::<end>
 
 =>a17_original
 ::Pat your chest again.:: $(context.player.Name). Me. ::Point at him.:: You...?<end>
 
 =>a17
-::Encore ta poitrine.:: $(context.player.Name). Moi. ::Faites-lui signe.:: Vous...?<end>
+::Se frapper encore la poitrine.:: $(context.player.Name). Moi. ::Le pointer.:: Toi...?<end>
 
 =>q18_original
 ::He hesitates...::<end>
@@ -128,7 +128,7 @@ Dur nikkt vertään det saperønt ot Firg, rencontré Flottsørmir Dur forskarre
 Yngwar.<end>
 
 =>q19
-::...mais place sa main sur sa poitrine et imite votre geste.::
+::...puis pose la main sur sa poitrine et imite le geste.::
 
 Yngwar.<end>
 
@@ -142,19 +142,19 @@ Ik - Yngwar. Dur - $(context.player.Name).<end>
 ::He returns to his work, producing a few skewers made of bone from the leather sack next to him. He seems focused on food preparation, but he's indubitably aware of everything you do. He removes the cooked meat from the fire and replaces it with fresh skewers.::<end>
 
 =>q21
-::Il revient à son travail, produisant quelques brochettes en os à partir du sac en cuir à côté de lui. Il semble concentré sur la préparation des aliments, mais il est indiscutablement conscient de tout ce que vous faites. Il retire la viande cuite du feu et la remplace par des brochettes fraîches.::<end>
+::Il reprend son travail, sort quelques brochettes d'os du sac de cuir à côté de lui. Il a l'air concentré sur la nourriture, mais il n'ignore rien de ce que vous faites. Il retire la viande cuite du feu et la remplace par des brochettes crues.::<end>
 
 =>a22_original
 ::Approach him and stand by the fire with him.::<end>
 
 =>a22
-::Approchez-le et restez près du feu avec lui.::<end>
+::S'approcher et rester près du feu avec lui.::<end>
 
 =>q23_original
 ::He shows no objection to you approaching him.::<end>
 
 =>q23
-::Il ne montre aucune objection à ce que tu t'approches de lui.::<end>
+::Il ne s'oppose pas à ce que vous vous approchiez.::<end>
 
 =>q24_original
 <end>
@@ -172,7 +172,7 @@ About Sjörsr...<end>
 ::He nods.::<end>
 
 =>q26
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>q27_original
 <end>
@@ -184,7 +184,7 @@ About Sjörsr...<end>
 Where was he hit, again? ::Gesture something piercing your flesh.::<end>
 
 =>a28
-Où a-t-il encore été touché ? ::Gesture quelque chose perçant votre chair.::<end>
+Où est-ce qu'il a été touché, déjà ? ::Mimer quelque chose qui transperce la chair.::<end>
 
 =>q29_original
 ::He observes you for a moment...::<end>
@@ -196,19 +196,19 @@ Où a-t-il encore été touché ? ::Gesture quelque chose perçant votre chair.:
 ::Then shows the point of impact on himself: He was hit in his $(GiantSkerderHitBodyPart_DisplayName).::<end>
 
 =>q30
-::Puis montre le point d'impact sur lui-même: Il a été frappé dans son $ (GiantSkerderHitBodyPart DisplayName).::<end>
+::Puis montre le point d'impact sur lui-même : il a été touché à $(GiantSkerderHitBodyPart_DisplayName).::<end>
 
 =>a31_original
 What happened to his body? ::Gesture it as best as you can.::<end>
 
 =>a31
-Qu'est-il arrivé à son corps ? ::Gesture le mieux que vous pouvez.::<end>
+Qu'est-il arrivé à son corps ? ::Le mimer du mieux possible.::<end>
 
 =>q32_original
 ::He draws water, then the ground, then huge, towering bones sticking out. Above it, he draws a rune of some kind.::<end>
 
 =>q32
-::Il puise de l'eau, puis du sol, puis d'énormes os imposants qui se détachent. Au-dessus, il dessine une rune.::<end>
+::Il dessine de l'eau, puis le sol, puis d'énormes os dressés. Au-dessus, une sorte de rune.::<end>
 
 =>q33_original
 <end>
@@ -220,19 +220,19 @@ Qu'est-il arrivé à son corps ? ::Gesture le mieux que vous pouvez.::<end>
 ::Point to the rune, then gesture scribbling.:: Can you write that down for me?<end>
 
 =>a34
-::Pointez la rune, puis le geste gribouiller.:: Tu peux écrire ça pour moi ?<end>
+::Pointer la rune, puis mimer l'écriture.:: Tu peux m'écrire ça ?<end>
 
 =>q35_original
 ::He doesn't seem to understand but draws the rune deeper.::<end>
 
 =>q35
-::Il ne semble pas comprendre, mais il dessine la rune plus profondément.::<end>
+::Il ne semble pas comprendre, mais creuse encore la rune.::<end>
 
 =>a36_original
 ::Point to a piece of leather lying on the ground next to his sack.:: Can I have that? Can, uh, Ik, I don't know, tekken that?<end>
 
 =>a36
-::Pointez un morceau de cuir couché sur le sol à côté de son sac.:: Puis-je avoir ça ? Je ne sais pas, je peux teekken ?<end>
+::Pointer un morceau de cuir à terre, près de son sac.:: Je peux avoir ça ? Can, euh, Ik, je sais pas, tekken that?<end>
 
 =>q37_original
 ::He nods and takes the leather. But instead of giving it to you, he first burns the end of one of the skewers in the fire and then uses it to write the rune into the leather. Then he hands it to you.::
@@ -240,7 +240,7 @@ Qu'est-il arrivé à son corps ? ::Gesture le mieux que vous pouvez.::<end>
 Sjörsr akkøsska firt bryjäällen ot ponne bitt.<end>
 
 =>q37
-::Il hoche la tête et prend le cuir. Mais au lieu de vous le donner, il brûle d'abord la fin d'une des brochettes dans le feu et l'utilise pour écrire la rune dans le cuir. Puis il te le donne.::
+::Il hoche la tête et prend le cuir. Mais au lieu de vous le donner, il brûle d'abord le bout d'une brochette dans le feu, s'en sert pour tracer la rune dans le cuir, puis vous le tend.::
 
 Sjörsr akkøsska firt bryjäällen ot ponne bitt.<end>
 
@@ -248,19 +248,19 @@ Sjörsr akkøsska firt bryjäällen ot ponne bitt.<end>
 Never mind.<end>
 
 =>a38
-Pas grave.<end>
+Laisse tomber.<end>
 
 =>a39_original
 ::Inquire about something else.::<end>
 
 =>a39
-::Informez-vous sur autre chose.::<end>
+::Demander autre chose.::<end>
 
 =>q40_original
 ::He is silent.::<end>
 
 =>q40
-::Il est silencieux.::<end>
+::Il se tait.::<end>
 
 =>a41_original
 What does it mean?<end>
@@ -272,25 +272,25 @@ What does it mean?<end>
 ::He explains no further but tends to his fire instead.::<end>
 
 =>q42
-::Il n'explique pas plus loin mais tend plutôt à son feu.::<end>
+::Il n'explique rien de plus et s'occupe de son feu.::<end>
 
 =>a43_original
 ::Nod and change the subject.::<end>
 
 =>a43
-::Claquez et changez de sujet.::<end>
+::Hocher la tête et changer de sujet.::<end>
 
 =>q44_original
 ::He tends to his fire in silence.::<end>
 
 =>q44
-::Il tend au feu en silence.::<end>
+::Il s'occupe de son feu en silence.::<end>
 
 =>q45_original
 ::He points to his drawing of huge, towering bones sticking out. Above it, there is a rune of some kind.::<end>
 
 =>q45
-::Il montre qu'il dessine des os énormes et imposants. Au-dessus, il y a une sorte de rune.::<end>
+::Il montre son dessin : d'énormes os dressés. Au-dessus, une sorte de rune.::<end>
 
 =>a46_original
 About Sjoersr...<end>
@@ -314,7 +314,7 @@ Jakke...<end>
 You are different from your brethren, the Sørmirbæren. Durg, um... bitt... um...<end>
 
 =>a49
-Vous êtes différents de vos frères, le Sørmirbæren. Durg, hum... mordu... hum...<end>
+Tu es différent de tes frères, les Sørmirbæren. Durg, euh... bitt... euh...<end>
 
 =>q50_original
 Ik mætäre: Ik ænnerfe bitt.<end>
@@ -326,7 +326,7 @@ Ik mætäre: Ik ænnerfe bitt.<end>
 Jakke. Durg ænnerfen bitt. The rituals, the, um... the shapes you saw in the light... Lysbørggamen.<end>
 
 =>a51
-Jakke. Durg ænnerfen a mordu. Les rituels, les formes que vous avez vues dans la lumière... Lysbørggamen.<end>
+Jakke. Durg ænnerfen bitt. Les rituels, les, euh... les formes que tu as vues dans la lumière... Lysbørggamen.<end>
 
 =>q52_original
 ::He nods.:: Ik mætäre.
@@ -334,9 +334,9 @@ Jakke. Durg ænnerfen a mordu. Les rituels, les formes que vous avez vues dans l
 ::He draws the symbol of Flottsørmir in the sand with his trusty bone knife.::<end>
 
 =>q52
-::Il acquiesce.:: Ik mætäre.
+::Il hoche la tête.:: Ik mætäre.
 
-::Il dessine le symbole de Flottsørmir dans le sable avec son couteau à os fidèle.::<end>
+::Il trace le symbole de Flottsørmir dans le sable avec son couteau d'os.::<end>
 
 =>q53_original
 ::There is no doubt that He is the Serpent, that He is the Father who gave them their strength, skill and bloodthirst. He gave them this sea to be their homeland and its many inhabitants to slay. But the Way the spiriters want Yngwar to follow is wrong. 
@@ -344,9 +344,9 @@ Jakke. Durg ænnerfen a mordu. Les rituels, les formes que vous avez vues dans l
 He understands that now.::<end>
 
 =>q53
-::Il ne fait aucun doute qu'Il est le Serpent, qu'Il est le Père qui leur a donné leur force, leur habileté et leur sang. Il leur donna cette mer pour être leur patrie et ses nombreux habitants pour tuer. Mais la façon dont les esprits veulent qu'Yngwar suive est mauvaise.
+::Il n'y a aucun doute : Il est le Serpent, Il est le Père qui leur a donné la force, le talent et la soif de sang. Il leur a donné cette mer pour patrie, et ses habitants à tuer. Mais la Voie que les spiriteurs veulent qu'Yngwar suive est fausse.
 
-Il comprend ça maintenant.::<end>
+Il le comprend maintenant.::<end>
 
 =>q54_original
 Durg Æterbæren bitt... 
@@ -356,19 +356,19 @@ Durg Æterbæren bitt...
 =>q54
 Durg Æterbæren bitt...
 
-::Vous pouvez comprendre. Ce n'est pas important pour Yngwar.::<end>
+::Que vous compreniez ou non. Ça n'a pas d'importance pour Yngwar.::<end>
 
 =>a55_original
 Hvæy Durg... uh, vertään er kæ Merg? Why tell me all of that, then?<end>
 
 =>a55
-Hvæy Durg... euh, vertään er kæ Merg ? Pourquoi me dire tout ça alors ?<end>
+Hvæy Durg... euh, vertään er kæ Merg? Pourquoi me dire tout ça, alors ?<end>
 
 =>q56_original
 ::By trying to explain to an Otherborn the things that troubled him he understood them better himself. He understood them well enough. Now he knows what he must do.::<end>
 
 =>q56
-::En essayant d'expliquer à un Otherborn ce qui l'a troublé, il les comprenait mieux lui-même. Il les comprenait assez bien. Maintenant il sait ce qu'il doit faire.::<end>
+::En essayant d'expliquer à un Autre-né ce qui le troublait, il l'a mieux compris lui-même. Assez bien. Maintenant il sait ce qu'il doit faire.::<end>
 
 =>q57_original
 ::There is another way, the Way of the Warrior, the Way of Man, where eyes do not have to be blinded to see, where limbs do not have to be shed away to be strong. Because Yngwar can be much stronger as Flottsørmir's warrior than as Flottsørmir's serpent.::
@@ -376,7 +376,7 @@ Hvæy Durg... euh, vertään er kæ Merg ? Pourquoi me dire tout ça alors ?<end
 Det Krigsfarvääj - vääj ot det lemann.<end>
 
 =>q57
-::Il y a un autre moyen, le chemin du guerrier, le chemin de l'homme, où les yeux ne doivent pas être aveuglés pour voir, où les membres ne doivent pas être jetés pour être forts. Car Yngwar peut être beaucoup plus fort que le guerrier de Flottsørmir que le serpent de Flottsørmir.::
+::Il y a une autre voie, la Voie du Guerrier, la Voie de l'Homme, où les yeux n'ont pas à être aveuglés pour voir, où les membres n'ont pas à être abandonnés pour être forts. Parce qu'Yngwar peut être bien plus fort en guerrier de Flottsørmir qu'en serpent de Flottsørmir.::
 
 Det Krigsfarvääj - vääj ot det lemann.<end>
 
@@ -384,7 +384,7 @@ Det Krigsfarvääj - vääj ot det lemann.<end>
 ::An old, weak sailor slew Flottsørmir's greatest warrior with a tiny glowing rock. Yngwar must go to its "source," the glow itself and begin his Way there.::<end>
 
 =>q58
-::Un vieux et faible marin a tué le plus grand guerrier de Flottsørmir avec un petit rocher brillant. Yngwar doit aller à sa "source", la lueur elle-même et commencer son Chemin là.::<end>
+::Un vieux marin faible a tué le plus grand guerrier de Flottsørmir avec un petit caillou lumineux. Yngwar doit aller à sa « source », la lueur elle-même, et commencer sa Voie là-bas.::<end>
 
 =>q59_original
 <end>
@@ -396,61 +396,61 @@ Det Krigsfarvääj - vääj ot det lemann.<end>
 You're going to the monolith? ::Point southeast.::<end>
 
 =>a60
-Tu vas au monolithe ? ::Point sud-est.::<end>
+Tu vas au monolithe ? ::Pointer vers le sud-est.::<end>
 
 =>q61_original
 ::The word "monolith" seems to confuse him temporarily, but he still nods in affirmation.::<end>
 
 =>q61
-::Le mot "monolithe" semble le confondre temporairement, mais il hoche toujours la tête dans l'affirmation.::<end>
+::Le mot « monolithe » a l'air de le perdre un instant, mais il hoche quand même la tête.::<end>
 
 =>a62_original
 ::Tell him about what you saw in the monolith's vision.::<end>
 
 =>a62
-::Parlez-lui de ce que vous avez vu dans la vision du monolithe.::<end>
+::Lui raconter ce que vous avez vu dans la vision du monolithe.::<end>
 
 =>q63_original
 ::He expressionlessly waits for you to say something.::<end>
 
 =>q63
-::Il attend sans expression que vous disiez quelque chose.::<end>
+::Sans expression, il attend que vous parliez.::<end>
 
 =>a64_original
 ::Try to explain to him the things you saw: the traveler, the king, the two shafts of pure light...::<end>
 
 =>a64
-::Essayez de lui expliquer ce que vous avez vu: le voyageur, le roi, les deux puits de lumière pure...::<end>
+::Essayer de lui expliquer ce que vous avez vu : le voyageur, le roi, les deux colonnes de lumière pure...::<end>
 
 =>q65_original
 ::He follows your narrative with acute attention, interpreting the discrepancies between his and your conception as to receive as much information as possible. The traveler, the light, the falling king - it all seems to make sense to him.::<end>
 
 =>q65
-::Il suit votre récit avec une attention aiguë, interprétant les divergences entre sa conception et votre conception pour recevoir autant d'informations que possible. Le voyageur, la lumière, le roi tombé - tout semble avoir un sens pour lui.::<end>
+::Il suit le récit avec une attention aiguë, interprétant les écarts entre sa conception et la vôtre pour en tirer le plus possible. Le voyageur, la lumière, le roi qui tombe - tout a l'air de prendre un sens pour lui.::<end>
 
 =>q66_original
 ::He raises his spear just as you were about to get to the part with the burning light, implicitly taking on the role of the traveler.::<end>
 
 =>q66
-::Il lève sa lance tout comme vous étiez sur le point d'arriver à la partie avec la lumière brûlante, prenant implicitement le rôle du voyageur.::<end>
+::Il lève sa lance juste au moment où vous alliez en venir à la lumière brûlante, prenant implicitement le rôle du voyageur.::<end>
 
 =>q67_original
 ::He lowers the spear, looks at you and nods, pleased and proud.::<end>
 
 =>q67
-::Il abaisse la lance, vous regarde et crie, heureux et fier.::<end>
+::Il baisse la lance, vous regarde et hoche la tête, content, fier.::<end>
 
 =>a68_original
 ::Try to explain to him the few things you saw: the slithering serpent, the crown upon the stone...::<end>
 
 =>a68
-::Essayez de lui expliquer les quelques choses que vous avez vues : le serpent qui s'égare, la couronne sur la pierre...::<end>
+::Essayer de lui expliquer le peu que vous avez vu : le serpent qui rampe, la couronne sur la pierre...::<end>
 
 =>q69_original
 ::He pauses. You get the feeling he understood most of what you were trying to communicate, but your words leave him pondering.::<end>
 
 =>q69
-::Il s'arrête. Vous avez le sentiment qu'il comprenait la plupart de ce que vous essayiez de communiquer, mais vos mots le laissent réfléchir.::<end>
+::Il s'arrête. Vous avez le sentiment qu'il a compris l'essentiel, mais vos mots le laissent réfléchir.::<end>
 
 =>q70_original
 ::He raises his head and responds.::
@@ -472,7 +472,7 @@ Det Krigsfarvääj Ik møsst trekke.<end>
 ::Explain to him that you saw blinding fires burning all warriors who dare approach it - for eternity.::<end>
 
 =>a72
-::Expliquez-lui que vous avez vu des feux aveuglants brûler tous les guerriers qui osent s'approcher - pour l'éternité.::<end>
+::Lui expliquer que vous avez vu des feux aveuglants brûler tous les guerriers qui osent s'approcher - pour l'éternité.::<end>
 
 =>q73_original
 ::He is focused on your narrative and quickly shows signs of dissatisfaction.::
@@ -480,9 +480,9 @@ Det Krigsfarvääj Ik møsst trekke.<end>
 Krökø! Durg höppælysk gørren Merg!<end>
 
 =>q73
-::Il se concentre sur votre récit et montre rapidement des signes d'insatisfaction.::
+::Il se concentre sur le récit et montre vite des signes de mécontentement.::
 
-C'est Krökø ! Durg höppælysk gørren Merg !<end>
+Krökø! Durg höppælysk gørren Merg!<end>
 
 =>q74_original
 ::Distrust grows in his eyes because things don't make sense to him. He senses your deception and responds by grabbing his spear...::
@@ -490,7 +490,7 @@ C'est Krökø ! Durg höppælysk gørren Merg !<end>
 <end>
 
 =>q74
-::La méfiance grandit dans ses yeux parce que les choses n'ont aucun sens pour lui. Il sent votre tromperie et répond en saisissant sa lance...::
+::La méfiance grandit dans ses yeux : ça n'a pas de sens pour lui. Il sent la tromperie et saisit sa lance...::
 
 <end>
 
@@ -498,13 +498,13 @@ C'est Krökø ! Durg höppælysk gørren Merg !<end>
 ::Fight!::<end>
 
 =>a75
-::Lutte!::<end>
+::Combattre.::<end>
 
 =>a76_original
 ::Say nothing.::<end>
 
 =>a76
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q77_original
 ::He remains expressionless.::<end>
@@ -516,7 +516,7 @@ C'est Krökø ! Durg höppælysk gørren Merg !<end>
 You aren't afraid that the Lysbørggamen might kill you?<end>
 
 =>a78
-Tu n'as pas peur que les Lysbørggamen te tuent ?<end>
+T'as pas peur que le Lysbørggamen te tue ?<end>
 
 =>q79_original
 ::He shakes his head.:: Ik ænnerfe bitt.<end>
@@ -528,19 +528,19 @@ Tu n'as pas peur que les Lysbørggamen te tuent ?<end>
 There is another monolith, deep below the surface of the sea.<end>
 
 =>a80
-Il y a un autre monolithe, profond sous la surface de la mer.<end>
+Il y a un autre monolithe, loin sous la surface de la mer.<end>
 
 =>q81_original
 Ænnerfen grønt stänn? Hvær er bitt?<end>
 
 =>q81
-C'est quoi, ça ? - Quoi ?<end>
+Ænnerfen grønt stänn? Hvær er bitt?<end>
 
 =>a82_original
 It's in, um... *Abyssal* Station. ::Point down, deep, deep down, and explain to him what you experienced as best as you can.::<end>
 
 =>a82
-C'est dans la station Abyssal. ::Pointez vers le bas, profond, profond, et expliquez-lui ce que vous avez vécu le mieux que vous pouvez.::<end>
+C'est dans, euh... *Abyssal* Station. ::Pointer vers le bas, très profond, et lui expliquer l'expérience du mieux possible.::<end>
 
 =>q83_original
 ::He's captivated by your story, trying his best to understand every word and every gesture you utter and make. The very existence of this underwater place and how you reached it via a "floating shell," it fascinates him so much, but the moment you mention the Shadowlith... his attention turns into something else, something more - recognition.::
@@ -548,9 +548,9 @@ C'est dans la station Abyssal. ::Pointez vers le bas, profond, profond, et expli
 Det Mørrstänn!<end>
 
 =>q83
-::Il est captivé par votre histoire, en essayant de comprendre chaque mot et chaque geste que vous prononcez et faites. L'existence même de cet endroit sous-marin et la façon dont vous l'avez atteint via une « coquille flottante », il le fascine tellement, mais le moment où vous mentionnez le Shadowlit... son attention se transforme en autre chose, quelque chose de plus - la reconnaissance.::
+::Il est captivé, s'efforce de comprendre chaque mot, chaque geste. L'existence même de cet endroit sous l'eau, et comment vous y êtes arrivé dans une « coquille flottante », ça le fascine, mais dès que vous mentionnez le Shadowlith... son attention devient autre chose, plus : de la reconnaissance.::
 
-Dét Mørrstänn !<end>
+Det Mørrstänn!<end>
 
 =>q84_original
 ::The Black Rock - in the Temple of the Tides. It's the same thing you're describing, the only difference being their relative sizes: The rock beneath the sea is larger than a man - a transcended even; the rock in the Temple is small, yet it's as heavy as a thousand rocks. 
@@ -558,9 +558,9 @@ Dét Mørrstänn !<end>
 The spiriters use this relic for various rituals and enchantments; they mind-speak with it - and they say it speaks back in His tongue.::<end>
 
 =>q84
-::Le rocher noir - dans le temple des marées. C'est la même chose que vous décrivez, la seule différence étant leur taille relative: Le rocher sous la mer est plus grand qu'un homme - un même transcendé; le rocher dans le Temple est petit, mais il est aussi lourd qu'un millier de rochers.
+::Le Rocher Noir - dans le Temple des Marées. C'est la même chose que vous décrivez, seule la taille change : le rocher sous la mer est plus grand qu'un homme - même un transcendé ; celui du Temple est petit, mais lourd comme mille rochers.
 
-Les esprits utilisent cette relique pour divers rituels et enchantements; ils parlent avec elle - et ils disent qu'elle parle de nouveau dans Sa langue.::<end>
+Les spiriteurs s'en servent pour des rituels, des enchantements ; ils lui parlent par l'esprit - et ils disent qu'il répond dans Sa langue.::<end>
 
 =>q85_original
 ::He works out that the two rocks were one even before you got to mention the missing piece from the top of the Shadowlith - you could see it clearly in his eyes - and the darkening effect - he recognizes it just the same. The gloom beyond the windows, the opening portals, the serpentine void creatures, these he finds hard to interpret properly, but he *feels* the essence of what you experienced. Yet somehow it remains unclear whether he interprets it to be reality as you understand it, or something one would experience in a ritualistic trance, or even something else entirely.
@@ -568,9 +568,9 @@ Les esprits utilisent cette relique pour divers rituels et enchantements; ils pa
 In any case, you end your story with the submarine's ascent.::<end>
 
 =>q85
-::Il s'aperçoit que les deux rochers n'étaient qu'un avant même que vous ne parliez de la pièce manquante du haut de l'Odowlith - vous pouviez la voir clairement dans ses yeux - et l'effet d'obscurcissement - il le reconnaît exactement la même chose. L'obscurité au-delà des fenêtres, les portails d'ouverture, les créatures serpentines vides, ceux-ci il trouve difficile d'interpréter correctement, mais il *feel* l'essence de ce que vous avez vécu. Pourtant, il n'est pas clair s'il l'interprète comme étant la réalité telle que vous la comprenez, ou quelque chose qu'on expérimenterait dans une transe rituelle, ou même quelque chose d'autre entièrement.
+::Il comprend que les deux rochers n'étaient qu'un, avant même que vous parliez du morceau manquant au sommet du Shadowlith - ça se lit dans ses yeux - et l'effet d'obscurcissement, il le reconnaît pareil. L'ombre au-delà des hublots, les portails qui s'ouvrent, les créatures du vide en forme de serpent, ça il a du mal à l'interpréter, mais il *sent* l'essence de ce que vous avez vécu. Reste flou s'il y voit la réalité telle que vous la comprenez, une transe rituelle, ou encore autre chose.
 
-En tout cas, vous terminez votre histoire avec l'ascension du sous-marin.::<end>
+Dans tous les cas, vous terminez par la remontée du sous-marin.::<end>
 
 =>q86_original
 ::After some thinking he relays his thoughts briefly: Had he heard this earlier in his life, it would reinforce his faith in the Way of the spiriters - for this Black Rock would be the supreme source of His immense influence, lying deep in His underwater realm, waiting for the transcended ones to swim to it. But now that he recognizes the connection between the two Great Rocks and the two Ways, and that the Black Rock's "glow" is to the spiriters what Lysbørggamen is to him, he understands even more why he must follow a different Way.::
@@ -578,33 +578,33 @@ En tout cas, vous terminez votre histoire avec l'ascension du sous-marin.::<end>
 Det Krigsfarvääj - vääj ot det lemann! ::He repeats resolutely.::<end>
 
 =>q86
-::Après quelques réflexions, il relaie brièvement ses pensées: S'il l'avait entendu plus tôt dans sa vie, cela renforcerait sa foi dans le Chemin des esprits - car ce Rocher Noir serait la source suprême de son immense influence, couchée au fond de son royaume sous-marin, attendant que les transcendés nagent vers lui. Mais maintenant qu'il reconnaît le lien entre les deux Grands Rochers et les deux Voies, et que le "glow" du Black Rock est pour les esprits ce que Lysbørggamen est pour lui, il comprend encore plus pourquoi il doit suivre une Voie différente.::
+::Après un moment, il transmet ses pensées, bref : s'il avait entendu ça plus tôt, ça aurait renforcé sa foi dans la Voie des spiriteurs - ce Rocher Noir serait la source suprême de Son immense influence, au fond de Son royaume sous-marin, attendant que les transcendés nagent jusqu'à lui. Mais maintenant qu'il voit le lien entre les deux Grands Rochers et les deux Voies, et que la « lueur » du Rocher Noir est aux spiriteurs ce que Lysbørggamen est pour lui, il comprend encore mieux pourquoi il doit suivre une autre Voie.::
 
-Det Krigsfarvääj - vääj ot det lemann! ::Il le répète résolument.::<end>
+Det Krigsfarvääj - vääj ot det lemann! ::Il répète, résolu.::<end>
 
 =>a87_original
 How will you leave? ::Gesture a boat sailing away.::<end>
 
 =>a87
-Comment partirez-vous ? ::Gesturez un bateau qui part.::<end>
+Comment tu pars ? ::Mimer un bateau qui s'éloigne.::<end>
 
 =>q88_original
 ::His eyes trace the surrounding walls all the way to the ceiling. Then he raises his hands...::<end>
 
 =>q88
-::Ses yeux tracent les murs environnants jusqu'au plafond. Puis il lève les mains...::<end>
+::Ses yeux suivent les murs jusqu'au plafond. Puis il lève les mains...::<end>
 
 =>q89_original
 ::...and mimics climbing.::<end>
 
 =>q89
-::...et imite l'escalade.::<end>
+::...et mime l'escalade.::<end>
 
 =>a90_original
 ::Take a step back.:: Then go.<end>
 
 =>a90
-::Reculer.:: Alors partir.<end>
+::Reculer d'un pas.:: Alors va.<end>
 
 =>q91_original
 ::He looks at his things and begins counting them using his phalanges, doing so in groups of six, as before. Once he reaches his other, deformed hand you notice something odd - his index finger on that hand has four phalanges, making that the only grouping wherein he has counted seven items.
@@ -612,27 +612,27 @@ Comment partirez-vous ? ::Gesturez un bateau qui part.::<end>
 It makes you wonder for a few moments, and then...::<end>
 
 =>q91
-::Il regarde ses affaires et commence à les compter en utilisant ses phalanges, en groupes de six, comme avant. Une fois qu'il atteint son autre main déformée, vous remarquez quelque chose d'étrange - son index sur cette main a quatre phalanges, ce qui fait que le seul groupement dans lequel il a compté sept articles.
+::Il regarde ses affaires et les compte sur les phalanges, par groupes de six, comme avant. Quand il arrive à l'autre main, déformée, vous remarquez quelque chose d'étrange : l'index de cette main a quatre phalanges, le seul groupe où il a compté sept.
 
-Ça vous fait vous émerveiller quelques instants, et puis...::<end>
+Ça vous fait réfléchir un moment, et puis...::<end>
 
 =>q92_original
 ::He sits by the fire and begins pulling things out of a leather sack.::<end>
 
 =>q92
-::Il s'assied près du feu et commence à sortir les choses d'un sac en cuir.::<end>
+::Il s'assoit près du feu et commence à sortir des choses d'un sac de cuir.::<end>
 
 =>a93_original
 ::Wait and see what he does.::<end>
 
 =>a93
-::Attends de voir ce qu'il fait.::<end>
+::Attendre de voir ce qu'il fait.::<end>
 
 =>q94_original
 ::He grabs a stone mortar, a bone pestle, a bag of white pearls and a reed brush. He crushes the pearls into fine powder, pours in some water from one waterskin and some sticky, honey-like substance from another, smaller one. He then pours everything into a thin bowl and heats it over the fire, mixing it until its consistency turns thick.::<end>
 
 =>q94
-::Il s'empare d'un mortier de pierre, d'un pilon, d'un sac de perles blanches et d'un pinceau. Il écrase les perles en poudre fine, verse dans une eau d'une peau d'eau et une substance collante, comme du miel d'une autre, plus petite. Il verse ensuite tout dans un bol mince et le chauffe au-dessus du feu, le mélangeant jusqu'à ce que sa consistance devienne épaisse.::<end>
+::Il prend un mortier de pierre, un pilon d'os, un sac de perles blanches et un pinceau de roseau. Il écrase les perles en poudre fine, verse de l'eau d'une outre et une substance collante, comme du miel, d'une plus petite. Il verse le tout dans un bol mince, chauffe au feu, mélange jusqu'à ce que ça épaississe.::<end>
 
 =>q95_original
 ::The warpaint is ready, and after waiting for it to cool off a bit he applies it to his face, smearing his skin with his hands, but the scales he treats with the reed brush.
@@ -640,7 +640,7 @@ It makes you wonder for a few moments, and then...::<end>
 Now he's ready.::<end>
 
 =>q95
-::La peinture de guerre est prête, et après avoir attendu qu'elle se refroidisse un peu, il l'applique sur son visage, en salissant sa peau de ses mains, mais les écailles qu'il traite avec le pinceau.
+::La peinture de guerre est prête. Il attend un peu qu'elle refroidisse, puis se l'applique au visage, la peau à la main, les écailles au pinceau de roseau.
 
 Maintenant, il est prêt.::<end>
 
@@ -654,19 +654,19 @@ Bonne chance, Yngwar. ::Partir.::<end>
 ::Just leave.::<end>
 
 =>a97
-::Partez.::<end>
+::Partir.::<end>
 
 =>a98_original
 I cannot let you kill in Flottsørmir's name, savage! ::Attack!::<end>
 
 =>a98
-Je ne peux pas te laisser tuer au nom de Flottsørmir, sauvage ! ::Attaque!::<end>
+Je peux pas te laisser tuer au nom de Flottsørmir, sauvage ! ::Attaquer.::<end>
 
 =>a99_original
 Well, screw you too.<end>
 
 =>a99
-Va te faire foutre aussi.<end>
+Va te faire foutre, toi aussi.<end>
 
 =>q100_original
 ::He raises his hand.::<end>
@@ -678,19 +678,19 @@ Va te faire foutre aussi.<end>
 ::Observe him.::<end>
 
 =>a101
-::Observez-le.::<end>
+::L'observer.::<end>
 
 =>q102_original
 ::Now that you don't have to worry about him driving his spear between your eyes you can use the aforementioned to observe him at leisure. For instance, only now do you notice that his left forearm and hand are larger and of less regular shape than his right: The fingers are thicker and somewhat crooked at the joints - making them less dexterous when doing fine, precise work, such as putting meat on or turning the skewers - and the scales on that arm almost form a sturdy, reptilian gauntlet; almost - as there are a few patches of exposed purple-red flesh.::<end>
 
 =>q102
-::Maintenant que vous n'avez pas à vous soucier de lui conduisant sa lance entre vos yeux, vous pouvez utiliser le ci-dessus pour l'observer à loisir. Par exemple, maintenant seulement remarquez-vous que son avant-bras gauche et sa main sont plus grands et de forme moins régulière que sa droite: Les doigts sont plus épais et un peu tordus aux articulations - ce qui les rend moins dextérieux lorsqu'ils font un travail fin et précis, comme mettre de la viande sur ou tourner les brochettes - et les écailles sur ce bras forment presque un gantelet robuste et réptilien; presque - comme il ya quelques taches de la chair rouge-violet exposée.::<end>
+::Maintenant que vous n'avez plus à craindre sa lance entre les yeux, vous pouvez l'observer à loisir. Par exemple, vous remarquez seulement maintenant que l'avant-bras et la main gauches sont plus grands, moins réguliers que la droite : les doigts plus épais, un peu tordus aux articulations - moins adroits pour le travail fin, enfiler la viande, tourner les brochettes - et les écailles de ce bras forment presque un gantelet reptilien, solide ; presque - il reste quelques plaques de chair rouge-violet à nu.::<end>
 
 =>q103_original
 ::There are many other details you notice: the tattoo on his chest - the same one you keep seeing around - the numerous bony piercings, the quality leather belt and backpack strap, the loincloth made of a material much finer and oddly more elegant than the simple furry greaves he's wearing.::<end>
 
 =>q103
-::Il y a beaucoup d'autres détails que vous remarquez: le tatouage sur sa poitrine - le même que celui que vous continuez à voir autour - les nombreux piercings osseux, la ceinture en cuir de qualité et la sangle de sac à dos, la longe faite d'un matériau beaucoup plus fin et bizarrement plus élégant que les simples griffes à fourrure qu'il porte.::<end>
+::Beaucoup d'autres détails : le tatouage sur la poitrine - le même que partout autour - les nombreux piercings d'os, la ceinture de cuir de qualité et la sangle du sac, le pagne d'une matière bien plus fine, bizarrement plus élégante que les simples jambières de fourrure.::<end>
 
 =>q104_original
 ::[Perception] There is, in fact, plenty of visual conflict in his appearance: For each of his serpentine features there is an opposing humanizing one, like the way his scales grow around, and therefore emphasize, his biceps - perhaps the most recognizable symbol of male strength - or the difference between his cruder, malforming hand and his accurate, if scale-covered normal one.
@@ -698,27 +698,27 @@ Va te faire foutre aussi.<end>
 Even the dominant, curved lines of the tattoo are but boxed into the outlinear matrix of his pectoral and abdominal muscles.::<end>
 
 =>q104
-::[Perception] Il y a, en fait, beaucoup de conflits visuels dans son apparence: Pour chacune de ses caractéristiques serpentines il y a une humanisation opposée, comme la façon dont ses écailles poussent autour, et donc souligner, ses biceps - peut-être le symbole le plus reconnaissable de la force masculine - ou la différence entre sa main brute, malformante et sa précision, si l'écaille couverte normale.
+::[Perception] En fait, son apparence est pleine de conflits visuels : à chaque trait serpentin répond un trait humain, comme les écailles qui poussent autour de ses biceps - et les soulignent - peut-être le symbole le plus lisible de la force mâle - ou l'écart entre la main brute, malformée, et l'autre, précise, même couverte d'écailles.
 
-Même les lignes dominantes et courbes du tatouage sont boxées dans la matrice extralinéaire de ses muscles pectoraux et abdominaux.::<end>
+Même les lignes courbes, dominantes, du tatouage sont encadrées par la matrice de ses pectoraux et de ses abdominaux.::<end>
 
 =>q105_original
 ::As you finish examining him, so does he finish examining you.::<end>
 
 =>q105
-::Quand vous avez fini de l'examiner, il a fini de vous examiner.::<end>
+::Quand vous avez fini de l'examiner, lui aussi a fini de vous examiner.::<end>
 
 =>a106_original
 ::Point at him.:: Yngwar.<end>
 
 =>a106
-::Faites-lui signe.:: Yngwar.<end>
+::Le pointer.:: Yngwar.<end>
 
 =>q107_original
 ::He is silent.::<end>
 
 =>q107
-::Il est silencieux.::<end>
+::Il se tait.::<end>
 
 =>a108_original
 Uh... ::Pat your chest.:: 
@@ -731,13 +731,13 @@ $(context.player.Name) - adventurer. ::Use two fingers to imitate a person's leg
 <end>
 
 =>a108
-::Patientez votre poitrine.::
+Euh... ::Se frapper la poitrine.::
 
-$(context.player.Name) - courageux. ::Vous avez l'air courageux.::
+$(context.player.Name) - courageux. ::Avoir l'air courageux, du mieux possible.::
 
-$(context.player.Name) - intelligent. ::Tape sur ta tête et espère qu'il l'aura.::
+$(context.player.Name) - intelligent. ::Se taper la tête et espérer qu'il pige.::
 
-$(context.player.Name) - aventurier. ::Utilisez deux doigts pour imiter les jambes d'une personne.::
+$(context.player.Name) - aventurier. ::Imiter des jambes avec deux doigts.::
 <end>
 
 =>q109_original
@@ -760,13 +760,13 @@ Yngwar - Skærder.
 Yngwar - trekker... ::He mimics your walking fingers.::<end>
 
 =>q110
-C'est vrai. - Oui.
+Æterbæren. Dur Æterbæren.
 
 Yngwar - Sørmirbæren.
 
 Yngwar - Skærder.
 
-Yngwar - trekker... ::Il imite vos doigts de marche.::<end>
+Yngwar - trekker... ::Il imite vos doigts qui marchent.::<end>
 
 =>q111_original
 ::He picks up his knife, a blade made of bone and painted with blood, and approaches the sand. He starts by drawing waves, then ground above it. Tents soon emerge, people and livestock follow. He draws a doming cavern above it all, and places himself to the left, where the dome meets the water, far away from his tribe. He rests the knife's point on the drawn version of himself and says...::
@@ -774,15 +774,15 @@ Yngwar - trekker... ::Il imite vos doigts de marche.::<end>
 Yngwar. Yngwar. ::He pats his chest.::<end>
 
 =>q111
-::Il prend son couteau, une lame en os et peinte avec du sang, et s'approche du sable. Il commence par dessiner des vagues, puis se poser au-dessus. Les tentes émergent bientôt, les gens et le bétail suivent. Il dessine au-dessus de tout une caverne dominatrice, et se place à gauche, où le dôme rencontre l'eau, loin de sa tribu. Il repose le point du couteau sur la version dessinée de lui-même et dit...::
+::Il prend son couteau, une lame d'os peinte de sang, et s'approche du sable. Il commence par des vagues, puis le sol au-dessus. Bientôt des tentes, des gens, du bétail. Il dessine une caverne en dôme par-dessus tout, et se place à gauche, là où le dôme rejoint l'eau, loin de sa tribu. Il pose la pointe du couteau sur la version dessinée de lui-même et dit...::
 
-Yngwar. Yngwar. ::Il lui tape la poitrine.::<end>
+Yngwar. Yngwar. ::Il se frappe la poitrine.::<end>
 
 =>q112_original
 $(context.player.Name). ::He points to you, then the sand.::<end>
 
 =>q112
-$(context.player.Name). ::Il vous indique, puis le sable.::<end>
+$(context.player.Name). ::Il vous pointe, puis le sable.::<end>
 
 =>q113_original
 <end>
@@ -794,7 +794,7 @@ $(context.player.Name). ::Il vous indique, puis le sable.::<end>
 ::Draw South Gate Station.::<end>
 
 =>a114
-::Dessinez South Gate Station.::<end>
+::Dessiner South Gate Station.::<end>
 
 =>q115_original
 ::You pick up a small sharp bone and start drawing the floors of South Gate Station, one by one, starting with the lowest one. As the floors multiply, so do the details that give the drawing some character: the shooting range, the bar, the hopper pen...
@@ -802,33 +802,33 @@ $(context.player.Name). ::Il vous indique, puis le sable.::<end>
 The last inhabitant you draw is a hunchbacked stick figure standing outside the lowest floor.::<end>
 
 =>q115
-::Vous ramassez un petit os pointu et commencez à dessiner les sols de South Gate Station, un par un, en commençant par le plus bas. Comme les planchers se multiplient, ainsi que les détails qui donnent au dessin un certain caractère: la portée de tir, la barre, le stylo trémie...
+::Vous prenez un petit os pointu et dessinez les étages de South Gate Station, un par un, en commençant par le plus bas. Les étages se multiplient, et les détails aussi : le stand de tir, le bar, l'enclos à hoppers...
 
-Le dernier habitant que vous dessinez est un bâton à dos d'épine debout à l'extérieur du plancher le plus bas.::<end>
+Le dernier habitant que vous dessinez est un bonhomme bossu, dehors, au niveau le plus bas.::<end>
 
 =>q116_original
 ::He observes your drawing with curiosity before adding a wave just below the ground floor, making it look as though most of the station is underwater.::<end>
 
 =>q116
-::Il observe votre dessin avec curiosité avant d'ajouter une vague juste en dessous du rez-de-chaussée, ce qui donne l'impression que la plupart des stations sont sous l'eau.::<end>
+::Il observe le dessin avec curiosité, puis ajoute une vague juste sous le rez-de-chaussée, comme si la plus grande partie de la station était sous l'eau.::<end>
 
 =>a117_original
 ::Draw the Institute of Tchort.::<end>
 
 =>a117
-::Dessinez l'Institut de Tchort.::<end>
+::Dessiner l'Institute of Tchort.::<end>
 
 =>q118_original
 ::You pick up a small sharp bone and draw a large eye from which tentacles emerge - the entrance to the Institute. You then proceed to draw its layout, connecting the squares which represent floors and rooms with stairs and long hallways. The numerous vases also help to embellish the drawing. ::<end>
 
 =>q118
-::Vous ramassez un petit os pointu et tirez un grand oeil d'où émergent les tentacules - l'entrée de l'Institut. Nous allons ensuite dessiner sa disposition, en reliant les places qui représentent les étages et les chambres avec des escaliers et de longs couloirs. Les nombreux vases aident également à embellir le dessin.::<end>
+::Vous prenez un petit os pointu et dessinez un grand œil d'où sortent des tentacules - l'entrée de l'Institute. Puis le plan : des carrés pour les étages et les salles, reliés par des escaliers et de longs couloirs. Les nombreux vases ornent le dessin. ::<end>
 
 =>q119_original
 ::And then, a large number of stick figures arrive and kill everyone.::<end>
 
 =>q119
-::Et puis, un grand nombre de chiffres de bâton arrivent et tuent tout le monde.::<end>
+::Puis un grand nombre de bonshommes arrivent et tuent tout le monde.::<end>
 
 =>q120_original
 ::The onslaught disturbs him slightly, but not for the expected reasons, it seems. He points to the tentacles a few times, their slithery nature obviously provoking great interest in him. He shakes his head and speaks.::
@@ -836,15 +836,15 @@ Le dernier habitant que vous dessinez est un bâton à dos d'épine debout à l'
 Tirg sørmiren zöne Tir krigsppæt nikkt. Nikkt. Tir Dødten bitt, husse.<end>
 
 =>q120
-::L'assaut le dérange légèrement, mais pas pour les raisons attendues, semble-t-il. Il pointe à quelques reprises les tentacules, leur nature slithery provoquant évidemment un grand intérêt pour lui. Il secoue la tête et parle.::
+::Le massacre le dérange un peu, mais pas pour les raisons attendues, on dirait. Il pointe les tentacules à plusieurs reprises, leur nature glissante l'intéresse visiblement beaucoup. Il secoue la tête et parle.::
 
-Tirg sørmiren zöne Tir krigsppæt nikkt. C'est Nikkt. Tir Dødten, husse.<end>
+Tirg sørmiren zöne Tir krigsppæt nikkt. Nikkt. Tir Dødten bitt, husse.<end>
 
 =>a121_original
 That is Tchort you're pointing at. Tchort. Tchort.<end>
 
 =>a121
-C'est Tchort que vous pointez. Tchort. Tchort.<end>
+C'est Tchort que tu pointes. Tchort. Tchort.<end>
 
 =>q122_original
 Tchort. Tchort...<end>
@@ -858,39 +858,39 @@ Fir... ::He pats his chest.:: Forskarr Flottsørmir! Tir... ::He points to the s
 Met Flottsørmir... möktter! Möktter!<end>
 
 =>q123
-Fir... ::Il lui tape la poitrine.:: Forskarr Flottsørmir ! Tir... ::Il pointe vers les tchortistes.:: Forskarr Tchort. Fir - Sørmirbæren. Tir - Tchortbæren. Jakke.
+Fir... ::Il se frappe la poitrine.:: Forskarr Flottsørmir! Tir... ::Il pointe les tchortistes en bonshommes.:: Forskarr Tchort. Fir - Sørmirbæren. Tir - Tchortbæren. Jakke.
 
-Il a rencontré Flottsørmir... Möktter ! Möktter !<end>
+Met Flottsørmir... möktter! Möktter!<end>
 
 =>q124_original
 Forskarr Flottsørmir!<end>
 
 =>q124
-Pour les flottsørmir !<end>
+Forskarr Flottsørmir!<end>
 
 =>a125_original
 No. No Flotsourmir - Tchort!<end>
 
 =>a125
-C'est pas vrai. Pas de flotsourmir - Tchort!<end>
+Non. Pas Flotsourmir - Tchort !<end>
 
 =>q126_original
 Tchort? ::He spits at you.:: Forskarr Flottsørmir! ::He shoves you away and grabs his spear.::<end>
 
 =>q126
-Tchort ? ::Il te crache dessus.:: Forskarr Flottsørmir! ::Il vous pousse et saisit sa lance.::<end>
+Tchort ? ::Il vous crache dessus.:: Forskarr Flottsørmir! ::Il vous pousse et saisit sa lance.::<end>
 
 =>a127_original
 Forskar Flotsourmir.<end>
 
 =>a127
-- Forskar Flotsourmir.<end>
+Forskar Flotsourmir.<end>
 
 =>q128_original
 ::He looks at the drawing some more, ::<end>
 
 =>q128
-::Il regarde encore le dessin.::<end>
+::Il regarde encore le dessin, ::<end>
 
 =>q129_original
 ::then turns around to check his crab meat.::<end>
@@ -902,7 +902,7 @@ Forskar Flotsourmir.<end>
 ::Say nothing.::<end>
 
 =>a130
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q131_original
 <end>
@@ -916,9 +916,9 @@ Forskar Flotsourmir.<end>
 Flottsørmir? Ik se nikkt jørre aut.<end>
 
 =>q132
-::Il pointe à quelques reprises les tentacules, leur nature slithery provoquant évidemment un grand intérêt pour lui.::
+::Il pointe les tentacules à plusieurs reprises, leur nature glissante l'intéresse visiblement beaucoup.::
 
-Des flottsørmir ? Ik se nikkt jørre aut.<end>
+Flottsørmir? Ik se nikkt jørre aut.<end>
 
 =>a133_original
 No, that is Tchort. Tchort.<end>
@@ -930,25 +930,25 @@ Non, c'est Tchort. Tchort.<end>
 ::Draw the expedition camp.::<end>
 
 =>a134
-::Dessinez le camp d'expédition.::<end>
+::Dessiner le camp d'expédition.::<end>
 
 =>q135_original
 ::You pick up a small sharp bone and start by drawing the many tents in the camp, and then eclipse them all with a tall lighthouse::<end>
 
 =>q135
-::Vous ramassez un petit os tranchant et commencez par dessiner les nombreuses tentes du camp, puis éclipsez-les tous avec un grand phare::<end>
+::Vous prenez un petit os pointu, dessinez les nombreuses tentes du camp, puis les éclipsez toutes d'un grand phare::<end>
 
 =>q136_original
 ::atop which a lone figure stands. ::<end>
 
 =>q136
-::au sommet duquel se dresse une figure solitaire.::<end>
+::au sommet duquel se dresse une silhouette seule. ::<end>
 
 =>q137_original
 ::You add jet skis patrolling around it, sec-troopers fighting sea serpents, laborers carrying boxes and Chief Briggs yelling at Ladelman.::<end>
 
 =>q137
-::Vous ajoutez des jet skis qui patrouillent autour, des sec-troopers qui combattent des serpents de mer, des ouvriers qui transportent des boîtes et le chef Briggs qui hurlent sur Ladelman.::<end>
+::Vous ajoutez des jets en patrouille autour, des sec-troopers qui combattent des serpents de mer, des ouvriers qui portent des caisses et Chief Briggs qui gueule sur Ladelman.::<end>
 
 =>q138_original
 ::He observes your drawing with curiosity, but you notice that he does not recognize the camp. He nods a few times and adds a few tribal details to your tents.::
@@ -956,7 +956,7 @@ Non, c'est Tchort. Tchort.<end>
 Jakke... Tyrten gøttæ aule päkke-päkke.<end>
 
 =>q138
-::Il observe votre dessin avec curiosité, mais vous remarquez qu'il ne reconnaît pas le camp. Il hoche la tête quelques fois et ajoute quelques détails tribaux à vos tentes.::
+::Il observe le dessin avec curiosité, mais vous voyez qu'il ne reconnaît pas le camp. Il hoche la tête quelques fois et ajoute quelques détails tribaux à vos tentes.::
 
 Jakke... Tyrten gøttæ aule päkke-päkke.<end>
 
@@ -970,13 +970,13 @@ Jakke... Tyrten gøttæ aule päkke-päkke.<end>
 ::Draw the Free Drones base.::<end>
 
 =>a140
-::Dessinez la base des Drones Libres.::<end>
+::Dessiner la base des Free Drones.::<end>
 
 =>q141_original
 ::You pick up a small sharp bone and start by drawing the railway. Then you draw a network of tunnels underneath it. And then you cram an entire community of stick figures in a few small rooms, with Hutch and Laser guarding the entrance.::<end>
 
 =>q141
-::Vous ramassez un petit os pointu et commencez par dessiner le chemin de fer. Puis vous dessinez un réseau de tunnels en dessous. Et puis, on enferme toute une communauté de figures de bâton dans quelques petites pièces, avec Hutch et Laser qui gardent l'entrée.::<end>
+::Vous prenez un petit os pointu et commencez par le chemin de fer. Puis un réseau de tunnels en dessous. Puis vous entassez toute une communauté de bonshommes dans quelques petites salles, avec Hutch et Laser à l'entrée.::<end>
 
 =>q142_original
 ::He observes your drawing with curiosity, then points at Laser.::
@@ -984,33 +984,33 @@ Jakke... Tyrten gøttæ aule päkke-päkke.<end>
 Mø? ::He then starts mooing.:: Mø?<end>
 
 =>q142
-::Il observe votre dessin avec curiosité, puis pointe à Laser.::
+::Il observe le dessin avec curiosité, puis pointe Laser.::
 
-Mø? ::Il commence alors à bouger.:: Mø?<end>
+Mø ? ::Puis il se met à beugler.:: Mø?<end>
 
 =>a143_original
 Um, yes. Mu.<end>
 
 =>a143
-Euh, oui. - Oui.<end>
+Euh, oui. Mu.<end>
 
 =>q144_original
 ::He moos one more time, ::<end>
 
 =>q144
-::Encore une fois,::<end>
+::Il beugle encore une fois, ::<end>
 
 =>a145_original
 No. Woof-woof.<end>
 
 =>a145
-C'est pas vrai. Ouf-ouf.<end>
+Non. Ouaf-ouaf.<end>
 
 =>q146_original
 Woof-woof...? Bau-bau? ::He barks like a dog as his gaze turns southeast.::<end>
 
 =>q146
-Ouf-ouf... ? Bau-bau ? ::Il aboie comme un chien quand son regard tourne vers le sud-est.::<end>
+Ouaf-ouaf... ? Bau-bau ? ::Il aboie comme un chien, le regard vers le sud-est.::<end>
 
 =>a147_original
 Yes. Bau-bau.<end>
@@ -1022,13 +1022,13 @@ Oui. Bau-bau.<end>
 ::He barks one more time, ::<end>
 
 =>q148
-::Il aboie encore une fois,::<end>
+::Il aboie encore une fois, ::<end>
 
 =>a149_original
 Not bau-bau - woof-woof!<end>
 
 =>a149
-Pas bau-bau-woof-woof !<end>
+Pas bau-bau - ouaf-ouaf !<end>
 
 =>q150_original
 Bau-bau!<end>
@@ -1040,13 +1040,13 @@ Bau-bau !<end>
 ::Draw Fort Apogee.::<end>
 
 =>a151
-::Dessinez Fort Apogee.::<end>
+::Dessiner Fort Apogee.::<end>
 
 =>q152_original
 ::You pick up a small sharp bone and start by drawing a large courtyard where stick figures stand in ranks. You then proceed to draw the layout of the base, the barracks, the repair bay, consulate and, of course, the boxing ring. And you do not forget to draw a large robot at the entrance.::<end>
 
 =>q152
-::Nous prenons un petit os pointu et commençons par dessiner une grande cour où les figures de bâton se tiennent en rangs. Nous allons ensuite dessiner la disposition de la base, la caserne, la baie de réparation, le consulat et, bien sûr, l'anneau de boxe. Et vous n'oubliez pas de dessiner un grand robot à l'entrée.::<end>
+::Vous prenez un petit os pointu et commencez par une grande cour, des bonshommes en rangs. Puis le plan de la base, la caserne, l'atelier, le consulat et, bien sûr, le ring. Et vous n'oubliez pas un grand robot à l'entrée.::<end>
 
 =>q153_original
 ::He observes your drawing with curiosity, then points at the Dreadnought.::
@@ -1055,28 +1055,28 @@ Dänn... aen truppal skærder. Jakke! ::Its drill-arm seems to interest him the 
 <end>
 
 =>q153
-::Il observe votre dessin avec curiosité, puis les points au Dreadnought.::
+::Il observe le dessin avec curiosité, puis pointe le Dreadnought.::
 
-Dänn... aen truppal skærder. Jakke ! ::Son arme semble l'intéresser le plus.:: Et grønt mordu !
+Dänn... aen truppal skærder. Jakke! ::C'est surtout le bras-foreuse qui l'intéresse.:: Et grønt bitt!
 <end>
 
 =>a154_original
 ::Draw Port Ceto.::<end>
 
 =>a154
-::Dessinez Port Ceto.::<end>
+::Dessiner Port Ceto.::<end>
 
 =>q155_original
 ::You use your finger to draw waves, then on them a large ship surrounded by platforms. You protect them with high walls and within them add stick figures of different shapes and sizes; the smallest one is surrounded by three lady stick figures. On the outside you add patrolling jetters, and that provokes a reaction from Yngwar...::<end>
 
 =>q155
-::Vous utilisez votre doigt pour dessiner des vagues, puis sur eux un grand navire entouré de plates-formes. Vous les protégez avec des murs hauts et à l'intérieur ils ajoutent des figures de bâton de différentes formes et tailles; le plus petit est entouré de trois figures de bâton de dame. A l'extérieur, vous ajoutez des patrouilleurs, et ça provoque une réaction d'Yngwar...::<end>
+::Vous dessinez des vagues du doigt, puis dessus un grand navire entouré de plateformes. Vous les protégez de hauts murs, et à l'intérieur des bonshommes de formes et de tailles diverses ; le plus petit est entouré de trois bonshommes-femmes. Dehors, des jetters en patrouille, et ça provoque une réaction d'Yngwar...::<end>
 
 =>q156_original
 ::He shoves you away with his enlarged hand while grabbing his spear with the other.::<end>
 
 =>q156
-::Il vous pousse avec sa main élargie tout en saisissant sa lance avec l'autre.::<end>
+::Il vous pousse de sa main élargie tout en saisissant sa lance de l'autre.::<end>
 
 =>a157_original
 ::Draw railroad tracks and empty roads.::<end>
@@ -1088,7 +1088,7 @@ Dänn... aen truppal skærder. Jakke ! ::Son arme semble l'intéresser le plus.:
 ::You use your finger to draw a network of interweaving roads and railways. You draw gangs, dogs and rathounds - the last two with little difference - inhabiting these, and then you add moving trains and broken down quad bikes.::<end>
 
 =>q158
-::Vous utilisez votre doigt pour dessiner un réseau de routes et de chemins de fer. Vous dessinez des gangs, des chiens et des rathounds - les deux derniers avec peu de différence - qui les habitent, puis vous ajoutez des trains mobiles et des quads en panne.::<end>
+::Vous dessinez du doigt un réseau de routes et de voies qui s'entrelacent. Des gangs, des chiens et des rathounds - les deux derniers se ressemblent - qui les habitent, puis des trains en mouvement et des quads en panne.::<end>
 
 =>q159_original
 ::He observes your drawing with curiosity, then points at the railway.::
@@ -1096,39 +1096,39 @@ Dänn... aen truppal skærder. Jakke ! ::Son arme semble l'intéresser le plus.:
 Bæn... trekkergar jömt mitt bæn. ::He picks up a few bones and places them parallel to one another, just like rail ties. He finds this interesting.:: Bæntrekkergar.<end>
 
 =>q159
-::Il observe votre dessin avec curiosité, puis les points au chemin de fer.::
+::Il observe le dessin avec curiosité, puis pointe la voie.::
 
-Bæn... trekkergar jömt mitt bæn. ::Il ramasse quelques os et les place parallèles les uns aux autres, comme des traverses. Il trouve ça intéressant.:: Bæntrekkergar.<end>
+Bæn... trekkergar jömt mitt bæn. ::Il ramasse quelques os et les pose parallèles, comme des traverses. Ça l'intéresse.:: Bæntrekkergar.<end>
 
 =>a160_original
 ::Draw the sea.::<end>
 
 =>a160
-::Dessine la mer.::<end>
+::Dessiner la mer.::<end>
 
 =>q161_original
 ::You use your finger to draw waves before finishing the drawing by adding a small boat.::<end>
 
 =>q161
-::Vous utilisez votre doigt pour dessiner des vagues avant de terminer le dessin en ajoutant un petit bateau.::<end>
+::Vous dessinez des vagues du doigt, puis un petit bateau pour finir.::<end>
 
 =>q162_original
 ::He observes your drawing with curiosity, then draws a man on the boat, and some kind of smoke following him. ::<end>
 
 =>q162
-::Il observe votre dessin avec curiosité, puis attire un homme sur le bateau, et une sorte de fumée le suit.::<end>
+::Il observe le dessin avec curiosité, puis dessine un homme sur le bateau, et une sorte de fumée qui le suit. ::<end>
 
 =>a163_original
 ::Shake your head.::<end>
 
 =>a163
-::Secouez la tête.::<end>
+::Secouer la tête.::<end>
 
 =>q164_original
 ::He points to you again, then at the sand.::<end>
 
 =>q164
-::Il vous pointe encore, puis au sable.::<end>
+::Il vous pointe encore, puis le sable.::<end>
 
 =>q165_original
 <end>
@@ -1142,69 +1142,69 @@ Bæn... trekkergar jömt mitt bæn. ::Il ramasse quelques os et les place parall
 Trekkenørgen... Trekkenørgen!<end>
 
 =>q166
-::Il crache sur le sol et vous éloigne, le suivant avec une malédiction inintelligible.::
+::Il crache par terre et vous chasse d'un geste, suivi d'insultes incompréhensibles.::
 
-Trekkenørgen... Trekkenørgen !<end>
+Trekkenørgen... Trekkenørgen!<end>
 
 =>a167_original
 What?<end>
 
 =>a167
-Quoi?<end>
+Quoi ?<end>
 
 =>q168_original
 ::He grabs his spear.::<end>
 
 =>q168
-::Il prend sa lance.::<end>
+::Il saisit sa lance.::<end>
 
 =>a169_original
 I get it. ::Leave.::<end>
 
 =>a169
-Je comprends. ::Partir.::<end>
+Je pige. ::Partir.::<end>
 
 =>a170_original
 ::Leave without saying a word.::<end>
 
 =>a170
-::Partez sans dire un mot.::<end>
+::Partir sans un mot.::<end>
 
 =>a171_original
 ::Attack!::<end>
 
 =>a171
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a172_original
 ::Do nothing.::<end>
 
 =>a172
-::Ne faites rien.::<end>
+::Ne rien faire.::<end>
 
 =>a173_original
 ::Point at his arm, or more specifically its scaly skin.::<end>
 
 =>a173
-::Pointez son bras, ou plus précisément sa peau squameuse.::<end>
+::Pointer son bras, plus précisément la peau écailleuse.::<end>
 
 =>q174_original
 ::He inspects you, then starts touching your clothes.::<end>
 
 =>q174
-::Il vous inspecte, puis commence à toucher vos vêtements.::<end>
+::Il vous inspecte, puis se met à toucher vos vêtements.::<end>
 
 =>a175_original
 ::Push him away.:: Outta my space.<end>
 
 =>a175
-::Poussez-le.:: Quitte mon espace.<end>
+::Le pousser.:: Hors de mon espace.<end>
 
 =>q176_original
 ::He responds by shoving you back. ::<end>
 
 =>q176
-::Il répond en te ramenant.::<end>
+::Il répond en vous poussant à son tour. ::<end>
 
 =>q177_original
 <end>
@@ -1216,43 +1216,43 @@ Je comprends. ::Partir.::<end>
 ::Say nothing, just stare at him.::<end>
 
 =>a178
-::Ne dis rien, regarde-le.::<end>
+::Ne rien dire, juste le fixer.::<end>
 
 =>q179_original
 ::He looks at you for a moment, then ::<end>
 
 =>q179
-::Il te regarde un instant.::<end>
+::Il vous regarde un instant, puis ::<end>
 
 =>q180_original
 ::returns to attending his fireplace.::<end>
 
 =>q180
-::Retourne à sa cheminée.::<end>
+::revient à son feu.::<end>
 
 =>a181_original
 Watch it!<end>
 
 =>a181
-Regarde !<end>
+Doucement !<end>
 
 =>a182_original
 ::Slap his hand aside.:: Don't touch me!<end>
 
 =>a182
-::Frappe sa main de côté.:: Ne me touche pas !<end>
+::Écarter sa main.:: Me touche pas !<end>
 
 =>q183_original
 ::He grabs your arm mid-air and shoves you away. ::<end>
 
 =>q183
-::Il vous prend le bras en plein air et vous pousse loin.::<end>
+::Il saisit votre bras en l'air et vous pousse. ::<end>
 
 =>a184_original
 ::Step away from him.:: No.<end>
 
 =>a184
-::Éloignez-vous de lui.:: No.<end>
+::S'écarter.:: Non.<end>
 
 =>q185_original
 ::He too steps back.:: <end>
@@ -1264,25 +1264,25 @@ Regarde !<end>
 Dänn Rætter bitt. Grønt rætter... Hvær Dur ykdrääsil kær grønt rætten?<end>
 
 =>q186
-Dänn Rætter a mordu. - C'est quoi ? Hvær Dur ykdrääsil kær grønt rætten?<end>
+Dänn Rætter bitt. Grønt rætter... Hvær Dur ykdrääsil kær grønt rætten?<end>
 
 =>a187_original
 ::[Intelligence] It's the regalia. Something about it fascinates him.::<end>
 
 =>a187
-::[Intelligence] C'est la Regalia. Quelque chose le fascine.::<end>
+::[Intelligence] C'est la régalia. Quelque chose le fascine.::<end>
 
 =>q188_original
 Rætter. ::He points to your regalia.:: Rætter. Grønt! ::He gestures something large.::<end>
 
 =>q188
-C'est Rætter. ::Il indique votre régalia.:: Rætter. Grønt ! ::Il fait quelque chose de grand.::<end>
+Rætter. ::Il pointe votre régalia.:: Rætter. Grønt! ::Il mime quelque chose de grand.::<end>
 
 =>a189_original
 ::[Intelligence] It's the regalia. Perhaps he's never seen a rathound before.:: Reter, yes. Big reters in Underrail. ::Gesture how big.::<end>
 
 =>a189
-::[Intelligence] C'est la Regalia. Peut-être qu'il n'a jamais vu de râteau avant.:: Reter, oui. Gros reters en Underrail. ::Comme c'est gros.::<end>
+::[Intelligence] C'est la régalia. Peut-être qu'il n'a jamais vu de rathound.:: Reter, oui. Gros reters dans Underrail. ::Mimer la taille.::<end>
 
 =>q190_original
 Rætterheund? 
@@ -1290,7 +1290,7 @@ Rætterheund?
 Ønderr-räyl...<end>
 
 =>q190
-Rætterheund ?
+Rætterheund?
 
 Ønderr-räyl...<end>
 
@@ -1304,25 +1304,25 @@ Rætterheund ?
 There rats big. Not good for nom nom. ::Mimic eating and make a sour face..:: But good for clothes. ::Appear comfortable in your regalia.::<end>
 
 =>a192
-Il y a des rats gros. Pas bon pour nom nom. ::Mimic manger et faire un visage aigre..:: Mais bon pour les vêtements. ::Apparaît confortable dans votre regalia.::<end>
+Là rats gros. Pas bon pour nom nom. ::Mimer manger et faire une grimace.:: Mais bon pour vêtements. ::Avoir l'air à l'aise dans la régalia.::<end>
 
 =>q193_original
 ::He finds your explanation amusing and points at his loincloth, making himself look rather comfy as well.::<end>
 
 =>q193
-::Il trouve votre explication amusante et pointe sur sa longe, se rendant plutôt confortable aussi.::<end>
+::Il trouve l'explication amusante et pointe son pagne, l'air tout aussi à l'aise.::<end>
 
 =>q194_original
 ::He inspects the regalia for a few more moments, then ::<end>
 
 =>q194
-::Il inspecte la regalia pendant quelques instants, puis::<end>
+::Il inspecte encore la régalia un moment, puis ::<end>
 
 =>a195_original
 There rats big. Good for nom nom. ::Mimic eating and make a pleased face..:: But better for clothes. ::Appear comfortable in your regalia.::<end>
 
 =>a195
-Il y a des rats gros. Tant mieux pour nom nom. ::Mimic manger et faire un visage heureux..:: Mais mieux vaut pour les vêtements. ::Apparaît confortable dans votre regalia.::<end>
+Là rats gros. Bon pour nom nom. ::Mimer manger et faire un visage content.:: Mais mieux pour vêtements. ::Avoir l'air à l'aise dans la régalia.::<end>
 
 =>a196_original
 Yes.<end>
@@ -1334,7 +1334,7 @@ Oui.<end>
 ::Nod and leave it at that.::<end>
 
 =>a197
-::Hoche la tête et laisse tomber.::<end>
+::Hocher la tête et en rester là.::<end>
 
 =>a198_original
 Rathound?<end>
@@ -1346,13 +1346,13 @@ Rathound ?<end>
 Rættenheund?<end>
 
 =>q199
-Rættenheund ?<end>
+Rættenheund?<end>
 
 =>a200_original
 Yes. Big rats from Underrail.<end>
 
 =>a200
-Oui. Gros rats de Underrail.<end>
+Oui. Gros rats d'Underrail.<end>
 
 =>q201_original
 Ønderr-räyl...<end>
@@ -1364,49 +1364,49 @@ Oui. Gros rats de Underrail.<end>
 I don't get it.<end>
 
 =>a202
-Je ne comprends pas.<end>
+Je pige pas.<end>
 
 =>q203_original
 ::He shakes his head, looks at the regalia some more, then ::<end>
 
 =>q203
-::Il se secoue la tête, regarde la régalia un peu plus, alors::<end>
+::Il secoue la tête, regarde encore la régalia, puis ::<end>
 
 =>a204_original
 ::Shrug your shoulders.::<end>
 
 =>a204
-::Écrase tes épaules.::<end>
+::Hausser les épaules.::<end>
 
 =>a205_original
 ::[Intelligence] It's the regalia. Perhaps he's never seen a rathound before.:: Not reter - reterhound. Big retenhounds in Underrail. ::Gesture how big.::<end>
 
 =>a205
-::[Intelligence] C'est la Regalia. Peut-être qu'il n'a jamais vu de râteau avant.:: Pas de reter - reterhound. Les gros retenhounds dans Underrail. ::Comme c'est gros.::<end>
+::[Intelligence] C'est la régalia. Peut-être qu'il n'a jamais vu de rathound.:: Pas reter - reterhound. Gros retenhounds dans Underrail. ::Mimer la taille.::<end>
 
 =>a206_original
 What?<end>
 
 =>a206
-Quoi?<end>
+Quoi ?<end>
 
 =>a207_original
 ::Shrug your shoulders.::<end>
 
 =>a207
-::Écrase tes épaules.::<end>
+::Hausser les épaules.::<end>
 
 =>a208_original
 ::Let him keep touching you.::<end>
 
 =>a208
-::Laisse-le te toucher.::<end>
+::Le laisser continuer à vous toucher.::<end>
 
 =>q209_original
 Hvarga? <end>
 
 =>q209
-Hvarga ? <end>
+Hvarga? <end>
 
 =>q210_original
 <end>
@@ -1418,19 +1418,19 @@ Hvarga ? <end>
 ::He grabs his bone knife...::<end>
 
 =>q211
-::Il prend son couteau à os...::<end>
+::Il saisit son couteau d'os...::<end>
 
 =>q212_original
 ::...and begins drawing in the sand. This in combination with his gesturing and an occassional sentence forms a narrative you try your best to follow.::<end>
 
 =>q212
-::... et commence à dessiner dans le sable. Ceci en combinaison avec sa gestation et une phrase occasionnelle forme un récit que vous faites de votre mieux pour suivre.::<end>
+::...et se met à dessiner dans le sable. Avec les gestes et une phrase de temps en temps, ça forme un récit que vous suivez du mieux possible.::<end>
 
 =>a213_original
 ::[Intelligence] Observe and listen.::<end>
 
 =>a213
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q214_original
 ::His tale begins with the difference between the two skins: One you are born with, the other you earn. Not everyone can earn it, no, as not everyone is strong enough - not everyone has been destined to achieve transcendence. "Abyssal" transcendence, it seems, for he looks down and points his hands to the ground, his palms being fully open.::
@@ -1438,9 +1438,9 @@ Hvarga ? <end>
 Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
 
 =>q214
-::Son histoire commence par la différence entre les deux peaux : L'un avec qui tu es né, l'autre avec lequel tu gagnes. Tout le monde ne peut pas le gagner, non, car tout le monde n'est pas assez fort - tout le monde n'est pas destiné à la transcendance. « Abyssal » transcendance, il semble, car il regarde vers le bas et pointe ses mains vers le sol, ses paumes étant pleinement ouvertes.::
+::Son récit commence par la différence entre les deux peaux : celle avec laquelle on naît, et celle qu'on gagne. Tout le monde ne peut pas la gagner, non, tout le monde n'est pas assez fort - tout le monde n'est pas destiné à la transcendance. Transcendance « abyssale », on dirait : il regarde en bas, pointe les mains vers le sol, paumes ouvertes.::
 
-Pour les flottsørmir ! Pour le Pöm.<end>
+Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
 
 =>q215_original
 ::Men who relay Flotsourmir's messages organize some kind of ritualistic drinking of a "potion of serpent essence." It drops men to the ground and makes them convulse like serpents in pain. It burns from below and outside but later they feel that very serpentine essence imbuing them. Weaklings die. The strong will begin or continue their transformation. 
@@ -1448,9 +1448,9 @@ Pour les flottsørmir ! Pour le Pöm.<end>
 But then he speaks of further rituals: They all begin with the consumption of these potions, but each one is followed by new challenges. And then he abruptly stops.::<end>
 
 =>q215
-::Les hommes qui relayent les messages de Flotsourmir organisent une sorte de boisson rituelle d'une « potion d'essence serpent ». Il jette les hommes au sol et les fait convulsionner comme des serpents dans la douleur. Il brûle d'en bas et à l'extérieur, mais plus tard ils sentent que l'essence très serpentine les embellit. Les faibles meurent. Les forts commenceront ou poursuivront leur transformation.
+::Des hommes qui relaient les messages de Flotsourmir organisent une sorte de beuverie rituelle, une « potion d'essence de serpent ». Ça jette les hommes à terre, ça les fait convulser comme des serpents en douleur. Ça brûle d'en bas et du dehors, puis plus tard ils sentent cette essence serpentine les imbiber. Les faibles meurent. Les forts commencent ou poursuivent leur transformation.
 
-Mais ensuite il parle d'autres rituels: Ils commencent tous par la consommation de ces potions, mais chacune est suivie de nouveaux défis. Et puis il s'arrête brusquement.::<end>
+Puis il parle d'autres rituels : tous commencent par ces potions, chacun suivi de nouveaux défis. Et il s'arrête net.::<end>
 
 =>q216_original
 ::He starts by showing you the difference between the two skins, but you gain no new information. It seems that strong ones get scales, and weaker ones not so much. And then he points his hands downward with palms fully open.::
@@ -1458,15 +1458,15 @@ Mais ensuite il parle d'autres rituels: Ils commencent tous par la consommation 
 Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
 
 =>q216
-::Il commence par vous montrer la différence entre les deux peaux, mais vous n'obtenez aucune nouvelle information. Il semble que les forts obtiennent des échelles, et les plus faibles pas tant. Et puis il pointe ses mains vers le bas avec des paumes complètement ouvertes.::
+::Il commence par vous montrer la différence entre les deux peaux, mais vous n'apprenez rien de neuf. Les forts ont des écailles, les plus faibles moins. Puis il pointe les mains vers le bas, paumes ouvertes.::
 
-Pour les flottsørmir ! Pour le Pöm.<end>
+Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
 
 =>q217_original
 ::But then you begin to lose him. He describes drinking something, that you manage to catch, but the rest goes right over your head. And then he abruptly stops.::<end>
 
 =>q217
-::Mais tu commences à le perdre. Il décrit boire quelque chose, que vous réussissez à attraper, mais le reste va au-dessus de votre tête. Et puis il s'arrête brusquement.::<end>
+::Puis vous le perdez. Il décrit qu'il boit quelque chose, ça vous arrive, mais le reste vous passe au-dessus de la tête. Et il s'arrête net.::<end>
 
 =>q218_original
 ::He's waiting.::<end>
@@ -1484,43 +1484,43 @@ Pour les flottsørmir ! Pour le Pöm.<end>
 ::[Intelligence] Bring your arm next to his and point out the difference. Then point to his arm and make a talking mouth with your hand.::<end>
 
 =>a220
-::[Intelligence] Apportez votre bras à côté du sien et soulignez la différence. Alors pointe-lui le bras et fais une bouche avec ta main.::<end>
+::[Intelligence] Approcher votre bras du sien et montrer la différence. Puis pointer son bras et faire une bouche qui parle avec la main.::<end>
 
 =>q221_original
 ::He stares at you.::<end>
 
 =>q221
-::Il te fixe.::<end>
+::Il vous fixe.::<end>
 
 =>a222_original
 ::Point at his scales again.::<end>
 
 =>a222
-::Pointez encore à son échelle.::<end>
+::Pointer encore ses écailles.::<end>
 
 =>a223_original
 ::Touch his scales.:: Yes, yes. Sourmirhud.<end>
 
 =>a223
-::Touche sa balance.:: Oui, oui. Sourmirhud.<end>
+::Toucher ses écailles.:: Oui, oui. Sourmirhud.<end>
 
 =>a224_original
 ::Wait.::<end>
 
 =>a224
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>a225_original
 Come on, damn it!<end>
 
 =>a225
-Allez, bon sang !<end>
+Allez, bordel !<end>
 
 =>a226_original
 ::Point to his scales.:: Sourmirhud. Sourmirhud.<end>
 
 =>a226
-::Pointez sur ses balances.:: Sourmirhud. Sourmirhud.<end>
+::Pointer ses écailles.:: Sourmirhud. Sourmirhud.<end>
 
 =>q227_original
 Jakke, Sørmirhud.<end>
@@ -1532,7 +1532,7 @@ Jakke, Sørmirhud.<end>
 ::Point to his scales again.:: Sourmirhud, man. Tell me about sourmirhud.<end>
 
 =>a228
-::Pointez à nouveau ses balances.:: Sourmirhud, mec. Parlez-moi de Sourmirhud.<end>
+::Pointer encore ses écailles.:: Sourmirhud, allez. Parle-moi de sourmirhud.<end>
 
 =>q229_original
 ::He frowns.::
@@ -1540,27 +1540,27 @@ Jakke, Sørmirhud.<end>
 Sørmirhud! Ah, gäkkter!<end>
 
 =>q229
-::Il fronce.::
+::Il fronce les sourcils.::
 
-Sørmirhud ! Ah, Gäkkter !<end>
+Sørmirhud! Ah, gäkkter!<end>
 
 =>a230_original
 ::Point to his scales angrily.:: Tell me about the goddamned sourmirhud!<end>
 
 =>a230
-::Pointez ses balances en colère.:: Parle-moi de ce putain de sourmirhud !<end>
+::Pointer ses écailles, en colère.:: Parle-moi de ce putain de sourmirhud !<end>
 
 =>a231_original
 ::Inquire about something else.::<end>
 
 =>a231
-::Informez-vous sur autre chose.::<end>
+::Demander autre chose.::<end>
 
 =>q232_original
 ::You decide it's best to change the subject until you can figure out a way to communicate your thoughts better.::<end>
 
 =>q232
-::Vous décidez qu'il est préférable de changer le sujet jusqu'à ce que vous puissiez trouver un moyen de mieux communiquer vos pensées.::<end>
+::Vous jugez plus sage de changer de sujet jusqu'à trouver un meilleur moyen de vous faire comprendre.::<end>
 
 =>q233_original
 ::He moves his fingers over his rough scales.::
@@ -1572,7 +1572,7 @@ Sørmirhud...
 Bærenhud...<end>
 
 =>q233
-::Il bouge ses doigts sur ses écailles rugueuses.::
+::Il passe les doigts sur ses écailles rudes.::
 
 Sørmirhud...
 
@@ -1584,7 +1584,7 @@ Bærenhud...<end>
 ::Touch your skin.:: Barenhud?<end>
 
 =>a234
-::Touchez votre peau.:: Barenhud?<end>
+::Toucher votre peau.:: Barenhud?<end>
 
 =>q235_original
 Jakke. Bærenhud.<end>
@@ -1596,19 +1596,19 @@ Jakke. Bærenhud.<end>
 ::Touch your skin.:: Sourmirhud?<end>
 
 =>a236
-::Touchez votre peau.:: Sourmirhud ?<end>
+::Toucher votre peau.:: Sourmirhud?<end>
 
 =>q237_original
 Nikke. <end>
 
 =>q237
-C'est Nikke. <end>
+Nikke. <end>
 
 =>a238_original
 ::Point at his drawing of himself.:: Why Yngwar here?<end>
 
 =>a238
-::Point à son dessin de lui-même.:: Pourquoi Yngwar ici ?<end>
+::Pointer le dessin de lui-même.:: Pourquoi Yngwar ici ?<end>
 
 =>q239_original
 ::You can see it in his eyes that he understands, but he still shakes his head.::
@@ -1616,63 +1616,63 @@ C'est Nikke. <end>
 Nikke.<end>
 
 =>q239
-::Vous pouvez le voir dans ses yeux qu'il comprend, mais il secoue encore sa tête.::
+::On voit dans ses yeux qu'il comprend, mais il secoue quand même la tête.::
 
-C'est Nikke.<end>
+Nikke.<end>
 
 =>a240_original
 ::Point again.:: Why Yngwar here?<end>
 
 =>a240
-::Encore.:: Pourquoi Yngwar ici ?<end>
+::Pointer encore.:: Pourquoi Yngwar ici ?<end>
 
 =>q241_original
 Stulle, Æterbæren! Krökø!<end>
 
 =>q241
-Stulle, Æterbæren ! C'est Krökø !<end>
+Stulle, Æterbæren! Krökø!<end>
 
 =>a242_original
 ::Imitate shooing away.:: Yngwar thrown out?<end>
 
 =>a242
-::Imitez-vous.:: Yngwar jeté dehors ?<end>
+::Mimer un geste de chasse.:: Yngwar jeté dehors ?<end>
 
 =>a243_original
 ::Imitate fear.:: Yngwar afraid of something and ran away?<end>
 
 =>a243
-::Imitez la peur.:: Yngwar peur de quelque chose et fuyant?<end>
+::Mimer la peur.:: Yngwar a peur de quelque chose et a fui ?<end>
 
 =>a244_original
 ::Leave it be.::<end>
 
 =>a244
-::Laissez-le tranquille.::<end>
+::En rester là.::<end>
 
 =>a245_original
 ::Do the drinking motion.:: Drinking, you mentioned... uh, showed you were drinking something.<end>
 
 =>a245
-::Faites le mouvement d'alcool.:: Boire, vous avez mentionné... vous avez montré que vous buvez quelque chose.<end>
+::Mimer le geste de boire.:: Boire, tu as mentionné... euh, montré que tu buvais quelque chose.<end>
 
 =>q246_original
 ::He does the drinking motion alright, but everything after that is incomprehensible.::<end>
 
 =>q246
-::Il fait le mouvement d'alcool, mais tout est incompréhensible.::<end>
+::Il mime bien le geste de boire, mais tout ce qui suit est incompréhensible.::<end>
 
 =>q247_original
 ::Perhaps hearing everything in context again will help you understand what he meant better.::<end>
 
 =>q247
-::Peut-être que tout entendre dans son contexte vous aidera à comprendre ce qu'il voulait dire mieux.::<end>
+::Peut-être qu'entendre tout ça dans son contexte vous aidera à mieux comprendre.::<end>
 
 =>a248_original
 ::Imitate drinking a potion, then point to his scales.:: Rituals. Tell me about the rituals.<end>
 
 =>a248
-::Imitez boire une potion, puis pointez ses écailles.:: Rituels. Parlez-moi des rituels.<end>
+::Mimer boire une potion, puis pointer ses écailles.:: Rituels. Parle-moi des rituels.<end>
 
 =>q249_original
 ::He pauses, observing you intently.::
@@ -1680,15 +1680,15 @@ Stulle, Æterbæren ! C'est Krökø !<end>
 Hvæy? Hvæy græss Ik vertää ot krønn et tø Durg?<end>
 
 =>q249
-::Il s'arrête en vous observant attentivement.::
+::Il s'arrête, vous observe intensément.::
 
-- Oui ? Hvæy græss Ik vertää ot krønn et tø Durg?<end>
+Hvæy? Hvæy græss Ik vertää ot krønn et tø Durg?<end>
 
 =>a250_original
 ::[Intelligence] You think he's asking you why he should be telling you all of this.:: You - Yngwar, great warrior. I, uh... Ik - $(context.player.Name), want become greater too. ::Gesture it as best as you can.::<end>
 
 =>a250
-::[Intelligence] Tu penses qu'il te demande pourquoi il devrait te dire tout ça.:: Vous - Yngwar, grand guerrier. Je... Ik - $(context.player.Name), voulez devenir plus grand aussi. ::Gesture le mieux que vous pouvez.::<end>
+::[Intelligence] Vous pensez qu'il demande pourquoi il devrait vous raconter tout ça.:: Toi - Yngwar, grand guerrier. Je, euh... Ik - $(context.player.Name), want become greater too. ::Le mimer du mieux possible.::<end>
 
 =>q251_original
 Durg Æterbæren bitt. Durg mætären Firg køkörr nikkt.
@@ -1696,9 +1696,9 @@ Durg Æterbæren bitt. Durg mætären Firg køkörr nikkt.
 ::He makes a lengthy pause, his eyes darting between you and the skewers.::<end>
 
 =>q251
-Durg Æterbæren bitt. Drug mætären Firg køkörr nikkt.
+Durg Æterbæren bitt. Durg mætären Firg køkörr nikkt.
 
-::Il fait une longue pause, ses yeux trainant entre vous et les brochettes.::<end>
+::Il fait une longue pause, les yeux allant de vous aux brochettes.::<end>
 
 =>q252_original
 Rit... øal. Ritøal.
@@ -1714,7 +1714,7 @@ Ritøal - Sørmirvääj.<end>
 ::[Intelligence] Observe and listen.::<end>
 
 =>a253
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q254_original
 ::He gestures drinking and shows the pain coming from below and outside. Then it subsides, and he feels much closer to the great serpents - like he's becoming one. The first ritual he describes is swimming deep, deep down, as far as possible. But the way the swimming is performed is different: His legs are tied together, his hands as well, so what he's doing is basically wriggling through the water.::
@@ -1722,33 +1722,33 @@ Ritøal - Sørmirvääj.<end>
 Sørmirlemen.<end>
 
 =>q254
-::Il fait des gestes en buvant et montre la douleur venant d'en bas et de l'extérieur. Puis ça s'estompe, et il se sent beaucoup plus proche des grands serpents - comme s'il devenait un. Le premier rituel qu'il décrit est la natation profonde, profonde, aussi loin que possible. Mais la façon dont la natation est effectuée est différente: Ses jambes sont liées entre elles, ses mains aussi, donc ce qu'il fait c'est en fait semer l'eau.::
+::Il mime le geste de boire et montre la douleur qui vient d'en bas et du dehors. Puis ça s'apaise, et il se sent bien plus proche des grands serpents - comme s'il en devenait un. Le premier rituel qu'il décrit : nager profond, très profond, aussi loin que possible. Mais pas n'importe comment : jambes liées, mains aussi, il ondule dans l'eau.::
 
-Les Sørmirlemen.<end>
+Sørmirlemen.<end>
 
 =>q255_original
 ::He seems frustrated, but you cannot figure out why. He clenches his hand into a fist ::<end>
 
 =>q255
-::Il semble frustré, mais vous ne savez pas pourquoi. Il serre sa main dans un poing::<end>
+::Il a l'air frustré, mais vous ne saisissez pas pourquoi. Il serre le poing ::<end>
 
 =>q256_original
 ::and again describes those men who relay Flottsørmir's messages - spiriters, but this time he's sulking.::<end>
 
 =>q256
-::et décrit à nouveau ces hommes qui relayent les messages de Flottsørmir - les esprits, mais cette fois il boude.::<end>
+::et décrit encore ces hommes qui relaient les messages de Flottsørmir - les spiriteurs, mais cette fois il boude.::<end>
 
 =>q257_original
 ::He drinks an imaginary potion again and begins: They are in a temple to whose waters a great serpent has been summoned. The powerful eyes of the High Spiriter can hold it in place until other spiriters can use air potions to pacify it. Then he entered its mouth and got swallowed, his arms and legs tied together. He was supposed to stay in its stomach and let its strong acid "lustrate" him and help him burn away his birthskin. But the serpent was not dazed enough and began thrashing about. Then it swam deep down with him still inside it.::<end>
 
 =>q257
-::Il boit encore une potion imaginaire et commence : Ils sont dans un temple aux eaux duquel un grand serpent a été convoqué. Les puissants yeux du Grand Esprit peuvent le maintenir en place jusqu'à ce que d'autres esprits puissent utiliser des potions d'air pour le pacifier. Puis il entra dans sa bouche et se fit avaler, ses bras et ses jambes attachés ensemble. Il devait rester dans son estomac et laisser son acide fort le "luster" et l'aider à brûler sa peau de naissance. Mais le serpent n'était pas assez ébloui et se mit à s'écraser. Puis il a nagé au fond avec lui toujours à l'intérieur.::<end>
+::Il boit encore une potion imaginaire et commence : ils sont dans un temple, aux eaux duquel on a invoqué un grand serpent. Les yeux puissants du Grand Spiriteur le tiennent en place jusqu'à ce que d'autres spiriteurs le calment avec des potions d'air. Puis il est entré dans sa gueule et s'est fait avaler, bras et jambes liés. Il devait rester dans l'estomac et laisser l'acide fort le « lustrer », brûler sa peau de naissance. Mais le serpent n'était pas assez étourdi et s'est mis à s'agiter. Puis il a nagé vers le fond, avec lui encore dedans.::<end>
 
 =>q258_original
 ::A dazed serpent cannot crush you in its stomach because its muscles get numbed, but this one squeezed him harder and harder. He undid his bonds and started crawling out. Then he saw a spear before him, a spear from one of the transcended who was hit by the serpent's tail and dropped it. He grabbed it near the tip with both of his hands as the serpent tried biting them down with its debilitated jaws - and then drove the tip through its eye...::<end>
 
 =>q258
-::Un serpent étourdi ne peut pas vous écraser dans son estomac parce que ses muscles s'engourdissent, mais celui-ci le presse de plus en plus. Il a rompu ses liens et a commencé à ramper. Puis il vit une lance devant lui, une lance de l'un des transcendés qui fut frappé par la queue du serpent et la laissa tomber. Il l'a attrapé près de la pointe avec ses deux mains tandis que le serpent essayait de les mordre avec ses mâchoires débilitées - et ensuite a conduit la pointe à travers son oeil...::<end>
+::Un serpent étourdi ne peut pas vous écraser dans l'estomac, les muscles engourdis, mais celui-ci le serrait de plus en plus. Il a défait ses liens et a commencé à ramper vers la sortie. Puis il a vu une lance devant lui, celle d'un transcendé frappé par la queue du serpent, qui l'avait lâchée. Il l'a saisie près de la pointe des deux mains, pendant que le serpent essayait de les mordre de ses mâchoires affaiblies - et il a enfoncé la pointe dans l'œil...::<end>
 
 =>q259_original
 ::He emerged from the water, bathed in the serpent's acid and blood. He is a strong warrior of Flotsourmir, and he has defeated the great serpent like no Serpentborn before him has.
@@ -1756,9 +1756,9 @@ Les Sørmirlemen.<end>
 But the spiriters... they objected.::<end>
 
 =>q259
-::Il est sorti de l'eau, baigné dans l'acide et le sang du serpent. Il est un guerrier fort de Flotsourmir, et il a vaincu le grand serpent comme aucun Serpent-né avant lui.
+::Il est sorti de l'eau, baigné d'acide et de sang de serpent. C'est un guerrier fort de Flotsourmir, et il a vaincu le grand serpent comme aucun né-du-serpent avant lui.
 
-Mais les esprits... ils se sont opposés.::<end>
+Mais les spiriteurs... ils se sont opposés.::<end>
 
 =>q260_original
 ::He blasphemed - again. He should not be swimming with his arms free. He should not be climbing out of the water by using his legs. He should not be killing prey with tools and weapons. They told him these things before.
@@ -1766,9 +1766,9 @@ Mais les esprits... ils se sont opposés.::<end>
 And he should not have used a spear - a weapon - to slay a great serpent during the ritual. After many tides he will have to abandon his arms and legs, and with them daggers and knives and spears.::<end>
 
 =>q260
-::Il blasphémait encore. Il ne devrait pas nager avec ses bras libres. Il ne devrait pas sortir de l'eau en utilisant ses jambes. Il ne devrait pas tuer des proies avec des outils et des armes. Ils lui ont dit ces choses avant.
+::Il a blasphémé - encore. Il ne devrait pas nager les bras libres. Il ne devrait pas sortir de l'eau en se servant des jambes. Il ne devrait pas tuer de proie avec des outils et des armes. On le lui avait déjà dit.
 
-Et il n'aurait pas dû utiliser une lance - une arme - pour tuer un grand serpent pendant le rituel. Après de nombreuses marées, il devra abandonner ses bras et ses jambes, avec des poignards, des couteaux et des lances.::<end>
+Et il n'aurait pas dû se servir d'une lance - une arme - pour tuer un grand serpent pendant le rituel. Après bien des marées, il devra abandonner bras et jambes, et avec eux dagues, couteaux et lances.::<end>
 
 =>q261_original
 Ik forskarr Flottsørmir, Yngwar forskarr Flottsørmir... met æter Sørmirbæren forskarr Flottsørmir nikkt det klögar ot Yngwar.<end>
@@ -1780,73 +1780,73 @@ Ik forskarr Flottsørmir, Yngwar forskarr Flottsørmir... met æter Sørmirbære
 ::Yngwar was no weakling but a mighty warrior, so he was only exiled and not slain. Now he lives here alone, and he ponders...::<end>
 
 =>q262
-::Yngwar n'était pas un faible, mais un guerrier puissant, donc il n'était exilé et non pas tué. Maintenant il vit ici seul, et il réfléchit...::<end>
+::Yngwar n'était pas un faible, c'était un guerrier puissant, alors on l'a seulement exilé, pas tué. Maintenant il vit ici seul, et il réfléchit...::<end>
 
 =>q263_original
 ::and describes certain people about whose purpose you aren't exactly sure.::<end>
 
 =>q263
-::et décrit certaines personnes dont vous n'êtes pas sûr du but.::<end>
+::et décrit certaines personnes dont le rôle ne vous est pas tout à fait clair.::<end>
 
 =>q264_original
 ::He drinks an imaginary potion again, and this is where you begin to lose him. The ritual involves deep waters and great serpents and ends in one's or more than one's death. But something is not right, and his sense of triumph - possibly because he is their slayer - soon diminishes.::<end>
 
 =>q264
-::Il boit encore une potion imaginaire, et c'est là que vous commencez à le perdre. Le rituel implique des eaux profondes et de grands serpents et se termine dans une ou plusieurs morts. Mais quelque chose n'est pas juste, et son sentiment de triomphe - peut-être parce qu'il est leur tueuse - diminue bientôt.::<end>
+::Il boit encore une potion imaginaire, et c'est là que vous le perdez. Le rituel implique des eaux profondes, de grands serpents, et se termine par une mort, ou plus d'une. Mais quelque chose cloche, et son sentiment de triomphe - peut-être parce qu'il en est le tueur - s'estompe vite.::<end>
 
 =>a265_original
 ::Bow your head.:: Please, Yngwar, tell me. ::Gesture speaking with your hand.::<end>
 
 =>a265
-::Baisse la tête.:: S'il vous plaît, Yngwar, dites-moi. ::Gesture parlant avec ta main.::<end>
+::Baisser la tête.:: S'il te plaît, Yngwar, dis-moi. ::Mimer la parole de la main.::<end>
 
 =>q266_original
 ::He observes you with disdain. ::<end>
 
 =>q266
-::Il vous observe avec mépris.::<end>
+::Il vous observe avec dédain. ::<end>
 
 =>a267_original
 I'm a mighty warrior, rrrrggh! ::Pat your chest.::<end>
 
 =>a267
-Je suis un guerrier puissant ! ::Patientez votre poitrine.::<end>
+Je suis un guerrier puissant, rrrrggh ! ::Se frapper la poitrine.::<end>
 
 =>a268_original
 Yngwar mighty warrior, rrrrggh! ::Point to him.::<end>
 
 =>a268
-Yngwar guerrier puissant, rrrrggh! ::Montrez-lui.::<end>
+Yngwar guerrier puissant, rrrrggh ! ::Le pointer.::<end>
 
 =>a269_original
 ::Stare at him and remain silent.::<end>
 
 =>a269
-::Regardez-le et restez silencieux.::<end>
+::Le fixer et rester silencieux.::<end>
 
 =>q270_original
 ::You stare at him. He stares at you. Nothing happens until he returns to his cooking.::<end>
 
 =>q270
-::Vous le regardez. Il te fixe. Rien ne se passe avant qu'il retourne à sa cuisine.::<end>
+::Vous le fixez. Il vous fixe. Rien ne se passe, jusqu'à ce qu'il retourne à sa cuisine.::<end>
 
 =>a271_original
 ::Shake your head.::<end>
 
 =>a271
-::Secouez la tête.::<end>
+::Secouer la tête.::<end>
 
 =>q272_original
 ::He simply returns to his cooking.::<end>
 
 =>q272
-::Il revient simplement à sa cuisine.::<end>
+::Il retourne simplement à sa cuisine.::<end>
 
 =>a273_original
 Why does Yngwar perform the rituals differently? ::Gesture it as best as you can.::<end>
 
 =>a273
-Pourquoi Yngwar effectue les rituels différemment ? ::Gesture le mieux que vous pouvez.::<end>
+Pourquoi Yngwar fait les rituels autrement ? ::Le mimer du mieux possible.::<end>
 
 =>q274_original
 ::He pauses, thinking, and after a moment he begins explaining.::<end>
@@ -1860,9 +1860,9 @@ Ik völle...
 ::He wants to be the strongest warrior - weaker than no one. He wants to slay his enemies, the Otherborn and everyone who gets in his way or desecrates Flotsourmir, the same one who will bring him closer to himself through abyssal transcendence and grant him great strength. The spiriters interpret His will and tell the warriors how they should obey it.::<end>
 
 =>q275
-Qu'est-ce que c'est ?
+Ik völle...
 
-::Il veut être le guerrier le plus fort - plus faible que personne. Il veut tuer ses ennemis, l'Autre-né et tous ceux qui se mettent en travers de son chemin ou profèrent Flotsourmir, le même qui le rapprochera de lui par la transcendance abyssale et lui accordera une grande force. Les esprits interprètent Sa volonté et disent aux guerriers comment ils doivent y obéir.::<end>
+::Il veut être le guerrier le plus fort - plus faible que personne. Il veut tuer ses ennemis, les Autre-nés, et quiconque se met en travers ou profane Flotsourmir, celui-là même qui le rapprochera de lui par la transcendance abyssale et lui donnera une grande force. Les spiriteurs interprètent Sa volonté et disent aux guerriers comment y obéir.::<end>
 
 =>q276_original
 ::For years the spiriters guided the "skerders" - the transcended ones - and Yngwar obeyed. After all, the spiriters themselves have performed their own rituals and obeyed His will to become spiriters, only their gift was not strength of body but strength of mind and senses. 
@@ -1870,9 +1870,9 @@ Qu'est-ce que c'est ?
 But at some point Yngwar began to doubt what the spiriters were saying.::<end>
 
 =>q276
-::Pendant des années, les esprits guidèrent les « séducteurs » - les transcendés - et Yngwar obéit. Après tout, les esprits eux-mêmes ont accompli leurs propres rituels et obéi Sa volonté de devenir des esprits, seul leur don n'était pas la force du corps, mais la force de l'esprit et des sens.
+::Pendant des années les spiriteurs ont guidé les « skerders » - les transcendés - et Yngwar a obéi. Après tout, les spiriteurs ont eux-mêmes accompli leurs rituels et obéi à Sa volonté pour le devenir, sauf que leur don n'était pas la force du corps, mais celle de l'esprit et des sens.
 
-Mais à un moment donné, Yngwar commença à douter de ce que disaient les esprits.::<end>
+Mais à un moment, Yngwar a commencé à douter de ce que disaient les spiriteurs.::<end>
 
 =>q277_original
 ::He looks at his enlarged hand, then the other one.::
@@ -1888,7 +1888,7 @@ Merg hännten jyköstönne pøss bitt.<end>
 ::The large one is strong and powerful. But for it to become stronger it must lose other strengths. That makes it, in fact, weaker.::<end>
 
 =>q278
-::Le grand est fort et puissant. Mais pour qu'elle devienne plus forte, elle doit perdre d'autres forces. Cela le rend, en fait, plus faible.::<end>
+::La grande est forte, puissante. Mais pour le devenir encore plus, elle doit perdre d'autres forces. Ça la rend, en fait, plus faible.::<end>
 
 =>q279_original
 ::Great serpents are powerful swimmers because of their big tails. 
@@ -1896,9 +1896,9 @@ Merg hännten jyköstönne pøss bitt.<end>
 Stronger legs are better for swimming, fused legs even better; but at the same time they become worse, since unfused they can be brought closer or farther at will and used for many other purposes.::<end>
 
 =>q279
-::Les grands serpents sont des nageurs puissants à cause de leur grosse queue.
+::Les grands serpents nagent fort grâce à leurs grandes queues.
 
-Les jambes plus fortes sont meilleures pour nager, les jambes fondues encore mieux; mais en même temps, elles deviennent pire, car non fondues, elles peuvent être rapprochées ou plus loin à volonté et utilisées à de nombreuses autres fins.::<end>
+Des jambes plus fortes, mieux pour nager, des jambes fusionnées encore mieux ; mais en même temps ça empire, parce que non fusionnées on peut les écarter ou les rapprocher à volonté, et s'en servir à bien d'autres fins.::<end>
 
 =>q280_original
 ::Tools that help too much are for the weak - and make people weak - but tools that allow a strong man to become stronger are good. Weapons too - they should not be warriors themselves but help warriors be better warriors. That is good.
@@ -1906,7 +1906,7 @@ Les jambes plus fortes sont meilleures pour nager, les jambes fondues encore mie
 Why abandon them?::<end>
 
 =>q280
-::Les outils qui aident trop sont pour les faibles - et rendent les gens faibles - mais les outils qui permettent à un homme fort de devenir plus fort sont bons. Les armes aussi - ils ne devraient pas être des guerriers eux-mêmes mais aider les guerriers à être de meilleurs guerriers. C'est bien.
+::Les outils qui aident trop, c'est pour les faibles - et ça rend faible - mais les outils qui permettent à un homme fort de devenir plus fort, c'est bien. Les armes aussi - elles ne doivent pas être guerrières elles-mêmes, mais aider les guerriers à mieux l'être. Ça, c'est bien.
 
 Pourquoi les abandonner ?::<end>
 
@@ -1916,21 +1916,21 @@ Krökø!
 ::To slay a great serpent from inside its jaws, bathed in its acid is a feat no Sourmirbaren has achieved, and he did it with his arms and a weapon. Then Yngwar got exiled for it - for being strong, for being a warrior. Is this really Flotsourmir's will?::<end>
 
 =>q281
-C'est Krökø !
+Krökø!
 
-::Pour tuer un grand serpent de l'intérieur de ses mâchoires, baigné dans son acide est un exploit aucun Sourmirbaren n'a réalisé, et il l'a fait avec ses bras et une arme. Puis Yngwar a été exilé pour cela - pour être fort, pour être un guerrier. Est-ce vraiment la volonté de Flotsourmir ?::<end>
+::Tuer un grand serpent de l'intérieur de sa gueule, baigné de son acide, c'est un exploit qu'aucun Sørmirbæren n'a accompli, et il l'a fait avec ses bras et une arme. Puis Yngwar a été exilé pour ça - pour être fort, pour être un guerrier. Est-ce vraiment la volonté de Flotsourmir ?::<end>
 
 =>q282_original
 ::As time went on, he saw less and less sense in the things the spiriters were saying, and saw even in the most powerful warriors weaknesses he did not want to have.::<end>
 
 =>q282
-::Au fil du temps, il voyait de moins en moins de sens dans les choses que disaient les esprits, et il voyait même dans les faiblesses les plus puissantes des guerriers qu'il ne voulait pas avoir.::<end>
+::Avec le temps, il voyait de moins en moins de sens dans ce que disaient les spiriteurs, et même chez les guerriers les plus puissants des faiblesses qu'il ne voulait pas.::<end>
 
 =>a283_original
 You, uh, Durg... ::Point at him.:: said at some point Durg began doubting the spiriters words. ::Gesture it as best as you can.:: When? ::Shrug your shoulders.::<end>
 
 =>a283
-Tu, euh, Durg... ::Faites-lui signe.:: a dit à un moment donné que Durg a commencé à douter des mots des esprits. ::Gesture le mieux que vous pouvez.:: Quand? ::Écrase tes épaules.::<end>
+Toi, euh, Durg... ::Le pointer.:: a dit qu'à un moment Durg a commencé à douter des mots des spiriteurs. ::Le mimer du mieux possible.:: Quand ? ::Hausser les épaules.::<end>
 
 =>q284_original
 ::He shuts his eyes and shields them with his arms.::
@@ -1952,7 +1952,7 @@ Lysbørggamen.<end>
 Lysburgamen. ::Close and open your eyes.:: Tell me about it.<end>
 
 =>a286
-Lysburgamen. ::Fermez et ouvrez les yeux.:: Parle-moi de ça.<end>
+Lysburgamen. ::Fermer et ouvrir les yeux.:: Parle-moi de ça.<end>
 
 =>q287_original
 ::He shakes his head.::
@@ -1962,13 +1962,13 @@ Nikke.<end>
 =>q287
 ::Il secoue la tête.::
 
-C'est Nikke.<end>
+Nikke.<end>
 
 =>a288_original
 Please, Yngwar, would you tell me?<end>
 
 =>a288
-S'il te plaît, Yngwar, tu peux me le dire ?<end>
+S'il te plaît, Yngwar, tu me le dirais ?<end>
 
 =>a289_original
 Come on!<end>
@@ -1980,13 +1980,13 @@ Allez !<end>
 ::Close and open your eyes again.::<end>
 
 =>a290
-::Fermez et ouvrez encore les yeux.::<end>
+::Fermer et ouvrir encore les yeux.::<end>
 
 =>q291_original
 Et brønt det unner ønnt æppen aböö gymmon det øyen. ::He closes his eyes tightly.::<end>
 
 =>q291
-Et brønt det unner ønnt æppen aböö gymmon det øyen. ::Il ferme les yeux.::<end>
+Et brønt det unner ønnt æppen aböö gymmon det øyen. ::Il ferme les yeux très fort.::<end>
 
 =>q292_original
 <end>
@@ -1998,7 +1998,7 @@ Et brønt det unner ønnt æppen aböö gymmon det øyen. ::Il ferme les yeux.::
 ::[Intelligence] Put your hand on your chest.:: Here? It burns here?<end>
 
 =>a293
-::[Intelligence] Mettez votre main sur votre poitrine.:: Ici ? Ça brûle ici ?<end>
+::[Intelligence] Mettre la main sur la poitrine.:: Ici ? Ça brûle ici ?<end>
 
 =>q294_original
 Jakke. ::He begins to describe it::<end>
@@ -2010,31 +2010,31 @@ Jakke. ::Il commence à le décrire::<end>
 ::[Intelligence] Observe and listen.::<end>
 
 =>a295
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q296_original
 ::It is near the exit from the Black Sea, the light which burns the "essence." Men die when they stare at or approach it. Everyone sleeps with their back turned toward it, or hunt, kill, perform rituals - with their faces turned away from the light which burns the "essence."::<end>
 
 =>q296
-::C'est près de la sortie de la mer Noire, la lumière qui brûle l'essence. Les hommes meurent quand ils le regardent ou s'approchent. Tout le monde dort avec le dos tourné vers elle, ou chasse, tue, exécute des rituels - avec le visage tourné loin de la lumière qui brûle l'"essence."::<end>
+::C'est près de la sortie de la Black Sea, la lumière qui brûle l'« essence ». Les hommes meurent s'ils la regardent ou s'en approchent. Tout le monde dort le dos tourné vers elle, ou chasse, tue, accomplit des rituels - le visage détourné de la lumière qui brûle l'« essence ».::<end>
 
 =>q297_original
 ::He was a young boy, perhaps in early teens, when his boat went missing; he had failed to secure it properly and the current carried it south. Knowing that his father would rip off one of the "teeth in his skin" for such neglect as losing one's own boat, or that the spiriters might deem him unworthy of abyssal transcendence, he went with his brother Asmögar on his boat to search for it.::<end>
 
 =>q297
-::C'était un jeune garçon, peut-être au début de l'adolescence, quand son bateau a disparu; il n'avait pas réussi à le sécuriser correctement et le courant le transportait vers le sud. Sachant que son père déchirerait l'un des "dents dans sa peau" pour une négligence telle que perdre son propre bateau, ou que les esprits pourraient le juger indigne de la transcendance abyssale, il est allé avec son frère Asmögar sur son bateau pour le chercher.::<end>
+::C'était un jeune garçon, peut-être au début de l'adolescence, quand son bateau a disparu ; il ne l'avait pas bien amarré et le courant l'avait emporté vers le sud. Sachant que son père lui arracherait une des « dents dans la peau » pour une négligence comme perdre son propre bateau, ou que les spiriteurs le jugeraient indigne de la transcendance abyssale, il est parti avec son frère Asmögar sur le sien, pour le chercher.::<end>
 
 =>q298_original
 ::They both knew the dangers, knew it was forbidden, but he had to find his boat. And they did find it near the sea's exit, but as soon as they approached it, the light appeared on the cliff to their left and blinded them. His brother did not survive. He collapsed and died on the spot. Yngwar lived.::<end>
 
 =>q298
-::Ils connaissaient tous les deux les dangers, savaient que c'était interdit, mais il devait trouver son bateau. Et ils l'ont trouvé près de la sortie de la mer, mais dès qu'ils s'en sont approchés, la lumière est apparue sur la falaise à leur gauche et les aveuglé. Son frère n'a pas survécu. Il s'est effondré et est mort sur place. Yngwar vivait.::<end>
+::Ils connaissaient tous les deux les dangers, savaient que c'était interdit, mais il devait retrouver son bateau. Ils l'ont trouvé près de la sortie de la mer, mais dès qu'ils s'en sont approchés, la lumière est apparue sur la falaise à gauche et les a aveuglés. Son frère n'a pas survécu. Il s'est effondré, mort sur place. Yngwar a vécu.::<end>
 
 =>q299_original
 ::He managed to recover his boat and row back home. His brother he left in his own. He never told anyone what exactly happened there: The two went hunting and his brother was devoured by serpents. That's all they needed to know.::<end>
 
 =>q299
-::Il a réussi à récupérer son bateau et ramer chez lui. Son frère est parti. Il n'a jamais dit à personne ce qui s'est passé : Les deux allaient à la chasse et son frère était dévoré par des serpents. C'est tout ce qu'ils devaient savoir.::<end>
+::Il a récupéré son bateau et ramé jusqu'à chez lui. Son frère, il l'a laissé dans le sien. Il n'a jamais dit à personne ce qui s'était vraiment passé là-bas : les deux étaient partis chasser, et son frère a été dévoré par des serpents. C'est tout ce qu'ils avaient besoin de savoir.::<end>
 
 =>q300_original
 ::He thought he survived because he was stronger than his brother, but later he realized there was something else. His burning was different than what everyone spoke of in the legends, and in the blinding light he managed to see...
@@ -2042,7 +2042,7 @@ Jakke. ::Il commence à le décrire::<end>
 He hesitates to continue.::<end>
 
 =>q300
-::Il pensait qu'il avait survécu parce qu'il était plus fort que son frère, mais plus tard il s'est rendu compte qu'il y avait autre chose. Sa brûlure était différente de ce que tout le monde parlait dans les légendes, et dans la lumière aveuglante il a réussi à voir...
+::Il a cru qu'il avait survécu parce qu'il était plus fort que son frère, mais plus tard il a compris qu'il y avait autre chose. Sa brûlure n'était pas celle dont parlaient les légendes, et dans la lumière aveuglante il a réussi à voir...
 
 Il hésite à continuer.::<end>
 
@@ -2056,7 +2056,7 @@ Il hésite à continuer.::<end>
 H-- hvarga, um... se, Yngwar? What did you see?<end>
 
 =>a302
-H-- hvarga, euh... se, Yngwar ? Qu'avez-vous vu ?<end>
+H-- hvarga, euh... se, Yngwar ? Qu'est-ce que tu as vu ?<end>
 
 =>q303_original
 ::He stares at you with amazement.::
@@ -2066,11 +2066,11 @@ Dur... vertään jakkt?
 Ik se... Ik se...<end>
 
 =>q303
-::Il vous regarde avec étonnement.::
+::Il vous fixe, stupéfait.::
 
-Dur... vertään jakkt ?
+Dur... vertään jakkt?
 
-Je me... Je me...<end>
+Ik se... Ik se...<end>
 
 =>q304_original
 ::He saw shapes. Human shapes. Or so he thinks.
@@ -2080,11 +2080,11 @@ He felt the burning sensation radiating from inside and above, scorching what wa
 But a similar thing he would feel again.::<end>
 
 =>q304
-::Il a vu des formes. Des formes humaines. Ou alors il pense.
+::Il a vu des formes. Des formes humaines. Du moins, c'est ce qu'il croit.
 
-Il sentit la sensation de brûlure rayonner de l'intérieur et au-dessus, brûlant ce qui était en bas et sur le côté. Ça lui a fait beaucoup de mal, et la douleur dont il se souvient clairement.
+Il a senti la brûlure irradier de l'intérieur et d'en haut, brûler ce qui était en bas et sur le côté. Ça lui a fait très mal, et la douleur, il s'en souvient clairement.
 
-Mais une chose semblable qu'il ressentirait à nouveau.::<end>
+Mais une chose semblable, il la sentirait encore.::<end>
 
 =>a305_original
 This other event, that is the one when Ferryman killed Sjörsr.<end>
@@ -2102,19 +2102,19 @@ Jakke.<end>
 ::After the second event, something in Yngwar was different. He was impressed by the same "essence" that terrified him beforehand. His ways departed from the Way of the Serpent more and more, culminating in events he had already explained.::<end>
 
 =>q307
-::Après le deuxième événement, quelque chose à Yngwar était différent. Il a été impressionné par la même "essence" qui l'a terrifié au préalable. Ses voies s'éloignèrent de plus en plus de la Voie du Serpent, culminant aux événements qu'il avait déjà expliqués.::<end>
+::Après le second événement, quelque chose avait changé en Yngwar. Il était marqué par la même « essence » qui l'avait terrifié avant. Sa voie s'éloignait de plus en plus de la Voie du Serpent, jusqu'aux événements qu'il a déjà expliqués.::<end>
 
 =>a308_original
 Go on, Yngwar.<end>
 
 =>a308
-Allez, Yngwar.<end>
+Continue, Yngwar.<end>
 
 =>q309_original
 ::The next event happened a few years later: ::<end>
 
 =>q309
-::Le prochain événement s'est produit quelques années plus tard:::<end>
+::L'événement suivant, quelques années plus tard : ::<end>
 
 =>q310_original
 ::The spiriters had led a group of warriors to an island to the east, whose ground is "born of fire." They were performing a ritual for the strongest warrior of His...::
@@ -2124,53 +2124,53 @@ Sjörsr.
 ::As tall as two warriors and more than that as heavy, he could crush his enemies easily by stomping or throwing boulders at them, or by squeezing their entrails out with his bare hands. But he preferred a hammer made from a severed head of a stone beast he had slain himself.::<end>
 
 =>q310
-::Les esprits avaient conduit un groupe de guerriers vers une île à l'est, dont le sol est « né du feu ». Ils faisaient un rituel pour le guerrier le plus fort de Son...::
+::Les spiriteurs avaient mené un groupe de guerriers vers une île à l'est, dont le sol est « né du feu ». Ils accomplissaient un rituel pour le plus fort guerrier du Sien...::
 
-C'est ce que j'ai dit.
+Sjörsr.
 
-::Aussi grand que deux guerriers et plus que cela aussi lourd, il pouvait écraser ses ennemis facilement en leur frappant ou en leur jetant des rochers, ou en leur tapant les entrailles de ses mains nues. Mais il préférait un marteau fait d'une tête coupée d'une bête en pierre qu'il avait tué lui-même.::<end>
+::Grand comme deux guerriers et plus lourd encore, il écrasait ses ennemis d'un coup de pied, de rochers lancés, ou en leur pressant les entrailles à mains nues. Mais il préférait un marteau fait d'une tête coupée de bête de pierre qu'il avait tuée lui-même.::<end>
 
 =>q311_original
 ::It was a ritual dedicated to his "further" transformation, the abandonment of the "unnecessary." But then, before the ritual could begin, the Ferryman came with a staff of burning pearls. All of them, the warriors, the spiriters, all felt something horrible about his aura. He wanted to challenge $(context.npc_xpbl_yngwar_playerDiction_flotsormir)'s mightiest warrior, but he did not use the staff.::<end>
 
 =>q311
-::C'était un rituel dédié à sa transformation « encore » : l'abandon du « inutile ». Mais alors, avant que le rituel puisse commencer, le Ferryman est venu avec un bâton de perles brûlantes. Tous, les guerriers, les esprits, ont tous ressenti quelque chose d'horrible dans son aura. Il voulait défier le guerrier le plus puissant de $(context.npc xpbl yngwar playerDiction flotsormir), mais il n'a pas utilisé le personnel.::<end>
+::C'était un rituel dédié à sa transformation « plus loin », l'abandon de l'« inutile ». Mais avant qu'il commence, le Ferryman est arrivé avec un bâton de perles brûlantes. Tous, guerriers, spiriteurs, ont senti quelque chose d'horrible dans son aura. Il voulait défier le plus puissant guerrier de $(context.npc_xpbl_yngwar_playerDiction_flotsormir), mais il n'a pas utilisé le bâton.::<end>
 
 =>q312_original
 ::Sjörsr ::<end>
 
 =>q312
-::Sjörsr::<end>
+::Sjörsr ::<end>
 
 =>q313_original
 ::picked him up and threw him about. Everyone was laughing at the weak old fool, and his disturbing aura was gone. But then as ::<end>
 
 =>q313
-::Je l'ai pris et jeté. Tout le monde se moquait du vieux fou, et son aura troublante était partie. Mais alors comme::<end>
+::l'a soulevé et l'a jeté. Tout le monde riait du vieux fou faible, et son aura troublante avait disparu. Mais alors, comme ::<end>
 
 =>q314_original
 ::Sjörsr ::<end>
 
 =>q314
-::Sjörsr::<end>
+::Sjörsr ::<end>
 
 =>q315_original
 ::was celebrating his strength - the gift of His - the old man got up and threw something at him, hitting him in the $(GiantSkerderHitBodyPart_DisplayName).::<end>
 
 =>q315
-::était en train de célébrer sa force - le don de Son - le vieil homme s'est levé et a jeté quelque chose sur lui, le frapper dans le $ (GiantSkerderHitBodyPart DisplayName).::<end>
+::célébrait sa force - le don du Sien - le vieil homme s'est relevé et lui a jeté quelque chose, le touchant à $(GiantSkerderHitBodyPart_DisplayName).::<end>
 
 =>q316_original
 ::It was something small and glowing that burned the inner "essence::<end>
 
 =>q316
-::C'était quelque chose de petit et brillant qui brûlait l'essence intérieure::<end>
+::C'était quelque chose de petit et lumineux qui brûlait l'« essence::<end>
 
 =>q317_original
 ::," just like the light from the cliff - radiating from inside and above and burning what is below and to the side.::<end>
 
 =>q317
-::", tout comme la lumière de la falaise - rayonnant de l'intérieur et au-dessus et brûlant ce qui est en bas et sur le côté.::<end>
+:: » intérieure, tout comme la lumière de la falaise - irradiant de l'intérieur et d'en haut, brûlant ce qui est en bas et sur le côté.::<end>
 
 =>q318_original
 ::Ferryman stood proud and strong, an Otherborn who slew the mightiest $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) warrior. Someone as strong as that deserves respect, even if he is Otherborn. 
@@ -2178,15 +2178,15 @@ C'est ce que j'ai dit.
 The Ferryman picked up his staff and walked back to his ship. And since he was respected, and feared among some, he was free to sail their waters.::<end>
 
 =>q318
-::Ferryman était fier et fort, un Otherborn qui a tué le guerrier le plus puissant $(context.npc xpbl yngwar playerDiction sormirbaren). Quelqu'un d'aussi fort que cela mérite le respect, même s'il est Otherborn.
+::Ferryman se tenait fier et fort, un Autre-né qui avait tué le plus puissant guerrier $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). Quelqu'un d'aussi fort mérite le respect, même s'il est Autre-né.
 
-Le Ferryman ramena son bâton et retourna à son navire. Et comme il était respecté, et qu'il craignait parmi certains, il était libre de naviguer dans leurs eaux.::<end>
+Le Ferryman a ramassé son bâton et est retourné à son navire. Et comme on le respectait, et que certains le craignaient, il était libre de naviguer leurs eaux.::<end>
 
 =>q319_original
 ::When Yngwar talked to other warriors, no one felt the aura like Yngwar did, and the object he threw looked like nothing more than a small rock. Only Yngwar saw its glow.::<end>
 
 =>q319
-::Quand Yngwar a parlé à d'autres guerriers, personne n'a senti l'aura comme Yngwar, et l'objet qu'il a lancé ne ressemblait qu'à un petit rocher. Seul Yngwar a vu sa lueur.::<end>
+::Quand Yngwar en a parlé aux autres guerriers, personne n'avait senti l'aura comme lui, et l'objet lancé n'avait l'air que d'un petit caillou. Seul Yngwar en a vu la lueur.::<end>
 
 =>q320_original
 <end>
@@ -2207,7 +2207,7 @@ Lysbørggamen.
 <end>
 
 =>q322
-::Il ferme les yeux.::
+::. » Il ferme les yeux.::
 
 Lysbørggamen.
 <end>
@@ -2216,43 +2216,43 @@ Lysbørggamen.
 ::Sjoersr ::<end>
 
 =>q323
-::S'amuser::<end>
+::Sjoersr ::<end>
 
 =>q324_original
 ::Sjoersr ::<end>
 
 =>q324
-::S'amuser::<end>
+::Sjoersr ::<end>
 
 =>q325_original
 ::But Yngwar's tale becomes confusing at this point: The two brothers went to search for the boat, but the blinding light from the cliff killed his brother on the spot.::<end>
 
 =>q325
-::Mais l'histoire d'Yngwar devient confuse à ce stade : Les deux frères sont allés chercher le bateau, mais la lumière aveuglante de la falaise a tué son frère sur place.::<end>
+::Mais le récit d'Yngwar devient confus à ce stade : les deux frères sont allés chercher le bateau, mais la lumière aveuglante de la falaise a tué son frère sur place.::<end>
 
 =>q326_original
 ::Yngwar, obviously, survived and returned home, but the details surrounding it are somewhat unclear to you. And at the very end there is something he wanted to say but after noticing your confusion decided against it.::<end>
 
 =>q326
-::Yngwar, évidemment, a survécu et est rentré chez lui, mais les détails qui l'entourent ne sont pas clairs pour vous. Et à la fin il y a quelque chose qu'il voulait dire mais après avoir remarqué votre confusion a décidé contre elle.::<end>
+::Yngwar, évidemment, a survécu et est rentré, mais les détails autour restent un peu flous pour vous. Et tout à la fin, il y a quelque chose qu'il voulait dire, mais en voyant votre confusion il s'est tu.::<end>
 
 =>a327_original
 It burns your eyes? ::Point to eyes.::<end>
 
 =>a327
-Ça te brûle les yeux ? ::Pointez vers les yeux.::<end>
+Ça te brûle les yeux ? ::Pointer les yeux.::<end>
 
 =>q328_original
 Nikkt, nikkt. <end>
 
 =>q328
-Nikkt, Nikkt. <end>
+Nikkt, nikkt. <end>
 
 =>a329_original
 Lysburgamen, again. ::Close and open your eyes.::<end>
 
 =>a329
-Encore Lysburgamen. ::Fermez et ouvrez les yeux.::<end>
+Lysburgamen, encore. ::Fermer et ouvrir les yeux.::<end>
 
 =>q330_original
 ::He begins...::<end>
@@ -2270,7 +2270,7 @@ $(context.npc_xpbl_yngwar_playerDiction_sormirbaren).<end>
 ::He nods.::<end>
 
 =>q332
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>q333_original
 <end>
@@ -2282,13 +2282,13 @@ $(context.npc_xpbl_yngwar_playerDiction_sormirbaren).<end>
 What happens if Magnar dies? ::Gesture neck slashing.::<end>
 
 =>a334
-Et si Magnar meurt ? ::C'est un coup de cou.::<end>
+Et si Magnar meurt ? ::Mimer un coup de lame à la gorge.::<end>
 
 =>a335_original
 Tell me more about the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Gesture him to go on.::<end>
 
 =>a335
-Parlez-moi de la $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Gesturez-le pour continuer.::<end>
+Parle-moi encore des $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Lui faire signe de continuer.::<end>
 
 =>q336_original
 ::He draws two more warriors.::
@@ -2296,7 +2296,7 @@ Parlez-moi de la $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Gesture
 Növdægaren - Eldrän ønnt Bænkräster.<end>
 
 =>q336
-::Il attire deux autres guerriers.::
+::Il dessine deux autres guerriers.::
 
 Növdægaren - Eldrän ønnt Bænkräster.<end>
 
@@ -2304,7 +2304,7 @@ Növdægaren - Eldrän ønnt Bænkräster.<end>
 ::He looks at the drawing and ponders for a few moments. ::<end>
 
 =>q337
-::Il regarde le dessin et réfléchit quelques instants.::<end>
+::Il regarde le dessin et réfléchit un moment. ::<end>
 
 =>q338_original
 ::However, he seems unwilling to proceed.:: 
@@ -2314,11 +2314,11 @@ Nikke.
 ::Perhaps you need to gain his trust a bit more.::<end>
 
 =>q338
-::Cependant, il ne semble pas disposé à poursuivre.::
+::Mais il n'a pas l'air disposé à continuer.::
 
-C'est Nikke.
+Nikke.
 
-::Vous devez peut-être gagner un peu plus sa confiance.::<end>
+::Peut-être faut-il gagner un peu plus sa confiance.::<end>
 
 =>a339_original
 Eldren.<end>
@@ -2332,7 +2332,7 @@ Eldren.<end>
 Eldrän, det Növdægar.<end>
 
 =>q340
-::Sa mère a donné naissance à des enfants abominables. Aucun n'était assez fort pour survivre. Après son cinquième enfant, aucun homme ne coucherait avec elle, mais elle a encore donné naissance à un fils...::
+::Sa mère a mis au monde des enfants abominables. Aucun n'était assez fort pour survivre. Après le cinquième, plus aucun homme ne couchait avec elle, et pourtant elle a encore donné naissance à un fils...::
 
 Eldrän, det Növdægar.<end>
 
@@ -2340,7 +2340,7 @@ Eldrän, det Növdægar.<end>
 ::He Who Carries Ancient Fire. The spiriters deemed him a special servant of $(context.npc_xpbl_yngwar_playerDiction_flotsormir), as he displayed not only great strength but could invoke his inner ancient fire to smite his enemies.::<end>
 
 =>q341
-::Celui qui porte le feu ancien. Les esprits le considéraient comme un serviteur spécial de $(context.npc xpbl yngwar playerDiction flotsormir), puisqu'il montrait non seulement une grande force, mais pouvait invoquer son ancien feu intérieur pour frapper ses ennemis.::<end>
+::Celui qui porte le Feu ancien. Les spiriteurs l'ont jugé serviteur spécial de $(context.npc_xpbl_yngwar_playerDiction_flotsormir), car il montrait non seulement une grande force, mais pouvait invoquer son feu ancien intérieur pour frapper ses ennemis.::<end>
 
 =>q342_original
 ::He challenged outer fires, walked across the scalding fields, bathed himself in boiling springs. He eventually lost his sight but not his perception.::
@@ -2348,7 +2348,7 @@ Eldrän, det Növdægar.<end>
 Pör Eld Stæm <end>
 
 =>q342
-::Il défia les feux extérieurs, traversa les champs d'éboulement, se baigna dans des sources bouillantes. Il finit par perdre la vue, mais pas sa perception.::
+::Il a défié les feux du dehors, traversé les champs brûlants, s'est baigné dans des sources bouillantes. Il a fini par perdre la vue, mais pas la perception.::
 
 Pör Eld Stæm <end>
 
@@ -2356,13 +2356,13 @@ Pör Eld Stæm <end>
 gussæppten det növdægar bitt, met det Magnar Pör øsseppta har fylle.<end>
 
 =>q343
-gussæppten det növdægar bitt, meet det Magnar Pör øsseppta har fylle.<end>
+gussæppten det növdægar bitt, met det Magnar Pör øsseppta har fylle.<end>
 
 =>a344_original
 Eldrän.<end>
 
 =>a344
-C'est Eldrän.<end>
+Eldrän.<end>
 
 =>a345_original
 Benkrester.<end>
@@ -2378,11 +2378,11 @@ Røssar.
 ::Son of Jyktar, father of eight children, all sons, but only one stayed as his heir in craft, as the rest sought transcendence. But the one that stayed built with his father a suit of armor made of bone and leather for himself.::<end>
 
 =>q346
-::Il est le fils du meilleur ossature $(context.npc xpbl yngwar playerDiction sormirbaren)...::
+::Il est le fils du meilleur ossuaire $(context.npc_xpbl_yngwar_playerDiction_sormirbaren)...::
 
 Røssar.
 
-::Fils de Jyktar, père de huit enfants, tous fils, mais un seul est resté comme son héritier dans l'artisanat, comme le reste cherchait la transcendance. Mais celui qui est resté construit avec son père un costume d'armure en os et cuir pour lui-même.::<end>
+::Fils de Jyktar, père de huit enfants, tous des fils, mais un seul est resté héritier du métier, les autres ont cherché la transcendance. Celui qui est resté a construit avec son père une armure d'os et de cuir, pour lui-même.::<end>
 
 =>q347_original
 ::The father died before the armor was completed. The son used some of his father's bones to do so.::
@@ -2390,7 +2390,7 @@ Røssar.
 Bænkräster, det Növdægar.<end>
 
 =>q347
-::Le père est mort avant que l'armure ne soit achevée. Le fils a utilisé certains os de son père pour le faire.::
+::Le père est mort avant que l'armure soit finie. Le fils s'est servi de certains os de son père pour la terminer.::
 
 Bænkräster, det Növdægar.<end>
 
@@ -2400,7 +2400,7 @@ Bænkräster, det Növdægar.<end>
 Pör Bæn Stæm <end>
 
 =>q348
-::Ses frères périrent, car ils étaient trop faibles pour la transcendance. Il les a tous enterrés et garde maintenant leur cimetière.::
+::Ses frères ont péri, trop faibles pour la transcendance. Il les a tous enterrés et garde maintenant leur cimetière.::
 
 Pör Bæn Stæm <end>
 
@@ -2422,7 +2422,7 @@ Flotsurmshpeter.<end>
 Øyensørm det Flottsørmsppæter...<end>
 
 =>q351
-::Il dessine une figure haute et fine au-dessus de laquelle les épis ou les dents forment un demi-cercle. Un bras tient une lance ou un bâton tandis que l'autre tient quelque chose qui ressemble à une lanterne dans laquelle il dessine un seul point.::
+::Il dessine une silhouette haute et mince, au-dessus de la tête des pointes ou des dents en demi-cercle. Un bras tient une lance ou un bâton, l'autre quelque chose comme une lanterne, dans laquelle il trace un seul point.::
 
 Øyensørm det Flottsørmsppæter...<end>
 
@@ -2430,55 +2430,55 @@ Flotsurmshpeter.<end>
 ::[Intelligence] Observe and listen.::<end>
 
 =>a352
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q353_original
 ::Yngwar points to his own serpentine eyes then draws them next to the "Spiriter of Him."::<end>
 
 =>q353
-::Yngwar pointe vers ses propres yeux serpentins puis les attire à côté de l'Esprit de Lui.::<end>
+::Yngwar pointe ses propres yeux serpentins, puis les dessine à côté du « Spiriteur de Lui ».::<end>
 
 =>q354_original
 ::The Serpent's Eyes is the highest of the spiriters, one that truly senses what He commands. When the water rises he goes to the Temple of the Tides and doesn't leave until it drops again. Yet when the waters are restless, it means $(context.npc_xpbl_yngwar_playerDiction_flotsormir) is restless, and this marks the beginning of a long period of time during which the High Spiriter is in the temple, sensing what He commands.::<end>
 
 =>q354
-::Les yeux du Serpent est le plus haut des esprits, celui qui sens vraiment ce qu'Il commande. Quand l'eau s'élève, il va au Temple des Tides et ne part pas avant qu'il ne retombe. Pourtant, lorsque les eaux sont agitées, cela signifie que $(context.npc xpbl yngwar playerDiction flotsormir) est agité, et cela marque le début d'une longue période de temps pendant laquelle le Haut Esprit est dans le temple, en sentant ce qu'Il commande.::<end>
+::Les Yeux du Serpent, c'est le plus haut des spiriteurs, celui qui sent vraiment ce qu'Il commande. Quand l'eau monte, il va au Temple des Marées et n'en sort pas avant qu'elle redescende. Mais quand les eaux sont agitées, ça veut dire que $(context.npc_xpbl_yngwar_playerDiction_flotsormir) est agité, et ça marque le début d'une longue période où le Grand Spiriteur est dans le temple, à sentir ce qu'Il commande.::<end>
 
 =>q355_original
 ::The Eyes of the Serpent has spiriters to relay his messages for him, but important and urgent messages he will relay to the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) through dreams. Once the water has calmed down and His will sensed and obeyed, the Spiriter of Him will emerge from the temple.::<end>
 
 =>q355
-::Les Yeux du Serpent ont des esprits pour relayer ses messages pour lui, mais des messages importants et urgents qu'il transmettra au $(context.npc xpbl yngwar playerDiction sormirbaren) à travers les rêves. Une fois que l'eau s'est calmée et que Sa volonté a senti et obéi, l'Espritur de Lui émergera du temple.::<end>
+::Les Yeux du Serpent ont des spiriteurs pour relayer ses messages, mais les messages importants, urgents, il les transmet aux $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) par les rêves. Une fois l'eau calme, Sa volonté sentie et obéie, le Spiriteur de Lui sort du temple.::<end>
 
 =>q356_original
 ::The Serpent's Eyes is the highest of all the spiriters, that you understand clearly, but the rest is somewhat murky. He spends his time in a water temple of sorts and apparently communicating with $(context.npc_xpbl_yngwar_playerDiction_flotsormir).::<end>
 
 =>q356
-::Le Serpent's Eyes est le plus haut de tous les esprits, que vous comprenez clairement, mais le reste est quelque peu trouble. Il passe son temps dans un temple d'eau de sorte et apparemment communiquer avec $(context.npc xpbl yngwar playerDiction flotsormir).::<end>
+::Les Yeux du Serpent, c'est le plus haut de tous les spiriteurs, ça vous est clair, mais le reste est un peu trouble. Il passe son temps dans une sorte de temple d'eau, et apparemment à communiquer avec $(context.npc_xpbl_yngwar_playerDiction_flotsormir).::<end>
 
 =>q357_original
 ::You can hardly make out the rest, but there is something striking about a certain gesture Yngwar has made, something that has to do with the mind.::<end>
 
 =>q357
-::Vous ne pouvez pas faire le reste, mais il y a quelque chose de frappant dans un certain geste Yngwar a fait, quelque chose qui a à voir avec l'esprit.::<end>
+::Vous distinguez à peine le reste, mais un geste d'Yngwar vous frappe, quelque chose qui a à voir avec l'esprit.::<end>
 
 =>a358_original
 ::Point to your head.:: Eh, mind. You were showing something about mind.<end>
 
 =>a358
-::Pointez-vous sur la tête.:: Eh, esprit. Tu montrais quelque chose dans l'esprit.<end>
+::Pointer votre tête.:: Eh, esprit. Tu montrais quelque chose sur l'esprit.<end>
 
 =>q359_original
 ::He understands you and repeats, but you still cannot understand it. He shakes his head.::<end>
 
 =>q359
-::Il vous comprend et répète, mais vous ne pouvez toujours pas le comprendre. Il secoue la tête.::<end>
+::Il vous comprend et répète, mais vous ne comprenez toujours pas. Il secoue la tête.::<end>
 
 =>a360_original
 Please, Yngwar, try harder, I need to know!<end>
 
 =>a360
-S'il vous plaît, Yngwar, essayez plus fort, je dois savoir!<end>
+S'il te plaît, Yngwar, essaie plus fort, j'ai besoin de savoir !<end>
 
 =>a361_original
 Try harder, you stupid savage!<end>
@@ -2490,13 +2490,13 @@ Essaie plus fort, espèce de sauvage !<end>
 ::Inquire about something else.::<end>
 
 =>a362
-::Informez-vous sur autre chose.::<end>
+::Demander autre chose.::<end>
 
 =>q363_original
 ::He attends to his fire in silence.::<end>
 
 =>q363
-::Il assiste à son feu en silence.::<end>
+::Il s'occupe de son feu en silence.::<end>
 
 =>a364_original
 Det Flottsørmsppæter.<end>
@@ -2508,7 +2508,7 @@ Det Flottsørmsppæter.<end>
 Uh... spiriters - shpeters, was it?<end>
 
 =>a365
-Euh... des esprits - des shpeters, n'est-ce pas ?<end>
+Euh... spiriteurs - shpeters, c'était ça ?<end>
 
 =>q366_original
 Det *sppæteren*. ::He extends his normal hand, palm facing up.:: 
@@ -2520,13 +2520,13 @@ Tvaa sppæteren. ::He then touches the middle phalange.::
 Trä sppæteren. ::Top phalange.::<end>
 
 =>q366
-Det *sppæteren*. ::Il étend sa main normale, la paume vers le haut.::
+Det *sppæteren*. ::Il tend sa main normale, paume vers le haut.::
 
-Aen sppæter. ::Il touche avec son pouce l'os numérique le plus bas - le phalange - de l'index de cette main, celui le plus proche de la paume.::
+Aen sppæter. ::Du pouce, il touche l'os le plus bas - la phalange - de l'index de cette main, celle la plus près de la paume.::
 
-Tvaa sppæteren. ::Il touche ensuite le phalange du milieu.::
+Tvaa sppæteren. ::Puis la phalange du milieu.::
 
-Les trä sppæteren. ::Haut phalange.::<end>
+Trä sppæteren. ::Phalange du haut.::<end>
 
 =>q367_original
 Mönnæ sppæteren. ::He counts twelve phalanges on his hand - the thumb is not counted - then moves to the other hand, stopping - or accenting - every two fingers, or six phalanges.::
@@ -2534,21 +2534,21 @@ Mönnæ sppæteren. ::He counts twelve phalanges on his hand - the thumb is not 
 Mönnæ sppæteren...<end>
 
 =>q367
-Mönnae sppæteren. ::Il compte douze phalanges sur sa main - le pouce n'est pas compté - puis se déplace à l'autre main, arrêt - ou accent - tous les deux doigts, ou six phalanges.::
+Mönnæ sppæteren. ::Il compte douze phalanges sur sa main - le pouce n'est pas compté - puis passe à l'autre, s'arrêtant - ou accentuant - tous les deux doigts, soit six phalanges.::
 
-Mönnae sppæteren...<end>
+Mönnæ sppæteren...<end>
 
 =>a368_original
 Tell me more about the spiriters.<end>
 
 =>a368
-Parlez-moi des esprits.<end>
+Parle-moi encore des spiriteurs.<end>
 
 =>q369_original
 ::The spiriters relay $(context.npc_xpbl_yngwar_playerDiction_flotsormir)'s messages to the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). The spiriters themselves have performed their own rituals and obeyed His will to become spiriters, only their gift was not strength of body but strength of mind and senses.::<end>
 
 =>q369
-::Les spiriters transmettent les messages $(context.npc xpbl yngwar playerDiction flotsormir) au $(context.npc xpbl yngwar playerDiction sormirbaren). Les esprits eux-mêmes ont accompli leurs propres rituels et obéi Sa volonté de devenir des esprits, seul leur don n'était pas la force du corps, mais la force de l'esprit et des sens.::<end>
+::Les spiriteurs relaient les messages de $(context.npc_xpbl_yngwar_playerDiction_flotsormir) aux $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). Les spiriteurs ont eux-mêmes accompli leurs rituels et obéi à Sa volonté pour le devenir, sauf que leur don n'était pas la force du corps, mais celle de l'esprit et des sens.::<end>
 
 =>q370_original
 ::Yngwar doubts their interpretations of His will when it comes to what he and other warriors are told, but it is as clear as a spring that their rituals, their Way have brought them power. Lesser spiriters, the ones who have undergone their change the least are the weakest of mind and senses. Higher spiriters wield much greater powers, and the High Spiriter - the Spiriter of Him...::
@@ -2556,21 +2556,21 @@ Parlez-moi des esprits.<end>
 Det Flottsørmsppæter. ::...has been gifted by Him the most.::<end>
 
 =>q370
-::Yngwar doute de leurs interprétations de Sa volonté quand il s'agit de ce qu'on lui dit, lui et d'autres guerriers, mais il est aussi clair qu'une source que leurs rituels, leur Voie leur ont apporté le pouvoir. Les plus petits esprits, ceux qui ont subi leur changement le moins sont les plus faibles de l'esprit et des sens. Les esprits supérieurs possèdent des pouvoirs beaucoup plus grands, et le Haut Esprit - l'Espritur de Lui...::
+::Yngwar doute de leurs interprétations de Sa volonté quand il s'agit de ce qu'on dit à lui et aux autres guerriers, mais il est clair comme une source que leurs rituels, leur Voie, leur ont donné du pouvoir. Les spiriteurs inférieurs, ceux qui ont le moins changé, sont les plus faibles d'esprit et de sens. Les plus hauts ont bien plus de pouvoirs, et le Grand Spiriteur - le Spiriteur de Lui...::
 
-Det Flottsørmsppæter. ::... a été le plus doué par Lui.::<end>
+Det Flottsørmsppæter. ::...a reçu de Lui le plus.::<end>
 
 =>a371_original
 ::Point to livestock in his drawing.::<end>
 
 =>a371
-::Indique le bétail dans son dessin.::<end>
+::Pointer le bétail dans son dessin.::<end>
 
 =>q372_original
 Bisson? ::He moos.:: Mø?<end>
 
 =>q372
-Bisson ? ::Il bouge.:: Mø?<end>
+Bisson ? ::Il beugle.:: Mø?<end>
 
 =>a373_original
 Yes. Bison.<end>
@@ -2582,25 +2582,25 @@ Oui. Bison.<end>
 ::He ::<end>
 
 =>q374
-::He ::<end>
+::Il ::<end>
 
 =>q375_original
 ::grabs his knife and begins drawing a herd of furry beasts.::<end>
 
 =>q375
-::attrape son couteau et commence à dessiner un troupeau de bêtes à fourrure.::<end>
+::saisit son couteau et commence à dessiner un troupeau de bêtes à fourrure.::<end>
 
 =>a376_original
 ::[Intelligence] Observe.::<end>
 
 =>a376
-::Observez.::<end>
+::[Intelligence] Observer.::<end>
 
 =>q377_original
 ::Even though the drawing is fairly crude and low in detail, you notice that he draws each bison - the males, females and the young - as distinct individual creatures: Some have larger horns, some are taller, and some he even draws with a unique fur pattern. From his expression and motions, it appears that he values these creatures greatly.::<end>
 
 =>q377
-::Même si le dessin est assez brut et peu détaillé, vous remarquez qu'il attire chaque bison - les mâles, les femelles et les jeunes - comme des créatures individuelles distinctes: Certains ont des cornes plus grandes, d'autres sont plus grandes, et d'autres encore dessinent avec un motif de fourrure unique. De son expression et de ses mouvements, il semble qu'il apprécie grandement ces créatures.::<end>
+::Même si le dessin est assez brut, peu détaillé, vous remarquez qu'il dessine chaque bison - mâles, femelles, petits - comme des êtres distincts : certains ont de plus grandes cornes, d'autres sont plus grands, certains même un motif de fourrure unique. À son expression, à ses gestes, ces créatures comptent beaucoup pour lui.::<end>
 
 =>q378_original
 ::The bison have been "given" to them from below, it seems, to butcher and consume, use their fur for clothing and tents, tendons for crossbows and stomachs for holding liquid; bones for everything else. The most beautiful and strongest bison are sacrificed to the serpents of $(context.npc_xpbl_yngwar_playerDiction_flotsormir), thrown into the water to be devoured. Sometimes they are thrown even to men who are becoming serpents, so that they can tear it apart with their teeth alone. 
@@ -2608,9 +2608,9 @@ Oui. Bison.<end>
 They reproduce quickly, growing to full adulthood in a few years. They are plentiful.::<end>
 
 =>q378
-::Le bison leur a été « donné » d'en bas, il semble, pour boucher et consommer, utiliser leur fourrure pour les vêtements et les tentes, tendons pour les arbalètes et les estomacs pour tenir liquide; os pour tout le reste. Les plus beaux et les plus forts bisons sont sacrifiés aux serpents de $(context.npc xpbl yngwar playerDiction flotsormir), jetés dans l'eau pour être dévorés. Parfois, ils sont jetés même aux hommes qui deviennent serpents, afin qu'ils puissent le déchirer avec leurs dents seules.
+::Les bisons leur ont été « donnés » d'en bas, on dirait, pour les abattre et les manger, la fourrure pour les vêtements et les tentes, les tendons pour les arbalètes, les estomacs pour tenir le liquide ; les os pour le reste. Les plus beaux, les plus forts, sont sacrifiés aux serpents de $(context.npc_xpbl_yngwar_playerDiction_flotsormir), jetés à l'eau pour être dévorés. Parfois même à des hommes qui deviennent serpents, pour qu'ils les déchirent des dents seules.
 
-Ils se reproduisent rapidement, devenant adultes en quelques années. Ils sont nombreux.::<end>
+Ils se reproduisent vite, adultes en quelques années. Ils sont nombreux.::<end>
 
 =>q379_original
 ::Their death is invaluable and irreplaceable.::<end>
@@ -2622,19 +2622,19 @@ Ils se reproduisent rapidement, devenant adultes en quelques années. Ils sont n
 ::The rest of his explanation involves a lot of animal butchery and sacrifice, and that's pretty much all you can make out.::<end>
 
 =>q380
-::Le reste de son explication implique beaucoup de boucherie et de sacrifice d'animaux, et c'est presque tout ce que vous pouvez faire.::<end>
+::Le reste de l'explication, c'est beaucoup de boucherie et de sacrifice, et c'est à peu près tout ce que vous en tirez.::<end>
 
 =>a381_original
 MOO!<end>
 
 =>a381
-MOO !<end>
+MEUH !<end>
 
 =>q382_original
 ::He pauses for a moment, ::<end>
 
 =>q382
-::Il s'arrête un moment,::<end>
+::Il s'arrête un instant, ::<end>
 
 =>q383_original
 Ik - Sørmirbæren. <end>
@@ -2646,7 +2646,7 @@ Ik - Sørmirbæren. <end>
 ::He looks and begins pointing at the elements of the village he had drawn: the tents, the people, the livestock. ::<end>
 
 =>q384
-::Il regarde et commence à pointer les éléments du village qu'il avait dessiné : les tentes, le peuple, le bétail.::<end>
+::Il regarde et commence à pointer les éléments du village qu'il a dessinés : les tentes, les gens, le bétail. ::<end>
 
 =>q385_original
 ::Then your attention falls on one larger stick figure - their leader, chieftain...::
@@ -2656,11 +2656,11 @@ Magnar.
 ::He is a mighty warrior, born of the serpent but is not becoming one. His strength and cunning are unmatched by any other $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) warrior, and for that he has earned the blade and shield of His, weapons that hold His essence.::<end>
 
 =>q385
-::Puis votre attention tombe sur une figure de bâton plus grande - leur chef, chef...::
+::Puis votre attention tombe sur un bonhomme plus grand - leur chef...::
 
 Magnar.
 
-::Il est un guerrier puissant, né du serpent mais ne devient pas un. Sa force et sa ruse sont inégalées par tout autre guerrier $(context.npc xpbl yngwar playerDiction sormirbaren) et pour cela il a gagné la lame et le bouclier de Ses, armes qui tiennent Son essence.::<end>
+::C'est un guerrier puissant, né du serpent mais qui n'en devient pas un. Sa force et sa ruse n'ont d'égale chez aucun autre guerrier $(context.npc_xpbl_yngwar_playerDiction_sormirbaren), et pour ça il a gagné la lame et le bouclier du Sien, des armes qui tiennent Son essence.::<end>
 
 =>a386_original
 $(context.npc_xpbl_yngwar_playerDiction_flotsormir).<end>
@@ -2672,49 +2672,49 @@ $(context.npc_xpbl_yngwar_playerDiction_flotsormir).<end>
 Forskarr Flottsørmir! <end>
 
 =>q387
-Pour les flottsørmir ! <end>
+Forskarr Flottsørmir! <end>
 
 =>q388_original
 ::He looks down, but not in the ground itself. Rather, it is as though he is looking far into the depths beneath his feet. Then he begins drawing in the sand::<end>
 
 =>q388
-::Il regarde en bas, mais pas dans le sol lui-même. C'est plutôt comme s'il regardait loin dans les profondeurs sous ses pieds. Puis il commence à dessiner dans le sable::<end>
+::Il regarde en bas, mais pas le sol lui-même. Plutôt comme s'il regardait loin dans les profondeurs sous ses pieds. Puis il commence à dessiner dans le sable::<end>
 
 =>q389_original
 ::: You are able to make out a giant serpent lurking in the abyssal depths of the Black Sea. ::<end>
 
 =>q389
-::: Vous pouvez distinguer un serpent géant qui se cache dans l'abîme de la mer Noire.::<end>
+::: Vous distinguez un serpent géant tapi dans les abysses de la Black Sea. ::<end>
 
 =>q390_original
 ::He is powerful and strong, and all of the serpents are his minions and are blessed with a fraction of his strength. He sends them from the depths to feast on the weak and to test the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::<end>
 
 =>q390
-::Il est puissant et fort, et tous les serpents sont ses minions et sont bénis d'une fraction de sa force. Il les envoie des profondeurs pour se régaler des faibles et tester le $(context.npc xpbl yngwar playerDiction sormirbaren).::<end>
+::Il est puissant, fort, et tous les serpents sont ses serviteurs, bénis d'une fraction de sa force. Il les envoie des profondeurs se régaler des faibles et éprouver les $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::<end>
 
 =>q391_original
 ::The spiriters, who can sense His will the best can ask for the serpents from $(context.npc_xpbl_yngwar_playerDiction_flotsormir) for rituals in which the strongest of the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) can become more like them and acquire a part of that essence.::<end>
 
 =>q391
-::Les esprits, qui peuvent sentir sa volonté, le meilleur peut demander les serpents à partir de $(context.npc xpbl yngwar playerDiction flotsormir) pour des rituels dans lesquels le plus fort de $(context.npc xpbl yngwar playerDiction sormirbaren) peut devenir plus comme eux et acquérir une partie de cette essence.::<end>
+::Les spiriteurs, qui sentent le mieux Sa volonté, peuvent demander les serpents à $(context.npc_xpbl_yngwar_playerDiction_flotsormir) pour des rituels où les plus forts des $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) deviennent plus comme eux et prennent une part de cette essence.::<end>
 
 =>q392_original
 ::One day, when enough $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) have been blessed with His strength and power, when enough can move and sense the world like the serpents can, then He will lead us out of these waters to conquer new ones and feast on the weaker.::<end>
 
 =>q392
-::Un jour, quand assez $(context.npc xpbl yngwar playerDiction sormirbaren) ont été bénis avec Sa force et sa puissance, quand assez peut bouger et sentir le monde comme les serpents le peuvent, alors Il nous conduira hors de ces eaux pour conquérir de nouvelles et se régaler sur les plus faibles.::<end>
+::Un jour, quand assez de $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) auront été bénis de Sa force et de Sa puissance, quand assez pourront bouger et sentir le monde comme les serpents, alors Il nous mènera hors de ces eaux pour en conquérir d'autres et se régaler des plus faibles.::<end>
 
 =>q393_original
 ::But that is the Way of the Serpent, according to the spiriters.::<end>
 
 =>q393
-::Mais c'est le chemin du Serpent, selon les esprits.::<end>
+::Mais c'est la Voie du Serpent, selon les spiriteurs.::<end>
 
 =>q394_original
 ::You struggle to understand what comes after. He notices that and stops speaking.::<end>
 
 =>q394
-::Vous avez du mal à comprendre ce qui vient après. Il le remarque et cesse de parler.::<end>
+::Vous peinez à comprendre la suite. Il le remarque et se tait.::<end>
 
 =>q395_original
 ::He looks down and begins drawing in the sand::<end>
@@ -2732,19 +2732,19 @@ Pour les flottsørmir ! <end>
 ::, but the runes and various other symbols you are unable to comprehend.::<end>
 
 =>q397
-::, mais les runes et divers autres symboles que vous ne pouvez pas comprendre.::<end>
+::, mais les runes et divers autres symboles, vous n'arrivez pas à les comprendre.::<end>
 
 =>q398_original
 ::Perhaps you need to get more familiar with the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) culture in order to understand what he's trying to communicate.::<end>
 
 =>q398
-::Vous devez peut-être vous familiariser avec la culture $(context.npc xpbl yngwar playerDiction sormirbaren) pour comprendre ce qu'il essaie de communiquer.::<end>
+::Peut-être faut-il mieux connaître la culture $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) pour comprendre ce qu'il essaie de dire.::<end>
 
 =>a399_original
 ::Point at the dead psi crab.::<end>
 
 =>a399
-::Pointez-vous au crabe psi mort.::<end>
+::Pointer le crabe psi mort.::<end>
 
 =>q400_original
 Krästnint?
@@ -2752,75 +2752,75 @@ Krästnint?
 ::He points to the sand and then starts reenacting their fight while you keenly observe and try to understand what happened.::<end>
 
 =>q400
-Krästnint ?
+Krästnint?
 
-::Il pointe vers le sable et commence à réagir pendant que vous observez attentivement et essayez de comprendre ce qui s'est passé.::<end>
+::Il pointe le sable, puis se met à rejouer le combat pendant que vous observez, à essayer de comprendre ce qui s'est passé.::<end>
 
 =>a401_original
 ::[Intelligence] Observe.::<end>
 
 =>a401
-::Observez.::<end>
+::[Intelligence] Observer.::<end>
 
 =>q402_original
 ::He had been sleeping when he heard something. Two bent horns were slowly emerging from the sand, sparks popping in and out of existence between them. Yngwar leaped just in time to dodge the first bolt of electricity, grabbing his spear along the way. He threw it, and the spear passed by the second bolt going in the opposite direction. Both projectiles hit their targets, but only one was lethal.::<end>
 
 =>q402
-::Il dormait quand il a entendu quelque chose. Deux cornes courbées émergeaient lentement du sable, des étincelles éclatant entre elles et sortant de leur existence. Yngwar sauta juste à temps pour éviter le premier boulon d'électricité, s'emparant de sa lance en chemin. Il le jeta, et la lance passa par le second boulon allant dans la direction opposée. Les deux projectiles ont atteint leurs cibles, mais un seul était mortel.::<end>
+::Il dormait quand il a entendu quelque chose. Deux cornes recourbées émergeaient lentement du sable, des étincelles entre elles, qui apparaissaient et disparaissaient. Yngwar a sauté juste à temps pour esquiver le premier éclair, en saisissant sa lance au passage. Il l'a lancée, et la lance a croisé le second éclair, en sens inverse. Les deux projectiles ont touché, mais un seul était mortel.::<end>
 
 =>q403_original
 ::It took him a moment to recover from the hit, after which he pulled out his knife and used it to make sure the crab doesn't rise again.::<end>
 
 =>q403
-::Il lui a fallu un moment pour se remettre du coup, après quoi il a sorti son couteau et l'a utilisé pour s'assurer que le crabe ne ressuscite plus.::<end>
+::Il lui a fallu un moment pour se remettre du coup, puis il a sorti son couteau pour s'assurer que le crabe ne se relève pas.::<end>
 
 =>q404_original
 ::He heard something in the sand. He looked and saw horns, probably. He starts flailing his hands and leaping left and right; you're confused and unsure what he means by all of that. All you know is that he killed it with a spear, "it" being the crab, hopefully.::<end>
 
 =>q404
-::Il a entendu quelque chose dans le sable. Il a regardé et a vu des cornes, probablement. Il commence à défiler les mains et à sauter à gauche et à droite; vous êtes confus et ne savez pas ce qu'il veut dire par tout cela. Tout ce que vous savez c'est qu'il l'a tué avec une lance, "c'est" étant le crabe, espérons-le.::<end>
+::Il a entendu quelque chose dans le sable. Il a regardé, vu des cornes, probablement. Il se met à agiter les mains et à sauter à gauche, à droite ; vous êtes perdu, pas sûr de ce qu'il veut dire. Tout ce que vous savez, c'est qu'il l'a tué d'une lance, « ça » étant le crabe, on l'espère.::<end>
 
 =>q405_original
 ::And then he stabbed it with a knife at the very end.::<end>
 
 =>q405
-::Et puis il l'a poignardé avec un couteau à la fin.::<end>
+::Et à la fin, il l'a poignardé d'un couteau.::<end>
 
 =>a406_original
 ::Draw the pirate base in the sand.::<end>
 
 =>a406
-::Dessinez la base pirate dans le sable.::<end>
+::Dessiner la base pirate dans le sable.::<end>
 
 =>q407_original
 Æterbæren Määskynrætter! ::He follows it up with some cursing while you focus on trying to understand what he means.::<end>
 
 =>q407
-Æterbæren Määäskynrætter! ::Il le suit avec quelques malédictions pendant que vous vous concentrez sur essayer de comprendre ce qu'il veut dire.::<end>
+Æterbæren Määskynrætter! ::Il enchaîne sur des insultes pendant que vous vous concentrez à comprendre ce qu'il veut dire.::<end>
 
 =>a408_original
 ::[Intelligence] Observe and listen.::<end>
 
 =>a408
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q409_original
 ::Your question seems to have evoked strong emotions in him. He frowns and blinks a few times. Then he decapitates all the little jetters with his knife, ::<end>
 
 =>q409
-::Votre question semble avoir suscité de fortes émotions en lui. Il fronce et cligne quelques fois. Puis il décapite tous les petits jetteurs avec son couteau,::<end>
+::Votre question a l'air de lui avoir arraché de fortes émotions. Il fronce les sourcils, cligne quelques fois. Puis il décapite tous les petits jetters de son couteau, ::<end>
 
 =>q410_original
 ::something he feels they deserve in real life too. These "Aterbaren" or "Eterbaren" are to be slain because they are not real warriors - they use machines and aids - yet they prance around His sea as though they were.::<end>
 
 =>q410
-::quelque chose qu'il sent qu'ils méritent dans la vie réelle aussi. Ces "Aterbaren" ou "Eterbaren" doivent être tués parce qu'ils ne sont pas de vrais guerriers - ils utilisent des machines et des aides - mais ils pénétrent autour de Sa mer comme s'ils étaient.::<end>
+::ce qu'il sent qu'ils méritent aussi dans la vraie vie. Ces « Aterbaren » ou « Eterbaren » sont à tuer parce que ce ne sont pas de vrais guerriers - ils se servent de machines et d'aides - et pourtant ils se pavanent dans Sa mer comme s'ils l'étaient.::<end>
 
 =>a411_original
 ::Decapitate one of the stick pirates yourself.:: Why don't you kill them? Kill them.<end>
 
 =>a411
-::Décapitez un des pirates vous-même.:: Pourquoi ne pas les tuer ? Tuez-les.<end>
+::Décapiter un des pirates vous-même.:: Pourquoi tu les tues pas ? Tuer.<end>
 
 =>q412_original
 ::He shuts his eyes so tightly it looks as though he wants to crush them with his eyelids, then shields them with both of his arms.::
@@ -2830,7 +2830,7 @@ Lysbørggamen. Lysbørggamen. Fir nikke se kutt Lysbørggamen.
 ::They cannot kill them because of something which blinds them.::<end>
 
 =>q412
-::Il ferme les yeux si serrés qu'il semble vouloir les écraser avec ses paupières, puis les protège avec ses deux bras.::
+::Il ferme les yeux si fort qu'on dirait qu'il veut les écraser des paupières, puis les protège des deux bras.::
 
 Lysbørggamen. Lysbørggamen. Fir nikke se kutt Lysbørggamen.
 
@@ -2840,85 +2840,85 @@ Lysbørggamen. Lysbørggamen. Fir nikke se kutt Lysbørggamen.
 ::Erase the stick pirates, as if pushing them away.:: Why don't you drive them away? Drive away, other place.<end>
 
 =>a413
-::Effacer les pirates, comme les repousser.:: Pourquoi ne pas les chasser ? Partez ailleurs.<end>
+::Effacer les pirates, comme pour les chasser.:: Pourquoi tu les chasses pas ? Chasser, ailleurs.<end>
 
 =>q414_original
 Dødtrekke!<end>
 
 =>q414
-Dødtrecke !<end>
+Dødtrekke!<end>
 
 =>q415_original
 ::but all you are able to gather is that he doesn't think too highly of them; his exact reasons elude you, however.::<end>
 
 =>q415
-::mais tout ce que vous pouvez rassembler, c'est qu'il ne pense pas trop à eux ; ses raisons exactes vous échappent, cependant.::<end>
+::mais tout ce que vous en tirez, c'est qu'il n'en pense pas grand bien ; les raisons exactes vous échappent.::<end>
 
 =>a416_original
 ::Draw the expedition camp in the sand and point at it.:: What do you know about this?<end>
 
 =>a416
-::Dessinez le camp d'expédition dans le sable et pointez-le.:: Que savez-vous de ça ?<end>
+::Dessiner le camp d'expédition dans le sable et le pointer.:: Qu'est-ce que tu sais de ça ?<end>
 
 =>q417_original
 ::He stares at the drawing::<end>
 
 =>q417
-::Il regarde le dessin::<end>
+::Il fixe le dessin::<end>
 
 =>q418_original
 ::, then points to you. You did draw the camp earlier, so maybe he's thinking you're showing it to him again. ::<end>
 
 =>q418
-::, puis vous indique. Tu as dessiné le camp plus tôt, alors il pense peut-être que tu le lui montres encore.::<end>
+::, puis vous pointe. Vous avez déjà dessiné le camp, alors peut-être qu'il croit que vous le lui montrez encore. ::<end>
 
 =>q419_original
 ::He does point to the lighthouse, muttering a few unintelligible words to himself before turning to take a look at his crab meat.::<end>
 
 =>q419
-::Il pointe vers le phare, murmurant quelques mots inintelligibles à lui-même avant de se tourner vers sa viande de crabe.::<end>
+::Il pointe bien le phare, murmure quelques mots incompréhensibles, puis se tourne vers sa viande de crabe.::<end>
 
 =>a420_original
 ::Point again.::<end>
 
 =>a420
-::Encore.::<end>
+::Pointer encore.::<end>
 
 =>q421_original
 Krökø! Ik höjekk trnenn ot tyrteneg nikkt!<end>
 
 =>q421
-C'est Krökø ! Ik höjekk trnenn ot tyrteneg nikkt!<end>
+Krökø! Ik höjekk trnenn ot tyrteneg nikkt!<end>
 
 =>a422_original
 ::Point yet again.::<end>
 
 =>a422
-::Encore une fois.::<end>
+::Pointer encore une fois.::<end>
 
 =>a423_original
 ::Inquire about something else.::<end>
 
 =>a423
-::Informez-vous sur autre chose.::<end>
+::Demander autre chose.::<end>
 
 =>q424_original
 ::He stares at the drawing for a bit longer but shows no signs of recognizing what it depicts.::<end>
 
 =>q424
-::Il fixe le dessin un peu plus longtemps, mais ne montre aucun signe de reconnaissance de ce qu'il représente.::<end>
+::Il fixe encore le dessin un moment, sans signe qu'il reconnaisse ce que ça représente.::<end>
 
 =>q425_original
 :: but does not appear to recognize anything in it. ::<end>
 
 =>q425
-::mais ne semble reconnaître rien en elle.::<end>
+:: mais ne semble rien y reconnaître. ::<end>
 
 =>a426_original
 ::Draw stick figures with blobs on their bodies in the sand.:: Muties. What do you know about them?<end>
 
 =>a426
-::Dessinez des figures de bâtons avec des taches sur leur corps dans le sable.:: Muties. Que savez-vous d'eux ?<end>
+::Dessiner des bonshommes avec des taches sur le corps.:: Muties. Qu'est-ce que tu sais d'eux ?<end>
 
 =>q427_original
 ::He points at the stick figures and spits on them.::
@@ -2928,17 +2928,17 @@ Sløttebæren hur dränätt bitt!
 ::He then starts drawing and gesturing...::<end>
 
 =>q427
-::Il pointe les figures du bâton et les crache dessus.::
+::Il pointe les bonshommes et crache dessus.::
 
 Sløttebæren hur dränätt bitt!
 
-::Il commence alors à dessiner et à gestuer...::<end>
+::Puis il se met à dessiner et à gesticuler...::<end>
 
 =>a428_original
 ::[Intelligence] Observe and listen.::<end>
 
 =>a428
-::[Intelligence] Observez et écoutez.::<end>
+::[Intelligence] Observer et écouter.::<end>
 
 =>q429_original
 ::The weaklings worship Another, but Another is weak. Instead of giving them strength, like Flotsourmir gave to the Sourmirberen, Another gave them weakness. Instead of giving them wisdom - he made them dumber than crabs. Instead of giving them perception - he made them senseless.::
@@ -2946,7 +2946,7 @@ Sløttebæren hur dränätt bitt!
 Mækkeren...<end>
 
 =>q429
-::Les faibles adorent un autre, mais un autre est faible. Au lieu de leur donner de la force, comme Flotsourmir a donné aux Sourmirberen, un autre leur a donné de la faiblesse. Au lieu de leur donner la sagesse, il les a rendus plus stupides que les crabes. Au lieu de leur donner une perception, il les a rendus insensés.::
+::Les faibles adorent un Autre, mais l'Autre est faible. Au lieu de leur donner de la force, comme Flotsourmir aux Sørmirbæren, l'Autre leur a donné de la faiblesse. Au lieu de la sagesse - il les a rendus plus bêtes que des crabes. Au lieu de la perception - il les a rendus insensés.::
 
 Mækkeren...<end>
 
@@ -2954,31 +2954,31 @@ Mækkeren...<end>
 ::Decapitate one of the stick muties.:: Why don't you kill them? Kill them.<end>
 
 =>a430
-::Décapiter une des muties de bâton.:: Pourquoi ne pas les tuer ? Tuez-les.<end>
+::Décapiter une des muties.:: Pourquoi tu les tues pas ? Tuer.<end>
 
 =>q431_original
 ::The Serpentborn could slay them at any time, but those who relay Flotsurmir's messages say His will is to stay away. They should be left to their great suffering as punishment for their weakness.::<end>
 
 =>q431
-::Le Serpentborn pourrait les tuer à tout moment, mais ceux qui relaient les messages de Flotsurmir disent que Sa volonté est de rester loin. Ils devraient être laissés à leur grande souffrance comme punition pour leur faiblesse.::<end>
+::Les nés-du-serpent pourraient les tuer à tout moment, mais ceux qui relaient les messages de Flotsourmir disent que Sa volonté est de rester loin. Il faut les laisser à leur grande souffrance, punition de leur faiblesse.::<end>
 
 =>a432_original
 ::Erase the stick muties, as if pushing them away.:: Why don't you drive them away? Drive away, other place.<end>
 
 =>a432
-::Effacez les muties, comme si elles les repoussaient.:: Pourquoi ne pas les chasser ? Partez ailleurs.<end>
+::Effacer les muties, comme pour les chasser.:: Pourquoi tu les chasses pas ? Chasser, ailleurs.<end>
 
 =>a433_original
 ::Say nothing.::<end>
 
 =>a433
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q434_original
 ::He glances at his drawing again and returns to his fire.::<end>
 
 =>q434
-::Il regarde de nouveau son dessin et retourne à son feu.::<end>
+::Il jette encore un œil à son dessin et retourne à son feu.::<end>
 
 =>q435_original
 ::All you can make out is that he considers them weak who did something to deserve such a fate. The rest escapes you.::
@@ -2986,7 +2986,7 @@ Mækkeren...<end>
 Mækkeren...<end>
 
 =>q435
-::Tout ce que vous pouvez dire est qu'il les considère faibles qui ont fait quelque chose pour mériter un tel destin. Le reste t'échappe.::
+::Tout ce que vous en tirez, c'est qu'il les tient pour faibles, qui ont fait quelque chose pour mériter ça. Le reste vous échappe.::
 
 Mækkeren...<end>
 
@@ -3000,7 +3000,7 @@ Ferryman.<end>
 ::You can tell he recognizes the name, but he shakes his head still.::<end>
 
 =>q437
-::Vous pouvez dire qu'il reconnaît le nom, mais il secoue toujours la tête.::<end>
+::On voit qu'il reconnaît le nom, mais il secoue quand même la tête.::<end>
 
 =>a438_original
 Sjörsr. Ferryman told me about him.<end>
@@ -3012,7 +3012,7 @@ Sjörsr. Ferryman m'a parlé de lui.<end>
 Sjörsr. Pör grønt ont grött krigsfar bitt. <end>
 
 =>q439
-C'est ce que j'ai dit. Pör grønt ont grött krigsfar bitt. <end>
+Sjörsr. Pör grønt ont grött krigsfar bitt. <end>
 
 =>q440_original
 <end>
@@ -3030,19 +3030,19 @@ Parle-moi de lui.<end>
 ::He begins the narration in his usual way. The event he is about to describe happened years ago, when Yngwar was a young man, teenager most likely.::<end>
 
 =>q442
-::Il commence la narration de sa façon habituelle. L'événement qu'il est sur le point de décrire s'est produit il y a des années, quand Yngwar était un jeune homme, adolescent probablement.::<end>
+::Il commence le récit à sa manière. L'événement qu'il s'apprête à décrire s'est passé il y a des années, quand Yngwar était un jeune homme, un adolescent probablement.::<end>
 
 =>q443_original
 ::And then he falls silent.::<end>
 
 =>q443
-::Et puis il se tait.::<end>
+::Puis il se tait.::<end>
 
 =>a444_original
 Ferryman killed him. ::Gesture a big guy falling down.::<end>
 
 =>a444
-Ferryman l'a tué. ::Gestuez un grand gars qui tombe.::<end>
+Ferryman l'a tué. ::Mimer un grand type qui tombe.::<end>
 
 =>a445_original
 Sjoersr. Ferryman told me about him.<end>
@@ -3054,13 +3054,13 @@ Sjoersr. Ferryman m'a parlé de lui.<end>
 He's this old guy on a boat. Boaten. ::Gesture a sailing boat.::<end>
 
 =>a446
-C'est un vieux sur un bateau. Bateau. ::Gesturez un voilier.::<end>
+C'est un vieux sur un bateau. Boaten. ::Mimer un bateau qui navigue.::<end>
 
 =>a447_original
 Yngwar met Ferryman before? ::Gesture two finger-people shaking each other's hands.::<end>
 
 =>a447
-Yngwar rencontré Ferryman avant? ::Gesturez deux doigts qui se serrent les mains.::<end>
+Yngwar a rencontré Ferryman avant ? ::Mimer deux bonshommes-doigts qui se serrent la main.::<end>
 
 =>q448_original
 HVARGA! Dur jysslæve Ik *beførr* middä Färrymæn!? 
@@ -3068,15 +3068,15 @@ HVARGA! Dur jysslæve Ik *beførr* middä Färrymæn!?
 ::He angrily reaches for his spear.::<end>
 
 =>q448
-Allez ! Dur jysslæve Ik *beførr* middä Färrymæn!?
+HVARGA! Dur jysslæve Ik *beførr* middä Färrymæn!?
 
-::Il s'en prend à sa lance.::<end>
+::Furieux, il va chercher sa lance.::<end>
 
 =>a449_original
 ::[DEBUG] Draw rune::<end>
 
 =>a449
-::Dessiner la rune::<end>
+::[DEBUG] Dessiner la rune.::<end>
 
 =>a450_original
 ::Leave.::<end>
@@ -3088,25 +3088,25 @@ Allez ! Dur jysslæve Ik *beførr* middä Färrymæn!?
 ::Attack!::<end>
 
 =>a451
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a452_original
 ::Attack!::<end>
 
 =>a452
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a453_original
 Forskarr Flotsourmir!<end>
 
 =>a453
-Pour le flotsourmir !<end>
+Forskarr Flotsourmir!<end>
 
 =>a454_original
 Pffffft $(context.npc_xpbl_yngwar_playerDiction_flotsormir)!<end>
 
 =>a454
-Pffffft $(context.npc_xpbl_yngwar_playerDiction_flotsormir) !<end>
+Pffffft $(context.npc_xpbl_yngwar_playerDiction_flotsormir)!<end>
 
 =>q455_original
 HVARGA!?
@@ -3114,7 +3114,7 @@ HVARGA!?
 <end>
 
 =>q455
-Qu'est-ce qu'il y a ?
+HVARGA!?
 
 <end>
 
@@ -3122,7 +3122,7 @@ Qu'est-ce qu'il y a ?
 ::His eyes incandescent with zeal, he proceeds to spit out angry, incomprehensible insults as he leaps to end your life.::<end>
 
 =>q456
-::Ses yeux incandescentes de zèle, il procède à cracher des insultes en colère, incompréhensibles alors qu'il saute pour mettre fin à votre vie.::<end>
+::Les yeux incandescents de zèle, il crache des insultes furieuses, incompréhensibles, et saute pour vous tuer.::<end>
 
 =>a457_original
 ::[Intelligence]:: Flotsourmir! Flotsourmir!<end>
@@ -3134,61 +3134,61 @@ Qu'est-ce qu'il y a ?
 ::Raise your open hands above your head.:: Wait, wait! I mean you no harm!<end>
 
 =>a458
-::Levez vos mains ouvertes au-dessus de votre tête.:: Attendez ! Je veux dire, vous n'avez aucun mal !<end>
+::Lever les mains ouvertes au-dessus de la tête.:: Attends, attends ! Je te veux pas de mal !<end>
 
 =>q459_original
 ::With your empty hands so high up in the air ::<end>
 
 =>q459
-::Avec vos mains vides si haut en l'air::<end>
+::Les mains vides si haut dans l'air ::<end>
 
 =>q460_original
 ::you show yourself as an easy, defenseless target. And the warrior takes full advantage of it: He lunges forward, his spear firmly in his hands and its acute tip aimed straight at your abdomen.::<end>
 
 =>q460
-::vous vous montrez comme une cible facile et sans défense. Et le guerrier en profite pleinement : il s'élance en avant, sa lance fermement dans ses mains et sa pointe aiguë dirigée droit sur votre abdomen.::<end>
+::vous vous offrez comme une cible facile, sans défense. Et le guerrier en profite : il s'élance, lance ferme, la pointe aiguë droit sur votre ventre.::<end>
 
 =>a461_original
 ::Fight!::<end>
 
 =>a461
-::Lutte!::<end>
+::Combattre.::<end>
 
 =>a462_original
 ::[Intimidate] Step forward confidently while maintaining a fierce combat stance.:: Do you want to die, savage?<end>
 
 =>a462
-::[Intimité] Avancez avec confiance tout en maintenant une position de combat féroce.:: Tu veux mourir, sauvage ?<end>
+::[Intimidate] Avancer d'un pas sûr, en gardant une garde féroce.:: Tu veux mourir, sauvage ?<end>
 
 =>q463_original
 ::Your profound voice, loud enough so that even his ancestors can hear it, reverberates throughout the small cave. The man takes a steady, deliberate step back, his face bearing no emotion.::<end>
 
 =>q463
-::Votre voix profonde, assez forte pour que même ses ancêtres puissent l'entendre, résonne dans la petite grotte. L'homme prend un recul constant et délibéré, son visage ne portant aucune émotion.::<end>
+::Votre voix profonde, assez forte pour que même ses ancêtres l'entendent, résonne dans la petite grotte. L'homme recule d'un pas ferme, délibéré, le visage sans émotion.::<end>
 
 =>a464_original
 ::Move forward.:: That's it, fear me! Fear me!<end>
 
 =>a464
-::Avancez.:: C'est ça, craignez-moi ! Craignez-moi !<end>
+::Avancer.:: Voilà, aie peur ! Aie peur !<end>
 
 =>q465_original
 ::He brings the spear closer to himself, holding it with both hands diagonally across his body.::<end>
 
 =>q465
-::Il rapproche la lance de lui-même, la tenant avec les deux mains diagonalement sur son corps.::<end>
+::Il ramène la lance contre lui, des deux mains, en diagonale devant le corps.::<end>
 
 =>a466_original
 ::Stand your ground.::<end>
 
 =>a466
-::Restez à terre.::<end>
+::Tenir sa position.::<end>
 
 =>q467_original
 ::He stares at you.::<end>
 
 =>q467
-::Il te fixe.::<end>
+::Il vous fixe.::<end>
 
 =>a468_original
 ::Stare back.::<end>
@@ -3200,19 +3200,19 @@ Qu'est-ce qu'il y a ?
 ::You can hear only the water dripping down from the ceiling.::<end>
 
 =>q469
-::On n'entend que l'eau qui coule du plafond.::<end>
+::On n'entend que l'eau qui goutte du plafond.::<end>
 
 =>q470_original
 Støt. ::He says firmly.::<end>
 
 =>q470
-C'est Støt. ::Il dit fermement.::<end>
+Støt. ::Dit-il, ferme.::<end>
 
 =>a471_original
 ::Transition into a more relaxed stance but keep your stare steady.::<end>
 
 =>a471
-::Transition vers une position plus détendue mais gardez votre regard stable.::<end>
+::Passer à une garde plus relâchée, mais garder le regard fixe.::<end>
 
 =>q472_original
 ::The man slowly lowers his spear.::<end>
@@ -3224,19 +3224,19 @@ C'est Støt. ::Il dit fermement.::<end>
 ::Stand relaxed and observe his response.::<end>
 
 =>a473
-::Restez détendue et observez sa réponse.::<end>
+::Rester détendu et observer sa réaction.::<end>
 
 =>a474_original
 What's the matter, coward!? Wanna fight? ::Take a step forward.::<end>
 
 =>a474
-Qu'est-ce qu'il y a, lâche ? Tu veux te battre ? ::Faites un pas en avant.::<end>
+Qu'est-ce qu'il y a, lâche !? Tu veux te battre ? ::Faire un pas en avant.::<end>
 
 =>q475_original
 ::As soon as you move he lunges forward with his spear aimed at you, clearly accepting your challenge.::<end>
 
 =>q475
-::Dès que vous vous déplacez, il s'avance avec sa lance qui vous vise, en acceptant clairement votre défi.::<end>
+::Dès que vous bougez, il s'élance, lance vers vous, clairement en train d'accepter le défi.::<end>
 
 =>q476_original
 ::Your unconvincing prancing proves ineffective, even prompting a contemptuous response.::
@@ -3246,137 +3246,137 @@ Mækker!
 ::He then lunges forward, his spear firmly in his hands and its acute tip aimed straight for your abdomen.::<end>
 
 =>q476
-::Votre imprudence s'avère inefficace, provoquant même une réaction méprisante.::
+::Votre cabriole peu convaincante ne marche pas, et lui arrache même une réponse méprisante.::
 
-Mækker !
+Mækker!
 
-::Il s'avance alors, sa lance fermement dans ses mains et son extrémité aiguë dirigée directement vers votre abdomen.::<end>
+::Puis il s'élance, lance ferme, la pointe aiguë droit sur votre ventre.::<end>
 
 =>a477_original
 ::[Melee] Engage in a spear duel.:: <end>
 
 =>a477
-::[Melee] S'engager dans un duel de lance.:: <end>
+::[Melee] Engager un duel à la lance.:: <end>
 
 =>q478_original
 ::[Fend] You lower the tip of your spear to knee-height, keeping the end of the shaft high. He hesitates for a moment, but ultimately takes the bait. He lunges forward to impale you, but you deflect his spear with an upward motion and immediately go for his abdomen. He dodges your strike and tries cutting your face from above, but you sidestep and deflect his spear to the right.::<end>
 
 =>q478
-::[Fend] Vous abaissez la pointe de votre lance à la hauteur du genou, gardant l'extrémité de l'arbre haute. Il hésite un moment, mais finit par prendre l'appât. Il s'avance pour vous empaler, mais vous déviez sa lance avec un mouvement vers le haut et allez immédiatement pour son abdomen. Il évite votre frappe et essaie de vous couper le visage d'en haut, mais vous vous écartez et déviez sa lance vers la droite.::<end>
+::[Fend] Vous baissez la pointe de votre lance à hauteur de genou, le fût haut. Il hésite un moment, puis mord à l'hameçon. Il s'élance pour vous empaler, mais vous déviez sa lance d'un mouvement vers le haut et visez tout de suite le ventre. Il esquive et tente de vous couper le visage par-dessus, mais vous vous écartez et déviez sa lance vers la droite.::<end>
 
 =>q479_original
 ::This bloodless exchange lasts for several minutes, and it becomes evident that you are equally matched. You feel like your heart is about to give up, that your lungs are going to burst, but judging by your opponent's appearance, he is in no better condition.::<end>
 
 =>q479
-::Cet échange sans sang dure plusieurs minutes, et il devient évident que vous êtes égal. Vous sentez que votre cœur est sur le point d'abandonner, que vos poumons vont exploser, mais à en juger par l'apparence de votre adversaire, il n'est pas en meilleure condition.::<end>
+::Cet échange sans sang dure plusieurs minutes, et il devient évident que vous êtes à égalité. Vous sentez le cœur sur le point de lâcher, les poumons prêts à éclater, mais à voir l'adversaire, il n'est pas en meilleur état.::<end>
 
 =>q480_original
 ::You sidestep to the right and lunge aggressively, attempting to impale him from that side. He catches your spear with an upward swing and deflects it further to the right, leaving you open. You dodge the attack by a hair and seize the opportunity to grasp his spear and pull it further through; he follows your pull only to kick you in the stomach. Falling backwards, you release his spear but manage to slap the top of his head with your own weapon, striking with the part of the shaft just below the tip.::<end>
 
 =>q480
-::Tu t'éloignes de la droite et tu t'empares de lui de ce côté-là. Il attrape votre lance avec une balançoire vers le haut et la dévie vers la droite, vous laissant ouvert. Vous évitez l'attaque par un cheveu et vous saisissez l'occasion de saisir sa lance et de la tirer plus loin; il suit votre tir seulement pour vous donner un coup de pied dans l'estomac. En tombant à l'envers, vous relâchez sa lance mais réussissez à gifler le haut de sa tête avec votre propre arme, frappant avec la partie de l'arbre juste en dessous de la pointe.::<end>
+::Vous vous écartez à droite et vous élancez, pour l'empaler de ce côté. Il rattrape votre lance d'un mouvement vers le haut et la dévie encore à droite, vous laissant ouvert. Vous esquivez l'attaque d'un cheveu et en profitez pour saisir sa lance et la tirer plus loin ; il suit la traction pour vous donner un coup de pied dans le ventre. En tombant en arrière, vous lâchez sa lance mais réussissez à lui claquer le haut du crâne de votre arme, avec le fût juste sous la pointe.::<end>
 
 =>q481_original
 ::You cross your spear with his, but he instantly deflects it to the right and lunges forward. A quick sidestep is all that saves you from impalement, but you're off-balance and your guard is down. He follows with another attack...::<end>
 
 =>q481
-::Tu croises ta lance avec la sienne, mais il la dévie instantanément vers la droite et s'avance. Une étape rapide est tout ce qui vous sauve de l'empalement, mais vous êtes hors équilibre et votre garde est baissée. Il suit avec une autre attaque...::<end>
+::Vous croisez votre lance avec la sienne, mais il la dévie tout de suite à droite et s'élance. Un pas de côté rapide, c'est tout ce qui vous sauve de l'empalement, mais vous êtes déséquilibré, la garde baissée. Il enchaîne...::<end>
 
 =>a482_original
 ::Offer him some food.:: I have some food here. *Food*. Tasty, mmmm...<end>
 
 =>a482
-::Offre-lui à manger.:: J'ai à manger ici. * Nourriture *. Dégusté, mmmm...<end>
+::Lui offrir à manger.:: J'ai de la nourriture ici. *Nourriture*. Bon, mmmm...<end>
 
 =>q483_original
 ::By approaching him with food in your hand ::<end>
 
 =>q483
-::En s'approchant de lui avec de la nourriture dans ta main::<end>
+::En vous approchant, de la nourriture à la main ::<end>
 
 =>a484_original
 ::Turn around and attempt to flee.::<end>
 
 =>a484
-::Tournez-vous et essayez de fuir.::<end>
+::Se retourner et tenter de fuir.::<end>
 
 =>q485_original
 ::You turn to run, but you feel the man's presence frighteningly close even before you've made that very first retreating step. Panic overwhelms you without delay or a shred of mercy, because you now realize how grave the mistake that you've just made is, exposing your back so foolishly. As adrenaline rushes through your veins, your body seizes control and spins you around to face the pursuer: You've stopped, but your heart is still racing, and the only thing your eyes are able to focus on is the acute tip of a spear being directed straight at your abdomen.::<end>
 
 =>q485
-::Tu te retournes pour fuir, mais tu sens la présence de l'homme très proche, même avant d'avoir fait ce premier pas en retraite. La panique vous envahit sans délai ou un peu de miséricorde, car vous vous rendez compte à quel point l'erreur que vous venez de faire est grave, exposant votre dos si insensé. Comme l'adrénaline se précipite dans vos veines, votre corps prend le contrôle et vous tourne autour pour affronter le poursuivant: Vous avez arrêté, mais votre cœur est toujours en course, et la seule chose sur laquelle vos yeux peuvent se concentrer est la pointe aiguë d'une lance dirigée directement sur votre abdomen.::<end>
+::Vous vous tournez pour fuir, mais vous sentez la présence de l'homme, effroyablement proche, avant même d'avoir fait le premier pas en arrière. La panique vous submerge, sans délai ni pitié, parce que vous mesurez maintenant la gravité de l'erreur, le dos offert comme un idiot. L'adrénaline monte, le corps reprend le contrôle et vous fait pivoter face au poursuivant : vous vous êtes arrêté, le cœur encore lancé, et la seule chose que vos yeux arrivent à fixer, c'est la pointe aiguë d'une lance, droit sur votre ventre.::<end>
 
 =>a486_original
 ::Address him in a calming voice.:: It's okay, I do not want to harm you.<end>
 
 =>a486
-::Adressez-lui d'une voix calme.:: Je ne veux pas te faire de mal.<end>
+::Lui parler d'une voix calme.:: C'est bon, je te veux pas de mal.<end>
 
 =>a487_original
 ::Remain still and wait to see what happens.::<end>
 
 =>a487
-::Restez immobile et attendez de voir ce qui se passe.::<end>
+::Rester immobile et attendre.::<end>
 
 =>q488_original
 ::He reacts to your stillness with swift movement: ::<end>
 
 =>q488
-::Il réagit à votre calme avec un mouvement rapide:::<end>
+::Il réagit à votre immobilité par un mouvement vif : ::<end>
 
 =>a489_original
 ::Assume a fighting stance as well.::<end>
 
 =>a489
-::Supposons aussi une position de combat.::<end>
+::Prendre aussi une garde.::<end>
 
 =>q490_original
 ::His stance solidifies, his stare sharpens and slices through the air between the two of you. ::<end>
 
 =>q490
-::Sa position se solidifie, son regard aiguise et tranche dans l'air entre vous deux.::<end>
+::Sa garde se fige, son regard s'aiguise et coupe l'air entre vous deux. ::<end>
 
 =>a491_original
 ::Slowly move back while maintaining eye contact.::<end>
 
 =>a491
-::Reculer lentement tout en maintenant le contact visuel.::<end>
+::Reculer lentement sans quitter des yeux.::<end>
 
 =>q492_original
 ::You notice a confident change in his stance, and then he makes his next move: ::<end>
 
 =>q492
-::Vous remarquez un changement confiant dans sa position, et puis il fait son prochain geste:::<end>
+::Vous remarquez un changement sûr dans sa garde, puis il fait son prochain geste : ::<end>
 
 =>q493_original
 Det <end>
 
 =>q493
-Dét <end>
+Det <end>
 
 =>q494_original
 rætterheund <end>
 
 =>q494
-ætterheund <end>
+rætterheund <end>
 
 =>q495_original
 hudder! Dur sørrønten er! <end>
 
 =>q495
-C'est pas vrai ! C'est dur. <end>
+hudder! Dur sørrønten er! <end>
 
 =>q496_original
 ::He lunges at you with his spear.::<end>
 
 =>q496
-::Il te frappe avec sa lance.::<end>
+::Il s'élance sur vous, lance en avant.::<end>
 
 =>q497_original
 grønt rætter<end>
 
 =>q497
-Les<end>
+grønt rætter<end>
 
 =>q498_original
 $(context.player.Name). Dur willfærren hör nikkt. <end>
@@ -3388,7 +3388,7 @@ $(context.player.Name). Dur willfærren hör nikkt. <end>
 ::He spits on the ground.::<end>
 
 =>q499
-::Il crache sur le sol.::<end>
+::Il crache par terre.::<end>
 
 =>q500_original
 <end>
@@ -3430,7 +3430,7 @@ Peu importe. Je m'en vais.<end>
 I got something to say to your *Flatus*urmir! ::Make a farting sound.::<end>
 
 =>a506
-J'ai quelque chose à dire à ton père. ::Fais un bruit de pet.::<end>
+J'ai un truc à dire à ton *Flatus*urmir ! ::Faire un bruit de pet.::<end>
 
 =>q507_original
 DØDTEN!
@@ -3438,7 +3438,7 @@ DØDTEN!
 <end>
 
 =>q507
-DØDTEN !
+DØDTEN!
 
 <end>
 
@@ -3446,7 +3446,7 @@ DØDTEN !
 ::He points to the exit.::<end>
 
 =>q508
-::Il pointe vers la sortie.::<end>
+::Il pointe la sortie.::<end>
 
 =>q509_original
 <end>
@@ -3464,13 +3464,13 @@ Je t'offrirais à manger si j'en avais...<end>
 ::He simply stares at you.::<end>
 
 =>q511
-::Il vous regarde simplement.::<end>
+::Il vous fixe simplement.::<end>
 
 =>a512_original
 ::Offer him some food.:: I have some food here. *Food*. Here. Tasty, mmmm...<end>
 
 =>a512
-::Offre-lui à manger.:: J'ai à manger ici. * Nourriture *. Ici. Dégusté, mmmm...<end>
+::Lui offrir à manger.:: J'ai de la nourriture ici. *Nourriture*. Tiens. Bon, mmmm...<end>
 
 =>q513_original
 <end>
@@ -3488,7 +3488,7 @@ Je t'offrirais à manger si j'en avais...<end>
 ::He repeats: ::<end>
 
 =>q515
-::Il répète:::<end>
+::Il répète : ::<end>
 
 =>q516_original
 Ik völ det <end>
@@ -3500,19 +3500,19 @@ Ik völ det <end>
 rætterheund <end>
 
 =>q517
-ætterheund <end>
+rætterheund <end>
 
 =>q518_original
 hudder Dur klæppennen middä. <end>
 
 =>q518
-C'est la première fois qu'il y a un problème. <end>
+hudder Dur klæppennen middä. <end>
 
 =>q519_original
 ::He points to your rathound regalia.:: Et.<end>
 
 =>q519
-::Il pointe vers votre régalia rathound.:: Et.<end>
+::Il pointe votre régalia rathound.:: Et.<end>
 
 =>q520_original
 <end>
@@ -3524,49 +3524,49 @@ C'est la première fois qu'il y a un problème. <end>
 You want my regalia? Here. ::Give him the rathound regalia.::<end>
 
 =>a521
-Tu veux ma régalia ? Ici. ::Donnez-lui la régalia rathound.::<end>
+Tu veux ma régalia ? Tiens. ::Lui donner la régalia rathound.::<end>
 
 =>q522_original
 ::He takes the regalia and feels its texture with his oversized hand. He seems pleased, not so much by the texture, as rathound hair is rather coarse, but rather by its appearance as well as other, practical benefits. Then he tries it on: It's a bit of a tight fit in addition to his scales being incompatible with this type of garnment, but that does not appear to diminish his satisfaction one bit.::<end>
 
 =>q522
-::Il prend la regalia et sent sa texture avec sa main surdimensionnée. Il semble heureux, pas tant par la texture, que les cheveux rathound est plutôt grossier, mais plutôt par son apparence ainsi que d'autres avantages pratiques. Puis il l'essaie sur: C'est un peu un ajustement serré en plus de ses balances étant incompatible avec ce type de garnment, mais cela ne semble pas diminuer sa satisfaction un peu.::<end>
+::Il prend la régalia et en sent la texture de sa grande main. Il a l'air content, pas tant par la texture - le poil de rathound est plutôt rêche - que par l'apparence, et d'autres avantages pratiques. Puis il l'essaie : ça serre un peu, et ses écailles s'accordent mal à ce genre de vêtement, mais ça ne diminue en rien sa satisfaction.::<end>
 
 =>q523_original
 ::He takes it off and points for you to sit with him by the fire.:: Hör. Dääs jarve. <end>
 
 =>q523
-::Il l'enlève et vous indique de vous asseoir avec lui près du feu.:: Hör. Dääs jarve. <end>
+::Il l'enlève et vous fait signe de vous asseoir près du feu avec lui.:: Hör. Dääs jarve. <end>
 
 =>a524_original
 What?<end>
 
 =>a524
-Quoi?<end>
+Quoi ?<end>
 
 =>a525_original
 No. I'm not giving you my regalia.<end>
 
 =>a525
-C'est pas vrai. Je ne te donnerai pas mon regalia.<end>
+Non. Je te donne pas ma régalia.<end>
 
 =>a526_original
 ::Shake your head.::<end>
 
 =>a526
-::Secouez la tête.::<end>
+::Secouer la tête.::<end>
 
 =>q527_original
 ::He points to your clothing, then to his imaginary clothing. Perhaps he means clothing in general.::<end>
 
 =>q527
-::Il indique vos vêtements, puis ses vêtements imaginaires. Peut-être qu'il veut dire vêtements en général.::<end>
+::Il pointe vos vêtements, puis les siens, imaginaires. Peut-être qu'il veut dire les vêtements en général.::<end>
 
 =>q528_original
 grønt rætter<end>
 
 =>q528
-Les<end>
+grønt rætter<end>
 
 =>q529_original
 <end>
@@ -3578,79 +3578,79 @@ Les<end>
 ::He glances at the food but remains silent.::<end>
 
 =>q530
-::Il regarde la nourriture mais reste silencieux.::<end>
+::Il jette un œil à la nourriture mais reste silencieux.::<end>
 
 =>a531_original
 ::Let him inspect the food and see if he likes anything.::<end>
 
 =>a531
-::Laisse-le inspecter la nourriture et voir s'il aime quelque chose.::<end>
+::Le laisser inspecter la nourriture et voir s'il aime quelque chose.::<end>
 
 =>q532_original
 ::He approaches and uses his nose to guide him. ::<end>
 
 =>q532
-::Il s'approche et utilise son nez pour le guider.::<end>
+::Il s'approche et se guide au nez. ::<end>
 
 =>q533_original
 ::After a few moments he points out the food that satisfies his olfactory evaluation.::<end>
 
 =>q533
-::Après quelques instants, il souligne la nourriture qui satisfait son évaluation olfactive.::<end>
+::Après un moment, il désigne la nourriture qui passe son évaluation olfactive.::<end>
 
 =>a534_original
 ::Give him a crab sandwich.::<end>
 
 =>a534
-::Donne-lui un sandwich au crabe.::<end>
+::Lui donner un sandwich au crabe.::<end>
 
 =>q535_original
 ::He takes the food and places it in a sack, nodding once afterwards after a short pause. He sits by the fire, staring in your direction...::<end>
 
 =>q535
-::Il prend la nourriture et la place dans un sac, en honçant une fois après après une courte pause. Il est assis près du feu, regardant dans votre direction...::<end>
+::Il prend la nourriture, la met dans un sac, hoche la tête une fois après une courte pause. Il s'assoit près du feu, le regard vers vous...::<end>
 
 =>a536_original
 ::Give him a cave hopper steak.::<end>
 
 =>a536
-::Donne-lui un steak de trémie.::<end>
+::Lui donner un steak de cave hopper.::<end>
 
 =>a537_original
 ::Give him an eel sandwich.::<end>
 
 =>a537
-::Donnez-lui un sandwich à l'anguille.::<end>
+::Lui donner un sandwich à l'anguille.::<end>
 
 =>a538_original
 ::Give him a pentapus barbecue.::<end>
 
 =>a538
-::Donne-lui un barbecue au pentapus.::<end>
+::Lui donner un barbecue de pentapus.::<end>
 
 =>a539_original
 ::Give him a stuffed bat.::<end>
 
 =>a539
-::Donne-lui une batte farcie.::<end>
+::Lui donner une chauve-souris farcie.::<end>
 
 =>a540_original
 ::Give him a fried siphoner tongue.::<end>
 
 =>a540
-::Donne-lui une langue siphoniste frite.::<end>
+::Lui donner une langue de siphoner frite.::<end>
 
 =>a541_original
 ::Give him a sea serpent fillet.::<end>
 
 =>a541
-::Donnez-lui un filet de serpent de mer.::<end>
+::Lui donner un filet de serpent de mer.::<end>
 
 =>a542_original
 ::Give him a bacon and cheese sandwich.::<end>
 
 =>a542
-::Donnez-lui un sandwich au bacon et au fromage.::<end>
+::Lui donner un sandwich bacon-fromage.::<end>
 
 =>a543_original
 Actually, no food for you.<end>
@@ -3662,7 +3662,7 @@ En fait, pas de nourriture pour toi.<end>
 ::He frowns.:: Hvarga!? ::And then lunges at you with his spear.::<end>
 
 =>q544
-::Il fronce.:: Hvarga!? ::Et puis il te lance la lance.::<end>
+::Il fronce les sourcils.:: Hvarga!? ::Puis s'élance sur vous, lance en avant.::<end>
 
 =>a545_original
 I changed my mind...<end>
@@ -3674,43 +3674,43 @@ J'ai changé d'avis...<end>
 ::However, none of your offerings seem to satisfy his olfactory evaluation.::<end>
 
 =>q546
-::Cependant, aucune de vos offrandes ne semble satisfaire son évaluation olfactive.::<end>
+::Aucune de vos offrandes ne semble passer son évaluation olfactive.::<end>
 
 =>a547_original
 You're awfully picky for a savage...<end>
 
 =>a547
-Tu es très difficile pour un sauvage...<end>
+T'es sacrément difficile pour un sauvage...<end>
 
 =>a548_original
 Dumbass savage!<end>
 
 =>a548
-Dumbass sauvage !<end>
+Espèce d'abruti de sauvage !<end>
 
 =>a549_original
 ::Offer him some food.:: Food?<end>
 
 =>a549
-::Offre-lui à manger.:: Aliments?<end>
+::Lui offrir à manger.:: Nourriture ?<end>
 
 =>a550_original
 ::Offer him some money.:: You know what this is? Money. Everyone loves money.<end>
 
 =>a550
-::Offre-lui de l'argent.:: Tu sais ce que c'est ? L'argent. Tout le monde aime l'argent.<end>
+::Lui offrir de l'argent.:: Tu sais ce que c'est ? Argent. Tout le monde aime l'argent.<end>
 
 =>q551_original
 ::He doesn't appear interested.::<end>
 
 =>q551
-::Il ne semble pas intéressé.::<end>
+::Il n'a pas l'air intéressé.::<end>
 
 =>q552_original
 Forskarr Flottsørmir, $(context.player.Name).<end>
 
 =>q552
-Pour les flottsørmir, $(context.player.Name).<end>
+Forskarr Flottsørmir, $(context.player.Name).<end>
 
 =>q553_original
 <end>
@@ -3722,7 +3722,7 @@ Pour les flottsørmir, $(context.player.Name).<end>
 Hey, Yngwar.<end>
 
 =>a554
-Bonjour, Yngwar.<end>
+Hé, Yngwar.<end>
 
 =>q555_original
 ::He yells it even louder.::
@@ -3732,13 +3732,13 @@ Forskarr Flottsørmir!<end>
 =>q555
 ::Il le crie encore plus fort.::
 
-Pour les flottsørmir !<end>
+Forskarr Flottsørmir!<end>
 
 =>a556_original
 I said: Hey, Yngwar.<end>
 
 =>a556
-J'ai dit: Salut, Yngwar.<end>
+J'ai dit : Hé, Yngwar.<end>
 
 =>q557_original
 ::He falls silent.::<end>
@@ -3750,7 +3750,7 @@ J'ai dit: Salut, Yngwar.<end>
 Forskarr $(context.npc_xpbl_yngwar_playerDiction_flotsormir)! <end>
 
 =>a558
-Pourskarr $(context.npc_xpbl_yngwar_playerDiction_flotsormir)! <end>
+Forskarr $(context.npc_xpbl_yngwar_playerDiction_flotsormir)! <end>
 
 =>q559_original
 ::He shows no emotion.::<end>
@@ -3762,7 +3762,7 @@ Pourskarr $(context.npc_xpbl_yngwar_playerDiction_flotsormir)! <end>
 Forskarr $(context.player.Name)!<end>
 
 =>a560
-Pourskarr $(context.player.Name)!<end>
+Forskarr $(context.player.Name)!<end>
 
 =>a561_original
 That's enough, Yngwar.<end>
@@ -3781,4 +3781,3 @@ Dur. $(context.player.Name).<end>
 
 =>q563
 Dur. $(context.player.Name).<end>
-

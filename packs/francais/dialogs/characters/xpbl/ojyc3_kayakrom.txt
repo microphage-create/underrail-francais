@@ -4,27 +4,27 @@
 There's no way we're going back in there again. The place was a bloody nightmare, I'm telling you. ::Both of them turn towards you, and for a moment, the rigmaster seems surprised to see you.:: <end>
 
 =>q1
-::En montant les escaliers, votre présence interrompt brièvement une conversation en cours. Cependant, quand vous approchez, ils continuent là où ils ont quitté.::
+::En montant les escaliers, votre présence coupe un instant la conversation. Mais vous approchez, et ils reprennent où ils s'étaient arrêtés.::
 
-On n'y retournera pas. C'était un putain de cauchemar. ::Tous les deux se tournent vers vous, et pour un moment, le maître de gréement semble surpris de vous voir.:: <end>
+On n'y remettra pas les pieds. Je te jure, c'était un putain de cauchemar. ::Tous les deux se tournent vers vous. Un instant, le rigmaster a l'air surpris de vous voir.:: <end>
 
 =>q2_original
 This is the $(#guy/girl) I've told you about. Glad to see Ion has brought you here. How's it been? ::It would seem that the return to her home has restored her completely. She seems genuinely happy to see you, as she has a huge grin on her face.::<end>
 
 =>q2
-C'est le $(#guy/girl) dont je vous ai parlé. Content de voir que Ion vous a amené ici. Comment ça va ? ::Il semblerait que le retour chez elle l'ait complètement restaurée. Elle semble vraiment heureuse de te voir, car elle a un énorme sourire sur le visage.::<end>
+C'est $(#le gars/la fille) dont je t'ai parlé. Contente de voir qu'Ion t'a amené$(#/e) jusqu'ici. Alors, ça va ? ::Le retour chez elle l'a visiblement complètement remise. Elle a l'air sincèrement heureuse de vous voir, un énorme sourire collé au visage.::<end>
 
 =>a3_original
 I've accepted Ion's invitation up here. He said you wanted to see me.<end>
 
 =>a3
-J'ai accepté l'invitation de Ion ici. Il a dit que tu voulais me voir.<end>
+J'ai accepté l'invitation d'Ion. Il a dit que tu voulais me voir.<end>
 
 =>q4_original
 That's correct. I... hmm.. ::She thinks for a moment.:: Oh, how rude of me, I've just remembered. You never told me your name.<end>
 
 =>q4
-C'est exact. Je... euh... ::Elle réfléchit un moment.:: Comme je suis impoli, je viens de me souvenir. Tu ne m'as jamais dit ton nom.<end>
+C'est ça. Je... hmm... ::Elle réfléchit un instant.:: Oh, quelle impolie. Je viens de me souvenir. Tu m'as jamais dit ton nom.<end>
 
 =>q5_original
 <end>
@@ -36,7 +36,7 @@ C'est exact. Je... euh... ::Elle réfléchit un moment.:: Comme je suis impoli, 
 I'm $(context.player.Name) from South Gate Station.<end>
 
 =>a6
-Je suis $(context.player.Name) de South Gate Station.<end>
+Je suis $(context.player.Name), de South Gate Station.<end>
 
 =>q7_original
 ::She points at her brother.:: And this is Krom, my twin brother. Finally the two of you meet. 
@@ -44,21 +44,21 @@ Je suis $(context.player.Name) de South Gate Station.<end>
 It would only be fair to let you know about, you know, how things turned up.<end>
 
 =>q7
-::Elle pointe vers son frère.:: Et voici Krom, mon frère jumeau. Enfin, vous vous retrouvez tous les deux.
+::Elle désigne son frère.:: Et voici Krom, mon frère jumeau. Enfin, vous vous croisez.
 
-Ce serait juste de vous dire comment les choses ont tourné.<end>
+Ce serait que justice de te dire... tu sais, comment ça a tourné.<end>
 
 =>q8_original
 In our eyes, The Rig was *the* golden opportunity. One we could not miss. And for the most part, that was true. But nothin' comes for free in these caves. And the cost we've had to pay, almost sunk us all to the bottom. ::He crosses his hands.:: And now, the place's all ours.<end>
 
 =>q8
-À nos yeux, The Rig était l'occasion d'or. Un que nous ne pouvions pas manquer. Et pour la plupart, c'était vrai. Mais rien ne vient gratuitement dans ces grottes. Et le coût que nous avons dû payer, nous a presque tous coulés au fond. ::Il croise ses mains.:: Et maintenant, l'endroit est à nous.<end>
+À nos yeux, The Rig, c'était *LA* occasion en or. On pouvait pas la rater. Et pour l'essentiel, c'était vrai. Mais dans ces grottes, rien n'est gratuit. Le prix qu'on a payé, ça a failli tous nous envoyer par le fond. ::Il croise les bras.:: Et maintenant, l'endroit est à nous.<end>
 
 =>q9_original
 This all misunderstandin' - big swing and a miss. Some of our best crewmen are down for good. That's a great shame. But with the family restored, think of it all as just a big collateral. Men drown for much, much less. It's just the way around 'ere.<end>
 
 =>q9
-C'est une erreur de comprendre. Certains de nos meilleurs hommes d'équipage sont pour de bon. C'est une grande honte. Mais avec la famille restaurée, pensez à tout cela comme un gros collatéral. Les hommes se noient pour beaucoup, beaucoup moins. C'est juste le chemin de l'ère.<end>
+Toute cette histoire, ce malentendu - un grand coup dans le vide. Des meilleurs de l'équipage, y en a qui sont cuits pour de bon. Grande honte. Mais la famille est recollée. Prenez tout ça pour de gros dégâts collatéraux. Les hommes se noient pour bien, bien moins. C'est comme ça, par ici.<end>
 
 =>q10_original
 <end>
@@ -70,13 +70,13 @@ C'est une erreur de comprendre. Certains de nos meilleurs hommes d'équipage son
 Have you made some changes?<end>
 
 =>a11
-Avez-vous fait quelques changements ?<end>
+Vous avez changé des choses ?<end>
 
 =>q12_original
 We'll have to keep it clean goin' forward. Everyone's out there to get us. ::He glances over at the windows.:: With Kaya by my side now, we're not backin' down. <end>
 
 =>q12
-Il faudra que ça continue. Tout le monde est là pour nous avoir. ::Il regarde les fenêtres.:: Avec Kaya à mes côtés, on ne recule pas. <end>
+Faudra rester nets, à partir de maintenant. Tout le monde en a après nous. ::Il jette un œil aux fenêtres.:: Avec Kaya à mes côtés, on recule plus. <end>
 
 =>a13_original
 What about the Protectorate? <end>
@@ -88,85 +88,85 @@ Et le Protectorate ? <end>
 They know little of the new situation here. We are still decidin' what to do about 'em. Considerin' everythin', it's in our best interest to maintain our rep with the bastards. We can't afford any more trouble... for now. Soon... there'll be a time and place... just for that.<end>
 
 =>q14
-Ils connaissent peu la nouvelle situation ici. C'est dans notre intérêt de rester avec les bâtards. On ne peut plus se payer d'ennuis... pour l'instant. Bientôt... il y aura un moment et un endroit... juste pour ça.<end>
+Ils savent pas grand-chose de la nouvelle donne, ici. On est encore en train de voir ce qu'on fait d'eux. Tout bien pesé, on a intérêt à garder notre réput' avec ces bâtards. On peut plus se payer d'ennuis... pour l'instant. Bientôt... y aura un moment, un endroit... rien que pour ça.<end>
 
 =>a15_original
 Can you tell me more about Ion?<end>
 
 =>a15
-Pouvez-vous m'en dire plus sur Ion ?<end>
+Vous pouvez m'en dire plus sur Ion ?<end>
 
 =>q16_original
 Ion is someone I've put a lot of trust into. His wayward ways make wonders come true. Let's just say, he's best at recruitin' people to do the dirty work done - fast and clean. ::He laughs.::<end>
 
 =>q16
-Ion est quelqu'un à qui j'ai fait confiance. Ses façons de faire font des merveilles se réaliser. Disons qu'il est le meilleur pour recruter des gens pour faire le sale travail fait - rapide et propre. ::Il rit.::<end>
+Ion, c'est quelqu'un en qui j'ai vraiment confiance. Ses méthodes tordues, ça fait des miracles. Disons qu'il est le meilleur pour recruter des gens qui font le sale boulot - vite et propre. ::Il rit.::<end>
 
 =>a17_original
 Are you concerned with the pirate raids?<end>
 
 =>a17
-Êtes-vous concerné par les raids pirates ?<end>
+Les raids pirates, ça vous inquiète ?<end>
 
 =>q18_original
 Jetters have caused so much disturbance to what we have tried to establish 'ere. The Protectorate's finest now sleep with the fishes. They've had to have some insiders in there. Still hard to believe it all, you know? <end>
 
 =>q18
-Jetters ont causé tant de perturbations à ce que nous avons essayé d'établir 'ere. Le Protectorate est le meilleur dort maintenant avec les poissons. Ils ont dû avoir des initiés. Difficile de tout croire. <end>
+Les Jetters ont foutu un de ces bordels dans tout ce qu'on a essayé de bâtir ici. Les meilleurs du Protectorate dorment avec les poissons, maintenant. Ils avaient forcément des taupes, là-dedans. Toujours dur à croire, vous voyez ? <end>
 
 =>q19_original
 Their efforts are staggerin' for sure, but they don't stand a chance against us. <end>
 
 =>q19
-Leurs efforts sont stupéfiants, mais ils n'ont aucune chance contre nous. <end>
+Leurs efforts, c'est impressionnant, ça oui. Mais contre nous, ils ont aucune chance. <end>
 
 =>a20_original
 How naive of you to let me in here. I'll sink the Rig! ::Attack!::<end>
 
 =>a20
-C'est naïf de ma part de me laisser entrer ici. Je vais couler le Rig ! ::Attaque!::<end>
+C'est naïf de m'avoir laissé$(#/e) entrer. Je coule The Rig ! ::Attaquer.::<end>
 
 =>a21_original
 Glad to hear all of that. Is there anything else?<end>
 
 =>a21
-Content d'entendre tout ça. Autre chose ?<end>
+Content$(#/e) d'entendre ça. Autre chose ?<end>
 
 =>q22_original
 That would be all for now. At this point, The Rig will have to wait for any new... gang members. Ion's waiting for you outside. I've left a little something for your efforts. It should suffice for all the trouble. ::She winks.:: <end>
 
 =>q22
-Ce serait tout pour l'instant. À ce stade, le Rig devra attendre tous les nouveaux... membres du gang. Ion vous attend dehors. J'ai laissé quelque chose pour vos efforts. Cela devrait suffire à tous les problèmes. ::Elle cligne.:: <end>
+Ce sera tout, pour l'instant. À ce stade, The Rig devra attendre, pour les nouveaux... membres. Ion t'attend dehors. J'ai laissé un petit quelque chose pour tes efforts. Ça devrait couvrir tous les ennuis. ::Elle fait un clin d'œil.:: <end>
 
 =>q23_original
 Restorin' the family has a price none could ever repay easily. You have my respect... ::He bows slightly.:: Good luck, huntin' and scrappin'.<end>
 
 =>q23
-Restaurer la famille a un prix qu'aucun ne pourrait rembourser facilement. Vous avez mon respect... ::Il s'incline légèrement.:: Bonne chance, chasse et casse.<end>
+Remettre la famille d'aplomb, ça a un prix que personne rembourse facilement. Vous avez mon respect... ::Il s'incline légèrement.:: Bonne chasse. Et bonne casse.<end>
 
 =>a24_original
 Good luck to you too. ::Leave.::<end>
 
 =>a24
-Bonne chance aussi. ::Partir.::<end>
+Bonne chance à vous aussi. ::Partir.::<end>
 
 =>a25_original
 ::Wave and leave.::<end>
 
 =>a25
-::Va et pars.::<end>
+::Saluer et partir.::<end>
 
 =>a26_original
 ::Nod and leave.::<end>
 
 =>a26
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a27_original
 I'm $(context.player.Name), the lone scavenger.<end>
 
 =>a27
-Je suis $(context.player.Name), le seul trésorier.<end>
+Je suis $(context.player.Name), $(#le récupérateur/la récupératrice) solitaire.<end>
 
 =>a28_original
 I'm $(context.player.Name).<end>
@@ -178,61 +178,61 @@ Je suis $(context.player.Name).<end>
 I don't feel like revealing my name, sorry.<end>
 
 =>a29
-Je n'ai pas envie de révéler mon nom, désolé.<end>
+J'ai pas envie de donner mon nom, désol$(#é/ée).<end>
 
 =>q30_original
 ::The rigmaster raises his hand. The hand gesture suggests cease of conversation. Your passive answer doesn't yield a favourable expression on his face, as his large eyebrows frown with displeasure.:: She wishes to introduce us. ::He quickly glances over to her, and then back to you.:: No matter, I can do it myself. I'm Kromilus, and you can call me Krom.:: He reaches out for a handshake. In doing so, he reveals his arms which is covered in faint tattoos all the way to his wrist. You cannot make much of those as they seem to be almost entirely faded out. However it would seem that their purpose was to cover various injuries he had sustained earlier in his life.::<end>
 
 =>q30
-::Le conducteur lève la main. Le geste de la main suggère la fin de la conversation. Votre réponse passive ne donne pas une expression favorable sur son visage, car ses grands sourcils froncent avec déplaisir.:: Elle veut nous présenter. ::Il lui jette rapidement un coup d'œil, puis il vous revient.:: Peu importe, je peux le faire moi-même. Je suis Kromilus, et vous pouvez m'appeler Krom.::Il cherche une poignée de main. Ce faisant, il révèle ses bras couverts de tatouages légers jusqu'au poignet. Vous ne pouvez pas en faire beaucoup, car ils semblent être presque entièrement effacés. Cependant, il semblerait que leur but était de couvrir diverses blessures qu'il avait subies plus tôt dans sa vie.::<end>
+::Le rigmaster lève la main. Le geste coupe net la conversation. Votre réponse molle ne lui plaît pas : ses gros sourcils se froncent.:: Elle veut nous présenter. ::Il lui jette un coup d'œil, puis revient sur vous.:: Peu importe. Je peux le faire moi-même. Je suis Kromilus. Vous pouvez m'appeler Krom.:: Il tend la main. En le faisant, il découvre ses bras, couverts de tatouages pâles jusqu'au poignet. Vous n'en tirez pas grand-chose : ils sont presque entièrement effacés. On dirait qu'ils servaient à masquer des blessures plus anciennes.::<end>
 
 =>a31_original
 Glad to meet you. ::Accept handshake.::<end>
 
 =>a31
-Ravi de vous rencontrer. ::Acceptez la poignée de main.::<end>
+Enchanté$(#/e). ::Accepter la poignée de main.::<end>
 
 =>q32_original
 ::He grips your hand firmly and you manage to retain a strong grip. The handshake last for a bit too much, after which, he calmly returns back to his previous position.:: Strong handshake, strong character: is the way I see things.<end>
 
 =>q32
-::Il tient fermement votre main et vous réussissez à garder une forte prise. La poignée de main dure un peu trop, après quoi il revient calmement à sa position précédente.:: Une poignée de main forte, un caractère fort : c'est la façon dont je vois les choses.<end>
+::Il serre fort, et vous tenez le coup. La poignée dure un peu trop longtemps. Puis il reprend calmement sa pose.:: Poignée ferme, caractère ferme. C'est comme ça que je vois les choses.<end>
 
 =>q33_original
 I've brought you here to express my gratitude for the insight you've provided for me in a time of great need. Now, with that knowledge, I've opened myself about many things to Krom and I'm pleased to announce that once again we are back to the ways of old. Well... at least to a reasonable degree. ::She smiles.::<end>
 
 =>q33
-Je vous ai amené ici pour exprimer ma gratitude pour la perspicacité que vous m'avez fournie dans un moment de grand besoin. Maintenant, avec cette connaissance, je me suis ouvert à beaucoup de choses à Krom et je suis heureux d'annoncer qu'une fois de plus nous sommes de retour sur les chemins de l'ancien. Au moins dans une mesure raisonnable. ::Elle sourit.::<end>
+Je t'ai fait monter pour te remercier. L'éclairage que tu m'as donné, au moment où j'en avais le plus besoin. Avec ça, je me suis ouverte à Krom, sur plein de choses, et je suis heureuse de le dire : on a repris les vieilles habitudes. Enfin... dans une mesure raisonnable. ::Elle sourit.::<end>
 
 =>a34_original
 ::Quietly accept the handshake.::<end>
 
 =>a34
-::Acceptez tranquillement la poignée de main.::<end>
+::Accepter la poignée, sans un mot.::<end>
 
 =>a35_original
 ::Refuse the handshake.::<end>
 
 =>a35
-::Refusez la poignée de main.::<end>
+::Refuser la poignée de main.::<end>
 
 =>q36_original
 Hmm.. Is there something wrong?<end>
 
 =>q36
-Oui. Quelque chose ne va pas ?<end>
+Hmm... Y a un problème ?<end>
 
 =>a37_original
 I just don't like shaking hands.<end>
 
 =>a37
-Je n'aime pas serrer la main.<end>
+J'aime pas serrer les mains.<end>
 
 =>q38_original
 ::He turns his head slightly to the side and looks at you from the corner of his left eye.:: Hmm... is that so? Be it your way, for you have already done a great deal for me by rescuin' Kaya. Be as it may though, I don't take refusals likely and I wish this meetin' to end. Kaya, please show our *guest* the way out.<end>
 
 =>q38
-::Il tourne légèrement la tête sur le côté et vous regarde du coin de l'œil gauche.:: Hmm... Vraiment ? A ta façon, car tu as déjà fait beaucoup pour moi en secourant Kaya. Quoi qu'il en soit, je n'accepte pas les refus probables et je souhaite que cette rencontre se termine. Kaya, montre à nos invités la sortie.<end>
+::Il tourne légèrement la tête et vous regarde du coin de l'œil gauche.:: Hmm... C'est ça ? À votre guise. Vous avez déjà fait beaucoup, en sauvant Kaya. Quoi qu'il en soit, je prends mal les refus, et je veux que cette rencontre s'arrête là. Kaya, tu veux bien montrer la sortie à notre $(#invité/invitée) ?<end>
 
 =>q39_original
 Uhhh... I din't forsee this... ::Her lips make a weird gesture, indicating she feels uncomfortable.:: Umm... Okay, well uhh. At least I tried. Perhaps I could... ::The situation you are in, makes her stop to rethink what she should say next.::
@@ -240,9 +240,9 @@ Uhhh... I din't forsee this... ::Her lips make a weird gesture, indicating she f
 I-I... ::She starts looking around, trying to find something. This weird situation has made her act unpredictable. The silence drags on, as she struggles to formulate a follow-up.:: Not to escalate things further I suggest you take your leave now. ::She makes a slight hand gesture, pointing to the entrance from which you've arrived.::<end>
 
 =>q39
-Oui. Je ne crois pas que... ::Ses lèvres font un geste bizarre, indiquant qu'elle se sent mal à l'aise.:: Umm... Ok, et bien euh. Au moins j'ai essayé. Je pourrais peut-être... ::La situation dans laquelle vous êtes, la fait arrêter de repenser ce qu'elle devrait dire ensuite.::
+Euhhh... J'avais pas prévu ça... ::Ses lèvres font une grimace bizarre : elle est mal à l'aise.:: Umm... Ok, bon, euh. Au moins j'ai essayé. Peut-être que je pourrais... ::La situation vous met dans un tel pétrin qu'elle s'arrête, et reconsidère la suite.::
 
-I-I... ::Elle commence à chercher quelque chose. Cette situation bizarre a rendu son comportement imprévisible. Le silence traîne, alors qu'elle lutte pour formuler un suivi.:: Je vous suggère de prendre congé. ::Elle fait un léger geste de la main, pointant vers l'entrée d'où vous êtes arrivé.::<end>
+J-je... ::Elle cherche des yeux, n'importe quoi. La situation l'a rendue imprévisible. Le silence s'étire, elle n'arrive pas à enchaîner.:: Pour pas envenimer les choses, je te suggère de partir, maintenant. ::Elle fait un petit geste vers l'entrée par laquelle vous êtes arrivé$(#/e).::<end>
 
 =>a40_original
 Bye.<end>
@@ -254,25 +254,25 @@ Au revoir.<end>
 ::Turn around and leave.::<end>
 
 =>a41
-::Faites demi-tour et partez.::<end>
+::Faire demi-tour et partir.::<end>
 
 =>a42_original
 Can we just proceed without that?<end>
 
 =>a42
-Pouvons-nous procéder sans ça ?<end>
+On peut continuer sans ça ?<end>
 
 =>a43_original
 You've exposed yourselves, fools! ::Attack!::<end>
 
 =>a43
-Vous vous êtes exposés, imbéciles ! ::Attaque!::<end>
+Vous vous êtes exposés, idiots ! ::Attaquer.::<end>
 
 =>a44_original
 I'm pleased to see you two back together. A family reunited.<end>
 
 =>a44
-Je suis content de vous revoir tous les deux. Une famille réunie.<end>
+Je suis content$(#/e) de vous revoir tous les deux. Une famille réunie.<end>
 
 =>q45_original
 Thanks to you. Our... ::she stops.:: *my* struggle was hard indeed. Before you, I didn't really know what made me go on the treacherous ways. ::She sighs.:: Now, that we are together, we can continue where we left off. Your words struck me like an earthquake and from them I've learned so much. ::She looks to the ground.::
@@ -280,15 +280,15 @@ Thanks to you. Our... ::she stops.:: *my* struggle was hard indeed. Before you, 
 Uhh... ::She peeks at you.:: How rude of me. After all we've been through I forgot to ask you for your name.<end>
 
 =>q45
-Grâce à toi. Notre... ::Elle s'arrête.:: *mon* lutte était en effet dure. Avant toi, je ne savais pas vraiment ce qui m'a fait marcher de façon perfide. ::Elle soupire.:: Maintenant que nous sommes ensemble, nous pouvons continuer là où nous l'avons laissé. Vos mots m'ont frappé comme un tremblement de terre et j'en ai tellement appris. ::Elle regarde par terre.::
+Grâce à toi. Notre... ::elle s'arrête.:: *ma* galère a été dure, oui. Avant toi, je savais pas vraiment ce qui me poussait sur ces chemins pourris. ::Elle soupire.:: Maintenant qu'on est ensemble, on peut reprendre où on s'était arrêtés. Tes mots m'ont frappée comme un séisme, et j'en ai appris énormément. ::Elle baisse les yeux.::
 
-::Elle te regarde.:: C'est impoli de ma part. Après tout ce qu'on a vécu, j'ai oublié de te demander ton nom.<end>
+Uhh... ::Elle vous jette un regard.:: Quelle impolie. Après tout ce qu'on a traversé, j'ai oublié de te demander ton nom.<end>
 
 =>a46_original
 It's been alright I guess.<end>
 
 =>a46
-Ça va aller.<end>
+Ça va, je suppose.<end>
 
 =>q47_original
 Aww, come on. Cheer up! ::She performs a tiny hop in place.:: This is a great day for all of us.
@@ -296,7 +296,7 @@ Aww, come on. Cheer up! ::She performs a tiny hop in place.:: This is a great da
 <end>
 
 =>q47
-Allez. Santé ! ::Elle fait un petit saut en place.:: C'est un grand jour pour nous tous.
+Allez, voyons. Remue-toi ! ::Elle fait un petit saut sur place.:: C'est un grand jour pour nous tous.
 
 <end>
 
@@ -310,7 +310,7 @@ Allez. Santé ! ::Elle fait un petit saut en place.:: C'est un grand jour pour n
 A new start... Just like you've suggested.<end>
 
 =>q49
-Un nouveau départ... Comme vous l'avez suggéré.<end>
+Un nouveau départ... Comme tu l'avais dit.<end>
 
 =>q50_original
 My new family.<end>
@@ -328,13 +328,13 @@ Je me sens... chez moi.<end>
 New life to get used to.<end>
 
 =>q52
-Une nouvelle vie pour s'habituer.<end>
+Une nouvelle vie à laquelle s'habituer.<end>
 
 =>q53_original
 I was getting sick of the waters back on the Rig.<end>
 
 =>q53
-J'en avais marre des eaux du Rig.<end>
+J'en avais marre des eaux, à The Rig.<end>
 
 =>q54_original
 So many things to take care of.<end>
@@ -358,13 +358,13 @@ Je pense toujours à lui... On est toujours de la famille.<end>
 They are constantly confusing me with Izumi. ::Giggles.::<end>
 
 =>q57
-Ils me confondent constamment avec Izumi. ::Des lunettes.::<end>
+Ils me prennent tout le temps pour Izumi. ::Rires.::<end>
 
 =>q58_original
 Darling and I shared similar fates. Both of our families are gone now.<end>
 
 =>q58
-Chéri et moi avons partagé des destins similaires. Nos deux familles sont parties.<end>
+Darling et moi, on a connu le même destin. Nos deux familles n'y sont plus.<end>
 
 =>q59_original
 <end>
@@ -382,19 +382,19 @@ Tous morts.<end>
 I can't believe it...<end>
 
 =>q61
-Je n'arrive pas à y croire...<end>
+J'arrive pas à y croire...<end>
 
 =>q62_original
 My life... is all empty now.<end>
 
 =>q62
-Ma vie est vide.<end>
+Ma vie... elle est vide, maintenant.<end>
 
 =>q63_original
 ::Weeps.::<end>
 
 =>q63
-::Des pleurs.::<end>
+::Elle pleure.::<end>
 
 =>q64_original
 <end>
@@ -406,19 +406,19 @@ Ma vie est vide.<end>
 I will... figure a way out of here.<end>
 
 =>q65
-Je vais... trouver une issue.<end>
+Je vais... trouver un moyen de sortir d'ici.<end>
 
 =>q66_original
 I managed to get this far on my own.<end>
 
 =>q66
-J'ai réussi à aller aussi loin tout seul.<end>
+J'ai réussi à aller aussi loin, toute seule.<end>
 
 =>q67_original
 The damn spiders... If I could only somehow...<end>
 
 =>q67
-Ces foutues araignées... Si seulement je pouvais...<end>
+Ces putains d'araignées... Si seulement je pouvais...<end>
 
 =>q68_original
 And the mutants... ::Spits on the ground.::<end>
@@ -430,7 +430,7 @@ Et les mutants... ::Crache par terre.::<end>
 ::She is feeling a bit better now that she can stand upright without the need of assistance.:: What do we do now?<end>
 
 =>q69
-::Elle se sent un peu mieux maintenant qu'elle peut se tenir debout sans avoir besoin d'aide.:: On fait quoi maintenant ?<end>
+::Elle se sent un peu mieux, maintenant qu'elle tient debout sans aide.:: On fait quoi, maintenant ?<end>
 
 =>q70_original
 <end>
@@ -442,13 +442,13 @@ Et les mutants... ::Crache par terre.::<end>
 Let's talk.<end>
 
 =>a71
-Parlons.<end>
+Discuter.<end>
 
 =>q72_original
 What is it that you wish to know?<end>
 
 =>q72
-Que voulez-vous savoir ?<end>
+Qu'est-ce que tu veux savoir ?<end>
 
 =>q73_original
 <end>
@@ -466,7 +466,7 @@ Parle-moi de ton frère.<end>
 Hmph, twins. Born and left to die in the middle of the bloody caves. But we were not going down without a fight. And so, we fought. All the way, ::She frowns:: *together*. Until one day... the Black Eels and The Rig. They were fragile and ripe for the taking. Instead, there was a winner and a loser. And you're not looking at former.<end>
 
 =>q75
-Les jumeaux. Né et parti mourir au milieu des grottes. Mais on ne descendait pas sans se battre. Et donc, nous nous sommes battus. Jusqu'au bout, ::Elle fronce:: *ensemble*. Jusqu'à ce qu'un jour... les Anguilles Noires et le Rig. Ils étaient fragiles et mûrs pour la prise. Il y avait plutôt un gagnant et un perdant. Et vous ne regardez pas l'ancien.<end>
+Hmph, des jumeaux. Nés et laissés pour morts au milieu de ces putains de grottes. Mais on allait pas y passer sans se battre. Alors on s'est battus. Jusqu'au bout, ::Elle fronce les sourcils.:: *ensemble*. Jusqu'au jour où... les Black Eels et The Rig. Ils étaient fragiles, mûrs à prendre. Au lieu de ça, y a eu un gagnant et une perdante. Et c'est pas le gagnant que tu regardes.<end>
 
 =>q76_original
 There was not a damned thing we didn't work on together. We knew the caves like the back of our hands; not a rock stood unturned... ::She looks to the ground.:: There was nothing that would halt us. And that's exactly why we made it... this far. 
@@ -474,39 +474,39 @@ There was not a damned thing we didn't work on together. We knew the caves like 
 It was ourselves that tore everything apart. Most of all... the two of us... Ambition, opportunity quenched our old ways... perhaps forever. <end>
 
 =>q76
-On n'a pas travaillé ensemble. Nous connaissions les grottes comme l'arrière de nos mains; pas un rocher n'était pas retourné... ::Elle regarde par terre.:: Rien ne nous arrêterait. Et c'est pour ça qu'on est arrivés... jusqu'ici.
+Y a pas un putain de truc sur lequel on a pas bossé ensemble. On connaissait les grottes comme nos poches. Pas un caillou qu'on ait pas retourné... ::Elle baisse les yeux.:: Rien nous arrêtait. Et c'est pour ça qu'on est arrivés... jusque-là.
 
-C'est nous qui avons tout déchiré. Surtout... nous deux... L'ambition, l'opportunité ont étanché nos vieilles manières... peut-être pour toujours. <end>
+C'est nous qui avons tout déchiré. Surtout... nous deux... L'ambition, l'occasion, ça a étouffé les vieilles habitudes... peut-être pour toujours. <end>
 
 =>a77_original
 Why do they see you as a traitor?<end>
 
 =>a77
-Pourquoi vous voient-ils comme un traître ?<end>
+Pourquoi ils te voient comme une traîtresse ?<end>
 
 =>q78_original
 I've accepted an offer... which I though would get me closer to... argh! ::She looks to the ground. Disappointed with her actions, she kicks a nearby rock in rage. After a little while she calms down.:: A damned deal with the Protectorate. It gave me a purpose in life. I wanted to bring back the old ways we used to have. ::She stops.:: But I... I was denied and I... have failed. Now my brother sees me as a traitor... Gahh! The Rig was a mistake!<end>
 
 =>q78
-J'ai accepté une offre... qui me rapprocherait de... Argh ! ::Elle regarde par terre. Déçue par ses actions, elle frappe un rocher voisin en fureur. Après un peu de temps, elle se calme.:: Un damné accord avec le Protectorate. Ça m'a donné un but dans la vie. Je voulais rapporter les anciennes façons de vivre. ::Elle s'arrête.:: Mais j'ai été nié et j'ai échoué. Mon frère me voit comme un traître... C'est ça ! Le Rig était une erreur !<end>
+J'ai accepté une offre... que je croyais me rapprocher de... argh ! ::Elle baisse les yeux. Déçue par ce qu'elle a fait, elle envoie un coup de pied dans un caillou, furieuse. Un moment plus tard, elle se calme.:: Un putain d'accord avec le Protectorate. Ça m'a donné un but. Je voulais ramener les vieilles habitudes. ::Elle s'arrête.:: Mais on m'a dit non, et j'ai... j'ai échoué. Maintenant mon frère me voit comme une traîtresse... Gahh ! The Rig, c'était une erreur !<end>
 
 =>q79_original
 I... I thought I could rise in ranks at the Rig. With the Protectorate's backing, I thought I could close in the gap. They... they made my scavenging runs... yield good loot for the Eels. ::She nods.:: In return, they kept asking questions. The more I opened up to them, the more they rewarded me. What a false hope that was. ::She looks to the ground.:: Look at me now... I have nothing left.<end>
 
 =>q79
-Je pensais pouvoir monter en grade au Rig. Avec le soutien du Protectorate, j'ai pensé que je pourrais combler l'écart. Ils... ils ont fait mes courses de récupération... donner un bon butin pour les Aels. ::Elle hoche la tête.:: En retour, ils continuaient de poser des questions. Plus je leur ai ouvert, plus ils m'ont récompensé. Quel faux espoir. ::Elle regarde par terre.:: Regarde-moi maintenant... Je n'ai plus rien.<end>
+Je... je pensais grimper les échelons, à The Rig. Avec le Protectorate dans le dos, je croyais pouvoir rattraper le retard. Ils... ils ont fait en sorte que mes sorties de récup... rapportent du bon butin aux Eels. ::Elle hoche la tête.:: En échange, ils posaient des questions. Plus je m'ouvrais, plus ils me récompensaient. Quel faux espoir. ::Elle baisse les yeux.:: Regarde-moi maintenant... Il me reste plus rien.<end>
 
 =>a80_original
 When did you join the Black Eels?<end>
 
 =>a80
-Quand avez-vous rejoint les Black Eels ?<end>
+Quand t'as rejoint les Black Eels ?<end>
 
 =>q81_original
 Gangs left and right. By now, you should know how things go down around here. The Eels were devouring themselves. Everybody was looking for ways... to take over. It all originated from Junkyard. There was an idea... to run the gang as a some sort of *co-rule*. They couldn't make up their minds... and trouble followed suit. Together, the two of us... managed to end the infighting by leading the charge.<end>
 
 =>q81
-Des gangs de gauche et de droite. Tu devrais savoir comment ça se passe ici. Les Anguilles se dévoraient. Tout le monde cherchait des moyens de prendre le relais. Tout provient de Junkyard. Il y avait une idée... de diriger le gang comme une sorte de "co-règle". Ils ne pouvaient pas se décider... et les problèmes suivaient. Ensemble, nous avons réussi à mettre fin à l'affrontement en dirigeant l'accusation.<end>
+Des gangs, à gauche, à droite. À l'heure qu'il est, tu dois savoir comment ça se passe par ici. Les Eels se dévoraient entre eux. Tout le monde cherchait le moyen... de prendre le pouvoir. Tout ça vient de Junkyard. Y avait une idée... diriger le gang en *co-règne*, un truc comme ça. Ils arrivaient pas à se décider... et les emmerdes ont suivi. Tous les deux... on a fini les luttes internes, en menant la charge.<end>
 
 =>q82_original
 The joint-rule thing, I... I thought we could make it work. The Junkyard and the Rig. We thought the two of us would run those places. Instead, The Rig was given to my brother and Silas took over the dockyard. ::She covers her eyes. A tear runs down her face.:: I was cast aside like a piece of trash, and he was made a "king". A damned rigmaster. I was just another footsoldier... ::She sighs.:: Turned into a goon.
@@ -514,69 +514,69 @@ The joint-rule thing, I... I thought we could make it work. The Junkyard and the
 To be on the top of the mountain... and to fall so hard... so fast.<end>
 
 =>q82
-Le truc des règles communes, je... j'ai pensé qu'on pourrait y arriver. Le Junkyard et le Rig. On pensait qu'on dirigerait tous les deux ces endroits. Au lieu de cela, le Rig a été donné à mon frère et Silas a pris le contrôle de l'arsenal. ::Elle couvre ses yeux. Une déchirure coule sur son visage.:: J'ai été mis de côté comme un morceau de poubelle, et il a été fait un "roi". C'est un fichu maître. J'étais juste un autre soldat... ::Elle soupire.:: Il est devenu un fou.
+Le co-règne, je... je croyais qu'on y arriverait. Junkyard et The Rig. On se voyait à la tête des deux. Au lieu de ça, The Rig est allé à mon frère, et Silas a pris les docks. ::Elle se couvre les yeux. Une larme lui coule sur le visage.:: On m'a jetée comme une merde, et lui on l'a fait "roi". Un putain de rigmaster. J'étais juste un soldat de plus... ::Elle soupire.:: Une sbire.
 
-Être au sommet de la montagne... et tomber si fort... si vite.<end>
+Être au sommet de la montagne... et retomber si fort... si vite.<end>
 
 =>a83_original
 ::[Perception] or [Intelligence]:: Your speech pattern. I expected you to sound differently. Where are you from exactly?<end>
 
 =>a83
-::[perception] ou [intelligence]:: Votre discours. Je m'attendais à ce que tu sonnes différemment. D'où venez-vous exactement ?<end>
+::[Perception] or [Intelligence]:: Ta façon de parler. Je m'attendais à ce que tu sonnes autrement. T'es d'où, exactement ?<end>
 
 =>q84_original
 Good catch. ::She nods.:: For all we knew, we were the children of the caves. Adaptation was the only way to make due. Words can make bridges... but your actions... they either connect the tunnels... or get you dug deep below them.<end>
 
 =>q84
-Bonne prise. ::Elle hoche la tête.:: Nous étions les enfants des grottes. L'adaptation était la seule façon de le faire. Les mots peuvent faire des ponts... mais vos actions... elles relient les tunnels... ou vous font creuser au fond d'eux.<end>
+Bien vu. ::Elle hoche la tête.:: Pour ce qu'on en savait, on était les enfants des grottes. S'adapter, c'était la seule façon de s'en sortir. Les mots, ça fait des ponts... mais tes actes... ça relie les tunnels... ou ça te fait creuser tout au fond.<end>
 
 =>a85_original
 I'm a corporal of the Protectorate. We can provide you with cover.<end>
 
 =>a85
-Je suis caporal du Protectorate. Nous pouvons vous fournir une couverture.<end>
+Je suis caporal du Protectorate. On peut te couvrir.<end>
 
 =>q86_original
 You... with them too? Ugh... I guess that makes us... allies of sorts. <end>
 
 =>q86
-Tu... avec eux aussi ? Ça fait de nous des alliés. <end>
+Toi... avec eux, toi aussi ? Ugh... Je suppose que ça fait de nous... des alliés, en quelque sorte. <end>
 
 =>a87_original
 That is correct. And we take good care of all who share our common goals. The Protectorate will provide a secure shelter for you.<end>
 
 =>a87
-C'est exact. Et nous prenons bien soin de tous ceux qui partagent nos objectifs communs. Le Protectorate vous fournira un abri sécurisé.<end>
+C'est ça. Et on s'occupe bien de ceux qui partagent nos objectifs. Le Protectorate te trouvera un abri sûr.<end>
 
 =>q88_original
 I suppose... I have no other options. ::She closes her eyes for a moment.:: Fine. Tell me what to do.<end>
 
 =>q88
-Je suppose que je n'ai pas d'autres options. ::Elle ferme les yeux un instant.:: Amende. Dis-moi quoi faire.<end>
+Je suppose... que j'ai pas le choix. ::Elle ferme les yeux un instant.:: Très bien. Dis-moi ce que je dois faire.<end>
 
 =>a89_original
 ::Explain to her where to find a nearest Protectorate outpost.::<end>
 
 =>a89
-::Expliquez-lui où trouver un avant-poste Protectorat le plus proche.::<end>
+::Lui indiquer l'avant-poste Protectorate le plus proche.::<end>
 
 =>q90_original
 Can we leave this place now?<end>
 
 =>q90
-On peut quitter cet endroit maintenant ?<end>
+On peut quitter cet endroit, maintenant ?<end>
 
 =>a91_original
 Get on the scrap jet outside and sail to any of the Protectorate outposts nearby. They will take care of the rest.<end>
 
 =>a91
-Montez sur le jet de ferraille dehors et naviguez vers l'un des avant-postes Protectorate à proximité. Ils s'occuperont du reste.<end>
+Prends le jet de ferraille dehors et file vers n'importe quel avant-poste Protectorate dans le coin. Ils s'occuperont du reste.<end>
 
 =>q92_original
 I... hope they'll take me. I-I don't have anything left. Thank you.<end>
 
 =>q92
-J'espère qu'ils me prendront. Je n'ai plus rien. Je vous remercie.<end>
+J'espère... qu'ils me prendront. J-j'ai plus rien. Merci.<end>
 
 =>q93_original
 <end>
@@ -588,61 +588,61 @@ J'espère qu'ils me prendront. Je n'ai plus rien. Je vous remercie.<end>
 Protectorate will take good care of you. Safe travels.<end>
 
 =>a94
-Protectorate prendra bien soin de vous. Bon voyage.<end>
+Le Protectorate prendra bien soin de toi. Bon voyage.<end>
 
 =>a95_original
 It's still too dangerous. I'll clear the way. Stay here.<end>
 
 =>a95
-C'est encore trop dangereux. Je m'en occupe. Reste ici.<end>
+C'est encore trop dangereux. Je dégage le chemin. Reste ici.<end>
 
 =>a96_original
 Wherever Protectorate's foot steps, suffering and destruction follows. You must break free.<end>
 
 =>a96
-Partout où le pied de Protectorate marche, la souffrance et la destruction suivent. Vous devez vous libérer.<end>
+Là où le Protectorate pose le pied, la souffrance et la destruction suivent. Faut que tu t'en libères.<end>
 
 =>q97_original
 H-how? What must I do? I just... don't see a place for me anymore.<end>
 
 =>q97
-Comment ça ? Que dois-je faire ? Je ne vois plus d'endroit pour moi.<end>
+C-comment ? Qu'est-ce que je dois faire ? Je... je vois plus d'endroit pour moi.<end>
 
 =>a98_original
 Free Drones will offer you a new start. We are all victims of Protectorate's wrong-doings.<end>
 
 =>a98
-Free Drones vous offrira un nouveau départ. Nous sommes tous victimes des erreurs de Protectorate.<end>
+Les Free Drones t'offriront un nouveau départ. On est tous des victimes des saloperies du Protectorate.<end>
 
 =>q99_original
 Free Drones? I've heard about them. All I know that... ::She nods.:: indeed they provide shelter for those who feel expelled. But... I-I... don't know. ::She looks at the palm of her hand. She inspects it carefully for a few moments.:: Fine, I'll join you. I don't have much choice.<end>
 
 =>q99
-Free Drones ? J'en ai entendu parler. Tout ce que je sais, c'est que ::Elle hoche la tête.:: en effet, ils fournissent un abri à ceux qui se sentent expulsés. Mais... je ne sais pas. ::Elle regarde la paume de sa main. Elle l'inspecte soigneusement pendant quelques instants.:: Bien, je vous rejoins. Je n'ai pas le choix.<end>
+Les Free Drones ? J'en ai entendu parler. Tout ce que je sais, c'est que... ::Elle hoche la tête.:: oui, ils abritent ceux qui se sentent chassés. Mais... j-je... je sais pas. ::Elle regarde la paume de sa main. Elle l'inspecte un moment, avec soin.:: Bon. Je vous rejoins. J'ai pas trop le choix.<end>
 
 =>a100_original
 ::Tell her about the under-passage location. Mention the interphone and provide her the code.::<end>
 
 =>a100
-::Parlez-lui de l'emplacement du passage inférieur. Mentionnez l'interphone et donnez-lui le code.::<end>
+::Lui indiquer le passage du dessous. Mentionner l'interphone et lui donner le code.::<end>
 
 =>q101_original
 Okay. I will try to find them. Is it safe to leave this place, now?<end>
 
 =>q101
-Très bien. Je vais essayer de les trouver. Est-il sûr de quitter cet endroit, maintenant ?<end>
+D'accord. Je vais essayer de les trouver. C'est sûr, de quitter cet endroit, maintenant ?<end>
 
 =>a102_original
 I've cleared the way for you. Take the scrap jet outside and find the rest of the Free Drones.<end>
 
 =>a102
-J'ai ouvert la voie pour toi. Prenez le jet de ferraille dehors et trouvez le reste du Free Drones.<end>
+J'ai dégagé le chemin. Prends le jet de ferraille dehors et retrouve les Free Drones.<end>
 
 =>q103_original
 A new life... So many things to learn all over again... But it'll be worth it. Thank you for giving me a new place I can call home.<end>
 
 =>q103
-Une nouvelle vie... Tant de choses à apprendre... Mais ça en vaut la peine. Merci de m'avoir donné un nouvel endroit.<end>
+Une nouvelle vie... Tant de choses à réapprendre... Mais ça vaudra le coup. Merci de m'avoir donné un endroit que je peux appeler chez moi.<end>
 
 =>q104_original
 <end>
@@ -654,49 +654,49 @@ Une nouvelle vie... Tant de choses à apprendre... Mais ça en vaut la peine. Me
 Together we'll fight for what is right. The Free Drones will provide you with everything you need. See you soon.<end>
 
 =>a105
-Ensemble, nous nous battrons pour ce qui est juste. Le Free Drones vous fournira tout ce dont vous avez besoin. A bientôt.<end>
+Ensemble, on se battra pour ce qui est juste. Les Free Drones te fourniront tout ce qu'il te faut. À bientôt.<end>
 
 =>a106_original
 Not yet. I will clear the way soon.<end>
 
 =>a106
-Pas encore. Je m'en sortirai bientôt.<end>
+Pas encore. Je dégage le chemin bientôt.<end>
 
 =>a107_original
 It would be best for you to start anew. There is no way Black Eels would welcome you back.<end>
 
 =>a107
-Ce serait mieux pour vous de recommencer. Il est impossible que Black Eels vous accueille.<end>
+Le mieux, c'est que tu recommences ailleurs. Les Black Eels te reprendront jamais.<end>
 
 =>q108_original
 This thought was on my mind ever since... all this happened. But how? Aren't we both now stuck here?<end>
 
 =>q108
-Cette pensée m'était à l'esprit depuis... tout ça est arrivé. Mais comment ? On n'est pas coincés tous les deux ?<end>
+Cette idée me trotte dans la tête depuis... depuis tout ça. Mais comment ? On est pas coincés ici, tous les deux ?<end>
 
 =>a109_original
 I will provide you with a vehicle. After the way is clear I'm sure you can find some residence over at Core City. You have proven yourself enough. Some heat won't stop you.<end>
 
 =>a109
-Je vais vous fournir un véhicule. Après le chemin est clair je suis sûr que vous pouvez trouver une résidence à Core City. Vous avez assez prouvé. La chaleur ne t'arrêtera pas.<end>
+Je te trouve un véhicule. Une fois le chemin libre, tu trouveras bien un toit à Core City. T'as assez fait tes preuves. Les emmerdes te stopperont pas.<end>
 
 =>q110_original
 Thank you... I... I'll be waiting here.<end>
 
 =>q110
-Merci... je vais attendre ici.<end>
+Merci... Je... j'attendrai ici.<end>
 
 =>a111_original
 The way is cleared. A scrap jet is waiting for you outside.<end>
 
 =>a111
-La voie est libre. Un jet de ferraille vous attend dehors.<end>
+Le chemin est libre. Un jet de ferraille t'attend dehors.<end>
 
 =>q112_original
 I... I'll not give up yet. There is so much more to see...T-to do. Thank you for giving me another chance.<end>
 
 =>q112
-Je n'abandonnerai pas encore. Il y a tellement d'autres choses à voir... à faire. Merci de m'avoir donné une autre chance.<end>
+Je... j'abandonne pas encore. Y a tellement plus à voir... à-à faire. Merci de m'avoir donné une autre chance.<end>
 
 =>q113_original
 <end>
@@ -720,61 +720,61 @@ Je reviens.<end>
 ::[Persuasion]:: Perhaps... There is a way to fix what's broken.<end>
 
 =>a116
-::[Persuasion]:: Peut-être... Il y a un moyen de réparer ce qui est cassé.<end>
+::[Persuasion]:: Peut-être... qu'on peut réparer ce qui est cassé.<end>
 
 =>q117_original
 There is? How? ::She looks you in the eyes. You have her full attention.::<end>
 
 =>q117
-Vraiment ? Comment ça ? ::Elle te regarde dans les yeux. Vous avez toute son attention.::<end>
+Vraiment ? Comment ? ::Elle vous regarde dans les yeux. Vous avez toute son attention.::<end>
 
 =>a118_original
 No mere quarrel should be able to sever a family. The history the two of you share, tramples this meager set of unfortunate events, and you should be able to sail right past it all.<end>
 
 =>a118
-Aucune simple querelle ne devrait pouvoir séparer une famille. L'histoire que vous partagez, piétine cette maigre série d'événements malheureux, et vous devriez être en mesure de naviguer juste après tout.<end>
+Aucune querelle ne devrait pouvoir couper une famille. L'histoire que vous partagez tous les deux, ça écrase cette misérable suite de malchances. Vous devriez pouvoir naviguer droit au-delà.<end>
 
 =>q119_original
 ::She interrupts you.:: I-I've never seen it that way. Perhaps... I... just asked too much out of him.<end>
 
 =>q119
-::Elle vous interrompt.:: Je ne l'ai jamais vu comme ça. Peut-être que... j'ai trop demandé de lui.<end>
+::Elle vous coupe.:: J-je l'avais jamais vu comme ça. Peut-être... que... j'ai trop demandé, à lui.<end>
 
 =>a120_original
 Eventually, the sands of time will bury everything. Live for what there's left of it. Speak to him. Remind him who you are and what you've been through to get there.<end>
 
 =>a120
-Finalement, les sables du temps enterreront tout. Vive pour ce qu'il en reste. Parle-lui. Rappelle-lui qui tu es et ce que tu as traversé pour y arriver.<end>
+Un jour, le temps enterre tout. Vis pour ce qu'il en reste. Parle-lui. Rappelle-lui qui tu es, et ce que vous avez traversé pour en arriver là.<end>
 
 =>q121_original
 We... we did make it alive this far... And I... I'll own up to my mistakes. ::She looks directly at you.:: There's nothing else left to lose anyway...<end>
 
 =>q121
-Nous... nous l'avons fait vivre jusqu'ici... Et je... je m'approprierai mes erreurs. ::Elle te regarde directement.:: Il ne reste plus rien à perdre...<end>
+On... on a bien réussi à rester en vie jusque-là... Et je... je vais assumer mes erreurs. ::Elle vous regarde droit dans les yeux.:: De toute façon, j'ai plus rien à perdre...<end>
 
 =>a122_original
 It is a risk worthy of undertaking.<end>
 
 =>a122
-C'est un risque qui mérite d'être assumé.<end>
+C'est un risque qui vaut d'être pris.<end>
 
 =>q123_original
 Thank you... I... We must find a way to... get out of this place now.<end>
 
 =>q123
-Merci... nous devons trouver un moyen... de sortir de cet endroit maintenant.<end>
+Merci... Il... il faut qu'on trouve un moyen... de sortir d'ici, maintenant.<end>
 
 =>a124_original
 The path is clear for you now. Take the scrap jet outside and go back to The Rig.<end>
 
 =>a124
-La voie est libre pour vous maintenant. Prenez le jet de ferraille dehors et retournez au Rig.<end>
+Le chemin est libre. Prends le jet de ferraille dehors et retourne à The Rig.<end>
 
 =>q125_original
 Hopefully he will... heed me out. I'll admit my wrongdoings to him and... perhaps... we can figure a way out.<end>
 
 =>q125
-J'espère qu'il va... m'écouter. Je lui avouerai mes fautes et... peut-être qu'on pourra trouver une issue.<end>
+Avec un peu de chance, il... m'écoutera. Je lui avouerai ce que j'ai fait, et... peut-être... qu'on trouvera une issue.<end>
 
 =>q126_original
 <end>
@@ -798,49 +798,49 @@ C'est encore trop dangereux. Laisse-moi m'en occuper.<end>
 Hmm, come to think of it... I need a moment.<end>
 
 =>a129
-Hmm, venez y penser... J'ai besoin d'un moment.<end>
+Hmm, à y réfléchir... J'ai besoin d'un moment.<end>
 
 =>q130_original
 I don't even know, anymore.<end>
 
 =>q130
-Je ne sais même plus.<end>
+Je sais même plus, maintenant.<end>
 
 =>q131_original
 I... I just don't see it. There is no way after... all that I've done.<end>
 
 =>q131
-Je ne le vois pas. Il n'y a aucun moyen après... tout ce que j'ai fait.<end>
+Je... je vois pas. Y a pas moyen, après... tout ce que j'ai fait.<end>
 
 =>a132_original
 The Black Eels were right all along. You made a terrible mistake raising your hand on them.<end>
 
 =>a132
-Les Black Eels avaient raison depuis le début. Tu as commis une terrible erreur en levant la main sur eux.<end>
+Les Black Eels avaient raison depuis le début. T'as fait une terrible erreur, en levant la main sur eux.<end>
 
 =>q133_original
 And did I deserve to die for it?<end>
 
 =>q133
-Et méritais-je de mourir pour ça ?<end>
+Et je méritais de mourir pour ça ?<end>
 
 =>a134_original
 You sure did! ::Attack!::<end>
 
 =>a134
-C'est vrai ! ::Attaque!::<end>
+Carrément ! ::Attaquer.::<end>
 
 =>a135_original
 That is not for me to decide. You are on your own now.<end>
 
 =>a135
-Ce n'est pas à moi de décider. Tu es tout seul maintenant.<end>
+C'est pas à moi de décider. T'es toute seule, maintenant.<end>
 
 =>q136_original
 Then leave me be!<end>
 
 =>q136
-Alors laissez-moi !<end>
+Alors fous-moi la paix !<end>
 
 =>a137_original
 ::Leave.::<end>
@@ -852,13 +852,13 @@ Alors laissez-moi !<end>
 I don't think I can help you out. You're on your own now.<end>
 
 =>a138
-Je ne pense pas pouvoir vous aider. Tu es tout seul maintenant.<end>
+Je pense pas pouvoir t'aider. T'es toute seule, maintenant.<end>
 
 =>q139_original
 Fine... Nothing changes then. I... I need to be alone now.<end>
 
 =>q139
-Très bien... Rien ne change alors. Je dois être seule maintenant.<end>
+Très bien... Rien change, alors. J'ai... j'ai besoin d'être seule, maintenant.<end>
 
 =>a140_original
 Good luck.<end>
@@ -870,43 +870,43 @@ Bonne chance.<end>
 Let me make this all easy for you! By finishing what they've started! ::Attack!::<end>
 
 =>a141
-Laissez-moi vous faciliter la tâche ! En finissant ce qu'ils ont commencé ! ::Attaque!::<end>
+Laisse-moi te simplifier ça ! En finissant ce qu'ils ont commencé ! ::Attaquer.::<end>
 
 =>a142_original
 ::Nod and leave.::<end>
 
 =>a142
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a143_original
 I need some time alone. I'll be back.<end>
 
 =>a143
-J'ai besoin de temps seul. Je reviens.<end>
+J'ai besoin d'être $(#seul/seule) un moment. Je reviens.<end>
 
 =>a144_original
 The Rig is no more.<end>
 
 =>a144
-Le Rig n'est plus.<end>
+The Rig n'existe plus.<end>
 
 =>q145_original
 What? Can't be? W-what happened? ::She's taken back by what you've said. Her eye pupils widen up as she stares at you, frozen in place.::<end>
 
 =>q145
-Quoi ? C'est impossible ? Que s'est-il passé ? ::Elle est reprise par ce que tu as dit. Ses pupilles s'élargissent alors qu'elle vous regarde, gelée en place.::<end>
+Quoi ? C'est pas possible. Q-qu'est-ce qui s'est passé ? ::Vos mots la prennent de court. Ses pupilles s'élargissent, elle vous fixe, figée.::<end>
 
 =>a146_original
 The Pirates raided it. They've killed everyone in sight.<end>
 
 =>a146
-Les Pirates l'ont attaqué. Ils ont tué tout le monde en vue.<end>
+Les pirates ont attaqué. Ils ont tué tout le monde sur leur passage.<end>
 
 =>q147_original
 Jetters? ::She raises her weapon.:: I... I can't believe it. ::Soon after she lowers her shotgun as her hands start shaking.:: Leave me be. ::She points to the exit of the cave.::<end>
 
 =>q147
-Jetters ? ::Elle lève son arme.:: Je n'arrive pas à y croire. ::Peu de temps après, elle abaisse son fusil pendant que ses mains tremblent.:: Laisse-moi tranquille. ::Elle pointe vers la sortie de la grotte.::<end>
+Les Jetters ? ::Elle lève son arme.:: Je... j'arrive pas à y croire. ::Peu après, elle baisse le fusil, les mains qui tremblent.:: Fous-moi la paix. ::Elle désigne la sortie de la grotte.::<end>
 
 =>a148_original
 Goodbye.<end>
@@ -918,25 +918,25 @@ Au revoir.<end>
 ::Turn around and leave.::<end>
 
 =>a149
-::Faites demi-tour et partez.::<end>
+::Faire demi-tour et partir.::<end>
 
 =>a150_original
 I've slaughtered everyone.<end>
 
 =>a150
-J'ai tué tout le monde.<end>
+J'ai massacré tout le monde.<end>
 
 =>q151_original
 ::She points her shotgun at you.:: How could YOU! ::She shouts in rage.:: Argh!<end>
 
 =>q151
-::Elle pointe son fusil sur toi.:: Comment avez-vous pu ! ::Elle crie en colère.:: Argh !<end>
+::Elle vous braque son fusil.:: Comment as-TU pu ! ::Elle crie, furieuse.:: Argh !<end>
 
 =>a152_original
 ::Fight!::<end>
 
 =>a152
-::Lutte!::<end>
+::Combattre.::<end>
 
 =>a153_original
 I have no idea. Someone has completely destroyed the place.<end>
@@ -948,13 +948,13 @@ Aucune idée. Quelqu'un a complètement détruit l'endroit.<end>
 That's impossible. ::She looks at the ground.:: I'm trully all on my own now... I... ::She sighs.:: Leave me be, please.<end>
 
 =>q154
-C'est impossible. ::Elle regarde le sol.:: Je suis tout seul maintenant... Je... ::Elle soupire.:: Laissez-moi tranquille, s'il vous plaît.<end>
+C'est impossible. ::Elle baisse les yeux.:: Je suis vraiment toute seule, maintenant... Je... ::Elle soupire.:: Laisse-moi, s'il te plaît.<end>
 
 =>a155_original
 It's still too dangerous for you to leave. Give me more time. ::Leave.::<end>
 
 =>a155
-C'est encore trop dangereux pour vous de partir. Donne-moi plus de temps. ::Partir.::<end>
+C'est encore trop dangereux, pour que tu partes. Donne-moi un peu plus de temps. ::Partir.::<end>
 
 =>a156_original
 ::Leave.::<end>
@@ -966,13 +966,13 @@ C'est encore trop dangereux pour vous de partir. Donne-moi plus de temps. ::Part
 ::Right before she has turned around to face you, she was leaning against the wall with her left hand. In the other hand, she holds a shotgun at which she was staring aimlessly. From the back, her clothes are all muddy and partially stiched up. The exposed parts of her damaged body armor, reveal newly applied bandages, which cover her right shoulder. Her footwear is drenched in blood, which has started to fade out at this point. Said stains, produce a myriad of smells, one would find hard to stand next to for a longer period of time. As you get close, she slowly turns towards you.::<end>
 
 =>q157
-::Juste avant qu'elle ne se retourne contre toi, elle se penchait contre le mur avec sa main gauche. Dans l'autre main, elle tient un fusil de chasse auquel elle regardait sans but. De l'arrière, ses vêtements sont boueux et partiellement piquées. Les parties exposées de son armure corporelle endommagée, révèlent des bandages nouvellement appliqués, qui couvrent son épaule droite. Ses chaussures sont trempées de sang, qui a commencé à disparaître à ce moment. Ces taches, produisent une myriade d'odeurs, on aurait du mal à se tenir à côté de plus longtemps. Quand vous approchez, elle se tourne lentement vers vous.::<end>
+::Juste avant de se tourner vers vous, elle s'appuyait au mur de la main gauche. Dans l'autre, elle tient un fusil, qu'elle fixait dans le vide. De dos, ses vêtements sont crottés, recousus par endroits. L'armure abîmée laisse voir des bandages tout frais, sur l'épaule droite. Ses chaussures sont trempées de sang, déjà en train de pâlir. Ces taches dégagent un tas d'odeurs : dur de rester à côté longtemps. Quand vous approchez, elle se tourne lentement vers vous.::<end>
 
 =>q158_original
 ::It would seem that this is the woman, mentioned by the person you've talked to on the other side of the cave called: Kaya. From time to time, the hand which she's using to hold the shotgun, jitters slightly. It is obvious to you that she is drained completely, as her grip on the gun is weak.::<end>
 
 =>q158
-::Il semblerait que c'est la femme dont vous avez parlé de l'autre côté de la grotte, Kaya. De temps en temps, la main qu'elle utilise pour tenir le fusil, court légèrement. Il est évident pour vous qu'elle est complètement drainée, car son emprise sur l'arme est faible.::<end>
+::On dirait bien la femme dont on vous a parlé, de l'autre côté de la grotte : Kaya. De temps en temps, la main qui tient le fusil tressaille un peu. Elle est visiblement à bout : sa prise sur l'arme est faible.::<end>
 
 =>q159_original
 ::She struggles to point the gun at you, only making it half way, aiming close to your feet.:: You... Who the hell are *you*? ::With pale voice she utters those words, barely holding up altogether.
@@ -980,9 +980,9 @@ C'est encore trop dangereux pour vous de partir. Donne-moi plus de temps. ::Part
 Despite everything, determination is still present within her, as she keeps trying to straighten her back and pose a threat to you.::<end>
 
 =>q159
-::Elle a du mal à pointer l'arme sur vous, seulement à mi-chemin, en visant près de vos pieds.:: Vous... Qui êtes-vous ? ::D'une voix pâle, elle prononce ces paroles, tenant à peine tout.
+::Elle a du mal à vous braquer l'arme. Elle n'arrive qu'à mi-chemin, visée vers vos pieds.:: Toi... T'es *qui*, bordel ? ::D'une voix blafarde, elle lâche ces mots, à peine debout.
 
-Malgré tout, la détermination est toujours présente en elle, car elle continue d'essayer de redresser son dos et de vous menacer.::<end>
+Malgré tout, la détermination est encore là : elle essaie encore de redresser le dos, de poser une menace.::<end>
 
 =>q160_original
 <end>
@@ -994,37 +994,37 @@ Malgré tout, la détermination est toujours présente en elle, car elle continu
 Preserve your strength. I'm not here to hurt you.<end>
 
 =>a161
-Préservez vos forces. Je ne suis pas là pour te blesser.<end>
+Garde tes forces. Je suis pas là pour te faire du mal.<end>
 
 =>q162_original
 ::The tension on her face slowly fades away. Almost a minute passes before she continues to talk, as it seems she's trying to rest.:: How... how did you make it here? ::The little break she took reinvigorates her voice.::<end>
 
 =>q162
-::La tension sur son visage disparaît lentement. Presque une minute passe avant qu'elle continue à parler, comme il semble qu'elle essaie de se reposer.:: Comment... comment êtes-vous arrivé ici ? ::La petite pause qu'elle a prise revigore sa voix.::<end>
+::La tension sur son visage se dissipe, lentement. Presque une minute passe avant qu'elle reparle : elle a l'air de vouloir se reposer.:: Comment... comment t'as fait, pour arriver ici ? ::La petite pause lui a remis un peu de voix.::<end>
 
 =>a163_original
 I've fought my way through here. Bunch of mutants and other creatures were in my way.<end>
 
 =>a163
-J'ai combattu mon chemin. Des mutants et d'autres créatures étaient sur mon chemin.<end>
+Je me suis frayé$(#/e) un chemin. Une bande de mutants et d'autres bestioles sur la route.<end>
 
 =>q164_original
 You... alone? ::Your words bring back some confidence into her.:: Maybe... there's an out after all... <end>
 
 =>q164
-Tu... seule ? ::Vos mots lui apportent une certaine confiance.:: Peut-être... qu'il y a une sortie après tout... <end>
+Toi... $(#tout seul/toute seule) ? ::Vos mots lui rendent un peu de confiance.:: Peut-être... qu'il y a une sortie, après tout... <end>
 
 =>a165_original
 There are still a few left. Let's just say it was manageable. I'd like to know how you ended up in this cave?<end>
 
 =>a165
-Il en reste encore quelques-uns. Disons que c'était gérable. J'aimerais savoir comment tu as fini dans cette grotte ?<end>
+Il en reste encore quelques-uns. Disons que c'était gérable. J'aimerais savoir comment t'as fini dans cette grotte.<end>
 
 =>q166_original
 ::Her eyes now look past you, seemingly focused on to nothing.:: Likely the same way you did... Through the opening in the... waterways. We sailed from The Rig. Sent by my brother, the Rigmaster. ::She shakes her head.:: Our group rode in... pumped for some action. And it all went well until... <end>
 
 =>q166
-::Ses yeux vous regardent maintenant, apparemment concentrés sur rien.:: Probablement de la même façon que vous... Par l'ouverture des voies navigables. Nous sommes partis du Rig. Envoyé par mon frère, le maître. ::Elle secoue la tête.:: Notre groupe est entré... pompé pour agir. Et tout s'est bien passé jusqu'à... <end>
+::Ses yeux passent au-delà de vous, fixés sur rien.:: Sûrement comme toi... Par l'ouverture, dans les... voies d'eau. On a quitté The Rig. Envoyés par mon frère, le rigmaster. ::Elle secoue la tête.:: Notre groupe est entré... chauffés, prêts à l'action. Et ça allait, jusqu'à... <end>
 
 =>a167_original
 Until?<end>
@@ -1036,73 +1036,73 @@ Jusqu'à ?<end>
 We arrived to some shacks... Mutants all around us. ::She closes her eyes.:: Huge rocks started flying our way from all over... One of our guys got hit - his legs shattered like it was nothing.. He grabbed onto me... pulled him over. ::She looks down.:: We were forced to land. Freaks cornered us up against a huge metal wall. There was no way out, but to climb it.<end>
 
 =>q168
-Nous sommes arrivés à des cabanes... Des mutants autour de nous. ::Elle ferme les yeux.:: D'énormes pierres ont commencé à voler de partout... Un de nos gars a été frappé - ses jambes brisées comme si c'était rien.. Il m'a attrapé... l'a arrêté. ::Elle regarde en bas.:: Nous avons dû atterrir. Freaks nous a coincés contre un énorme mur métallique. Il n'y avait pas d'issue, mais de l'escalader.<end>
+On est arrivés à des cabanes... Des mutants partout. ::Elle ferme les yeux.:: Des cailloux énormes ont commencé à voler de partout... Un de nos gars a pris un coup - les jambes en miettes, comme rien. Il s'est accroché à moi... je l'ai tiré. ::Elle baisse les yeux.:: On a été forcés d'accoster. Les freaks nous ont coincés contre un énorme mur de métal. Pas d'autre sortie que de le grimper.<end>
 
 =>q169_original
 No clue how we did it... but we made it up there.:: Remorse can be seen on her face. She stops for a while before taking another deep breath.:: They've derailed us completely. ::She points to her head.:: With some stuff I've had left on me... I've tried to patch us up. We pushed onward.<end>
 
 =>q169
-Aucune idée de comment on l'a fait... mais on l'a inventé là-bas. ::Remorse peut être vu sur son visage. Elle s'arrête un moment avant de prendre une autre respiration profonde.:: Ils nous ont complètement déraillés. ::Elle pointe vers sa tête.:: Avec des trucs que j'ai laissés sur moi... J'ai essayé de nous arranger. Nous avons poussé.<end>
+Aucune idée comment on a fait... mais on est montés.:: Le remords se lit sur son visage. Elle s'arrête un moment, puis reprend une grande inspiration.:: Ils nous ont complètement déraillés. ::Elle se tapote la tête.:: Avec ce qu'il me restait sur moi... j'ai essayé de nous recoudre. On a poussé plus loin.<end>
 
 =>a170_original
 Where are the others now?<end>
 
 =>a170
-Où sont les autres maintenant ?<end>
+Ils sont où, les autres, maintenant ?<end>
 
 =>q171_original
 All done and gone... ::She pauses briefly. Quiet crackling of the shotgun's grip can be heard. Added to that, her hands start shaking making the weapon rattle.:: Once we made it here... all hell broke loose. The one I rescued earlier, whom we had dragged all the way, spoke up from his... foul mouth. He... he started accusing me of treason. Telling the others I've turned my back on them. Called me a rat. A SNITCH!:: She stomps the ground.::<end>
 
 =>q171
-Tout est fait et parti... ::Elle s'arrête brièvement. On peut entendre parler de la poignée du fusil. En plus de ça, ses mains se mettent à trembler, faisant trembler l'arme.:: Une fois qu'on l'a fait ici... tout s'est détaché. Celui que j'ai sauvé tout à l'heure, que nous avions traîné jusqu'au bout, a parlé de sa... mauvaise bouche. Il a commencé à m'accuser de trahison. Je leur ai dit que j'avais tourné le dos. Je suis un rat. Un SNITCH!::Elle a frappé le sol.::<end>
+Tous morts, tous partis... ::Elle s'arrête un instant. On entend craquer la crosse du fusil. En plus, ses mains se mettent à trembler, l'arme cliquette.:: Une fois ici... l'enfer s'est déchaîné. Celui que j'avais sauvé plus tôt, qu'on avait traîné tout du long, il a ouvert... sa sale gueule. Il... il a commencé à m'accuser de trahison. À dire aux autres que je leur avais tourné le dos. Il m'a traitée de ratte. D'INDIC !:: Elle frappe le sol du pied.::<end>
 
 =>a172_original
 What exactly caused the first fatality you've mentioned?<end>
 
 =>a172
-Qu'est-ce qui a causé la première mort que vous avez mentionnée ?<end>
+Qu'est-ce qui a causé la première mort dont tu as parlé ?<end>
 
 =>q173_original
 On our way here, we had to go through caves filled with spiders. It became almost impossible to navigate through the webs they've spun. He was the one caught in their trap. ::She shakes her head.:: Shortly after he... ended up getting electrocuted. ::She places her right hand over her eyes.:: Poor Sean, never stood a chance.<end>
 
 =>q173
-En venant ici, nous avons dû traverser des grottes remplies d'araignées. Il est devenu presque impossible de naviguer dans les toiles qu'ils ont filées. C'est lui qui était pris dans leur piège. ::Elle secoue la tête.:: Peu après, il a fini par se faire électrocuter. ::Elle place sa main droite sur ses yeux.:: Pauvre Sean, jamais eu une chance.<end>
+En chemin, on a dû passer des grottes pleines d'araignées. Presque impossible de s'y faufiler, avec les toiles. C'est lui qui s'est fait prendre. ::Elle secoue la tête.:: Peu après, il... il s'est fait électrocuter. ::Elle se met la main droite sur les yeux.:: Pauvre Sean. Il a jamais eu aucune chance.<end>
 
 =>a174_original
 What happened next?<end>
 
 =>a174
-Que s'est-il passé ensuite ?<end>
+Et ensuite ?<end>
 
 =>q175_original
 After I pulled the trigger, I-I... I was in shock. All the build up... couldn't hold it any more. My days were numbered. But... I was not to sit by and watch. ::She looks at her weapon.:: They are but ashes now.<end>
 
 =>q175
-Après avoir appuyé sur la détente, j'étais en état de choc. Toute l'accumulation... ne pouvait plus la tenir. Mes jours étaient comptés. Mais... Je ne devais pas m'asseoir et regarder. ::Elle regarde son arme.:: Ce ne sont que des cendres.<end>
+Après avoir appuyé sur la détente, j-je... j'étais en choc. Toute cette pression... j'ai plus pu retenir. Mes jours étaient comptés. Mais... j'allais pas rester assise à regarder. ::Elle regarde son arme.:: Ils ne sont plus que des cendres, maintenant.<end>
 
 =>a176_original
 I've been told only half of the story here. The dying man on the other side of this cave told me as much.<end>
 
 =>a176
-On ne m'a raconté que la moitié de l'histoire ici. L'homme mourant de l'autre côté de cette grotte m'en a dit autant.<end>
+On m'a raconté que la moitié de l'histoire, ici. Le mourant de l'autre côté de la grotte m'en a dit autant.<end>
 
 =>q177_original
 Half of the story? ::This surprises her, as her eyebrows raise up. She then glances at you for a few seconds, only to turn away right after..:: Pfft... And what did he tell you?<end>
 
 =>q177
-La moitié de l'histoire ? ::Cela la surprend, alors que ses sourcils se lèvent. Elle vous regarde ensuite quelques secondes, pour se détourner juste après..:: Pfft... Et qu'est-ce qu'il t'a dit ?<end>
+La moitié de l'histoire ? ::Ça la surprend, les sourcils se lèvent. Elle vous dévisage quelques secondes, puis se détourne.:: Pfft... Et qu'est-ce qu'il t'a dit ?<end>
 
 =>a178_original
 He called you a traitor.<end>
 
 =>a178
-Il vous a traité de traître.<end>
+Il t'a traitée de traîtresse.<end>
 
 =>q179_original
 Have you been sent here to finish the job? ::Once again she's trying to lift up her gun. This time, she has regained some strength and is able to aim somewhat properly.::<end>
 
 =>q179
-Vous avez été envoyé ici pour finir le travail ? ::Encore une fois, elle essaie de soulever son arme. Cette fois, elle a retrouvé une certaine force et est capable de viser un peu correctement.::<end>
+T'as été envoyé$(#/e) ici pour finir le boulot ? ::Encore une fois, elle essaie de lever l'arme. Cette fois, elle a repris un peu de force, et vise à peu près juste.::<end>
 
 =>q180_original
 <end>
@@ -1114,67 +1114,67 @@ Vous avez été envoyé ici pour finir le travail ? ::Encore une fois, elle essa
 I'm all on my own.<end>
 
 =>a181
-Je suis tout seul.<end>
+Je suis tout$(#/e) seul$(#/e).<end>
 
 =>q182_original
 ::She lowers the weapon.:: I've tried to break free. But... I just can't do it alone.<end>
 
 =>q182
-::Elle baisse l'arme.:: J'ai essayé de me libérer. Mais... Je ne peux pas le faire seul.<end>
+::Elle baisse l'arme.:: J'ai essayé de m'en sortir. Mais... j'y arrive pas, toute seule.<end>
 
 =>a183_original
 Tell me more.<end>
 
 =>a183
-Dis-moi plus.<end>
+Dis-m'en plus.<end>
 
 =>q184_original
 Ugh... ::She covers her eyes with her left hand.:: I... my brother. There is nothing left in my life. ::She wipes tears from her eyes.:: He... he wanted to get rid of me. How could he forsake our family? ::She shakes her head.:: Sent me with his goons... to take me out. And they... started calling me names... A traitor? Seriously? ::She gasps.:: I pulled the trigger. And after the mayhem, I was the last one left standing.<end>
 
 =>q184
-::Elle couvre ses yeux de la main gauche.:: I... mon frère. Il ne reste plus rien dans ma vie. ::Elle essuie les larmes de ses yeux.:: Il voulait se débarrasser de moi. Comment aurait-il pu abandonner notre famille ? ::Elle secoue la tête.:: Il m'a envoyé avec ses amis... pour m'emmener. Et ils ont commencé à m'appeler... Un traître ? Sérieusement ? ::Elle s'efface.:: J'ai appuyé sur la détente. Et après le chaos, j'étais le dernier à rester debout.<end>
+Ugh... ::Elle se couvre les yeux de la main gauche.:: Je... mon frère. Il me reste plus rien, dans ma vie. ::Elle s'essuie les larmes.:: Il... il voulait se débarrasser de moi. Comment il a pu lâcher notre famille ? ::Elle secoue la tête.:: Il m'a envoyée avec ses sbires... pour me descendre. Et eux... ils ont commencé à m'insulter... Une traîtresse ? Sérieusement ? ::Elle a un hoquet.:: J'ai appuyé sur la détente. Et après le carnage, j'étais la dernière debout.<end>
 
 =>a185_original
 They gave me no directions. All they wanted to know is whether or not your group made it alive.<end>
 
 =>a185
-Ils ne m'ont donné aucune direction. Tout ce qu'ils voulaient savoir, c'est si votre groupe l'a fait vivre.<end>
+Ils m'ont donné aucune consigne. Ils voulaient juste savoir si ton groupe était arrivé vivant.<end>
 
 =>q186_original
 They are sending out more people here ::She looks to the ground.::. And I... I need help...<end>
 
 =>q186
-Ils envoient plus de gens ici ::Elle regarde par terre.::. Et j'ai besoin d'aide...<end>
+Ils envoient encore du monde, ici ::Elle baisse les yeux.::. Et moi... j'ai besoin d'aide...<end>
 
 =>a187_original
 After everything I've learned... I indeed side with the Black Eels.<end>
 
 =>a187
-Après tout ce que j'ai appris... Je suis en effet du côté des Anguilles Noires.<end>
+Après tout ce que j'ai appris... je prends bien le parti des Black Eels.<end>
 
 =>q188_original
 You leave me no choice. Leave me be, or face the faith of the rest of my group.<end>
 
 =>q188
-Tu ne me laisses pas le choix. Laissez-moi, ou faites face à la foi du reste de mon groupe.<end>
+Tu me laisses pas le choix. Fous-moi la paix, ou tu subis le sort du reste de mon groupe.<end>
 
 =>a189_original
 As you wish. I've learned enough.<end>
 
 =>a189
-Comme vous voudrez. J'en ai assez appris.<end>
+Comme tu veux. J'en ai assez appris.<end>
 
 =>a190_original
 Your group was not meant to be. I'll make sure of it! ::Attack!::<end>
 
 =>a190
-Votre groupe n'était pas censé l'être. Je vais m'en assurer ! ::Attaque!::<end>
+Ton groupe n'aurait jamais dû exister. Je vais m'en charger ! ::Attaquer.::<end>
 
 =>a191_original
 ::Turn around and leave.::<end>
 
 =>a191
-::Faites demi-tour et partez.::<end>
+::Faire demi-tour et partir.::<end>
 
 =>a192_original
 I've had enough. I'll mind my own business.<end>
@@ -1186,127 +1186,127 @@ J'en ai assez. Je m'occupe de mes affaires.<end>
 In the end he was regretful for everything that has transpired here. I didn't catch much more than that.<end>
 
 =>a193
-En fin de compte, il regrettait tout ce qui s'est passé ici. Je n'ai pas pris plus que ça.<end>
+À la fin, il regrettait tout ce qui s'était passé ici. J'en ai pas attrapé beaucoup plus.<end>
 
 =>q194_original
 Hmph. A fool. What else could a backstabber say. Hmph... ::she tilts her chin up slightly.:: at least it seems he had a change of heart.<end>
 
 =>q194
-Oui. Un imbécile. Qu'est-ce qu'on pourrait dire d'autre. ::elle incline légèrement son menton.:: au moins il semble qu'il ait eu un changement de cœur.<end>
+Hmph. Un idiot. Qu'est-ce qu'un traître peut dire d'autre. Hmph... ::elle relève un peu le menton.:: au moins, on dirait qu'il a changé d'avis.<end>
 
 =>a195_original
 ::Keep listening, quietly.::<end>
 
 =>a195
-::Continuer à écouter.::<end>
+::Continuer d'écouter, en silence.::<end>
 
 =>a196_original
 Yeah, piece of cake. What about you though? How did you get in here?<end>
 
 =>a196
-Oui, du gâteau. Et toi ? Comment êtes-vous entré ?<end>
+Ouais, du gâteau. Et toi ? Comment t'es entrée, ici ?<end>
 
 =>a197_original
 Tool of the trade. I don't reveal my ways.<end>
 
 =>a197
-Outil du commerce. Je ne révèle pas mes voies.<end>
+Les outils du métier. Je révèle pas mes méthodes.<end>
 
 =>q198_original
 I guess... It's not like I've earned to know that... ::She exhales loudly.:: What now?<end>
 
 =>q198
-Je crois... Ce n'est pas comme si j'avais gagné à savoir que... ::Elle expire fort.:: Et maintenant ?<end>
+Je suppose... C'est pas comme si j'avais mérité de le savoir... ::Elle expire fort.:: Et maintenant ?<end>
 
 =>a199_original
 Worry not. I wish you no harm. Tell me how did you end up in here?<end>
 
 =>a199
-Ne vous inquiétez pas. Je ne vous souhaite aucun mal. Comment avez-vous fini ici ?<end>
+T'inquiète. Je te veux pas de mal. Raconte-moi comment t'as fini ici.<end>
 
 =>a200_original
 That's beside the point. I'd like to know what's going on here.<end>
 
 =>a200
-C'est à part ça. J'aimerais savoir ce qui se passe ici.<end>
+C'est pas la question. Je veux savoir ce qui se passe ici.<end>
 
 =>q201_original
 I suppose you're right... Who am I to ask that... ::She takes a deep breath.:: I was tricked. Lured here to be burried forever. ::She shakes her head, side to side in disapproval.:: By the very own people I used to live with. Day by day we've scoured the waterways. And just like that... They attempted to get rid of me this way. Not on my watch. Hmph.<end>
 
 =>q201
-Je suppose que vous avez raison... Qui suis-je pour demander que... ::Elle prend une profonde inspiration.:: j'ai été trompé. Lured ici pour être enterré pour toujours. ::Elle secoue la tête, côte à côte en désapprobation.:: Par les gens avec qui je vivais. Jour après jour, nous avons parcouru les voies navigables. Et comme ça... Ils ont essayé de se débarrasser de moi de cette façon. Pas sous ma surveillance. Oui.<end>
+Je suppose que tu as raison... Qui suis-je pour poser la question... ::Elle prend une grande inspiration.:: On m'a piégée. Attirée ici pour m'enterrer pour toujours. ::Elle secoue la tête, de gauche à droite, en désapprobation.:: Par les gens avec qui je vivais. Jour après jour, on a ratissé les voies d'eau. Et comme ça... ils ont tenté de me descendre. Pas de mon vivant. Hmph.<end>
 
 =>a202_original
 I have hard time keeping up. Care to elaborate a bit?<end>
 
 =>a202
-J'ai du mal à suivre. Vous voulez un peu de détails ?<end>
+J'ai du mal à suivre. Tu peux développer un peu ?<end>
 
 =>a203_original
 Help me connect the dots here.<end>
 
 =>a203
-Aide-moi à connecter les points.<end>
+Aide-moi à relier les points.<end>
 
 =>a204_original
 I've just walked in here. I mean no harm.<end>
 
 =>a204
-Je viens d'entrer. Je ne veux pas de mal.<end>
+Je viens d'entrer. Je veux pas de mal.<end>
 
 =>q205_original
 ::She covers her eyes with her left hand. Fatigue and better judgement make her calm down immediately. Tears start to drop down her tired face, as she slowly wipes them off.:: I-I'm... sorry. ::She speaks in quiet whispers as she thinks outloud.:: What do I do now? What...:: She seems to be mourning for something that has happened.::<end>
 
 =>q205
-::Elle couvre ses yeux de la main gauche. La fatigue et un meilleur jugement la calment immédiatement. Les larmes commencent à tomber sur son visage fatigué, alors qu'elle les essuie lentement.:: I-Je suis... désolé. ::Elle parle tranquillement en chuchotant alors qu'elle pense que c'est débordant.:: Je fais quoi maintenant ? Quoi...::Elle semble pleurer pour quelque chose qui s'est passé.::<end>
+::Elle se couvre les yeux de la main gauche. La fatigue, et un reste de bon sens, la calment tout de suite. Des larmes coulent sur son visage épuisé ; elle les essuie, lentement.:: J-je... suis désolée. ::Elle parle bas, en chuchotant, à voix haute.:: Qu'est-ce que je fais, maintenant ? Quoi...:: Elle a l'air de pleurer quelque chose qui s'est passé.::<end>
 
 =>a206_original
 No offense taken. Tell me, what's going on here?<end>
 
 =>a206
-Sans vouloir vous offenser. Dites-moi, que se passe-t-il ici ?<end>
+T'inquiète. Dis-moi, qu'est-ce qui se passe ici ?<end>
 
 =>q207_original
 A huge disaster. I've never imagined this day would come... And all this... because... ::She stops talking and few more tears drop down her face.::<end>
 
 =>q207
-Un énorme désastre. Je n'avais jamais imaginé que ce jour viendrait... Et tout ça... parce que... ::Elle arrête de parler et quelques larmes lui tombent le visage.::<end>
+Un désastre. J'aurais jamais imaginé que ce jour viendrait... Et tout ça... parce que... ::Elle s'arrête, et encore quelques larmes lui coulent.::<end>
 
 =>a208_original
 Because of what?<end>
 
 =>a208
-A cause de quoi ?<end>
+Parce que quoi ?<end>
 
 =>a209_original
 Why are you crying?<end>
 
 =>a209
-Pourquoi pleures-tu ?<end>
+Pourquoi tu pleures ?<end>
 
 =>q210_original
 I've made a mistake... They've made a mistake... This is all a huge mess.<end>
 
 =>q210
-J'ai fait une erreur... Ils ont fait une erreur... C'est un énorme bordel.<end>
+J'ai fait une erreur... Ils ont fait une erreur... C'est un putain de bordel.<end>
 
 =>a211_original
 I'm not following.<end>
 
 =>a211
-Je ne suis pas.<end>
+Je te suis plus.<end>
 
 =>a212_original
 I'm aware of your situation here. I only wish to talk.<end>
 
 =>a212
-Je suis au courant de votre situation ici. Je veux seulement parler.<end>
+Je connais ta situation, ici. Je veux seulement parler.<end>
 
 =>q213_original
 ::Midway during your sentence, it would seem she was hoping you would not act agressively towards her as she calms herself down by stopping her attempts to point the gun at you. She closes her eyes and proceedes to hear you out.:: So... You spoke to him. I thought he'd be dead by now.<end>
 
 =>q213
-::A mi-chemin pendant votre peine, il semblerait qu'elle espérait que vous n'agiriez pas avec agressivité envers elle alors qu'elle se calme en arrêtant ses tentatives de pointer l'arme sur vous. Elle ferme les yeux et va vous entendre.:: Donc... Vous lui avez parlé. Je pensais qu'il serait déjà mort.<end>
+::Au milieu de votre phrase, on dirait qu'elle espérait que vous n'alliez pas l'attaquer : elle se calme, et arrête d'essayer de vous braquer. Elle ferme les yeux et vous écoute.:: Donc... Tu lui as parlé. Je le croyais déjà mort.<end>
 
 =>a214_original
 He is dead.<end>
@@ -1318,43 +1318,43 @@ Il est mort.<end>
 I don't care. Wish I never knew him.<end>
 
 =>q215
-Je m'en fiche. J'aimerais ne jamais l'avoir connu.<end>
+Je m'en fous. J'aurais préféré ne jamais le connaître.<end>
 
 =>a216_original
 I was sent here to find out what has happened to your group.<end>
 
 =>a216
-On m'a envoyé ici pour savoir ce qui est arrivé à votre groupe.<end>
+On m'a envoyé$(#/e) ici pour savoir ce qui est arrivé à ton groupe.<end>
 
 =>q217_original
 Huh? Who... who sent you?<end>
 
 =>q217
-Quoi ? Qui vous a envoyé ?<end>
+Hein ? Qui... qui t'envoie ?<end>
 
 =>a218_original
 Ion from the Rig sent me here.<end>
 
 =>a218
-Ion du Rig m'a envoyé ici.<end>
+Ion, de The Rig, m'a envoyé$(#/e) ici.<end>
 
 =>q219_original
 Ion. I see. So... you are working for them, too?<end>
 
 =>q219
-Ion. Je vois. Tu travailles pour eux aussi ?<end>
+Ion. Je vois. Alors... tu travailles pour eux, toi aussi ?<end>
 
 =>a220_original
 Private matter.<end>
 
 =>a220
-Une affaire privée.<end>
+Affaire privée.<end>
 
 =>q221_original
 Let me guess. It was someone from RIg?<end>
 
 =>q221
-Laisse-moi deviner. C'était quelqu'un de RIG ?<end>
+Laisse-moi deviner. Quelqu'un de The Rig ?<end>
 
 =>a222_original
 Yes, it was Ion.<end>
@@ -1366,7 +1366,7 @@ Oui, c'était Ion.<end>
 I'm not repeating myself. Let's change the subject back to the current situation. What happened here?<end>
 
 =>a223
-Je ne me répète pas. Passons le sujet à la situation actuelle. Que s'est-il passé ici ?<end>
+Je me répète pas. Revenons à la situation. Qu'est-ce qui s'est passé ici ?<end>
 
 =>q224_original
 Hmph... ::Her eyes glance, side to side as she thinks for a bit.:: Fine. ::She exhales loudly.:: It's not like I have much options left here.
@@ -1376,7 +1376,7 @@ Hmph... ::Her eyes glance, side to side as she thinks for a bit.:: Fine. ::She e
 <end>
 
 =>q224
-::Ses yeux regardent, côte à côte comme elle le pense un peu.:: Très bien. ::Elle expire fort.:: C'est pas comme si j'avais encore beaucoup d'options.
+Hmph... ::Ses yeux bougent, de gauche à droite, le temps de réfléchir.:: Très bien. ::Elle expire fort.:: C'est pas comme s'il me restait beaucoup d'options.
 
 
 
@@ -1386,59 +1386,59 @@ Hmph... ::Her eyes glance, side to side as she thinks for a bit.:: Fine. ::She e
 I wish to know more, how exactly did you end up in here?<end>
 
 =>a225
-Je veux en savoir plus, comment vous êtes-vous retrouvé ici ?<end>
+Je veux en savoir plus. Comment t'as fini ici, exactement ?<end>
 
 =>a226_original
 Time for you to join the others who have fallen here! ::Attack!::<end>
 
 =>a226
-Il est temps que vous rejoigniez les autres qui sont tombés ici ! ::Attaque!::<end>
+Il est temps que tu rejoignes les autres, ceux qui sont tombés ici ! ::Attaquer.::<end>
 
 =>a227_original
 I will finish what the Black Eels started. ::Attack!::<end>
 
 =>a227
-Je finirai ce que les Black Eels ont commencé. ::Attaque!::<end>
+Je finis ce que les Black Eels ont commencé. ::Attaquer.::<end>
 
 =>a228_original
 ::Try to back away.::<end>
 
 =>a228
-::Essayez de reculer.::<end>
+::Essayer de reculer.::<end>
 
 =>q229_original
 ::She raises her shotgun.:: And where do you think you're going?<end>
 
 =>q229
-::Elle lève son fusil.:: Et où pensez-vous aller ?<end>
+::Elle lève le fusil.:: Et où tu crois aller ?<end>
 
 =>a230_original
 Sorry, I only wanted to make sure of something.<end>
 
 =>a230
-Désolé, je voulais juste m'assurer de quelque chose.<end>
+Désol$(#é/ée), je voulais juste vérifier un truc.<end>
 
 =>q231_original
 Oh yeah? ::She raises her gun.:: And I'll make sure you're NOTHING!<end>
 
 =>q231
-Ah oui ? ::Elle lève son arme.:: Et je m'assurerai que vous n'êtes rien !<end>
+Ah ouais ? ::Elle lève l'arme.:: Et moi je vais m'assurer que t'es RIEN !<end>
 
 =>a232_original
 ::Fight!::<end>
 
 =>a232
-::Lutte!::<end>
+::Combattre.::<end>
 
 =>a233_original
 ::Ignore her.::<end>
 
 =>a233
-::Ignore-la.::<end>
+::L'ignorer.::<end>
 
 =>q234_original
 I'm all alone now... AND I INTEND TO STAY SO!<end>
 
 =>q234
-Je suis toute seule maintenant... Et je veux rester ainsi !<end>
+Je suis toute seule, maintenant... ET J'AI L'INTENTION DE LE RESTER !<end>
 

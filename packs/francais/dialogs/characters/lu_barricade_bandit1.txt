@@ -2,19 +2,19 @@
 Alright, move along...<end>
 
 =>q1
-Bon, circulez...<end>
+Bon, circule...<end>
 
 =>q2_original
 Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
 
 =>q2
-Qu'est-ce que tu regardes, p'tit con ? Tente rien de drôle ou... ::Il fait un geste de pistolet avec le doigt et vise ta tête.:: BLAM !<end>
+Tu regardes quoi, p'tit con ? Tente rien de drôle, ou... ::Il fait un pistolet avec les doigts et vise ta tête.:: BLAM !<end>
 
 =>q3_original
 Um.. um... $(#jack/sister), just... go. You can pass...<end>
 
 =>q3
-Euh.. euh... $(#jack/sister), juste... vas-y. Tu peux passer...<end>
+Euh... euh... $(#gars/sœurette), juste... vas-y. Tu peux passer...<end>
 
 =>q4_original
 <end>
@@ -38,43 +38,43 @@ Hé, toi ! Les larves comme toi passent pas sans payer $(context.npc_lu_bandit1_
 Just take it and leave me alone. ::Give him 20 charons.::<end>
 
 =>a7
-Prends ça et laisse-moi tranquille. ::Lui donner 20 charons.::<end>
+Prends ça et fous-moi la paix. ::Lui donner 20 charons.::<end>
 
 =>q8_original
 ::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
 
 =>q8
-::Il sourit.:: Merci beaucoup, aimable $(#monsieur/madame). Maintenant bouge !<end>
+::Il sourit.:: Merci bien, aimable $(#monsieur/madame). Maintenant, bouge !<end>
 
 =>a9_original
 Here's 5 charons. ::Give him 5 charons::<end>
 
 =>a9
-Voici 5 charons. ::Lui donner 5 charons::<end>
+Voilà 5 charons. ::Lui donner 5 charons.::<end>
 
 =>q10_original
 Alright, what are you waiting for? Hop along little hopper, hop!<end>
 
 =>q10
-Bon, qu'est-ce que t'attends ? Saute, petit hopper, saute !<end>
+Bon, tu attends quoi ? Allez hop, petit sauteur, hop !<end>
 
 =>a11_original
 Just take it and leave me alone. ::Give him 30 charons.::<end>
 
 =>a11
-Prends ça et laisse-moi tranquille. ::Lui donner 30 charons.::<end>
+Prends ça et fous-moi la paix. ::Lui donner 30 charons.::<end>
 
 =>a12_original
 You wont get even one charon out from me!<end>
 
 =>a12
-Tu m'extorqueras pas un seul charon !<end>
+Tu m'arracheras pas un seul charon !<end>
 
 =>q13_original
 We'll see about that! Maggot! ::He readies his weapon.::<end>
 
 =>q13
-On verra ça ! Larve ! ::Il arme son arme.::<end>
+On va voir ça ! Larve ! ::Il lève son arme.::<end>
 
 =>a14_original
 ::Fight!::<end>
@@ -86,25 +86,25 @@ On verra ça ! Larve ! ::Il arme son arme.::<end>
 ::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
 
 =>a15
-::[Intimidation]:: Laisse-moi passer ou je t'arrache bras et jambes ! T'as entendu, « larve » !?<end>
+::[Intimidate]:: Laisse-moi passer, ou je t'arrache bras et jambes ! T'as entendu, « larve » ?!<end>
 
 =>q16_original
 Um... calm down, take what you need, okay? We were just messing around.<end>
 
 =>q16
-Euh... calme-toi, prends ce qu'il te faut, ok ? On déconnait juste.<end>
+Euh... du calme, prends c'qu'il te faut, ok ? On déconnait, c'est tout.<end>
 
 =>q17_original
 Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
 
 =>q17
-Euh... On plaisantait. Un peu de fun a jamais fait de mal à personne, non ? Tu es, euh, libre de passer.<end>
+Euh... On plaisantait. Un peu de rigolade a jamais fait de mal à personne, non ? T'es, euh, libre de passer.<end>
 
 =>q18_original
 Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
 
 =>q18
-Hé ! Tu te prends pour qui !? Je vais te donner une petite leçon, larve !<end>
+Hé ! Tu te prends pour qui ? Je vais te donner une petite leçon, larve !<end>
 
 =>a19_original
 ::Fight!::<end>
@@ -116,7 +116,7 @@ Hé ! Tu te prends pour qui !? Je vais te donner une petite leçon, larve !<end>
 ::[Persuade]:: Look sweetie, I just want to pass.<end>
 
 =>a20
-::[Persuasion]:: Écoute mon chou, je veux juste passer.<end>
+::[Persuade]:: Écoute mon chou, je veux juste passer.<end>
 
 =>q21_original
 Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
@@ -128,7 +128,7 @@ Ooooh ! D'accord, mon sucre, je te laisse passer, mais seulement parce que t'as 
 I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
 
 =>q22
-J'en suis sûr... Écoute, et si tu me donnais... hmmm, cinq charons ? Cinq charons et je te laisse passer.<end>
+J'en suis sûr... Écoute, et si tu me filais... hmmm, cinq charons ? Cinq charons et je te laisse passer.<end>
 
 =>a23_original
 Ok, I'll pay. ::Give him 5 charons.::<end>
@@ -140,13 +140,13 @@ Ok, je paie. ::Lui donner 5 charons.::<end>
 Sounds good, but I'll just have to come back later.<end>
 
 =>a24
-Ça me va, mais il va falloir que je revienne plus tard.<end>
+Ça me va, mais il va falloir que je revienne.<end>
 
 =>q25_original
 Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
 
 =>q25
-Désolé, $(context.npc_lu_bandit1_toll) charons. Même pour toi, chérie.<end>
+Désolé, $(context.npc_lu_bandit1_toll) charons. Même pour toi, mon cœur.<end>
 
 =>a26_original
 Looks like I need to find another way around.<end>
@@ -158,7 +158,7 @@ On dirait que je dois trouver un autre chemin.<end>
 Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
 
 =>q27
-De retour ? Prêt à payer ces $(context.npc_lu_bandit1_toll) charons maintenant ? Hmm ?<end>
+De retour ? $(#Prêt/Prête) à payer ces $(context.npc_lu_bandit1_toll) charons, maintenant ? Hmm ?<end>
 
 =>q28_original
 <end>
@@ -170,4 +170,4 @@ De retour ? Prêt à payer ces $(context.npc_lu_bandit1_toll) charons maintenant
 You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
 
 =>q29
-Encore toi ? C'est $(context.npc_lu_bandit1_toll) charons maintenant !<end>
+Encore toi ? C'est $(context.npc_lu_bandit1_toll) charons, maintenant !<end>

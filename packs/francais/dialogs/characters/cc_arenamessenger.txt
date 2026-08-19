@@ -2,7 +2,7 @@
 Excuse me, are you $(context.player.Name)? I've got a message for $(#him/her).<end>
 
 =>q1
-Excusez-moi, vous êtes $(context.player.Name) ? J'ai un message pour $(#le/la).<end>
+Excusez-moi, vous êtes $(context.player.Name) ? J'ai un message pour $(#lui/elle).<end>
 
 =>a2_original
 Yup, that's me.<end>
@@ -14,7 +14,7 @@ Ouais, c'est moi.<end>
 Good, I've been waiting here for an hour or so; thought you weren't gonna show up... Anyway, as I mentioned, I have an important message for you.<end>
 
 =>q3
-Bien, j'attends ici depuis une heure environ ; je pensais que vous n'alliez pas venir... Bref, comme je disais, j'ai un message important pour vous.<end>
+Bien. Ça fait une heure que j'attends ici, je me disais que vous viendriez pas... Bref, comme je disais, j'ai un message important pour vous.<end>
 
 =>q4_original
 <end>
@@ -26,7 +26,7 @@ Bien, j'attends ici depuis une heure environ ; je pensais que vous n'alliez pas 
 Lieutenant Nigel Stratford from Praetorian Security wishes to speak with you. The matter is very important and you should go to him without delay.<end>
 
 =>q5
-Le lieutenant Nigel Stratford de Praetorian Security souhaite vous parler. L'affaire est très importante et vous devriez aller le voir sans délai.<end>
+Le lieutenant Nigel Stratford de Praetorian Security souhaite vous parler. C'est important, vous devriez y aller sans tarder.<end>
 
 =>a6_original
 Is that all?<end>
@@ -44,13 +44,13 @@ C'est tout.<end>
 See you around then. Goodbye.<end>
 
 =>a8
-À une prochaine alors. Au revoir.<end>
+À une prochaine, alors. Au revoir.<end>
 
 =>a9_original
 Thank you. Here's a charon for your troubles. ::Give him one charon.::<end>
 
 =>a9
-Merci. Voici un charon pour le dérangement. ::Lui donner un charon.::<end>
+Merci. Un charon pour le dérangement. ::Lui donner un charon.::<end>
 
 =>q10_original
 I don't ne-- ::He takes the charon.:: Thank you very much! Have a nice day.<end>
@@ -68,34 +68,34 @@ Au revoir.<end>
 Joseph Harlan from Coretech wishes to speak with you. The matter is very important and you should go to him without delay.<end>
 
 =>q12
-Joseph Harlan de Coretech souhaite vous parler. L'affaire est très importante et vous devriez aller le voir sans délai.<end>
+Joseph Harlan de Coretech souhaite vous parler. C'est important, vous devriez y aller sans tarder.<end>
 
 =>q13_original
 Ola Halidorson from JKK wishes to speak with you. The matter is very important and you should go to him without delay.<end>
 
 =>q13
-Ola Halidorson de JKK souhaite vous parler. L'affaire est très importante et vous devriez aller le voir sans délai.<end>
+Ola Halidorson de JKK souhaite vous parler. C'est important, vous devriez y aller sans tarder.<end>
 
 =>a14_original
 That's me, but you can also call me $(context.playerArenaTitle). I'm a gladiator.<end>
 
 =>a14
-C'est moi, mais vous pouvez aussi m'appeler $(context.playerArenaTitle). Je suis gladiateur.<end>
+C'est moi, mais vous pouvez aussi m'appeler $(context.playerArenaTitle). Je suis $(#gladiateur/gladiatrice).<end>
 
 =>a15_original
 Don't you recognize me? I'm $(context.player.Name), also known as $(context.playerArenaTitle) - the mighty Invictus. Speak, little man - what is this message you have for me, hm?<end>
 
 =>a15
-Vous me reconnaissez pas ? Je suis $(context.player.Name), aussi connu sous le nom de $(context.playerArenaTitle) - le puissant Invictus. Parle, petit homme - quel est ce message pour moi, hm ?<end>
+Vous me reconnaissez pas ? Je suis $(context.player.Name), aussi connu comme $(context.playerArenaTitle) - le puissant Invictus. Parle, petit homme : c'est quoi ce message, hm ?<end>
 
 =>q16_original
 I'm sorry, please don't be mad. It's just a habit, I... I recognized you right away! As I mentioned, I have a message for you, Invictus.<end>
 
 =>q16
-Pardon, ne vous fâchez pas. C'est juste une habitude, je... je vous ai reconnu tout de suite ! Comme je disais, j'ai un message pour vous, Invictus.<end>
+Pardon, vous fâchez pas. C'est juste une habitude, je... je vous ai reconnu tout de suite ! Comme je disais, j'ai un message pour vous, Invictus.<end>
 
 =>q17_original
 That one is done. Now, where the hell do I find this Blanket guy!? ::Sighs.:: I hate this job...<end>
 
 =>q17
-Celui-là c'est fait. Maintenant, où diable je trouve ce type Blanket !? ::Soupire.:: Je déteste ce boulot...<end>
+Celui-là, c'est fait. Maintenant, où diable je trouve ce type, Blanket ? ::Soupire.:: Je déteste ce boulot...<end>

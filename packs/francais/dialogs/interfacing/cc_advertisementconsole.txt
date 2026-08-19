@@ -4,15 +4,15 @@
 Please select one of the options::<end>
 
 =>q1
-::Bienvenue au terminal de contrôle publicitaire JKK 6 - entrée Core City
+::Terminal pub JKK 6 - entrée Core City
 
-Veuillez sélectionner une des options::<end>
+Choisir une option.::<end>
 
 =>a2_original
 ::Add advertisement to rotation::<end>
 
 =>a2
-::Ajouter une publicité à la rotation::<end>
+::Ajouter une pub à la rotation::<end>
 
 =>q3_original
 ::Currently displaying:
@@ -20,9 +20,9 @@ Veuillez sélectionner une des options::<end>
 HerculesTest, Gauntlet ad 1, ArenaNow ad 3::<end>
 
 =>q3
-::Présentant actuellement :
+::À l'écran :
 
-HerculesTest, Gauntlet annonce 1, ArenaNow annonce 3::<end>
+HerculesTest, pub Gauntlet 1, pub ArenaNow 3::<end>
 
 =>a4_original
 ::Back::<end>
@@ -36,15 +36,15 @@ HerculesTest, Gauntlet annonce 1, ArenaNow annonce 3::<end>
 Gauntlet advertisement 1, ArenaNow advertisement 3::<end>
 
 =>q5
-::Présentant actuellement :
+::À l'écran :
 
-Gauntlet publicité 1, ArenaNow publicité 3::<end>
+pub Gauntlet 1, pub ArenaNow 3::<end>
 
 =>a6_original
 ::Upload and display the Hercules test results on the advertisement screen.::<end>
 
 =>a6
-::Télécharger et afficher les résultats du test Hercules sur l'écran publicitaire.::<end>
+::Envoyer les résultats du test Hercules à l'écran.::<end>
 
 =>q7_original
 ::Operation performed successfuly
@@ -69,16 +69,16 @@ This terminal is now permanently locked
 Please contact support for further information::<end>
 
 =>q9
-::Vous avez tapé le mauvais mot de passe trois fois de suite
-Ce terminal est maintenant verrouillé en permanence
+::Mauvais mot de passe, trois fois de suite.
+Terminal verrouillé pour de bon.
 
-Veuillez contacter le support pour plus d'informations::<end>
+Contacter le support.::<end>
 
 =>a10_original
 ::[Hacking] Attempt to gain access to the system::<end>
 
 =>a10
-::[Frappe] Tentative d'accès au système::<end>
+::[Hacking] Tenter d'accéder au système::<end>
 
 =>q11_original
 ::Access granted::<end>
@@ -96,7 +96,7 @@ Veuillez contacter le support pour plus d'informations::<end>
 ::Please enter the security password::<end>
 
 =>q13
-::Veuillez saisir le mot de passe de sécurité::<end>
+::Saisir le mot de passe.::<end>
 
 =>q14_original
 <end>
@@ -108,7 +108,7 @@ Veuillez contacter le support pour plus d'informations::<end>
 ::password::<end>
 
 =>a15
-::mot de passe::<end>
+::password::<end>
 
 =>q16_original
 ::Incorrect password
@@ -116,19 +116,19 @@ Please try again::<end>
 
 =>q16
 ::Mot de passe incorrect
-Veuillez réessayer.::<end>
+Réessayer.::<end>
 
 =>a17_original
 ::admin::<end>
 
 =>a17
-::administrateur::<end>
+::admin::<end>
 
 =>a18_original
 ::user::<end>
 
 =>a18
-::utilisateur::<end>
+::user::<end>
 
 =>a19_original
 ::12345::<end>
@@ -140,29 +140,28 @@ Veuillez réessayer.::<end>
 ::Password is correct::<end>
 
 =>q20
-::Le mot de passe est correct::<end>
+::Mot de passe correct.::<end>
 
 =>a21_original
 ::letmein::<end>
 
 =>a21
-::la menthe::<end>
+::letmein::<end>
 
 =>a22_original
 ::wholetthehoundsout::<end>
 
 =>a22
-::tout le reste::<end>
+::wholetthehoundsout::<end>
 
 =>a23_original
 ::mushrooms::<end>
 
 =>a23
-::champignons::<end>
+::mushrooms::<end>
 
 =>a24_original
 ::Type something random::<end>
 
 =>a24
-::Tapez quelque chose au hasard::<end>
-
+::Taper au hasard::<end>

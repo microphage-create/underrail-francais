@@ -1,4 +1,5 @@
 =>q1_original
+
 ::LEMCO L-MSU - Medication Synthesis Unit
 
 Please select the item you want to synthesize. The percentage of total MedSynth chemical content required for synthesis is displayed next to each item.
@@ -6,6 +7,7 @@ Please select the item you want to synthesize. The percentage of total MedSynth 
 ::<end>
 
 =>q1
+
 ::LEMCO L-MSU - Unité de synthèse des médicaments
 
 Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu chimique MedSynth nécessaire à la synthèse est affiché à côté de chaque élément.
@@ -13,36 +15,47 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 ::<end>
 
 =>q2_original
+
 <end>
 
 =>q2
+
 <end>
 
 =>q3_original
+
 ::MSCC gauge level: $(context.loc_xpbl_as_medicationSynthesisCanisterCharge)%::<end>
 
 =>q3
+
 ::Niveau de jauge MSCC : $(context.loc xpbl as medicationSynthesisCanisterCharge)%::<end>
 
 =>q4_original
+
 :: - Please replace the MedSynth chemical canister.::<end>
 
 =>q4
+
 ::- Veuillez remplacer la boîte chimique MedSynth.::<end>
 
 =>q5_original
+
 <end>
 
 =>q5
+
 <end>
 
 =>a6_original
+
 ::Synthesize advanced health hypo (-10%)::<end>
 
 =>a6
-::Synthétiser l'hypoglycémie avancée (-10%)::<end>
+
+::Synthétiser l'hypo avancé (-10%)::<end>
 
 =>q7_original
+
 ::Preparing container... Done.
 
 Synthesizing...
@@ -50,6 +63,7 @@ Synthesizing...
 Synthesis successful. Please collect your item from the deposit tray.::<end>
 
 =>q7
+
 ::Préparation du contenant...
 
 La synthèse...
@@ -57,62 +71,82 @@ La synthèse...
 Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
 
 =>a8_original
+
 ::Synthesize morphine shot (-10%)::<end>
 
 =>a8
+
 ::Synthétisation de la morphine (-10%)::<end>
 
 =>a9_original
+
 ::Synthesize adrenaline shot (-10%)::<end>
 
 =>a9
+
 ::Synthétiser la dose d'adrénaline (-10%)::<end>
 
 =>a10_original
+
 ::Synthesize psi booster (-5%)::<end>
 
 =>a10
+
 ::Synthétiser l'amplificateur psi (-5%)::<end>
 
 =>a11_original
+
 ::Synthesize desaturated psionic inhalant (-5%)::<end>
 
 =>a11
+
 ::Inhalant psionique désaturé synthétisé (-5%)::<end>
 
 =>a12_original
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>a12
+
 ::Synthesize focus stim (-15%)::<end>
 
 =>a13_original
+
 ::Synthesize jumping bean (-15%)::<end>
 
 =>a13
+
 ::Haricot de saut synthétique (-15%)::<end>
 
 =>a14_original
+
 ::Synthesize bullhead (-20%)::<end>
 
 =>a14
+
 ::Synthétiser la tête de taureau (-20%)::<end>
 
 =>a15_original
+
 ::Synthesize third eye (-25%)::<end>
 
 =>a15
+
 ::Synthétiser le troisième œil (-25%)::<end>
 
 =>a16_original
+
 ::Synthesize hypercerebrix (-30%)::<end>
 
 =>a16
+
 ::Hypercérébrix de synthèse (-30%)::<end>
 
 =>a17_original
+
 ::Exit::<end>
 
 =>a17
+
 ::Sortie::<end>
 

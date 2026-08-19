@@ -2,7 +2,7 @@
 Good day, Invictus. Go right in.<end>
 
 =>q1
-Bonne journée, Invictus. Entrez.<end>
+Bonjour, Invictus. Entrez.<end>
 
 =>q2_original
 $(context.playerArenaTitle)?<end>
@@ -14,7 +14,7 @@ $(context.playerArenaTitle) ?<end>
 Hey, $(context.player.Name), how's it going?<end>
 
 =>q3
-Hé, $(context.player.Name), comment ça va ?<end>
+Hé, $(context.player.Name), comment allez-vous ?<end>
 
 =>q4_original
 If you'd excuse me, I have some important work to do.<end>
@@ -30,9 +30,9 @@ Listen, $(#man/woman), I've already told you your son never ca--! Oh... oh - goo
 Ehm, so, how may I help you?<end>
 
 =>q5
-::L'homme détache son regard des papiers sur le bureau et lève les yeux. Immédiatement, il pointe son index crochu vers toi.:: 
+::L'homme détache son regard des papiers sur le bureau et lève les yeux. Aussitôt, il pointe son index crochu vers vous.::
 
-Écoutez, $(#man/woman), je vous ai déjà dit que votre fils n'est jamais ve-- ! Oh... oh - bonne journée, $(#monsieur/madame), bonne journée. Je m'excuse d'avoir haussé le ton, je vous ai pris pour quelqu'un d'autre. Un stupide $(#codger/hag) m'embête toute la journée à propos de... bref, laissez tomber.
+Écoutez, $(#gars/fille), je vous ai déjà dit que votre fils n'est jamais ve-- ! Oh... oh - bonjour, $(#monsieur/madame), bonjour. Je m'excuse d'avoir haussé le ton, je vous ai pris pour quelqu'un d'autre. $(#Un stupide vieux croulant/Une stupide vieille bique) m'importune toute la journée à propos de... enfin, peu importe.
 
 Euh, donc, en quoi puis-je vous aider ?<end>
 
@@ -46,19 +46,19 @@ Euh, donc, en quoi puis-je vous aider ?<end>
 Hi there. What can you tell me about this place?<end>
 
 =>a7
-Salut. Que pouvez-vous me dire sur cet endroit ?<end>
+Bonjour. Que pouvez-vous me dire sur cet endroit ?<end>
 
 =>q8_original
 This is the Core City Arena - a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator. <end>
 
 =>q8
-C'est l'Arena de Core City - un lieu où seuls les hommes et femmes les plus audacieux viennent s'affronter - et des bêtes terrifiantes, vicieuses - en combat brutal. Tous les matchs se jouent à mort, et beaucoup ne survivent même pas au premier. Mais si vous parvenez à vivre et à dominer l'opposition, une belle pièce vous attend. Et qui sait - peut-être qu'un jour *vous* deviendrez un gladiateur célèbre. <end>
+C'est l'Arena de Core City : un lieu où seuls les hommes et les femmes les plus audacieux viennent s'affronter, ainsi que des bêtes terrifiantes, vicieuses, en combat brutal. Tous les matchs se jouent à mort, et beaucoup ne survivent même pas au premier. Mais si vous arrivez à vivre et à dominer l'opposition, de beaux charons vous attendent. Et qui sait : un jour, *vous* deviendrez peut-être $(#un gladiateur célèbre/une gladiatrice célèbre). <end>
 
 =>q9_original
 Interested in applying, $(#sir/ma'am)?<end>
 
 =>q9
-Intéressé pour postuler, $(#monsieur/madame) ?<end>
+Ça vous tente de postuler, $(#monsieur/madame) ?<end>
 
 =>a10_original
 Sounds tempting. Where do I apply?<end>
@@ -70,7 +70,7 @@ Sounds tempting. Where do I apply?<end>
 Excellent. There is courage within you after all, $(#sir/ma'am). ::He points to the door next to him.:: Take this door, go *all* the way down and speak to a man called Lanista. Big guy wearing metal armor. He'll tell you everything you need to know.<end>
 
 =>q11
-Excellent. Il y a du courage en vous après tout, $(#monsieur/madame). ::Il désigne la porte à côté de lui.:: Prenez cette porte, descendez *tout* en bas et parlez à un homme appelé Lanista. Gros type en armure de métal. Il vous dira tout ce qu'il faut savoir.<end>
+Excellent. Il y a du courage en vous, après tout, $(#monsieur/madame). ::Il désigne la porte à côté de lui.:: Prenez cette porte, descendez *tout* en bas et parlez à un homme du nom de Lanista. Gros type en armure de métal. Il vous dira tout ce qu'il faut savoir.<end>
 
 =>a12_original
 Will do.<end>
@@ -100,7 +100,7 @@ Que pouvez-vous me dire sur l'Arena ?<end>
 The answer is simple: The Arena is a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator.<end>
 
 =>q16
-La réponse est simple : l'Arena est un lieu où seuls les hommes et femmes les plus audacieux viennent s'affronter - et des bêtes terrifiantes, vicieuses - en combat brutal. Tous les matchs se jouent à mort, et beaucoup ne survivent même pas au premier. Mais si vous parvenez à vivre et à dominer l'opposition, une belle pièce vous attend. Et qui sait - peut-être qu'un jour *vous* deviendrez un gladiateur célèbre.<end>
+La réponse est simple : l'Arena est un lieu où seuls les hommes et les femmes les plus audacieux viennent s'affronter, ainsi que des bêtes terrifiantes, vicieuses, en combat brutal. Tous les matchs se jouent à mort, et beaucoup ne survivent même pas au premier. Mais si vous arrivez à vivre et à dominer l'opposition, de beaux charons vous attendent. Et qui sait : un jour, *vous* deviendrez peut-être $(#un gladiateur célèbre/une gladiatrice célèbre).<end>
 
 =>a17_original
 I changed my mind about the Arena. Where can I apply?<end>

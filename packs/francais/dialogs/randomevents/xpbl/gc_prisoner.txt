@@ -2,7 +2,7 @@
 Gotta roll, $(#buddy/sister)!<end>
 
 =>q1
-Je dois rouler, $(#buddy/sister) !<end>
+Je dois rouler, $(#gars/fille) !<end>
 
 =>q2_original
 Outta my way!<end>
@@ -14,7 +14,7 @@ Hors de mon chemin !<end>
 ::He shakes off his shackles with exalatation.:: Yes! YES! That's it $(#buddy/sister)! Yeah! <end>
 
 =>q3
-::Il secoue ses chaînes avec exalatation.:: Oui ! C'est ça $(#buddy/sister) ! Ouais ! <end>
+::Il secoue ses chaînes avec exalatation.:: Oui ! C'est ça $(#gars/fille) ! Ouais ! <end>
 
 =>q4_original
 ::He quickly wipes the smile of his face, however. He nervously glances behind him, then left and right, then at you.::
@@ -62,7 +62,7 @@ Ceci, cela a été fait dans le Nord Underrail. Vous ne trouverez jamais ça ici
 Gotta roll, $(#buddy/sister). Take care.<end>
 
 =>q9
-Je dois rouler, $(#buddy/sister). Prends soin de toi.<end>
+Je dois rouler, $(#gars/fille). Prends soin de toi.<end>
 
 =>a10_original
 You too, man.<end>
@@ -160,7 +160,7 @@ Stop staring at it and get it off, $(#buddy/sister)! Please!<end>
 =>q24
 ::Vous regardez de près : Le dispositif de retenue est fait de métal solide et lourd et il joint et isole complètement les mains. Le verrou lui-même semble être un dispositif électronique sophistiqué, probablement aussi capable d'être contrôlé sans fil, et il a une lumière rouge d'un côté indiquant l'état du courant verrouillé. Le sang, les morceaux de cheveux et de tissus ainsi que les déformations dans le métal, cependant, peindre une image sombre de l'application involontaire de cet appareil.::
 
-Arrête de le fixer et enlève-le, $(#buddy/sister) ! S'il vous plaît !<end>
+Arrête de le fixer et enlève-le, $(#gars/fille) ! S'il vous plaît !<end>
 
 =>q25_original
 <end>
@@ -202,13 +202,13 @@ Vous plaisantez ? Parce qu'il y a des lumières brillantes sur le côté ? Tu pe
 Listen to me. I beg of you - get this thing off of my hands, please! Please, $(#buddy/sister)! I ain't got much time.<end>
 
 =>q31
-Écoute-moi. Je vous en prie, lâchez ce truc de mes mains, s'il vous plaît ! S'il vous plaît, $(#buddy/sister) ! Je n'ai pas beaucoup de temps.<end>
+Écoute-moi. Je vous en prie, lâchez ce truc de mes mains, s'il vous plaît ! S'il vous plaît, $(#gars/fille) ! Je n'ai pas beaucoup de temps.<end>
 
 =>a32_original
 ::[Persuade]:: Look, I *know* you aren't running away from Lurkers. Tell me who's after you so I could misdirect them if I meet them.<end>
 
 =>a32
-::[Persuader]:: Je sais que tu ne fuis pas les Lurker. Dis-moi qui est après toi pour que je puisse mal les diriger si je les rencontre.<end>
+::[Persuade]:: Je sais que tu ne fuis pas les Lurker. Dis-moi qui est après toi pour que je puisse mal les diriger si je les rencontre.<end>
 
 =>q33_original
 W-- Why would you do that?<end>
@@ -286,7 +286,7 @@ Tu ne me prendras jamais en vie, salaud !<end>
 ::Fight!::<end>
 
 =>a45
-::Lutte!::<end>
+::Combattre::<end>
 
 =>q46_original
 Well... I doubt you're gonna be able to misdirect Lurkers - 'cause they gonna cut you up like a pig. Now get me out of this thing. Please!<end>
@@ -322,13 +322,13 @@ Ne bougez pas et j'essaierai d'ouvrir la serrure.<end>
 ::He glances behind him.:: Yeah, yeah, but try and keep it quick, $(#buddy/sister).<end>
 
 =>q51
-::Il regarde derrière lui.:: Oui, mais essayez de faire vite, $(#buddy/sister).<end>
+::Il regarde derrière lui.:: Oui, mais essayez de faire vite, $(#gars/fille).<end>
 
 =>a52_original
 ::[Strength]:: I've got strong hands.<end>
 
 =>a52
-::[Resistance]:: J'ai des mains fortes.<end>
+::[Strength]:: J'ai des mains fortes.<end>
 
 =>q53_original
 The...?
@@ -378,13 +378,13 @@ Une femme... si forte... C'est chaud ! Oui. Merde, ma sœur !<end>
 Hey, $(#buddy/sister), stop fooling around and try to get this thing off of my hands for real. ::He glances behind him.:: They could catch up to me any moment now.<end>
 
 =>q59
-Hey, $(#buddy/sister), arrête de te tromper et essaie de me tirer de là pour de vrai. ::Il regarde derrière lui.:: Ils pourraient me rattraper d'un moment à l'autre.<end>
+Hey, $(#gars/fille), arrête de te tromper et essaie de me tirer de là pour de vrai. ::Il regarde derrière lui.:: Ils pourraient me rattraper d'un moment à l'autre.<end>
 
 =>a60_original
 ::[Strength]:: I've got this crowbar I could try.<end>
 
 =>a60
-::[Resistance]:: J'ai cette barre de bois que je pourrais essayer.<end>
+::[Strength]:: J'ai cette barre de bois que je pourrais essayer.<end>
 
 =>q61_original
 Great! Go for it, $(#buddy/sister)!
@@ -392,7 +392,7 @@ Great! Go for it, $(#buddy/sister)!
 ::The man kneels down and places his restrained hands on the ground. You jam the crowbar between the man's wrists and attempt to pry it open.::<end>
 
 =>q61
-Génial ! Allez-y, $(#buddy/sister) !
+Génial ! Allez-y, $(#gars/fille) !
 
 ::L'homme s'agenouille et met ses mains sur le sol. Tu bloques la barre entre les poignets de l'homme et essayes de l'ouvrir.::<end>
 
@@ -406,7 +406,7 @@ Génial ! Allez-y, $(#buddy/sister) !
 Yes! YES! That's it $(#buddy/sister)!<end>
 
 =>q63
-Oui ! Oui ! C'est ça $(#buddy/sister) !<end>
+Oui ! Oui ! C'est ça $(#gars/fille) !<end>
 
 =>q64_original
 ::You press your weight against one end of the crowbar, leaning towards the man while having the other end push away from him. You feel it - it's close to giving in! You lean one more time, using all the power you can muster - and your hands slip and you almost kiss the ground with your nose. You give it another go - so close! But after that kiss actually happens you decide that, for your own sake, it might be better to figure out some other way to break his hands free.::<end>
@@ -418,7 +418,7 @@ Oui ! Oui ! C'est ça $(#buddy/sister) !<end>
 You okay? Is it bleeding? Damn it, $(#buddy/sister), you better try something else. Can you pick the lock?<end>
 
 =>q65
-Ça va ? Ça saigne ? Merde, $(#buddy/sister), tu ferais mieux d'essayer autre chose. Tu peux choisir la serrure ?<end>
+Ça va ? Ça saigne ? Merde, $(#gars/fille), tu ferais mieux d'essayer autre chose. Tu peux choisir la serrure ?<end>
 
 =>a66_original
 Sorry, man, but I don't know how to get these things off.<end>

@@ -2,7 +2,7 @@
 ::As before, you topple the bot on its back and take a look at its insides.::<end>
 
 =>q1
-::Comme avant, vous renversez le bot sur son dos et jetez un coup d'œil à son intérieur.::<end>
+::Comme avant, vous basculez le bot sur le dos et jetez un œil à ses entrailles.::<end>
 
 =>q2_original
 <end>
@@ -14,7 +14,7 @@
 ::Examine the hardware.::<end>
 
 =>a3
-::Examinez le matériel.::<end>
+::Examiner le matériel.::<end>
 
 =>q4_original
 <end>
@@ -26,7 +26,7 @@
 ::[Mechanics] Since the bot did go around you when you stood in its path, you suspect that its sensors are working at least somewhat well, so you turn your attention to the servo-pneumatic system which controls the bot's motion. After spending some time inspecting various components, you find that a few of the pneumatic valves aren't working as they should, thus causing the servomotors to run asynchronously and hinder the bot's movement.::<end>
 
 =>q5
-::[Mécanique] Puisque le bot a fait le tour de vous quand vous étiez dans son chemin, vous soupçonnez que ses capteurs fonctionnent au moins un peu bien, donc vous tournez votre attention sur le système servo-pneumatique qui contrôle le mouvement du bot. Après avoir passé un certain temps à inspecter divers composants, vous constatez que quelques-unes des valves pneumatiques ne fonctionnent pas comme elles devraient, ce qui provoque le fonctionnement asynchrone des servomoteurs et entrave le mouvement du robot.::<end>
+::[Mechanics] Le bot vous a contourné quand vous lui barriez la route : ses capteurs ont l'air de marcher, au moins en gros. Vous vous penchez donc sur le système servo-pneumatique qui commande ses mouvements. Après un moment à inspecter les pièces, vous voyez que quelques valves pneumatiques ne font plus ce qu'elles devraient : les servomoteurs tournent en décalé et empêchent le bot d'avancer droit.::<end>
 
 =>q6_original
 <end>
@@ -38,91 +38,91 @@
 ::[Electronics] Meanwhile, you spot what appears to be a high-frequency energy shield emitter. This emitter itself is specifically built for the bot's body shape, size, power source as well as specific means of control, so it cannot be simply removed and used as a normal shield would without some heavy modifications. However, you might be able to remove the quality high-frequency modulator, which can be reused later for a different energy shield emitter.::<end>
 
 =>q7
-::[Électronique] Pendant ce temps, vous repèrez ce qui semble être un émetteur de bouclier d'énergie haute fréquence. Cet émetteur lui-même est spécifiquement construit pour la forme du corps, la taille, la source d'énergie ainsi que des moyens spécifiques de contrôle, de sorte qu'il ne peut pas être simplement enlevé et utilisé comme un bouclier normal sans quelques modifications lourdes. Cependant, vous pourriez être en mesure d'enlever le modulateur haute fréquence de qualité, qui peut être réutilisé plus tard pour un émetteur de bouclier d'énergie différent.::<end>
+::[Electronics] Pendant ce temps, vous tombez sur ce qui ressemble à un émetteur de bouclier énergétique haute fréquence. Il est taillé pour la forme, la taille, l'alimentation et le pilotage de ce bot : impossible de le démonter et de s'en servir comme d'un bouclier normal sans de gros travaux. En revanche, vous pourriez extraire le modulateur haute fréquence, une pièce de qualité réutilisable plus tard sur un autre émetteur.::<end>
 
 =>q8_original
 ::You take a look around the interior in hopes you will spot something else of interest, but you find nothing.::<end>
 
 =>q8
-::Vous regardez autour de l'intérieur dans l'espoir que vous allez repérer autre chose d'intérêt, mais vous ne trouvez rien.::<end>
+::Vous fouillez encore l'intérieur, au cas où il resterait quelque chose d'intéressant. Rien.::<end>
 
 =>q9_original
 ::You stare at the complex machinery, mostly focusing on what appears to be some kind of servomechanism, but since you know so little about it you aren't able to find a cause for this bot's strange walking pattern.::<end>
 
 =>q9
-::Vous regardez les machines complexes, se concentrant principalement sur ce qui semble être une sorte de servoméchanisme, mais comme vous en savez si peu, vous ne pouvez pas trouver une cause pour ce bot étrange modèle de marche.::<end>
+::Vous fixez la machinerie, surtout ce qui ressemble à un servomécanisme, mais vous n'y connaissez pas assez pour comprendre pourquoi ce bot marche de travers.::<end>
 
 =>a10_original
 ::[Mechanics] Repair the faulty pneumatic valves.::<end>
 
 =>a10
-::[Mécanique] Réparer les valves pneumatiques défectueuses.::<end>
+::[Mechanics] Réparer les valves pneumatiques défectueuses.::<end>
 
 =>q11_original
 ::Fortunately, you do not need to completely replace the faulty valves, as you are able to repair them on the spot. Already you notice how the bots legs - still flailing about - now seem to be flailing a lot more synchronously. Hopefully it will now be able to walk in a straight line.::<end>
 
 =>q11
-::Heureusement, vous n'avez pas besoin de remplacer complètement les valves défectueuses, car vous êtes en mesure de les réparer sur place. Déjà vous remarquez comment les jambes de bots - toujours en train de défiler - semblent maintenant être en train de défiler beaucoup plus synchrone. Espérons qu'il pourra maintenant marcher en ligne droite.::<end>
+::Heureusement, pas besoin de tout remplacer : vous arrivez à réparer les valves sur place. Les jambes du bot - toujours en train de battre l'air - s'agitent déjà beaucoup plus en rythme. Avec un peu de chance, il pourra marcher droit.::<end>
 
 =>q12_original
 ::While the valves seemed like a relatively simple fix, now that you look at it you realize that you will not be able to repair them on the spot. Rather, you will need to acquire the replacement valves for this particular servopneumatic system, and that is something you don't remember ever seeing available anywhere.::<end>
 
 =>q12
-::Alors que les valves semblaient être une solution relativement simple, maintenant que vous la regardez, vous réalisez que vous ne serez pas en mesure de les réparer sur place. Vous aurez plutôt besoin d'acquérir les valves de remplacement pour ce système servopneumatique particulier, et c'est quelque chose que vous ne vous souvenez jamais voir disponible n'importe où.::<end>
+::Les valves avaient l'air d'une réparation simple. En y regardant de plus près, impossible de les réparer sur place. Il faudrait des valves de rechange pour ce système servopneumatique-là, et vous n'en avez jamais vu nulle part.::<end>
 
 =>a13_original
 ::[Electronics] Remove the high frequency shield modulator.::<end>
 
 =>a13
-::[Électronique] Enlever le modulateur de bouclier haute fréquence.::<end>
+::[Electronics] Retirer le modulateur de bouclier haute fréquence.::<end>
 
 =>q14_original
 ::You carefully disconnect the bot's shield emitter from its power supply and successfully remove the modulator.::<end>
 
 =>q14
-::Vous déconnectez soigneusement l'émetteur de bouclier du robot de son alimentation et retirez avec succès le modulateur.::<end>
+::Vous débranchez soigneusement l'émetteur de bouclier de son alimentation et vous sortez le modulateur.::<end>
 
 =>q15_original
 ::Fortunately, the bot does not react to you fiddling with its shield emitter.::<end>
 
 =>q15
-::Heureusement, le bot ne réagit pas à ce que vous fendiez avec son émetteur de boucliers.::<end>
+::Heureusement, le bot ne réagit pas quand vous tripotez son émetteur de bouclier.::<end>
 
 =>q16_original
 ::As you try to remove the modulator a spark and a puff of smoke appear before your eyes. The matching smell reaches your nose quickly, and you lift your head up and observe the now-useless modulator. You thought removing all the cables would be enough to safely remove the component, but the result conclusively disproved your hastily-conceived hypothesis, it seems.::<end>
 
 =>q16
-::Lorsque vous essayez d'enlever le modulateur, une étincelle et une bouffée de fumée apparaissent devant vos yeux. L'odeur correspondante atteint votre nez rapidement, et vous soulevez la tête et observez le modulateur maintenant inutilisable. Vous pensiez enlever tous les câbles serait suffisant pour enlever le composant en toute sécurité, mais le résultat a définitivement réfuté votre hypothèse hâtivement conçue, il semble.::<end>
+::Vous essayez d'extraire le modulateur : une étincelle et un nuage de fumée vous sautent aux yeux. L'odeur suit tout de suite. Vous relevez la tête : le modulateur est mort. Vous pensiez qu'enlever tous les câbles suffirait à sortir la pièce sans risque, mais le résultat enterre net votre hypothèse concoctée à la va-vite.::<end>
 
 =>a17_original
 ::Close the panel and let the bot go.::<end>
 
 =>a17
-::Fermez le panneau et laissez le robot partir.::<end>
+::Fermer le panneau et laisser le bot partir.::<end>
 
 =>q18_original
 ::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and walks away from you in a straight line as if nothing ever happened.::<end>
 
 =>q18
-::Vous fermez le panneau et vous vous levez du robot. Il revient sur ses jambes étonnamment nimbly et s'éloigne de vous dans une ligne droite comme si rien n'était jamais arrivé.::<end>
+::Vous refermez le panneau et vous vous relevez. Le bot se remet sur ses pattes avec une agilité surprenante et s'éloigne en ligne droite, comme si de rien n'était.::<end>
 
 =>q19_original
 ::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and returns to its circular motion.::<end>
 
 =>q19
-::Vous fermez le panneau et vous vous levez du robot. Il revient étonnamment sur ses jambes et retourne à son mouvement circulaire.::<end>
+::Vous refermez le panneau et vous vous relevez. Le bot se remet sur ses pattes avec une agilité surprenante et reprend ses ronds.::<end>
 
 =>q20_original
 ::You see a lone plasma sentry walking in circles. It does not appear to be hostile.::<end>
 
 =>q20
-::Vous voyez une sentinelle de plasma qui marche en rond. Il ne semble pas être hostile.::<end>
+::Vous voyez une sentinelle plasma seule, qui marche en rond. Elle n'a pas l'air hostile.::<end>
 
 =>a21_original
 ::Approach and examine it.::<end>
 
 =>a21
-::Approchez et examinez-la.::<end>
+::S'approcher et l'examiner.::<end>
 
 =>q22_original
 ::However, that appears to be more difficult than you thought initially. 
@@ -134,43 +134,43 @@ You grab it from behind by its two laser cannons: It drags you along with it. Sl
 You grab it by its two hind legs: The same as previously, with the added benefit of you looking more idiotic in this position.::<end>
 
 =>q22
-::Cependant, cela semble être plus difficile que vous ne le pensiez initialement.
+::Sauf que c'est plus dur que prévu.
 
-Vous vous tenez devant le robot : Il vous contourne mais parvient toujours à marcher sur votre pied.
+Vous vous mettez devant le bot : il vous contourne, et vous marche quand même sur le pied.
 
-Vous l'attrapez derrière par ses deux canons laser : Ça vous traîne avec ça. Lentement.
+Vous l'attrapez par-derrière, par les deux canons laser : il vous traîne avec lui. Lentement.
 
-Vous l'attrapez par ses deux pattes arrière : La même chose que précédemment, avec l'avantage supplémentaire de vous regarder plus idiot dans cette position.::<end>
+Vous l'attrapez par les deux pattes arrière : pareil, avec l'avantage de vous donner encore plus l'air con.::<end>
 
 =>q23_original
 ::Mildly frustrated, you release your hold and grab the bot's upper half from behind and topple it toward you. On its back it lies now, its legs aimed forward and walking on nothing but air, and this is the position which is most suitable for you to examine its cybernetic insides.::<end>
 
 =>q23
-::Mincement frustré, vous relâchez votre cale et prenez la moitié supérieure du bot de derrière et la renverser vers vous. Sur son dos il se trouve maintenant, ses jambes orientées vers l'avant et marchant sur rien que l'air, et c'est la position qui est la plus appropriée pour vous d'examiner ses intérieurs cybernétique.::<end>
+::Un peu énervé, vous lâchez prise, saisissez le haut du bot par-derrière et le faites basculer vers vous. Le voilà sur le dos, les pattes tendues vers l'avant, qui pédalent dans le vide. C'est la meilleure position pour inspecter ses entrailles cybernétiques.::<end>
 
 =>q24_original
 ::You sit on the bot so it doesn't spring back onto its pointy feet, situating your rear somewhat uncomfortably between the two laser guns and onto a flat metal plate. From here, you are staring at a panel that seems secured by a few rusty screws; being this close you also notice how the exterior has been eaten away by corrosion so much that you could probably make all the screws fall out with one well-aimed kick.::<end>
 
 =>q24
-::Vous vous asseyez sur le bot de sorte qu'il ne ressort pas sur ses pieds pointus, en positionnant votre arrière quelque peu incomfortablement entre les deux pistolets laser et sur une plaque métallique plate. De là, vous fixez un panneau qui semble fixé par quelques vis rouillées ; étant à ce point près vous remarquez également comment l'extérieur a été mangé loin par la corrosion tellement que vous pourriez probablement faire toutes les vis tomber avec un coup de pied bien décidé.::<end>
+::Vous vous asseyez sur le bot pour l'empêcher de se remettre d'un coup sur ses pieds pointus, les fesses un peu mal calées entre les deux canons laser, sur une plaque de métal plate. De là, vous avez sous les yeux un panneau retenu par quelques vis rouillées. De si près, vous voyez aussi à quel point la carcasse est rongée par la corrosion : un bon coup de pied bien placé suffirait probablement à faire sauter toutes les vis.::<end>
 
 =>a25_original
 ::Open the panel.::<end>
 
 =>a25
-::Ouvrez le panneau.::<end>
+::Ouvrir le panneau.::<end>
 
 =>q26_original
 ::Some yanking is all it took for you to separate the panel from the body. The screws either break or pop out, and as soon as you move the panel, warm, stuffy air begins exuding from inside. Dust, cobwebs and some thick grimy matter cover the interior, but that should by no means impede your tinkering.::<end>
 
 =>q26
-::C'est tout ce qu'il fallait pour séparer le panneau du corps. Les vis se cassent ou sortent, et dès que vous déplacez le panneau, l'air chaud et étouffant commence à exsuder de l'intérieur. La poussière, les toiles de cob et une matière épaisse et grimaçante recouvrent l'intérieur, mais cela ne devrait en aucun cas empêcher votre bricolage.::<end>
+::Un bon coup sec suffit à décoller le panneau du châssis. Les vis cassent ou sautent, et dès que vous bougez la plaque, un air chaud et confiné s'échappe de l'intérieur. Poussière, toiles d'araignée et une crasse épaisse tapissent tout, mais ça ne devrait pas vous empêcher de bricoler.::<end>
 
 =>a27_original
 ::Kick the bot.::<end>
 
 =>a27
-::Frappe le robot.::<end>
+::Donner un coup de pied au bot.::<end>
 
 =>q28_original
 ::From your sitting position you slam the bot with your mighty boot and - only a few of the screws pop out of their holes. However, the bot doesn't seem to enjoy what you did. One hot plasma ball leaves the large cannon - fortunately pointed away from your flesh; simultaneously, a light show erupts all around you, and the rapidly heating barrels by your sides force you to disengage. As you step off, the bot gets back onto its legs with rather surprising nimbleness. 
@@ -178,21 +178,21 @@ Vous l'attrapez par ses deux pattes arrière : La même chose que précédemment
 Then, it acquires its target.::<end>
 
 =>q28
-::De votre position assise, vous claquez le robot avec votre botte puissante et - seulement quelques-unes des vis sortent de leurs trous. Cependant, le robot ne semble pas apprécier ce que vous avez fait. Une boule de plasma chaud laisse le grand canon - heureusement pointé loin de votre chair; simultanément, une lumière montre éclate tout autour de vous, et les barils de chauffage rapide par vos côtés vous force à vous désengager. À mesure que vous vous retirez, le bot revient sur ses jambes avec une légèreté assez surprenante.
+::De votre position assise, vous lui écrasez le capot d'un grand coup de botte et - seulement quelques vis sautent de leurs trous. Le bot, lui, n'a pas l'air d'apprécier. Une boule de plasma brûlant sort du gros canon - heureusement braqué loin de votre chair ; en même temps, un festival de lumières explose tout autour de vous, et les tubes qui chauffent à vue d'œil de chaque côté vous forcent à lâcher prise. Vous descendez ; le bot se remet sur ses pattes avec une agilité plutôt surprenante.
 
-Ensuite, il acquiert sa cible.::<end>
+Puis il verrouille sa cible.::<end>
 
 =>a29_original
 ::Fight!::<end>
 
 =>a29
-::Lutte!::<end>
+::Combattre !::<end>
 
 =>a30_original
 ::Leave it.::<end>
 
 =>a30
-::Laisse tomber.::<end>
+::Le laisser.::<end>
 
 =>q31_original
 ::The bot is still walking in circles.::<end>

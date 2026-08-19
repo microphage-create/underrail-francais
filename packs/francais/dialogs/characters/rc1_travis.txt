@@ -2,7 +2,7 @@
 I'm busy.<end>
 
 =>q1
-Je suis occupé.<end>
+J'suis occupé.<end>
 
 =>q2_original
 ::Upon entering what appears to be a repair shop of some kind, a variety of odors meet your sense of smell. You recognize rubber, oil, burnt fusion cells - and mushroom stew. More precisely, you identify it to be stew made from the so-called swineshrooms, named appropriately since they smell much like pork when cooked. The man behind the counter sits leaned into his flimsy chair, voraciously scooping what's left of the stuff from his bowl, his feet resting on the counter. After finishing, he sets the bowl aside, wipes his mouth with his sleeve, gets up from his chair and leans against the counter.::
@@ -10,9 +10,9 @@ Je suis occupé.<end>
 Howdy. I am Travis, the mechanic. ::His tongue passes over his teeth to clean residue food.:: Whatcha need?<end>
 
 =>q2
-::En entrant dans ce qui semble être un atelier de réparation, diverses odeurs rencontrent votre odorat. Vous reconnaissez le caoutchouc, l'huile, les cellules de fusion brûlées et le ragoût de champignons. Plus précisément, vous identifiez qu'il s'agit d'un ragoût préparé à partir de ce qu'on appelle les champis de porc, nommés à juste titre car ils sentent beaucoup le porc lorsqu'ils sont cuits. L'homme derrière le comptoir est assis, appuyé sur sa chaise fragile, ramassant avec voracité ce qui reste de son bol, ses pieds reposant sur le comptoir. Après avoir fini, il pose le bol, s'essuie la bouche avec sa manche, se lève de sa chaise et s'appuie contre le comptoir.::
+::En entrant dans ce qui ressemble à un atelier de réparation, une ribambelle d'odeurs vous saute au nez. Caoutchouc, huile, cellules de fusion cramées - et ragoût de champignons. Plus précisément, un ragoût de swineshrooms, baptisés comme ça parce qu'une fois cuits, ça sent le porc. Derrière le comptoir, un homme s'enfonce dans une chaise bancale, les pieds sur le zinc, et racle voracement ce qui reste dans son bol. Quand c'est fini, il pose le bol, s'essuie la bouche du revers de la manche, se lève et s'adosse au comptoir.::
 
-Salut. Je suis Travis, le mécanicien. ::Sa langue passe sur ses dents pour nettoyer les résidus alimentaires.:: De quoi as-tu besoin ?<end>
+Salut. Moi c'est Travis, le mécano. ::Sa langue passe sur ses dents pour râcler les restes.:: De quoi t'as besoin ?<end>
 
 =>q3_original
 <end>
@@ -24,19 +24,19 @@ Salut. Je suis Travis, le mécanicien. ::Sa langue passe sur ses dents pour nett
 Show me what you have for trade. ::Barter.::<end>
 
 =>a4
-Montre-moi ce que tu as à échanger. ::Troc.::<end>
+Montre-moi ce que t'as à troquer. ::Troc.::<end>
 
 =>a5_original
 I'd like to buy that mechanics workbench.<end>
 
 =>a5
-J'aimerais acheter cet établi de mécanique.<end>
+Je voudrais acheter cet établi de mécanique.<end>
 
 =>q6_original
 One kent-- One thousand three hundred 'n' it's all yours.<end>
 
 =>q6
-Un Kent... Mille trois cents et c'est tout à toi.<end>
+Un kent-- Mille trois cents et c'est à toi.<end>
 
 =>q7_original
 <end>
@@ -48,49 +48,49 @@ Un Kent... Mille trois cents et c'est tout à toi.<end>
 Here's the money. ::Give him 1300 stygian coins.::<end>
 
 =>a8
-Voici l'argent. ::Donnez-lui 1 300 pièces stygiennes.::<end>
+Voici l'argent. ::Lui donner 1300 charons.::<end>
 
 =>q9_original
 The bench is yours, $(#man/girl). You taking it now or...?<end>
 
 =>q9
-Le banc est à vous, $(#man/girl). Tu le prends maintenant ou... ?<end>
+L'établi est à toi, $(#gars/fille). Tu le prends maintenant, ou... ?<end>
 
 =>a10_original
 No. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
 
 =>a10
-Non, je veillerai à ce que les gars de Core City Housing Corporation le livrent chez moi.<end>
+Non. Je m'occupe que les gars de Core City Housing Corporation me le livrent à la maison.<end>
 
 =>q11_original
 Okay.<end>
 
 =>q11
-D'accord.<end>
+Okay.<end>
 
 =>a12_original
 ::[Intelligence][Persuade]:: If that mechanic's name was Mykola, then I seriously doubt that bench is brand new. Who knows what might break or fall off. How about lowering the price to, say, eight wrenches?<end>
 
 =>a12
-::[Renseignement][Persuader]:: Si le nom de ce mécanicien était Mykola, alors je doute sérieusement que ce banc soit tout neuf. Qui sait ce qui pourrait se casser ou tomber. Que diriez-vous de baisser le prix à, disons, huit clés ?<end>
+::[Intelligence][Persuade]:: Si le mécano s'appelait Mykola, j'ai du mal à croire que cet établi soit neuf. Qui sait ce qui va lâcher ou tomber. Et si on descendait à, disons, huit clés ?<end>
 
 =>q13_original
 ::A frown creeps up on his face, but disappears after an instant.:: Mykola... yeah. Okay, you got me there. Eight wrenches it is.<end>
 
 =>q13
-::Un froncement de sourcils apparaît sur son visage, mais disparaît au bout d'un instant.:: Mykola... ouais. OK, tu m'as eu là. C'est huit clés.<end>
+::Un pli lui barre le front, et disparaît tout de suite.:: Mykola... ouais. Okay, tu m'as eu. Huit clés, ça marche.<end>
 
 =>a14_original
 That's the stuff. Here. ::Give him eight wrenches.::<end>
 
 =>a14
-C'est ça le truc. Ici. ::Donnez-lui huit clés.::<end>
+Voilà. Tiens. ::Lui donner huit clés.::<end>
 
 =>q15_original
 I don't know whatcha talking about.<end>
 
 =>q15
-Je ne sais pas de quoi tu parles.<end>
+J'sais pas de quoi tu parles.<end>
 
 =>a16_original
 I'll think about it.<end>
@@ -102,25 +102,25 @@ Je vais y réfléchir.<end>
 You do that.<end>
 
 =>q17
-Tu fais ça.<end>
+Fais ça.<end>
 
 =>a18_original
 You seem pretty relaxed considering what is happening right now.<end>
 
 =>a18
-Vous semblez plutôt détendu compte tenu de ce qui se passe en ce moment.<end>
+T'as l'air bien détendu, vu ce qui se passe dehors.<end>
 
 =>q19_original
 I am aware of what's going on out there, and that anything can happen, but there ain't nothing I can do about it.<end>
 
 =>q19
-Je suis conscient de ce qui se passe là-bas et que tout peut arriver, mais je ne peux rien y faire.<end>
+Je sais ce qui se trame dehors, et que tout peut arriver. Sauf que j'y peux rien.<end>
 
 =>q20_original
 Panic ain't gonna do us any good.<end>
 
 =>q20
-La panique ne nous servira à rien.<end>
+La panique, ça nous avancera pas.<end>
 
 =>a21_original
 My name is $(context.player.Name).<end>
@@ -132,49 +132,49 @@ Je m'appelle $(context.player.Name).<end>
 Good for you.<end>
 
 =>q22
-Bien pour vous.<end>
+Tant mieux pour toi.<end>
 
 =>a23_original
 What's with all these broken quads?<end>
 
 =>a23
-C'est quoi tous ces quads cassés ?<end>
+C'est quoi, tous ces quads en rade ?<end>
 
 =>q24_original
 Them? It's just some old junk I've been keeping around forever. None of them are functional, but there are still working parts that can be scrapped from them.<end>
 
 =>q24
-Eux? C'est juste une vieille camelote que je garde depuis toujours. Aucun d’entre eux n’est fonctionnel, mais certaines pièces fonctionnelles peuvent encore être mises au rebut.<end>
+Ça ? De la vieille ferraille que je traîne depuis toujours. Aucun marche, mais y a encore des pièces à cannibaliser.<end>
 
 =>q25_original
 Now, I had an S-750 sitting outside the shop up until a month ago. That was a sight to behold.<end>
 
 =>q25
-Jusqu'à il y a un mois, j'avais un S-750 devant le magasin. C'était un spectacle à voir.<end>
+Y a un mois, j'avais encore un S-750 planté devant la boutique. Ça, c'était quelque chose à voir.<end>
 
 =>a26_original
 What is an S-750?<end>
 
 =>a26
-Qu'est-ce qu'un S-750 ?<end>
+C'est quoi, un S-750 ?<end>
 
 =>q27_original
 S-750k to be exact. Hot as hell. With two hundred kilowatts of unadulterated power under your ass that beautiful beast can take you anywhere. Well, not that particular one, since one of its cells had caught fire 'n' burned everthing under the hood.<end>
 
 =>q27
-S-750k pour être exact. Chaud comme l'enfer. Avec deux cents kilowatts de puissance pure sous vos fesses, cette belle bête peut vous emmener partout. Enfin, pas celui-là en particulier, puisqu'une de ses cellules avait pris feu et tout brûlé sous le capot.<end>
+S-750k, pour être précis. Une bête de feu. Deux cents kilowatts de puissance brute sous le cul, et cette beauté t'emmène n'importe où. Enfin, pas celui-là : une de ses cellules a pris feu et a tout cramé sous le capot.<end>
 
 =>a28_original
 Couldn't you repair it?<end>
 
 =>a28
-Tu ne pourrais pas le réparer ?<end>
+T'aurais pas pu le réparer ?<end>
 
 =>q29_original
 Nope. Way outta my league. I just held on to it so I could admire it. 'N' I salvaged some stuff before I sold it to scrap. Junkyard's where it's at now.<end>
 
 =>q29
-Non. Bien hors de ma ligue. Je l'ai juste gardé pour pouvoir l'admirer. Et j'ai récupéré des trucs avant de les vendre à la ferraille. Junkyard en est là actuellement.<end>
+Nan. Hors de ma ligue. Je le gardais juste pour le mater. J'ai piqué deux-trois pièces avant de le vendre à la ferraille. Il est à Junkyard, maintenant.<end>
 
 =>a30_original
 Yeah, yeah. I wanted to ask you something else.<end>
@@ -186,19 +186,19 @@ Ouais, ouais. Je voulais te demander autre chose.<end>
 Sure thing, $(#man/girl).<end>
 
 =>q31
-Bien sûr, $(#man/girl).<end>
+Vas-y, $(#gars/fille).<end>
 
 =>a32_original
 How much are you asking for that mechanics workbench?<end>
 
 =>a32
-Combien demandez-vous pour cet établi de mécanique ?<end>
+Tu veux combien pour cet établi de mécanique ?<end>
 
 =>q33_original
 ::He slowly looks at the workbench.:: I got it from a mechanic in Core City. It's brand new. ::Short pause.:: One kent three wrenches.<end>
 
 =>q33
-::Il regarde lentement l'établi.:: Je l'ai obtenu auprès d'un mécanicien à Core City. C'est tout nouveau. ::Courte pause.:: Un Kent trois clés.<end>
+::Il jette un œil lent à l'établi.:: Je l'ai eu d'un mécano à Core City. Tout neuf. ::Courte pause.:: Un kent trois clés.<end>
 
 =>a34_original
 ::[Intelligence]:: One thousand three hundred?<end>
@@ -216,13 +216,13 @@ Ouais.<end>
 One kent three wrenches?<end>
 
 =>a36
-Un Kent, trois clés ?<end>
+Un kent, trois clés ?<end>
 
 =>q37_original
 Oh, right, you ain't from around these parts. That's one thousand three hundred charons.<end>
 
 =>q37
-Oh, c'est vrai, tu n'es pas du coin par ici. Cela fait mille trois cents charons.<end>
+Ah, c'est vrai, t'es pas du coin. Ça fait mille trois cents charons.<end>
 
 =>a38_original
 What are you talking about, man?<end>
@@ -234,123 +234,123 @@ De quoi tu parles, mec ?<end>
 Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
 
 =>a39
-Avez-vous remarqué quelqu'un d'inhabituel se rendant récemment dans la boutique de Buzzer ? Selon vous, quelqu'un pourrait être lié au Faceless souhaitant occuper son magasin.<end>
+T'as vu passer quelqu'un d'inhabituel chez Buzzer, récemment ? Quelqu'un qui pourrait expliquer pourquoi les Faceless ont voulu squatter sa boutique.<end>
 
 =>q40_original
 ::He slowly shakes his head.:: Nope.<end>
 
 =>q40
-::Il secoue lentement la tête.:: Non.<end>
+::Il secoue lentement la tête.:: Nan.<end>
 
 =>q41_original
 Technically, I've seen so many unusual people that it's become pretty usual to see unusual people visiting Buzzer's shop. So, again, nope.<end>
 
 =>q41
-Techniquement, j'ai vu tellement de personnes inhabituelles qu'il est devenu assez habituel de voir des personnes inhabituelles visiter la boutique de Buzzer. Donc, encore une fois, non.<end>
+Techniquement, j'ai vu tellement de types bizarres que voir des types bizarres chez Buzzer, c'est devenu banal. Donc, encore une fois : nan.<end>
 
 =>a42_original
 Got any more of that stew? Man, that thing smelled like heaven.<end>
 
 =>a42
-Vous avez encore de ce ragoût ? Mec, ce truc sentait le paradis.<end>
+T'en as encore, de ce ragoût ? Mec, ça sentait le paradis.<end>
 
 =>q43_original
 ::He stares at you for a moment.:: Yup, I got some more in the back.<end>
 
 =>q43
-::Il vous regarde pendant un moment.:: Ouais, j'en ai un peu plus à l'arrière.<end>
+::Il vous fixe un moment.:: Ouais, j'en ai encore derrière.<end>
 
 =>q44_original
 ::Then he grins.:: But I ain't sharing.<end>
 
 =>q44
-::Puis il sourit.:: Mais je ne partage pas.<end>
+::Puis il sourit.:: Mais je partage pas.<end>
 
 =>a45_original
 What can you tell me about Rail Crossing?<end>
 
 =>a45
-Que pouvez-vous me dire sur Rail Crossing ?<end>
+Tu peux me dire un truc sur Rail Crossing ?<end>
 
 =>q46_original
 We're a small station. Not too small to be completely defenseless from the bandits 'n' stuff, but not big enough to always sleep easily. I don't know, $(#man/girl,) we got the basic stuff: a bar, my shop, doc's office, Myles' store; Buzzer's shop is probably what folks from other stations know us best.<end>
 
 =>q46
-Nous sommes une petite gare. Pas trop petit pour être complètement sans défense contre les bandits et les trucs, mais pas assez grand pour toujours dormir facilement. Je ne sais pas, $(#man/girl,) nous avons le matériel de base : un bar, ma boutique, un cabinet de médecin, le magasin Myles ; La boutique de Buzzer est probablement ce que les gens des autres stations nous connaissent le mieux.<end>
+On est une petite station. Pas assez petite pour se faire marcher dessus par le premier bandit venu, pas assez grande pour dormir sur nos deux oreilles. Je sais pas, $(#gars/fille,) on a le minimum : un bar, ma boutique, le cabinet du Doc, le magasin de Myles. La boutique de Buzzer, c'est probablement ce pour quoi les autres stations nous connaissent.<end>
 
 =>q47_original
 Which could change if the Faceless mess him up.<end>
 
 =>q47
-Ce qui pourrait changer si le Faceless le gâchait.<end>
+Ça pourrait changer, si les Faceless lui rentrent dedans.<end>
 
 =>q48_original
 Although, after Buzzer's death, that might not be the case no more.<end>
 
 =>q48
-Même si, après la mort de Buzzer, ce ne sera peut-être plus le cas.<end>
+Enfin, depuis que Buzzer est mort, c'est peut-être plus le cas.<end>
 
 =>q49_original
 Glad the old geezer made it. He's a wiry guy.<end>
 
 =>q49
-Je suis content que le vieux bonhomme ait réussi. C'est un gars nerveux.<end>
+Content que le vieux croûton s'en soit sorti. C'est un dur, lui.<end>
 
 =>a50_original
 Do you know why the Faceless attacked Rail Crossing?<end>
 
 =>a50
-Savez-vous pourquoi le Faceless a attaqué Rail Crossing ?<end>
+Tu sais pourquoi les Faceless ont attaqué Rail Crossing ?<end>
 
 =>q51_original
 Nope. They seem to want something from Buzzer, or just something from his shop.<end>
 
 =>q51
-Non. Ils semblent vouloir quelque chose de Buzzer, ou simplement quelque chose de sa boutique.<end>
+Nan. On dirait qu'ils veulent un truc à Buzzer. Ou juste un truc dans sa boutique.<end>
 
 =>q52_original
 Creepy-looking bastards. I hope we get rid of them soon.<end>
 
 =>q52
-Des salauds à l'air effrayant. J'espère que nous nous en débarrasserons bientôt.<end>
+Des salauds à faire peur. J'espère qu'on s'en débarrasse vite.<end>
 
 =>q53_original
 Creepy-looking bastards. Glad we got rid of them.<end>
 
 =>q53
-Des salauds à l'air effrayant. Heureux que nous nous en soyons débarrassés.<end>
+Des salauds à faire peur. Content qu'on s'en soit débarrassés.<end>
 
 =>a54_original
 Do you know anything about the Free Drones?<end>
 
 =>a54
-Savez-vous quelque chose sur le Free Drones ?<end>
+Tu sais un truc sur les Free Drones ?<end>
 
 =>q55_original
 Not much. I heard they're some sort of anarchists that are fighting the Underrail Protectorate. Funny you should ask me that, $(#man/girl), I overheard some people talking about them just a few days ago. Right here, in Rail Crossing.
 <end>
 
 =>q55
-Pas beaucoup. J'ai entendu dire que ce sont des sortes d'anarchistes qui combattent le Underrail Protectorate. C'est drôle que tu devrais me demander ça, $(#man/girl), j'ai entendu des gens en parler il y a quelques jours à peine. Ici même, dans Rail Crossing.
+Pas grand-chose. J'ai entendu dire que c'est une sorte d'anarchistes qui se battent contre l'Underrail Protectorate. Drôle que tu me poses la question, $(#gars/fille), j'ai entendu des gens en parler y a quelques jours à peine. Ici même, à Rail Crossing.
 <end>
 
 =>q56_original
 Am I missing something here?<end>
 
 =>q56
-Est-ce que j'ai raté quelque chose ici ?<end>
+Je rate un truc, là ?<end>
 
 =>a57_original
 I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
 
 =>a57
-Je recherche Terry et Lora Baker, commerçants de SGS. Les avez-vous vus récemment ?<end>
+Je cherche Terry et Lora Baker, des marchands de SGS. Tu les as vus, récemment ?<end>
 
 =>q58_original
 Nope. I haven't seen those guys in weeks, maybe even months.<end>
 
 =>q58
-Non. Je n'ai pas vu ces gars depuis des semaines, voire des mois.<end>
+Nan. J'ai pas vu ces deux-là depuis des semaines. Peut-être même des mois.<end>
 
 =>a59_original
 I need to go.<end>
@@ -362,5 +362,5 @@ Je dois y aller.<end>
 Yeah?<end>
 
 =>q60
-Ouais?<end>
+Ouais ?<end>
 

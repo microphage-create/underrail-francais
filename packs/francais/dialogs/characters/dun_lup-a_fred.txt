@@ -32,7 +32,7 @@
 ::Rattles his teeth.::<end>
 
 =>q6
-::Fait claquer ses dents.::<end>
+::Claque des dents.::<end>
 
 =>q7_original
 ::Quivers.::<end>
@@ -56,13 +56,13 @@
 Long road ahead of us.<end>
 
 =>q10
-Longue route devant nous.<end>
+Le chemin va être long.<end>
 
 =>q11_original
 I still love this place, but... I don't know...<end>
 
 =>q11
-J'aime encore cet endroit, mais... je sais pas...<end>
+J'aime encore cet endroit, mais... je sais plus trop...<end>
 
 =>q12_original
 ::Shrugs.::<end>
@@ -76,9 +76,9 @@ J'aime encore cet endroit, mais... je sais pas...<end>
 Uhh, hello?<end>
 
 =>q13
-::Comme au bord de l'existence, tous les gens d'ici portent les mêmes caractéristiques. Peau sèche, taches vertes partout sur les vêtements, et sévèrement malnutris.:: 
+::Comme s'ils n'étaient plus qu'à peine là. Tous les gens d'ici ont le même air. Peau sèche, taches vertes partout sur les vêtements, et une faim qui les a déjà rongés.:: 
 
-Euh, bonjour ?<end>
+Euh... bonjour ?<end>
 
 =>a14_original
 What's going on here?<end>
@@ -90,25 +90,25 @@ Qu'est-ce qui se passe ici ?<end>
 Umm, well we are working here and uhh, that's all. ::He looks at the shelves next to him.::<end>
 
 =>q15
-Euh, ben on travaille ici et euh, c'est tout. ::Il regarde les étagères à côté de lui.::<end>
+Euh... ben on travaille ici, et euh... c'est tout. ::Il regarde les étagères à côté de lui.::<end>
 
 =>a16_original
 I doubt that. Who are you people and how did you end up in here?<end>
 
 =>a16
-J'en doute. Vous êtes qui et comment vous avez fini ici ?<end>
+J'en doute. Qui êtes-vous, et comment vous êtes-vous retrouvés ici ?<end>
 
 =>q17_original
 ::His jaw drops as you notice fear on his face.:: P-please, dont lash out at me, I didn't do anything wrong. I-I was told to keep q-quiet around here. ::He looks to the ground.:: Just... just go talk to someone else.<end>
 
 =>q17
-::Sa mâchoire tombe tandis que tu remarques la peur sur son visage.:: S-s'il vous plaît, m'agressez pas, j'ai rien fait de mal. O-on m'a dit de rester t-tranquille ici. ::Il regarde le sol.:: Juste... allez juste parler à quelqu'un d'autre.<end>
+::Sa mâchoire se décroche. La peur se lit sur son visage.:: S-s'il vous plaît, v-vous en prenez pas à moi, j'ai rien fait de mal. O-on m'a dit de rester t-tranquille ici. ::Il baisse les yeux.:: Juste... allez parler à quelqu'un d'autre.<end>
 
 =>a18_original
 Fine.<end>
 
 =>a18
-Bon.<end>
+Très bien.<end>
 
 =>a19_original
 ::Leave.::<end>
@@ -120,13 +120,13 @@ Bon.<end>
 I'll just mind my own business.<end>
 
 =>a20
-Je vais juste m'occuper de mes affaires.<end>
+Je reste dans mon coin.<end>
 
 =>a21_original
 Hello. Who are you?<end>
 
 =>a21
-Bonjour. Vous êtes qui ?<end>
+Bonjour. Qui êtes-vous ?<end>
 
 =>q22_original
 You know that, I'm Fred.<end>
@@ -144,7 +144,7 @@ Qu'est-ce qui se passe ici ?<end>
 No, I dont.<end>
 
 =>a24
-Non, je ne sais pas.<end>
+Non. Je vous connais pas.<end>
 
 =>q25_original
 ::He rubs his eyes and then leans forward, getting really close to your face.:: Aaah? W-who... ::He covers his face.::
@@ -152,7 +152,7 @@ Non, je ne sais pas.<end>
 <end>
 
 =>q25
-::Il se frotte les yeux puis se penche en avant, tout près de ton visage.:: Aaah ? Q-qui... ::Il se couvre le visage.::
+::Il se frotte les yeux, puis se penche, tout près de votre visage.:: Aaah ? Q-qui... ::Il se couvre le visage.::
 
 <end>
 
@@ -160,7 +160,7 @@ Non, je ne sais pas.<end>
 Sorry to bother. ::Leave.::<end>
 
 =>a26
-Désolé de déranger. ::Partir.::<end>
+$(#Désolé/Désolée) de déranger. ::Partir.::<end>
 
 =>a27_original
 ::Leave.::<end>
@@ -172,13 +172,13 @@ Désolé de déranger. ::Partir.::<end>
 Huh, I-I think they are going to send me next to scavenge.<end>
 
 =>q28
-Huh, j-je crois qu'ils vont m'envoyer ensuite fouiller.<end>
+Hein... j-je crois que c'est moi le prochain. Pour aller fouiller.<end>
 
 =>a29_original
 The plasma sentries are no more.<end>
 
 =>a29
-Les sentinelles plasma n'existent plus.<end>
+Les sentinelles plasma sont hors service.<end>
 
 =>q30_original
 ::Sorrow from his face dissipates as he hears those words.:: Ahh, finnaly. We are free now. Hoplessness was the only feeling I've had here. And now.,, just, thank you. ::He smiles.::
@@ -186,9 +186,9 @@ Les sentinelles plasma n'existent plus.<end>
 ::He takes a deep breath.:: I'll hear what the others have to say. I don't get asked much about around here.. ::He looks down on the floor.::<end>
 
 =>q30
-::La tristesse quitte son visage en entendant ces mots.:: Ahh, enfin. On est libres maintenant. Le désespoir était le seul sentiment que j'avais ici. Et maintenant.,, juste, merci. ::Il sourit.::
+::La tristesse quitte son visage.:: Ahh, enfin. On est libres, maintenant. Le désespoir, c'était tout ce que j'avais ici. Et maintenant... juste... merci. ::Il sourit.::
 
-::Il inspire profondément.:: J'écouterai ce que les autres ont à dire. On me demande pas grand-chose par ici.. ::Il regarde le sol.::<end>
+::Il inspire à fond.:: J'écouterai ce que les autres ont à dire. On me demande pas grand-chose, par ici. ::Il baisse les yeux.::<end>
 
 =>a31_original
 Good luck.<end>
@@ -206,7 +206,7 @@ Bonne chance.<end>
 I'll deal with the robots.<end>
 
 =>a33
-Je m'occupe des robots.<end>
+Je vais régler les robots.<end>
 
 =>a34_original
 Tell me more about yourself.<end>
@@ -224,4 +224,4 @@ J-je peux rien dire. Laissez-moi tranquille, s'il vous plaît.<end>
 Fine.<end>
 
 =>a36
-Bon.<end>
+Très bien.<end>

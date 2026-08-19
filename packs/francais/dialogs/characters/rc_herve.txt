@@ -4,9 +4,9 @@
 Good to see you again, $(context.player.Name). What brings you back to Rail Crossing?<end>
 
 =>q1
-::Le Capitaine Hervé vous accueille dans son bureau avec le sourire.::
+::Le capitaine Herve vous accueille dans son bureau, le sourire aux lèvres.::
 
-Content de vous revoir, $(context.player.Name). Qu'est-ce qui vous ramène à Rail Crossing ?<end>
+Content de vous revoir, $(context.player.Name). Qu'est-ce qui vous ramène à Rail Crossing ?<end>
 
 =>q2_original
 <end>
@@ -18,37 +18,37 @@ Content de vous revoir, $(context.player.Name). Qu'est-ce qui vous ramène à Ra
 I wanted to talk to you about a certain debt I have at the bar here.<end>
 
 =>a3
-Je voulais vous parler d'une certaine dette que j'ai au bar ici.<end>
+Je voulais vous parler d'une dette, au bar d'ici.<end>
 
 =>q4_original
 Yes, I've already heard about it. So what's the problem? Why do you refuse to pay?<end>
 
 =>q4
-Oui, j'en ai déjà entendu parler. Alors quel est le problème ? Pourquoi refusez-vous de payer ?<end>
+Oui, j'en ai déjà entendu parler. Alors, quel est le problème ? Pourquoi refusez-vous de payer ?<end>
 
 =>a5_original
 I have no money at the moment.<end>
 
 =>a5
-Je n'ai pas d'argent pour le moment.<end>
+Je n'ai pas d'argent, pour le moment.<end>
 
 =>q6_original
 Ah. So that's the core of the issue. <end>
 
 =>q6
-Ah. C'est donc là le cœur du problème. <end>
+Ah. Voilà le nœud. <end>
 
 =>q7_original
 Listen, South Gate Station and Rail Crossing have established pretty good relations over the years. Should we allow petty issues like this to divide us?<end>
 
 =>q7
-Écoutez, South Gate Station et Rail Crossing ont établi de très bonnes relations au fil des années. Devons-nous permettre que de petits problèmes comme celui-ci nous divisent ?<end>
+Écoutez. South Gate Station et Rail Crossing ont noué de très bonnes relations, au fil des années. Allons-nous laisser des histoires de cette taille nous diviser ?<end>
 
 =>q8_original
 You've already helped this station so much, which is something I and this whole station are very grateful for. I will personally pay for your debt, $(context.player.Name). Let's forget this... incident ever happened. Very good.<end>
 
 =>q8
-Vous avez déjà beaucoup aidé cette station, ce pour quoi moi et toute cette station vous en sommes très reconnaissants. Je paierai personnellement votre dette, $(context.player.Name). Oublions cet incident. Très bien.<end>
+Vous avez déjà tant fait pour cette station, et je vous en suis reconnaissant. Toute la station l'est. Je réglerai votre dette moi-même, $(context.player.Name). Oublions cet... incident. Très bien.<end>
 
 =>q9_original
 I cannot arrest you or force you to pay your debt off since I fear that might affect our two stations' relations. However, you are being denied service throughout the station - most of it, at least - from what I hear, so it is entirely up to you how you want to proceed. I will not interfere.
@@ -56,21 +56,21 @@ I cannot arrest you or force you to pay your debt off since I fear that might af
 Think about it.<end>
 
 =>q9
-Je ne peux pas vous arrêter ni vous forcer à payer votre dette car je crains que cela n'affecte les relations entre nos deux stations. Cependant, d'après ce que j'ai entendu, le service vous est refusé dans toute la station - du moins en grande partie -, c'est donc à vous de décider comment vous souhaitez procéder. Je n'interviendrai pas.
+Je ne peux ni vous arrêter ni vous forcer à payer. Je crains que ça n'abîme les relations entre nos deux stations. En revanche, d'après ce que j'entends, on vous refuse le service un peu partout - en grande partie, du moins. La suite vous appartient. Je n'interviendrai pas.
 
-Pensez-y.<end>
+Réfléchissez-y.<end>
 
 =>a10_original
 I already left the money on the counter, but someone else took it when the barkeeper wasn't looking.<end>
 
 =>a10
-J'ai déjà laissé l'argent sur le comptoir, mais quelqu'un d'autre l'a pris alors que le barman ne regardait pas.<end>
+J'avais déjà laissé l'argent sur le comptoir, mais quelqu'un l'a pris pendant que le barman regardait ailleurs.<end>
 
 =>a11_original
 The drink and the service were absolutely awful.<end>
 
 =>a11
-La boisson et le service étaient absolument horribles.<end>
+La boisson et le service étaient affreux.<end>
 
 =>q12_original
 I find that hard to believe. <end>
@@ -82,37 +82,37 @@ J'ai du mal à y croire. <end>
 Dude was supposed to pay for it.<end>
 
 =>a13
-Dude était censé payer pour cela.<end>
+C'est Dude qui devait payer.<end>
 
 =>q14_original
 But he is no longer in Rail Crossing, correct? <end>
 
 =>q14
-Mais il n'est plus dans Rail Crossing, n'est-ce pas ? <end>
+Mais il n'est plus à Rail Crossing, n'est-ce pas ? <end>
 
 =>a15_original
 I see the supplies have finally arrived.<end>
 
 =>a15
-Je vois que les fournitures sont enfin arrivées.<end>
+Je vois que les provisions sont enfin arrivées.<end>
 
 =>q16_original
 Yes! And not a moment too soon. I've been receiving more and more reports of Ironhead activity near Rail Crossing. It even seems that several different clans are converging on this location. These Ironheads, they are like packs of rathounds: They've sensed blood in the air and are moving in for the kill.<end>
 
 =>q16
-Oui! Et pas trop tôt. Je reçois de plus en plus de rapports sur l'activité d'Ironhead près de Rail Crossing. Il semble même que plusieurs clans différents convergent vers cet endroit. Ces Ironheads sont comme des meutes de rathounds : ils ont senti du sang dans l'air et se dirigent vers la mise à mort.<end>
+Oui ! Et pas trop tôt. Je reçois de plus en plus de rapports d'activité Ironhead près de Rail Crossing. Il semble même que plusieurs clans différents convergent vers ici. Ces Ironheads, c'est comme des meutes de rathounds : ils ont senti le sang, et ils se rabattent pour tuer.<end>
 
 =>q17_original
 We are still short on men, but at least we have some serious firepower in our hands. I hope that will be enough.<end>
 
 =>q17
-Nous manquons encore d’hommes, mais au moins nous disposons d’une sérieuse puissance de feu entre nos mains. J'espère que cela suffira.<end>
+Nous manquons toujours d'hommes, mais au moins on a une vraie puissance de feu entre les mains. J'espère que ça suffira.<end>
 
 =>a18_original
 I talked to Major Clifton again about the supplies.<end>
 
 =>a18
-J'ai reparlé au major Clifton à propos des fournitures.<end>
+J'ai reparlé au major Clifton, au sujet des provisions.<end>
 
 =>q19_original
 Yes, what did he say?<end>
@@ -124,49 +124,49 @@ Oui, qu'a-t-il dit ?<end>
 He said the supplies will be here in no more than two weeks.<end>
 
 =>a20
-Il a déclaré que les fournitures seraient là dans deux semaines au maximum.<end>
+Il a dit que les provisions seraient là dans deux semaines, au plus tard.<end>
 
 =>q21_original
 Two weeks? That is not good news...<end>
 
 =>q21
-Quinze jours? Ce n'est pas une bonne nouvelle...<end>
+Deux semaines ? Ce n'est pas une bonne nouvelle...<end>
 
 =>a22_original
 That is, unless someone intercepts the train again.<end>
 
 =>a22
-Autrement dit, à moins que quelqu'un n'intercepte à nouveau le train.<end>
+Sauf si quelqu'un intercepte encore le train, bien sûr.<end>
 
 =>q23_original
 Please, things are already difficult enough. However, thank you for the information. Two weeks, while long, is better than nothing.<end>
 
 =>q23
-S'il vous plaît, les choses sont déjà assez difficiles. Merci cependant pour l'information. Deux semaines, bien que longues, valent mieux que rien.<end>
+Je vous en prie, les choses sont déjà assez difficiles. Merci pour l'information, tout de même. Deux semaines, c'est long, mais c'est mieux que rien.<end>
 
 =>a24_original
 There was nothing I could do.<end>
 
 =>a24
-Je ne pouvais rien faire.<end>
+Je ne pouvais rien y faire.<end>
 
 =>q25_original
 I understand. Thank you for your help. Two weeks, while long, is better than nothing.<end>
 
 =>q25
-Je comprends. Merci pour votre aide. Deux semaines, bien que longues, valent mieux que rien.<end>
+Je comprends. Merci pour votre aide. Deux semaines, c'est long, mais c'est mieux que rien.<end>
 
 =>a26_original
 I found out what happened to the missing train.<end>
 
 =>a26
-J'ai découvert ce qui est arrivé au train disparu.<end>
+J'ai trouvé ce qui est arrivé au train disparu.<end>
 
 =>q27_original
 You did? Great! Tell me everything.<end>
 
 =>q27
-Vous l'avez fait ? Super! Dis-moi tout.<end>
+Vraiment ? Parfait. Dites-moi tout.<end>
 
 =>a28_original
 It was hijacked by a small group of armed bandits.<end>
@@ -178,61 +178,61 @@ Il a été détourné par un petit groupe de bandits armés.<end>
 I was afraid of that. But where is it now, and what about the cargo?<end>
 
 =>q29
-J'avais peur de ça. Mais où se trouve-t-il maintenant, et qu’en est-il de la cargaison ?<end>
+C'est ce que je craignais. Mais où est-il maintenant, et la cargaison ?<end>
 
 =>a30_original
 I took care of the hijackers. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The supplies look mostly untouched.<end>
 
 =>a30
-Je me suis occupé des pirates de l'air. C'est au sud de Rail Crossing ; il y a un virage vers l'ouest dans une grotte et vers ce qui semble être un entrepôt. Les fournitures semblent pour la plupart intactes.<end>
+Je me suis occupé des détourneurs. C'est au sud de Rail Crossing. Un virage vers l'ouest, dans une grotte, vers ce qui ressemble à un entrepôt. Les provisions ont l'air à peu près intactes.<end>
 
 =>q31_original
 Great! In that case, contact the Protectorate again and have them take care of it. It's best that way. Don't think the Protectorate would appreciate us taking the train without their knowledge<end>
 
 =>q31
-Super! Dans ce cas, contactez à nouveau le Protectorate et laissez-le s'en occuper. C'est mieux ainsi. Ne pensez pas que les Protectorate apprécieraient que nous prenions le train à leur insu.<end>
+Parfait. Dans ce cas, contactez encore le Protectorate et laissez-les s'en charger. C'est plus sage. Je ne pense pas que le Protectorate apprécierait qu'on prenne le train à son insu<end>
 
 =>q32_original
 Get back to me when you're done.<end>
 
 =>q32
-Reviens-moi quand tu auras fini.<end>
+Revenez me voir quand ce sera fait.<end>
 
 =>q33_original
 Excellent, but I don't think the Protectorate would appreciate us taking the train without their knowledge. Go to South Railroad Outpost and talk to them about getting their train and then sending the supplies to me.<end>
 
 =>q33
-Excellent, mais je ne pense pas que les Protectorate apprécieraient que nous prenions le train à leur insu. Allez à l'avant-poste de South Railroad et parlez-leur de la possibilité de récupérer leur train, puis de m'envoyer les fournitures.<end>
+Excellent, mais je ne pense pas que le Protectorate apprécierait qu'on prenne le train à son insu. Allez à South Railroad Outpost et parlez-leur : récupérer leur train, puis m'envoyer les provisions.<end>
 
 =>q34_original
 Get back to me when you're done.<end>
 
 =>q34
-Reviens-moi quand tu auras fini.<end>
+Revenez me voir quand ce sera fait.<end>
 
 =>a35_original
 It's gone. I tried to fight the hijackers, but one of them used a bomb to destroy the train and its cargo. It was located just south of Rail Crossing.<end>
 
 =>a35
-C'est parti. J'ai essayé de combattre les pirates de l'air, mais l'un d'eux a utilisé une bombe pour détruire le train et sa cargaison. Il était situé juste au sud de Rail Crossing.<end>
+Il n'y en a plus. J'ai essayé de combattre les détourneurs, mais l'un d'eux a fait sauter le train et la cargaison avec une bombe. C'était juste au sud de Rail Crossing.<end>
 
 =>q36_original
 What? WHAT? Damn it! This is unbelievable. Why did you have to do it all alone? Why didn't you contact us or the Protectorate?<end>
 
 =>q36
-Quoi? QUOI? Bon sang! C'est incroyable. Pourquoi as-tu dû le faire tout seul ? Pourquoi ne nous avez-vous pas contacté, ni nous ni le Protectorate ?<end>
+Quoi ? QUOI ? Bon sang. C'est inouï. Pourquoi avez-vous dû tout faire seul ? Pourquoi ne pas nous avoir contactés, nous ou le Protectorate ?<end>
 
 =>a37_original
 I had no choice at the moment. I couldn't tell them to wait while I get reinforcements.<end>
 
 =>a37
-Je n'avais pas le choix pour le moment. Je ne pouvais pas leur dire d'attendre pendant que j'obtenais des renforts.<end>
+Je n'avais pas le choix, sur le moment. Je ne pouvais pas leur dire d'attendre que j'aille chercher des renforts.<end>
 
 =>q38_original
 ::The captain lowers his head.:: It doesn't matter now. Please, leave me alone. You've done enough.<end>
 
 =>q38
-::Le capitaine baisse la tête.:: Cela n'a plus d'importance maintenant. S'il vous plaît, laissez-moi tranquille. Vous en avez fait assez.<end>
+::Le capitaine baisse la tête.:: Ça n'a plus d'importance. Je vous en prie, laissez-moi. Vous en avez assez fait.<end>
 
 =>q39_original
 <end>
@@ -244,25 +244,25 @@ Je n'avais pas le choix pour le moment. Je ne pouvais pas leur dire d'attendre p
 It's how I do things. Alone.<end>
 
 =>a40
-C'est comme ça que je fais les choses. Seul.<end>
+C'est comme ça que je fais. Tout seul.<end>
 
 =>q41_original
 ::The captain lowers his head.:: Well, that worked out beautifully. Just leave me alone, you've done enough.<end>
 
 =>q41
-::Le capitaine baisse la tête.:: Eh bien, cela a fonctionné à merveille. Laisse-moi tranquille, tu en as assez fait.<end>
+::Le capitaine baisse la tête.:: Eh bien, ça a magnifiquement marché. Laissez-moi. Vous en avez assez fait.<end>
 
 =>a42_original
 I informed Major Clifton at South Railroad Outpost. The Protectorate went there to deal with the hijackers and reaquire the train. They said they'll send you the supplies soon.<end>
 
 =>a42
-J'ai informé le major Clifton au South Railroad Outpost. Le Protectorate s'y est rendu pour s'occuper des pirates de l'air et récupérer le train. Ils ont dit qu'ils vous enverraient bientôt les fournitures.<end>
+J'ai prévenu le major Clifton à South Railroad Outpost. Le Protectorate est allé s'occuper des détourneurs et récupérer le train. Ils ont dit qu'ils vous enverraient les provisions bientôt.<end>
 
 =>q43_original
 Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::<end>
 
 =>q43
-Excellent! ::Pour la première fois, un sourire apparaît enfin sur le visage du capitaine.:: Je suis juste content que tout cela touche à sa fin. Vous l'avez encore fait, $(context.player.Name). Vous êtes une personne incroyablement compétente. Merci beaucoup! J'ai promis une récompense, et la voici. ::Il vous donne 400 charons.::<end>
+Excellent ! ::Pour la première fois, un sourire apparaît enfin sur le visage du capitaine.:: Je suis surtout soulagé que tout ça touche à sa fin. Vous l'avez encore fait, $(context.player.Name). Vous êtes quelqu'un d'incroyablement capable. Merci. Vraiment. J'avais promis une récompense, la voici. ::Il vous donne 400 charons.::<end>
 
 =>q44_original
 <end>
@@ -274,7 +274,7 @@ Excellent! ::Pour la première fois, un sourire apparaît enfin sur le visage du
 Oh, did the major tell you anything about when the supplies will arrive?<end>
 
 =>q45
-Oh, est-ce que le major vous a dit quand les fournitures arriveraient ?<end>
+Oh, le major vous a-t-il dit quand les provisions arriveraient ?<end>
 
 =>q46_original
 ::The smile lasts for while, but a worm of doubt soon makes it slowly go away. Worry surfaces on his face, and just as you were about to leave, he stops you.::
@@ -282,15 +282,15 @@ Oh, est-ce que le major vous a dit quand les fournitures arriveraient ?<end>
 Wait. I have one more favor to ask of you...<end>
 
 =>q46
-::Le sourire dure un moment, mais un ver de doute le fait bientôt disparaître lentement. L'inquiétude fait surface sur son visage et juste au moment où vous étiez sur le point de partir, il vous arrête.::
+::Le sourire tient un moment, puis un ver de doute le ronge, lentement. L'inquiétude lui monte au visage, et juste au moment où vous alliez partir, il vous retient.::
 
-Attendez. J'ai encore une faveur à te demander...<end>
+Attendez. J'ai encore une faveur à vous demander...<end>
 
 =>a47_original
 Go ahead.<end>
 
 =>a47
-Poursuivre.<end>
+Allez-y.<end>
 
 =>q48_original
 This whole situation with the train... it's dragging on. While I do know that the train has been located, I'm left in the dark again. Rail Crossing is vulnerable. You understand. I need to know when the train will be arriving, and it doesn't appear to me like they've revealed that information to you.
@@ -298,39 +298,39 @@ This whole situation with the train... it's dragging on. While I do know that th
 Would it be a problem for you to go back and... ask them about it? Perhaps, if possible, somehow... "speed up" the process? If possible.<end>
 
 =>q48
-Toute cette histoire avec le train... ça s'éternise. Même si je sais que le train a été localisé, je me retrouve à nouveau dans le noir. Rail Crossing est vulnérable. Vous comprenez. J'ai besoin de savoir quand le train arrivera, et il ne me semble pas qu'ils vous aient révélé cette information.
+Toute cette histoire de train... ça s'éternise. Je sais que le train a été localisé, et je me retrouve encore dans le noir. Rail Crossing est vulnérable. Vous comprenez. J'ai besoin de savoir quand le train arrivera, et il ne me semble pas qu'ils vous l'aient dit.
 
-Serait-ce un problème pour vous de revenir en arrière et... de leur poser des questions ? Peut-être, si possible, d'une manière ou d'une autre... "accélérer" le processus ? Si possible.<end>
+Ça vous embêterait de retourner là-bas et... de leur poser la question ? Peut-être, si c'est possible, d'une façon ou d'une autre... « accélérer » les choses ? Si c'est possible.<end>
 
 =>a49_original
 I could ask Major Clifton about it. Maybe they've already recovered the train.<end>
 
 =>a49
-Je pourrais en parler au major Clifton. Peut-être qu'ils ont déjà récupéré le train.<end>
+Je peux en parler au major Clifton. Peut-être qu'ils ont déjà récupéré le train.<end>
 
 =>q50_original
 I would be grateful. Thank you so much.<end>
 
 =>q50
-Je serais reconnaissant. Merci beaucoup.<end>
+J'en serais reconnaissant. Merci.<end>
 
 =>a51_original
 I'll see what I can do.<end>
 
 =>a51
-Je vais voir ce que je peux faire.<end>
+Je verrai ce que je peux faire.<end>
 
 =>q52_original
 Thank you, I'll be waiting.<end>
 
 =>q52
-Merci, j'attendrai.<end>
+Merci. J'attendrai.<end>
 
 =>a53_original
 You think highly of me, perhaps too much. I don't think I can "speed up" anything.<end>
 
 =>a53
-Vous avez une haute opinion de moi, peut-être trop. Je ne pense pas pouvoir "accélérer" quoi que ce soit.<end>
+Vous me surestimez, peut-être. Je ne pense pas pouvoir « accélérer » quoi que ce soit.<end>
 
 =>q54_original
 I understand. Even one simple information would suffice.<end>
@@ -342,97 +342,97 @@ Je comprends. Même une simple information suffirait.<end>
 It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. I came here for reinforcements.<end>
 
 =>a55
-C'est au sud de Rail Crossing ; il y a un virage vers l'ouest dans une grotte et vers ce qui semble être un entrepôt. Je suis venu ici pour des renforts.<end>
+C'est au sud de Rail Crossing. Un virage vers l'ouest, dans une grotte, vers ce qui ressemble à un entrepôt. Je suis venu chercher des renforts.<end>
 
 =>q56_original
 Great, go to South Railroad Outpost about that. If they said it's their investigation, then they should deal with the hijackers. And they are far better equipped for it anyway.<end>
 
 =>q56
-Super, allez à South Railroad Outpost à ce sujet. S'ils disent que c'est leur enquête, alors ils devraient s'occuper des pirates de l'air. Et ils sont de toute façon bien mieux équipés pour cela.<end>
+Parfait. Allez à South Railroad Outpost pour ça. S'ils ont dit que c'était leur enquête, qu'ils s'occupent des détourneurs. Ils sont de toute façon bien mieux équipés.<end>
 
 =>q57_original
 We don't have the men to deal with the hijackers, but I'm sure the Protectorate wouldn't mind giving us a hand. It's their train after all. Go to South Railroad Outpost and tell them what you told me. They are far better equipped for dealing with the hijackers anyway.<end>
 
 =>q57
-Nous n'avons pas les hommes pour s'occuper des pirates de l'air, mais je suis sûr que Protectorate n'hésiterait pas à nous donner un coup de main. C'est leur train après tout. Allez à l'avant-poste de South Railroad et dites-leur ce que vous m'avez dit. De toute façon, ils sont bien mieux équipés pour faire face aux pirates de l’air.<end>
+Nous n'avons pas les hommes pour nous occuper des détourneurs, mais je suis sûr que le Protectorate n'y verrait pas d'inconvénient. C'est leur train, après tout. Allez à South Railroad Outpost et dites-leur ce que vous m'avez dit. Ils sont de toute façon bien mieux équipés pour ça.<end>
 
 =>a58_original
 The Free Drones hijacked the train.<end>
 
 =>a58
-Le Free Drones a détourné le train.<end>
+Les Free Drones ont détourné le train.<end>
 
 =>q59_original
 Free Drones? Are you sure?<end>
 
 =>q59
-Free Drones? Es-tu sûr?<end>
+Les Free Drones ? Vous êtes sûr ?<end>
 
 =>a60_original
 Yes. I think all this was an act against Protectorate, rather than against Rail Crossing.<end>
 
 =>a60
-Oui. Je pense que tout cela était un acte contre Protectorate plutôt que contre Rail Crossing.<end>
+Oui. Je pense que tout ça visait le Protectorate, plus que Rail Crossing.<end>
 
 =>q61_original
 Indeed, it makes perfect sense. I don't know much about them, but I know they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.<end>
 
 =>q61
-En effet, c’est tout à fait logique. Je ne sais pas grand chose à leur sujet, mais je sais qu'ils ont pour objectif de combattre le Protectorate. Ils sont venus du Nord il y a plusieurs années, juste après que Protectorate ait commencé à construire Fort Apogee à Upper Underrail.<end>
+En effet, ça tient parfaitement. Je n'en sais pas grand-chose, mais je sais qu'ils sont là pour combattre le Protectorate. Ils sont venus du Nord il y a plusieurs années, juste après que le Protectorate a commencé à construire Fort Apogee dans l'Upper Underrail.<end>
 
 =>q62_original
 All that aside, where is the train now, and what about the cargo?<end>
 
 =>q62
-Tout cela mis à part, où est le train maintenant, et qu’en est-il du fret ?<end>
+Tout ça mis à part, où est le train maintenant, et la cargaison ?<end>
 
 =>a63_original
 I'm sure, but I don't know their exact motives.<end>
 
 =>a63
-J'en suis sûr, mais je ne connais pas leurs motivations exactes.<end>
+Oui. Mais leurs motifs exacts, je ne les connais pas.<end>
 
 =>q64_original
 I don't know much about the Free Drones, but what I know is they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.<end>
 
 =>q64
-Je ne sais pas grand-chose du Free Drones, mais ce que je sais, c'est qu'ils luttent contre le Protectorate. Ils sont venus du Nord il y a plusieurs années, juste après que Protectorate a commencé à construire Fort Apogee dans Upper Underrail.<end>
+Je n'en sais pas grand-chose, sur les Free Drones, mais je sais qu'ils sont là pour combattre le Protectorate. Ils sont venus du Nord il y a plusieurs années, juste après que le Protectorate a commencé à construire Fort Apogee dans l'Upper Underrail.<end>
 
 =>a65_original
 Even though the Faceless are gone, you seem troubled. Are there any other problems?<end>
 
 =>a65
-Même si les Faceless sont partis, vous semblez troublé. Y a-t-il d'autres problèmes ?<end>
+Même si les Faceless sont partis, vous avez l'air préoccupé. Il y a d'autres problèmes ?<end>
 
 =>q66_original
 I am relieved, believe me, more than it shows. But so many troubles befell Rail Crossing recently, and that is the reason why I'm not exactly jumping with joy. We basically trade one misfortune for another.<end>
 
 =>q66
-Je suis soulagé, croyez-moi, plus qu'il n'y paraît. Mais tant de problèmes sont arrivés à Rail Crossing récemment, et c'est la raison pour laquelle je ne saute pas vraiment de joie. En fait, nous échangeons un malheur contre un autre.<end>
+Je suis soulagé, croyez-moi, plus que ça ne se voit. Mais tant de malheurs se sont abattus sur Rail Crossing récemment, et c'est pour ça que je ne saute pas de joie. On échange un malheur contre un autre, en gros.<end>
 
 =>a67_original
 Is it something I can help you with? You know you can trust me.<end>
 
 =>a67
-Est-ce quelque chose pour lequel je peux vous aider ? Tu sais que tu peux me faire confiance.<end>
+Je peux vous aider ? Vous savez que vous pouvez me faire confiance.<end>
 
 =>q68_original
 Trust is not the issue, it's just... Alright, I'll explain.<end>
 
 =>q68
-La confiance n'est pas le problème, c'est juste... Très bien, je vais vous expliquer.<end>
+La confiance n'est pas le problème, c'est juste... Très bien. Je vais vous expliquer.<end>
 
 =>q69_original
 Recently we've had problems with an increasing number of attacks on Rail Crossing. Mostly by bandits, but hell, when you add the Faceless to that, the pressure becomes overwhelming. Regardless, even without these recent events the attacks have become more and more vicious and difficult to repel. So... I... made a deal with the Protectorate some time ago, according to which they were to deliver us military supplies.<end>
 
 =>q69
-Récemment, nous avons eu des problèmes avec un nombre croissant d'attaques sur Rail Crossing. Principalement par des bandits, mais bon sang, quand on ajoute le Faceless à cela, la pression devient écrasante. Quoi qu’il en soit, même sans ces événements récents, les attaques sont devenues de plus en plus vicieuses et difficiles à repousser. Alors... j'ai... conclu un accord avec Protectorate il y a quelque temps, selon lequel ils devaient nous livrer du matériel militaire.<end>
+Récemment, les attaques sur Rail Crossing se sont multipliées. Surtout des bandits, mais bon sang, quand on ajoute les Faceless, la pression devient trop forte. Et même sans ces derniers événements, les attaques étaient devenues de plus en plus vicieuses, de plus en plus dures à repousser. Alors... j'ai... passé un accord avec le Protectorate, il y a quelque temps. Ils devaient nous livrer du matériel militaire.<end>
 
 =>q70_original
 Look, I don't know how you feel about the Protectorate, but what I did I did out of necessity. Rail Crossing is a small station - easy pickings - and we need a way to protect ourselves. To do that, we need weapons, ammo, medical supplies.... everything, pretty much. And those things you can't go around and pick like, like mushrooms.<end>
 
 =>q70
-Écoutez, je ne sais pas ce que vous pensez du Protectorate, mais ce que j'ai fait, je l'ai fait par nécessité. Rail Crossing est une petite station - une proie facile - et nous avons besoin d'un moyen de nous protéger. Pour ce faire, nous avons besoin d’armes, de munitions, de fournitures médicales… à peu près tout. Et ces choses que vous ne pouvez pas parcourir et cueillir, comme les champignons.<end>
+Écoutez, je ne sais pas ce que vous pensez du Protectorate, mais ce que j'ai fait, je l'ai fait par nécessité. Rail Crossing est une petite station - une proie facile - et il nous faut un moyen de nous protéger. Pour ça, il nous faut des armes, des munitions, du matériel médical... à peu près tout. Et ces choses-là, on ne les cueille pas au bord du chemin, comme des champignons.<end>
 
 =>q71_original
 <end>
@@ -444,7 +444,7 @@ Look, I don't know how you feel about the Protectorate, but what I did I did out
 Tell me more about this delivery.<end>
 
 =>a72
-Parlez-m'en plus de cette livraison.<end>
+Dites-m'en plus, sur cette livraison.<end>
 
 =>q73_original
 The only thing I had been told was that a train loaded with supplies was due to arrive several days ago. As far as I know, the train was to set off from South Railroad Outpost, which is a small Protectorate base south of here. The train never arrived, and I've received no word from the Protectorate regarding the whole situation since. 
@@ -452,15 +452,15 @@ The only thing I had been told was that a train loaded with supplies was due to 
 I do not know what is happening: Maybe it never departed, maybe something happened along the way, maybe... I just don't know.<end>
 
 =>q73
-La seule chose qu'on m'avait dit, c'était qu'un train chargé de provisions devait arriver il y a quelques jours. Pour autant que je sache, le train devait partir de South Railroad Outpost, qui est une petite base Protectorate au sud d'ici. Le train n'est jamais arrivé et je n'ai reçu aucune nouvelle du Protectorate concernant toute la situation depuis. 
+On m'avait seulement dit qu'un train chargé de provisions devait arriver il y a plusieurs jours. Pour autant que je sache, il devait partir de South Railroad Outpost, une petite base du Protectorate au sud d'ici. Le train n'est jamais arrivé, et je n'ai plus eu de nouvelles du Protectorate depuis.
 
-Je ne sais pas ce qui se passe : peut-être qu'il n'est jamais parti, peut-être que quelque chose s'est produit en cours de route, peut-être... Je ne sais tout simplement pas.<end>
+Je ne sais pas ce qui se passe : peut-être qu'il n'est jamais parti, peut-être que quelque chose s'est passé en route, peut-être... Je ne sais tout simplement pas.<end>
 
 =>a74_original
 I will help you. We'll find out what happened.<end>
 
 =>a74
-Je vais t'aider. Nous découvrirons ce qui s'est passé.<end>
+Je vais vous aider. On va découvrir ce qui s'est passé.<end>
 
 =>q75_original
 Great, great! Thank you! You will be rewarded for your assistance, I promise, just find out what happened to that train. Okay, so the best way to reach South Railroad Outpost is by following the tracks south, which is exactly the route the train had to take to reach us. Return to me if you learn anything important, and please, be quick - lives are at stake.
@@ -468,9 +468,9 @@ Great, great! Thank you! You will be rewarded for your assistance, I promise, ju
 I'll be here, in the office. Take care.<end>
 
 =>q75
-Super, super ! Merci! Vous serez récompensé pour votre aide, je vous le promets, découvrez simplement ce qui est arrivé à ce train. D'accord, donc la meilleure façon d'atteindre l'avant-poste sud du chemin de fer est de suivre les voies ferrées vers le sud, ce qui est exactement l'itinéraire que le train a dû emprunter pour nous rejoindre. Revenez me voir si vous apprenez quelque chose d'important, et s'il vous plaît, soyez rapide : des vies sont en jeu.
+Parfait, parfait. Merci. Il y aura une récompense pour votre aide, je vous le promets. Trouvez simplement ce qui est arrivé à ce train. Le plus simple pour atteindre South Railroad Outpost, c'est de suivre les voies vers le sud. Exactement l'itinéraire que le train devait prendre pour nous rejoindre. Revenez me voir si vous apprenez quelque chose d'important, et je vous en prie, soyez rapide. Des vies sont en jeu.
 
-Je serai ici, au bureau. Prends soin de toi.<end>
+Je serai ici, au bureau. Prenez soin de vous.<end>
 
 =>q76_original
 <end>
@@ -482,67 +482,67 @@ Je serai ici, au bureau. Prends soin de toi.<end>
 I'll pass.<end>
 
 =>a77
-Je vais passer.<end>
+Je passe.<end>
 
 =>q78_original
 Very well. I... understand. This is not your fight, after all.<end>
 
 =>q78
-Très bien. Je comprends. Ce n’est pas votre combat, après tout.<end>
+Très bien. Je... comprends. Ce n'est pas votre guerre, après tout.<end>
 
 =>a79_original
 They didn't just give you all that for free, did they?<end>
 
 =>a79
-Ils ne vous ont pas donné tout cela gratuitement, n'est-ce pas ?<end>
+Ils ne vous ont pas donné tout ça pour rien, n'est-ce pas ?<end>
 
 =>q80_original
 Nothing is free in this world.<end>
 
 =>q80
-Rien n'est gratuit dans ce monde.<end>
+Rien n'est gratuit, dans ce monde.<end>
 
 =>q81_original
 We made a deal. Let's leave it at that.<end>
 
 =>q81
-Nous avons conclu un accord. Restons-en là.<end>
+Nous avons passé un accord. Restons-en là.<end>
 
 =>a82_original
 Then I wish you the best of luck. Let's talk about something else.<end>
 
 =>a82
-Alors je vous souhaite bonne chance. Parlons d'autre chose.<end>
+Dans ce cas, je vous souhaite bonne chance. Parlons d'autre chose.<end>
 
 =>q83_original
 What do you need?<end>
 
 =>q83
-De quoi avez-vous besoin?<end>
+De quoi avez-vous besoin ?<end>
 
 =>a84_original
 Even though the Faceless are gone, you seem troubled. Are there any other problems?<end>
 
 =>a84
-Même si les Faceless sont partis, vous semblez troublé. Y a-t-il d'autres problèmes ?<end>
+Même si les Faceless sont partis, vous avez l'air préoccupé. Il y a d'autres problèmes ?<end>
 
 =>a85_original
 I've informed the Protectorate of the missing train's location. They'll take care of it and will send you the supplies as soon as possible.<end>
 
 =>a85
-J'ai informé le Protectorate de l'emplacement du train manquant. Ils s'en chargeront et vous enverront le matériel dans les plus brefs délais.<end>
+J'ai prévenu le Protectorate de l'emplacement du train disparu. Ils s'en chargeront et vous enverront les provisions dès que possible.<end>
 
 =>q86_original
 Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::<end>
 
 =>q86
-Excellent! ::Pour la première fois, un sourire apparaît enfin sur le visage du capitaine.:: Je suis juste content que tout cela touche à sa fin. Vous l'avez encore fait, $(context.player.Name). Vous êtes une personne incroyablement compétente. Merci beaucoup! J'ai promis une récompense, et la voici. ::Il vous donne 400 charons.::<end>
+Excellent ! ::Pour la première fois, un sourire apparaît enfin sur le visage du capitaine.:: Je suis surtout soulagé que tout ça touche à sa fin. Vous l'avez encore fait, $(context.player.Name). Vous êtes quelqu'un d'incroyablement capable. Merci. Vraiment. J'avais promis une récompense, la voici. ::Il vous donne 400 charons.::<end>
 
 =>q87_original
 You found it? Wow, you've been busy... What happened to it?<end>
 
 =>q87
-Vous l'avez trouvé ? Wow, vous avez été occupé... Qu'est-il arrivé ?<end>
+Vous l'avez trouvé ? Vous n'avez pas chômé... Qu'est-ce qui lui est arrivé ?<end>
 
 =>a88_original
 The train was hijacked by some gang.<end>
@@ -554,67 +554,67 @@ Le train a été détourné par un gang.<end>
 I was afraid of that, but I'm relieved the train has been found. I'm just glad all this is coming to an end. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::<end>
 
 =>q89
-J'en avais peur, mais je suis soulagé que le train ait été retrouvé. Je suis juste content que tout cela touche à sa fin. Vous l'avez encore fait $(context.player.Name), vous semblez être une personne incroyablement compétente. Merci beaucoup! J'ai promis une récompense, alors la voici. ::Il vous donne 400 charons.::<end>
+C'est ce que je craignais, mais je suis soulagé que le train ait été retrouvé. Je suis surtout soulagé que tout ça touche à sa fin. Vous l'avez encore fait, $(context.player.Name). Vous êtes quelqu'un d'incroyablement capable. Merci. Vraiment. J'avais promis une récompense, la voici. ::Il vous donne 400 charons.::<end>
 
 =>a90_original
 The Free Drones hijacked the train.<end>
 
 =>a90
-Le Free Drones a détourné le train.<end>
+Les Free Drones ont détourné le train.<end>
 
 =>q91_original
 Free Drones? Are you sure?<end>
 
 =>q91
-Free Drones? Es-tu sûr?<end>
+Les Free Drones ? Vous êtes sûr ?<end>
 
 =>a92_original
 They are fighting against the Protectorate, claiming that they're oppressors.<end>
 
 =>a92
-Ils se battent contre les Protectorate, prétendant qu'ils sont des oppresseurs.<end>
+Ils combattent le Protectorate. Ils disent que ce sont des oppresseurs.<end>
 
 =>q93_original
 Indeed, it makes perfect sense. The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q93
-En effet, c’est tout à fait logique. La seule chose que je sais d'eux, c'est qu'ils sont un groupe anarchiste du Nord Underrail et qu'ils combattent le Protectorate. Ils s’opposent à l’Union et, même si leur nombre dans le sud Underrail est actuellement faible, je crains qu’ils ne deviennent suffisamment importants pour devenir une menace sérieuse.<end>
+En effet, ça tient parfaitement. Tout ce que je sais, c'est que c'est un groupe anarchiste du North Underrail, et qu'ils combattent le Protectorate. Ils s'opposent à l'Union, et même si leurs effectifs dans le South Underrail sont faibles pour l'instant, je crains qu'ils ne deviennent assez nombreux pour poser une vraie menace.<end>
 
 =>q94_original
 All in all, I'm relieved the train has been found. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::<end>
 
 =>q94
-Dans l’ensemble, je suis soulagé que le train ait été retrouvé. Vous l'avez encore fait $(context.player.Name), vous semblez être une personne incroyablement compétente. Merci beaucoup! J'ai promis une récompense, alors la voici. ::Il vous donne 400 charons.::<end>
+Dans l'ensemble, je suis soulagé que le train ait été retrouvé. Vous l'avez encore fait, $(context.player.Name). Vous êtes quelqu'un d'incroyablement capable. Merci. Vraiment. J'avais promis une récompense, la voici. ::Il vous donne 400 charons.::<end>
 
 =>a95_original
 I'm sure, but I don't know their exact motives.<end>
 
 =>a95
-J'en suis sûr, mais je ne connais pas leurs motivations exactes.<end>
+Oui. Mais leurs motifs exacts, je ne les connais pas.<end>
 
 =>q96_original
 The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q96
-La seule chose que je sais d'eux, c'est qu'ils sont un groupe anarchiste du Nord Underrail et qu'ils combattent le Protectorate. Ils s’opposent à l’Union et, même si leur nombre dans le sud Underrail est actuellement faible, je crains qu’ils ne deviennent suffisamment importants pour devenir une menace sérieuse.<end>
+Tout ce que je sais, c'est que c'est un groupe anarchiste du North Underrail, et qu'ils combattent le Protectorate. Ils s'opposent à l'Union, et même si leurs effectifs dans le South Underrail sont faibles pour l'instant, je crains qu'ils ne deviennent assez nombreux pour poser une vraie menace.<end>
 
 =>a97_original
 I've informed the Protectorate of the missing train's location. Their soldiers have managed to recover it and it's on its way back to the outpost.<end>
 
 =>a97
-J'ai informé le Protectorate de l'emplacement du train manquant. Leurs soldats ont réussi à le récupérer et il est en route vers l'avant-poste.<end>
+J'ai prévenu le Protectorate de l'emplacement du train disparu. Leurs soldats ont réussi à le récupérer, et il est en route vers l'avant-poste.<end>
 
 =>a98_original
 I've talked to Major Clifton in South Railroad Outpost.<end>
 
 =>a98
-J'ai parlé au major Clifton à l'avant-poste sud du chemin de fer.<end>
+J'ai parlé au major Clifton à South Railroad Outpost.<end>
 
 =>q99_original
 Great, what did he say?<end>
 
 =>q99
-Super, qu'a-t-il dit ?<end>
+Parfait. Qu'a-t-il dit ?<end>
 
 =>a100_original
 The train left the outpost as planned, but they aren't sure what happened to it.<end>
@@ -626,79 +626,79 @@ Le train a quitté l'avant-poste comme prévu, mais ils ne savent pas ce qui lui
 It is what I feared. Someone must've intercepted the train. We need to keep searching. Who knows how long it'll take for the Protectorate to get to the bottom of this.<end>
 
 =>q101
-C'est ce que je craignais. Quelqu'un a dû intercepter le train. Nous devons continuer à chercher. Qui sait combien de temps il faudra au Protectorate pour aller au fond des choses.<end>
+C'est ce que je craignais. Quelqu'un a dû intercepter le train. Il faut continuer à chercher. Qui sait combien de temps le Protectorate mettra à tirer ça au clair.<end>
 
 =>a102_original
 What if they're lying? Maybe they are trying to trick you somehow.<end>
 
 =>a102
-Et s'ils mentent ? Peut-être qu'ils essaient de vous tromper d'une manière ou d'une autre.<end>
+Et s'ils mentaient ? Peut-être qu'ils cherchent à vous rouler, d'une façon ou d'une autre.<end>
 
 =>q103_original
 I do not think so. ::He pauses.:: But even if it is true, there is nothing we can do about it other than try to find out what happened to the train. And hope, basically.<end>
 
 =>q103
-Je ne pense pas. ::Il fait une pause.:: Mais même si c'est vrai, nous ne pouvons rien y faire d'autre que d'essayer de découvrir ce qui est arrivé au train. Et de l'espoir, au fond.<end>
+Je ne le pense pas. ::Il s'arrête.:: Mais même si c'était vrai, on ne peut rien y faire, à part essayer de découvrir ce qui est arrivé au train. Et espérer, en gros.<end>
 
 =>a104_original
 I'm on the case.<end>
 
 =>a104
-Je suis sur l'affaire.<end>
+J'y vais.<end>
 
 =>q105_original
 I knew I could count on you. Good luck.<end>
 
 =>q105
-Je savais que je pouvais compter sur toi. Bonne chance.<end>
+Je savais que je pouvais compter sur vous. Bonne chance.<end>
 
 =>a106_original
 Yeah, the train left the outpost all right, but they lost track of it. They also impolitely told me to wait until they deal with it, and after that, they'll inform you about what happens next. Eventually...<end>
 
 =>a106
-Le train a quitté l'avant-poste, mais ils ont perdu la trace. Ils m'ont aussi impoliment dit d'attendre qu'ils s'en occupent, et après cela, ils vous informeront de ce qui se passe ensuite. Finalement...<end>
+Oui, le train a bien quitté l'avant-poste, mais ils en ont perdu la trace. Ils m'ont aussi, assez sèchement, dit d'attendre qu'ils s'en occupent, et qu'après ça ils vous tiendraient au courant. Un jour... éventuellement...<end>
 
 =>q107_original
 Sounds like some jack-in-office of an officer. Someone must've intercepted the train. We need to keep searching. Who knows how long it'll take for the Protectorate to get to the bottom of this.<end>
 
 =>q107
-On dirait un cric-en-bureau d'un officier. Quelqu'un a dû intercepter le train. Nous devons continuer à chercher. Qui sait combien de temps il faudra pour que le Protectorate arrive au fond.<end>
+On dirait un rond-de-cuir, cet officier. Quelqu'un a dû intercepter le train. Il faut continuer à chercher. Qui sait combien de temps le Protectorate mettra à tirer ça au clair.<end>
 
 =>a108_original
 ::[Lie]:: I tried everything, but the train is impossible to find. I am stopping the search.<end>
 
 =>a108
-::[Lie]:: J'ai tout essayé, mais le train est impossible à trouver. J'arrête les recherches.<end>
+::[Lie]:: J'ai tout essayé, mais le train est introuvable. J'arrête les recherches.<end>
 
 =>q109_original
 Hold on, hold on. I think we still have a chance, maybe there are some clues that can point us in the right direct... ion. ::Herve stops speaking and simply stares at you with disappointment..:: I see... You've already made up your mind. :: He sighs.:: I can't force you to do this if you don't want to. I'm... I'm sorry it turned out this way.<end>
 
 =>q109
-Attendez. Je pense que nous avons encore une chance, peut-être qu'il y a des indices qui peuvent nous pointer dans le bon direct... ion. ::Herve cesse de parler et se contente de vous regarder avec déception..:: Je vois... Tu t'es déjà décidé. ::Il soupire.:: Je ne peux pas te forcer à faire ça si tu ne veux pas. Je suis désolé que ça se soit passé comme ça.<end>
+Attendez, attendez. Je pense qu'on a encore une chance, peut-être qu'il y a des indices qui pourraient nous mettre sur la bonne p... iste. ::Herve s'arrête et se contente de vous fixer, déçu.:: Je vois... Vous avez déjà tranché. :: Il soupire.:: Je ne peux pas vous forcer, si vous ne voulez pas. Je... je suis désolé que ça se termine comme ça.<end>
 
 =>q110_original
 See you around... $(context.player.Name). Take care.<end>
 
 =>q110
-On se voit autour de... $(context.player.Name). Prends soin de toi.<end>
+À une autre fois... $(context.player.Name). Prenez soin de vous.<end>
 
 =>a111_original
 I've decided to help you with the missing train.<end>
 
 =>a111
-J'ai décidé de t'aider avec le train manquant.<end>
+J'ai décidé de vous aider, pour le train disparu.<end>
 
 =>a112_original
 Do you know anything about the Free Drones?<end>
 
 =>a112
-Savez-vous quelque chose sur le Free Drones ?<end>
+Vous savez quelque chose sur les Free Drones ?<end>
 
 =>q113_original
 The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q113
-La seule chose que je sais d'eux, c'est qu'ils sont un groupe anarchiste du Nord Underrail et qu'ils combattent le Protectorate. Ils s’opposent à l’Union et, même si leur nombre dans le sud Underrail est actuellement faible, je crains qu’ils ne deviennent suffisamment importants pour devenir une menace sérieuse.<end>
+Tout ce que je sais, c'est que c'est un groupe anarchiste du North Underrail, et qu'ils combattent le Protectorate. Ils s'opposent à l'Union, et même si leurs effectifs dans le South Underrail sont faibles pour l'instant, je crains qu'ils ne deviennent assez nombreux pour poser une vraie menace.<end>
 
 =>q114_original
 That is all I know.<end>
@@ -716,7 +716,7 @@ Que pouvez-vous me dire sur South Railroad Outpost ?<end>
 Not much, really. All I know is that it's a Protectorate outpost, has a railroad access and is pretty well guarded.<end>
 
 =>q116
-Pas beaucoup, vraiment. Tout ce que je sais c'est que c'est un avant-poste Protectorate, a un accès ferroviaire et est assez bien gardé.<end>
+Pas grand-chose, à vrai dire. Tout ce que je sais, c'est que c'est un avant-poste du Protectorate, avec un accès ferroviaire, et qu'il est plutôt bien gardé.<end>
 
 =>q117_original
 That's all I know.<end>
@@ -728,61 +728,61 @@ C'est tout ce que je sais.<end>
 Why is this a bad day to visit?<end>
 
 =>a118
-Pourquoi est-ce une mauvaise journée à visiter ?<end>
+Pourquoi c'est un mauvais jour pour visiter ?<end>
 
 =>q119_original
 You must have heard the reports of Faceless invading the Core City by now, right? Well, we got our own problems with the Faceless here.<end>
 
 =>q119
-Vous avez dû entendre les rapports de Faceless envahir le Core City maintenant, non ? On a nos propres problèmes avec le Faceless.<end>
+Vous avez dû entendre les rapports, maintenant. Les Faceless qui envahissent Core City. Eh bien, on a nos propres problèmes avec les Faceless, ici.<end>
 
 =>q120_original
 They busted in with one of their tunnelers down the track south and occupied Buzzer's shop. We tried to blitz them back before they'd set up but that ended badly. They killed three of my men and badly wounded one.<end>
 
 =>q120
-Ils sont entrés avec un de leurs tunneliers en bas de la piste sud et occupé la boutique de Buzzer. On a essayé de les faire revenir avant qu'ils ne s'installent, mais ça a mal fini. Ils ont tué trois de mes hommes et en ont blessé un.<end>
+Ils ont déboulé avec un de leurs tunnelers par la voie sud, et ils ont occupé la boutique de Buzzer. On a essayé de les déloger avant qu'ils s'installent. Ça s'est mal fini. Ils ont tué trois de mes hommes et en ont blessé un, gravement.<end>
 
 =>a121_original
 Why do you think they occupied Buzzer's shop?<end>
 
 =>a121
-Pourquoi ils ont occupé la boutique de Buzzer ?<end>
+Pourquoi ils ont occupé la boutique de Buzzer, d'après vous ?<end>
 
 =>q122_original
 I can't say for sure. Maybe they want something from him or his shop. Buzzer's known to trade in strange electronics - maybe he got hold of something they want.<end>
 
 =>q122
-Je ne peux pas en être sûr. Peut-être qu'ils veulent quelque chose de lui ou de son magasin. Buzzer est connu pour commercer de l'électronique étrange - peut-être a-t-il obtenu quelque chose qu'ils veulent.<end>
+Je ne peux pas le dire avec certitude. Peut-être qu'ils veulent quelque chose de lui, ou de sa boutique. Buzzer est connu pour trafiquer de l'électronique bizarre. Peut-être qu'il a mis la main sur un truc qu'ils veulent.<end>
 
 =>q123_original
 Or maybe they actually planned to tunnel out somewhere else in the station and just improvised once they realized they missed their target.<end>
 
 =>q123
-Ou peut-être qu'ils avaient prévu de sortir par un tunnel ailleurs dans la station et juste improvisé une fois qu'ils ont réalisé qu'ils ont manqué leur cible.<end>
+Ou alors ils voulaient percer ailleurs dans la station, et ils ont improvisé une fois qu'ils ont compris qu'ils avaient loupé leur cible.<end>
 
 =>a124_original
 What are you going to do about the Faceless?<end>
 
 =>a124
-Que vas-tu faire pour le Faceless ?<end>
+Qu'est-ce que vous allez faire, contre les Faceless ?<end>
 
 =>q125_original
 There's not much we can do at this point. We barely have enough men to fight them off if they come at us now. If we rush them again and suffer more losses, we're done. We'd have to evacuate the station.<end>
 
 =>q125
-On ne peut pas faire grand chose à ce stade. Nous avons à peine assez d'hommes pour les combattre s'ils viennent à nous maintenant. Si nous les précipitons à nouveau et subissons plus de pertes, c'est fini. Il faudrait évacuer la station.<end>
+Pas grand-chose, à ce stade. On a à peine assez d'hommes pour les tenir si ils déboulent maintenant. Si on les charge encore et qu'on prend d'autres pertes, c'est fini. Il faudrait évacuer la station.<end>
 
 =>a126_original
 Maybe I could help you with your Faceless situation.<end>
 
 =>a126
-Je pourrais peut-être vous aider avec votre situation Faceless.<end>
+Je pourrais peut-être vous aider, avec vos Faceless.<end>
 
 =>q127_original
 ::He looks at you curiously.:: That would almost certainly mean you risking your neck for us. Why would you want to do this?<end>
 
 =>q127
-::Il te regarde curieusement.:: Cela signifierait que vous risquez votre cou pour nous. Pourquoi voudrais-tu faire ça ?<end>
+::Il vous regarde, curieux.:: Ça voudrait dire, presque à coup sûr, risquer votre peau pour nous. Pourquoi voulez-vous faire ça ?<end>
 
 =>q128_original
 <end>
@@ -794,43 +794,43 @@ Je pourrais peut-être vous aider avec votre situation Faceless.<end>
 I'm from SGS actually. Tanner sent me to lend you a hand.<end>
 
 =>a129
-Je suis de SGS en fait. Tanner m'a envoyé pour vous aider.<end>
+Je viens de SGS, en fait. Tanner m'envoie vous donner un coup de main.<end>
 
 =>q130_original
 Ah, I did put out a distress call to SGS. Are you the only one they could spare? I guess you people have your own problems.<end>
 
 =>q130
-J'ai lancé un appel de détresse à SGS. Etes-vous le seul qu'ils pourraient épargner ? Vous devez avoir vos propres problèmes.<end>
+Ah, j'avais bien lancé un appel de détresse à SGS. Vous êtes le seul qu'ils ont pu détacher ? Vous devez avoir vos propres problèmes, j'imagine.<end>
 
 =>q131_original
 As I said. Storming the shop is not an option anymore, so you'll have to figure out something else.<end>
 
 =>q131
-Comme je l'ai dit. Il ne s'agit plus d'une option, il faudra donc trouver autre chose.<end>
+Comme je l'ai dit. Prendre la boutique d'assaut n'est plus une option. Il va falloir trouver autre chose.<end>
 
 =>a132_original
 We humans should stand together against this Faceless offensive. If your station falls today, my station could be next.<end>
 
 =>a132
-Nous, les humains, devons nous tenir unis contre cette offensive Faceless. Si votre station tombe aujourd'hui, ma station pourrait être la suivante.<end>
+Nous, les humains, on devrait tenir ensemble contre cette offensive Faceless. Si votre station tombe aujourd'hui, la mienne peut être la suivante.<end>
 
 =>q133_original
 ::He gives you a suspicious look.:: I guess that makes sense.<end>
 
 =>q133
-::Il vous donne un regard suspect.:: Je suppose que ça a du sens.<end>
+::Il vous jette un regard méfiant.:: Je suppose que ça se tient.<end>
 
 =>a134_original
 I'd expect to be paid, of course.<end>
 
 =>a134
-Je m'attendais à être payé, bien sûr.<end>
+Je m'attends à être payé, évidemment.<end>
 
 =>q135_original
 That I can understand. If you can somehow make the Faceless leave or take them all out I'll pay you three hundred charons. If you can get Buzzer out of there alive, assuming he still is, I'll throw in extra one hundred charons. Sound good?<end>
 
 =>q135
-Que je peux comprendre. Si vous pouvez faire le Faceless congé ou les sortir tous je vous paierai trois cents charons. Si vous pouvez faire sortir Buzzer vivant, en supposant qu'il l'est encore, je vais jeter en plus cent charons. Ça te va ?<end>
+Ça, je peux comprendre. Si vous arrivez à faire partir les Faceless, d'une façon ou d'une autre, ou à les descendre tous, je vous paie trois cents charons. Si vous sortez Buzzer vivant, en supposant qu'il le soit encore, je rajoute cent charons. Ça vous va ?<end>
 
 =>q136_original
 <end>
@@ -842,37 +842,37 @@ Que je peux comprendre. Si vous pouvez faire le Faceless congé ou les sortir to
 Agreed.<end>
 
 =>a137
-Entendu.<end>
+Marché conclu.<end>
 
 =>q138_original
 We have a deal then.<end>
 
 =>q138
-Nous avons un marché alors.<end>
+Alors c'est d'accord.<end>
 
 =>a139_original
 ::[Mercantile]:: You'll have to do better than that, chief. I'm risking my neck here. I'll get you rid of those freaks for 400 charons and for additional I'll get your homeboy Buzzer for additional two hundred charons.<end>
 
 =>a139
-::[Mercantile]:: Vous devrez faire mieux que ça, chef. Je risque mon cou ici. Je vais vous débarrasser de ces monstres pour 400 charons et pour plus je vais obtenir votre homeboy Buzzer pour deux cents charons supplémentaires.<end>
+::[Mercantile]:: Il va falloir faire mieux que ça, chef. Je risque ma peau, là. Quatre cents charons pour vous débarrasser de ces monstres, et deux cents de plus pour vous ramener votre pote Buzzer.<end>
 
 =>q140_original
 Hmm... fair enough. Chances are you'll just get killed and I won't have to pay you anything anyway.<end>
 
 =>q140
-C'est juste. Vous risquez de vous faire tuer et je n'aurai rien à vous payer.<end>
+Hmm... soit. Y a des chances que vous vous fassiez tuer, et que je n'aie rien à vous payer de toute façon.<end>
 
 =>q141_original
 Forget it, $(#boy/girl). It's three hundred and one hundred. Take it or leave it.<end>
 
 =>q141
-Oublie ça, $(#boy/girl). C'est trois cent cent. À prendre ou à laisser.<end>
+Oubliez ça, $(#gars/fille). Trois cents, plus cent. À prendre ou à laisser.<end>
 
 =>a142_original
 I'll take it.<end>
 
 =>a142
-Je le prends.<end>
+Je prends.<end>
 
 =>a143_original
 I'll think about it.<end>
@@ -884,7 +884,7 @@ Je vais y réfléchir.<end>
 You do that.<end>
 
 =>q144
-Tu fais ça.<end>
+Faites ça.<end>
 
 =>a145_original
 I'll think about it.<end>
@@ -896,49 +896,49 @@ Je vais y réfléchir.<end>
 Never mind, sounds like a bad idea.<end>
 
 =>a146
-C'est une mauvaise idée.<end>
+Laissez tomber. Mauvaise idée.<end>
 
 =>a147_original
 So let's talk about how I can help you with your Faceless situation again...<end>
 
 =>a147
-Parlons donc de comment je peux vous aider avec votre situation Faceless à nouveau...<end>
+Reprenons. Comment je peux vous aider, avec vos Faceless...<end>
 
 =>q148_original
 Let me lay down my offer again: You get three hundred charons if you get rid of the Faceless one way or the other, plus a bonus of one hundred charons if you get Buzzer out alive.<end>
 
 =>q148
-Permettez-moi de redire mon offre : Vous obtenez trois cents charons si vous vous débarrassez du Faceless d'une manière ou d'une autre, plus un bonus de cent charons si vous obtenez Buzzer vivant.<end>
+Je reformule l'offre : trois cents charons si vous vous débarrassez des Faceless, d'une façon ou d'une autre, plus un bonus de cent charons si vous sortez Buzzer vivant.<end>
 
 =>q149_original
 I'm just wondering why you're interested in helping us so much...<end>
 
 =>q149
-Je me demande pourquoi vous voulez nous aider...<end>
+Je me demande juste pourquoi vous tenez tant à nous aider...<end>
 
 =>a150_original
 Where is Buzzer's shop exactly?<end>
 
 =>a150
-Où se trouve exactement le magasin de Buzzer ?<end>
+La boutique de Buzzer, c'est où, exactement ?<end>
 
 =>q151_original
 It's just to the south. It's guarded by a Faceless and there are plasma walkers patrolling. And further down south is the train depot.<end>
 
 =>q151
-C'est au sud. Il est gardé par un Faceless et il y a des marcheurs à plasma qui patrouillent. Et plus au sud se trouve le dépôt de trains.<end>
+Juste au sud. Gardée par un Faceless, et des plasma walkers en patrouille. Plus au sud, le dépôt ferroviaire.<end>
 
 =>a152_original
 How many Faceless are there?<end>
 
 =>a152
-Combien de Faceless y a-t-il ?<end>
+Combien de Faceless, il y en a ?<end>
 
 =>q153_original
 When we tried to storm the shop I saw three of them, but there could be more inside.<end>
 
 =>q153
-Quand nous avons essayé d'écraser le magasin, j'en ai vu trois, mais il pourrait y en avoir plus à l'intérieur.<end>
+Quand on a tenté l'assaut, j'en ai vu trois. Il peut y en avoir d'autres à l'intérieur.<end>
 
 =>q154_original
 Also, they had at least two plasma walkers patrolling the depot so be careful if you go snooping around there. 
@@ -946,51 +946,51 @@ Also, they had at least two plasma walkers patrolling the depot so be careful if
 Myles has some ideas how to disable those when we discussed a possibility of a second attack. You should ask him about what he had in mind. He lives on the north side of the station.<end>
 
 =>q154
-Aussi, ils avaient au moins deux marcheurs de plasma patrouillent le dépôt alors soyez prudent si vous allez fouiner là-bas.
+Ils avaient aussi au moins deux plasma walkers en patrouille sur le dépôt. Méfiez-vous si vous allez fouiner par là.
 
-Myles a quelques idées comment les désactiver lorsque nous avons discuté d'une possibilité de deuxième attaque. Tu devrais lui demander ce qu'il pensait. Il vit du côté nord de la station.<end>
+Myles avait des idées pour les mettre hors circuit, quand on a parlé d'un second assaut. Demandez-lui ce qu'il avait en tête. Il habite au nord de la station.<end>
 
 =>a155_original
 Is there another way to get into Buzzer's shop?<end>
 
 =>a155
-Y a-t-il un autre moyen d'entrer dans la boutique de Buzzer ?<end>
+Il y a un autre moyen d'entrer chez Buzzer ?<end>
 
 =>q156_original
 Maybe through the tunnel, but I don't know what state it's in, no one's been using it for a long time. You can access it through the trap door on the south end of the depot. The key is in my locker over there.<end>
 
 =>q156
-Peut-être à travers le tunnel, mais je ne sais pas dans quel état il est, personne ne l'utilise depuis longtemps. Vous pouvez l'accéder par la trappe de l'extrémité sud du dépôt. La clé est dans mon casier.<end>
+Peut-être par le tunnel, mais je ne sais pas dans quel état il est. Plus personne ne l'utilise depuis longtemps. On y accède par la trappe, au bout sud du dépôt. La clé est dans mon casier, là-bas.<end>
 
 =>a157_original
 I got rid of the Faceless for you.<end>
 
 =>a157
-Je me suis débarrassé du Faceless pour toi.<end>
+Je me suis débarrassé des Faceless, pour vous.<end>
 
 =>q158_original
 Yeah, I saw some of them retreating. I don't know what you did, but well done. <end>
 
 =>q158
-J'ai vu certains d'entre eux se retirer. Je ne sais pas ce que vous avez fait, mais bien joué. <end>
+Oui, j'en ai vu certains battre en retraite. Je ne sais pas ce que vous avez fait, mais bien joué. <end>
 
 =>q159_original
 You did us a great favor and we won't forget this.<end>
 
 =>q159
-Tu nous as fait une grande faveur et on n'oubliera pas ça.<end>
+Vous nous avez rendu un sacré service. On n'oubliera pas.<end>
 
 =>q160_original
 It's unfortunate that you couldn't save Buzzer, though. He will be missed.<end>
 
 =>q160
-Malheureusement, vous n'avez pas pu sauver Buzzer. Il va manquer.<end>
+Dommage que vous n'ayez pas pu sauver Buzzer, par contre. Il va manquer.<end>
 
 =>a161_original
 Wish I could have. Rest in peace, Buzzer.<end>
 
 =>a161
-J'aurais aimé. Repose en paix, Buzzer.<end>
+J'aurais voulu. Repose en paix, Buzzer.<end>
 
 =>q162_original
 May he rest in peace...<end>
@@ -1002,19 +1002,19 @@ Qu'il repose en paix...<end>
 You didn't save Buzzer, though, so no bonus money for you.<end>
 
 =>q163
-Vous n'avez pas économisé Buzzer, donc pas d'argent bonus pour vous.<end>
+Vous n'avez pas sauvé Buzzer, par contre. Pas de bonus.<end>
 
 =>q164_original
 And since you saved Buzzer in the process, here's your bonus as well - two hundred charons.<end>
 
 =>q164
-Et puisque vous avez sauvé Buzzer dans le processus, voici votre bonus aussi - deux cents charons.<end>
+Et puisque vous avez sauvé Buzzer au passage, voici votre bonus aussi. Deux cents charons.<end>
 
 =>a165_original
 Pleasure doing business with you.<end>
 
 =>a165
-C'est un plaisir de faire affaire avec vous.<end>
+Plaisir de faire affaire.<end>
 
 =>q166_original
 Indeed...<end>
@@ -1026,43 +1026,43 @@ En effet...<end>
 And since you saved Buzzer in the process, here's your bonus as well - one hundred charons.<end>
 
 =>q167
-Et puisque vous avez sauvé Buzzer dans le processus, voici votre bonus aussi - cent charons.<end>
+Et puisque vous avez sauvé Buzzer au passage, voici votre bonus aussi. Cent charons.<end>
 
 =>q168_original
 Here's the four hundred charons I promised you. <end>
 
 =>q168
-Voici les quatre cents charons que je vous ai promis. <end>
+Voici les quatre cents charons que je vous avais promis. <end>
 
 =>q169_original
 Here's the three hundred charons I promised you. <end>
 
 =>q169
-Voici les trois cents charons que je vous ai promis. <end>
+Voici les trois cents charons que je vous avais promis. <end>
 
 =>a170_original
 I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
 
 =>a170
-Je recherche Terry et Lora Baker, commerçants de SGS. Les avez-vous vus récemment ?<end>
+Je cherche Terry et Lora Baker, des marchands de SGS. Vous les avez vus, récemment ?<end>
 
 =>q171_original
 They come here regularly to trade, usually with Buzzer, but I haven't seen them recently, no.<end>
 
 =>q171
-Ils viennent ici régulièrement pour échanger, généralement avec Buzzer, mais je ne les ai pas vus récemment, non.<end>
+Ils viennent ici régulièrement pour troquer, en général avec Buzzer, mais je ne les ai pas vus récemment, non.<end>
 
 =>a172_original
 Buzzer died before I had the chance to talk to him about the Faceless attack, leaving me with some unanswered questions.<end>
 
 =>a172
-Buzzer est mort avant que j'ai eu la chance de lui parler de l'attaque Faceless, me laissant avec quelques questions sans réponse.<end>
+Buzzer est mort avant que j'aie pu lui parler de l'attaque Faceless. Il me reste des questions sans réponse.<end>
 
 =>q173_original
 I already told you all I know. Did you search the shop or learn something from the Faceless themselves?<end>
 
 =>q173
-Je t'ai déjà dit tout ce que je sais. Avez-vous fouillé le magasin ou appris quelque chose du Faceless lui-même ?<end>
+Je vous ai déjà dit tout ce que je sais. Vous avez fouillé la boutique ? Ou appris quelque chose des Faceless eux-mêmes ?<end>
 
 =>q174_original
 <end>
@@ -1074,55 +1074,55 @@ Je t'ai déjà dit tout ce que je sais. Avez-vous fouillé le magasin ou appris 
 They are looking for some item; I don't know what the item is, but it doesn't take a genius to figure out it means a lot to them. As you've said yourself, maybe someone brought something to his store. Did anyone unusual come to his store recently?<end>
 
 =>a175
-Ils cherchent un objet; je ne sais pas ce qu'il est, mais il ne faut pas un génie pour comprendre que cela signifie beaucoup pour eux. Comme vous l'avez dit vous-même, quelqu'un a peut-être apporté quelque chose à son magasin. Quelqu'un d'inhabituel est venu à son magasin récemment ?<end>
+Ils cherchent un objet. Je ne sais pas lequel, mais il ne faut pas être un génie pour comprendre que ça compte énormément pour eux. Comme vous l'avez dit vous-même, quelqu'un a peut-être apporté quelque chose dans sa boutique. Quelqu'un d'inhabituel est passé chez lui, récemment ?<end>
 
 =>q176_original
 ::He shrugs.:: Plenty, actually. But I don't keep track of who visits Buzzer. You could still ask around the station. Maybe you'll find some clue. My mind is preoccupied with other things now, however, so you're on your own in this.<end>
 
 =>q176
-::Il hausse les épaules.:: Beaucoup, en fait. Mais je ne sais pas qui visite Buzzer. Tu pourrais toujours demander autour de la gare. Tu trouveras peut-être un indice. Mon esprit est préoccupé par d'autres choses, cependant, alors vous êtes seul dans cette affaire.<end>
+::Il hausse les épaules.:: Plein, en fait. Mais je ne tiens pas le registre de qui passe chez Buzzer. Vous pouvez encore demander dans la station. Vous tomberez peut-être sur un indice. J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes seul.<end>
 
 =>a177_original
 Can I ask you a few more questions before I leave?<end>
 
 =>a177
-Puis-je vous poser quelques questions avant de partir ?<end>
+Je peux encore vous poser quelques questions, avant de partir ?<end>
 
 =>q178_original
 Go ahead.<end>
 
 =>q178
-Poursuivre.<end>
+Allez-y.<end>
 
 =>a179_original
 I understand. I'm going to go and ask around a bit.<end>
 
 =>a179
-Je comprends. Je vais aller demander un peu.<end>
+Je comprends. Je vais aller demander un peu, dans la station.<end>
 
 =>a180_original
 ::[Intelligence]:: I did not find anything unusual, but whatever the Faceless are looking for, it is no longer there. My guess is that all poor Buzzer was guilty of is letting the wrong people into his shop, drawing the Faceless toward him.<end>
 
 =>a180
-::[Intelligence]:: Je n'ai rien trouvé d'inhabituel, mais quel que soit le Faceless recherché, il n'est plus là. Je suppose que tout pauvre Buzzer était coupable de laisser les mauvaises personnes dans son magasin, en tirant le Faceless vers lui.<end>
+::[Intelligence]:: Je n'ai rien trouvé d'inhabituel, mais quoi que cherchent les Faceless, ce n'est plus là. Mon idée : le pauvre Buzzer n'a fait que laisser entrer les mauvaises personnes, et ça leur a mis le nez dessus.<end>
 
 =>q181_original
 How can you be so sure?<end>
 
 =>q181
-Comment peux-tu en être si sûr ?<end>
+Comment pouvez-vous en être si sûr ?<end>
 
 =>a182_original
 I am not, but you said something yourself - he deals in strange electronics. I think the most plausible explanation is that someone brought this device to his store; it likely didn't exchange hands, as the Faceless would've found it by now.<end>
 
 =>a182
-Je ne le suis pas, mais vous avez dit quelque chose vous-même - il traite dans l'électronique étrange. Je pense que l'explication la plus plausible est que quelqu'un a apporté cet appareil à son magasin; il n'a probablement pas échangé les mains, comme le Faceless l'aurait déjà trouvé.<end>
+Je n'en suis pas sûr, mais vous l'avez dit vous-même : il trafique de l'électronique bizarre. L'explication la plus plausible, c'est que quelqu'un a apporté cet appareil dans sa boutique. Il n'a probablement pas changé de mains, sinon les Faceless l'auraient déjà trouvé.<end>
 
 =>q183_original
 You could ask around, but Buzzer had a lot of customers, and a lot of them were weird folks. ::He shrugs.:: My mind is preoccupied with other things now, however, so you're on your own in this.<end>
 
 =>q183
-Vous pourriez demander autour, mais Buzzer avait beaucoup de clients, et beaucoup d'entre eux étaient des gens bizarres. ::Il hausse les épaules.:: Mon esprit est préoccupé par d'autres choses, cependant, alors vous êtes seul dans cette affaire.<end>
+Vous pouvez demander autour, mais Buzzer avait beaucoup de clients, et beaucoup étaient des types bizarres. ::Il hausse les épaules.:: J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes seul.<end>
 
 =>a184_original
 Nothing useful, unfortunately.<end>
@@ -1134,43 +1134,43 @@ Rien d'utile, malheureusement.<end>
 ::He shrugs.:: Sorry, my mind is preoccupied with other things now, so I can't help you much, but it seems to me like the only thing you've got left is to ask around the station. Lots of weird folks come to Buzzer's shop, so perhaps someone saw something you could find useful.<end>
 
 =>q185
-::Il hausse les épaules.:: Désolé, mon esprit est préoccupé par d'autres choses maintenant, donc je ne peux pas vous aider beaucoup, mais il me semble que la seule chose qui vous reste est de demander autour de la station. Beaucoup de gens bizarres viennent à la boutique de Buzzer, donc peut-être quelqu'un a vu quelque chose que vous pourriez trouver utile.<end>
+::Il hausse les épaules.:: Désolé, j'ai l'esprit ailleurs, je ne peux pas vous aider beaucoup. Il me semble que le seul recours, c'est de demander dans la station. Plein de types bizarres passent chez Buzzer. Peut-être que quelqu'un a vu quelque chose qui vous servirait.<end>
 
 =>q186_original
 Buzzer was known to trade in strange electronics - maybe he got hold of something they wanted. Did you search the shop or learn something from the Faceless themselves?<end>
 
 =>q186
-Buzzer était connu pour trader dans l'électronique étrange - peut-être qu'il a obtenu de quelque chose qu'ils voulaient. Avez-vous fouillé le magasin ou appris quelque chose du Faceless lui-même ?<end>
+Buzzer était connu pour trafiquer de l'électronique bizarre. Peut-être qu'il a mis la main sur un truc qu'ils voulaient. Vous avez fouillé la boutique ? Ou appris quelque chose des Faceless eux-mêmes ?<end>
 
 =>a187_original
 Catch you later.<end>
 
 =>a187
-On se retrouve plus tard.<end>
+À plus tard.<end>
 
 =>q188_original
 Please, not now...<end>
 
 =>q188
-S'il vous plaît, pas maintenant...<end>
+Je vous en prie, pas maintenant...<end>
 
 =>q189_original
 The Faceless have retreated. I don't know if you had anything to do with it, but if you did, thank you!<end>
 
 =>q189
-Le Faceless s'est retiré. Je ne sais pas si tu as quelque chose à voir avec ça, mais si tu l'as fait, merci !<end>
+Les Faceless ont battu en retraite. Je ne sais pas si vous y êtes pour quelque chose, mais si c'est le cas, merci.<end>
 
 =>q190_original
 Hello, traveller. I am Herve, captain of the militia and the de facto mayor of this station. It is very fortunate that you didn't arrive during the Faceless attack. Things were quite violent.<end>
 
 =>q190
-Bonjour, voyageur. Je suis Herve, capitaine de la milice et maire de facto de cette station. Il est très heureux que vous n'êtes pas arrivé pendant l'attaque Faceless. Les choses étaient assez violentes.<end>
+Bonjour, voyageur. Je suis Herve, capitaine de la milice et, de fait, le maire de cette station. Heureusement que vous n'êtes pas arrivé pendant l'attaque Faceless. Ça a été violent.<end>
 
 =>q191_original
 I saw you exiting Buzzer's shop and suddenly the Faceless are retreating. I don't know what you did, but thank you.<end>
 
 =>q191
-Je vous ai vu sortir de la boutique de Buzzer et soudain le Faceless se retire. Je ne sais pas ce que vous avez fait, mais merci.<end>
+Je vous ai vu sortir de la boutique de Buzzer, et soudain les Faceless battent en retraite. Je ne sais pas ce que vous avez fait, mais merci.<end>
 
 =>q192_original
 <end>
@@ -1182,19 +1182,19 @@ Je vous ai vu sortir de la boutique de Buzzer et soudain le Faceless se retire. 
 Name's Herve, by the way. I'm the captain of the milita and the de facto mayor of this station.<end>
 
 =>q193
-Au fait, c'est Herve. Je suis le capitaine de la milice et le maire de facto de cette station.<end>
+Au fait, moi c'est Herve. Capitaine de la milice, et de fait le maire de cette station.<end>
 
 =>q194_original
 Hello, traveller. I am Herve, captain of the militia and the de facto mayor of this station.<end>
 
 =>q194
-Bonjour, voyageur. Je suis Herve, capitaine de la milice et maire de facto de cette station.<end>
+Bonjour, voyageur. Je suis Herve, capitaine de la milice et, de fait, le maire de cette station.<end>
 
 =>q195_original
 We are usually a friendly and welcoming community, but you've chosen a bad day to pay us a visit.<end>
 
 =>q195
-Nous sommes généralement une communauté amicale et accueillante, mais vous avez choisi une mauvaise journée pour nous rendre visite.<end>
+D'habitude on est une communauté accueillante. Mais vous avez choisi un mauvais jour pour passer.<end>
 
 =>q196_original
 Good to see you again, $(context.player.Name).<end>
@@ -1206,5 +1206,5 @@ Content de vous revoir, $(context.player.Name).<end>
 Yes?<end>
 
 =>q197
-Oui?<end>
+Oui ?<end>
 

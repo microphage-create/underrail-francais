@@ -2,7 +2,7 @@
 Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
 
 =>q1
-Désolé, patron, j'ai les mains pleines. ::Tousse.:: Reprenez-moi dans Foundry.<end>
+Désolé, patron, j'ai les mains prises. ::Tousse.:: Retrouve-moi à Foundry.<end>
 
 =>q2_original
 <end>
@@ -14,7 +14,7 @@ Désolé, patron, j'ai les mains pleines. ::Tousse.:: Reprenez-moi dans Foundry.
 I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
 
 =>q3
-Je suis très occupé ici. Quoi que ce soit, il faudra attendre. ::- Toux.::<end>
+Là je suis débordé. Quoi que ce soit, ça attendra. ::Tousse.::<end>
 
 =>q4_original
 'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
@@ -22,27 +22,27 @@ Je suis très occupé ici. Quoi que ce soit, il faudra attendre. ::- Toux.::<end
 Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
 
 =>q4
-- Oui ? C'est toi. Content de te voir. ::Il tousse.:: Comme vous pouvez probablement le dire, nous sommes de retour dans les affaires - et les affaires sont bonnes. D'or ! ::Il rit.::
+Hein ? Ah, c'est toi. Hé, content de te voir. ::Il tousse.:: Ça se voit : on a repris les affaires, et ça marche. En or ! ::Il rit.::
 
-Bref, j'ai beaucoup de travail, alors s'il vous plaît, faites vite. Quoi ?<end>
+Bref, j'ai du boulot, alors sois rapide. Qu'est-ce qu'il te faut ?<end>
 
 =>a5_original
 How do you feel now that the mine has been reopened?<end>
 
 =>a5
-Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+Comment tu te sens, maintenant que la mine a rouvert ?<end>
 
 =>q6_original
 I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
 
 =>q6
-Personnellement, je me sens en or ! Les choses sont comme avant. Bien sûr, la mine n'est pas encore complètement sûre, il y a encore d'autres rochers qui attendent d'être exterminés, oui, mais les mineurs travaillent sous la protection de Foundry Guard donc nous sommes dorés. Foundry est de retour en action !<end>
+Moi, perso, je suis en or ! C'est presque comme avant. Bien sûr, la mine est pas encore totalement sûre, y a encore des rockies à exterminer, ouais, mais les mineurs bossent sous la protection de la Foundry Guard, donc on est en or. Foundry est de nouveau sur pied !<end>
 
 =>q7_original
 Which is obviously a good thing. ::He coughs.::<end>
 
 =>q7
-Ce qui est évidemment une bonne chose. ::Il tousse.::<end>
+Ce qui est clairement une bonne chose. ::Il tousse.::<end>
 
 =>q8_original
 <end>
@@ -54,25 +54,25 @@ Ce qui est évidemment une bonne chose. ::Il tousse.::<end>
 Who are you?<end>
 
 =>a9
-Qui es-tu?<end>
+T'es qui ?<end>
 
 =>q10_original
 I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
 
 =>q10
-Je suis Marcos Banti, le superviseur minier. ::Il tousse.:: Qui êtes-vous ?<end>
+Marcos Banti, superviseur de la mine. ::Il tousse.:: T'es qui, toi ?<end>
 
 =>a11_original
 $(context.player.Name), nice to meet you.<end>
 
 =>a11
-$(context.player.Name), ravi de vous rencontrer.<end>
+$(context.player.Name), enchanté.<end>
 
 =>q12_original
 Yeah, yeah. Whatcha need?<end>
 
 =>q12
-Oui, oui. Quoi ?<end>
+Ouais, ouais. Qu'est-ce qu'il te faut ?<end>
 
 =>a13_original
 $(context.player.Name).<end>
@@ -84,97 +84,97 @@ $(context.player.Name).<end>
 So, whatcha need?<end>
 
 =>q14
-De quoi a-t-il besoin ?<end>
+Alors, qu'est-ce qu'il te faut ?<end>
 
 =>a15_original
 Are you Marcos Banti, the mining supervisor?<end>
 
 =>a15
-Êtes-vous Marcos Banti, le superviseur minier ?<end>
+T'es Marcos Banti, le superviseur de la mine ?<end>
 
 =>q16_original
 Yeah, that's me. ::He coughs.:: Who are you?<end>
 
 =>q16
-Oui, c'est moi. ::Il tousse.:: Qui êtes-vous ?<end>
+Ouais, c'est moi. ::Il tousse.:: T'es qui, toi ?<end>
 
 =>a17_original
 Can you tell me something about yourself?<end>
 
 =>a17
-Pouvez-vous me dire quelque chose sur vous ?<end>
+Tu peux me parler un peu de toi ?<end>
 
 =>q18_original
 'Uh? I can tell you that's none of your business.<end>
 
 =>q18
-- Oui ? Ça ne te regarde pas.<end>
+Hein ? Je peux te dire que ça te regarde pas.<end>
 
 =>q19_original
 More questions?<end>
 
 =>q19
-D'autres questions ?<end>
+Encore des questions ?<end>
 
 =>a20_original
 What can you tell me about Foundry?<end>
 
 =>a20
-Que pouvez-vous me dire sur Foundry ?<end>
+Qu'est-ce que tu peux me dire sur Foundry ?<end>
 
 =>q21_original
 Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
 
 =>q21
-C'est bien, Foundry ? Ce n'est pas mauvais ici comme certains disent. Ce que les gens ne comprennent pas, c'est que tu ne peux pas tout avoir dans la vie. Les gens veulent l'air et l'eau les plus propres dans Underrail, les troupes armées les protégeant de Ironheads, des emplois faciles et des pièces de monnaie de lotsa. Excusez-moi ! Moi, je suis doré ici : l'exploitation minière peut remplir les poches d'un homme travailleur très bien, *si* vous êtes prudent autour de la mine ou des métaux.<end>
+La bonne vieille Foundry ? C'est pas *si* pourri que ce que les gens racontent. Ce qu'ils pigent pas, c'est qu'on peut pas tout avoir. Ils veulent l'air et l'eau les plus propres d'Underrail, des troupes pour les protéger des Ironheads, des boulots faciles et des charons à la pelle. Ben voyons ! Moi, ici, je suis en or : la mine, ça remplit bien les poches d'un gars qui bosse, *si* tu fais gaffe à la mine et aux forges.<end>
 
 =>q22_original
 ::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
 
 =>q22
-::Il tousse.:: Parler d'années d'expérience ici. Tu dois juste être intelligent et prendre soin de ne pas mourir. Buvez seulement l'eau propre de Claude, portez vos respirateurs en tout temps ainsi que votre équipement de protection quand vous creusez... ce genre de choses. ::Il tousse.:: Puis, quand vous gagnez beaucoup de pièces et finalement vous fatiguez de Foundry, passez à Core City et vivez comme un Oligarch ! Presque. ::Il rit.::<end>
+::Il tousse.:: Je parle d'expérience, des années. Faut juste être malin et éviter de crever. Tu bois que l'eau propre de Claude, tu portes le respirateur en permanence, et l'équipement de protection quand tu creuses... ce genre de trucs. ::Il tousse.:: Après, quand t'as amassé assez de charons et que Foundry te sort par les yeux, tu te tapes Core City et tu vis comme un Oligarch ! Enfin... presque. ::Il rit.::<end>
 
 =>a23_original
 Can you tell me anything about the mine creatures?<end>
 
 =>a23
-Pouvez-vous me parler de mes créatures ?<end>
+Tu peux me parler des créatures de la mine ?<end>
 
 =>q24_original
 Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
 
 =>q24
-Ecoute, $(#man/woman), je ne devrais pas en parler, tu creuses ? ::Il tousse.:: Je ne veux pas être responsable de la diffusion de rumeurs, donc ma bouche est fermée jusqu'à ce que la Garde Foundry traite de toute cette situation.<end>
+Écoute, $(#gars/fille), je devrais pas en parler, t'as pigé ? ::Il tousse.:: J'ai pas envie qu'on me colle les rumeurs sur le dos, donc je ferme ma gueule jusqu'à ce que la Foundry Guard règle le problème.<end>
 
 =>q25_original
 Dig what I mean?<end>
 
 =>q25
-Dig ce que je veux dire ?<end>
+Tu piges ce que je veux dire ?<end>
 
 =>a26_original
 But your mayor sent me here to talk to you.<end>
 
 =>a26
-Mais votre maire m'a envoyé ici pour vous parler.<end>
+Mais ton maire m'envoie te parler.<end>
 
 =>q27_original
 'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
 
 =>q27
-- Oui ? Maire ? Le grand patron veut que tu me convaincs d'utiliser des explosifs dans la mine pour arrêter les rockies. On en a déjà parlé. Mais ma réponse est toujours la même : Non ! Ça s'effondrerait la moitié de la mine et nous ferait revenir par qui sait combien de mois. Je connais cette mine comme l'arrière de ma paume, son coin et sa ruse, et je sais qu'une détonation nous ferait plus de mal que ces créatures. L'utilisation d'explosifs devrait être l'option *dernière*. Pigé ?<end>
+Hein ? Le maire ? Ah, je vois : le grand patron veut que tu me convainques de faire sauter la mine pour arrêter les rockies. Je sais, je sais, on en a déjà parlé. Ma réponse a pas changé : hors de question ! Ça ferait s'effondrer la moitié de cette putain de mine et on reculerait de je-sais-pas combien de mois. Je connais cette mine comme ma poche, chaque recoin, et je sais qu'une détonation nous ferait plus de mal qu'à ces bestioles. Les explosifs, c'est l'option de *dernier* recours. Pigé ?<end>
 
 =>a28_original
 Can you just tell me what you know about the creatures?<end>
 
 =>a28
-Pouvez-vous me dire ce que vous savez sur les créatures ?<end>
+Tu peux juste me dire ce que tu sais sur les créatures ?<end>
 
 =>q29_original
 Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
 
 =>q29
-Personnellement, je n'ai jamais vu une de ces choses, mais les gardes qui m'ont dit qu'ils avaient une coquille faite de pierre. J'ai aussi entendu dire qu'il y a une plus grande créature rocheuse qui est la vraie raison pour laquelle la Garde Foundry ne peut pas nettoyer la mine. Les petits, bien que pas vraiment friables, ne sont pas si difficiles, mais le grand papa est, genre, assez invulnérable. ::Il tousse.:: C'est ce que j'ai entendu.<end>
+Perso, j'en ai jamais vu une, mais les gardes qui en ont vu m'ont dit qu'elles ont une carapace entièrement en roche. J'ai aussi entendu qu'il y a une plus grosse créature de pierre, et que c'est *elle* la vraie raison pour laquelle la Foundry Guard arrive pas à nettoyer la mine. Les petites, elles sont pas exactement friables, mais pas si costaudes que ça. Le gros papa, lui, c'est quasiment de l'invulnérable. ::Il tousse.:: C'est ce qu'on m'a dit.<end>
 
 =>q30_original
 ::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
@@ -182,33 +182,33 @@ Personnellement, je n'ai jamais vu une de ces choses, mais les gardes qui m'ont 
 Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
 
 =>q30
-::Marcos enlève ensuite un de ses gants, le tirant d'un doigt à la fois, pour révéler une énorme main rugueuse avec des ongles sales et éraflés. Il continue avec un sourire unilatéral.::
+::Marcos retire ensuite un gant, doigt par doigt, et découvre une énorme main à la peau rêche, ongles sales et ébréchés. Il reprend avec un sourire en coin.::
 
-Je parie que personne ne vous a parlé de ces vers drôles. ::Il imite le mouvement vermiculaire avec son index, le déplaçant de quelques centimètres à gauche avec chaque onde de mouvement.:: Pas vrai ?<end>
+Je parie que personne t'a parlé de ces vers bizarres, hein ? ::Il imite un mouvement de ver avec l'index, le décalant de quelques centimètres à gauche à chaque ondulation.:: Hein ?<end>
 
 =>a31_original
 I have a captured one right here.<end>
 
 =>a31
-J'en ai un capturé ici.<end>
+J'en ai un, capturé, juste ici.<end>
 
 =>q32_original
 Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
 
 =>q32
-Ah, donc vous les avez trouvés après tout. ::Il tousse.:: Mais je pense que vous trouverez ce que je vais vous dire très utile. Écoute...<end>
+Ah, donc tu les as trouvés quand même. ::Il tousse.:: Tu vas trouver ce que je vais te dire plutôt utile, je pense. Écoute...<end>
 
 =>q33_original
 Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
 
 =>q33
-Il y a plusieurs mois, nous avons trouvé des dépôts de chromite dans la mine. Jusqu'ici, on a surtout extrait du fer, du titane et des trucs comme ça, mais pas du chrome. On a commencé à creuser dans cette direction. En chemin, nous avons trouvé d'étranges taches de chromite - le minerai que vous obtenez du chrome - qui avaient des vers dedans. Tu sais, les mineurs foraient le minerai et les vers avec *perces pour la tête* en sortiraient. Je n'ai jamais rien vu de tel. Des trucs bizarres. Les vers sortiraient de là et seraient en chemin, ne nous dérangeant jamais.<end>
+Y a plusieurs mois, on a trouvé des veines de chromite dans la mine. Jusque-là on sortait surtout du fer, du titane, ce genre de trucs, mais pas de chrome. On a commencé à creuser de ce côté. En chemin, on est tombés sur d'étranges filons de chromite - le minerai d'où on tire le chrome - avec ces vers dedans. Tu vois, les gars foraient le minerai et des vers avec *un foret à la place de la tête* en sortaient. Jamais vu un truc pareil. Je te jure, c'est tordu. Les vers se tiraient et continuaient leur route, sans jamais nous emmerder.<end>
 
 =>q34_original
 Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
 
 =>q34
-Après que les rochers nous aient attaqués, des gardes qui sont allés plus loin dans la mine nous ont dit que les vers étaient partout dans les grottes. Je pense que tout est connecté. Peut-être que les rochers se nourrissent des vers, ou que c'est autre chose, je ne sais pas. Je devais te le dire. ::Il tousse.::<end>
+Après l'attaque des rockies, des gardes qui sont allés plus loin dans la mine nous ont dit que les vers étaient partout dans les grottes. Je pense que tout ça se tient. Peut-être que les rockies se nourrissent des vers, ou que c'est autre chose, j'en sais rien. Je me suis dit que tu devais le savoir. ::Il tousse.::<end>
 
 =>q35_original
 ::He puts his glove back on.::
@@ -218,19 +218,19 @@ That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
 =>q35
 ::Il remet son gant.::
 
-C'est tout ce que j'ai pour toi. Dites à Marshall qu'on n'utilise pas d'explosifs. Pigé ?<end>
+C'est tout ce que j'ai. Tu diras à Marshall qu'on utilise *pas* d'explosifs. Pigé ?<end>
 
 =>a36_original
 I saw them in the mine. What do you know about them?<end>
 
 =>a36
-Je les ai vus dans la mine. Que savez-vous d'eux ?<end>
+Je les ai vus dans la mine. Qu'est-ce que tu en sais ?<end>
 
 =>a37_original
 I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
 
 =>a37
-Je les ai vus, et j'ai déjà vu des choses similaires. Qu'est-ce que tu sais d'eux ?<end>
+Je les ai vus, et j'ai déjà vu des trucs du même genre. Qu'est-ce que tu en sais, quand même ?<end>
 
 =>a38_original
 No, what kind of worms?<end>
@@ -242,127 +242,127 @@ Non, quel genre de vers ?<end>
 But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
 
 =>q39
-Mais bien sûr, le grand patron n'a pas mentionné ce "petit" détail. Je pense que vous trouverez ce que je vais vous dire très utile. Écoute...<end>
+Évidemment, le grand patron a oublié ce « petit » détail. Tu vas trouver ce que je vais te dire plutôt utile, je pense. Écoute...<end>
 
 =>a40_original
 Don't you already use explosives in mining?<end>
 
 =>a40
-Tu n'utilises pas déjà des explosifs dans les mines ?<end>
+T'utilises pas déjà des explosifs, à la mine ?<end>
 
 =>q41_original
 Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
 
 =>q41
-Oui, mais la partie de la mine où nous avons trouvé les rochers est extrêmement instable et ne convient pas aux explosifs. On a des fissures énormes qui traversent le plafond dans cette zone, donc il ne faut pas un génie pour comprendre ce qui se passerait. Nous n'avons pas eu le temps de le sécuriser, et ne le ferons pas grâce aux stupides rockies.<end>
+Ouais, mais le coin où on a trouvé les rockies est extrêmement instable, *pas* fait pour les explosifs. Y a des fissures énormes qui traversent le plafond par là, faut pas être un génie pour voir ce qui arriverait. On a pas eu le temps de sécuriser, et on l'aura pas, merci les rockies débiles.<end>
 
 =>a42_original
 I see. What can you tell me about the creatures themselves?<end>
 
 =>a42
-Je vois. Que pouvez-vous me dire sur les créatures elles-mêmes ?<end>
+Je vois. Qu'est-ce que tu peux me dire sur les créatures elles-mêmes ?<end>
 
 =>a43_original
 I dig. Let's talk about something else.<end>
 
 =>a43
-Je creuse. Parlons d'autre chose.<end>
+J'ai pigé. Parlons d'autre chose.<end>
 
 =>a44_original
 So, do you have any clue how to deal with the Beast?<end>
 
 =>a44
-Alors, vous savez comment gérer la Bête ?<end>
+Alors, t'as une idée pour la Bête ?<end>
 
 =>q45_original
 ::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
 
 =>q45
-::Il tousse.:: Je n'en ai aucune idée. Si c'était le cas, ce serait mort et on serait dans l'exploitation minière.<end>
+::Il tousse.:: Aucune idée. Si j'en avais une, elle serait déjà morte et on serait en train de miner.<end>
 
 =>q46_original
 You dig?<end>
 
 =>q46
-Vous creusez ?<end>
+Tu piges ?<end>
 
 =>a47_original
 Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
 
 =>a47
-Y a-t-il quelqu'un ici à Foundry qui puisse inspecter les vers de la mine ? Un biologiste d'une sorte, expert dans son domaine de préférence.<end>
+Y a quelqu'un à Foundry qui peut inspecter les vers de la mine ? Un biologiste, un expert dans son domaine, de préférence.<end>
 
 =>q48_original
 An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
 
 =>q48
-Un expert... Non. Un biologiste, comme un zoologiste ou similaire, en doute fortement. ::Il tousse.:: Il n'y a pas beaucoup de travail pour les biologistes ici, étant que c'est, bien, Foundry. Quelqu'un aurait pu passer au bar, ou voir un parent, mais à part ça... Non.<end>
+Un expert... nan. Un biologiste, zoologiste, ce genre de truc... j'y crois moyen. ::Il tousse.:: Y a pas grand boulot pour les biologistes ici, vu que c'est... ben, Foundry. Quelqu'un a pu passer au bar, ou voir de la famille, mais à part ça... nan.<end>
 
 =>q49_original
 In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
 
 =>q49
-En fin de compte, je pense que vous allez devoir demander de l'aide à quelqu'un en dehors de Foundry. ::Il tousse, puis s'affaisse.::<end>
+Au bout du compte, je pense que tu vas devoir chercher de l'aide en dehors de Foundry. ::Il tousse, puis hausse les épaules.::<end>
 
 =>a50_original
 ::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
 
 =>a50
-::[Intelligence]:: Alors je pense que ma meilleure option est de faire un voyage de retour à SGS et voir Quinton.<end>
+::[Intelligence]:: Alors mon meilleur coup, c'est de rentrer à SGS et de voir Quinton.<end>
 
 =>q51_original
 There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
 
 =>q51
-Voilà. ::Il tousse.:: Gorge friable... ::Il tousse encore.:: Alors, tu dois me demander autre chose ?<end>
+Voilà. ::Il tousse.:: Putain de gorge friable... ::Il tousse encore.:: Alors, t'as, euh, autre chose à me demander ?<end>
 
 =>a52_original
 ::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
 
 =>a52
-::[Intelligence]:: Je pourrais aller à l'Institut et voir si PI Rista peut m'aider.<end>
+::[Intelligence]:: Je pourrais filer à l'Institute et voir si PI Rista peut m'aider.<end>
 
 =>a53_original
 Thanks. I'll figure something out.<end>
 
 =>a53
-C'est gentil. Je trouverai quelque chose.<end>
+Merci. Je me débrouillerai.<end>
 
 =>q54_original
 Anything, 'uh, else you got to ask me?<end>
 
 =>q54
-Autre chose ?<end>
+T'as, euh, autre chose à me demander ?<end>
 
 =>a55_original
 ::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
 
 =>a55
-::[Biology]:: Y a-t-il quelqu'un ici à Foundry qui peut m'aider à inspecter les vers de la mine ? Un biologiste d'une sorte, expert dans son domaine de préférence. Deux têtes sont mieux pour s'attaquer à cela qu'une.<end>
+::[Biology]:: Y a quelqu'un à Foundry qui peut m'aider à inspecter les vers de la mine ? Un biologiste, un expert dans son domaine, de préférence. Deux têtes valent mieux qu'une pour ce genre de truc.<end>
 
 =>a56_original
 See you later.<end>
 
 =>a56
-A tout à l'heure.<end>
+À plus tard.<end>
 
 =>q57_original
 Yeah, yeah.<end>
 
 =>q57
-Oui, oui.<end>
+Ouais, ouais.<end>
 
 =>a58_original
 I'll leave you to your work.<end>
 
 =>a58
-Je vous laisse à votre travail.<end>
+Je te laisse travailler.<end>
 
 =>q59_original
 Yeah, yeah.<end>
 
 =>q59
-Oui, oui.<end>
+Ouais, ouais.<end>
 
 =>q60_original
 ::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
@@ -370,37 +370,37 @@ Oui, oui.<end>
 'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
 
 =>q60
-::Le mineur te donne des gestes pour arrêter. Cet homme à épaule large et potelé laisse sortir une seule toux longue et très abrasive - semblable à un train qui traverse un tunnel trop étroit, broyant son chemin - avant de pouvoir s'adresser à vous.::
+::Le mineur te fait signe de t'arrêter. L'homme, grassouillet, les épaules larges, lâche une toux unique, longue, abrasive à faire mal - comme un train qui force dans un tunnel trop étroit, en grinçant sur toute la longueur - avant de pouvoir t'adresser la parole.::
 
-Tu ne veux pas entrer dans la mine. L'entrée a été fermée.<end>
+Hé, toi. Tu veux pas entrer dans la mine. L'entrée est fermée.<end>
 
 =>a61_original
 Why is it closed?<end>
 
 =>a61
-Pourquoi est-ce fermé ?<end>
+Pourquoi c'est fermé ?<end>
 
 =>q62_original
 Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
 
 =>q62
-Des créatures méchantes sont apparues. Crois-moi, tu ne veux pas y aller. ::Il tousse.::<end>
+Des créatures vicieuses se sont pointées. Crois-moi, tu veux pas y aller. ::Il tousse.::<end>
 
 =>a63_original
 You can't stop me from going in there!<end>
 
 =>a63
-Tu ne peux pas m'empêcher d'y aller !<end>
+Tu peux pas m'empêcher d'y aller !<end>
 
 =>q64_original
 'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
 
 =>q64
-- Oui ? Je ne peux pas, c'est vrai. Mais, des créatures dangereuses sont arrivées là-dedans, donc si vous voulez devenir leur dîner, soyez mon invité. ::Il tousse.::<end>
+Hein ? Non, je peux pas, c'est vrai. Mais y a des créatures dangereuses là-dedans, donc si tu veux finir en dîner, fais-toi plaisir. ::Il tousse.::<end>
 
 =>q65_original
 'Uh? Need something?<end>
 
 =>q65
-- Oui ? Besoin de quelque chose ?<end>
+Hein ? T'as besoin de quelque chose ?<end>
 

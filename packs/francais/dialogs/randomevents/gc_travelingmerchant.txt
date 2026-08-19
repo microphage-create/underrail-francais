@@ -4,7 +4,7 @@
 <end>
 
 =>q1
-::Ce senior Underrailer est prompt à vous désigner comme un client potentiel - après vous avoir bien regardé avec ses yeux vifs, bien sûr - car il semble être un marchand itinérant d'une sorte. La lourde charge sur son dos doit être son inventaire.::
+::Ce vieux Underrailer n'a pas mis longtemps à vous coller l'étiquette de client - après vous avoir bien dévisagé, l'œil vif, évidemment. Un marchand itinérant, à ce qu'il semble. Le ballot sur le dos, c'est son stock.::
 
 <end>
 
@@ -12,7 +12,7 @@
 Greetings, youngster. <end>
 
 =>q2
-Salutations, jeune. <end>
+Bien le bonjour, gamin. <end>
 
 =>q3_original
 <end>
@@ -24,13 +24,13 @@ Salutations, jeune. <end>
 Need some weapons and gear? <end>
 
 =>q4
-Besoin d'armes et de matériel ? <end>
+Besoin d'armes et de matos ? <end>
 
 =>q5_original
 Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
 
 =>q5
-J'ai quelques trucs qu'un $(#guy/gal) comme vous pourrait trouver intéressant. Tu veux jeter un oeil ?<end>
+J'ai deux-trois trucs qu'$(#un gars/une nana) comme toi pourrait trouver intéressants. Tu jettes un œil, hein ? Tu jettes ?<end>
 
 =>q6_original
 <end>
@@ -42,13 +42,13 @@ J'ai quelques trucs qu'un $(#guy/gal) comme vous pourrait trouver intéressant. 
 Show me what you have. ::Barter.::<end>
 
 =>a7
-Montre-moi ce que tu as. ::Troc.::<end>
+Montrer le stock. ::Troc.::<end>
 
 =>a8_original
 So, how's life on the rails treating you?<end>
 
 =>a8
-Alors, comment va la vie sur les rails ?<end>
+Demander comment va la vie sur les rails.<end>
 
 =>q9_original
 Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
@@ -56,57 +56,57 @@ Meh. Not too bad, but lately I've been startin' to feel my age. It takes some ef
 But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
 
 =>q9
-- Oui. Pas mal, mais je commence à ressentir mon âge. Il faut faire des efforts pour déplacer ces os d'un endroit à l'autre. Comme les années passent... la distance semble de plus en plus grande. Oui.
+Bof. Pas trop mal, mais depuis un moment, je commence à sentir mon âge. Ça demande un effort, de trimballer ces vieux os d'un coin à l'autre, tu vois. Les années passent... et les distances, elles s'allongent. Mmm.
 
-Mais un homme doit faire ce qu'un homme doit faire s'il veut gagner une pièce à demi-décente.<end>
+Mais un homme, il fait ce qu'il a à faire s'il veut ramener une pièce à peu près décente. Ça, je te le dis.<end>
 
 =>a10_original
 Are beasts and bandits giving you trouble?<end>
 
 =>a10
-Des bêtes et des bandits te donnent-ils des ennuis ?<end>
+Demander si les bêtes et les bandits l'embêtent.<end>
 
 =>q11_original
 Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
 
 =>q11
-S'il vous plaît. Je suis vétérinaire, jeune, un vrai vétérinaire. Depuis avant que tu aies le courage de sortir du ventre de ta mère. J'ai quelques trucs dans ma manche, ne t'inquiète pas.<end>
+Pfff. Je suis un vétéran, gamin - un vrai. Je bourlingue dans Underrail depuis avant que t'aies le cran de sortir du ventre de ta mère, hé hé. J'ai plus d'un tour dans mon sac, t'inquiète - t'inquiète.<end>
 
 =>q12_original
 Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
 
 =>q12
-Au lieu de ça, tu ferais mieux de t'inquiéter pour ces pièces que tu as eues sur toi, parce que j'ai de bonnes choses à échanger. Et alors ? Tu veux ?<end>
+Toi, tu ferais mieux de t'inquiéter des pièces que t'as sur toi, parce que j'ai du beau matos à troquer. Hein ? Tu veux ?<end>
 
 =>a13_original
 Are pirates giving you trouble?<end>
 
 =>a13
-Les pirates te donnent des ennuis ?<end>
+Demander si les pirates l'embêtent.<end>
 
 =>a14_original
 So, how's marine life treating you?<end>
 
 =>a14
-Alors, comment va la vie marine ?<end>
+Demander comment va la vie marine.<end>
 
 =>a15_original
 Is the pig for sale too?<end>
 
 =>a15
-Le cochon est aussi en vente ?<end>
+Demander si le cochon est à vendre aussi.<end>
 
 =>q16_original
 Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
 
 =>q16
-Oh, non, non. C'est mon ami ! Ce petit gars m'aide à déplacer des marchandises depuis des années.<end>
+Oh, non, non. C'est mon pote ! Ce petit gars m'aide à trimballer la marchandise depuis des années. Des années.<end>
 
 =>q17_original
 Ain't that right, Snorty, ain't that right?<end>
 
 =>q17
-N'est-ce pas, Snorty ?<end>
+C'est vrai, hein, Snorty ? C'est vrai ?<end>
 
 =>q18_original
 Snort!<end>
@@ -120,21 +120,21 @@ He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell y
 Smarter than dogs - 'n' even some people!<end>
 
 =>q19
-Il-il-il. Regarde ! Les cochons sont les animaux les plus intelligents.
+Hé hé hé. Regarde-moi ça ! Les cochons, c'est les bêtes les plus malines qu'il y a, je te le dis.
 
-Plus intelligent que les chiens - 'n' même certaines personnes!<end>
+Plus malins que les chiens - et même que certains humains !<end>
 
 =>a20_original
 Sorry, I'm not interested.<end>
 
 =>a20
-Désolé, ça ne m'intéresse pas.<end>
+Pas intéressé.<end>
 
 =>q21_original
 Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
 
 =>q21
-Tu es sûr ? Je me reposerai ici encore un moment, donc au cas où tu changerais d'avis, tu sais où me trouver.<end>
+T'es $(#sûr/sûre) ? Je vais encore traîner un moment ici, alors si tu changes d'avis, hé hé, tu sais où me trouver.<end>
 
 =>q22_original
 Need some electronics? <end>
@@ -146,37 +146,37 @@ Besoin d'électronique ? <end>
 Need some mechanical components? <end>
 
 =>q23
-Besoin de composants mécaniques? <end>
+Besoin de pièces mécaniques ? <end>
 
 =>q24_original
 Need some medications and medical equipment? <end>
 
 =>q24
-Besoin de médicaments et de matériel médical? <end>
+Besoin de médicaments et de matos médical ? <end>
 
 =>q25_original
 Need some hunting gear? <end>
 
 =>q25
-Besoin d'équipement de chasse ? <end>
+Besoin de matos de chasse ? <end>
 
 =>q26_original
 Need some food? <end>
 
 =>q26
-Besoin de nourriture ? <end>
+Besoin de bouffe ? <end>
 
 =>q27_original
 Need some *explosives*? <end>
 
 =>q27
-Besoin de *explosifs*? <end>
+Besoin d'*explosifs* ? <end>
 
 =>q28_original
 Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
 
 =>q28
-J'ai un assortiment varié de choses un $(#guy/gal) comme vous pourriez trouver intéressant. Tu veux voir ?<end>
+J'ai un assortiment varié de trucs qu'$(#un gars/une nana) comme toi pourrait trouver intéressants. Tu jettes un œil ?<end>
 
 =>q29_original
 ::A traveling merchant greets you.::
@@ -186,5 +186,5 @@ He-he. <end>
 =>q29
 ::Un marchand itinérant vous salue.::
 
-C'est lui. <end>
+Hé hé. <end>
 

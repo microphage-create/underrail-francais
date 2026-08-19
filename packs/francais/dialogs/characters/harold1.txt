@@ -2,43 +2,43 @@
 Ah, $(context.player.Name), glad you're here. There's something I need to discuss with you. Got a moment?<end>
 
 =>q1
-Ah, $(context.player.Name), content que tu sois là. Y a un truc dont je dois te parler. T'as une minute ?<end>
+Ah, $(context.player.Name), content que tu sois là. J'ai un truc à te dire. T'as une minute ?<end>
 
 =>a2_original
 Of course Harold, what's this all about?<end>
 
 =>a2
-Bien sûr Harold, c'est à propos de quoi ?<end>
+Bien sûr, Harold. C'est à propos de quoi ?<end>
 
 =>q3_original
 I wanted to talk to you about something that is luckily not *as* urgent at this moment, but important none the less. You see, after the earthquake we experienced a major power outage; whole station went black. Usually when things like that happen, our backup generators switch on to provide power until we get our main power back.<end>
 
 =>q3
-Je voulais te parler de quelque chose qui n'est heureusement pas *aussi* urgent pour le moment, mais important quand même. Tu vois, après le séisme on a eu une grosse panne de courant ; toute la station s'est éteinte. D'habitude quand ce genre de chose arrive, nos générateurs de secours s'allument pour fournir du courant jusqu'à ce qu'on récupère l'alimentation principale.<end>
+Je voulais te parler d'un truc qui, heureusement, est pas *aussi* urgent là tout de suite. Important quand même. Après le séisme, grosse panne : toute la station dans le noir. D'habitude, dans ces cas-là, les générateurs de secours prennent le relais jusqu'à ce qu'on récupère le courant principal.<end>
 
 =>a4_original
 Keep talking, I'm interested.<end>
 
 =>a4
-Continue, ça m'intéresse.<end>
+Continuer. Ça m'intéresse.<end>
 
 =>q5_original
 Will do. The thing is, there is a delay before the backup generators kick in. It's usually just several seconds, but that means we have an interruption in power, and for many reasons that is unacceptable. Just imagine you're in the med bay, being operated on, and suddenly there's no power anymore. That's just one example; I won't go into mentioning all the systems in SGS that require constant power supply.<end>
 
 =>q5
-Je continue. Le truc, c'est qu'il y a un délai avant que les générateurs de secours s'enclenchent. C'est généralement juste quelques secondes, mais ça veut dire une interruption de courant, et pour plein de raisons c'est inacceptable. Imagine juste que t'es au med bay, en train de te faire opérer, et soudain plus de courant. C'est qu'un exemple ; je vais pas énumérer tous les systèmes de SGS qui exigent une alimentation constante.<end>
+Ouais. Le problème, c'est le délai avant que les générateurs de secours s'enclenchent. Quelques secondes, en général, mais ça coupe le courant, et ça, pour plein de raisons, c'est inacceptable. Imagine t'es à l'infirmerie, sous le scalpel, et paf : plus rien. C'est qu'un exemple. Je vais pas te lister tous les systèmes de SGS qui ont besoin de courant en continu.<end>
 
 =>q6_original
 Now, this time, during the earthquake, we've had such a large number of batteries die all at once it's insane. Yes, most of them were *pretty* old optoelectric nuclear batteries; don't mistake them for common nickel-palladium fusion batteries, though. These are very rare.<end>
 
 =>q6
-Cette fois, pendant le séisme, on a eu un nombre tellement élevé de batteries mortes d'un coup que c'est dingue. Oui, la plupart étaient des batteries nucléaires optoélectriques *plutôt* vieilles ; les confonds pas avec les batteries à fusion nickel-palladium communes, hein. Celles-là sont très rares.<end>
+Là, pendant le séisme, on a cramé un nombre de batteries dingue, toutes d'un coup. La plupart, c'était des batteries nucléaires optoélectriques, *plutôt* vieilles. Les confonds pas avec les batteries à fusion nickel-palladium, celles qu'on trouve partout. Celles-là, elles sont rares.<end>
 
 =>a7_original
 Interesting, but what do you need me for?<end>
 
 =>a7
-Intéressant, mais tu as besoin de moi pour quoi ?<end>
+Intéressant. T'as besoin de moi pour quoi ?<end>
 
 =>q8_original
 Currently, we have a few optoelectric batteries to spare, but if they keep dying, we're gonna be in big trouble. So, I want you to go to an old battery recycling plant not too far away from here; it's to the east, past the Crossroad Caves. It's been out of commission for years, but maybe you can find something there that we can use. Spare optoelectric cells, related equipment or blueprints... you find any of that, make sure you bring it to me.
@@ -46,9 +46,9 @@ Currently, we have a few optoelectric batteries to spare, but if they keep dying
 There's no other place we know of that might have anything similar.<end>
 
 =>q8
-Actuellement, on a quelques batteries optoélectriques de rechange, mais si elles continuent de mourir, on va être dans la merde. Donc, je veux que tu ailles à une vieille usine de recyclage de batteries pas trop loin d'ici ; c'est à l'est, passé les Crossroad Caves. Elle est hors service depuis des années, mais peut-être que tu trouveras un truc qu'on peut utiliser. Des cellules optoélectriques de rechange, de l'équipement lié ou des plans... si tu trouves n'importe quoi de ça, assure-toi de me l'apporter.
+Là, on a encore quelques batteries optoélectriques de rechange. Si elles continuent de claquer, on est dans la merde. Donc je veux que tu ailles à une vieille usine de recyclage de batteries, pas trop loin : à l'est, passé les Crossroad Caves. Hors service depuis des années, mais tu peux y choper un truc utile. Cellules optoélectriques de rechange, du matos lié, des plans... tu trouves ça, tu me le ramènes.
 
-Y a pas d'autre endroit qu'on connaisse qui pourrait avoir quelque chose de similaire.<end>
+On connaît pas d'autre endroit qui pourrait avoir le même genre de pièce.<end>
 
 =>q9_original
 <end>
@@ -66,31 +66,31 @@ Un truc comme ça ?<end>
 ::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, yes, that looks useful. Lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
 
 =>q11
-::Les sourcils de Harold se lèvent à la simple vue de la chose que tu lui as apportée.:: Wow, oui, ça a l'air utile. Laisse-moi jeter un œil. ::Il insère le drive dans son ordinateur portable et regarde.:: Hmm, j'espérais des infos sur comment fabriquer notre propre batterie, mais ça a des infos sur comment raviver les mortes. C'est presque aussi bien. Ha, je savais pas qu'on pouvait faire ça avec une cellule photovoltaïque.<end>
+::Les sourcils de Harold se lèvent à la simple vue de ce que tu lui as apporté.:: Wow, ouais, ça a l'air utile. Laisse-moi jeter un œil. ::Il enfonce la clé dans son ordi portable et lit.:: Hmm. J'espérais un mode d'emploi pour en fabriquer, mais là y a de quoi relancer les mortes. Presque aussi bien. Ha, je savais pas qu'on pouvait faire ça avec une cellule photovoltaïque.<end>
 
 =>a12_original
 Glad you're happy.<end>
 
 =>a12
-Content que tu sois content.<end>
+Tant mieux.<end>
 
 =>q13_original
 I am, this is really going to solve our problems. Now, as far as a reward go. I'm willing to offer you three hundred credits for this find.<end>
 
 =>q13
-Je le suis, ça va vraiment résoudre nos problèmes. Maintenant, pour la récompense. Je suis prêt à t'offrir trois cents crédits pour cette trouvaille.<end>
+Ouais. Ça va vraiment nous débloquer. Pour la récompense : trois cents crédits pour la trouvaille.<end>
 
 =>a14_original
 That's fine with me.<end>
 
 =>a14
-Ça me va.<end>
+Accepter.<end>
 
 =>q15_original
 Right then. Here's your reward. ::Gives you 300 credits.:: <end>
 
 =>q15
-Très bien alors. Voici ta récompense. ::Te donne 300 crédits.:: <end>
+Voilà tes crédits. ::Te donne 300 crédits.:: <end>
 
 =>q16_original
 See you around, $(context.player.Name).<end>
@@ -102,49 +102,49 @@ See you around, $(context.player.Name).<end>
 ::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
 
 =>a17
-::[Mercantile]:: Je pense que je mérite un peu plus de crédits pour un truc aussi important. Quelque chose comme cinq cents crédits devrait suffire.<end>
+::[Mercantile]:: Pour un truc aussi important, je mérite un peu plus. Cinq cents crédits, ça serait plus juste.<end>
 
 =>q18_original
 Okay, you have a point, five hundred credits it is. But not a single credit more. ::He gives you 500 credits:: <end>
 
 =>q18
-D'accord, t'as un point, cinq cents crédits. Mais pas un crédit de plus. ::Il te donne 500 crédits:: <end>
+OK, t'as pas tort. Cinq cents crédits. Pas un de plus. ::Il te donne 500 crédits:: <end>
 
 =>q19_original
 Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
 
 =>q19
-Désolé, impossible, trois cents c'est tout ce que je peux t'offrir. C'est un deal ?<end>
+Désolé, ça passe pas. Trois cents, c'est tout ce que je peux mettre. Marché ?<end>
 
 =>a20_original
 It'll do.<end>
 
 =>a20
-Ça ira.<end>
+Accepter.<end>
 
 =>a21_original
 Any rewards?<end>
 
 =>a21
-Des récompenses ?<end>
+Demander la récompense.<end>
 
 =>q22_original
 Definitely, three hundred credits for this thing.<end>
 
 =>q22
-Carrément, trois cents crédits pour ce truc.<end>
+Carrément. Trois cents crédits pour ce truc.<end>
 
 =>a23_original
 Deal, I'm on the job.<end>
 
 =>a23
-Deal, je m'y mets.<end>
+Marché. S'y mettre.<end>
 
 =>q24_original
 Excellent. Now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there. If you can bring me something good, I'll pay you three hundred credits.<end>
 
 =>q24
-Excellent. Maintenant garde en tête que le séisme a scellé certaines parties des caves, donc tu auras probablement besoin d'explosifs. À part ça, fais gaffe en entrant dans l'usine elle-même ; elle est hors service depuis un moment, alors qui sait ce que tu y trouveras. Si tu peux m'apporter un bon truc, je te paierai trois cents crédits.<end>
+Excellent. Garde en tête que le séisme a bouché certaines parties des caves : tu auras probablement besoin d'explosifs. Et fais gaffe une fois dans l'usine. Hors service depuis un moment, qui sait ce que tu vas trouver là-dedans. Si tu me ramènes un bon truc, je te paie trois cents crédits.<end>
 
 =>q25_original
 Good luck, $(context.player.Name). See you later.<end>
@@ -162,7 +162,7 @@ Bonne chance, $(context.player.Name). À plus tard.<end>
 Before I leave...<end>
 
 =>a27
-Avant que je parte...<end>
+Avant de partir...<end>
 
 =>q28_original
 Yes?<end>
@@ -180,7 +180,7 @@ Oui ?<end>
 Do you have any stuff to trade?<end>
 
 =>a30
-T'as des trucs à troquer ?<end>
+Troquer.<end>
 
 =>q31_original
 I've got plenty. Take a look.<end>
@@ -198,37 +198,37 @@ J'en ai plein. Jette un œil.<end>
 Show me what you got. ::Barter.::<end>
 
 =>a33
-Montre-moi ce que t'as. ::Troquer.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a34_original
 Tanner tells me you know of a way to restore power to the outposts to the north.<end>
 
 =>a34
-Tanner me dit que tu connais un moyen de rétablir le courant aux avant-postes du nord.<end>
+Tanner dit que tu sais comment rétablir le courant aux avant-postes du nord.<end>
 
 =>q35_original
 ::He nods.:: Right. I remember taking a look at the power generator there a while back. I couldn't do anything about it back then because I didn't have this. ::He rummages through the boxes that are on the table before producing something resembling an energy core.::<end>
 
 =>q35
-::Il hoche la tête.:: Exact. Je me souviens d'avoir regardé le générateur là-bas il y a un moment. Je pouvais rien y faire à l'époque parce que j'avais pas ça. ::Il fouille dans les boîtes sur la table avant de sortir quelque chose qui ressemble à un noyau d'énergie.::<end>
+::Il hoche la tête.:: Exact. J'avais déjà jeté un œil au générateur, y a un moment. Je pouvais rien y faire, à l'époque : j'avais pas ça. ::Il fouille dans les boîtes sur la table et sort un truc qui ressemble à un noyau d'énergie.::<end>
 
 =>q36_original
 Here. It's a flux controller. If you insert it into the slot at the front of the power generator, it *should* get it running again. <end>
 
 =>q36
-Tiens. C'est un contrôleur de flux. Si tu l'insères dans le slot à l'avant du générateur, ça *devrait* le faire repartir. <end>
+Tiens. Contrôleur de flux. Tu le glisses dans le logement à l'avant du générateur, ça *devrait* le relancer. <end>
 
 =>q37_original
 After that you ought to be able to reactivate all the outposts. I'm afraid you'll have to do that manually, though. You see, each of them has a switch that cuts off the power in case of a hazard.<end>
 
 =>q37
-Après ça tu devrais pouvoir réactiver tous les avant-postes. J'ai peur qu'il faille le faire manuellement, par contre. Tu vois, chacun a un interrupteur qui coupe le courant en cas de danger.<end>
+Après ça tu devrais pouvoir rallumer tous les avant-postes. Par contre, faudra le faire à la main. Chacun a un interrupteur qui coupe le courant en cas de danger.<end>
 
 =>a38_original
 Got it, thanks. I'll give it a try.<end>
 
 =>a38
-Compris, merci. Je vais essayer.<end>
+Compris. Essayer.<end>
 
 =>a39_original
 Is the minibot ready yet?<end>
@@ -240,13 +240,13 @@ Le minibot est prêt ?<end>
 Hey, I'm working as fast as I can here.<end>
 
 =>q40
-Hé, je travaille aussi vite que je peux ici.<end>
+Hé, je vais aussi vite que je peux, là.<end>
 
 =>q41_original
 I'll let you know when I'm done, don't worry. Just be patient, okay?<end>
 
 =>q41
-Je te dirai quand j'aurai fini, t'inquiète. Sois juste patient, ok ?<end>
+Je te dirai quand c'est fini, t'inquiète. Juste un peu de patience, OK ?<end>
 
 =>a42_original
 Harland needs a bot.<end>
@@ -264,7 +264,7 @@ Harland ? Quel genre de bot ?<end>
 A bot that can explore this pitch-black cave I found in the under-passages. He needs it to be remote-controlled, and to have a camera.<end>
 
 =>a44
-Un bot qui peut explorer cette cave noire comme de l'encre que j'ai trouvée dans les under-passages. Il faut qu'il soit télécommandé, et qu'il ait une caméra.<end>
+Un bot pour explorer une cave noire comme de l'encre, dans les under-passages. Télécommandé, avec une caméra.<end>
 
 =>q45_original
 Right, right... So an RC bot that can navigate difficult terrain... ::He starts looking around the shop.:: ...has to have a camera, and has to have some kind of illumination. ::And then his eyes fall upon a dismantled bot underneath one of the tables.::
@@ -272,39 +272,39 @@ Right, right... So an RC bot that can navigate difficult terrain... ::He starts 
 A minibot... a minibot explorer.<end>
 
 =>q45
-D'accord, d'accord... Donc un bot RC qui peut naviguer un terrain difficile... ::Il commence à regarder autour de la boutique.:: ...doit avoir une caméra, et une sorte d'éclairage. ::Et puis son regard tombe sur un bot démonté sous une des tables.::
+Ouais, ouais... Donc un bot télécommandé qui tient un terrain pourri... ::Il commence à chercher dans la boutique.:: ...avec une caméra, et un éclairage. ::Son regard tombe sur un bot démonté sous une des tables.::
 
-Un minibot... un minibot explorateur.<end>
+Un minibot... un minibot d'exploration.<end>
 
 =>q46_original
 You know, you're in luck: Gorsky's team brought back some bot power cores from GMS, and I think there's just the right one for this bot among them. If I can then mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
 
 =>q46
-Tu sais, t'as de la chance : l'équipe de Gorsky a ramené des noyaux d'énergie de bot de GMS, et je crois qu'il y en a juste le bon pour ce bot parmi eux. Si je peux ensuite monter un phare... hmmm, installer une caméra... et ensuite... oui, oui. Ça pourrait marcher en effet.<end>
+T'as de la chance : l'équipe de Gorsky a ramené des noyaux d'énergie de bot de GMS, et je crois qu'il y en a un qui va pile pour ça. Ensuite je lui colle un phare... hmmm, une caméra... et après... ouais, ouais. Ça peut le faire.<end>
 
 =>q47_original
 Yes, I can do what you ask.<end>
 
 =>q47
-Oui, je peux faire ce que tu demandes.<end>
+Ouais. Je peux te le faire.<end>
 
 =>a48_original
 When is it going to be ready?<end>
 
 =>a48
-Ce sera prêt quand ?<end>
+Demander le délai.<end>
 
 =>q49_original
 I'll start working on it straight away. It won't take long; I have all the necessary components right here.<end>
 
 =>q49
-Je commence tout de suite. Ça prendra pas longtemps ; j'ai tous les composants nécessaires ici.<end>
+Je m'y mets tout de suite. Ça prendra pas longtemps : j'ai toutes les pièces ici.<end>
 
 =>q50_original
 You can return to Harland; I'll have someone bring the explorer up when it's ready.<end>
 
 =>q50
-Tu peux retourner voir Harland ; je ferai apporter l'explorateur par quelqu'un quand ce sera prêt.<end>
+Tu peux retourner voir Harland. Quand c'est prêt, je ferai monter l'explorateur.<end>
 
 =>q51_original
 
@@ -314,7 +314,7 @@ Tell him he owes me a mushroom brew for this.<end>
 =>q51
 
 
-Dis-lui qu'il me doit une bière de champignons pour ça.<end>
+Dis-lui qu'il me doit une bière de champignons, pour ça.<end>
 
 =>q52_original
 <end>
@@ -326,19 +326,19 @@ Dis-lui qu'il me doit une bière de champignons pour ça.<end>
 There was something else I needed from you.<end>
 
 =>a53
-Y avait autre chose dont j'avais besoin de ta part.<end>
+Autre chose.<end>
 
 =>q54_original
 Right.<end>
 
 =>q54
-D'accord.<end>
+Ouais.<end>
 
 =>a55_original
 I'm off then.<end>
 
 =>a55
-J'y vais alors.<end>
+Partir.<end>
 
 =>a56_original
 ::Nod and leave.::<end>
@@ -356,13 +356,13 @@ Super.<end>
 Hope it gets the job done.<end>
 
 =>a58
-J'espère que ça fera le boulot.<end>
+Espérer que ça marche.<end>
 
 =>q59_original
 Perhaps I could use that little fella over there... Mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
 
 =>q59
-Peut-être que je pourrais utiliser ce petit gars là-bas... Monter un phare... hmmm, installer une caméra... et ensuite... oui, oui. Ça pourrait marcher en effet.<end>
+Peut-être que je peux me servir de ce petit truc, là-bas... Lui coller un phare... hmmm, une caméra... et après... ouais, ouais. Ça peut le faire.<end>
 
 =>q60_original
 I'm missing some power cores; these minibots use rather specific ones - don't ask.
@@ -370,7 +370,7 @@ I'm missing some power cores; these minibots use rather specific ones - don't as
 I'll put something together, but it might take a while.<end>
 
 =>q60
-Il me manque des noyaux d'énergie ; ces minibots en utilisent de plutôt spécifiques - demande pas.
+Il me manque des noyaux d'énergie. Ces minibots en prennent de plutôt spécifiques - demande pas.
 
 Je vais bricoler un truc, mais ça peut prendre un moment.<end>
 
@@ -378,37 +378,37 @@ Je vais bricoler un truc, mais ça peut prendre un moment.<end>
 When is it going to be ready?<end>
 
 =>a61
-Ce sera prêt quand ?<end>
+Demander le délai.<end>
 
 =>q62_original
 Can't tell exactly. <end>
 
 =>q62
-Peux pas dire exactement. <end>
+Je peux pas dire exactement. <end>
 
 =>q63_original
 You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
 
 =>q63
-Va faire d'autres trucs, et je commence tout de suite. Je t'enverrai un message quand j'aurai fini, et je ferai apporter l'explorateur à Harland.<end>
+Va faire autre chose, moi je m'y mets tout de suite. Je t'envoie un mail quand c'est fini, et je ferai monter l'explorateur chez Harland.<end>
 
 =>a64_original
 I knew I could count on you.<end>
 
 =>a64
-Je savais que je pouvais compter sur toi.<end>
+Compter sur toi.<end>
 
 =>a65_original
 Hope it gets the job done.<end>
 
 =>a65
-J'espère que ça fera le boulot.<end>
+Espérer que ça marche.<end>
 
 =>a66_original
 So, you wanted to talk to me about something?<end>
 
 =>a66
-Alors, tu voulais me parler de quelque chose ?<end>
+Revenir à ce que tu voulais dire.<end>
 
 =>q67_original
 Oh yes. <end>
@@ -420,49 +420,49 @@ Oh oui. <end>
 What do you know about Patrick Pierce's death?<end>
 
 =>a68
-Tu sais quoi sur la mort de Patrick Pierce ?<end>
+Qu'est-ce que tu sais sur la mort de Patrick Pierce ?<end>
 
 =>q69_original
 Ah, yes. I knew Pat well, he was a man one could truly rely on. An honest man. I felt... really sad when I heard about his death, you know. And seeing his brother in tears when he first came here after he found out. Man, it's been like two months and he still comes back here.<end>
 
 =>q69
-Ah, oui. Je connaissais bien Pat, c'était un homme sur qui on pouvait vraiment compter. Un homme honnête. J'ai été... vraiment triste en apprenant sa mort, tu sais. Et voir son frère en larmes quand il est venu ici la première fois après l'avoir appris. Mec, ça fait genre deux mois et il revient encore ici.<end>
+Ah, ouais. Je connaissais bien Pat. Un type sur qui on pouvait vraiment compter. Honnête. J'ai été... vraiment triste en apprenant sa mort, tu sais. Et voir son frère en larmes, la première fois qu'il est venu ici après l'avoir appris. Putain, ça fait genre deux mois et il revient encore.<end>
 
 =>q70_original
 I just don't get why Pasquale doesn't do the full autopsy and put this thing to rest. But, it's his business.<end>
 
 =>q70
-Je comprends juste pas pourquoi Pasquale fait pas l'autopsie complète et règle cette affaire. Mais c'est son business.<end>
+Je pige juste pas pourquoi Pasquale fait pas l'autopsie complète et classe l'affaire. Mais c'est son bazar, pas le mien.<end>
 
 =>a71_original
 Can you tell me what he was like as a person?<end>
 
 =>a71
-Tu peux me dire comment il était en tant que personne ?<end>
+C'était quoi, comme type ?<end>
 
 =>q72_original
 A hardworking man, fun to hang out with. You would be hard pressed to find someone who disliked him. Well, maybe Big Bret, as the two of them had several heated arguments over the way Pat installed some of the hopper pen heaters. Bret can be impulsive at times, he... he takes his job seriously, and it is a serious job, I agree, but he can take it too far sometimes.<end>
 
 =>q72
-Un travailleur acharné, agréable à fréquenter. Tu aurais du mal à trouver quelqu'un qui ne l'aimait pas. Enfin, peut-être Big Bret, vu qu'ils ont eu plusieurs discussions houleuses sur la façon dont Pat avait installé certains radiateurs de l'enclos à hoppers. Bret peut être impulsif parfois, il... il prend son boulot au sérieux, et c'est un boulot sérieux, je suis d'accord, mais il peut aller trop loin parfois.<end>
+Un bosseur, agréable à fréquenter. T'aurais du mal à trouver quelqu'un qui l'aimait pas. Enfin, peut-être Big Bret : ils se sont engueulés plus d'une fois sur la façon dont Pat avait posé les chauffages de l'enclos à sauteurs. Bret peut péter un câble, des fois. Il... il prend son boulot au sérieux, et c'est un boulot sérieux, je dis pas, mais il peut aller trop loin.<end>
 
 =>a73_original
 I've changed my mind about that battery recycling plant...<end>
 
 =>a73
-J'ai changé d'avis pour l'usine de recyclage de batteries...<end>
+Revenir sur l'usine de recyclage...<end>
 
 =>q74_original
 Ah, yes. Will you go there and check it out?<end>
 
 =>q74
-Ah, oui. Tu y vas pour jeter un œil ?<end>
+Ah, ouais. Tu y vas, du coup ?<end>
 
 =>a75_original
 About the battery recycling plant...<end>
 
 =>a75
-À propos de l'usine de recyclage de batteries...<end>
+À propos de l'usine de recyclage...<end>
 
 =>q76_original
 Ah, yes?<end>
@@ -474,85 +474,85 @@ Ah, oui ?<end>
 Yes, you'll love this. Here's a blueprint that contains something about optoelectric nuclear batteries. I think you'll find it useful.<end>
 
 =>a77
-Oui, tu vas adorer. Voici un plan qui contient quelque chose sur les batteries nucléaires optoélectriques. Je pense que tu le trouveras utile.<end>
+Ouais, tu vas adorer. Voilà un plan sur les batteries nucléaires optoélectriques. Ça devrait te servir.<end>
 
 =>q78_original
 ::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, what a lucky find. Great, lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
 
 =>q78
-::Les sourcils de Harold se lèvent à la simple vue de la chose que tu lui as apportée.:: Wow, quelle trouvaille chanceuse. Super, laisse-moi jeter un œil. ::Il insère le drive dans son ordinateur portable et regarde.:: Hmm, j'espérais des infos sur comment fabriquer notre propre batterie, mais ça a des infos sur comment raviver les mortes. C'est presque aussi bien. Ha, je savais pas qu'on pouvait faire ça avec une cellule photovoltaïque.<end>
+::Les sourcils de Harold se lèvent à la simple vue de ce que tu lui as apporté.:: Wow, belle trouvaille. Super, laisse-moi jeter un œil. ::Il enfonce la clé dans son ordi portable et lit.:: Hmm. J'espérais un mode d'emploi pour en fabriquer, mais là y a de quoi relancer les mortes. Presque aussi bien. Ha, je savais pas qu'on pouvait faire ça avec une cellule photovoltaïque.<end>
 
 =>a79_original
 Great, glad you're happy.<end>
 
 =>a79
-Super, content que tu sois content.<end>
+Tant mieux.<end>
 
 =>q80_original
 As I promised, here's your reward. ::He gives you 500 SGS credits.:: <end>
 
 =>q80
-Comme promis, voici ta récompense. ::Il te donne 500 crédits SGS.:: <end>
+Comme promis, voilà ta récompense. ::Il te donne 500 crédits SGS.:: <end>
 
 =>q81_original
 As I promised, here's your reward. ::He gives you 300 SGS credits.:: <end>
 
 =>q81
-Comme promis, voici ta récompense. ::Il te donne 300 crédits SGS.:: <end>
+Comme promis, voilà ta récompense. ::Il te donne 300 crédits SGS.:: <end>
 
 =>a82_original
 I just want my credits.<end>
 
 =>a82
-Je veux juste mes crédits.<end>
+Prendre les crédits.<end>
 
 =>q83_original
 Fine, fine. You're so impatient. <end>
 
 =>q83
-Bon, bon. T'es tellement impatient. <end>
+Bon, bon. T'es vraiment impatient. <end>
 
 =>a84_original
 I've been to the plant, but there's nothing but junk, junk, and some more junk. I'm not going back there, if you want to search it again, find someone else.<end>
 
 =>a84
-Je suis allé à l'usine, mais y a rien que de la ferraille, de la ferraille, et encore de la ferraille. J'y retourne pas, si tu veux fouiller encore, trouve quelqu'un d'autre.<end>
+J'y suis allé. Rien que de la ferraille, de la ferraille, et encore de la ferraille. J'y retourne pas. Si tu veux fouiller encore, trouve quelqu'un d'autre.<end>
 
 =>q85_original
 Darn it. I was hoping for at least something useful. Right, at least we've tried. Maybe we could check it out later again if we have the manpower.<end>
 
 =>q85
-Mince. J'espérais au moins un truc utile. Bon, au moins on a essayé. Peut-être qu'on pourra rechecker plus tard si on a la main-d'œuvre.<end>
+Mince. J'espérais au moins un truc utile. Bon, au moins on a essayé. Peut-être qu'on y retournera plus tard, si on a les bras.<end>
 
 =>a86_original
 What about my reward?<end>
 
 =>a86
-Et ma récompense ?<end>
+Et ma récompense, alors ?<end>
 
 =>q87_original
 What reward? The deal was I give you the credits if you bring something useful from the plant. You brought nothing. Simple.<end>
 
 =>q87
-Quelle récompense ? Le deal c'était je te donne les crédits si tu ramènes un truc utile de l'usine. T'as rien ramené. Simple.<end>
+Quelle récompense ? Le marché, c'était : tu ramènes un truc utile de l'usine, je te file les crédits. T'as rien ramené. Simple.<end>
 
 =>a88_original
 Now that I think about it... I believe I've missed a spot while searching. I'll go check it out again.<end>
 
 =>a88
-Maintenant que j'y pense... je crois que j'ai loupé un coin en fouillant. Je vais rechecker.<end>
+Attends... je crois que j'ai loupé un coin. Retourner fouiller.<end>
 
 =>q89_original
 Right, go along then.<end>
 
 =>q89
-D'accord, vas-y alors.<end>
+OK. Vas-y, alors.<end>
 
 =>a90_original
 Oh yeah, forgot about that. Oh well, whatcha gonna do. I'm still not going back.<end>
 
 =>a90
-Ah ouais, j'avais oublié. Bon, qu'est-ce que tu veux. J'y retourne quand même pas.<end>
+Ah ouais, j'avais zappé. Bon, tant pis. J'y retourne quand même pas.<end>
 
 =>q91_original
 Yeah, yeah. See you around.<end>
@@ -564,97 +564,97 @@ Ouais, ouais. À plus.<end>
 Whatever, I'm gone.<end>
 
 =>a92
-Peu importe, je m'en vais.<end>
+Partir.<end>
 
 =>a93_original
 I'll be back later.<end>
 
 =>a93
-Je reviendrai plus tard.<end>
+Revenir plus tard.<end>
 
 =>q94_original
 Right. See ya around.<end>
 
 =>q94
-D'accord. À plus.<end>
+OK. À plus.<end>
 
 =>a95_original
 What are your thoughts on the Faceless retreat?<end>
 
 =>a95
-Tu en penses quoi de la retraite des Faceless ?<end>
+T'en penses quoi, de la retraite des Faceless ?<end>
 
 =>q96_original
 Well, first of all, from the seismic analysis I did, it appears that the Faceless invasion and the recent earthquake are *not* connected in any way. That's first. As for your question, I feel that the Oligarchs are not responsible for the invasion, at least not directly. I've talked to people around here, and all of them are yapping about the Oligarchs. Oligarchs this, Oligarchs that... Nah.<end>
 
 =>q96
-Ben, d'abord, d'après l'analyse sismique que j'ai faite, il apparaît que l'invasion Faceless et le récent séisme ne sont *pas* liés d'une façon ou d'une autre. Ça c'est le premier point. Pour ta question, j'ai le sentiment que les Oligarchs ne sont pas responsables de l'invasion, du moins pas directement. J'ai parlé aux gens d'ici, et ils jappent tous sur les Oligarchs. Oligarchs ci, Oligarchs ça... Nan.<end>
+Bon. D'abord, d'après l'analyse sismique que j'ai faite : l'invasion Faceless et le séisme, c'est *pas* lié. Point un. Pour ta question, les Oligarchs sont pas responsables, du moins pas directement. J'ai parlé aux gens d'ici, ils jappent tous là-dessus. Oligarchs ci, Oligarchs ça... Nan.<end>
 
 =>q97_original
 It's the location. The Faceless needed to block the road to the North, and the best place to do so is Core City. Must be that. That's why they didn't take the city itself, you see. And... and they were seen all over South Underrail, so apparently not all their forces were focused on the blockade.<end>
 
 =>q97
-C'est l'emplacement. Les Faceless devaient bloquer la route vers le Nord, et le meilleur endroit pour le faire c'est Core City. Ça doit être ça. C'est pour ça qu'ils n'ont pas pris la ville elle-même, tu vois. Et... et on les a vus partout dans le South Underrail, donc apparemment toutes leurs forces n'étaient pas concentrées sur le blocus.<end>
+C'est l'emplacement. Les Faceless devaient couper la route vers le Nord, et le meilleur coin pour ça, c'est Core City. Ça doit être ça. C'est pour ça qu'ils ont pas pris la ville elle-même, tu vois. Et... et on les a vus partout dans le South Underrail, donc tout leur monde était pas sur le blocus.<end>
 
 =>q98_original
 Right. Now why did all of this happen? ::He shrugs.:: It's too early to know. I don't know.<end>
 
 =>q98
-Voilà. Maintenant pourquoi tout ça est arrivé ? ::Il hausse les épaules.:: C'est trop tôt pour le savoir. Je sais pas.<end>
+Voilà. Maintenant, pourquoi tout ça ? ::Il hausse les épaules.:: Trop tôt pour le dire. Je sais pas.<end>
 
 =>a99_original
 What are your thoughts on the Faceless invasion?<end>
 
 =>a99
-Tu en penses quoi de l'invasion Faceless ?<end>
+T'en penses quoi, de l'invasion Faceless ?<end>
 
 =>q100_original
 What I'm curious about is its timing. Is it related to the recent earthquake? I'm going to study the seismic recordings to try to discover the source of the disturbance.<end>
 
 =>q100
-Ce qui m'intrigue c'est le timing. Est-ce lié au récent séisme ? Je vais étudier les enregistrements sismiques pour essayer de découvrir la source de la perturbation.<end>
+Ce qui m'intrigue, c'est le moment. C'est lié au séisme, ou pas ? Je vais creuser les enregistrements sismiques, voir d'où vient la secousse.<end>
 
 =>a101_original
 Let me know if you find something out.<end>
 
 =>a101
-Dis-moi si tu trouves quelque chose.<end>
+Le tenir au courant.<end>
 
 =>q102_original
 Will do.<end>
 
 =>q102
-Compris.<end>
+Ça marche.<end>
 
 =>a103_original
 What's your opinion on Tanner's disappearance?<end>
 
 =>a103
-Ton avis sur la disparition de Tanner ?<end>
+Ton avis, sur la disparition de Tanner ?<end>
 
 =>q104_original
 I don't know who he was or *why* this is all happening, but I do know I've noticed a drastic increase in power levels since his disappearance. Clear as a mindshroom in the black, I tell you. He had something in his room drawing a lot of power, and I think that's the reason Ezra wanted me to go to Tanner's room with him.<end>
 
 =>q104
-Je sais pas qui il était ni *pourquoi* tout ça se passe, mais je sais que j'ai remarqué une hausse drastique des niveaux de puissance depuis sa disparition. Clair comme un mindshroom dans le noir, je te le dis. Il avait un truc dans sa chambre qui tirait beaucoup de courant, et je pense que c'est la raison pour laquelle Ezra voulait que j'aille dans la chambre de Tanner avec lui.<end>
+Je sais pas qui il était, ni *pourquoi* tout ça se passe. Par contre, depuis qu'il a disparu, les niveaux de puissance ont grimpé, et pas qu'un peu. Clair comme un mindshroom dans le noir, je te le dis. Il avait un truc dans sa chambre qui pompait un max de courant. Je pense que c'est pour ça qu'Ezra voulait que j'y aille avec lui.<end>
 
 =>q105_original
 Once we go to check it out, I'll have more answers. I hope.<end>
 
 =>q105
-Une fois qu'on ira checker, j'aurai plus de réponses. J'espère.<end>
+Une fois qu'on y sera allés, j'aurai plus de réponses. J'espère.<end>
 
 =>a106_original
 I was just looking around. See you later.<end>
 
 =>a106
-Je regardais juste autour. À plus tard.<end>
+Regarder autour. Partir.<end>
 
 =>a107_original
 See ya.<end>
 
 =>a107
-À plus.<end>
+Partir.<end>
 
 =>a108_original
 ::Nod and leave.::<end>
@@ -666,67 +666,67 @@ See ya.<end>
 That's a lot of work. I expect a compensation.<end>
 
 =>a109
-C'est beaucoup de boulot. J'attends une compensation.<end>
+C'est beaucoup de boulot. Je veux être payé.<end>
 
 =>q110_original
 Don't worry about that. If you can find something good, you'll receive three hundred credits. Also, now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there.<end>
 
 =>q110
-T'inquiète pas pour ça. Si tu peux trouver un bon truc, tu recevras trois cents crédits. Aussi, garde en tête que le séisme a scellé certaines parties des caves, donc tu auras probablement besoin d'explosifs. À part ça, fais gaffe en entrant dans l'usine elle-même ; elle est hors service depuis un moment, alors qui sait ce que tu y trouveras.<end>
+T'inquiète pas pour ça. Si tu ramènes un bon truc, tu touches trois cents crédits. Et garde en tête : le séisme a bouché certaines parties des caves, tu auras probablement besoin d'explosifs. Une fois dans l'usine, fais gaffe. Hors service depuis un moment, qui sait ce que tu vas trouver.<end>
 
 =>a111_original
 Deal.<end>
 
 =>a111
-Deal.<end>
+Marché.<end>
 
 =>q112_original
 Right, that's what I like to hear. <end>
 
 =>q112
-Voilà, c'est ce que j'aime entendre. <end>
+Voilà. Ça, j'aime l'entendre. <end>
 
 =>a113_original
 ::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
 
 =>a113
-::[Mercantile]:: Je pense que je mérite un peu plus de crédits pour un truc aussi important. Quelque chose comme cinq cents crédits devrait suffire.<end>
+::[Mercantile]:: Pour un truc aussi important, je mérite un peu plus. Cinq cents crédits, ça serait plus juste.<end>
 
 =>q114_original
 Okay, you have a point. Five hundred credits it is. But not a single credit more. Is it a deal now?<end>
 
 =>q114
-D'accord, t'as un point. Cinq cents crédits. Mais pas un crédit de plus. C'est un deal maintenant ?<end>
+OK, t'as pas tort. Cinq cents crédits. Pas un de plus. Marché, maintenant ?<end>
 
 =>a115_original
 Yeah, that's more like it.<end>
 
 =>a115
-Ouais, ça me va mieux.<end>
+Accepter.<end>
 
 =>q116_original
 Right, that should be all. <end>
 
 =>q116
-Bon, ça devrait être tout. <end>
+Bon. Ça devrait être tout. <end>
 
 =>q117_original
 Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
 
 =>q117
-Désolé, impossible. Trois cents c'est tout ce que je peux t'offrir. C'est un deal ?<end>
+Désolé, ça passe pas. Trois cents, c'est tout ce que je peux mettre. Marché ?<end>
 
 =>a118_original
 I'll think about it.<end>
 
 =>a118
-Je vais y réfléchir.<end>
+Réfléchir.<end>
 
 =>q119_original
 Fine, you do that and let me know later.<end>
 
 =>q119
-Très bien, fais ça et dis-moi plus tard.<end>
+OK. Tu réfléchis, et tu me dis.<end>
 
 =>a120_original
 In the meantime...<end>
@@ -738,175 +738,175 @@ En attendant...<end>
 Why can't you use different batteries?<end>
 
 =>a121
-Pourquoi vous pouvez pas utiliser d'autres batteries ?<end>
+Pourquoi vous pouvez pas mettre d'autres batteries ?<end>
 
 =>q122_original
 Well, the thing is simple. SGS was originally built by the Biocorp's military, long before anyone of us even came here, so obviously they had some advanced tech at their disposal. Optoelectric nuclear batteries were already in use, and even though theoretically you could use fusion batteries, or any other type, we've had no luck with that. It's like the system refuses to work with anything else.<end>
 
 =>q122
-Ben, le truc est simple. SGS a été construite à l'origine par l'armée de Biocorp, bien avant qu'aucun de nous n'arrive ici, donc évidemment ils avaient de la tech avancée à disposition. Les batteries nucléaires optoélectriques étaient déjà en usage, et même si théoriquement tu pourrais utiliser des batteries à fusion, ou n'importe quel autre type, on a pas eu de chance avec ça. C'est comme si le système refusait de marcher avec autre chose.<end>
+Le truc est simple. SGS, c'est l'armée de Biocorp qui l'a construite, bien avant qu'on débarque. Ils avaient de la tech avancée sous la main. Les batteries nucléaires optoélectriques étaient déjà en place, et même si, sur le papier, tu pourrais coller des batteries à fusion, ou n'importe quoi d'autre, on a jamais réussi. On dirait que le système refuse de marcher avec autre chose.<end>
 
 =>a123_original
 ::[Electronics]:: I see. By the way, how do these optoelectric batteries work? I'm really interested.<end>
 
 =>a123
-::[Electronics]:: Je vois. Au fait, comment marchent ces batteries optoélectriques ? Ça m'intéresse vraiment.<end>
+::[Electronics]:: Au fait, comment marchent ces batteries optoélectriques ? Ça m'intéresse vraiment.<end>
 
 =>q124_original
 It's complicated... You sure you can understand it?<end>
 
 =>q124
-C'est compliqué... T'es sûr de pouvoir comprendre ?<end>
+C'est compliqué... T'es sûr de suivre ?<end>
 
 =>a125_original
 Fusion cells have their cathodes made from nickel-oxide, and their anodes from palladium. Palladium is used because it can absorb up to nine hundred times its own volume of hydrogen, although, the details of this process are still poorly understood. And through electrolysis within the cell hydrogen nuclei are combined, thus forming a new nucleus and releasing energy.<end>
 
 =>a125
-Les cellules à fusion ont leurs cathodes en oxyde de nickel, et leurs anodes en palladium. Le palladium est utilisé parce qu'il peut absorber jusqu'à neuf cents fois son propre volume d'hydrogène, bien que les détails de ce processus soient encore mal compris. Et par électrolyse dans la cellule, les noyaux d'hydrogène sont combinés, formant ainsi un nouveau noyau et libérant de l'énergie.<end>
+Les cellules à fusion ont des cathodes en oxyde de nickel et des anodes en palladium. On met du palladium parce qu'il peut absorber jusqu'à neuf cents fois son volume d'hydrogène, même si les détails du process sont encore mal compris. Et par électrolyse dans la cellule, les noyaux d'hydrogène fusionnent : nouveau noyau, énergie libérée.<end>
 
 =>q126_original
 ::Harold nods in approval.:: Oooh! Well done. I really had no idea you knew so much about fusion batteries. Your impressive knowledge could really be useful around the station, you know that? Anyway, you should easily understand how optoelectric batteries work.<end>
 
 =>q126
-::Harold hoche la tête d'approbation.:: Oooh ! Bien joué. J'avais vraiment aucune idée que tu en savais autant sur les batteries à fusion. Tes connaissances impressionnantes pourraient vraiment être utiles autour de la station, tu le sais ? Bref, tu devrais facilement comprendre comment marchent les batteries optoélectriques.<end>
+::Harold hoche la tête, content.:: Oooh ! Bien joué. J'avais vraiment aucune idée que t'en savais autant sur les batteries à fusion. Avec un bagage comme ça, t'es utile à la station, tu le sais ? Bref, les optoélectriques, tu devrais suivre sans mal.<end>
 
 =>q127_original
 You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
 
 =>q127
-Tu vois, les batteries optoélectriques utilisent un émetteur bêta suspendu dans un gaz ou un liquide contenant un gaz luminescent. Quand les nucléides actifs bêta émettent des particules bêta, ils excitent leurs propres électrons dans la bande d'excimère étroite avec un minimum de pertes thermiques, de sorte que ce rayonnement est converti dans une couche photovoltaïque à large bande interdite de façon très efficace en électricité. <end>
+Alors : les batteries optoélectriques, c'est un émetteur bêta suspendu dans un gaz ou un liquide luminescent. Quand les nucléides bêta giclent leurs particules, ils excitent leurs propres électrons dans une bande d'excimère étroite, avec un minimum de pertes thermiques. Ce rayonnement passe dans une couche photovoltaïque à large bande interdite, et ça sort en électricité, très propre. <end>
 
 =>a128_original
 Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
 
 =>a128
-Ah, c'est assez intéressant, et ça a parfaitement du sens. On apprend quelque chose de nouveau tous les jours.<end>
+Ah, c'est costaud. Et ça tient debout. On apprend tous les jours.<end>
 
 =>q129_original
 I agree, it's rather fascinating. That's why I do these things - cause science is awesome. ::He laughs.:: It's a pleasure to be discussing something like this with you, $(context.player.Name). But now's the time to get back to business. Will you go to the recycling plant for us?<end>
 
 =>q129
-Je suis d'accord, c'est plutôt fascinant. C'est pour ça que je fais ces trucs - parce que la science c'est génial. ::Il rit.:: C'est un plaisir de discuter de ça avec toi, $(context.player.Name). Mais maintenant c'est l'heure de revenir aux affaires. Tu iras à l'usine de recyclage pour nous ?<end>
+Ouais, c'est fascinant. C'est pour ça que je fais ces trucs : la science, c'est génial. ::Il rit.:: Ça me fait plaisir d'en parler avec toi, $(context.player.Name). Bon, on revient au concret. Tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a130_original
 I know how lithium-ion batteries work. The cathode attracts lithium-ions, therefore making it more positively charged than the anode, which  in turn attracts negatively charged electrons. They also have a very high energy density, compared to most other batteries.<end>
 
 =>a130
-Je sais comment marchent les batteries lithium-ion. La cathode attire les ions lithium, la rendant donc plus positivement chargée que l'anode, qui attire à son tour les électrons négativement chargés. Elles ont aussi une très haute densité d'énergie, comparées à la plupart des autres batteries.<end>
+Je sais comment marchent les batteries lithium-ion. La cathode attire les ions lithium, donc elle se charge plus positivement que l'anode, qui attire les électrons négatifs. Densité d'énergie très haute, comparé à la plupart des autres batteries.<end>
 
 =>q131_original
 Well done, I see you have some advanced knowledge on how batteries work. But still, I think optoelectric batteries are just a tiny bit too advanced for you. Anyhow, will you go to the battery recycling plant for us?<end>
 
 =>q131
-Bien joué, je vois que tu as des connaissances avancées sur le fonctionnement des batteries. Mais quand même, je pense que les batteries optoélectriques sont juste un tout petit peu trop avancées pour toi. Bref, tu iras à l'usine de recyclage de batteries pour nous ?<end>
+Bien joué, t'as un bon niveau sur les batteries. Mais les optoélectriques, je pense que c'est encore un cran au-dessus pour toi. Bref, tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a132_original
 Well, I know most batteries have some sort of an electrolyte, and positively and negatively charged electrodes. The electrons flow through the circuit from one electrode to the other, generating an electric current.<end>
 
 =>a132
-Ben, je sais que la plupart des batteries ont une sorte d'électrolyte, et des électrodes chargées positivement et négativement. Les électrons circulent dans le circuit d'une électrode à l'autre, générant un courant électrique.<end>
+Ben, je sais que la plupart des batteries ont un électrolyte, et des électrodes plus et moins. Les électrons filent d'une électrode à l'autre dans le circuit, et ça fait du courant.<end>
 
 =>q133_original
 That is true, but still, optoelectric batteries are a bit more advanced than that. Anyhow, back to business. Will you go to the recycling plant for us?<end>
 
 =>q133
-C'est vrai, mais quand même, les batteries optoélectriques sont un peu plus avancées que ça. Bref, revenons aux affaires. Tu iras à l'usine de recyclage pour nous ?<end>
+C'est vrai, mais les optoélectriques, c'est un cran au-dessus. Bref, on revient au concret. Tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a134_original
 Fusion battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge.<end>
 
 =>a134
-La batterie à fusion facilite une fusion nucléaire à très petite échelle pour produire une unique décharge à haute énergie.<end>
+La batterie à fusion, c'est de la fusion nucléaire à toute petite échelle, pour une seule décharge à haute énergie.<end>
 
 =>q135_original
 I see you've read the label, but I'm sorry, optoelectric batteries seem really advanced for you. Now, will you go to the recycling plant for us?<end>
 
 =>q135
-Je vois que t'as lu l'étiquette, mais désolé, les batteries optoélectriques semblent vraiment avancées pour toi. Maintenant, tu iras à l'usine de recyclage pour nous ?<end>
+T'as lu l'étiquette, je vois. Désolé, les optoélectriques, c'est vraiment au-dessus de ton niveau. Bon, tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a136_original
 I know that when you press a switch, the lights turn on.<end>
 
 =>a136
-Je sais que quand tu appuies sur un interrupteur, les lumières s'allument.<end>
+Je sais que quand t'appuies sur un interrupteur, ça s'allume.<end>
 
 =>q137_original
 I'm sure you do. Sorry, optoelectric batteries are way too advanced for you. Now, will you go to the recycling plant for us?<end>
 
 =>q137
-J'en suis sûr. Désolé, les batteries optoélectriques sont bien trop avancées pour toi. Maintenant, tu iras à l'usine de recyclage pour nous ?<end>
+J'en doute pas. Désolé, les optoélectriques, c'est bien trop costaud pour toi. Bon, tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a138_original
 I can't. Maybe I shouldn't have asked.<end>
 
 =>a138
-Je peux pas. Peut-être que j'aurais pas dû demander.<end>
+J'y arrive pas. J'aurais peut-être pas dû demander.<end>
 
 =>q139_original
 Right, now, back to business. Will you go to the recycling plant for us?<end>
 
 =>q139
-Bon, maintenant, revenons aux affaires. Tu iras à l'usine de recyclage pour nous ?<end>
+Bon, on revient au concret. Tu vas à l'usine de recyclage pour nous ?<end>
 
 =>a140_original
 I see... Now, about searching that recycling plant.<end>
 
 =>a140
-Je vois... Maintenant, à propos de fouiller cette usine de recyclage.<end>
+Compris... Cette usine de recyclage, alors.<end>
 
 =>q141_original
 Right, will you do it?<end>
 
 =>q141
-D'accord, tu le fais ?<end>
+OK. Tu le fais ?<end>
 
 =>a142_original
 Too much work, I'll think about it...<end>
 
 =>a142
-Trop de boulot, je vais y réfléchir...<end>
+Trop de boulot. Réfléchir...<end>
 
 =>a143_original
 Yawn, can you just skip to the chase?<end>
 
 =>a143
-Bâille, tu peux juste aller droit au but ?<end>
+Bâiller. Droit au but.<end>
 
 =>q144_original
 Sorry, I can get carried away sometimes. I'll keep it short. <end>
 
 =>q144
-Désolé, je m'emballe parfois. Je vais faire court. <end>
+Désolé, je m'emballe parfois. Je fais court. <end>
 
 =>a145_original
 Could you skip the tech stuff? Just tell me what to do.<end>
 
 =>a145
-Tu pourrais sauter le blabla tech ? Dis-moi juste quoi faire.<end>
+Sauter le blabla tech. Dire quoi faire.<end>
 
 =>q146_original
 I could. A lot of our optoelectric nuclear batteries used to maintain uninterrupted power during a power outage died  when we used them after the earthquake. These are very rare, don't mistake them for regular nickel-palladium fusion cells that can be found everywhere.<end>
 
 =>q146
-Je pourrais. Beaucoup de nos batteries nucléaires optoélectriques utilisées pour maintenir le courant sans interruption pendant une panne sont mortes quand on s'en est servi après le séisme. Celles-là sont très rares, les confonds pas avec les cellules à fusion nickel-palladium régulières qu'on trouve partout.<end>
+Je pourrais. Beaucoup de nos batteries nucléaires optoélectriques, celles qui tiennent le courant pendant une panne, ont claqué quand on s'en est servi après le séisme. Elles sont très rares. Les confonds pas avec les cellules à fusion nickel-palladium, celles qu'on trouve partout.<end>
 
 =>a147_original
 I'm sorry, I'm in a hurry. We'll talk later.<end>
 
 =>a147
-Désolé, je suis pressé. On en reparlera plus tard.<end>
+Désolé, je suis pressé. Revenir plus tard.<end>
 
 =>q148_original
 Okay, but when you have the time, please see me.<end>
 
 =>q148
-Ok, mais quand tu auras le temps, viens me voir s'il te plaît.<end>
+OK, mais quand t'as le temps, passe me voir.<end>
 
 =>q149_original
 Howdy, howdy. Hey, I've already sent the explorer to Harland. Installed everything you $(#guys/two) asked for. Just remind him to charge it properly; yeah, don't want it running out of energy at the worst possible time.<end>
 
 =>q149
-Salut, salut. Hé, j'ai déjà envoyé l'explorateur à Harland. Installé tout ce que vous $(#guys/two) avez demandé. Rappelle-lui juste de le charger correctement ; ouais, on veut pas qu'il tombe en panne d'énergie au pire moment.<end>
+Salut, salut. Hé, j'ai déjà envoyé l'explorateur à Harland. Installé tout ce que vous deux m'avez demandé. Rappelle-lui juste de le charger comme il faut. Ouais, on veut pas qu'il tombe à plat au pire moment.<end>
 
 =>q150_original
 We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
@@ -918,7 +918,7 @@ On a perdu Gorsky. Je dirais repose en paix, mais Gorsky et la paix ? Nan...<end
 The whole station's buzzing about what happened at the bar. <end>
 
 =>q151
-Toute la station bourdonne de ce qui s'est passé au bar. <end>
+Toute la station en parle, du bar. <end>
 
 =>q152_original
 Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly.<end>
@@ -940,13 +940,13 @@ Bref, t'as besoin de quoi ?<end>
 ::He shakes his head.:: Just when you think you've seen every psionic trick in the database, something new surprises you. Right, eh?<end>
 
 =>q154
-::Il secoue la tête.:: Juste quand tu crois avoir vu tous les tours psioniques de la base de données, un truc nouveau te surprend. Hein ?<end>
+::Il secoue la tête.:: À peine tu crois avoir vu tous les tours psioniques du registre, un truc nouveau te tombe dessus. Hein ?<end>
 
 =>q155_original
 Howdy, $(context.player.Name). I got some new stuff available if you wanna take a look.<end>
 
 =>q155
-Salut, $(context.player.Name). J'ai du nouveau matos dispo si tu veux jeter un œil.<end>
+Salut, $(context.player.Name). J'ai du nouveau matos, si tu veux jeter un œil.<end>
 
 =>q156_original
 Howdy. Heard you went to GMS. Did you find anything interesting?<end>
@@ -958,7 +958,7 @@ Salut. J'ai entendu que t'étais allé à GMS. T'as trouvé un truc intéressant
 What's up?<end>
 
 =>q157
-Quoi de neuf ?<end>
+Alors ?<end>
 
 =>q158_original
 Howdy. You must be the new $(#guy/girl). Name's Harold.
@@ -966,24 +966,24 @@ Howdy. You must be the new $(#guy/girl). Name's Harold.
 I'm in charge of this little workshop here.<end>
 
 =>q158
-Salut. Tu dois être le nouveau $(#guy/girl). Moi c'est Harold.
+Salut. Tu dois être $(#le nouveau gars/la nouvelle fille). Moi c'est Harold.
 
-Je m'occupe de ce petit atelier ici.<end>
+Je m'occupe de ce petit atelier, ici.<end>
 
 =>a159_original
 Nice to meet you, Harold. I'm $(context.player.Name).<end>
 
 =>a159
-Enchanté, Harold. Je suis $(context.player.Name).<end>
+Enchanté, Harold. $(context.player.Name).<end>
 
 =>q160_original
 So... you looking for something specific or just looking around?<end>
 
 =>q160
-Alors... tu cherches un truc précis ou tu regardes juste autour ?<end>
+Alors... tu cherches un truc précis, ou tu regardes juste autour ?<end>
 
 =>a161_original
 Name's $(context.player.Name).<end>
 
 =>a161
-Je m'appelle $(context.player.Name).<end>
+$(context.player.Name).<end>

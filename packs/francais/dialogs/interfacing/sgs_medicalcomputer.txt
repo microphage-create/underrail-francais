@@ -4,9 +4,9 @@
 Main::<end>
 
 =>q1
-::Bienvenue dans South Gate Station Medical Database
+::Bienvenue dans la base médicale de South Gate Station
 
-Principale::<end>
+Accueil::<end>
 
 =>q2_original
 <end>
@@ -18,13 +18,13 @@ Principale::<end>
 ::Access patient records::<end>
 
 =>a3
-::Accès aux dossiers des patients::<end>
+::Accéder aux dossiers patients::<end>
 
 =>q4_original
 ::Patient records::<end>
 
 =>q4
-::Dossiers des patients::<end>
+::Dossiers patients::<end>
 
 =>a5_original
 ::Open recent patient list::<end>
@@ -42,7 +42,7 @@ Principale::<end>
 ::Arlene Banks::<end>
 
 =>a7
-::Banques d'Arlene::<end>
+::Arlene Banks::<end>
 
 =>q8_original
 ::Symptoms: Insomnia
@@ -52,11 +52,11 @@ Arlene reported having trouble falling asleep, again. Prescribed some mirtazapin
 Update: It worked. Will continue monitoring her condition.::<end>
 
 =>q8
-::Symptômes: Insomnie
+::Symptômes : insomnie
 
-Arlene a dit avoir du mal à s'endormir. On a prescrit de la mirtazapine pour l'instant, on verra demain comment ça s'est passé.
+Arlene a encore signalé des difficultés à s'endormir. Mirtazapine prescrite pour l'instant ; on verra demain comment ça s'est passé.
 
-Mise à jour : ça a marché. Elle continuera à surveiller son état.::<end>
+Mise à jour : ça a marché. On continue de surveiller son état.::<end>
 
 =>a9_original
 ::Back::<end>
@@ -76,15 +76,15 @@ Mise à jour : ça a marché. Elle continuera à surveiller son état.::<end>
 Prescribed painkillers, gabapentin this time. We are getting low on other painkillers, and since we don't have anyone suffering from epilepsy, gabapentin will have to do.::<end>
 
 =>q11
-::Symptômes: Douleurs dorsales chroniques
+::Symptômes : douleurs dorsales chroniques
 
-Des analgésiques prescrits, de la gabapentine cette fois. Nous sommes à court d'autres analgésiques, et comme nous n'avons personne souffrant d'épilepsie, la gabapentine devra le faire.::<end>
+Antalgiques prescrits, gabapentine cette fois. On manque des autres, et comme on n'a personne d'épileptique, la gabapentine devra suffire.::<end>
 
 =>a12_original
 ::Bret Fields::<end>
 
 =>a12
-::Champs Bret::<end>
+::Bret Fields::<end>
 
 =>q13_original
 ::Symptoms: Forehead laceration
@@ -92,9 +92,9 @@ Des analgésiques prescrits, de la gabapentine cette fois. Nous sommes à court 
 Big Bret showed up with a deep cut, about ten centimeters long, across his forehead. Caused by him tripping in the hopper pen and hitting his head on one of the rocks. Disinfected, stiched up and bandaged his head and told him to return tomorrow so that I can check for any potential complications, infections, etc.::<end>
 
 =>q13
-::Symptômes : lacération avant
+::Symptômes : lacération au front
 
-Big Bret est arrivé avec une coupe profonde, d'environ dix centimètres de long, sur son front. Cause par lui trébuchant dans la trémie et frappant sa tête sur l'un des rochers. Désinfecté, stiché et bandé sa tête et lui a dit de revenir demain pour que je puisse vérifier toutes complications potentielles, infections, etc.::<end>
+Big Bret s'est présenté avec une entaille profonde, une dizaine de centimètres, en travers du front. Il a trébuché dans l'enclos à hoppers et s'est cogné la tête sur un rocher. Désinfecté, suturé, pansé ; je lui ai dit de revenir demain pour vérifier complications, infections, etc.::<end>
 
 =>a14_original
 ::Michael Mordington::<end>
@@ -110,11 +110,11 @@ Mordre came while everyone was asleep and complained about a sharp chest pain wa
 Update: He said everything is fine now. Few days have gone by without any chest pains. Told him to see me if the pain returns.::<end>
 
 =>q15
-::Symptômes: Douleur thoracique aiguë
+::Symptômes : douleur thoracique aiguë
 
-Mordre est venu pendant que tout le monde dormait et s'est plaint d'une douleur thoracique aiguë le réveillant. J'ai vérifié, mais je n'ai rien trouvé. J'ai pris quelques échantillons, je l'ai laissé au bureau pendant que j'ai fait quelques tests et, à part des niveaux légèrement inférieurs de vitamine B, rien ne semble être mal avec lui.
+Mordre est venu pendant que tout le monde dormait, se plaignant d'une douleur thoracique aiguë qui l'avait réveillé. Je l'ai examiné, rien trouvé. Prélèvements, je l'ai laissé au bureau le temps des analyses : à part un taux de vitamine B un peu bas, rien d'anormal.
 
-Mise à jour : Il a dit que tout allait bien maintenant. Quelques jours se sont écoulés sans douleur thoracique. Je lui ai dit de me voir si la douleur revient.::<end>
+Mise à jour : il dit que tout va bien. Quelques jours sans douleur. Je lui ai dit de revenir si ça reprend.::<end>
 
 =>a16_original
 ::Jo Hendrix::<end>
@@ -133,9 +133,9 @@ Update: The tablets helped her a lot, just as I suspected. Will prescribe more a
 =>q17
 ::Symptômes : dépression
 
-Jo est venu demander des comprimés de dépression, de la sertaline. C'est la seule chose qui l'aide. J'ai administré un placebo parce que j'ai des raisons de croire que tout est dans sa tête. Il lui a donné des comprimés inertes et surveillera son état.
+Jo est venue demander des comprimés contre la dépression, de la sertaline. Elle dit que c'est la seule chose qui l'aide. J'ai donné un placebo : j'ai des raisons de croire que tout est dans sa tête. Comprimés inertes, et je surveille.
 
-Mise à jour : Les tablettes l'ont beaucoup aidée, comme je le soupçonnais. Vont prescrire plus et continuer à surveiller son état.
+Mise à jour : les comprimés l'ont beaucoup aidée, comme je m'y attendais. Je prescris la suite et je continue de surveiller.
 ::<end>
 
 =>a18_original
@@ -152,7 +152,7 @@ Lucas dropped a grenade case on his foot and smashed his toe. Fixed him up and p
 =>q19
 ::Symptômes : orteil cassé
 
-Lucas a largué une grenade sur son pied et s'est cassé l'orteil. Il l'a réparé et lui a prescrit des analgésiques. Recommandé seulement les doses légères analgésiques afin que la surutilisation ne ralentisse pas le processus de guérison.::<end>
+Lucas a fait tomber une caisse de grenades sur son pied et s'est écrasé l'orteil. Soigné, antalgiques prescrits. Doses légères seulement, pour que l'abus ne ralentisse pas la cicatrisation.::<end>
 
 =>a20_original
 ::Back::<end>
@@ -164,7 +164,7 @@ Lucas a largué une grenade sur son pied et s'est cassé l'orteil. Il l'a répar
 ::Open patient archive::<end>
 
 =>a21
-::Ouvrir l'archive patient::<end>
+::Ouvrir les archives patients::<end>
 
 =>q22_original
 ::Access denied
@@ -174,7 +174,7 @@ For further information, please contact your administrator::<end>
 =>q22
 ::Accès refusé
 
-Pour de plus amples informations, veuillez contacter votre administrateur::<end>
+Pour plus d'informations, contactez votre administrateur.::<end>
 
 =>a23_original
 ::Back::<end>
@@ -186,13 +186,13 @@ Pour de plus amples informations, veuillez contacter votre administrateur::<end>
 ::Main::<end>
 
 =>q24
-::Principale::<end>
+::Accueil::<end>
 
 =>a25_original
 ::Access medical inventory::<end>
 
 =>a25
-::Accès aux stocks médicaux::<end>
+::Accéder à l'inventaire médical::<end>
 
 =>q26_original
 ::Medical Inventory::<end>
@@ -225,20 +225,20 @@ Bone button - (Select to open submenu)::<end>
 
 =>q28
 ::Articulateur - 2/2
-Ciseau osseux - 7/10
-Broyeur de cartilage - 0/3 (Remarque: Nous devons obtenir ces)
-Coupe-dos - (Sélectionner pour ouvrir le sous-menu)
-Disjoncteur osseux - 4/6
-Appareils Ilizarov - 2/2
-Disjoncteur d'os cinétique intramédullaire - (Sélectionner pour ouvrir le sous-menu)
-Perceuse osseuse - 5/6
-Levier osseux - (Sélectionner pour ouvrir le sous-menu)
-Mallette désossée - 6/6
-Rasp os - (Sélectionner pour ouvrir le sous-menu)
-Scie osseuse - 6/6
-(Sélectionner pour ouvrir le sous-menu)
+Ciseau à os - 7/10
+Broyeur de cartilage Cottle - 0/3 (Note : il nous en faut)
+Coupe-os - (Sélectionner pour ouvrir le sous-menu)
+Distracteur osseux - 4/6
+Appareil d'Ilizarov - 2/2
+Distracteur osseux cinétique intramédullaire - (Sélectionner pour ouvrir le sous-menu)
+Perceuse à os - 5/6
+Levier à os - (Sélectionner pour ouvrir le sous-menu)
+Maillet à os - 6/6
+Râpe à os - (Sélectionner pour ouvrir le sous-menu)
+Scie à os - 6/6
+Skid à os - (Sélectionner pour ouvrir le sous-menu)
 Attelle osseuse - (Sélectionner pour ouvrir le sous-menu)
-Bouton os - (Sélectionner pour ouvrir le sous-menu)::<end>
+Bouton osseux - (Sélectionner pour ouvrir le sous-menu)::<end>
 
 =>q29_original
 ::Caliper - (Select to open submenu)
@@ -258,21 +258,21 @@ Skin hook - 6/7
 Lancet (scalpel) - 20/24::<end>
 
 =>q29
-::Étalonnage - (Sélectionner pour ouvrir le sous-menu)
-Canula − 4/6
-Caucherie - (Sélectionner pour ouvrir le sous-menu)
+::Compas - (Sélectionner pour ouvrir le sous-menu)
+Canule - 4/6
+Cautère - (Sélectionner pour ouvrir le sous-menu)
 Curette - (Sélectionner pour ouvrir le sous-menu)
 Dépresseur - 3/3
-Couteau Disséquant - 14/14 (Note: Nous avons besoin de plus de ceux-ci)
-Pinzette chirurgicale - (Sélectionner pour ouvrir le sous-menu)
-Forceps - (Sélectionnez pour ouvrir le sous-menu) (Note : Les nombres pour certains types ne sont pas corrects. Revérifier.)
+Couteau à dissection - 14/14 (Note : il nous en faut plus)
+Pincette chirurgicale - (Sélectionner pour ouvrir le sous-menu)
+Forceps - (Sélectionner pour ouvrir le sous-menu) (Note : les stocks de certains types sont faux. Revérifier.)
 Dermatome - 2/2
 Acanthulus - 7/7
 Crochet - (Sélectionner pour ouvrir le sous-menu)
-Crochet Nerve - 5/5
+Crochet à nerf - 5/5
 Crochet obstétrical - 6/7
-Crochet de peau - 6/7
-Lancet (scalpel) - 20/24::<end>
+Crochet à peau - 6/7
+Lancette (scalpel) - 20/24::<end>
 
 =>q30_original
 ::Luxator - (Select to open submenu)
@@ -292,17 +292,17 @@ Laser scalpel - 10/10
 Scissors - (Select to open submenu)::<end>
 
 =>q30
-::Luxator - (Sélectionner pour ouvrir le sous-menu)
-Lythotome - (Sélectionner pour ouvrir le sous-menu)
-Lythotript - (Sélectionner pour ouvrir le sous-menu)
-Mallet − 15/15
-Mammatome - 2/2 (Note : Je ne pense plus que ce soit utilisable. Revérifier.)
-Occluder - (Sélectionner pour ouvrir le sous-menu)
+::Luxateur - (Sélectionner pour ouvrir le sous-menu)
+Lithotome - (Sélectionner pour ouvrir le sous-menu)
+Lithotripteur - (Sélectionner pour ouvrir le sous-menu)
+Maillet - 15/15
+Mammotome - 2/2 (Note : je ne pense plus qu'ils servent. Revérifier.)
+Occluseur - (Sélectionner pour ouvrir le sous-menu)
 Ostéotome - (Sélectionner pour ouvrir le sous-menu)
-Ascenseur - (Sélectionner pour ouvrir le sous-menu)
+Élévateur - (Sélectionner pour ouvrir le sous-menu)
 Sonde - (Sélectionner pour ouvrir le sous-menu)
-Rétracteur - (Sélectionner pour ouvrir le sous-menu)
-Épaisseur de côtes - 5/5
+Écarteur - (Sélectionner pour ouvrir le sous-menu)
+Écarteur de côtes - 5/5
 Rongeur - (Sélectionner pour ouvrir le sous-menu)
 Scalpel à ultrasons - 10/10
 Scalpel laser - 10/10
@@ -326,17 +326,17 @@ Surgical spoon - (Select to open submenu)::<end>
 
 =>q31
 ::Spatule - (Sélectionner pour ouvrir le sous-menu)
-Speculum - (Sélectionner pour ouvrir le sous-menu)
-bol d'éponge - (Sélectionner pour ouvrir le sous-menu)
+Spéculum - (Sélectionner pour ouvrir le sous-menu)
+Bol à compresses - (Sélectionner pour ouvrir le sous-menu)
 Plateau de stérilisation - (Sélectionner pour ouvrir le sous-menu)
-Scie sternale - 3/3 (Remarque : besoin de déf.)
-Tube d'aspiration - (Sélectionner pour ouvrir le sous-menu) (Note: Courir bas sur ceux-ci)
+Scie sternale - 3/3 (Note : il nous en faut, clairement.)
+Tube d'aspiration - (Sélectionner pour ouvrir le sous-menu) (Note : on commence à manquer)
 Couteau chirurgical - (Sélectionner pour ouvrir le sous-menu)
-Mesh chirurgical - (Sélectionner pour ouvrir le sous-menu)
+Grille chirurgicale - (Sélectionner pour ouvrir le sous-menu)
 Aiguille chirurgicale - (Sélectionner pour ouvrir le sous-menu)
 Aiguille chirurgicale (droite) - (Sélectionner pour ouvrir le sous-menu)
-Aiguille chirurgicale (droite, extra grande) - 1/2 (Note: On est inexplicablement absent de la salle d'opération, doute qu'il ait été cassé et jeté, ils sont grands et robustes)
-(Sélectionner pour ouvrir le sous-menu)
+Aiguille chirurgicale (droite, extra large) - 1/2 (Note : une a disparu de la salle d'op, inexplicablement ; douteux qu'elle ait été cassée et jetée, elles sont grosses et solides)
+Collet chirurgical - (Sélectionner pour ouvrir le sous-menu)
 Éponge chirurgicale - 34/50
 Cuillère chirurgicale - (Sélectionner pour ouvrir le sous-menu)::<end>
 
@@ -354,15 +354,15 @@ Trocar - 9/9::<end>
 
 =>q32
 ::Agrafeuse chirurgicale - 10/10
-Plateau opératoire - 20/21
-Traumatisches de suture - 10/10
-Tonsillotome - 4/4
-Pince à serviette - (Sélectionner pour ouvrir le sous-menu)
+Plateau chirurgical - 20/21
+Suture Atraumatisches - 10/10
+Amygdalotome - 4/4
+Pince à champs - (Sélectionner pour ouvrir le sous-menu)
 Trachéotome - 5/5
-Explorateur tissu - (Sélectionner pour ouvrir le sous-menu)
-Sous-cutanée - (Sélectionner pour ouvrir le sous-menu)
-Trephine - 14/14
-Trocar - 9/9::<end>
+Expandeur tissulaire - (Sélectionner pour ouvrir le sous-menu)
+Sous-cutané - (Sélectionner pour ouvrir le sous-menu)
+Trépan - 14/14
+Trocart - 9/9::<end>
 
 =>a33_original
 ::Standard equipment::<end>
@@ -385,16 +385,16 @@ Bedpan 7/7::<end>
 
 =>q34
 ::Stéthoscopes - 10/10
-Marteau d ' essai en résine − 5/5
-Sphygmomanomètre - 3/3
-Une torche électrique à faisceau mince - 5/5
-Une montre / chronomètre - 4/4
-Un ruban de mesure - (Sélectionner pour ouvrir le sous-menu)
-Dépresseur de langue - 4/6
-Une machine de pesage - 2/2
-Fourches de réglage - 3/3
-Plat de rein - 6/5 (Note: Comment est-ce possible?)
-Peignoir 7/7::<end>
+Marteau à réflexes - 5/5
+Tensiomètre - 3/3
+Lampe électrique à faisceau fin - 5/5
+Montre / chronomètre - 4/4
+Mètre ruban - (Sélectionner pour ouvrir le sous-menu)
+Abaisselangue - 4/6
+Pèse-personne - 2/2
+Diapasons - 3/3
+Haricot - 6/5 (Note : comment c'est possible ?)
+Bassin de lit 7/7::<end>
 
 =>q35_original
 ::Thermometer - (Select to open submenu)
@@ -409,13 +409,13 @@ Dialyser - 2/2::<end>
 
 =>q35
 ::Thermomètre - (Sélectionner pour ouvrir le sous-menu)
-Bouteilles à gaz - 11/14
+Bouteilles de gaz - 11/14
 Masque à oxygène - 16/16
-Vaporiseur - 5/6
-Tambours d'habillage - 10/10
+Vaporisateur - 5/6
+Tambours à pansements - 10/10
 Nébuliseur - 4/5
-Ventilateur de pression positif - 4/4
-Cardioverter / défibrillateur - 4/4
+Ventilateur en pression positive - 4/4
+Cardioverteur / défibrillateur - 4/4
 Dialyseur - 2/2::<end>
 
 =>q36_original
@@ -432,17 +432,17 @@ Spectacles - (Select to open submenu)
 Enema set::<end>
 
 =>q36
-::Syringe - (Sélectionner pour ouvrir le sous-menu)
-Canula - (Sélectionner pour ouvrir le sous-menu)
-Ensembles de transfusion - (Sélectionner pour ouvrir le sous-menu)
-Tubes gastro-intestinaux - (Sélectionner pour ouvrir le sous-menu)
-Tube nasogastrique - (Sélectionner pour ouvrir le sous-menu)
-Tube d'estomac - (Sélectionner pour ouvrir le sous-menu)
-Tube de Levin - (Sélectionner pour ouvrir le sous-menu)
-Tube "T" de Kehr - (Sélectionner pour ouvrir le sous-menu)
-Tube d'alimentation pour nourrissons - (Sélectionner pour ouvrir le sous-menu)
-Spectacles - (Sélectionner pour ouvrir le sous-menu)
-Ensemble de lavements::<end>
+::Seringue - (Sélectionner pour ouvrir le sous-menu)
+Canule - (Sélectionner pour ouvrir le sous-menu)
+Trousses de transfusion - (Sélectionner pour ouvrir le sous-menu)
+Sondes gastro-intestinales - (Sélectionner pour ouvrir le sous-menu)
+Sonde nasogastrique - (Sélectionner pour ouvrir le sous-menu)
+Sonde gastrique - (Sélectionner pour ouvrir le sous-menu)
+Sonde de Levin - (Sélectionner pour ouvrir le sous-menu)
+Tube en T de Kehr - (Sélectionner pour ouvrir le sous-menu)
+Sonde d'alimentation infantile - (Sélectionner pour ouvrir le sous-menu)
+Lunettes - (Sélectionner pour ouvrir le sous-menu)
+Trousse à lavement::<end>
 
 =>q37_original
 ::Bandage - (Select to open submenu)
@@ -455,12 +455,12 @@ Proctoscope (Kelly's) - 4/7::<end>
 
 =>q37
 ::Bandage - (Sélectionner pour ouvrir le sous-menu)
-Pipettes ou gouttelettes - (Sélectionner pour ouvrir le sous-menu)
+Pipettes ou compte-gouttes - (Sélectionner pour ouvrir le sous-menu)
 Cuillères graduées - (Sélectionner pour ouvrir le sous-menu)
-Ophtalmoscope - 2/5 (Note: Nous devrions obtenir plus)
+Ophtalmoscope - 2/5 (Note : il faudrait en avoir plus)
 Otoscope - 6/7
 Endoscope - 3/4
-Proctoscope (Kelly's) - 4/7::<end>
+Rectoscope (Kelly) - 4/7::<end>
 
 =>a38_original
 ::Medications::<end>
@@ -472,31 +472,31 @@ Proctoscope (Kelly's) - 4/7::<end>
 ::The medication list is too long for you to review them all.::<end>
 
 =>q39
-::La liste des médicaments est trop longue pour que vous les examiniez tous.::<end>
+::La liste des médicaments est trop longue pour tout passer en revue.::<end>
 
 =>a40_original
 ::Notes::<end>
 
 =>a40
-::Annexe::<end>
+::Notes::<end>
 
 =>q41_original
 ::Notes::<end>
 
 =>q41
-::Annexe::<end>
+::Notes::<end>
 
 =>a42_original
 ::New medical equipment::<end>
 
 =>a42
-::Matériel médical neuf::<end>
+::Nouveau matériel médical::<end>
 
 =>q43_original
 ::We'll be receiving new medical equipment soon. The existing inventory will need to be rechecked and expanded, unless we want to risk the same thing from the last time happening again.::<end>
 
 =>q43
-::On va bientôt recevoir du matériel médical. L'inventaire existant devra être revu et élargi, à moins que nous ne voulions risquer la même chose depuis la dernière fois.::<end>
+::On va bientôt recevoir du matériel médical neuf. L'inventaire actuel devra être revérifié et élargi, sauf si on veut risquer le même coup que la dernière fois.::<end>
 
 =>a44_original
 ::Back::<end>
@@ -516,33 +516,33 @@ Proctoscope (Kelly's) - 4/7::<end>
 Note: Why do we even have one of the strongest neurotoxins in our inventory?::<end>
 
 =>q46
-::Quinton a récupéré une dose unique de diméthylmercure; il a mentionné qu'il en avait besoin pour tester des terriers.
+::Quinton a récupéré une seule dose de diméthylmercure ; il a dit en avoir besoin pour des tests sur des burrowers.
 
-Remarque: Pourquoi avons-nous même l'une des neurotoxines les plus fortes de notre inventaire?::<end>
+Note : pourquoi on a même l'une des neurotoxines les plus fortes dans l'inventaire ?::<end>
 
 =>a47_original
 ::Repair the lockpad::<end>
 
 =>a47
-::Réparer le verrou::<end>
+::Réparer le pavé de verrouillage::<end>
 
 =>q48_original
 ::Reminder to notify someone to check that broken lockpad. I swear, it took ten to fifteen tries for it to finally accept my keycard.::<end>
 
 =>q48
-::Rappelle à quelqu'un de vérifier le cadenas cassé. Il a fallu dix à quinze tentatives pour accepter enfin ma carte.::<end>
+::Penser à prévenir quelqu'un pour le pavé cassé. Dix à quinze essais avant qu'il daigne accepter ma keycard, je vous jure.::<end>
 
 =>a49_original
 ::Surgery room lights::<end>
 
 =>a49
-::Lumières des salles de chirurgie::<end>
+::Lumières de la salle d'opération::<end>
 
 =>q50_original
 ::Surgery room lights are flickering. It looks like a horror scene in there. Call someone to fix it.::<end>
 
 =>q50
-::Les lumières de la salle de chirurgie clignotent. On dirait une scène d'horreur. Appelez quelqu'un pour le réparer.::<end>
+::Les lumières de la salle d'opération clignotent. On dirait un film d'horreur. Appeler quelqu'un pour réparer.::<end>
 
 =>a51_original
 ::Empty::<end>
@@ -566,5 +566,4 @@ Remarque: Pourquoi avons-nous même l'une des neurotoxines les plus fortes de no
 ::Exit::<end>
 
 =>a54
-::Sortie::<end>
-
+::Quitter::<end>

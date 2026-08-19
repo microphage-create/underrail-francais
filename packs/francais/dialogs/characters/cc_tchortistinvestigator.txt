@@ -2,7 +2,7 @@
 ::You spot a robed figure doing something to an electronic lock. He had just turned his head away from the direction you came from and was checking out the opposite one, giving you a bit of extra time during which you will not be observed observing him.::<end>
 
 =>q1
-::Tu repères une silhouette en robe en train de faire quelque chose à une serrure électronique. Il vient de tourner la tête dans la direction opposée à celle d'où tu viens, te laissant un peu de temps pendant lequel tu ne seras pas observé en train de l'observer.::<end>
+::Vous apercevez une silhouette en robe en train de s'affairer à une serrure électronique. Il vient de détourner la tête du côté d'où vous arrivez pour inspecter le côté opposé, ce qui vous laisse un peu de temps : vous ne serez pas $(#observé/observée) en train de l'observer.::<end>
 
 =>q2_original
 ::There's a haxxor in his hands, its screen casting light inside his hood, illuminating his confusion or maybe irritation - or most likely a bit of both.
@@ -12,13 +12,13 @@ But he then senses your presence: He calmly conceals his hacking device, and wal
 =>q2
 ::Il a un haxxor dans les mains, l'écran projetant de la lumière dans sa capuche, éclairant sa confusion ou peut-être son irritation - ou très probablement un peu des deux.
 
-Mais il sent ensuite ta présence : il dissimule calmement son appareil de piratage, et s'éloigne comme si rien d'inhabituel ne se passait.::<end>
+Mais il sent ensuite votre présence : il dissimule calmement son haxxor, et s'éloigne comme si rien d'inhabituel ne se passait.::<end>
 
 =>a3_original
 One moment, sir. I'm a Praetorian Enforcer. What were you doing just now with that electronic lock?<end>
 
 =>a3
-Un instant, monsieur. Je suis un Enforcer Praetorian. Que faisiez-vous à l'instant avec cette serrure électronique ?<end>
+Un instant, monsieur. Je suis $(#un/une) Praetorian Enforcer. Que faisiez-vous à l'instant avec cette serrure électronique ?<end>
 
 =>q4_original
 ::He smiles affably.::
@@ -28,7 +28,7 @@ I was merely looking around. I never got the impression that I'm not supposed to
 =>q4
 ::Il sourit affablement.::
 
-Je regardais simplement autour de moi. Je n'ai jamais eu l'impression que je n'étais pas censé être ici.<end>
+Je regardais simplement autour de moi. Je n'ai jamais eu l'impression de ne pas être à ma place ici.<end>
 
 =>a5_original
 What about that haxxor you're hiding? Is that for looking around?<end>
@@ -42,9 +42,9 @@ Look, efreit-- ::His smile grows even wider.:: Eh, enforcer. I come from *the* I
 I hope we understand each other.<end>
 
 =>q6
-Écoutez, efreit-- ::Son sourire s'élargit encore.:: Euh, enforcer. Je viens de *l'*Institute of Tchort. Je suis ici en mission importante, d'une grande importance diplomatique et éducative. Si vous preniez des mesures, mmm, inconsidérées maintenant, vous n'auriez que des ennuis avec vos supérieurs, j'en suis sûr.
+Écoutez, efreit-- ::Son sourire s'élargit encore.:: Eh, enforcer. Je viens de *l'*Institute of Tchort. Je suis ici en mission importante, d'une grande importance diplomatique et éducative. Si vous preniez des mesures, mmm, inconsidérées maintenant, vous n'auriez que des ennuis avec vos supérieurs, j'en suis sûr.
 
-J'espère qu'on se comprend.<end>
+J'espère que nous nous comprenons.<end>
 
 =>a7_original
 I'm still going to need to take you to the HQ. Standard protocol. Would you kindly follow me, sir?<end>
@@ -56,7 +56,7 @@ Je vais quand même devoir vous emmener au QG. Protocole standard. Auriez-vous l
 ::He wastes no time and makes the first move...::<end>
 
 =>q8
-::Il ne perd pas de temps et fait le premier pas...::<end>
+::Il ne perd pas de temps et passe à l'attaque...::<end>
 
 =>a9_original
 ::Fight!::<end>
@@ -86,7 +86,7 @@ Merci. ::Il s'incline poliment et s'éloigne.::<end>
 We do: I'll leave the superiors out of this. ::Attack!::<end>
 
 =>a13
-On se comprend : je laisserai les supérieurs en dehors de ça. ::Attaquer !::<end>
+On se comprend : je laisserai les supérieurs hors de ça. ::Attaquer !::<end>
 
 =>a14_original
 You were definitely doing something, and I want to know what.<end>
@@ -110,7 +110,7 @@ Cette partie de la ville est très dangereuse, monsieur, mais ça ne veut pas fo
 One moment, sir. I'm a Praetorian Senior Enforcer. What were you doing just now with that electronic lock?<end>
 
 =>a17
-Un instant, monsieur. Je suis un Senior Enforcer Praetorian. Que faisiez-vous à l'instant avec cette serrure électronique ?<end>
+Un instant, monsieur. Je suis $(#un/une) Praetorian Senior Enforcer. Que faisiez-vous à l'instant avec cette serrure électronique ?<end>
 
 =>a18_original
 Hey, what were you doing there?<end>
@@ -122,7 +122,7 @@ Hé, qu'est-ce que vous faisiez là ?<end>
 ::He ignores you and walks away.::<end>
 
 =>q19
-::Il t'ignore et s'éloigne.::<end>
+::Il vous ignore et s'éloigne.::<end>
 
 =>a20_original
 What's behind the door?<end>
@@ -158,7 +158,7 @@ Pas si vite ! ::Attaquer !::<end>
 Stay away, inbred!<end>
 
 =>q25
-Reste loin, consanguin !<end>
+Éloignez-vous, consanguin !<end>
 
 =>q26_original
 <end>
@@ -170,10 +170,10 @@ Reste loin, consanguin !<end>
 ::Shakes head and averts his eyes.::<end>
 
 =>q27
-::Secoue la tête et détourne les yeux.::<end>
+::Il secoue la tête et détourne les yeux.::<end>
 
 =>q28_original
 ::Ignores you.::<end>
 
 =>q28
-::T'ignore.::<end>
+::Il vous ignore.::<end>

@@ -8,7 +8,7 @@ Quoi ? Tu es là pour enlever ce cadavre ? C'est là-bas. ::Il pointe son pouce 
 ::[Persuade]:: Yep, that's why I'm here. Can I ask you a question first, doc? I've always been fascinated by biology.<end>
 
 =>a2
-::[Persuader]:: C'est pour ça que je suis là. Je peux vous poser une question ? J'ai toujours été fasciné par la biologie.<end>
+::[Persuade]:: C'est pour ça que je suis là. Je peux vous poser une question ? J'ai toujours été fasciné par la biologie.<end>
 
 =>q3_original
 Alright, but make it quick. I have a lot of work to do still.<end>
@@ -74,7 +74,7 @@ Gardes, intrus !<end>
 ::Fight!::<end>
 
 =>a13
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a14_original
 You stay right there and be quiet now. I'm keeping my eye on you.<end>
@@ -114,7 +114,7 @@ Attendez... Tu n'es pas un des gardes. Tu ne devrais pas être ici. J'appelle la
 ::[Intimidate]:: You be quiet or I'll break your neck. I got some questions for you, doc, and you better have the answers.<end>
 
 =>a19
-::[Intimider]:: Tais-toi ou je te casse le cou. J'ai des questions pour vous, docteur, et vous feriez mieux d'avoir les réponses.<end>
+::[Intimidate]:: Tais-toi ou je te casse le cou. J'ai des questions pour vous, docteur, et vous feriez mieux d'avoir les réponses.<end>
 
 =>q20_original
 ::With evident distress in his voice, he responds.:: What... what do you want to know?<end>
@@ -132,7 +132,7 @@ Attendez... Tu n'es pas un des gardes. Tu ne devrais pas être ici. J'appelle la
 ::[Intimidate]:: I'll be asking questions here, doc. And you better answer them if you want to live.<end>
 
 =>a22
-::[Intimider]:: Je vais vous poser des questions, doc. Et tu ferais mieux de leur répondre si tu veux vivre.<end>
+::[Intimidate]:: Je vais vous poser des questions, doc. Et tu ferais mieux de leur répondre si tu veux vivre.<end>
 
 =>q23_original
 ::Your threat startles him, and it takes a further moment for him to respond.:: What... what do you want to know?<end>

@@ -4,9 +4,9 @@
 The two are gone for a while...::<end>
 
 =>q1
-::Vous attendez pendant que Quinton termine son examen, l'observant comme il le fait avec beaucoup de concentration et de soin, comment après seulement quelques minutes il donne l'impression qu'il avait manipulé ces créatures depuis des années. Lentement et régulièrement, il termine l'examen. Il remet la créature dans sa prison mobile, se tourne vers vous, mais seulement pour vous informer qu'il doit partir et faire un test de plus.
+::Vous attendez que Quinton termine son examen. Vous l'observez travailler, concentré, soigneux : en quelques minutes à peine, on dirait qu'il manipule ces créatures depuis des années. Lentement, sans à-coups, il finit. Il remet la créature dans sa cage mobile, se tourne vers vous, mais seulement pour vous dire qu'il doit s'absenter et faire encore un test.
 
-Les deux sont partis pendant un moment...::<end>
+Ils restent absents un moment...::<end>
 
 =>q2_original
 ::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
@@ -14,15 +14,15 @@ Les deux sont partis pendant un moment...::<end>
 I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
 
 =>q2
-::Bientôt, il revient vers vous avec un vrai sourire sur son visage, débordant d'excitation. Il ne perd pas de temps.::
+::Bientôt il revient, un vrai sourire au visage, débordant d'excitation. Il ne perd pas une seconde.::
 
-Je reviens, $(context.player.Name). J'espère que tu ne t'es pas endormi en m'attendant.<end>
+Me revoilà, $(context.player.Name). J'espère que vous ne vous êtes pas endormi en m'attendant.<end>
 
 =>a3_original
 You seem happy. I hope you've got something good for me.<end>
 
 =>a3
-Vous semblez heureux. J'espère que tu as quelque chose de bon pour moi.<end>
+Vous avez l'air content. J'espère que vous avez du bon pour moi.<end>
 
 =>q4_original
 You'll see.<end>
@@ -34,25 +34,25 @@ Vous verrez.<end>
 First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
 
 =>q5
-Premièrement, sans disséquer la créature - ce que je ne ferais jamais sans vous consulter - je peux vous dire quelques choses que j'ai apprises jusqu'ici : Leurs têtes *do* semblent être utilisées pour le forage réel: Même si je n'ai pas encore pu le voir en action, évidemment, la combinaison de la forme unique de la tête et de la musculature étonnamment puissante me fait sentir qu'elle engage tout son corps pendant le processus. Peut-être, disons, il tourne en petits éclats, ou peut-être il se serpente et libère l'énergie de cette manière; je spécule. Ce qui est un fait, cependant, c'est que la tête est très, très dure, donc je ne doute pas qu'elle puisse passer par des matériaux difficiles sans beaucoup de problème.<end>
+D'abord, sans disséquer la créature - ce que je ne ferais jamais sans vous consulter - voici ce que j'ai déjà compris : leurs têtes *servent* bel et bien au forage. Je n'ai pas encore pu le voir à l'œuvre, évidemment, mais la forme si particulière du crâne et une musculature étonnamment puissante me font penser qu'elle y met tout le corps. Peut-être qu'elle tourne sur elle-même par à-coups, ou qu'elle s'enroule puis relâche l'énergie d'un coup ; je spécule. Ce qui est un fait, en revanche, c'est que la tête est très, très dure. Elle peut forer de la matière compacte sans trop de mal, j'en doute pas.<end>
 
 =>q6_original
 As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
 
 =>q6
-Quant au reste du corps de la créature, il est segmenté et a une peau décentment épaisse recouverte de ce qui semble être des écailles très douces, délicates, ou du moins quelque chose de semblable; comme chez les serpents, il les aide probablement à se déplacer, peut-être pour conserver l'humidité aussi. La peau est également très sensible, ce qui a un sens pour une créature limitée de manière à obtenir des informations sur son environnement, hm. Il y a quelques autres détails à ce sujet, mais ceux-ci sont assez mineurs et peu intéressants.<end>
+Pour le reste du corps, il est segmenté, avec une peau assez épaisse couverte de ce qui ressemble à des écailles très souples, délicates, ou quelque chose d'approchant ; comme chez les serpents, ça les aide probablement à se déplacer, et peut-être aussi à retenir l'humidité. La peau est aussi très sensible, ce qui se tient pour une créature limitée dans la façon dont elle prend des infos sur son environnement, hm. Il y a d'autres détails, mais ils sont mineurs et peu intéressants.<end>
 
 =>q7_original
 Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
 
 =>q7
-Maintenant, ce que j'ai fait était un examen superficiel rapide; je devrais disséquer la créature pour vraiment vous en dire plus sur son anatomie. Cependant, j'ai gardé les bonnes choses pour la fin!<end>
+Là, ce n'était qu'un examen superficiel, rapide ; il me faudrait disséquer la créature pour vraiment vous parler de son anatomie. Mais j'ai gardé le meilleur pour la fin !<end>
 
 =>q8_original
 I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
 
 =>q8
-J'ai décidé de faire quelques lectures de psi - c'est pourquoi j'ai quitté la pièce plus tôt - et les lectures étaient hors de la carte! Hm. En fait, la créature présente une signature de psi si forte que je suis surpris qu'elle n'ait pas quelques capacités de psi défensives à sa disposition. Cependant, la signature est aussi incroyablement complexe, et je n'ai pas honte de vous dire même que j'ai des difficultés à l'interpréter.<end>
+J'ai voulu faire quelques relevés psi - c'est pour ça que j'ai quitté la pièce tout à l'heure - et les relevés étaient hors échelle ! Hm. En fait, la créature a une signature psi si forte que je m'étonne qu'elle n'ait pas quelques pouvoirs psi défensifs sous la main. Mais la signature est aussi d'une complexité folle, et je n'ai pas honte de vous dire que même moi j'ai du mal à l'interpréter.<end>
 
 =>q9_original
 ::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
@@ -60,15 +60,15 @@ J'ai décidé de faire quelques lectures de psi - c'est pourquoi j'ai quitté la
 So there, that is all I have for you.<end>
 
 =>q9
-::Il hausse les épaules.:: Je crains que l'analyse soit bien supérieure à mon niveau de compétence. Mais je suis absolument, cent pour cent positif que la compréhension de cette signature psi ne vous aidera pas seulement dans votre - faute d'un meilleur mot - quête, mais également ouvrir la voie à l'engouement des découvertes scientifiques. Pour ceux d'entre nous qui s'en soucient, sinon rien d'autre.
+::Il hausse les épaules.:: J'ai peur que l'analyser soit largement au-dessus de mon niveau. Mais je suis absolument, cent pour cent certain que comprendre cette signature psi vous aidera non seulement dans votre - faute d'un meilleur mot - quête, mais ouvrira aussi la voie à des découvertes scientifiques palpitantes. Pour ceux d'entre nous que ça intéresse, au moins.
 
-C'est tout ce que j'ai pour toi.<end>
+Voilà, c'est tout ce que j'ai pour vous.<end>
 
 =>a10_original
 That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
 
 =>a10
-C'est très intéressant. En ce qui concerne cette signature psi, connaissez-vous quelqu'un à qui je peux emmener cette larve ?<end>
+C'est très intéressant. Pour cette signature psi, vous connaissez quelqu'un à qui je pourrais emmener cette larve ?<end>
 
 =>q11_original
 Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
@@ -76,21 +76,21 @@ Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so h
 Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
 
 =>q11
-Eh bien, en ce qui concerne le psi en général, Ezra est le meilleur expert en SGS, donc il est la bonne personne pour amener ce crétin à, hm. S'il ne peut pas t'aider... alors tu es coincé.
+Eh bien, pour le psi en général, Ezra est le meilleur expert de SGS, donc c'est à lui qu'il faut amener cette bestiole, hm. S'il ne peut pas vous aider... vous serez coincé.
 
-Oui, bien... ::Il vous remet la caisse.:: Ici. Captivante petite chose c'est. Et fougueux.<end>
+Bon, voilà... ::Il vous tend la caisse.:: Tenez. Petite chose captivante, celle-là. Et fougueuse.<end>
 
 =>a12_original
 I'll bring this to him then. Thanks.<end>
 
 =>a12
-Je lui apporte ça. C'est gentil.<end>
+Je vais le lui apporter. Merci.<end>
 
 =>a13_original
 Yeah, See you around.<end>
 
 =>a13
-Ouais, à tout à l'heure.<end>
+Ouais, à plus tard.<end>
 
 =>a14_original
 What have you discovered?<end>
@@ -102,13 +102,13 @@ Qu'avez-vous découvert ?<end>
 I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
 
 =>a15
-Oui. Et je rêvais de t'attendre. Va voir. Qu'est-ce que tu fais pour moi ?<end>
+Oui. Et je rêvais que je vous attendais. Allez savoir. Qu'est-ce que vous avez pour moi ?<end>
 
 =>q16_original
 $(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
 
 =>q16
-$(context.player.Name). Vera vous cherchait. Ça semblait très urgent. Tu devrais aller lui parler dès que tu peux.<end>
+$(context.player.Name). Vera vous cherchait. Ça avait l'air très urgent. Vous devriez aller lui parler dès que vous pouvez.<end>
 
 =>q17_original
 <end>
@@ -120,7 +120,7 @@ $(context.player.Name). Vera vous cherchait. Ça semblait très urgent. Tu devra
 Do you have anything to trade?<end>
 
 =>a18
-Avez-vous quelque chose à échanger ?<end>
+Vous avez quelque chose à troquer ?<end>
 
 =>q19_original
 ::He stops working, sets the knife aside and carefully removes his gloves.::
@@ -142,19 +142,19 @@ Bien sûr.<end>
 Let's trade. ::Barter.::<end>
 
 =>a21
-Échangeons. ::Troc.::<end>
+Troquer. ::Troc.::<end>
 
 =>a22_original
 Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
 
 =>a22
-Hey Quinton, tu peux jeter un oeil à ça pour moi ? ::Montre-lui la pointe cassée.::<end>
+Hé Quinton, vous pouvez jeter un œil à ça pour moi ? ::Lui montrer la pointe cassée.::<end>
 
 =>q23_original
 Hm. What is this?<end>
 
 =>q23
-Hm. C'est quoi ?<end>
+Hm. Qu'est-ce que c'est ?<end>
 
 =>a24_original
 Steve.<end>
@@ -184,7 +184,7 @@ Pyrite ? Mais la pyrite est dorée, alors que...<end>
 No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
 
 =>a28
-Non, pas pyrite l'or de l'insensé, mais *pirate* le hors-la-loi diabolique qui navigue sur les voies navigables sur une quête éternelle pour le butin fin.<end>
+Non, pas pyrite l'or des fous, mais *pirate*, le hors-la-loi diablement beau qui vogue sur les voies d'eau en quête éternelle de beau butin.<end>
 
 =>q29_original
 ::He looks at the spike, clearly confused.:: 
@@ -192,27 +192,27 @@ Non, pas pyrite l'or de l'insensé, mais *pirate* le hors-la-loi diabolique qui 
 Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
 
 =>q29
-::Il regarde le pic, clairement confus.::
+::Il regarde la pointe, clairement perdu.::
 
-Attendez... ::Il l'élève au niveau des yeux.:: c'était un pirate ?<end>
+Attendez, attendez, attendez... *Ça*... ::Il la lève à hauteur des yeux.:: ça, c'était un pirate ?<end>
 
 =>a30_original
 Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
 
 =>a30
-Oui. Le gars que j'ai cassé cette pièce avait été entièrement solidifié par ce que je pense être une sorte de force psionique.<end>
+Oui. Le type à qui j'ai cassé ce morceau avait été entièrement solidifié par ce que je crois être une sorte de force psionique.<end>
 
 =>q31_original
 Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
 
 =>q31
-Je vois de quoi il s'agit. Les psys sont toujours une possibilité...<end>
+Ah, je vois de quoi il s'agit. Hm, bon, le psi reste toujours une possibilité...<end>
 
 =>a32_original
 I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
 
 =>a32
-J'ai fait analyser ça et je l'ai découvert en carbone pur. Je me demandais si vous pouviez m'expliquer comment cette transformation de la chair à *ça* aurait pu avoir lieu.<end>
+Je l'ai fait analyser : c'est du carbone pur. Je me demandais si vous pouviez m'expliquer comment cette transformation, de la chair à *ça*, a pu se produire.<end>
 
 =>q33_original
 Pyrolysis.<end>
@@ -224,49 +224,49 @@ Pyrolyse.<end>
 ::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
 
 =>a34
-::[Chemistry]:: Pyrolyse, comme dans la décomposition des matériaux à haute température?<end>
+::[Chemistry]:: Pyrolyse, comme dans la décomposition des matériaux à haute température ?<end>
 
 =>q35_original
 In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
 
 =>q35
-Dans une atmosphère *inert*. C'est le plus important. Parce que sinon c'est juste une bonne brûlure.<end>
+Dans une atmosphère *inerte*. C'est le point important. Parce que sinon, ce n'est que la bonne vieille combustion.<end>
 
 =>q36_original
 If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
 
 =>q36
-Si vous traitez thermiquement un matériau organique - à base de carbone - dans une atmosphère inerte, l'absence de gaz réactifs permet au matériau de subir une séparation physique et chimique en différentes molécules. C'est ainsi que vous obtenez des choses comme... hm, biochar, par exemple. Dans le cas le plus extrême de la pyrolyse, appelée carbonisation, le résultat final est principalement le carbone.<end>
+Si vous traitez thermiquement un matériau organique - à base de carbone - dans une atmosphère inerte, l'absence de gaz réactifs lui permet de se séparer, physiquement et chimiquement, en molécules différentes. C'est comme ça qu'on obtient des choses comme... hm, du biochar, par exemple. Dans le cas le plus extrême de pyrolyse, la carbonisation, le résultat final est surtout du carbone.<end>
 
 =>q37_original
 Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
 
 =>q37
-En regardant l'échantillon que vous m'avez apporté ici, je dirais que c'est exactement ce qui est arrivé à l'homme dont il faisait partie. Je ne suis pas géologue, mais les allotropes de carbone - des formes différentes dans lesquelles un élément peut exister - produits naturellement par haute pression sont des choses comme le diamant ou le graphite, dont ce dernier est formé en couches très minces et faciles à ciser.<end>
+En regardant l'échantillon que vous m'avez apporté, je dirais que c'est exactement ce qui est arrivé à l'homme dont ça faisait partie. Je ne suis pas géologue, mais les allotropes du carbone - les formes différentes qu'un élément peut prendre - produits naturellement sous haute pression, ce sont des choses comme le diamant ou le graphite, ce dernier en couches très minces, faciles à cliver.<end>
 
 =>q38_original
 As you've noticed yourself, hm, here that is not the case, as <end>
 
 =>q38
-Comme vous avez remarqué vous-même, hm, ici ce n'est pas le cas, comme <end>
+Comme vous l'avez remarqué vous-même, hm, ce n'est pas le cas ici, car <end>
 
 =>q39_original
 the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
 
 =>q39
-les couches sont fusionnées de manière inégale, ce qui rend l'origine naturelle improbable. Non, non... plus j'y pense, plus je suis convaincu que ce n'est qu'un morceau de carbone pyrolytique étrangement en forme - semblable au graphite, mais artificiel et imparfait.<end>
+les couches sont fusionnées de façon irrégulière ; ça rend une origine naturelle improbable. Non, non... plus j'y pense, plus je suis convaincu que ce n'est qu'un morceau de carbone pyrolytique de forme bizarre - proche du graphite, mais artificiel et imparfait.<end>
 
 =>a40_original
 To be honest, Quinton, I haven't expected such an extensive answer.<end>
 
 =>a40
-Pour être honnête, Quinton, je ne m'attendais pas à une réponse aussi complète.<end>
+Pour être honnête, Quinton, je ne m'attendais pas à une réponse aussi poussée.<end>
 
 =>q41_original
 I've performed the procedure in the past, so I know a thing or two about it.<end>
 
 =>q41
-J'ai fait la procédure dans le passé, donc je sais quelque chose.<end>
+J'ai déjà fait la procédure, donc j'y connais un rayon.<end>
 
 =>a42_original
 But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
@@ -278,61 +278,61 @@ Mais si j'ai bien compris, la pyrolyse ne fonctionne qu'en l'absence d'oxygène.
 Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
 
 =>q43
-Alors la force psionique que vous soupçonnez... n'impliquait pas l'oxygène. Puis-je vous demander où vous avez trouvé cet homme carbonisé ?<end>
+Alors la force psionique que vous soupçonnez... n'a pas impliqué d'oxygène. Puis-je vous demander où vous avez trouvé cet homme carbonisé ?<end>
 
 =>a44_original
 He struck a psi monolith with a mining pick.<end>
 
 =>a44
-Il a frappé un monolithe avec un pic minier.<end>
+Il a frappé un monolithe psi avec un pic de mineur.<end>
 
 =>q45_original
 A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
 
 =>q45
-Un monolithe psi ? J'ai entendu parler de piliers étranges qui détiennent de grands pouvoirs psioniques en eux. Je n'en ai jamais vu moi-même.<end>
+Un monolithe psi ? J'ai entendu parler de piliers étranges qui renferment de grands pouvoirs psioniques. Je n'en ai jamais vu un moi-même, en revanche.<end>
 
 =>a46_original
 This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
 
 =>a46
-Celui-ci est à l'entrée du Black Sea. Grande structure angulaire et brillante dont la présence fausse la perception. Difficile à décrire.<end>
+Celui-ci est à l'entrée du Black Sea. Une structure haute, anguleuse, brillante, dont la présence tord la perception. Difficile à décrire.<end>
 
 =>q47_original
 I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
 
 =>q47
-Je ne peux que l'imaginer. Vous savez, je ne voudrais pas que vous me parliez de ces monolithes quand vous en avez le temps, comme vous semblez savoir quelques choses sur eux. Plus que moi, c'est certain.<end>
+Je ne peux que l'imaginer. Vous savez, ça ne me dérangerait pas que vous me parliez de ces monolithes quand vous aurez le temps : vous avez l'air d'en savoir pas mal. Plus que moi, c'est sûr.<end>
 
 =>a48_original
 Sure. Now, where were we...<end>
 
 =>a48
-Bien sûr. Où en étions-nous ?<end>
+Bien sûr. Où en étions-nous...<end>
 
 =>q49_original
 Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
 
 =>q49
-Carbonisation, oui. Donc apparemment, quand il - le pirate - a frappé le monolithe, il a déclenché une sorte de force psionique qui l'a carbonisé indépendamment de l'atmosphère environnante, probablement en un instant. <end>
+Carbonisation, oui. Donc apparemment, quand il - le pirate - a frappé le monolithe, il a libéré une sorte de force psionique qui l'a carbonisé sans tenir compte de l'atmosphère autour, très probablement en un instant. <end>
 
 =>q50_original
 Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
 
 =>q50
-Regarder l'échantillon et fonder mon hypothèse sur ce que vous m'avez dit, ça semble être l'explication la plus plausible.<end>
+À regarder l'échantillon et à fonder mon hypothèse sur ce que vous m'avez dit, ça me semble l'explication la plus plausible.<end>
 
 =>a51_original
 This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
 
 =>a51
-Cela explique quelques choses. Merci beaucoup, Quinton. J'apprécie.<end>
+Ça explique pas mal de choses. Merci beaucoup, Quinton. J'apprécie.<end>
 
 =>q52_original
 Any time, $(context.player.Name). <end>
 
 =>q52
-A tout moment, $(context.player.Name). <end>
+Quand vous voulez, $(context.player.Name). <end>
 
 =>q53_original
 You sure bring me interesting things to study. <end>
@@ -356,25 +356,25 @@ Vous aviez besoin d'autre chose ?<end>
 That was all I needed to know. Thanks.<end>
 
 =>a56
-C'était tout ce que j'avais besoin de savoir. C'est gentil.<end>
+C'était tout ce que je voulais savoir. Merci.<end>
 
 =>a57_original
 I see. I have no further questions. Gotta run.<end>
 
 =>a57
-Je vois. Je n'ai pas d'autres questions. Je dois courir.<end>
+Compris. Plus de questions. Je dois y aller.<end>
 
 =>q58_original
 See you around, $(context.player.Name). <end>
 
 =>q58
-A bientôt, $(context.player.Name). <end>
+À bientôt, $(context.player.Name). <end>
 
 =>a59_original
 ::Nod.:: Now, we were...<end>
 
 =>a59
-::Hocher la tête.:: Nous étions...<end>
+::Hocher la tête.:: Alors, on en était...<end>
 
 =>a60_original
 I'm sorry, but I can't tell you.<end>
@@ -386,19 +386,19 @@ Je suis désolé, mais je ne peux pas vous le dire.<end>
 Hm. Then there’s not much more I can tell you. <end>
 
 =>q61
-Hm. Je ne peux pas vous en dire plus. <end>
+Hm. Dans ce cas, je ne peux pas vous en dire beaucoup plus. <end>
 
 =>q62_original
 The bottom line is, this man was somehow instantly carbonized. <end>
 
 =>q62
-En fin de compte, cet homme a été instantanément carbonisé. <end>
+Le fond du problème, c'est que cet homme a été carbonisé sur le coup. <end>
 
 =>a63_original
 I just found him in some cave.<end>
 
 =>a63
-Je l'ai trouvé dans une grotte.<end>
+Je l'ai simplement trouvé dans une grotte.<end>
 
 =>a64_original
 You may not.<end>
@@ -410,25 +410,25 @@ Vous ne pouvez pas.<end>
 Here, <end>
 
 =>q65
-Ici, <end>
+Tenez, <end>
 
 =>a66_original
 What is pyrolysis?<end>
 
 =>a66
-Qu'est-ce que la pyrolyse?<end>
+Qu'est-ce que la pyrolyse ?<end>
 
 =>q67_original
 Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
 
 =>q67
-La pyrolyse est un processus de composition thermique des matières organiques dans une atmosphère inerte, ce qui signifie qu'elle est effectuée soit dans un vide, soit en utilisant un gaz inerte au lieu d'oxygène.<end>
+La pyrolyse est un processus de décomposition thermique des matières organiques dans une atmosphère inerte : on la fait soit sous vide, soit avec un gaz inerte à la place de l'oxygène.<end>
 
 =>a68_original
 ::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
 
 =>a68
-::[Chemistry]:: Pour moi, ça ressemble à une sorte de graphite : Il a cette sensation slick au toucher et une structure en couches si vous regardez l'endroit où je l'ai cassé, mais comme vous pouvez probablement dire que les couches sont fusionnées dans beaucoup d'endroits, et le matériau n'est clairement pas aussi fragile que le graphite.<end>
+::[Chemistry]:: Pour moi, ça ressemble à une sorte de graphite : ça a ce toucher lisse, et une structure en couches si vous regardez là où je l'ai cassé, mais comme vous le voyez sans doute, les couches sont fusionnées à beaucoup d'endroits, et le matériau n'est clairement pas aussi cassant que le graphite.<end>
 
 =>q69_original
 Yes, yes, I can see that. <end>
@@ -440,7 +440,7 @@ Oui, je vois ça. <end>
 ::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
 
 =>q70
-::Il inspecte soigneusement l'échantillon.:: Hm. Tu sais ce que ça me rappelle ? Ça me rappelle quelque chose que tu obtiendrais à cause de la pyrolyse.<end>
+::Il inspecte soigneusement l'échantillon.:: Hm. Vous savez ce que ça me rappelle ? Ça me rappelle ce qu'on obtient par pyrolyse.<end>
 
 =>a71_original
 So what do you reckon?<end>
@@ -452,13 +452,13 @@ Alors, qu'en pensez-vous ?<end>
 No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
 
 =>a72
-Non, non pas pyrite l'or de l'idiot, mais *pirate * le bandit d'eau sale et puant qui pollue les voies navigables par sa simple présence.<end>
+Non, pas pyrite l'or des fous, mais *pirate*, le bandit d'eau sale et puant qui pollue les voies d'eau rien qu'en existant.<end>
 
 =>a73_original
 No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
 
 =>a73
-Non, pas de pyrite de l'or de l'idiot, mais de pirate de la personne qui vole les ferries.<end>
+Non, pas pyrite l'or des fous, mais *pirate*, le type qui dévalise les ferries.<end>
 
 =>a74_original
 A pirate.<end>
@@ -470,7 +470,7 @@ Un pirate.<end>
 I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
 
 =>a75
-J'ai besoin de quelqu'un pour fournir un ami avec certaines plantes et champignons. Son nom est Dude et il va même le récupérer lui-même pour que vous n'ayez pas à l'expédier nulle part.<end>
+J'ai besoin de quelqu'un pour fournir à un ami certaines plantes et certains champignons. Il s'appelle Dude, et il viendra même les chercher lui-même : vous n'aurez rien à expédier.<end>
 
 =>q76_original
 Hm. What mushrooms and plants?<end>
@@ -482,31 +482,31 @@ Hm. Quels champignons et plantes ?<end>
 Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
 
 =>a77
-Mindshrooms, rêves rouges et coquelicots du lac. Il nous en faut beaucoup. Plus vous en avez, mieux c'est.<end>
+Des mindshrooms, des Red Dream et des coquelicots du lac. Il nous en faut beaucoup. Plus vous en avez, mieux c'est.<end>
 
 =>q78_original
 We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
 
 =>q78
-Nous avons beaucoup à épargner, heureusement. On peut faire un marché. Pour quoi faire, si je peux me permettre ?<end>
+On en a largement de reste, heureusement. On peut s'arranger. C'est pour quoi, si je peux me permettre ?<end>
 
 =>a79_original
 ::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
 
 =>a79
-::[Persuade] ou [Mercantile]:: Il démarre une petite brasserie à Core City et essaie de créer de nouveaux types intéressants de brasserie. Si vous pouvez lui fournir assez de matériel, son entreprise est vouée à croître, entraînant des profits plus élevés pour *tout le monde* impliqué.<end>
+::[Persuade] or [Mercantile]:: Il monte une petite brasserie à Core City et cherche à créer des cuvées nouvelles, intéressantes. Si vous pouvez lui fournir assez de matière, son affaire ne peut que grandir, et les profits aussi, pour *tout le monde* autour.<end>
 
 =>q80_original
 I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
 
 =>q80
-J'ai assisté à plus d'une brasserie à cause d'entreprises risquées comme celle que vous décrivez.<end>
+J'ai vu plus d'une brasserie couler à cause de paris aussi risqués que celui que vous décrivez.<end>
 
 =>a81_original
 Dude is special. What he can do no one else can.<end>
 
 =>a81
-Dude est spécial. Ce qu'il peut faire à personne d'autre.<end>
+Dude est à part. Ce qu'il sait faire, personne d'autre ne le sait.<end>
 
 =>q82_original
 Heard that before... ::He pauses.:: ...but then again...
@@ -514,9 +514,9 @@ Heard that before... ::He pauses.:: ...but then again...
 Alright. You've convinced me. I'll make sure he gets what he needs.<end>
 
 =>q82
-J'ai entendu ça avant... ::Il fait une pause.::... mais encore une fois...
+J'ai déjà entendu ça... ::Il fait une pause.:: ...mais d'un autre côté...
 
-Très bien. Vous m'avez convaincu. Je m'assurerai qu'il ait ce dont il a besoin.<end>
+Très bien. Vous m'avez convaincu. Je ferai en sorte qu'il ait ce qu'il lui faut.<end>
 
 =>q83_original
 Now... <end>
@@ -534,13 +534,13 @@ Paiement ?<end>
 Upon pickup. You iron out the details with him.<end>
 
 =>a85
-Au ramassage. Tu as réglé les détails avec lui.<end>
+Au retrait. Vous réglez les détails avec lui.<end>
 
 =>q86_original
 Acceptable. Tell your friend we have a deal.<end>
 
 =>q86
-Acceptable. Dites à votre ami qu'on a un marché.<end>
+Acceptable. Dites à votre ami qu'on a un accord.<end>
 
 =>a87_original
 Alright. You'll hear from him soon.<end>
@@ -564,13 +564,13 @@ Hm. J'ai déjà entendu ça. <end>
 He's making a potion that when drank allow one to travel through rifts in reality.<end>
 
 =>a90
-Il fait une potion qui, lorsqu'on est bu, permet à quelqu'un de traverser des failles en réalité.<end>
+Il prépare une potion qui, une fois bue, permet de voyager à travers des failles de la réalité.<end>
 
 =>q91_original
 ::He stares at you blankly.::<end>
 
 =>q91
-::Il te regarde à blanc.::<end>
+::Il vous fixe, l'air vide.::<end>
 
 =>a92_original
 Just kidding.<end>
@@ -582,13 +582,13 @@ C'est une blague.<end>
 Hm.<end>
 
 =>q93
-Hum.<end>
+Hm.<end>
 
 =>a94_original
 It's not psychedelic drugs, let me tell you that.<end>
 
 =>a94
-Ce ne sont pas des médicaments psychédéliques, laissez-moi vous dire ça.<end>
+Ce n'est pas de la drogue psychédélique, je peux vous le dire.<end>
 
 =>a95_original
 It's for his... medicine. Yes.<end>
@@ -600,7 +600,7 @@ C'est pour ses... médicaments. Oui.<end>
 Can you help me or not?<end>
 
 =>a96
-Tu peux m'aider ou pas ?<end>
+Vous pouvez m'aider, ou pas ?<end>
 
 =>a97_original
 You may not.<end>
@@ -612,7 +612,7 @@ Vous ne pouvez pas.<end>
 About those mine creatures from Foundry...<end>
 
 =>a98
-A propos de ces créatures de Foundry...<end>
+À propos de ces créatures de Foundry...<end>
 
 =>q99_original
 Ah, yes. I'm listening.<end>
@@ -630,79 +630,79 @@ Ah, oui. J'écoute.<end>
 There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
 
 =>a101
-Il y a ces créatures quadrupèdes très agressives, le plus facilement reconnaissables par les coquilles faites de roche avec des lames métalliques qui sortent de leur dos. Tu as déjà vu quelque chose comme ça ?<end>
+Il y a ces créatures quadrupèdes très agressives, faciles à reconnaître : une carapace de roche, avec des lames métalliques qui sortent du dos. Vous avez déjà vu quelque chose comme ça ?<end>
 
 =>q102_original
 Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
 
 =>q102
-Hm. Jamais, mais ça semble vraiment intrigant. Je m'en souviendrais, c'est sûr.<end>
+Hm. Jamais, mais ça a l'air vraiment intrigant. Je m'en souviendrais, ça c'est sûr.<end>
 
 =>q103_original
 If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
 
 =>q103
-Si vous pouviez m'apporter une partie de la créature, ou un spécimen vivant, alors je serais plus qu'heureux de partager tout ce que j'apprendrai avec vous.<end>
+Si vous pouviez m'apporter un morceau de la créature, ou un spécimen vivant, je serais plus qu'heureux de partager tout ce que j'apprendrai.<end>
 
 =>a104_original
 There are these worm-like things, with weird heads shaped like small drills.<end>
 
 =>a104
-Il y a ces choses comme des vers, avec des têtes bizarres en forme de petits exercices.<end>
+Il y a ces trucs comme des vers, avec des têtes bizarres en forme de petites foreuses.<end>
 
 =>q105_original
 Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
 
 =>q105
-Des exercices ? J'ai vu une bonne partie d'êtres bizarres, mais un avec un exercice pour la tête ? Jamais de ma vie !<end>
+Des foreuses ? J'ai vu mon lot d'êtres bizarres, mais un avec une foreuse à la place de la tête ? Jamais de ma vie !<end>
 
 =>q106_original
 Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
 
 =>q106
-Pouvez-vous en prendre un, si c'est possible ? J'adorerais jeter un oeil à la créature, et tu as aussi besoin de réponses, sinon tu ne me parlerais pas, hein ?<end>
+Vous pourriez en attraper un, si c'est possible ? J'adorerais jeter un œil à la créature, et vous aussi vous avez besoin de réponses, sinon vous ne me parleriez pas, hm ?<end>
 
 =>a107_original
 I have a piece of the rock creature.<end>
 
 =>a107
-J'ai un morceau de la créature rock.<end>
+J'ai un morceau de la créature de roche.<end>
 
 =>q108_original
 Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
 
 =>q108
-Laisse-moi voir. ::Quinton inspecte la pièce que vous lui avez donnée.:: fascinant ! Comme si vous l'aviez détaché d'une machine et, et non d'une créature vivante, qui respire. Ça vient de son dos, non ? C'est ce que tu as dit ?<end>
+Hm, voyons voir. ::Quinton inspecte le morceau que vous lui avez donné.:: Fascinant ! On dirait que vous avez détaché ça d'une machine, pas d'une créature vivante qui respire. Ça vient de son dos, c'est ça ? C'est ce que vous avez dit ?<end>
 
 =>a109_original
 ::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
 
 =>a109
-::[Biology]:: Oui. À en juger par le placement, leur fonction est purement défensive; quelques-uns d'entre eux pourraient être trouvés sur la queue, mais compte tenu de sa courtesse, je doute de son efficacité en tant qu'arme offensive.<end>
+::[Biology]:: Oui. Vu leur emplacement, leur fonction est purement défensive ; on en trouve peut-être quelques-unes sur la queue, mais elle est si courte que je doute de son efficacité comme arme offensive.<end>
 
 =>q110_original
 Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
 
 =>q110
-Oui, oui. Mais, avez-vous des informations sur ses prédateurs, le cas échéant ? Quel genre de prédateur faudrait-il pour qu'une créature développe ces mécanismes de défense sans précédent? Qu'est-ce qui mange une créature enfermée dans une coquille de roche et est couverte de pics métalliques, hm?<end>
+Oui, oui. Mais vous avez des infos sur ses prédateurs, s'il y en a ? Quel genre de prédateur faudrait-il pour qu'une créature développe des défenses aussi inédites ? Qu'est-ce qui mange une créature enfermée dans une carapace de roche et couverte de piques de métal, hm ?<end>
 
 =>a111_original
 ::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
 
 =>a111
-::[Intelligence]:: Et s'ils n'ont pas évolué naturellement ? Et s'ils étaient choisis artificiellement dans un but? Sans dire qu'ils n'ont pas de prédateur, mais peut-être que nous regardons ça sous un mauvais angle.<end>
+::[Intelligence]:: Et s'ils n'ont pas évolué naturellement ? Et s'ils ont été sélectionnés artificiellement, dans un but ? Je ne dis pas qu'ils n'ont pas de prédateur, mais on regarde peut-être ça sous le mauvais angle.<end>
 
 =>q112_original
 That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
 
 =>q112
-C'est une possibilité. ::Il se tait soudain, son esprit se retirait dans une pensée profonde.::<end>
+C'est... hm, c'est une possibilité. ::Il se tait d'un coup, l'esprit parti très loin.::<end>
 
 =>q113_original
 ::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
 
 =>q113
-::Il revient bientôt.:: Mais pourquoi et par qui... Biocorp ? Je veux dire... ::Il soupire.:: Tu sais, je préfère ne pas aller là-dedans maintenant, car nous serions dans des spéculations sérieuses et je ne pense pas que nous ayons beaucoup d'informations. Sauf si... nous le faisons. Tu sais autre chose ?<end>
+::Il revient assez vite.:: Mais pourquoi, et par qui... Biocorp ? Je veux dire... ::Il soupire.:: Vous savez, je préférerais ne pas m'y lancer maintenant : on partirait dans de vraies spéculations, et je ne crois pas qu'on ait beaucoup d'infos. Sauf si... on en a. Vous savez autre chose ?<end>
 
 =>a114_original
 Not really.<end>
@@ -714,7 +714,7 @@ Pas vraiment.<end>
 ::He nods.:: How about we take a look at what we have before us, hm?<end>
 
 =>q115
-::Il acquiesce.:: Et si on regardait ce qu'on a devant nous ?<end>
+::Il hoche la tête.:: Et si on regardait ce qu'on a sous les yeux, hm ?<end>
 
 =>q116_original
 Well, <end>
@@ -726,13 +726,13 @@ Et bien, <end>
 this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
 
 =>q117
-Voici ce que je peux vous dire sur la créature en regardant ceci: Donc, ils ont un but principalement défensif, comme nous l'avons dit. Maintenant, je ne vois pas de cavités ou de canaux pour les nerfs ou les vaisseaux sanguins à traverser, ou pour accueillir toute sorte de matière organique. Pour illustrer ce que je veux dire, je prendrai nos propres os comme exemple : Nous cultivons nos os par un processus appelé ossification. Tu sais ce que c'est ?<end>
+voilà ce que je peux vous dire sur la créature rien qu'en regardant ça : donc, elles ont un rôle surtout défensif, comme on l'a dit. Maintenant, je ne vois ni cavité ni canal pour des nerfs ou des vaisseaux, ni rien qui puisse loger de la matière organique. Pour illustrer, je prends nos propres os : on les forme par un processus appelé ossification. Vous savez ce que c'est ?<end>
 
 =>a118_original
 ::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
 
 =>a118
-::[Biology]:: Oui, les cellules spécialisées produisent du calcium qui synthétise les os.<end>
+::[Biology]:: Oui, des cellules spécialisées produisent du calcium qui synthétise l'os.<end>
 
 =>q119_original
 Exactly. <end>
@@ -744,25 +744,25 @@ Exactement. <end>
 Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
 
 =>q120
-Maintenant, le tissu osseux est généralement composé d'une matrice minérale qui contient ces cellules, et les os eux-mêmes sont composés d'environ 70% de contenu minéral. Cette lame ici, c'est un morceau de métal solide. Aucune matière organique, aucune porosité et aucune trace que cela soit né d'un être vivant.<end>
+Le tissu osseux est en général une matrice minérale qui contient ces cellules, et les os eux-mêmes font environ soixante-dix pour cent de minéral. Cette lame, ici, c'est un seul morceau de métal massif. Pas de matière organique, pas de porosité, aucune trace que ça soit sorti d'un être vivant.<end>
 
 =>a121_original
 How does it grow then?<end>
 
 =>a121
-Comment ça grandit alors ?<end>
+Alors ça pousse comment ?<end>
 
 =>q122_original
 Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
 
 =>q122
-Je ne sais pas. L'émail de dent, par exemple, est presque entièrement en hydroxylapatite - une sorte de phosphate de calcium, le reste étant de l'eau et un soupçon de matière organique. L'émanel est formé à l'intérieur des gencives, avant que la dent ne s'élargisse, de sorte qu'il est possible que cette lame se forme à l'intérieur de la coquille et qu'elle se développe plus tard. Mais comment... Je ne sais pas. Pour l'instant, je ne peux que faire des spéculations.<end>
+Hm, ça je ne sais pas. L'émail dentaire, par exemple, est presque entièrement de l'hydroxyapatite - une sorte de phosphate de calcium, le reste étant de l'eau et une trace de matière organique. L'émail se forme dans la gencive, avant que la dent ne sorte, donc il se peut que cette lame se forme dans la carapace et pousse ensuite. Mais comment... je ne sais pas. Pour l'instant, je ne peux que spéculer.<end>
 
 =>q123_original
 Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
 
 =>q123
-Tiens, reprend cette lame. Si vous voulez tester sa composition, mieux vaut faire cela par quelqu'un, bien, quelqu'un qui n'est pas un biologiste, c'est sûr. ::Un sourire lève légèrement son masque.:: Si vous pouvez m'apporter une autre partie de la créature, ou un spécimen vivant, alors nous avons un gagnant. Mais je suis désolé. C'est fascinant, en tout cas.<end>
+Tenez, reprenez cette lame. Si vous voulez tester sa composition, mieux vaut le faire faire par quelqu'un... enfin, quelqu'un qui n'est pas biologiste, ça c'est sûr. ::Un sourire soulève un peu son masque.:: Si vous pouvez m'apporter un autre morceau de la créature, ou un spécimen vivant, là on tient quelque chose. Mais ça... je suis désolé. C'est fascinant, en tout cas.<end>
 
 =>a124_original
 I've captured one of these worms.<end>
@@ -774,13 +774,13 @@ J'ai capturé un de ces vers.<end>
 ::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
 
 =>q125
-::Quinton inspecte la créature pendant qu'elle s'écume dans la caisse. Dès qu'il l'a repéré, la créature commence à s'arrêter ocassionnellement pour viser sa tête contre lui et grincer dans un acte d'intimidation désespéré.:: Voilà de quoi je parle ! J'aimerais y jeter un oeil. Quelque chose que je devrais savoir avant d'ouvrir la caisse ? C'est dangereux ?<end>
+::Quinton inspecte la créature qui se tord dans la caisse. Dès qu'elle le voit, elle se met à gigoter, s'arrêtant de temps en temps pour viser sa tête vers lui et pousser un cri d'intimidation désespéré.:: Voilà ce que je veux dire ! J'aimerais y jeter un œil. Quelque chose que je devrais savoir avant d'ouvrir la caisse ? Elle est dangereuse, à quel point ?<end>
 
 =>a126_original
 You've got nothing to worry about. I handled it with my bare hands.<end>
 
 =>a126
-Tu n'as pas à t'inquiéter. Je m'en suis occupé à mains nues.<end>
+Vous n'avez rien à craindre. Je l'ai tenue à mains nues.<end>
 
 =>q127_original
 ::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
@@ -788,39 +788,39 @@ Tu n'as pas à t'inquiéter. Je m'en suis occupé à mains nues.<end>
 Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
 
 =>q127
-::Il saisit soigneusement la créature, la tenant fermement pendant qu'elle se déchire dans ses mains. Il le regarde bien, charmé par son étrangeté et sa forme extraterrestre, avant de se tourner vers vous.::
+::Il saisit la créature avec précaution, la tenant fermement pendant qu'elle se tortille dans ses mains. Il la regarde bien, charmé par son étrangeté et sa forme alien, avant de se tourner vers vous.::
 
-Attendez que je l'examine. Ça ne prendra pas longtemps. ::La créature fait soudain quelques mouvements puissants, lançant ses extrémités invisibles et agitant le haut du corps de Quinton et l'incitant même à étendre un peu ses jambes afin de maintenir un bon équilibre ; il est cependant capable de le contrôler.:: Celui-ci est un combattant !<end>
+Attendez que je l'examine. Ça ne prendra pas longtemps. ::La créature donne soudain quelques coups puissants, fouette les extrémités qu'il ne tient pas et secoue le haut du corps de Quinton, au point qu'il écarte un peu les jambes pour garder l'équilibre ; il arrive toutefois à la contrôler.:: Celle-là, c'est une battante !<end>
 
 =>a128_original
 ::Wait.::<end>
 
 =>a128
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>a129_original
 I'd be *very* cautious if I were you.<end>
 
 =>a129
-Je serais très prudent si j'étais toi.<end>
+Je serais *très* prudent, à votre place.<end>
 
 =>a130_original
 I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
 
 =>a130
-J'ai eu de la chance d'avoir un casque, sinon ça m'aurait percé le crâne.<end>
+J'ai eu de la chance d'avoir un casque, sinon elle m'aurait foré le crâne.<end>
 
 =>q131_original
 ::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
 
 =>q131
-::Il vous regarde à blanc une seconde, il traite votre déclaration, mais finalement il ne mord pas.:: Tu me tires la jambe, $(context.player.Name) ?<end>
+::Il vous fixe, l'air vide, une seconde, le temps de digérer ce que vous venez de dire, mais pour finir il ne mord pas.:: Vous me faites marcher, $(context.player.Name) ?<end>
 
 =>a132_original
 I understand. I'd like to change the subject to something else.<end>
 
 =>a132
-Je comprends. J'aimerais changer le sujet en autre chose.<end>
+Je comprends. J'aimerais passer à autre chose.<end>
 
 =>q133_original
 Okay.<end>
@@ -832,7 +832,7 @@ D'accord.<end>
 I'll get going now. See you later when I learn something new.<end>
 
 =>a134
-Je vais y aller. A plus tard quand j'apprendrai quelque chose de nouveau.<end>
+Je vais y aller. On se revoit quand j'aurai appris quelque chose de neuf.<end>
 
 =>a135_original
 No, what is that?<end>
@@ -844,7 +844,7 @@ Non, c'est quoi ?<end>
 Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
 
 =>q136
-Vos os contiennent des cellules appelées ostéoblastes qui sécrètent les minéraux nécessaires pour former des os. Le processus par lequel ils le font est appelé ossification.<end>
+Vos os contiennent des cellules appelées ostéoblastes, qui sécrètent les minéraux nécessaires pour former l'os. Le processus par lequel elles le font s'appelle l'ossification.<end>
 
 =>a137_original
 Not yet.<end>
@@ -856,25 +856,25 @@ Pas encore.<end>
 I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
 
 =>a138
-Je n'ai vu aucun prédateur, ni aucun signe. Et s'ils sont au sommet de la chaîne alimentaire ?<end>
+Je n'ai vu aucun prédateur, ni le moindre signe. Et s'ils sont au sommet de la chaîne alimentaire ?<end>
 
 =>q139_original
 If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
 
 =>q139
-S'il s'agit de champignons, alors peut-être, comme il serait difficile d'imaginer des créatures de ce poids - et elles doivent être lourdes, construites comme ça - pourchasser ou embusquer leurs proies. La sélection naturelle ne les favoriserait pas, je ne pense pas. Mais encore une fois, pourquoi la coquille ? Les lames ?<end>
+S'ils sont fongivores, alors peut-être : difficile d'imaginer des créatures de ce poids - et elles doivent être lourdes, bâties comme ça - chasser ou tendre une embuscade. La sélection naturelle ne les favoriserait pas, je ne crois pas. Mais encore une fois, pourquoi la carapace ? Les lames ?<end>
 
 =>q140_original
 I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
 
 =>q140
-Je veux dire, ça pourrait être un moyen d'attirer les femmes, car utiliser de vastes ressources pour impressionner quelqu'un n'est pas rare dans le monde animal... ou le monde humain, mais... C'est encore trop loin. Non, ne pensez pas que c'est le cas ici.<end>
+Je veux dire, ça pourrait servir à attirer les femelles : dépenser des ressources énormes pour impressionner n'est pas rare dans le monde animal... ni chez les humains, mais... C'est encore un peu trop tiré par les cheveux. Non, je ne crois pas que ce soit ça.<end>
 
 =>q141_original
 Hm. Back to the blade *in* hand. Well, <end>
 
 =>q141
-Hm. Retour à la lame dans la main. Et bien, <end>
+Hm. Revenons à la lame *en* main. Bon, <end>
 
 =>a142_original
 That I don't know.<end>
@@ -898,7 +898,7 @@ Hm. Et bien, <end>
 this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
 
 =>q145
-C'est ce que je peux vous dire à propos de la créature en regardant ceci: Considérant que vous m'avez dit que les lames poussent hors de son dos, je peux deviner qu'il sert un but défensif. Je ne vois pas de cavités ou de canaux pour les nerfs ou les vaisseaux sanguins à traverser, ou pour accueillir tout type de matière organique. Pour illustrer ce que je veux dire, je prendrai nos propres os comme exemple : Nous cultivons nos os par un processus appelé ossification. Tu sais ce que c'est ?<end>
+voilà ce que je peux vous dire sur la créature rien qu'en regardant ça : vu que vous m'avez dit que les lames poussent dans son dos, je devine un rôle défensif. Je ne vois ni cavité ni canal pour des nerfs ou des vaisseaux, ni rien qui puisse loger de la matière organique. Pour illustrer, je prends nos propres os : on les forme par un processus appelé ossification. Vous savez ce que c'est ?<end>
 
 =>a146_original
 On the other hand, let's discuss something else.<end>
@@ -910,7 +910,7 @@ D'un autre côté, parlons d'autre chose.<end>
 I'd like to have a certain substance tested.<end>
 
 =>a147
-J'aimerais faire tester une certaine substance.<end>
+J'aimerais faire analyser une substance.<end>
 
 =>q148_original
 ::He slowly turns around.:: Hm?<end>
@@ -922,19 +922,19 @@ J'aimerais faire tester une certaine substance.<end>
 It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
 
 =>a149
-C'est une sorte de drogue de combat appelée Hercules. J'ai une raison de croire que ça pourrait être très dangereux pour les humains.<end>
+C'est une sorte de drogue de combat, Hercules. J'ai des raisons de croire qu'elle peut être très nocive pour l'humain.<end>
 
 =>q150_original
 You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
 
 =>q150
-Vous devriez l'emmener à Pasquale alors. Il peut faire des tests et vous dire exactement quels sont ses effets sur le corps humain.<end>
+Vous devriez l'emmener à Pasquale, alors. Il peut faire des tests et vous dire exactement ce qu'elle fait au corps humain.<end>
 
 =>a151_original
 Thanks for the info. Goodbye.<end>
 
 =>a151
-Merci pour les infos. Au revoir.<end>
+Merci pour l'info. Au revoir.<end>
 
 =>q152_original
 ::He nods and returns to his work.::<end>
@@ -946,13 +946,13 @@ Merci pour les infos. Au revoir.<end>
 I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
 
 =>a153
-Je voulais vous poser des questions sur des créatures étranges qui plaguent Foundry en ce moment. Je pensais que tu savais quelque chose.<end>
+Je voulais vous interroger sur des créatures bizarres qui infestent Foundry en ce moment. Je me disais que vous en sauriez quelque chose.<end>
 
 =>q154_original
 Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
 
 =>q154
-Foundry ? Bien sûr. Pouvez-vous me décrire ces créatures ?<end>
+Foundry ? Hm, bien sûr, bien sûr. Vous pouvez me les décrire ?<end>
 
 =>a155_original
 What do you know about Patrick Pierce's death?<end>
@@ -964,37 +964,37 @@ Que savez-vous de la mort de Patrick Pierce ?<end>
 Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
 
 =>q156
-Quoi ? Patrick ? C'était une crise cardiaque ? J'avais oublié. Je me souviens de tout ça. C'était une crise cardiaque ou... Je ne m'en souviens pas. C'est arrivé il y a deux mois. Je ne vois pas pourquoi c'est important.<end>
+Hm ? Patrick ? C'était une crise cardiaque ? J'ai oublié. Je me souviens de tout le tapage autour. C'était une crise cardiaque, ou... Hm, plus moyen. Ça s'est passé il y a deux mois. Je ne vois pas pourquoi ce serait important, de toute façon.<end>
 
 =>a157_original
 Can you tell me what was he like as a person?<end>
 
 =>a157
-Pouvez-vous me dire comment était-il en tant que personne ?<end>
+Vous pouvez me dire comment il était, comme personne ?<end>
 
 =>q158_original
 He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
 
 =>q158
-C'était un gars amical, accessible. Nous étions un autre genre de personnes: Il serait plus avec des gens comme Harold ou Wayne que moi ou Bret, par exemple. Mais il était poli et on parlait de temps en temps.<end>
+C'était un type amical, abordable. On n'était pas du même monde : il traînait plutôt avec des gens comme Harold ou Wayne qu'avec moi ou Bret, par exemple. Mais il était poli, et on bavardait de temps en temps.<end>
 
 =>q159_original
 Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
 
 =>q159
-Bien que, juste avant sa mort, Bret se plaignait de quelques chauffages qu'il installait dans les trémies. Il a dit qu'il avait fait un sale boulot. C'était vrai, les pauvres trémies allaient mourir de surchauffe. Bret est devenu fou et je le comprends parfaitement. J'ai même parlé à Patrick de toute la situation.<end>
+Cela dit, juste avant sa mort, Bret se plaignait des chauffages qu'il installait dans les enclos à sauteurs. Il disait que c'était du travail bâclé. C'était vrai : les pauvres sauteurs allaient crever de chaud. Bret s'est mis... un *peu* en rogne, et je le comprends tout à fait. J'en ai même parlé une fois à Patrick.<end>
 
 =>a160_original
 I managed to run out of putrefying bolts. Got more?<end>
 
 =>a160
-J'ai réussi à manquer de boulons putréfiants. Encore ?<end>
+Je n'ai plus de carreaux putréfiants. Vous en avez encore ?<end>
 
 =>q161_original
 ::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
 
 =>q161
-::Il acquiesce.:: Je le fais. Ça va prendre du temps avant que je fasse un autre lot, alors faites compter ces boulons, hm? ::Il vous donne 10 boulons putréfiants.:: <end>
+::Il hoche la tête.:: J'en ai. Il me faudra un moment avant d'en refaire un lot, alors faites-les compter, hm ? ::Il vous tend alors 10 carreaux putréfiants.:: <end>
 
 =>a162_original
 Before I leave...<end>
@@ -1006,49 +1006,49 @@ Avant de partir...<end>
 Yes?<end>
 
 =>q163
-Oui?<end>
+Oui ?<end>
 
 =>a164_original
 The tissue sample's as good as yours. For real this time.<end>
 
 =>a164
-L'échantillon de tissu est aussi bon que le vôtre. Pour de vrai cette fois.<end>
+L'échantillon de tissu est à vous. Pour de vrai, cette fois.<end>
 
 =>a165_original
 ::Nod and leave.::<end>
 
 =>a165
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a166_original
 What kind of creature is that?<end>
 
 =>a166
-Quel genre de créature est-ce ?<end>
+C'est quoi, comme créature ?<end>
 
 =>q167_original
 It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
 
 =>q167
-C'est un terrier. C'est une vilaine créature qui creuse, pond des œufs partout. Ils sont plus nombreux souterrains plus profonds, mais vous pouvez encore trouver quelques-uns errant le Lower Underrail et les grottes environnantes.<end>
+C'est un burrower. Une sale bête qui creuse partout et pond des œufs un peu partout. Ils sont plus nombreux plus bas, mais on en croise encore quelques-uns dans le Lower Underrail et les grottes autour.<end>
 
 =>q168_original
 If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
 
 =>q168
-Si vous en rencontrez un, soyez prudent. Il crachera des épines épaisses et dures sur vous qui sont enduites de poison.<end>
+Si vous en croisez un, faites attention. Il vous crache des épines épaisses, dures, enduites de poison.<end>
 
 =>a169_original
 What are you doing exactly?<end>
 
 =>a169
-Qu'est-ce que tu fais exactement ?<end>
+Qu'est-ce que vous faites, exactement ?<end>
 
 =>q170_original
 I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
 
 =>q170
-Je collectionne ses glandes toxiques. Nous pouvons les utiliser pour produire d'autres produits chimiques ou pour enrober des boulons arbalètes.<end>
+Je lui prélève les glandes à venin. On peut s'en servir pour produire d'autres produits chimiques, ou pour enduire des carreaux d'arbalète.<end>
 
 =>a171_original
 What's in that room over there?<end>
@@ -1060,55 +1060,55 @@ Qu'y a-t-il dans cette pièce ?<end>
 We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
 
 =>q172
-Nous y cultivons des champignons de différents types, bien sûr, plus particulièrement les salles d'esprit. Ils sont l'un des plus puissants, et certainement l'un des catalyseurs psioniques les plus sûrs. Les boosters psi largement populaires sont fabriqués à partir de cabinets, au cas où vous ne le saviez pas.<end>
+On y cultive des champignons de plusieurs sortes, bien sûr, surtout les mindshrooms. C'est l'un des catalyseurs psioniques les plus puissants, et certainement l'un des plus sûrs. Les psi boosters, très répandus, sont faits à partir de mindshrooms, au cas où vous ne le sauriez pas.<end>
 
 =>a173_original
 I'm told you can teach psionics.<end>
 
 =>a173
-On m'a dit que tu pouvais enseigner les psy.<end>
+On m'a dit que vous pouviez enseigner le psi.<end>
 
 =>q174_original
 Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
 
 =>q174
-Hm. Oui, c'est exact. Êtes-vous intéressé à apprendre peut-être?<end>
+Hm. Oui, c'est exact. Vous seriez intéressé à apprendre, peut-être ?<end>
 
 =>a175_original
 Yes. Will you teach me?<end>
 
 =>a175
-Oui. Tu vas m'apprendre ?<end>
+Oui. Vous m'apprendrez ?<end>
 
 =>q176_original
 Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
 
 =>q176
-Oui. J'ai entendu dire que tu as fortement marqué sur les tests de Tanner, donc oui, je vais t'apprendre ce que je peux.<end>
+Hmm... J'ai entendu que vous aviez très bien réussi les tests de Tanner, donc oui, je vous apprendrai ce que je peux.<end>
 
 =>q177_original
 If you perform one little task for me.<end>
 
 =>q177
-Si tu fais une petite tâche pour moi.<end>
+Si vous me rendez un petit service.<end>
 
 =>a178_original
 Which task is that?<end>
 
 =>a178
-Quelle est cette tâche ?<end>
+Quel service ?<end>
 
 =>q179_original
 You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
 
 =>q179
-Vous voyez, j'ai fait des expériences sur des rathons il y a un moment. C'était assez proche d'une percée aussi, jusqu'à... un petit accident s'est produit et Bret m'a forcé à me débarrasser des créatures. Hm.<end>
+Vous voyez, je menais des expériences sur des rathounds, il y a un moment. J'étais même assez près d'une percée, jusqu'à... un petit accident, et Bret m'a forcé à me débarrasser des bêtes. Hm.<end>
 
 =>q180_original
 Now I cannot finish the experiments. Not here anyway.<end>
 
 =>q180
-Maintenant je ne peux pas finir les expériences. Pas ici de toute façon.<end>
+Maintenant, je ne peux plus terminer les expériences. Pas ici, en tout cas.<end>
 
 =>q181_original
 <end>
@@ -1120,13 +1120,13 @@ Maintenant je ne peux pas finir les expériences. Pas ici de toute façon.<end>
 What kind of experiments were you conducting?<end>
 
 =>a182
-Quel genre d'expériences conduisiez-vous ?<end>
+Quel genre d'expériences, exactement ?<end>
 
 =>q183_original
 I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
 
 =>q183
-Je travaillais à développer une substance qui transformerait le muscle et d'autres types de tissus en un puissant engrais de champignons.<end>
+Je travaillais à une substance capable de transformer le muscle, et d'autres tissus, en un puissant engrais à champignons.<end>
 
 =>a184_original
 What happened?<end>
@@ -1138,43 +1138,43 @@ Que s'est-il passé ?<end>
 Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
 
 =>q185
-Eh bien, je n'ai jamais vraiment eu un endroit approprié pour garder les rathounds, alors j'ai percé des trous de respiration dans deux de ces grandes caisses et je les ai gardés là. Il s'avère que je les ai sous-estimés et qu'au bout d'un moment, ils ont... mâché leur chemin pour sortir de leur situation.<end>
+Eh bien, je n'avais jamais vraiment d'endroit adapté pour garder les rathounds, alors j'ai percé des trous d'aération dans deux de ces grandes caisses et je les y ai mis. Je les ai sous-estimés : au bout d'un moment, ils se sont... rongé une sortie.<end>
 
 =>a186_original
 What do you need me to do?<end>
 
 =>a186
-Que veux-tu que je fasse ?<end>
+Qu'est-ce que vous attendez de moi ?<end>
 
 =>q187_original
 I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
 
 =>q187
-J'ai préparé la version finale de la concoction et rempli avec elle un ensemble de boulons arbalètes. J'ai besoin que tu ailles là-bas dans les grottes et que tu tires avec un rathound, et une fois qu'il est mort, ramasse un échantillon de tissu autour de la blessure.<end>
+J'ai préparé la version finale du mélange et rempli un jeu de carreaux d'arbalète. Il faut que vous alliez dans les grottes, que vous en plantiez un dans un rathound, et une fois qu'il est mort, que vous préleviez un échantillon de tissu autour de la plaie.<end>
 
 =>q188_original
 If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
 
 =>q188
-Si vous n'avez pas d'arbuste, vous pouvez emprunter la mienne. C'est dans ce casier, dans le coin. Ce n'est pas comme si je pouvais l'utiliser beaucoup ces jours-ci.<end>
+Si vous n'avez pas d'arbalète, vous pouvez emprunter la mienne. Elle est dans ce casier, là-bas dans le coin. Ce n'est pas comme si je m'en servais beaucoup, ces temps-ci.<end>
 
 =>a189_original
 And if I do this, you'll teach me for free?<end>
 
 =>a189
-Et si je fais ça, tu m'apprendras gratuitement ?<end>
+Et si je fais ça, vous m'apprendrez gratuitement ?<end>
 
 =>q190_original
 I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
 
 =>q190
-Je t'apprendrai un psi gratuitement. Vous devrez payer le reste.<end>
+Je vous apprendrai un pouvoir psi gratuitement. Le reste, il faudra payer.<end>
 
 =>a191_original
 I'll do it.<end>
 
 =>a191
-Je vais le faire.<end>
+Je le fais.<end>
 
 =>q192_original
 Excellent. <end>
@@ -1186,31 +1186,31 @@ Parfait. <end>
 Here are the bolts. Good hunting.<end>
 
 =>q193
-Voici les boulons. Bonne chasse.<end>
+Voici les carreaux. Bonne chasse.<end>
 
 =>a194_original
 The tissue sample's as good as yours. I'll be back soon.<end>
 
 =>a194
-L'échantillon de tissu est aussi bon que le vôtre. Je reviens bientôt.<end>
+L'échantillon de tissu est à vous. Je reviens bientôt.<end>
 
 =>a195_original
 ::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
 
 =>a195
-::[Mercantile]:: Faites que deux capacités libres de psi et vous avez un marché.<end>
+::[Mercantile]:: Deux pouvoirs psi gratuits, et on a un accord.<end>
 
 =>q196_original
 Hrm... Very well, but you better bring me a good tissue sample.<end>
 
 =>q196
-C'est... Très bien, mais tu ferais mieux de m'apporter un bon échantillon de tissu.<end>
+Hrm... Très bien, mais vous feriez mieux de m'apporter un bon échantillon.<end>
 
 =>q197_original
 Not a chance, it's one psi ability - take it or leave it.<end>
 
 =>q197
-Pas une chance, c'est une capacité de psi - prendre ou laisser.<end>
+Pas question, c'est un pouvoir psi - à prendre ou à laisser.<end>
 
 =>a198_original
 I'll take it.<end>
@@ -1222,13 +1222,13 @@ Je le prends.<end>
 I'll pass.<end>
 
 =>a199
-Je vais passer.<end>
+Je passe.<end>
 
 =>q200_original
 Suit yourself.<end>
 
 =>q200
-Comme tu veux.<end>
+Comme vous voulez.<end>
 
 =>a201_original
 Forget it.<end>
@@ -1240,25 +1240,25 @@ Oublie ça.<end>
 Sorry, but I don't have time for this right now. Perhaps later.<end>
 
 =>a202
-Désolé, mais je n'ai pas le temps pour ça. Peut-être plus tard.<end>
+Désolé, mais je n'ai pas le temps là. Peut-être plus tard.<end>
 
 =>q203_original
 Hm. If you change your mind let me know.<end>
 
 =>q203
-Hm. Si tu changes d'avis, préviens-moi.<end>
+Hm. Si vous changez d'avis, dites-le-moi.<end>
 
 =>a204_original
 Figures.<end>
 
 =>a204
-Des chiffres.<end>
+Évidemment.<end>
 
 =>q205_original
 Indeed, nothing is free. <end>
 
 =>q205
-En effet, rien n'est libre. <end>
+En effet, rien n'est gratuit. <end>
 
 =>a206_original
 Maybe later.<end>
@@ -1270,25 +1270,25 @@ Peut-être plus tard.<end>
 No. I was just curious.<end>
 
 =>a207
-C'est pas vrai. J'étais juste curieux.<end>
+Non. J'étais juste curieux.<end>
 
 =>q208_original
 I see. Well, if you'll excuse me, I have work to do.<end>
 
 =>q208
-Je vois. Si vous voulez bien m'excuser, j'ai du travail.<end>
+Très bien. Si vous voulez bien m'excuser, j'ai du travail.<end>
 
 =>a209_original
 Tell me about that task you mentioned earlier.<end>
 
 =>a209
-Parlez-moi de votre tâche.<end>
+Parlez-moi de ce service dont vous avez parlé.<end>
 
 =>a210_original
 I've decided to help you with that experiment after all.<end>
 
 =>a210
-J'ai décidé de t'aider avec cette expérience.<end>
+J'ai décidé de vous aider pour cette expérience, finalement.<end>
 
 =>a211_original
 Here's the tissue sample you wanted.<end>
@@ -1300,25 +1300,25 @@ Voici l'échantillon de tissu que vous vouliez.<end>
 Excellent. Give it here.<end>
 
 =>q212
-Parfait. Donne-moi ça.<end>
+Parfait. Donnez-moi ça.<end>
 
 =>q213_original
 I'm going to resume my tests right away.<end>
 
 =>q213
-Je vais reprendre mes tests.<end>
+Je reprends les tests tout de suite.<end>
 
 =>a214_original
 Don't forget my training.<end>
 
 =>a214
-N'oublie pas mon entraînement.<end>
+N'oubliez pas mon entraînement.<end>
 
 =>q215_original
 Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
 
 =>q215
-Oui, bien sûr. Dites-moi quand vous serez prêt à commencer vos leçons.<end>
+Oui, oui, bien sûr. Dites-moi quand vous serez prêt à commencer les leçons.<end>
 
 =>a216_original
 Catch you later.<end>
@@ -1330,37 +1330,37 @@ On se retrouve plus tard.<end>
 I found a nest of burrowers over at GMS.<end>
 
 =>a217
-J'ai trouvé un nid de terriers au GMS.<end>
+J'ai trouvé un nid de burrowers à GMS.<end>
 
 =>q218_original
 ::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
 
 =>q218
-::Son regard révèle un véritable intérêt.:: Vraiment ? Combien sont-ils ? Avez-vous pu recueillir des glandes venimeuses ?<end>
+::Son regard montre un vrai intérêt.:: Vraiment ? Combien il y en a ? Vous avez pu récupérer des glandes à venin ?<end>
 
 =>a219_original
 I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
 
 =>a219
-Je n'en ai pas peur. Il est scellé derrière une porte en acier solide et Gorsky ne me donnera pas la carte d'accès.<end>
+J'ai bien peur que non. C'est scellé derrière une porte d'acier massif, et Gorsky ne me donnera pas la carte.<end>
 
 =>q220_original
 Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
 
 =>q220
-C'est inacceptable ! Je l'appelle immédiatement. J'irai même à Tanner si je le dois. Ils savent que j'ai besoin de toutes les glandes venimeuses que je peux obtenir pour mes recherches.<end>
+Inacceptable ! Je l'appelle tout de suite. J'irai même voir Tanner si je dois. Ils savent que j'ai besoin de toutes les glandes à venin que je peux avoir pour mes recherches.<end>
 
 =>q221_original
 You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
 
 =>q221
-Vous allez juste parler à Gorsky à nouveau dans une minute et il ferait mieux de vous donner cette carte d'accès alors.<end>
+Vous n'avez qu'à retourner voir Gorsky dans une minute, et il ferait mieux de vous donner cette carte.<end>
 
 =>q222_original
 If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
 
 =>q222
-Si vous traquez des terriers, je vous vendrai volontiers leurs glandes venimeuses. Mais attention, ces créatures ne les abandonneront pas gratuitement.<end>
+Si vous abattez des burrowers, je troquerai volontiers leurs glandes à venin. Mais attention : ces bestioles ne les lâcheront pas gratis.<end>
 
 =>a223_original
 What are your thoughts on the Faceless retreat?<end>
@@ -1372,13 +1372,13 @@ Que pensez-vous de la retraite Faceless ?<end>
 ::He shrugs.:: Good. Excellent.<end>
 
 =>q224
-::Il hausse les épaules.:: Bien. Parfait.<end>
+::Il hausse les épaules.:: Bien. Excellent.<end>
 
 =>q225_original
 I'm more worried about what's going to happen here, now that Tanner is gone.<end>
 
 =>q225
-Je suis plus inquiet de ce qui va se passer ici, maintenant que Tanner est parti.<end>
+Ce qui m'inquiète davantage, c'est ce qui va se passer ici, maintenant que Tanner n'est plus là.<end>
 
 =>a226_original
 What are your thoughts on the Faceless invasion?<end>
@@ -1390,37 +1390,37 @@ Que pensez-vous de l'invasion Faceless ?<end>
 I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
 
 =>q227
-J'ai disséqué toutes sortes de monstres dans mon laboratoire et j'ai appris leurs secrets, mais je dois admettre que le Faceless est toujours un mystère pour moi.<end>
+J'ai disséqué toutes sortes de monstres dans mon labo et appris leurs secrets, mais je dois admettre que les Faceless restent un mystère pour moi.<end>
 
 =>q228_original
 What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
 
 =>q228
-Ce que je ne donnerais pas pour un nouveau cadavre d'un Faceless... mais encore une fois, j'ai entendu des choses mauvaises arrivent à ceux qui essaient de rester près de leur mort. Les gens disent que leurs frères viennent pour leurs cadavres; ils ne laissent personne derrière eux, apparemment, mort ou vivant. Donc, c'est peut-être pour le mieux qu'ils ne sont pas facilement disponibles. ::Il rit.::<end>
+Ce que je ne donnerais pas pour un cadavre frais de Faceless... mais d'un autre côté, j'ai entendu dire que de sales choses arrivent à ceux qui s'attardent près de leurs morts. Les gens disent que leurs frères viennent chercher les corps ; ils ne laissent personne derrière, apparemment, mort ou vif. Alors, c'est peut-être mieux qu'ils ne soient pas à portée de main. ::Il rit.::<end>
 
 =>q229_original
 Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
 
 =>q229
-Sont-ils juste religieux comme ça, ou y a-t-il quelque chose derrière leurs masques qu'ils cachent ? Je me demande.<end>
+C'est juste de la religion, chez eux, ou il y a quelque chose derrière leurs masques qu'ils cachent ? Je me le demande.<end>
 
 =>a230_original
 I want to learn some psi abilities.<end>
 
 =>a230
-Je veux apprendre quelques capacités de psi.<end>
+Je veux apprendre des pouvoirs psi.<end>
 
 =>q231_original
 ::He nods.:: Hm. Metathermics are my specialty. <end>
 
 =>q231
-::Il acquiesce.:: Hm. Les métathermiques sont ma spécialité. <end>
+::Il hoche la tête.:: Hm. Metathermics, c'est ma spécialité. <end>
 
 =>q232_original
 I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
 
 =>q232
-Je peux t'apprendre la cryocinèse, la cryostasie, la pyrokinèse et le courant pyrokinétique.<end>
+Je peux vous apprendre Cryokinesis, Cryostasis, Pyrokinesis et Pyrokinetic Stream.<end>
 
 =>q233_original
 <end>
@@ -1432,7 +1432,7 @@ Je peux t'apprendre la cryocinèse, la cryostasie, la pyrokinèse et le courant 
 Tell me about cryokinesis.<end>
 
 =>a234
-Parlez-moi de la cryocinèse.<end>
+Parler de Cryokinesis.<end>
 
 =>q235_original
 Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
@@ -1440,9 +1440,9 @@ Basically, cryokinesis is any process that involves materializing and launching 
 It will cost you fifty credits to learn this.<end>
 
 =>q235
-Fondamentalement, la cryocinèse est tout processus qui implique la matérialisation et le lancement de projectiles de glace. Le plus souvent, le projectile prend la forme d'un projectile pointu. En plus de causer des dommages directs, il dispersera également des vapeurs froides à l'impact.
+En gros, Cryokinesis, c'est tout processus qui consiste à matérialiser et lancer des projectiles de glace. Le plus souvent, ça prend la forme d'un éclat pointu. En plus des dégâts directs, ça disperse des vapeurs froides à l'impact.
 
-Il vous coûtera 50 crédits pour apprendre ceci.<end>
+Ça vous coûtera cinquante crédits à apprendre.<end>
 
 =>a236_original
 Agreed. Here you go.<end>
@@ -1454,31 +1454,31 @@ Entendu. Voilà.<end>
 Let's begin your lessons then...<end>
 
 =>q237
-Commençons vos leçons alors...<end>
+Commençons les leçons, alors...<end>
 
 =>a238_original
 ::Continue::<end>
 
 =>a238
-::Continuer::<end>
+::Continuer.::<end>
 
 =>a239_original
 I still have a freebie.<end>
 
 =>a239
-J'ai toujours un cadeau.<end>
+Il me reste un gratuit.<end>
 
 =>q240_original
 I was hoping you forgot.<end>
 
 =>q240
-J'espérais que tu aies oublié.<end>
+J'espérais que vous aviez oublié.<end>
 
 =>a241_original
 I don't have that kind of money right now. What else can you teach me?<end>
 
 =>a241
-Je n'ai pas ce genre d'argent en ce moment. Que pouvez-vous m'apprendre d'autre ?<end>
+Je n'ai pas cette somme en ce moment. Qu'est-ce que vous pouvez m'apprendre d'autre ?<end>
 
 =>a242_original
 On second thought, I'd rather spend my money on something else.<end>
@@ -1490,7 +1490,7 @@ Je préfère dépenser mon argent pour autre chose.<end>
 Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
 
 =>a243
-Parle-moi de la pyrokinèse. ::[Requires: Metathermics 25]::<end>
+Parler de Pyrokinesis. ::[Requires: Metathermics 25]::<end>
 
 =>q244_original
 There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
@@ -1498,9 +1498,9 @@ There's not much to tell. It's one of the most potent and most destructive psion
 It will cost you two hundred fifty credits to learn this.<end>
 
 =>q244
-Il n'y a rien à dire. C'est l'un des psys les plus puissants et les plus destructeurs connus de l'homme. Vous matérialisez une boule géante de gaz surchauffé et le lancez aussi loin que possible de vous. Il explose à l'impact et brûle tout pour étouffer.
+Il n'y a pas grand-chose à dire. C'est l'un des psi les plus puissants et les plus destructeurs que l'homme connaisse. Vous matérialisez une énorme boule de gaz surchauffé et vous la lancez le plus loin possible. Elle explose à l'impact et réduit tout en miettes.
 
-Cela vous coûtera deux cent cinquante crédits pour apprendre ceci.<end>
+Ça vous coûtera deux cent cinquante crédits à apprendre.<end>
 
 =>a245_original
 Agreed. Here you go.<end>
@@ -1518,31 +1518,31 @@ Entendu. Voilà.<end>
 Let's begin then, shall we?<end>
 
 =>q247
-Commençons donc.<end>
+On commence, alors ?<end>
 
 =>a248_original
 ::Continue::<end>
 
 =>a248
-::Continuer::<end>
+::Continuer.::<end>
 
 =>q249_original
 You are not ready for that yet.<end>
 
 =>q249
-Tu n'es pas encore prêt pour ça.<end>
+Vous n'êtes pas encore prêt pour ça.<end>
 
 =>a250_original
 I still have a freebie.<end>
 
 =>a250
-J'ai toujours un cadeau.<end>
+Il me reste un gratuit.<end>
 
 =>q251_original
 ::Sigh.:: I never should have made that deal.<end>
 
 =>q251
-::Soupir.:: Je n'aurais jamais dû faire ce marché.<end>
+::Soupir.:: Je n'aurais jamais dû passer cet accord.<end>
 
 =>q252_original
 Yes, but you are not ready for that yet.<end>
@@ -1554,7 +1554,7 @@ Oui, mais vous n'êtes pas encore prêt pour ça.<end>
 I don't have that kind of money right now. What else can you teach me?<end>
 
 =>a253
-Je n'ai pas ce genre d'argent en ce moment. Que pouvez-vous m'apprendre d'autre ?<end>
+Je n'ai pas cette somme en ce moment. Qu'est-ce que vous pouvez m'apprendre d'autre ?<end>
 
 =>a254_original
 On second thought, I'd rather spend my money on something else.<end>
@@ -1566,7 +1566,7 @@ Je préfère dépenser mon argent pour autre chose.<end>
 Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
 
 =>a255
-Parle-moi de la cryostase. ::[Requires: Metathermics 35]::<end>
+Parler de Cryostasis. ::[Requires: Metathermics 35]::<end>
 
 =>q256_original
 As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
@@ -1574,9 +1574,9 @@ As the name suggests, cryostasis allows you to suspend a creature in a block of 
 It will cost you one hundred fifty credits to learn this.<end>
 
 =>q256
-Comme son nom l'indique, la cryostasie vous permet de suspendre une créature dans un bloc de glace solide pendant un court moment. Soyez prudent, bien que la glace soit solide à l'intérieur, elle est très vulnérable à l'extérieur, de sorte qu'elle peut se briser et libérer prématurément la créature.
+Comme le nom le dit, Cryostasis vous permet d'enfermer une créature dans un bloc de glace massive, un court moment. Attention : la glace est solide à l'intérieur, mais très fragile à l'extérieur, donc y toucher peut la faire voler en éclats et relâcher la créature trop tôt.
 
-Cela vous coûtera cent cinquante crédits pour apprendre ceci.<end>
+Ça vous coûtera cent cinquante crédits à apprendre.<end>
 
 =>a257_original
 Agreed. Here you go.<end>
@@ -1600,25 +1600,25 @@ On commence ?<end>
 ::Continue::<end>
 
 =>a260
-::Continuer::<end>
+::Continuer.::<end>
 
 =>q261_original
 You are not ready for that yet.<end>
 
 =>q261
-Tu n'es pas encore prêt pour ça.<end>
+Vous n'êtes pas encore prêt pour ça.<end>
 
 =>a262_original
 I still have a freebie.<end>
 
 =>a262
-J'ai toujours un cadeau.<end>
+Il me reste un gratuit.<end>
 
 =>q263_original
 Yes... yes, you do. <end>
 
 =>q263
-Oui. <end>
+Oui... oui, il vous en reste. <end>
 
 =>q264_original
 Yes, but you are not ready for that yet.<end>
@@ -1630,7 +1630,7 @@ Oui, mais vous n'êtes pas encore prêt pour ça.<end>
 I don't have that kind of money right now. What else can you teach me?<end>
 
 =>a265
-Je n'ai pas ce genre d'argent en ce moment. Que pouvez-vous m'apprendre d'autre ?<end>
+Je n'ai pas cette somme en ce moment. Qu'est-ce que vous pouvez m'apprendre d'autre ?<end>
 
 =>a266_original
 On second thought, I'd rather spend my money on something else.<end>
@@ -1642,7 +1642,7 @@ Je préfère dépenser mon argent pour autre chose.<end>
 Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
 
 =>a267
-Parlez-moi du courant pyrokinétique. ::[Requires: Metathermics 35]::<end>
+Parler de Pyrokinetic Stream. ::[Requires: Metathermics 35]::<end>
 
 =>q268_original
 It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
@@ -1650,9 +1650,9 @@ It basically works like a flamethrower. You project a stream of fire burning eve
 It will cost you two hundred credits to learn this.<end>
 
 =>q268
-Ça marche comme un lance-flammes. Vous projetez un flux de feu brûlant tout dans une ligne droite et il dure aussi longtemps que vous pouvez maintenir votre concentration.
+Ça marche essentiellement comme un lance-flammes. Vous projetez un jet de feu qui brûle tout en ligne droite, aussi longtemps que vous tenez la concentration.
 
-Cela vous coûtera deux cents crédits pour apprendre ceci.<end>
+Ça vous coûtera deux cents crédits à apprendre.<end>
 
 =>a269_original
 Agreed. Here you go.<end>
@@ -1670,25 +1670,25 @@ Entendu. Voilà.<end>
 Let's begin your lessons then...<end>
 
 =>q271
-Commençons vos leçons alors...<end>
+Commençons les leçons, alors...<end>
 
 =>a272_original
 ::Continue::<end>
 
 =>a272
-::Continuer::<end>
+::Continuer.::<end>
 
 =>q273_original
 You are not ready for that yet.<end>
 
 =>q273
-Tu n'es pas encore prêt pour ça.<end>
+Vous n'êtes pas encore prêt pour ça.<end>
 
 =>a274_original
 I still have a freebie.<end>
 
 =>a274
-J'ai toujours un cadeau.<end>
+Il me reste un gratuit.<end>
 
 =>q275_original
 Very well. <end>
@@ -1706,7 +1706,7 @@ Oui, mais vous n'êtes pas encore prêt pour ça.<end>
 I don't have that kind of money right now. What else can you teach me?<end>
 
 =>a277
-Je n'ai pas ce genre d'argent en ce moment. Que pouvez-vous m'apprendre d'autre ?<end>
+Je n'ai pas cette somme en ce moment. Qu'est-ce que vous pouvez m'apprendre d'autre ?<end>
 
 =>a278_original
 On second thought, I'd rather spend my money on something else.<end>
@@ -1736,37 +1736,37 @@ Pas grave.<end>
 Anything on Tanner? No? Hm.<end>
 
 =>q282
-Quelque chose sur Tanner ? Pas ? Hm.<end>
+Quelque chose sur Tanner ? Non ? Hm.<end>
 
 =>q283_original
 Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
 
 =>q283
-Lenox, ce fou déraillé ! Nous avons perdu un homme bon à cause de lui, mais quelqu'un d'autre va répondre de cela. Où était la sécurité ? On permet à tout le monde d'aller où ils veulent ?<end>
+Lenox, ce cinglé déraillé ! On a perdu un homme bien à cause de lui, mais quelqu'un d'autre va répondre de ça. Où était la sécurité ? On laisse tout le monde aller où il veut, ici ?<end>
 
 =>q284_original
 That friend of yours, Dude. He is quite an... unusual character.<end>
 
 =>q284
-Votre ami, Dude. C'est un personnage assez... inhabituel.<end>
+Votre ami, Dude. C'est un personnage plutôt... inhabituel.<end>
 
 =>a285_original
 Oh, yes. Tell me about it.<end>
 
 =>a285
-Oui. Parle-moi de ça.<end>
+Oh, oui. Vous m'en direz tant.<end>
 
 =>q286_original
 He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
 
 =>q286
-Il est arrivé ici peu après que vous et moi ayons parlé. Je ne peux pas dire qu'il avait une apparence... saine, mais il était poli. Nous... avons eu un peu d'argument pour qu'il veuille me payer en bière, mais nous avons réglé ça d'une manière ou d'une autre. Cependant, ce que j'ai trouvé le plus déconcertant était son départ.<end>
+Il est arrivé ici peu après notre discussion. Je ne dirais pas qu'il avait une allure... rassurante, mais il était poli. On a... un peu discuté parce qu'il voulait me payer en bière, mais on a fini par s'arranger. En revanche, ce qui m'a le plus déconcerté, c'est son départ.<end>
 
 =>q287_original
 After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
 
 =>q287
-Après avoir ramassé le paquet, il est entré dans la salle de stockage. Je l'ai vu et je lui ai crié qui n'est pas là où se trouve l'ascenseur, mais il est toujours entré. <end>
+Après avoir pris le colis, il est entré dans le local de stockage. Je l'ai vu et je lui ai crié que ce n'était pas par là, l'ascenseur, mais il y est quand même entré. <end>
 
 =>q288_original
 Bret and <end>
@@ -1778,7 +1778,7 @@ Bret et <end>
 I checked the storage room, but he wasn't there.<end>
 
 =>q289
-J'ai vérifié la salle de stockage, mais il n'était pas là.<end>
+j'ai vérifié le local, mais il n'y était plus.<end>
 
 =>q290_original
 <end>
@@ -1796,19 +1796,19 @@ Il était...<end>
 He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
 
 =>q292
-Il nous faisait une farce. J'ai dû. Il n'y a pas d'autre sortie de cette pièce. Votre ami est sûrement... bizarre.<end>
+Il nous a fait une farce. Forcément. Il n'y a pas d'autre sortie dans cette pièce. Votre ami est vraiment... bizarre.<end>
 
 =>a293_original
 Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
 
 =>a293
-Euh, oui, blague. Dude est un farceur au cœur, oui, ha-ha-ha. Bref, il y avait quelque chose que je voulais te demander...<end>
+Euh, oui, une farce. Dude est un farceur dans l'âme, oui, ha-ha-ha. Bref, il y avait quelque chose que je voulais vous demander...<end>
 
 =>a294_original
 Storage room... I need to check something quickly. Be right back.<end>
 
 =>a294
-Salle de rangement... Je dois vérifier quelque chose rapidement. Je reviens.<end>
+Le local de stockage... Je dois vérifier un truc vite. Je reviens.<end>
 
 =>a295_original
 Um...<end>
@@ -1820,7 +1820,7 @@ Euh...<end>
 Yes, you know...<end>
 
 =>a296
-Oui, tu sais...<end>
+Oui, vous savez...<end>
 
 =>a297_original
 Ah, you see...<end>
@@ -1832,7 +1832,7 @@ Ah, vous voyez...<end>
 Why?<end>
 
 =>a298
-Pourquoi?<end>
+Pourquoi ?<end>
 
 =>q299_original
 <end>
@@ -1844,7 +1844,7 @@ Pourquoi?<end>
 I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
 
 =>q300
-J'ai entendu ce qui est arrivé à Newton. C'est... dommage, mais Bret lui a dit d'être prudent, et l'a averti de psi-beetles. Il aurait dû être plus prudent.<end>
+J'ai entendu ce qui est arrivé à Newton. C'est... dommage, mais Bret lui avait dit de faire attention, et l'avait prévenu des coléoptères psi. Il aurait dû être plus prudent.<end>
 
 =>q301_original
 I've heard all about Newton. Good work, $(context.player.Name).<end>
@@ -1864,7 +1864,7 @@ Vous avez oublié quelque chose ?<end>
 Careful, you don't want to get in contact with its toxin.<end>
 
 =>q303
-::Vous arrivez à un homme rugueux avec de longs cheveux qui coupe la tête d'une grande créature monstrueuse ; autrefois une bête immaculée, c'est maintenant qu'il ne s'agit plus qu'un ardent volontaire de dissection post mortem - à la science. Et assez tôt, l'homme fait l'incision finale, après quoi il pousse sa main à travers pour extraire une seule longue colonne vertébrale aiguë. Un liquide vertâtre et collant dribble hors de l'ouverture et sur tout le sol pendant que l'homme essuie la colonne vertébrale propre avant de la mettre de côté, et c'est le moment où il vous remarque.::
+::Vous approchez un homme longiligne, aux cheveux longs, en train d'ouvrir le crâne d'une grande créature monstrueuse ; naguère bête indomptable, ce n'est plus qu'une volontaire raide pour la dissection post-mortem - pour la science. Bientôt l'homme fait l'incision finale, puis enfonce la main pour extraire une seule épine longue et aiguë. Un liquide verdâtre, visqueux, s'écoule de l'ouverture et un peu partout au sol pendant qu'il essuie l'épine avant de la poser de côté, et c'est à ce moment-là qu'il vous remarque.::
 
 Attention, vous ne voulez pas entrer en contact avec sa toxine.<end>
 
@@ -1874,13 +1874,13 @@ Attention, vous ne voulez pas entrer en contact avec sa toxine.<end>
 My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
 
 =>q304
-::Il revient à couper la créature pendant qu'il te parle.::
+::Il reprend à découper la créature tout en vous parlant.::
 
-Mon nom est Quinton. Ne vous présentez pas, je sais qui vous êtes. Vous êtes $(context.player.Name), et vous venez d'être admis à la gare.<end>
+Je m'appelle Quinton. Ne vous donnez pas la peine de vous présenter, je sais qui vous êtes. Vous êtes $(context.player.Name), et vous venez d'être admis à la station.<end>
 
 =>q305_original
 I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
 
 =>q305
-Je te serrerais la main, mais tu vois pourquoi ce ne serait pas une bonne idée.<end>
+Je vous serrerais la main, mais vous voyez pourquoi ce n'est pas une bonne idée.<end>
 

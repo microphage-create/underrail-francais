@@ -2,7 +2,7 @@
 Is this end? I just got here, and now Trenton dies. Potrtschke ovolki!<end>
 
 =>q1
-C'est fini ? Je viens d'arriver, et maintenant Trenton meurt. Potrtschke ovolki !<end>
+C'est la fin ? Moi juste arriver, et maintenant Trenton il meurt. Potrtschke ovolki !<end>
 
 =>q2_original
 <end>
@@ -22,39 +22,39 @@ C'est fini ? Je viens d'arriver, et maintenant Trenton meurt. Potrtschke ovolki 
 Rad i boj, komvarische ofi-- <end>
 
 =>q4
-::Déconcerté, il se tient rapidement à l'attention et vous salue.::
+::Déconcerté, il se met vite au garde-à-vous et vous salue.::
 
-- C'est quoi ? <end>
+Rad i boj, komvarische ofi-- <end>
 
 =>q5_original
 Hey, it you - $(context.player.Name)! Why you wear it, why wear uniform for my army when you not army... errr, in army?<end>
 
 =>q5
-C'est toi, $(context.player.Name) ! Pourquoi tu le portes, pourquoi porter un uniforme pour mon armée alors que tu n'es pas armée... errer, dans l'armée ?<end>
+Hé, c'est vous - $(context.player.Name) ! Pourquoi vous porter ça, pourquoi porter uniforme pour mon armée quand vous pas armée... errr, dans armée ?<end>
 
 =>a6_original
 I didn't realize it would offend you.<end>
 
 =>a6
-Je ne savais pas que ça t'offenserait.<end>
+Je ne savais pas que ça vous offenserait.<end>
 
 =>q7_original
 It dis... disres... dis-re-spect-ful to me. You wear uniform of my army and you not in my army. I have nothing against you, you $(#brother/sister) in Free Droning, but I not talk to you as long as you wear this uniform, or anything else of my army.<end>
 
 =>q7
-C'est... c'est... c'est... c'est... c'est... Tu portes l'uniforme de mon armée et pas de mon armée. Je n'ai rien contre vous, vous $(#brother/sister) en Free Droning, mais je ne vous parle pas tant que vous portez cet uniforme, ou autre chose de mon armée.<end>
+Ça ir... irres... ir-res-pec-tueux pour moi. Vous porter uniforme de mon armée et vous pas dans mon armée. Moi rien contre vous, vous $(#frère/sœur) en Free Droning, mais moi pas parler à vous tant que vous porter cet uniforme, ou autre chose de mon armée.<end>
 
 =>q8_original
 There, I say it. Get dressed into different clothes and then speak to me.<end>
 
 =>q8
-Voilà, je le dis. Habillez-vous dans différents vêtements et parlez-moi.<end>
+Voilà, moi le dire. Mettez d'autres vêtements et après parler à moi.<end>
 
 =>a9_original
 It's comfortable and looks nice and novel.<end>
 
 =>a9
-C'est confortable et il est beau et nouveau.<end>
+C'est confortable, ça a l'air bien, et c'est original.<end>
 
 =>a10_original
 I'll take it off if it offends you.<end>
@@ -66,19 +66,19 @@ Je l'enlève si ça vous offense.<end>
 You don't like it?<end>
 
 =>a11
-Tu n'aimes pas ?<end>
+Vous n'aimez pas ?<end>
 
 =>a12_original
 I wear whatever I want. Why I wear this uniform is none of your concern.<end>
 
 =>a12
-Je porte ce que je veux. Pourquoi je porte cet uniforme ne vous regarde pas.<end>
+Je porte ce que je veux. Pourquoi je porte cet uniforme, ça ne vous regarde pas.<end>
 
 =>q13_original
 It is my concern, because you wear uniform of my army. <end>
 
 =>q13
-C'est mon problème, parce que vous portez l'uniforme de mon armée. <end>
+C'est mon affaire, parce que vous porter uniforme de mon armée. <end>
 
 =>q14_original
 ::Bewildered, he addresses you with friendliness in his voice.::
@@ -86,9 +86,9 @@ C'est mon problème, parce que vous portez l'uniforme de mon armée. <end>
 Komvarische? De gi bre-- <end>
 
 =>q14
-::Déconcerté, il s'adresse à vous avec amitié dans sa voix.::
+::Déconcerté, il s'adresse à vous d'une voix amicale.::
 
-Des Komvarisches ? De gi bre... <end>
+Komvarische? De gi bre-- <end>
 
 =>q15_original
 <end>
@@ -102,7 +102,7 @@ Des Komvarisches ? De gi bre... <end>
 Rad i boj, komvarische oficir! Chto vi zabutnaklzne u Underrail klktnopani?<end>
 
 =>q16
-::Déconcerté, il se tient rapidement à l'attention et vous salue.::
+::Déconcerté, il se met vite au garde-à-vous et vous salue.::
 
 Rad i boj, komvarische oficir ! Chto vi zabutnaklzne u Underrail klktnopani?<end>
 
@@ -122,13 +122,13 @@ Euh...<end>
 You are not komvarisch - you are someone else. Why you wear it, why wear uniform for my army when you not army... errr, in army?<end>
 
 =>q19
-Tu n'es pas komvarisch, tu es quelqu'un d'autre. Pourquoi tu le portes, pourquoi porter un uniforme pour mon armée alors que tu n'es pas armée... errer, dans l'armée ?<end>
+Vous pas komvarisch - vous quelqu'un d'autre. Pourquoi vous porter ça, pourquoi porter uniforme pour mon armée quand vous pas armée... errr, dans armée ?<end>
 
 =>a20_original
 Eh...<end>
 
 =>a20
-Et...<end>
+Eh...<end>
 
 =>a21_original
 Uh...<end>
@@ -146,13 +146,13 @@ Comme...<end>
 Well...<end>
 
 =>a23
-Bien...<end>
+Ben...<end>
 
 =>a24_original
 ::Cough and point at your throat.::<end>
 
 =>a24
-::Toux et pointe à la gorge.::<end>
+::Tousser et montrer la gorge.::<end>
 
 =>q25_original
 ::He observes you suspiciously, squinting more and more before realizing the truth.::
@@ -160,7 +160,7 @@ Bien...<end>
 <end>
 
 =>q25
-::Il vous observe de plus en plus suspect avant de réaliser la vérité.::
+::Il vous observe d'un air soupçonneux, plissant de plus en plus les yeux avant de réaliser la vérité.::
 
 <end>
 
@@ -168,7 +168,7 @@ Bien...<end>
 ::Salute him.::<end>
 
 =>a26
-::Saluez-le.::<end>
+::Le saluer.::<end>
 
 =>q27_original
 ::Bewildered, he addresses you with friendliness in his voice.::
@@ -176,27 +176,27 @@ Bien...<end>
 Komvarische? De gi bre zabutnaklzne u Underrail klktnopani?<end>
 
 =>q27
-::Déconcerté, il s'adresse à vous avec amitié dans sa voix.::
+::Déconcerté, il s'adresse à vous d'une voix amicale.::
 
-Des Komvarisches ? De gi bre zabutnaklzne u Underrail klktnopani?<end>
+Komvarische? De gi bre zabutnaklzne u Underrail klktnopani?<end>
 
 =>q28_original
 I not talk to you while you wear that uniform.<end>
 
 =>q28
-Je ne te parle pas pendant que tu portes cet uniforme.<end>
+Moi pas parler à vous tant que vous porter cet uniforme.<end>
 
 =>q29_original
 Ah, $(context.player.Name). I see my first battle for Free Drones this time and, how you say... err, I got excited as a rathound dressed in shirt!<end>
 
 =>q29
-Ah, $(context.player.Name). Je vois ma première bataille pour Free Drones cette fois et, comment vous dites... errez, j'étais excité comme un rathound habillé en chemise !<end>
+Ah, $(context.player.Name). Moi voir ma première bataille pour Free Drones cette fois et, comment on dit... errr, moi excité comme rathound habillé en chemise !<end>
 
 =>a30_original
 The Cans never knew what hit 'em.<end>
 
 =>a30
-Les Cans n'ont jamais su ce qui les a frappés.<end>
+Les Cans n'ont jamais su ce qui leur tombait dessus.<end>
 
 =>q31_original
 We make a very excellent team, like that movie... errr, what is it called. Ah! "Slodonzoplanski Blazorkant." You see that one? When Yurosomonforko and Blazomoreradnok fight the cave monster of ice. They pew and pew and Yurosomonforko say, "A gu si polemo ki sturza na moskus!"
@@ -204,15 +204,15 @@ We make a very excellent team, like that movie... errr, what is it called. Ah! "
 It always remind me of that. You very good in battle.<end>
 
 =>q31
-On fait une excellente équipe, comme ce film... errer, comment ça s'appelle. "Slodonzoplanski Blazorkant." Tu vois celui-là ? Quand Yurosomonforko et Blazomoreradnok combattent le monstre de la grotte de glace. Ils poudrent et poudrent et Yurosomonforko disent, "A gu si polemo ki sturza na moskus!"
+On faire une très excellente équipe, comme ce film... errr, comment ça s'appelle. Ah ! "Slodonzoplanski Blazorkant." Vous voir celui-là ? Quand Yurosomonforko et Blazomoreradnok combattre le monstre de grotte de glace. Ils piou et piou et Yurosomonforko il dire, "A gu si polemo ki sturza na moskus!"
 
-Ça me rappelle toujours ça. Tu es très bon au combat.<end>
+Ça toujours me rappeler ça. Vous très bon dans bataille.<end>
 
 =>q32_original
 I never seen a woman be so manly and kick so much stryaznytza.<end>
 
 =>q32
-Je n'ai jamais vu une femme être aussi virile et frapper autant de stryaznytza.<end>
+Moi jamais vu une femme être si homme et botter tant de stryaznytza.<end>
 
 =>q33_original
 <end>
@@ -224,7 +224,7 @@ Je n'ai jamais vu une femme être aussi virile et frapper autant de stryaznytza.
 Hey, do you recognize this? ::Show him one zlatortiya bill.::<end>
 
 =>a34
-Tu reconnais ça ? ::Montre-lui un billet de zlattiya.::<end>
+Vous reconnaissez ça ? ::Lui montrer un billet de zlatortiya.::<end>
 
 =>q35_original
 ::He looks at the bill and responds with delight in his eyes.::
@@ -232,33 +232,33 @@ Tu reconnais ça ? ::Montre-lui un billet de zlattiya.::<end>
 Err, it zlatortiya, that the money we use in Fatherland! ::He points his finger to the face depicted on the bill.:: Look, this is Nadbojvod Jarkov Mochnik, our leader, or how you say - the alpha male of the house, ehehe. <end>
 
 =>q35
-::Il regarde la facture et répond avec plaisir dans ses yeux.::
+::Il regarde le billet et répond, les yeux lumineux de plaisir.::
 
-Err, c'est zlatertiya, que l'argent que nous utilisons en Patrie ! ::Il pointe son doigt sur le visage représenté sur le billet.:: Regardez, voici Nadbojvod Jarkov Mochnik, notre chef, ou comment vous dites - le mâle alpha de la maison, ehe. <end>
+Errr, c'est zlatortiya, ça l'argent qu'on utilise dans Fatherland ! ::Il pointe du doigt le visage sur le billet.:: Regardez, ça Nadbojvod Jarkov Mochnik, notre chef, ou comment on dit - le mâle alpha de la maison, ehehe. <end>
 
 =>q36_original
 I already told you Nadbojvod is his title, yes. It still better than overgeneral by... so much.<end>
 
 =>q36
-Je vous ai déjà dit que Nadbojvod était son titre, oui. C'est encore mieux que trop général par... tellement.<end>
+Moi déjà dire Nadbojvod c'est son titre, oui. C'est encore mieux que surgénéral de... tellement.<end>
 
 =>q37_original
 Where you find this money?<end>
 
 =>q37
-Où trouves-tu cet argent ?<end>
+Où vous trouver cet argent ?<end>
 
 =>a38_original
 I acquired them during a short visit... um, to your fatherland.<end>
 
 =>a38
-Je les ai acquis pendant une courte visite... dans votre patrie.<end>
+Je les ai eus pendant une courte visite... euh, dans votre Fatherland.<end>
 
 =>q39_original
 You visited my home? But why?<end>
 
 =>q39
-Tu es allé chez moi ? Mais pourquoi ?<end>
+Vous visiter ma maison ? Mais pourquoi ?<end>
 
 =>a40_original
 It's a long story.<end>
@@ -270,7 +270,7 @@ C'est une longue histoire.<end>
 Oh. But we have time! Here in passages of under, time is walking slowly and painfully... like dog with two legs, ehehe.<end>
 
 =>q41
-Oh. Mais nous avons le temps ! Ici, dans les passages du dessous, le temps marche lentement et douloureusement... comme un chien avec deux jambes, ehehe.<end>
+Oh. Mais on a le temps ! Ici dans passages du dessous, le temps il marche lentement et douloureux... comme chien avec deux jambes, ehehe.<end>
 
 =>a42_original
 I was sent on a secret mission there.<end>
@@ -282,37 +282,37 @@ J'y ai été envoyé en mission secrète.<end>
 Mission? Is very powerful evil of great power threatening Fatherland? Are there spies that needed to be antispied? Tell me, zebnem ti gu na smrchu!<end>
 
 =>q43
-Mission ? Le mal très puissant d'une grande puissance menace - t - il la Patrie? Y a-t-il des espions qui devaient être anti-espionnés ? Dites-moi, zebnem ti gu na smrchu !<end>
+Mission ? C'est très puissant mal de grande puissance qui menace Fatherland ? Il y a des espions qui doivent être anti-espionnés ? Dites-moi, zebnem ti gu na smrchu !<end>
 
 =>a44_original
 Don't worry - I took care of it. Fatherland is safe.<end>
 
 =>a44
-Je m'en suis occupé. La patrie est en sécurité.<end>
+Ne vous inquiétez pas - je m'en suis occupé. Fatherland est en sécurité.<end>
 
 =>q45_original
 Yes! Go Free Drones antispy team. Evil will never win. Thank you for helping Fatherland.<end>
 
 =>q45
-Oui ! Allez Free Drones équipe anti-espion. Le mal ne gagnera jamais. Merci d'aider la Patrie.<end>
+Oui ! Allez Free Drones équipe anti-espion. Le mal jamais gagner. Merci pour aider Fatherland.<end>
 
 =>a46_original
 Anyway, where can I exchange this money for some charons? Do you know anyone who could do that for me? Could you do it?<end>
 
 =>a46
-Où puis-je échanger cet argent contre des charons ? Tu connais quelqu'un qui pourrait faire ça pour moi ? Tu peux le faire ?<end>
+Au fait, où puis-je échanger cet argent contre des charons ? Vous connaissez quelqu'un qui pourrait faire ça pour moi ? Vous pouvez le faire ?<end>
 
 =>q47_original
 You trick me, make my heart race like little mouse running from big cat. But... <end>
 
 =>q47
-Tu me trompes, tu fais courir mon cœur comme une petite souris qui fuit le grand chat. Mais... <end>
+Vous tromper moi, faire mon cœur courir comme petite souris qui fuit grand chat. Mais... <end>
 
 =>q48_original
 I can help you. I will return to Fatherland one day, after I break my enemies in four here, so I will use money. How much do you have?<end>
 
 =>q48
-Je peux vous aider. Je reviendrai en Patrie un jour, après avoir brisé mes ennemis en quatre ici, donc j'utiliserai l'argent. Combien avez-vous ?<end>
+Moi pouvoir aider vous. Moi retourner à Fatherland un jour, après casser mes ennemis en quatre ici, alors moi utiliser argent. Combien vous avez ?<end>
 
 =>a49_original
 I am a millionaire!<end>
@@ -324,13 +324,13 @@ Je suis millionnaire !<end>
 Ehehe, that is very little money. You are not like million-money people in South Underrail. <end>
 
 =>q50
-C'est très peu d'argent. Vous n'êtes pas comme des millions d'argent dans le Sud Underrail. <end>
+Ehehe, ça très peu d'argent. Vous pas comme gens million-argent dans South Underrail. <end>
 
 =>q51_original
 Here, million coins - live like Nadbojvod himself. Better. In Fatherland - live like zonemen from Core City. If you have quadrillion - then you, how we say, can eat whole pigs, drink kzozel until your belly pop, buy clothes that looks good on a chovek, eat some more whole pigs, stain clothes with pig smear by accident, have a maid wash it - have a maid - and you will still have enough money left to drive in the train until you reach your house from the other side. That is when you rich, ehehe.<end>
 
 =>q51
-Ici, des millions de pièces - vivent comme Nadbojvod lui-même. Mieux. En Patrie - vivre comme des hommes de zone de Core City. Si vous avez quadrillion - alors vous, comment nous disons, pouvez manger des porcs entiers, boire du kzozel jusqu'à ce que votre ventre pop, acheter des vêtements qui semblent bien sur un chovek, manger des porcs plus entiers, tacher des vêtements avec des frottis de porc par accident, faire laver une bonne - avoir une bonne - et vous aurez encore assez d'argent pour conduire dans le train jusqu'à ce que vous atteignez votre maison de l'autre côté. C'est là que vous êtes riche.<end>
+Ici, million de pièces - vivre comme Nadbojvod lui-même. Mieux. Dans Fatherland - vivre comme zonemen de Core City. Si vous avez quadrillion - alors vous, comment on dit, pouvoir manger cochons entiers, boire kzozel jusqu'à ventre il pète, acheter vêtements qui a l'air bien sur un chovek, manger encore cochons entiers, tacher vêtements avec graisse de cochon par accident, avoir une bonne le laver - avoir une bonne - et vous encore assez d'argent pour aller dans le train jusqu'à vous arriver votre maison depuis l'autre côté. Ça c'est quand vous riche, ehehe.<end>
 
 =>q52_original
 Let me calculate in my head... one coin is twenty thousand... yes... mhm...
@@ -338,9 +338,9 @@ Let me calculate in my head... one coin is twenty thousand... yes... mhm...
 Okay, I have about one hundred and fifty coins I could exchange. I will sell you one coin for two zlatortiya bills. That is twenty thousand zlatortiyas.<end>
 
 =>q52
-Laissez-moi calculer dans ma tête... une pièce est vingt mille... oui...
+Laissez-moi calculer dans ma tête... une pièce c'est vingt mille... oui... mhm...
 
-J'ai environ cent cinquante pièces que je pourrais échanger. Je te vendrai une pièce pour deux billets de zlattiya. C'est vingt mille zlatratiyas.<end>
+Bon, moi avoir environ cent cinquante pièces que je pourrais échanger. Moi vendre à vous une pièce pour deux billets de zlatortiya. Ça vingt mille zlatortiyas.<end>
 
 =>q53_original
 <end>
@@ -352,43 +352,43 @@ J'ai environ cent cinquante pièces que je pourrais échanger. Je te vendrai une
 ::[Mercantile]:: Only one hundred fifty? That amount is barely worth the trouble.<end>
 
 =>a54
-::[Mercantile]:: Seulement cent cinquante ? Ce montant vaut à peine le coup.<end>
+::[Mercantile]:: Seulement cent cinquante ? Ça vaut à peine le coup.<end>
 
 =>q55_original
 But I need some coins while I am here. I can't give all coins to you, even though I like you.<end>
 
 =>q55
-Mais j'ai besoin de pièces pendant que je suis ici. Je ne peux pas te donner toutes les pièces, même si je t'aime bien.<end>
+Mais moi besoin de pièces pendant que je suis ici. Moi pas pouvoir donner toutes les pièces à vous, même si je vous aime bien.<end>
 
 =>a56_original
 Not all of them, of course, but I'd be pleased if you could set aside, say, a hundred charons more for me.<end>
 
 =>a56
-Pas tous, bien sûr, mais je serais ravi si vous pouviez mettre de côté, disons, cent charons de plus pour moi.<end>
+Pas tous, bien sûr, mais je serais content si vous pouviez mettre de côté, disons, cent charons de plus pour moi.<end>
 
 =>q57_original
 ::He sighs.:: Well... Well... Alright. I will exchange one hundred more, even though my coin man-purse is going to be light. But all this is for our cause anyway, so when we win it will be worth it, yes?<end>
 
 =>q57
-::Il soupire.:: Et bien... Je vais échanger cent de plus, même si ma monnaie est légère. Mais tout cela est pour notre cause de toute façon, alors quand nous gagnerons, ça en vaut la peine, oui ?<end>
+::Il soupire.:: Bon... Bon... D'accord. Moi échanger cent de plus, même si ma bourse-homme de pièces elle va être légère. Mais tout ça c'est pour notre cause de toute façon, alors quand on gagne ça vaudra le coup, oui ?<end>
 
 =>q58_original
 Okay, so that is $(context.npc_fd_kokoschka_moneyForExchange) coins in total I have for exchange, ehehe.<end>
 
 =>q58
-Ok, donc c'est $(context.npc_fd_kokoschka_moneyForExchange) pièces au total que j'ai pour échange, ehe.<end>
+Bon, alors ça $(context.npc_fd_kokoschka_moneyForExchange) pièces au total moi avoir pour échange, ehehe.<end>
 
 =>q59_original
 Well... No, no. Sorry. I cannot. It too will make my coin man-purse too light.<end>
 
 =>q59
-Et bien... Non, pas du tout. Désolé. Je ne peux pas. Moi aussi, ça fera de ma monnaie une pièce trop légère.<end>
+Bon... Non, non. Désolé. Moi pas pouvoir. Ça trop va faire ma bourse-homme de pièces trop légère.<end>
 
 =>q60_original
 Sorry. I like you, but sorry.<end>
 
 =>q60
-Désolé. Je t'aime bien, mais désolé.<end>
+Désolé. Moi vous aime bien, mais désolé.<end>
 
 =>q61_original
 <end>
@@ -406,31 +406,31 @@ Désolé. Je t'aime bien, mais désolé.<end>
 Here's two hundred bills for one hundred charons. ::Give him 200 zlatortiya bills.::<end>
 
 =>a63
-Deux cents billets pour cent charons. ::Donnez-lui 200 billets.::<end>
+Deux cents billets pour cent charons. ::Lui donner 200 billets de zlatortiya.::<end>
 
 =>q64_original
 Here you go. ::He hands you your charons.:: <end>
 
 =>q64
-Voilà. ::Il vous donne vos charons.:: <end>
+Voilà. ::Il vous tend vos charons.:: <end>
 
 =>q65_original
 I am out, sorry. No more coins. And no more convincing to add more coins. Coin man-purse is too light.<end>
 
 =>q65
-Je suis sorti, désolé. Plus de pièces. Et pas plus convaincant d'ajouter plus de pièces. La pièce de monnaie est trop légère.<end>
+Moi plus, désolé. Plus de pièces. Et plus de convaincre pour ajouter plus de pièces. Bourse-homme de pièces trop légère.<end>
 
 =>q66_original
 I am out, sorry. No more coins.<end>
 
 =>q66
-Je suis sorti, désolé. Plus de pièces.<end>
+Moi plus, désolé. Plus de pièces.<end>
 
 =>a67_original
 Let us talk about something else, then.<end>
 
 =>a67
-Parlons d'autre chose.<end>
+Parler d'autre chose.<end>
 
 =>q68_original
 ::He nods.:: Yes.<end>
@@ -442,79 +442,79 @@ Parlons d'autre chose.<end>
 I have $(context.npc_fd_kokoschka_moneyForExchange) coins left for exchange.<end>
 
 =>q69
-Il me reste des pièces $(context.npc_fd_kokoschka_moneyForExchange) à échanger.<end>
+Moi avoir encore $(context.npc_fd_kokoschka_moneyForExchange) pièces pour échange.<end>
 
 =>a70_original
 Here's one hundred bills for fifty charons. ::Give him 100 zlatortiya bills.::<end>
 
 =>a70
-Voici cent billets pour cinquante charons. ::Donnez-lui 100 billets.::<end>
+Cent billets pour cinquante charons. ::Lui donner 100 billets de zlatortiya.::<end>
 
 =>a71_original
 Here's fifty bills for twenty-five charons. ::Give him 50 zlatortiya bills.::<end>
 
 =>a71
-Voici cinquante billets pour vingt-cinq charons. ::Donnez-lui 50 billets.::<end>
+Cinquante billets pour vingt-cinq charons. ::Lui donner 50 billets de zlatortiya.::<end>
 
 =>a72_original
 Here's twenty bills for ten charons. ::Give him 20 zlatortiya bills.::<end>
 
 =>a72
-Voilà vingt billets pour dix charons. ::Donnez-lui 20 billets.::<end>
+Vingt billets pour dix charons. ::Lui donner 20 billets de zlatortiya.::<end>
 
 =>a73_original
 Here's ten bills for five charons. ::Give him 10 zlatortiya bills.::<end>
 
 =>a73
-Voici dix billets pour cinq charons. ::Donnez-lui 10 billets.::<end>
+Dix billets pour cinq charons. ::Lui donner 10 billets de zlatortiya.::<end>
 
 =>a74_original
 Here's two bills for one charon. ::Give him 2 zlatortiya bills.::<end>
 
 =>a74
-Deux billets pour un charon. ::Donnez-lui 2 billets.::<end>
+Deux billets pour un charon. ::Lui donner 2 billets de zlatortiya.::<end>
 
 =>a75_original
 That would be all for now.<end>
 
 =>a75
-Ce serait tout pour l'instant.<end>
+Ce sera tout pour l'instant.<end>
 
 =>a76_original
 Just a few bills. But that is a lot of zeros, though.<end>
 
 =>a76
-Juste quelques billets. Mais c'est beaucoup de zéros.<end>
+Juste quelques billets. Mais ça fait beaucoup de zéros, quand même.<end>
 
 =>q77_original
 That is very little. You can easily be a million-money $(#man/woman) in Fatherland, but that not like million-money people in South Underrail. <end>
 
 =>q77
-C'est très peu. Vous pouvez facilement être un million d'argent $(#man/woman) dans la Patrie, mais ce n'est pas comme des millions de gens dans le Sud Underrail. <end>
+Ça très peu. Vous pouvez facilement être $(#un homme/une femme) million-argent dans Fatherland, mais ça pas comme gens million-argent dans South Underrail. <end>
 
 =>a78_original
 A single bill. But it's a ten thousand zlatortiya one.<end>
 
 =>a78
-Une seule facture. Mais c'est dix mille zlattiya un.<end>
+Un seul billet. Mais c'est un dix mille zlatortiya.<end>
 
 =>q79_original
 Well... <end>
 
 =>q79
-Bien... <end>
+Bon... <end>
 
 =>a80_original
 Protectorate spies are *everywhere*.<end>
 
 =>a80
-Protectorate Les espions sont * partout*.<end>
+Les espions du Protectorate sont *partout*.<end>
 
 =>q81_original
 Gudrava stoka! I knew it, yes, yes. That is why we have to stop them here before they spread like zdzchni flu. It nasty, makes you pee red.<end>
 
 =>q81
-Gudrava stoka ! Je le savais, oui. C'est pourquoi nous devons les arrêter ici avant qu'ils se propagent comme la grippe zdzchni. C'est méchant, ça te rend rouge.<end>
+Gudrava stoka ! Moi savais, oui, oui. C'est pour ça on doit les arrêter ici avant qu'ils se répandent comme grippe zdzchni. C'est méchant, ça vous faire pipi rouge.<end>
 
 =>a82_original
 I cannot discuss this.<end>
@@ -526,19 +526,19 @@ Je ne peux pas en parler.<end>
 Yes, you said it secret. I hope Fatherland safe. I hope from bottom of heart.<end>
 
 =>q83
-Oui, tu l'as dit secret. J'espère que la patrie sera en sécurité. J'espère de fond en comble.<end>
+Oui, vous dire c'est secret. Moi espère Fatherland en sécurité. Moi espère du fond du cœur.<end>
 
 =>a84_original
 I went through a reality rift with my drunken friend and we ended up there.<end>
 
 =>a84
-J'ai traversé une faille de réalité avec mon ami ivre et nous avons fini là-bas.<end>
+J'ai traversé une faille de réalité avec mon ami ivre et on a fini là-bas.<end>
 
 =>q85_original
 Rift? That like train. You were drunk too?<end>
 
 =>q85
-Un fossé ? C'est comme le train. Tu étais ivre aussi ?<end>
+Faille ? Ça comme train. Vous étiez soûl aussi ?<end>
 
 =>a86_original
 Yes.<end>
@@ -550,19 +550,19 @@ Oui.<end>
 Ehehe. Zplno! Good. If <end>
 
 =>q87
-C'est vrai. Parfait. Si <end>
+Ehehe. Zplno ! Bien. Si <end>
 
 =>q88_original
 you spend time in Fatherland drunk, then that means you had good time and that you a real man, real chovek. <end>
 
 =>q88
-tu passes du temps dans la patrie soûle, alors ça veut dire que tu as passé du bon temps et que tu es un vrai homme, un vrai chovek. <end>
+vous passer temps dans Fatherland soûl, alors ça veut dire vous passer bon temps et vous vrai homme, vrai chovek. <end>
 
 =>q89_original
 Even if you are not man, a chovek, but woman, a zhena. Ehehehe. That much great achievement - to be like man. But not all women should be like a man, or else you become like Schulanka, our right neighbor. She too much like man. ::He shrugs.::<end>
 
 =>q89
-Même si vous n'êtes pas un homme, un chovek, mais une femme, une zhena. Oui. C'est une grande réussite d'être comme l'homme. Mais toutes les femmes ne devraient pas être comme un homme, sinon tu deviens comme Schulanka, notre bon voisin. Elle ressemble trop à l'homme. ::Il hausse les épaules.::<end>
+Même si vous pas homme, un chovek, mais femme, une zhena. Ehehehe. Ça tellement grande réussite - être comme homme. Mais pas toutes les femmes doivent être comme un homme, sinon vous devenir comme Schulanka, notre voisine de droite. Elle trop comme homme. ::Il hausse les épaules.::<end>
 
 =>q90_original
 <end>
@@ -586,7 +586,7 @@ Non.<end>
 Going with a drunk friend and you not drunk? Impossible - and unpossible! You lie to me. Don't do that. But if <end>
 
 =>q93
-Tu vas avec un ami ivre et tu n'es pas ivre ? Impossible - et impossible! Tu me mens. Ne fais pas ça. Mais si <end>
+Aller avec un ami soûl et vous pas soûl ? Impossible - et inpossible ! Vous mentir à moi. Faites pas ça. Mais si <end>
 
 =>a94_original
 Can't remember.<end>
@@ -598,7 +598,7 @@ Je ne m'en souviens pas.<end>
 Then you was drunk. Ehehehe. If <end>
 
 =>q95
-Alors tu étais saoul. Oui. Si <end>
+Alors vous étiez soûl. Ehehehe. Si <end>
 
 =>a96_original
 I'd rather not talk about it.<end>
@@ -628,7 +628,7 @@ Sur un homme mort.<end>
 A dead man from Fatherland? <end>
 
 =>q100
-Un homme mort de la Patrie ? <end>
+Un homme mort de Fatherland ? <end>
 
 =>q101_original
 Is he tall, ginger, with thin, bony arms and chest as smooth as bum of baby? And face full of white pimples? And mustache like a grandmother trying to be manly? 
@@ -636,27 +636,27 @@ Is he tall, ginger, with thin, bony arms and chest as smooth as bum of baby? And
 He come here, how you say, to time from time. He always wears big black rubber boots and fishing rod. He speaks through his nose and sounds as smart as... err, that thing much below liver that has no use. Appopix, yes!<end>
 
 =>q101
-Est-il grand, gingembre, avec des bras fins et osseux et une poitrine aussi lisse que le bébé ? Et le visage plein de boutons blancs ? Et la moustache comme une grand-mère essayant d'être virile ?
+Il est grand, rouquin, avec des bras fins et osseux et une poitrine aussi lisse que le cul d'un bébé ? Et le visage plein de boutons blancs ? Et la moustache comme une grand-mère qui essaie d'être homme ?
 
-Il vient ici, comme vous le dites, à l'occasion. Il porte toujours de grosses bottes en caoutchouc noir et une canne à pêche. Il parle à travers son nez et sonne aussi intelligent que... errer, cette chose bien en dessous du foie qui n'a pas d'utilité. Appopix, oui !<end>
+Il vient ici, comment on dit, de temps à temps. Il porte toujours de grosses bottes en caoutchouc noir et une canne à pêche. Il parle par le nez et il a l'air aussi intelligent que... errr, cette chose bien en dessous du foie qui sert à rien. Appopix, oui !<end>
 
 =>a102_original
 Yes. Just the guy.<end>
 
 =>a102
-Oui. Juste le gars.<end>
+Oui. Pile le gars.<end>
 
 =>q103_original
 Haha! Brbochko - you son of rat! Glad to hear he is dead to the core. He my left neighbor. <end>
 
 =>q103
-C'est vrai ! Brbochko, fils de rat ! Heureux d'apprendre qu'il est mort au cœur. C'est mon voisin gauche. <end>
+Haha ! Brbochko - fils de rat ! Content d'entendre il est mort jusqu'au fond. Lui mon voisin de gauche. <end>
 
 =>q104_original
 I hate him. Everyone hates him. Prgudnem da gu na silu opop na te krupischlo more. Ehehehe...<end>
 
 =>q104
-Je le déteste. Tout le monde le déteste. Prgudnem da gu na silu opop na te krupischlo plus. Qu'est-ce qu'il y a ?<end>
+Moi le déteste. Tout le monde le déteste. Prgudnem da gu na silu opop na te krupischlo more. Ehehehe...<end>
 
 =>a105_original
 I don't think so.<end>
@@ -668,7 +668,7 @@ Je ne crois pas.<end>
 Damn it. I was hoping it was our left neighbor, Brbochko.<end>
 
 =>q106
-C'est pas vrai. J'espérais que c'était notre voisin gauche, Brbochko.<end>
+Zut. Moi espérais que c'était notre voisin de gauche, Brbochko.<end>
 
 =>a107_original
 Maybe, but I am not sure.<end>
@@ -680,7 +680,7 @@ Peut-être, mais je ne suis pas sûr.<end>
 I am hoping it was our neighbor, Brbochko. <end>
 
 =>q108
-J'espère que c'est notre voisin, Brbochko. <end>
+Moi espère que c'était notre voisin, Brbochko. <end>
 
 =>a109_original
 No.<end>
@@ -698,19 +698,19 @@ Dans une poubelle.<end>
 That is disrespectful. Not you searching through trash - everyone do that here, but that someone disrespect our alpha male of the house by throwing him in garbage. ::Without delay or second though, he lets out a nasty gargle and spits a disturbingly fast-moving phlegmy projectile to the floor:: I spit on people like that, I spit. Disrespectors.<end>
 
 =>q111
-C'est irrespectueux. Vous ne fouillez pas dans les ordures - tout le monde le fait ici, mais quelqu'un manque de respect à notre alpha mâle de la maison en le jetant dans les ordures. ::Sans délai ni seconde, il laisse sortir une méchante gargouille et crache un projectile flegme perturbateur et rapide au sol:: Je crache sur les gens comme ça, je crache. Des irrespectueux.<end>
+Ça irrespectueux. Pas vous fouiller dans les ordures - tout le monde fait ça ici, mais que quelqu'un manque au respect de notre mâle alpha de la maison en le jeter dans les poubelles. ::Sans attendre ni réfléchir une seconde, il pousse un râle dégueulasse et crache un projectile de flegme d'une vitesse inquiétante par terre.:: Moi crache sur les gens comme ça, moi crache. Irrespecteurs.<end>
 
 =>q112_original
 Hey, unless you want to be the one wiping the floor you better find some other place to spit, Kokoschka.<end>
 
 =>q112
-À moins que tu veuilles être celui qui essuie le sol, tu ferais mieux de trouver un autre endroit pour cracher, Kokoschka.<end>
+Hé, si tu veux pas être celui qui balaie le sol, tu ferais mieux de cracher ailleurs, Kokoschka.<end>
 
 =>q113_original
 Oh, my Darling, I am sorry... sorry, sorry, sorry. I will not spit around here anymore. And if I do, I will clean it with my own hands. Errr, yes.<end>
 
 =>q113
-Oh, mon chéri, je suis désolé... désolé, désolé, désolé. Je ne cracherai plus ici. Et si je le fais, je le nettoierai de mes propres mains. Errr, oui.<end>
+Oh, ma Darling, moi désolé... désolé, désolé, désolé. Moi plus cracher par ici. Et si moi cracher, moi nettoyer avec mes propres mains. Errr, oui.<end>
 
 =>q114_original
 ::She lightly shakes her head and resumes her work.::<end>
@@ -722,19 +722,19 @@ Oh, mon chéri, je suis désolé... désolé, désolé, désolé. Je ne crachera
 Someone gave it to me during a trade. Told me it's high in value.<end>
 
 =>a115
-Quelqu'un me l'a donné pendant un échange. Il m'a dit que c'était très intéressant.<end>
+Quelqu'un me l'a filé pendant un troc. Il m'a dit que ça valait cher.<end>
 
 =>q116_original
 You accept unknown currency when in trade? Why? Someone can trick you and give you fake money. It characteristic of stupid people. Errr, I am not say you stupid, you not, but as my uncle Tomasch always used to say: Do not take money you don't recognize. It is fake and you are stupid.<end>
 
 =>q116
-Vous acceptez la monnaie inconnue quand dans le commerce? Pourquoi ? Quelqu'un peut vous tromper et vous donner de l'argent faux. C'est caractéristique des gens stupides. Errr, je ne te dis pas stupide, pas toi, mais comme mon oncle Tomasch disait toujours: Ne prends pas d'argent que tu ne reconnais pas. C'est faux et tu es stupide.<end>
+Vous accepter monnaie inconnue quand dans le troc ? Pourquoi ? Quelqu'un peut tromper vous et donner faux argent. Ça caractéristique des gens stupides. Errr, moi pas dire vous stupide, vous pas, mais comme mon oncle Tomasch toujours dire : Prenez pas argent que vous reconnaissez pas. C'est faux et vous stupide.<end>
 
 =>q117_original
 Uncle Tomasch - listen to his advice, he smart man. And makes great klobaya from pig meat. Mmmm, how you say, to lick your hand toes!<end>
 
 =>q117
-Oncle Tomasch - écoute ses conseils, il est intelligent. Et fait grand klobaya de viande de porc. Mmm, comme tu dis, pour te lécher les orteils de la main !<end>
+Oncle Tomasch - écoutez son conseil, il intelligent. Et fait grand klobaya de viande de cochon. Mmmm, comment on dit, à lécher les orteils de la main !<end>
 
 =>a118_original
 I took it from someone I killed.<end>
@@ -746,19 +746,19 @@ Je l'ai pris à quelqu'un que j'ai tué.<end>
 You killed man from Fatherland? <end>
 
 =>q119
-Vous avez tué un homme de la patrie ? <end>
+Vous tuer homme de Fatherland ? <end>
 
 =>a120_original
 ::[Intelligence]:: I took it from your stash.<end>
 
 =>a120
-::[Intelligence]:: Je l'ai pris de ta cachette.<end>
+::[Intelligence]:: Je l'ai pris dans votre cachette.<end>
 
 =>q121_original
 No! It all money I... ::Just as he was about to grab his head in utter dismay, he stops, lowers his arms and stares at you with his eyes half-squinting.:: There is no stash. You lie. My money safe. You trick me.<end>
 
 =>q121
-Pas du tout ! C'est tout l'argent que je... ::Tout comme il était sur le point de lui prendre la tête en totale consternation, il s'arrête, baisse les bras et vous regarde avec ses yeux à moitié soupirant.:: Il n'y a pas de planque. Vous mentez. Mon argent est sûr. Vous me trompez.<end>
+Non ! C'est tout l'argent que je... ::Juste au moment de s'agripper la tête de consternation, il s'arrête, baisse les bras et vous fixe les yeux à demi plissés.:: Il y a pas de cachette. Vous mentir. Mon argent en sécurité. Vous tromper moi.<end>
 
 =>a122_original
 That is not important.<end>
@@ -770,25 +770,25 @@ Ce n'est pas important.<end>
 Oh. I see you don't want to talk. Okay, I respect that, or how you say - if you ain't wanna, I ain't wanna too.<end>
 
 =>q123
-Oh. Je vois que tu ne veux pas parler. Ok, je respecte ça, ou comment tu dis - si tu ne veux pas, je ne veux pas aussi.<end>
+Oh. Moi voir vous voulez pas parler. Bon, moi respecte ça, ou comment on dit - si vous voulez pas, moi veux pas non plus.<end>
 
 =>q124_original
 Oh, Nadbojvod is his title - it better title than military general, much better. General is like bojvod, while something like overgeneral is like nadbojvod. But ours would still be very much so better, yes, ehehe.<end>
 
 =>q124
-Oh, Nadbojvod est son titre - mieux que le général militaire, bien mieux. Le général est comme le bojvod, tandis que quelque chose comme le surgénéral est comme le nadbojvod. Mais le nôtre serait encore beaucoup mieux, oui, ehehe.<end>
+Oh, Nadbojvod c'est son titre - mieux titre que général militaire, bien mieux. Général c'est comme bojvod, et quelque chose comme surgénéral c'est comme nadbojvod. Mais le nôtre encore très beaucoup mieux, oui, ehehe.<end>
 
 =>a125_original
 Here's your rifle back.<end>
 
 =>a125
-Voilà ton fusil.<end>
+Je vous rends votre fusil.<end>
 
 =>q126_original
 Ah, thank you, thank you. I knew you would take care of my Ahka. <end>
 
 =>q126
-Ah, merci, merci. Je savais que tu t'occuperais de mon Ahka. <end>
+Ah, merci, merci. Moi savais que vous prendre soin de mon Ahka. <end>
 
 =>q127_original
 <end>
@@ -800,7 +800,7 @@ Ah, merci, merci. Je savais que tu t'occuperais de mon Ahka. <end>
 I hope you used it to kill some evil people to death, ehehe.<end>
 
 =>q128
-J'espère que vous l'avez utilisé pour tuer des gens maléfiques.<end>
+Moi espère vous l'avez utilisé pour tuer des méchants jusqu'à mort, ehehe.<end>
 
 =>q129_original
 ::He takes a closer look at it.::
@@ -816,13 +816,13 @@ C'est quoi ça ?<end>
 I took the liberty of touching up the rifle a bit. Not just visually, mind you, you'll also find that it performs a lot better now.<end>
 
 =>a130
-J'ai pris la liberté de toucher un peu le fusil. Pas seulement visuellement, mais vous constaterez aussi qu'il fonctionne beaucoup mieux maintenant.<end>
+Je me suis permis de retaper un peu le fusil. Pas seulement le look, vous verrez : il marche aussi beaucoup mieux maintenant.<end>
 
 =>q131_original
 NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO! AHKA!<end>
 
 =>q131
-C'est pas vrai. C'est vrai !<end>
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO ! AHKA !<end>
 
 =>q132_original
 What-- why-- whenever-- Why do this!? It was, how I say, oooooohhhh - *perfect*!
@@ -830,7 +830,7 @@ What-- why-- whenever-- Why do this!? It was, how I say, oooooohhhh - *perfect*!
 Oh...<end>
 
 =>q132
-Quoi... pourquoi... quand... Pourquoi faire ça ? C'était, comment je dis, oooooohhh - *parfait*!
+Quoi-- pourquoi-- quand-- Pourquoi faire ça ? C'était, comment moi dire, oooooohhhh - *parfait* !
 
 Oh...<end>
 
@@ -840,7 +840,7 @@ The, what it called...? - *Handguard!* The handguard had grooves, notches and ba
 Although... now my grip is better... somehow.<end>
 
 =>q133
-Comment ça s'appelait... Le garde avait des rainures, des encoches et des cicatrices de combat. ::Il passe dessus avec sa main.::
+Le, comment ça s'appelle... ? - *Garde-main !* Le garde-main avait des rainures, des encoches et des cicatrices de bataille. ::Il passe la main dessus.::
 
 Bien que... maintenant ma prise est meilleure... d'une certaine façon.<end>
 
@@ -850,9 +850,9 @@ And the stock of butt, the way it rested against my shoulder...
 Hey, this is comfy. Like, errr, it was made just for me.<end>
 
 =>q134
-Et le stock de fesses, la façon dont il s'est reposé contre mon épaule...
+Et la crosse de cul, la façon dont elle reposer contre mon épaule...
 
-C'est confortable. Comme, errr, il a été fait juste pour moi.<end>
+Hé, ça confortable. Comme, errr, ça a été fait juste pour moi.<end>
 
 =>q135_original
 But, but, but, errr, does it work? Check this trigger, check! ::He almost pulls the trigger without making sure the chamber is empty, but reason caught up with him and he ejects the magazine and pulls the charging handle.::
@@ -862,17 +862,17 @@ But, but, but, errr, does it work? Check this trigger, check! ::He almost pulls 
 ::Click.:: Hey, no slack anymore. ::Click.:: Ehehe. And the handle, it pulls smooth, like butt of bebechka.<end>
 
 =>q135
-Mais est-ce que ça marche ? Vérifiez ce déclencheur, vérifiez ! ::Il appuie presque sur la détente sans s'assurer que la chambre est vide, mais la raison l'a rattrapé et il éjecte le magazine et tire la poignée de charge.::
+Mais, mais, mais, errr, ça marche ? Vérifiez cette détente, vérifiez ! ::Il manque de presser la détente sans s'assurer que la chambre est vide, mais la raison le rattrape : il éjecte le chargeur et tire la poignée d'armement.::
 
-::Puis il appuie sur la détente.:: Cliquez ! ::Cliquez.:: Vous entendez ?
+::Puis il presse la détente.:: Clic ! ::Clic.:: Vous entendre ?
 
-::Cliquez.:: Plus de relâche. ::Cliquez.:: Ehehe. Et la poignée, elle tire lisse, comme le cul de Bebechka.<end>
+::Clic.:: Hé, plus de jeu. ::Clic.:: Ehehe. Et la poignée, elle tire lisse, comme cul de bebechka.<end>
 
 =>a136_original
 So, how do you like it?<end>
 
 =>a136
-Alors, ça te plaît ?<end>
+Alors, ça vous plaît ?<end>
 
 =>q137_original
 I... 
@@ -880,9 +880,9 @@ I...
 ...like. But is it Ahka if everything is different? Does it still kick like toothless grizozirg, or six cans of kzozel yantar? Does it sound like million hammers smashing all at once, and does it still make enemies release bowels when you shoot at them?<end>
 
 =>q137
-Je...
+Moi...
 
-... comme. Mais est-ce Ahka si tout est différent ? Est-ce qu'il frappe toujours comme un grizozirg sans dent, ou six boîtes de yantar kzozel ? Cela ressemble-t-il à des millions de marteaux qui s'écrasent en même temps, et fait-il encore relâcher les entrailles quand vous tirez sur eux ?<end>
+... aime. Mais c'est Ahka si tout est différent ? Ça recule toujours comme grizozirg sans dents, ou six canettes de kzozel yantar ? Ça sonne comme million de marteaux qui cognent tous en même temps, et ça fait encore lâcher les boyaux aux ennemis quand vous tirez sur eux ?<end>
 
 =>q138_original
 ::He inspects the rifle some more, caressing it with a tear in his eye. And then he smiles.::
@@ -890,9 +890,9 @@ Je...
 Ehehe. How can it not kick and roar and tear men to bitlets? It just younger and freshened up, like man who stopped drinking too much, lost extra weight, took a good bath and had a good wife, yes. Better!<end>
 
 =>q138
-::Il inspecte encore le fusil, le caresse avec une larme dans l'œil. Et puis il sourit.::
+::Il inspecte encore le fusil, le caresse avec une larme dans l'œil. Puis il sourit.::
 
-Oui. Comment peut-il ne pas frapper et rugir et déchirer les hommes aux morsures ? C'est juste plus jeune et rafraîchi, comme l'homme qui a arrêté de boire trop, a perdu du poids supplémentaire, a pris un bon bain et a eu une bonne femme, oui. Mieux !<end>
+Ehehe. Comment ça peut pas reculer et rugir et déchirer les hommes en bitlets ? C'est juste plus jeune et rafraîchi, comme homme qui a arrêté de trop boire, perdu le gras en trop, pris un bon bain et eu une bonne femme, oui. Mieux !<end>
 
 =>q139_original
 ::He inserts the magazine back in.::
@@ -902,17 +902,17 @@ This is Ahka. Ready to ra-ta-ta-ta-ta evil people - to death!
 ::He then flips the safety on.::<end>
 
 =>q139
-::Il insère le magazine.::
+::Il remet le chargeur.::
 
-Voici Ahka. Prêt pour les gens maléfiques à mourir !
+Ça c'est Ahka. Prêt à ra-ta-ta-ta-ta les méchants - jusqu'à mort !
 
-::Il retourne ensuite la sécurité.::<end>
+::Puis il remet le cran de sûreté.::<end>
 
 =>a140_original
 If you don't like it...<end>
 
 =>a140
-Si ça ne te plaît pas...<end>
+Si ça ne vous plaît pas...<end>
 
 =>q141_original
 No. <end>
@@ -924,7 +924,7 @@ Non. <end>
 Enjoy your refurbished rifle, friend.<end>
 
 =>a142
-Amuse-toi bien, mon ami.<end>
+Profitez de votre fusil retapé, l'ami.<end>
 
 =>a143_original
 That rifle of yours...<end>
@@ -938,9 +938,9 @@ My puschka? That, errr: *Ah-Ka-Eeks* - or how I call it - *Ahka*. It very old ri
 It good puschka, yes.<end>
 
 =>q144
-Ma puschka ? Ça, errr: *Ah-Ka-Eeks* - ou comment je l'appelle - *Ahka*. C'est un vieux fusil, d'un passé lointain. Moi, comment vous dites, je l'hérite de mon grand-père, qui l'a obtenu de son père, qui l'a volé à son père, qui l'a gardé à l'écart de son père sénile nommé Kvaromir, qui l'a aussi obtenu de son père, qui l'a trouvé dans un trou à côté d'un voisin mort. Cette puschka, c'est... errer, comment tu dis, a tué beaucoup de gens à mort.
+Ma puschka ? Ça, errr : *Ah-Ka-Eeks* - ou comment moi l'appelle - *Ahka*. C'est très vieux fusil, d'un passé lointain. Moi, comment on dit, hériter de mon grand-père, qui l'a eu de son père, qui l'a volé à son père, qui le gardait sous clé loin de son père sénile nommé Kvaromir, qui l'a aussi eu de son père, qui l'a trouvé dans un trou à côté d'un voisin mort. Cette puschka, elle... errr, comment on dit, a tué beaucoup de gens jusqu'à mort.
 
-C'est bien puschka, oui.<end>
+C'est bonne puschka, oui.<end>
 
 =>q145_original
 <end>
@@ -952,67 +952,67 @@ C'est bien puschka, oui.<end>
 Wanna trade it for something?<end>
 
 =>a146
-Tu veux l'échanger contre quelque chose ?<end>
+Vous voulez l'échanger contre quelque chose ?<end>
 
 =>q147_original
 I... You... I...<end>
 
 =>q147
-Vous...<end>
+Moi... Vous... Moi...<end>
 
 =>q148_original
 You great fighter, the best of okay, but I... ah, how you say... I feel very great emotional attachment to my Ahka. <end>
 
 =>q148
-Grand combattant, le meilleur d'accord, mais je... comment tu dis... Je ressens un très grand attachement émotionnel à mon Ahka. <end>
+Vous grand combattant, le meilleur de okay, mais moi... ah, comment on dit... moi sentir très grand attachement émotionnel à mon Ahka. <end>
 
 =>q149_original
 I could not trade it. Never.<end>
 
 =>q149
-Je ne pouvais pas l'échanger. Jamais.<end>
+Moi pas pouvoir l'échanger. Jamais.<end>
 
 =>a150_original
 ::[Persuade]:: Let me borrow it then. Don't worry, I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a150
-::[Persuader]:: Laissez-moi l'emprunter. Ne t'inquiète pas, je prendrai bien soin d'elle. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Laissez-moi l'emprunter alors. Ne vous inquiétez pas, je prendrai bien soin d'elle. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>q151_original
 Wait... Why you say *her*? It is not woman.<end>
 
 =>q151
-Attendez... Pourquoi tu dis "elle" ? Ce n'est pas une femme.<end>
+Attendez... Pourquoi vous dire *elle* ? C'est pas une femme.<end>
 
 =>a152_original
 Some people like to give their guns a female name. Ahka sounded... female to my ears.<end>
 
 =>a152
-Certaines personnes aiment donner à leurs armes un nom féminin. Ahka sonnait... femelle à mes oreilles.<end>
+Certains aiment donner un nom de femme à leurs armes. Ahka sonnait... féminin à mes oreilles.<end>
 
 =>q153_original
 But it doesn't make high noises that irritate drums of ears. It make very, very manly *doom-doom-doom* noises! Nothing gentle about Ahka.<end>
 
 =>q153
-Mais il ne fait pas de bruits élevés qui irritent les tambours d'oreilles. Ça fait des bruits très, très viril ! Rien de gentil avec Ahka.<end>
+Mais ça fait pas des bruits aigus qui irritent les tambours des oreilles. Ça fait des bruits très, très homme *doom-doom-doom* ! Rien de doux chez Ahka.<end>
 
 =>a154_original
 Forget "her". Pretend I didn't say it.<end>
 
 =>a154
-Oublie "elle". Fais comme si je ne l'avais pas dit.<end>
+Oubliez « elle ». Faites comme si je n'avais rien dit.<end>
 
 =>q155_original
 But... but it is *it*, not her. You should say *it* for rifle, I think. Why you confuse me? Oh, grammar difficult in your language! It breaks my head in four - no, eight!<end>
 
 =>q155
-Mais... mais ce n'est pas elle. Tu devrais le dire pour le fusil, je crois. Pourquoi tu me confonds ? Oh, la grammaire est difficile dans votre langue ! Ça me casse la tête en quatre, non, huit !<end>
+Mais... mais c'est *ça*, pas elle. Vous devez dire *ça* pour fusil, je crois. Pourquoi vous confondre moi ? Oh, grammaire difficile dans votre langue ! Ça casse ma tête en quatre - non, huit !<end>
 
 =>a156_original
 Can I have the damn gun or not?<end>
 
 =>a156
-Je peux avoir cette arme ou pas ?<end>
+Je peux avoir ce satané flingue, oui ou non ?<end>
 
 =>q157_original
 <end>
@@ -1024,7 +1024,7 @@ Je peux avoir cette arme ou pas ?<end>
 You did bring me czernina, you knew I liked...<end>
 
 =>q158
-Tu m'as apporté Czernina, tu savais que j'aimais...<end>
+Vous m'avez bien apporté la czernina, vous saviez que j'aimais...<end>
 
 =>q159_original
 ::He hesitates a bit, then offers you the weapon, holding it by the handguard.:: 
@@ -1032,9 +1032,9 @@ Tu m'as apporté Czernina, tu savais que j'aimais...<end>
 Okay. I trust you. You can have Ahka for a while - until next mission.<end>
 
 =>q159
-::Il hésite un peu, puis vous offre l'arme, la tenant par le garde-main.::
+::Il hésite un peu, puis vous tend l'arme, la tenant par le garde-main.::
 
-Très bien. Je te fais confiance. Vous pouvez avoir Ahka un moment - jusqu'à la prochaine mission.<end>
+Bon. Moi vous faire confiance. Vous pouvez avoir Ahka un moment - jusqu'à prochaine mission.<end>
 
 =>q160_original
 Take good care of Ahka, and don't use *crappy* bullets. Give Ahka, how you say, the best of okay, yes.
@@ -1042,7 +1042,7 @@ Take good care of Ahka, and don't use *crappy* bullets. Give Ahka, how you say, 
 <end>
 
 =>q160
-Prends bien soin d'Ahka, et n'utilise pas de balles. Donnez à Ahka, comment vous dites, le meilleur d'accord, oui.
+Prenez bien soin d'Ahka, et utilisez pas de balles *pourries*. Donnez à Ahka, comment on dit, le meilleur de okay, oui.
 
 <end>
 
@@ -1056,7 +1056,7 @@ Et, errr... czernina ?<end>
 As promised. ::Hand him the can.::<end>
 
 =>a162
-Comme promis. ::Donne-lui la boîte.::<end>
+Comme promis. ::Lui tendre la boîte.::<end>
 
 =>q163_original
 Thank you, thank you, thank you! <end>
@@ -1068,7 +1068,7 @@ Merci, merci, merci ! <end>
 I eat this, how you say - slowly, and with awesome pleasure, yes.<end>
 
 =>q164
-Je mange ça, comme tu dis - lentement, et avec plaisir, oui.<end>
+Moi manger ça, comment on dit - lentement, et avec plaisir génial, oui.<end>
 
 =>q165_original
 I start now. ::He licks his lips while reaching for a can opener in his pocket; a few crunches later and he's already absorbing the mind-bending fragrances from the open can.::
@@ -1076,9 +1076,9 @@ I start now. ::He licks his lips while reaching for a can opener in his pocket; 
 Mmmm, more schto gu zplno rnda! Uf!<end>
 
 =>q165
-Je commence maintenant. ::Il lèche les lèvres tout en cherchant un ouvre-boîte dans sa poche; quelques craquelures plus tard et il absorbe déjà les parfums odorants de la boîte ouverte.::
+Moi commence maintenant. ::Il se lèche les lèvres en cherchant un ouvre-boîte dans sa poche ; quelques cracs plus tard, il absorbe déjà les parfums qui plient l'esprit, sortis de la boîte ouverte.::
 
-Plus de schto gu zplno rnda ! Ouf !<end>
+Mmmm, more schto gu zplno rnda ! Uf !<end>
 
 =>q166_original
 ::Somehow he is now holding a spoon - a bizzare display of a hungry man's sleight of hand.::
@@ -1086,15 +1086,15 @@ Plus de schto gu zplno rnda ! Ouf !<end>
 Errr... what were we talking about? ::He says and takes a mouthful of czernina.::<end>
 
 =>q166
-::D'une manière ou d'une autre, il tient maintenant une cuillère - un étalage de bizzare d'un homme affamé.::
+::D'une façon ou d'une autre, il tient maintenant une cuillère - un tour de passe-passe bizarre d'homme affamé.::
 
-De quoi parlions-nous ? ::Il dit et prend une bouche pleine de czernina.::<end>
+Errr... de quoi on parlait ? ::Dit-il, avant d'engloutir une bouchée de czernina.::<end>
 
 =>q167_original
 I'll be here.<end>
 
 =>q167
-Je serai là.<end>
+Moi serai là.<end>
 
 =>q168_original
 <end>
@@ -1106,31 +1106,31 @@ Je serai là.<end>
 I... sorry. I can't. I just don't feel, how you say... comfortable to give Ahka to anyone yet. You understand, yes.<end>
 
 =>q169
-Désolé. Je ne peux pas. Je ne me sens pas à l'aise de donner Ahka à quelqu'un. Vous comprenez, oui.<end>
+Moi... désolé. Moi pas pouvoir. Moi juste pas sentir, comment on dit... à l'aise de donner Ahka à quelqu'un encore. Vous comprendre, oui.<end>
 
 =>a170_original
 Forget what I said. About the rifle...<end>
 
 =>a170
-Oublie ce que j'ai dit. A propos du fusil...<end>
+Oubliez ce que j'ai dit. À propos du fusil...<end>
 
 =>a171_original
 Never mind that. About the rifle...<end>
 
 =>a171
-Laisse tomber. A propos du fusil...<end>
+Laissez tomber. À propos du fusil...<end>
 
 =>a172_original
 ::[Persuade]:: Let me borrow it then. Don't worry, I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a172
-::[Persuader]:: Laissez-moi l'emprunter. Ne t'inquiète pas, je m'en occupe bien. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Laissez-moi l'emprunter alors. Ne vous inquiétez pas, j'en prendrai bien soin. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>a173_original
 Shame. Let's talk about something else, then.<end>
 
 =>a173
-Honte. Parlons d'autre chose.<end>
+Dommage. Parler d'autre chose.<end>
 
 =>q174_original
 Yes. Let's.<end>
@@ -1148,97 +1148,97 @@ Oui. Allons-y.<end>
 ::[Persuade]:: Don't worry, I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a176
-::[Persuader]:: Ne t'inquiète pas, je prendrai bien soin d'elle. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Ne vous inquiétez pas, je prendrai bien soin d'elle. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>a177_original
 ::[Persuade]:: Don't worry, I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a177
-::[Persuader]:: Ne t'inquiète pas, je m'en occupe bien. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Ne vous inquiétez pas, j'en prendrai bien soin. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>q178_original
 But I need my Ahka! To ra-ta-ta-ta-ta evil people! Big battles coming up!<end>
 
 =>q178
-Mais j'ai besoin de mon Ahka ! Aux gens maléfiques ! De grandes batailles arrivent !<end>
+Mais moi besoin de mon Ahka ! Pour ra-ta-ta-ta-ta les méchants ! Grosses batailles qui arrivent !<end>
 
 =>q179_original
 Later... maybe I let you touch it later. <end>
 
 =>q179
-Plus tard... peut-être que je t'ai laissé le toucher plus tard. <end>
+Plus tard... peut-être moi laisser vous le toucher plus tard. <end>
 
 =>q180_original
 But no trade. Trade, never.<end>
 
 =>q180
-Mais pas de commerce. Échange, jamais.<end>
+Mais pas de troc. Troc, jamais.<end>
 
 =>a181_original
 Mind if I borrow it for a while? Looks... fun to shoot.<end>
 
 =>a181
-Je peux l'emprunter un moment ? Ça a l'air... amusant de tirer.<end>
+Ça vous dérange si je l'emprunte un moment ? Ça a l'air... amusant à tirer.<end>
 
 =>a182_original
 Let's talk about something else.<end>
 
 =>a182
-Parlons d'autre chose.<end>
+Parler d'autre chose.<end>
 
 =>a183_original
 About your rifle...<end>
 
 =>a183
-A propos de ton fusil...<end>
+À propos de votre fusil...<end>
 
 =>q184_original
 Ahka. My puschka.<end>
 
 =>q184
-Oui. Ma puschka.<end>
+Ahka. Ma puschka.<end>
 
 =>a185_original
 You mentioned czernina. Were you talking about this? ::Show him canned czernina.::<end>
 
 =>a185
-Vous avez parlé de Czernina. Tu parlais de ça ? ::Montre-lui Czernina en conserve.::<end>
+Vous avez parlé de czernina. C'était ça ? ::Lui montrer de la czernina en conserve.::<end>
 
 =>q186_original
 It... ::He looks at the can, and soon a smile of reminiscence brightens his face.:: It czernina! Ohhhh, schto sam suzsheleo, bre!<end>
 
 =>q186
-Ça... ::Il regarde la boîte, et bientôt un sourire de souvenir éclaire son visage.:: C'est Czernina ! Ohhhh, schto sam suzsheleo, bre !<end>
+Ça... ::Il regarde la boîte, et bientôt un sourire de souvenir lui éclaire le visage.:: C'est czernina ! Ohhhh, schto sam suzsheleo, bre !<end>
 
 =>q187_original
 Can I... can I have some?<end>
 
 =>q187
-Je peux en avoir ?<end>
+Moi peux... moi peux en avoir ?<end>
 
 =>a188_original
 Sure. ::Hand him the can.::<end>
 
 =>a188
-Bien sûr. ::Donne-lui la boîte.::<end>
+Bien sûr. ::Lui tendre la boîte.::<end>
 
 =>a189_original
 ::[Persuade]:: It's yours - if you let me borrow your rifle for a little while. I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a189
-::[Persuader]:: C'est à toi, si tu me laisses emprunter ton fusil un moment. Je vais m'occuper d'elle. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Elle est à vous - si vous me laissez emprunter votre fusil un moment. Je prendrai bien soin d'elle. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>a190_original
 ::[Persuade]:: It's yours - if you let me borrow your rifle for a little while. I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
 
 =>a190
-::[Persuader]:: C'est à toi, si tu me laisses emprunter ton fusil un moment. Je vais m'en occuper. J'ai besoin de mon fusil.<end>
+::[Persuade]:: Elle est à vous - si vous me laissez emprunter votre fusil un moment. J'en prendrai bien soin. J'ai mes propres munitions et tout - j'ai juste besoin du fusil.<end>
 
 =>a191_original
 I did not get this cheap. It's yours for fifty charons.<end>
 
 =>a191
-Je n'ai pas eu ce bon marché. C'est à toi pour 50 charons.<end>
+Je ne l'ai pas eue pour rien. Elle est à vous pour cinquante charons.<end>
 
 =>q192_original
 ::He grabs a handful of coins from his pouch...:: Yeees. ::...counts them, and gives them to you.::
@@ -1246,15 +1246,15 @@ Je n'ai pas eu ce bon marché. C'est à toi pour 50 charons.<end>
 Yes! ::And then he pretty much snatches the can from your hand.::<end>
 
 =>q192
-::Il prend une poignée de pièces dans sa poche...:: Yeees. ::...les compte, et vous les donne.::
+::Il prend une poignée de pièces dans sa bourse...:: Ouiiii. ::...les compte, et vous les donne.::
 
-Oui ! ::Et puis il t'arrache la boîte de la main.::<end>
+Oui ! ::Puis il vous arrache quasiment la boîte des mains.::<end>
 
 =>q193_original
 Mine! <end>
 
 =>q193
-La mienne ! <end>
+À moi ! <end>
 
 =>a194_original
 Maybe later.<end>
@@ -1268,7 +1268,7 @@ Ah, I see, you save it for great celebration of greater victory!
 <end>
 
 =>q195
-Ah, je vois, vous le gardez pour une grande célébration de la plus grande victoire !
+Ah, moi voir, vous gardez ça pour grande fête de plus grande victoire !
 
 <end>
 
@@ -1276,13 +1276,13 @@ Ah, je vois, vous le gardez pour une grande célébration de la plus grande vict
 Err, but greater victory was... victored at S-R-O. Maybe there's even greater, hmmm...<end>
 
 =>q196
-Err, mais une plus grande victoire a été... victorisée à S-R-O. Peut-être qu'il y a encore plus, hmmm...<end>
+Errr, mais plus grande victoire a été... victoireée à S-R-O. Peut-être y a encore plus grande, hmmm...<end>
 
 =>q197_original
 I wait. I'm patient. Like crawler from shadows.<end>
 
 =>q197
-J'attends. Je suis patient. Comme un rampant d'ombres.<end>
+Moi attendre. Moi patient. Comme crawler des ombres.<end>
 
 =>a198_original
 No.<end>
@@ -1294,31 +1294,31 @@ Non.<end>
 I would like to exchange some zlatortiyas for charons.<end>
 
 =>a199
-J'aimerais échanger des zlatartiyas contre des charons.<end>
+J'aimerais échanger des zlatortiyas contre des charons.<end>
 
 =>a200_original
 ::[Intelligence]:: So basically, you are a traditionalist coming from a militaristic autocracy from the far west in order to help a radical anarchist group from North Underrail fight a militaristic, expansionist organization also from the North that is threatening to occupy South Underrail as well as to maintain its totalitarian rule in the North.<end>
 
 =>a200
-::[Intelligence]:: Donc, en gros, vous êtes un traditionaliste venant d'une autocratie militariste de l'extrême ouest afin d'aider un groupe anarchiste radical du Nord Underrail à combattre une organisation militariste et expansionniste également du Nord qui menace d'occuper le Sud Underrail ainsi que de maintenir sa domination totalitaire dans le Nord.<end>
+::[Intelligence]:: Donc, en gros, vous êtes un traditionaliste venu d'une autocratie militariste de l'extrême ouest pour aider un groupe anarchiste radical du North Underrail à combattre une organisation militariste et expansionniste, elle aussi du Nord, qui menace d'occuper le South Underrail tout en maintenant sa domination totalitaire au Nord.<end>
 
 =>q201_original
 I don't know what you say. I come here to help people be free and to break evil in four. Evil spread if you don't, errr, break it in four like the spine of a vermin animal, like glazdna or the big rovach.<end>
 
 =>q201
-Je ne sais pas ce que tu dis. Je viens ici pour aider les gens à être libres et à briser le mal en quatre. Le mal s'est répandu si vous ne le faites pas, errer, le casser en quatre comme la colonne vertébrale d'un animal vermine, comme la glazdna ou le grand rovach.<end>
+Moi pas savoir ce que vous dire. Moi venir ici pour aider les gens à être libres et casser le mal en quatre. Le mal se répand si vous pas, errr, le casser en quatre comme l'échine d'une bête vermine, comme glazdna ou le grand rovach.<end>
 
 =>q202_original
 My heart is in the right place, I know it.<end>
 
 =>q202
-Mon cœur est au bon endroit.<end>
+Mon cœur est au bon endroit, moi le sais.<end>
 
 =>a203_original
 Tell me more about Fatherland.<end>
 
 =>a203
-Parlez-moi de la patrie.<end>
+Parlez-moi de Fatherland.<end>
 
 =>q204_original
 Fatherland is one, how you say, very much great place. It west of here, far away. It more open caves and space, not so much metro and caves tighter than Ulyuk Ndzslav's pants, and there many places in it, like my place, Chniokovo Ludilo, but also Drznavgrad - capital, Gudrava Poschkontnitza, Plop and Tuchuznt. 
@@ -1326,75 +1326,75 @@ Fatherland is one, how you say, very much great place. It west of here, far away
 We have trains too, but here rail is life, while in Fatherland rail is very, very important, but still means of transportation and is not life. Here people derailed, there people crazy - mad, cuckoo. You know what I mean?<end>
 
 =>q204
-La patrie est un endroit très bon, comme vous dites. C'est à l'ouest, loin d'ici. Il plus de grottes ouvertes et d'espace, pas tant de métro et de grottes plus serrés que le pantalon d'Ulyuk Ndzslav, et il y a beaucoup d'endroits dedans, comme ma place, Chniokovo Ludilo, mais aussi Drznavgrad - capitale, Gudrava Poschkontnitza, Plop et Tuchuznt.
+Fatherland c'est un, comment on dit, très beaucoup grand endroit. C'est ouest d'ici, très loin. Plus de grottes ouvertes et d'espace, pas tant de métro et de grottes plus serrées que le pantalon d'Ulyuk Ndzslav, et y a beaucoup d'endroits dedans, comme mon endroit, Chniokovo Ludilo, mais aussi Drznavgrad - capitale, Gudrava Poschkontnitza, Plop et Tuchuznt.
 
-Nous avons aussi des trains, mais ici le rail est la vie, alors qu'à la Patrie le rail est très, très important, mais toujours des moyens de transport et n'est pas la vie. Ici les gens ont déraillé, là les gens fou - fou, coucou. Tu vois ce que je veux dire ?<end>
+Nous avons trains aussi, mais ici le rail c'est la vie, alors que dans Fatherland le rail c'est très, très important, mais encore moyen de transport et c'est pas la vie. Ici les gens déraillés, là-bas les gens fous - dingues, coucou. Vous savez ce que je veux dire ?<end>
 
 =>q205_original
 And one thing I notice here is we have Fatherland, but you don't have South Underrail. Errr, to us Fatherland is every - how you say - every station, every man and all land that is ours. All that is Fatherland - ours. Here, everyone is for himself, his family or his group, but never whole South Underrail. You don't hear someone yell "For South Underrail, zdrganlpno!" You understand? You might say for Free Drones, for Core City or Camp Hatathor, but never South Underrail. You live in South Underrail, but South Underrail does not live in you. I would fight for Fatherland, but you people see South Underrail just as land you live in. It hard to explain, errr, it very much hard as nails to explain.<end>
 
 =>q205
-Et une chose que je remarque ici est que nous avons la Patrie, mais vous n'avez pas le Sud Underrail. Errr, pour nous la Patrie est tout - comme vous dites - chaque station, chaque homme et toute terre qui est à nous. Tout cela est la Patrie - la nôtre. Ici, tout le monde est pour lui-même, sa famille ou son groupe, mais jamais tout le Sud Underrail. Vous n'entendez personne crier "Pour le Sud Underrail, zdrganlpno!" Compris ? Vous pourriez dire pour Free Drones, pour Core City ou Camp Hatathor, mais jamais Sud Underrail. Vous vivez dans le Sud Underrail, mais le Sud Underrail ne vit pas en vous. Je me battais pour la Patrie, mais vous voyez le Sud Underrail comme la terre dans laquelle vous vivez. C'est dur à expliquer, errer, c'est très dur à expliquer.<end>
+Et une chose moi remarque ici : nous avons Fatherland, mais vous avez pas South Underrail. Errr, pour nous Fatherland c'est chaque - comment on dit - chaque station, chaque homme et toute terre qui est à nous. Tout ça c'est Fatherland - à nous. Ici, chacun pour lui-même, sa famille ou son groupe, mais jamais tout South Underrail. Vous entendez personne crier « Pour South Underrail, zdrganlpno ! » Vous comprendre ? Vous pouvez dire pour Free Drones, pour Core City ou Camp Hatathor, mais jamais South Underrail. Vous vivez dans South Underrail, mais South Underrail vit pas en vous. Moi je me battrais pour Fatherland, mais vous les gens voyez South Underrail juste comme terre où vous vivez. C'est dur à expliquer, errr, c'est très beaucoup dur comme clous à expliquer.<end>
 
 =>q206_original
 But, that is why we have big army, united army, to defend Fatherland. And a great leader, because a good leader is the *best* way to run, errr, how you say - society, while bad leader is the worst. Ne zplno.<end>
 
 =>q206
-Mais c'est pourquoi nous avons une grande armée, une armée unie, pour défendre la patrie. Et un grand leader, parce qu'un bon leader est la meilleure façon de courir, errer, comment vous dites - la société, tandis que le mauvais leader est le pire. Ne zplno.<end>
+Mais c'est pour ça on a grande armée, armée unie, pour défendre Fatherland. Et un grand chef, parce qu'un bon chef c'est la *meilleure* façon de faire marcher, errr, comment on dit - société, et un mauvais chef c'est le pire. Ne zplno.<end>
 
 =>a207_original
 What can you tell me about your fatherland's military?<end>
 
 =>a207
-Que pouvez-vous me dire sur l'armée de votre patrie ?<end>
+Que pouvez-vous me dire de l'armée de votre Fatherland ?<end>
 
 =>q208_original
 I tell you, but don't wear our uniform again, okay?<end>
 
 =>q208
-Je vous le dis, mais ne portez plus notre uniforme.<end>
+Moi vous dire, mais portez plus notre uniforme, d'accord ?<end>
 
 =>q209_original
 Our army strong, very much to the best strong. It contains many men, all well trained and ready to break in four, ehehe. I also served in our great army, and fought. Not great enemy armies of past, no, but bandits and evil men coming from east - from here, gudravtzi plmazni... ::He mutters the rest to himself.:: And those barbar-men from southwest, gudravtzi neoklkopevani...<end>
 
 =>q209
-Notre armée est forte, très forte. Il contient beaucoup d'hommes, tous bien entraînés et prêts à casser en quatre, ehehe. J'ai aussi servi dans notre grande armée, et je me suis battu. Pas de grandes armées ennemies du passé, non, mais des bandits et des méchants venant d'est - d'ici, gudravtzi plmazni... ::Il mute le reste à lui-même.:: Et ces barbares du sud-ouest, gudravtzi neoklkopevani...<end>
+Notre armée forte, très beaucoup jusqu'au meilleur forte. Elle contient beaucoup d'hommes, tous bien entraînés et prêts à casser en quatre, ehehe. Moi aussi servi dans notre grande armée, et combattu. Pas les grandes armées ennemies du passé, non, mais bandits et méchants qui viennent de l'est - d'ici, gudravtzi plmazni... ::Il marmonne le reste pour lui-même.:: Et ces hommes-barbares du sud-ouest, gudravtzi neoklkopevani...<end>
 
 =>q210_original
 Our army keeps Fatherland safe, but scum from all around sometimes sneaks in more and more and threaten our freedom.<end>
 
 =>q210
-Notre armée garde la Patrie en sécurité, mais les ordures de partout se faufilent parfois de plus en plus et menacent notre liberté.<end>
+Notre armée garde Fatherland en sécurité, mais la racaille de partout parfois se faufile de plus en plus et menace notre liberté.<end>
 
 =>a211_original
 So I suspect you have have a lot of military bases there?<end>
 
 =>a211
-Donc je pense que vous avez beaucoup de bases militaires là-bas ?<end>
+Donc j'imagine que vous avez beaucoup de bases militaires là-bas ?<end>
 
 =>q212_original
 Yes, many. I served in Tratischevo, south of Brazgrzna and just northeast of Chopava Baba. It was, how we say, slavno, which means so-good-you-want-to-celebrate-it-from-time-to-time-by-making-big-feast. Yes. But there are many other bases of army.<end>
 
 =>q212
-Oui, beaucoup. J'ai servi à Tratischevo, au sud de Brazgrzna et juste au nord-est de Chopava Baba. C'était, comment on dit, slavno, ce qui veut dire si bon-tu-veux-célébrer-il-de-temps-à-temps-par-faire-big-fête. Oui. Mais il y a beaucoup d'autres bases de l'armée.<end>
+Oui, beaucoup. Moi servi à Tratischevo, au sud de Brazgrzna et juste au nord-est de Chopava Baba. C'était, comment on dit, slavno, ça veut dire tellement-bon-qu'on-veut-le-fêter-de-temps-en-temps-en-faisant-grande-fête. Oui. Mais y a beaucoup d'autres bases d'armée.<end>
 
 =>q213_original
 I remember... in Tratischevo, there was fat cook woman that made best czernina I ever eat in life. Even my mama - mother, or my matoramama - grandmother, they don't make that good czernina. Sadly no.<end>
 
 =>q213
-Je me souviens... à Tratischevo, il y avait une grosse cuisinière qui faisait la meilleure czernina que je mangeais dans la vie. Même ma mère, ou ma grand-mère, ne font pas cette bonne czernina. Malheureusement non.<end>
+Moi me souvenir... à Tratischevo, y avait une grosse femme cuisinière qui faisait la meilleure czernina que moi jamais manger dans la vie. Même ma mama - mère, ou ma matoramama - grand-mère, elles font pas czernina aussi bonne. Malheureusement non.<end>
 
 =>a214_original
 Tell me about the leader of Fatherland.<end>
 
 =>a214
-Parlez-moi du chef de la patrie.<end>
+Parlez-moi du chef de Fatherland.<end>
 
 =>q215_original
 We have leader, it is Nadbojvod Jarkov Mochnik. He our leader, or how you say - the alpha male of the house, ehehe. Oh, Nadbojvod is his title - it better title than military general, much better. General is like bojvod, while something like overgeneral is like nadbojvod. But ours would still be very much so better, yes, ehehe.<end>
 
 =>q215
-Nous avons un leader, c'est Nadbojvod Jarkov Mochnik. C'est notre chef, ou comment vous dites - le mâle alpha de la maison, ehehe. Oh, Nadbojvod est son titre - mieux que le général militaire, bien mieux. Le général est comme le bojvod, tandis que quelque chose comme le surgénéral est comme le nadbojvod. Mais le nôtre serait encore beaucoup mieux, oui, ehehe.<end>
+Nous avons chef, c'est Nadbojvod Jarkov Mochnik. Lui notre chef, ou comment on dit - le mâle alpha de la maison, ehehe. Oh, Nadbojvod c'est son titre - mieux titre que général militaire, bien mieux. Général c'est comme bojvod, et quelque chose comme surgénéral c'est comme nadbojvod. Mais le nôtre encore très beaucoup mieux, oui, ehehe.<end>
 
 =>a216_original
 I had other questions.<end>
@@ -1406,31 +1406,31 @@ J'avais d'autres questions.<end>
 I have other answers, ehehe.<end>
 
 =>q217
-J'ai d'autres réponses.<end>
+Moi ai d'autres réponses, ehehe.<end>
 
 =>a218_original
 Tell me more about Nadbojvod Mochnik.<end>
 
 =>a218
-Parlez-moi de Nadbojvod Mochnik.<end>
+Parlez-moi davantage de Nadbojvod Mochnik.<end>
 
 =>q219_original
 He man like every man should be. He has stayed with same woman even though he could have every one of them; has many, many little Mochniks, so his strong bloodline will not die; cherishes our tradition, culture and faith, and is domachin - a great hospitable homeowner. It very important in Fatherland. <end>
 
 =>q219
-C'est un homme comme tout le monde. Il est resté avec la même femme même s'il pouvait avoir chacun d'eux; a beaucoup, beaucoup de petits Mochniks, de sorte que sa ligne de sang forte ne mourra pas; chérit notre tradition, notre culture et notre foi, et est domachin - un grand propriétaire hospitalier. C'est très important en Patrie. <end>
+Lui homme comme tout homme devrait être. Il est resté avec la même femme même s'il pouvait les avoir toutes ; a beaucoup, beaucoup de petits Mochniks, pour que sa lignée forte meure pas ; chérit notre tradition, culture et foi, et est domachin - un grand maître de maison hospitalier. C'est très important dans Fatherland. <end>
 
 =>q220_original
 We have big army, very big army - but he never send us to attack other, we only defend from evil, yes. Many want to destroy us, but we break them in four! Evil army, bandit, barbar-men or animal - we break them all in four. He best leader! And he has mustache that throw great shadows - like a real man should.<end>
 
 =>q220
-Nous avons une grande armée, une très grande armée - mais il ne nous envoie jamais attaquer l'autre, nous ne défendons contre le mal, oui. Beaucoup veulent nous détruire, mais nous les brisons en quatre ! Mauvaise armée, bandit, barbarie ou animal, on les brise tous en quatre. Il est le meilleur chef ! Et il a la moustache qui jette de grandes ombres - comme un vrai homme devrait.<end>
+Nous avons grande armée, très grande armée - mais lui jamais nous envoyer attaquer les autres, nous seulement défendre contre le mal, oui. Beaucoup veulent nous détruire, mais nous les casser en quatre ! Armée mauvaise, bandit, hommes-barbares ou animal - on les casse tous en quatre. Lui meilleur chef ! Et il a moustache qui jette de grandes ombres - comme un vrai homme devrait.<end>
 
 =>q221_original
 He is stern but fair, like a father. He tells us what must be done, and we all know our place, women too, but we are free. More free than Free Drones, who get shot by everyone, very evil or not very evil. And we have everything we need: family, food, home and good life. We, we have our land - our Fatherland, and we have it because of Nadbojvod, yes. He great!<end>
 
 =>q221
-Il est sévère mais juste, comme un père. Il nous dit ce qui doit être fait, et nous connaissons tous notre place, les femmes aussi, mais nous sommes libres. Plus libre que Free Drones, qui se font tirer dessus par tout le monde, très mauvais ou pas très mauvais. Et nous avons tout ce dont nous avons besoin : famille, nourriture, maison et bonne vie. Nous, nous avons notre terre - notre patrie, et nous l'avons à cause de Nadbojvod, oui. Il est génial !<end>
+Il est sévère mais juste, comme un père. Il nous dit ce qui doit être fait, et nous savons tous notre place, les femmes aussi, mais nous sommes libres. Plus libres que Free Drones, qui se font tirer dessus par tout le monde, très méchant ou pas très méchant. Et nous avons tout ce qu'il faut : famille, nourriture, maison et bonne vie. Nous, nous avons notre terre - notre Fatherland, et nous l'avons grâce à Nadbojvod, oui. Lui grand !<end>
 
 =>a222_original
 Did you ever see him in person?<end>
@@ -1444,39 +1444,39 @@ Of course. His brother-by-aunt Opeslav Drmni is my family's above neighbor - you
 Nadbojvod once shook my hand even! Oh, that day I will never forget. Only if bullet blow my head to, as you say, muck.<end>
 
 =>q223
-Bien sûr. Son frère Opeslav Drmni est ma famille au-dessus du voisin - vous savez, vivant au-dessus de nous - donc Nadbojvod vient souvent à Chniokovo Ludilo pour la fête ou juste visiter. Je suis fier de la patrie chaque fois que je le vois. Même maintenant, comme je me souviens de lui... ça fait, comment tu dis, que le sentiment d'amour de la patrie grandit en moi - je suis père.
+Bien sûr. Son frère-par-tante Opeslav Drmni est le voisin-du-dessus de ma famille - vous savez, il vit au-dessus de nous - alors Nadbojvod vient souvent à Chniokovo Ludilo pour fête ou juste visite. Moi sentir fierté pour Fatherland chaque fois que je le vois. Même maintenant, quand moi me souvenir de lui... ça fait, comment on dit, le sentiment d'amour de Fatherland grandir en moi - moi pèreiotique.
 
-Nadbojvod m'a encore serré la main ! Ce jour-là, je n'oublierai jamais. Seulement si une balle m'explose la tête, comme vous dites.<end>
+Nadbojvod m'a même serré la main une fois ! Oh, ce jour-là moi jamais oublier. Seulement si une balle me fait sauter la tête en, comme vous dites, bouillie.<end>
 
 =>a224_original
 Why were you married six times, Kokoschka?<end>
 
 =>a224
-Pourquoi t'es-tu mariée six fois, Kokoschka ?<end>
+Pourquoi avez-vous été marié six fois, Kokoschka ?<end>
 
 =>q225_original
 Oh, it great shame, I don't like talk about it. Where I from, to be married so many times not considered good, not for a family man.<end>
 
 =>q225
-J'aime pas en parler. D'où je viens, pour me marier tant de fois pas considéré comme bon, pas pour un homme de famille.<end>
+Oh, c'est grande honte, moi aime pas parler de ça. D'où moi viens, être marié tant de fois c'est pas considéré bon, pas pour un homme de famille.<end>
 
 =>a226_original
 ::[Persuade]:: I won't tell anyone. My lips are sealed. And besides, I think you'll feel a bit better if you open your heart a little.<end>
 
 =>a226
-::[Persuader]:: Je ne le dirai à personne. Mes lèvres sont scellées. Et en plus, je pense que tu te sentiras un peu mieux si tu ouvres un peu ton cœur.<end>
+::[Persuade]:: Je ne le dirai à personne. Mes lèvres sont scellées. Et puis, je pense que vous vous sentirez un peu mieux si vous ouvrez un peu votre cœur.<end>
 
 =>q227_original
 Open heart surgery? Errr, like with doctor-knife?<end>
 
 =>q227
-Une opération cardiaque ouverte ? Errr, comme avec un nif ?<end>
+Chirurgie cœur ouvert ? Errr, comme avec couteau-docteur ?<end>
 
 =>a228_original
 As in confide in others, talk about private things you wouldn't tell just about everyone.<end>
 
 =>a228
-Comme pour se confier aux autres, parler de choses privées que vous ne diriez pas à tout le monde.<end>
+Dans le sens se confier, parler de choses privées qu'on ne raconte pas à tout le monde.<end>
 
 =>q229_original
 Oh. <end>
@@ -1494,31 +1494,31 @@ Oh. <end>
 Okay, I tell you. <end>
 
 =>q231
-Je vous le dis. <end>
+Bon, moi vous dire. <end>
 
 =>q232_original
 I love women too much. They nice, pretty, make tummy go heaven and mind go away. They cook for you, take care of you and make sure you have what you need to be head of family and home. They can't do what men can, but men can't do some things woman can, like have bosom, remember all things, notice every detail in world, see through all lies of all men, and talk and talk and talk until man has to tell her to shut up. <end>
 
 =>q232
-J'aime trop les femmes. Ils sont gentils, jolis, font que le ventre aille au paradis et que l'esprit s'en aille. Ils cuisinent pour vous, prennent soin de vous et s'assurent que vous avez ce dont vous avez besoin pour être chef de famille et de maison. Ils ne peuvent pas faire ce que les hommes peuvent, mais les hommes ne peuvent pas faire certaines choses que les femmes peuvent, comme avoir le sein, se rappeler toutes choses, remarquer chaque détail dans le monde, voir à travers tous les mensonges de tous les hommes, et parler et parler jusqu'à ce que l'homme doit lui dire de se taire. <end>
+Moi aime trop les femmes. Elles gentilles, jolies, font le ventre aller paradis et l'esprit s'en aller. Elles cuisinent pour vous, s'occupent de vous et s'assurent que vous avez ce qu'il faut pour être chef de famille et de maison. Elles peuvent pas faire ce que les hommes peuvent, mais les hommes peuvent pas faire certaines choses que femme peut, comme avoir poitrine, se souvenir de toutes les choses, remarquer chaque détail dans le monde, voir à travers tous les mensonges de tous les hommes, et parler et parler et parler jusqu'à ce que l'homme doit lui dire de se taire. <end>
 
 =>q233_original
 And if man does woman-work he does not do things he great at. Home suffer. Family suffer. Children hungry and go whaaaaa! And if woman try to do man-work, man laugh. Ehehe. Some can do good at certain things, not all, but those rare and often half-man anyway. Normal woman, woman woman, she can never be like man. And that is why I love them, because they are women.<end>
 
 =>q233
-Et si l'homme fait du travail féminin, il ne fait pas des choses qu'il aime. La maison souffre. La famille souffre. Les enfants ont faim et y vont ! Et si une femme essaie de faire du travail, l'homme rit. Oui. Certains peuvent faire du bien à certaines choses, pas toutes, mais ces rares et souvent demi-hommes de toute façon. Une femme normale, une femme, elle ne peut jamais être comme l'homme. Et c'est pourquoi je les aime, parce que ce sont des femmes.<end>
+Et si l'homme fait travail-femme, il fait pas les choses où il est grand. Maison souffre. Famille souffre. Enfants faim et font ouin-ouin ! Et si femme essaie de faire travail-homme, l'homme rit. Ehehe. Certaines peuvent être bonnes à certaines choses, pas toutes, mais celles-là rares et souvent demi-homme de toute façon. Femme normale, femme femme, elle peut jamais être comme homme. Et c'est pour ça moi les aime, parce qu'elles sont femmes.<end>
 
 =>q234_original
 But some woman, how you say, horrible hardcore, they make you think they love you, they good in kitchen, they take care of family, they good in bed like: "Oh, yes, I want more now!" But that you just taste, enough to make you think it good for wife, and then they betray you and show their real face. I have married those women, and also got their mothers as, how we say, present full of dog dirt. ::He sighs.:: And mothers are even worse; like mother-in-law - like eternal pain.<end>
 
 =>q234
-Mais une femme, comment vous dites, horrible hardcore, ils vous font croire qu'ils vous aiment, ils sont bons dans la cuisine, ils prennent soin de la famille, ils sont bons au lit comme: "Oh, oui, je veux plus maintenant!" Mais que tu goûtes juste, assez pour te faire croire que c'est bon pour ta femme, et ensuite ils te trahissent et montrent leur vrai visage. J'ai épousé ces femmes, et j'ai aussi eu leur mère comme, comment on dit, présente pleine de saleté de chien. ::Il soupire.:: Et les mères sont encore pires, comme la belle-mère, comme la douleur éternelle.<end>
+Mais certaines femmes, comment on dit, horribles hardcore, elles vous font croire qu'elles vous aiment, elles bonnes en cuisine, elles s'occupent de la famille, elles bonnes au lit comme : « Oh, oui, moi veux plus maintenant ! » Mais ça vous goûtez juste, assez pour vous faire croire que c'est bon pour femme, et après elles vous trahissent et montrent leur vrai visage. Moi ai épousé ces femmes, et j'ai aussi eu leurs mères comme, comment on dit, cadeau plein de merde de chien. ::Il soupire.:: Et les mères sont encore pires ; comme belle-mère - comme douleur éternelle.<end>
 
 =>q235_original
 When you check woman, you check how good her family, and in small places you know how good is a family. Good family - good woman most of the time. But all good women were already married in Chniokovo Ludilo, so I had to look outside. And you don't know their family well, so they trick you, how you say, more easy. Then you marry, and then it is too late.<end>
 
 =>q235
-Quand on vérifie la femme, on vérifie à quel point sa famille est bonne, et dans de petits endroits on sait à quel point c'est une famille. Bonne famille - bonne femme la plupart du temps. Mais toutes les bonnes femmes étaient déjà mariées à Chniokovo Ludilo, donc je devais regarder dehors. Et vous ne connaissez pas bien leur famille, donc ils vous trompent, comment vous dites, plus facile. Tu te maries, et il est trop tard.<end>
+Quand vous vérifiez femme, vous vérifiez comment bonne sa famille, et dans les petits endroits vous savez comment bonne est une famille. Bonne famille - bonne femme la plupart du temps. Mais toutes les bonnes femmes déjà mariées à Chniokovo Ludilo, alors moi dû regarder dehors. Et vous connaissez pas bien leur famille, alors elles vous trompent, comment on dit, plus facile. Après vous mariez, et après c'est trop tard.<end>
 
 =>q236_original
 I marry - and she, how you say, frolic with other man. 
@@ -1530,25 +1530,25 @@ I marry - and when we go in bed her head go, as we say, boom like doom. No split
 I marry... and she run away and leave mother-in-law to me.<end>
 
 =>q236
-Je me marie - et elle, comment tu dis, s'en prend à un autre homme.
+Moi marie - et elle, comment on dit, folâtre avec autre homme.
 
-Je me marie et elle cuisine comme si elle avait trois bras gauches. Ou ne cuisine pas du tout! Je me marie, et elle se soucie plus du regard que de la maison et de la famille.
+Moi marie - et elle cuisine comme si elle a trois bras gauches. Ou cuisine pas du tout ! Moi marie, et elle s'occupe plus du look que de la maison et la famille.
 
-Je me marie - et quand on va au lit sa tête va, comme on dit, boum comme la mort. Pas de séparation cette nuit-là, ou n'importe quelle nuit, oh non!
+Moi marie - et quand on va au lit sa tête va, comme on dit, boum comme doom. Pas de splitting cette nuit-là, ni aucune nuit, oh non !
 
-Je me marie... et elle s'enfuit et me laisse ma belle-mère.<end>
+Moi marie... et elle s'enfuit et me laisse la belle-mère.<end>
 
 =>q237_original
 I was fool once, then I said no - I will find good woman. I was fool twice, I said no again... and so on. I was one fool six times, and it was... the same every time. I have to marry - what is man without family? - but I fear it brings me more pain.<end>
 
 =>q237
-J'ai été idiot une fois, puis j'ai dit non - je vais trouver une bonne femme. J'ai été idiot deux fois, j'ai dit non encore... et ainsi de suite. J'étais un idiot six fois, et c'était... pareil à chaque fois. Je dois me marier, qu'est-ce que l'homme sans famille ? - mais j'ai peur que ça me fasse plus mal.<end>
+Moi étais idiot une fois, puis moi dire non - moi vais trouver bonne femme. Moi étais idiot deux fois, moi dire non encore... et comme ça. Moi étais un idiot six fois, et c'était... pareil à chaque fois. Moi dois me marier - qu'est-ce que l'homme sans famille ? - mais moi ai peur que ça m'apporte plus de douleur.<end>
 
 =>q238_original
 I love women... but they can be cruel. I can order them, but then it not love. Julia... Julia my Darling is different. I see what she is like in life without her trying to confuse me, trick me or, how you say, dominate my mind, yes. She cook good, she look good, she cares about people. And no mother-in-law! I think I have learned, how you say, a thing or two so far. I am not making the same mistake again. Or I am wrong and I will become... bigger fool than before. ::He shrugs.::<end>
 
 =>q238
-J'aime les femmes... mais elles peuvent être cruelles. Je peux les commander, mais alors il n'aime pas. Julia, ma chérie est différente. Je vois ce qu'elle est dans la vie sans qu'elle essaie de me confondre, de me tromper ou, comme vous dites, de dominer mon esprit, oui. Elle cuisine bien, elle a l'air bien, elle se soucie des gens. Et pas de belle-mère ! Je pense que j'ai appris, comment vous dites, une ou deux choses jusqu'ici. Je ne fais plus la même erreur. Ou j'ai tort et je deviendrai... plus stupide qu'avant. ::Il hausse les épaules.::<end>
+Moi aime les femmes... mais elles peuvent être cruelles. Moi peux les commander, mais alors ça pas amour. Julia... Julia, ma Darling, elle est différente. Moi vois ce qu'elle est dans la vie sans qu'elle essaie de confondre moi, tromper moi ou, comment on dit, dominer mon esprit, oui. Elle cuisine bon, elle a l'air bon, elle s'occupe des gens. Et pas de belle-mère ! Moi pense que j'ai appris, comment on dit, une chose ou deux jusqu'ici. Moi fais plus la même erreur. Ou moi ai tort et je deviendrai... plus grand idiot qu'avant. ::Il hausse les épaules.::<end>
 
 =>q239_original
 ::He pauses.:: I had little Kokoschkas with some of my wives... 
@@ -1558,9 +1558,9 @@ But they take them away.
 What is man without family?<end>
 
 =>q239
-::Il fait une pause.:: J'avais des petits Kokoschkas avec certaines de mes femmes...
+::Il s'arrête.:: Moi avais des petits Kokoschkas avec certaines de mes femmes...
 
-Mais ils les enlèvent.
+Mais elles les emmènent.
 
 Qu'est-ce que l'homme sans famille ?<end>
 
@@ -1570,15 +1570,15 @@ Qu'est-ce que l'homme sans famille ?<end>
 Let's talk about something else. As we say, let's punch worry into joy. Ehehe.<end>
 
 =>q240
-::Vous voyez une profonde tristesse dans son expression, mais cela ne prend qu'un instant avant qu'il ne l'éviction et le remplace par son visage habituel et innocent.::
+::Vous voyez une tristesse profonde sur son visage, mais ça ne dure qu'un instant avant qu'il la chasse férocement et la remplace par son air habituel, innocent.::
 
-Parlons d'autre chose. Comme nous le disons, nous allons frapper l'inquiétude dans la joie. Oui.<end>
+Parlons d'autre chose. Comme on dit, on frappe le souci dans la joie. Ehehe.<end>
 
 =>q241_original
 I am sorry, but I can't. I trust you, but I just can't. We talk something else, it okay?<end>
 
 =>q241
-Je suis désolé, mais je ne peux pas. Je te fais confiance, mais je ne peux pas. On parle d'autre chose, d'accord ?<end>
+Moi désolé, mais moi pas pouvoir. Moi vous faire confiance, mais moi juste pas pouvoir. On parle autre chose, c'est okay ?<end>
 
 =>a242_original
 Exactly.<end>
@@ -1590,31 +1590,31 @@ Exactement.<end>
 But that painful and brings death. Oh, you joke. You trick me. Ehehe. I don't get joke.<end>
 
 =>q243
-Mais cela est douloureux et apporte la mort. Oh, vous plaisantez. Vous me trompez. Oui. Je ne plaisante pas.<end>
+Mais ça douloureux et ça apporte la mort. Oh, vous plaisantez. Vous tromper moi. Ehehe. Moi pas comprendre blague.<end>
 
 =>a244_original
 We better discuss something else.<end>
 
 =>a244
-On devrait discuter d'autre chose.<end>
+On ferait mieux de parler d'autre chose.<end>
 
 =>a245_original
 We conquered South Railroad Outpost together, Kokoschka. You can trust me.<end>
 
 =>a245
-Nous avons conquis l'avant-poste South Railroad ensemble, Kokoschka. Tu peux me faire confiance.<end>
+On a pris South Railroad Outpost ensemble, Kokoschka. Vous pouvez me faire confiance.<end>
 
 =>q246_original
 Okay, I tell you. We break in four together, we share things. We friends, ehehe.<end>
 
 =>q246
-Je vous le dis. On se casse en quatre, on partage des choses. On est amis.<end>
+Bon, moi vous dire. On casse en quatre ensemble, on partage les choses. On amis, ehehe.<end>
 
 =>a247_original
 Well... then we'll talk about something else.<end>
 
 =>a247
-Alors, on va parler d'autre chose.<end>
+Bon... alors on va parler d'autre chose.<end>
 
 =>q248_original
 It better.<end>
@@ -1626,61 +1626,61 @@ C'est mieux.<end>
 Where are you from, Kokoschka?<end>
 
 =>a249
-D'où venez-vous, Kokoschka ?<end>
+Vous venez d'où, Kokoschka ?<end>
 
 =>q250_original
 I come from far, far, far west, from Fatherland. There is place there called Chniokovo Ludilo, it very far away. It good to live, not much bandits around to destroy you, and even if some want to attack - we break them in four! That's how we say in Chniokovo Ludilo - errr, break in four! Ehehe.<end>
 
 =>q250
-Je viens de loin, de loin, de loin, de l'ouest, de la patrie. Il y a un endroit appelé Chniokovo Ludilo, très loin. C'est bon de vivre, pas beaucoup de bandits autour pour vous détruire, et même si certains veulent attaquer - nous les brisons en quatre! C'est comme ça qu'on dit à Chniokovo Ludilo - errr, casser dans quatre ! Oui.<end>
+Moi viens de loin, loin, loin à l'ouest, de Fatherland. Y a un endroit là-bas appelé Chniokovo Ludilo, c'est très loin. C'est bon à vivre, pas beaucoup de bandits autour pour vous détruire, et même si certains veulent attaquer - on les casse en quatre ! C'est comme ça on dit à Chniokovo Ludilo - errr, casser en quatre ! Ehehe.<end>
 
 =>q251_original
 My father... ::He sighs.:: he very sad when I left. He say to me, "Zarznkalom bulat drobozpol chtekovina ih bre volemto golzmnomno schperidanko." And I say to him, "Tata, pregoznal zrnornznokpa brdalpes?"<end>
 
 =>q251
-Mon père... ::Il soupire.:: il est très triste quand je suis parti. Il me dit, "Zarznkalom bulat drobozpol chtekovina ih bre volemto golzmnomno schperidanko." Et je lui dis : "Tata, prégoznal zrnornznokpa brdalpes ?"<end>
+Mon père... ::Il soupire.:: il très triste quand moi parti. Il me dit, "Zarznkalom bulat drobozpol chtekovina ih bre volemto golzmnomno schperidanko." Et moi lui dire, "Tata, pregoznal zrnornznokpa brdalpes?"<end>
 
 =>q252_original
 Then he say to me: "Ih bre! Chtogodi pandrkne sin schtopita more gumadron, i prdoslavitche knrzozrn!" And I say to him, "Chto ti osch preslovoka zdeno slobodnika."<end>
 
 =>q252
-Puis il me dit: "Hé! Chtogodi pandrkne sin schtopita plus de gumadron, je pdroslavitche knrzozrn!" Et je lui dis : "Chto ti osch preslovoka zdeno slobodnika."<end>
+Puis il me dit : "Ih bre! Chtogodi pandrkne sin schtopita more gumadron, i prdoslavitche knrzozrn!" Et moi lui dire, "Chto ti osch preslovoka zdeno slobodnika."<end>
 
 =>q253_original
 Then my mama said, "Pragonosko te snimzolen grvoplasticsk schnoschnosch i prevobre." And then I left home and come here.<end>
 
 =>q253
-Puis ma mère a dit, "Pragonosko te snimzolen grvoplasticsk schnoschnosch i prevobre." Puis j'ai quitté la maison et je suis venu ici.<end>
+Puis ma mama a dit, "Pragonosko te snimzolen grvoplasticsk schnoschnosch i prevobre." Et puis moi quitté la maison et venu ici.<end>
 
 =>q254_original
 It difficult for me, you know what I mean?<end>
 
 =>q254
-C'est difficile pour moi, tu vois ce que je veux dire ?<end>
+C'est difficile pour moi, vous savez ce que je veux dire ?<end>
 
 =>a255_original
 You mentioned a "great beast" called grizozirg. Care to tell me more about it?<end>
 
 =>a255
-Vous avez parlé d'une "grande bête" appelée grizozirg. Tu veux m'en dire plus ?<end>
+Vous avez parlé d'une « grande bête » appelée grizozirg. Vous voulez m'en dire plus ?<end>
 
 =>q256_original
 Ah, yes, grizozirg. It great beast indeed - grrrrrr! It is big creature, bigger than houndrats, and it is hairy creature, harrier than my third mother-in-law's mustache. Grizozirg walks on all fours and has one mouth on its front side *and* one mouth on its rear side. Yes, it can bite on both sides, and bite hard, because each mouth is filled with big and, how you say, "tazer-sharp" teeth that grow outward. Eh, one tooth goes between the other when the teeth close, yes. You understand?<end>
 
 =>q256
-Ah, oui, grizozirg. C'est vraiment une grande bête. C'est une grande créature, plus grande que les rats à queue, et c'est une créature poilue, plus harcelée que la moustache de ma troisième belle-mère. Grizozirg marche à quatre pattes et a une bouche sur son côté avant * et* une bouche sur son côté arrière. Oui, il peut mordre des deux côtés, et mordre dur, parce que chaque bouche est remplie de grandes dents et, comme vous dites, "tazer-sharp" qui poussent vers l'extérieur. Une dent va entre les deux quand les dents se ferment. Compris ?<end>
+Ah, oui, grizozirg. C'est grande bête pour de vrai - grrrrrr ! C'est grande créature, plus grande que les houndrats, et c'est créature poilue, plus poilue que la moustache de ma troisième belle-mère. Grizozirg marche à quatre pattes et a une bouche sur le devant *et* une bouche sur l'arrière. Oui, il peut mordre des deux côtés, et mordre dur, parce que chaque bouche est pleine de grandes dents et, comment on dit, « tazer-sharp » qui poussent vers l'extérieur. Eh, une dent passe entre l'autre quand les dents se ferment, oui. Vous comprendre ?<end>
 
 =>a257_original
 Are you trying to say that it has a mouth for butt?<end>
 
 =>a257
-Tu veux dire qu'il a une bouche pour les fesses ?<end>
+Vous voulez dire qu'il a une bouche à la place du cul ?<end>
 
 =>q258_original
 No, no, no... Mouth not butt. As the saying goes: "Mouth is mouth, and butt is butt." But it has mouth where butt is on normal animals. Grizozirg not normal. If it had eyes where its rear mouth is, it would be symmetrical when looked from the side!<end>
 
 =>q258
-Non, non, non... Bouche pas cul. Comme le dit le dicton: "Mouth est bouche, et le cul est fesses." Mais il a la bouche où le cul est sur les animaux normaux. Grizirg n'est pas normal. S'il avait des yeux où se trouve sa bouche arrière, il serait symétrique quand on regarde du côté!<end>
+Non, non, non... Bouche pas cul. Comme dit le dicton : « Bouche c'est bouche, et cul c'est cul. » Mais il a bouche là où le cul est sur les animaux normaux. Grizozirg pas normal. S'il avait des yeux là où est sa bouche arrière, il serait symétrique vu de côté !<end>
 
 =>q259_original
 You see, in my language, "griz" means "to bite," and because grizozirg can bite on both sides with much power and little consideration for victim's welfare, its name has a reverse "griz" on the other end - "zirg". And "o" in middle connects them. Get it? Griz-o-zirg. It look like in mirror, errrrr... 
@@ -1690,11 +1690,11 @@ How you call it here...?
 Ah, a "polydrome," yes.<end>
 
 =>q259
-Vous voyez, dans ma langue, "griz" signifie "mordre", et parce que le grizozirg peut mordre des deux côtés avec beaucoup de pouvoir et peu de considération pour le bien-être de la victime, son nom a un "griz" inverse à l'autre extrémité - "zirg". Et "o" au milieu les relie. Compris ? Griz-o-zirg. On dirait dans le miroir, errrrr...
+Vous voyez, dans ma langue, « griz » ça veut dire « mordre », et parce que grizozirg peut mordre des deux côtés avec beaucoup de puissance et peu de considération pour le bien-être de la victime, son nom a un « griz » à l'envers de l'autre côté - « zirg ». Et « o » au milieu les relie. Vous pigé ? Griz-o-zirg. Ça ressemble comme dans le miroir, errrrr...
 
-Comment vous appelez ça ici... ?
+Comment on appelle ça ici... ?
 
-Un "polydrome", oui.<end>
+Ah, un « polydrome », oui.<end>
 
 =>a260_original
 Palindrome.<end>
@@ -1712,13 +1712,13 @@ Oui, poly... polyndrome.<end>
 No, no: Palindrome. Pal-in-drome.<end>
 
 =>a262
-Palindrome. Pal-in-drome.<end>
+Non, non : palindrome. Pal-in-drome.<end>
 
 =>q263_original
 Pal... paly...<end>
 
 =>q263
-Pal... Papa...<end>
+Pal... pali...<end>
 
 =>a264_original
 Palindrome.<end>
@@ -1730,7 +1730,7 @@ Palindrome.<end>
 Pael... peel...<end>
 
 =>q265
-Pael... peler...<end>
+Pael... pile...<end>
 
 =>a266_original
 Palindrome.<end>
@@ -1742,7 +1742,7 @@ Palindrome.<end>
 Palin... palindrome. Yes, palindrome. Palindrome! I get it now. I good at language!<end>
 
 =>q267
-Palin... palindrome. Oui, le palindrome. Palindrome ! J'ai compris. Je suis bon en langue !<end>
+Palin... palindrome. Oui, palindrome. Palindrome ! Moi pigé maintenant. Moi bon en langue !<end>
 
 =>a268_original
 Very good. Now, can a grizozirg eat with both of its mouths?<end>
@@ -1754,25 +1754,25 @@ Très bien. Un grizozirg peut-il manger avec ses deux bouches ?<end>
 Oh yes, oh yes. We even have saying: "You so hungry you eat through chair." Get it? Because grizozirgs always hungry and cannot sit in chair like we do because their rear mouth is... Yeeeeeeees, you get it. ::He grins from ear to ear.::<end>
 
 =>q269
-Oh oui, oh oui. Nous avons même dit: "Tu as tellement faim que tu manges par la chaise." Compris ? Parce que les grizozirgs ont toujours faim et ne peuvent pas s'asseoir comme nous parce que leur bouche arrière est... Oui, vous comprenez. ::Il sourit d'oreille en oreille.::<end>
+Oh oui, oh oui. On a même un dicton : « Vous tellement faim vous manger à travers la chaise. » Vous pigé ? Parce que les grizozirgs toujours faim et peuvent pas s'asseoir sur une chaise comme nous parce que leur bouche arrière est... Ouiiiiiii, vous pigé. ::Il sourit d'une oreille à l'autre.::<end>
 
 =>a270_original
 If grizozirgs have mouths where their butts should be, how do they defecate?<end>
 
 =>a270
-Si les grizozirgs ont la bouche où leurs fesses devraient être, comment déféquer?<end>
+Si les grizozirgs ont des bouches là où devraient être leurs culs, comment ils défèquent ?<end>
 
 =>q271_original
 They, errrr... have exit in the middle. Never try to touch it.<end>
 
 =>q271
-Ils, errrr... ont une sortie au milieu. N'essayez jamais de le toucher.<end>
+Ils, errrr... ont une sortie au milieu. Essayez jamais de toucher ça.<end>
 
 =>a272_original
 I think I've heard enough about grizozirgs. There was something else I wanted to talk to you about.<end>
 
 =>a272
-J'en ai assez entendu parler. Je voulais te parler d'autre chose.<end>
+Je crois que j'en ai assez entendu sur les grizozirgs. Il y avait autre chose dont je voulais vous parler.<end>
 
 =>a273_original
 I gotta go. Bye, Kokoschka.<end>
@@ -1784,7 +1784,7 @@ Je dois y aller. Au revoir, Kokoschka.<end>
 Do zdelovoznia... errr, I mean goodbye.<end>
 
 =>q274
-Faites zdelovoznia... errr, je veux dire au revoir.<end>
+Do zdelovoznia... errr, moi vouloir dire au revoir.<end>
 
 =>q275_original
 Bye, $(context.player.Name).<end>
@@ -1796,31 +1796,31 @@ Au revoir, $(context.player.Name).<end>
 If grizozirgs have mouths where their butts should be, how do they... ehm... go to the toilet.<end>
 
 =>a276
-Si les grizozirgs ont une bouche où leurs fesses devraient être, comment vont-ils aller aux toilettes ?<end>
+Si les grizozirgs ont des bouches là où devraient être leurs culs, comment ils... euh... vont aux toilettes ?<end>
 
 =>q277_original
 They do not need toilet, no. They go and crap wherever they please! But if they do enter toilet to eat a man who hides in toilet, they just break door because they big and very so much strong. Yes.<end>
 
 =>q277
-Ils n'ont pas besoin de toilettes. Ils vont chier où ils veulent ! Mais s'ils entrent dans les toilettes pour manger un homme qui se cache dans les toilettes, ils brisent la porte parce qu'ils sont grands et très forts. Oui.<end>
+Ils ont pas besoin de toilettes, non. Ils vont chier où ça leur plaît ! Mais s'ils rentrent dans les toilettes pour manger un homme qui se cache dans les toilettes, ils cassent juste la porte parce qu'ils grands et très tellement forts. Oui.<end>
 
 =>a278_original
 I don't think you understood me. I meant...<end>
 
 =>a278
-Je ne crois pas que tu m'aies compris. Je voulais dire...<end>
+Je ne crois pas que vous m'ayez compris. Je voulais dire...<end>
 
 =>q279_original
 Oh yes, yes! Sorry, I too literal in understanding. Sorry. <end>
 
 =>q279
-Oh oui ! Désolé, j'ai trop compris. Désolé. <end>
+Oh oui, oui ! Désolé, moi trop littéral pour comprendre. Désolé. <end>
 
 =>a280_original
 Suuuure. Now, can a grizozirg eat with both of its mouths?<end>
 
 =>a280
-Suuuure. Un grizozirg peut-il manger avec ses deux bouches ?<end>
+Biiien sûr. Un grizozirg peut-il manger avec ses deux bouches ?<end>
 
 =>a281_original
 Not even close.<end>
@@ -1832,37 +1832,37 @@ Même pas proche.<end>
 Ah. I not good at language.<end>
 
 =>q282
-Ah. Je ne suis pas bon en langue.<end>
+Ah. Moi pas bon en langue.<end>
 
 =>a283_original
 Anyway, can a grizozirg eat with both of its mouths?<end>
 
 =>a283
-De toute façon, un grizozirg peut-il manger avec ses deux bouches ?<end>
+Bref, un grizozirg peut-il manger avec ses deux bouches ?<end>
 
 =>a284_original
 Never mind. Can a grizozirg eat with both of its mouths?<end>
 
 =>a284
-Laisse tomber. Un grizozirg peut-il manger avec ses deux bouches ?<end>
+Laissez tomber. Un grizozirg peut-il manger avec ses deux bouches ?<end>
 
 =>a285_original
 Can it eat with both of its mouths?<end>
 
 =>a285
-Peut-il manger avec ses deux bouches ?<end>
+Il peut manger avec ses deux bouches ?<end>
 
 =>a286_original
 Why did you join the Free Drones?<end>
 
 =>a286
-Pourquoi avez-vous rejoint le Free Drones ?<end>
+Pourquoi avez-vous rejoint les Free Drones ?<end>
 
 =>q287_original
 I heard great struggle here. How you say, very powerful evil of great power threatens to destroy Underrail. And they could then get to us! Men who follow this evil, I heard they have big claws like my first mother-in-law, sharp teeth like my second mother-in-law, and smell like... what is the word, ah... can't remember the word at this moment of inspirational speech.<end>
 
 =>q287
-J'ai entendu beaucoup de lutte ici. Comment vous dites, le mal très puissant de grande puissance menace de détruire Underrail. Et ils pourraient alors nous atteindre ! Les hommes qui suivent ce mal, j'ai entendu dire qu'ils ont de grandes griffes comme ma première belle-mère, des dents pointues comme ma seconde belle-mère, et qui sentent comme... quel est le mot, ah... ne se souvient pas du mot en ce moment de discours inspirant.<end>
+Moi entendu grande lutte ici. Comment on dit, très puissant mal de grande puissance menace de détruire Underrail. Et après ils pourraient arriver jusqu'à nous ! Les hommes qui suivent ce mal, moi entendu ils ont de grandes griffes comme ma première belle-mère, des dents pointues comme ma deuxième belle-mère, et sentent comme... c'est quoi le mot, ah... moi me souvenir pas du mot en ce moment de discours inspirationnel.<end>
 
 =>a288_original
 Are you talking about the Protectorate?<end>
@@ -1874,43 +1874,43 @@ Vous parlez du Protectorate ?<end>
 No, not protect - destroy. You know, $(#man friend/female friend), I very angry when I heard. Very angry, suntze mu satrem! How you say - blow up of anger. I had to join Free Drones to help them. My heart is in the right place.<end>
 
 =>q289
-Non, pas protéger - détruire. Tu sais, $(#man friend/female friend), je suis très en colère quand j'ai entendu. Très en colère, soleil mu satrem ! Comme tu dis, souffle de colère. J'ai dû rejoindre Free Drones pour les aider. Mon cœur est au bon endroit.<end>
+Non, pas protéger - détruire. Vous savez, $(#ami/amie), moi très en colère quand j'ai entendu. Très en colère, suntze mu satrem ! Comment on dit - explosion de colère. Moi dû rejoindre Free Drones pour les aider. Mon cœur est au bon endroit.<end>
 
 =>a290_original
 What can you tell me about this place?<end>
 
 =>a290
-Que pouvez-vous me dire sur cet endroit ?<end>
+Que pouvez-vous me dire de cet endroit ?<end>
 
 =>q291_original
 I come here several months ago to fight Free Drones. I mean, *for* Free Drones. Ehehe, I got confused, it have totally different meaning when you say it like I say it the first time. People here, how you say, mighty warriors, even women! I surprised. In Chniokovo Ludilo women not fight. Women clean, cook, wash our feet and shut up when we tell them. Here they talk when they like, it crazy! It derailed!<end>
 
 =>q291
-Je viens ici il y a plusieurs mois pour combattre Free Drones. Je veux dire, pour Free Drones. Ehehe, j'ai été confus, il a un sens totalement différent quand vous le dites comme je le dis la première fois. Les gens ici, comment vous dites, les guerriers puissants, même les femmes ! Je suis surpris. Dans Chniokovo Ludilo les femmes ne se battent pas. Les femmes nettoient, cuisinent, se lavent les pieds et se taisent quand on leur dit. Ici, ils parlent quand ils veulent, c'est dingue ! Ça a déraillé !<end>
+Moi venu ici il y a plusieurs mois pour combattre Free Drones. Je veux dire, *pour* Free Drones. Ehehe, moi me suis embrouillé, ça a un sens totalement différent quand vous dites comme moi j'ai dit la première fois. Les gens ici, comment on dit, guerriers puissants, même les femmes ! Moi surpris. À Chniokovo Ludilo les femmes se battent pas. Les femmes nettoient, cuisinent, lavent nos pieds et se taisent quand on leur dit. Ici elles parlent quand elles veulent, c'est dingue ! Ça a déraillé !<end>
 
 =>q292_original
 I never had chance to ride into battle yet, but when I do - I'll break enemies in four. Krasnoboschko! Ehehe. Until then, I make friends here. I make many okay friends, some very bad friends who put stuff in my food so I had to spend three hours squatting in toilet, and one very most best friend: Julia my Darling.<end>
 
 =>q292
-Je n'ai jamais eu l'occasion de me battre, mais quand je le ferai, je briserai les ennemis en quatre. Krasnoboschko ! Oui. D'ici là, je me fais des amis ici. Je fais beaucoup d'amis bien, quelques très mauvais amis qui mettent des trucs dans ma nourriture alors j'ai dû passer trois heures à squatter dans les toilettes, et une très meilleure amie: Julia mon Darling.<end>
+Moi jamais eu la chance de monter au combat encore, mais quand moi le ferai - moi casser les ennemis en quatre. Krasnoboschko ! Ehehe. Jusque-là, moi me fais des amis ici. Moi me fais beaucoup d'amis okay, quelques très mauvais amis qui mettent des trucs dans ma bouffe alors moi dû passer trois heures accroupi aux toilettes, et une très plus meilleure amie : Julia, ma Darling.<end>
 
 =>a293_original
 What can you tell me about the Lurkers?<end>
 
 =>a293
-Que pouvez-vous me dire sur les Lurker ?<end>
+Que pouvez-vous me dire des Lurkers ?<end>
 
 =>q294_original
 When I first come here, I met one Lurkers. He very ugly, say he kill me with knife. But I kill him, I break him in four. He was a schklopocya, how we say. It means "someone-who-is-so-weak-he-can-be-knocked-over-by-just-blowing-some-air-from-mouth-into-his-face."<end>
 
 =>q294
-Quand je suis arrivé ici, j'ai rencontré un Lurker. Il dit qu'il me tue avec un couteau. Mais je le tue, je le casse en quatre. C'était un schklopocya, comme on dit. Ça veut dire "quelqu'un-qui-est-il-si-faible-il-peut-être-coupé-par-juste-blowing-certain-air-de-bouche-en-son-face."<end>
+Quand moi arrivé ici la première fois, moi rencontré un Lurkers. Lui très moche, il dit il me tue avec couteau. Mais moi le tuer, moi le casser en quatre. C'était un schklopocya, comme on dit. Ça veut dire « quelqu'un-qui-est-si-faible-qu'on-peut-le-renverser-juste-en-soufflant-un-peu-d'air-de-la-bouche-dans-sa-figure ».<end>
 
 =>q295_original
 But, not all Lurkers weak. Others terrible, how you say, monsters. Kill people and cut them into tiny, tiny, tiny pieces of flesh. I don't want meet another one - one is enough.<end>
 
 =>q295
-Mais, pas tous les Lurkers faibles. D'autres sont terribles, comme vous dites, monstres. Tuer des gens et les couper en petits morceaux de chair. Je ne veux pas en rencontrer un autre - un suffit.<end>
+Mais, pas tous les Lurkers faibles. D'autres terribles, comment on dit, monstres. Tuent les gens et les coupent en tout petits, tout petits, tout petits morceaux de chair. Moi veux pas en rencontrer un autre - un ça suffit.<end>
 
 =>a296_original
 I'd like to ask you about the people here.<end>
@@ -1922,7 +1922,7 @@ J'aimerais vous poser des questions sur les gens ici.<end>
 I answer with gladness.<end>
 
 =>q297
-Je réponds avec joie.<end>
+Moi réponds avec joie.<end>
 
 =>q298_original
 <end>
@@ -1934,145 +1934,145 @@ Je réponds avec joie.<end>
 What can you tell me about Darling?<end>
 
 =>a299
-Que pouvez-vous me dire sur Darling ?<end>
+Que pouvez-vous me dire de Darling ?<end>
 
 =>q300_original
 She is my very most best friend. She very good woman, she work good, she very beautiful, oh she is! She work over there in, how you say, area of eating, and I come and look at her, talk to her, carry heavy stuff that break my spine for her... Ah, women.<end>
 
 =>q300
-C'est ma meilleure amie. Elle est très bonne, elle travaille bien, elle est très belle, oh elle l'est ! Elle travaille là-bas, comment vous dites, la zone de manger, et je viens la regarder, lui parler, porter des trucs lourds qui me brisent la colonne vertébrale pour elle... Ah, les femmes.<end>
+Elle est ma très plus meilleure amie. Elle très bonne femme, elle travaille bon, elle très belle, oh elle l'est ! Elle travaille là-bas dans, comment on dit, zone de manger, et moi viens la regarder, lui parler, porter des trucs lourds qui me cassent l'échine pour elle... Ah, les femmes.<end>
 
 =>q301_original
 Listen, I tell you a secret, $(context.player.Name), but you don't tell no one, okay? I been... errr, married six times so far, and if I marry for seventh time, I would like it to be Julia my Darling. I love her... I would kill a grizozirg - the most greatest of great beasts, grrr - kill it with my bare hands for her if, how you say, the need is necessary. Listen, you don't say this to anyone or I get very mad, okay?<end>
 
 =>q301
-Ecoute, je te dis un secret, $(context.player.Name), mais tu ne le dis à personne, ok ? J'ai été... errr, marié six fois jusqu'ici, et si je me marie pour la septième fois, j'aimerais que ce soit Julia ma chérie. Je l'aime... Je tuerais un grizozirg - le plus grand des grands animaux, grrr - le tuer de mes mains nues pour elle si, comme vous dites, le besoin est nécessaire. Écoute, tu ne dis ça à personne ou je me fâche.<end>
+Écoutez, moi vous dire un secret, $(context.player.Name), mais vous dites à personne, d'accord ? Moi ai été... errr, marié six fois jusqu'ici, et si moi me marie pour la septième fois, moi aimerais que ce soit Julia, ma Darling. Moi l'aime... Moi tuerais un grizozirg - le plus plus grand des grandes bêtes, grrr - le tuer à mains nues pour elle si, comment on dit, le besoin est nécessaire. Écoutez, vous dites ça à personne ou moi devenir très en colère, d'accord ?<end>
 
 =>q302_original
 We in deal?<end>
 
 =>q302
-Marché conclu ?<end>
+On est en marché ?<end>
 
 =>a303_original
 What can you tell me about Becket?<end>
 
 =>a303
-Que pouvez-vous me dire sur Becket ?<end>
+Que pouvez-vous me dire de Becket ?<end>
 
 =>q304_original
 Becket very cool, he call me bastard when he met me. I become offended, how you say. "Why you call me bastard?" I ask. He smiles, ehehe, but I don't find joke funny. He tells me he calls everyone bastard and it is a joke only!<end>
 
 =>q304
-Becket très cool, il m'appelle bâtard quand il m'a rencontré. Je deviens offensé, comme vous dites. "Pourquoi tu m'appelles salaud ?" Il sourit, mais je ne trouve pas ça drôle. Il dit qu'il appelle tout le monde bâtard et c'est une blague seulement !<end>
+Becket très cool, il m'appeler salaud quand il m'a rencontré. Moi devenir offensé, comment on dit. « Pourquoi vous m'appeler salaud ? » moi demander. Il sourit, ehehe, mais moi trouve pas la blague drôle. Il me dit qu'il appelle tout le monde salaud et c'est une blague seulement !<end>
 
 =>q305_original
 Ehehe, I start to laugh so much I had to use toilet. Once I met him better, I see he cool. Even if he calls me bastard.<end>
 
 =>q305
-Je commence à rire tellement que j'ai dû utiliser les toilettes. Une fois que je l'ai mieux rencontré, je vois qu'il est cool. Même s'il m'appelle salaud.<end>
+Ehehe, moi commence à rire tellement que moi dû aller aux toilettes. Une fois que moi l'ai mieux rencontré, moi vois il cool. Même s'il m'appelle salaud.<end>
 
 =>a306_original
 What can you tell me about Hutch?<end>
 
 =>a306
-Que pouvez-vous me dire sur Hutch ?<end>
+Que pouvez-vous me dire de Hutch ?<end>
 
 =>q307_original
 I don't see Hutch for some time, he must have gone to see his girlfriend in Junkyard. Ehehe, she also Free Drone, and someone say she so hot she can melt a Dreadnought, whatever that is. She make a good wife.<end>
 
 =>q307
-Je ne vois pas Hutch depuis un moment, il a dû aller voir sa copine dans Junkyard. Ehehe, elle aussi Free Drone, et quelqu'un dit qu'elle est si chaude qu'elle peut faire fondre un Dreadnought, quoi que ce soit. Elle fait une bonne épouse.<end>
+Moi vois pas Hutch depuis un moment, il a dû aller voir sa copine à Junkyard. Ehehe, elle aussi Free Drone, et quelqu'un dit elle tellement chaude elle peut fondre un Dreadnought, peu importe ce que c'est. Elle ferait une bonne femme.<end>
 
 =>q308_original
 Did I say she live in Junkyard?<end>
 
 =>q308
-J'ai dit qu'elle vivait à Junkyard ?<end>
+Moi ai dit elle habite à Junkyard ?<end>
 
 =>a309_original
 What can you tell me about Maura?<end>
 
 =>a309
-Que pouvez-vous me dire sur Maura ?<end>
+Que pouvez-vous me dire de Maura ?<end>
 
 =>q310_original
 Maura brings supplies for us. She good for a woman - I very surprised when I saw.<end>
 
 =>q310
-Maura nous apporte des fournitures. Elle est bonne pour une femme - je suis très surprise quand j'ai vu.<end>
+Maura nous apporte les provisions. Elle bonne pour une femme - moi très surpris quand moi ai vu.<end>
 
 =>q311_original
 There much capable woman here, some more than men. In my station, that's not the case. I don't know what to think. I confused. Maybe that the reason I get married so many times. Women - they confuse me, ehehe!<end>
 
 =>q311
-Il y a beaucoup de femmes compétentes ici, plus que des hommes. Dans mon poste, ce n'est pas le cas. Je ne sais pas quoi penser. J'ai perdu connaissance. C'est peut-être pour ça que je me marie si souvent. Les femmes, elles me confondent.<end>
+Y a beaucoup de femmes capables ici, certaines plus que les hommes. Dans ma station, c'est pas le cas. Moi sais pas quoi penser. Moi confus. Peut-être c'est pour ça moi me marie tant de fois. Les femmes - elles confondent moi, ehehe !<end>
 
 =>a312_original
 What can you tell me about Trenton?<end>
 
 =>a312
-Que pouvez-vous me dire à propos de Trenton ?<end>
+Que pouvez-vous me dire de Trenton ?<end>
 
 =>q313_original
 Trenton one of our leaders. He very serious, very. I once call him bastard, like Becket calls me, but he just look at me with not smiling face. Later my Darling tell me he got called from North Underrail and they tell him he do bad, so that's why he angry.<end>
 
 =>q313
-Trenton est un de nos leaders. Il est très sérieux. Je l'appelle un jour bâtard, comme Becket m'appelle, mais il me regarde sans sourire. Plus tard, mon Darling me dit qu'il a été appelé du Nord Underrail et ils lui disent qu'il fait du mal, donc c'est pour ça qu'il est en colère.<end>
+Trenton un de nos chefs. Lui très sérieux, très. Une fois moi l'appeler salaud, comme Becket m'appelle, mais lui juste me regarder avec visage pas souriant. Plus tard ma Darling me dire qu'il a été appelé du North Underrail et ils lui dire il faire mal, alors c'est pour ça il en colère.<end>
 
 =>q314_original
 Why he always not funny? Man can't make joke with him. But, he good leader, remind me of a father's father's leader from Chniokovo Ludilo, Salamchugar Bolyezniprznov III. He also good leader and not funny.<end>
 
 =>q314
-Pourquoi il n'est pas toujours drôle ? L'homme ne peut pas plaisanter avec lui. Mais, bon chef, rappelle-moi le chef du père de Chniokovo Ludilo, Salamchugar Bolyezniprznov III. Il a aussi un bon chef et pas drôle.<end>
+Pourquoi lui toujours pas drôle ? Un homme peut pas faire blague avec lui. Mais, lui bon chef, me rappelle un chef du père du père de Chniokovo Ludilo, Salamchugar Bolyezniprznov III. Lui aussi bon chef et pas drôle.<end>
 
 =>a315_original
 What can you tell me about Bate?<end>
 
 =>a315
-Que pouvez-vous me dire sur Bate ?<end>
+Que pouvez-vous me dire de Bate ?<end>
 
 =>q316_original
 I explode of anger! Bate was spy. I glad that, how you say, rathound dropping is dead! But, I'm stupid: I caught him lying once and I should known he was a complete liar. I should have warned someone, how we sometimes say, warn so you don't mourn.<end>
 
 =>q316
-J'explose de colère ! Bate était un espion. Je suis content que, comme vous dites, la chute du raton laveur soit morte ! Mais, je suis stupide: je l'ai attrapé une fois en train de mentir et je devrais savoir qu'il était un menteur complet. J'aurais dû prévenir quelqu'un, comme on dit parfois, pour ne pas pleurer.<end>
+Moi explose de colère ! Bate était espion. Moi content que, comment on dit, crotte de rathound est morte ! Mais, moi stupide : moi l'ai attrapé à mentir une fois et moi aurais dû savoir qu'il était menteur complet. Moi aurais dû prévenir quelqu'un, comme on dit parfois, prévenir pour pas pleurer.<end>
 
 =>q317_original
 I tell you now: One day, I talk to him for two hour and I say: "Bate man, why you so bored? Did I bore you with my story?" He say he isn't bored, but I later found out he was, my story boring to him. What a liar he was. He deserved to die of violence!<end>
 
 =>q317
-Je vous le dis maintenant: Un jour, je lui parle pendant deux heures et je dis: "Bate man, pourquoi vous vous ennuyez autant? Est-ce que je t'ai ennuyé avec mon histoire ?" Il dit qu'il ne s'ennuie pas, mais j'ai découvert plus tard qu'il l'était, mon histoire l'ennuyait. Quel menteur il était. Il méritait de mourir de violence !<end>
+Moi vous dire maintenant : Un jour, moi lui parle pendant deux heures et moi dire : « Bate man, pourquoi vous tellement ennuyé ? Est-ce que moi vous ai ennuyé avec mon histoire ? » Lui dire il s'ennuie pas, mais plus tard moi découvert que si, mon histoire l'ennuyait. Quel menteur il était. Il méritait de mourir de violence !<end>
 
 =>q318_original
 I think Bate man very good chovek. He is... errr, good at leading as well as drinking. George tell me about how they sit down and get drunk like blazpzlony. Ehehe.<end>
 
 =>q318
-Je pense que l'homme Bate est très bon. Il est... errant, bon à conduire et à boire. George m'a dit comment ils s'asseyaient et se saoulaient comme blazpzlony. Oui.<end>
+Moi pense Bate man très bon chovek. Il est... errr, bon à diriger aussi bien qu'à boire. George me dire comment ils s'assoient et se saoulent comme blazpzlony. Ehehe.<end>
 
 =>q319_original
 He more fun than Trenton, Trenton too serious. Bate knows to have fun, unlike Trenton who too serious. Unlike Bate. Ehehe.<end>
 
 =>q319
-Il est plus drôle que Trenton, trop sérieux. Bate sait s'amuser, contrairement à Trenton qui est trop sérieux. Contrairement à Bate. Oui.<end>
+Lui plus drôle que Trenton, Trenton trop sérieux. Bate sait s'amuser, contrairement à Trenton qui trop sérieux. Contrairement à Bate. Ehehe.<end>
 
 =>a320_original
 What can you tell me about Marcella?<end>
 
 =>a320
-Que pouvez-vous me dire sur Marcella ?<end>
+Que pouvez-vous me dire de Marcella ?<end>
 
 =>q321_original
 I have trouble pronouncing the name. Marce-alla, Mar-lla, Marc-illa... It unnatural to me-- Sorry! I mean innatural, that proper way to say it.<end>
 
 =>q321
-J'ai du mal à prononcer le nom. Marce-alla, Mar-lla, Marc-illa... C'est contre nature pour moi... Désolé ! Je veux dire innaturel, cette bonne façon de le dire.<end>
+Moi ai du mal à prononcer le nom. Marce-alla, Mar-lla, Marc-illa... C'est contre nature pour moi-- Désolé ! Moi vouloir dire innaturel, c'est la bonne façon de dire.<end>
 
 =>q322_original
 Anyway, I never met this Maracella man. I hear he one of the leaders but... errr, gone as sudden as puff of smoke.<end>
 
 =>q322
-Bref, je n'ai jamais rencontré ce Maracella. J'ai entendu dire qu'il était l'un des chefs, mais... errant, parti aussi soudainement que de la fumée.<end>
+Bref, moi jamais rencontré cet homme Maracella. Moi entendu il un des chefs mais... errr, parti aussi soudain qu'un souffle de fumée.<end>
 
 =>a323_original
 Marcella is a woman.<end>
@@ -2084,13 +2084,13 @@ Marcella est une femme.<end>
 Ehehe! Ehehe! That a good joke. Woman leader, it impossible. My father tell me a woman can lead as much as rathound can drive train and cook a good czernina at the same time. It... errr, so very much no way.<end>
 
 =>q324
-- Oui ! - Oui ! C'est une bonne blague. C'est impossible. Mon père me dit qu'une femme peut conduire autant que Rathound peut conduire train et cuisiner une bonne czernina en même temps. C'est... errer, tellement pas moyen.<end>
+Ehehe ! Ehehe ! Ça une bonne blague. Femme chef, c'est impossible. Mon père me dire une femme peut diriger autant qu'un rathound peut conduire un train et cuisiner une bonne czernina en même temps. C'est... errr, tellement très beaucoup pas possible.<end>
 
 =>q325_original
 I see you woman - I mean no offence. I just tell you women can't lead so you don't try and screw up one day. It friendly advice. I like you.<end>
 
 =>q325
-Je vous vois femme, je ne veux pas vous offenser. Je vous dis juste que les femmes ne peuvent pas diriger pour que vous n'essayez pas de foirer un jour. C'est un conseil amical. Je t'aime bien.<end>
+Moi vois vous femme - moi veux pas offenser. Moi juste vous dire les femmes peuvent pas diriger pour que vous essayiez pas de foirer un jour. C'est conseil amical. Moi vous aime bien.<end>
 
 =>q326_original
 Mmm... czernina. <end>
@@ -2102,7 +2102,7 @@ Mmm... czernina. <end>
 I have to teach my Darling how to make one. Yes, it good idea!<end>
 
 =>q327
-Je dois apprendre à ma chérie comment en faire une. C'est une bonne idée !<end>
+Moi dois apprendre à ma Darling comment en faire une. Oui, c'est bonne idée !<end>
 
 =>q328_original
 I miss czernina. <end>
@@ -2114,13 +2114,13 @@ Czernina me manque. <end>
 I see. Anyway, let me ask you something else.<end>
 
 =>a329
-Je vois. Laisse-moi te demander autre chose.<end>
+Je vois. Bref, laissez-moi vous demander autre chose.<end>
 
 =>q330_original
 You ask - I answer with glad!<end>
 
 =>q330
-Je réponds avec joie !<end>
+Vous demandez - moi réponds avec joie !<end>
 
 =>a331_original
 Bye, Kokoschka.<end>
@@ -2132,31 +2132,31 @@ Au revoir, Kokoschka.<end>
 You fight better than Vulenko - he made pate from cave hoppers in Chniokovo Ludilo. He used to fight mighty good, especially when punching little hoppers in their ugly face. Ehehe.<end>
 
 =>q332
-Tu te bats mieux que Vulenko - il a fait du pâté à partir de trémies à Chniokovo Ludilo. Il se battait très bien, surtout quand il frappait des petites trémies dans leur sale visage. Oui.<end>
+Vous vous battez mieux que Vulenko - il faisait du pâté de sauteurs des grottes à Chniokovo Ludilo. Il se battait très bon, surtout quand il cognait les petits sauteurs dans leur sale figure. Ehehe.<end>
 
 =>a333_original
 You were great there. Keep it up, soldier!<end>
 
 =>a333
-Tu étais super là-bas. Continuez, soldat !<end>
+Vous étiez excellent là-bas. Continuez comme ça, soldat !<end>
 
 =>q334_original
 Krasnoplzni blathobran! Thank you for nice words. You did very best too. You rule and rock!<end>
 
 =>q334
-Krasnoplzni blathobran ! Merci pour ces mots. Tu as fait de même. Tu règnes et tu te casses !<end>
+Krasnoplzni blathobran ! Merci pour les beaux mots. Vous avez fait très meilleur aussi. Vous rule et vous rock !<end>
 
 =>a335_original
 Why are you so happy? I did all the hard work; you did nothing at all.<end>
 
 =>a335
-Pourquoi es-tu si heureuse ? J'ai fait tout le dur labeur; tu n'as rien fait du tout.<end>
+Pourquoi êtes-vous si content ? J'ai fait tout le sale boulot ; vous n'avez rien fait du tout.<end>
 
 =>q336_original
 Why you say that? Oh, you must joke - you love me! I know, you mess with me, ehehe. But you did do the most hardest of work, $(context.player.Name).<end>
 
 =>q336
-Pourquoi tu dis ça ? Oh, vous devez plaisanter - vous m'aimez ! Je sais, tu te fous de moi. Mais vous avez fait le plus dur du travail, $(context.player.Name).<end>
+Pourquoi vous dire ça ? Oh, vous devez plaisanter - vous m'aimez ! Moi sais, vous taquiner moi, ehehe. Mais vous avez bien fait le plus plus dur du travail, $(context.player.Name).<end>
 
 =>q337_original
 <end>
@@ -2168,49 +2168,49 @@ Pourquoi tu dis ça ? Oh, vous devez plaisanter - vous m'aimez ! Je sais, tu te 
 I win!<end>
 
 =>q338
-Je gagne !<end>
+Moi gagne !<end>
 
 =>q339_original
 We kill metal people! Whoo!<end>
 
 =>q339
-Nous tuons les gens du métal ! C'est vrai !<end>
+On tuer gens en métal ! Whoo !<end>
 
 =>q340_original
 I hard... hardstore domesticate!<end>
 
 =>q340
-J'ai du mal, du mal à la maison !<end>
+Moi hard... hardstore domestique !<end>
 
 =>q341_original
 A bre sroschkali gi!<end>
 
 =>q341
-Un sroschkali !<end>
+A bre sroschkali gi !<end>
 
 =>q342_original
 All their base are belong to me!<end>
 
 =>q342
-Toute leur base m'appartient !<end>
+Toute leur base sont appartenir à moi !<end>
 
 =>q343_original
 For Fatherland!<end>
 
 =>q343
-Pour la patrie !<end>
+Pour Fatherland !<end>
 
 =>q344_original
 What now? Where we go?<end>
 
 =>q344
-Et maintenant ? Où allons-nous ?<end>
+Et maintenant ? Où on va ?<end>
 
 =>a345_original
 Continue with the attack!<end>
 
 =>a345
-Continuez l'attaque !<end>
+Poursuivre l'attaque !<end>
 
 =>q346_original
 Borzbosledachki Pokzlich!<end>
@@ -2222,13 +2222,13 @@ Borzbosledachki Pokzlich !<end>
 ::Attack!::<end>
 
 =>a347
-::Attaque!::<end>
+::Attaquer !::<end>
 
 =>a348_original
 Wait here, I'll signal you when to proceed.<end>
 
 =>a348
-Attendez ici, je vous ferai signe quand continuer.<end>
+Attendez ici, je vous ferai signe quand avancer.<end>
 
 =>q349_original
 <end>
@@ -2240,13 +2240,13 @@ Attendez ici, je vous ferai signe quand continuer.<end>
 We will fight!<end>
 
 =>q350
-Nous nous battrons !<end>
+On va se battre !<end>
 
 =>q351_original
 This my first combat. I excited as, how you say... err, very happy dog.<end>
 
 =>q351
-C'est mon premier combat. Je suis excitée comme, comment tu dis... erre, chien très heureux.<end>
+Ça mon premier combat. Moi excité comme, comment on dit... errr, chien très heureux.<end>
 
 =>q352_original
 Tintare prorazbucam, che plzocunkrk im gu pobedao!<end>
@@ -2258,73 +2258,73 @@ Tintare prorazbucam, che plzocunkrk im gu pobedao!<end>
 Err, hell yeah. Charge!<end>
 
 =>q353
-Err, bon sang oui. Chargez !<end>
+Errr, putain oui. Chargez !<end>
 
 =>q354_original
 Why you make me sad? I talk nice and you won't introduce you.<end>
 
 =>q354
-Pourquoi tu me rends triste ? Je parle bien et tu ne te présenteras pas.<end>
+Pourquoi vous me rendre triste ? Moi parle gentil et vous voulez pas vous présenter.<end>
 
 =>a355_original
 Sorry about that. Name's $(context.player.Name).<end>
 
 =>a355
-Désolé. C'est $(context.player.Name).<end>
+Désolé. Je m'appelle $(context.player.Name).<end>
 
 =>q356_original
 Ah, it okay. It, errrr, overwhelming when come in new place like this. I understand, it is hard. When I come here first time, don' know anyone, don't know where toilet, it stress for me.<end>
 
 =>q356
-Ça va. Il, errrr, accablant quand vient dans un nouvel endroit comme celui-ci. Je comprends, c'est dur. Quand je viens ici la première fois, je ne connais personne, je ne sais pas où les toilettes, ça me stresse.<end>
+Ah, c'est okay. C'est, errrr, trop fort quand on arrive dans un endroit nouveau comme ça. Moi comprends, c'est dur. Quand moi venu ici la première fois, connaître personne, savoir pas où toilettes, ça stress pour moi.<end>
 
 =>q357_original
 Anyway, my name Yerslovekzdinianschnik Slavorad Kokoschka. Everyone here think it difficult to pronounce so they call me just Kokoschka, but you should try my brother Babuschkomoranznohoho name. It make your mouth, how we say, go hurt.<end>
 
 =>q357
-Bref, mon nom Yerslovekzdinianschnik Slavorad Kokoschka. Tout le monde ici pense que c'est difficile à prononcer alors ils m'appellent juste Kokoschka, mais vous devriez essayer mon frère Babuschkomoranznohoho nom. Ça fait mal à ta bouche.<end>
+Bref, mon nom Yerslovekzdinianschnik Slavorad Kokoschka. Tout le monde ici pense c'est difficile à prononcer alors ils m'appellent juste Kokoschka, mais vous devriez essayer le nom de mon frère Babuschkomoranznohoho. Ça fait votre bouche, comment on dit, aller mal.<end>
 
 =>a358_original
 I'll go with Kokoschka.<end>
 
 =>a358
-Je vais avec Kokoschka.<end>
+Je vais rester sur Kokoschka.<end>
 
 =>q359_original
 Like everyone in here. How you say - it is typical. But, I don't get angry people can't say my name. I good chovek.<end>
 
 =>q359
-Comme tout le monde ici. C'est typique. Mais les gens ne peuvent pas dire mon nom. J'ai bien chové.<end>
+Comme tout le monde ici. Comment on dit - c'est typique. Mais, moi me fâche pas que les gens peuvent pas dire mon nom. Moi bon chovek.<end>
 
 =>q360_original
 So, what we talk about?<end>
 
 =>q360
-De quoi on parle ?<end>
+Alors, de quoi on parle ?<end>
 
 =>a361_original
 Nice to meet you Yarsl... Yerslokev...<end>
 
 =>a361
-Ravi de vous rencontrer Yarsl... Yerslokev...<end>
+Enchanté, Yarsl... Yerslokev...<end>
 
 =>q362_original
 Look, you can't say it. Ehehe. Just try with me: Yerslovekzdinianschnik, Yerslovekzdinianschnik, Yerslovekzdinianschnik. Oh, your mouth don't work. You will just have to call me Kokoschka then, like everyone else around here.<end>
 
 =>q362
-Tu ne peux pas le dire. Oui. Essayez avec moi : Yerslovekzdinianschnik, Yerslovekzdinianschnik, Yerslovekzdinianschnik. Ta bouche ne marche pas. Tu devras m'appeler Kokoschka alors, comme tout le monde ici.<end>
+Regardez, vous pouvez pas le dire. Ehehe. Essayez juste avec moi : Yerslovekzdinianschnik, Yerslovekzdinianschnik, Yerslovekzdinianschnik. Oh, votre bouche marche pas. Vous allez juste devoir m'appeler Kokoschka alors, comme tout le monde ici.<end>
 
 =>a363_original
 What kind of a name is that?<end>
 
 =>a363
-Quel genre de nom est-ce ?<end>
+C'est quoi ce genre de nom ?<end>
 
 =>q364_original
 I get it, it sound strange to you. That is because you never heard it before, but don't worry, you just call me Kokoschka, like everyone here and I good. Won't get angry or something like that.<end>
 
 =>q364
-C'est étrange pour toi. C'est parce que tu ne l'as jamais entendu avant, mais ne t'inquiète pas, tu m'appelles juste Kokoschka, comme tout le monde ici et moi bon. Ne sera pas en colère ou quelque chose comme ça.<end>
+Moi pigé, ça sonne bizarre pour vous. C'est parce que vous l'avez jamais entendu avant, mais inquiétez-vous pas, vous m'appelez juste Kokoschka, comme tout le monde ici et moi bon. Moi fâcherai pas ou un truc comme ça.<end>
 
 =>a365_original
 Goodbye.<end>
@@ -2336,43 +2336,43 @@ Au revoir.<end>
 ::Leave without saying anything.::<end>
 
 =>a366
-::Partez sans rien dire.::<end>
+::Partir sans rien dire.::<end>
 
 =>q367_original
 You take off uniform! Yes, very thank you. <end>
 
 =>q367
-Enlève l'uniforme ! Oui, très merci. <end>
+Vous enlever uniforme ! Oui, très merci. <end>
 
 =>q368_original
 Nice to meet you. You have $(#face of brave man/face of beautiful woman). Very exquisite! What your name?<end>
 
 =>q368
-Ravi de vous rencontrer. Vous avez $(#face of brave man/face of beautiful woman). Très exquis ! Quel est votre nom ?<end>
+Enchanté. Vous avez $(#visage de brave homme/visage de belle femme). Très exquis ! Comment vous appeler ?<end>
 
 =>a369_original
 I'm $(context.player.Name). Nice to meet you as well.<end>
 
 =>a369
-Je suis $(context.player.Name). Ravi de vous rencontrer.<end>
+Je suis $(context.player.Name). Enchanté aussi.<end>
 
 =>q370_original
 $(context.player.Name)? Eh, it very, how you say.... errrr, bombastic name. It pops out like eyes from a cave mouse when you squeeze him too hard. Ehehe.<end>
 
 =>q370
-$(context.player.Name) ? Eh, c'est très, comment vous dites... Il sort comme des yeux d'une souris de caverne quand vous le pressez trop fort. Oui.<end>
+$(context.player.Name) ? Eh, c'est très, comment on dit.... errrr, nom bombastique. Ça sort comme les yeux d'une souris des grottes quand vous la serrez trop fort. Ehehe.<end>
 
 =>a371_original
 I am not interested in talking to you right now. Goodbye.<end>
 
 =>a371
-Je ne veux pas vous parler maintenant. Au revoir.<end>
+Je n'ai pas envie de vous parler pour l'instant. Au revoir.<end>
 
 =>q372_original
 ::You interrupt the man wiping his assault rifle with a torn, stained cloth. ::<end>
 
 =>q372
-::Vous interrompez l'homme en essuyant son fusil d'assaut avec un tissu déchiré et teinté.::<end>
+::Vous interrompez l'homme en train d'essuyer son fusil d'assaut avec un chiffon déchiré et taché.::<end>
 
 =>q373_original
 <end>
@@ -2386,15 +2386,15 @@ Je ne veux pas vous parler maintenant. Au revoir.<end>
 Ah, good, you come talk to Kokoschka. <end>
 
 =>q374
-::Il vous salue avec un sourire cordial et s'adresse à vous avec un accent retentissant étranger.::
+::Il vous salue d'un sourire cordial et s'adresse à vous avec un accent qui sonne étranger.::
 
-Bien, tu viens parler à Kokoschka. <end>
+Ah, bien, vous venir parler à Kokoschka. <end>
 
 =>q375_original
 You take off uniform. Yes, very thank you! What you, how you say, wanna chat till rails bend?<end>
 
 =>q375
-Enlève ton uniforme. Oui, merci beaucoup ! Tu veux parler jusqu'à ce que les rails se plient ?<end>
+Vous enlever uniforme. Oui, très merci ! Qu'est-ce que vous, comment on dit, voulez causer jusqu'à ce que les rails plient ?<end>
 
 =>q376_original
 ::His eyes are directed at Kaya, but his question is directed at you.::
@@ -2402,21 +2402,21 @@ Enlève ton uniforme. Oui, merci beaucoup ! Tu veux parler jusqu'à ce que les r
 Why do so many women here in Underrail want to be bald as, how you say, errr, an ass cheek of baby?<end>
 
 =>q376
-::Ses yeux sont dirigés vers Kaya, mais sa question s'adresse à vous.::
+::Ses yeux sont tournés vers Kaya, mais sa question s'adresse à vous.::
 
-Pourquoi tant de femmes ici dans Underrail veulent être chauves comme, comment vous dites, errer, une joue de bébé?<end>
+Pourquoi tant de femmes ici dans Underrail veulent être chauves comme, comment on dit, errr, une fesse de bébé ?<end>
 
 =>a377_original
 Because they can.<end>
 
 =>a377
-Parce qu'ils le peuvent.<end>
+Parce qu'elles peuvent.<end>
 
 =>q378_original
 Hmm... <end>
 
 =>q378
-Oui. <end>
+Hmm... <end>
 
 =>q379_original
 In Fatherland, you see, if woman is bald, it mean she is either ill, has lice that are very much huge, or she got hair cut as punishment for crime! Like cheating on her husband. Or attacking her husband with sharp things. Or poisoning her husband with poison. 
@@ -2424,9 +2424,9 @@ In Fatherland, you see, if woman is bald, it mean she is either ill, has lice th
 But to willingly cut her head hair? Only if they are opichene nzkvalne zhene, ha-ha!<end>
 
 =>q379
-Dans la Patrie, vous voyez, si la femme est chauve, cela signifie qu'elle est malade, a des poux qui sont très énormes, ou elle s'est fait couper les cheveux comme punition pour le crime! Comme tromper son mari. Ou attaquer son mari avec des trucs pointus. Ou empoisonner son mari avec du poison.
+Dans Fatherland, vous voyez, si femme est chauve, ça veut dire elle est soit malade, a des poux très beaucoup énormes, ou on lui a coupé les cheveux comme punition pour crime ! Comme tromper son mari. Ou attaquer son mari avec des trucs pointus. Ou empoisonner son mari avec du poison.
 
-Mais pour lui couper les cheveux de la tête ? Seulement s'ils sont opichene nzkvalne zhene, ha-ha!<end>
+Mais se couper les cheveux de la tête exprès ? Seulement si elles sont opichene nzkvalne zhene, ha-ha !<end>
 
 =>q380_original
 That's why I find hard to, errr, to understand. Because I think women are beautiful with hair - I like! Long or short, curly or not curly - or tied into dog tail, like Julia my Darling. I like!
@@ -2434,9 +2434,9 @@ That's why I find hard to, errr, to understand. Because I think women are beauti
 But without hair, it... strange. It's like bald women want to intentionally look ugly. I don't like.<end>
 
 =>q380
-C'est pourquoi j'ai du mal à comprendre. Parce que je pense que les femmes sont belles avec les cheveux - j'aime! Long ou court, bouclé ou pas bouclé - ou attaché dans la queue de chien, comme Julia mon Darling. J'aime !
+C'est pour ça moi trouve dur de, errr, de comprendre. Parce que moi pense les femmes sont belles avec des cheveux - moi aime ! Longs ou courts, bouclés ou pas bouclés - ou attachés en queue de chien, comme Julia, ma Darling. Moi aime !
 
-Mais sans cheveux, c'est... étrange. C'est comme si les femmes chauves voulaient avoir l'air laides. Je n'aime pas.<end>
+Mais sans cheveux, c'est... bizarre. C'est comme si les femmes chauves veulent avoir l'air laides exprès. Moi aime pas.<end>
 
 =>q381_original
 Some are ugly already, yes, and hair won't help those. No, no. 
@@ -2444,9 +2444,9 @@ Some are ugly already, yes, and hair won't help those. No, no.
 But that is, errr, next to the point, how you say.<end>
 
 =>q381
-Certains sont déjà laids, oui, et les cheveux ne les aideront pas. Non, pas du tout.
+Certaines sont déjà laides, oui, et les cheveux aideront pas celles-là. Non, non.
 
-Mais c'est, errr, à côté du point, comment vous dites.<end>
+Mais ça c'est, errr, à côté du point, comment on dit.<end>
 
 =>a382_original
 Because we can.<end>
@@ -2464,13 +2464,13 @@ Moins de surchauffe et une meilleure hygiène.<end>
 Hair tends to get in the way and requires maintenance.<end>
 
 =>a384
-Les cheveux ont tendance à se mettre en travers du chemin et nécessitent un entretien.<end>
+Les cheveux gênent et ça demande de l'entretien.<end>
 
 =>a385_original
 Beats me. Always found it ugly.<end>
 
 =>a385
-Ça me bat. Toujours trouvé ça moche.<end>
+Aucune idée. J'ai toujours trouvé ça moche.<end>
 
 =>q386_original
 Yes... <end>
@@ -2488,5 +2488,4 @@ Je ne sais pas.<end>
 Here goes my good friend, $(context.player.Name). How you say... errr, hello, how is it calling?<end>
 
 =>q388
-Voilà mon bon ami, $(context.player.Name). Comment tu dis... errer, bonjour, comment ça appelle ?<end>
-
+Voilà mon bon ami, $(context.player.Name). Comment on dit... errr, bonjour, comment ça s'appelle ?<end>

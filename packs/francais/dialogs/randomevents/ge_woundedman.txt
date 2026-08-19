@@ -4,39 +4,39 @@
 Stranger... thank you! I owe my life to you. If it weren't for you, I'd be a rotting corpse now and, and... Thank you, thank you! How can I repay you, friend?<end>
 
 =>q1
-::Ses blessures se sont mêlées, sa douleur soulagée, l'homme vous parle avec une vie réémergente.::
+::Blessures refermées, douleur apaisée, l'homme vous parle d'une voix qui reprend vie.::
 
-Plus étrange... merci ! Je te dois ma vie. Si ce n'était pas pour toi, je serais un cadavre pourri maintenant et... Merci, merci ! Comment puis-je vous rembourser ?<end>
+Étranger... merci ! Je vous dois la vie. Sans vous, je serais déjà un cadavre en train de pourrir, et... Merci, merci ! Comment vous rembourser, l'ami ?<end>
 
 =>a2_original
 Saving someone's life is its own reward.<end>
 
 =>a2
-Sauver la vie de quelqu'un est sa propre récompense.<end>
+Sauver une vie est une récompense en soi.<end>
 
 =>q3_original
 Hold on a second, friend. <end>
 
 =>q3
-Attendez une seconde, mon ami. <end>
+Attendez une seconde, l'ami. <end>
 
 =>q4_original
 Here's sixty charons. That is all the money I have. ::He hands you 60 Stygian Coins.:: Thank you so much!<end>
 
 =>q4
-Voilà soixante charons. C'est tout l'argent que j'ai. ::Il vous donne 60 pièces Stygiennes.:: Merci beaucoup !<end>
+Voilà soixante charons. C'est tout l'argent que j'ai. ::Il vous tend 60 pièces stygiennes.:: Merci infiniment !<end>
 
 =>a5_original
 Thank you. Best of luck in the future. Take care.<end>
 
 =>a5
-Je vous remercie. Bonne chance à l'avenir. Prends soin de toi.<end>
+Merci. Bonne chance pour la suite. Prenez soin de vous.<end>
 
 =>q6_original
 Wait, wait, wait... What is your name?<end>
 
 =>q6
-Attendez... Quel est votre nom ?<end>
+Attendez, attendez... Comment vous appelez-vous ?<end>
 
 =>a7_original
 $(context.player.Name).<end>
@@ -48,61 +48,61 @@ $(context.player.Name).<end>
 I'm Fergus. Thank you, $(context.player.Name). Thank you again. Good luck to you too.<end>
 
 =>q8
-Je suis Fergus. Merci, $(context.player.Name). Merci encore. Bonne chance aussi.<end>
+Je m'appelle Fergus. Merci, $(context.player.Name). Merci encore. Bonne chance à vous aussi.<end>
 
 =>a9_original
 I'd rather that my name remains unknown.<end>
 
 =>a9
-Je préfère que mon nom reste inconnu.<end>
+Je préfère garder mon nom pour moi.<end>
 
 =>q10_original
 Well... friend, thank you. Thank you again. Good luck to you too.<end>
 
 =>q10
-Eh bien... ami, merci. Merci encore. Bonne chance aussi.<end>
+Eh bien... merci, l'ami. Merci encore. Bonne chance à vous aussi.<end>
 
 =>a11_original
 ::Wave goodbye and leave without a word.::<end>
 
 =>a11
-::Va te faire voir et pars sans rien dire.::<end>
+::Faire un signe d'adieu et partir sans un mot.::<end>
 
 =>q12_original
 Thank you again. Good luck to you too.<end>
 
 =>q12
-Merci encore. Bonne chance aussi.<end>
+Merci encore. Bonne chance à vous aussi.<end>
 
 =>a13_original
 ::Turn around and leave.::<end>
 
 =>a13
-::Faites demi-tour et partez.::<end>
+::Faire demi-tour et partir.::<end>
 
 =>a14_original
 Nice. See ya.<end>
 
 =>a14
-Sympa. A bientôt.<end>
+Parfait. À plus.<end>
 
 =>q15_original
 ::He searches through his pockets.:: I... I had some money but... ::He continues searching.:: Damn it! I must have lost it somehow.<end>
 
 =>q15
-::Il fouille dans ses poches.:: I... J'avais de l'argent mais... ::Il continue à chercher.:: C'est pas vrai ! J'ai dû la perdre.<end>
+::Il fouille ses poches.:: J'avais... j'avais de l'argent, mais... ::Il continue de chercher.:: Merde ! J'ai dû le perdre.<end>
 
 =>q16_original
 ::After having failed to find the money, he pauses to think. He looks at you, then at his bloodied belt, and without any hesitation he removes it.:: You know what? Take this belt. It's a bullet strap belt. If you don't wanna use it, you can at least sell it. That is all I can give you, sadly.<end>
 
 =>q16
-::Après avoir échoué à trouver l'argent, il s'arrête pour réfléchir. Il vous regarde, puis à sa ceinture sanglante, et sans aucune hésitation il l'enlève.:: Tu sais quoi ? Prends cette ceinture. C'est une ceinture. Si vous ne voulez pas l'utiliser, vous pouvez au moins le vendre. C'est tout ce que je peux te donner, malheureusement.<end>
+::Faute d'avoir retrouvé l'argent, il s'arrête pour réfléchir. Il vous regarde, puis sa ceinture ensanglantée, et l'enlève sans hésiter.:: Vous savez quoi ? Prenez cette ceinture. C'est une ceinture porte-munitions. Si vous ne voulez pas la porter, vous pourrez au moins la vendre. C'est tout ce que je peux vous donner, malheureusement.<end>
 
 =>a17_original
 I don't need anything. Just take care.<end>
 
 =>a17
-Je n'ai besoin de rien. Prends soin de toi.<end>
+Je n'ai besoin de rien. Prenez soin de vous.<end>
 
 =>a18_original
 Got some coins?<end>
@@ -120,7 +120,7 @@ Bien sûr ! <end>
 The meds don't come cheap, you know...<end>
 
 =>a20
-Les médicaments ne sont pas bon marché.<end>
+Les médocs, ça n'est pas donné, vous savez...<end>
 
 =>q21_original
 Goodbye... and thank you again.<end>
@@ -138,9 +138,9 @@ I am... dying...<end>
 =>q22
 S'il vous plaît... aidez-moi...
 
-::Dit l'homme comme il vous atteint avec un bras en sang, ses doigts se répandent. Vous voyez de nombreuses blessures sur son corps, ouvertes et saignantes, chacune contribuant partiellement à la grande piscine rouge dans laquelle il se trouve ; mais c'est la blessure que vous ne voyez pas qui est la plus menaçante, celle qu'il presse fermement avec son autre, tremblante main. Il plaide encore d'une voix qui s'affaiblit.::
+::L'homme tend vers vous un bras ensanglanté, les doigts écartés. Vous voyez de nombreuses plaies sur son corps, ouvertes et saignantes, chacune alimentant à sa mesure la grande flaque rouge dans laquelle il se tient ; mais c'est la blessure que vous ne voyez pas qui le menace le plus, celle qu'il plaque fermement de son autre main, tremblante. Il implore encore, d'une voix qui s'éteint.::
 
-Je suis... mourant...<end>
+Je... je meurs...<end>
 
 =>q23_original
 <end>
@@ -158,7 +158,7 @@ Que s'est-il passé ?<end>
 That Lurker... bastard... ambushed me.<end>
 
 =>q25
-Ce Lurker... bâtard... m'a embusqué.<end>
+Ce Lurker... salaud... m'est tombé dessus.<end>
 
 =>q26_original
 Help...<end>
@@ -170,25 +170,25 @@ Au secours...<end>
 Stand still while I bandage your wounds.<end>
 
 =>a27
-Ne bougez pas pendant que je bande vos blessures.<end>
+Ne bougez pas, je vous bande les plaies.<end>
 
 =>q28_original
 Thank you...<end>
 
 =>q28
-Je vous remercie...<end>
+Merci...<end>
 
 =>a29_original
 It's too late for you, friend. ::Attack!::<end>
 
 =>a29
-C'est trop tard pour toi. ::Attaque!::<end>
+C'est trop tard pour vous, l'ami. ::Attaquer !::<end>
 
 =>a30_original
 There is nothing I can do to help you, friend. Goodbye.<end>
 
 =>a30
-Je ne peux rien faire pour t'aider. Au revoir.<end>
+Je ne peux rien faire pour vous, l'ami. Adieu.<end>
 
 =>q31_original
 Please...<end>
@@ -200,17 +200,17 @@ S'il vous plaît...<end>
 Please! Don't leave me to... die here.<end>
 
 =>q32
-S'il vous plaît ! Ne me laisse pas... mourir ici.<end>
+S'il vous plaît ! Ne me laissez pas... mourir ici.<end>
 
 =>q33_original
 Why do... ::The man never gets the chance to finish his sentence, as his body drops lifeless next to the man whom he killed - the man who killed him.::<end>
 
 =>q33
-Pourquoi... ::L'homme n'a jamais la chance de finir sa peine, car son corps tombe sans vie à côté de l'homme qu'il a tué - l'homme qui l'a tué.::<end>
+Pourquoi... ::L'homme n'a pas le temps de finir sa phrase : son corps s'écroule sans vie à côté de l'homme qu'il a tué - l'homme qui l'a tué.::<end>
 
 =>a34_original
 ::End Dialog.::<end>
 
 =>a34
-::Fin du dialogue.::<end>
+::Partir.::<end>
 

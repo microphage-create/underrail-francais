@@ -32,7 +32,7 @@ Tu serais si gentil de partir ? Je n'aime vraiment pas que tu creuses dans les o
 ::End Dialog.::<end>
 
 =>a6
-::Fin du dialogue.::<end>
+::Partir::<end>
 
 =>a7_original
 Hey, buddy, go dig through someone else's dumpster, okay?<end>
@@ -84,7 +84,7 @@ Vous avez trouvé quelque chose d'intéressant ?<end>
 Nothin' at all, $(#man/woman), nothin' at all. I'm off now.<end>
 
 =>q14
-Rien, $(#man/woman), rien du tout. Je m'en vais.<end>
+Rien, $(#homme/femme), rien du tout. Je m'en vais.<end>
 
 =>q15_original
 <end>
@@ -174,7 +174,7 @@ Si je te vois encore une fois, tu auras de gros ennuis.<end>
 We gots no problems, $(#man/woman). I'm off now.<end>
 
 =>q29
-Nous n'avons aucun problème, $(#man/woman). Je m'en vais.<end>
+Nous n'avons aucun problème, $(#homme/femme). Je m'en vais.<end>
 
 =>q30_original
 I'm gone, I'm gone! ::He turns to leave.::<end>
@@ -212,7 +212,7 @@ Pourquoi dois-tu être si têtu et retourner dans cette benne ?<end>
 Having this old fart dig through your dumpster is an *inconvenience* for YOU, but it's a *necessity* for ME. It ain't right. It ain't.<end>
 
 =>q35
-::Il se retourne contre toi.:: Regarde-moi, $(#man/woman), regarde-moi. J'aime bien faire ça ? Je vis dans un trou humide dans un mur, je dors à l'étroit, je me libère pour dormir. J'ai trouvé quelque chose à vendre, à manger ou à porter. C'est pas drôle. Ce n'est pas drôle du tout, $(#man/woman) !
+::Il se retourne contre toi.:: Regarde-moi, $(#homme/femme), regarde-moi. J'aime bien faire ça ? Je vis dans un trou humide dans un mur, je dors à l'étroit, je me libère pour dormir. J'ai trouvé quelque chose à vendre, à manger ou à porter. C'est pas drôle. Ce n'est pas drôle du tout, $(#homme/femme) !
 
 Avoir ce vieux pet fouiller dans votre benne est un *incommode* pour VOUS, mais c'est une *nécessité* pour MOI. Ce n'est pas juste. Pas du tout.<end>
 
@@ -250,13 +250,13 @@ Qu'est-ce qui se passe ?<end>
 ::[Intimidate]:: If I see you here one more time I'm reporting you to Praetorian enforcers. How do you feel about that?<end>
 
 =>a41
-::[Intimider]:: Si je vous vois ici encore une fois, je vous signale aux forces de l'ordre. Qu'en pensez-vous ?<end>
+::[Intimidate]:: Si je vous vois ici encore une fois, je vous signale aux forces de l'ordre. Qu'en pensez-vous ?<end>
 
 =>q42_original
 ::Something in his expression tells you that your words hit the mark.:: Alright, $(#man/woman), I ain't gonna cause no more trouble. I'm... I'm goin' now.<end>
 
 =>q42
-::Quelque chose dans son expression vous dit que vos mots ont atteint la marque.:: Très bien, $(#man/woman), je ne vais pas causer plus de problèmes. J'y vais maintenant.<end>
+::Quelque chose dans son expression vous dit que vos mots ont atteint la marque.:: Très bien, $(#homme/femme), je ne vais pas causer plus de problèmes. J'y vais maintenant.<end>
 
 =>q43_original
 ::Something in his expression tells you that your statements hasn't had any real effect on him, despite what he says.:: I'm gone, I'm gone! We gots no problems!<end>
@@ -268,7 +268,7 @@ Qu'est-ce qui se passe ?<end>
 ::[Intimidate]:: I'm a Praetorian Security enforcer, and if I catch you one more time you're gonna rot in the darkest, coldest, most cockroach-infested cell we got!<end>
 
 =>a44
-::[Intimider]:: Je suis un agent d'exécution Praetorian Security, et si je t'attrape encore une fois tu vas pourrir dans la cellule la plus sombre, la plus froide, la plus infestée de cafards qu'on ait !<end>
+::[Intimidate]:: Je suis un agent d'exécution Praetorian Security, et si je t'attrape encore une fois tu vas pourrir dans la cellule la plus sombre, la plus froide, la plus infestée de cafards qu'on ait !<end>
 
 =>a45_original
 Look, if I give you some money will you go away?<end>
@@ -296,7 +296,7 @@ Yeah, $(#man/woman), I'm gone for good.<end>
 =>q48
 ::Il semble un peu déçu, mais il prend toujours votre offrande, l'arrachant de votre main comme un homme affamé arrache la dernière chapelure. Sa réponse ne semble pas très convaincante.::
 
-Oui, $(#man/woman), je suis parti pour de bon.<end>
+Oui, $(#homme/femme), je suis parti pour de bon.<end>
 
 =>a49_original
 I'll give you ten charons if you promise never to come here again.<end>
@@ -312,7 +312,7 @@ Thanks, $(#man/woman), I ain't gonna bother you no more. Bye.<end>
 =>q50
 ::Il semble heureux de votre offrande et l'arrache de votre main comme un homme affamé arrache un morceau de pain. Sa réponse semble assez honnête.::
 
-Merci, $(#man/woman), je ne vous dérangerai plus. Au revoir.<end>
+Merci, $(#homme/femme), je ne vous dérangerai plus. Au revoir.<end>
 
 =>a51_original
 I'll give you twenty charons if you promise never to come here again.<end>

@@ -14,7 +14,7 @@ Dehors.<end>
 ::Place your hand on your chest and bow down slightly.:: Tchort is Evolution, Your Excellency.<end>
 
 =>a3
-::Placez votre main sur votre poitrine et baissez légèrement.:: Tchort est Evolution, Votre Excellence.<end>
+::Porter la main à la poitrine et s'incliner légèrement.:: Tchort est l'évolution, Votre Excellence.<end>
 
 =>q4_original
 ::Harmost Stavros answers in a confident, booming voice of a middle-aged man.::
@@ -36,13 +36,13 @@ Dehors.<end>
 Evolution is Tchort. I am Harmost Stavros. I've already been informed where you're from and that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q6
-Evolution est Tchort. Je suis Harmost Stavros. J'ai déjà été informé d'où vous venez et que vous êtes assez courageux pour libérer nos rasophores des griffes des consanguins. <end>
+L'évolution est Tchort. Je suis Harmost Stavros. On m'a déjà informé d'où vous venez, et que vous avez eu le courage de libérer nos rassophores des griffes des consanguins. <end>
 
 =>q7_original
 Sadly, only one rassophore returned. But, it is still better than none, and is a good thing for morale, if only a bit.<end>
 
 =>q7
-Malheureusement, un seul rasophore est revenu. Mais, c'est encore mieux que personne, et c'est une bonne chose pour le moral, si seulement un peu.<end>
+Malheureusement, un seul rassophore est revenu. Mais, c'est encore mieux que personne, et c'est une bonne chose pour le moral, si seulement un peu.<end>
 
 =>a8_original
 Glad to hear so. Anyway, my name is $(context.player.Name).<end>
@@ -382,7 +382,7 @@ Quelqu'un y est déjà allé ?<end>
 Long ago, before I was even born. Eidein's Library contained several rassophore reports regarding their recon of the area. As far as I remember, the plant was heavily defended by automated security systems at the time, preventing further advance. Our forces managed to retreat without casualties, luckily, but no further attempts were made at penetrating the defenses and entering the building.<end>
 
 =>q61
-Il y a longtemps, avant même ma naissance. La bibliothèque de Eidein contenait plusieurs rapports de rasophore concernant leur reconfiguration de la région. Pour autant que je me souvienne, l'usine a été fortement défendue par des systèmes de sécurité automatisés à l'époque, ce qui a empêché d'avancer. Nos forces ont réussi à se retirer sans pertes, mais aucune autre tentative n'a été faite pour pénétrer les défenses et entrer dans le bâtiment.<end>
+Il y a longtemps, avant même ma naissance. La bibliothèque de Eidein contenait plusieurs rapports de rassophore concernant leur reconfiguration de la région. Pour autant que je me souvienne, l'usine a été fortement défendue par des systèmes de sécurité automatisés à l'époque, ce qui a empêché d'avancer. Nos forces ont réussi à se retirer sans pertes, mais aucune autre tentative n'a été faite pour pénétrer les défenses et entrer dans le bâtiment.<end>
 
 =>a62_original
 Why not? It seems like an important location to have under one's control.<end>
@@ -532,7 +532,7 @@ Excellent travail jusqu'ici, $(context.player.Name). Au moins, nous avons mainte
 I had considered sending you on a recon mission, but the rassophore you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
 
 =>q86
-J'avais envisagé de vous envoyer en mission de reconnaissance, mais le rasophore que vous avez sauvé m'a donné assez d'informations sur le positionnement Faceless, le personnel et l'équipement disponible.<end>
+J'avais envisagé de vous envoyer en mission de reconnaissance, mais le rassophore que vous avez sauvé m'a donné assez d'informations sur le positionnement Faceless, le personnel et l'équipement disponible.<end>
 
 =>q87_original
 What are you good at doing?<end>
@@ -616,7 +616,7 @@ Oui?<end>
 I failed to find any captured rassophores.<end>
 
 =>a100
-J'ai échoué à trouver des rasophores capturés.<end>
+J'ai échoué à trouver des rassophores capturés.<end>
 
 =>q101_original
 You did excellent in any case. It would've been a great boost to morale had you found, and even possibly rescued them, but that is how things are. Well done, $(context.player.Name).<end>
@@ -628,7 +628,7 @@ Tu t'es bien débrouillée. Ça aurait été un grand coup de pouce au moral si 
 I have found a few captured rassophores held inside the base, but I haven't found a way to help them out.<end>
 
 =>a102
-J'ai trouvé quelques rasophores capturés à l'intérieur de la base, mais je n'ai pas trouvé un moyen de les aider.<end>
+J'ai trouvé quelques rassophores capturés à l'intérieur de la base, mais je n'ai pas trouvé un moyen de les aider.<end>
 
 =>q103_original
 You did? Excellent. In that case, I have another task for you - find a way to get those rassophores out of the clutches of the corrupted. Every man counts, but if you do manage to rescue the captives, a boost in morale will increase our effectiveness even more.<end>
@@ -652,7 +652,7 @@ Compris.<end>
 I found a few captured rassophores, but sadly I wasn't able to get them out alive.<end>
 
 =>a106
-J'ai trouvé quelques rasophores capturés, mais malheureusement je n'ai pas pu les faire sortir vivants.<end>
+J'ai trouvé quelques rassophores capturés, mais malheureusement je n'ai pas pu les faire sortir vivants.<end>
 
 =>q107_original
 Magnificent Tchort, that is sad news. It would've been a great boost to morale had you managed to rescued them, but that is how things are. Well done for trying, $(context.player.Name), but what you just told me cannot leave this room. Am I clear?<end>
@@ -688,7 +688,7 @@ Oui. J'ai éliminé le commandant de la base et toutes ses troupes. Tous.<end>
 Your words sound almost unreal. Magnificent Tchort! How can one $(#man/woman) be such a force of destruction?<end>
 
 =>q112
-Vos mots semblent presque irréels. Magnifique Tchort ! Comment un $(#man/woman) peut-il être une telle force de destruction ?<end>
+Vos mots semblent presque irréels. Magnifique Tchort ! Comment un $(#frère/sœur) peut-il être une telle force de destruction ?<end>
 
 =>a113_original
 It was simply a matter of quality over quantity, Your Excellency.<end>
@@ -724,7 +724,7 @@ C'est tout ce que je vais dire : je suis Invictus !<end>
 I just murdered everyone I could find. It was easy - like skinning a cave hopper.<end>
 
 =>a118
-Je viens de tuer tous ceux que je pouvais trouver. C'était facile - comme la peau d'une trémie de caverne.<end>
+Je viens de tuer tous ceux que je pouvais trouver. C'était facile - comme la peau d'une sauteur de caverne.<end>
 
 =>a119_original
 I'm on the job.<end>
@@ -790,7 +790,7 @@ Oui?<end>
 I'm afraid I wasn't able to rescue the rassophores. They are all dead.<end>
 
 =>a129
-Je n'ai pas pu sauver les rasophores. Ils sont tous morts.<end>
+Je n'ai pas pu sauver les rassophores. Ils sont tous morts.<end>
 
 =>a130_original
 Actually, nothing.<end>
@@ -942,7 +942,7 @@ Que pouvez-vous me dire sur l'invasion Faceless ?<end>
 First of all, we haven't had contact with the inbreds in decades, so hearing about their invasion of Core City lifted a few eyebrows in Preservation. When I discussed the matter with Eidein, we came to a decision that it is best if I descend to Deep Caverns with - initially - several more rassophore combat units in order to make sure Cytosine Outpost and Nucleus are well defended.<end>
 
 =>q154
-Tout d'abord, nous n'avons pas eu de contact avec les consanguins depuis des décennies, donc en entendant parler de leur invasion de Core City, nous avons soulevé quelques sourcils dans la préservation. Lorsque j'ai discuté de la question avec Eidein, nous avons décidé qu'il valait mieux que je descende à Deep Caverns avec - initialement - plusieurs unités de combat de rasophore afin de s'assurer que Cytosine Outpost et Nucleus sont bien défendus.<end>
+Tout d'abord, nous n'avons pas eu de contact avec les consanguins depuis des décennies, donc en entendant parler de leur invasion de Core City, nous avons soulevé quelques sourcils dans la préservation. Lorsque j'ai discuté de la question avec Eidein, nous avons décidé qu'il valait mieux que je descende à Deep Caverns avec - initialement - plusieurs unités de combat de rassophore afin de s'assurer que Cytosine Outpost et Nucleus sont bien défendus.<end>
 
 =>a155_original
 If you were prepared, how did they manage to overwhelm you?<end>
@@ -1180,7 +1180,7 @@ Tchort peut contrôler la porte ?<end>
 You can say that. In fact, Tchort's influence is the reason we have successfully resisted all the recent Faceless attacks, even if just barely.<end>
 
 =>q193
-Tu peux dire ça. En fait, l'influence de Tchort est la raison pour laquelle nous avons réussi à résister à toutes les attaques récentes de Faceless, même à peine.<end>
+On peut dire ça. En fait, c'est l'influence de Tchort qui nous a permis de tenir face à toutes les attaques récentes des Faceless, même de justesse.<end>
 
 =>a194_original
 What exactly do you mean?<end>
@@ -1382,7 +1382,7 @@ That is excellent news, $(context.player.Name). The situation was looking very g
 <end>
 
 =>q225
-C'est une excellente nouvelle, $(context.player.Name). La situation était très sombre jusqu'ici, mais maintenant les choses ont changé. Merci pour cette excellente nouvelle. Je vais être sûr d'informer nos rasophores de ceci, peut-être que cela aidera le moral faible.
+C'est une excellente nouvelle, $(context.player.Name). La situation était très sombre jusqu'ici, mais maintenant les choses ont changé. Merci pour cette excellente nouvelle. Je vais être sûr d'informer nos rassophores de ceci, peut-être que cela aidera le moral faible.
 
 <end>
 
@@ -1488,13 +1488,13 @@ Ils sont tous revenus en toute sécurité et sont prêts à agir.<end>
 Tchort is evolution. I am Harmost Stavros. I've already been informed that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q241
-Tchort est l'évolution. Je suis Harmost Stavros. J'ai déjà été informé que vous êtes assez courageux pour libérer nos rasophores des griffes des consanguins. <end>
+Tchort est l'évolution. Je suis Harmost Stavros. On m'a déjà informé que vous avez eu le courage de libérer nos rassophores des griffes des consanguins. <end>
 
 =>q242_original
 Evolution is Tchort. I am Harmost Stavros. Welcome to Cytosine Outpost. <end>
 
 =>q242
-Evolution est Tchort. Je suis Harmost Stavros. Bienvenue à Cytosine Outpost. <end>
+L'évolution est Tchort. Je suis Harmost Stavros. Bienvenue à Cytosine Outpost. <end>
 
 =>a243_original
 I'm $(context.player.Name).<end>
@@ -1506,7 +1506,7 @@ Je suis $(context.player.Name).<end>
 Tchort is Evolution. I've already been informed where you're from. I am Harmost Stavros. Welcome to Cytosine Outpost.<end>
 
 =>q244
-Tchort est Evolution. J'ai déjà été informé d'où vous venez. Je suis Harmost Stavros. Bienvenue à Cytosine Outpost.<end>
+Tchort est l'évolution. On m'a déjà informé d'où vous venez. Je suis Harmost Stavros. Bienvenue à Cytosine Outpost.<end>
 
 =>a245_original
 I come straight from the Institute of Tchort, Your Excellency.<end>
@@ -1596,7 +1596,7 @@ Excellent travail, $(context.player.Name). <end>
 The rassophores which you have rescued have made it back to Cytosine Outpost.<end>
 
 =>q257
-Les rasophores que vous avez sauvés sont revenus à Cytosine Outpost.<end>
+Les rassophores que vous avez sauvés sont revenus à Cytosine Outpost.<end>
 
 =>q258_original
 <end>
@@ -1614,17 +1614,17 @@ Ils se sont armés et sont prêts à affronter le Faceless... ::Il s'arrête bri
 Despite that, the rassophore is armed and ready to face the Faceless... ::He stops briefly.:: once more.<end>
 
 =>q260
-Malgré cela, le rasophore est armé et prêt à affronter le Faceless... ::Il s'arrête brièvement.:: encore une fois.<end>
+Malgré cela, le rassophore est armé et prêt à affronter le Faceless... ::Il s'arrête brièvement.:: encore une fois.<end>
 
 =>q261_original
 The rassophore which you have rescued made it back to Cytosine Outpost. Sadly, the other two captives weren't able to make it.<end>
 
 =>q261
-Le rasophore que vous avez sauvé est revenu à Cytosine Outpost. Malheureusement, les deux autres prisonniers n'ont pas pu y arriver.<end>
+Le rassophore que vous avez sauvé est revenu à Cytosine Outpost. Malheureusement, les deux autres prisonniers n'ont pas pu y arriver.<end>
 
 =>q262_original
 Tchort is evolution, $(context.player.Name).<end>
 
 =>q262
-Tchort est une évolution, $(context.player.Name).<end>
+Tchort est l'évolution, $(context.player.Name).<end>
 

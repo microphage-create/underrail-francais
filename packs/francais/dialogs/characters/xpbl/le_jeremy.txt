@@ -2,7 +2,7 @@
 Xit! We're under attack!<end>
 
 =>q1
-Xit ! Nous sommes attaqués !<end>
+Xit ! On se fait attaquer !<end>
 
 =>q2_original
 Xer.<end>
@@ -14,19 +14,19 @@ Xer.<end>
 ::He stares through you, holding a t-flask filled with mushroom brew.:: Xit. All of it.<end>
 
 =>q3
-::Il regarde à travers toi, tenant un t-flask rempli de champignons.:: Xit. Tout ça.<end>
+::Il te traverse du regard, un t-flask de bière de champignons à la main.:: Xit. Tout.<end>
 
 =>q4_original
 Eh, you new, $(#man/sis)?<end>
 
 =>q4
-Vous êtes nouveau, $(#man/sis) ?<end>
+Eh, t'es $(#nouveau/nouvelle), $(#gars/fille) ?<end>
 
 =>q5_original
 Sorry, I've got a lotta work right now.<end>
 
 =>q5
-Désolé, j'ai beaucoup de travail en ce moment.<end>
+Désolé, j'ai un paquet de boulot là.<end>
 
 =>q6_original
 <end>
@@ -38,7 +38,7 @@ Désolé, j'ai beaucoup de travail en ce moment.<end>
 No hard feelings, $(#man/sis).<end>
 
 =>q7
-Pas de sentiments difficiles, $(#man/sis).<end>
+Sans rancune, $(#gars/fille).<end>
 
 =>q8_original
 Good luck. Xile.<end>
@@ -50,7 +50,7 @@ Bonne chance. Xile.<end>
 Thanks for everything you did for the expedition, $(#man/sis). <end>
 
 =>q9
-Merci pour tout ce que vous avez fait pour l'expédition, $(#man/sis). <end>
+Merci pour tout ce que t'as fait pour l'Expedition, $(#gars/fille). <end>
 
 =>q10_original
 Done. <end>
@@ -62,7 +62,7 @@ C'est fait. <end>
 I managed to recover some interesting stuff. <end>
 
 =>q11
-J'ai réussi à récupérer des trucs intéressants. <end>
+J'ai récupéré des trucs intéressants. <end>
 
 =>q12_original
 <end>
@@ -80,31 +80,31 @@ J'ai réussi à récupérer des trucs intéressants. <end>
 Hey, I'm sorry about being a jerk earlier.<end>
 
 =>a14
-Je suis désolé d'être un crétin plus tôt.<end>
+Pardon d'avoir été $(#un con/une conne) tout à l'heure.<end>
 
 =>q15_original
 Sorry?<end>
 
 =>q15
-Désolé ?<end>
+Pardon ?<end>
 
 =>a16_original
 *Really* sorry.<end>
 
 =>a16
-Vraiment désolé.<end>
+*Vraiment* $(#désolé/désolée).<end>
 
 =>q17_original
 Well, 'kay. We've been through a lot of crap together. No <end>
 
 =>q17
-Eh bien, oui. On a vécu beaucoup de conneries ensemble. Numéro <end>
+Bon, 'kay. On a traversé un paquet de merde ensemble. Ça sert <end>
 
 =>q18_original
 point in holding grudges. We're a team, right, $(#man/sis)?<end>
 
 =>q18
-Il faut tenir les rancunes. On est une équipe, non, $(#man/sis) ?<end>
+à rien de garder rancune. On est une équipe, non, $(#gars/fille) ?<end>
 
 =>q19_original
 <end>
@@ -120,103 +120,103 @@ Want some coffee now?<end>
 =>q20
 
 
-Tu veux du café maintenant ?<end>
+Tu veux du café, maintenant ?<end>
 
 =>a21_original
 I sure would.<end>
 
 =>a21
-Bien sûr.<end>
+Carrément.<end>
 
 =>q22_original
 'Kay, 'kay. I'm kind of busy with stuff here, so feel free to go to my tent and grab yourself a flask or two from the coffeemaker. <end>
 
 =>q22
-C'est bon. Je suis un peu occupé avec des trucs ici, alors n'hésitez pas à aller à ma tente et vous prendre un ou deux flacons de la cafetière. <end>
+'Kay, 'kay. J'ai du boulot ici, alors vas-y, ma tente, sers-toi un ou deux flacons à la cafetière. <end>
 
 =>q23_original
 And leave something for me.<end>
 
 =>q23
-Et laisse quelque chose pour moi.<end>
+Et m'en laisse un peu.<end>
 
 =>a24_original
 Thanks, Seeger.<end>
 
 =>a24
-Merci, Tu vois ?<end>
+Merci, Seeger.<end>
 
 =>q25_original
 No problem. <end>
 
 =>q25
-Pas de problème. <end>
+Pas de souci. <end>
 
 =>q26_original
 Enjoy your coffee, $(#man/sis). Xcell.<end>
 
 =>q26
-Profitez de votre café, $(#man/sis). C'est Xcell.<end>
+Profite du café, $(#gars/fille). Xcell.<end>
 
 =>a27_original
 How long do the t-flasks retain heat?<end>
 
 =>a27
-Combien de temps les t-flasks conservent-ils la chaleur?<end>
+Les t-flasks, ça tient la chaleur combien de temps ?<end>
 
 =>q28_original
 Huh... ::He nods a few times.:: A long time. <end>
 
 =>q28
-Quoi... ::Il hoche la tête plusieurs fois.:: Ça fait longtemps. <end>
+Hein... ::Il hoche la tête deux-trois fois.:: Longtemps. <end>
 
 =>q29_original
 'Kay then, $(#man/sis), 'kay. Grab yourself a flask or two from the coffeemaker. And leave something for me.<end>
 
 =>q29
-Alors, $(#man/sis), oui. Prenez un ou deux flacons de la cafetière. Et laisse quelque chose pour moi.<end>
+'Kay, $(#gars/fille), 'kay. Sers-toi un ou deux flacons à la cafetière. Et m'en laisse un peu.<end>
 
 =>a30_original
 I would very much like some coffee.<end>
 
 =>a30
-J'aimerais beaucoup du café.<end>
+Un café, avec grand plaisir.<end>
 
 =>q31_original
 'Kay, 'kay. The coffeemaker's in my tent. I'm kind of busy with stuff here, so feel free to go there and grab yourself a flask or two. <end>
 
 =>q31
-C'est bon. La cafetière est dans ma tente. Je suis un peu occupé avec des trucs ici, alors n'hésitez pas à aller là-bas et prendre un ou deux flacons. <end>
+'Kay, 'kay. La cafetière est dans ma tente. J'ai du boulot ici, alors vas-y, sers-toi un ou deux flacons. <end>
 
 =>q32_original
 'Kay. ::He goes to his coffeemaker and presses a button: As the coffee is poured into the t-flask, the air slowly becomes wonderfully saturated with its smell; after a few moments you have in your hands a t-flask full of smoking hot coffee.::<end>
 
 =>q32
-'Kay. ::Il va à sa cafetière et appuie sur un bouton : Lorsque le café est versé dans le t-flask, l'air devient lentement merveilleusement saturé de son odeur; après quelques instants, vous avez dans vos mains un t-flask plein de fumée café chaud.::<end>
+'Kay. ::Il va à sa cafetière et appuie sur un bouton. Le café coule dans le t-flask, l'air se sature lentement de son odeur ; un instant plus tard, tu as entre les mains un t-flask de café fumant.::<end>
 
 =>a33_original
 ::Gaze at it in awe.::<end>
 
 =>a33
-::Regardez-le dans l'admiration.::<end>
+::Le contempler, bouche bée.::<end>
 
 =>q34_original
 ::He observes you with satisfying interest.:: Well... <end>
 
 =>q34
-::Il vous observe avec un intérêt satisfaisant.:: Et bien... <end>
+::Il t'observe, visiblement content.:: Bon... <end>
 
 =>a35_original
 Can I get some more coffee?<end>
 
 =>a35
-Je peux avoir un autre café ?<end>
+Je peux en avoir un autre ?<end>
 
 =>q36_original
 If you weren't such an xer earlier, I'd give it to you. But since you walked out on me...<end>
 
 =>q36
-Si tu n'étais pas un tel xer plus tôt, je te le donnerais. Mais depuis que tu m'as quitté...<end>
+Si t'avais pas été un xer pareil tout à l'heure, je te le filerais. Mais tu m'as planté là...<end>
 
 =>q37_original
 <end>
@@ -228,115 +228,115 @@ Si tu n'étais pas un tel xer plus tôt, je te le donnerais. Mais depuis que tu 
 How was I an *xer*, whatever that means? You're the offensive one!<end>
 
 =>a38
-Comment j'étais un *xer* ? C'est toi l'offensive !<end>
+Comment ça, j'étais $(#un/une) *xer*, ça veut dire quoi ? C'est toi $(#l'agressif/l'agressive) !<end>
 
 =>q39_original
 You overreacted, that's how. You were an *xer*. Simple.<end>
 
 =>q39
-Vous avez réagi de façon exagérée. Tu étais un *xer*. Simple.<end>
+T'as trop réagi, voilà. T'étais un *xer*. Simple.<end>
 
 =>a40_original
 Emotions. I'm sorry.<end>
 
 =>a40
-Des émotions. Je suis désolé.<end>
+Les émotions. $(#Désolé/Désolée).<end>
 
 =>a41_original
 You know what, I don't need your dumb fancy coffee anyway.<end>
 
 =>a41
-Je n'ai pas besoin de ton stupide café.<end>
+Tu sais quoi, j'ai pas besoin de ton café de luxe de toute façon.<end>
 
 =>q42_original
 Fine by me, $(#man/sis). Fine by me. ::He turns away from you.::<end>
 
 =>q42
-Ça me va, $(#man/sis). Ça me va. ::Il se détourne de toi.::<end>
+Ça me va, $(#gars/fille). Ça me va. ::Il se détourne.::<end>
 
 =>q43_original
 Well...<end>
 
 =>q43
-Bien...<end>
+Bon...<end>
 
 =>a44_original
 I opened the Keep and gave you more reasons to drink it.<end>
 
 =>a44
-J'ai ouvert le Keep et vous ai donné plus de raisons de le boire.<end>
+J'ai ouvert le Keep. T'as plus de raisons d'en boire, maintenant.<end>
 
 =>q45_original
 Huh? Oh! Ha-ha, yeah. ::He scratches the back of his head.::<end>
 
 =>q45
-Quoi ? C'est vrai ! Oui. ::Il se gratte la tête.::<end>
+Hein ? Oh ! Ha-ha, ouais. ::Il se gratte l'arrière du crâne.::<end>
 
 =>a46_original
 I think I earned it by now.<end>
 
 =>a46
-Je crois que je l'ai déjà gagné.<end>
+Je crois que je l'ai mérité, à ce stade.<end>
 
 =>q47_original
 Yeah, that you certainly did. Xcell. <end>
 
 =>q47
-Oui, certainement. C'est Xcell. <end>
+Ouais, ça c'est sûr. Xcell. <end>
 
 =>q48_original
 More, huh? Nnnn-I don't think so, $(#man/sis).<end>
 
 =>q48
-Encore ? Je ne crois pas, $(#man/sis).<end>
+Encore, hein ? Nnnn-je crois pas, $(#gars/fille).<end>
 
 =>q49_original
 I'm not exactly swimming in this stuff. Coffee beans don't grow on rocks, you know. Xem.<end>
 
 =>q49
-Je nage pas vraiment dans ce truc. Les grains de café ne poussent pas sur les rochers. Oui.<end>
+J'en nage pas, dans ce truc. Les grains de café poussent pas sur les cailloux, tu sais. Xem.<end>
 
 =>a50_original
 Perhaps later. But don't forget your offer.<end>
 
 =>a50
-Peut-être plus tard. Mais n'oublie pas ton offre.<end>
+Peut-être plus tard. Mais oublie pas ton offre.<end>
 
 =>q51_original
 I won't. Don't worry.<end>
 
 =>q51
-Je ne le ferai pas. Ne t'inquiète pas.<end>
+J'oublierai pas. T'inquiète.<end>
 
 =>a52_original
 ::[Persuade]:: *Really* sorry.<end>
 
 =>a52
-::[Persuader]:: *Vraiment* désolé.<end>
+::[Persuade]:: *Vraiment* $(#désolé/désolée).<end>
 
 =>q53_original
 Better. Kay', no <end>
 
 =>q53
-Mieux. Kay, non. <end>
+Mieux. 'Kay, non <end>
 
 =>q54_original
 ::He takes a sip of coffee.:: Not bying it.<end>
 
 =>q54
-::Il prend un café.:: Pas par là.<end>
+::Il prend une gorgée de café.:: J'achète pas.<end>
 
 =>a55_original
 Professor Oldfield wants to know if you've compiled the recovered data for him.<end>
 
 =>a55
-Le professeur Oldfield veut savoir si vous avez compilé les données récupérées pour lui.<end>
+Le professeur Oldfield veut savoir si t'as compilé les données récupérées pour lui.<end>
 
 =>q56_original
 We were under attack, $(#man/sis). Now, I may be a kind of person that rarely lifts my ass from the chair, but even I'm not that xtreme to sit here and sift through this stuff while people are dying... like, around me.<end>
 
 =>q56
-Nous étions attaqués, $(#man/sis). Maintenant, je suis peut-être une sorte de personne qui me soulève rarement le cul de la chaise, mais même je ne suis pas si extrême pour m'asseoir ici et passer par là pendant que les gens meurent... genre, autour de moi.<end>
+On se faisait attaquer, $(#gars/fille). Bon, je suis du genre à rarement lever le cul de la chaise, mais même moi je suis pas assez xtreme pour rester planté là à trier ce bazar pendant que les gens crevent... genre, autour de moi.<end>
 
 =>q57_original
 ::He turns to the computer and opens a file, sighing.::
@@ -344,21 +344,21 @@ Nous étions attaqués, $(#man/sis). Maintenant, je suis peut-être une sorte de
 But yeah, I do have some of the important bits sorted. I'll send it to him as soon as the network's ba-- ::He glances at one of his monitors and raises his eyebrows.:: Oh, Marcus sorted the power. Xtra, xtra... Sending it now.<end>
 
 =>q57
-::Il se tourne vers l'ordinateur et ouvre un fichier, soupirant.::
+::Il se tourne vers l'ordi, ouvre un fichier, soupire.::
 
-Mais oui, j'ai des morceaux importants triés. Je l'enverrai dès que le réseau aura trié la puissance. Xtra, xtra... Je l'envoie maintenant.<end>
+Mais ouais, j'ai trié les morceaux importants. Je lui envoie dès que le réseau est re-- ::Il jette un œil à un de ses écrans, lève les sourcils.:: Oh, Marcus a réglé le jus. Xtra, xtra... J'envoie maintenant.<end>
 
 =>a58_original
 What is this about, really? The data. The professor mentioned it's some kind of a breakthrough discovery.<end>
 
 =>a58
-De quoi s'agit-il, vraiment ? Les données. Le professeur a dit que c'était une découverte.<end>
+C'est quoi, au juste ? Les données. Le professeur a parlé d'une découverte majeure.<end>
 
 =>q59_original
 Oh, yes, you betcha. You see, ever since we got here we've been trying to find a way to enter that building just across from my tent - the Keep. The panel by the gate is totally unresponsive, and the walls are xtremely thick and sturdy - hey, the building did survive the Biocorp assault on the island after all; and, you know, we don't just want to blow things up here unless we really, really - really gotta.<end>
 
 =>q59
-Oh, oui, bien sûr. Depuis notre arrivée, nous essayons de trouver un moyen d'entrer dans ce bâtiment juste en face de ma tente - le Keep. Le panneau près de la porte est totalement insensible, et les murs sont extrêmement épais et robustes - hey, le bâtiment a survécu à l'assaut Biocorp sur l'île après tout; et, vous savez, nous ne voulons pas juste faire sauter les choses ici à moins que nous vraiment, vraiment - vraiment doit.<end>
+Oh, ouais, ça tu peux y compter. Depuis qu'on est arrivés, on cherche un moyen d'entrer dans le bâtiment juste en face de ma tente - le Keep. Le panneau à côté du portail répond rien, et les murs sont xtremement épais et costauds - hey, le bâtiment a survécu à l'assaut Biocorp sur l'île, après tout ; et, tu sais, on veut pas tout faire sauter ici à moins d'y être vraiment, vraiment - vraiment obligés.<end>
 
 =>q60_original
 Now, the building's still got power, 'kay, as we're easily picking that up on our instruments, but so far we haven't found a way to interface with that panel. Until I recovered this data. According to it, the panel is actually a scanner which authenticates a person based on a small active radio-frequency identification, or A-RFID, microchip that is most often implanted in the right hand. So, if we find one of these microchips or learn to-- 
@@ -366,15 +366,15 @@ Now, the building's still got power, 'kay, as we're easily picking that up on ou
 Wait an xin' second... Why am I telling you all this?<end>
 
 =>q60
-Maintenant, le bâtiment a encore de l'énergie, car nous le prenons facilement sur nos instruments, mais jusqu'à présent nous n'avons pas trouvé un moyen d'interagir avec ce panneau. Jusqu'à ce que je récupère ces données. Selon elle, le panneau est en fait un scanner qui authentifie une personne basée sur une petite identification radiofréquence active, ou A-RFID, micropuce qui est le plus souvent implantée dans la main droite. Donc, si on trouve une de ces puces ou qu'on apprend à...
+Là, le bâtiment a encore du jus, 'kay, on le capte facilement sur nos instruments, mais jusqu'ici on a trouvé aucun moyen d'interface avec ce panneau. Jusqu'à ce que je récupère ces données. D'après elles, le panneau est en fait un scanner qui authentifie une personne via une petite puce d'identification radiofréquence active, ou A-RFID, implantée le plus souvent dans la main droite. Donc, si on trouve une de ces puces, ou si on apprend à--
 
-Attendez une seconde... Pourquoi je te dis tout ça ?<end>
+Attends une xin' seconde... Pourquoi je te raconte tout ça ?<end>
 
 =>a61_original
 Do go on.<end>
 
 =>a61
-Continuez.<end>
+Vas-y, continue.<end>
 
 =>q62_original
 Well... 'kay. 
@@ -382,21 +382,21 @@ Well... 'kay.
 We find a working chip and we're in. All other NFT facilities should work the same way, so we'll be able to gain access to those as well... if we can get through the natives. <end>
 
 =>q62
-Alors...
+Bon... 'kay.
 
-On trouve une puce de travail et on est dedans. Toutes les autres installations devraient fonctionner de la même façon, donc nous pourrons avoir accès à celles-ci aussi... si nous pouvons passer par les autochtones. <end>
+On trouve une puce qui marche, et on est dedans. Tous les autres sites NFT devraient marcher pareil, donc on pourra y entrer aussi... si on passe les indigènes. <end>
 
 =>q63_original
 Anyway, it seems every NFT citizen had an implant. These implants also contained some other, personal data, but that is of secondary importance right now.<end>
 
 =>q63
-Quoi qu'il en soit, il semble que chaque citoyen de NFT avait un implant. Ces implants contenaient aussi d'autres données personnelles, mais c'est d'une importance secondaire en ce moment.<end>
+Bref, on dirait que chaque citoyen NFT avait un implant. Ces implants stockaient aussi d'autres données perso, mais c'est secondaire pour l'instant.<end>
 
 =>a64_original
 So where do we find one of these chips?<end>
 
 =>a64
-Où trouver une de ces puces ?<end>
+Et on trouve une de ces puces où ?<end>
 
 =>q65_original
 Now *that's* the-- ::An ascending two-note sound interrupts your conversation, and something flashes on the bottom of his right screen.::
@@ -404,9 +404,9 @@ Now *that's* the-- ::An ascending two-note sound interrupts your conversation, a
 Xcuse me for a moment. It's the professor.<end>
 
 =>q65
-Maintenant, c'est... le-- ::Un son ascendant à deux notes interrompt votre conversation, et quelque chose clignote en bas de son écran droit.::
+Là *ça* c'est le-- ::Un son à deux notes, montant, coupe la conversation ; quelque chose clignote en bas de son écran droit.::
 
-Xcuse-moi un instant. C'est le professeur.<end>
+Xcuse-moi une seconde. C'est le professeur.<end>
 
 =>q66_original
 ::He puts his coffee aside and his headset on, adjusts the microphone and clicks the icon flashing on his screen. A window pops up, its top right corner bearing what appears to be the University of Dis logo - an outline of a frontal view of a grandiose building placed in a circle, under which "University of Dis" is written in a serif font. Then the face of Professor Oldfield appears, speaking words only Seeger can hear.::
@@ -416,11 +416,11 @@ Yes, sir?
 You did?<end>
 
 =>q66
-::Il met son café de côté et son casque allumé, ajuste le microphone et clique sur l'icône clignotant sur son écran. Une fenêtre apparaît, son coin supérieur droit portant ce qui semble être le logo de l'Université de Dis - un contour d'une vue frontale d'un bâtiment grandiose placé dans un cercle, sous lequel "Université de Dis" est écrit dans une police serif. Puis le visage du professeur Oldfield apparaît, parlant des mots que seul Seeger peut entendre.::
+::Il pose son café, enfile le casque, ajuste le micro et clique sur l'icône qui clignote. Une fenêtre s'ouvre : en haut à droite, le logo de l'University of Dis - le contour de face d'un bâtiment grandiose, dans un cercle, "University of Dis" en serif en dessous. Puis le visage du professeur Oldfield apparaît, et il dit des mots que seul Seeger entend.::
 
 Oui, monsieur ?
 
-Vraiment ?<end>
+Vous avez fait ça ?<end>
 
 =>q67_original
 ::He turns to you, still talking to the Professor.::
@@ -430,11 +430,11 @@ Huh? Yes, $(#he/she)'s here...
 I'll tell $(#him/her).<end>
 
 =>q67
-::Il se tourne vers vous, il parle toujours au professeur.::
+::Il se tourne vers toi, toujours au prof.::
 
-Quoi ? Oui, $(#il/elle) est là...
+Hein ? Oui, $(#il/elle) est là...
 
-Je vais dire $(#le/la).<end>
+Je lui dirai.<end>
 
 =>q68_original
 ::He is still facing you, but his gleaming eyes are looking through you.::
@@ -450,17 +450,17 @@ I... dropped the comm once the attack started and broke it.
 Yes, yes, I understand.<end>
 
 =>q68
-::Il est toujours face à vous, mais ses yeux brillants vous regardent.::
+::Il te fait toujours face, mais ses yeux brillants te traversent.::
 
-Merci, monsieur.
+Oh, merci, monsieur.
 
 ::Il sourit.:: Je sais.
 
-Je le sais bien, monsieur. C'est Xcell.
+J'en suis bien conscient, monsieur. Xcell.
 
-J'ai... laissé tomber la communication une fois que l'attaque a commencé et l'a cassée.
+J'ai... lâché le comm au début de l'attaque. Il s'est cassé.
 
-Oui, je comprends.<end>
+Oui, oui, je comprends.<end>
 
 =>a69_original
 What did the Professor say?<end>
@@ -476,11 +476,11 @@ Really?
 Yes, sir. Thank you again, sir. Xtra! Yes, yes, I'll tell $(#him/her) what you said. Goodbye.<end>
 
 =>q70
-::Tout comme tu ouvres la bouche, son visage disparaît derrière un large sourire.::
+::Au moment où tu ouvres la bouche, son visage disparaît derrière un large sourire.::
 
 Vraiment ?
 
-Oui, monsieur. Merci encore, monsieur. Xtra ! Oui, oui, je dirai $(#le/la) ce que vous avez dit. Au revoir.<end>
+Oui, monsieur. Merci encore, monsieur. Xtra ! Oui, oui, je lui répéterai ce que vous avez dit. Au revoir.<end>
 
 =>a71_original
 What did the Professor say?<end>
@@ -492,61 +492,61 @@ Qu'a dit le professeur ?<end>
 That you should see him now.<end>
 
 =>q72
-Que tu devrais le voir maintenant.<end>
+Qu'il veut te voir, maintenant.<end>
 
 =>a73_original
 Anyway, you stopped at: "Now *that's* the--".<end>
 
 =>a73
-Quoi qu'il en soit, tu t'es arrêté à : "Maintenant, c'est le...".<end>
+Bref, t'en étais à : "Là *ça* c'est le--".<end>
 
 =>q74_original
 Actually, the professor will fill you in on the rest.<end>
 
 =>q74
-En fait, le professeur va vous renseigner sur le reste.<end>
+En fait, c'est le professeur qui te dira le reste.<end>
 
 =>a75_original
 Come on, man, this is getting ridiculous!<end>
 
 =>a75
-Allez, mec, ça devient ridicule !<end>
+Allez, sérieux, ça devient ridicule !<end>
 
 =>q76_original
 Y-- You better go see the professor.<end>
 
 =>q76
-Tu ferais mieux d'aller voir le professeur.<end>
+T-- T'as intérêt à aller voir le professeur.<end>
 
 =>a77_original
 Damn it. See ya.<end>
 
 =>a77
-C'est pas vrai. A bientôt.<end>
+Merde. À plus.<end>
 
 =>q78_original
 'Kay. See ya.<end>
 
 =>q78
-'Kay. A bientôt.<end>
+'Kay. À plus.<end>
 
 =>a79_original
 I better get going then.<end>
 
 =>a79
-Je ferais mieux d'y aller.<end>
+Bon, j'y vais.<end>
 
 =>a80_original
 Felt like he said a lot more than that.<end>
 
 =>a80
-Comme s'il avait dit bien plus que ça.<end>
+On dirait qu'il a dit bien plus que ça.<end>
 
 =>q81_original
 Yes, but not to you.<end>
 
 =>q81
-Oui, mais pas pour vous.<end>
+Oui, mais pas à toi.<end>
 
 =>a82_original
 Because I asked you.<end>
@@ -558,49 +558,49 @@ Parce que je t'ai demandé.<end>
 ::Gesture him to proceed.::<end>
 
 =>a83
-::Gesturez-le.::<end>
+::Lui faire signe de continuer.::<end>
 
 =>a84_original
 I have to know everything if I'm going to do this job right.<end>
 
 =>a84
-Je dois tout savoir si je dois bien faire ce travail.<end>
+Faut que je sache tout si je veux faire le boulot correctement.<end>
 
 =>a85_original
 What do you do around here?<end>
 
 =>a85
-Que faites-vous ici ?<end>
+Tu fais quoi, ici ?<end>
 
 =>q86_original
 Well, I'm the person who gets called when a cooler in someone's desktop is "louder than ass," when a mobile "ain't working right" due to fat finger syndrome - and inappropriate usage in general - or when "I lost all mah data 'cause the power died," when in fact his data is fine, he just doesn't know where he's been saving it. ::He sighs.::<end>
 
 =>q86
-Eh bien, je suis la personne qui se fait appeler quand une glacière dans le bureau de quelqu'un est "meilleur que cul", quand un mobile "ne fonctionne pas bien" en raison du syndrome de gros doigt - et une utilisation inappropriée en général - ou quand "j'ai perdu toutes les données du mah parce que le pouvoir est mort", quand en fait ses données sont bien, il ne sait tout simplement pas où il l'a sauvé. ::Il soupire.::<end>
+Ben, je suis celui qu'on appelle quand le ventilo du bureau de quelqu'un est "plus bruyant que mon cul", quand un mobile "marche plus" à cause du syndrome du gros doigt - et d'un usage dégueulasse en général - ou quand "j'ai perdu toutes mes données, y a plus d'jus", alors qu'en fait ses données vont très bien, il sait juste plus où il les a sauvées. ::Il soupire.::<end>
 
 =>q87_original
 What I was actually brought here to do is data recovery, decryption, analysis. Xcell. But some people don't realize that and bug me about each and every triviality they encounter. <end>
 
 =>q87
-J'ai été amené ici pour récupérer des données, décrypter, analyser. C'est Xcell. Mais certaines personnes ne se rendent pas compte que et m'embêtent à chaque trivialité qu'ils rencontrent. <end>
+Ce pour quoi on m'a vraiment amené ici, c'est récupération de données, déchiffrement, analyse. Xcell. Mais y en a qui pigent pas et qui me bassinent pour chaque connerie qu'ils croisent. <end>
 
 =>q88_original
 Thankfully, all of that is about to come to an end. Xile.<end>
 
 =>q88
-Heureusement, tout cela va bientôt prendre fin. Xile.<end>
+Heureusement, tout ça va bientôt se terminer. Xile.<end>
 
 =>q89_original
 So if your mobile is acting funky - please leave me out of it. Xile.<end>
 
 =>q89
-Donc si ton portable agit drôlement, laisse-moi en dehors de ça. Xile.<end>
+Donc si ton mobile fait le zouave - me fais pas rentrer là-dedans, s'il te plaît. Xile.<end>
 
 =>a90_original
 Is that coffee you're drinking?<end>
 
 =>a90
-C'est le café que tu bois ?<end>
+C'est du café, ça, que tu bois ?<end>
 
 =>q91_original
 This? Yes. Why? <end>
@@ -612,13 +612,13 @@ This? Yes. Why? <end>
 Never seen coffee before?<end>
 
 =>q92
-Jamais vu de café ?<end>
+T'as jamais vu de café ?<end>
 
 =>a93_original
 I have. <end>
 
 =>a93
-Oui. <end>
+J'en ai déjà vu. <end>
 
 =>q94_original
 ::He pauses, watching you while a pillar of smoke from the hot coffee pirouettes between you and him. With commiseration in his eyes, he softly proceeds.::
@@ -626,27 +626,27 @@ Oui. <end>
 You... don't have any coffee beans here?<end>
 
 =>q94
-::Il s'arrête en vous regardant pendant qu'un pilier de fumée des pirouettes de café chaud entre vous et lui. Avec la communication dans ses yeux, il procède doucement.::
+::Il s'arrête, te regarde, pendant qu'une colonne de vapeur du café chaud pirouette entre vous. De la commisération dans les yeux, il enchaîne, doucement.::
 
-Vous n'avez pas de grains de café ?<end>
+Vous... vous avez pas de grains de café, ici ?<end>
 
 =>a95_original
 Coffee *beans*?<end>
 
 =>a95
-Des haricots au café ?<end>
+Des *grains* de café ?<end>
 
 =>q96_original
 Wow. I'm sorry. I knew things were bad here, but this bad? Xit. *X*. *it*. But you have, like, hydroponics, right? You are capable of growing certain plants here? Then why no real coffee? I don't get it.<end>
 
 =>q96
-Ouah. Je suis désolé. Je savais que les choses étaient mauvaises ici, mais si mauvaise ? Xit. *X*. Mais vous avez des hydroponiques, non ? Vous êtes capable de cultiver certaines plantes ici ? Alors pourquoi pas de vrai café ? Je ne comprends pas.<end>
+Waouh. Désolé. Je savais que c'était la misère, ici, mais à ce point ? Xit. *X*. *it*. Mais vous avez de l'hydroponie, non ? Vous arrivez à faire pousser des plantes, ici ? Alors pourquoi pas de vrai café ? Je pige pas.<end>
 
 =>a97_original
 My home station has hydroponics, but I haven't seen many elsewhere.<end>
 
 =>a97
-Ma station a des hydroponiques, mais je n'en ai pas vu beaucoup ailleurs.<end>
+Ma station a de l'hydroponie, mais j'en ai pas vu beaucoup ailleurs.<end>
 
 =>q98_original
 ::He shakes his head in.:: $(#No man/No one) should live without good xin' coffee. 
@@ -654,39 +654,39 @@ Ma station a des hydroponiques, mais je n'en ai pas vu beaucoup ailleurs.<end>
 You know, I got some more here. ::He glances at the coffeemaker on the other table.:: <end>
 
 =>q98
-::Il se serre la tête.:: $(#No man/No one) doit vivre sans bon café.
+::Il secoue la tête.:: $(#Aucun gars/Personne) ne devrait vivre sans un bon café xin'.
 
-J'en ai d'autres ici. ::Il regarde la cafetière sur l'autre table.:: <end>
+Tu sais, j'en ai encore, là. ::Il jette un œil à la cafetière sur l'autre table.:: <end>
 
 =>q99_original
 If you weren't such an xer earlier, I'd offer you some. But since you walked out on me...<end>
 
 =>q99
-Si tu n'étais pas un tel xer plus tôt, je t'en offrirais. Mais depuis que tu m'as quitté...<end>
+Si t'avais pas été un xer pareil tout à l'heure, je t'en offrirais. Mais tu m'as planté là...<end>
 
 =>q100_original
 You want one?<end>
 
 =>q100
-Tu en veux un ?<end>
+T'en veux un ?<end>
 
 =>a101_original
 ::Shrug.::<end>
 
 =>a101
-::Énorme.::<end>
+::Hausser les épaules.::<end>
 
 =>a102_original
 They're not so bad after you get used to them, but what you've got here... is something else.<end>
 
 =>a102
-Ils ne sont pas si mauvais après t'être habitués à eux, mais ce que tu as ici... c'est autre chose.<end>
+C'est pas si terrible une fois qu'on a l'habitude, mais ce que t'as là... c'est autre chose.<end>
 
 =>a103_original
 We pour some horrible synthetic powder into hot water and drink it like that.<end>
 
 =>a103
-On verse de la poudre synthétique horrible dans l'eau chaude et on la boit comme ça.<end>
+On verse une poudre synthétique dégueulasse dans de l'eau chaude et on boit ça.<end>
 
 =>a104_original
 No.<end>
@@ -698,13 +698,13 @@ Non.<end>
 I suppose there are somewhere, but I haven't seen it during my humble life.<end>
 
 =>a105
-Je suppose qu'il y a quelque part, mais je ne l'ai pas vu pendant ma vie humble.<end>
+J'imagine que ça existe quelque part, mais j'en ai pas vu dans ma petite vie.<end>
 
 =>a106_original
 That coffee you're drinking...<end>
 
 =>a106
-Ce café que vous buvez...<end>
+Ce café que tu bois...<end>
 
 =>q107_original
 This? <end>
@@ -716,13 +716,13 @@ This? <end>
 About that coffee...<end>
 
 =>a108
-A propos de ce café...<end>
+Au sujet de ce café...<end>
 
 =>a109_original
 Hey, could you take a look at this for me?<end>
 
 =>a109
-Tu peux jeter un oeil à ça pour moi ?<end>
+Hé, tu peux jeter un œil à ça pour moi ?<end>
 
 =>q110_original
 <end>
@@ -742,63 +742,63 @@ Tu peux jeter un oeil à ça pour moi ?<end>
 Hm, yes... <end>
 
 =>q112
-::Il saisit soigneusement le comprimé visqueux avec deux doigts.::
+::Il saisit la tablette visqueuse du bout de deux doigts, avec précaution.::
 
-Oui... <end>
+Hm, ouais... <end>
 
 =>q113_original
 I can extract data from these kinds of devices - MPCs. This looks like a work tablet, but there are smaller, foldable devices as well. Neat little things. If you come across more of these<end>
 
 =>q113
-Je peux extraire des données de ces types d'appareils - MPC. Cela ressemble à une tablette de travail, mais il y a aussi des appareils plus petits et pliables. Des petites choses. Si vous rencontrez plus de ces<end>
+Je peux extraire des données de ce genre d'appareils - les MPC. Ça ressemble à une tablette de boulot, mais y a aussi des trucs plus petits, pliables. Mignons, ces machins. Si tu tombes sur d'autres<end>
 
 =>q114_original
 , bring them to me.<end>
 
 =>q114
-Amène-les-moi.<end>
+, ramène-les-moi.<end>
 
 =>a115_original
 Can they be repaired?<end>
 
 =>a115
-Peut-on les réparer ?<end>
+On peut les réparer ?<end>
 
 =>q116_original
 Hardly. These things are *old*. But their data storage drives - now *those* things are high quality. While a lot of data does end up being unrecoverable in the end, I've had great success so far. You just bring me MPCs and I'll put everything I manage to recover <end>
 
 =>q116
-À peine. Ces choses sont anciennes. Mais leurs lecteurs de stockage de données - maintenant *ces* choses sont de haute qualité. Alors que beaucoup de données finissent par être irrécupérables à la fin, j'ai eu un grand succès jusqu'à présent. Apportez-moi des MPC et je mettrai tout ce que j'arrive à récupérer. <end>
+Difficilement. Ces trucs sont *vieux*. Mais leurs disques de stockage - alors *ça*, c'est du costaud. Une bonne partie des données finit irrécupérable, mais jusqu'ici j'ai plutôt bien réussi. Tu m'amènes des MPC et je mets tout ce que j'arrive à récupérer <end>
 
 =>q117_original
 on that PC over there. ::He points to the computer next to his own.:: That one. <end>
 
 =>q117
-sur le PC là-bas. ::Il pointe vers l'ordinateur à côté du sien.:: Celui-là. <end>
+sur le PC là-bas. ::Il désigne l'ordi à côté du sien.:: Celui-là. <end>
 
 =>q118_original
 Feel free to browse the files once I'm done.<end>
 
 =>q118
-N'hésitez pas à parcourir les fichiers une fois que j'aurai fini.<end>
+Tu pourras fouiller les fichiers une fois que j'aurai fini.<end>
 
 =>q119_original
 In fact, you know, there is one already there. It's from one of NFT soldier's MPCs. Check it out.<end>
 
 =>q119
-En fait, il y en a déjà un. Ça vient d'un des MPC des soldats de la NFT. Regarde.<end>
+D'ailleurs, y en a déjà un. Ça vient du MPC d'un soldat NFT. Jette un œil.<end>
 
 =>q120_original
 'Kay now... let's see what we got.<end>
 
 =>q120
-Allons voir ce qu'on a.<end>
+'Kay... voyons ce qu'on a.<end>
 
 =>a121_original
 ::Wait.::<end>
 
 =>a121
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>q122_original
 on my PC in the tent. <end>
@@ -810,145 +810,145 @@ sur mon PC dans la tente. <end>
 'Kay. I'll get to work straight away.<end>
 
 =>q123
-'Kay. Je vais travailler tout de suite.<end>
+'Kay. Je m'y mets tout de suite.<end>
 
 =>q124_original
 Ah, those are MPCs. Give them here. <end>
 
 =>q124
-Ce sont des MPC. Donne-les ici. <end>
+Ah, ça c'est des MPC. Donne. <end>
 
 =>q125_original
 I can extract data from these neat little devices, so if you come across more of them<end>
 
 =>q125
-Je peux extraire les données de ces petits appareils, donc si vous les rencontrez plus<end>
+Je peux extraire les données de ces petits bijoux, donc si tu en croises d'autres<end>
 
 =>q126_original
 Ah, that's an MPC. Give it here. <end>
 
 =>q126
-Ah, c'est un MPC. Donne-moi ça. <end>
+Ah, ça c'est un MPC. Donne. <end>
 
 =>a127_original
 You're using some strange words I'm not familiar with. The ones starting with "x."<end>
 
 =>a127
-Tu utilises des mots étranges que je ne connais pas. Ceux qui commencent par "x".<end>
+T'utilises des mots bizarres, je les connais pas. Ceux qui commencent par "x".<end>
 
 =>q128_original
 After what you did... Nah, $(#man/sis). <end>
 
 =>q128
-Après ce que tu as fait... Non, $(#man/sis). <end>
+Après ce que t'as fait... Nan, $(#gars/fille). <end>
 
 =>q129_original
 I'll cooperate, but it's best we skip the chit-chat.<end>
 
 =>q129
-Je vais coopérer, mais il vaut mieux qu'on saute le chaton.<end>
+Je coopère, mais autant zapper le bavardage.<end>
 
 =>q130_original
 Oh, like xtreme and xit? It's... complicated. It's Hexagonian X-- *Slang*. Sorry, I totally forgot you're a Southerner and you don't know about that stuff. I mean, don't take it the wrong way, $(#man/sis), it's just that you people prefer the Arena, 'kay, since that's what you have here. I mean, not because one is worse than the... uh, than the other. Actually, it's not a really good comparison at all because of the... um... you know.<end>
 
 =>q130
-Oh, comme extrême et xit ? C'est... compliqué. C'est Hexagonien X-- *Slang*. Désolé, j'ai complètement oublié que tu es un Sudiste et tu ne sais pas pour ce truc. Ne le prenez pas mal, $(#man/sis), c'est juste que vous préférez l'aréna, car c'est ce que vous avez ici. Pas parce que l'un est pire que l'autre. En fait, ce n'est pas du tout une bonne comparaison à cause du... tu sais.<end>
+Oh, genre xtreme et xit ? C'est... compliqué. C'est de l'X hexagonien-- *l'argot*. Désolé, j'avais complètement zappé que t'es $(#un Sudiste/une Sudiste) et que tu connais pas ce truc. Enfin, le prends pas mal, $(#gars/fille), c'est juste que vous, vous préférez l'Arena, 'kay, vu que c'est ce que vous avez ici. Pas parce que l'un est pire que l'... euh, que l'autre. En fait, c'est même pas une bonne comparaison, à cause du... euh... tu vois.<end>
 
 =>q131_original
 I should just... I mean, stop talking now. Forget I said anything. ::Silence.::<end>
 
 =>q131
-Je devrais juste... Arrête de parler. Oubliez ce que j'ai dit. ::Silence.::<end>
+Je devrais juste... je veux dire, me taire. Oublie ce que j'ai dit. ::Silence.::<end>
 
 =>a132_original
 It's alright. No need to stress over it, man.<end>
 
 =>a132
-C'est bon. Pas besoin de le stresser, mec.<end>
+C'est bon. Pas la peine de stresser là-dessus.<end>
 
 =>q133_original
 I am not stressed at all. ::He takes a sip from his t-flask and shakes his head sideways, vacantly staring forward.:: Not at all.<end>
 
 =>q133
-Je ne suis pas du tout stressé. ::Il prend une gorgée de son t-flask et agite sa tête latéralement, en regardant vers l'avant.:: Pas du tout.<end>
+Je stresse pas du tout. ::Il prend une gorgée dans son t-flask et secoue la tête de côté, le regard vide, droit devant.:: Pas du tout.<end>
 
 =>a134_original
 I find what you said deeply offensive.<end>
 
 =>a134
-Je trouve ce que vous avez dit profondément offensant.<end>
+Je trouve ça profondément offensant, ce que tu viens de dire.<end>
 
 =>q135_original
 Oh, come on. Are you serious?<end>
 
 =>q135
-Allez. Sérieux ?<end>
+Oh, allez. T'es $(#sérieux/sérieuse) ?<end>
 
 =>a136_original
 Of course not. Only morons get offended by stuff like that. Relax.<end>
 
 =>a136
-Bien sûr. Seuls les idiots sont offensés par des trucs comme ça. Du calme.<end>
+Bien sûr que non. Y a que les cons que ça vexe, ce genre de truc. Détends-toi.<end>
 
 =>q137_original
 Xit! I actually believed you for a moment. ::He takes a sip.:: You aren't so bad after all.<end>
 
 =>q137
-Xit ! Je t'ai cru un instant. ::Il prend une gorgée.:: Tu n'es pas si mal après tout.<end>
+Xit ! Je t'ai vraiment cru, une seconde. ::Il prend une gorgée.:: T'es pas si mal, en fait.<end>
 
 =>a138_original
 ::Stare at him silently.::<end>
 
 =>a138
-::Regardez-le silencieusement.::<end>
+::Le fixer en silence.::<end>
 
 =>q139_original
 'Kay. My girlfriend does that often. Stares. Angrily. Hey, it's what they do.<end>
 
 =>q139
-'Kay. Ma copine le fait souvent. Des regards. En colère. C'est ce qu'ils font.<end>
+'Kay. Ma copine fait ça souvent. Elle fixe. En colère. Hey, c'est ce qu'elles font.<end>
 
 =>q140_original
 Look, I'm sorry for offending you. It wasn't my intention. My tongue sometimes gets a head start on my brain. That's all I can say. Sorry, $(#man/sis).<end>
 
 =>q140
-Désolé de vous avoir offensé. Ce n'était pas mon intention. Ma langue a parfois une longueur d'avance sur mon cerveau. C'est tout ce que je peux dire. Désolé, $(#man/sis).<end>
+Écoute, désolé de t'avoir $(#vexé/vexée). C'était pas voulu. Ma langue a parfois une longueur d'avance sur mon cerveau. C'est tout ce que je peux dire. Désolé, $(#gars/fille).<end>
 
 =>a141_original
 It's alright. We're good. There were more things I wanted to talk to you about.<end>
 
 =>a141
-C'est bon. C'est bon. Je voulais te parler d'autres choses.<end>
+C'est bon. On est quittes. Y avait d'autres trucs dont je voulais te parler.<end>
 
 =>q142_original
 ::He nods with a smile.:: Xcell. <end>
 
 =>q142
-::Il hoche la tête avec un sourire.:: Xcell. <end>
+::Il hoche la tête, sourire aux lèvres.:: Xcell. <end>
 
 =>q143_original
 Go for it.<end>
 
 =>q143
-Allez-y.<end>
+Vas-y.<end>
 
 =>a144_original
 I gotta go now. See you later.<end>
 
 =>a144
-Je dois y aller. A tout à l'heure.<end>
+Faut que j'y aille. À plus.<end>
 
 =>q145_original
 So that's how we're gonna play. <end>
 
 =>q145
-C'est comme ça qu'on va jouer. <end>
+C'est comme ça qu'on joue, alors. <end>
 
 =>q146_original
 And I even made coffee for you. <end>
 
 =>q146
-Et j'ai même fait du café pour toi. <end>
+Et je t'ai même fait du café. <end>
 
 =>q147_original
 Xer.<end>
@@ -960,19 +960,19 @@ Xer.<end>
 ::Leave without saying anything.::<end>
 
 =>a148
-::Partez sans rien dire.::<end>
+::Partir sans un mot.::<end>
 
 =>a149_original
 How about we simply change the subject?<end>
 
 =>a149
-Pourquoi ne pas simplement changer de sujet?<end>
+Et si on changeait de sujet, tout simplement ?<end>
 
 =>q150_original
 'Kay, 'kay!<end>
 
 =>q150
-C'est bon !<end>
+'Kay, 'kay !<end>
 
 =>a151_original
 Tell me about Hexagon.<end>
@@ -984,25 +984,25 @@ Parle-moi d'Hexagon.<end>
 You know, $(#man/sis), maybe some other time. It's kind of a broad topic and I've got work to do.<end>
 
 =>q152
-Tu sais, $(#man/sis), peut-être une autre fois. C'est un gros sujet et j'ai du travail.<end>
+Tu sais, $(#gars/fille), une autre fois, peut-être. C'est vaste, comme sujet, et j'ai du boulot.<end>
 
 =>q153_original
 Some other time. ::He sips some coffee.::<end>
 
 =>q153
-Une autre fois. ::Il gâche du café.::<end>
+Une autre fois. ::Il sirote son café.::<end>
 
 =>q154_original
 While Dis may be the capital of North Underrail, Hexagon is the capital of technology. It's like this microcosm of everything high-tech, a place where you could find pretty much every-xtreme-thing, 'kay.<end>
 
 =>q154
-Alors que Dis peut être la capitale du Nord Underrail, Hexagon est la capitale de la technologie. C'est comme ce microcosme de tout high-tech, un endroit où on peut trouver à peu près tous les trucs, 'kay.<end>
+Dis, c'est peut-être la capitale du North Underrail, mais Hexagon, c'est la capitale de la tech. Un microcosme de tout ce qui est high-tech, un endroit où tu trouves à peu près n'importe quoi de xtreme, 'kay.<end>
 
 =>a155_original
 So how did you end up in there?<end>
 
 =>a155
-Alors, comment vous êtes-vous retrouvé là-dedans ?<end>
+Et toi, tu t'es retrouvé là-dedans comment ?<end>
 
 =>q156_original
 A friend of mine took me there. We needed some network equipment, and one of his acquaintances there had the best stuff. 
@@ -1010,9 +1010,9 @@ A friend of mine took me there. We needed some network equipment, and one of his
 Hexagon's a pretty confusing place. It's like this tall tower with many floors, each one packed with narrow, maze-like passages leading to all sorts of these... xtra places.<end>
 
 =>q156
-Un de mes amis m'y a emmené. On avait besoin d'équipement réseau, et une de ses connaissances avait le meilleur truc.
+Un pote m'y a emmené. On avait besoin de matos réseau, et une de ses connaissances là-bas avait le meilleur stock.
 
-Hexagon est un endroit assez confus. C'est comme cette grande tour avec de nombreux étages, chacun rempli de passages étroits, comme un labyrinthe, menant à toutes sortes de ces... lieux xtra.<end>
+Hexagon, c'est un vrai labyrinthe. Une grande tour, des étages et des étages, chacun bourré de couloirs étroits, en dédale, qui mènent à toutes sortes de... coins xtra.<end>
 
 =>q157_original
 Naturally the place is home to all kinds of tech gangs and various factions; the Protectorate got no presence there, nope. You gotta be careful where you tread and who you're dealing with, 'cause if you're not, you might find yourself face to face with... I don't know, a cyborg mugger - or a tech harvester. ::He makes a grimace.::
@@ -1020,87 +1020,87 @@ Naturally the place is home to all kinds of tech gangs and various factions; the
 Usually I'd stay out of that place, but that friend... he knows his way around. I just kept my head down and followed.<end>
 
 =>q157
-Naturellement, l'endroit abrite toutes sortes de gangs de technologie et de diverses factions ; le Protectorate n'y a pas de présence, non. Tu dois être prudent là où tu marches et avec qui tu as affaire, parce que si tu ne l'es pas, tu pourrais te trouver face à face avec... Je ne sais pas, un cyborg mugger - ou un moissonneur de technologie. ::Il fait une grimace.::
+Évidemment, l'endroit abrite toutes sortes de gangs tech et de factions ; le Protectorate n'y a aucune présence, nan. Faut faire gaffe où tu poses les pieds et à qui tu parles, parce que sinon tu te retrouves nez à nez avec... je sais pas, un cyborg agresseur - ou un tech harvester. ::Il grimace.::
 
-D'habitude, je resterais en dehors de cet endroit, mais cet ami... il connaît son chemin. J'ai juste gardé la tête baissée et suivi.<end>
+D'habitude je fous pas les pieds là-bas, mais ce pote... il connaît les coins. J'ai baissé la tête et je l'ai suivi.<end>
 
 =>q158_original
 But then, after I was introduced to XR, I bought this living cube in-- ::And then he shuts up.::<end>
 
 =>q158
-Mais ensuite, après avoir été présenté à XR, j'ai acheté ce cube vivant en-- ::Et puis il s'est fermé.::<end>
+Et puis, après qu'on m'ait présenté XR, j'ai acheté ce living cube dans-- ::Et là, il se tait.::<end>
 
 =>a159_original
 Go on.<end>
 
 =>a159
-Allez.<end>
+Continue.<end>
 
 =>q160_original
 Forget I mentioned it. It's just some meaningless Hexagonian slang.<end>
 
 =>q160
-Oublie que j'en ai parlé. C'est juste un argot hexagonien sans signification.<end>
+Oublie que j'en ai parlé. C'est juste de l'argot hexagonien, ça veut rien dire.<end>
 
 =>q161_original
 Forget about it, $(#man/sis).<end>
 
 =>q161
-Oublie ça, $(#man/sis).<end>
+Oublie, $(#gars/fille).<end>
 
 =>q162_original
 ::He looks around.:: 'Kay. But don't tell anyone about this. People don't... understand this kind of stuff.<end>
 
 =>q162
-::Il regarde autour de lui.:: 'Kay. Mais n'en parle à personne. Les gens ne comprennent pas ce genre de choses.<end>
+::Il jette un œil autour.:: 'Kay. Mais tu en parles à personne. Les gens... pigent pas ce genre de truc.<end>
 
 =>q163_original
 And you, Toddo, this is not for your ears!<end>
 
 =>q163
-Et toi, Toddo, ce n'est pas pour tes oreilles !<end>
+Et toi, Toddo, c'est pas pour tes oreilles !<end>
 
 =>q164_original
 ::He confirms his understanding with a few quick nods.::<end>
 
 =>q164
-::Il confirme sa compréhension avec quelques mots rapides.::<end>
+::Il confirme d'un petit hochement de tête, rapide.::<end>
 
 =>q165_original
 'Kay. XR is short for mixed reality. That's *miXed Reality*.<end>
 
 =>q165
-'Kay. XR est court pour la réalité mixte. C'est la réalité miXed.<end>
+'Kay. XR, c'est pour mixed reality. *miXed Reality*.<end>
 
 =>a166_original
 ::[Intelligence]:: You mean, something between virtual and actual reality?<end>
 
 =>a166
-::[Intelligence]:: Quelque chose entre réalité virtuelle et réalité réelle ?<end>
+::[Intelligence]:: Un truc entre réalité virtuelle et réalité... réelle ?<end>
 
 =>q167_original
 ::He nods.:: Something like that, yeah. But this is different. <end>
 
 =>q167
-::Il acquiesce.:: Quelque chose comme ça, oui. Mais c'est différent. <end>
+::Il hoche la tête.:: Un truc dans le genre, ouais. Mais c'est pas pareil. <end>
 
 =>q168_original
 This is *xcell*!<end>
 
 =>q168
-C'est "xcell" !<end>
+Ça, c'est *xcell* !<end>
 
 =>q169_original
 You know how regular virtual reality works already: <end>
 
 =>q169
-Vous savez déjà comment fonctionne la réalité virtuelle régulière : <end>
+Tu sais déjà comment marche la réalité virtuelle classique : <end>
 
 =>q170_original
 You put on a headset, maybe connect the electrodes, enter a gyrosphere if you got it, and then you're in this totally computer-generated world.<end>
 
 =>q170
-Vous mettez un casque, peut-être connectez les électrodes, entrez dans une gyrosphère si vous l'avez, et puis vous êtes dans ce monde totalement généré par ordinateur.<end>
+Tu mets un casque, tu branches les électrodes peut-être, tu entres dans une gyrosphère si t'en as une, et hop, t'es dans un monde entièrement généré par ordi.<end>
 
 =>q171_original
 But miXed Reality is different: Some of it is real, some of it is virtual. ::He glances around once again before proceeding.:: 'Kay, now, there's this thing called a *miXR* you gotta step into. It's like a gyrosphere, but there are no headsets, electrodes or anything you have to put on. 
@@ -1108,45 +1108,45 @@ But miXed Reality is different: Some of it is real, some of it is virtual. ::He 
 You step into it, the entrance closes - and the session starts. <end>
 
 =>q171
-Mais la réalité miXed est différente : une partie est réelle, une partie est virtuelle. ::Il revoilà un regard avant de continuer.:: 'Kay, maintenant, il ya ce truc appelé un *miXR* vous devez entrer dans. C'est comme une gyrosphère, mais il n'y a pas de casques, d'électrodes ou tout ce que vous devez mettre.
+Mais la miXed Reality, c'est autre chose : une partie est réelle, une partie est virtuelle. ::Il jette encore un œil autour avant de continuer.:: 'Kay, alors y a ce truc appelé *miXR* dans lequel tu dois entrer. Comme une gyrosphère, mais sans casque, sans électrodes, sans rien à enfiler.
 
-Vous y entrez, l'entrée se ferme - et la session commence. <end>
+Tu entres, l'entrée se referme - et la session démarre. <end>
 
 =>q172_original
 It costs a lot of credits, but it's worth it, $(#man/sis). Hexagonians are going crazy over it.<end>
 
 =>q172
-Ça coûte beaucoup de crédits, mais ça vaut le coup, $(#man/sis). Les hexagoniens deviennent fous.<end>
+Ça coûte un paquet de crédits, mais ça vaut le coup, $(#gars/fille). Les Hexagoniens en deviennent fous.<end>
 
 =>a173_original
 Down here we'd say "going derailed."<end>
 
 =>a173
-Ici, on dirait "dérailler".<end>
+Ici, on dirait "dérailler complètement".<end>
 
 =>q174_original
 Sure. Xrailed, hah.<end>
 
 =>q174
-Bien sûr. Xrailed, hah.<end>
+Ouais. Xrailed, hah.<end>
 
 =>a175_original
 I still don't understand the *mixed* part. What are these sessions like?<end>
 
 =>a175
-Je ne comprends toujours pas la partie *mixée*. Comment sont ces séances ?<end>
+Je pige toujours pas le *mixed*. Ces sessions, c'est comment ?<end>
 
 =>q176_original
 Yeah, so, when you're in virtual reality, everything's digital; the computer reacts to what you do - you affect the virtual. But in mixed reality - the real things can... get affected by virtual things.<end>
 
 =>q176
-Oui, donc, quand vous êtes en réalité virtuelle, tout est numérique; l'ordinateur réagit à ce que vous faites - vous affectez le virtuel. Mais en réalité mixte - les choses réelles peuvent... être affectées par les choses virtuelles.<end>
+Ouais, alors, en réalité virtuelle, tout est digital ; l'ordi réagit à ce que tu fais - tu agis sur le virtuel. Mais en mixed reality - le réel peut... se faire affecter par le virtuel.<end>
 
 =>a177_original
 How is that even possible?<end>
 
 =>a177
-Comment est-ce possible ?<end>
+Comment c'est seulement possible ?<end>
 
 =>q178_original
 I don't know. No one knows - that's why it's so xcell! Everything around you changes, and you can't even tell you're inside the miXR anymore. You can feel the air currents, smell things, touch, taste, feel. 
@@ -1154,9 +1154,9 @@ I don't know. No one knows - that's why it's so xcell! Everything around you cha
 The sessions themselves range from just visiting places, meeting people, flying, doing... all kinds of things.<end>
 
 =>q178
-Je ne sais pas. Personne ne sait - c'est pour ça que c'est si xcell ! Tout autour de vous change, et vous ne pouvez même plus dire que vous êtes à l'intérieur du miXR. Vous pouvez sentir les courants d'air, sentir les choses, toucher, goûter, sentir.
+Je sais pas. Personne ne sait - c'est pour ça que c'est si xcell ! Tout autour de toi change, et tu peux même plus dire que t'es encore dans le miXR. Tu sens les courants d'air, les odeurs, tu touches, tu goûtes, tu ressens.
 
-Les séances elles-mêmes vont de simples visites, rencontres, vol, toutes sortes de choses.<end>
+Les sessions, ça va de visiter des endroits, croiser des gens, voler, faire... un peu tout.<end>
 
 =>q179_original
 <end>
@@ -1174,13 +1174,13 @@ Voler ? Comme piloter un avion ?<end>
 Nah... *Flying*.<end>
 
 =>q181
-Non, je vole.<end>
+Nan... *Voler*.<end>
 
 =>q182_original
 You can get abilities you never knew were possible! You can see things beyond real, virtual - you can't even tell.<end>
 
 =>q182
-Vous pouvez obtenir des capacités que vous n'avez jamais connues étaient possibles! Vous pouvez voir des choses au-delà du réel, virtuel - vous ne pouvez même pas le dire.<end>
+Tu te tapes des pouvoirs que t'aurais jamais crus possibles ! Tu vois des trucs au-delà du réel, du virtuel - tu sais même plus faire la différence.<end>
 
 =>q183_original
 ::His voice drops almost to a whisper.:: There are... also some dark things going on in XR. People... some people get killed in the miXRs. Things that are brought in end up somewhere else. Some people disappear. 
@@ -1188,33 +1188,33 @@ Vous pouvez obtenir des capacités que vous n'avez jamais connues étaient possi
 I stay away from those kind of sessions. I don't have the courage for that. Where I go to, I do some Dreadnought piloting... and some other things.<end>
 
 =>q183
-::Sa voix tombe presque à un murmure.:: Il y a aussi des choses sombres en XR. Des gens sont tués dans les miXR. Des choses qui arrivent ailleurs. Certaines personnes disparaissent.
+::Sa voix tombe presque au murmure.:: Y a... aussi des trucs sombres, en XR. Des gens... y en a qui se font tuer dans les miXR. Des objets qu'on rentre finissent ailleurs. Des gens disparaissent.
 
-Je reste loin de ce genre de séances. Je n'ai pas le courage pour ça. Là où je vais, je fais du pilotage Dreadnought... et d'autres choses.<end>
+Je fous pas les pieds dans ce genre de session. J'ai pas le cran. Là où je vais, je pilote des Dreadnought... et d'autres trucs.<end>
 
 =>a184_original
 Other things? Like "*you know what*"?<end>
 
 =>a184
-Autre chose ? Comme "Tu sais quoi" ?<end>
+D'autres trucs ? Genre "*tu vois de quoi je parle*" ?<end>
 
 =>q185_original
 That? No, no, no, no, no! Some do, but I... haven't found a good-- Not that I was looking for it. I'd try it, but-- I haven't.<end>
 
 =>q185
-Ça ? Non, non, non, non, non ! Certains le font, mais je... n'ai pas trouvé de bon... Pas que je le cherchais. J'essaierais, mais...<end>
+Ça ? Non, non, non, non, non ! Y en a qui le font, mais moi... j'ai pas trouvé un bon-- Pas que je cherchais. J'essaierais, mais-- J'ai pas.<end>
 
 =>q186_original
 Anyway, this whole mystery, the possibilites, everything I told you about miXed Reality is why it's so thrilling. That's why the Hexagonians are going <end>
 
 =>q186
-Quoi qu'il en soit, tout ce mystère, les possibilités, tout ce que je t'ai dit à propos de la réalité miXed est pourquoi c'est si excitant. C'est pourquoi les Hexagoniens vont <end>
+Bref, tout ce mystère, les possibilités, tout ce que je t'ai dit sur la miXed Reality, c'est pour ça que c'est si excitant. C'est pour ça que les Hexagoniens <end>
 
 =>q187_original
 derailed over it. <end>
 
 =>q187
-Il a déraillé dessus. <end>
+déraillent dessus. <end>
 
 =>q188_original
 Part of it is real, part of it isn't.<end>
@@ -1226,7 +1226,7 @@ Une partie est réelle, une partie non.<end>
 Who made XR and the miXRs? That has got to be some *advanced* technology.<end>
 
 =>a189
-Qui a fait XR et les miXR ? C'est forcément une technologie avancée.<end>
+Qui a fabriqué XR et les miXR ? Ça doit être une tech *vachement* avancée.<end>
 
 =>q190_original
 ::He shrugs.:: No one's got a clue. It just suddenly appeared, and now it's here and everyone who knows about it is spending all their credits on it. 
@@ -1234,21 +1234,21 @@ Qui a fait XR et les miXR ? C'est forcément une technologie avancée.<end>
 I'm new to all of this, $(#man/sis), so I know little, but I think one of the factions there is pushing this. Just a rumor, 'kay.<end>
 
 =>q190
-::Il hausse les épaules.:: Personne n'a d'indice. Tout à coup il est apparu, et maintenant il est ici et tous ceux qui le savent dépensent tous leurs crédits.
+::Il hausse les épaules.:: Personne n'en a la moindre idée. Ça a surgi d'un coup, et maintenant c'est là, et tous ceux qui sont au courant y claquent tous leurs crédits.
 
-Je suis nouveau dans tout ça, $(#man/sis), donc je sais peu, mais je pense qu'une des factions là-bas pousse ça. Juste une rumeur.<end>
+Je débarque dans tout ça, $(#gars/fille), donc j'en sais pas grand-chose, mais je crois qu'une des factions là-bas pousse le truc. Juste une rumeur, 'kay.<end>
 
 =>a191_original
 Could all of this simply be a combination of a good illusion and some false rumors spread around as to hype the whole XR thing up?<end>
 
 =>a191
-Tout cela pourrait-il simplement être une combinaison d'une bonne illusion et de fausses rumeurs se sont répandues comme pour hyper tout le XR ?<end>
+Et si c'était juste une bonne illusion plus quelques rumeurs pour hype tout le bazar XR ?<end>
 
 =>q192_original
 I... haven't thought about it. Everything's so real, but... Hmmm...<end>
 
 =>q192
-Je n'y ai pas pensé. Tout est si réel, mais... - Oui.<end>
+J'y... j'y avais pas pensé. Tout est si réel, mais... Hmmm...<end>
 
 =>q193_original
 ::He pauses, sipping his coffee.:: Xit.
@@ -1256,57 +1256,57 @@ Je n'y ai pas pensé. Tout est si réel, mais... - Oui.<end>
 No, no, no, it can't be. I know what I experienced. But then again... But it can't... ::He sips some more coffee.::<end>
 
 =>q193
-::Il s'arrête en sirotant son café.:: Xit.
+::Il s'arrête, sirote son café.:: Xit.
 
-Non, c'est pas possible. Je sais ce que j'ai vécu. Mais encore une fois... Mais ça ne peut pas... ::Il gâche encore du café.::<end>
+Non, non, non, c'est pas possible. Je sais ce que j'ai vécu. Mais d'un autre côté... Mais ça peut pas... ::Il reprend une gorgée.::<end>
 
 =>a194_original
 ::Say nothing.::<end>
 
 =>a194
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q195_original
 So there. Now you know. And remember, keep this to yourself, 'kay?<end>
 
 =>q195
-Voilà. Maintenant tu sais. Et souviens-toi, garde ça pour toi, ok ?<end>
+Voilà. Maintenant tu sais. Et souviens-toi, tu gardes ça pour toi, 'kay ?<end>
 
 =>q196_original
 crazy over it. <end>
 
 =>q196
-C'est fou. <end>
+en deviennent fous. <end>
 
 =>a197_original
 That sounds interesting, actually.<end>
 
 =>a197
-Ça semble intéressant, en fait.<end>
+Ça a l'air intéressant, en vrai.<end>
 
 =>a198_original
 Seems boring.<end>
 
 =>a198
-Ça semble ennuyeux.<end>
+Ça a l'air chiant.<end>
 
 =>q199_original
 Listen: <end>
 
 =>q199
-Écoute. <end>
+Écoute : <end>
 
 =>a200_original
 ::[Hacking]:: Is it something like augmented reality? Real environments with a computer-generated overlays?<end>
 
 =>a200
-::[Frappe]:: Est-ce quelque chose comme la réalité augmentée ? Des environnements réels avec des superpositions générées par ordinateur ?<end>
+::[Hacking]:: C'est un truc genre réalité augmentée ? Du réel, avec des calques générés par ordi par-dessus ?<end>
 
 =>q201_original
 You're thinking in the right direction, but this is something different. <end>
 
 =>q201
-Vous pensez dans la bonne direction, mais c'est quelque chose de différent. <end>
+T'es dans le vrai sens, mais c'est autre chose. <end>
 
 =>a202_original
 What's that?<end>
@@ -1318,85 +1318,85 @@ C'est quoi ?<end>
 You know what virtual reality is, don't you? <end>
 
 =>q203
-Tu sais ce qu'est la réalité virtuelle, n'est-ce pas ? <end>
+Tu vois ce que c'est, la réalité virtuelle, hein ? <end>
 
 =>a204_original
 XR?<end>
 
 =>a204
-Une radio ?<end>
+XR ?<end>
 
 =>a205_original
 Is this the virtual reality Professor Oldfield mentioned?<end>
 
 =>a205
-Est-ce la réalité virtuelle mentionnée par le professeur Oldfield ?<end>
+C'est la réalité virtuelle dont le professeur Oldfield a parlé ?<end>
 
 =>a206_original
 Tell me about Hexagon. Professor already told me a bit but I'd like to hear more.<end>
 
 =>a206
-Parle-moi d'Hexagon. Le professeur m'a déjà dit un peu, mais j'aimerais en entendre plus.<end>
+Parle-moi d'Hexagon. Le professeur m'en a déjà dit un peu, mais je voudrais en entendre plus.<end>
 
 =>q207_original
 He did? 'Kay. ::He shrugs.:: <end>
 
 =>q207
-Vraiment ? 'Kay. ::Il hausse les épaules.:: <end>
+Il t'en a parlé ? 'Kay. ::Il hausse les épaules.:: <end>
 
 =>a208_original
 I'd like to know what XR is.<end>
 
 =>a208
-J'aimerais savoir ce qu'est XR.<end>
+Je voudrais savoir ce que c'est, XR.<end>
 
 =>a209_original
 What can you tell me about A-RFID microchips?<end>
 
 =>a209
-Que pouvez-vous me dire sur les puces A-RFID ?<end>
+Tu peux me dire un truc sur les puces A-RFID ?<end>
 
 =>q210_original
 A-RFID stands for active radio frequency identification. Basically, it means that the microchip has its own power source, as opposed to passive chips, which get powered by a reader. The data I've recovered - with a lot of effort - tells me that NFT used these chips originally for storing personal and medical history, to monitor the host's health status and to keep track of their location. I don't know how the microchip is being powered, by a battery or even by the host himself, but I bet they did a good job on it considering everyone's got them.<end>
 
 =>q210
-A-RFID représente l'identification active des radiofréquences. Fondamentalement, cela signifie que la puce a sa propre source d'énergie, par opposition aux puces passives, qui sont alimentées par un lecteur. Les données que j'ai récupérées - avec beaucoup d'effort - me disent que NFT a utilisé ces puces à l'origine pour stocker des antécédents personnels et médicaux, pour surveiller l'état de santé de l'hôte et pour suivre leur emplacement. Je ne sais pas comment la puce est alimentée, par une batterie ou même par l'hôte lui-même, mais je parie qu'ils ont fait du bon travail, vu que tout le monde les a.<end>
+A-RFID, ça veut dire active radio frequency identification. En gros, la puce a sa propre source d'énergie, contrairement aux puces passives, qui se font alimenter par le lecteur. Les données que j'ai récupérées - et ça m'a coûté - disent que NFT s'en servait à l'origine pour stocker l'historique perso et médical, surveiller l'état de santé de l'hôte et tracer sa position. Je sais pas comment la puce est alimentée, batterie ou même par l'hôte lui-même, mais je parie qu'ils ont bien bossé le truc, vu que tout le monde en a une.<end>
 
 =>a211_original
 So, when did authorization come into the picture?<end>
 
 =>a211
-Alors, quand l'autorisation est-elle arrivée sur la photo ?<end>
+Et l'autorisation, ça rentre à quel moment ?<end>
 
 =>q212_original
 The log mentions just that. It seems that the NFT didn't really have much need for authorization checks, 'kay, but they implemented this system to make it more difficult for Biocorp to enter their facilities. Considering they never made it into the Keep, it worked.<end>
 
 =>q212
-Le journal mentionne ça. Il semble que la NFT n'ait pas vraiment besoin de contrôles d'autorisation, 'kay, mais ils ont mis en œuvre ce système pour rendre plus difficile pour Biocorp d'entrer dans leurs installations. Vu qu'ils ne sont jamais entrés dans le Keep, ça a marché.<end>
+Le log en parle pile. On dirait que NFT n'avait pas vraiment besoin de contrôles d'autorisation, 'kay, mais ils ont mis ce système pour rendre plus dur à Biocorp d'entrer dans leurs sites. Vu qu'ils ont jamais mis les pieds dans le Keep, ça a marché.<end>
 
 =>a213_original
 ::[Intelligence]:: You said a microchip tracks the host's health status. What if they made it so a microchip won't work without a live host?<end>
 
 =>a213
-::[Intelligence]:: Vous avez dit qu'une puce traque l'état de santé de l'hôte. Et s'ils l'ont fait pour qu'une puce ne marche pas sans un hôte vivant ?<end>
+::[Intelligence]:: T'as dit que la puce surveille l'état de santé de l'hôte. Et s'ils l'ont calée pour qu'elle marche pas sans un hôte vivant ?<end>
 
 =>q214_original
 Huh...That makes sense. So you can't just chop someone's hand off and use it to pass authorization. And besides, if the microchips *are* being powered by the host's body, they might not even work at all. They could be powered by other means then, but what if they self-destruct if they've been left unpowered for a while, as a precaution. Xit!<end>
 
 =>q214
-Quoi... C'est logique. Donc vous ne pouvez pas couper la main de quelqu'un et l'utiliser pour passer l'autorisation. Et en outre, si les puces *sont* alimentées par le corps de l'hôte, elles pourraient même ne pas fonctionner du tout. Ils pourraient être alimentés par d'autres moyens alors, mais s'ils s'autodétruisent s'ils ont été laissés sans moteur pendant un certain temps, par précaution. Xit !<end>
+Hein... Ça tient la route. Donc tu peux pas juste couper une main et t'en servir pour passer l'autorisation. Et puis, si les puces *sont* alimentées par le corps de l'hôte, elles marcheraient même pas. Elles pourraient tourner autrement, mais et si elles s'autodétruisent après un moment sans jus, par précaution. Xit !<end>
 
 =>q215_original
 Well, we'll figure it all out once we find one of the microchips. If nothing else, maybe it'll help us learn how to trick the system. In any case, we need it, 'kay.<end>
 
 =>q215
-On trouvera tout une fois qu'on aura trouvé une puce. Si rien d'autre, ça nous aidera peut-être à apprendre à tromper le système. Quoi qu'il en soit, on en a besoin.<end>
+Bon, on verra tout ça une fois qu'on aura mis la main sur une puce. Au pire, ça nous apprendra à tromper le système. Dans tous les cas, on en a besoin, 'kay.<end>
 
 =>a216_original
 It seems that the implant does not need a live host to function. It's neither being powered by the host nor is a living one necessary to pass the authentication and authorization checks.<end>
 
 =>a216
-Il semble que l'implant n'a pas besoin d'un hôte vivant pour fonctionner. Il n'est ni alimenté par l'hôte ni vivant nécessaire pour passer les vérifications d'authentification et d'autorisation.<end>
+On dirait que l'implant n'a pas besoin d'un hôte vivant pour marcher. Ni alimenté par l'hôte, ni besoin d'un vivant pour passer l'authentification.<end>
 
 =>q217_original
 Luckily for us, that appears to be the case. That's xcell right there! It probably has a battery. As for the second, either it's an oversight on NFT's part or... I don't know, there could be something we're missing.
@@ -1404,27 +1404,27 @@ Luckily for us, that appears to be the case. That's xcell right there! It probab
 Have you tried pulling the hand out of the glove, huh?<end>
 
 =>q217
-Heureusement pour nous, cela semble être le cas. C'est xcell juste là ! Il a probablement une batterie. Quant à la seconde, soit c'est une surveillance de la part de NFT ou... Je ne sais pas, il pourrait y avoir quelque chose qui nous manque.
+Heureusement pour nous, on dirait bien. Ça, c'est xcell ! Elle a probablement une batterie. Pour le deuxième point, soit c'est un oubli de NFT, soit... je sais pas, y a peut-être un truc qu'on rate.
 
-Tu as essayé de sortir la main du gant ?<end>
+T'as essayé de sortir la main du gant, hein ?<end>
 
 =>a218_original
 No. I'd rather not touch it if I don't need to.<end>
 
 =>a218
-C'est pas vrai. Je préfère ne pas le toucher si je n'en ai pas besoin.<end>
+Non. Je préfère pas y toucher si j'ai pas besoin.<end>
 
 =>q219_original
 I hear you. It's... xtreme. Damn. Xit.<end>
 
 =>q219
-Je vous entends. C'est... extrême. C'est pas vrai. Xit.<end>
+Je te comprends. C'est... xtreme. Putain. Xit.<end>
 
 =>q220_original
 Anyway, I'll, you know, take one of the microchips from a body in the Keep and figure out how the thing is working, 'kay. Once I've got time. I'll let you know what I've discovered.<end>
 
 =>q220
-Quoi qu'il en soit, je vais, tu sais, prendre une des puces d'un corps dans le Keep et trouver comment ça marche, 'kay. Une fois que j'ai le temps. Je vous ferai savoir ce que j'ai découvert.<end>
+Bref, je vais, tu sais, piquer une puce sur un corps dans le Keep et piger comment ça marche, 'kay. Quand j'aurai le temps. Je te dirai ce que j'ai trouvé.<end>
 
 =>a221_original
 I extracted the microchip from the severed hand...<end>
@@ -1438,27 +1438,27 @@ J'ai extrait la puce de la main coupée...<end>
 Xtreme... But what for?<end>
 
 =>q222
-::Il perd de la couleur en y pensant.::
+::Il perd des couleurs rien qu'à y penser.::
 
-Xtreme... Mais pourquoi ?<end>
+Xtreme... Mais pour quoi faire ?<end>
 
 =>a223_original
 I needed to implant it into myself. It turns out I was wrong - the host does indeed power the implant.<end>
 
 =>a223
-J'avais besoin de l'implanter en moi. Il s'avère que j'avais tort - l'hôte fait en effet le pouvoir de l'implant.<end>
+Fallait que je me l'implante. Et j'avais tort : c'est bien l'hôte qui alimente l'implant.<end>
 
 =>q224_original
 Huh? Hold on, but how did you manage to open the Keep and all of those other facilities with a microchip implanted into a severed arm? I don't know how it is down here, but in North Underrail severed arms tend to be... lifeless, 'kay.<end>
 
 =>q224
-Quoi ? Attendez, mais comment avez-vous réussi à ouvrir le Keep et toutes ces autres installations avec une puce implantée dans un bras coupé ? Je ne sais pas comment c'est ici, mais dans le Nord Underrail bras coupés ont tendance à être... sans vie, 'kay.<end>
+Hein ? Attends, mais comment t'as ouvert le Keep et tous les autres sites avec une puce plantée dans un bras coupé ? Je sais pas comment ça marche ici, mais dans le North Underrail, les bras coupés ont tendance à être... morts, 'kay.<end>
 
 =>a225_original
 Well, it turns out there was something living inside that glove... ::Explain to him the microchip extraction process, with all the nasty details.::<end>
 
 =>a225
-Il s'avère qu'il y avait quelque chose dans ce gant... ::Expliquez-lui le processus d'extraction des micropuces, avec tous les mauvais détails.::<end>
+Il y avait quelque chose de vivant, dans ce gant... ::Lui raconter l'extraction de la puce, avec tous les détails dégueu.::<end>
 
 =>q226_original
 ::And so, each sentence that comes out of your mouth further bleaches Seeger's face until unhealthy shades of green begin to appear.::
@@ -1468,11 +1468,11 @@ Xit...
 ::...is the only word he uses for the duration of your talk.::<end>
 
 =>q226
-::Ainsi, chaque phrase qui sort de votre bouche blanchit le visage de Seeger jusqu'à ce que des nuances malsaines de vert commencent à apparaître.::
+::Et à chaque phrase qui sort de ta bouche, le visage de Seeger blanchit un peu plus, jusqu'à ce que des verts pas sains commencent à pointer.::
 
 Xit...
 
-::... est le seul mot qu'il utilise pour la durée de votre conversation.::<end>
+::...est le seul mot qu'il sort pendant tout le récit.::<end>
 
 =>q227_original
 ::After you're done with the story, he takes a moment to wipe his forehead before saying something other than "xit".::
@@ -1480,21 +1480,21 @@ Xit...
 'Kay...<end>
 
 =>q227
-::Après l'histoire, il prend un moment pour lui essuyer le front avant de dire autre chose que "xit".::
+::Une fois le récit fini, il s'essuie le front avant de sortir autre chose que "xit".::
 
-C'est ça...<end>
+'Kay...<end>
 
 =>q228_original
 So... the sterilization chemical killed it? ::He twiches his hand as a reference to your story.:: Like it were some kind of a virus?<end>
 
 =>q228
-Donc... le produit chimique de stérilisation l'a tué ? ::Il lui tend la main en référence à votre histoire.:: Comme si c'était une sorte de virus ?<end>
+Donc... le produit de stérilisation l'a tué ? ::Il agite la main, en référence à ton histoire.:: Comme si c'était une sorte de virus ?<end>
 
 =>a229_original
 It could be that, it could be everything: exposure to air, the needle and, yes, the chemical.<end>
 
 =>a229
-Cela pourrait être tout : l'exposition à l'air, l'aiguille et, oui, le produit chimique.<end>
+Ça peut être ça, ça peut être tout : l'air, l'aiguille, et ouais, le produit.<end>
 
 =>q230_original
 Xit.
@@ -1506,9 +1506,9 @@ You know what? Let's not talk about this ever again.<end>
 =>q230
 Xit.
 
-::Il prend une gorgée de café, apparaissant comme s'il sirotait une certaine couleur dans son visage.::
+::Il prend une gorgée de café, comme s'il se resservait un peu de couleur dans le visage.::
 
-Tu sais quoi ? Ne parlons plus jamais de ça.<end>
+Tu sais quoi ? On en reparle plus jamais.<end>
 
 =>q231_original
 Xile...<end>
@@ -1520,31 +1520,31 @@ Xile...<end>
 I needed to implant it into myself. Turns out the host does indeed power the implant.<end>
 
 =>a232
-J'avais besoin de l'implanter en moi. Il s'avère que l'hôte alimente l'implant.<end>
+Fallait que je me l'implante. Et c'est bien l'hôte qui alimente l'implant.<end>
 
 =>a233_original
 I'll leave you to your work.<end>
 
 =>a233
-Je vous laisse à votre travail.<end>
+Je te laisse à ton boulot.<end>
 
 =>q234_original
 Appreciate it. Bye.<end>
 
 =>q234
-J'apprécie. Au revoir.<end>
+Ça m'arrange. Ciao.<end>
 
 =>q235_original
 Sending it to Professor Oldfield straight away. <end>
 
 =>q235
-L'envoyer immédiatement au professeur Oldfield. <end>
+J'envoie ça au professeur Oldfield tout de suite. <end>
 
 =>q236_original
 Got something interesting for you. <end>
 
 =>q236
-J'ai quelque chose d'intéressant pour toi. <end>
+J'ai un truc intéressant pour toi. <end>
 
 =>q237_original
 It's on the PC.<end>
@@ -1556,7 +1556,7 @@ C'est sur le PC.<end>
 You can check it out on the PC in my tent.<end>
 
 =>q238
-Vous pouvez vérifier sur le PC dans ma tente.<end>
+Tu peux jeter un œil sur le PC dans ma tente.<end>
 
 =>q239_original
 ::An alluring scent invites you inside: It's rich, pleasant and strong enough to draw a hopper out of its crevice; it's like coffee - but smells infinitely better than the dark-brown dust-mixed-with-water consumed throughout South Underrail. This - this is something from the North. 
@@ -1564,9 +1564,9 @@ Vous pouvez vérifier sur le PC dans ma tente.<end>
 And if the delightful aroma is any indication, tasting it has got to be quite an experience.::<end>
 
 =>q239
-::Un parfum séduisant vous invite à l'intérieur: Il est riche, agréable et assez fort pour tirer une trémie de sa crevasse; c'est comme du café - mais sent infiniment mieux que la poussière brun foncé mélangée avec l'eau consommée dans tout South Underrail. C'est quelque chose du Nord.
+::Une odeur alléchante t'invite à entrer : riche, agréable, assez forte pour faire sortir un sauteur de sa fente ; ça sent le café - mais infiniment mieux que la poussière brun foncé mélangée à de l'eau qu'on boit dans tout le South Underrail. Ça, ça vient du Nord.
 
-Et si l'arôme délicieux est une indication, la dégustation doit être une expérience.::<end>
+Et si l'arôme est un indice, y goûter doit être toute une expérience.::<end>
 
 =>q240_original
 ::You take a step toward the man sitting at the desk, looking at letters and numbers and symbols of various kinds scrolling across his screen. He hears you and turns around, and in his hand - a t-flask of smoking black liquid. It *is* coffee after all.::
@@ -1574,51 +1574,51 @@ Et si l'arôme délicieux est une indication, la dégustation doit être une exp
 Yo, you need something?<end>
 
 =>q240
-::Vous faites un pas vers l'homme assis au bureau, regardant les lettres, les chiffres et les symboles de différentes sortes défilant sur son écran. Il t'entend et se retourne, et dans sa main, il fume du liquide noir. C'est du café après tout.::
+::Tu fais un pas vers l'homme assis au bureau, le regard collé à des lettres, des chiffres, des symboles de toutes sortes qui défilent sur son écran. Il t'entend, se retourne, et dans sa main - un t-flask de liquide noir fumant. C'est bien du café, après tout.::
 
-Tu as besoin de quelque chose ?<end>
+Yo, t'as besoin de quelque chose ?<end>
 
 =>a241_original
 Are you Jeremy Seeger? Professor Oldfield told me to see you.<end>
 
 =>a241
-Êtes-vous Jeremy Seeger? Le professeur Oldfield m'a dit de vous voir.<end>
+T'es Jeremy Seeger ? Le professeur Oldfield m'a dit de te voir.<end>
 
 =>q242_original
 Yeah. The one. <end>
 
 =>q242
-Oui. Celui-là. <end>
+Ouais. Lui-même. <end>
 
 =>q243_original
 You... gotta be one of the new sec-troopers, huh? Welcome to the Hell's Gut, $(#man/sis). That name seems more and more appropriate the more time we spend here. Am I right now?<end>
 
 =>q243
-Tu dois être l'un des nouveaux sec-troopers, hein ? Bienvenue dans l'Enfer, $(#man/sis). Ce nom semble de plus en plus approprié plus nous passons du temps ici. Vraiment ?<end>
+T'es... $(#un des nouveaux/une des nouvelles) sec-troopers, hein ? Bienvenue à Hell's Gut, $(#gars/fille). Plus on reste ici, plus le nom colle. J'ai raison, là ?<end>
 
 =>q244_original
 Well... anyway, what've you got for me?<end>
 
 =>q244
-Qu'avez-vous pour moi ?<end>
+Bon... bref, t'as quoi pour moi ?<end>
 
 =>a245_original
 Who are you?<end>
 
 =>a245
-Qui es-tu?<end>
+T'es qui ?<end>
 
 =>q246_original
 Seeger. Jeremy Seeger. <end>
 
 =>q246
-Tu vois ? Jeremy Seeger. <end>
+Seeger. Jeremy Seeger. <end>
 
 =>a247_original
 Nope, wrong tent. Goodbye.<end>
 
 =>a247
-Non, mauvaise tente. Au revoir.<end>
+Non, mauvaise tente. Ciao.<end>
 
 =>q248_original
 'Kay. ::He returns to his work.::<end>
@@ -1630,7 +1630,7 @@ Non, mauvaise tente. Au revoir.<end>
 Yes?<end>
 
 =>q249
-Oui?<end>
+Oui ?<end>
 
 =>q250_original
 <end>
@@ -1642,7 +1642,7 @@ Oui?<end>
 ::With a trembling voice.:: You... go see Chief Briggs down there.<end>
 
 =>q251
-::D'une voix tremblante.:: Vous... allez voir le chef Briggs en bas.<end>
+::D'une voix tremblante.:: Toi... va voir Chief Briggs, en bas.<end>
 
 =>q252_original
 ::He takes a sip of coffee, holding the cup with both of his trembling hands.:: 
@@ -1652,11 +1652,11 @@ Xit! It's all my fault.
 I could've been taken away down there - or xed on the spot! ::He looks at his t-flask with gratitude.:: But I went to get some coffee. Saved my *X*.<end>
 
 =>q252
-::Il prend une gorgée de café, tenant la tasse avec ses deux mains tremblantes.::
+::Il prend une gorgée de café, les deux mains tremblantes autour de la tasse.::
 
-Xit ! Tout est de ma faute.
+Xit ! C'est entièrement ma faute.
 
-J'aurais pu être emmené là-bas, ou piqué sur place ! ::Il regarde son t-flask avec gratitude.:: Mais je suis allé prendre un café. J'ai sauvé mon X.<end>
+J'aurais pu me faire emmener là-bas - ou me faire xer sur place ! ::Il regarde son t-flask avec reconnaissance.:: Mais je suis allé chercher du café. Ça m'a sauvé le *X*.<end>
 
 =>q253_original
 <end>
@@ -1668,19 +1668,19 @@ J'aurais pu être emmené là-bas, ou piqué sur place ! ::Il regarde son t-flas
 I needed to ask you something.<end>
 
 =>a254
-J'avais besoin de te demander quelque chose.<end>
+Fallait que je te demande un truc.<end>
 
 =>q255_original
 Sorry, $(#man/sis), I'm xin' out so hard right now. I can't even think straight.<end>
 
 =>q255
-Désolé, $(#man/sis), j'ai tellement peur en ce moment. Je ne peux même pas penser droit.<end>
+Désolé, $(#gars/fille), je xin' grave, là. J'arrive même plus à réfléchir droit.<end>
 
 =>a256_original
 Calm down. I'll see you later.<end>
 
 =>a256
-Calme-toi. A tout à l'heure.<end>
+Calme-toi. On se voit plus tard.<end>
 
 =>q257_original
 ::He nods.::<end>
@@ -1692,19 +1692,19 @@ Calme-toi. A tout à l'heure.<end>
 I'll get the professor back, don't you worry.<end>
 
 =>a258
-Je vais récupérer le professeur, ne vous inquiétez pas.<end>
+Je ramène le professeur, t'inquiète.<end>
 
 =>a259_original
 ::Nod and leave.::<end>
 
 =>a259
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a260_original
 I have something I want you to take a look at.<end>
 
 =>a260
-J'ai quelque chose que je veux que vous regardiez.<end>
+J'ai un truc que je voudrais que tu regardes.<end>
 
 =>q261_original
 What's going on? Any news on the professor?<end>
@@ -1722,31 +1722,31 @@ Qu'est-ce qui se passe ? Des nouvelles du professeur ?<end>
 ::You find Seeger packing his equipment, scratching his head in wonder as to why a particular device won't fit the box.:: <end>
 
 =>q263
-::Vous trouvez Seeger emballer son équipement, se gratter la tête en se demandant pourquoi un appareil particulier ne s'adapte pas à la boîte.:: <end>
+::Tu trouves Seeger en train de caler son matos, à se gratter la tête : un appareil refuse d'entrer dans la boîte.:: <end>
 
 =>q264_original
 ::He occasionally glances at Todd, who is amusing himself with a mobile computer bearing a Unversity of Dis logo, himself also furtively glancing at the coffeemaker.::<end>
 
 =>q264
-::Il regarde parfois Todd, qui s'amuse avec un ordinateur mobile portant un logo de l'University of Dis, lui-même regardant furtivement la cafetière.::<end>
+::De temps en temps, il jette un œil à Todd, qui s'amuse avec un ordi portable au logo University of Dis, lui-même lorgnant la cafetière en cachette.::<end>
 
 =>q265_original
 Hey! Coffee is no, no! Professor *kill* Jeremy - *keeeel* - if Todd drink coffee and gets sick, blaaaurgh.<end>
 
 =>q265
-Bonjour ! Le café est non, non ! Professeur *kill* Jeremy - *keeeel* - si Todd boit du café et tombe malade, blaaaurgh.<end>
+Hé ! Café, c'est non, non ! Professeur *tuer* Jeremy - *tueeeer* - si Todd boit café et malade, blaaaargh.<end>
 
 =>q266_original
 Uh... why are you talking funny?<end>
 
 =>q266
-Pourquoi tu parles drôlement ?<end>
+Euh... pourquoi tu parles bizarre ?<end>
 
 =>q267_original
 Just don't touch the xin' coffee, 'kay.<end>
 
 =>q267
-Ne touche pas au café.<end>
+Touche pas au café xin', 'kay.<end>
 
 =>q268_original
 ::He then turns to you.::
@@ -1754,9 +1754,9 @@ Ne touche pas au café.<end>
 Hey, $(context.player.Name).<end>
 
 =>q268
-::Il se tourne vers vous.::
+::Puis il se tourne vers toi.::
 
-Bonjour, $(context.player.Name).<end>
+Hé, $(context.player.Name).<end>
 
 =>q269_original
 <end>
@@ -1768,37 +1768,37 @@ Bonjour, $(context.player.Name).<end>
 Having some fun with Todd, I see.<end>
 
 =>a270
-Amusez-vous avec Todd, je vois.<end>
+Tu t'amuses avec Todd, à ce que je vois.<end>
 
 =>q271_original
 He's xcell. I'm just... "On the X," as they say. Don't want him hurting himself.<end>
 
 =>q271
-Il est xcell. Je suis juste... "Sur les X", comme ils disent. Je ne veux pas qu'il se blesse.<end>
+Il est xcell. Moi je suis juste... "On the X", comme ils disent. Je veux pas qu'il se fasse mal.<end>
 
 =>a272_original
 I just came to say goodbye.<end>
 
 =>a272
-Je suis juste venue te dire au revoir.<end>
+Je passais juste te dire au revoir.<end>
 
 =>q273_original
 Oh yeah?<end>
 
 =>q273
-Oh ouais?<end>
+Ah ouais ?<end>
 
 =>a274_original
 There was something I needed from you before we get out of here.<end>
 
 =>a274
-J'avais besoin de toi avant de partir.<end>
+J'avais un truc à te demander avant qu'on se casse.<end>
 
 =>q275_original
 Go ahead. Just keep it quick, <end>
 
 =>q275
-Allez-y. Fais vite. <end>
+Vas-y. Mais fais vite, <end>
 
 =>q276_original
 I gotta pack this stuff up and, of course, I gotta do it all by myself.
@@ -1806,9 +1806,9 @@ I gotta pack this stuff up and, of course, I gotta do it all by myself.
 And I'm not keen on being left behind. Xile.<end>
 
 =>q276
-Je dois tout ranger et, bien sûr, je dois le faire toute seule.
+faut que je cale tout ça et, bien sûr, je dois le faire tout seul.
 
-Et je ne veux pas être laissé derrière. Xile.<end>
+Et j'ai pas envie de me faire laisser sur place. Xile.<end>
 
 =>q277_original
 Hey, you were xcell, $(#man/sis). If it wasn't for you I'd still be pulling creepy-crawlies out of my hair. 
@@ -1816,7 +1816,7 @@ Hey, you were xcell, $(#man/sis). If it wasn't for you I'd still be pulling cree
 <end>
 
 =>q277
-Vous étiez xcell, $(#man/sis). Si ce n'était pas pour toi, je m'arracherais encore les cheveux. 
+T'as été xcell, $(#gars/fille). Sans toi, je serais encore en train de m'arracher des bestioles du crâne. 
 
 <end>
 
@@ -1824,19 +1824,19 @@ Vous étiez xcell, $(#man/sis). Si ce n'était pas pour toi, je m'arracherais en
 If you need something, now's your last chance. <end>
 
 =>q278
-Si tu as besoin de quelque chose, c'est ta dernière chance. <end>
+Si t'as besoin d'un truc, c'est ta dernière chance. <end>
 
 =>q279_original
 ::The computers and the coffeemaker are the last to go, it seems.::<end>
 
 =>q279
-::Les ordinateurs et la cafetière sont les derniers à partir.::<end>
+::Les ordis et la cafetière ont l'air de partir en dernier.::<end>
 
 =>q280_original
 ::He's still packing his equipment. ::<end>
 
 =>q280
-::Il fait toujours ses bagages.::<end>
+::Il cale encore son matos. ::<end>
 
 =>q281_original
 <end>
@@ -1848,7 +1848,7 @@ Si tu as besoin de quelque chose, c'est ta dernière chance. <end>
 Oh. You're back. <end>
 
 =>q282
-Oh. Tu es de retour. <end>
+Oh. T'es de retour. <end>
 
 =>q283_original
 ::His t-flask is beside him, but the coffee is cold.::<end>
@@ -1860,31 +1860,31 @@ Oh. Tu es de retour. <end>
 ::He takes a sip of coffee.::<end>
 
 =>q284
-::Il prend un café.::<end>
+::Il prend une gorgée de café.::<end>
 
 =>q285_original
 Hey, $(#man/sis). Make it quick. <end>
 
 =>q285
-Bonjour, $(#man/sis). Faites vite. <end>
+Hé, $(#gars/fille). Fais vite. <end>
 
 =>q286_original
 Huh? <end>
 
 =>q286
-Hein? <end>
+Hein ? <end>
 
 =>q287_original
 ::He lifts his head a bit, then turns around completely.:: Oh, it's you. What've you got for me? <end>
 
 =>q287
-::Il lève un peu la tête, puis se retourne complètement.:: C'est toi. Qu'avez-vous pour moi ? <end>
+::Il lève un peu la tête, puis se retourne complètement.:: Oh, c'est toi. T'as quoi pour moi ? <end>
 
 =>q288_original
 Got something for me, $(context.player.Name)? <end>
 
 =>q288
-Vous avez quelque chose pour moi, $(context.player.Name) ? <end>
+T'as un truc pour moi, $(context.player.Name) ? <end>
 
 =>q289_original
 <end>
@@ -1904,9 +1904,9 @@ Vous avez quelque chose pour moi, $(context.player.Name) ? <end>
 Xit! Can't believe we're out.<end>
 
 =>q291
-::Vous le trouvez perçant à travers plusieurs boîtes en plastique de taille moyenne remplies de gadgets électroniques assortis tout en lui griffant le cou de façon intermittente et nerveuse.::
+::Tu le trouves en train de fouiller plusieurs boîtes en plastique, taille moyenne, bourrées de gadgets électroniques, tout en se grattant le cou, nerveux, par à-coups.::
 
-Xit ! Je n'arrive pas à croire qu'on soit sortis.<end>
+Xit ! J'arrive pas à croire qu'on soit sortis.<end>
 
 =>a292_original
 What's the matter?<end>
@@ -1918,37 +1918,37 @@ Qu'est-ce qui se passe ?<end>
 Oh, hey there. Nothing... ::He looks at one of the boxes again.:: It's just that we're running out of electronics. I hate it when I don't have stuff.<end>
 
 =>q293
-Bonjour. Rien... ::Il regarde encore une boîte.:: C'est juste que nous manquons d'électronique. Je déteste quand je n'ai pas de trucs.<end>
+Oh, hé. Rien... ::Il re-regarde une des boîtes.:: C'est juste qu'on manque d'électronique. Je déteste quand j'ai plus de matos.<end>
 
 =>q294_original
 ::He then turns to you.:: What've you got for me?<end>
 
 =>q294
-::Il se tourne vers vous.:: Qu'avez-vous pour moi ?<end>
+::Puis il se tourne vers toi.:: T'as quoi pour moi ?<end>
 
 =>a295_original
 Hey, Seeger. I came to talk to you about something.<end>
 
 =>a295
-Hé, Seeger. Je suis venu te parler de quelque chose.<end>
+Hé, Seeger. Je voulais te parler d'un truc.<end>
 
 =>q296_original
 Oh, hey there. What've you got for me?<end>
 
 =>q296
-Bonjour. Qu'avez-vous pour moi ?<end>
+Oh, hé. T'as quoi pour moi ?<end>
 
 =>a297_original
 Hey, could you take a look at this for me?<end>
 
 =>a297
-Tu peux jeter un oeil à ça pour moi ?<end>
+Hé, tu peux jeter un œil à ça pour moi ?<end>
 
 =>q298_original
 Oh, it's you. Let me see...<end>
 
 =>q298
-C'est toi. Voyons...<end>
+Oh, c'est toi. Voyons voir...<end>
 
 =>a299_original
 ::Leave.::<end>
@@ -1960,7 +1960,7 @@ C'est toi. Voyons...<end>
 ::He stares unwantingly at his t-flask of coffee.:: Xit.<end>
 
 =>q300
-::Il regarde mal son café.:: Xit.<end>
+::Il fixe son t-flask à contrecœur.:: Xit.<end>
 
 =>a301_original
 Something wrong?<end>
@@ -1972,7 +1972,7 @@ Quelque chose ne va pas ?<end>
 ::He looks at you.:: We're being xterminated.<end>
 
 =>q302
-::Il te regarde.:: Nous sommes xterminés.<end>
+::Il te regarde.:: On se fait xterminer.<end>
 
 =>q303_original
 ::He rubs his left eye and yawns.::
@@ -1980,7 +1980,7 @@ Quelque chose ne va pas ?<end>
 <end>
 
 =>q303
-::Il frotte l'œil gauche et les bâillons.::
+::Il se frotte l'œil gauche et bâille.::
 
 <end>
 
@@ -1990,7 +1990,7 @@ I'm not going down there again. Xit. I somehow got over the dead bodies, but ang
 Xem!<end>
 
 =>q304
-Je ne vais pas y retourner. Xit. J'ai dépassé les cadavres, mais les pirates en colère... ::Il prend une gorgée nerveuse.::
+J'y retourne pas. Xit. Les cadavres, j'ai fini par passer outre, mais des pirates en rogne... ? ::Il prend une gorgée nerveuse.::
 
 Xem !<end>
 
@@ -2000,7 +2000,7 @@ What's next, the natives? No thanks. I'll stay here.
 <end>
 
 =>q305
-Et ensuite, les indigènes ? Pas de merci. Je vais rester ici.
+Et après, les indigènes ? Non merci. Moi je reste ici.
 
 <end>
 
@@ -2008,7 +2008,7 @@ Et ensuite, les indigènes ? Pas de merci. Je vais rester ici.
 Now, what've you got for me?<end>
 
 =>q306
-Qu'avez-vous pour moi ?<end>
+Bon, t'as quoi pour moi ?<end>
 
 =>q307_original
 <end>
@@ -2020,7 +2020,7 @@ Qu'avez-vous pour moi ?<end>
 Let me tell you... ::He takes a sip of coffee.:: This tent might not be much, but I'll take it over those creepy offices down there any day of the week.<end>
 
 =>q308
-Laissez-moi vous dire... ::Il prend un café.:: Cette tente n'est peut-être pas grande chose, mais je la remplacerai par ces bureaux effrayants là-bas n'importe quel jour de la semaine.<end>
+Laisse-moi te dire... ::Il prend une gorgée de café.:: Cette tente, c'est pas grand-chose, mais je la prends n'importe quel jour de la semaine plutôt que ces bureaux glauques, en bas.<end>
 
 =>q309_original
 ::He flinches and spills some of his coffee over his pants.:: 
@@ -2028,7 +2028,7 @@ Laissez-moi vous dire... ::Il prend un café.:: Cette tente n'est peut-être pas
 XIT, XIT, XIT!<end>
 
 =>q309
-::Il flippe et renverse un peu de son café sur son pantalon.::
+::Il sursaute et renverse du café sur son pantalon.::
 
 XIT, XIT, XIT !<end>
 
@@ -2036,7 +2036,7 @@ XIT, XIT, XIT !<end>
 ::Wait.::<end>
 
 =>a310
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>q311_original
 ::He pulls down his trainers to his knees, revealing deep-black underpants with overlapping columns of bright green symbols. He grabs a filthy handkerchief from his pocket and starts rubbing the stains.::
@@ -2044,27 +2044,27 @@ XIT, XIT, XIT !<end>
 You scared the crap outta me!<end>
 
 =>q311
-::Il descend ses entraîneurs à genoux, révélant des sous-vêtements noirs profonds avec des colonnes recoupantes de symboles vert vif. Il prend un mouchoir sale dans sa poche et commence à frotter les taches.::
+::Il baisse ses baskets jusqu'aux genoux : un caleçon noir profond, colonnes de symboles vert vif qui se chevauchent. Il sort un mouchoir crade de sa poche et se met à frotter les taches.::
 
-Tu m'as fait peur !<end>
+Tu m'as fait flipper !<end>
 
 =>a312_original
 I'd say I scared the trainers off ya.<end>
 
 =>a312
-Je dirais que j'ai fait peur aux entraîneurs.<end>
+Je dirais que je t'ai fait sauter les baskets.<end>
 
 =>q313_original
 Funny, huh? ::He makes a grimace.:: I almost burned my... bits. <end>
 
 =>q313
-C'est drôle, hein ? ::Il fait une grimace.:: J'ai presque brûlé mes... morceaux. <end>
+Marrant, hein ? ::Il grimace.:: J'ai failli me cramer les... bijoux. <end>
 
 =>q314_original
 ::He pulls up his trainers.:: What is it, $(#man/sis)?<end>
 
 =>q314
-::Il tire ses entraineurs.:: Qu'est-ce que c'est, $(#man/sis) ?<end>
+::Il remonte ses baskets.:: Qu'est-ce qu'il y a, $(#gars/fille) ?<end>
 
 =>a315_original
 Are you okay?<end>
@@ -2082,7 +2082,7 @@ Oui, oui. <end>
 This time you got something for me...<end>
 
 =>a317
-Cette fois, tu as quelque chose pour moi...<end>
+Cette fois, c'est toi qui as un truc pour moi...<end>
 
 =>q318_original
 Uh... ::He awkwardly conceals his underpants.:: 'Kay.<end>
@@ -2094,7 +2094,7 @@ Euh... ::Il cache maladroitement ses sous-vêtements.:: 'Kay.<end>
 I need something from you, Seeger.<end>
 
 =>a319
-J'ai besoin de toi, Seeger.<end>
+J'ai besoin d'un truc, Seeger.<end>
 
 =>a320_original
 Stop fooling around, Seeger.<end>
@@ -2106,19 +2106,19 @@ Arrête de déconner, Seeger.<end>
 Xit, $(#man/sis) - I'm burning! <end>
 
 =>q321
-Xit, $(#man/sis) - Je brûle ! <end>
+Xit, $(#gars/fille) - je brûle ! <end>
 
 =>a322_original
 Hey, Seeger. I came to talk to you about something.<end>
 
 =>a322
-Hé, Seeger. Je suis venu te parler de quelque chose.<end>
+Hé, Seeger. Je voulais te parler d'un truc.<end>
 
 =>a323_original
 Hey, could you take a look at this for me?<end>
 
 =>a323
-Tu peux jeter un oeil à ça pour moi ?<end>
+Hé, tu peux jeter un œil à ça pour moi ?<end>
 
 =>q324_original
 ::He stares at the screen, twisting one of his locks of hair with his index finger and mumbling to himself. He seems to be unaware of your presence.::
@@ -2126,9 +2126,9 @@ Tu peux jeter un oeil à ça pour moi ?<end>
 Data, data, data... so much data... and only one XeeGer, mhm, mhm.<end>
 
 =>q324
-::Il regarde l'écran, tordant l'une de ses serrures de cheveux avec son index et se murmurant. Il semble ignorer votre présence.::
+::Il fixe l'écran, enroule une mèche autour de l'index et marmonne. Il a l'air de pas t'avoir vu.::
 
-Données, données, données... tellement de données... et un seul XeeGer, mhm, mhm.<end>
+Data, data, data... trop de data... et un seul XeeGer, mhm, mhm.<end>
 
 =>q325_original
 ::He flinches.::
@@ -2136,15 +2136,15 @@ Données, données, données... tellement de données... et un seul XeeGer, mhm,
 Xit! Uh, h-hey. Khm, uh, got something for me, $(#man/sis)?<end>
 
 =>q325
-::Il flinche.::
+::Il sursaute.::
 
-Xit ! Euh, hé, hé. Khm a quelque chose pour moi, $(#man/sis) ?<end>
+Xit ! Euh, h-hé. Khm, euh, t'as un truc pour moi, $(#gars/fille) ?<end>
 
 =>q326_original
 Xtreme, $(#man/sis)! We gotta get more of those Protectors on our side.<end>
 
 =>q326
-Xtreme, $(#man/sis) ! On doit avoir plus de protecteurs de notre côté.<end>
+Xtreme, $(#gars/fille) ! Faut qu'on ait plus de ces Protectors de notre côté.<end>
 
 =>q327_original
 ::He walks outside and looks south toward the beach.:: Look at that bot saunter. Xtreme! ::He takes a sip and returns inside.::
@@ -2152,15 +2152,15 @@ Xtreme, $(#man/sis) ! On doit avoir plus de protecteurs de notre côté.<end>
 What've you got for me?<end>
 
 =>q327
-::Il marche dehors et regarde vers le sud vers la plage.:: Regarde-moi ce saunter. Xtreme ! ::Il prend une gorgée et rentre à l'intérieur.::
+::Il sort et regarde vers le sud, vers la plage.:: Regarde-moi ce bot se pavaner. Xtreme ! ::Il prend une gorgée et rentre.::
 
-Qu'avez-vous pour moi ?<end>
+T'as quoi pour moi ?<end>
 
 =>q328_original
 ::He takes a sip of coffee.:: This coffee's... xceptional today! <end>
 
 =>q328
-::Il prend un café.:: Ce café est... xceptionnel aujourd'hui ! <end>
+::Il prend une gorgée de café.:: Ce café est... xceptionnel, aujourd'hui ! <end>
 
 =>a329_original
 How so?<end>
@@ -2172,19 +2172,19 @@ Comment ça ?<end>
 I don't know. I just feel... full of energy. Xtreme, $(#man/sis), xtreme!<end>
 
 =>q330
-Je ne sais pas. Je me sens... plein d'énergie. Xtreme, $(#man/sis), extrême !<end>
+Je sais pas. Je me sens... plein d'énergie. Xtreme, $(#gars/fille), xtreme !<end>
 
 =>a331_original
 I came to talk to you about something.<end>
 
 =>a331
-Je suis venu te parler de quelque chose.<end>
+Je voulais te parler d'un truc.<end>
 
 =>q332_original
 'Kay, $(#man/sis). Go ahead.<end>
 
 =>q332
-'Kay, $(#man/sis). Allez-y.<end>
+'Kay, $(#gars/fille). Vas-y.<end>
 
 =>q333_original
 ::He rubs one of his temples.:: 
@@ -2194,9 +2194,9 @@ I dreamed that serpent again. Xit, these nightmares feel like XR torture session
 ::He takes a sip of coffee.::<end>
 
 =>q333
-::Il frotte un de ses temples.::
+::Il se frotte une tempe.::
 
-J'ai encore rêvé de ce serpent. Xit, ces cauchemars ressemblent à des séances de torture XR. Comme le dirait Ladelman, j'ai été dominé par le hardcore.
+J'ai encore rêvé de ce serpent. Xit, ces cauchemars, on dirait des sessions de torture XR. Comme dirait Ladelman - je me suis fait dominer en hardcore.
 
-::Il prend un café.::<end>
+::Il prend une gorgée de café.::<end>
 

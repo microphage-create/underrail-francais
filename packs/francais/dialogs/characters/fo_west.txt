@@ -6,11 +6,11 @@ Your thoughts are interrupted when he notices you.::
 Oh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::<end>
 
 =>q1
-::Vous voyez un homme mince souder certains composants sur un circuit de couleur cuivre. Il ne vous remarque pas immédiatement, ce qui vous donne quelques instants pour l'observer: Ses cheveux foncés sont rayés de brins gris aluminium, ses rides forment des ravins dans son visage et ses mains ne sont stables que lorsque le fer à souder rencontre la planche. Pourtant, certains signes étranges et subtils vous donnent l'impression que cet homme est quelque peu plus jeune qu'il n'apparaît, mais vous ne pouvez pas identifier exactement pourquoi.
+::Vous voyez un homme mince en train de souder des composants sur une carte couleur cuivre. Il ne vous remarque pas tout de suite, ce qui vous laisse un instant pour l'observer : ses cheveux sombres sont striés de fils gris aluminium, ses rides creusent des ravines dans son visage, et ses mains ne tiennent vraiment que lorsque le fer rencontre la carte. Pourtant, certains signes étranges, subtils, vous donnent l'impression que cet homme est plus jeune qu'il n'en a l'air - sans que vous puissiez dire pourquoi.
 
-Vos pensées sont interrompues quand il vous remarque.::
+Vos pensées s'interrompent quand il vous remarque.::
 
-Bienvenue dans mon magasin d'électronique. Son nom est George West. Tu devrais dire quelque chose parce que je... ::Il tousse.:: Je ne peux pas t'aider si je ne sais pas que tu es là. ::Il sourit.::<end>
+Oh, bienvenue dans mon magasin d'électronique, mon ami. Moi c'est George West. Faudrait dire un mot, parce que je... ::Il tousse.:: Je peux pas vous aider si je sais pas que vous êtes là. ::Il sourit.::<end>
 
 =>q2_original
 <end>
@@ -22,7 +22,7 @@ Bienvenue dans mon magasin d'électronique. Son nom est George West. Tu devrais 
 What've you got? ::Barter.::<end>
 
 =>a3
-Qu'est-ce que tu as ? ::Troc.::<end>
+Qu'est-ce que vous avez ? ::Troc.::<end>
 
 =>a4_original
 I need help fixing an electric arc furnace.<end>
@@ -34,55 +34,55 @@ J'ai besoin d'aide pour réparer un four à arc électrique.<end>
 If it's an electrical problem then yes, I can help you. Where do you need me, exactly? ::He coughs.::<end>
 
 =>q5
-Si c'est un problème électrique alors oui, je peux vous aider. Où avez-vous besoin de moi, exactement ? ::Il tousse.::<end>
+Si c'est un problème électrique, alors oui, je peux vous aider. Où faut-il que j'aille, exactement ? ::Il tousse.::<end>
 
 =>a6_original
 It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
 
 =>a6
-C'est un grand four près de l'entrée de la mine. L'un d'eux, un homme nommé Bernard, semble très attachant.<end>
+C'est un grand four près de l'entrée de la mine. Celui dont un certain Bernard a l'air très attaché.<end>
 
 =>q7_original
 Hmm.<end>
 
 =>q7
-Oui.<end>
+Hmm.<end>
 
 =>a8_original
 Hmm?<end>
 
 =>a8
-Quoi ?<end>
+Hmm ?<end>
 
 =>q9_original
 Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.<end>
 
 =>q9
-Ce n'est pas vraiment l'homme le plus sain d'esprit. Mais tant que je suis payé, je n'ai pas de problème avec ça. Et j'ai déjà travaillé avec ce four. Sauf si c'est très radical, je peux m'en occuper.<end>
+Eh bien, c'est pas vraiment l'homme le plus sain d'esprit du coin. Mais tant qu'on me paie, ça me dérange pas. Et j'ai déjà travaillé sur ce four. Sauf si c'est quelque chose de vraiment grave, je peux m'en occuper.<end>
 
 =>a10_original
 Bernard mentioned he thinks the problem lies with the electrode power regulation system.<end>
 
 =>a10
-Bernard a mentionné qu'il pense que le problème réside dans le système de régulation de la puissance des électrodes.<end>
+Bernard pense que le problème vient du système de régulation de puissance des électrodes.<end>
 
 =>q11_original
 Mmmm... that is not going to be a simple fix, but if that is the issue, then yes, I can take care of it.<end>
 
 =>q11
-Ce ne sera pas une solution simple, mais si c'est le problème, alors oui, je peux m'en occuper.<end>
+Mmmm... ça va pas être une réparation simple, mais si c'est bien ça, alors oui, je peux m'en occuper.<end>
 
 =>a12_original
 How much are you charging?<end>
 
 =>a12
-Combien facturez-vous ?<end>
+Vous facturez combien ?<end>
 
 =>q13_original
 Well, I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
 
 =>q13
-Je demande 500 charons. Je ne pense pas que quelqu'un le ferait pour moins.<end>
+Eh bien, je demande cinq cents charons. Je pense pas qu'un esprit sain le ferait pour moins.<end>
 
 =>q14_original
 <end>
@@ -94,25 +94,25 @@ Je demande 500 charons. Je ne pense pas que quelqu'un le ferait pour moins.<end>
 It's a deal. Here's five hundred. ::Give him 500 stygian coins.::<end>
 
 =>a15
-Marché conclu. Voici 500. ::Donnez-lui 500 pièces.::<end>
+Marché conclu. Voici cinq cents. ::Lui donner 500 pièces stygiennes.::<end>
 
 =>q16_original
 Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.<end>
 
 =>q16
-Parfait. Je vais y aller dès que j'aurai fini de souder ce truc. J'espère juste que Bernard ne m'enlève pas les oreilles.<end>
+Bien. J'y vais dès que j'ai fini de souder ce truc. J'espère seulement que Bernard va pas me casser mes oreilles friables.<end>
 
 =>a17_original
 Right, catch you later.<end>
 
 =>a17
-Bon, on se voit plus tard.<end>
+Très bien. À plus tard.<end>
 
 =>a18_original
 ::[Mercantile]:: I can only give you four hundred charons. I know you said you won't go for less but... that's all I've got.<end>
 
 =>a18
-::[Mercantile]:: Je ne peux vous donner que 400 charons. Je sais que tu as dit que tu n'irais pas moins, mais... c'est tout ce que j'ai.<end>
+::[Mercantile]:: Je peux vous donner que quatre cents charons. Je sais que vous avez dit que vous iriez pas en dessous, mais... c'est tout ce que j'ai.<end>
 
 =>q19_original
 ::His facial muscles begin dancing, mirroring his thought process by forming appropriate expressions. The one which finally settles is not the one of deprecation.::
@@ -120,57 +120,57 @@ Bon, on se voit plus tard.<end>
 I must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.<end>
 
 =>q19
-::Ses muscles du visage commencent à danser, reflétant son processus de pensée en formant des expressions appropriées. Celui qui s'installe finalement n'est pas celui de la déprécation.::
+::Les muscles de son visage se mettent à danser, suivant le fil de sa pensée, expression après expression. Celle qui s'installe n'est pas celle du mépris.::
 
-J'ai dû dérailler pour accepter ça, mais je vais dire que quatre cents charons vont bien. Mieux que rien. Nous avons un marché.<end>
+J'ai dû dérailler pour accepter ça, mais soit : quatre cents charons, d'accord. Mieux que rien. Marché conclu.<end>
 
 =>a20_original
 ::Give him 400 stygian coins.::<end>
 
 =>a20
-::Donnez-lui 400 pièces.::<end>
+::Lui donner 400 pièces stygiennes.::<end>
 
 =>q21_original
 I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.<end>
 
 =>q21
-Désolé, mais c'est ton problème. Comme je l'ai dit: Personne ne le ferait pour moins de quatre cents.<end>
+Désolé, mais ça c'est votre problème. Comme je l'ai dit : personne de sain d'esprit le ferait pour moins de quatre cents.<end>
 
 =>a22_original
 I need to think about it.<end>
 
 =>a22
-J'ai besoin d'y réfléchir.<end>
+Il faut que j'y réfléchisse.<end>
 
 =>q23_original
 I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::<end>
 
 =>q23
-Je ne vais nulle part, mon ami. ::Il tousse.:: A moins que cette toux... bah... ::Il recommence à tousser.::<end>
+Je vais nulle part, mon ami. ::Il tousse.:: Sauf si cette toux... euh... bah... ::Il se remet à tousser.::<end>
 
 =>a24_original
 Money is not the issue, as long as you get the job done.<end>
 
 =>a24
-L'argent n'est pas le problème, tant que vous faites le travail.<end>
+L'argent n'est pas le problème, tant que le travail est fait.<end>
 
 =>q25_original
 That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
 
 =>q25
-C'est bon à entendre. Je demande 500 charons. Je ne pense pas que quelqu'un le ferait pour moins.<end>
+Ça fait plaisir à entendre. Je demande cinq cents charons. Je pense pas qu'un esprit sain le ferait pour moins.<end>
 
 =>a26_original
 Is there a problem?<end>
 
 =>a26
-Y a-t-il un problème ?<end>
+Il y a un problème ?<end>
 
 =>a27_original
 About that furnace...<end>
 
 =>a27
-A propos de ce four...<end>
+À propos de ce four...<end>
 
 =>q28_original
 Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::<end>
@@ -182,61 +182,61 @@ Cinq cents charons pour réparer le four. Je peux y aller tout de suite. ::Il to
 About that workbench...<end>
 
 =>a29
-A propos de cet atelier...<end>
+À propos de cet établi...<end>
 
 =>q30_original
 Yes?<end>
 
 =>q30
-Oui?<end>
+Oui ?<end>
 
 =>a31_original
 I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
 
 =>a31
-Je l'achèterai pour mille deux cents. ::Donne-lui 1200 pièces de monnaie.::<end>
+Je l'achète pour mille deux cents. ::Lui donner 1200 pièces stygiennes.::<end>
 
 =>q32_original
 ::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
 
 =>q32
-::Il tousse.:: Bien. Je t'aiderais à sortir du magasin, mais mon dos est un peu friable. Vieillesse, que puis-je dire ?<end>
+::Il tousse.:: Bien. Je vous aiderais à le sortir de la boutique, mais mon dos est un peu friable. La vieillesse, que voulez-vous.<end>
 
 =>a33_original
 I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
 
 =>a33
-Je ne le porte pas non plus. Je veillerai à ce que les gars de la société de logement Core City la livrent à ma maison.<end>
+Moi non plus je le porte pas. Je ferai en sorte que les gars de la Core City Housing Corporation me le livrent à la maison.<end>
 
 =>q34_original
 ::He nods.::<end>
 
 =>q34
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>a35_original
 ::[Mercantile]:: That workbench seems like it has seen some heavy use in the past. I'll give you eight hundred for it. Deal?<end>
 
 =>a35
-::[Mercantile]:: Ce banc de travail semble avoir été très utile dans le passé. Je vous en donne 800. Marché conclu ?<end>
+::[Mercantile]:: Cet établi a l'air d'avoir beaucoup servi. Je vous en donne huit cents. Marché ?<end>
 
 =>q36_original
 ::He pauses, but soon replies.:: Deal, friend. Eight hundred.<end>
 
 =>q36
-::Il s'arrête, mais répond bientôt.:: Deal, mon ami. Huit cents.<end>
+::Il s'arrête, puis répond assez vite.:: Marché, mon ami. Huit cents.<end>
 
 =>a37_original
 Here you go. ::Give him 800 stygian coins.::<end>
 
 =>a37
-Voilà. ::Donne-lui 800 pièces.::<end>
+Voilà. ::Lui donner 800 pièces stygiennes.::<end>
 
 =>q38_original
 ::He shakes his head.:: No.<end>
 
 =>q38
-::Il secoue la tête.:: No.<end>
+::Il secoue la tête.:: Non.<end>
 
 =>a39_original
 Nothing. I had other questions.<end>
@@ -248,19 +248,19 @@ Rien. J'avais d'autres questions.<end>
 I'm interested in buying that electronic workbench with all the integrated equipment.<end>
 
 =>a40
-Je suis intéressé par l'achat de cet atelier électronique avec tout l'équipement intégré.<end>
+Je voudrais acheter cet établi d'électronique, avec tout l'équipement intégré.<end>
 
 =>q41_original
 This one? I'm using that... ::He coughs.:: I need it.<end>
 
 =>q41
-Celui-ci ? J'utilise ça... ::Il tousse.:: J'en ai besoin.<end>
+Celui-là ? Je m'en sers... ::Il tousse.:: J'en ai besoin.<end>
 
 =>a42_original
 Everything can be bought, you just have to name the price.<end>
 
 =>a42
-Tout peut être acheté, vous devez juste nommer le prix.<end>
+Tout s'achète. Il suffit de donner un prix.<end>
 
 =>q43_original
 ::His stare becomes glued to the workbench as he considers your words. With each passing second, you become more and more sure that he is indeed going to name a price.::
@@ -268,57 +268,57 @@ Tout peut être acheté, vous devez juste nommer le prix.<end>
 There are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.<end>
 
 =>q43
-::Son regard devient collé à l'atelier quand il considère vos mots. À chaque seconde qui passe, vous devenez de plus en plus sûr qu'il va effectivement nommer un prix.::
+::Son regard se colle à l'établi pendant qu'il pèse vos mots. À chaque seconde, vous êtes un peu plus $(#sûr/sûre) qu'il va bel et bien sortir un prix.::
 
-Il y a beaucoup d'outils coûteux dans ce truc. ::Il tousse.:: Si je devais le vendre, ce serait pour... pas moins de mille deux cents charons. Oui, c'est ce que je demande.<end>
+Il y a beaucoup d'outils chers dans ce truc. ::Il tousse.:: Si je le vendais, ce serait pour... pas moins de mille deux cents charons. Oui. C'est ce que je demande.<end>
 
 =>a44_original
 Do you know where I can find one like that?<end>
 
 =>a44
-Tu sais où je peux en trouver un comme ça ?<end>
+Vous savez où je pourrais en trouver un comme ça ?<end>
 
 =>q45_original
 I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
 
 =>q45
-Je ne sais pas. Je sais que je ne suis pas utile mais... ::Il hausse les épaules.:: Je ne peux pas t'aider.<end>
+Non. Je sais que je suis pas d'une grande aide, mais... ::Il hausse les épaules.:: Je peux rien pour vous, mon ami.<end>
 
 =>a46_original
 Never mind then. I'll look for another one.<end>
 
 =>a46
-Peu importe. Je vais en chercher un autre.<end>
+Laissez tomber. Je vais en chercher un autre.<end>
 
 =>q47_original
 Good luck with that, friend.<end>
 
 =>q47
-Bonne chance.<end>
+Bonne chance, mon ami.<end>
 
 =>a48_original
 What can you tell me about this place?<end>
 
 =>a48
-Que pouvez-vous me dire sur cet endroit ?<end>
+Qu'est-ce que vous pouvez me dire sur cet endroit ?<end>
 
 =>q49_original
 ::It takes him a few moments to produce an answer.:: I don't know. Foundry is a large station with a rich mine. We're pretty well known as the station with the best defenses in South Underrail. The Foundry Guard makes sure of it.<end>
 
 =>q49
-::Il lui faut quelques instants pour produire une réponse.:: Je ne sais pas. Foundry est une grande station avec une mine riche. Nous sommes assez bien connus comme la station avec les meilleures défenses du Sud Underrail. La Garde Foundry s'en assure.<end>
+::Il lui faut un moment pour trouver une réponse.:: Je ne sais pas. Foundry est une grande station, avec une mine riche. On est assez connus pour avoir les meilleures défenses du South Underrail. C'est la Garde Foundry qui s'en charge.<end>
 
 =>a50_original
 Okay. Now give me the other side of the truth.<end>
 
 =>a50
-Très bien. Maintenant donne-moi l'autre côté de la vérité.<end>
+Très bien. Maintenant, l'autre version.<end>
 
 =>q51_original
 ::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
 
 =>q51
-::Il laisse respirer dans un long soupir.:: La pollution atmosphérique... c'est vraiment mauvais, mon ami. ::Il tousse.:: Tu vois ce que je veux dire ? Mon nez, ma gorge et mes poumons sont lentement érodés par l'imperfection de l'air, comme presque tout le monde. Je plains ceux qui travaillent dans la mine, ou ceux qui transpirent dans les métaux, et je suis reconnaissant de ne pas être dans leurs bottes.<end>
+::Il laisse échapper un long soupir.:: La pollution de l'air... c'est vraiment mauvais, mon ami. ::Il tousse.:: Vous voyez ce que je veux dire ? Mon nez, ma gorge et mes poumons se font lentement ronger par la crasse de l'air, comme presque tout le monde. Je plains ceux qui bossent *dans* la mine, ou ceux qui transpirent dans la métallurgie, et je suis bien content de pas être à leur place.<end>
 
 =>q52_original
 But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
@@ -326,7 +326,7 @@ But, I get to have my own store without anyone racketeering me, which used to be
 Any more questions, friend?<end>
 
 =>q52
-Mais, je peux avoir mon propre magasin sans que personne ne me rackete, ce qui était le cas avant que je déménage ici. Donc, ceci... c'est ma vie maintenant. Que j'aie fait le bon choix ou non, je suppose que l'avenir me le dira.
+Mais j'ai ma propre boutique, sans racket, ce qui était le cas avant que je m'installe ici. Alors voilà... c'est ma vie, maintenant. Que j'aie fait le bon choix ou non, l'avenir me le dira, j'imagine.
 
 D'autres questions, mon ami ?<end>
 
@@ -334,91 +334,91 @@ D'autres questions, mon ami ?<end>
 Good enough for me. I'd like to ask you something else.<end>
 
 =>a53
-Assez bien pour moi. J'aimerais vous demander autre chose.<end>
+Ça me suffit. J'aurais autre chose à vous demander.<end>
 
 =>a54_original
 Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
 
 =>a54
-Tu te souviens de quelqu'un qui vient te voir avec des objets étranges ? Je ne peux pas décrire l'objet, mais c'est quelque chose dont tu te souviendras.<end>
+Vous vous souvenez de quelqu'un venu avec un objet bizarre ? Je peux pas le décrire, mais c'est le genre de truc qu'on n'oublie pas.<end>
 
 =>q55_original
 Mmm, someone did come here with a... distinctive item. A group of people, to be exact. You're not really a stranger to us anymore, so I suppose I can tell you what happened.<end>
 
 =>q55
-Quelqu'un est venu ici avec un... objet distinctif. Un groupe de gens, pour être exact. Tu n'es plus vraiment un étranger pour nous, donc je peux te dire ce qui s'est passé.<end>
+Mmm, quelqu'un est bien venu avec un... objet particulier. Un groupe, pour être exact. Vous n'êtes plus vraiment $(#un étranger/une étrangère) pour nous, alors je suppose que je peux vous raconter.<end>
 
 =>q56_original
 ::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.<end>
 
 =>q56
-::Il tousse.:: Quoi qu'il en soit, ces gens sont venus ici et l'un d'eux, ressemblant à leur chef, a produit une boîte en métal robuste. Il le tenait plus serré qu'un mineur qui avait trouvé un morceau d'or. Même si je n'aimais pas les avoir dans mon magasin, je m'intéressais à ce qui se trouvait dans la boîte. Et quand il l'a ouvert, j'ai vu quelque chose que je n'avais jamais vu.<end>
+::Il tousse.:: Bref, ces gens sont arrivés, et l'un d'eux, on aurait dit le chef, a sorti une boîte en métal solide. Il la serrait plus fort qu'un mineur qui vient de trouver une pépite. Même si j'aimais pas les avoir dans ma boutique, ça m'intéressait, ce qu'il y avait dedans. Et quand il l'a ouverte, j'ai vu un truc que j'avais jamais vu.<end>
 
 =>a57_original
 What was in the box?<end>
 
 =>a57
-Qu'y avait-il dans la boîte ?<end>
+Qu'est-ce qu'il y avait dans la boîte ?<end>
 
 =>q58_original
 It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
 
 =>q58
-C'est difficile à décrire. ::Il tousse.:: Je ne sais pas, imaginez un polyèdre à vingt côtés gravé avec des marques extraterrestres. Il semblait être une sorte d'appareil électronique, avec des fentes étranges - sockets dedans. Mais dans l'ensemble, je n'avais jamais rien vu. Je ne sais pas ce que ça fait, et je pense que ces gens savent encore moins. Pourtant, l'homme voulait me le vendre pour beaucoup de charons.<end>
+C'est difficile à décrire. ::Il tousse.:: Je sais pas... imaginez un polyèdre à vingt faces, gravé de marques d'allure alien. On aurait dit une sorte d'appareil électronique, avec des fentes bizarres - des embases. Mais pris dans son ensemble, ça ressemblait à rien de ce que j'avais déjà vu. Je sais pas à quoi ça sert, et je crois que ces gens en savaient encore moins. Quand même, le type voulait me le vendre pour un tas de charons.<end>
 
 =>q59_original
 First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>
 
 =>q59
-Premièrement, je n'avais pas l'argent qu'il voulait, et deuxièmement, je ne savais pas ce que j'achetais. ::Il tousse.:: C'est juste une mauvaise affaire.<end>
+D'abord, j'avais pas l'argent qu'il voulait, et ensuite, je savais pas ce que j'achetais. ::Il tousse.:: C'est simplement une mauvaise affaire.<end>
 
 =>a60_original
 Do you know who they were and where they are now?<end>
 
 =>a60
-Savez-vous qui ils étaient et où ils sont maintenant ?<end>
+Vous savez qui ils étaient, et où ils sont maintenant ?<end>
 
 =>q61_original
 No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.<end>
 
 =>q61
-Aucune idée. Le type avec la boîte était le seul qui m'a parlé, les autres étaient là, silencieux. Après leur avoir dit que je ne voulais pas l'acheter, ils sont partis. J'ai pensé à appeler les gardes à un moment, mais j'ai décidé de ne pas le faire. Qu'est-ce que je sais, tant qu'ils ne font pas de désordre, ça ne me concerne pas.<end>
+Aucune idée. Le type avec la boîte était le seul à me parler, les autres restaient là, silencieux. Quand je leur ai dit que je voulais pas l'acheter, ils sont partis. J'ai pensé appeler les gardes, à un moment, puis j'ai laissé tomber. Qu'est-ce que j'en sais, moi. Tant qu'ils font pas de dégâts, ça me concerne pas.<end>
 
 =>q62_original
 Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?<end>
 
 =>q62
-Quelqu'un est venu ici avec un... objet distinctif. Un groupe de gens, pour être exact, et... Qu'est-ce qui se passe ici ?<end>
+Mmm, quelqu'un est bien venu avec un... objet particulier. Un groupe, pour être exact, et... Attendez... pourquoi je vous dirais quoi que ce soit ? Qu'est-ce qui se passe ici ?<end>
 
 =>a63_original
 ::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.<end>
 
 =>a63
-::[Persuader]:: Ces hommes sont très dangereux, et si vous vous souciez de la vie des gens, vous me direz tout ce que vous savez sur les gens qui sont venus dans votre magasin. C'est une question extrêmement importante.<end>
+::[Persuade]:: Ces hommes sont très dangereux, et si la vie des gens vous importe, vous me direz tout ce que vous savez sur ceux qui sont venus dans votre boutique. C'est extrêmement important.<end>
 
 =>q64_original
 I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.<end>
 
 =>q64
-Très bien, je vais parler. Vous avez raison, mais ils m'ont vraiment mis mal à l'aise. Ils avaient ce regard affamé dans les yeux, comme des rathons affamés qui regardaient leur proie.<end>
+Je... Très bien, je vais parler. Vous avez raison, d'ailleurs - ils m'ont vraiment mis mal à l'aise. Ils avaient ce regard affamé, comme des rathounds à jeun qui fixent leur proie.<end>
 
 =>q65_original
 I don't think so. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
 
 =>q65
-Je ne crois pas. Des choses bizarres se sont passées dans Foundry ces derniers temps et... Je ne parlerai qu'à la Garde Foundry à ce sujet.<end>
+Je pense pas. Des choses bizarres se passent à Foundry en ce moment, et... Je n'en parlerai qu'à la Garde Foundry.<end>
 
 =>a66_original
 I just need to know. Could you please tell me?<end>
 
 =>a66
-J'ai juste besoin de savoir. Pouvez-vous me le dire ?<end>
+J'ai juste besoin de savoir. Vous pourriez me le dire ?<end>
 
 =>q67_original
 Sorry, I don't think I should. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
 
 =>q67
-Désolé, je ne pense pas que je devrais. Des choses bizarres se sont passées dans Foundry ces derniers temps et... Je ne parlerai qu'à la Garde Foundry à ce sujet.<end>
+Désolé, je pense pas que je devrais. Des choses bizarres se passent à Foundry en ce moment, et... Je n'en parlerai qu'à la Garde Foundry.<end>
 
 =>a68_original
 What do you know about the mine creatures?<end>
@@ -430,31 +430,31 @@ Que savez-vous des créatures de la mine ?<end>
 Nothing, it doesn't concern me. Every problem we've had so far in Foundry was quickly handled by the Foundry Guard. I dislike this place for many reasons... ::He coughs.:: - this pollution being one of them - but I can't deny that security here is top notch. Everyone's blabbering about these "monsters" and how they are sneaking into residential and killing people.<end>
 
 =>q69
-Rien, ça ne me concerne pas. Chaque problème que nous avons eu jusqu'à présent dans Foundry a été traité rapidement par la Garde Foundry. Je déteste cet endroit pour de nombreuses raisons... ::Il tousse.:: - cette pollution étant l'une d'entre elles - mais je ne peux pas nier que la sécurité ici est haut de gamme. Tout le monde se moque de ces "monstres" et comment ils se faufilent dans les maisons et tuent des gens.<end>
+Rien, ça me concerne pas. Chaque problème qu'on a eu à Foundry jusqu'ici, la Garde Foundry s'en est occupée vite fait. J'aime pas cet endroit pour plein de raisons... ::Il tousse.:: - cette pollution en est une - mais je peux pas nier que la sécu ici est du très haut niveau. Tout le monde n'arrête pas de parler de ces « monstres » qui se faufileraient dans le résidentiel pour tuer des gens.<end>
 
 =>q70_original
 As long as there isn't one in my store, I don't care. But that's just my opinion, friend.<end>
 
 =>q70
-Tant qu'il n'y en a pas dans mon magasin, je m'en fiche. Mais c'est mon opinion, mon ami.<end>
+Tant qu'il y en a pas un dans ma boutique, je m'en fiche. Mais c'est juste mon avis, mon ami.<end>
 
 =>a71_original
 How do you feel now that the mine has been reopened?<end>
 
 =>a71
-Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+Comment vous vous sentez, maintenant que la mine a rouvert ?<end>
 
 =>q72_original
 Pretty much the same as before. I knew all this was just a minor setback and that the Foundry Guard would deal with it eventually. People around here make a fuss out of everything.<end>
 
 =>q72
-Comme avant. Je savais que tout cela n'était qu'un léger revers et que la Garde Foundry allait éventuellement s'en occuper. Les gens d'ici font tout un plat.<end>
+À peu près comme avant. Je savais que c'était juste un contretemps, et que la Garde Foundry finirait par régler ça. Les gens d'ici font tout un plat de tout.<end>
 
 =>q73_original
 I just don't care. I'm more concerned with the foul air than mine "monsters." ::He coughs.::<end>
 
 =>q73
-Je m'en fiche. Je suis plus préoccupé par l'air sale que mes "monstres". ::Il tousse.::<end>
+Je m'en fiche. L'air crasseux m'inquiète plus que les « monstres » de la mine. ::Il tousse.::<end>
 
 =>a74_original
 Goodbye.<end>
@@ -472,5 +472,4 @@ Au revoir, mon ami.<end>
 Welcome back, friend.<end>
 
 =>q76
-Bienvenue, mon ami.<end>
-
+Vous revoilà, mon ami.<end>

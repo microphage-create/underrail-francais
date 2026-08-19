@@ -2,7 +2,7 @@
 You are no longer welcome here.<end>
 
 =>q1
-Vous n'êtes plus la bienvenue ici.<end>
+Votre présence n'est plus souhaitée ici.<end>
 
 =>q2_original
 ::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
@@ -10,15 +10,15 @@ Vous n'êtes plus la bienvenue ici.<end>
 We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
 
 =>q2
-::Une grande figure imposante vêtue de noir se tient devant vous, attendant calmement votre entrée dans la pièce. Bien que l'homme semble assez à l'aise, vous sentez que derrière son regard éclairant il y a un esprit plus alerte qu'il pourrait paraître, un esprit qui est capable de réagir rapidement et avec précision à même un moindre signe de perturbation ou de danger. Lorsqu'il finit par ouvrir la bouche pour parler, il parvient sans effort à remplir la petite pièce de sa voix riche en platine.::
+::Une haute silhouette vêtue de noir se tient devant vous, et attend, calme, que vous entriez. L'homme a l'air détendu, mais derrière ce regard qui perce, vous sentez un esprit plus alerte qu'il n'y paraît : capable de réagir, net et immédiat, au moindre signe de trouble ou de danger. Quand il ouvre enfin la bouche, sa voix de platine, métallique, sonne et emplit la petite pièce sans effort.::
 
-Nous vous attendions. Je suis Everard - pour le moment - et je voudrais vous souhaiter la bienvenue à Foundry.<end>
+Nous vous attendions. Je suis Everard - pour l'heure - et je vous souhaite la bienvenue à Foundry.<end>
 
 =>q3_original
 It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
 
 =>q3
-C'est un peu chaotique ici en ce moment, mais cela ne devrait pas interférer avec nos plans. Pas vrai ?<end>
+C'est un peu le chaos, ici, pour l'instant. Mais cela ne devrait pas contrarier nos plans. N'est-ce pas ?<end>
 
 =>q4_original
 <end>
@@ -30,61 +30,61 @@ C'est un peu chaotique ici en ce moment, mais cela ne devrait pas interférer av
 Jack told me to talk to you about an assignment.<end>
 
 =>a5
-Jack m'a dit de te parler d'une mission.<end>
+Jack m'a dit de vous parler d'une mission.<end>
 
 =>q6_original
 I reckon he did. We have a very important situation, $(context.player.Name).<end>
 
 =>q6
-Je crois que oui. Nous avons une situation très importante, $(context.player.Name).<end>
+J'en étais certain. Nous avons une situation très importante, $(context.player.Name).<end>
 
 =>q7_original
 One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
 
 =>q7
-L'un des nôtres est emprisonné ici même dans Foundry ; il s'est permis de se faire prendre pendant un certain acte et a fini derrière les barreaux. Il est détenu à la prison Foundry, en attente de jugement.<end>
+L'un des nôtres est emprisonné ici même, à Foundry. Il s'est laissé prendre en pleine opération, et il a fini derrière les barreaux. Il est détenu à la prison de Foundry, en attente de jugement.<end>
 
 =>a8_original
 What exactly happened?<end>
 
 =>a8
-Que s'est-il passé ?<end>
+Que s'est-il passé, exactement ?<end>
 
 =>q9_original
 *Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
 
 =>q9
-*Todor Sallywatch* a été chargé de suivre un marchand itinérant nommé Bolivar Daud et devait garder un œil sur lui. Après certains événements, Todor reçut l'ordre de l'assassiner. Ce qu'il a fait.<end>
+*Todor Sallywatch* avait pour tâche de suivre un marchand itinérant, Bolivar Daud, et de le surveiller. Une fois certains événements survenus, Todor avait ordre de l'assassiner. Ce qu'il a fait.<end>
 
 =>q10_original
 But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
 
 =>q10
-Mais son infiltration était moins que souhaitable. Il a été vu et s'est laissé appréhender. Le vrai problème ici est que Todor est l'un de nous, donc, il sait tout ce que nous savons. Pas vrai, $(context.player.Name) ? Et si la Garde Foundry devait découvrir ce qu'il sait... ce serait très, très mauvais pour nous.<end>
+Mais son exfiltration a été... loin d'être propre. On l'a vu, et il s'est laissé arrêter. Le vrai problème, c'est que Todor est l'un des nôtres : il sait tout ce que nous savons. N'est-ce pas, $(context.player.Name) ? Et si la Foundry Guard découvrait ce qu'il sait... ce serait très, *très* mauvais pour nous.<end>
 
 =>a11_original
 You want me to get him out, got it.<end>
 
 =>a11
-Tu veux que je le sorte, compris.<end>
+Vous voulez que je le fasse sortir. Compris.<end>
 
 =>q12_original
 Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
 
 =>q12
-Oui, faites-le sortir si possible. ::Il se penche légèrement vers l'avant et continue ensuite.:: Sinon...<end>
+Oui. Faites-le sortir, si c'est possible. ::Il se penche un peu en avant, puis reprend.:: Sinon, eh bien...<end>
 
 =>q13_original
 Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
 
 =>q13
-Encore une chose avant que je te laisse en mission : Nous avons eu une chance qui nous a donné du temps. Foundry a un seul juge qui a traité toutes les affaires, et il... vient de mourir d'empoisonnement alimentaire. Quelle chance, non ? Avec sa mort, l'affaire Todor est en attente pour le moment, nous donnant le temps d'agir. Ou devrais-je dire, vous donner le temps d'agir.<end>
+Encore une chose, avant de vous laisser partir. Nous avons eu un coup de chance, et il nous a fait gagner du temps. Foundry n'a qu'un seul juge, qui traitait *toutes* les affaires, et il... vient de mourir d'un empoisonnement alimentaire. Quelle fortune, n'est-ce pas ? Avec sa mort, l'affaire Todor est en suspens. Ce qui nous laisse le temps d'agir. Ou plutôt : ce qui *vous* laisse le temps d'agir.<end>
 
 =>q14_original
 You may leave now. If you have any questions, I am always here.<end>
 
 =>q14
-Vous pouvez partir maintenant. Si vous avez des questions, je suis toujours là.<end>
+Vous pouvez partir. Si vous avez des questions, je suis toujours ici.<end>
 
 =>a15_original
 What if I can't get him out of there?<end>
@@ -96,7 +96,7 @@ Et si je ne peux pas le sortir de là ?<end>
 ::He smiles.:: Well, then wish him a happy birthday.<end>
 
 =>q16
-::Il sourit.:: Alors, souhaite-lui un joyeux anniversaire.<end>
+::Il sourit.:: Alors, souhaitez-lui un joyeux anniversaire.<end>
 
 =>a17_original
 Wait - he is an assassin!?<end>
@@ -108,31 +108,31 @@ Attendez, c'est un assassin !?<end>
 He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
 
 =>q18
-C'est un assassin emprisonné, il y a une différence. Mais, vous ne pensez pas que vous vous souciez de ce détail - vous vous souciez de l'aspect moral. Si oui, alors j'ai un conseil simple, mais crucial: Si vous voulez progresser avec nous, vous devrez penser différemment, $(context.player.Name); vous devrez vous adapter. Pas vrai ?<end>
+C'est un assassin emprisonné. Il y a une différence. Mais ce n'est pas ce détail qui vous arrête : c'est la morale. Si c'est le cas, un conseil simple, et crucial : si vous voulez avancer avec nous, vous devrez penser autrement, $(context.player.Name). Vous devrez vous adapter. N'est-ce pas ?<end>
 
 =>a19_original
 I understand. Anyway, you want me to get him out?<end>
 
 =>a19
-Je comprends. Quoi qu'il en soit, tu veux que je le sorte ?<end>
+Je comprends. Bref, vous voulez que je le fasse sortir ?<end>
 
 =>a20_original
 Right. All in all, what if I can't get him out of there?<end>
 
 =>a20
-Oui. Et si je ne peux pas le sortir de là ?<end>
+D'accord. Et si je n'arrive pas à le sortir de là ?<end>
 
 =>a21_original
 I can't do this. I'm sorry, but I decline this job.<end>
 
 =>a21
-Je ne peux pas faire ça. Je suis désolé, mais je refuse ce travail.<end>
+Je ne peux pas. Je suis $(#désolé/désolée), mais je refuse cette mission.<end>
 
 =>q22_original
 Disapointing. ::He turns his back toward you and falls silent.::<end>
 
 =>q22
-Dépointant. ::Il tourne le dos à vous et se taise.::<end>
+Décevant. ::Il vous tourne le dos et se tait.::<end>
 
 =>a23_original
 What a moron.<end>
@@ -144,7 +144,7 @@ Quel imbécile.<end>
 Harsh words, but he was careless indeed. Let us continue, shall we?<end>
 
 =>q24
-Difficile, mais il était imprudent. Continuons.<end>
+Propos durs. Mais il a été imprudent, c'est vrai. Poursuivons, voulez-vous ?<end>
 
 =>a25_original
 About Todor Sallywatch...<end>
@@ -156,7 +156,7 @@ About Todor Sallywatch...<end>
 Yes?<end>
 
 =>q26
-Oui?<end>
+Oui ?<end>
 
 =>q27_original
 <end>
@@ -174,13 +174,13 @@ J'ai réussi à le sortir de la prison.<end>
 You killed everyone inside the prison; I don't think you even realize what you have done.<end>
 
 =>q29
-Vous avez tué tout le monde à l'intérieur de la prison, je ne pense même pas que vous réalisez ce que vous avez fait.<end>
+Vous avez tué tout le monde dans cette prison. Je ne crois pas que vous mesuriez ce que vous avez fait.<end>
 
 =>q30_original
 You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
 
 =>q30
-Mais tu as cassé Todor. Je suppose que vous avez fait ce qui vous a été demandé, techniquement. Retour à Jack; votre travail ici est terminé, $(context.player.Name).<end>
+Vous avez tout de même fait sortir Todor. Techniquement, vous avez fait ce qu'on vous demandait. Retournez voir Jack. Votre travail ici est terminé, $(context.player.Name).<end>
 
 =>q31_original
 <end>
@@ -192,43 +192,43 @@ Mais tu as cassé Todor. Je suppose que vous avez fait ce qui vous a été deman
 ::He smiles.:: Yes, you have done well. Where is Todor now?<end>
 
 =>q32
-::Il sourit.:: Oui, vous avez bien fait. Où est Todor maintenant ?<end>
+::Il sourit.:: Oui. Vous avez bien travaillé. Où est Todor, à présent ?<end>
 
 =>a33_original
 He said he's headed to Zeta and that you'll know what that means.<end>
 
 =>a33
-Il a dit qu'il allait à Zeta et que tu saurais ce que ça veut dire.<end>
+Il a dit qu'il partait pour Zeta, et que vous sauriez ce que ça veut dire.<end>
 
 =>q34_original
 I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
 
 =>q34
-Oui. Todor a-t-il été discret sur nos affaires dans Foundry ? Tu sais de quoi je parle.<end>
+Oui. Todor a-t-il été discret sur nos affaires à Foundry ? Vous savez de quoi je parle.<end>
 
 =>a35_original
 He didn't say anything, I'm sure of it.<end>
 
 =>a35
-Il n'a rien dit, j'en suis sûr.<end>
+Il n'a rien dit. J'en suis $(#sûr/sûre).<end>
 
 =>q36_original
 ::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
 
 =>q36
-::Il sourit.:: Bien, je suis très heureux d'entendre ça. Vous pouvez retourner à Jack maintenant, votre travail ici est terminé.<end>
+::Il sourit.:: Bien. Je suis très heureux de l'entendre. Vous pouvez retourner voir Jack. Votre travail ici est terminé.<end>
 
 =>a37_original
 He snitched you out. You better be careful.<end>
 
 =>a37
-Il t'a arraché. Fais attention.<end>
+Il vous a vendu. Soyez prudent.<end>
 
 =>q38_original
 I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
 
 =>q38
-Je vois. Je suis déçu, mais finalement je m'y attendais. Je vais lui en parler personnellement quand nous nous reverrons. Et vous, $(context.player.Name) - vous avez bien réussi. Vous pouvez retourner à Jack maintenant, votre travail ici est terminé.<end>
+Je vois. Je suis déçu, mais au fond, je m'y attendais. Je lui en parlerai en personne, quand nous nous reverrons. Et vous, $(context.player.Name) : vous avez bien travaillé. Vous pouvez retourner voir Jack. Votre travail ici est terminé.<end>
 
 =>a39_original
 I don't know.<end>
@@ -240,7 +240,7 @@ Je ne sais pas.<end>
 That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
 
 =>q40
-Ce n'était pas la réponse que j'espérais, $(context.player.Name). Mais je n'en ai pas moins et je vais devoir être prudent à partir de maintenant. Sinon, vous avez bien réussi. Vous pouvez retourner à Jack maintenant; votre travail ici est terminé.<end>
+Ce n'était pas la réponse que j'espérais, $(context.player.Name). Mais je l'ai quand même, et je vais devoir être prudent désormais. Pour le reste, vous avez bien travaillé. Vous pouvez retourner voir Jack. Votre travail ici est terminé.<end>
 
 =>a41_original
 Todor has been silenced.<end>
@@ -252,31 +252,31 @@ Todor a été réduit au silence.<end>
 So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
 
 =>q42
-Donc, ça devait être fait. Dites-moi: Todor a-t-il été discret sur nos affaires dans Foundry? Tu vois ce que je veux dire.<end>
+Alors, il a fallu en passer par là. Dites-moi : Todor a-t-il été discret sur nos affaires à Foundry ? Vous voyez ce que je veux dire.<end>
 
 =>a43_original
 He didn't say anything. I'm sure of it.<end>
 
 =>a43
-Il n'a rien dit. J'en suis sûr.<end>
+Il n'a rien dit. J'en suis $(#sûr/sûre).<end>
 
 =>q44_original
 That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
 
 =>q44
-C'est une information précieuse. Mais quand même, nous sommes plus en sécurité. Vous avez bien fait. Tu peux retourner à Jack maintenant. Votre travail ici est terminé.<end>
+C'est une information précieuse. Mais nous sommes plus en sécurité, ainsi. Vous avez bien travaillé. Vous pouvez retourner voir Jack. Votre travail ici est terminé.<end>
 
 =>a45_original
 He snitched you out. You better be careful. <end>
 
 =>a45
-Il t'a arraché. Fais attention. <end>
+Il vous a vendu. Soyez prudent. <end>
 
 =>q46_original
 Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
 
 =>q46
-Bien sûr. C'est une information précieuse et je vous en remercie. Vous avez bien fait. Tu peux retourner à Jack maintenant. Votre travail ici est terminé.<end>
+Nous le serons. C'est une information précieuse, et je vous en remercie. Vous avez bien travaillé. Vous pouvez retourner voir Jack. Votre travail ici est terminé.<end>
 
 =>a47_original
 I don't know.<end>
@@ -296,9 +296,9 @@ Excellent, I am pleased to hear that. You did good work! Todor will be out of Fo
 Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
 
 =>q49
-Je suis heureux d'entendre cela. Tu as bien travaillé ! Todor sera hors de Foundry pendant un certain temps; je suppose qu'il est déjà allé à un endroit plus sûr.
+Excellent. Je suis ravi de l'entendre. Beau travail. Todor sera hors de Foundry pour un temps ; je suppose qu'il a déjà gagné un endroit plus sûr.
 
-Mais je dois te demander quelque chose. Dites-moi: Todor a-t-il été discret sur nos affaires dans Foundry? Tu vois ce que je veux dire.<end>
+Il me reste une question. Dites-moi : Todor a-t-il été discret sur nos affaires à Foundry ? Vous voyez ce que je veux dire.<end>
 
 =>a50_original
 Why was the merchant killed?<end>
@@ -310,13 +310,13 @@ Pourquoi le marchand a-t-il été tué ?<end>
 Because someone wanted him dead. Simple, right?<end>
 
 =>q51
-Parce que quelqu'un voulait sa mort. Simple, pas vrai ?<end>
+Parce que quelqu'un le voulait mort. Simple, n'est-ce pas ?<end>
 
 =>q52_original
 Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
 
 =>q52
-Il est impossible de révéler qui était derrière. C'est quelque chose que vous ne pouvez pas savoir.<end>
+Révéler qui était derrière, c'est impossible. Ça, *vous* n'avez pas le droit de le savoir.<end>
 
 =>a53_original
 What can you tell me about Foundry prison?<end>
@@ -330,9 +330,9 @@ Well, it is a high security area, I can tell you that. You will find the main en
 The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
 
 =>q54
-C'est une zone de haute sécurité, je peux vous le dire. Vous trouverez l'entrée principale au sud d'ici, en bas d'un ensemble d'escaliers; c'est la seule entrée, mais peut-être pas la seule sortie.
+C'est une zone de haute sécurité, ça, je peux vous le dire. L'entrée principale est au sud d'ici, en bas d'un escalier. La seule entrée. Mais pas forcément la seule sortie.
 
-La zone a des gardes de patrouille armés jusqu'aux dents, des caméras, des tourelles et un ensemble de deux vannes en métal lourd séparent la zone d'entrée du bloc cellulaire. Mark mes mots - la sécurité est serrée, et il y a très peu de place pour l'erreur.<end>
+Il y a des patrouilles de gardes armés jusqu'aux dents, des caméras, des tourelles, et deux lourdes portes métalliques qui séparent le sas du quartier des cellules. Retenez bien ça : c'est bouclé. Il n'y a presque aucune marge d'erreur.<end>
 
 =>q55_original
 Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
@@ -340,57 +340,57 @@ Also, as far as I know, everything is being recorded by the cameras and, in case
 It is a truly problematic place, isn't it?<end>
 
 =>q55
-Aussi, pour autant que je sache, tout est enregistré par les caméras et, en cas d'urgence, les renforts peuvent arriver en quelques minutes.
+Et, pour autant que je sache, les caméras enregistrent tout. En cas d'alerte, les renforts peuvent être là en quelques minutes.
 
-C'est un endroit vraiment problématique, n'est-ce pas ?<end>
+Un endroit vraiment problématique, n'est-ce pas ?<end>
 
 =>a56_original
 So, with the judge dead, who decides Todor's fate?<end>
 
 =>a56
-Alors, avec le juge mort, qui décide du destin de Todor ?<end>
+Alors, avec le juge mort, qui tranche le sort de Todor ?<end>
 
 =>q57_original
 Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
 
 =>q57
-Eh bien, Foundry ne veut pas être comme tout le monde, dans un sens qu'ils réfutent de servir rapidement "justice", comme c'est commun dans tout le Sud Underrail. Ils ont leur propre système de justice et ils s'y tiennent fermement, non ? Ils vont probablement nommer un nouveau juge avant de traiter avec Todor.<end>
+Foundry n'aime pas faire comme tout le monde. Ils réprouvent la « justice » expéditive, celle qu'on sert partout dans le South Underrail. Ils ont leur propre système, et ils s'y tiennent. N'est-ce pas ? Ils nommeront sans doute un nouveau juge avant de s'occuper de Todor.<end>
 
 =>q58_original
 But, for now, he is in the hands of the prison warden.<end>
 
 =>q58
-Mais pour l'instant, il est entre les mains du directeur de la prison.<end>
+Mais pour l'heure, il est entre les mains du directeur de la prison.<end>
 
 =>a59_original
 Let me ask you something else...<end>
 
 =>a59
-Laisse-moi te demander autre chose...<end>
+Laissez-moi vous demander autre chose...<end>
 
 =>q60_original
 Go ahead.<end>
 
 =>q60
-Poursuivre.<end>
+Allez-y.<end>
 
 =>a61_original
 What can you tell me about Foundry?<end>
 
 =>a61
-Que pouvez-vous me dire sur Foundry ?<end>
+Que pouvez-vous me dire sur Foundry ?<end>
 
 =>q62_original
 There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
 
 =>q62
-Il y a beaucoup de choses que l'on peut dire sur Foundry, mais très peu de choses qui sont difficiles à comprendre. Regarde autour de toi, et regarde attentivement.<end>
+On peut dire beaucoup de choses sur Foundry, mais bien peu qu'on ne puisse voir par soi-même. Regardez autour de vous. Et regardez bien.<end>
 
 =>q63_original
 Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
 
 =>q63
-Jack ne m'enverrait jamais une personne ignorante du monde autour de $(#le/la), non ? ::Il sourit.::<end>
+Jack ne m'enverrait jamais quelqu'un qui ne voit pas le monde autour de $(#lui/elle), n'est-ce pas ? ::Il sourit.::<end>
 
 =>a64_original
 What do you mean by chaos in Foundry?<end>
@@ -404,15 +404,15 @@ You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#
 The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
 
 =>q65
-Vous n'avez rien remarqué ? Vous devez garder les yeux et les oreilles ouverts, $(#buddy/missy).
+Vous n'avez rien remarqué ? Hmm. Il faut garder les yeux et les oreilles ouverts, $(#jeune homme/jeune fille).
 
-Les mineurs ont rencontré des créatures étranges pendant les fouilles. Toutes les opérations minières ont été interrompues et resteront interrompues jusqu'à ce que la situation soit réglée.<end>
+Les mineurs sont tombés sur des créatures étranges, pendant le creusement. Toutes les opérations minières sont à l'arrêt, et le resteront jusqu'à ce que la situation soit réglée.<end>
 
 =>q66_original
 Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
 
 =>q66
-La mine fermée fait mal à une communauté minière, non ? Et les créatures semblent têtues - difficiles à expulser. Donc les grosses têtes sont nerveuses. Nous continuerons de regarder et de voir comment les choses évoluent.<end>
+Une mine à l'arrêt, ça fait mal à une ville minière, n'est-ce pas ? Et ces créatures ont la peau dure : pas faciles à déloger. Alors les grosses têtes sont nerveuses. Nous continuerons d'observer, et de voir comment ça tourne.<end>
 
 =>a67_original
 What are you guys doing here on this roof?<end>
@@ -424,25 +424,25 @@ Que faites-vous ici sur ce toit ?<end>
 Chillin'.<end>
 
 =>q68
-Du calme.<end>
+On se la coule douce.<end>
 
 =>q69_original
 ::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
 
 =>q69
-::Il rit.:: Je plaisante, bien sûr. Comme vous pouvez le voir, nous avons une position plus que satisfaisante ici, au-dessus de tout le monde. On peut les observer et faire notre travail sans ingérence, non ? C'est quoi exactement ? Une autre fois, ::Il sourit.::<end>
+::Il rit.:: Je plaisante, évidemment. Comme vous le voyez, nous occupons ici une position plus que satisfaisante, au-dessus de tout le monde. Nous pouvons les observer, et faire notre travail presque sans qu'on nous dérange. N'est-ce pas ? Ce travail, au juste ? Une autre fois... ::Il sourit.::<end>
 
 =>a70_original
 Goodbye Everard.<end>
 
 =>a70
-Au revoir Everard.<end>
+Au revoir, Everard.<end>
 
 =>q71_original
 Take care and keep your eyes open.<end>
 
 =>q71
-Prenez soin et gardez les yeux ouverts.<end>
+Prenez soin de vous. Et gardez les yeux ouverts.<end>
 
 =>q72_original
 We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
@@ -450,7 +450,7 @@ We have been watching you take care of this mess here in Foundry. ::He slowly cl
 Well done.<end>
 
 =>q72
-Nous vous avons regardé prendre soin de ce bordel ici dans Foundry. ::Il applaudit lentement.::
+Nous vous avons $(#regardé/regardée) régler ce chaos, ici à Foundry. ::Il applaudit, lentement.::
 
 Bien joué.<end>
 
@@ -458,5 +458,5 @@ Bien joué.<end>
 Yes?<end>
 
 =>q73
-Oui?<end>
+Oui ?<end>
 

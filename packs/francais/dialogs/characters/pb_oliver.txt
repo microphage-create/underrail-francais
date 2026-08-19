@@ -2,7 +2,7 @@
 I think you made the wrong choice, $(context.player.Name), but if that's what you wish... Best of life in the future.<end>
 
 =>q1
-Je pense que tu as fait le mauvais choix, $(context.player.Name), mais si c'est ce que tu souhaites... Le meilleur de la vie à l'avenir.<end>
+Je pense que vous avez fait le mauvais choix, $(context.player.Name), mais si c'est ce que vous souhaitez... Je vous souhaite le meilleur pour la suite.<end>
 
 =>q2_original
 ::You find the consul infuriated, muttering something to himself.::
@@ -12,11 +12,11 @@ Corporal! Did you see that insolence!? Those rude... those... those... I'm at a 
 ::He sighs.:: I need a cup of mushroom tea to calm me down. Dear me...<end>
 
 =>q2
-::Vous trouvez le consul furieux, marmonnant quelque chose pour lui-même.::
+::Vous trouvez le consul hors de lui, en train de marmonner.::
 
-Caporal ! Avez-vous vu cette insolence !? Ces grossiers... ceux... ceux... Je suis à court de mots. J'ai été expulsé de mon bureau comme un chien. Ce qui me surprend le plus, c'est que le colonel n'a *rien* fait pour l'empêcher !
+Caporal ! Vous avez vu cette insolence ? Ces malpolis... ces... ces... Les mots me manquent. On m'a jeté hors de mon bureau comme un chien. Ce qui me surprend le plus, c'est que le colonel n'a *rien* fait pour l'empêcher !
 
-::Il soupire.:: J'ai besoin d'une tasse de thé aux champignons pour me calmer. Cher moi...<end>
+::Il soupire.:: Il me faut une tasse de thé aux champignons, pour me calmer. Mon Dieu...<end>
 
 =>q3_original
 <end>
@@ -28,13 +28,13 @@ Caporal ! Avez-vous vu cette insolence !? Ces grossiers... ceux... ceux... Je su
 You mentioned you wanted to discuss something with me.<end>
 
 =>a4
-Vous avez mentionné que vous vouliez discuter de quelque chose avec moi.<end>
+Vous avez dit que vous vouliez m'entretenir de quelque chose.<end>
 
 =>q5_original
 Indeed I have, Corporal. The situation I'm about to explain to you is not something that occurs often; in all honesty, this is the first time it has happened. At least as far as I'm aware. Perhaps that is the reason the colonel asked for my opinion on this.<end>
 
 =>q5
-En effet, caporal. La situation que je m’apprête à vous expliquer n’est pas quelque chose qui se produit souvent ; en toute honnêteté, c’est la première fois que cela arrive. Du moins pour autant que je sache. C'est peut-être la raison pour laquelle le colonel m'a demandé mon avis à ce sujet.<end>
+En effet, caporal. La situation que je m'apprête à vous exposer n'arrive pas souvent ; pour être honnête, c'est la première fois. Du moins, à ma connaissance. C'est peut-être pour ça que le colonel m'a demandé mon avis.<end>
 
 =>a6_original
 Can you tell me what happened?<end>
@@ -48,9 +48,9 @@ Yes, I can. ::He takes a deep breath.:: We have a problem with several Protector
 They simply... left.<end>
 
 =>q7
-Oui, je peux. ::Il prend une profonde inspiration.:: Nous avons un problème avec plusieurs soldats Protectorate qui sont... devenus renégats. C'est arrivé avant votre arrivée, il n'y a pas si longtemps. Une escouade sous le commandement du SFC Timothy Holloway venait tout simplement de quitter Fort Apogee. Personne n'a jamais rien dit, rien ne s'est passé qui pourrait suggérer pourquoi ils seraient partis. Rien, rien du tout.
+Oui. ::Il inspire profondément.:: Nous avons un problème avec plusieurs soldats du Protectorate qui... sont passés renégats. C'est arrivé avant votre arrivée, il n'y a pas si longtemps. Une escouade sous les ordres du SFC Timothy Holloway a simplement quitté Fort Apogee. Personne n'a rien dit, rien ne s'est passé qui aurait pu expliquer leur départ. Rien, absolument rien.
 
-Ils sont simplement… partis.<end>
+Ils sont simplement... partis.<end>
 
 =>a8_original
 SFC?<end>
@@ -62,43 +62,43 @@ SFC ?<end>
 Sergeant First Class. Please, Corporal.<end>
 
 =>q9
-Sergent de première classe. S'il vous plaît, caporal.<end>
+Sergeant First Class. Voyons, caporal.<end>
 
 =>a10_original
 Do you know where they are now?<end>
 
 =>a10
-Savez-vous où ils sont maintenant ?<end>
+Savez-vous où ils sont, maintenant ?<end>
 
 =>q11_original
 They've entrenched themselves, or so I've been told, in one of the stations. It's um... oh, for crying out loud... ::He takes a moment to think.:: Yes - Dolos Center, that's it. It's all the way to the west, past Core City station.<end>
 
 =>q11
-Ils se sont retranchés, du moins c'est ce qu'on m'a dit, dans l'une des gares. C'est euh... oh, pour avoir crié à haute voix... ::Il prend un moment pour réfléchir.:: Oui - Dolos Center, c'est tout. C'est tout à l'ouest, après la station Core City.<end>
+Ils se sont retranchés, du moins c'est ce qu'on m'a dit, dans une des stations. C'est euh... oh, bon sang... ::Il réfléchit un instant.:: Oui : Dolos Center, voilà. Tout à l'ouest, au-delà de la station Core City.<end>
 
 =>a12_original
 So, what do you want me to do?<end>
 
 =>a12
-Alors, que veux-tu que je fasse ?<end>
+Alors, que voulez-vous que je fasse ?<end>
 
 =>q13_original
 Well, Corporal, I want you to go find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
 
 =>q13
-Eh bien, Caporal, je veux que vous alliez les trouver et que vous négociiez leur retour. L'infraction est très grave et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me permettre d'envoyer quelqu'un pour tenter d'abord une approche plus diplomatique.<end>
+Eh bien, caporal, je veux que vous les trouviez et que vous négociiez leur retour. L'infraction est grave, et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me laisser d'abord envoyer quelqu'un pour une approche plus diplomatique.<end>
 
 =>q14_original
 You're an outsider, dear Corporal, or you were when the sergeant's squad went renegade, so it is my belief that they should feel less threatened by you - if you play your cards right. You were in no way connected to any of the recent goings-on in Fort Apogee, you couldn't have been, so the more neutral they perceive you to be, the better.<end>
 
 =>q14
-Vous êtes un étranger, cher caporal, ou vous l'étiez lorsque l'escouade de sergents est devenue renégat, je pense donc qu'ils devraient se sentir moins menacés par vous - si vous jouez bien vos cartes. Vous n'étiez en aucun cas connecté à aucun des événements récents de Fort Apogee, vous n'auriez pas pu l'être, donc plus ils vous perçoivent comme neutre, mieux c'est.<end>
+Vous êtes un outsider, cher caporal, ou vous l'étiez quand l'escouade du sergent est passée renégat. Je pense donc qu'ils se sentiront moins menacés par vous, si vous jouez bien vos cartes. Vous n'aviez aucun lien avec ce qui s'est passé récemment à Fort Apogee, vous n'auriez pas pu, alors plus ils vous verront comme neutre, mieux ce sera.<end>
 
 =>a15_original
 What will happen to them if I convince them to come back?<end>
 
 =>a15
-Que va-t-il leur arriver si je les convaincs de revenir ?<end>
+Que leur arrivera-t-il si je les convaincs de revenir ?<end>
 
 =>q16_original
 As I've said before, what they did is a serious offense. Court-martial most certainly awaits them, and the usual penalty for desertion is, well, death. However, if they surrender peacefully - "return" might be a better word - if they return peacefully, then perhaps their punishment won't be as severe, considering that SFC Holloway has an outstanding record.
@@ -106,7 +106,7 @@ As I've said before, what they did is a serious offense. Court-martial most cert
 Everything is up to Colonel Cathcart, in the end.<end>
 
 =>q16
-Comme je l'ai déjà dit, ce qu'ils ont fait constitue une infraction grave. La cour martiale les attend très certainement, et la peine habituelle en cas de désertion est la mort. Cependant, s'ils se rendent pacifiquement - "retour" pourrait être un meilleur mot - s'ils reviennent pacifiquement, alors peut-être que leur punition ne sera pas aussi sévère, étant donné que le SFC Holloway a un bilan exceptionnel.
+Comme je l'ai dit, ce qu'ils ont fait est grave. La cour martiale les attend, c'est presque certain, et la peine habituelle pour désertion, eh bien, c'est la mort. Cela dit, s'ils se rendent sans violence - « rentrer » serait un meilleur mot - s'ils rentrent sans violence, leur peine sera peut-être moins lourde, vu le dossier impeccable du SFC Holloway.
 
 En fin de compte, tout dépend du colonel Cathcart.<end>
 
@@ -120,7 +120,7 @@ Alors, que dites-vous de tout cela ?<end>
 I'll do it.<end>
 
 =>a18
-Je vais le faire.<end>
+Je le ferai.<end>
 
 =>q19_original
 $(#Bravo/Brava), just $(#bravo/brava)! I've told you everything I know, dear Corporal. If you need more information, the colonel is your best bet.
@@ -128,9 +128,9 @@ $(#Bravo/Brava), just $(#bravo/brava)! I've told you everything I know, dear Cor
 Good luck on your mission.<end>
 
 =>q19
-$(#Bravo/Brava), juste $(#bravo/brava) ! Je vous ai dit tout ce que je savais, cher caporal. Si vous avez besoin de plus d'informations, le colonel est votre meilleur choix.
+$(#Bravo/Brava), simplement $(#bravo/brava) ! Je vous ai dit tout ce que je savais, cher caporal. Si vous avez besoin de plus, le colonel est votre meilleur recours.
 
-Bonne chance dans votre mission.<end>
+Bonne chance pour votre mission.<end>
 
 =>q20_original
 <end>
@@ -142,67 +142,67 @@ Bonne chance dans votre mission.<end>
 I'll have to think about it.<end>
 
 =>a21
-Il faudra que j'y réfléchisse.<end>
+Il va falloir que j'y réfléchisse.<end>
 
 =>q22_original
 Let me know of your decision as soon as possible. We don't have much time.<end>
 
 =>q22
-Faites-moi part de votre décision le plus tôt possible. Nous n'avons pas beaucoup de temps.<end>
+Faites-moi part de votre décision dès que possible. Nous n'avons pas beaucoup de temps.<end>
 
 =>a23_original
 What if things turn ugly?<end>
 
 =>a23
-Et si les choses tournaient mal ?<end>
+Et si ça tourne mal ?<end>
 
 =>q24_original
 Then... then you have no other choice.<end>
 
 =>q24
-Alors... alors tu n'as pas d'autre choix.<end>
+Alors... alors vous n'aurez pas le choix.<end>
 
 =>a25_original
 So, I'm guessing you want me to talk to them. Right?<end>
 
 =>a25
-Donc, je suppose que tu veux que je leur parle. Droite?<end>
+Donc, je suppose que vous voulez que je leur parle. C'est ça ?<end>
 
 =>q26_original
 $(#Bravo/Brava), Corporal, $(#bravo/brava). That is exactly what I want you to do. Find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
 
 =>q26
-$(#Bravo/Brava), caporal, $(#bravo/brava). C'est exactement ce que je veux que vous fassiez. Trouvez-les et négociez leur retour. L'infraction est très grave et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me permettre d'envoyer quelqu'un pour tenter d'abord une approche plus diplomatique.<end>
+$(#Bravo/Brava), caporal, $(#bravo/brava). C'est exactement ce que je veux. Trouvez-les et négociez leur retour. L'infraction est grave, et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me laisser d'abord envoyer quelqu'un pour une approche plus diplomatique.<end>
 
 =>a27_original
 Do you want them dead? I can make them dead! Bloody traitors!<end>
 
 =>a27
-Voulez-vous qu'ils soient morts ? Je peux les faire mourir ! Maudits traîtres !<end>
+Vous les voulez morts ? Je peux les faire mourir ! Maudits traîtres !<end>
 
 =>q28_original
 ::He seems astonished by your answer.:: No! No, no, no! I don't want you to murder them, what is wrong with you, Corporal?<end>
 
 =>q28
-::Il semble étonné de votre réponse.:: Non ! Non, non, non ! Je ne veux pas que vous les assassiniez, qu'est-ce qui ne va pas chez vous, caporal ?<end>
+::Votre réponse le laisse stupéfait.:: Non ! Non, non, non ! Je ne veux pas que vous les assassiniez. Qu'est-ce qui vous prend, caporal ?<end>
 
 =>q29_original
 I want you to go find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
 
 =>q29
-Je veux que tu ailles les trouver et que tu négocies leur retour. L'infraction est très grave et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me permettre d'envoyer quelqu'un pour tenter d'abord une approche plus diplomatique.<end>
+Je veux que vous les trouviez et que vous négociiez leur retour. L'infraction est grave, et le colonel était prêt à prendre des mesures drastiques. Je l'ai convaincu de me laisser d'abord envoyer quelqu'un pour une approche plus diplomatique.<end>
 
 =>a30_original
 The Invictus can kill if you need him to kill.<end>
 
 =>a30
-L'Invictus peut tuer si vous avez besoin qu'il tue.<end>
+L'Invictus peut tuer, si vous avez besoin qu'il tue.<end>
 
 =>a31_original
 I decided to negotiate with the renegade squad.<end>
 
 =>a31
-J'ai décidé de négocier avec l'équipe renégat.<end>
+J'ai décidé de négocier avec l'escouade renégat.<end>
 
 =>a32_original
 About those renegade soldiers...<end>
@@ -214,7 +214,7 @@ About those renegade soldiers...<end>
 $(#Bravo/Brava), Corporal, $(#bravo/brava)! The soldiers have just returned back to Fort Apogee and surrendered all their weapons and equipment. They are in custody now, but after speaking with Colonel Cathcart, I was pleasantly surprised by what he told me. I am extremely pleased with your work!<end>
 
 =>q33
-$(#Bravo/Brava), Caporal, $(#bravo/brava) ! Les soldats viennent de rentrer à Fort Apogee et ont rendu toutes leurs armes et équipements. Ils sont actuellement en détention, mais après avoir parlé avec le colonel Cathcart, j'ai été agréablement surpris par ce qu'il m'a dit. Je suis extrêmement satisfait de votre travail!<end>
+$(#Bravo/Brava), caporal, $(#bravo/brava) ! Les soldats viennent de rentrer à Fort Apogee et ont rendu armes et équipement. Ils sont en détention, mais après avoir parlé au colonel Cathcart, j'ai été agréablement surpris par ce qu'il m'a dit. Je suis extrêmement satisfait de votre travail !<end>
 
 =>a34_original
 What will happen to SFC and his men?<end>
@@ -228,15 +228,15 @@ They are in custody at the moment, and will be court-martialed. Regardless, you 
 The sergeant and his men surrendered peacefully and... I have a good feeling about this.<end>
 
 =>q35
-Ils sont actuellement en détention et seront traduits en cour martiale. Quoi qu'il en soit, vous avez convaincu le colonel d'ouvrir une enquête distincte basée sur les affirmations du SFC, ce qui jouera donc un rôle important dans le processus.
+Ils sont en détention pour l'instant, et passeront en cour martiale. Cela dit, vous avez convaincu le colonel d'ouvrir une enquête distincte sur les déclarations du SFC, et ça pèsera lourd dans la procédure.
 
-Le sergent et ses hommes se sont rendus pacifiquement et... j'en ai un bon pressentiment.<end>
+Le sergent et ses hommes se sont rendus sans violence et... j'ai bon espoir.<end>
 
 =>q36_original
 Again, $(#bravo/brava), Corporal. One other thing: Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
 
 =>q36
-Encore une fois, $(#bravo/brava), caporal. Une autre chose : le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez lui rendre visite.<end>
+Encore une fois, $(#bravo/brava), caporal. Autre chose : le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez donc le voir.<end>
 
 =>q37_original
 <end>
@@ -248,7 +248,7 @@ Encore une fois, $(#bravo/brava), caporal. Une autre chose : le sergent d'état
 $(#Bravo/Brava), Corporal, $(#bravo/brava)! The soldiers have just returned back to Fort Apogee and surrendered all their weapons and equipment. They are in custody at the moment.<end>
 
 =>q38
-$(#Bravo/Brava), Caporal, $(#bravo/brava) ! Les soldats viennent de rentrer à Fort Apogee et ont rendu toutes leurs armes et équipements. Ils sont actuellement en garde à vue.<end>
+$(#Bravo/Brava), caporal, $(#bravo/brava) ! Les soldats viennent de rentrer à Fort Apogee et ont rendu armes et équipement. Ils sont en détention pour l'instant.<end>
 
 =>a39_original
 What will happen to SFC and his men?<end>
@@ -260,55 +260,55 @@ Que va-t-il arriver au SFC et à ses hommes ?<end>
 Well, dear Corporal, they will be court-martialed for desertion. Punishment will be severe, but I can assure you there will be no death sentence. It's all based on my conversation with Colonel Cathcart.<end>
 
 =>q40
-Eh bien, cher caporal, ils seront traduits en cour martiale pour désertion. La punition sera sévère, mais je peux vous assurer qu'il n'y aura pas de condamnation à mort. Tout est basé sur ma conversation avec le Colonel Cathcart.<end>
+Eh bien, cher caporal, ils passeront en cour martiale pour désertion. La peine sera lourde, mais je peux vous assurer qu'il n'y aura pas de condamnation à mort. Tout cela repose sur ma conversation avec le colonel Cathcart.<end>
 
 =>q41_original
 I can't really give you anything more; we'll just have to wait for the trial. I'm just glad no blood was spilled. Killing your own fellow soldiers, whatever the reason for their desertion is, feels wrong from my point of view. Very much so indeed.<end>
 
 =>q41
-Je ne peux vraiment rien vous donner de plus ; nous devrons simplement attendre le procès. Je suis juste content qu'aucun sang n'ait coulé. Tuer vos propres camarades soldats, quelle que soit la raison de leur désertion, me semble inacceptable. C’est tout à fait vrai.<end>
+Je ne peux vraiment rien vous dire de plus ; il faudra attendre le procès. Je suis simplement heureux qu'il n'y ait pas eu de sang. Tuer ses propres camarades, quelle que soit la raison de leur désertion, me paraît inacceptable. Tout à fait inacceptable.<end>
 
 =>q42_original
 Well, the task was successfully accomplished, Corporal. Bravo. One other thing: Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
 
 =>q42
-Eh bien, la tâche a été accomplie avec succès, Caporal. Bravo. Une autre chose : le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez lui rendre visite.<end>
+Eh bien, la tâche a été menée à bien, caporal. Bravo. Autre chose : le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez donc le voir.<end>
 
 =>q43_original
 An interesting turn of events, Corporal: The renegade soldiers have returned without SFC Holloway! They surrendered their weapons and equipment and are currently held in custody.<end>
 
 =>q43
-Une tournure intéressante des événements, Caporal : Les soldats renégats sont revenus sans le SFC Holloway ! Ils ont rendu leurs armes et leur matériel et sont actuellement détenus.<end>
+Tournure intéressante, caporal : les soldats renégats sont rentrés sans le SFC Holloway ! Ils ont rendu armes et équipement, et ils sont actuellement en détention.<end>
 
 =>q44_original
 I received no explanation for this. Did *you* have anything to do with it?<end>
 
 =>q44
-Je n'ai reçu aucune explication à ce sujet. Est-ce que *vous* avez quelque chose à voir avec ça ?<end>
+Je n'ai reçu aucune explication. Est-ce que *vous* y êtes pour quelque chose ?<end>
 
 =>a45_original
 Yes, I assassinated SFC Holloway. Without their leader, I was hoping that the men would perhaps decide to surrender.<end>
 
 =>a45
-Oui, j'ai assassiné le SFC Holloway. Sans leur chef, j'espérais que les hommes décideraient peut-être de se rendre.<end>
+Oui, j'ai assassiné le SFC Holloway. Sans leur chef, j'espérais que les hommes choisiraient peut-être de se rendre.<end>
 
 =>q46_original
 You... you did what? But... why?<end>
 
 =>q46
-Tu... tu as fait quoi ? Mais... pourquoi ?<end>
+Vous... vous avez fait quoi ? Mais... pourquoi ?<end>
 
 =>q47_original
 ::It takes a few seconds before the consul gets his bearings.:: I dislike your methods, Corporal. I asked of you to negotiate with those men, not go on an assassination mission. You might think that you've sacrificed one to save the rest, but in reality, SFC and his previous *impeccable* record could've played a large part in mitigating their sentence! Now... you might not have saved them from death at all.<end>
 
 =>q47
-::Il faut quelques secondes avant que le consul reprenne ses repères.:: Je n'aime pas vos méthodes, Caporal. Je vous ai demandé de négocier avec ces hommes, de ne pas partir en mission d'assassinat. Vous pourriez penser que vous en avez sacrifié un pour sauver les autres, mais en réalité, SFC et son précédent record *impeccable* auraient pu jouer un grand rôle dans l'atténuation de leur peine ! Maintenant... vous ne les avez peut-être pas du tout sauvés de la mort.<end>
+::Il faut quelques secondes au consul pour retrouver ses esprits.:: Je n'aime pas vos méthodes, caporal. Je vous avais demandé de négocier avec ces hommes, pas de partir en mission d'assassinat. Vous croyez peut-être avoir sacrifié un homme pour sauver les autres, mais en réalité, le SFC et son dossier *impeccable* auraient pu peser lourd pour atténuer leur peine ! À présent... vous ne les avez peut-être pas du tout sauvés de la mort.<end>
 
 =>q48_original
 Just think about what you've done, Corporal. Just... think about it.<end>
 
 =>q48
-Pensez simplement à ce que vous avez fait, caporal. Juste... réfléchis-y.<end>
+Réfléchissez simplement à ce que vous avez fait, caporal. Simplement... réfléchissez-y.<end>
 
 =>a49_original
 No, I too have no idea what is going on.<end>
@@ -322,9 +322,9 @@ Peculiar, Corporal, very peculiar, but I'm sure we will soon receive an explanat
 I'll keep a close eye on the trail, once it starts. <end>
 
 =>q50
-Particulier, caporal, très particulier, mais je suis sûr que nous recevrons bientôt une explication. Je ne sais pas quoi vous dire, je suppose que les négociations sont terminées.
+Étrange, caporal, très étrange, mais je suis sûr que nous aurons bientôt une explication. Je ne sais pas quoi vous dire. Je suppose que les négociations sont closes.
 
-Je garderai un œil attentif sur le sentier une fois qu'il aura commencé. <end>
+Je garderai un œil sur le procès, dès qu'il commencera. <end>
 
 =>q51_original
 Ah, yes, Corporal. What of them?<end>
@@ -336,7 +336,7 @@ Ah, oui, caporal. Et eux ?<end>
 I spoke with the sergeant, but I don't think I'll be able to convince him to return peacefully. I guess I'll be leaving this for the Protectorate to deal with.<end>
 
 =>a52
-J'ai parlé avec le sergent, mais je ne pense pas pouvoir le convaincre de revenir sereinement. Je suppose que je vais laisser cela au Protectorate.<end>
+J'ai parlé au sergent, mais je ne pense pas pouvoir le convaincre de rentrer sans violence. Je vais laisser ça au Protectorate.<end>
 
 =>q53_original
 What did SFC Holloway tell you?<end>
@@ -348,7 +348,7 @@ Que vous a dit le SFC Holloway ?<end>
 ::Tell Holloway's story.::<end>
 
 =>a54
-::Racontez l'histoire de Holloway.::<end>
+::Raconter l'histoire de Holloway.::<end>
 
 =>q55_original
 ::The consul attentively listens as you retell him the sergeant's story word by word. His face reacts to every following sentence, and you notice - what you believe to be - understanding in his eyes. After you are done, he quickly exclaims.::
@@ -356,57 +356,57 @@ Que vous a dit le SFC Holloway ?<end>
 I will speak to Colonel Cathcart about this as soon as possible! Leave this to us now - you've done enough already.<end>
 
 =>q55
-::Le consul vous écoute attentivement tandis que vous lui racontez mot à mot l'histoire du sergent. Son visage réagit à chaque phrase suivante, et vous remarquez – ce que vous croyez être – de la compréhension dans ses yeux. Une fois que vous avez terminé, s'exclame-t-il rapidement.::
+::Le consul écoute attentivement tandis que vous lui racontez mot pour mot l'histoire du sergent. Son visage réagit à chaque phrase, et vous croyez lire de la compréhension dans ses yeux. Quand vous avez fini, il s'exclame.::
 
-J'en parlerai au Colonel Cathcart dès que possible ! Laissez-nous faire maintenant – vous en avez déjà fait assez.<end>
+Je parlerai au colonel Cathcart dès que possible ! Laissez-nous faire, maintenant : vous en avez déjà assez fait.<end>
 
 =>q56_original
 That would be all for now, dear Corporal. I'll notify you as soon as something new happens. And... Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
 
 =>q56
-Ce serait tout pour le moment, cher caporal. Je vous préviendrai dès que quelque chose de nouveau se produit. Et... Le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez lui rendre visite.<end>
+Ce sera tout pour l'instant, cher caporal. Je vous préviendrai dès qu'il y aura du nouveau. Et... le sergent d'état-major Fraser *pourrait* avoir quelque chose pour vous. Allez donc le voir.<end>
 
 =>a57_original
 Not much, really. I still don't know his motives.<end>
 
 =>a57
-Pas grand-chose, vraiment. Je ne connais toujours pas ses motivations.<end>
+Pas grand-chose, vraiment. Je ne connais toujours pas ses motifs.<end>
 
 =>q58_original
 ::He nods a few times with a somewhat worried look on his face.:: Well, in that case, dear Corporal, you leave me no option but to inform the colonel of your findings. What happens next is up to him and, well, SFC Holloway; I only wish it doesn't end violently.<end>
 
 =>q58
-::Il hoche la tête plusieurs fois avec un air quelque peu inquiet sur le visage.:: Eh bien, dans ce cas, cher caporal, vous ne me laissez d'autre choix que d'informer le colonel de vos découvertes. Ce qui se passe ensuite dépend de lui et, bien sûr, du SFC Holloway ; Je souhaite seulement que ça ne se termine pas violemment.<end>
+::Il hoche plusieurs fois la tête, l'air un peu inquiet.:: Eh bien, dans ce cas, cher caporal, vous ne me laissez d'autre choix que d'informer le colonel. La suite dépend de lui et, eh bien, du SFC Holloway. Je souhaite seulement que ça ne finisse pas dans la violence.<end>
 
 =>q59_original
 That would be all for now, dear Corporal. I'll notify you as soon as something new happens.<end>
 
 =>q59
-Ce serait tout pour le moment, cher caporal. Je vous préviendrai dès que quelque chose de nouveau se produit.<end>
+Ce sera tout pour l'instant, cher caporal. Je vous préviendrai dès qu'il y aura du nouveau.<end>
 
 =>a60_original
 He was extremely uncooperative, and I was unable to learn anything of use, nor was I able to make any progress with that bloody-minded idiot.<end>
 
 =>a60
-Il était extrêmement peu coopératif et je n'ai pas pu apprendre quoi que ce soit d'utile, ni faire de progrès avec cet idiot à l'esprit sanglant.<end>
+Il n'a absolument pas coopéré. Je n'ai rien appris d'utile, et je n'ai fait aucun progrès avec cet obstiné d'idiot.<end>
 
 =>a61_original
 I had to neutralize everyone.<end>
 
 =>a61
-J'ai dû neutraliser tout le monde.<end>
+J'ai dû tous les neutraliser.<end>
 
 =>q62_original
 ::Consul seems saddened by your words.:: So, they are all dead. Ah, Corporal... I am greatly displeased by this, but know that I don't blame you for anything. You did what was necessary. I sincerely hope so.<end>
 
 =>q62
-::Le Consul semble attristé par vos propos.:: Donc, ils sont tous morts. Ah, Caporal... Cela me mécontente énormément, mais sachez que je ne vous reproche rien. Vous avez fait ce qu'il fallait. Je l'espère sincèrement.<end>
+::Le consul semble attristé par vos propos.:: Donc ils sont tous morts. Ah, caporal... Cela me déplaît profondément, mais sachez que je ne vous en veux pas. Vous avez fait le nécessaire. Du moins, je l'espère sincèrement.<end>
 
 =>q63_original
 Consider your mission completed. That would be all, Corporal.<end>
 
 =>q63
-Considérez votre mission accomplie. Ce serait tout, caporal.<end>
+Considérez votre mission accomplie. Ce sera tout, caporal.<end>
 
 =>a64_original
 Nothing. I'll come back later.<end>
@@ -418,13 +418,13 @@ Rien. Je reviendrai plus tard.<end>
 Have any other subjects you wish to discuss?<end>
 
 =>q65
-Avez-vous d'autres sujets que vous souhaiteriez aborder ?<end>
+Avez-vous d'autres sujets à aborder ?<end>
 
 =>a66_original
 Do you know anything about a former Black Eel member named Kaya? She was supposed to reach out to you, and I'm just wondering if she managed to do so.<end>
 
 =>a66
-Savez-vous quelque chose sur un ancien membre de Black Eel nommé Kaya ? Elle était censée vous contacter, et je me demande simplement si elle a réussi à le faire.<end>
+Savez-vous quelque chose d'une ancienne Black Eel, Kaya ? Elle devait prendre contact avec vous, et je me demande simplement si elle y est parvenue.<end>
 
 =>q67_original
 Kaya...? Yes, yes - the informant.
@@ -432,33 +432,33 @@ Kaya...? Yes, yes - the informant.
 You see, Corporal, due to her current - how shall I say - *status*, the information I can give you is rather limited. Rest assured, however, that she is perfectly well and that we've arranged for her, under Protectorate authorization, to be moved to a safe location for the time being.<end>
 
 =>q67
-Kaya...? Oui, oui - l'informateur.
+Kaya... ? Oui, oui : l'informatrice.
 
-Vous voyez, Caporal, en raison de son - comment dire - *statut* actuel, les informations que je peux vous donner sont plutôt limitées. Soyez toutefois assuré qu'elle va parfaitement bien et que nous avons pris des dispositions pour qu'elle, sous autorisation Protectorate, soit déplacée dans un endroit sûr pour le moment.<end>
+Voyez-vous, caporal, vu son *statut* actuel, comment dire, les informations que je peux vous donner sont assez limitées. Soyez toutefois $(#assuré/assurée) qu'elle va parfaitement bien, et que nous avons fait en sorte, sous autorisation du Protectorate, qu'elle soit transférée dans un lieu sûr, pour le moment.<end>
 
 =>q68_original
 Afterwards... Well, that is entirely up to Protectorate; she is now outside United Stations jurisdiction.<end>
 
 =>q68
-Après... Eh bien, cela dépend entièrement de Protectorate ; elle se trouve désormais hors de la juridiction des Stations Unies.<end>
+Ensuite... Eh bien, cela dépend entièrement du Protectorate ; elle est désormais hors de la juridiction United Stations.<end>
 
 =>a69_original
 What can you tell me about Fort Apogee?<end>
 
 =>a69
-Que pouvez-vous me dire sur Fort Apogee ?<end>
+Que pouvez-vous me dire sur Fort Apogee ?<end>
 
 =>q70_original
 While many associate Fort Apogee with the Protectorate military might, one must not forget that the United Stations consulate is located here. All North Underrail citizens, or, generally citizens from any station that is a member of the union, are always reminded that they can seek refuge here in case of emergency.<end>
 
 =>q70
-Bien que beaucoup associent Fort Apogee à la puissance militaire de Protectorate, il ne faut pas oublier que le consulat des Stations Unies se trouve ici. Il est toujours rappelé à tous les citoyens du Nord Underrail, ou généralement aux citoyens de toute station membre du syndicat, qu'ils peuvent chercher refuge ici en cas d'urgence.<end>
+Beaucoup associent Fort Apogee à la puissance militaire du Protectorate, mais il ne faut pas oublier que le consulat United Stations se trouve ici. Tous les citoyens de North Underrail, ou, plus largement, les citoyens de toute station membre de l'union, savent qu'ils peuvent y chercher refuge en cas d'urgence.<end>
 
 =>q71_original
 It's been five years since the base was built and, while we still haven't integrated any of the South Underrail stations, we've made enormous progress.<end>
 
 =>q71
-Cela fait cinq ans que la base a été construite et, même si nous n'avons toujours intégré aucune des stations Sud Underrail, nous avons fait d'énormes progrès.<end>
+Ça fait cinq ans que la base a été construite, et même si nous n'avons encore intégré aucune station de South Underrail, nous avons fait d'énormes progrès.<end>
 
 =>q72_original
 For example, take a look at Junkyard: We have an embassy there, and as you know, Junkyard is one of the most hostile places in the South.
@@ -466,9 +466,9 @@ For example, take a look at Junkyard: We have an embassy there, and as you know,
 Slowly but surely, we'll bring prosperity to this region. I truly believe it.<end>
 
 =>q72
-Par exemple, jetez un œil à Junkyard : nous y avons une ambassade, et comme vous le savez, Junkyard est l'un des endroits les plus hostiles du Sud.
+Prenez Junkyard, par exemple : nous y avons une ambassade, et comme vous le savez, Junkyard est l'un des endroits les plus hostiles du Sud.
 
-Lentement mais sûrement, nous apporterons la prospérité à cette région. Je le crois vraiment.<end>
+Lentement mais sûrement, nous apporterons la prospérité à cette région. J'y crois vraiment.<end>
 
 =>a73_original
 What can you tell me about Colonel Cathcart?<end>
@@ -480,25 +480,25 @@ Que pouvez-vous me dire sur le colonel Cathcart ?<end>
 Colonel Cathcart is the base commander of Fort Apogee. He is an incredibly competent individual, and I feel, and I really mean it, that I'm quite fortunate to be working with him. You see, the United Stations and Protectorate work closely on accomplishing our common goals. United Stations are concerned with diplomacy and integrations, Protectorate - with enforcing law and order. Therefore, it is essential that the two understand each other well.<end>
 
 =>q74
-Le Colonel Cathcart est le commandant de la base de Fort Apogee. C'est une personne incroyablement compétente et j'estime, et je le pense vraiment, que j'ai beaucoup de chance de travailler avec lui. Vous voyez, les Stations Unies et Protectorate travaillent en étroite collaboration pour atteindre nos objectifs communs. Les Stations Unies s'occupent de la diplomatie et des intégrations, Protectorate - du respect de la loi et de l'ordre. Il est donc essentiel que les deux se comprennent bien.<end>
+Le colonel Cathcart est le commandant de Fort Apogee. C'est un homme d'une compétence extraordinaire, et j'estime, vraiment, que j'ai beaucoup de chance de travailler avec lui. Voyez-vous, United Stations et le Protectorate travaillent ensemble à nos objectifs communs. United Stations s'occupe de diplomatie et d'intégrations, le Protectorate de faire respecter la loi et l'ordre. Il est donc essentiel que les deux se comprennent bien.<end>
 
 =>q75_original
 With that said... Colonel Cathcart can be a bit adamant when it comes to certain things, especially when it comes to the age old diplomatic versus combat approaches, but fortunately our disagreements were few and far between. And naturally, such things are bound to happen from time to time.<end>
 
 =>q75
-Cela dit... Le colonel Cathcart peut être un peu catégorique sur certaines choses, en particulier lorsqu'il s'agit des approches diplomatiques et militaires séculaires, mais heureusement, nos désaccords étaient rares. Et bien sûr, de telles choses arrivent forcément de temps en temps.<end>
+Cela dit... le colonel Cathcart peut se montrer un peu inflexible sur certains points, surtout sur le vieux débat diplomatie contre combat, mais heureusement nos désaccords ont été rares. Et naturellement, ce genre de chose arrive de temps à autre.<end>
 
 =>q76_original
 All in all, as far as I'm concerned, Fort Apogee has the best commander it could possibly have.<end>
 
 =>q76
-Dans l’ensemble, en ce qui me concerne, Fort Apogee possède le meilleur commandant possible.<end>
+Dans l'ensemble, pour ce qui me concerne, Fort Apogee a le meilleur commandant qu'il puisse avoir.<end>
 
 =>a77_original
 What can you tell me about CAU?<end>
 
 =>a77
-Que pouvez-vous me dire sur CAU ?<end>
+Que pouvez-vous me dire sur le CAU ?<end>
 
 =>q78_original
 ::Consul's face turns red the moment you mention CAU.:: Those dreadful, despicable... rrghh... I just can't believe how uncivil, audacious... impudent they are. Marching right into my office like that, pushing me out like I'm a nobody! I am the consul, damn it!
@@ -506,15 +506,15 @@ Que pouvez-vous me dire sur CAU ?<end>
 However, that is the least of their sins, dear Corporal, mark my words.<end>
 
 =>q78
-::Le visage du consul devient rouge dès que vous mentionnez CAU.:: Ces horribles, méprisables... rrghh... Je n'arrive pas à croire à quel point ils sont incivils, audacieux... impudents. En entrant dans mon bureau comme ça, en me poussant dehors comme si je n'étais personne ! Je suis le consul, bon sang !
+::Le visage du consul vire au rouge dès que vous mentionnez le CAU.:: Ces êtres affreux, méprisables... rrghh... Je n'arrive pas à croire à quel point ils sont incivils, audacieux... impudents. Débarquer dans mon bureau comme ça, me pousser dehors comme si je n'étais personne ! Je suis le consul, bon sang !
 
-Mais c'est là le moindre de leurs péchés, cher caporal, écoutez-moi bien.<end>
+Et ce n'est encore que le moindre de leurs péchés, cher caporal, retenez-le.<end>
 
 =>q79_original
 Just talking about them makes my blood boil.<end>
 
 =>q79
-Rien que d’en parler, mon sang bouillonne.<end>
+Rien que d'en parler, ça me fait bouillir le sang.<end>
 
 =>a80_original
 Goodbye.<end>
@@ -534,45 +534,45 @@ Le colonel Cathcart vous attend, $(context.player.Name).<end>
 Welcome to the United Stations consulate, $(context.player.Name). It is a pleasure to have you here.<end>
 
 =>q82
-::Le consul regarde son ordinateur portable lorsque vous entrez dans son bureau. Il y dit quelque chose avant de le mettre de côté et de se lever pour vous saluer. Même si certains traits de son visage trahissent son âge, que l'on soupçonne autour de quarante-cinquante ans, son physique athlétique et sa poignée de main énergique projettent l'image de quelqu'un de beaucoup plus jeune que cela. Il vous serre la main, sourit d'un sourire blanc presque identique à celui que vous avez vu sur l'Ambassadeur Athanas et parle.::
+::Le consul regarde son ordinateur portable quand vous entrez dans son bureau. Il y dit quelque chose, le pose, se lève pour vous accueillir. Certains traits trahissent son âge, que vous situez autour de quarante-cinquante ans, mais le physique athlétique et la poignée de main énergique donnent l'image de quelqu'un de bien plus jeune. Il vous serre la main, sourit d'un sourire blanc presque identique à celui de l'ambassadeur Athanas, et parle.::
 
-Bienvenue au consulat des Stations-Unis, $(context.player.Name). C'est un plaisir de vous accueillir ici.<end>
+Bienvenue au consulat United Stations, $(context.player.Name). C'est un plaisir de vous avoir ici.<end>
 
 =>a83_original
 It is a pleasure to meet you too, Consul Oliver.<end>
 
 =>a83
-C'est également un plaisir de vous rencontrer, Consul Oliver.<end>
+Le plaisir est aussi pour moi, consul Oliver.<end>
 
 =>q84_original
 So, it is mutual. ::He laughs.:: Make yourself comfortable, $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
 
 =>q84
-Donc c'est réciproque. ::Il rit.:: Installez-vous confortablement, $(context.player.Name). Cela a dû être un long voyage, de Junkyard à ici...<end>
+C'est donc réciproque. ::Il rit.:: Mettez-vous à l'aise, $(context.player.Name). Ça a dû être un long voyage, de Junkyard jusqu'ici...<end>
 
 =>a85_original
 Fort Apogee is most certainly not in the neighborhood, I can tell you that. <end>
 
 =>a85
-Fort Apogee n'est certainement pas dans le quartier, je peux vous le dire. <end>
+Fort Apogee n'est vraiment pas le quartier d'à côté, je peux vous le dire. <end>
 
 =>q86_original
 You are right, $(context.player.Name). It is not. We are separated from the lower region by Core City, and... you know what the situation is like there, I'm certain.<end>
 
 =>q86
-Vous avez raison, $(context.player.Name). Ce n'est pas. Nous sommes séparés de la région basse par Core City, et... vous savez quelle est la situation là-bas, j'en suis certain.<end>
+Vous avez raison, $(context.player.Name). Ce n'est pas le cas. Core City nous sépare de la région basse, et... vous savez ce qu'il en est, là-bas, j'en suis certain.<end>
 
 =>q87_original
 Shall we get down to business? The ambassador informed me that he told you about why you're here, or, better yet, what you will be doing here if you chose to join the Protectorate. Since you've made such a long journey here I have no doubts you'll soon become one of us, so to speak. However, you'll decide that upon discussing it with the colonel.<end>
 
 =>q87
-On passe aux choses sérieuses ? L'ambassadeur m'a informé qu'il vous avait expliqué pourquoi vous êtes ici, ou, mieux encore, ce que vous ferez ici si vous choisissez de rejoindre le Protectorate. Puisque vous avez fait un si long voyage jusqu'ici, je n'ai aucun doute que vous deviendrez bientôt l'un des nôtres, pour ainsi dire. Cependant, vous en déciderez après en avoir discuté avec le colonel.<end>
+Passons aux choses sérieuses ? L'ambassadeur m'a dit qu'il vous avait expliqué pourquoi vous êtes ici, ou, mieux, ce que vous ferez ici si vous choisissez de rejoindre le Protectorate. Vu le chemin que vous avez fait, je ne doute pas que vous serez bientôt des nôtres, pour ainsi dire. Vous en déciderez toutefois après en avoir parlé au colonel.<end>
 
 =>q88_original
 Now, do you have any additional questions before we move onto the next phase? Did you understand everything so far?<end>
 
 =>q88
-Maintenant, avez-vous des questions supplémentaires avant de passer à la phase suivante ? Avez-vous tout compris jusqu'à présent ?<end>
+Avez-vous d'autres questions avant de passer à l'étape suivante ? Avez-vous tout compris jusqu'ici ?<end>
 
 =>a89_original
 The ambassador told me I will be performing important tasks for the Protectorate. Can you tell me more about that?<end>
@@ -584,49 +584,49 @@ L'ambassadeur m'a dit que j'accomplirais des tâches importantes pour le Protect
 That question is more suited for the colonel. Excuse me, Colonel Cathcart - who will quite soon become your superior officer. Still, know that everything you do will be for the ultimate betterment of the region. Most military operations here relate to fighting bandits, or the dreadful Free Drones, again, all for the betterment of the citizenry and the region.<end>
 
 =>q90
-Cette question convient mieux au colonel. Excusez-moi, colonel Cathcart, qui deviendra bientôt votre officier supérieur. Sachez néanmoins que tout ce que vous faites aura pour but ultime d’améliorer la région. La plupart des opérations militaires ici concernent la lutte contre les bandits, ou le terrible Free Drones, encore une fois, le tout pour le bien des citoyens et de la région.<end>
+Cette question convient mieux au colonel. Pardon : le colonel Cathcart, qui sera bientôt votre supérieur. Sachez néanmoins que tout ce que vous ferez visera, au bout du compte, à améliorer la région. La plupart des opérations militaires, ici, visent les bandits, ou les affreux Free Drones, encore une fois pour le bien des habitants et de la région.<end>
 
 =>q91_original
 You will, as I was told, be tasked with performing things of greater importance.<end>
 
 =>q91
-Comme on me l’a dit, vous serez chargé d’accomplir des choses de plus grande importance.<end>
+On m'a dit que l'on vous confierait des affaires d'une importance plus grande.<end>
 
 =>a92_original
 Why did Ambassador Athanas send me to you, and not directly to the commanding officer of Fort Apogee?<end>
 
 =>a92
-Pourquoi l'ambassadeur Athanas m'a-t-il envoyé vers vous, et non directement vers le commandant de Fort Apogee ?<end>
+Pourquoi l'ambassadeur Athanas m'a-t-il $(#envoyé/envoyée) vers vous, et non directement au commandant de Fort Apogee ?<end>
 
 =>q93_original
 The reason for that is simple, $(context.player.Name): You will have a dual purpose here, let's call it like that. On one side, you are a member of South Gate Station, our trading partner, and hopefully one day, a full member. We already cooperate with Miss Vera Hale, but on a limited scale. With you here, we are building a closer diplomatic connection with SGS, and that is why it's desirable for the two of us to get to know each other well.<end>
 
 =>q93
-La raison en est simple, $(context.player.Name) : vous aurez ici un double objectif, appelons-le ainsi. D'un côté, vous êtes membre de South Gate Station, notre partenaire commercial, et, espérons-le, un jour, membre à part entière. Nous coopérons déjà avec Miss Vera Hale, mais à une échelle limitée. Avec vous ici, nous construisons une relation diplomatique plus étroite avec SGS, et c'est pourquoi il est souhaitable que nous apprenions à bien nous connaître.<end>
+La raison est simple, $(context.player.Name) : vous aurez ici un double rôle, appelons-le ainsi. D'un côté, vous êtes membre de South Gate Station, notre partenaire commercial, et, espérons-le, un jour, un membre à part entière. Nous coopérons déjà avec Miss Vera Hale, mais à une échelle limitée. Avec vous ici, nous tissons un lien diplomatique plus étroit avec SGS, et c'est pourquoi il est souhaitable que nous apprenions à bien nous connaître.<end>
 
 =>q94_original
 Also, we're taking a slight detour when it comes to you becoming a member of the armed forces. This is usually not the way the willing join Underrail Protectorate ranks, am I right? Don't worry, we've already convinced the colonel, and I'm sure he'll see your qualities quickly. Which brings us to the other part of that, ehm, dual purpose I was telling you about...<end>
 
 =>q94
-De plus, nous faisons un léger détour lorsqu'il s'agit de votre adhésion aux forces armées. Ce n’est généralement pas ainsi que se classent ceux qui souhaitent rejoindre Underrail Protectorate, n’est-ce pas ? Ne vous inquiétez pas, nous avons déjà convaincu le colonel, et je suis sûr qu'il verra rapidement vos qualités. Ce qui nous amène à l'autre partie de ce double objectif, euh, dont je vous parlais...<end>
+Et puis, nous prenons un léger détour pour ce qui est de votre entrée dans les forces armées. Ce n'est généralement pas comme ça que les volontaires rejoignent les rangs de l'Underrail Protectorate, n'est-ce pas ? Ne vous inquiétez pas, nous avons déjà convaincu le colonel, et je suis sûr qu'il verra vite vos qualités. Ce qui nous amène à l'autre volet de ce, euh, double rôle dont je vous parlais...<end>
 
 =>q95_original
 But I better leave that part to the good colonel to explain. He's certainly better suited for it than I am.<end>
 
 =>q95
-Mais je ferais mieux de laisser cette partie au bon colonel le soin de s'expliquer. Il est certainement mieux placé que moi pour cela.<end>
+Mais je ferais mieux de laisser cette partie au bon colonel. Il est certainement mieux placé que moi.<end>
 
 =>a96_original
 Who is in charge of Fort Apogee?<end>
 
 =>a96
-Qui est en charge de Fort Apogee ?<end>
+Qui commande Fort Apogee ?<end>
 
 =>q97_original
 Colonel Frederick Cathcart. He's been in charge since Fort Apogee's deployment.<end>
 
 =>q97
-Colonel Frederick Cathcart. Il est aux commandes depuis le déploiement de Fort Apogee.<end>
+Le colonel Frederick Cathcart. Il commande depuis le déploiement de Fort Apogee.<end>
 
 =>q98_original
 You will meet him soon enough.<end>
@@ -638,43 +638,43 @@ Vous le rencontrerez bien assez tôt.<end>
 I'm good, we can move on.<end>
 
 =>a99
-Ça va, on peut passer à autre chose.<end>
+Ça va, on peut continuer.<end>
 
 =>q100_original
 Excellent! That's important. Everything should be clear. Now we can proceed.<end>
 
 =>q100
-Parfait ! C'est important. Tout devrait être clair. Maintenant nous pouvons continuer.<end>
+Excellent ! C'est important. Tout devrait être clair. Nous pouvons continuer.<end>
 
 =>q101_original
 The next step should be meeting the colonel. Now, I've already talked to him, about the train, Free Drones, the political situation, et cetera. Just so you know that he's familiar with the details.<end>
 
 =>q101
-La prochaine étape devrait être de rencontrer le colonel. Je lui ai déjà parlé du train, Free Drones, de la situation politique, et cetera. Pour que vous sachiez qu'il connaît les détails.<end>
+L'étape suivante, c'est de rencontrer le colonel. Je lui ai déjà parlé du train, des Free Drones, de la situation politique, et cetera. Pour que vous sachiez qu'il connaît les détails.<end>
 
 =>q102_original
 You should see him now; his office is right next to mine. After you're done with him, please come see me once you have the time. I have something I wish to discuss with you.<end>
 
 =>q102
-Vous devriez le voir maintenant, son bureau est juste à côté du mien. Après avoir fini, venez me voir une fois que vous aurez le temps. J'ai quelque chose à vous dire.<end>
+Vous devriez le voir maintenant ; son bureau est juste à côté du mien. Quand vous aurez fini avec lui, venez me voir dès que vous aurez un moment. J'ai quelque chose à vous dire.<end>
 
 =>q103_original
 That is that, $(context.player.Name). Talk to the colonel and... we will see each other later. Au revoir.<end>
 
 =>q103
-C'est ça, $(context.player.Name). Parlez au colonel et... on se verra plus tard. Au revoir.<end>
+Voilà, $(context.player.Name). Parlez au colonel et... nous nous reverrons plus tard. Au revoir.<end>
 
 =>a104_original
 I have no problems moving around the Underrail. I found this place quickly.<end>
 
 =>a104
-Je n'ai aucun problème à me déplacer autour du Underrail. J'ai vite trouvé cet endroit.<end>
+Je n'ai aucun mal à me déplacer dans l'Underrail. J'ai trouvé l'endroit rapidement.<end>
 
 =>q105_original
 $(#Bravo/Brava)! $(#Bravo/Brava), $(context.player.Name). I like your spirit.<end>
 
 =>q105
-$(#Bravo/Brava) ! $(#Bravo/Brava), $(context.player.Name). J'aime ton esprit.<end>
+$(#Bravo/Brava) ! $(#Bravo/Brava), $(context.player.Name). J'aime votre cran.<end>
 
 =>a106_original
 Pleasure to see me? I don't think I deserve such praise.<end>
@@ -686,43 +686,43 @@ Heureux de me voir ? Je ne pense pas mériter de telles louanges.<end>
 Now, now, don't say that, $(context.player.Name). You do deserve it. Ambassador Athanas explained everything to me already, regarding the missing train and how you... hmm, how should I say... how you were a critical part of the investigation.<end>
 
 =>q107
-Ne dis pas ça, $(context.player.Name). Tu le mérites. L'ambassadeur Athanas m'a déjà tout expliqué, concernant le train manquant et comment vous... comment devrais-je dire... comment vous étiez une partie critique de l'enquête.<end>
+Allons, ne dites pas ça, $(context.player.Name). Vous le méritez. L'ambassadeur Athanas m'a déjà tout expliqué, au sujet du train disparu, et de la façon dont vous... hmm, comment dire... dont vous avez été une pièce maîtresse de l'enquête.<end>
 
 =>q108_original
 But, all in due time. First, make yourself comfortable, $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
 
 =>q108
-Mais en temps voulu. D'abord, mettez-vous à l'aise, $(context.player.Name). Ça a dû être un long voyage, de Junkyard à ici...<end>
+Mais tout en temps voulu. D'abord, mettez-vous à l'aise, $(context.player.Name). Ça a dû être un long voyage, de Junkyard jusqu'ici...<end>
 
 =>a109_original
 Neat.<end>
 
 =>a109
-Néant.<end>
+Parfait.<end>
 
 =>q110_original
 ::Consul pauses for a second before continuing.:: Well, make yourself comfortable, dear $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
 
 =>q110
-::Le consul s'arrête une seconde avant de continuer.:: Mettez-vous à l'aise, chère $(context.player.Name). Ça a dû être un long voyage, de Junkyard à ici...<end>
+::Le consul s'arrête une seconde avant de reprendre.:: Eh bien, mettez-vous à l'aise, $(#cher/chère) $(context.player.Name). Ça a dû être un long voyage, de Junkyard jusqu'ici...<end>
 
 =>q111_original
 Ah, Corporal, glad you are here. I have some news which you will find interesting...<end>
 
 =>q111
-Ravi que vous soyez là. J'ai quelques nouvelles que vous trouverez intéressantes...<end>
+Ah, caporal, content que vous soyez là. J'ai des nouvelles qui devraient vous intéresser...<end>
 
 =>q112_original
 After you and I spoke, I went to see the Colonel and told him everything we had talked about. He dispatched armed soldiers toward Dolos Center, and... fortunately, SFC Holloway and his men decided to put down their weapons and surrender peacefully. They are currently being held in custody, awaiting court-martial.<end>
 
 =>q112
-Après que nous ayons parlé, je suis allé voir le colonel et lui ai dit tout ce dont nous avions parlé. Il a envoyé des soldats armés vers Dolos Center, et... heureusement, SFC Holloway et ses hommes ont décidé de déposer leurs armes et de se rendre pacifiquement. Ils sont actuellement placés en détention provisoire en attendant la cour martiale.<end>
+Après notre conversation, je suis allé voir le colonel et je lui ai tout rapporté. Il a envoyé des soldats armés vers Dolos Center, et... heureusement, le SFC Holloway et ses hommes ont décidé de déposer les armes et de se rendre sans violence. Ils sont actuellement en détention, en attente de cour martiale.<end>
 
 =>q113_original
 Even though I explained him the SFC's reasons, which you had relayed to me, I'm afraid I wasn't able to ease the situation, at least judging by his response. Desertion is desertion, he said, and it deserves severe punishment. He didn't mention death penalty, thankfully, and I will do my best that he doesn't. It's not over yet.<end>
 
 =>q113
-Même si je lui ai expliqué les raisons de la SFC, que vous m'aviez relayée, j'ai bien peur de ne pas être en mesure d'atténuer la situation, du moins à en juger par sa réponse. La désertion est une désertion, dit-il, et elle mérite une punition sévère. Il n'a pas mentionné la peine de mort, heureusement, et je ferai de mon mieux pour qu'il ne le fasse pas. Ce n'est pas encore fini.<end>
+Même si je lui ai expliqué les raisons du SFC, que vous m'aviez transmises, j'ai bien peur de n'avoir pas pu calmer les choses, à en juger par sa réponse. La désertion est la désertion, a-t-il dit, et elle mérite une peine sévère. Il n'a pas parlé de peine de mort, heureusement, et je ferai de mon mieux pour qu'il n'en parle pas. Ce n'est pas encore fini.<end>
 
 =>q114_original
 All we can do now is wait. Again, thank you for your help, Corporal.
@@ -730,19 +730,18 @@ All we can do now is wait. Again, thank you for your help, Corporal.
 What did you want to discuss with me, now?<end>
 
 =>q114
-Tout ce qu'on peut faire maintenant c'est attendre. Encore une fois, merci de votre aide, caporal.
+Tout ce qu'on peut faire maintenant, c'est attendre. Encore une fois, merci de votre aide, caporal.
 
-Qu'est-ce que tu voulais me dire ?<end>
+Que vouliez-vous m'entretenir, à présent ?<end>
 
 =>q115_original
 Still, no matter what I told the colonel, I'm afraid I wasn't able to ease the situation, at least judging by his response. Desertion is desertion, he said, and it deserves severe punishment. He didn't mention death penalty, thankfully, and I will do my best that he doesn't. It's not over yet.<end>
 
 =>q115
-Quoi qu'il en soit, peu importe ce que j'ai dit au colonel, j'ai bien peur que je n'aie pas été en mesure d'atténuer la situation, du moins à en juger par sa réponse. La désertion est une désertion, dit-il, et elle mérite une punition sévère. Il n'a pas mentionné la peine de mort, heureusement, et je ferai de mon mieux pour qu'il ne le fasse pas. Ce n'est pas encore fini.<end>
+Quoi que j'aie dit au colonel, j'ai bien peur de n'avoir pas pu calmer les choses, à en juger par sa réponse. La désertion est la désertion, a-t-il dit, et elle mérite une peine sévère. Il n'a pas parlé de peine de mort, heureusement, et je ferai de mon mieux pour qu'il n'en parle pas. Ce n'est pas encore fini.<end>
 
 =>q116_original
 Ah, Corporal, come on in. What can I do for you?<end>
 
 =>q116
-Caporal, entrez. Que puis-je pour vous ?<end>
-
+Ah, caporal, entrez. Que puis-je faire pour vous ?<end>

@@ -14,7 +14,7 @@
 ::Stares into distance.::<end>
 
 =>q3
-::Je regarde à distance.::<end>
+::Fixe le vide.::<end>
 
 =>q4_original
 At least I'll die...<end>
@@ -44,7 +44,7 @@ Je suis... vivant.<end>
 Bastard.<end>
 
 =>q8
-Salope.<end>
+Salaud.<end>
 
 =>q9_original
 Not now, damn it!<end>
@@ -110,43 +110,43 @@ Pouvez-vous jeter un oeil à mes blessures ?<end>
 ::He reaches for his scalpel but changes his mind. You aren't sure whether it was for you or him, though.::<end>
 
 =>q19
-::Il cherche son scalpel mais change d'avis. Tu ne sais pas si c'était pour toi ou lui.::<end>
+::Il cherche son scalpel mais change d'avis. Vous n'êtes pas sûr$(#/e) si c'était pour vous ou pour lui.::<end>
 
 =>a20_original
 ::Reluctantly allow him to treat your injuries.::<end>
 
 =>a20
-::Laissez-le traiter vos blessures.::<end>
+::Le laisser soigner vos blessures, à contrecœur.::<end>
 
 =>q21_original
 Mhm...<end>
 
 =>q21
-C'est...<end>
+Mhm...<end>
 
 =>a22_original
 ::Let him treat your injuries.::<end>
 
 =>a22
-::Laisse-le soigner tes blessures.::<end>
+::Le laisser soigner vos blessures.::<end>
 
 =>q23_original
 ::He sighs.:: Show me.<end>
 
 =>q23
-::Il soupire.:: Montre-moi.<end>
+::Il soupire.:: Montrez-moi.<end>
 
 =>q24_original
 Certainly. Show me where it hurts...<end>
 
 =>q24
-Certainement. Montre-moi où ça fait mal...<end>
+Bien sûr. Montrez-moi où ça fait mal...<end>
 
 =>a25_original
 I wanted to ask you something.<end>
 
 =>a25
-Je voulais te demander quelque chose.<end>
+Je voulais vous demander quelque chose.<end>
 
 =>q26_original
 ::He shakes his head.::<end>
@@ -202,7 +202,7 @@ Mmm?<end>
 =>q33
 ::Il trie encore des fournitures.::
 
-- Oui.<end>
+Mmm ?<end>
 
 =>q34_original
 <end>
@@ -244,13 +244,13 @@ Merci de m'avoir balancé.<end>
 Hey, hey, hey, don't drag me into this. <end>
 
 =>q40
-Hey, hey, hey, ne me traîne pas dans ça. <end>
+Hé, hé, hé, me mélangez pas là-dedans. <end>
 
 =>q41_original
 You brought this on yourself. <end>
 
 =>q41
-Tu as apporté ça toi-même. <end>
+Vous l'avez cherché. <end>
 
 =>q42_original
 Now, do you need anything before you leave or what?<end>
@@ -276,7 +276,7 @@ You were doing good so far, but you messed up. That's it.
 Now, is there anything you need? <end>
 
 =>q45
-Tu t'en sortais bien jusqu'ici, mais tu as merdé. C'est ça.
+Vous vous en sortiez bien jusqu'ici, mais vous avez merdé. C'est tout.
 
 Vous avez besoin de quelque chose ? <end>
 
@@ -284,7 +284,7 @@ Vous avez besoin de quelque chose ? <end>
 Oh, and thanks for the help. ::He gestures smoking.:: Appreciate it.<end>
 
 =>q46
-Et merci pour l'aide. ::Il se met à fumer.:: l'apprécie.<end>
+Et merci pour l'aide. ::Il mime une cigarette.:: J'apprécie.<end>
 
 =>a47_original
 No one to blame but myself.<end>
@@ -314,7 +314,7 @@ Personne à blâmer sauf le chef lui-même.<end>
 Hey, you brought this on yourself. <end>
 
 =>q51
-Tu as apporté ça toi-même. <end>
+Vous l'avez cherché. <end>
 
 =>a52_original
 About Chief Brigg's promotion to Major Piggs?<end>
@@ -326,13 +326,13 @@ A propos de la promotion du chef Brigg à Major Piggs ?<end>
 Look, look, I'm not in the mood to listen to your sulking. <end>
 
 =>q53
-Écoute, je ne suis pas d'humeur à t'écouter bouder. <end>
+Écoutez, je ne suis pas d'humeur à vous entendre râler. <end>
 
 =>q54_original
 Hey. Have some dignity. <end>
 
 =>q54
-Bonjour. Ayez une certaine dignité. <end>
+Hé. Un peu de dignité. <end>
 
 =>a55_original
 I need some supplies. ::Barter.::<end>
@@ -344,19 +344,19 @@ J'ai besoin de fournitures. ::Troc.::<end>
 Came to get fixed up before I leave.<end>
 
 =>a56
-Je suis venu me réparer avant de partir.<end>
+Je suis venu me faire soigner avant de partir.<end>
 
 =>q57_original
 Mhm. Show me.<end>
 
 =>q57
-Oui. Montre-moi.<end>
+Mhm. Montrez-moi.<end>
 
 =>a58_original
 Goodbye, Doc. Take care.<end>
 
 =>a58
-Au revoir, Doc. Prends soin de toi.<end>
+Au revoir, Doc. Prenez soin de vous.<end>
 
 =>a59_original
 ::Leave.::<end>
@@ -368,13 +368,13 @@ Au revoir, Doc. Prends soin de toi.<end>
 Came to stock up on medicine? <end>
 
 =>q60
-Tu es venu acheter des médicaments ? <end>
+Vous venez vous ravitailler en médicaments ? <end>
 
 =>q61_original
 ::He sighs.:: Go see Chief Briggs. He wants to talk to you.<end>
 
 =>q61
-::Il soupire.:: Allez voir Chef Briggs. Il veut te parler.<end>
+::Il soupire.:: Allez voir Chief Briggs. Il veut vous parler.<end>
 
 =>q62_original
 <end>
@@ -408,7 +408,7 @@ Qu'est-ce qui se passe ? On sort d'ici.<end>
 ::He kicks the bag in anger, sending its contents all over the place.:: We're leaving it... but is it leaving us? ::He grabs his head.:: I can't shake it off, this... this...<end>
 
 =>q66
-::Il frappe le sac en colère, en envoyant son contenu partout.:: On la quitte... mais est-ce qu'elle nous quitte ? ::Il se prend la tête.:: Je ne peux pas le secouer, ceci... ceci...<end>
+::Il frappe le sac en colère, en envoyant son contenu partout.:: On la quitte... mais est-ce qu'elle nous quitte ? ::Il se prend la tête.:: Je n'arrive pas à m'en débarrasser, ce... ce...<end>
 
 =>q67_original
 ::He pauses, holding a pill box in his hand he was ready to throw away. He looks at it, shakes it, then returns it to one of the first aid kits.:: 
@@ -418,7 +418,7 @@ I just need a proper cigarette again. Or a dozen. Not those... things you gave m
 =>q67
 ::Il s'arrête, tenant une boîte à pilules dans sa main, il était prêt à jeter. Il le regarde, le secoue, puis le renvoie à l'un des kits de premiers soins.::
 
-J'ai juste besoin d'une bonne cigarette. Ou une douzaine. Pas ces... choses que tu m'as données, mais mon préféré, Lucky Shot.<end>
+J'ai juste besoin d'une bonne cigarette. Ou une douzaine. Pas ces... trucs que vous m'avez donnés, mais ma favorite : Lucky Shot.<end>
 
 =>q68_original
 <end>
@@ -436,7 +436,7 @@ Accroche-toi, Doc, juste un peu plus.<end>
 ::He sighs, closing a first aid kit and placing it inside a box.:: What... do you need? <end>
 
 =>q70
-::Il soupire, ferme un kit de premiers soins et le place dans une boîte.:: De quoi as-tu besoin ? <end>
+::Il soupire, ferme un kit de premiers soins et le place dans une boîte.:: De quoi avez-vous besoin ? <end>
 
 =>a71_original
 I came here for some medical supplies before you pack it all up.<end>
@@ -448,7 +448,7 @@ Je suis venu ici pour du matériel médical avant que vous n'emballez tout.<end>
 ::He nods.:: Hey, $(context.player.Name) - do you want that implant out? I happen to have an extraction tool here. Should work.<end>
 
 =>q72
-::Il acquiesce.:: Hey, $(context.player.Name) - Voulez-vous que cet implant soit éteint ? J'ai un outil d'extraction ici. Ça devrait marcher.<end>
+::Il hoche la tête.:: Hé, $(context.player.Name) - vous voulez que je vous retire cet implant ? J'ai un outil d'extraction, ici. Ça devrait marcher.<end>
 
 =>a73_original
 Sure.<end>
@@ -482,7 +482,7 @@ He wipes the blood off it and hands it to you.:: Take it.<end>
 =>q77
 ::Mais la procédure est courte, la douleur encore plus - si un peu plus sévère que vous auriez aimé: Le tube aspire dans l'implant de micropuce, et après avoir pulvérisé et pansé votre plaie, le médecin le retire de l'autre extrémité de l'appareil.
 
-Il essuie le sang et te le donne.:: Prends-le.<end>
+Il essuie le sang et vous le tend.:: Prenez-le.<end>
 
 =>q78_original
 ::He cleans the extraction device, his stare lingering on the deadly-looking needles. He then sighs and puts it away.:: <end>
@@ -518,7 +518,7 @@ Doc, pourriez-vous implanter une puce dans ma main ?<end>
 Are you... out of your mind? You want to put... Wait, what implant? NFT's?<end>
 
 =>q83
-Tu es... folle ? Tu veux dire... Attends, quel implant ? Chez NFT ?<end>
+Vous êtes... $(#fou/folle) ? Vous voulez mettre... Attendez, quel implant ? Celui de NFT ?<end>
 
 =>a84_original
 ::[Intelligence]:: Yes. I can't get past a bioscanning chamber at the military base to the north, and it has to be because I'm using the arm, yet without the arm I can't get authorized. So maybe if I implant the chip in my own hand I'll be able to pass the scan.<end>
@@ -598,7 +598,7 @@ Le chef est au courant ?<end>
 ::[Persuade]:: No. But unless I appease these muties somehow their island's going to turn into a war zone and he's never going to get that implant.<end>
 
 =>a95
-::[Persuader]:: No. Mais à moins d'apaiser ces muties, leur île va devenir une zone de guerre et il n'aura jamais cet implant.<end>
+::[Persuade]:: No. Mais à moins d'apaiser ces muties, leur île va devenir une zone de guerre et il n'aura jamais cet implant.<end>
 
 =>q96_original
 ::He sighs.:: <end>
@@ -610,7 +610,7 @@ Le chef est au courant ?<end>
 I see your point...<end>
 
 =>q97
-Je vois votre point...<end>
+Je vois ce que vous voulez dire...<end>
 
 =>q98_original
 ::He is silent.::<end>
@@ -824,7 +824,7 @@ Parlez-moi de ce trouble d'anxiété que les Sudistes semblent souffrir le plus.
 I've got to return to my patients. I don't have time to go into this.<end>
 
 =>q130
-Je dois retourner chez mes patients. Je n'ai pas le temps d'y aller.<end>
+Je dois retourner à mes patients. Je n'ai pas le temps de m'étendre là-dessus.<end>
 
 =>q131_original
 Not now...<end>
@@ -842,7 +842,7 @@ Pas maintenant...<end>
 Here's the deal, and it's quite simple: You know what agoraphobia is, right?<end>
 
 =>q133
-Voici le marché, et c'est assez simple: Tu sais ce qu'est l'agoraphobie ?<end>
+Voilà le deal, et c'est simple : vous savez ce qu'est l'agoraphobie ?<end>
 
 =>a134_original
 Fear of big places.<end>
@@ -900,7 +900,7 @@ Mais la plupart d'entre vous ne le sont pas, et certains ne peuvent pas le faire
 You got it. Chief Briggs was very angry with Ladelman over the people he found. Ladelman couldn't have known this was going to happen, of course, but damage has been done. It was serious. Very bad for productivity and morale.<end>
 
 =>q142
-C'est bon. Le chef Briggs était très en colère contre Ladelman pour les gens qu'il a trouvés. Ladelman ne pouvait pas savoir que cela allait arriver, bien sûr, mais des dégâts ont été causés. C'était sérieux. Très mauvais pour la productivité et le moral.<end>
+C'est bon. Chief Briggs en voulait beaucoup à Ladelman pour les gens qu'il avait recrutés. Ladelman ne pouvait pas savoir que cela allait arriver, bien sûr, mais des dégâts ont été causés. C'était sérieux. Très mauvais pour la productivité et le moral.<end>
 
 =>q143_original
 These <end>
@@ -1058,7 +1058,7 @@ Mais en ce moment plus de la moitié du camp rêve des mêmes rêves. Les gens d
 ::[Intelligence] or [Thought Control]:: Do you think there may be some "deliberate" influence?<end>
 
 =>a167
-::[Intelligence] ou [Traitement]:: Pensez-vous qu'il peut y avoir une influence "délibérée" ?<end>
+::[Intelligence] ou [Thought Control]:: Pensez-vous qu'il peut y avoir une influence "délibérée" ?<end>
 
 =>q168_original
 What do you mean exactly?<end>
@@ -1166,7 +1166,7 @@ Oui. Je n'ai aucun sens du temps ici, mais... ::Il soupire.:: Récemment. C'est 
 ::[Intelligence] or [Thought Control]:: I recently killed a native high shaman. What if he was the one doing this?<end>
 
 =>a185
-::[Intelligence] ou [Traitement]:: J'ai récemment tué un chaman natif. Et s'il faisait ça ?<end>
+::[Intelligence] ou [Thought Control]:: J'ai récemment tué un chaman natif. Et s'il faisait ça ?<end>
 
 =>q186_original
 Mmm... ::He pauses.:: I don't know what to think anymore. My guess was that it was some form of a collective mental state - collective anxiety. But now...<end>
@@ -1292,7 +1292,7 @@ Comme... ?<end>
 You feel funny, you talk to me. Got it?<end>
 
 =>q206
-Tu te sens drôle, tu me parles. Compris ?<end>
+Vous vous sentez bizarre, vous me parlez. Compris ?<end>
 
 =>a207_original
 I'm doing fine. Does it mean I'm tough?<end>
@@ -1344,19 +1344,19 @@ C'est un type de phobie, un trouble d'anxiété, où une personne perçoit l'env
 ::He sighs.:: Right.<end>
 
 =>q214
-::Il soupire.:: Droite.<end>
+::Il soupire.:: D'accord.<end>
 
 =>a215_original
 You smoke.<end>
 
 =>a215
-Tu fumes.<end>
+Vous fumez.<end>
 
 =>q216_original
 You got a problem with that?<end>
 
 =>q216
-Ça te pose un problème ?<end>
+Ça vous pose un problème ?<end>
 
 =>a217_original
 No, just an observation.<end>
@@ -1398,13 +1398,13 @@ It's none of your business whether I smoke, sniff or lick psychoactive substance
 It is, because you're supposed to treat me.<end>
 
 =>a223
-Parce que tu es censé me traiter.<end>
+Parce que vous êtes censé me soigner.<end>
 
 =>q224_original
 Well, if you don't like it, go and get treatment somewhere else, or treat yourself.<end>
 
 =>q224
-Si tu n'aimes pas ça, va te faire soigner ailleurs, ou traite-toi.<end>
+Si ça ne vous plaît pas, allez vous faire soigner ailleurs, ou soignez-vous vous-même.<end>
 
 =>a225_original
 I suppose it isn't.<end>
@@ -1422,13 +1422,13 @@ Je suppose que ça ne l'est pas.<end>
 It's not good for you.<end>
 
 =>a227
-Ce n'est pas bon pour toi.<end>
+Ce n'est pas bon pour vous.<end>
 
 =>q228_original
 Thanks for illuminating me.<end>
 
 =>q228
-Merci de m'avoir éclairée.<end>
+Merci de m'avoir éclairé.<end>
 
 =>a229_original
 I enjoy them too.<end>
@@ -1488,7 +1488,7 @@ Vous êtes médecin ?<end>
 ::[Doctor]:: Yes I am.<end>
 
 =>a238
-::[Docteur]:: Oui.<end>
+::[Doctor]:: Oui.<end>
 
 =>q239_original
 Is that so?<end>
@@ -1558,7 +1558,7 @@ Disons que je suis aussi bon pour sauver des vies que pour les prendre.<end>
 ::[Doctor]:: I am a doctor as well.<end>
 
 =>a249
-::[Docteur]:: Je suis médecin aussi.<end>
+::[Doctor]:: Je suis médecin aussi.<end>
 
 =>q250_original
 , a couple of sec-medics and myself. That's the medical team.<end>
@@ -1664,7 +1664,7 @@ La mort.<end>
 Wanna cigar?<end>
 
 =>a266
-Tu veux du cigare ?<end>
+Vous voulez un cigare ?<end>
 
 =>q267_original
 Look, I don't... ::Then you show him that you actually have it. His mustache makes way for the appearance of glistening yellow teeth which constitute what some would call a smile.::
@@ -1672,7 +1672,7 @@ Look, I don't... ::Then you show him that you actually have it. His mustache mak
 Oh. I... need that.<end>
 
 =>q267
-Ecoute, je ne... ::Alors montre-lui que tu l'as. Sa moustache fait place à l'apparition de dents jaunes brillantes qui constituent ce que certains appelleraient un sourire.::
+Écoutez, je ne... ::Puis vous lui montrez que vous l'avez vraiment. Sa moustache fait place à l'apparition de dents jaunes brillantes qui constituent ce que certains appelleraient un sourire.::
 
 Oh. J'en ai besoin.<end>
 
@@ -1692,13 +1692,13 @@ Prends-le. C'est à toi.<end>
 For free? You don't want any money?<end>
 
 =>q270
-Gratuit ? Tu ne veux pas d'argent ?<end>
+Gratuit ? Vous ne voulez pas d'argent ?<end>
 
 =>a271_original
 Yup. It's free. ::Give him the cigar.::<end>
 
 =>a271
-Oui. C'est gratuit. ::Donne-lui le cigare.::<end>
+Oui. C'est gratuit. ::Lui donner le cigare.::<end>
 
 =>q272_original
 <end>
@@ -1788,13 +1788,13 @@ Et bien... Très bien. C'est gentil.<end>
 I have some spare medicine I could offer you: Some irongut pills - good against poisoning; a couple of coagulation shots - stops bleeding; and two hypercerebrix pills - stimulates your analytic cognition, helps your brain solve problems, to put it in layman's terms. Or if you'd like I can give you some antidotes.<end>
 
 =>q284
-J'ai quelques médicaments de rechange que je pourrais vous offrir: Quelques pilules de ronflement - bon contre l'empoisonnement; quelques injections de coagulation - arrêtent de saigner; et deux pilules d'hypercerebrix - stimule votre cognition analytique, aide votre cerveau à résoudre les problèmes, pour le mettre en termes laïcs. Ou si vous voulez que je vous donne des antidotes.<end>
+J'ai quelques médicaments de rechange que je pourrais vous offrir: Quelques pilules irongut - contre l'empoisonnement ; quelques injections de coagulation - ça arrête le saignement ; et deux pilules hypercerebrix - stimule votre cognition analytique, aide votre cerveau à résoudre les problèmes, pour le mettre en termes laïcs. Ou si vous voulez que je vous donne des antidotes.<end>
 
 =>a285_original
 Give me some ironguts.<end>
 
 =>a285
-Donne-moi des ronfles.<end>
+Donnez-moi des ironguts.<end>
 
 =>q286_original
 <end>
@@ -1860,7 +1860,7 @@ Comme ça ?<end>
 It's yours for one hundred charons.<end>
 
 =>a296
-C'est à toi pour cent charons.<end>
+C'est à vous pour cent charons.<end>
 
 =>q297_original
 ::He reaches inside his satchel and just pours coins into your hands.::
@@ -1876,7 +1876,7 @@ That should be enough... ::His bloodshot eyes are tracking the cigar as you hand
 ::[Mercantile]:: It's yours for two hundred charons.<end>
 
 =>a298
-::[Mercantile]:: C'est à toi pour 200 charons.<end>
+::[Mercantile]:: C'est à vous pour deux cents charons.<end>
 
 =>q299_original
 <end>
@@ -1964,7 +1964,7 @@ Ils coûtent cher dans le Sud.
 ::[Mercantile]:: It's yours for three hundred charons.<end>
 
 =>a312
-::[Mercantile]:: C'est à toi pour 300 charons.<end>
+::[Mercantile]:: C'est à vous pour trois cents charons.<end>
 
 =>q313_original
 <end>
@@ -2124,7 +2124,7 @@ Maintenant... Si les indigènes ont quelque chose à voir avec tout ça, comme v
 Gotta go, Doc. Take care.<end>
 
 =>a336
-Faut y aller, Doc. Prends soin de toi.<end>
+Faut y aller, Doc. Prenez soin de vous.<end>
 
 =>q337_original
 <end>
@@ -2148,7 +2148,7 @@ Faut y aller, Doc. Prends soin de toi.<end>
 ::He sighs.:: You too.<end>
 
 =>q340
-::Il soupire.:: Toi aussi.<end>
+::Il soupire.:: Vous aussi.<end>
 
 =>q341_original
 ::He then cleans and puts away the extraction device.:: <end>
@@ -2166,13 +2166,13 @@ J'ai failli oublier ça. Sortons ce truc.<end>
 No. Might need it still.<end>
 
 =>a343
-C'est pas vrai. Il pourrait en avoir besoin.<end>
+Non. J'en aurai peut-être encore besoin.<end>
 
 =>q344_original
 It's your call. If you change your mind before we pack up, see me.<end>
 
 =>q344
-C'est à toi de décider. Si tu changes d'avis avant qu'on fasse ses valises, vois-moi.<end>
+C'est vous qui voyez. Si vous changez d'avis avant qu'on plie bagage, venez me voir.<end>
 
 =>a345_original
 I'll keep it as a souvenir.<end>
@@ -2214,13 +2214,13 @@ Un peu, oui.<end>
 I need you to patch me up before we leave.<end>
 
 =>a351
-J'ai besoin que tu me corriges avant qu'on parte.<end>
+J'ai besoin que vous me recousiez avant qu'on parte.<end>
 
 =>a352_original
 Just stopped by to see you. Goodbye.<end>
 
 =>a352
-Je suis passé te voir. Au revoir.<end>
+Je passais vous voir. Au revoir.<end>
 
 =>q353_original
 ::He takes a deep breath and calms down.:: Yes... Yes, we're getting out of here.<end>
@@ -2406,7 +2406,7 @@ Tu m'as blessé ou juste perdu mon temps ?<end>
 Oh, I'm fine. Healthy as a hopper.<end>
 
 =>a379
-Je vais bien. En bonne santé comme une trémie.<end>
+Je vais bien. En bonne santé comme une sauteur.<end>
 
 =>q380_original
 Then why are you here?<end>

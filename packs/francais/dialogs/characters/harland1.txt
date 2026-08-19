@@ -2,13 +2,13 @@
 ::You come up to a short, bull-necked man ::<end>
 
 =>q1
-::Tu arrives à un petit homme au cou de taureau::<end>
+::Vous approchez d'un homme petit, au cou de taureau ::<end>
 
 =>q2_original
 ::staring at his security monitors, one of them switched off and showing nothing but the reflection of his own concerned face as well as an uninteligible figure walking up behind him. His eyes widen, and he ::<end>
 
 =>q2
-::regardant ses moniteurs de sécurité, l'un d'eux s'est éteint et n'a montré que le reflet de son propre visage concerné, ainsi qu'une figure inéligible se dirigeant derrière lui. Ses yeux s'élargissent, et il::<end>
+::fixé sur ses moniteurs de sécurité. L'un d'eux est éteint : on n'y voit que le reflet de son air inquiet, et une silhouette inintelligible qui s'approche dans son dos. Ses yeux s'écarquillent, et il ::<end>
 
 =>q3_original
 ::recoils as soon as he becomes aware that he is not alone. One quiet moment passes, and then he speaks.::
@@ -16,15 +16,15 @@
 Whoooooooooo! You... you scared the hell out of me, man. ::He pulls down his respirator.:: Ahh... Don't you sneak up like that.<end>
 
 =>q3
-::se retire dès qu'il se rend compte qu'il n'est pas seul. Un moment calme passe, puis il parle.::
+::sursaute dès qu'il se rend compte qu'il n'est pas seul. Un instant de silence, puis il parle.::
 
-Qu'est-ce qu'il y a ? Tu m'as fait peur. ::Il descend son respirateur.:: Ahh... Ne te faufile pas comme ça.<end>
+Whoooooooooo ! Vous... vous m'avez flanqué une de ces frousses. ::Il baisse son respirateur.:: Ahh... Ne vous faufilez pas comme ça.<end>
 
 =>a4_original
 I'm sorry. Didn't mean to.<end>
 
 =>a4
-Je suis désolé. Je ne voulais pas.<end>
+$(#Désolé/Désolée). Ce n'était pas voulu.<end>
 
 =>q5_original
 Yeah, it's okay, but *damn*... 
@@ -32,7 +32,7 @@ Yeah, it's okay, but *damn*...
 I'm Harland. <end>
 
 =>q5
-Oui, c'est bon, mais bon...
+Ouais, c'est bon, mais *putain*...
 
 Je suis Harland. <end>
 
@@ -42,21 +42,21 @@ Je suis Harland. <end>
 Hey... you here about my auto-turret?<end>
 
 =>q6
-::Il vous inspecte brièvement, vous et vos pairs.::
+::Il vous inspecte un instant, puis jette un coup d'œil par-dessus votre épaule.::
 
-Vous êtes là pour mon auto-turret ?<end>
+Hé... vous êtes là pour ma tourelle auto ?<end>
 
 =>a7_original
 Lucas sent me here to talk to you about that.<end>
 
 =>a7
-Lucas m'a envoyé ici pour vous en parler.<end>
+Lucas m'envoie vous en parler.<end>
 
 =>q8_original
 That-- Maaan, he's not taking this seriously at all.<end>
 
 =>q8
-Ça... Maaan, il ne prend pas ça au sérieux.<end>
+Ça... Putain, il prend vraiment pas ça au sérieux.<end>
 
 =>q9_original
 Look, I got a situation here. Someone took down one of my cameras, right outside. They want me blind, you see, so they could attack and break through the gates! And have you seen those? They're not the big, thick split gates Malcom's got at his checkpoint, no, no. 
@@ -64,21 +64,21 @@ Look, I got a situation here. Someone took down one of my cameras, right outside
 I've-- I've got a pair of oversized *trays* between me and the Lurker hordes.<end>
 
 =>q9
-J'ai un problème. Quelqu'un a enlevé une de mes caméras, juste dehors. Ils veulent que je sois aveugle, tu vois, pour qu'ils puissent attaquer et briser les portes ! Et vous avez vu ça ? Ce ne sont pas les grandes et épaisses portes que Malcom a à son poste de contrôle, non, non.
+Écoutez, j'ai un problème. Quelqu'un a descendu une de mes caméras, juste dehors. Ils veulent m'aveugler, vous voyez, pour attaquer et forcer les portes ! Et vous les avez vues, ces portes ? C'est pas les grandes portes épaisses, à deux battants, que Malcom a à son poste. Non, non.
 
-J'ai une paire de "trays" surdimensionnés entre moi et les hordes Lurker.<end>
+J'ai... j'ai une paire de *plateaux* trop grands, entre moi et les hordes de Lurkers.<end>
 
 =>q10_original
 All I want is some extra ammo for my turret, and one more turret. It's dangerous out there.<end>
 
 =>q10
-Tout ce que je veux c'est des munitions supplémentaires pour ma tourelle, et une tourelle de plus. C'est dangereux.<end>
+Tout ce que je veux, c'est des munitions en plus pour ma tourelle, et une tourelle de plus. C'est dangereux, dehors.<end>
 
 =>a11_original
 What if it's not the Lurker hordes but...<end>
 
 =>a11
-Et si ce n'était pas la Lurker hordes mais...<end>
+Et si ce n'était pas les hordes de Lurkers, mais...<end>
 
 =>q12_original
 ::He crosses his arms.::
@@ -86,7 +86,7 @@ Et si ce n'était pas la Lurker hordes mais...<end>
 But what?<end>
 
 =>q12
-::Il croise ses bras.::
+::Il croise les bras.::
 
 Mais quoi ?<end>
 
@@ -94,25 +94,25 @@ Mais quoi ?<end>
 ...the Faceless.<end>
 
 =>a13
-... le Faceless.<end>
+...les Faceless.<end>
 
 =>q14_original
 ::He swallows a lump in his throat.::<end>
 
 =>q14
-::Il avale une bosse dans sa gorge.::<end>
+::Il déglutit, la gorge serrée.::<end>
 
 =>a15_original
 Have you even been outside?<end>
 
 =>a15
-Avez-vous été dehors ?<end>
+Vous êtes déjà $(#allé/allée) dehors, au moins ?<end>
 
 =>q16_original
 Are you derailed? I'm not going out there.<end>
 
 =>q16
-Vous avez déraillé ? Je ne vais pas sortir.<end>
+Vous avez déraillé ? Je sors pas là-dehors.<end>
 
 =>a17_original
 Then I'll go.<end>
@@ -124,19 +124,19 @@ Alors j'y vais.<end>
 You will?<end>
 
 =>q18
-Vraiment ?<end>
+Vous y allez ?<end>
 
 =>a19_original
 Of course. This is my station now as much as yours.<end>
 
 =>a19
-Bien sûr. C'est ma station maintenant autant que la vôtre.<end>
+Bien sûr. Cette station est autant la mienne que la vôtre.<end>
 
 =>q20_original
 That's... good to hear.<end>
 
 =>q20
-C'est bon à entendre.<end>
+Ça... ça fait plaisir à entendre.<end>
 
 =>q21_original
 I can't open the gates, so you're gonna have to go around. Go back to the metro station and go north until you run into one of the under-passage entrances. You take it from there, and I'll be waitin' here. 
@@ -144,9 +144,9 @@ I can't open the gates, so you're gonna have to go around. Go back to the metro 
 And be careful: It's dangerous out there. Make sure you're ready.<end>
 
 =>q21
-Je ne peux pas ouvrir les portes, donc tu vas devoir faire le tour. Retournez à la station de métro et allez vers le nord jusqu'à ce que vous couriez dans l'une des entrées des passages souterrains. Prends-le et j'attendrai ici.
+Je ne peux pas ouvrir les portes, alors il va falloir faire le tour. Retournez à la station de métro, puis allez vers le nord jusqu'à tomber sur une entrée des passages inférieurs. Vous vous débrouillez à partir de là, et je vous attends ici.
 
-C'est dangereux, dehors. Assurez-vous d'être prêt.<end>
+Et faites attention. C'est dangereux, dehors. Assurez-vous d'être $(#prêt/prête).<end>
 
 =>q22_original
 <end>
@@ -164,13 +164,13 @@ C'est dangereux, dehors. Assurez-vous d'être prêt.<end>
 There was something I wanted to ask you before I leave.<end>
 
 =>a24
-Je voulais te demander quelque chose avant de partir.<end>
+J'avais quelque chose à vous demander, avant de partir.<end>
 
 =>q25_original
 Sure, sure. Anything you need.<end>
 
 =>q25
-Bien sûr. Tout ce dont vous avez besoin.<end>
+Bien sûr, bien sûr. Tout ce qu'il vous faut.<end>
 
 =>q26_original
 <end>
@@ -182,7 +182,7 @@ Bien sûr. Tout ce dont vous avez besoin.<end>
 About your camera problem...<end>
 
 =>a27
-A propos de votre problème de caméra...<end>
+À propos de votre problème de caméra...<end>
 
 =>q28_original
 Yeah? <end>
@@ -200,7 +200,7 @@ Oui ? <end>
 Found anything?<end>
 
 =>q30
-Tu as trouvé quelque chose ?<end>
+Vous avez trouvé quelque chose ?<end>
 
 =>q31_original
 <end>
@@ -212,13 +212,13 @@ Tu as trouvé quelque chose ?<end>
 I explored the utility section fully.<end>
 
 =>a32
-J'ai exploré la section de l'utilité.<end>
+J'ai exploré la section technique de fond en comble.<end>
 
 =>q33_original
 Yes. And?<end>
 
 =>q33
-Oui. Et alors ?<end>
+Oui. Et ?<end>
 
 =>q34_original
 <end>
@@ -230,43 +230,43 @@ Oui. Et alors ?<end>
 I found some people there...<end>
 
 =>a35
-J'ai trouvé des gens...<end>
+J'ai trouvé des gens, là-bas...<end>
 
 =>q36_original
 ::He gulps nervously.:: Yes, yes...?<end>
 
 =>q36
-::Il glousse nerveusement.:: Oui, oui...<end>
+::Il déglutit, nerveux.:: Oui, oui... ?<end>
 
 =>a37_original
 Just a bunch of stoned shroom farmers. Nothing to worry about.<end>
 
 =>a37
-Juste un tas de fermiers en pierre. Rien à craindre.<end>
+Juste une bande de cultivateurs de champignons, défoncés. Rien à craindre.<end>
 
 =>q38_original
 Well, I still don't like the sound of that. People like that, so close to the station... You never know what's going to happen - who's going to settle there next! <end>
 
 =>q38
-Je n'aime toujours pas ça. Des gens comme ça, si près de la gare... On ne sait jamais ce qui va se passer, qui s'y installera ensuite ! <end>
+Quand même, ça me plaît pas. Des gens comme ça, si près de la station... On ne sait jamais ce qui peut arriver. Qui va s'installer là, ensuite ! <end>
 
 =>q39_original
 Asking for an extra auto-turret might be too much, but I'm getting that ammo no matter what!<end>
 
 =>q39
-Demander un auto-turret supplémentaire est peut-être trop, mais je reçois ces munitions quoi qu'il arrive !<end>
+Demander une tourelle de plus, ça fait peut-être trop. Mais ces munitions, je les aurai, quoi qu'il arrive !<end>
 
 =>q40_original
 Listen, $(context.player.Name), I know I've raised a false alarm or two already, and that some folks here are hesitant to respond to my reports, so I'm really grateful that you took the time to help me. It really means a lot, man, it really does.<end>
 
 =>q40
-Ecoute, $(context.player.Name), je sais que j'ai déjà soulevé une fausse alarme ou deux, et que certaines personnes ici hésitent à répondre à mes rapports, donc je suis vraiment reconnaissant que tu aies pris le temps de m'aider. Ça compte vraiment beaucoup, mec.<end>
+Écoutez, $(context.player.Name). Je sais que j'ai déjà donné une fausse alerte, ou deux, et que certains ici hésitent à répondre à mes rapports. Alors je suis vraiment reconnaissant que vous ayez pris le temps de m'aider. Ça compte beaucoup. Vraiment beaucoup.<end>
 
 =>q41_original
 Hey, here are some credits for your troubles. ::He hands you 400 SGS credits.:: <end>
 
 =>q41
-Voilà quelques crédits pour vos ennuis. ::Il vous donne 400 crédits SGS.:: <end>
+Tenez, quelques crédits pour le dérangement. ::Il vous tend 400 crédits SGS.:: <end>
 
 =>q42_original
 You earned it. <end>
@@ -278,91 +278,91 @@ Vous l'avez mérité. <end>
 It's dangerous out there.<end>
 
 =>q43
-C'est dangereux.<end>
+C'est dangereux, dehors.<end>
 
 =>q44_original
 Now, what to do with that explorer...<end>
 
 =>q44
-Que faire avec cet explorateur...<end>
+Maintenant, qu'est-ce que je fais de cet explorateur...<end>
 
 =>q45_original
 Now, to think about what I'm gonna say to Harold. Maaan...<end>
 
 =>q45
-Pense à ce que je vais dire à Harold. Maaan...<end>
+Maintenant, faut que je réfléchisse à ce que je vais dire à Harold. Putain...<end>
 
 =>q46_original
 Well, back to the usual, I guess.<end>
 
 =>q46
-C'est comme d'habitude.<end>
+Bon, on reprend comme d'habitude, j'imagine.<end>
 
 =>q47_original
 Even though we ended up finding nothing, you earned it. <end>
 
 =>q47
-Même si on n'a rien trouvé, tu l'as mérité. <end>
+Même si on n'a rien trouvé, au bout du compte, vous l'avez mérité. <end>
 
 =>a48_original
 Just a bunch of shroom farmers having troubles with their farm bots. Nothing to worry about.<end>
 
 =>a48
-Juste un tas de fermiers qui ont des problèmes avec leurs bots. Rien à craindre.<end>
+Juste une bande de cultivateurs de champignons qui ont des soucis avec leurs bots de ferme. Rien à craindre.<end>
 
 =>a49_original
 Just a bunch of people, errr, *bound* by certain problems. Nothing to worry about.<end>
 
 =>a49
-Juste un tas de gens, errant, *liés* par certains problèmes. Rien à craindre.<end>
+Juste une bande de gens, euh, *liés* par certains problèmes. Rien à craindre.<end>
 
 =>a50_original
 They're a group of shroom farmers indulging themselves in some rather dangerous psychedelic substances.<end>
 
 =>a50
-C'est un groupe de fermiers shrooms qui se livrent à des substances psychédéliques plutôt dangereuses.<end>
+C'est un groupe de cultivateurs de champignons qui se droguent à des substances psychédéliques plutôt dangereuses.<end>
 
 =>q51_original
 Drugged-up madmen? <end>
 
 =>q51
-Des fous drogués ? <end>
+Des fous défoncés ? <end>
 
 =>q52_original
 Oooooh, I'm calling Lucas right now. I'm getting that extra auto-turret and ammo - no. matter. what!<end>
 
 =>q52
-J'appelle Lucas. J'ai l'auto-turret et les munitions. Quoi !<end>
+Oooooh, j'appelle Lucas tout de suite. Je veux cette tourelle en plus et les munitions. Quoi. Qu'il. Arrive !<end>
 
 =>a53_original
 They're a group of shroom farmers who've been having problems with their rogue plasma sentries.<end>
 
 =>a53
-Ce sont des fermiers qui ont eu des problèmes avec leurs sentinelles de plasma.<end>
+C'est un groupe de cultivateurs de champignons qui ont des problèmes avec leurs sentinelles plasma incontrôlables.<end>
 
 =>q54_original
 Rogue plasma sentries? <end>
 
 =>q54
-Des sentinelles ? <end>
+Des sentinelles plasma incontrôlables ? <end>
 
 =>a55_original
 They're a group of shroom farmers who've been captured by Lurkers.<end>
 
 =>a55
-C'est un groupe de fermiers qui ont été capturés par Lurker.<end>
+C'est un groupe de cultivateurs de champignons, capturés par des Lurkers.<end>
 
 =>q56_original
 Lurkers? <end>
 
 =>q56
-Lurkers ? <end>
+Des Lurkers ? <end>
 
 =>a57_original
 ...but it's all been taken care of. There's nothing to worry about.<end>
 
 =>a57
-Mais tout est réglé. Il n'y a pas de quoi s'inquiéter.<end>
+...mais tout est réglé. Rien à craindre.<end>
 
 =>q58_original
 ::He takes a moment to come to terms with what you've said, it seems, but he quickly become notably relieved.::
@@ -370,27 +370,27 @@ Mais tout est réglé. Il n'y a pas de quoi s'inquiéter.<end>
 Well... that's good to hear. Good to hear.<end>
 
 =>q58
-::Il prend un moment pour s'entendre avec ce que vous avez dit, semble-t-il, mais il devient rapidement soulagé.::
+::Il lui faut un moment pour encaisser, on dirait, puis le soulagement lui monte vite au visage.::
 
-C'est bon à entendre. C'est bon à entendre.<end>
+Bon... ça fait plaisir à entendre. Plaisir à entendre.<end>
 
 =>a59_original
 I found nothing out of the ordinary.<end>
 
 =>a59
-Je n'ai rien trouvé de l'ordinaire.<end>
+Je n'ai rien trouvé d'anormal.<end>
 
 =>q60_original
 Are... are you sure?<end>
 
 =>q60
-Tu es sûr ?<end>
+Vous... vous êtes $(#sûr/sûre) ?<end>
 
 =>a61_original
 Well, actually, there were some people there.<end>
 
 =>a61
-En fait, il y avait des gens là-bas.<end>
+En fait, il y avait des gens, là-bas.<end>
 
 =>a62_original
 Yup.<end>
@@ -408,25 +408,25 @@ Ouais.<end>
 I was exploring the under-passages when I found an entrance to a small cave just to the west. There I found a stalker, and even though the cave was so unusually dark I found an opening leading to a utility section.<end>
 
 =>a64
-J'explorais les passages souterrains quand j'ai trouvé une entrée à une petite grotte juste à l'ouest. Là, j'ai trouvé un harceleur, et même si la grotte était exceptionnellement sombre, j'ai trouvé une ouverture menant à une section d'utilité.<end>
+J'explorais les passages inférieurs quand j'ai trouvé l'entrée d'une petite grotte, juste à l'ouest. Il y avait un rôdeur. Et même si la grotte était étrangement sombre, j'ai trouvé une ouverture vers une section technique.<end>
 
 =>q65_original
 This guy, do you think he took the camera?<end>
 
 =>q65
-Tu crois qu'il a pris la caméra ?<end>
+Ce type, vous pensez que c'est lui qui a pris la caméra ?<end>
 
 =>a66_original
 Certainly. Found a lot of electronic gubbins on him.<end>
 
 =>a66
-Certainement. J'ai trouvé beaucoup de gubbins électroniques sur lui.<end>
+Sûr. Il avait tout un bazar électronique sur lui.<end>
 
 =>q67_original
 Yes, yes... I knew it! And maybe there's more of them, and that's where they're gathering...<end>
 
 =>q67
-Oui, oui... Je le savais ! Et peut-être qu'il y en a d'autres, et c'est là qu'ils se rassemblent...<end>
+Oui, oui... Je le savais ! Et peut-être qu'il y en a d'autres, et que c'est là qu'ils se rassemblent...<end>
 
 =>q68_original
 <end>
@@ -438,13 +438,13 @@ Oui, oui... Je le savais ! Et peut-être qu'il y en a d'autres, et c'est là qu'
 Speaking of more: That utility section I mentioned, I explored it fully...<end>
 
 =>a69
-En parlant de plus : cette section d'utilité que j'ai mentionnée, je l'ai explorée...<end>
+En parlant d'autres : cette section technique dont je parlais, je l'ai explorée de fond en comble...<end>
 
 =>q70_original
 And?<end>
 
 =>q70
-Et alors ?<end>
+Et ?<end>
 
 =>q71_original
 <end>
@@ -456,13 +456,13 @@ Et alors ?<end>
 That cave... I don't like it one bit. You said you couldn't discover anything in there?<end>
 
 =>q72
-Cette grotte... Je n'aime pas ça. Vous avez dit que vous ne pouviez rien découvrir ?<end>
+Cette grotte... Je n'aime pas ça du tout. Vous avez dit que vous n'aviez rien pu y découvrir ?<end>
 
 =>a73_original
 Not even with the help of night vision goggles.<end>
 
 =>a73
-Même avec les lunettes de vision nocturne.<end>
+Même avec des lunettes de vision nocturne.<end>
 
 =>q74_original
 Man, I got a bad feeling about this. Like there's something more to that cave than meets the eye.
@@ -470,9 +470,9 @@ Man, I got a bad feeling about this. Like there's something more to that cave th
 ::He pauses, rubbing his respirator and thinking.:: Well, hmm... In that case, we're gonna need a different pair of eyes - bot's, to be exact.<end>
 
 =>q74
-J'ai un mauvais pressentiment. Comme s'il y avait quelque chose de plus dans cette grotte que de rencontrer l'œil.
+J'ai un mauvais pressentiment. Comme s'il y avait plus dans cette grotte que ce qu'on en voit.
 
-::Il s'arrête, frotte son respirateur et réfléchit.:: Et bien, hmm... Dans ce cas, nous aurons besoin d'une autre paire d'yeux, pour être exact.<end>
+::Il s'arrête, frotte son respirateur, réfléchit.:: Bon, hmm... Dans ce cas, il va nous falloir une autre paire d'yeux. Ceux d'un bot, pour être précis.<end>
 
 =>q75_original
 Listen to this: I'd like you to go speak with Harold. See if he's got a keen-eyed explorer for us. Something that can be remote-controlled, and with cameras.
@@ -480,15 +480,15 @@ Listen to this: I'd like you to go speak with Harold. See if he's got a keen-eye
 I can't leave a suspicious dark hole like that unchecked, be it a cavelet or a cavern. It's a security risk - it's dangerous!<end>
 
 =>q75
-Écoutez ceci: J'aimerais que vous alliez parler avec Harold. Voyez s'il a un explorateur aux yeux vifs pour nous. Quelque chose qui peut être commandé à distance, et avec des caméras.
+Écoutez ça : j'aimerais que vous alliez voir Harold. Demandez-lui s'il a un explorateur à l'œil vif pour nous. Quelque chose qu'on peut piloter à distance, avec des caméras.
 
-Je ne peux pas laisser un trou sombre suspect comme ça sans contrôle, que ce soit une caverne ou une caverne. C'est dangereux !<end>
+Je ne peux pas laisser un trou sombre suspect comme ça sans le vérifier, que ce soit une petite grotte ou une caverne. C'est un risque pour la sécurité. C'est dangereux !<end>
 
 =>q76_original
 You go tell him all that and I'll wait for you here. ::He nods, pleased with himself.::<end>
 
 =>q76
-Va lui dire tout ça et je t'attendrai ici. ::Il hoche la tête, heureux de lui-même.::<end>
+Vous lui dites tout ça, et je vous attends ici. ::Il hoche la tête, content de lui.::<end>
 
 =>a77_original
 No.<end>
@@ -506,13 +506,13 @@ Pas vraiment.<end>
 ::Shake your head.::<end>
 
 =>a79
-::Secouez la tête.::<end>
+::Secouer la tête.::<end>
 
 =>a80_original
 Certainly.<end>
 
 =>a80
-Certainement.<end>
+Tout à fait.<end>
 
 =>a81_original
 It's possible.<end>
@@ -524,7 +524,7 @@ C'est possible.<end>
 Hmmm... <end>
 
 =>q82
-- Oui. <end>
+Hmmm... <end>
 
 =>a83_original
 Don't think so.<end>
@@ -542,19 +542,19 @@ Je ne sais pas, Harland.<end>
 I found an entrance to a small cave just to the west. There I found a stalker, and even though the cave was so unusually dark I found an opening leading to a utility section.<end>
 
 =>a85
-J'ai trouvé une entrée à une petite grotte juste à l'ouest. Là, j'ai trouvé un harceleur, et même si la grotte était exceptionnellement sombre, j'ai trouvé une ouverture menant à une section d'utilité.<end>
+J'ai trouvé l'entrée d'une petite grotte, juste à l'ouest. Il y avait un rôdeur. Et même si la grotte était étrangement sombre, j'ai trouvé une ouverture vers une section technique.<end>
 
 =>a86_original
 I found an entrance leading to a small cave just west of where your cameras are located. There I found a man, but the cave itself is so unusually dark I couldn't really explore it as much as I'd have liked.<end>
 
 =>a86
-J'ai trouvé une entrée menant à une petite grotte à l'ouest de l'endroit où se trouvent vos caméras. Là, j'ai trouvé un homme, mais la grotte elle-même est tellement sombre que je ne pouvais pas l'explorer autant que j'aurais aimé.<end>
+J'ai trouvé une entrée vers une petite grotte, juste à l'ouest de vos caméras. Il y avait un homme, mais la grotte elle-même est si étrangement sombre que je n'ai pas pu l'explorer autant que j'aurais voulu.<end>
 
 =>a87_original
 I was exploring the under-passages when I found an entrance leading to a small cave just to the west. There I found a stalker, but the cave itself is so unusually dark I found it hard to properly explore it.<end>
 
 =>a87
-J'explorais les passages souterrains quand j'ai trouvé une entrée menant à une petite grotte juste à l'ouest. Là, j'ai trouvé un harceleur, mais la grotte elle-même est tellement sombre que j'ai eu du mal à l'explorer correctement.<end>
+J'explorais les passages inférieurs quand j'ai trouvé une entrée vers une petite grotte, juste à l'ouest. Il y avait un rôdeur, mais la grotte elle-même est si étrangement sombre que j'ai eu du mal à l'explorer vraiment.<end>
 
 =>a88_original
 I'll go and check out what's going on outside.<end>
@@ -566,7 +566,7 @@ Je vais voir ce qui se passe dehors.<end>
 Harold said he'll fix us up an explorer bot. Might take him a while, though. And says you owe him a brew.<end>
 
 =>a89
-Harold a dit qu'il allait nous arranger un robot explorateur. Ça pourrait lui prendre un moment. Et dit que tu lui dois une bière.<end>
+Harold a dit qu'il allait nous bricoler un bot explorateur. Ça peut lui prendre un moment. Et il dit que vous lui devez une tournée.<end>
 
 =>q90_original
 Good, good! Knew Harold would help us. 
@@ -574,9 +574,9 @@ Good, good! Knew Harold would help us.
 Now we just gotta wait.<end>
 
 =>q90
-Tant mieux ! Je savais que Harold nous aiderait.
+Bien, bien ! Je savais que Harold nous aiderait.
 
-Il faut attendre.<end>
+Maintenant, on n'a plus qu'à attendre.<end>
 
 =>q91_original
 You can stay here with me if you don't have anything better to do.
@@ -584,7 +584,7 @@ You can stay here with me if you don't have anything better to do.
 We could... observe.<end>
 
 =>q91
-Tu peux rester avec moi si tu n'as rien de mieux à faire.
+Vous pouvez rester ici, avec moi, si vous n'avez rien de mieux à faire.
 
 On pourrait... observer.<end>
 
@@ -592,25 +592,25 @@ On pourrait... observer.<end>
 No. Will be back when I do.<end>
 
 =>a92
-C'est pas vrai. Je reviendrai quand je le ferai.<end>
+Non. Je reviens quand ce sera prêt.<end>
 
 =>q93_original
 Man...<end>
 
 =>q93
-Homme...<end>
+Putain...<end>
 
 =>a94_original
 Never mind.<end>
 
 =>a94
-Pas grave.<end>
+Laissez tomber.<end>
 
 =>q95_original
 Did you find the explorer?<end>
 
 =>q95
-Avez-vous trouvé l'explorateur ?<end>
+Vous avez trouvé l'explorateur ?<end>
 
 =>q96_original
 <end>
@@ -622,43 +622,43 @@ Avez-vous trouvé l'explorateur ?<end>
 Could use some help.<end>
 
 =>q97
-Je pourrais avoir besoin d'aide.<end>
+J'aurais besoin d'un coup de main.<end>
 
 =>a98_original
 I need to get into the tunnels.<end>
 
 =>a98
-Je dois aller dans les tunnels.<end>
+Il faut que j'entre dans les tunnels.<end>
 
 =>q99_original
 Now? No way, man. I'm not opening it.<end>
 
 =>q99
-Tout de suite ? Pas moyen, mec. Je ne l'ouvre pas.<end>
+Maintenant ? Pas question. Je n'ouvre pas.<end>
 
 =>q100_original
 Did you just... forget our whole conversation?<end>
 
 =>q100
-Tu viens d'oublier toute notre conversation ?<end>
+Vous venez de... oublier toute notre conversation ?<end>
 
 =>q101_original
 I'm not opening the gates, unless it's an emergency. Gorsky's orders.<end>
 
 =>q101
-Je n'ouvre pas les portes, sauf si c'est une urgence. Les ordres de Gorsky.<end>
+Je n'ouvre pas les portes, sauf urgence. Ordres de Gorsky.<end>
 
 =>a102_original
 Seen any Faceless around?<end>
 
 =>a102
-Vous avez vu Faceless ?<end>
+Vous avez vu des Faceless, par ici ?<end>
 
 =>q103_original
 Don't even joke about such things, man. And it's not only the Faceless, we've got Lurkers to worry about too.<end>
 
 =>q103
-Ne plaisante même pas à ce sujet. Et ce n'est pas seulement le Faceless, nous avons Lurker à nous soucier aussi.<end>
+Ne plaisantez même pas avec ça. Et c'est pas seulement les Faceless. Y a les Lurkers aussi.<end>
 
 =>a104_original
 Why not?<end>
@@ -670,31 +670,31 @@ Pourquoi pas ?<end>
 It's dangerous out there, doubly so now that the Faceless are crawling about. I feel much better with the gates closed.<end>
 
 =>q105
-C'est dangereux là-bas, doublement donc maintenant que le Faceless est en train de ramper. Je me sens beaucoup mieux avec les portes fermées.<end>
+C'est dangereux, dehors. Encore plus maintenant que les Faceless rôdent partout. Je me sens bien mieux avec les portes fermées.<end>
 
 =>q106_original
 It's a Lurker metropolis out there, and I'm here on my own guarding it because everyone else is working or guarding the metro tunnel upstairs.<end>
 
 =>q106
-C'est une métropole Lurker là-bas, et je suis ici sur ma propre garde parce que tout le monde travaille ou garde le tunnel du métro à l'étage.<end>
+Dehors, c'est une métropole de Lurkers, et je suis tout seul à garder ça, parce que tout le monde bosse ou surveille le tunnel du métro, à l'étage.<end>
 
 =>q107_original
 The gate is staying closed unless it becomes absolutely necessary to open it, man.<end>
 
 =>q107
-La porte reste fermée à moins qu'il ne devienne absolument nécessaire de l'ouvrir.<end>
+La porte reste fermée, sauf s'il devient absolument nécessaire de l'ouvrir.<end>
 
 =>q108_original
 So unless Gorsky or Tanner come down in person to tell me otherwise, this gate is staying closed.<end>
 
 =>q108
-Donc, à moins que Gorsky ou Tanner descendent en personne pour me dire autrement, cette porte reste fermée.<end>
+Donc à moins que Gorsky ou Tanner descendent en personne me dire le contraire, cette porte reste fermée.<end>
 
 =>a109_original
 Never mind then.<end>
 
 =>a109
-Peu importe.<end>
+Tant pis, alors.<end>
 
 =>q110_original
 Anything else?<end>
@@ -714,9 +714,9 @@ Freaking everywhere!
 Back when the Underrail was built they used them as escape routes in case there was a hazard in one of the main tunnels, or just to be able to quickly access remote parts of the Lower Underrail.<end>
 
 =>q112
-C'est fou !
+Putain, partout !
 
-Lorsque le Underrail a été construit, ils les ont utilisés comme voies d'évacuation au cas où il y aurait un danger dans l'un des tunnels principaux, ou simplement pour pouvoir accéder rapidement à des parties distantes du Lower Underrail.<end>
+Quand on a construit l'Underrail, ça servait de voies de fuite, au cas où y aurait un danger dans un des tunnels principaux. Ou juste pour accéder vite aux coins reculés du Lower Underrail.<end>
 
 =>q113_original
 Nowadays, between Lurkers and dangerous creatures that skitter about, it's not the safest way to travel around. 
@@ -724,27 +724,27 @@ Nowadays, between Lurkers and dangerous creatures that skitter about, it's not t
 If you absolutely must go there, best bring night vision goggles, or at least some flares.<end>
 
 =>q113
-Aujourd'hui, entre Lurkers et des créatures dangereuses qui s'égarent, ce n'est pas la façon la plus sûre de voyager.
+Aujourd'hui, entre les Lurkers et les bestioles dangereuses qui grouillent, c'est pas le plus sûr pour se déplacer.
 
-Si vous devez absolument aller là-bas, il vaut mieux apporter des lunettes de vision nocturne, ou au moins quelques éruptions.<end>
+Si vous y allez vraiment, prenez des lunettes de vision nocturne. Ou au moins des fusées éclairantes.<end>
 
 =>a114_original
 What can you tell me about these Lurkers?<end>
 
 =>a114
-Que pouvez-vous me dire à propos de ces Lurker ?<end>
+Que pouvez-vous me dire sur ces Lurkers ?<end>
 
 =>q115_original
 You don't want to meet those guys, lemme tell you that. They're a brutal, cannibalistic gang that lives in these under-passages and are the primary reason why only the most desperate would use them.<end>
 
 =>q115
-Tu ne veux pas les rencontrer, lemme te le dit. C'est un gang cannibale brutal qui vit dans ces sous-passages et qui est la principale raison pour laquelle seul le plus désespéré les utiliserait.<end>
+Vous voulez pas tomber sur ces types, croyez-moi. C'est un gang brutal, cannibale, qui vit dans ces passages inférieurs. C'est surtout pour ça que seuls les plus désespérés s'en servent.<end>
 
 =>q116_original
 I see them on the cameras sometimes, and at one time three of them even tried breaking through the gate. Had they managed it, though, they'd have met that turret over there. But seriously now, Lurkers are no joke. I heard stories of them stealing babies and children from smaller settlements and... horrible stuff, man. Horrible stuff.<end>
 
 =>q116
-Je les vois parfois sur les caméras, et à un moment, trois d'entre eux ont même essayé de percer la porte. S'ils avaient réussi, ils auraient rencontré cette tourelle. Mais sérieusement maintenant, Lurkers ne sont pas une blague. J'ai entendu dire qu'ils volaient des bébés et des enfants de petites colonies et... des trucs horribles. Des trucs horribles.<end>
+Je les vois parfois sur les caméras. Une fois, ils ont même été trois à essayer de forcer la porte. S'ils avaient réussi, ils seraient tombés sur la tourelle, là-bas. Mais sans rire, les Lurkers, c'est pas une blague. J'ai entendu des histoires : ils volent des bébés, des enfants, dans les petites colonies, et... des trucs horribles. Des trucs horribles.<end>
 
 =>a117_original
 What do you know about Patrick Pierce's death?<end>
@@ -756,73 +756,73 @@ Que savez-vous de la mort de Patrick Pierce ?<end>
 Who?<end>
 
 =>q118
-OMS?<end>
+Qui ?<end>
 
 =>a119_original
 Patrick Pierce, the man who died in his sleep about a month and a half ago.<end>
 
 =>a119
-Patrick Pierce, l'homme qui est mort dans son sommeil il y a un mois et demi.<end>
+Patrick Pierce, l'homme mort dans son sommeil, il y a un mois et demi à peu près.<end>
 
 =>q120_original
 That's freaking ancient! Wait, you mean the electrician guy? Yeah, yeah, I remember n-- Hold it! His name was Patrick? Man...<end>
 
 =>q120
-C'est très ancien ! Attends, tu veux dire l'électricien ? Ouais, ouais, je me souviens... Il s'appelait Patrick ? Homme...<end>
+C'est préhistorique, ça ! Attendez, vous voulez dire l'électricien ? Ouais, ouais, je me souvie... Attendez ! Il s'appelait Patrick ? Putain...<end>
 
 =>q121_original
 I always called him Danny! Wonder why he never corrected me... Damn.<end>
 
 =>q121
-Je l'ai toujours appelé Danny ! Je me demande pourquoi il ne m'a jamais corrigé... C'est pas vrai.<end>
+Je l'ai toujours appelé Danny ! Pourquoi il m'a jamais corrigé... Putain.<end>
 
 =>a122_original
 I was just leaving.<end>
 
 =>a122
-Je partais.<end>
+Je m'en allais.<end>
 
 =>a123_original
 On the job.<end>
 
 =>a123
-Au travail.<end>
+Pour le boulot.<end>
 
 =>a124_original
 ::Nod and leave.::<end>
 
 =>a124
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a125_original
 For a price.<end>
 
 =>a125
-Pour un prix.<end>
+Contre paiement.<end>
 
 =>q126_original
 Ah. Don't worry - if you help me out, I'll throw in some credits for your troubles. Okay?<end>
 
 =>q126
-Ah. Ne vous inquiétez pas - si vous m'aidez, je vais jeter quelques crédits pour vos ennuis. Ça va ?<end>
+Ah. Inquiétez-vous pas. Si vous m'aidez, je vous filerai quelques crédits pour le dérangement. D'accord ?<end>
 
 =>a127_original
 Well, then good luck, man.<end>
 
 =>a127
-Bonne chance.<end>
+Bonne chance, alors.<end>
 
 =>q128_original
 Hm. ::He pauses.:: Anyway, why'd you come here?<end>
 
 =>q128
-Hm. ::Il fait une pause.:: De toute façon, pourquoi es-tu venue ici ?<end>
+Hm. ::Il s'arrête.:: Bref, pourquoi vous êtes là ?<end>
 
 =>a129_original
 ::Shrug.:: There was something I wanted to ask you.<end>
 
 =>a129
-::Énorme.:: Je voulais te demander quelque chose.<end>
+::Hausser les épaules.:: J'avais quelque chose à vous demander.<end>
 
 =>q130_original
 Hm. Yeah?<end>
@@ -834,25 +834,25 @@ Hm. Oui ?<end>
 There's only one way to know for sure.<end>
 
 =>a131
-Il n'y a qu'un moyen de le savoir.<end>
+Il n'y a qu'un moyen d'en être sûr.<end>
 
 =>a132_original
 ...a common thug that stole your camera.<end>
 
 =>a132
-...un voyou qui a volé votre caméra.<end>
+...un voyou quelconque qui a volé votre caméra.<end>
 
 =>q133_original
 ::He gives you a blank stare.::<end>
 
 =>q133
-::Il te donne un regard vide.::<end>
+::Il vous fixe, l'air absent.::<end>
 
 =>a134_original
 ...the camera just fell off the wall.<end>
 
 =>a134
-La caméra est tombée du mur.<end>
+...la caméra est juste tombée du mur.<end>
 
 =>a135_original
 ...a Lurker *gang*.<end>
@@ -864,55 +864,55 @@ La caméra est tombée du mur.<end>
 ...something else.<end>
 
 =>a136
-... autre chose.<end>
+...autre chose.<end>
 
 =>a137_original
 Maybe this'll interest you, but I was exploring the under-passages when I found an entrance leading to a small cave just to the west. There I found a stalker, and even though the cave was so unusually dark I found an opening leading to a utility section.<end>
 
 =>a137
-Peut-être que ça t'intéressera, mais j'explorais les sous-passages quand j'ai trouvé une entrée menant à une petite grotte juste à l'ouest. Là, j'ai trouvé un harceleur, et même si la grotte était exceptionnellement sombre, j'ai trouvé une ouverture menant à une section d'utilité.<end>
+Ça devrait vous intéresser : j'explorais les passages inférieurs quand j'ai trouvé une entrée vers une petite grotte, juste à l'ouest. Il y avait un rôdeur. Et même si la grotte était étrangement sombre, j'ai trouvé une ouverture vers une section technique.<end>
 
 =>a138_original
 I found an entrance leading to a small cave just west of where your cameras are located. There I found a man, but the cave itself is so unusually dark I couldn't really explore it as much as I'd have liked.<end>
 
 =>a138
-J'ai trouvé une entrée menant à une petite grotte à l'ouest de l'endroit où se trouvent vos caméras. Là, j'ai trouvé un homme, mais la grotte elle-même est tellement sombre que je ne pouvais pas l'explorer autant que j'aurais aimé.<end>
+J'ai trouvé une entrée vers une petite grotte, juste à l'ouest de vos caméras. Il y avait un homme, mais la grotte elle-même est si étrangement sombre que je n'ai pas pu l'explorer autant que j'aurais voulu.<end>
 
 =>a139_original
 Turret? What turret?<end>
 
 =>a139
-La tourelle ? Quelle tourelle ?<end>
+Une tourelle ? Quelle tourelle ?<end>
 
 =>a140_original
 No idea what you're talking about.<end>
 
 =>a140
-Je ne sais pas de quoi tu parles.<end>
+Aucune idée de quoi vous parlez.<end>
 
 =>q141_original
 Maaan! <end>
 
 =>q141
-Maaan ! <end>
+Putaaaain ! <end>
 
 =>a142_original
 I can get you one if you need it.<end>
 
 =>a142
-Je peux t'en avoir un si tu en as besoin.<end>
+Je peux vous en trouver une, si vous en avez besoin.<end>
 
 =>q143_original
 What are you doing down here?<end>
 
 =>q143
-Que faites-vous ici ?<end>
+Qu'est-ce que vous faites, ici en bas ?<end>
 
 =>a144_original
 Heya. I'm $(context.player.Name).<end>
 
 =>a144
-Bonjour. Je suis $(context.player.Name).<end>
+Salut. Je suis $(context.player.Name).<end>
 
 =>q145_original
 I'm Harland. <end>
@@ -924,7 +924,7 @@ Je suis Harland. <end>
 ::leaning forward, focusing all his attention at one of the security monitors before him. On it, you see two dark figures disappearing behind the corner. The man straightens up and ::<end>
 
 =>q146
-::Se penchant vers l'avant, focalisant toute son attention sur un des moniteurs de sécurité avant lui. Sur elle, deux figures sombres disparaissent derrière le coin. L'homme se redresse et::<end>
+::penché en avant, toute son attention rivée à l'un des moniteurs de sécurité devant lui. Dessus, deux silhouettes sombres disparaissent au coin. L'homme se redresse et ::<end>
 
 =>q147_original
 <end>
@@ -938,9 +938,9 @@ Je suis Harland. <end>
 Dammit, dammit, dammit!<end>
 
 =>q148
-::Harland regarde les moniteurs.::
+::Vous trouvez Harland les yeux collés aux moniteurs.::
 
-Nom d'un chien !<end>
+Merde, merde, merde !<end>
 
 =>a149_original
 What's the matter?<end>
@@ -958,13 +958,13 @@ C'est l'explorateur. <end>
 ::He sighs.:: Maaaan! I got impatient and, uh... I drove the bot to that cave. Neat little thing, gotta say - works like a charm! <end>
 
 =>q151
-::Il soupire.:: Maaaan ! J'étais impatient et... J'ai conduit le robot dans cette grotte. Neat petite chose, doit dire - fonctionne comme un charme! <end>
+::Il soupire.:: Putain ! J'ai perdu patience et, euh... j'ai conduit le bot jusqu'à cette grotte. Sacré petit engin, faut le dire. Ça marche du tonnerre ! <end>
 
 =>q152_original
 I even managed to scare away that stalker with the mounted gun.<end>
 
 =>q152
-J'ai même réussi à effrayer ce harceleur avec le pistolet monté.<end>
+J'ai même réussi à faire fuir ce rôdeur avec le canon monté.<end>
 
 =>q153_original
 
@@ -974,13 +974,13 @@ The problem is, I guess it wasn't fully charged or something, so it ran out of b
 =>q153
 
 
-Le problème, c'est qu'il n'était pas complètement chargé ou quelque chose comme ça, donc il n'y avait plus de piles sur moi.<end>
+Le problème, c'est qu'il n'était pas à fond, je crois. Plus de batteries, en tout cas. Il s'est arrêté net.<end>
 
 =>q154_original
 The good thing is, however, that I managed to find this opening in that cave: There's what looks like an under-passage utility section out there. I barely got a few meters in before the video feed went out, but it looks massive.<end>
 
 =>q154
-La bonne chose, cependant, c'est que j'ai réussi à trouver cette ouverture dans cette grotte: Il y a ce qui ressemble à une section d'utilité sous-passage. J'ai à peine quelques mètres avant que le flux vidéo ne sorte, mais ça a l'air énorme.<end>
+Le bon côté, par contre : j'ai trouvé cette ouverture dans la grotte. On dirait une section technique des passages inférieurs, là-dehors. J'ai à peine fait quelques mètres avant que l'image coupe, mais ça a l'air énorme.<end>
 
 =>q155_original
 <end>
@@ -992,7 +992,7 @@ La bonne chose, cependant, c'est que j'ai réussi à trouver cette ouverture dan
 How do you know it ran out of batteries and not, let's say - malfunctioned?<end>
 
 =>a156
-Comment savez-vous qu'il n'a plus de piles et pas, disons - dysfonctionnement?<end>
+Comment vous savez que c'est les batteries, et pas, disons... une panne ?<end>
 
 =>q157_original
 I don't *know*. I think so. 
@@ -1000,7 +1000,7 @@ I don't *know*. I think so.
 I hope so...<end>
 
 =>q157
-Je ne sais pas. Je crois.
+Je ne *sais* pas. Je crois.
 
 J'espère...<end>
 
@@ -1008,7 +1008,7 @@ J'espère...<end>
 You want me to go out there with a couple of batteries?<end>
 
 =>a158
-Tu veux que j'y aille avec quelques piles ?<end>
+Vous voulez que j'aille là-dehors avec quelques batteries ?<end>
 
 =>q159_original
 Yeah. Charge that thing up. It's got a good headlight, you know. Guess I could drive it around and brighten up the space while you make sure nothing happens to it. 
@@ -1016,7 +1016,7 @@ Yeah. Charge that thing up. It's got a good headlight, you know. Guess I could d
 It'd be better that way. Teamwork, man.<end>
 
 =>q159
-Oui. Chargez ce truc. C'est un bon phare. Je pourrais le conduire et illuminer l'espace pendant que tu t'assures que rien ne lui arrive.
+Ouais. Rechargez-le. Il a un bon phare, vous savez. Je pourrais le piloter et éclairer les lieux, pendant que vous vous assurez que rien ne lui arrive.
 
 Ce serait mieux comme ça. Travail d'équipe.<end>
 
@@ -1024,7 +1024,7 @@ Ce serait mieux comme ça. Travail d'équipe.<end>
 Got it. I'll be on my way.<end>
 
 =>a160
-Compris. Je m'en vais.<end>
+Compris. J'y vais.<end>
 
 =>q161_original
 Well then... Good luck, I guess. I'll be waiting here to assume control. 
@@ -1032,9 +1032,9 @@ Well then... Good luck, I guess. I'll be waiting here to assume control.
 Don't forget the batteries!<end>
 
 =>q161
-Alors... Bonne chance, je suppose. J'attends ici pour prendre le contrôle.
+Alors... bonne chance, j'imagine. J'attends ici pour reprendre les commandes.
 
-N'oublie pas les piles !<end>
+N'oubliez pas les batteries !<end>
 
 =>a162_original
 Teamwork.<end>
@@ -1046,7 +1046,7 @@ Travail d'équipe.<end>
 Better for you perhaps...<end>
 
 =>a163
-Mieux pour toi peut-être...<end>
+Mieux pour vous, peut-être...<end>
 
 =>a164_original
 ::Nod.::<end>
@@ -1064,25 +1064,25 @@ L'explorateur est arrivé ?<end>
 Yeah, yeah. <end>
 
 =>q166
-Oui, oui. <end>
+Ouais, ouais. <end>
 
 =>a167_original
 What did you mess up now?<end>
 
 =>a167
-Qu'est-ce que tu as foutu ?<end>
+Qu'est-ce que vous avez encore foiré ?<end>
 
 =>q168_original
 I didn't-- Well... <end>
 
 =>q168
-Je n'ai pas... <end>
+J'ai pas... Enfin... <end>
 
 =>q169_original
 Hey, this little explorer bot is top notch, man! <end>
 
 =>q169
-Hé, ce petit bot d'explorateur est top ! <end>
+Hé, ce petit bot explorateur, c'est du haut de gamme ! <end>
 
 =>q170_original
 Real pleased with it. I'm driving it all over the passages, and I gotta say, I feel a lot better doing that than staring through motionless cameras. 
@@ -1090,15 +1090,15 @@ Real pleased with it. I'm driving it all over the passages, and I gotta say, I f
 Plus I got a gun on it.<end>
 
 =>q170
-Vraiment content. Je le fais partout, et je dois dire, je me sens beaucoup mieux que de regarder les caméras immobiles.
+Vraiment content. Je le pilote partout dans les passages, et je dois dire, je me sens bien mieux comme ça qu'à fixer des caméras immobiles.
 
-Et j'ai une arme dessus.<end>
+Et il a un canon dessus.<end>
 
 =>q171_original
 Hey, $(context.player.Name).<end>
 
 =>q171
-Bonjour, $(context.player.Name).<end>
+Hé, $(context.player.Name).<end>
 
 =>q172_original
 Any news on Tanner?<end>
@@ -1116,7 +1116,7 @@ Non.<end>
 Alright. I thought you came here with news. Why are you here then?<end>
 
 =>q174
-Très bien. Je croyais que tu étais venu ici avec des nouvelles. Pourquoi êtes-vous ici alors ?<end>
+Très bien. Je croyais que vous veniez avec des nouvelles. Alors, pourquoi vous êtes là ?<end>
 
 =>a175_original
 Something tells me he's not coming back.<end>
@@ -1134,7 +1134,7 @@ Quelque chose me dit qu'il ne reviendra pas.<end>
 Hey, I decided to keep that little bot, and oh man, am I glad I did. <end>
 
 =>q177
-J'ai décidé de garder ce petit robot, et je suis content de l'avoir fait. <end>
+J'ai décidé de garder ce petit bot, et putain que je suis content de l'avoir fait. <end>
 
 =>q178_original
 <end>
@@ -1146,23 +1146,22 @@ J'ai décidé de garder ce petit robot, et je suis content de l'avoir fait. <end
 Feels a lot better having another turret around here. It really does.<end>
 
 =>q179
-C'est mieux d'avoir une autre tourelle par ici. Vraiment.<end>
+Ça fait du bien d'avoir une autre tourelle, par ici. Vraiment.<end>
 
 =>q180_original
 Ammo's ready.<end>
 
 =>q180
-Ammo est prêt.<end>
+Les munitions sont prêtes.<end>
 
 =>q181_original
 I should really get that camera fixed...<end>
 
 =>q181
-Je devrais vraiment réparer cette caméra...<end>
+Il faudrait vraiment que je fasse réparer cette caméra...<end>
 
 =>q182_original
 What are you doing down here?<end>
 
 =>q182
-Que faites-vous ici ?<end>
-
+Qu'est-ce que vous faites, ici en bas ?<end>

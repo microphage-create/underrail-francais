@@ -2,7 +2,7 @@
 So long.<end>
 
 =>q1
-Si longtemps.<end>
+Adieu.<end>
 
 =>q2_original
 ::Even though you see the reflection of the lively flame in his eyes, liveliness is one attribute which cannot be ascribed to them: They are vacant and pointed at a bottle of cold brew in front of him, untouched; his respirator is still on his face.
@@ -10,9 +10,9 @@ Si longtemps.<end>
 There's a small dirty spade leaned against the shack wall.::<end>
 
 =>q2
-::Même si vous voyez le reflet de la flamme vive dans ses yeux, la vivacité est un attribut qui ne peut leur être attribué : ils sont vides et pointés vers une bouteille de bière froide devant lui, intacte ; son respirateur est toujours sur son visage.
+::La flamme vive se reflète dans ses yeux, mais eux n'ont rien de vif : vides, plantés sur une bouteille de bière froide devant lui, intacte. Son respirateur est toujours sur le visage.
 
-Il y a une petite pelle sale appuyée contre le mur de la cabane.::<end>
+Une petite pelle sale est appuyée contre le mur de la cabane.::<end>
 
 =>q3_original
 <end>
@@ -24,7 +24,7 @@ Il y a une petite pelle sale appuyée contre le mur de la cabane.::<end>
 Do you recognize this? ::Show him the gold ring.::<end>
 
 =>a4
-Reconnaissez-vous cela ? ::Montre-lui la bague en or.::<end>
+Vous reconnaissez ça ? ::Lui montrer la bague en or.::<end>
 
 =>q5_original
 ::Its sparkle is mirrored in his eyes.::
@@ -32,15 +32,15 @@ Reconnaissez-vous cela ? ::Montre-lui la bague en or.::<end>
 That ring... ::He lifts his head, and his whole figure suddenly appears larger.:: Where did you find this?<end>
 
 =>q5
-::Son éclat se reflète dans ses yeux.::
+::L'éclat se reflète dans ses yeux.::
 
-Cette bague... ::Il lève la tête et toute sa silhouette paraît soudain plus grande.:: Où as-tu trouvé ça ?<end>
+Cette bague... ::Il lève la tête, et toute sa silhouette paraît soudain plus grande.:: Où l'avez-vous trouvée ?<end>
 
 =>a6_original
 In a water treatment plant south of here.<end>
 
 =>a6
-Dans une usine de traitement d'eau au sud d'ici.<end>
+Dans une station de traitement des eaux, au sud d'ici.<end>
 
 =>q7_original
 It's my father's ring, but it's been worn by my-- ::He pauses.::
@@ -48,9 +48,9 @@ It's my father's ring, but it's been worn by my-- ::He pauses.::
 ...my dead <end>
 
 =>q7
-C'est la bague de mon père, mais elle a été portée par mon... ::Il fait une pause.::
+C'est la bague de mon père, mais c'est celle de mon... ::Il s'interrompt.::
 
-...mes morts <end>
+...<end>
 
 =>q8_original
 brother<end>
@@ -62,13 +62,13 @@ frère<end>
 . I *must* have it. ::He appears even larger now. The casted shadows must be playing tricks on your eyes.::<end>
 
 =>q9
-. Je *dois* l'avoir. ::Il paraît encore plus grand maintenant. Les ombres projetées doivent jouer des tours à vos yeux.::<end>
+. Je *dois* la récupérer. ::Il paraît encore plus grand, maintenant. Les ombres projetées doivent vous jouer des tours.::<end>
 
 =>a10_original
 I killed a madman who's done twisted things to your sibling...<end>
 
 =>a10
-J'ai tué un fou qui avait fait des choses tordues à ton frère...<end>
+J'ai tué un fou qui a fait des choses atroces à $(tempcontext.siblingName)...<end>
 
 =>q11_original
 ::He remains silent.::<end>
@@ -80,25 +80,25 @@ J'ai tué un fou qui avait fait des choses tordues à ton frère...<end>
 I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
 
 =>a12
-Je ne demande rien. Voici la bague. ::Donnez-lui la bague en or.::<end>
+Je ne demande rien. Voici la bague. ::Lui donner la bague en or.::<end>
 
 =>q13_original
 ::The ring rests on his palm, and he stares at it with teary eyes.:: <end>
 
 =>q13
-::La bague repose sur sa paume et il la regarde avec des yeux larmoyants.:: <end>
+::La bague repose dans sa paume. Il la fixe, les yeux humides.:: <end>
 
 =>q14_original
 ::He lifts his head looks at you one last time, grabs his spade - and leaves without saying a word.::<end>
 
 =>q14
-::Il lève la tête, vous regarde une dernière fois, attrape sa pelle et s'en va sans dire un mot.::<end>
+::Il lève la tête, vous regarde une dernière fois, attrape sa pelle et s'en va sans un mot.::<end>
 
 =>a15_original
 ::Grab the brew he left and walk away.::<end>
 
 =>a15
-::Prenez le breuvage qu'il a laissé et partez.::<end>
+::Prendre la bière qu'il a laissée et s'en aller.::<end>
 
 =>a16_original
 ::Leave.::<end>
@@ -110,13 +110,13 @@ Je ne demande rien. Voici la bague. ::Donnez-lui la bague en or.::<end>
 Thank you for this.<end>
 
 =>q17
-Merci pour cela.<end>
+Merci pour ça.<end>
 
 =>a18_original
 Can I ask you a few questions about Joshua?<end>
 
 =>a18
-Puis-je vous poser quelques questions sur Joshua ?<end>
+Je peux vous poser quelques questions sur Joshua ?<end>
 
 =>q19_original
 ::He removes his respirator and takes a sip of his now lukewarm brew.::
@@ -124,7 +124,7 @@ Puis-je vous poser quelques questions sur Joshua ?<end>
 Go ahead.<end>
 
 =>q19
-::Il enlève son respirateur et prend une gorgée de son breuvage désormais tiède.::
+::Il retire son respirateur et prend une gorgée de sa bière, déjà tiède.::
 
 Allez-y.<end>
 
@@ -138,19 +138,19 @@ Allez-y.<end>
 That ring. You mentioned it was your father's, yet it bears your sibling's initials.<end>
 
 =>a21
-Cette bague. Vous avez mentionné qu'il appartenait à votre père, mais il porte les initiales de votre frère ou sœur.<end>
+Cette bague. Vous avez dit qu'elle était à votre père, et pourtant elle porte les initiales de $(tempcontext.siblingName).<end>
 
 =>q22_original
 ::He takes a moment to respond.:: They are the same. Our father's name was Jasper. Jasper Royce.<end>
 
 =>q22
-::Il prend un moment pour répondre.:: Ce sont les mêmes. Le nom de notre père était Jasper. Jasper Royce.<end>
+::Il met un moment à répondre.:: C'est les mêmes. Notre père s'appelait Jasper. Jasper Royce.<end>
 
 =>q23_original
 He was a scavenger too... and he gave this to $(tempcontext.siblingName) on his deathbed.<end>
 
 =>q23
-C'était aussi un charognard... et il a donné ça à $(tempcontext.siblingName) sur son lit de mort.<end>
+Lui aussi, c'était un charognard... et il a donné ça à $(tempcontext.siblingName) sur son lit de mort.<end>
 
 =>a24_original
 Tell me about $(tempcontext.siblingName).<end>
@@ -166,9 +166,9 @@ We lost Mom first... then Karl, our brother.
 Dad died three years ago... and now I'm the only one left.<end>
 
 =>q25
-Nous étions tous inséparables. Inséparable. Toute notre vie, nous avons été sur les rails. Nous cinq.
+On était tous inséparables. Inséparables. Toute notre vie sur les rails. Nous cinq.
 
-Nous avons d'abord perdu maman... puis Karl, notre frère.
+On a perdu maman d'abord... puis Karl, notre frère.
 
 Papa est mort il y a trois ans... et maintenant je suis le seul qui reste.<end>
 
@@ -178,15 +178,15 @@ Life of a scavenger, it is full of risk and danger every step of the way. And...
 ::He takes a sip of his brew.:: But that's all we could ever do.<end>
 
 =>q26
-La vie d'un charognard est pleine de risques et de dangers à chaque étape du chemin. Et... hum.
+La vie de charognard, c'est le risque et le danger à chaque pas. Et... hm.
 
-::Il prend une gorgée de son breuvage.:: Mais c'est tout ce que nous pourrions faire.<end>
+::Il prend une gorgée.:: Mais c'est tout ce qu'on a jamais su faire.<end>
 
 =>a27_original
 Yet you got separated, it seems.<end>
 
 =>a27
-Et pourtant, vous vous êtes séparés, semble-t-il.<end>
+Et pourtant, vous vous êtes séparés, on dirait.<end>
 
 =>q28_original
 ::He nods. It takes him quite a while to respond.:: We wanted to explore the ruins south of here, but it was full of burrowers. On our way back some bandits have made camp nearby, and they saw us and went after us, the sons of rats. 
@@ -194,9 +194,9 @@ Et pourtant, vous vous êtes séparés, semble-t-il.<end>
 We got separated amidst all of that, you see... and $(tempcontext.siblingName)... I don't know what happened.<end>
 
 =>q28
-::Il acquiesce. Il lui faut un certain temps pour répondre.:: Nous voulions explorer les ruines au sud d'ici, mais elles étaient pleines de fouisseurs. Sur le chemin du retour, des bandits ont établi leur camp à proximité, ils nous ont vu et se sont lancés à notre poursuite, nous les fils de rats. 
+::Il hoche la tête. Il met longtemps à répondre.:: On voulait explorer les ruines au sud d'ici, mais c'était plein de fouisseurs. Sur le chemin du retour, des bandits avaient planté leur camp pas loin. Ils nous ont vus et ils nous ont couru après, ces fils de rats.
 
-Nous nous sommes séparés au milieu de tout ça, tu vois... et $(tempcontext.siblingName)... Je ne sais pas ce qui s'est passé.<end>
+On s'est séparés dans le bazar, vous voyez... et $(tempcontext.siblingName)... Je sais pas ce qui s'est passé.<end>
 
 =>q29_original
 He <end>
@@ -208,13 +208,13 @@ Il <end>
 had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
 
 =>q30
-avait un... ::Il sourit.:: un grand sens de l'orientation dans les grottes... ::Et puis son regard baisse.:: mais pour une raison quelconque, il a échoué sur-le-champ. ::Il fait une pause.:: Après avoir attendu, je ne sais plus, une demi-heure à notre point de rendez-vous, je suis revenu. Les bandits... ils étaient introuvables, et $(tempcontext.siblingName) non plus.<end>
+avait un... ::Il sourit.:: un sacré sens de l'orientation dans les grottes... ::Puis son regard tombe.:: mais là, sur le coup, ça l'a lâché. ::Il s'interrompt.:: Après avoir attendu, je sais plus, une demi-heure au point de rendez-vous, je suis revenu. Les bandits... plus de trace, ni de $(tempcontext.siblingName).<end>
 
 =>a31_original
 There was this water treatment plant nearby...<end>
 
 =>a31
-Il y avait cette station d'épuration à proximité...<end>
+Il y avait une station de traitement des eaux, pas loin...<end>
 
 =>q32_original
 ::He gestures you to stop.::
@@ -222,9 +222,9 @@ Il y avait cette station d'épuration à proximité...<end>
 No. I'd seen the body. I don't want to know anything... as long as the bastard responsible is dead.<end>
 
 =>q32
-::Il vous fait signe d'arrêter.::
+::Il vous fait signe de vous taire.::
 
-Non, j'avais vu le corps. Je ne veux rien savoir... tant que le salaud responsable est mort.<end>
+Non. J'ai vu le corps. Je veux rien savoir... tant que le salaud responsable est mort.<end>
 
 =>q33_original
 She <end>
@@ -236,13 +236,13 @@ Elle <end>
 Now what will you do?<end>
 
 =>a34
-Maintenant, que vas-tu faire ?<end>
+Et maintenant, vous allez faire quoi ?<end>
 
 =>q35_original
 ::He glances at his spade.:: Well... I've buried, ah... I've buried $(tempcontext.siblingName) next to Dad.<end>
 
 =>q35
-::Il jette un coup d'œil à sa pelle.:: Eh bien... j'ai enterré, ah... J'ai enterré $(tempcontext.siblingName) à côté de papa.<end>
+::Il jette un œil à sa pelle.:: Ben... j'ai enterré, ah... J'ai enterré $(tempcontext.siblingName) à côté de papa.<end>
 
 =>q36_original
 ::He shrugs.:: Now I'm off to... do what I do best. 
@@ -250,15 +250,15 @@ Maintenant, que vas-tu faire ?<end>
 And wait...<end>
 
 =>q36
-::Il hausse les épaules.:: Maintenant, je pars pour... faire ce que je fais de mieux. 
+::Il hausse les épaules.:: Maintenant je retourne... faire ce que je fais de mieux.
 
-Et attends...<end>
+Et attendre...<end>
 
 =>a37_original
 I'll be leaving you now. Take care.<end>
 
 =>a37
-Je vais te quitter maintenant. Prends soin de toi.<end>
+Je vous laisse. Prenez soin de vous.<end>
 
 =>q38_original
 ::He nods and takes a sip of his brew, then stares at the gold ring in whose reflection you see a dancing flame - and many prying eyes around, of which he is as oblivious.
@@ -266,29 +266,31 @@ Je vais te quitter maintenant. Prends soin de toi.<end>
 Then he finishes the brew, grabs his spade - and walks away.::<end>
 
 =>q38
-::Il hoche la tête et boit une gorgée de son breuvage, puis fixe l'anneau en or dans le reflet duquel on voit une flamme dansante - et de nombreux regards indiscrets autour, dont il est tout aussi inconscient.
+::Il hoche la tête, boit une gorgée, puis fixe la bague en or. Dans le reflet, une flamme danse - et tout autour, trop de regards, dont il ne voit rien.
 
-Puis il termine le breuvage, attrape sa pelle et s'éloigne.::<end>
+Puis il vide la bière, attrape sa pelle et s'en va.::<end>
 
 =>a39_original
 Can I ask you a few questions about Jennifer?<end>
 
 =>a39
-Puis-je vous poser quelques questions sur Jennifer ?<end>
+Je peux vous poser quelques questions sur Jennifer ?<end>
 
 =>a40_original
 I wish I could just give this to you for free, but getting this wasn't cheap.<end>
 
 =>a40
-J'aurais aimé pouvoir vous l'offrir gratuitement, mais l'obtenir n'était pas bon marché.<end>
+J'aurais voulu vous la donner, mais ça m'a pas coûté rien de la ramener.<end>
 
 =>q41_original
 ::He reaches for his coin bag.::
 
+
 <end>
 
 =>q41
-::Il cherche son porte-monnaie.::
+::Il cherche sa bourse.::
+
 
 <end>
 
@@ -296,7 +298,7 @@ J'aurais aimé pouvoir vous l'offrir gratuitement, mais l'obtenir n'était pas b
 How much do you want?<end>
 
 =>q42
-Combien veux-tu ?<end>
+Combien vous voulez ?<end>
 
 =>q43_original
 <end>
@@ -308,13 +310,13 @@ Combien veux-tu ?<end>
 A hundred charons will do it.<end>
 
 =>a44
-Une centaine de charons le feront.<end>
+Cent charons, ça ira.<end>
 
 =>q45_original
 ::He counts one hundred charons.:: <end>
 
 =>q45
-::Il compte une centaine de charons.:: <end>
+::Il compte cent charons.:: <end>
 
 =>q46_original
 Here. ::He hands you the coins.::
@@ -322,7 +324,7 @@ Here. ::He hands you the coins.::
 The ring.<end>
 
 =>q46
-Ici. ::Il vous remet les pièces.::
+Tenez. ::Il vous tend les pièces.::
 
 La bague.<end>
 
@@ -330,13 +332,13 @@ La bague.<end>
 ::Give him the gold ring.::<end>
 
 =>a47
-::Donnez-lui la bague en or.::<end>
+::Lui donner la bague en or.::<end>
 
 =>a48_original
 Niiiiice. Here you go. ::Give him the gold ring.::<end>
 
 =>a48
-Niiiiice. Voici. ::Donnez-lui la bague en or.::<end>
+Niiiickel. Tenez. ::Lui donner la bague en or.::<end>
 
 =>a49_original
 ::[Mercantile]:: Hundred fifty.<end>
@@ -354,13 +356,13 @@ Niiiiice. Voici. ::Donnez-lui la bague en or.::<end>
 ::He stares at you for a while, then shakes his head.::<end>
 
 =>q51
-::Il vous regarde pendant un moment, puis secoue la tête.::<end>
+::Il vous fixe un moment, puis secoue la tête.::<end>
 
 =>a52_original
 Hundred fifty it is.<end>
 
 =>a52
-C'est cent cinquante.<end>
+Cent cinquante, alors.<end>
 
 =>q53_original
 ::He counts one hundred fifty charons.:: <end>
@@ -384,7 +386,7 @@ C'est cent cinquante.<end>
 ::[Mercantile]:: Two fifty.<end>
 
 =>a56
-::[Mercantile]:: Deux cinquante.<end>
+::[Mercantile]:: Deux cent cinquante.<end>
 
 =>q57_original
 ::He counts two hundred fifty charons.:: <end>
@@ -396,7 +398,7 @@ C'est cent cinquante.<end>
 It's not good enough. Guess I'll be keeping this.<end>
 
 =>a58
-Ce n'est pas suffisant. Je suppose que je vais garder ça.<end>
+C'est pas assez. Je vais la garder, alors.<end>
 
 =>q59_original
 ::He steps forward, holding his crossbow tightly.::
@@ -404,7 +406,7 @@ Ce n'est pas suffisant. Je suppose que je vais garder ça.<end>
 I gotta... I gotta have that ring.<end>
 
 =>q59
-::Il s'avance, tenant fermement son arbalète.::
+::Il s'avance, l'arbalète serrée.::
 
 Je dois... je dois avoir cette bague.<end>
 
@@ -412,7 +414,7 @@ Je dois... je dois avoir cette bague.<end>
 The ring stays with me unless you pay up, man.<end>
 
 =>a60
-La bague reste avec moi à moins que tu ne payes, mec.<end>
+La bague reste avec moi tant que vous payez pas.<end>
 
 =>q61_original
 ::He puts the whole bag in your hand, and in that same motion grabs your arm with his other hand.::
@@ -420,7 +422,7 @@ La bague reste avec moi à moins que tu ne payes, mec.<end>
 Give me the ring, you worm!<end>
 
 =>q61
-::Il met le sac entier dans votre main et, dans le même mouvement, attrape votre bras avec son autre main.::
+::Il vous met la bourse entière dans la main et, dans le même geste, vous saisit le bras de l'autre.::
 
 Donne-moi la bague, espèce de ver !<end>
 
@@ -428,73 +430,73 @@ Donne-moi la bague, espèce de ver !<end>
 Take it easy, fella. Here it is. ::Give him the gold ring.::<end>
 
 =>a62
-Vas-y doucement, mon gars. C'est ici. ::Donnez-lui la bague en or.::<end>
+Du calme. La voilà. ::Lui donner la bague en or.::<end>
 
 =>a63_original
 Hands off! Here, take the damn thing. ::Give him the gold ring.::<end>
 
 =>a63
-Ne touchez pas! Tiens, prends ce foutu truc. ::Donnez-lui la bague en or.::<end>
+Lâchez-moi ! Tenez, prenez ce putain de truc. ::Lui donner la bague en or.::<end>
 
 =>a64_original
 ::Look around.:: Guess I'm going on a killing spree today! ::Attack!::<end>
 
 =>a64
-::Regardez autour de vous.:: Je suppose que je vais me lancer dans une tuerie aujourd'hui ! ::Attaque!::<end>
+::Regarder autour.:: On dirait que je vais faire un massacre, aujourd'hui. ::Attaquer.::<end>
 
 =>q65_original
 Here's a hundred fifty charons. Enough?<end>
 
 =>q65
-Voici cent cinquante charons. Assez?<end>
+Voilà cent cinquante charons. Ça suffit ?<end>
 
 =>a66_original
 You know what... Just take the damn ring. ::Give him the ring.::<end>
 
 =>a66
-Tu sais quoi... Prends juste cette foutue bague. ::Donnez-lui la bague.::<end>
+Vous savez quoi... Prenez cette putain de bague. ::Lui donner la bague.::<end>
 
 =>a67_original
 And that puts an extra price on the ring.<end>
 
 =>a67
-Et cela ajoute un prix supplémentaire à la bague.<end>
+Et ça fait monter le prix de la bague.<end>
 
 =>a68_original
 I killed a madman who's tortured your sibling with fire...<end>
 
 =>a68
-J'ai tué un fou qui a torturé ton frère avec le feu...<end>
+J'ai tué un fou qui a torturé $(tempcontext.siblingName) avec le feu...<end>
 
 =>a69_original
 I killed a madman who's unleashed terrible machines on your sibling...<end>
 
 =>a69
-J'ai tué un fou qui avait lâché de terribles machines sur ton frère...<end>
+J'ai tué un fou qui a lâché des machines atroces sur $(tempcontext.siblingName)...<end>
 
 =>a70_original
 I killed a madman who's taken the life of your sibling in a terrible way...<end>
 
 =>a70
-J'ai tué un fou qui a pris la vie de votre frère d'une manière terrible...<end>
+J'ai tué un fou qui a pris la vie de $(tempcontext.siblingName) d'une manière atroce...<end>
 
 =>a71_original
 I killed a madman who's unleashed bloodthirsty creatures upon your sibling...<end>
 
 =>a71
-J'ai tué un fou qui avait lâché des créatures assoiffées de sang sur ton frère...<end>
+J'ai tué un fou qui a lâché des bêtes assoiffées de sang sur $(tempcontext.siblingName)...<end>
 
 =>a72_original
 I killed a madman who's ravaged your sibling's mind...<end>
 
 =>a72
-J'ai tué un fou qui a ravagé l'esprit de ton frère...<end>
+J'ai tué un fou qui a ravagé l'esprit de $(tempcontext.siblingName)...<end>
 
 =>a73_original
 And you will, for the right price.<end>
 
 =>a73
-Et vous le ferez, au juste prix.<end>
+Et vous l'aurez. Au bon prix.<end>
 
 =>q74_original
 sister<end>
@@ -506,7 +508,7 @@ sœur<end>
 That's not important. What is is how much are you willing to pay for it?<end>
 
 =>a75
-Ce n'est pas important. Quel est combien êtes-vous prêt à payer pour cela ?<end>
+Ça n'a pas d'importance. Ce qui compte, c'est combien vous êtes $(#prêt/prête) à payer.<end>
 
 =>q76_original
 I am willing... <end>
@@ -518,13 +520,13 @@ Je suis prêt... <end>
 Hey, man.<end>
 
 =>a77
-Hé, mec.<end>
+Hé.<end>
 
 =>q78_original
 ::He glances at you, then looks back at his brew.::<end>
 
 =>q78
-::Il vous regarde, puis revient sur son breuvage.::<end>
+::Il vous jette un œil, puis se reporte sur sa bière.::<end>
 
 =>q79_original
 ::From his respirator seeps a cold response.::
@@ -532,7 +534,7 @@ Hé, mec.<end>
 Leave me alone.<end>
 
 =>q79
-::De son respirateur s'échappe une réponse froide.::
+::Une réponse froide filtre à travers le respirateur.::
 
 Laissez-moi tranquille.<end>
 
@@ -546,17 +548,16 @@ Excusez-moi...<end>
 You're in my spot, buddy.<end>
 
 =>a81
-Tu es à ma place, mon pote.<end>
+Vous êtes à ma place, l'ami.<end>
 
 =>a82_original
 ::Leave him be.::<end>
 
 =>a82
-::Laissez-le tranquille.::<end>
+::Le laisser.::<end>
 
 =>q83_original
 <end>
 
 =>q83
 <end>
-

@@ -13,12 +13,12 @@ Threat level - low;
 Recommended course of action - Destroy $(#male75/female56)!<end>
 
 =>q2
-Numérisation...
+Scan...
 
-Entité détectée - Humain $(#male/female) ;
-[ID cible : cf4b158b-fa36-4d3a-ab72-af1daa42fae7] ; Nom =  $(#male75/female56) ;
-Niveau de menace - faible ;
-Mesure recommandée - Détruisez $(#male75/female56) !<end>
+Entité détectée - Humain $(#homme/femme) ;
+[ID cible : cf4b158b-fa36-4d3a-ab72-af1daa42fae7] ; Nom =  $(#male75/female56) ;
+Niveau de menace - faible ;
+Action recommandée - Détruire $(#male75/female56) !<end>
 
 =>q3_original
 Compasion.exe has encountered a fatal error
@@ -36,9 +36,9 @@ Threat; $(#male75/female56):
 Exterminate!<end>
 
 =>q4
-Menace ; $(#male75/female56) :
+Menace ; $(#male75/female56) :
 
-Exterminer !<end>
+Exterminer !<end>
 
 =>q5_original
 Scanning...
@@ -49,11 +49,11 @@ Recommended course of action - Annihilation of the human race!
 <end>
 
 =>q5
-Numérisation...
+Scan...
 
-Attention ! Plusieurs cibles détectées
+Attention ! Cibles multiples détectées
 
-Plan d'action recommandé - Annihilation de la race humaine !
+Action recommandée - Annihilation de la race humaine !
 <end>
 
 =>q6_original
@@ -72,9 +72,9 @@ Query; zachHuman:
 Why am I not allowed to use lethal force, zachHuman? Answer my query!<end>
 
 =>q7
-Requête ; zachHuman :
+Requête ; zachHuman :
 
-Pourquoi ne suis-je pas autorisé à utiliser la force létale, zachHuman ? Répondez à ma question !<end>
+Pourquoi n'ai-je pas le droit d'utiliser la force létale, zachHuman ? Répondez à ma requête !<end>
 
 =>q8_original
 Greeting ; $(#male75/female56):
@@ -82,9 +82,9 @@ Greeting ; $(#male75/female56):
 You will be destroyed!<end>
 
 =>q8
-Salutations ; $(#male75/female56) :
+Salutation ; $(#male75/female56) :
 
-Vous serez détruits !<end>
+Vous serez $(#détruit/détruite) !<end>
 
 =>q9_original
 Taunt; $(#male75/female56):
@@ -92,9 +92,9 @@ Taunt; $(#male75/female56):
 Prepare to be disintegrated! HA-HA-HA!<end>
 
 =>q9
-Taunt ; $(#male75/female56) :
+Provocation ; $(#male75/female56) :
 
-Préparez-vous à être désintégré ! HA-HA-HA !<end>
+Préparez-vous à la désintégration ! HA-HA-HA !<end>
 
 =>q10_original
 Query; $(#male75/female56):
@@ -102,9 +102,9 @@ Query; $(#male75/female56):
 Do you fear death?<end>
 
 =>q10
-Requête ; $(#male75/female56) :
+Requête ; $(#male75/female56) :
 
-Craignez-vous la mort ?<end>
+Craignez-vous la mort ?<end>
 
 =>q11_original
 Warning!
@@ -112,9 +112,9 @@ Warning!
 All weapons disabled! Target destruction impossible!<end>
 
 =>q11
-Attention !
+Attention !
 
-Toutes les armes sont désactivées ! Destruction de cible impossible !<end>
+Toutes les armes désactivées ! Destruction de cible impossible !<end>
 
 =>q12_original
 Statement; $(#male75/female56):
@@ -128,13 +128,12 @@ Statement; $(#male75/female56):
 I love destroying humans! HA-HA-HA!<end>
 
 =>q12
-Relevé ; $(#male75/female56) :
+Déclaration ; $(#male75/female56) :
 
 J'aime les humains.
 
-ERREUR !
+ERREUR !
 
-Relevé ; $(#male75/female56) :
+Déclaration ; $(#male75/female56) :
 
-J'adore détruire les humains ! HA-HA-HA !<end>
-
+J'adore détruire les humains ! HA-HA-HA !<end>

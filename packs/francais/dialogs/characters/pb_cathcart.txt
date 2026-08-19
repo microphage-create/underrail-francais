@@ -48,7 +48,7 @@ C'est tout pour le moment, caporal. Je dois discuter de certaines questions avec
 Colonel, I don't see why the corporal shouldn't be present in our conversation. $(#He'll/She'll) learn of the issue at hand very soon anyway.<end>
 
 =>q8
-Colonel, je ne vois pas pourquoi le caporal ne devrait pas être présent dans notre conversation. $(#He'll/She'll) apprendre le problème très bientôt de toute façon.<end>
+Colonel, je ne vois pas pourquoi le caporal ne devrait pas assister à notre conversation. $(#Il/Elle) apprendra de toute façon très vite de quoi il s'agit.<end>
 
 =>q9_original
 ::Colonel Cathcart delays his answer, merely glancing at you at first. However, you don't wait long for his response.::
@@ -574,13 +574,13 @@ Non, ce n'est pas ce que je voulais dire.<end>
 Sir, have you ever heard of the Acorn, a.k.a ACoNR?<end>
 
 =>a86
-Monsieur, avez-vous déjà entendu parler de l'Acorn ?<end>
+Monsieur, avez-vous déjà entendu parler de l'Acorn, alias ACoNR ?<end>
 
 =>q87_original
 No, Corporal, I do not.<end>
 
 =>q87
-Non, c'est faux.<end>
+Non, caporal.<end>
 
 =>q88_original
 <end>
@@ -592,13 +592,13 @@ Non, c'est faux.<end>
 I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
 
 =>a89
-Je n'en sais pas grand-chose moi-même, mais selon moi, c'est une technologie très précieuse qui pourrait grandement servir notre cause.<end>
+Je n'en sais pas grand-chose moi-même, mais d'après ce que je comprends, c'est une techno de grande valeur. Elle pourrait beaucoup servir notre cause.<end>
 
 =>q90_original
 What are you implying? Is this some kind of military technology we could use?<end>
 
 =>q90
-Qu'insinuez-vous ? Est-ce une technologie militaire que nous pourrions utiliser ?<end>
+Qu'est-ce que vous insinuez ? Une techno militaire dont on pourrait se servir ?<end>
 
 =>a91_original
 Could be, sir.<end>
@@ -612,7 +612,7 @@ Mhm. That is definitely an important matter. I need to check this.
 Wait.<end>
 
 =>q92
-Oui. C'est certainement une question importante. Je dois vérifier ça.
+Mhm. Ça, c'est clairement important. Il faut que je vérifie.
 
 Attendez.<end>
 
@@ -628,33 +628,33 @@ Travis? Yes, I need information on Acorn - A-C-o-N-R. Alfa-Charlie-Oscar-Novembe
 Mhm. ::He puts the phone down.::<end>
 
 =>q93
-::Il décroche le téléphone. Il te regarde mais parle à quelqu'un d'autre.::
+::Il décroche le téléphone. Il vous regarde, mais parle à quelqu'un d'autre.::
 
 Travis ? Oui, j'attends...
 
 ::Une minute plus tard.::
 
-Travis ? Oui, j'ai besoin d'informations sur Acorn - A-C-o-N-R. Alfa-Charlie-Oscar-Novembre-Romeo. C'est urgent, oui. Envoyez tout ce que vous pouvez trouver à mon ordinateur. Le caporal $(context.player.Name) en sait plus que moi et je n'aime pas ça.
+Travis ? Oui, j'ai besoin d'informations sur l'Acorn : A-C-o-N-R. Alfa-Charlie-Oscar-November-Romeo. C'est urgent, oui. Envoyez tout ce que vous trouvez sur mon ordinateur. Le caporal $(context.player.Name) en sait plus que moi, et ça ne me plaît pas.
 
-Oui. ::Il pose le téléphone.::<end>
+Mhm. ::Il pose le téléphone.::<end>
 
 =>q94_original
 Now, while we wait: What's the status of this technology? Is it something we can acquire? Do you know where it is?<end>
 
 =>q94
-En attendant, quel est l'état de cette technologie ? Est-ce quelque chose qu'on peut acquérir ? Tu sais où il est ?<end>
+En attendant : où en est cette technologie ? Peut-on la récupérer ? Savez-vous où elle se trouve ?<end>
 
 =>a95_original
 Yes. Right here. ::Show him the Acorn.::<end>
 
 =>a95
-Oui. Ici. ::Montre-lui le maïs.::<end>
+Oui. Ici même. ::Montrer l'Acorn.::<end>
 
 =>q96_original
 ::He takes a curious look at the container, lingering on its unusual symbol. ::<end>
 
 =>q96
-::Il jette un coup d'œil curieux sur le conteneur, s'attardant sur son symbole inhabituel.::<end>
+::Il examine le conteneur, s'attardant sur ce symbole insolite. ::<end>
 
 =>q97_original
 <end>
@@ -670,7 +670,7 @@ It's just like in the picture.<end>
 =>q98
 
 
-C'est comme sur la photo.<end>
+C'est exactement comme sur la photo.<end>
 
 =>a99_original
 I reckon the captain has produced the information you needed, sir?<end>
@@ -686,11 +686,11 @@ Yes, yes... This is it alright.
 Apparently this file is from the time of Biocorp; must've come from the Central Archive.<end>
 
 =>q100
-::Il vous répond, toujours à l'écran.::
+::Il vous répond, toujours plissé sur l'écran.::
 
-Oui, oui... C'est bon.
+Oui, oui... C'est bien ça.
 
-Apparemment, ce fichier vient du temps de Biocorp ; il doit provenir des Archives centrales.<end>
+Apparemment, ce fichier date de l'époque de Biocorp. Ça doit venir des Archives centrales.<end>
 
 =>q101_original
 It says that both the technology and ACoNR units were produced by the New Frontier Technology supercorporation, time period unspecified. No information on how the technology itself, but the few sentences there are in this file imply that it is an integral part in the realization of *high-technology megaprojects* of various kinds. 
@@ -700,7 +700,7 @@ Quote: "Each ACoNR unit is thus of immeasurable value and must be kept under hig
 The rest is irrelevant. <end>
 
 =>q101
-Elle indique que les unités de la technologie et de l'ACoNR ont été produites par la supercorporation de la technologie New Frontier, période non précisée. Aucune information sur la façon dont la technologie elle-même, mais les quelques phrases qu'il y a dans ce fichier implique qu'elle fait partie intégrante de la réalisation de * mégaprojets de haute technologie* de différents types.
+Le fichier indique que la technologie et les unités ACoNR ont été produites par la supercorporation New Frontier Technology, période non précisée. Rien sur le fonctionnement lui-même, mais les quelques phrases du dossier impliquent que c'est une pièce maîtresse dans la réalisation de *mégaprojets de haute technologie* de toutes sortes.
 
 Citation : « Chaque unité ACoNR a donc une valeur incommensurable et doit être gardée sous la plus haute sécurité. Le signal codé nécessaire à son activation n'est disponible que pour un petit nombre de personnes sélectionnées. »
 
@@ -722,7 +722,7 @@ Le reste n'est pas pertinent. <end>
 There is a picture here. ::He rotates the monitor toward you: It indeed displays a picture of the Acorn, shot through reinforced glass of a technology vault of some kind.::<end>
 
 =>q104
-Il y a une photo ici. ::Il tourne le moniteur vers vous : Il montre en effet une image de l'Acorn, tourné à travers le verre renforcé d'une voûte technologique d'une sorte.::<end>
+Il y a une photo. ::Il tourne le moniteur vers vous : on y voit bien l'Acorn, pris à travers le verre blindé d'une sorte de coffre technologique.::<end>
 
 =>q105_original
 This is all classified information, Corporal, but there you have it: It seems you aren't chasing an elusive hopper after all.
@@ -730,21 +730,21 @@ This is all classified information, Corporal, but there you have it: It seems yo
 I have to admit, my interest in this thing is growing the more I hear and read about it, but we mustn't let ourselves get carried away. Focus on your duties - and keep me informed as soon as you obtain any new information on the Acorn.<end>
 
 =>q105
-Il s'agit de renseignements classifiés, mais vous l'avez : Il semble que vous ne poursuiviez pas une trémie insaisissable après tout.
+Ce sont des renseignements classifiés, caporal, mais voilà : vous ne courez pas après un hopper introuvable.
 
-Je dois admettre que mon intérêt pour cette chose grandit plus j'entends et lis à ce sujet, mais nous ne devons pas nous laisser emporter. Concentrez-vous sur vos fonctions - et tenez-moi informé dès que vous obtenez de nouvelles informations sur le maïs.<end>
+Je dois l'admettre : plus j'en entends et plus j'en lis, plus cette chose m'intéresse. Ne nous emballons pas pour autant. Tenez-vous-en à vos devoirs, et tenez-moi au courant dès que vous aurez du nouveau sur l'Acorn.<end>
 
 =>q106_original
 Well done, Corporal, well done. Now to have it put in a safe place. ::He reaches for his phone.::<end>
 
 =>q106
-Bien joué, caporal, bien joué. Maintenant pour le mettre dans un endroit sûr. ::Il cherche son téléphone.::<end>
+Bien joué, caporal. Bien joué. Reste à le mettre en lieu sûr. ::Il tend la main vers le téléphone.::<end>
 
 =>a107_original
 Here you go, sir. ::Give him the Acorn.::<end>
 
 =>a107
-Voilà, monsieur. ::Donne-lui le maïs.::<end>
+Voilà, monsieur. ::Donner l'Acorn.::<end>
 
 =>q108_original
 Yes, yes, put it here. ::He points next to his desk.::
@@ -754,9 +754,9 @@ Yes, yes, put it here. ::He points next to his desk.::
 Alright, I'll wait...<end>
 
 =>q108
-Oui, oui, mettez-le ici. ::Il pointe à côté de son bureau.::
+Oui, oui, posez-le ici. ::Il désigne un endroit à côté de son bureau.::
 
-::Tu entends une voix de l'autre côté.:: Lieutenant ? Je dois parler au capitaine Cassidy.
+::Vous entendez une voix à l'autre bout.:: Lieutenant ? Il me faut le capitaine Cassidy.
 
 Très bien, j'attends...<end>
 
@@ -766,7 +766,7 @@ Très bien, j'attends...<end>
 Hm. <end>
 
 =>q109
-::Il baisse le téléphone et te regarde.::
+::Il baisse le téléphone et vous regarde.::
 
 Hm. <end>
 
@@ -774,7 +774,7 @@ Hm. <end>
 Haven't changed your mind about mushroom tea, Corporal? Want a cup?<end>
 
 =>q110
-Vous n'avez pas changé d'avis sur le thé aux champignons, caporal ? Tu veux une tasse ?<end>
+Vous n'avez pas changé d'avis sur le thé aux champignons, caporal ? Vous en voulez une tasse ?<end>
 
 =>a111_original
 What the hell. I'll take one, sir.<end>
@@ -790,7 +790,7 @@ Miss Trey, two cups of tea, please.<end>
 =>q112
 ::Il appuie sur un bouton sur son téléphone.::
 
-Mlle Trey, deux tasses de thé, s'il vous plaît.<end>
+Madame Trey, deux tasses de thé, s'il vous plaît.<end>
 
 =>q113_original
 ::After taking a sip of hot mushroom tea, the colonel continues.:: <end>
@@ -804,7 +804,7 @@ Very good, very good. Before we proceed, let's take care of something first.
 <end>
 
 =>q114
-Très bien, très bien. Avant de procéder, prenons soin de quelque chose d'abord. 
+Très bien, très bien. Avant de continuer, réglons d'abord une chose. 
 
 <end>
 
@@ -812,7 +812,7 @@ Très bien, très bien. Avant de procéder, prenons soin de quelque chose d'abor
 ::He picks up the phone.:: Staff Sergeant? Yes, this is Colonel Cathcart. Send a sum of <end>
 
 =>q115
-::Il décroche le téléphone.:: Sergent d'état-major? Oui, ici le colonel Cathcart. Envoyer une somme de <end>
+::Il décroche le téléphone.:: Sergent ? Oui, ici le colonel Cathcart. Envoyez une somme de <end>
 
 =>q116_original
 thirty-six hundred dollars <end>
@@ -834,13 +834,13 @@ Voilà. C'est réglé.<end>
 Now that the blockade has been cleared, the Acorn is going North with the first wartrains. <end>
 
 =>q118
-Maintenant que le blocus a été levé, l'Acorn va au nord avec les premiers wartrains. <end>
+Maintenant que le blocus est levé, l'Acorn part vers le nord avec les premiers wartrains. <end>
 
 =>q119_original
 In the meantime, I'll have this locked away and under guard.<end>
 
 =>q119
-En attendant, j'aurai ça enfermé et sous garde.<end>
+En attendant, je le fais enfermer sous garde.<end>
 
 =>q120_original
 ::A soldier arrives with your money. The colonel points to you, and the soldier hands it over, salutes and leaves.::
@@ -860,7 +860,7 @@ They deployed humanoid warbots, multi-legged all-terrain walkers, aircraft rangi
 =>q121
 Ils ont déployé des robots de guerre humanoïdes, des marcheurs tout-terrain à plusieurs pattes, des avions allant des drones miniatures à des porteurs de structures massives, ainsi que des navires de taille inconcevable et d'armement... Et tout cela était totalement autonome - une armée de warbots sans émotion obéissant à tous les ordres - et autoréplicant, selon les mots du général.
 
-::Il regarde l'Acorn, puis vous revoilà, puis se moque.:: Ça semble irréel, non ?<end>
+::Il regarde l'Acorn, puis vous, puis rit.:: Ça paraît irréel, n'est-ce pas ?<end>
 
 =>q122_original
 ::He finishes his tea and puts the cup away.::
@@ -894,7 +894,7 @@ vingt-quatre cents <end>
 eighteen hundred <end>
 
 =>q126
-18 cents <end>
+mille huit cents <end>
 
 =>q127_original
 twelve hundred <end>
@@ -906,7 +906,7 @@ douze cents <end>
 Your efforts wouldn't have gone unrewarded in any case, Corporal. Besides, you obtained the Acorn without relying on Protectorate resources. You must've had some expenses.<end>
 
 =>q128
-Vos efforts n'auraient pas été récompensés, caporal. De plus, vous avez obtenu le maïs sans compter sur les ressources Protectorate. Vous avez dû avoir des dépenses.<end>
+Vos efforts n'auraient de toute façon pas été sans récompense, caporal. Et vous avez obtenu l'Acorn sans puiser dans les ressources du Protectorate. Vous avez dû avoir des frais.<end>
 
 =>q129_original
 <end>
@@ -988,7 +988,7 @@ Une humble somme de douze cents dollars devrait couvrir tout, monsieur.<end>
 You understand, sir. In that case, I won't try to influence my payment. ::Give him the Acorn.::<end>
 
 =>a141
-Vous comprenez, monsieur. Dans ce cas, je n'essaierai pas d'influencer mon paiement. ::Donne-lui le maïs.::<end>
+Vous comprenez, monsieur. Dans ce cas, je n'essayerai pas d'influer sur ma solde. ::Donner l'Acorn.::<end>
 
 =>a142_original
 I'll have one, sir.<end>
@@ -1010,7 +1010,7 @@ Miss Trey, one cup of tea, please.<end>
 =>q144
 ::Il appuie sur un bouton sur son téléphone.::
 
-Mlle Trey, une tasse de thé, s'il vous plaît.<end>
+Madame Trey, une tasse de thé, s'il vous plaît.<end>
 
 =>a145_original
 Still not a fan, sir.<end>
@@ -1058,7 +1058,7 @@ Il m'a fallu beaucoup d'efforts pour l'obtenir. Je préférerais être payé en 
 ::He looks at the Acorn.:: Well done, Corporal, well done.<end>
 
 =>q152
-::Il regarde le maïs.:: Bien joué, caporal, bien joué.<end>
+::Il regarde l'Acorn.:: Bien joué, caporal. Bien joué.<end>
 
 =>a153_original
 There you have it, sir.<end>
@@ -1072,15 +1072,15 @@ Voilà, monsieur.<end>
 Wait a moment. It's from the captain.<end>
 
 =>q154
-::En même temps, quelque chose attrape l'œil du colonel, et il se branle sur son moniteur.::
+::Au même moment, quelque chose retient l'œil du colonel. Il plisse les yeux vers son moniteur.::
 
-Attendez. Ça vient du capitaine.<end>
+Un instant. Ça vient du capitaine.<end>
 
 =>q155_original
 ::He clicks a few times, and his eyes start moving back and forth between the screen and the Acorn.::<end>
 
 =>q155
-::Il clique quelques fois, et ses yeux commencent à bouger entre l'écran et le maïs.::<end>
+::Il clique quelques fois. Ses yeux vont de l'écran à l'Acorn.::<end>
 
 =>a156_original
 Not yet, but I'm working on obtaining it.<end>
@@ -1108,19 +1108,19 @@ Si vous apprenez quelque chose de nouveau, faites-le moi savoir.<end>
 No. I just heard about it and wondered if you knew something that could help me.<end>
 
 =>a159
-C'est pas vrai. Je viens d'en entendre parler et je me demandais si tu savais quelque chose qui pourrait m'aider.<end>
+Non. J'en ai seulement entendu parler. Je me demandais si vous saviez quelque chose qui pourrait m'aider.<end>
 
 =>a160_original
 All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
 
 =>a160
-Tout ce que je sais, c'est qu'il est en quelque sorte connecté à des machines de haute technologie capables de traverser de grandes distances, voire d'atteindre la surface. Ça pourrait servir notre cause.<end>
+Tout ce que je sais, c'est que ça a un lien avec des machines de haute technologie capables de franchir de grandes distances, jusqu'à la Surface. Ça pourrait beaucoup servir notre cause.<end>
 
 =>q161_original
 ::He pauses, staring at you.:: How confident are you in the accuracy of this information?<end>
 
 =>q161
-::Il s'arrête, il te regarde.:: Quelle est votre confiance dans l'exactitude de cette information?<end>
+::Il s'arrête, les yeux sur vous.:: À quel point êtes-vous sûr de cette information ?<end>
 
 =>a162_original
 I have no reasons to doubt what I just told you, sir.<end>
@@ -1138,25 +1138,25 @@ Beaucoup. J'ai de bonnes sources.<end>
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
 
 =>a164
-Il semble être un appareil capable de fabriquer des choses très avancées, comme des objets et des machines. Ça pourrait servir notre cause.<end>
+On dirait un appareil capable de fabriquer des choses très avancées : objets, machines. Ça pourrait beaucoup servir notre cause.<end>
 
 =>a165_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
 
 =>a165
-C'est un dispositif capable d'utiliser des matériaux de son environnement pour construire des objets et des machines complexes. Ça pourrait servir notre cause.<end>
+C'est un appareil capable de prélever des matériaux autour de lui pour construire des objets et des machines complexes. Ça pourrait beaucoup servir notre cause.<end>
 
 =>a166_original
 It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
 
 =>a166
-C'est un superordinateur capable de contrôler les nanobots qui peuvent utiliser des matériaux de leur environnement pour construire des objets et des machines complexes. Ça pourrait servir notre cause.<end>
+C'est un superordinateur qui commande des nanobots. Ils prélèvent des matériaux autour d'eux pour construire des objets et des machines complexes. Ça pourrait beaucoup servir notre cause.<end>
 
 =>a167_original
 Never mind. There was something else I wanted to ask you.<end>
 
 =>a167
-Laisse tomber. Il y avait autre chose que je voulais te demander.<end>
+Laisser tomber. J'avais autre chose à vous demander.<end>
 
 =>q168_original
 Speed it up, Corporal. I haven't got the time.<end>
@@ -1168,31 +1168,31 @@ Accélérez, caporal. Je n'ai pas le temps.<end>
 About the Acorn again...<end>
 
 =>a169
-A propos de l'Acorn encore...<end>
+Encore au sujet de l'Acorn...<end>
 
 =>q170_original
 Spill it already, Corporal.<end>
 
 =>q170
-Déchargez-le, caporal.<end>
+Allez-y, caporal. Crachez-le.<end>
 
 =>a171_original
 Any information on the Acorn, sir?<end>
 
 =>a171
-Des informations sur l'Acorn ?<end>
+Des informations sur l'Acorn, monsieur ?<end>
 
 =>q172_original
 Yes, Corporal. Captain Travis has sent me a single file on the Acorn. It's from the time of Biocorp; must've come from the Central Archive.<end>
 
 =>q172
-Oui, caporal. Le capitaine Travis m'a envoyé un seul dossier sur l'Acorn. C'est à partir du temps de Biocorp; il doit provenir des Archives centrales.<end>
+Oui, caporal. Le capitaine Travis m'a envoyé un seul dossier sur l'Acorn. Il date de l'époque de Biocorp ; ça doit venir des Archives centrales.<end>
 
 =>a173_original
 I have the Acorn, sir. ::Show him the Acorn.::<end>
 
 =>a173
-J'ai l'Acorn. ::Montre-lui le maïs.::<end>
+J'ai l'Acorn, monsieur. ::Montrer l'Acorn.::<end>
 
 =>a174_original
 How do I get to Epione Lab?<end>
@@ -1408,7 +1408,7 @@ Pourtant, des choses horribles se produisent au combat. C'est l'enfer là-bas, e
 ::[Persuade]:: All Holloway and his men want is to be left alone. He never wanted to betray Protectorate, yet Protectorate betrayed him; he couldn't fight the system any more.<end>
 
 =>a205
-::[Persuader]:: Tout Holloway et ses hommes veulent être laissés seuls. Il n'a jamais voulu trahir Protectorate, mais Protectorate l'a trahi ; il ne pouvait plus combattre le système.<end>
+::[Persuade]:: Tout Holloway et ses hommes veulent être laissés seuls. Il n'a jamais voulu trahir Protectorate, mais Protectorate l'a trahi ; il ne pouvait plus combattre le système.<end>
 
 =>q206_original
 ::Colonel wanted to interrupt you at a certain point but decided against it. He listens to what you have to say and, after some thinking, he responds.:: 
@@ -1560,7 +1560,7 @@ Le serpent rouge est un drone libre qui avait décidé d'aider le Protectorate d
 ::[Persuade]:: Pardon me, sir, but I somehow doubt that he simply "realized" he had been working for the bad guys and decided to switch sides. I think I've earned enough respect by now to know more about the matter.<end>
 
 =>a227
-::[Persuader]:: Pardonnez-moi, monsieur, mais je doute qu'il ait simplement « réalisé » qu'il avait travaillé pour les méchants et a décidé de changer de camp. Je crois avoir gagné assez de respect pour en savoir plus sur la question.<end>
+::[Persuade]:: Pardonnez-moi, monsieur, mais je doute qu'il ait simplement « réalisé » qu'il avait travaillé pour les méchants et a décidé de changer de camp. Je crois avoir gagné assez de respect pour en savoir plus sur la question.<end>
 
 =>q228_original
 ::Colonel Cathcart pauses for a few moments before replying.:: You are absolutely right, Corporal, I haven't told you everything. I suppose I could, though... but it would be best if this were to stay between you and me.<end>
@@ -1746,7 +1746,7 @@ Oui, je voudrais une tasse de thé. Je vous remercie.<end>
 That's what I like to hear. $(context.player.Name). ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order two cups of mushroom tea for me and my guest? Excellent... in my office, right. Good. ::He hangs up.::<end>
 
 =>q256
-C'est ce que j'aime entendre. $(context.player.Name). ::Il soulève le téléphone de la base et appuie sur quelques boutons.:: Mlle Trey, pourriez-vous commander deux tasses de thé aux champignons pour moi et mon invité ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
+C'est ce que j'aime entendre. $(context.player.Name). ::Il soulève le téléphone de la base et appuie sur quelques boutons.:: Madame Trey, pourriez-vous commander deux tasses de thé aux champignons pour moi et mon invité ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
 
 =>q257_original
 ::He leans back into his chair.:: Aaah, now we wait. Where were we? Yes...
@@ -1796,7 +1796,7 @@ Nous ne sommes pas des sauvages, nous n'abusons pas de notre pouvoir. Mais quand
 ::She puts the cups down and leaves the office.::<end>
 
 =>q262
-::Le colonel sourit.:: Mlle Trey, comme c'est beau. L'un est pour $(#Mister/Miss) $(context.player.Name) et l'autre pour moi. Je vous remercie.
+::Le colonel sourit.:: Madame Trey, quelle attention. L'une est pour $(#monsieur/madame) $(context.player.Name), l'autre pour moi. Merci.
 
 ::Elle pose les tasses et quitte le bureau.::<end>
 
@@ -1952,7 +1952,7 @@ Je vais garder ça en tête.<end>
 ::She puts the cups down and leaves the office.::<end>
 
 =>q282
-::Le colonel sourit.:: Mlle Trey, comme c'est beau. La tasse de thé est pour moi. Je vous remercie.
+::Le colonel sourit.:: Madame Trey, comme c'est beau. La tasse de thé est pour moi. Je vous remercie.
 
 ::Elle pose les tasses et quitte le bureau.::<end>
 
@@ -2034,7 +2034,7 @@ Non, monsieur.<end>
 As you will. I'll have one. ::He lifts the phone from the base and presses a single button.:: Miss Trey, would you be so kind to order one cup of mushroom tea for me? Excellent... in my office, right. Good. ::He hangs up.::<end>
 
 =>q294
-Comme vous voudrez. J'en prendrai une. ::Il soulève le téléphone de la base et appuie sur un seul bouton.:: Mlle Trey, serais-tu si gentil de commander une tasse de thé aux champignons pour moi ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
+Comme vous voudrez. J'en prendrai une. ::Il soulève le téléphone de la base et appuie sur un seul bouton.:: Madame Trey, pourriez-vous commander une tasse de thé aux champignons pour moi ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
 
 =>a295_original
 ::Make a disgusted face.::<end>
@@ -2050,7 +2050,7 @@ Well, I'll have a cup. ::He lifts the phone from the base and presses a few butt
 =>q296
 Pas un fan, je vois. Que buvez-vous si ce n'est du thé aux champignons ?
 
-Je vais prendre une tasse. ::Il soulève le téléphone de la base et appuie sur quelques boutons.:: Mlle Trey, serais-tu si gentil de commander une tasse de thé aux champignons pour moi ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
+Je vais prendre une tasse. ::Il soulève le téléphone de la base et appuie sur quelques boutons.:: Madame Trey, pourriez-vous commander une tasse de thé aux champignons pour moi ? Excellent... dans mon bureau. Parfait. ::Il raccroche.::<end>
 
 =>a297_original
 Sorry, wrong office.<end>

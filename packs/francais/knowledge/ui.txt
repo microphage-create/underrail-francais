@@ -95,10 +95,10 @@ Vigueur
 Sang-froid
 
 ::MinimalStrength
-Force min.
+Strength min.
 
 ::MinimalStrengthL
-Force min.
+Strength min.
 
 ::ArmorPenalty
 Malus d'armure
@@ -545,13 +545,13 @@ Difficulté
 Difficulté
 
 ::NewGame_GameDifficulty_Easy
-Facile
+Débutant
 
 ::NewGame_GameDifficulty_Normal
-Normal
+Vétéran
 
 ::NewGame_GameDifficulty_Hard
-Difficile
+Expert
 
 ::NewGame_GameDifficulty_DOMINATING
 DOMINATING
@@ -770,13 +770,13 @@ Inventaire et équipement.
 Psi
 
 ::SystemBar_Psi_Tooltip
-Les pouvoirs psi doivent d'abord être innervés avant d'être utilisables.
+Innervez un pouvoir pour pouvoir l'utiliser.
 
 ::SystemBar_Crafting
 Craft
 
 ::SystemBar_Crafting_Tooltip
-Schémas et craft d'objets.
+Plans et craft d'objets.
 
 ::SystemBar_Notes
 Notes
@@ -935,7 +935,7 @@ Arme
 Munitions
 
 ::Item_TypeName_Blueprint
-Schéma
+Plan
 
 ::Item_TypeName_Component
 Composant
@@ -1142,13 +1142,13 @@ Chargée
 Jetable : pas de réparation, ni déchargement, ni rechargement.
 
 ::Item_Weapon_StrengthScaling
-+{0} % de dégâts par point de force.
++{0} % de dégâts par point de Strength.
 
 ::Item_Weapon_StrengthScaling1
-+{0} % de dégâts par point de force au-delà de {1}.
++{0} % de dégâts par point de Strength au-delà de {1}.
 
 ::Item_Weapon_EvasionIgnore
-Ignore jusqu'à {0} % d'esquive à courte portée.
+Ignore jusqu'à {0} % d'Evasion à courte portée.
 
 ::Item_Component_Quality
 Qualité
@@ -1316,7 +1316,7 @@ Bilocation
 Brouillage d'IA
 
 ::CharacterImmunities_DisplayText_DirtyKickExtraStun
-Stun bonus (Coup bas)
+Étourdissement bonus (Dirty Kick)
 
 ::CharacterImmunities_DisplayText_KneecapShot
 Tir au genou
@@ -1442,22 +1442,22 @@ rien
 Sprint
 
 ::CooldownCategory_DisplayText_EvasiveManeuvers
-Esquive active
+Evasive Maneuvers
 
 ::CooldownCategory_DisplayText_Stealth
 Furtivité
 
 ::CooldownCategory_DisplayText_DirtyKick
-Coup bas
+Dirty Kick
 
 ::CooldownCategory_DisplayText_TrapArming
-armement de pièges
+Armement de pièges
 
 ::CooldownCategory_DisplayText_Bilocation
 Bilocation
 
 ::CooldownCategory_DisplayText_PseudoSpatialProjection
-Projection pseudo-spatiale
+Pseudo-spatial Projection
 
 ::Custom
 Personnalisé
@@ -1631,46 +1631,46 @@ CD soins joueur
 CD soins joueur
 
 ::NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::GameRules_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::CustomRules_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::Custom_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::NewGame_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::Rules_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::GameRuleParameter_NpcSkillModifier
-Mod. skills PNJ
+Mod. compétences PNJ
 
 ::NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::GameRules_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::CustomRules_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::Custom_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::NewGame_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::Rules_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::GameRuleParameter_NpcBossSkillModifier
-Mod. skills boss
+Mod. compétences boss
 
 ::NpcCritChanceBonus
 Bonus crit PNJ
@@ -1815,6 +1815,7 @@ Filtre
 
 ::None
 Aucun
+
 ::NewGame_GameDifficulty_Custom
 Personnalisé
 

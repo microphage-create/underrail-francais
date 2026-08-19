@@ -46,13 +46,13 @@ Restaure {0} psi chaque tour.
 Régénération de psi augmentée de {0}% plus {1}.
 
 ::Adrenaline
-Points d'action augmentés de {0}, esquive et évitement de {1}%, force de {2}.
+Points d'action augmentés de {0}, Dodge et Evasion de {1}%, Strength de {2}.
 
 ::Adrenaline-Old
-Vitesse de déplacement augmentée de {0}%, délai entre attaques réduit de {1}%, esquive et évitement augmentés de {2}%.
+Vitesse de déplacement augmentée de {0}%, délai entre attaques réduit de {1}%, Dodge et Evasion augmentés de {2}%.
 
 ::VitalitySurge
-Points d'action augmentés de {0}, esquive et évitement de {1}%, force de {2}.
+Points d'action augmentés de {0}, Dodge et Evasion de {1}%, Strength de {2}.
 
 ::VitalityDrain
 Perd {0} points de vie par tour.
@@ -64,10 +64,10 @@ Points d'action réduits de {0}.
 Vitesse de déplacement réduite de {0}% et délai entre attaques augmenté de {1}%.
 
 ::PsionicWithdrawal
-Draine {0} psi chaque tour. Intelligence, Volonté et Perception réduites de {1}.
+Draine {0} psi chaque tour. Intelligence, Will et Perception réduites de {1}.
 
 ::PsionicWithdrawal-Old
-Tous les bonus de régénération de psi sont annulés et la régénération de psi est réduite de {0}%. Intelligence, Sagesse et Volonté réduites de {1}.
+Tous les bonus de régénération de psi sont annulés et la régénération de psi est réduite de {0}%. Intelligence, Wisdom et Will réduites de {1}.
 
 ::Stunned
 Ne peut ni se déplacer ni effectuer d'actions.
@@ -178,7 +178,7 @@ Ce personnage est affligé par le poison d'esprit, subit {0} dégâts bio chaque
 Cette machine est temporairement hors service et ne peut remplir aucune fonction.
 
 ::PersonalCloaking
-Furtivité augmentée de {0} et évitement de {1}.
+Stealth augmentée de {0} et Evasion de {1}.
 
 ::Nightvision
 Vous voyez dans le noir.
@@ -273,16 +273,16 @@ Dégâts de chaleur subis réduits de 15%.
 Seuil mécanique global augmenté de 15%.
 
 ::Food_kzozel
-Esquive augmentée de 50 et tous les dégâts mécaniques subis réduits de 10%. Perception réduite de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
+Dodge augmenté de 50 et tous les dégâts mécaniques subis réduits de 10%. Perception réduite de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
 
 ::Food_kzozelYantar
-Esquive augmentée de 70 et tous les dégâts mécaniques subis réduits de 15%. Perception réduite de 3. Toutes les compétences psioniques réduites de 40 et régénération de psi réduite de 30.
+Dodge augmenté de 70 et tous les dégâts mécaniques subis réduits de 15%. Perception réduite de 3. Toutes les compétences psioniques réduites de 40 et régénération de psi réduite de 30.
 
 ::Food_mutieStew
 Dégâts d'acide subis réduits de 35%, mais points de vie réduits de 20 et efficacité des soins diminuée de 35%.
 
 ::Food_SeaSerpentFillet
-Dégâts de poison subis réduits de 20% et évitement augmenté de 30.
+Dégâts de poison subis réduits de 20% et Evasion augmentée de 30.
 
 ::Food_butterySteamedClams
 Points de vie maximum augmentés de 40.
@@ -291,10 +291,10 @@ Points de vie maximum augmentés de 40.
 Force augmentée de 1 et bonus de dégâts critiques des armes de mêlée et attaques à mains nues augmenté de 25%.
 
 ::Food_mysteryCandy
-Taux de critique des armes, attaques à mains nues et psi augmenté de 5%, mais volonté réduite de 1 et sang-froid réduit de 100.
+Taux de critique des armes, attaques à mains nues et psi augmenté de 5%, mais Will réduite de 1 et sang-froid réduit de 100.
 
 ::Food_iceOfSpades
-Métathermique augmentée de 20 mais points de mouvement réduits de 10.
+Metathermics augmenté de 20 mais points de mouvement réduits de 10.
 
 ::Food_allIn
 Tous les attributs augmentés de 3. Chance de subir un coup critique d'arme, à mains nues ou psi augmentée de 100% (additif).
@@ -309,10 +309,10 @@ Force augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Pe
 Force augmentée de 2 et tous les dégâts mécaniques subis réduits de 20%. Perception et dextérité réduites de 3. Toutes les compétences psioniques réduites de 30 et régénération de psi réduite de 40.
 
 ::Food_cleanDeal
-Contrôle mental augmenté de 20, mais perception réduite de 1 et sang-froid réduit de 30.
+Thought Control augmenté de 20, mais Perception réduite de 1 et sang-froid réduit de 30.
 
 ::Food_sleightOfTheNight
-Vol à la tire augmenté de 15.
+Pickpocketing augmenté de 15.
 
 ::Food_slampipe
 Force augmentée de 1 et le personnage inflige 15% de dégâts en bonus avec les armes de mêlée contondantes, armes de poings et attaques à mains nues. Agilité réduite de 1. 
@@ -324,16 +324,16 @@ Capacité de port augmentée de 30.
 Stabilité sur jet-ski augmentée de 10%, mais points d'action réduits de 5.
 
 ::Food_laylow
-Évitement augmenté de 15% et furtivité de 20. Aussi, tous les dégâts bio reçus réduits de 10%.
+Evasion augmentée de 15% et Stealth de 20. Aussi, tous les dégâts bio reçus réduits de 10%.
 
 ::Food_mindshroomMartini
 Points de psi maximum augmentés de 10.
 
 ::Food_whiteDude
-Agilité augmentée de 3, persuasion de 15, mais dextérité et perception réduites de 2 et régénération de psi réduite de 30.
+Agility augmentée de 3, Persuasion de 15, mais Dexterity et Perception réduites de 2 et régénération de psi réduite de 30.
 
 ::Food_slackjaw
-Force et constitution augmentées de 1 et intimidation de 15, mais intelligence réduite de 3 et volonté de 1.
+Strength et Constitution augmentées de 1 et Intimidation de 15, mais Intelligence réduite de 3 et Will de 1.
 
 ::Food_absence
 Détection augmentée de 23,3%, chance de subir un crit d'arme, à mains nues ou psi réduite de 16,6%. Pour équilibrer les balances transcendantales, ce personnage a 16,6% de taux de critique psi en plus et 33,3% de coût en psi en plus. Il peut aussi eNfIn PerC3voir la rÉ4lité telle qu'elle est VRAImentŝş...
@@ -354,7 +354,7 @@ Vous sentez l'obscurité se refermer sur vous et une présence menaçante dans u
 Immunisé à toutes les attaques physiques.
 
 ::OffBalance
-Esquive et évitement réduits à zéro.
+Dodge et Evasion réduits à zéro.
 
 ::IceRemnant
 Apparition de froid. Immunisée à tous les dégâts.
@@ -372,7 +372,7 @@ Vous avez la tête qui tourne. Points de vie réduits de {0}%.
 L'œil de Tchort est sur vous, presque à vous paralyser de peur. Toutes les compétences offensives, défensives et psioniques réduites de {0}%.
 
 ::Crippled
-Force réduite de {0}.
+Strength réduite de {0}.
 
 ::Tackled
 Points de mouvement réduits de {0}, points d'action de {1} et chances de toucher avec toutes les armes à distance réduites de {2}%.
@@ -405,10 +405,10 @@ Ce personnage esquivera une attaque de mêlée normale ou spéciale pour chaque 
 Ce personnage évitera une attaque d'arme à distance normale ou spéciale pour chaque cumul de cet effet.
 
 ::EvasiveManeuvers
-Évitement augmenté de {0}.
+Evasion augmentée de {0}.
 
 ::MentalBreakdown
-Ce personnage est incapable d'agir et subit {0}% de sang-froid en moins. Si une capacité psi de contrôle mental néfaste est invoquée contre lui, elle aura un double effet, mais mettra fin à l'effondrement mental.
+Ce personnage est incapable d'agir et subit {0}% de sang-froid en moins. Si un pouvoir Thought Control néfaste est invoqué contre lui, il aura un double effet, mais mettra fin à Mental Breakdown.
 
 ::Trapped
 Ce personnage est cloué sur place par un piège.
@@ -417,10 +417,10 @@ Ce personnage est cloué sur place par un piège.
 Ce personnage sait où se trouve le nord.
 
 ::Infusion_Reflexes
-Esquive et évitement augmentés de {0}.
+Dodge et Evasion augmentés de {0}.
 
 ::Infusion_Strength
-Force augmentée de {0}.
+Strength augmentée de {0}.
 
 ::Infusion_Speed
 Points de mouvement augmentés de {0}.
@@ -471,13 +471,13 @@ Tous les dégâts subis réduits de {0}%.
 Taux de critique des armes, combat à mains nues et psionique augmenté de {0}%.
 
 ::AgilityBoost
-Esquive et évitement augmentés de {0}%. Points de mouvement augmentés de {1} hors furtivité.
+Dodge et Evasion augmentés de {0}%. Points de mouvement augmentés de {1} hors furtivité.
 
 ::HerculeanMight
-Force, dextérité, agilité et constitution augmentées de {0}.
+Strength, Dexterity, Agility et Constitution augmentées de {0}.
 
 ::HerculeanWithdrawal
-Vous vous sentez mal. Force, dextérité, agilité et constitution réduites de {0}. Points d'action réduits de {0}. Points de mouvement réduits de {2} et vitesse de déplacement de {3}%. Subit {1} dégâts chaque tour.
+Vous vous sentez mal. Strength, Dexterity, Agility et Constitution réduites de {0}. Points d'action réduits de {0}. Points de mouvement réduits de {2} et vitesse de déplacement de {3}%. Subit {1} dégâts chaque tour.
 
 ::ZombieMutating
 Ce personnage subit d'horribles mutations.
@@ -540,7 +540,7 @@ Régénère {0} points de vie chaque tour.
 Régénère {0} psi chaque tour.
 
 ::SupersoldierDrug
-Force, dextérité, agilité, constitution et perception augmentées de {0}. Toutes les compétences de combat augmentées de {1}%.
+Strength, Dexterity, Agility, Constitution et Perception augmentées de {0}. Toutes les compétences de combat augmentées de {1}%.
 
 ::ShieldRecharging
 Récupère {0} de bouclier chaque tour.
@@ -582,12 +582,12 @@ Points d'action augmentés de {0} et points de mouvement de {1}. À la fin de l'
 À la fin de cet effet, le personnage subira {0} dégâts. Ces dégâts ignorent les boucliers et les résistances.
 
 ::Precognition
-Chances d'esquiver et d'éviter les attaques augmentées de {0}% (additif). Draine {1} points de psi chaque tour.
+Dodge et Evasion augmentés de {0}% (additif). Draine {1} points de psi chaque tour.
 
 ::Stasis
 Immunisé à tous les dégâts et à la plupart des effets invalidants, mais ne peut pas agir. Les effets de statut du personnage ne progressent pas, mais les recharges oui.
 
-Le stase se brise s'il absorbe {0} dégâts de plus, sinon il expire au début du dernier tour de durée au lieu de la fin.
+La stase se brise si elle absorbe {0} dégâts de plus, sinon elle expire au début du dernier tour de durée au lieu de la fin.
 
 ::BlindingPoison
 Ce personnage est affligé par un poison aveuglant et subit {0} dégâts bio chaque tour. Sa perception est aussi réduite de {1}.
@@ -605,7 +605,7 @@ Vitesse de déplacement réduite de {0}%.
 Voilà ce qui arrive quand on se met une mine avec Dude. Tous vos attributs ont été réduits de {0}. Santé !
 
 ::SoreHands
-Vos mains sont douloureuses. Votre dextérité a été réduite de {0}.
+Vos mains sont douloureuses. Votre Dexterity a été réduite de {0}.
 
 ::IntelligenceBoost
 Intelligence augmentée de {0}.
@@ -635,7 +635,7 @@ Vos attaques réussies au pistolet chimique augmentent les dégâts du type du p
 Ce personnage est affligé par le poison de lépreux, subit {0} dégâts bio chaque tour et reçoit {1}% de dégâts mécaniques en plus de toutes sources.
 
 ::Submerged
-Ce personnage est immergé. Évitement augmenté de {0}, esquive de {1} et toutes les résistances aux dégâts de {2}%.
+Ce personnage est immergé. Evasion augmentée de {0}, Dodge de {1} et toutes les résistances aux dégâts de {2}%.
 
 ::HeartbreakPoison
 Ce personnage est affligé par le poison cœur brisé et subit {0} dégâts bio chaque tour. S'il n'est pas retiré, il inflige {1} dégâts bio supplémentaires à l'expiration.
@@ -647,7 +647,7 @@ Réduit la durabilité de tous les objets mécaniques en votre possession de {0}
 Vitesse et points de mouvement du véhicule augmentés de {0}%, mais consommation d'énergie augmentée de {1}%. Les bonus ne s'appliquent que si le véhicule n'est pas en surcharge.
 
 ::Flurry
-Réduit le coût en PA de Rafale de {0}.
+Réduit le coût en PA de Flurry de {0}.
 
 ::Onslaught
 Augmente les dégâts des épées de {0}%. Retiré si une attaque rate ou n'inflige aucun dégât.
@@ -684,10 +684,10 @@ Draine {0} d'énergie de l'armure, mais augmente toutes les valeurs de protectio
 Transfère jusqu'à {0} d'énergie à {1}% d'efficacité de l'objet source vers tous les autres objets équipés qui nécessitent une recharge, en répartissant l'énergie équitablement.
 
 ::RestlessSpirits
-Dextérité et perception réduites de {0}.
+Dexterity et Perception réduites de {0}.
 
 ::DarkPresence
-Quelque chose d'malsain séjourne au fond de votre esprit. Volonté réduite de {0} et sang-froid de {1}%.
+Quelque chose de malsain séjourne au fond de votre esprit. Will réduite de {0} et sang-froid de {1}%.
 
 ::StriderParasiticInfestation_Base
 Ce personnage a été infesté !

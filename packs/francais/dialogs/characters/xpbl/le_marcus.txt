@@ -14,7 +14,7 @@
 Good luck, sec-trooper.<end>
 
 =>q3
-Bonne chance.<end>
+Bonne chance, sec-trooper.<end>
 
 =>q4_original
 ::Inspects energy pistol.::<end>
@@ -26,19 +26,19 @@ Bonne chance.<end>
 Let's kick some... *pipeworkin'* ass.<end>
 
 =>q5
-Frappons un peu...<end>
+On va leur botter le... *pipeworkin'* cul.<end>
 
 =>q6_original
 Tone... I'll show those pipeworkers.<end>
 
 =>q6
-Ton... Je vais leur montrer.<end>
+Tone... Je vais leur montrer, aux pipeworkers.<end>
 
 =>q7_original
 We're under attack! Get to your position!<end>
 
 =>q7
-Nous sommes attaqués ! A votre position !<end>
+On est attaqués ! À vos postes !<end>
 
 =>q8_original
 <end>
@@ -50,7 +50,7 @@ Nous sommes attaqués ! A votre position !<end>
 That's it. I'll meet you back at the tent.<end>
 
 =>q9
-C'est ça. Je te retrouve à la tente.<end>
+Ça ira. On se retrouve à la tente.<end>
 
 =>q10_original
 Phew! We'll meet you back at the tent.<end>
@@ -74,7 +74,7 @@ Les docks !<end>
 Outside of the Keep!<end>
 
 =>q13
-En dehors du Garde !<end>
+Devant le Keep !<end>
 
 =>q14_original
 Are you from the new group?<end>
@@ -86,7 +86,7 @@ Vous êtes du nouveau groupe ?<end>
 It's you!<end>
 
 =>q15
-C'est toi !<end>
+C'est vous !<end>
 
 =>q16_original
 Hello. I've got to inspect some equipment, so how about catching me a bit later, okay? Thank you.<end>
@@ -110,7 +110,7 @@ Nous sommes vivants.<end>
 I'll talk to you later. I have a lot to do right now.<end>
 
 =>q19
-Je te parlerai plus tard. J'ai beaucoup à faire.<end>
+Je vous parlerai plus tard. J'ai beaucoup à faire, là.<end>
 
 =>q20_original
 ::You find him packing equipment in a box. He puts it aside for a moment and addresses you with a downhearted tone of voice.::
@@ -119,22 +119,22 @@ $(context.player.Name). Anything you need before I pack it all up?
 <end>
 
 =>q20
-::Vous le trouvez dans une boîte. Il le met de côté pour un moment et s'adresse à vous avec un ton de voix déchu.::
+::Vous le trouvez en train de ranger du matériel dans une caisse. Il la pousse de côté un instant et s'adresse à vous d'une voix lasse.::
 
-$(context.player.Name). Tu as besoin de quelque chose avant que j'emballe tout ?
+$(context.player.Name). Vous avez besoin de quelque chose avant que je fasse les cartons ?
 <end>
 
 =>a21_original
 I need some supplies. ::Barter.::<end>
 
 =>a21
-J'ai besoin de fournitures. ::Troc.::<end>
+Il me faut du ravitaillement. ::Troc.::<end>
 
 =>a22_original
 I came to collect my paycheck.<end>
 
 =>a22
-Je suis venu récupérer mon salaire.<end>
+Je viens chercher ma paie.<end>
 
 =>q23_original
 Let me see, $(context.player.Name)...<end>
@@ -148,9 +148,9 @@ Yes. Here you go. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian 
 That should be everything Aegis Incorporated owes you.<end>
 
 =>q24
-Oui. Voilà. ::Il vous donne $(context.loc xpbl le currentPaycheck) pièces stygiennes.::
+Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.::
 
-Cela devrait être tout ce que Aegis Incorporated vous doit.<end>
+Ça devrait couvrir tout ce qu'Aegis Incorporated vous doit.<end>
 
 =>q25_original
 <end>
@@ -162,13 +162,13 @@ Cela devrait être tout ce que Aegis Incorporated vous doit.<end>
 I need some supplies. ::Barter.::<end>
 
 =>a26
-J'ai besoin de fournitures. ::Troc.::<end>
+Il me faut du ravitaillement. ::Troc.::<end>
 
 =>a27_original
 All I can say now is goodbye, Marcus.<end>
 
 =>a27
-Tout ce que je peux dire maintenant c'est au revoir, Marcus.<end>
+Tout ce que je peux dire, c'est au revoir, Marcus.<end>
 
 =>q28_original
 What can I say... it was a pleasure, $(context.player.Name). Sad it had to end this way, after so many lives were lost.
@@ -176,33 +176,33 @@ What can I say... it was a pleasure, $(context.player.Name). Sad it had to end t
 ::He sighs.:: So long.<end>
 
 =>q28
-Que puis-je dire... c'était un plaisir, $(context.player.Name). C'est triste que cela ait dû se terminer ainsi, après tant de vies perdues.
+Qu'est-ce que je peux dire... Ça a été un plaisir, $(context.player.Name). Triste que ça se termine comme ça, après tant de vies perdues.
 
-::Il soupire.:: Au revoir.<end>
+::Il soupire.:: Adieu.<end>
 
 =>a29_original
 ::Leave without saying a word.::<end>
 
 =>a29
-::Partez sans dire un mot.::<end>
+::Partir sans un mot.::<end>
 
 =>q30_original
 ::Marcus remains silent as well.::<end>
 
 =>q30
-::Marcus reste silencieux.::<end>
+::Marcus se tait, lui aussi.::<end>
 
 =>q31_original
 I don't have anything for you. You've been paid in full.<end>
 
 =>q31
-Je n'ai rien pour toi. Vous avez été payé en totalité.<end>
+Je n'ai rien pour vous. Vous avez été payé en totalité.<end>
 
 =>a32_original
 No. Just came to say goodbye.<end>
 
 =>a32
-C'est pas vrai. Je suis venu te dire au revoir.<end>
+Non. Je passais juste dire au revoir.<end>
 
 =>q33_original
 <end>
@@ -220,13 +220,13 @@ C'est pas vrai. Je suis venu te dire au revoir.<end>
 Hey, $(context.player.Name). Here to turn in your gear? One <end>
 
 =>q35
-Bonjour, $(context.player.Name). Ici pour retourner votre équipement ? Une <end>
+Hé, $(context.player.Name). Vous venez rendre votre équipement ? Une <end>
 
 =>q36_original
 body armor, one helmet and one navcom.<end>
 
 =>q36
-armure du corps, un casque et un navcom.<end>
+armure, un casque et un navcom.<end>
 
 =>q37_original
 <end>
@@ -238,13 +238,13 @@ armure du corps, un casque et un navcom.<end>
 First I'll need some supplies before I leave the camp. ::Barter.::<end>
 
 =>a38
-D'abord, j'aurai besoin de provisions avant de quitter le camp. ::Troc.::<end>
+D'abord, il me faut du ravitaillement avant de quitter le camp. ::Troc.::<end>
 
 =>a39_original
 It's all here. ::Give him the armor, helmet and navcom.::<end>
 
 =>a39
-Tout est là. ::Donnez-lui l'armure, le casque et le navcom.::<end>
+Tout est là. ::Lui donner l'armure, le casque et le navcom.::<end>
 
 =>q40_original
 ::He inspects the items before placing them aside.::
@@ -260,13 +260,13 @@ Tout est là.<end>
 And here's your pay. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian coins.:: That should be everything we owe you.<end>
 
 =>q41
-Et voilà votre salaire. ::Il vous donne $(context.loc xpbl le currentPaycheck) pièces stygiennes.:: Ça devrait être tout ce qu'on vous doit.<end>
+Et voici votre paie. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.:: Ça devrait couvrir tout ce qu'on vous doit.<end>
 
 =>q42_original
 And... that's everything. What can I say... it was a pleasure, $(context.player.Name).<end>
 
 =>q42
-Et... c'est tout. Que puis-je dire... c'était un plaisir, $(context.player.Name).<end>
+Et... c'est tout. Qu'est-ce que je peux dire... Ça a été un plaisir, $(context.player.Name).<end>
 
 =>q43_original
 <end>
@@ -278,19 +278,19 @@ Et... c'est tout. Que puis-je dire... c'était un plaisir, $(context.player.Name
 I can't believe that uncultured pipeworker fired the Invictus $(#himself/herself)! Come on, man!<end>
 
 =>q44
-Je n'arrive pas à croire que ce pipeworker non cultivé ait viré l'Invictus $(#himself/herself) ! Allez, mec !<end>
+J'arrive pas à croire que ce pipeworker inculte ait viré l'Invictus $(#lui-même/elle-même) ! Allez, sérieux !<end>
 
 =>q45_original
 Sucks to see you go, $(context.npc_xpbl_ladelman_playerName). I liked your style. ::He fist bumps you.::<end>
 
 =>q45
-Ça craint de vous voir partir, $(context.npc_xpbl_ladelman_playerName). J'aimais ton style. ::Il te frappe le poing.::<end>
+Ça craint de vous voir filer, $(context.npc_xpbl_ladelman_playerName). J'aimais bien votre style. ::Il vous tape dans le poing.::<end>
 
 =>q46_original
 ::He hesitates, then fists bumps you too but does it somewhat awkwardly.::<end>
 
 =>q46
-::Il hésite, puis les poings vous frappent aussi mais le fait un peu maladroitement.::<end>
+::Il hésite, puis vous tape dans le poing aussi, un peu maladroitement.::<end>
 
 =>q47_original
 <end>
@@ -302,19 +302,19 @@ Sucks to see you go, $(context.npc_xpbl_ladelman_playerName). I liked your style
 I deserved it. I should be getting sacked.<end>
 
 =>a48
-Je le méritais. Je devrais me faire virer.<end>
+Je l'ai mérité. Je devais me faire virer.<end>
 
 =>q49_original
 ::He pauses, nods, then proceeds.:: <end>
 
 =>q49
-::Il s'arrête, hoche, puis procède.:: <end>
+::Il s'arrête, hoche la tête, puis reprend.:: <end>
 
 =>q50_original
 Goodbye and good luck, $(context.player.Name).<end>
 
 =>q50
-Bonne chance, $(context.player.Name).<end>
+Au revoir, et bonne chance, $(context.player.Name).<end>
 
 =>q51_original
 <end>
@@ -326,55 +326,55 @@ Bonne chance, $(context.player.Name).<end>
 So long.<end>
 
 =>a52
-Au revoir.<end>
+Adieu.<end>
 
 =>a53_original
 ::Nod and leave.::<end>
 
 =>a53
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a54_original
 ::Leave without doing or saying anything.::<end>
 
 =>a54
-::Partez sans rien faire ni dire.::<end>
+::Partir sans rien faire ni dire.::<end>
 
 =>a55_original
 I'm not done here, you know.<end>
 
 =>a55
-Je n'ai pas fini ici.<end>
+Je n'en ai pas fini, ici.<end>
 
 =>q56_original
 I must advise you not to interfere with our work here. However you may feel now, doing something like that will only end badly for you.<end>
 
 =>q56
-Je dois vous conseiller de ne pas interférer avec notre travail ici. Cependant, vous pouvez vous sentir maintenant, faire quelque chose comme cela ne finira que mal pour vous.<end>
+Je dois vous conseiller de ne pas interférer avec notre travail. Quoi que vous ressentiez en ce moment, ce genre de geste ne tournera mal que pour vous.<end>
 
 =>a57_original
 Yeah, well... ::Shrug your shoulders.:: whatcha gonna do.<end>
 
 =>a57
-Oui, bien... ::Écrase tes épaules.:: ce que tu vas faire.<end>
+Ouais, ben... ::Hausser les épaules.:: on va faire comment.<end>
 
 =>a58_original
 Where would I be if the chief wasn't such a piece of rat crap...<end>
 
 =>a58
-Où serais-je si le chef n'était pas une merde de rat...<end>
+Où j'en serais si le chef n'était pas une merde de rat...<end>
 
 =>a59_original
 And I did so much for this stinking expedition.<end>
 
 =>a59
-Et j'ai tellement fait pour cette expédition puante.<end>
+Et j'ai tellement fait pour cette expédition de merde.<end>
 
 =>q60_original
 I can't believe he fired you, $(context.npc_xpbl_ladelman_playerName) $(#himself/herself). You don't get gladiators workin' for you every day, for pipe's sake. <end>
 
 =>q60
-Je n'arrive pas à croire qu'il vous ait viré, $(context.npc_xpbl_ladelman_playerName) $(#himself/herself). Tu n'as pas de gladiateurs qui travaillent pour toi tous les jours. <end>
+J'arrive pas à croire qu'il t'ait viré, $(context.npc_xpbl_ladelman_playerName) $(#lui-même/elle-même). On a pas des gladiateurs qui bossent pour soi tous les jours, nom de pipe. <end>
 
 =>q61_original
 <end>
@@ -386,7 +386,7 @@ Je n'arrive pas à croire qu'il vous ait viré, $(context.npc_xpbl_ladelman_play
 You've already been paid for your work, so were clean.<end>
 
 =>q62
-Tu as déjà été payé pour ton travail, donc c'était propre.<end>
+Vous avez déjà été payé pour votre travail, donc on est quittes.<end>
 
 =>a63_original
 Is this really necessary?<end>
@@ -398,19 +398,19 @@ Est-ce vraiment nécessaire ?<end>
 You wouldn't be here if it wasn't.<end>
 
 =>q64
-Tu ne serais pas là sans ça.<end>
+Vous ne seriez pas là sinon.<end>
 
 =>a65_original
 I'm here for my pay.<end>
 
 =>a65
-Je suis là pour mon salaire.<end>
+Je viens chercher ma paie.<end>
 
 =>q66_original
 You need to turn in your gear first.<end>
 
 =>q66
-Tu dois d'abord retourner ton équipement.<end>
+Il faut d'abord rendre votre équipement.<end>
 
 =>a67_original
 I left everything in my locker. I'll be right back.<end>
@@ -422,7 +422,7 @@ J'ai tout laissé dans mon casier. Je reviens.<end>
 Well, go get it for me, please. I need to have everything accounted for.<end>
 
 =>q68
-Va me le chercher, s'il te plaît. J'ai besoin de tout rendre compte.<end>
+Allez me le chercher, s'il vous plaît. Il me faut tout inventorier.<end>
 
 =>q69_original
 You owe me one <end>
@@ -454,9 +454,9 @@ Well, the tent feels somewhat quiet and without a doubt a lot less raunchy, but 
 This sea... it sure took many victims.<end>
 
 =>q73
-Eh bien, la tente se sent un peu calme et sans doute beaucoup moins rauque, mais c'est ce que c'est.
+La tente est devenue bizarrement calme, et clairement beaucoup moins crade, mais c'est comme ça.
 
-Cette mer... elle a pris beaucoup de victimes.<end>
+Cette mer... elle a fait beaucoup de victimes.<end>
 
 =>a74_original
 I hope you haven't packed everything yet. ::Barter.::<end>
@@ -504,7 +504,7 @@ Ok, $(context.player.Name), laisse-moi voir...<end>
 Yes. Here you go. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian coins.::<end>
 
 =>q81
-Oui. Voilà. ::Il vous donne $(context.loc xpbl le currentPaycheck) pièces stygiennes.::<end>
+Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.::<end>
 
 =>q82_original
 I've yet to get used to these stygian coins. I still think in terms of blues; United Stations dollars, I mean.<end>
@@ -742,7 +742,7 @@ Tout de suite.<end>
 Hey, Tone, would you mind handing me one of the suits?<end>
 
 =>q120
-Tone, tu veux bien me donner un des costumes ?<end>
+Hé, Tone, tu me passerais une des tenues ?<end>
 
 =>q121_original
 Right away.<end>
@@ -772,7 +772,7 @@ Quant à la navigation, elle est assez simple : L'écran affiche le carré de gr
 Here. ::Tony approaches you with a complete suit of Aegis Incorporated combat armor in his hands. As he returns to his spot behind the desk, you notice him putting away a couple of nylon bags which were most likely used to store the items he just gave you.::<end>
 
 =>q125
-Ici. ::Tony s'approche de vous avec une combinaison complète d'armure de combat Aegis Incorporated dans ses mains. Quand il revient à sa place derrière le bureau, vous remarquez qu'il a rangé quelques sacs de nylon qui ont probablement été utilisés pour stocker les articles qu'il vient de vous donner.::<end>
+Voilà. ::Tony s'approche avec une armure de combat Aegis Incorporated complète dans les bras. En retournant à sa place derrière le bureau, vous le voyez ranger quelques sacs en nylon qui servaient probablement à stocker ce qu'il vient de vous donner.::<end>
 
 =>q126_original
 There's your armor. I don't think I should explain how to put it on. You have your own weapons - or that's what I've been told - but if you need anything from our armory, talk to that guy over there. ::He points to Ladelman.::<end>
@@ -1000,7 +1000,7 @@ Il peut même respirer là-dedans ?<end>
 Maybe they drilled 'im a few holes. In the container, not in 'im, bwahaha!<end>
 
 =>q159
-Ils ont peut-être percé quelques trous. Dans le conteneur, pas en moi, bwahaha !<end>
+Ils lui ont p't-être percé deux-trois trous. Dans le conteneur, pas dans lui, bwahaha !<end>
 
 =>a160_original
 Can't he still make a lot of noise in there?<end>
@@ -1024,7 +1024,7 @@ Et s'il se met à frapper la tête contre le mur ?<end>
 I saw the sec-troops pad the walls with some mattreses and stuff, and he's shackled in there, I think.<end>
 
 =>q163
-J'ai vu les crapauds tapisser les murs de tapis et de trucs, et il est enchaîné là-dedans, je crois.<end>
+J'ai vu les sec-troopers tapisser les murs de matelas et de bricoles, et il est enchaîné là-dedans, je crois.<end>
 
 =>a164_original
 Toilet?<end>
@@ -1112,7 +1112,7 @@ Vous pouvez aller et zoner les sauvages. Ça résoudrait nos problèmes.<end>
 Tone, you can't expect $(#him/her) to attack the natives all on $(#his/her) own.<end>
 
 =>q177
-Tone, on ne peut pas s'attendre à $(#le/la) pour attaquer les natifs tous sur $(#son/sa) propre.<end>
+Tone, on peut pas lui demander d'attaquer les indigènes tout $(#seul/seule).<end>
 
 =>q178_original
 Or can you...?<end>
@@ -1170,7 +1170,7 @@ At J1. They appear to be in good condition. I just need you to send someone to p
 We don't have any sec-troopers left to spare. <end>
 
 =>q186
-Nous n'avons plus de parachutistes à épargner. <end>
+Il ne nous reste plus de sec-troopers à détacher. <end>
 
 =>q187_original
 Especially considering they'd have to go through pirate territory. <end>
@@ -1204,7 +1204,7 @@ Il y a peut-être un autre moyen...
 We haven't seen him in a while, but maybe that old ferryman would be willing to help you.<end>
 
 =>q191
-On ne l'a pas vu depuis longtemps, mais ce vieux ferry serait peut-être prêt à vous aider.<end>
+On ne l'a pas vu depuis un moment, mais ce vieux Ferryman accepterait peut-être de vous aider.<end>
 
 =>q192_original
 He's been uncooperative so far, but who knows. That's all I could think of.<end>
@@ -1216,13 +1216,13 @@ Il n'a pas coopéré jusqu'ici, mais qui sait. C'est tout ce à quoi je pensais.
 Maybe that old ferryman would be willing to help you. <end>
 
 =>q193
-Peut-être que ce vieux ferry serait prêt à vous aider. <end>
+Ce vieux Ferryman accepterait peut-être de vous aider. <end>
 
 =>q194_original
 Having sec-troopers out of the camp at a moment like this is far too risky. <end>
 
 =>q194
-Le fait d'avoir des parachutistes hors du camp à un moment comme celui-ci est beaucoup trop risqué. <end>
+Sortir des sec-troopers du camp, à un moment pareil, c'est beaucoup trop risqué. <end>
 
 =>q195_original
 I don't know... It's too dangerous to go through the pirate territory.<end>
@@ -1422,7 +1422,7 @@ C'est tout ce qu'on a appris.<end>
 <end>
 
 =>q225
-Si tu ne l'as pas encore fait, va parler à Seeger. Il a récupéré une bûche d'un... Je pense à une marine de sécurité. 
+Si ce n'est pas déjà fait, allez voir Seeger. Il a récupéré un journal... d'un security marine, je crois. 
 
 <end>
 
@@ -1484,7 +1484,7 @@ Je vous laisse à votre travail. Au revoir, Marcus.<end>
 Goodbye, $(context.player.Name). You were a great sec-trooper.<end>
 
 =>q235
-Au revoir, $(context.player.Name). Tu as été un super croque-bouche.<end>
+Au revoir, $(context.player.Name). Vous avez été un sacré sec-trooper.<end>
 
 =>q236_original
 Anything you need before the laborers start taking things out?<end>
@@ -1652,7 +1652,7 @@ Gardez la tête haute, sec-trooper. Nous allons passer.<end>
 ::Shrug.::<end>
 
 =>a263
-::Énorme.::<end>
+::Hausser les épaules.::<end>
 
 =>a264_original
 ::Say nothing.::<end>

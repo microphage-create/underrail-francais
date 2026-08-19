@@ -2,13 +2,13 @@
 Cull the Faceless!<end>
 
 =>q1
-Coupez le Faceless !<end>
+Éliminez les Faceless !<end>
 
 =>q2_original
 Not now, $(#brother/sister).<end>
 
 =>q2
-Pas maintenant, $(#brother/sister).<end>
+Pas maintenant, $(#frère/sœur).<end>
 
 =>q3_original
 ::Before you even had the chance to say anything, one of the two men points at you and speaks in a familiar, enthusiastic voice.::
@@ -18,7 +18,7 @@ Ah, $(context.player.Name), good of you to finally show up! I mean, the mediant 
 =>q3
 ::Avant même que vous ayez eu l'occasion de dire quoi que ce soit, l'un des deux hommes pointe sur vous et parle d'une voix familière et enthousiaste.::
 
-Ah, $(context.player.Name), merci d'être enfin venu ! Je veux dire, la médiane et moi discutions juste comment vous avez récupéré l'homme de Reaching des embrayages de ces consanguins dévolus et...<end>
+Ah, $(context.player.Name), vous voilà enfin ! Le Mediant et moi étions justement en train de parler de la façon dont vous avez récupéré le Reaching Man des griffes de ces consanguins dégénérés, et...<end>
 
 =>q4_original
 ::The efreitor is cut short by a resolute voice coming from the other man, one whose different and arguably more elaborate uniform markings introduce as someone of superior rank in the Tchortist hierarchy than Efreitor Denzil. One of the symbols - an eye with three equidistant tentacles sprouting out of it, is similar to the one on Efreitor Denzil's, barring the extra tentacle.::
@@ -28,25 +28,25 @@ Silence, I have heard it already... and our $(#brother/sister) already knows it 
 =>q4
 ::L'efreitor est coupé par une voix résolue venant de l'autre homme, dont les marques uniformes différentes et probablement plus élaborées présentent comme quelqu'un de rang supérieur dans la hiérarchie tchortiste que Efreitor Denzil. L'un des symboles - un œil avec trois tentacules équidistants qui en jaillissent, est semblable à celui sur Efreitor Denzil, à l'exception de la tente supplémentaire.::
 
-Silence, je l'ai déjà entendu... et notre $(#brother/sister) le sait déjà de première main. Pas ?<end>
+Silence, je l'ai déjà entendu... et notre $(#frère/sœur) le sait déjà de première main. Pas ?<end>
 
 =>q5_original
 $(context.player.Name), I am Mediant Samuel, the second in command of Preservation Forces of the Institute of Tchort. Welcome to my office. Tchort is evolution.<end>
 
 =>q5
-$(context.player.Name), Je suis Médiant Samuel, le second commandant des forces de préservation du Institute of Tchort. Bienvenue dans mon bureau. Tchort est l'évolution.<end>
+$(context.player.Name), je suis Mediant Samuel, second des forces de Preservation de l'Institute of Tchort. Bienvenue dans mon bureau. Tchort est l'évolution.<end>
 
 =>a6_original
 Evolution is Tchort.<end>
 
 =>a6
-Evolution est Tchort.<end>
+L'évolution est Tchort.<end>
 
 =>q7_original
 Indeed it is, $(#brother/sister).<end>
 
 =>q7
-En effet, $(#brother/sister).<end>
+En effet, $(#frère/sœur).<end>
 
 =>q8_original
 Now, I need you to wait a few moments for me to finish with the efreitor and send him away. This won't take long...<end>
@@ -58,7 +58,7 @@ Maintenant, j'ai besoin que vous attendiez quelques instants pour que je finisse
 Your Notability? Mediant, I... don't understand what you mean. Send me away?<end>
 
 =>q9
-Votre Notabilité ? Médiant, je... ne comprends pas ce que tu veux dire. Me renvoyer ?<end>
+Votre Notabilité ? Mediant, je... ne comprends pas ce que vous voulez dire. Me renvoyer ?<end>
 
 =>q10_original
 Then let me explain it, Efreitor: As soon as we're done here you are going to take your rassophore unit and lead them to patrol the Upper Underrail; routes W1 through N5. The theft of the Reaching Man revealed how susceptible we are to having our couriers intercepted by the likes of Lunatics and other inbred lowlifes. I want the area surrounding the Institute secure at all times! 
@@ -66,7 +66,7 @@ Then let me explain it, Efreitor: As soon as we're done here you are going to ta
 At. all. times.<end>
 
 =>q10
-Laissez-moi vous expliquer. Dès que nous aurons terminé, vous allez prendre votre unité de rasophore et les conduire à patrouiller le Upper Underrail; les routes W1 à N5. Le vol du Reaching Man a révélé à quel point nous sommes sensibles à ce que nos coursiers soient interceptés par les semblables de Lunatics et d'autres bas-lifes consanguines. Je veux que les environs de l'Institut soient sécurisés en tout temps !
+Laissez-moi vous expliquer, Efreitor. Dès que nous en aurons fini ici, vous prendrez votre unité de rassophores et vous les mènerez patrouiller l'Upper Underrail : routes W1 à N5. Le vol du Reaching Man a montré à quel point nos courriers sont faciles à intercepter par des gens comme les Lunatics, et d'autres consanguins de bas étage. Je veux les abords de l'Institute sûrs en permanence !
 
 En tout temps.<end>
 
@@ -76,7 +76,7 @@ En tout temps.<end>
 Your Notability... I worked hard with, with $(context.player.Name) to locate and retrieve the Reaching Man, to bring it back in time for the anniversary - as is my *duty* to the Institute, to Eidein and to Tchort. You realize that, yes, I know you do. Yet I am rewarded for my... for my hard work by being sent on a... what, a meaningless patrol?<end>
 
 =>q11
-::L'infuriation s'échappe de l'éfreiteur, son langage corporel le révèle. Pourtant, juste avant de répondre à la médiane, il se calme - comme si l'eau glacée a été versé sur sa tête; avec la colère lavée, ce qui reste est une grande détresse.::
+::La fureur transpire de l'efreitor, son corps le trahit. Pourtant, juste avant de répondre au Mediant, il se calme - comme si on lui avait versé de l'eau glacée sur la tête ; la colère lessivée, il ne reste qu'une grande détresse.::
 
 Votre Notabilité... J'ai travaillé dur avec, avec $(context.player.Name) pour localiser et récupérer le Reaching Man, pour le ramener à temps pour l'anniversaire - tout comme mon *devoir* à l'Institut, à Eidein et à Tchort. Tu réalises que oui, je le sais. Pourtant, je suis récompensé pour mon... travail acharné en me faisant envoyer... quoi, une patrouille sans sens ?<end>
 
@@ -146,7 +146,7 @@ Khm... yo? Really? Magnificent Tchort, wha--<end>
 Efreitor, please... $(#Brother/Sister) responded to me - not to you. If you were half as vigilant at finding the figurine than you were at jumping at people's... ::He turns to you for a second.:: *inadequate* responses... it would have been recovered sooner. No?<end>
 
 =>q21
-Efreitor, s'il vous plaît... $(#Brother/Sister) m'a répondu - pas à vous. Si vous étiez à moitié aussi vigilant à trouver la figurine que vous étiez à sauter sur les réponses des gens... ::Il se tourne vers vous une seconde.:: *inadapté*... il aurait été récupéré plus tôt. Pas ?<end>
+Efreitor, s'il vous plaît... $(#Frère/Sœur) m'a répondu - pas à vous. Si vous étiez à moitié aussi vigilant à trouver la figurine que vous étiez à sauter sur les réponses des gens... ::Il se tourne vers vous une seconde.:: *inadapté*... il aurait été récupéré plus tôt. Pas ?<end>
 
 =>q22_original
 Excuse us, $(context.player.Name), this will only take a moment. Efreitor and I need to finish something before I send him on his way so that we may finally start our conversation without any interference.<end>
@@ -224,7 +224,7 @@ Vous êtes un noviciat. Vous avez fait du bon travail pour Preservation, donc In
 I've seen enough. You deserve to become a rassophore, $(context.player.Name), to proudly serve Preservation Forces while enjoying the benefits of your well-earned promotion. You will serve to preserve the Institute of Tchort - and it will preserve you too. Unfortunately, His Excellency is still absent and therefore I can't bring this matter to him right now, but what I can do is send you directly to Eidein.<end>
 
 =>q32
-J'en ai assez vu. Vous méritez de devenir un rasophore, $(context.player.Name), pour servir fièrement les Forces de préservation tout en profitant des avantages de votre promotion bien méritée. Vous servirez à préserver le Institute of Tchort - et il vous préservera aussi. Malheureusement, Son Excellence est toujours absent et donc je ne peux pas lui apporter cette affaire maintenant, mais ce que je peux faire c'est vous envoyer directement à Eidein.<end>
+J'en ai assez vu. Vous méritez de devenir un rassophore, $(context.player.Name), pour servir fièrement les Forces de préservation tout en profitant des avantages de votre promotion bien méritée. Vous servirez à préserver le Institute of Tchort - et il vous préservera aussi. Malheureusement, Son Excellence est toujours absent et donc je ne peux pas lui apporter cette affaire maintenant, mais ce que je peux faire c'est vous envoyer directement à Eidein.<end>
 
 =>q33_original
 I will contact the protonotary and arrange a meeting with Eidein so that you can discuss your future. His office is behind a set of double doors on the floor above, just opposite the stairs that lead down into the main hall.<end>
@@ -248,7 +248,7 @@ Tchort vous guide aussi, $(context.player.Name).<end>
 Thank you very much, Mediant. I will not keep Eidein waiting.<end>
 
 =>a36
-Merci beaucoup, Médiant. Je ne ferai pas attendre Eidein.<end>
+Merci beaucoup, Mediant. Je ne ferai pas attendre Eidein.<end>
 
 =>q37_original
 Tchort guide you, $(context.player.Name).<end>
@@ -284,7 +284,7 @@ Traquer ? Magnifique Tchort ! Dites-moi ce qui s'est passé.<end>
 Nevil somehow managed to get past the rassophores guarding the Harpocrates Station entrance and find a hidden vent which he was then able to crawl into.<end>
 
 =>a42
-Nevil réussit d'une manière ou d'une autre à passer devant les rasophores qui gardaient l'entrée de la station Harpocrates et à trouver un évent caché dans lequel il put ensuite ramper.<end>
+Nevil réussit d'une manière ou d'une autre à passer devant les rassophores qui gardaient l'entrée de la station Harpocrates et à trouver un évent caché dans lequel il put ensuite ramper.<end>
 
 =>q43_original
 Get past the guards? Hmmm, there was a... minor emergency down in the utility section that could have distracted the guards. Interesting, it never occured to me that these two events could've been somehow connected. And the vent... very interesting, no? Did he know about it before he... Never mind.
@@ -294,7 +294,7 @@ Then what happened, $(#brother/sister)?<end>
 =>q43
 Passer les gardes ? Hmm, il y a eu une urgence mineure dans la section des services publics qui aurait pu distraire les gardes. Intéressant, il ne m'est jamais apparu que ces deux événements auraient pu être reliés. Et la ventilation... très intéressante, non ? Le savait-il avant... Laisse tomber.
 
-Que s'est-il passé, $(#brother/sister) ?<end>
+Que s'est-il passé, $(#frère/sœur) ?<end>
 
 =>a44_original
 I followed him through the vents and ended up in a facility in which he had triggered a security alarm, causing a small army of sentry bots to move in and eliminate us. Erm, "try" to eliminate us; they are a smoldering pile of junk now.<end>
@@ -348,7 +348,7 @@ Rien.<end>
 ::He sighs.:: Right, listen carefully: You don't talk to anyone about this, understand? Not to anyone, from Preservation or otherwise... not even to Harmost when he returns, and... and not even to Eidein - may he pardon me. ::He gives you 400 stygian coins.::<end>
 
 =>q52
-::Il soupire.:: D'accord, écoutez attentivement : vous n'en parlez à personne, compris ? Pas à qui que ce soit, de Préservation ou autrement... pas même à Harmost quand il reviendra, et... et même pas à Eidein - peut-il me pardonner. ::Il vous donne 400 pièces de monnaie.::<end>
+::Il soupire.:: D'accord, écoutez attentivement : vous n'en parlez à personne, compris ? Pas à qui que ce soit, de Préservation ou autrement... pas même à Harmost quand il reviendra, et... et même pas à Eidein - peut-il me pardonner. ::Il vous donne 400 pièces stygiennes.::<end>
 
 =>a53_original
 He babbled some unintelligible mumbo-jumbo at a certain point, but other than that - I learned nothing.<end>
@@ -378,7 +378,7 @@ Ce sont des mots d'un homme déraillé, Votre Notabilité. Je n'en croyais pas u
 That is the only sane response you could give me, $(#brother/sister). Let me remind you that we want to help people, improve people - direct human evolution! Not... sacrifice or mutilate or whatever lies he told you. That is ridiculous! Just ignore his words, $(context.player.Name), don't let them poison your mind.<end>
 
 =>q57
-C'est la seule réponse saine que vous pourriez me donner, $(#brother/sister). Je vous rappelle que nous voulons aider les gens, améliorer les gens - l'évolution humaine directe! Pas... de sacrifice, de mutilation ou de mensonges. C'est ridicule ! Il suffit d'ignorer ses mots, $(context.player.Name), ne les laissez pas empoisonner votre esprit.<end>
+C'est la seule réponse saine que vous pourriez me donner, $(#frère/sœur). Je vous rappelle que nous voulons aider les gens, améliorer les gens - l'évolution humaine directe! Pas... de sacrifice, de mutilation ou de mensonges. C'est ridicule ! Il suffit d'ignorer ses mots, $(context.player.Name), ne les laissez pas empoisonner votre esprit.<end>
 
 =>a58_original
 Well there is a lot about the Institute of Tchort that I don't know...<end>
@@ -408,7 +408,7 @@ Allez vous reposer, $(context.player.Name), et videz-vous la tête. Alors revien
 ::Perform the Tchortist salute.:: Tchort guide you, Mediant.<end>
 
 =>a62
-::Faites le salut des Tchortistes.:: Tchort vous guide, Médiant.<end>
+::Faites le salut des Tchortistes.:: Tchort vous guide, Mediant.<end>
 
 =>a63_original
 I will. Goodbye.<end>
@@ -454,13 +454,13 @@ J'ai essayé de lui parler, mais à un moment donné, c'est devenu violent.<end>
 So you were forced to cull him... And did you manage learn anything about his motives to... abandon his duty? Did he see anything?<end>
 
 =>q69
-Donc vous avez été forcé de l'abattre... Et avez-vous appris quoi que ce soit sur ses motifs pour... abandonner son devoir ? Il a vu quelque chose ?<end>
+Donc vous avez été $(#forcé/forcée) de l'éliminer... Et avez-vous appris quelque chose de ses motifs pour... abandonner son devoir ? A-t-il vu quelque chose ?<end>
 
 =>a70_original
 As strange as it might sound to you, that is what happened there, Mediant.<end>
 
 =>a70
-Aussi étrange que cela puisse vous paraître, c'est ce qui s'est passé là-bas, Médiant.<end>
+Aussi étrange que cela puisse vous paraître, c'est ce qui s'est passé là-bas, Mediant.<end>
 
 =>a71_original
 I followed him through the vents and ended up in a facility in which he had triggered a security alarm. Some defense bots were about to attack us, but I managed to hack the console and prevent it.<end>
@@ -584,19 +584,19 @@ Magnifique Tchort ! Il est devenu complètement sauvage, déraillé ! Je suppose
 I never suspected I would have to say this, but I don't think there is an alternative... I want you to cull Efreitor Mateo. Relieve him of his misery and make sure he is no threat to us, $(#brother/sister).<end>
 
 =>q90
-Je n'ai jamais pensé que je devrais dire ça, mais je ne pense pas qu'il y ait d'alternative... Je veux que vous coupiez Efreitor Mateo. Soulagez-le de sa misère et assurez-vous qu'il ne nous menace pas, $(#brother/sister).<end>
+Je n'ai jamais pensé que je devrais dire ça, mais je ne pense pas qu'il y ait d'alternative... Je veux que vous coupiez Efreitor Mateo. Soulagez-le de sa misère et assurez-vous qu'il ne nous menace pas, $(#frère/sœur).<end>
 
 =>a91_original
 I will, Mediant.<end>
 
 =>a91
-Je le ferai, Médiant.<end>
+Je le ferai, Mediant.<end>
 
 =>q92_original
 You know what needs to be done. Tchort guide you, $(#brother/sister).<end>
 
 =>q92
-Tu sais ce qu'il faut faire. Tchort vous guide, $(#brother/sister).<end>
+Tu sais ce qu'il faut faire. Tchort vous guide, $(#frère/sœur).<end>
 
 =>a93_original
 Tchort guide you, Your Notability.<end>
@@ -608,7 +608,7 @@ Tchort vous guide, Votre Notabilité.<end>
 Yes, Mediant. Goodbye.<end>
 
 =>a94
-Oui, Médiant. Au revoir.<end>
+Oui, Mediant. Au revoir.<end>
 
 =>a95_original
 He is already dead. He turned violent during our conversation and I had to kill him.<end>
@@ -644,7 +644,7 @@ Well, it has no direct effects on us here, fortunately. It is my theory that the
 Here you go. ::He hands you 700 stygian coins.:: You get a hundred and fifty extra for culling the efreitor. You're done with that for now, $(#brother/sister). Once I've spoken with Harmost about this, I'll know more about our next course of action.<end>
 
 =>q100
-Voilà. ::Il vous donne 700 pièces de monnaie.:: Vous obtenez cent cinquante extras pour éliminer l'effreur. C'est fini pour l'instant, $(#brother/sister). Une fois que j'en aurai parlé à Harmost, j'en saurai plus sur notre prochaine action.<end>
+Voilà. ::Il vous donne 700 pièces stygiennes.:: Vous obtenez cent cinquante extras pour éliminer l'effreur. C'est fini pour l'instant, $(#frère/sœur). Une fois que j'en aurai parlé à Harmost, j'en saurai plus sur notre prochaine action.<end>
 
 =>q101_original
 <end>
@@ -674,7 +674,7 @@ Je ne pense pas que le tuer soit la meilleure option, il y a peut-être un autre
 Novitiate, must I remind you that I give the orders around here... I mean, when His Excellency is not present. Efreitor Mateo is, as of now, a direct threat to the safety of the Institute. I *order* you to cull him!<end>
 
 =>q105
-Noviciat, dois-je te rappeler que je donne les ordres par ici... Quand Son Excellence n'est pas là. Efreitor Mateo est, à partir de maintenant, une menace directe pour la sécurité de l'Institut. Je vous ordonne de l'abattre !<end>
+Novitiate, dois-je vous rappeler que c'est moi qui donne les ordres ici... enfin, quand Son Excellence n'est pas là. Efreitor Mateo est désormais une menace directe pour la sécurité de l'Institute. Je vous *ordonne* de l'éliminer !<end>
 
 =>q106_original
 And you know what...? Bring me his head as proof. Now go and do as you were told. Tchort guide you.<end>
@@ -734,7 +734,7 @@ Well, it has no direct effects on us here, fortunately. It is my theory that the
 Here you go. ::He hands you 550 stygian coins.:: You're done with that for now, $(#brother/sister). Once I've spoken with Harmost about this, I'll know more about our next course of action.<end>
 
 =>q115
-Voilà. ::Il vous donne 550 pièces de monnaie.:: C'est fini pour l'instant, $(#brother/sister). Une fois que j'en aurai parlé à Harmost, j'en saurai plus sur notre prochaine action.<end>
+Voilà. ::Il vous donne 550 pièces stygiennes.:: C'est fini pour l'instant, $(#frère/sœur). Une fois que j'en aurai parlé à Harmost, j'en saurai plus sur notre prochaine action.<end>
 
 =>a116_original
 I'd say it appears to be a very dangerous object. I think it is the sole reason why Efreitor Mateo became so strange and violent.<end>
@@ -806,7 +806,7 @@ Puisque j'espère que vous êtes maintenant convaincu que je ne suis pas une mau
 ::He laughs.:: I am beginning to like you more and more... but be careful what you wish for, $(#brother/sister), for I do have some interesting work which could once again expose you to great dangers.<end>
 
 =>q127
-::Il rit.:: Je commence à vous aimer de plus en plus... mais attention à ce que vous souhaitez, $(#brother/sister), car j'ai un travail intéressant qui pourrait encore vous exposer à de grands dangers.<end>
+::Il rit.:: Je commence à vous aimer de plus en plus... mais attention à ce que vous souhaitez, $(#frère/sœur), car j'ai un travail intéressant qui pourrait encore vous exposer à de grands dangers.<end>
 
 =>a128_original
 I fear nothing, Your Notability. Tell me of it.<end>
@@ -836,13 +836,13 @@ Précisément... <end>
 Approximately five days ago a rassophore combat unit under the command of Efreitor Mateo was dispatched to the West Wing after Principal Investigator Schteff of the Department of Physics informed us about strong electromagnetic emissions detected from the West Wing's northern section. The West Wing hasn't been opened since year sixty-seven - just over thirty years ago, and so we were reluctant to do anything about it. But after Schteff consulted His Excellency he... *we* finally decided to dispatch a unit.<end>
 
 =>q132
-Il y a environ cinq jours, une unité de combat rasophore sous le commandement d'Efreitor Mateo a été envoyée à l'aile ouest après que l'enquêteur principal Schteff du Département de physique nous a informés des fortes émissions électromagnétiques détectées dans la section nord de l'aile ouest. L'aile ouest n'a pas été ouverte depuis l'an soixante-sept - il y a un peu plus de trente ans, et nous étions donc réticents à faire quelque chose à ce sujet. Mais après avoir consulté Son Excellence, il a finalement décidé d'envoyer une unité.<end>
+Il y a environ cinq jours, une unité de combat rassophore sous le commandement d'Efreitor Mateo a été envoyée à l'aile ouest après que l'enquêteur principal Schteff du Département de physique nous a informés des fortes émissions électromagnétiques détectées dans la section nord de l'aile ouest. L'aile ouest n'a pas été ouverte depuis l'an soixante-sept - il y a un peu plus de trente ans, et nous étions donc réticents à faire quelque chose à ce sujet. Mais après avoir consulté Son Excellence, il a finalement décidé d'envoyer une unité.<end>
 
 =>q133_original
 Unfortunately... that turned out to be a mistake; completely abortive... We lost all contact with them; we do not know where they are, what happened to them... nothing, $(#brother/sister). Harmost Stavros, as dedicated to Tchortism and intelligent as he is - a man I truly respect, don't get me wrong, should have listened to my advice. Do you agree, no?<end>
 
 =>q133
-Malheureusement... c'était une erreur, complètement avortée... Nous avons perdu tout contact avec eux; nous ne savons pas où ils sont, ce qui leur est arrivé... rien, $(#brother/sister). Harmost Stavros, aussi dévoué au Tchortisme et intelligent qu'il est - un homme que je respecte vraiment, ne me trompe pas, aurait dû écouter mon conseil. Tu es d'accord, non ?<end>
+Malheureusement... c'était une erreur, complètement avortée... Nous avons perdu tout contact avec eux; nous ne savons pas où ils sont, ce qui leur est arrivé... rien, $(#frère/sœur). Harmost Stavros, aussi dévoué au Tchortisme et intelligent qu'il est - un homme que je respecte vraiment, ne me trompe pas, aurait dû écouter mon conseil. Tu es d'accord, non ?<end>
 
 =>q134_original
 What I want from you is simple: Go to the West Wing and find out what happened to the missing unit, then return and report your findings to me. We will consider our actions from there.<end>
@@ -960,7 +960,7 @@ Je vais à l'aile ouest.<end>
 Well in that case - Tchort guide you, $(#brother/sister). Take the door past Eidein's Library and... take care.<end>
 
 =>q152
-Dans ce cas - Tchort vous guide, $(#brother/sister). Prenez la porte après la bibliothèque Eidein et... prenez soin de vous.<end>
+Dans ce cas - Tchort vous guide, $(#frère/sœur). Prenez la porte après la bibliothèque Eidein et... prenez soin de vous.<end>
 
 =>q153_original
 <end>
@@ -984,13 +984,13 @@ Pourquoi as-tu attendu cinq jours pour les chercher ?<end>
 I hope you realize, $(#brother/sister), that another unit sent there could potentially meet the same fate as the first one. It is a great risk.<end>
 
 =>q156
-J'espère que vous réalisez, $(#brother/sister), qu'une autre unité envoyée là pourrait potentiellement rencontrer le même sort que la première. C'est un grand risque.<end>
+J'espère que vous réalisez, $(#frère/sœur), qu'une autre unité envoyée là pourrait potentiellement rencontrer le même sort que la première. C'est un grand risque.<end>
 
 =>q157_original
 Now with you coming along and doing some... impressive feats on your own, I thought why not drop this one on the table and see if you are interested, $(#brother/sister).<end>
 
 =>q157
-Maintenant que vous arrivez et que vous faites... des exploits impressionnants tout seul, je me suis dit pourquoi ne pas laisser tomber celui-ci sur la table et voir si vous êtes intéressé, $(#brother/sister).<end>
+Maintenant que vous arrivez et que vous faites... des exploits impressionnants tout seul, je me suis dit pourquoi ne pas laisser tomber celui-ci sur la table et voir si vous êtes intéressé, $(#frère/sœur).<end>
 
 =>a158_original
 The West Wing sounds like a death trap. I don't feel like going there.<end>
@@ -1080,7 +1080,7 @@ Cependant, cela pose un risque pour la sécurité - comme vous l'avez peut-être
 Naturally, a rassophore unit was dispatched to scan the area, and it was free of threats at the time. When we later checked some of the old plans, however, we noticed that Utility Station 7, west of Harpocrates' main hall, has a long tunnel leading somewhere far away. Pipeline goes through it, so the plans show, but I'm worried about something else coming through. You understand me, no?<end>
 
 =>q172
-Naturellement, une unité de rasophore a été envoyée pour scanner la zone, et il était exempt de menaces à l'époque. Par la suite, nous avons vérifié certains des anciens plans, mais nous avons remarqué que la station 7, à l'ouest du hall principal de Harpocrates, a un long tunnel qui mène quelque part loin. Pipeline passe par là, donc les plans montrent, mais je m'inquiète de quelque chose d'autre qui arrive. Vous comprenez ?<end>
+Naturellement, une unité de rassophore a été envoyée pour scanner la zone, et il était exempt de menaces à l'époque. Par la suite, nous avons vérifié certains des anciens plans, mais nous avons remarqué que la station 7, à l'ouest du hall principal de Harpocrates, a un long tunnel qui mène quelque part loin. Pipeline passe par là, donc les plans montrent, mais je m'inquiète de quelque chose d'autre qui arrive. Vous comprenez ?<end>
 
 =>q173_original
 I need someone to explore that utility station and secure it. "Someone..." ::He smiles.::<end>
@@ -1134,13 +1134,13 @@ Il y a un autre ensemble d'escaliers plus à droite, mais n'y allez pas: C'est u
 That is all for now, $(#brother/sister). Come back once you are sure that the area is secure. Tchort guide you.<end>
 
 =>q181
-C'est tout pour le moment, $(#brother/sister). Revenez une fois que vous êtes sûr que la zone est sécurisée. Tchort vous guide.<end>
+C'est tout pour le moment, $(#frère/sœur). Revenez une fois que vous êtes sûr que la zone est sécurisée. Tchort vous guide.<end>
 
 =>a182_original
 ::Perform the Tchortist salute.:: Tchort guide you too, Mediant.<end>
 
 =>a182
-::Faites le salut des Tchortistes.:: Tchort vous guide aussi, Médiant.<end>
+::Faites le salut des Tchortistes.:: Tchort vous guide aussi, Mediant.<end>
 
 =>a183_original
 I'll be back soon.<end>
@@ -1204,13 +1204,13 @@ Je ne m'attendais à rien de moins. Bien joué, $(context.player.Name); je suis 
 To tell you the truth, I expected you to find something there - foreign bodies. ::He laughs.:: My rassophores heard strange sounds coming from behind those doors, so I decided to send *you* as a test. Just to see if what you did at the Emporion was due to luck... or skill.<end>
 
 =>q192
-Pour vous dire la vérité, je m'attendais à ce que vous trouviez quelque chose là - des corps étrangers. ::Il rit.:: Mes rasophores ont entendu des sons étranges venant de derrière ces portes, alors j'ai décidé d'envoyer *vous* comme test. Pour voir si ce que tu as fait à l'Emporion était dû à la chance... ou à la compétence.<end>
+Pour vous dire la vérité, je m'attendais à ce que vous trouviez quelque chose là - des corps étrangers. ::Il rit.:: Mes rassophores ont entendu des sons étranges venant de derrière ces portes, alors j'ai décidé d'envoyer *vous* comme test. Pour voir si ce que tu as fait à l'Emporion était dû à la chance... ou à la compétence.<end>
 
 =>q193_original
 And now I have the results: Foreign bodies were successfully removed from the system. ::He smiles.:: Here you go. ::He hands you 450 stygian coins.:: Something to give you further motivation, $(#brother/sister).<end>
 
 =>q193
-Et maintenant j'ai les résultats : les corps étrangers ont été retirés du système avec succès. ::Il sourit.:: Voilà. ::Il vous donne 450 pièces de monnaie.:: Quelque chose pour vous donner plus de motivation, $(#brother/sister).<end>
+Et maintenant j'ai les résultats : les corps étrangers ont été retirés du système avec succès. ::Il sourit.:: Voilà. ::Il vous donne 450 pièces stygiennes.:: Quelque chose pour vous donner plus de motivation, $(#frère/sœur).<end>
 
 =>a194_original
 I took care of them - $(context.player.Name) style.<end>
@@ -1234,7 +1234,7 @@ Et quoi ?<end>
 And what did you do about it, $(#brother/sister)?<end>
 
 =>q197
-Et qu'avez-vous fait, $(#brother/sister) ?<end>
+Et qu'avez-vous fait, $(#frère/sœur) ?<end>
 
 =>a198_original
 Your fears were justified: A large group of Lunatics has managed to get inside the utility station.<end>
@@ -1264,7 +1264,7 @@ Comment puis-je retourner à la station 7?<end>
 I can understand the Institute being confusing for newcomers, but by the Tchort pay more attention $(#brother/sister). Take the stairs just left of Eidein's Library; that west of the main hall, second floor; then once you are down go right and talk to the rassophore guards guarding a long corridor - not the stairs to the far right.<end>
 
 =>q202
-Je peux comprendre que l'Institut soit déroutant pour les nouveaux arrivants, mais par le Tchort plus d'attention $(#brother/sister). Prenez l'escalier juste à gauche de la bibliothèque de Eidein; celui à l'ouest de la salle principale, au deuxième étage; puis une fois que vous êtes en bas, allez à droite et parlez aux gardes rasophore gardiennant un long couloir - pas l'escalier à l'extrême droite.<end>
+Je peux comprendre que l'Institut soit déroutant pour les nouveaux arrivants, mais par le Tchort plus d'attention $(#frère/sœur). Prenez l'escalier juste à gauche de la bibliothèque de Eidein; celui à l'ouest de la salle principale, au deuxième étage; puis une fois que vous êtes en bas, allez à droite et parlez aux gardes rassophore gardiennant un long couloir - pas l'escalier à l'extrême droite.<end>
 
 =>q203_original
 Understood all that, no? I hope you did. Now go and Tchort guide you.<end>
@@ -1288,7 +1288,7 @@ Ils ne cesseront pas. C'est troublant, mais je n'ai pas de réponse. Le Départe
 But I have more important things to worry about right now, $(#brother/sister). I'm sure important information will reach me.<end>
 
 =>q206
-Mais j'ai des choses plus importantes à m'inquiéter en ce moment, $(#brother/sister). Je suis sûr que des informations importantes vont me parvenir.<end>
+Mais j'ai des choses plus importantes à m'inquiéter en ce moment, $(#frère/sœur). Je suis sûr que des informations importantes vont me parvenir.<end>
 
 =>a207_original
 When did you join the Institute of Tchort and why?<end>
@@ -1300,7 +1300,7 @@ Quand avez-vous rejoint le Institute of Tchort et pourquoi ?<end>
 I'm afraid I dislike discussing that subject, $(#brother/sister).<end>
 
 =>q208
-J'ai peur de ne pas aimer parler de ce sujet, $(#brother/sister).<end>
+J'ai peur de ne pas aimer parler de ce sujet, $(#frère/sœur).<end>
 
 =>a209_original
 Why not?<end>
@@ -1318,7 +1318,7 @@ Je ne répondrai pas à cette question à quelqu'un que je connais à peine. Aut
 ::He makes a brief pause.:: Because I was a different person before I got here and had my mind enlightened by things that truly matter, $(#brother/sister). I was aimless, and I feel great shame for it even today. Eidein accepted me and I accepted Tchortism. Through knowledge and empirical evidence I finally saw the world around me in its true colors.<end>
 
 =>q211
-::Il fait une brève pause.:: Parce que j'étais une personne différente avant d'arriver ici et que mon esprit était éclairé par des choses qui comptent vraiment, $(#brother/sister). J'étais sans but, et j'en ai honte même aujourd'hui. Eidein m'a accepté et j'ai accepté Tchortism. Par la connaissance et la preuve empirique, j'ai enfin vu le monde autour de moi dans ses vraies couleurs.<end>
+::Il fait une brève pause.:: Parce que j'étais une personne différente avant d'arriver ici et que mon esprit était éclairé par des choses qui comptent vraiment, $(#frère/sœur). J'étais sans but, et j'en ai honte même aujourd'hui. Eidein m'a accepté et j'ai accepté Tchortism. Par la connaissance et la preuve empirique, j'ai enfin vu le monde autour de moi dans ses vraies couleurs.<end>
 
 =>q212_original
 Old me was... bad me. Inferior me. Tchort is all I have now; Tchort guides me. I've said enough.<end>
@@ -1336,7 +1336,7 @@ Je respecte ça. Dans ce cas, j'aimerais vous poser une autre question.<end>
 By all means do so, $(#brother/sister).<end>
 
 =>q214
-Par tous les moyens, $(#brother/sister).<end>
+Par tous les moyens, $(#frère/sœur).<end>
 
 =>a215_original
 What can you tell me about the West Wing?<end>
@@ -1348,7 +1348,7 @@ Que pouvez-vous me dire sur l'aile ouest ?<end>
 I hope Her Notability Praepostor Amelia didn't miss warning you about the West Wing, no? Well now, $(#brother/sister), the truth is that a warning is the only concrete information that you can get regarding the West Wing. The sad truth is, we don't know what horrors exist in that wretched place, and after what happened more than thirty years ago we weren't too eager on finding out.<end>
 
 =>q216
-J'espère qu'elle n'a pas manqué de vous prévenir pour l'aile ouest. Maintenant, $(#brother/sister), la vérité est qu'un avertissement est la seule information concrète que vous pouvez obtenir concernant l'aile ouest. La triste vérité est que nous ne savons pas quelles horreurs existent dans cet endroit misérable, et après ce qui s'est passé il y a plus de trente ans, nous n'étions pas très impatients de le découvrir.<end>
+J'espère qu'elle n'a pas manqué de vous prévenir pour l'aile ouest. Maintenant, $(#frère/sœur), la vérité est qu'un avertissement est la seule information concrète que vous pouvez obtenir concernant l'aile ouest. La triste vérité est que nous ne savons pas quelles horreurs existent dans cet endroit misérable, et après ce qui s'est passé il y a plus de trente ans, nous n'étions pas très impatients de le découvrir.<end>
 
 =>a217_original
 What happened thirty years ago?<end>
@@ -1378,19 +1378,19 @@ Que pouvez-vous me dire sur la préservation ?<end>
 Preservation is one of the Institute's divisions, the one concerned with preserving Tchort, this institution and all its members. Our rassophores are among the best trained troops in Underrail... only we haven't had the chance to show it to outsiders, no? ::He laughs.::<end>
 
 =>q221
-La préservation est l'une des divisions de l'Institut, celle qui s'occupe de préserver Tchort, cette institution et tous ses membres. Nos rasophores sont parmi les troupes les mieux entraînées de Underrail... mais nous n'avons pas eu la chance de le montrer à des étrangers, non ? ::Il rit.::<end>
+La préservation est l'une des divisions de l'Institut, celle qui s'occupe de préserver Tchort, cette institution et tous ses membres. Nos rassophores sont parmi les troupes les mieux entraînées de Underrail... mais nous n'avons pas eu la chance de le montrer à des étrangers, non ? ::Il rit.::<end>
 
 =>a222_original
 How does one become a rassophore?<end>
 
 =>a222
-Comment devient-on un rasophore ?<end>
+Comment devient-on un rassophore ?<end>
 
 =>q223_original
 First thing is dedication to Institute of Tchort and its ideology; without it everything else becomes meaningless. Second is hard-work and rigorous training; without it one will not be able perform his duties within Preservation Forces. Third and final is adaptation to any and all situations that rassophores might encounter.<end>
 
 =>q223
-Tout d'abord le dévouement à Institute of Tchort et à son idéologie ; sans elle, tout le reste devient sans signification. Deuxièmement, il s'agit d'un travail acharné et d'une formation rigoureuse; sans cela, on ne pourra s'acquitter de ses fonctions au sein des Forces de préservation. Troisième et dernière est l'adaptation à toutes les situations que les rasophores pourraient rencontrer.<end>
+Tout d'abord le dévouement à Institute of Tchort et à son idéologie ; sans elle, tout le reste devient sans signification. Deuxièmement, il s'agit d'un travail acharné et d'une formation rigoureuse; sans cela, on ne pourra s'acquitter de ses fonctions au sein des Forces de préservation. Troisième et dernière est l'adaptation à toutes les situations que les rassophores pourraient rencontrer.<end>
 
 =>q224_original
 I think that covers everything, no?<end>
@@ -1408,7 +1408,7 @@ Que pouvez-vous me dire sur Harmost ?<end>
 Harmost Stavros commands all Preservation Forces and relays his orders to a mediant - which is currently me - who then relays them to troops below. His Excellency is a wise man with years of experience and a great sense of strategy; he was a student of Monsignor Marcial after all, no?<end>
 
 =>q226
-Harmost Stavros commande toutes les forces de préservation et transmet ses ordres à une médiane - qui est actuellement moi - qui les transmet ensuite aux troupes en bas. Son Excellence est un homme sage avec des années d'expérience et un grand sens de la stratégie; il était un étudiant de Monseigneur Marcial après tout, non?<end>
+Harmost Stavros commande toutes les forces de Preservation et transmet ses ordres à un Mediant - moi, actuellement - qui les transmet ensuite aux troupes. Son Excellence est un homme sage, des années d'expérience, un grand sens de la stratégie ; il a été l'élève de Monsignor Marcial, après tout, non ?<end>
 
 =>a227_original
 When can I meet him?<end>
@@ -1420,7 +1420,7 @@ Quand puis-je le rencontrer ?<end>
 When he returns from Cytosine Outpost in Deep Caverns. When will that be... I am not sure, $(#brother/sister).<end>
 
 =>q228
-Quand il revient de Cytosine Outpost dans Deep Caverns. Quand... Je ne suis pas sûr, $(#brother/sister).<end>
+Quand il revient de Cytosine Outpost dans Deep Caverns. Quand... Je ne suis pas sûr, $(#frère/sœur).<end>
 
 =>a229_original
 Cytosine Outpost?<end>
@@ -1444,7 +1444,7 @@ Donc fondamentalement, vous êtes responsable jusqu'à son retour.<end>
 That is correct, $(#brother/sister). Communication between this location and Deep Caverns is unreliable at the moment, so Harmost had to leave the command to someone capable enough, no? So I have been trying to do my best to maintain everything as if His Excellency were here himself... as if I was in his position, in a way.<end>
 
 =>q232
-C'est exact, $(#brother/sister). La communication entre cet endroit et Deep Caverns n'est pas fiable pour le moment, donc Harmost a dû laisser le commandement à quelqu'un assez capable, non ? Donc j'ai essayé de faire de mon mieux pour maintenir tout comme si Son Excellence était ici lui-même... comme si j'étais dans sa position, d'une certaine façon.<end>
+C'est exact, $(#frère/sœur). La communication entre cet endroit et Deep Caverns n'est pas fiable pour le moment, donc Harmost a dû laisser le commandement à quelqu'un assez capable, non ? Donc j'ai essayé de faire de mon mieux pour maintenir tout comme si Son Excellence était ici lui-même... comme si j'étais dans sa position, d'une certaine façon.<end>
 
 =>a233_original
 What can you tell me about the Faceless?<end>
@@ -1456,7 +1456,7 @@ Que pouvez-vous me dire sur le Faceless ?<end>
 Oh... the Faceless, our arch nemeses. ::He laughs.:: They are! From the very beginnings of Institute of Tchort, the Faceless were poking their augmented noses into our business and try to hamper our progress. They are violent, cannot be reasoned with - they don't even have free will. I am not overexaggerating: They never show any emotion or independence, they just cull, cull - cull. We know it - we have seen it.<end>
 
 =>q234
-Oh... le Faceless, nos némes arc. ::Il rit.:: C'est vrai ! Dès les débuts de Institute of Tchort, les Faceless posaient leur nez augmenté dans notre entreprise et tentent d'entraver nos progrès. Ils sont violents, ne peuvent être raisonnés avec - ils n'ont même pas le libre arbitre. Je n'exagère pas trop : Ils ne montrent jamais d'émotion ni d'indépendance, ils se contentent de se couper, de se couper. Nous le savons - nous l'avons vu.<end>
+Oh... les Faceless, nos némésis. ::Il rit.:: C'est ça. Dès les débuts de l'Institute of Tchort, les Faceless ont fourré leur nez augmenté dans nos affaires et tenté de nous entraver. Ils sont violents, on ne peut pas raisonner avec eux - ils n'ont même pas de libre arbitre. Je n'exagère pas trop : jamais d'émotion, jamais d'indépendance, ils ne font qu'exécuter, exécuter. Nous le savons. Nous l'avons vu.<end>
 
 =>a235_original
 They seem to give you a lot of trouble.<end>
@@ -1468,7 +1468,7 @@ Ils semblent vous donner beaucoup de problèmes.<end>
 They try... or tried. The first years of the Institute were the hardest for us: We hadn't had a strong foothold in Deep Caverns, and defending Tchort from the corrupted was very difficult. We were in constant conflict, shedding blood on a daily basis. Then, in year forty-two we took a decisive victory in the Battle of Nucleus. Harmost Marcial commanded our rassophores and gave the Faceless a lesson in warfare they'll never forget.<end>
 
 =>q236
-Ils ont essayé... ou essayé. Les premières années de l'Institut ont été les plus difficiles pour nous : Nous n'avions pas eu une forte prise de pied dans Deep Caverns, et défendre Tchort du corrompu était très difficile. Nous étions dans un conflit constant, versant du sang quotidiennement. Puis, en quarante-deux ans, nous avons remporté une victoire décisive dans la bataille du Nucleus. Harmost Marcial a commandé nos rasophores et a donné au Faceless une leçon de guerre qu'ils n'oublieront jamais.<end>
+Ils ont essayé... ou essayé. Les premières années de l'Institut ont été les plus difficiles pour nous : Nous n'avions pas eu une forte prise de pied dans Deep Caverns, et défendre Tchort du corrompu était très difficile. Nous étions dans un conflit constant, versant du sang quotidiennement. Puis, en quarante-deux ans, nous avons remporté une victoire décisive dans la bataille du Nucleus. Harmost Marcial a commandé nos rassophores et a donné au Faceless une leçon de guerre qu'ils n'oublieront jamais.<end>
 
 =>a237_original
 So they left you alone after that?<end>
@@ -1486,7 +1486,7 @@ Ils n'ont jamais monté d'assauts majeurs contre les forces de préservation dep
 Well, that's enough about that, no? Did you have any more questions, $(#brother/sister)?<end>
 
 =>q239
-Ça suffit, non ? Avez-vous d'autres questions, $(#brother/sister) ?<end>
+Ça suffit, non ? Avez-vous d'autres questions, $(#frère/sœur) ?<end>
 
 =>a240_original
 That sounds pretty epic.<end>
@@ -1570,11 +1570,11 @@ $(context.player.Name), où étais-tu ? Tu es partie depuis un moment comme on m
 These tremors are beginning to worry me, $(#brother/sister). Something is not right.<end>
 
 =>q253
-Ces tremblements commencent à m'inquiéter, $(#brother/sister). Quelque chose ne va pas.<end>
+Ces tremblements commencent à m'inquiéter, $(#frère/sœur). Quelque chose ne va pas.<end>
 
 =>q254_original
 Tchort is evolution, $(#brother/sister). Speak.<end>
 
 =>q254
-Tchort est l'évolution, $(#brother/sister). Parle.<end>
+Tchort est l'évolution, $(#frère/sœur). Parle.<end>
 

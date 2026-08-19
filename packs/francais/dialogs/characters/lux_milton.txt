@@ -10,27 +10,27 @@ Je croyais t'avoir dit de me laisser tranquille.<end>
 Don't move, $(#buddy/girl). Don't even think about moving... or else you'll find yourself obliterated on the spot. Now, who are you and what are you doing in these caves?<end>
 
 =>q2
-::L'homme seul remarque que vous approchez de son camp et répond rapidement - en pointant son arme sur votre tête. Il ne lui faut que quelques instants pour s'adresser à vous, et le fait avec une voix qui semble plutôt calme et détendue compte tenu de la situation tendue à portée de main.::
+::L'homme seul vous voit approcher de son camp et réagit vite : il vous met le canon sur la tête. Il lui faut à peine un instant pour vous parler, et il le fait d'une voix plutôt calme, détendue, vu la tension du moment.::
 
-Ne bouge pas, $(#buddy/girl). Ne pense même pas à bouger... sinon tu te retrouveras anéanti sur place. Qui êtes-vous et que faites-vous dans ces grottes ?<end>
+Bouge pas, $(#gars/fille). Pense même pas à bouger... sinon tu te fais effacer sur place. Alors, t'es qui, et qu'est-ce que tu fous dans ces caves ?<end>
 
 =>a3_original
 Whoa, don't shoot, man! My name is $(context.player.Name), and I mean no harm.<end>
 
 =>a3
-Ne tirez pas ! Mon nom est $(context.player.Name), et je ne veux pas de mal.<end>
+Hé, tire pas ! Je m'appelle $(context.player.Name), et je te veux pas de mal.<end>
 
 =>q4_original
 $(context.player.Name). $(context.player.Name), as you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
 
 =>q4
-$(context.player.Name). $(context.player.Name), comme vous l'avez peut-être déjà remarqué, nous sommes au milieu d'une grotte et il se trouve juste que vous avez... "estompé" sur ce petit camp ici. Je vais garder mes yeux sur toi et tu ferais mieux de t'assurer que je ne te trouve pas faire quoi que ce soit de funky, ou bien... pense à ma déclaration liminaire et tu sauras ce qui va se passer.<end>
+$(context.player.Name). $(context.player.Name), comme tu l'as sans doute déjà vu, on est au milieu d'une cave, et tu viens justement de... « tomber » sur ce petit camp. Je te garde à l'œil, et tu ferais bien de t'assurer que je te vois pas faire un truc louche, sinon... repense à ce que je viens de dire, et tu sauras ce qui t'attend.<end>
 
 =>q5_original
 Now tell me, what do you want?<end>
 
 =>q5
-Qu'est-ce que tu veux ?<end>
+Alors, dis-moi : tu veux quoi ?<end>
 
 =>q6_original
 <end>
@@ -42,85 +42,85 @@ Qu'est-ce que tu veux ?<end>
 What are you doing here all alone?<end>
 
 =>a7
-Que fais-tu ici toute seule ?<end>
+Qu'est-ce que tu fais ici, tout seul ?<end>
 
 =>q8_original
 Well, first of all, what I'm doing here is none of your business. But, alone I am... at least for the moment.<end>
 
 =>q8
-Tout d'abord, ce que je fais ici ne vous regarde pas. Mais, seule, je suis... du moins pour le moment.<end>
+D'abord, ce que je fais ici, ça te regarde pas. Mais seul, je le suis... pour le moment, en tout cas.<end>
 
 =>q9_original
 Yet, you are here too, somehow. ::He makes a brief pause before continuing.:: By the way, did you happen to notice anyone else in these caves?<end>
 
 =>q9
-Pourtant, vous êtes ici aussi, d'une certaine façon. ::Il fait une brève pause avant de continuer.:: Au fait, avez-vous remarqué quelqu'un d'autre dans ces grottes ?<end>
+Toi aussi t'es là, pourtant, d'une façon ou d'une autre. ::Il s'arrête un instant avant de reprendre.:: Au fait, t'aurais pas vu quelqu'un d'autre, dans ces caves ?<end>
 
 =>a10_original
 As a matter of fact, yes, I have. I saw two men who were killed by rathounds not too far away from here.<end>
 
 =>a10
-En fait, oui. J'ai vu deux hommes qui ont été tués par des rathons pas trop loin d'ici.<end>
+Justement, si. J'ai vu deux hommes tués par des rathounds, pas trop loin d'ici.<end>
 
 =>q11_original
 So, that explains it. Look now: One of those men had a key that is very, very important to me. If you could get it for me, I'd be willing to pay fifty charons for it. Easy money.<end>
 
 =>q11
-Ça explique tout. Regarde. Un de ces hommes avait une clé qui est très, très important pour moi. Si vous pouviez l'obtenir pour moi, je serais prêt à payer 50 charons pour ça. De l'argent facile.<end>
+Ça explique tout. Écoute : un de ces hommes avait une clé, très, très importante pour moi. Si tu me la ramènes, je suis prêt à payer cinquante charons. De l'argent facile.<end>
 
 =>a12_original
 Is this the key?<end>
 
 =>a12
-C'est la clé ?<end>
+C'est cette clé ?<end>
 
 =>q13_original
 Let me see. ::He takes a quick look.:: Yes... *yes* it is. I'll give you fifty charons for it.<end>
 
 =>q13
-Fais voir. ::Il regarde vite.:: Oui. Je vous donne 50 charons pour ça.<end>
+Fais voir. ::Il jette un coup d'œil rapide.:: Oui... *oui*, c'est elle. Je te donne cinquante charons.<end>
 
 =>a14_original
 Here it is. It was nice doing business with ya.<end>
 
 =>a14
-Voilà. C'était sympa de faire affaire avec toi.<end>
+La voilà. Ça a été un plaisir de faire affaire.<end>
 
 =>q15_original
 ::He hands you the money and takes the key from you.:: Great, that's it. ::He pockets the key and looks at you with a satisfied smirk on his face.:: As for you, $(#buddy/girl), you better be on your way now. See you later... or not.<end>
 
 =>q15
-::Il te donne l'argent et te prend la clé.:: Super, c'est tout. ::Il empoche la clé et te regarde avec un sourire satisfait sur son visage.:: Quant à vous, $(#buddy/girl), vous feriez mieux d'y aller maintenant. A tout à l'heure... ou pas.<end>
+::Il vous tend l'argent et vous prend la clé.:: Parfait, c'est tout. ::Il empoche la clé et vous regarde avec un sourire satisfait.:: Quant à toi, $(#gars/fille), tu ferais bien de t'en aller, maintenant. À plus... ou pas.<end>
 
 =>a16_original
 ::[Mercantile]:: What? I had to risk my head for that key and that is all you can offer me? I want double.<end>
 
 =>a16
-::[Mercantile]:: Quoi ? J'ai dû risquer ma tête pour cette clé et c'est tout ce que tu peux m'offrir ? Je veux un double.<end>
+::[Mercantile]:: Quoi ? J'ai risqué ma peau pour cette clé, et c'est tout ce que t'as à offrir ? Je veux le double.<end>
 
 =>q17_original
 Fine, I'll give you a hundred charons. Usually you would get a bullet between your eyes, but today... I feel a bit more merciful.<end>
 
 =>q17
-Très bien, je vous donne une centaine de charons. D'habitude, vous aviez une balle entre les yeux, mais aujourd'hui... Je me sens plus miséricordieux.<end>
+Soit. Je te donne cent charons. D'habitude tu aurais une balle entre les deux yeux, mais aujourd'hui... je me sens un peu plus clément.<end>
 
 =>a18_original
 Here you go. It was nice doing business with ya.<end>
 
 =>a18
-Voilà. C'était sympa de faire affaire avec toi.<end>
+Voilà. Ça a été un plaisir de faire affaire.<end>
 
 =>q19_original
 Are you derailed? Don't barter with me unless you desire a bullet between your eyes. Choose - fifty charons or a bullet.<end>
 
 =>q19
-Vous avez déraillé ? Ne discutez pas avec moi à moins que vous ne désiriez une balle entre vos yeux. Choisissez - cinquante charons ou une balle.<end>
+T'as déraillé ? Discute pas le prix avec moi, à moins de vouloir une balle entre les deux yeux. Choisis : cinquante charons, ou une balle.<end>
 
 =>a20_original
 Okay, okay, here's the key. My fifty charons, please.<end>
 
 =>a20
-Voilà la clé. Mes cinquante charons, s'il vous plaît.<end>
+D'accord, d'accord, voilà la clé. Mes cinquante charons.<end>
 
 =>a21_original
 Sorry, buddy, no deal. I'll be leaving now.<end>
@@ -132,55 +132,55 @@ Désolé, pas de marché. Je m'en vais.<end>
 ::His voice suddenly drops in pitch and becomes grittier, much tenser than it was previously.:: You've just made a big mistake, and you will pay for it. If you won't give me the key - I'll take it from you by force.<end>
 
 =>q22
-::Sa voix tombe brusquement dans la hauteur et devient plus grit, beaucoup plus tendue qu'auparavant.:: Tu viens de faire une grosse erreur, et tu paieras pour ça. Si vous ne me donnez pas la clé, je la prendrai par la force.<end>
+::Sa voix baisse d'un coup, plus râpeuse, bien plus tendue qu'avant.:: Tu viens de faire une grosse erreur, et tu vas la payer. Si tu me donnes pas la clé, je te la prends de force.<end>
 
 =>a23_original
 ::Fight!::<end>
 
 =>a23
-::Lutte!::<end>
+::Combattre !::<end>
 
 =>a24_original
 On a second thought, I'll keep it for myself. See you around Milton.<end>
 
 =>a24
-Une seconde fois, je le garderai pour moi. On se voit autour de Milton.<end>
+À la réflexion, je la garde. À plus, Milton.<end>
 
 =>a25_original
 Could use some money. It's a deal.<end>
 
 =>a25
-Peut-être un peu d'argent. Marché conclu.<end>
+J'ai besoin d'argent. Marché conclu.<end>
 
 =>q26_original
 Great, I'll be here... *waiting.*<end>
 
 =>q26
-Génial, je serai là...<end>
+Parfait. Je serai là... *à attendre.*<end>
 
 =>a27_original
 I'm not going back there. Go get it yourself.<end>
 
 =>a27
-Je n'y retournerai pas. Va le chercher toi-même.<end>
+J'y retourne pas. Va la chercher toi-même.<end>
 
 =>q28_original
 ::He frowns, but says nothing otherwise.::<end>
 
 =>q28
-::Il fronce, mais ne dit rien d'autre.::<end>
+::Il fronce les sourcils, mais ne dit rien d'autre.::<end>
 
 =>a29_original
 Nope. Sorry, I'm just passing by.<end>
 
 =>a29
-Pas du tout. Désolé, je ne fais que passer.<end>
+Non. Désolé, je fais que passer.<end>
 
 =>q30_original
 Curses. Listen, I'm looking for two men in these caves - don't ask why. I need something from them, a small footlocker key. So, if you meet them, find their bodies or whatever... just get me that key. I'm even willing to pay for it; fifty charons, as a matter of fact.<end>
 
 =>q30
-Des malédictions. Je cherche deux hommes dans ces grottes. J'ai besoin de quelque chose d'eux, d'une petite clé. Donc, si vous les rencontrez, trouvez leur corps ou quoi que ce soit... prenez-moi cette clé. Je suis même prêt à payer pour cela, cinquante charons, en fait.<end>
+Putain. Écoute, je cherche deux hommes dans ces caves - demande pas pourquoi. J'ai besoin d'un truc à eux : une petite clé de coffre. Alors si tu les croises, que tu trouves leurs corps, ou quoi... ramène-moi cette clé. Je suis même prêt à payer : cinquante charons, pour être précis.<end>
 
 =>q31_original
 <end>
@@ -192,121 +192,121 @@ Des malédictions. Je cherche deux hommes dans ces grottes. J'ai besoin de quelq
 Hey, I found that key you were looking for.<end>
 
 =>a32
-J'ai trouvé la clé que tu cherchais.<end>
+Hé, j'ai trouvé la clé que tu cherchais.<end>
 
 =>q33_original
 Really? Give it to me; I promised charons and I have them right here. Just give me the key.<end>
 
 =>q33
-Vraiment ? Donne-le-moi, j'ai promis des charons et je les ai ici. Donne-moi la clé.<end>
+Vraiment ? Donne-la-moi. J'ai promis des charons, et je les ai là. Donne-moi la clé.<end>
 
 =>a34_original
 Why do you need that key? Is it for that locker?<end>
 
 =>a34
-Pourquoi avez-vous besoin de cette clé ? C'est pour ce casier ?<end>
+Pourquoi t'as besoin de cette clé ? C'est pour ce coffre ?<end>
 
 =>q35_original
 None of your business, $(#buddy/girl).<end>
 
 =>q35
-Ça ne te regarde pas, $(#buddy/girl).<end>
+Ça te regarde pas, $(#gars/fille).<end>
 
 =>a36_original
 Why are you looking for those men?<end>
 
 =>a36
-Pourquoi cherchez-vous ces hommes ?<end>
+Pourquoi tu cherches ces hommes ?<end>
 
 =>q37_original
 I told you not to ask that. Are you deaf?<end>
 
 =>q37
-Je t'avais dit de ne pas demander ça. Vous êtes sourd ?<end>
+Je t'ai dit de pas demander ça. T'es sourd ?<end>
 
 =>a38_original
 Okay, I'll search for the key.<end>
 
 =>a38
-Je vais chercher la clé.<end>
+D'accord, je cherche la clé.<end>
 
 =>a39_original
 I really don't care about your stupid key.<end>
 
 =>a39
-Je me fiche de ta stupide clé.<end>
+Je m'en fous, de ta clé à la con.<end>
 
 =>q40_original
 ::He frowns, but otherwise says nothing.::<end>
 
 =>q40
-::Il fronce, mais autrement il ne dit rien.::<end>
+::Il fronce les sourcils, mais ne dit rien d'autre.::<end>
 
 =>a41_original
 About that key...<end>
 
 =>a41
-A propos de cette clé...<end>
+Pour la clé...<end>
 
 =>q42_original
 Changed your mind, $(#buddy/girl)?<end>
 
 =>q42
-Vous avez changé d'avis, $(#buddy/girl) ?<end>
+T'as changé d'avis, $(#gars/fille) ?<end>
 
 =>a43_original
 I'll be going now.<end>
 
 =>a43
-Je vais y aller maintenant.<end>
+Je m'en vais.<end>
 
 =>a44_original
 Who I am is none of your concern. But, know that if I wanted to hurt you I would have done so already instead of participating in this staring contest.<end>
 
 =>a44
-Ce que je suis ne vous concerne pas. Mais, sachez que si je voulais vous faire du mal, je l'aurais déjà fait au lieu de participer à ce concours.<end>
+Qui je suis, ça te regarde pas. Mais sache que si je voulais te faire du mal, je l'aurais déjà fait, au lieu de participer à ce concours de regards.<end>
 
 =>q45_original
 That is good to know. As you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
 
 =>q45
-C'est bon à savoir. Comme vous l'avez peut-être déjà remarqué, nous sommes au milieu d'une grotte et vous venez juste d'avoir... "est tombé" sur ce petit camp ici. Je vais garder mes yeux sur toi et tu ferais mieux de t'assurer que je ne te trouve pas faire quoi que ce soit de funky, ou bien... pense à ma déclaration liminaire et tu sauras ce qui va se passer.<end>
+C'est bon à savoir. Comme tu l'as sans doute déjà vu, on est au milieu d'une cave, et tu viens justement de... « tomber » sur ce petit camp. Je te garde à l'œil, et tu ferais bien de t'assurer que je te vois pas faire un truc louche, sinon... repense à ce que je viens de dire, et tu sauras ce qui t'attend.<end>
 
 =>a46_original
 ::[Intimidate]:: It is you who will be obliterated if you don't put that gun away right now, you dirty rat! Name's $(context.player.Name). Who the hell are YOU, and what are YOU doing here?<end>
 
 =>a46
-::[Intimider]:: C'est toi qui seras anéanti si tu ne ranges pas cette arme, sale rat ! C'est $(context.player.Name). Qui êtes-vous, et que faites-vous ici ?<end>
+::[Intimidate]:: C'est toi qui vas te faire effacer si tu ranges pas cette arme tout de suite, sale rat ! Je m'appelle $(context.player.Name). T'es QUI, toi, et qu'est-ce que TU fous ici ?<end>
 
 =>q47_original
 ::You notice his voice tenses up for a split second, but then quickly reverts to its original quality.:: Look, ::He smiles:: there is no need for us to spill each other's guts here, right? We are, after all, both civilized $(#gentlemen/human beings). <end>
 
 =>q47
-::Vous remarquez que sa voix est tendue pendant une seconde, mais revient rapidement à sa qualité originale.:: Ecoute, ::Il sourit:: il n'y a pas besoin que nous nous enfoncions les tripes ici, non ? Après tout, nous sommes tous deux civilisés $(#gentlemen/human beings). <end>
+::Vous remarquez sa voix se tendre une fraction de seconde, puis retrouver tout de suite son calme.:: Écoute, ::Il sourit.:: on a pas besoin de s'éventrer ici, hein ? On est, après tout, des $(#gentlemen/êtres humains) civilisés. <end>
 
 =>q48_original
 ::Your words are met with a chuckle.:: You sure sound tough, kid. But I want to see how tough you really are.<end>
 
 =>q48
-::Vos mots sont entendus avec un ringard.:: Tu as l'air dur, gamin. Mais je veux voir à quel point tu es dur.<end>
+::Vos paroles sont accueillies d'un ricanement.:: T'as l'air dur, gamin. Mais je veux voir à quel point t'es dur, pour de vrai.<end>
 
 =>a49_original
 ::Fight!::<end>
 
 =>a49
-::Lutte!::<end>
+::Combattre !::<end>
 
 =>a50_original
 I didn't know there was anyone in here. I'll just get going and leave you to whatever you were doing.<end>
 
 =>a50
-Je ne savais pas qu'il y avait quelqu'un ici. Je vais te laisser faire ce que tu faisais.<end>
+Je savais pas qu'il y avait quelqu'un. Je m'en vais, je te laisse à ce que tu faisais.<end>
 
 =>q51_original
 That might be wise. ::He still keeps your head between crosshairs and waits for you to leave.::<end>
 
 =>q51
-Ça pourrait être sage. ::Il garde toujours ta tête entre les cheveux croisés et t'attend pour partir.::<end>
+Ça pourrait être sage. ::Il garde toujours votre tête dans le viseur, et attend que vous partiez.::<end>
 
 =>a52_original
 ::Leave.::<end>
@@ -318,17 +318,16 @@ That might be wise. ::He still keeps your head between crosshairs and waits for 
 ::Attack!::<end>
 
 =>a53
-::Attaque!::<end>
+::Attaquer !::<end>
 
 =>a54_original
 What do I want? How about cutting your tongue out, worm! ::Fight!::<end>
 
 =>a54
-Que veux-je ? Que diriez-vous de couper votre langue, ver ! ::Lutte!::<end>
+Ce que je veux ? Que je te coupe la langue, ver ? ::Combattre !::<end>
 
 =>q55_original
 What'll it be?<end>
 
 =>q55
-Qu'est-ce que ce sera ?<end>
-
+Alors, qu'est-ce que ce sera ?<end>

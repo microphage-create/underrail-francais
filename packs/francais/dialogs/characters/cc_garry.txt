@@ -2,31 +2,31 @@
 ::Garry greets you with a smile.:: Well, well, $(context.playerArenaTitle), I guess no one is able to stop you. You have just one more opponent standing between you and the title. Invictus! Must feel good, I presume.<end>
 
 =>q1
-::Garry vous accueille avec un sourire.:: Eh bien, $(context.playerArenaTitle), personne ne peut vous arrêter. Vous n'avez qu'un seul adversaire entre vous et le titre. Invictus ! Ça doit être bien, je suppose.<end>
+::Garry vous accueille avec un sourire.:: Eh bien, eh bien, $(context.playerArenaTitle), on dirait que plus personne ne peut vous arrêter. Plus qu'un adversaire entre vous et le titre. Invictus ! Ça doit faire du bien, j'imagine.<end>
 
 =>a2_original
 It does. It does feel *really* good.<end>
 
 =>a2
-Oui. Ça fait vraiment du bien.<end>
+Oui. Ça fait *vraiment* du bien.<end>
 
 =>q3_original
 Great. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
 
 =>q3
-Génial. Tu montes contre un adversaire difficile. Tout le monde ne peut pas devenir l'Invictus. Je voulais juste te souhaiter bonne chance. Je n'ai aucun conseil à vous offrir quand il s'agit de Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
+Parfait. Vous allez affronter un adversaire corsé. Tout le monde ne devient pas Invictus, vous savez. Je voulais simplement vous souhaiter bonne chance. Je n'ai aucun conseil à vous donner sur Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
 
 =>a4_original
 Thank you.<end>
 
 =>a4
-Je vous remercie.<end>
+Merci.<end>
 
 =>q5_original
 You're welcome.<end>
 
 =>q5
-De rien.<end>
+Je vous en prie.<end>
 
 =>q6_original
 Listen here, my dear friend: Being the enthusiast I am, I'm going to make sure I get as close as I can to the bloodbath. I wouldn't want to miss this match, even if it kills me. ::He laughs.::
@@ -34,57 +34,57 @@ Listen here, my dear friend: Being the enthusiast I am, I'm going to make sure I
 See you later, $(context.playerArenaTitle).<end>
 
 =>q6
-Écoutez, mon cher ami : Étant le passionné que je suis, je vais m'assurer d'être aussi près que possible du bain de sang. Je ne voudrais pas manquer ce match, même si ça me tue. ::Il rit.::
+Écoutez-moi ça, mon cher ami : passionné comme je suis, je vais me coller le plus près possible du bain de sang. Je ne voudrais pas rater ce match, même si ça devait me tuer. ::Il rit.::
 
-A plus tard, $(context.playerArenaTitle).<end>
+À plus tard, $(context.playerArenaTitle).<end>
 
 =>a7_original
 See you later, Garry.<end>
 
 =>a7
-A tout à l'heure, Garry.<end>
+À plus tard, Garry.<end>
 
 =>a8_original
 I don't need luck. I'll be sending Dread Lord to sleep from which he is never going to wake up.<end>
 
 =>a8
-J'ai pas besoin de chance. Je vais envoyer Dread Lord dormir d'où il ne se réveillera jamais.<end>
+Je n'ai pas besoin de chance. Je vais envoyer Dread Lord dans un sommeil dont il ne se réveillera jamais.<end>
 
 =>q9_original
 Perhaps you don't, but it never hurts to have luck on your side, does it? ::He laughs.::<end>
 
 =>q9
-Peut-être pas, mais ça ne fait jamais mal d'avoir de la chance de votre côté, n'est-ce pas ? ::Il rit.::<end>
+Peut-être pas, mais ça ne fait jamais de mal d'avoir la chance de son côté, n'est-ce pas ? ::Il rit.::<end>
 
 =>a10_original
 I'm ready to fight this Dread Lord. Nothing can stand in my way!<end>
 
 =>a10
-Je suis prêt à lutter contre ce Seigneur. Rien ne peut me gêner !<end>
+Je suis $(#prêt/prête) à affronter ce Dread Lord. Rien ne me barre la route !<end>
 
 =>q11_original
 Yes, Dread Lord. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
 
 =>q11
-Oui, Seigneur. Tu montes contre un adversaire difficile. Tout le monde ne peut pas devenir l'Invictus. Je voulais juste te souhaiter bonne chance. Je n'ai aucun conseil à vous offrir quand il s'agit de Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
+Oui, Dread Lord. Vous allez affronter un adversaire corsé. Tout le monde ne devient pas Invictus, vous savez. Je voulais simplement vous souhaiter bonne chance. Je n'ai aucun conseil à vous donner sur Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
 
 =>a12_original
 Can you tell me something about my opponent?<end>
 
 =>a12
-Pouvez-vous me parler de mon adversaire ?<end>
+Vous pouvez me dire quelque chose sur mon adversaire ?<end>
 
 =>q13_original
 Well, I can't say much, other that you're up against a difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
 
 =>q13
-Je ne peux pas dire grand chose, d'autre que vous êtes contre un adversaire difficile. Tout le monde ne peut pas devenir l'Invictus. Je voulais juste te souhaiter bonne chance. Je n'ai aucun conseil à vous offrir quand il s'agit de Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
+Je ne peux pas dire grand-chose, à part que vous affrontez un adversaire corsé. Tout le monde ne devient pas Invictus, vous savez. Je voulais simplement vous souhaiter bonne chance. Je n'ai aucun conseil à vous donner sur Dread Lord, mais je ne pense pas que vous en ayez besoin.<end>
 
 =>q14_original
 ::A robed figure steps up and talks to you.:: $(context.player.Name). I want to congratulate you on your victory. That last match of yours - perfection!<end>
 
 =>q14
-::Un homme volé s'approche et te parle.:: $(context.player.Name). Je tiens à vous féliciter pour votre victoire. Votre dernier match - perfection !<end>
+::Une silhouette en robe s'avance et vous parle.:: $(context.player.Name). Je tenais à vous féliciter pour votre victoire. Votre dernier match - la perfection !<end>
 
 =>a15_original
 Thank you, I try my best.<end>
@@ -96,13 +96,13 @@ Merci, je fais de mon mieux.<end>
 I can see that. My name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
 
 =>q16
-Je vois ça. Mon nom est Garry. Je suis un passionné - un maniaque sanguinaire si vous voulez. ::Il sourit.::<end>
+Je vois ça. Je m'appelle Garry. Je suis un passionné - un maniaque sanguinaire, si vous voulez. ::Il sourit.::<end>
 
 =>q17_original
 I hope I'm not bothering you too much, but, wow, you are making remarkable progress. You caught the eye of the crowd extremely fast, I can tell you that. That's pretty amazing. And pretty rare. Are you by any chance, how do I put this, backed up by any of the families?<end>
 
 =>q17
-J'espère que je ne vous dérange pas trop, mais, wow, vous faites des progrès remarquables. Tu as vu la foule très vite, je peux te le dire. C'est plutôt incroyable. Et assez rare. Etes-vous par hasard, comment puis-je mettre ça, soutenu par une des familles ?<end>
+J'espère ne pas trop vous déranger, mais, wow, vos progrès sont remarquables. Vous avez accroché le regard de la foule extrêmement vite, je peux vous le dire. C'est assez impressionnant. Et assez rare. Vous êtes par hasard, comment dire, $(#soutenu/soutenue) par l'une des familles ?<end>
 
 =>q18_original
 <end>
@@ -114,37 +114,37 @@ J'espère que je ne vous dérange pas trop, mais, wow, vous faites des progrès 
 What do you mean?<end>
 
 =>a19
-Que veux-tu dire?<end>
+Comment ça ?<end>
 
 =>q20_original
 ::He chuckles.:: I'm talking about the Oligarchs, of course. You know, Knight family? Simmons? Edstrom, perhaps?<end>
 
 =>q20
-::Il rit.:: Je parle des Oligarch, bien sûr. Tu sais, la famille Knight ? Des Simmons ? Edstrom, peut-être ?<end>
+::Il ricane.:: Je parle des Oligarchs, bien sûr. Vous savez, la famille Knight ? Simmons ? Edstrom, peut-être ?<end>
 
 =>a21_original
 I work for Coretech, if that's what you mean.<end>
 
 =>a21
-Je travaille pour Coretech, si c'est ce que tu veux dire.<end>
+Je travaille pour Coretech, si c'est ça que vous voulez dire.<end>
 
 =>q22_original
 ::He nods.:: Yes. Makes sense.<end>
 
 =>q22
-::Il acquiesce.:: Oui. C'est logique.<end>
+::Il hoche la tête.:: Oui. Ça se tient.<end>
 
 =>a23_original
 What exactly do you want from me?<end>
 
 =>a23
-Que voulez-vous de moi ?<end>
+Qu'est-ce que vous me voulez, au juste ?<end>
 
 =>q24_original
 From you? I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.<end>
 
 =>q24
-De vous ? Je suis juste un passionné. Ça fait des années. Et vous êtes nouveau à l'aréna et avez un grand potentiel. Je sais beaucoup sur les gladiateurs que vous allez combattre, et à en juger par vos compétences, vous allez combattre beaucoup plus. Je veux simplement être utile.<end>
+De vous ? Je suis juste un passionné. Ça fait des années. Et vous débarquez à l'Arena avec un sacré potentiel. Je connais bien les gladiateurs que vous allez affronter, et à voir votre niveau, vous en affronterez encore beaucoup. Je veux simplement être utile.<end>
 
 =>a25_original
 All help is welcome.<end>
@@ -156,7 +156,7 @@ Toute aide est la bienvenue.<end>
 Good. ::He smiles.:: I happen to know who your next opponent is, and I can offer a bit of advice. You know, just based on watching him battle other gladiators.<end>
 
 =>q26
-Parfait. ::Il sourit.:: Je sais qui est votre prochain adversaire, et je peux vous donner un petit conseil. Tu sais, juste en le regardant combattre d'autres gladiateurs.<end>
+Parfait. ::Il sourit.:: Il se trouve que je sais qui est votre prochain adversaire, et je peux vous glisser un conseil. Rien que d'après ce que j'ai vu de ses combats contre d'autres gladiateurs.<end>
 
 =>q27_original
 <end>
@@ -168,13 +168,13 @@ Parfait. ::Il sourit.:: Je sais qui est votre prochain adversaire, et je peux vo
 What can you tell me about my next opponent?<end>
 
 =>a28
-Que pouvez-vous me dire sur mon prochain adversaire ?<end>
+Qu'est-ce que vous pouvez me dire sur mon prochain adversaire ?<end>
 
 =>q29_original
 You will be fighting Bull's Eye. He's mean, he's fast, and he's damn accurate with his crossbow. One of the most dominating marksmen currently. The important thing to note here is that his success does not only come from his ability to send a bolt through a fly's wing without killing the thing, but also from the fact that he dips his bolts into various poisons. If you're not careful, your blood will quickly be filled with lethal concoctions. Make sure you're ready for it.<end>
 
 =>q29
-Tu te battras contre Bull's Eye. Il est méchant, rapide, et il est très précis avec son arbalète. L'un des marraines les plus dominants actuellement. La chose importante à noter ici est que son succès ne vient pas seulement de sa capacité à envoyer un boulon à travers l'aile d'une mouche sans tuer la chose, mais aussi du fait qu'il plonge ses boulons dans divers poisons. Si vous n'êtes pas prudent, votre sang sera rapidement rempli de concoctions mortelles. Assurez-vous d'être prêt.<end>
+Vous allez affronter Bull's Eye. Il est méchant, il est rapide, et il est diablement précis à l'arbalète. Un des tireurs les plus dominating du moment. Le point important, c'est que sa réussite ne vient pas seulement de sa capacité à planter un carreau dans l'aile d'une mouche sans la tuer, mais aussi du fait qu'il trempe ses carreaux dans toutes sortes de poisons. Si vous n'y prenez pas garde, votre sang se remplira vite de concoctions mortelles. Assurez-vous d'être $(#prêt/prête).<end>
 
 =>q30_original
 On the other hand, he is lightly armored. Hit him fast and hit him hard, and he'll be no match for you. 
@@ -182,7 +182,7 @@ On the other hand, he is lightly armored. Hit him fast and hit him hard, and he'
 Good luck.<end>
 
 =>q30
-D'un autre côté, il est légèrement blindé. Frappe-le vite et frappe-le fort, et il ne sera pas compatible avec toi.
+En revanche, il est légèrement armuré. Frappez vite, frappez fort, et il ne fera pas le poids.
 
 Bonne chance.<end>
 
@@ -190,7 +190,7 @@ Bonne chance.<end>
 Your next opponent is going to be Master Exploder, a mute grenadier. Little is known about him... well, other than the fact that he revels in blowing his opponents to bits. He himself wears a blast suit, naturally, so keep that in mind.<end>
 
 =>q31
-Votre prochain adversaire sera Master Exploder, un grenadier muet. On sait peu de choses sur lui... et bien, à part le fait qu'il se révère en soufflant ses adversaires en morceaux. Il porte lui-même un costume d'explosion, naturellement, alors gardez cela à l'esprit.<end>
+Votre prochain adversaire, ce sera Master Exploder, un grenadier muet. On sait peu de choses sur lui... enfin, à part qu'il se régale de faire exploser ses adversaires en miettes. Lui-même porte une combinaison anti-souffle, évidemment. Gardez ça en tête.<end>
 
 =>q32_original
 Use cover and take him out fast, or else you're going to end up splattered all over the arena. 
@@ -198,7 +198,7 @@ Use cover and take him out fast, or else you're going to end up splattered all o
 Good luck.<end>
 
 =>q32
-Couvrez-le et emmenez-le vite, sinon vous finirez éclaboussées partout dans l'arène.
+Restez à couvert et descendez-le vite, sinon vous finirez $(#éclaboussé/éclaboussée) partout dans l'arène.
 
 Bonne chance.<end>
 
@@ -206,7 +206,7 @@ Bonne chance.<end>
 Chemical Agent. Name says it all. I don't know where that guy came from, but he is one repulsive creature. Not much of a challenge on his own, but he got this far thanks to a pair of mutated dogs. Those critters ripped numerous challengers and gladiators apart like nothing.<end>
 
 =>q33
-Agent chimique. Le nom dit tout. Je ne sais pas d'où il vient, mais c'est une créature repoussante. Pas vraiment un défi seul, mais il est arrivé si loin grâce à une paire de chiens mutés. Ces créatures ont déchiré de nombreux challengers et gladiateurs comme rien.<end>
+Chemical Agent. Le nom dit tout. Je ne sais pas d'où il sort, mais c'est une créature répugnante. Pas grand-chose tout seul, mais il est arrivé jusque-là grâce à une paire de chiens mutés. Ces bêtes ont déchiré challengers et gladiateurs comme rien.<end>
 
 =>q34_original
 So, get yourself some anti-corrosive protection. That's the best advice I can give you. And watch out for his pets. 
@@ -214,7 +214,7 @@ So, get yourself some anti-corrosive protection. That's the best advice I can gi
 Good luck.<end>
 
 =>q34
-Alors, apportez-vous une protection anticorrosive. C'est le meilleur conseil que je puisse te donner. Et surveille ses animaux.
+Alors équipez-vous d'une protection anti-corrosive. C'est le meilleur conseil que je puisse vous donner. Et gare à ses bêtes.
 
 Bonne chance.<end>
 
@@ -222,7 +222,7 @@ Bonne chance.<end>
 The guy's name is Surgeon. A savage, likes to end his opponents by cutting their jugular and drinking their blood as it sprays from their neck. The crowd loves it, yet many - especially less experienced - gladiators despise him, and it is not for his brutal showmanship...<end>
 
 =>q35
-Il s'appelle Chirurgien. Un sauvage, aime mettre fin à ses adversaires en coupant leur jugulaire et en buvant leur sang comme il pulvérise de leur cou. La foule l'aime, mais de nombreux gladiateurs, particulièrement moins expérimentés, le méprisent, et ce n'est pas pour sa brutalité...<end>
+Il s'appelle Surgeon. Un sauvage. Il aime finir ses adversaires en leur ouvrant la jugulaire et en buvant le sang qui gicle du cou. La foule adore. Pourtant beaucoup de gladiateurs - surtout les moins expérimentés - le méprisent, et ce n'est pas pour son show brutal...<end>
 
 =>q36_original
 Of course, he didn't get this far thanks to that gimmick, so be aware that you are facing a hardcore opponent. His range is short, as his weapon of choice is a knife, so try to stay out of his range, or at least make sure your neck is protected. 
@@ -230,7 +230,7 @@ Of course, he didn't get this far thanks to that gimmick, so be aware that you a
 Good luck.<end>
 
 =>q36
-Bien sûr, il n'a pas été aussi loin grâce à ce gimmick, alors soyez conscient que vous êtes face à un adversaire hardcore. Sa portée est courte, comme son arme de choix est un couteau, alors essayez de rester hors de sa portée, ou au moins assurez-vous que votre cou est protégé.
+Bien sûr, ce n'est pas ce gimmick qui l'a mené si loin, donc sachez que vous affrontez un adversaire hardcore. Sa portée est courte, son arme c'est un couteau, alors restez hors de portée, ou au moins protégez-vous le cou.
 
 Bonne chance.<end>
 
@@ -238,7 +238,7 @@ Bonne chance.<end>
 You'll be facing Zap. Now, this guy is one of the most entertaining gladiators in the Arena history, if I may say so. A tech savvy zoner who uses energy weapons and bots to make sure his opponents do not get to fight another match.<end>
 
 =>q37
-Vous serez face à Zap. Ce type est l'un des gladiateurs les plus divertissants de l'histoire de l'aréna, si je puis dire. Un tech savvy zoner qui utilise des armes énergétiques et des robots pour s'assurer que ses adversaires n'arrivent pas à combattre un autre match.<end>
+Vous allez affronter Zap. Celui-là, c'est un des gladiateurs les plus spectaculaires de l'histoire de l'Arena, si je puis me permettre. Un zoner calé en tech, qui se sert d'armes énergétiques et de bots pour s'assurer que ses adversaires ne revoient jamais un autre match.<end>
 
 =>q38_original
 He relies on energy shields, so have something in handy to neutralize it and simply unleash the fury. 
@@ -246,7 +246,7 @@ He relies on energy shields, so have something in handy to neutralize it and sim
 Good luck.<end>
 
 =>q38
-Il compte sur des boucliers d'énergie, donc avoir quelque chose de pratique pour le neutraliser et simplement libérer la fureur.
+Il compte sur les boucliers énergétiques, donc ayez de quoi les neutraliser, et après vous lâchez les foudres.
 
 Bonne chance.<end>
 
@@ -254,7 +254,7 @@ Bonne chance.<end>
 I'm afraid I can't give you much advice on your next opponent. You'll be up against Stygian Exorcist. He recently became a gladiator, and just annihilated his way through to where he is now. So fast even, by the time I realized he was even a gladiator, he became one of the best. He is a psi master that uses bilocation to make short work of his opponents.<end>
 
 =>q39
-Je ne peux pas vous donner beaucoup de conseils sur votre prochain adversaire. Vous serez contre l'Exorciste Stygien. Il est récemment devenu un gladiateur, et vient d'annihiler son chemin jusqu'à où il est maintenant. Si vite même, au moment où j'ai réalisé qu'il était même un gladiateur, il est devenu l'un des meilleurs. Il est un maître de psi qui utilise la bilocation pour faire court travail de ses adversaires.<end>
+J'ai bien peur de ne pas avoir grand-chose à vous dire sur votre prochain adversaire. Vous allez affronter Stygian Exorcist. Il s'est fait gladiateur récemment, et il s'est frayé un chemin jusqu'ici en annihilant tout sur son passage. Tellement vite que, le temps que je réalise qu'il était gladiateur, il était déjà parmi les meilleurs. C'est un maître psi qui se sert de la bilocation pour expédier ses adversaires.<end>
 
 =>q40_original
 I have nothing else to say to you but good luck.<end>
@@ -266,55 +266,55 @@ Je n'ai rien d'autre à vous dire que bonne chance.<end>
 How did you become such an enthusiast?<end>
 
 =>a41
-Comment êtes-vous devenu si passionné ?<end>
+Comment êtes-vous devenu un tel passionné ?<end>
 
 =>q42_original
 It's been a passion of mine for years. I enjoy the fighting, the brutal deaths, the skill involved, the theatrics - everything. I rarely miss a match, and I've sunk enough charons into it to restore South Underrail's entire railroad. ::He laughs.:: It's pipes and barrels to me.<end>
 
 =>q42
-C'est ma passion depuis des années. J'aime les combats, les morts brutales, l'habileté en jeu, la théâtralité - tout. J'ai rarement raté un match, et j'y ai coulé assez de charons pour restaurer la totalité du chemin de fer de South Underrail. ::Il rit.:: C'est des tuyaux et des barils pour moi.<end>
+C'est ma passion depuis des années. J'aime les combats, les morts brutales, le talent en jeu, le théâtre - tout. Je rate rarement un match, et j'y ai englouti assez de charons pour reconstruire tout le réseau ferré du South Underrail. ::Il rit.:: C'est tuyaux et barils, pour moi.<end>
 
 =>q43_original
 The Arena is pipes and barrels to me. I never get tired of it.<end>
 
 =>q43
-L'aréna est pour moi des tuyaux et des barils. Je n'en ai jamais marre.<end>
+L'Arena, c'est tuyaux et barils, pour moi. Je ne m'en lasse jamais.<end>
 
 =>a44_original
 Do you also watch the Gauntlet?<end>
 
 =>a44
-Regardez-vous aussi le Gauntlet ?<end>
+Vous regardez aussi le Gauntlet ?<end>
 
 =>q45_original
 Yes, but, to be honest, I'm not nearly as delighted by it like I'm with the Arena. It's fun, it's violent - it's death. But... watching gladiators face each other with only one thing in mind and *executing* it in the most violently entertaining way possible is much more appealing to me than pulling a lever at the end.<end>
 
 =>q45
-Oui, mais, pour être honnête, je ne suis pas aussi ravie que je suis avec l'Arena. C'est amusant, violent, c'est la mort. Mais... regarder les gladiateurs se faire face avec une seule chose à l'esprit et *l'exécuter* de la manière la plus violente possible est beaucoup plus attrayant pour moi que de tirer un levier à la fin.<end>
+Oui, mais pour être honnête, ça ne m'emballe pas autant que l'Arena. C'est amusant, c'est violent - c'est la mort. Mais... voir des gladiateurs se faire face avec une seule chose en tête et *l'exécuter* de la façon la plus violemment divertissante possible, ça me parle bien plus que de tirer un levier à la fin.<end>
 
 =>q46_original
 The Gauntlet also lacks the live crowd, which to me detracts from the experience. After all, hearing so many mouths screaming "KILL, KILL" is something I can never get tired of. In the end, I suppose it is an entertaining gimmick to most, but it will never, ever match the Arena.<end>
 
 =>q46
-Le Gauntlet manque également de la foule vivante, ce qui m'enlève l'expérience. Après tout, entendre tant de bouches crier "KILL, KILL" est quelque chose dont je ne peux jamais me lasser. En fin de compte, je suppose que c'est un jeu amusant pour la plupart, mais il ne correspondra jamais à l'Arena.<end>
+Le Gauntlet n'a pas non plus la foule en live, et ça me gâche l'expérience. Après tout, entendre autant de gueules hurler « TUE, TUE », c'est quelque chose dont je ne me lasse jamais. Au final, je suppose que c'est un gimmick amusant pour la plupart, mais ça n'égalera jamais, jamais l'Arena.<end>
 
 =>a47_original
 So, who is your favourite gladiator?<end>
 
 =>a47
-Alors, qui est votre gladiateur préféré ?<end>
+Alors, c'est qui votre gladiateur préféré ?<end>
 
 =>q48_original
 Let me think...<end>
 
 =>q48
-Laisse-moi réfléchir...<end>
+Laissez-moi réfléchir...<end>
 
 =>q49_original
 Disembowelina is simply fantastic: The looks, the skill, the brutality - she's got it all. But I'll put her in second place. My top gladiator is, unsurprisingly, Dread Lord. He is the current Invictus. Yet I somehow have a feeling he won't be one for much longer...<end>
 
 =>q49
-Disembowelina est tout simplement fantastique: Le look, l'habileté, la brutalité - elle a tout. Mais je vais la mettre en deuxième place. Mon gladiateur supérieur est, sans surprise, le Seigneur du Deuil. Il est l'actuel Invictus. Pourtant, j'ai l'impression qu'il ne le sera plus longtemps...<end>
+Disembowelina est tout simplement fantastique : le look, le talent, la brutalité - elle a tout. Mais je la mets deuxième. Mon gladiateur numéro un, sans surprise, c'est Dread Lord. C'est l'Invictus actuel. Pourtant j'ai comme l'impression qu'il ne le restera pas longtemps...<end>
 
 =>a50_original
 How can you possibly know who's going to be my next opponent?<end>
@@ -332,19 +332,19 @@ Je suis un passionné.<end>
 Still, you know a bit too much. Got someone on the inside?<end>
 
 =>a52
-Vous en savez un peu trop. Quelqu'un à l'intérieur ?<end>
+Quand même, vous en savez un peu trop. Vous avez quelqu'un à l'intérieur ?<end>
 
 =>q53_original
 ::He laughs.:: I wish I did. But no. I just...<end>
 
 =>q53
-::Il rit.:: J'aimerais bien. Mais non. J'ai juste...<end>
+::Il rit.:: J'aimerais bien. Mais non. Je...<end>
 
 =>q54_original
 I just know how things work. Experience, trust me.<end>
 
 =>q54
-Je sais comment ça marche. Expérience, croyez-moi.<end>
+Je sais simplement comment ça marche. L'expérience, croyez-moi.<end>
 
 =>a55_original
 I see. I had other questions.<end>
@@ -362,91 +362,91 @@ Bien sûr. C'est pour ça que je suis là.<end>
 Did you ever try becoming a gladiator?<end>
 
 =>a57
-As-tu déjà essayé de devenir gladiateur ?<end>
+Vous avez déjà essayé de devenir gladiateur ?<end>
 
 =>q58_original
 I wanted to, actually. But, sadly, I have a rare disease that... prevents me from ever becoming a gladiator.<end>
 
 =>q58
-Je le voulais, en fait. Mais malheureusement, j'ai une maladie rare qui... m'empêche de devenir gladiateur.<end>
+J'aurais voulu, en fait. Mais malheureusement, j'ai une maladie rare qui... m'empêche de jamais le devenir.<end>
 
 =>q59_original
 There is nothing I can do about it.<end>
 
 =>q59
-Je ne peux rien y faire.<end>
+Je n'y peux rien.<end>
 
 =>a60_original
 What sort of disease?<end>
 
 =>a60
-Quelle sorte de maladie ?<end>
+Quel genre de maladie ?<end>
 
 =>q61_original
 It is a rare genetic disease. Osteogenesis imperfecta, as it's called. My bones are brittle and wouldn't last much in a fight of any kind. My case is a bit milder. I lead a relatively normal life, but I have to be careful. A simple fall would result in a broken bone most likely.<end>
 
 =>q61
-C'est une maladie génétique rare. Ostéogenèse imparfaite, comme on l'appelle. Mes os sont fragiles et ne dureraient pas beaucoup dans un combat d'aucune sorte. Mon affaire est un peu plus douce. Je mène une vie relativement normale, mais je dois être prudent. Une simple chute entraînerait très probablement une fracture osseuse.<end>
+C'est une maladie génétique rare. Osteogenesis imperfecta, c'est son nom. Mes os sont cassants, ils ne tiendraient pas dans un combat, quel qu'il soit. Mon cas est un peu plus léger. Je mène une vie à peu près normale, mais je dois faire attention. Une simple chute, et c'est probablement un os cassé.<end>
 
 =>q62_original
 Thankfully, living in Core City, as hardcore of a city as it may be, still means I have options to avoid lifestyles which would increase my chance of getting hurt. My job is safe, my life is safe.<end>
 
 =>q62
-Heureusement, vivre dans Core City, aussi hardcore d'une ville que ce soit, signifie encore que j'ai des options pour éviter les modes de vie qui augmenteraient mes chances d'être blessé. Mon travail est en sécurité, ma vie est en sécurité.<end>
+Heureusement, vivre à Core City, aussi hardcore que soit la ville, ça veut quand même dire que j'ai le choix d'éviter les modes de vie qui augmenteraient mes chances de me blesser. Mon boulot est sûr, ma vie est sûre.<end>
 
 =>a63_original
 I'll be seeing you later. Goodbye.<end>
 
 =>a63
-À tout à l'heure. Au revoir.<end>
+On se verra plus tard. Au revoir.<end>
 
 =>a64_original
 What do you get out of this? Do you want me to pay you for this information?<end>
 
 =>a64
-Qu'est-ce que tu en tires ? Tu veux que je te paie pour cette information ?<end>
+Qu'est-ce que vous y gagnez ? Vous voulez que je vous paie pour ces infos ?<end>
 
 =>q65_original
 No, no. I'm an enthusiast, as I said already. I simply enjoy everything Arena-related and... things have become a bit stale lately. And I feel you can stir things up, and that is why I don't want you to die too soon, to be honest. I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.<end>
 
 =>q65
-Non, pas du tout. Je suis un passionné, comme je l'ai déjà dit. J'apprécie tout ce qui est lié à l'aréna et... les choses sont devenues un peu en panne ces derniers temps. Et je sens que vous pouvez remuer les choses, et c'est pourquoi je ne veux pas que vous mouriez trop tôt, pour être honnête. Je sais qui est votre prochain adversaire, et je peux vous conseiller de le combattre. J'ai vu beaucoup de ses combats, donc j'ai ramassé quelques trucs.<end>
+Non, non. Je suis un passionné, comme je l'ai déjà dit. J'aime simplement tout ce qui touche à l'Arena et... ça sentait un peu le réchauffé, ces derniers temps. Et je sens que vous pouvez secouer tout ça, c'est pour ça que je ne veux pas que vous mouriez trop vite, pour être honnête. Il se trouve que je sais qui est votre prochain adversaire, et je peux vous glisser un conseil pour l'affronter. J'ai vu beaucoup de ses combats, j'ai retenu deux-trois trucs.<end>
 
 =>a66_original
 I don't think I need anyone's help.<end>
 
 =>a66
-Je n'ai besoin de personne.<end>
+Je n'ai besoin de l'aide de personne.<end>
 
 =>q67_original
 That is up to you. Still, I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.<end>
 
 =>q67
-Ça dépend de toi. Pourtant, je sais qui est votre prochain adversaire, et je peux vous donner des conseils sur sa lutte. J'ai vu beaucoup de ses combats, donc j'ai ramassé quelques trucs.<end>
+Ça vous regarde. Reste que je sais qui est votre prochain adversaire, et je peux vous glisser un conseil pour l'affronter. J'ai vu beaucoup de ses combats, j'ai retenu deux-trois trucs.<end>
 
 =>a68_original
 You seem to know a lot about the Arena.<end>
 
 =>a68
-Vous semblez en savoir beaucoup sur l'aréna.<end>
+Vous avez l'air d'en savoir long sur l'Arena.<end>
 
 =>q69_original
 I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.<end>
 
 =>q69
-Je suis juste un passionné. Ça fait des années. Et vous êtes nouveau à l'aréna et avez un grand potentiel. Je sais beaucoup sur les gladiateurs que vous allez combattre, et à en juger par vos compétences, vous allez combattre beaucoup plus. Je veux simplement être utile.<end>
+Je suis juste un passionné. Ça fait des années. Et vous débarquez à l'Arena avec un sacré potentiel. Je connais bien les gladiateurs que vous allez affronter, et à voir votre niveau, vous en affronterez encore beaucoup. Je veux simplement être utile.<end>
 
 =>a70_original
 I work for JKK, if that's what you mean.<end>
 
 =>a70
-Je travaille pour JKK, si c'est ce que tu veux dire.<end>
+Je travaille pour JKK, si c'est ça que vous voulez dire.<end>
 
 =>a71_original
 I work for Praetorian Security, if that's what you mean.<end>
 
 =>a71
-Je travaille pour Praetorian Security, si c'est ce que tu veux dire.<end>
+Je travaille pour Praetorian Security, si c'est ça que vous voulez dire.<end>
 
 =>a72_original
 Nope, I've got nothing to do with any of them.<end>
@@ -458,37 +458,37 @@ Non, je n'ai rien à voir avec eux.<end>
 No? Then you most definitely should. It will help you a lot with your career. Trust me.<end>
 
 =>q73
-Pas ? Alors vous devriez certainement. Cela vous aidera beaucoup dans votre carrière. Crois-moi.<end>
+Non ? Alors vous devriez, vraiment. Ça vous aidera beaucoup pour votre carrière. Croyez-moi.<end>
 
 =>a74_original
 You mean, like one of the Oligarchs?<end>
 
 =>a74
-Comme un des Oligarch ?<end>
+Vous voulez dire, comme un des Oligarchs ?<end>
 
 =>q75_original
 Bingo. So...? Are you?<end>
 
 =>q75
-Le bingo. Alors ? Vraiment ?<end>
+Bingo. Alors... ? Vous l'êtes ?<end>
 
 =>a76_original
 It was an easy match, I'd say.<end>
 
 =>a76
-C'était facile, je dirais.<end>
+C'était un match facile, je dirais.<end>
 
 =>q77_original
 Some challengers die during their first match. You've already survived how many? Five matches? That's quite an achievement. Listen here, my name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
 
 =>q77
-Certains challengers meurent lors de leur premier match. Vous avez déjà survécu combien ? Cinq allumettes ? C'est une sacrée réussite. Écoute, je m'appelle Garry. Je suis un passionné - un maniaque sanguinaire si vous voulez. ::Il sourit.::<end>
+Certains challengers meurent dès leur premier match. Vous en avez déjà survécu combien ? Cinq matchs ? C'est déjà énorme. Écoutez, je m'appelle Garry. Je suis un passionné - un maniaque sanguinaire, si vous voulez. ::Il sourit.::<end>
 
 =>q78_original
 I hope I'm not bothering you, but I need to ask you something. Like I said, you've shown some incredible progress. A couple of matches and you've already battled and killed a very difficult opponent. That is admirable. Are you by any chance, how do I put this, backed up by any of the families?<end>
 
 =>q78
-J'espère ne pas vous déranger, mais je dois vous demander quelque chose. Comme je l'ai dit, vous avez fait des progrès incroyables. Quelques matchs et vous avez déjà combattu et tué un adversaire très difficile. C'est admirable. Etes-vous par hasard, comment puis-je mettre ça, soutenu par une des familles ?<end>
+J'espère ne pas vous déranger, mais je dois vous demander quelque chose. Comme je l'ai dit, vos progrès sont incroyables. Deux-trois matchs et vous avez déjà combattu et tué un adversaire très corsé. C'est admirable. Vous êtes par hasard, comment dire, $(#soutenu/soutenue) par l'une des familles ?<end>
 
 =>a79_original
 Yeah... Who are you?<end>
@@ -500,11 +500,10 @@ Ouais... Qui êtes-vous ?<end>
 I'm Garry and I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
 
 =>q80
-Je suis Garry et je suis un passionné - un maniaque sanguinaire si vous voulez. ::Il sourit.::<end>
+Je suis Garry, et je suis un passionné - un maniaque sanguinaire, si vous voulez. ::Il sourit.::<end>
 
 =>q81_original
 $(context.player.Name). Fierce as always.<end>
 
 =>q81
-$(context.player.Name). Fierce comme toujours.<end>
-
+$(context.player.Name). Féroce comme toujours.<end>

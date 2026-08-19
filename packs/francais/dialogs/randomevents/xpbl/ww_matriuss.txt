@@ -194,7 +194,7 @@ Je l'ai déjà. C'est sur moi. ::Afficher l'appareil.::<end>
 ::[Persuade]:: Sir, please remain calm. The access to this building was provided to me by another authorized individual. I was ordered to make sure that all of the assets within the building are safe and relocated to a new location. For my services though, I am willing to be compensated in return for this device.<end>
 
 =>a33
-::[Persuader]:: Monsieur, restez calme. L'accès à ce bâtiment m'a été fourni par une autre personne autorisée. On m'a ordonné de m'assurer que tous les biens de l'immeuble sont en sécurité et transférés à un nouvel endroit. Pour mes services cependant, je suis prêt à être indemnisé en échange de cet appareil.<end>
+::[Persuade]:: Monsieur, restez calme. L'accès à ce bâtiment m'a été fourni par une autre personne autorisée. On m'a ordonné de m'assurer que tous les biens de l'immeuble sont en sécurité et transférés à un nouvel endroit. Pour mes services cependant, je suis prêt à être indemnisé en échange de cet appareil.<end>
 
 =>q34_original
 Fine, fine! All I can afford right now is 450 charons. I'm completely isolated over here and I'm not getting back to shores until I receive a confirmation from a reliable source that it's absolutely safe out there. <end>
@@ -236,13 +236,13 @@ Je ne négocie pas avec les suspects ! Surtout quand ils s'exposent pour ce qu'i
 ::Fight!::<end>
 
 =>a40
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a41_original
 ::[Intimidate]:: Listen to me here. I'll make you squeal like a fat rat you are if you make any noise about this. I went through that buildings security, like a hot knife through butter. What do you think I could do to you?<end>
 
 =>a41
-::[Intimider]:: Écoutez-moi ici. Je vais te faire chier comme un gros rat si tu fais du bruit. J'ai passé par la sécurité des bâtiments, comme un couteau chaud au beurre. Que crois-tu que je pourrais te faire ?<end>
+::[Intimidate]:: Écoutez-moi ici. Je vais te faire chier comme un gros rat si tu fais du bruit. J'ai passé par la sécurité des bâtiments, comme un couteau chaud au beurre. Que crois-tu que je pourrais te faire ?<end>
 
 =>q42_original
 ::He makes a step backwards as he realizes what he's facing. After a few moments, he silently raises his hand and points to the exit of the ship.::<end>
@@ -270,7 +270,7 @@ Je n'ai pas peur d'une racaille comme toi.
 Enforcers, a criminal is on board! Take $(#him/her) out! ::Fight!::<end>
 
 =>q45
-Un criminel est à bord ! Sortez $(#le/la) ! ::Lutte!::<end>
+Un criminel est à bord ! Sortez $(#le/la) ! ::Combattre::<end>
 
 =>a46_original
 It's none of your business. I'm keeping it for myself.<end>
@@ -330,7 +330,7 @@ Quoi ? ::Il vous pointe un doigt.:: Un voleur!? Gardes !<end>
 ::Fight!::<end>
 
 =>a55
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a56_original
 Okay, I'm on my way.<end>
@@ -692,7 +692,7 @@ Voilà.<end>
 Let us not play like this in future, $(#sir/miss). This is a very precious item of mine and in this situation is has quite a significant value to me. Now leave.<end>
 
 =>q114
-Ne jouons pas ainsi à l'avenir, $(#sir/miss). C'est un article très précieux à moi et dans cette situation a une valeur importante pour moi. Maintenant, partez.<end>
+Ne jouons pas ainsi à l'avenir, $(#monsieur/mademoiselle). C'est un article très précieux à moi et dans cette situation a une valeur importante pour moi. Maintenant, partez.<end>
 
 =>a115_original
 Whatever.<end>
@@ -728,7 +728,7 @@ Enforceurs ! ::Il tire une arme.:: Il y a un intrus ici, sortez $(#le/la) !<end>
 ::Fight!::<end>
 
 =>a120
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a121_original
 My pleasure as well, sir. ::Shake his hand.::<end>
@@ -780,7 +780,7 @@ Pleasure to meet you $(#sir/miss). My name is Matriuss Ludenlof. Please, hand me
 =>q128
 ::Après avoir évalué la situation, vous regardez un homme bien habillé, moyen âge qui, pour une raison quelconque, a une expression faciale assez en colère. Ses vêtements sont aussi beaux et serrés que sa posture. Le costume qu'il porte est fait de matière synthétique, contrairement à ce que vous avez déjà vu. Une fois qu'il décide de s'adresser à vous, son humeur change complètement.::
 
-Ravi de vous rencontrer $(#sir/miss). Mon nom est Matriuss Ludenlof. Donnez-moi le traqueur et je vous récompenserai.<end>
+Ravi de vous rencontrer $(#monsieur/mademoiselle). Mon nom est Matriuss Ludenlof. Donnez-moi le traqueur et je vous récompenserai.<end>
 
 =>q129_original
 <end>
@@ -914,7 +914,7 @@ Glad to have you back $(#sir/miss). Have you managed to retrieve the device?<end
 =>q149
 ::Un homme troublé se tient devant vous. Ses yeux désespérés vous regardent, cherchant une réponse favorable. Sa posture montre une personne drainée alors qu'il se tient au milieu de la pièce, qui a à ce moment, commencé à recevoir l'odeur de la poubelle extérieure de natation. Malgré tout cela, il a besoin d'une certaine force pour vous parler poliment.::
 
-Ravi de vous revoir $(#sir/miss). Avez-vous réussi à récupérer l'appareil ?<end>
+Ravi de vous revoir $(#monsieur/mademoiselle). Avez-vous réussi à récupérer l'appareil ?<end>
 
 =>a150_original
 Yes, here you go.<end>
@@ -968,7 +968,7 @@ Au revoir.<end>
 ::[Persuade]:: I've been through hell and back to find this. There has to be something more you can offer me for such effort.<end>
 
 =>a158
-::[Persuader]:: J'ai traversé l'enfer et je suis revenu pour trouver ça. Il doit y avoir quelque chose de plus que vous pouvez m'offrir pour un tel effort.<end>
+::[Persuade]:: J'ai traversé l'enfer et je suis revenu pour trouver ça. Il doit y avoir quelque chose de plus que vous pouvez m'offrir pour un tel effort.<end>
 
 =>q159_original
 Beg your pardon?<end>
@@ -1032,7 +1032,7 @@ Gardes, prenez ce criminel !<end>
 ::Fight!::<end>
 
 =>a168
-::Lutte!::<end>
+::Combattre::<end>
 
 =>q169_original
 It's the best I can do. You'll either accept my offer or this entire ordeal will board a course you won't find favorable.<end>
@@ -1056,7 +1056,7 @@ Ah oui ? Et c'est quoi ?<end>
 Enforcers, time for you to do your job! ::He points at you.:: Take $(#him/her) out! ::Fight!::<end>
 
 =>q172
-Enforceurs, il est temps que vous fassiez votre travail ! ::Il vous montre du doigt.:: Sortez $(#le/la) ! ::Lutte!::<end>
+Enforceurs, il est temps que vous fassiez votre travail ! ::Il vous montre du doigt.:: Sortez $(#le/la) ! ::Combattre::<end>
 
 =>a173_original
 I don't smoke, I'll just take the ring I guess.<end>

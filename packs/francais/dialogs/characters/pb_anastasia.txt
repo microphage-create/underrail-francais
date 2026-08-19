@@ -4,27 +4,27 @@
 She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
 
 =>q1
-::Cette petite femme d'âge moyen que vous voyez devant vous semble étudier des dossiers médicaux. Puisque votre regard a été immédiatement attiré par les cartes qu'elle tenait, vous remarquerez rapidement qu'une de ses mains est gravement cicatrisée. La peau horriblement déformée de sa main gauche, se diffusant à partir de quelques endroits et contrastant avec sa peau par ailleurs claire, semble avoir été causée par la guérison d'une brûlure profonde.
+::Cette petite femme d'âge moyen, devant vous, semble étudier des fiches médicales. Votre regard s'est d'abord posé sur les fiches, et vous remarquez vite qu'une de ses mains est gravement cicatrisée. La peau horriblement déformée de sa main gauche, qui part de quelques foyers et contraste avec le reste de sa peau claire, a l'air d'être le souvenir d'une brûlure profonde.
 
-Elle est consciente que vous regardez mais ne fait rien pour cacher l'objet qui vous intéresse. Au lieu de cela, elle baisse les diagrammes et commence à parler. Cependant, sa voix offre encore une autre surprise : elle est le produit de deux voix clairement distinctes et violemment dissonantes qui s'affrontent avant de se fondre en un seul son discordant.::<end>
+Elle sait que vous la regardez, et ne fait rien pour cacher ce qui vous intéresse. Elle baisse les fiches et commence à parler. Mais sa voix réserve une autre surprise : deux voix nettement distinctes, violemment dissonantes, s'entrechoquent avant de se fondre en un seul son discordant.::<end>
 
 =>q2_original
 Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
 
 =>q2
-Caporal, ravi de vous rencontrer. Khm... $(context.player.Name), c'était ça ?<end>
+Caporal, ravie de vous rencontrer. Khm... $(context.player.Name), c'était ça ?<end>
 
 =>a3_original
 That's right. It's $(context.player.Name). Who are you?<end>
 
 =>a3
-C'est exact. C'est $(context.player.Name). Qui es-tu?<end>
+C'est ça. $(context.player.Name). Qui êtes-vous ?<end>
 
 =>q4_original
 My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
 
 =>q4
-Je m'appelle Anastasia... khm... Anastasia Merrick. C'est le... khm... désolé, c'est l'infirmerie, comme vous pouvez le constater, et je suis le... khm... médecin-chef ici. <end>
+Je m'appelle Anastasia... khm... Anastasia Merrick. C'est... khm... pardon, c'est l'infirmerie, comme vous le voyez, et je suis la... khm... médecin-chef, ici. <end>
 
 =>q5_original
 <end>
@@ -42,19 +42,19 @@ Pouvez-vous jeter un œil à mes blessures ?<end>
 ::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
 
 =>q7
-::Elle acquiesce.:: Détendez-vous, caporal, et laissez-moi voir... khm... à quoi nous avons affaire...<end>
+::Elle acquiesce.:: Détendez-vous, caporal, et laissez-moi voir... khm... à quoi on a affaire...<end>
 
 =>a8_original
 ::Let her treat your injuries.::<end>
 
 =>a8
-::Laissez-la soigner vos blessures.::<end>
+::La laisser soigner vos blessures.::<end>
 
 =>a9_original
 I am interested in medical supplies. ::Barter.::<end>
 
 =>a9
-Je suis intéressé par les fournitures médicales. ::Troc.::<end>
+Je m'intéresse au matériel médical. ::Troc.::<end>
 
 =>a10_original
 Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
@@ -68,21 +68,21 @@ Excusez-moi de demander, mais pouvez-vous me dire ce qui est arrivé à votre ma
 Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
 
 =>q11
-::Elle attend plusieurs secondes, déglutissant lentement pendant son silence. Après cette brève pause, elle répond.::
+::Elle attend plusieurs secondes, déglutissant lentement dans le silence. Après cette pause, elle répond.::
 
-Khm... C'est normal de... demander... Vous voyez, Caporal, j'ai été victime d'une... khm... attaque chimique... il y a plusieurs années. Je me rendais à Fort Apogee à bord d'un train civil... khm... venant du Nord Underrail... À l'époque, il n'y avait pas... khm... besoin que chaque train ait des soldats à bord... khm... puisque cette section de la voie ferrée était... considérée comme sûre. Pourtant, juste avant d'atteindre Sud Underrail... khm... le train est tombé dans une embuscade près d'une petite gare.<end>
+Khm... C'est... normal de demander... Vous voyez, caporal, j'ai été victime d'une... khm... attaque chimique... il y a plusieurs années. Je me rendais à Fort Apogee, dans un train civil... khm... depuis North Underrail... À l'époque, il n'y avait pas... khm... besoin de mettre des soldats à bord de chaque train... khm... cette portion de voie était... considérée comme sûre. Pourtant, juste avant South Underrail... khm... le train est tombé dans une embuscade, près d'une petite station.<end>
 
 =>q12_original
 It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
 
 =>q12
-C'était mon premier voyage à...khm... Sud Underrail. Les assaillants ont utilisé des armes chimiques... khm. Lanceurs, grenades... khm. Une partie de la substance corrosive... khm... a brûlé à travers cette main ici... khm... m'a brûlé la jambe gauche. Mais le gaz... khm... le gaz m'a fait mal à la gorge... khm. Je pouvais le sentir brûler… khm… me déformer la gorge à chaque inspiration. Les dommages causés à mes cordes vocales sont... irréversibles... J'ai réussi à protéger mes yeux d'une manière ou d'une autre. Ce qui est très... khm... très chanceux. Un médecin aveugle, c'est... khm... euh... tu comprends.<end>
+C'était mon premier voyage dans... khm... South Underrail. Les assaillants ont utilisé des armes chimiques... khm. Lanceurs, grenades... khm. Une partie de la substance corrosive... khm... a brûlé net cette main-là... khm... et ma jambe gauche. Mais le gaz... khm... le gaz m'a atteint la gorge... khm. Je le sentais brûler... khm... déformer ma gorge à chaque inspiration. Les dégâts aux cordes vocales sont... irréversibles... J'ai réussi à protéger mes yeux, d'une façon ou d'une autre. Ce qui est très... khm... très heureux. Un médecin aveugle, c'est... khm... euh... vous comprenez.<end>
 
 =>a13_original
 That is horrible. Who would do something as horrible as that?<end>
 
 =>a13
-C'est horrible. Qui ferait une chose aussi horrible que ça ?<end>
+C'est horrible. Qui ferait une chose pareille ?<end>
 
 =>q14_original
 We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
@@ -90,7 +90,7 @@ We were told...khm... that the Free Drones did it. Southerners. Apparently to de
 <end>
 
 =>q14
-On nous a dit... khm... que le Free Drones l'avait fait. Les sudistes. Apparemment pour dissuader Protectorate de... khm... se déplacer vers le sud de Underrail. Je n'ai aucune raison de... khm... douter qu'ils soient derrière tout ça... khm... Caporal. Des bandits nous auraient volés... Des esclavagistes nous auraient kidnappés... khm. Les drones... ils causent de la douleur et la mort, puis s'enfuient... khm... c'est tout ce qu'ils font. Je me souviens avoir entendu les chants anti-Protectorate... khm.... Ils se moquaient des gens qui mouraient... khm. Et les Free Drones n'ont pas changé à ce jour... khm... d'après ce que j'entends. Barbares.
+On nous a dit... khm... que c'étaient les Free Drones. Des sudistes. Apparemment pour dissuader le Protectorate de... khm... s'installer dans South Underrail. Je n'ai aucune raison de... khm... douter qu'ils en soient... khm... caporal. Des bandits nous auraient volés... Des esclavagistes nous auraient enlevés... khm. Les Drones... ils font mal, ils tuent, puis ils fuient... khm... c'est tout ce qu'ils savent faire. Je me souviens des chants anti-Protectorate... khm. Ils riaient des gens qui mouraient... khm. Et les Free Drones n'ont pas changé, à ce jour... khm... d'après ce que j'entends. Des barbares.
 
 <end>
 
@@ -98,7 +98,7 @@ On nous a dit... khm... que le Free Drones l'avait fait. Les sudistes. Apparemme
 I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
 
 =>a15
-Je suis vraiment désolé de l'entendre. C'est un sujet difficile, donc je pense que nous devrions changer de sujet. J'avais d'autres questions à poser.<end>
+Je suis $(#désolé/désolée) d'entendre ça. C'est un sujet difficile. On ferait mieux de parler d'autre chose. J'avais d'autres questions.<end>
 
 =>q16_original
 ::She nods.::<end>
@@ -110,13 +110,13 @@ Je suis vraiment désolé de l'entendre. C'est un sujet difficile, donc je pense
 What can you tell me about the Free Drones?<end>
 
 =>a17
-Que pouvez-vous me dire sur le Free Drones ?<end>
+Que pouvez-vous me dire sur les Free Drones ?<end>
 
 =>q18_original
 Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
 
 =>q18
-A cause du Free Drones... Je... khm... J'ai du mal à parler... c'est un euphémisme. Tout ça tu entends... khm... c'est à cause d'eux. Pour illustrer... khm... parfois les muscles de ma gorge serrent mon larynx si fort que cela m'étouffe... khm.<end>
+À cause des Free Drones... je... khm... j'ai du mal à parler... c'est un euphémisme. Tout ce que vous entendez... khm... c'est à cause d'eux. Pour illustrer... khm... parfois les muscles de ma gorge serrent le larynx si fort que ça m'étouffe... khm.<end>
 
 =>q19_original
 I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
@@ -124,45 +124,45 @@ I then have to...khm... swallow... in order to ease the tension. Sometimes...khm
 That's... the Free Drones. Pain.<end>
 
 =>q19
-Je dois alors... khm... avaler... afin d'apaiser la tension. Parfois... khm... ça ne part pas d'un coup... Ça se contracte et... khm... ne lâche pas.
+Je dois alors... khm... avaler... pour relâcher la tension. Parfois... khm... ça ne part pas d'un coup... Ça se contracte et... khm... ça ne lâche pas.
 
-C'est... le Free Drones. Douleur.<end>
+Voilà... les Free Drones. La douleur.<end>
 
 =>a20_original
 Why did you decide to help the Protectorate?<end>
 
 =>a20
-Pourquoi avez-vous décidé d’aider le Protectorate ?<end>
+Pourquoi avez-vous décidé d'aider le Protectorate ?<end>
 
 =>q21_original
 I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
 
 =>q21
-Je voulais... khm... aider les gens. C'est tout... Le Sud Underrail est un... bien plus dangereux-- khm... khm.. ::Elle s'arrête, le visage rouge. Au fur et à mesure qu'elle avale lentement, la couleur revient et elle continue.:: ...un endroit dangereux que le Nord...<end>
+Je voulais... khm... aider les gens. C'est tout... South Underrail est un... bien plus dange-- khm... khm.. ::Elle s'arrête, le visage rouge. Elle avale lentement, la couleur revient, elle reprend.:: ...endroit bien plus dangereux que le Nord...<end>
 
 =>q22_original
 Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
 
 =>q22
-Même malgré... khm... mes problèmes, je suis capable de le faire... et je ne m'arrêterai pas tant que mon aide ici sera... nécessaire.<end>
+Même avec... khm... mes problèmes, je peux le faire... et je ne m'arrêterai pas tant que mon aide ici sera... nécessaire.<end>
 
 =>a23_original
 Where in Fort Apogee can I exchange currencies?<end>
 
 =>a23
-Où puis-je échanger des devises dans Fort Apogee ?<end>
+Où puis-je changer des devises, à Fort Apogee ?<end>
 
 =>q24_original
 See Staff Sergeant Fraser...khm...<end>
 
 =>q24
-Voir le sergent d'état-major Fraser... khm...<end>
+Voyez le sergent d'état-major Fraser... khm...<end>
 
 =>q25_original
 He performs the exchange.<end>
 
 =>q25
-Il effectue l'échange.<end>
+C'est lui qui fait le change.<end>
 
 =>a26_original
 What can you tell me about Consul Oliver?<end>
@@ -174,7 +174,7 @@ Que pouvez-vous me dire sur le consul Oliver ?<end>
 He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
 
 =>q27
-C'est, khm... un homme bien éduqué, dévoué à son travail... khm. Capable. Vient d'une... khm... famille riche. Mais... il semble parfois un peu détaché de ce qui se passe réellement autour de lui. Être assis au bureau, isolé, affecte parfois la perception... khm... et je le comprends bien moi-même.<end>
+C'est, khm... un homme instruit, dévoué à son travail... khm. Capable. Issu d'une... khm... famille aisée. Mais... il semble parfois un peu déconnecté de ce qui se passe vraiment autour de lui. Rester assis au bureau, isolé, ça fausse la perception... khm... et je le comprends bien, moi aussi.<end>
 
 =>q28_original
 When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
@@ -182,9 +182,9 @@ When I came here from North Underrail... I imagined the south differently. Much 
 Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
 
 =>q28
-Quand je suis arrivé ici du Nord Underrail... J'imaginais le sud différemment. Bien différemment. Je n'avais pas réalisé à quel point la situation était mauvaise ici... jusqu'à ce que je le voie moi-même... que je l'expérimente... par moi-même.
+Quand je suis arrivée ici, de North Underrail... j'imaginais le Sud autrement. Bien autrement. Je n'avais pas réalisé à quel point c'était mauvais, ici... jusqu'à ce que je le voie... que je le vive... par moi-même.
 
-Oh, qu'est-ce que je... khm... dis... le consul est un compétent... khm... mec, peut-être que je suis juste... ou... Oublie ce que j'ai dit.<end>
+Oh, qu'est-ce que je... khm... raconte... le consul est un homme... khm... compétent, peut-être que je... ou... Oubliez ce que j'ai dit.<end>
 
 =>a29_original
 What can you tell me about Colonel Cathcart?<end>
@@ -196,67 +196,67 @@ Que pouvez-vous me dire sur le colonel Cathcart ?<end>
 You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
 
 =>q30
-Vous feriez mieux de poser cette question... khm... aux soldats, car c'est leur vie qui est entre ses mains... khm... Je n'ai que de bonnes choses à dire sur le colonel... khm... mais, en fin de compte, ses décisions signifient la vie ou la mort des troupes, tandis que moi... khm... je traite juste ceux qui n'ont pas été aussi malheureux, ou, selon les blessures subies, aussi chanceux... khm... que ceux qui ont été tués au combat.<end>
+Vous feriez mieux de poser cette... khm... question aux soldats, ce sont leurs vies qui sont entre ses mains... khm... Je n'ai que de bonnes choses à dire du colonel... khm... mais, au bout du compte, ses décisions, c'est la vie ou la mort pour les troupes, et moi... khm... je soigne seulement ceux qui n'ont pas été aussi malheureux, ou, selon les blessures, aussi heureux... khm... que ceux qui sont morts au combat.<end>
 
 =>q31_original
 However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
 
 =>q31
-Cependant... khm... récemment, j'ai eu plus de patients que d'habitude. Je ne sais pas à quel point cela est bon ou mauvais... khm... par rapport à la situation dans son ensemble. Je... khm... je ne suis qu'un médecin. Je ne me soucie que... de sauver des vies.<end>
+Cela dit... khm... j'ai plus de patients que d'habitude, récemment. Je ne sais pas si c'est bon ou mauvais... khm... pour l'ensemble. Je... khm... ne suis qu'un médecin. Je ne pense qu'à... sauver des vies.<end>
 
 =>a32_original
 What can you tell me about Fraser?<end>
 
 =>a32
-Que peux-tu me dire sur Fraser ?<end>
+Que pouvez-vous me dire sur Fraser ?<end>
 
 =>q33_original
 ::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
 
 =>q33
-Le sergent d'état-major ::Un sillon aigu se creuse sur son front.:: est... khm... parle toujours en bien de moi... khm... toutes ses absurdités suprémacistes... khm... Comme je suis un courageux médecin du Nord qui, malgré son... khm... handicap, avait persévéré et est resté à Fort Apogee... khm... pour aider la cause.<end>
+::Un sillon net se creuse sur son front.:: Le sergent d'état-major... khm... ne dit que du bien de moi... khm... toutes ses âneries suprémacistes... khm... Comme quoi je suis une courageuse médecin du Nord qui, malgré son... khm... handicap, a tenu bon et est restée à Fort Apogee... khm... pour aider la cause.<end>
 
 =>q34_original
 I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
 
 =>q34
-Je n'aime pas ces gens... khm... mais je dois m'occuper d'eux, j'en ai peur. C'est un homme pourri, caporal... khm... et malheureusement pas le seul dans les parages. Il méprise tous ceux qui ne sont pas des habitants du Nord. Il me demande... pourquoi je socialise avec des sudistes... khm... comme Luka ou... khm... Justin. Il ne les appelle pas explicitement « ratiers », mais… khm… khm… il le sous-entend. C'est toujours au bout de sa... khm... langue. Je suppose que nous deux... khm... représentons Protectorate de manière complètement opposée, malheureusement.<end>
+Je n'aime pas ce genre de gens... khm... mais je dois faire avec, j'en ai peur. C'est un homme pourri, caporal... khm... et malheureusement pas le seul dans le coin. Il méprise tous ceux qui ne sont pas du Nord. Il me demande... pourquoi je fréquente des sudistes... khm... comme Luka ou... khm... Justin. Il ne les appelle pas ouvertement « ratiers », mais... khm... khm... il le sous-entend. C'est toujours au bout de sa... khm... langue. Je suppose que nous deux... khm... représentons le Protectorate de façons tout à fait opposées, malheureusement.<end>
 
 =>q35_original
 My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
 
 =>q35
-Mes mots... khm... sont précieux... Caporal, et je ne voudrais pas les gaspiller avec ça... khm... mec.<end>
+Mes mots... khm... sont précieux... caporal, et je ne voudrais pas les gâcher pour cet... khm... homme.<end>
 
 =>a36_original
 What can you tell me about Luka?<end>
 
 =>a36
-Que peux-tu me dire sur Luka ?<end>
+Que pouvez-vous me dire sur Luka ?<end>
 
 =>q37_original
 ::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
 
 =>q37
-::Elle sourit.:: Luka est un homme très sympa... khm... très charmant... C'est le mécanicien en chef, un expert en Dreadnought... khm. Il est tellement fasciné par ces machines... Nous traînons tout le temps et... khm... malgré nos différents métiers et... khm... les différents environnements dans lesquels nous avons grandi... nous avons découvert que nous avions beaucoup de points communs.<end>
+::Elle sourit.:: Luka est un homme très bien... khm... très charmant... C'est le chef mécanicien, un expert des Dreadnoughts... khm. Il est tellement fasciné par ces machines... On se voit tout le temps et... khm... malgré nos métiers différents et... khm... les milieux où on a grandi... on s'est rendu compte qu'on avait beaucoup en commun.<end>
 
 =>q38_original
 ::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
 
 =>q38
-::Elle rit, ce qui, en raison de sa gorge endommagée, ressemble à deux rochers déchiquetés se frottant l'un contre l'autre.:: Quand on déjeune au mess... khm... on parle à tour de rôle de notre travail. Il parlait de machines, d'outils, de ses collègues... de tout ce qui lui passait par la tête à ce moment-là... et après ça... je parlais de mes affaires médicales... khm. Je choisis généralement les exemples les plus grossiers dont je me souviens... khm. Il est très délicat, alors j'entre souvent dans... khm... beaucoup de détails. ::Elle sourit.:: Et terminez par "Profitez de votre... khm... repas !"<end>
+::Elle rit, et avec sa gorge abîmée ça ressemble à deux roches déchiquetées qui s'entrechoquent.:: Quand on déjeune au mess... khm... on parle à tour de rôle de notre boulot. Lui, les machines, les outils, ses collègues... tout ce qui lui passe par la tête... et après... moi, mes histoires de médecin... khm. Je prends en général les exemples les plus dégueulasses dont je me souviens... khm. Il a l'estomac fragile, alors je rentre souvent dans... khm... le détail. ::Elle sourit.:: Et je termine par « Bon... khm... appétit ! »<end>
 
 =>q39_original
 I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
 
 =>q39
-Je pense que nous avons tous les deux beaucoup appris sur les métiers de chacun... khm... de l'autre. Et des approches de la vie. Des interactions comme ça... khm... enrichissent une personne.<end>
+Je pense qu'on a beaucoup appris sur le métier... khm... de l'autre. Et sur la façon de voir la vie. Ce genre d'échanges... khm... ça enrichit quelqu'un.<end>
 
 =>a40_original
 What can you tell me about Case?<end>
 
 =>a40
-Que peux-tu me dire sur Case ?<end>
+Que pouvez-vous me dire sur Case ?<end>
 
 =>q41_original
 He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
@@ -264,21 +264,21 @@ He's got anterior... khm... cruciate ligament injury in his left knee. ::She pau
 He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
 
 =>q41
-Il a une blessure au ligament croisé antérieur... khm... au genou gauche. ::Elle fait une pause une fraction de seconde avant de continuer.:: Je ne sais pas pourquoi j'ai dit ça... khm... d'abord. C'est comme ça que mon cerveau fonctionne... khm... je suppose. 
+Il a une blessure du ligament croisé... khm... antérieur, genou gauche. ::Elle s'interrompt une fraction de seconde, puis reprend.:: Je ne sais pas pourquoi j'ai dit ça... khm... en premier. C'est comme ça que mon cerveau marche... khm... je suppose. 
 
-Il travaille au mess. Très gentil... khm... mec. C'est un sudiste, un peu comme vous, donc je pense que vous deux... khm... avez beaucoup en commun.<end>
+Il travaille au mess. Un homme... khm... très gentil. C'est un sudiste, comme vous, alors je pense que vous deux... khm... avez beaucoup en commun.<end>
 
 =>q42_original
 The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
 
 =>q42
-La blessure au genou l'empêche d'être... khm... soldat, mais je pense que c'est bien pour lui. J'ai soigné tellement d'horribles... khm... blessures et j'ai vu... khm... des choses. Au moins, il n'a pas à s'inquiéter de... khm... que *ça* lui arrive.<end>
+La blessure au genou l'empêche d'être... khm... soldat, mais je pense que c'est bien pour lui. J'ai soigné tant de... khm... blessures horribles, et j'ai vu... khm... des choses. Au moins, il n'a pas à craindre que... khm... *ça* lui arrive.<end>
 
 =>a43_original
 What can you tell me about CAU?<end>
 
 =>a43
-Que pouvez-vous me dire sur CAU ?<end>
+Que pouvez-vous me dire sur le CAU ?<end>
 
 =>q44_original
 Please... khm...<end>
@@ -296,19 +296,19 @@ Je préfère ne pas en parler.<end>
 What can you tell me about the Faceless?<end>
 
 =>a46
-Que pouvez-vous me dire sur le Faceless ?<end>
+Que pouvez-vous me dire sur les Faceless ?<end>
 
 =>q47_original
 Probably... khm... nothing, because I don't know much about them... khm... <end>
 
 =>q47
-Probablement... khm... rien, parce que je ne connais pas grand chose à leur sujet... khm... <end>
+Probablement... khm... rien, je n'en sais pas grand-chose... khm... <end>
 
 =>q48_original
 I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
 
 =>q48
-Je veux dire... khm... J'ai entendu des rumeurs... khm... des histoires, mais je préfère ne pas... khm... commenter. <end>
+Je veux dire... khm... j'ai entendu des rumeurs... khm... des histoires, mais je préfère ne pas... khm... commenter. <end>
 
 =>a49_original
 See you around, Doc.<end>
@@ -320,17 +320,16 @@ See you around, Doc.<end>
 We better not, if you know what I... khm... mean. ::She smiles.::<end>
 
 =>q50
-Nous ferions mieux de ne pas le faire, si vous voyez ce que je... khm... veux dire. ::Elle sourit.::<end>
+Mieux vaut pas, si vous voyez ce que je... khm... veux dire. ::Elle sourit.::<end>
 
 =>a51_original
 Yes. And you are?<end>
 
 =>a51
-Oui. Et vous l'êtes ?<end>
+Oui. Et vous êtes ?<end>
 
 =>q52_original
 Khm... Corporal?<end>
 
 =>q52
 Khm... Caporal ?<end>
-

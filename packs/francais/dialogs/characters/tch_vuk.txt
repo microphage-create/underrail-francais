@@ -2,19 +2,19 @@
 Get outta here, $(#bro/sis)!<end>
 
 =>q1
-Sortez d'ici, $(#frère/sœur) !<end>
+Sortez d'ici, $(#frère/sœur) !<end>
 
 =>q2_original
 Psycho is on the loose!<end>
 
 =>q2
-Le psychopathe est en liberté !<end>
+Psycho est en liberté !<end>
 
 =>q3_original
 Listen $(#bro/sis), we can't talk right now. Rista is mad, and if he sees you and me talking... Just leave.<end>
 
 =>q3
-Écoutez $(#frère/sœur), nous ne pouvons pas parler pour le moment. Rista est en colère, et s'il nous voit, toi et moi, parler... Partez.<end>
+Écoutez, $(#frère/sœur), on ne peut pas parler maintenant. Rista est hors de lui, et s'il nous voit discuter... Partez.<end>
 
 =>q4_original
 ::The man you just approached seems casual and relaxed. His suit is covered with dirt, blood and some green slime, and you notice what appear to be large strands of hair stuck in it. He extends his right hand to shake yours but withdraws it in the last moment after noticing that their cleanliness matches that of his suit.::
@@ -22,21 +22,21 @@ Listen $(#bro/sis), we can't talk right now. Rista is mad, and if he sees you an
 Hey, $(#bro/sis). Is there something I can help you with?<end>
 
 =>q4
-::L’homme que vous venez d’approcher semble décontracté et détendu. Son costume est couvert de terre, de sang et de bave verte, et vous remarquez ce qui semble être de grosses mèches de cheveux coincées dedans. Il tend la main droite pour serrer la vôtre mais la retire au dernier moment après avoir constaté que leur propreté correspond à celle de son costume.::
+::L'homme que vous venez d'approcher a l'air détendu, presque négligent. Sa combinaison est couverte de terre, de sang et d'une bave verte, avec ce qui ressemble à de longues mèches collées dedans. Il tend la main droite pour serrer la vôtre, puis la retire au dernier moment, en voyant qu'elle n'est pas plus propre que le reste.::
 
-Salut, $(#frère/sœur). Y a-t-il quelque chose que je puisse vous aider ?<end>
+Bonjour, $(#frère/sœur). Je peux vous aider ?<end>
 
 =>a5_original
 Tchort is evolution, brother. I am $(context.player.Name) and I would like to ask you a few questions.<end>
 
 =>a5
-Tchort est une évolution, mon frère. Je m'appelle $(context.player.Name) et j'aimerais vous poser quelques questions.<end>
+Tchort est l'évolution, frère. Je m'appelle $(context.player.Name) et j'aimerais vous poser quelques questions.<end>
 
 =>q6_original
 Evolution is Tchort. I am Vuk. Well, since I'm on a break I suppose I could answer a few questions. Go ahead, $(#bro/sis). Ask.<end>
 
 =>q6
-L'évolution est Tchort. Je m'appelle Vuk. Eh bien, puisque je suis en pause, je suppose que je pourrais répondre à quelques questions. Allez-y, $(#frère/sœur). Demander.<end>
+L'évolution est Tchort. Je suis Vuk. Je suis en pause, je peux bien répondre à quelques questions. Allez-y, $(#frère/sœur). Demandez.<end>
 
 =>q7_original
 <end>
@@ -48,13 +48,13 @@ L'évolution est Tchort. Je m'appelle Vuk. Eh bien, puisque je suis en pause, je
 ::[Biology]:: You have plenty of interesting creatures here. Do you have any exotic samples I could use in my research?<end>
 
 =>a8
-::[Biology]:: Vous avez ici de nombreuses créatures intéressantes. Avez-vous des échantillons exotiques que je pourrais utiliser dans mes recherches ?<end>
+::[Biology]:: Vous avez ici des créatures intéressantes. Avez-vous des échantillons exotiques dont je pourrais me servir pour mes recherches ?<end>
 
 =>q9_original
 Exotic? Like... from the Deep Caverns?<end>
 
 =>q9
-Exotique? Comme... du Deep Caverns ?<end>
+Exotiques ? Du genre... des Deep Caverns ?<end>
 
 =>a10_original
 Preferably.<end>
@@ -66,13 +66,13 @@ De préférence.<end>
 ::He shrugs.:: Sure. All in the name of Investigation, right?  <end>
 
 =>q11
-::Il hausse les épaules.:: Bien sûr. Tout cela au nom de l'enquête, n'est-ce pas ?  <end>
+::Il hausse les épaules.:: Bien sûr. Tout ça au nom de l'Investigation, non ?  <end>
 
 =>q12_original
 Let me just get the squishies, $(#bro/sis).<end>
 
 =>q12
-Laisse-moi juste chercher les squishies, $(#frère/sœur).<end>
+Laissez-moi seulement récupérer les spécimens mous, $(#frère/sœur).<end>
 
 =>a13_original
 ::Barter.::<end>
@@ -90,79 +90,79 @@ Pourquoi pas.<end>
 ::Nod.::<end>
 
 =>a15
-::Hocher la tête.::<end>
+::Acquiescer.::<end>
 
 =>a16_original
 I am interested in a trade.<end>
 
 =>a16
-Je suis intéressé par un métier.<end>
+Un échange m'intéresserait.<end>
 
 =>a17_original
 I talked to Principal Investigator Rista and he told me we can trade.<end>
 
 =>a17
-J'ai parlé à l'enquêteur principal Rista et il m'a dit que nous pouvions échanger.<end>
+J'ai parlé au Principal Investigator Rista. Il m'a dit que nous pouvions échanger.<end>
 
 =>q18_original
 If he says it's okay - it's okay! Let me just change my gloves, $(#bro/sis), and I'll show you what I've got.<end>
 
 =>q18
-S'il dit que tout va bien, c'est bon ! Laisse-moi juste changer mes gants, $(#frère/sœur), et je te montrerai ce que j'ai.<end>
+S'il dit que c'est bon, c'est bon ! Laissez-moi changer de gants, $(#frère/sœur), et je vous montre ce que j'ai.<end>
 
 =>a19_original
 What do you do around here?<end>
 
 =>a19
-Que fais-tu par ici ?<end>
+Que faites-vous ici ?<end>
 
 =>q20_original
 Well, $(#bro/sis), I'm one of the biologists working in this department. As you can see from my general appearance this is a very, very dirty job. To give an example, this green stuff I'm covered with actually came from one of the coil spiders we have in the holding pens. I was in its enclosure and then it approached and suddenly regurgitated *this* stuff all over me. I have yet to figure out why.<end>
 
 =>q20
-Eh bien, $(#frère/sœur), je suis l'un des biologistes travaillant dans ce département. Comme vous pouvez le constater d’après mon apparence générale, c’est un travail très, très sale. Pour donner un exemple, cette substance verte dont je suis recouvert provient en fait d'une des araignées spirales que nous avons dans les enclos. J'étais dans son enclos puis il s'est approché et a soudainement régurgité *ce* truc sur moi. Je n'ai pas encore compris pourquoi.<end>
+Eh bien, $(#frère/sœur), je suis l'un des biologistes du département. Vous n'avez qu'à me regarder : c'est un boulot très, très sale. Pour vous donner une idée, cette substance verte dont je suis couvert vient d'une des araignées à bobines qu'on garde dans les enclos. J'étais dans son enclos, elle s'est approchée et elle m'a soudain régurgité *ça* dessus. Je n'ai toujours pas compris pourquoi.<end>
 
 =>a21_original
 ::[Biology]:: Female spiders have a tendency to regurgitate fluids to starved individuals; maybe it's seeing you as one of her own kin.<end>
 
 =>a21
-::[Biology]:: Les araignées femelles ont tendance à régurgiter des liquides aux individus affamés ; c'est peut-être vous voir comme un membre de sa propre famille.<end>
+::[Biology]:: Les araignées femelles ont tendance à régurgiter des fluides aux individus affamés ; elle vous prend peut-être pour l'un des siens.<end>
 
 =>q22_original
 Listen, I am-- ::He pauses for a second.:: You know what, $(#bro/sis)... you might have a good point there. Magnificent Tchort, yes! The pacification procedure we performed on these creatures could have caused them to view us in ways we haven't really expected. Hmmm, perhaps in her mind I'm one of her young or a distressed unit.<end>
 
 =>q22
-Écoutez, je suis... ::Il s'arrête une seconde.:: Vous savez quoi, $(#frère/sœur)... vous avez peut-être raison. Magnifique Tchort, oui ! La procédure de pacification que nous avons effectuée sur ces créatures aurait pu les amener à nous voir d'une manière à laquelle nous ne nous attendions pas vraiment. Hmmm, peut-être que dans son esprit je suis l'un de ses jeunes ou une unité en détresse.<end>
+Écoutez, je... ::Il s'arrête une seconde.:: Vous savez quoi, $(#frère/sœur)... vous n'avez peut-être pas tort. Magnifique Tchort, oui ! La procédure de pacification qu'on a faite sur ces créatures a pu changer la façon dont elles nous voient, d'une manière qu'on n'avait pas prévue. Hmmm, dans sa tête, je suis peut-être l'un de ses petits, ou une unité en détresse.<end>
 
 =>a23_original
 Glad to be of help.<end>
 
 =>a23
-Heureux de pouvoir vous aider.<end>
+Tant mieux.<end>
 
 =>q24_original
 It is the benefit of the outside view, $(#bro/sis). We who work on something can sometimes get so focused on it that it narrows our vision. We fail to see other things. Good work! <end>
 
 =>q24
-C'est l'avantage de la vue extérieure, $(#frère/sœur). Nous qui travaillons sur quelque chose pouvons parfois être tellement concentrés dessus que cela rétrécit notre vision. Nous ne parvenons pas à voir autre chose. Bon travail ! <end>
+C'est l'avantage du regard extérieur, $(#frère/sœur). Quand on travaille sur quelque chose, on peut se concentrer au point de se rétrécir le champ. On ne voit plus le reste. Beau travail ! <end>
 
 =>a25_original
 I am not in the mood to talk about regurgitation. Can we discuss something else?<end>
 
 =>a25
-Je ne suis pas d'humeur à parler de régurgitation. Pouvons-nous discuter d'autre chose ?<end>
+Je n'ai pas envie de parler de régurgitation. On peut parler d'autre chose ?<end>
 
 =>q26_original
 This is serious stuff I'm talking about, $(#bro/sis). You have to get used to these sort of things if you wish to work in the department.<end>
 
 =>q26
-Je parle de choses sérieuses, $(#frère/sœur). Il faut s'habituer à ce genre de choses si l'on souhaite travailler dans le département.<end>
+Je parle de choses sérieuses, $(#frère/sœur). Il faudra vous y faire si vous voulez travailler dans le département.<end>
 
 =>a27_original
 I wanted to ask you if you know anything about some odd creatures that are plaguing Foundry at the moment.<end>
 
 =>a27
-Je voulais vous demander si vous savez quelque chose sur certaines créatures étranges qui tourmentent Foundry en ce moment.<end>
+Je voulais vous demander si vous saviez quelque chose sur des créatures étranges qui infestent Foundry en ce moment.<end>
 
 =>q28_original
 What are the creatures in questions?<end>
@@ -174,25 +174,25 @@ Quelles sont les créatures en question ?<end>
 They're quadrupedal creatures, highly aggressive, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
 
 =>a29
-Ce sont des créatures quadrupèdes, très agressives, facilement reconnaissables à leurs coquilles en roche avec des lames métalliques dépassant de leur dos. Avez-vous déjà vu quelque chose comme ça ?<end>
+Des quadrupèdes, très agressifs, reconnaissables à une carapace de roche avec des lames métalliques qui leur sortent du dos. Vous avez déjà vu ça ?<end>
 
 =>q30_original
 That is odd, as you say. Can't help you, I'm afraid. I have no experience with anything resembling that description.<end>
 
 =>q30
-C'est étrange, comme vous le dites. Je ne peux pas t'aider, j'en ai peur. Je n'ai aucune expérience avec quelque chose qui ressemble à cette description.<end>
+C'est étrange, oui. Je ne peux pas vous aider, j'en ai peur. Rien de ce que je connais ne ressemble à ça.<end>
 
 =>a31_original
 If I bring you a sample or a live specimen, will you take a look at it for me?<end>
 
 =>a31
-Si je vous apporte un échantillon ou un spécimen vivant, allez-vous y jeter un œil pour moi ?<end>
+Si je vous apporte un échantillon, ou un spécimen vivant, vous y jetteriez un œil ?<end>
 
 =>q32_original
 I... not without PI Rista's permission I can't. You should go to him, and if he says yes - then I'd be good to help you.<end>
 
 =>q32
-Je... pas sans la permission de PI Rista, je ne peux pas. Tu devrais aller le voir, et s'il dit oui, alors je serais ravi de t'aider.<end>
+Je... pas sans la permission du Principal Investigator Rista. Allez le voir, et s'il dit oui, je pourrai vous aider.<end>
 
 =>a33_original
 He already said no.<end>
@@ -210,7 +210,7 @@ Il a déjà dit non.<end>
 That's that then... There was something else...<end>
 
 =>a35
-C'est alors... Il y avait autre chose...<end>
+Soit. Il y avait autre chose...<end>
 
 =>q36_original
 Yes, $(#bro/sis)?<end>
@@ -222,25 +222,25 @@ Oui, $(#frère/sœur) ?<end>
 Got it. See you later, Vuk. Gotta run.<end>
 
 =>a37
-J'ai compris. A plus tard, Vuk. Je dois courir.<end>
+Compris. À plus tard, Vuk. Je dois y aller.<end>
 
 =>q38_original
 Ditto, $(#bro/sis).<end>
 
 =>q38
-Idem, $(#frère/sœur).<end>
+Pareil, $(#frère/sœur).<end>
 
 =>a39_original
 Well, Tchort guide you, Vuk.<end>
 
 =>a39
-Eh bien, Tchort vous guide, Vuk.<end>
+Que Tchort vous guide, Vuk.<end>
 
 =>q40_original
 Tchort guide you.<end>
 
 =>q40
-Tchort vous guide.<end>
+Que Tchort vous guide.<end>
 
 =>a41_original
 Where can I find him?<end>
@@ -252,13 +252,13 @@ Où puis-je le trouver ?<end>
 His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
 
 =>q42
-Son bureau est là-bas. ::Il pointe du doigt les doubles portes.:: C'est son bureau - entrez à vos propres risques. Tchort vous guide. <end>
+Son bureau est là-bas. ::Il désigne les doubles portes.:: C'est son bureau. Entrez à vos risques et périls. Que Tchort vous guide. <end>
 
 =>a43_original
 At my own risk? Why?<end>
 
 =>a43
-À mes risques et périls ? Pourquoi ?<end>
+À mes risques et périls ? Pourquoi ?<end>
 
 =>q44_original
 ::He simply chuckles but gives you no further explanation.::
@@ -266,45 +266,45 @@ At my own risk? Why?<end>
 Anything else?<end>
 
 =>q44
-::Il se contente de rire mais ne vous donne aucune autre explication.::
+::Il se contente de rire, sans plus d'explication.::
 
-Autre chose ?<end>
+Autre chose ?<end>
 
 =>a45_original
 Okay... See ya.<end>
 
 =>a45
-"Ok, a +"<end>
+Très bien... À plus tard.<end>
 
 =>a46_original
 They look like larvae, with weird heads shaped like small drills.<end>
 
 =>a46
-Ils ressemblent à des larves, avec des têtes étranges en forme de petits forets.<end>
+On dirait des larves, avec des têtes bizarres en forme de petits forets.<end>
 
 =>a47_original
 How come these creatures you have here aren't aggressive?<end>
 
 =>a47
-Comment se fait-il que ces créatures que vous avez ici ne soient pas agressives ?<end>
+Comment se fait-il que ces créatures, ici, ne soient pas agressives ?<end>
 
 =>q48_original
 It's all due to the pacification procedures we have performed on them. Only the dangerous ones like burrowers and coil spiders. They usually don't tolerate human presence and show it, um, by trying to tear you to pieces.<end>
 
 =>q48
-Tout cela est dû aux procédures de pacification que nous avons effectuées sur eux. Seuls les plus dangereux comme les fouisseurs et les araignées à spirales. Ils ne tolèrent généralement pas la présence humaine et la montrent, euh, en essayant de vous mettre en pièces.<end>
+C'est grâce aux procédures de pacification qu'on leur a faites. Seulement les dangereuses, les fouisseurs et les araignées à bobines. En temps normal, elles ne tolèrent pas la présence humaine, et elles le montrent, euh, en essayant de vous mettre en pièces.<end>
 
 =>a49_original
 Pacification? How do you do that?<end>
 
 =>a49
-Pacification ? Comment faites-vous cela ?<end>
+Pacification ? Comment vous faites ça ?<end>
 
 =>q50_original
 As you probably suspect already, we have found a way to make the creatures non-aggressive to other species. Unfortunately, I can't tell you the details on how we do it. Well, at least I don't know if I'm allowed to so I better not... Seek Rista, our PI; he's in charge of the project and can tell you more.<end>
 
 =>q50
-Comme vous le soupçonnez probablement déjà, nous avons trouvé un moyen de rendre les créatures non agressives pour d'autres espèces. Malheureusement, je ne peux pas vous donner de détails sur la façon dont nous le faisons. Eh bien, au moins je ne sais pas si j'en ai le droit, donc je ferais mieux de ne pas... Chercher Rista, notre PI ; il est en charge du projet et peut vous en dire plus.<end>
+Comme vous vous en doutez, on a trouvé un moyen de rendre ces créatures inoffensives envers les autres espèces. Malheureusement, je ne peux pas vous dire comment. Enfin, je ne sais même pas si j'en ai le droit, alors autant me taire... Allez voir Rista, notre Principal Investigator. C'est lui qui mène le projet, il pourra vous en dire plus.<end>
 
 =>q51_original
 ::He shrugs.:: Sorry, $(#bro/sis).<end>
@@ -316,61 +316,61 @@ Comme vous le soupçonnez probablement déjà, nous avons trouvé un moyen de re
 That sounds great! But I had other questions.<end>
 
 =>a52
-Super ! Mais j'avais d'autres questions.<end>
+Très bien. J'avais d'autres questions.<end>
 
 =>q53_original
 Yeah?<end>
 
 =>q53
-Ouais?<end>
+Oui ?<end>
 
 =>a54_original
 Since you work with animals - do you have any spare organs or other parts that I can acquire?<end>
 
 =>a54
-Puisque vous travaillez avec des animaux - avez-vous des organes de rechange ou d'autres pièces que je peux acquérir ?<end>
+Puisque vous travaillez avec des animaux, avez-vous des organes ou d'autres pièces dont je pourrais faire l'acquisition ?<end>
 
 =>q55_original
 I am in charge of that, but you'll get nothing for free if that's what you're implying. On the other hand, I could sell you some but... um... You know what, go talk to Principal Investigator Rista and see if you can get his permission. If he says "yes" then come back to me. I'll wait here.<end>
 
 =>q55
-C'est moi qui m'en charge, mais tu n'auras rien gratuitement si c'est ce que tu insinues. D'un autre côté, je pourrais vous en vendre mais... euh... Vous savez quoi, allez parler à l'investigateur principal Rista et voir si vous pouvez obtenir sa permission. S'il dit « oui » alors revenez vers moi. Je vais attendre ici.<end>
+C'est moi qui m'en occupe, mais vous n'aurez rien gratuitement, si c'est ce que vous insinuez. Je pourrais vous en vendre, mais... euh... Allez parler au Principal Investigator Rista et voyez s'il vous donne l'autorisation. S'il dit oui, revenez me voir. Je serai là.<end>
 
 =>a56_original
 I already talked to him and he told me it's okay.<end>
 
 =>a56
-Je lui ai déjà parlé et il m'a dit que c'était bon.<end>
+Je lui ai déjà parlé. Il m'a dit que c'était bon.<end>
 
 =>a57_original
 Right, I'll go talk to him.<end>
 
 =>a57
-D'accord, je vais aller lui parler.<end>
+Très bien, je vais lui parler.<end>
 
 =>q58_original
 Tchort guide you and good luck.<end>
 
 =>q58
-Tchort vous guide et bonne chance.<end>
+Que Tchort vous guide, et bonne chance.<end>
 
 =>a59_original
 Good luck? Why?<end>
 
 =>a59
-Bonne chance ? Pourquoi ?<end>
+Bonne chance ? Pourquoi ?<end>
 
 =>q60_original
 ::He chuckles but says nothing otherwise.::<end>
 
 =>q60
-::Il rit mais ne dit rien d'autre.::<end>
+::Il rit, sans rien ajouter.::<end>
 
 =>a61_original
 Tchort guide you too.<end>
 
 =>a61
-Tchort vous guide également.<end>
+Que Tchort vous guide aussi.<end>
 
 =>a62_original
 I'll be back soon.<end>
@@ -382,59 +382,59 @@ Je serai bientôt de retour.<end>
 What can you tell me about this pacification procedure performed on animals?<end>
 
 =>a63
-Que pouvez-vous me dire sur cette procédure de pacification effectuée sur des animaux ?<end>
+Que pouvez-vous me dire sur cette procédure de pacification pratiquée sur les animaux ?<end>
 
 =>a64_original
 Can you tell me who's in charge here?<end>
 
 =>a64
-Pouvez-vous me dire qui commande ici ?<end>
+Qui est responsable, ici ?<end>
 
 =>q65_original
 Ah. AH! You seek Principal Investigator Rista, right? His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
 
 =>q65
-Ah. AH ! Vous cherchez l'investigateur principal Rista, n'est-ce pas ? Son bureau est là-bas. ::Il pointe du doigt les doubles portes.:: C'est son bureau - entrez à vos propres risques. Tchort vous guide. <end>
+Ah. AH ! Vous cherchez le Principal Investigator Rista, c'est ça ? Son bureau est là-bas. ::Il désigne les doubles portes.:: C'est son bureau. Entrez à vos risques et périls. Que Tchort vous guide. <end>
 
 =>a66_original
 Tchort guide you, brother.<end>
 
 =>a66
-Tchort vous guide, frère.<end>
+Que Tchort vous guide, frère.<end>
 
 =>a67_original
 See you later, Vuk.<end>
 
 =>a67
-À plus tard. <end>
+À plus tard, Vuk.<end>
 
 =>a68_original
 Hi, I'm $(context.player.Name) and I had questions if I'm not bothering you.<end>
 
 =>a68
-Bonjour, je suis $(context.player.Name) et j'ai des questions si je ne vous dérange pas.<end>
+Bonjour, je m'appelle $(context.player.Name). J'avais des questions, si je ne vous dérange pas.<end>
 
 =>q69_original
 Not at all; I'm taking a short break now so a chat is fine by me. I am Vuk, by the way, pleasure to meet you. What was it you wished to ask, $(#bro/sis)?<end>
 
 =>q69
-Pas du tout ; je fais une courte pause maintenant, donc une discussion me convient. Je suis Vuk, au fait, ravi de vous rencontrer. Que souhaitez-vous demander, $(#frère/sœur) ?<end>
+Pas du tout. Je prends une courte pause, une discussion ne me dérange pas. Je suis Vuk, au fait. Enchanté. Qu'est-ce que vous vouliez demander, $(#frère/sœur) ?<end>
 
 =>a70_original
 'Ey. I'm $(context.player.Name). Mind answering a few questions?<end>
 
 =>a70
-'Ey. Je suis $(context.player.Name). Vous voulez bien répondre à quelques questions ?<end>
+Hé. Je m'appelle $(context.player.Name). Vous auriez deux minutes pour quelques questions ?<end>
 
 =>q71_original
 Good work there, $(#bro/sis). Psycho is one big... psycho! ::He laughs.:: Once it gets mad it gets so scary it could even frighten Tchort! Um...forget I said that.<end>
 
 =>q71
-Bon travail, $(#frère/sœur). Psycho est un grand... psycho ! ::Il rit.:: Une fois qu'il se met en colère, il devient si effrayant qu'il pourrait même effrayer Tchort ! Euh...oublie que j'ai dit ça.<end>
+Beau travail, $(#frère/sœur). Psycho, c'est un sacré... psycho ! ::Il rit.:: Une fois qu'il s'énerve, il fait si peur qu'il pourrait même effrayer Tchort ! Euh... oubliez que j'ai dit ça.<end>
 
 =>q72_original
 Hey, good to see you $(context.player.Name). How can I help you?<end>
 
 =>q72
-Bonjour, ravi de vous voir $(context.player.Name). Comment puis-je vous aider ?<end>
+Bonjour, content de vous voir, $(context.player.Name). Comment puis-je vous aider ?<end>
 

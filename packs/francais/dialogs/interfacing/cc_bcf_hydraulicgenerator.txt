@@ -2,7 +2,7 @@
 ::This large machine has "Biocorp Hydraulics North BCHG-223 - Hydraulic Generator" written on it. It seems to be powered off.::<end>
 
 =>q1
-::Cette grande machine a "Biocorp Hydraulics North BCHG-223 - Générateur hydraulique" écrit dessus. Il semble être éteint.::<end>
+::Cette grosse machine porte "Biocorp Hydraulics North BCHG-223 - Hydraulic Generator". Elle a l'air éteinte.::<end>
 
 =>q2_original
 <end>
@@ -14,25 +14,25 @@
 ::Inspect the machine.::<end>
 
 =>a3
-::Inspectez la machine.::<end>
+::Inspecter la machine.::<end>
 
 =>q4_original
 ::Pressing the power button makes the machine successfully start-up, but it displays error 43, which means nothing to you. Upon further inspection, you notice one of the panels on the machine is loosely screwed. You remove the panel and look inside, noticing that certain mechanical components look broken.::<end>
 
 =>q4
-::En appuyant sur le bouton d'alimentation, la machine démarre avec succès, mais elle affiche l'erreur 43, ce qui ne signifie rien pour vous. Lors d'une inspection plus approfondie, vous remarquez qu'un des panneaux de la machine est vissé de façon lâche. Vous retirez le panneau et regardez à l'intérieur, voyant que certains composants mécaniques semblent cassés.::<end>
+::Vous appuyez sur le bouton. La machine démarre, mais affiche l'erreur 43 : ça ne vous dit rien. Un panneau est mal vissé. Vous l'ouvrez : des composants mécaniques sont cassés.::<end>
 
 =>a5_original
 ::[Mechanics] Attempt to repair the generator.::<end>
 
 =>a5
-::Essaie de réparer le générateur.::<end>
+::[Mechanics] Tenter de réparer le générateur.::<end>
 
 =>q6_original
 ::You remove one of the panels on the machine and notice certain parts are broken. You proceed to replace all the broken parts, and after that you press the power button. It starts on the first try. Several options show up on the display.::<end>
 
 =>q6
-::Vous retirez un des panneaux de la machine et remarquez que certaines pièces sont cassées. Vous remplacez toutes les pièces cassées, et après cela vous appuyez sur le bouton d'alimentation. Ça commence par le premier essai. Plusieurs options apparaissent sur l'écran.::<end>
+::Vous ouvrez un panneau : des pièces sont cassées. Vous les remplacez, puis vous appuyez sur le bouton. Elle démarre du premier coup. Plusieurs options s'affichent.::<end>
 
 =>q7_original
 ::Biocorp Hydraulics North BCHG-223  Hydraulic Generator
@@ -40,9 +40,9 @@
 Welcome. Please select one of the options: ::<end>
 
 =>q7
-::Biocorp Hydraulique Nord BCHG-223 Générateur hydraulique
+::Biocorp Hydraulics North BCHG-223  Hydraulic Generator
 
-Bienvenue. Veuillez sélectionner une des options suivantes :::<end>
+Bienvenue. Choisir une option : ::<end>
 
 =>q8_original
 <end>
@@ -54,7 +54,7 @@ Bienvenue. Veuillez sélectionner une des options suivantes :::<end>
 ::Initiate the elevator start-up process::<end>
 
 =>a9
-::Lancer le processus de démarrage de l'ascenseur::<end>
+::Lancer le démarrage de l'ascenseur::<end>
 
 =>q10_original
 ::Initiating...
@@ -62,9 +62,9 @@ Bienvenue. Veuillez sélectionner une des options suivantes :::<end>
 Elevator start-up process successfully initiated::<end>
 
 =>q10
-::Initiation...
+::Lancement...
 
-Le processus de démarrage de l'ascenseur a été lancé avec succès::<end>
+Démarrage de l'ascenseur lancé.::<end>
 
 =>a11_original
 ::Back::<end>
@@ -81,18 +81,18 @@ Please check fluid tanks and fluid delivery pump status
 Operation aborted::<end>
 
 =>q12
-::Initiation...
+::Lancement...
 
-Erreur 55: Niveau de fluide hydraulique faible
-S'il vous plaît vérifier l'état des réservoirs de liquide et de la pompe de livraison de liquide
+Erreur 55 : fluide hydraulique trop bas
+Vérifier les réservoirs et la pompe d'alimentation
 
-Opération interrompue::<end>
+Opération annulée::<end>
 
 =>a13_original
 ::Perform a system check::<end>
 
 =>a13
-::Effectuer une vérification du système::<end>
+::Lancer un diagnostic::<end>
 
 =>q14_original
 ::Please wait...
@@ -101,10 +101,10 @@ All systems are up and running
 No errors detected::<end>
 
 =>q14
-::Attendez...
+::Patientez...
 
-Tous les systèmes fonctionnent
-Aucune erreur détectée::<end>
+Tous les systèmes opérationnels
+Aucune erreur::<end>
 
 =>q15_original
 ::Please wait...
@@ -113,10 +113,10 @@ All internal and external systems passed the check successfully
 Elevator start-up process can safely be initiated::<end>
 
 =>q15
-::Attendez...
+::Patientez...
 
-Tous les systèmes internes et externes ont réussi le contrôle
-Le processus de démarrage de l'ascenseur peut être lancé en toute sécurité::<end>
+Systèmes internes et externes : OK
+Le démarrage de l'ascenseur peut être lancé.::<end>
 
 =>q16_original
 ::Please wait...
@@ -127,34 +127,33 @@ Please check fluid tanks and fluid delivery pump status
 ::<end>
 
 =>q16
-::Attendez...
+::Patientez...
 
 1 erreur(s) détectée(s)
-Erreur 55: Niveau de fluide hydraulique faible
-S'il vous plaît vérifier l'état des réservoirs de liquide et de la pompe de livraison de liquide
+Erreur 55 : fluide hydraulique trop bas
+Vérifier les réservoirs et la pompe d'alimentation
 ::<end>
 
 =>a17_original
 ::Exit::<end>
 
 =>a17
-::Sortie::<end>
+::Quitter::<end>
 
 =>q18_original
 ::Even though you possess the parts for the generator, you find it's just too complicated for you to repair it on your own.::<end>
 
 =>q18
-::Même si vous possédez les pièces pour le générateur, vous trouvez qu'il est trop compliqué pour vous de le réparer par vous-même.::<end>
+::Vous avez les pièces, mais le générateur est trop complexe à réparer tout $(#seul/seule).::<end>
 
 =>q19_original
 ::It appears to you that this machine can't be repaired without some spare parts.::<end>
 
 =>q19
-::Il vous semble que cette machine ne peut être réparée sans quelques pièces de rechange.::<end>
+::Sans pièces de rechange, cette machine ne se répare pas.::<end>
 
 =>a20_original
 ::Leave.::<end>
 
 =>a20
 ::Partir.::<end>
-

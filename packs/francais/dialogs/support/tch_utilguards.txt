@@ -18,7 +18,7 @@ Halt, $(#brother/sister), you have entered a restricted area. I will have to ask
 =>q3
 ::La garde vous pousse à rester immobile, puis vous parle d'une voix ferme.::
 
-Halt, $(#brother/sister), vous êtes entré dans une zone réglementée. Je vais devoir vous demander de partir.<end>
+Halt, $(#frère/sœur), vous êtes entré dans une zone réglementée. Je vais devoir vous demander de partir.<end>
 
 =>q4_original
 <end>
@@ -30,13 +30,13 @@ Halt, $(#brother/sister), vous êtes entré dans une zone réglementée. Je vais
 Tchort is evolution.<end>
 
 =>a5
-Tchort est une évolution.<end>
+Tchort est l'évolution.<end>
 
 =>q6_original
 Evolution is Tchort, $(#brother/sister). Now please leave this area. Tchort guide you.<end>
 
 =>q6
-Evolution est Tchort, $(#brother/sister). Maintenant, veuillez quitter cette zone. Tchort vous guide.<end>
+Evolution est Tchort, $(#frère/sœur). Maintenant, veuillez quitter cette zone. Tchort vous guide.<end>
 
 =>a7_original
 What is this area?<end>
@@ -48,7 +48,7 @@ C'est quoi, cette zone ?<end>
 Didn't you hear what I said, $(#brother/sister)? Leave this area.<end>
 
 =>q8
-Tu n'as pas entendu ce que j'ai dit, $(#brother/sister) ? Quittez cette zone.<end>
+Tu n'as pas entendu ce que j'ai dit, $(#frère/sœur) ? Quittez cette zone.<end>
 
 =>a9_original
 Mediant Samuel sent me here.<end>
@@ -60,7 +60,7 @@ Samuel m'a envoyé ici.<end>
 No he didn't, $(#brother/sister), or else we would have known it. Now please leave.<end>
 
 =>q10
-Non, il ne l'a pas fait, $(#brother/sister), sinon on l'aurait su. Partez, s'il vous plaît.<end>
+Non, il ne l'a pas fait, $(#frère/sœur), sinon on l'aurait su. Partez, s'il vous plaît.<end>
 
 =>a11_original
 My bad, I was looking for the toilet. Goodbye.<end>
@@ -96,11 +96,11 @@ Partez. Tout de suite.<end>
 You have been warned, $(#brother/sister).<end>
 
 =>q16
-Vous avez été prévenu, $(#brother/sister).<end>
+Vous avez été prévenu, $(#frère/sœur).<end>
 
 =>q17_original
 $(#Brother/Sister)!<end>
 
 =>q17
-$(#Brother/Sister)!<end>
+$(#Frère/Sœur)!<end>
 

@@ -2,25 +2,25 @@
 I told you I am busy, Corporal. Please leave me to my work.<end>
 
 =>q1
-Je vous ai dit que je suis occupé, caporal. Laissez-moi travailler.<end>
+Je vous ai dit que j'étais occupé, caporal. Laissez-moi à mon travail.<end>
 
 =>q2_original
 ::The major looks at you, keeping his usual, rigid pose.::<end>
 
 =>q2
-::Le major vous regarde en gardant sa pose habituelle et rigide.::<end>
+::Le major vous regarde, toujours aussi raide.::<end>
 
 =>a3_original
 ::Salute him.::<end>
 
 =>a3
-::Saluez-le.::<end>
+::Le saluer.::<end>
 
 =>q4_original
 At ease, Corporal. The ambassador informed me you joined Protectorate forces at Fort Apogee. Congratulations. Tell me, why are you here? Were you sent by the colonel?<end>
 
 =>q4
-À l'aise, caporal. L'ambassadeur m'a informé que vous avez rejoint les forces Protectorate au Fort Apogee. Félicitations. Dites-moi, pourquoi êtes-vous là ? Vous avez été envoyé par le colonel ?<end>
+Repos, caporal. L'ambassadeur m'a informé que vous aviez rejoint les forces du Protectorate à Fort Apogee. Félicitations. Dites-moi, pourquoi êtes-vous ici ? Le colonel vous a-t-il envoyé$(#/e) ?<end>
 
 =>a5_original
 Not really.<end>
@@ -32,7 +32,7 @@ Pas vraiment.<end>
 ::He nods.:: If that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
 
 =>q6
-::Il acquiesce.:: Si c'est le cas, je vais devoir vous demander de me quitter. J'ai beaucoup d'affaires à régler. Vous êtes renvoyé, caporal.<end>
+::Il hoche la tête.:: Dans ce cas, je dois vous demander de me laisser. J'ai beaucoup à faire. Rompez, caporal.<end>
 
 =>q7_original
 <end>
@@ -44,13 +44,13 @@ Pas vraiment.<end>
 ::Salute and leave.::<end>
 
 =>a8
-::Saluez et partez.::<end>
+::Saluer et partir.::<end>
 
 =>a9_original
 Goodbye, Major.<end>
 
 =>a9
-Au revoir, commandant.<end>
+Au revoir, major.<end>
 
 =>a10_original
 No, sir.<end>
@@ -62,19 +62,19 @@ Non, monsieur.<end>
 I just came to see what's up.<end>
 
 =>a11
-Je suis juste venu voir ce qui se passe.<end>
+Je passais voir ce qui se passait.<end>
 
 =>q12_original
 To see what's *up*? I see. Well, if that is the case, I am going to have to ask you to leave me. I have much business to attend to. You are dismissed, Corporal.<end>
 
 =>q12
-Pour voir ce qui se passe ? Je vois. Si c'est le cas, je vais devoir vous demander de me quitter. J'ai beaucoup d'affaires à régler. Vous êtes renvoyé, caporal.<end>
+Voir ce qui se *passe* ? Je vois. Dans ce cas, je dois vous demander de me laisser. J'ai beaucoup à faire. Rompez, caporal.<end>
 
 =>a13_original
 Major.<end>
 
 =>a13
-Commandant.<end>
+Major.<end>
 
 =>a14_original
 ::Leave.::<end>
@@ -88,7 +88,7 @@ Commandant.<end>
 He calls you back into his office.::<end>
 
 =>q15
-::Comme vous vous y attendiez, votre attente a été assez longue. Vous avez passé votre temps à marcher et observer les gens autour de vous. Le major a quitté son bureau peu après que vous ayez parlé et disparu dans l'ascenseur à l'arrière de l'avant-poste. Enfin, après la longue attente, la porte de l'ascenseur s'ouvre, et le major émerge avec le même visage qu'il portait quand il est parti.
+::Comme prévu, l'attente a été longue. Vous avez surtout marché, et observé les gens autour de vous. Le major a quitté son bureau peu après votre entretien et a disparu dans l'ascenseur, au fond de l'avant-poste. Enfin, après cette longue attente, la porte de l'ascenseur s'ouvre. Le major en sort, le même visage qu'à l'aller.
 
 Il vous rappelle dans son bureau.::<end>
 
@@ -96,31 +96,31 @@ Il vous rappelle dans son bureau.::<end>
 I have just been informed that the train has been recovered successfully and is on its way to this location. Additionally, everything you told me has been confirmed to be true.<end>
 
 =>q16
-Je viens d'être informé que le train a été récupéré avec succès et est en route vers cet endroit. De plus, tout ce que vous m'avez dit a été confirmé.<end>
+Je viens d'être informé que le train a bien été récupéré et qu'il est en route vers ici. Par ailleurs, tout ce que vous m'avez dit s'est avéré exact.<end>
 
 =>a17_original
 You doubted me?<end>
 
 =>a17
-Tu doutais de moi ?<end>
+Vous doutiez de moi ?<end>
 
 =>q18_original
 Of course.<end>
 
 =>q18
-Bien sûr.<end>
+Évidemment.<end>
 
 =>a19_original
 Now what happens?<end>
 
 =>a19
-Maintenant, que se passe-t-il ?<end>
+Et maintenant ?<end>
 
 =>q20_original
 You are now free to go back to the captain. Tell him that his supplies will arrive in approximately two weeks.<end>
 
 =>q20
-Vous êtes maintenant libre de retourner au capitaine. Dites-lui que ses provisions arriveront dans environ deux semaines.<end>
+Vous pouvez rejoindre le capitaine. Dites-lui que son ravitaillement arrivera dans environ deux semaines.<end>
 
 =>a21_original
 Two weeks? That's too long.<end>
@@ -132,25 +132,25 @@ Deux semaines ? C'est trop long.<end>
 I'm afraid it takes some time for the investigation to complete. The cargo needs to be rechecked, paperwork needs to be finished, and plethora of other procedures I won't go into. Two weeks, no more.<end>
 
 =>q22
-J'ai bien peur que ça prenne du temps pour l'enquête. La cargaison doit être revérifiée, la paperasse doit être finie, et une pléthore d'autres procédures que je n'entrerai pas. Deux semaines, pas plus.<end>
+J'ai bien peur que l'enquête prenne du temps. Il faut revérifier la cargaison, terminer la paperasse, et une kyrielle d'autres procédures dans lesquelles je n'entrerai pas. Deux semaines, pas davantage.<end>
 
 =>a23_original
 Okay, I'll tell him that.<end>
 
 =>a23
-Je vais lui dire ça.<end>
+Très bien, je lui dirai.<end>
 
 =>q24_original
 Before you leave, I have something to tell you: I discussed this whole case with Ambassador Athanas, and he was rather intrigued, shall we say, by your performance. He wishes to speak with you; you can find him in his office in the embassy, which you can get to using the elevator.<end>
 
 =>q24
-Avant de partir, j'ai quelque chose à vous dire : j'ai discuté de toute cette affaire avec l'Ambassadeur Athanas, et il a été plutôt intrigué, disons, par votre comportement. Il veut vous parler; vous pouvez le trouver dans son bureau à l'ambassade, que vous pouvez obtenir à l'aide de l'ascenseur.<end>
+Avant que vous partiez, une chose : j'ai évoqué toute cette affaire avec l'ambassadeur Athanas, et il s'est montré plutôt... disons, intrigué par la façon dont vous avez mené cette affaire. Il souhaite vous parler. Vous le trouverez dans son bureau, à l'ambassade ; l'ascenseur y mène.<end>
 
 =>a25_original
 Thanks, I'll do that.<end>
 
 =>a25
-Merci, je vais le faire.<end>
+Merci, j'y vais.<end>
 
 =>q26_original
 Do not keep the ambassador waiting. Also, do note: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. 
@@ -158,7 +158,7 @@ Do not keep the ambassador waiting. Also, do note: You must holster all your wea
 That is all.<end>
 
 =>q26
-Ne faites pas attendre l'ambassadeur. Notez également que vous devez ranger toutes vos armes, grenades et autres dispositifs dangereux dans les locaux de l'ambassade.
+Ne faites pas attendre l'ambassadeur. Notez également : vous devez ranger toutes vos armes, grenades et autres dispositifs dangereux dans l'enceinte de l'ambassade.
 
 C'est tout.<end>
 
@@ -168,9 +168,9 @@ C'est tout.<end>
 Greetings. I'm Major Clifton, commanding officer of South Railroad Outpost. What can I do for you?<end>
 
 =>q27
-::L'expression de cet officier est sévère. Stiff comme un rail et tout aussi droit, il vous inspecte silencieusement. Le scan est cependant bref; son accomplissement l'incite à lever légèrement son menton et à vous adresser avec un ton formel de voix. Sa posture rigide reste inchangée tout au long de la conversation.::
+::L'expression de cet officier est sévère. Raide comme un rail, et tout aussi droit, il vous inspecte en silence. Le balayage est bref, toutefois : une fois achevé, il relève légèrement le menton et s'adresse à vous d'un ton formel. Sa pose, elle, ne change pas d'un pouce pendant toute la conversation.::
 
-Bonjour. Je suis le major Clifton, commandant de l'avant-poste South Railroad. Que puis-je pour vous ?<end>
+Bonjour. Je suis le major Clifton, officier commandant de South Railroad Outpost. Que puis-je pour vous ?<end>
 
 =>q28_original
 <end>
@@ -188,19 +188,19 @@ J'ai trouvé votre train disparu.<end>
 You what? I thought I explicitly told you not to interfere with an official Protectorate investigation.<end>
 
 =>q30
-Quoi ? Je pensais t'avoir explicitement dit de ne pas interférer avec une enquête officielle Protectorate.<end>
+Vous avez quoi ? Je pensais vous avoir dit explicitement de ne pas interférer dans une enquête officielle du Protectorate.<end>
 
 =>a31_original
 Do you want me to tell you what happened to the train or not?<end>
 
 =>a31
-Tu veux que je te dise ce qui est arrivé au train ou pas ?<end>
+Vous voulez que je vous dise ce qui est arrivé au train, ou pas ?<end>
 
 =>q32_original
 ::He pauses, maintaining his stare. A few seconds passes before he answers you.:: Alright, tell me what happened.<end>
 
 =>q32
-::Il s'arrête, garde son regard. Quelques secondes passent avant qu'il ne vous réponde.:: Dites-moi ce qui s'est passé.<end>
+::Il s'interrompt, sans vous quitter des yeux. Quelques secondes passent avant qu'il réponde.:: Très bien. Dites-moi ce qui s'est passé.<end>
 
 =>q33_original
 <end>
@@ -212,25 +212,25 @@ Tu veux que je te dise ce qui est arrivé au train ou pas ?<end>
 It was hijacked by a group of armed bandits. I found no live or dead Protectorate personnel.<end>
 
 =>a34
-Il a été détourné par un groupe de bandits armés. Je n'ai trouvé personne vivant ou mort Protectorate.<end>
+Il a été détourné par un groupe de bandits armés. Je n'ai trouvé aucun personnel du Protectorate, ni vivant ni mort.<end>
 
 =>q35_original
 Have you managed to identify the hijackers?<end>
 
 =>q35
-Avez-vous réussi à identifier les pirates ?<end>
+Avez-vous réussi à identifier les auteurs du détournement ?<end>
 
 =>a36_original
 Yes, it's the Free Drones.<end>
 
 =>a36
-Oui, c'est le Free Drones.<end>
+Oui. Les Free Drones.<end>
 
 =>q37_original
 Free Drones? Say no more. Just give me the location and the Protectorate will take care of this. The train operators and soldiers have certainly been killed and ditched somewhere along the way, sadly.<end>
 
 =>q37
-Free Drones ? Ne dis plus rien. Donnez-moi l'emplacement et le Protectorate s'en occupera. Les opérateurs de trains et les soldats ont certainement été tués et abandonnés quelque part en chemin, malheureusement.<end>
+Les Free Drones ? N'en dites pas davantage. Donnez-moi l'emplacement, le Protectorate s'occupera du reste. Les conducteurs et les soldats ont certainement été tués et abandonnés quelque part en chemin, malheureusement.<end>
 
 =>q38_original
 <end>
@@ -242,37 +242,37 @@ Free Drones ? Ne dis plus rien. Donnez-moi l'emplacement et le Protectorate s'en
 I took care of the hijackers. You just need to get your train. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse.<end>
 
 =>a39
-Je me suis occupé des pirates. Tu dois juste prendre ton train. C'est au sud de Rail Crossing ; il y a un virage à l'ouest en une grotte et à ce qui semble être un entrepôt.<end>
+J'ai réglé le problème des ravisseurs. Il ne vous reste plus qu'à récupérer le train. C'est au sud de Rail Crossing ; il y a une bifurcation vers l'ouest, dans une grotte, jusqu'à ce qui ressemble à un entrepôt.<end>
 
 =>q40_original
 Well done. We'll take care of the rest. I'll order troops to reacquire the train and the supplies without delay. <end>
 
 =>q40
-Bien joué. Nous nous occuperons du reste. J'ordonne aux troupes de récupérer le train et les fournitures sans délai. <end>
+Bien. Nous nous chargeons du reste. Je vais ordonner aux troupes de reprendre le train et le ravitaillement sans délai. <end>
 
 =>q41_original
 You will wait here until they return.<end>
 
 =>q41
-Vous allez attendre ici jusqu'à leur retour.<end>
+Vous attendrez ici jusqu'à leur retour.<end>
 
 =>a42_original
 ::Wait.::<end>
 
 =>a42
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>a43_original
 It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. But there is one problem, the hijackers destroyed the train. One of them used explosives and... the train and the supplies are no more.<end>
 
 =>a43
-C'est au sud de Rail Crossing ; il y a un virage à l'ouest en une grotte et à ce qui semble être un entrepôt. Mais il y a un problème, les pirates ont détruit le train. L'un d'eux utilisait des explosifs et... le train et les fournitures ne sont plus.<end>
+C'est au sud de Rail Crossing ; une bifurcation vers l'ouest, dans une grotte, jusqu'à ce qui ressemble à un entrepôt. Mais il y a un problème : les ravisseurs ont détruit le train. L'un d'eux a utilisé des explosifs, et... le train et le ravitaillement n'existent plus.<end>
 
 =>q44_original
 That is bad news. I'll send some men to assess the damage and see if there is anything salvageable. As for you, I believe you'll have an interesting time explaining to Captain Herve that he's not getting his supplies.<end>
 
 =>q44
-C'est une mauvaise nouvelle. J'enverrai des hommes évaluer les dégâts et voir s'il y a quelque chose de récupérable. Quant à vous, je crois que vous aurez un moment intéressant pour expliquer au capitaine Herve qu'il n'a pas ses provisions.<end>
+Voilà qui est fâcheux. J'enverrai des hommes évaluer les dégâts et voir s'il reste quelque chose à récupérer. Quant à vous, je crois que vous allez passer un moment intéressant à expliquer au capitaine Herve qu'il n'aura pas son ravitaillement.<end>
 
 =>q45_original
 That is all.<end>
@@ -284,97 +284,97 @@ C'est tout.<end>
 It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The hijackers are still alive.<end>
 
 =>a46
-C'est au sud de Rail Crossing ; il y a un virage à l'ouest en une grotte et à ce qui semble être un entrepôt. Les pirates sont toujours en vie.<end>
+C'est au sud de Rail Crossing ; une bifurcation vers l'ouest, dans une grotte, jusqu'à ce qui ressemble à un entrepôt. Les ravisseurs sont toujours en vie.<end>
 
 =>q47_original
 Our troops will take care of it, but we will have to act quick.<end>
 
 =>q47
-Nos troupes s'en occuperont, mais nous devrons agir rapidement.<end>
+Nos troupes s'en chargeront, mais il va falloir faire vite.<end>
 
 =>q48_original
 You will wait here until they return.<end>
 
 =>q48
-Vous allez attendre ici jusqu'à leur retour.<end>
+Vous attendrez ici jusqu'à leur retour.<end>
 
 =>a49_original
 No, I didn't.<end>
 
 =>a49
-Non, pas du tout.<end>
+Non, je n'ai pas pu.<end>
 
 =>q50_original
 Okay. Just give me the location and we will take care of it. The train operators and soldiers have likely been killed and ditched somewhere along the way, sadly.<end>
 
 =>q50
-Très bien. Donnez-moi l'emplacement et on s'en occupera. Les opérateurs de train et les soldats ont probablement été tués et abandonnés quelque part en chemin, malheureusement.<end>
+Très bien. Donnez-moi l'emplacement, nous nous en chargeons. Les conducteurs et les soldats ont probablement été tués et abandonnés quelque part en chemin, malheureusement.<end>
 
 =>a51_original
 Free Drones hijacked the train. Also, I found no live or dead Protectorate personnel.<end>
 
 =>a51
-Free Drones a détourné le train. En outre, je n'ai trouvé aucun membre vivant ou mort Protectorate.<end>
+Les Free Drones ont détourné le train. Et je n'ai trouvé aucun personnel du Protectorate, ni vivant ni mort.<end>
 
 =>a52_original
 In that case, you don't need me to tell you what happened to the train, right?<end>
 
 =>a52
-Dans ce cas, vous n'avez pas besoin que je vous dise ce qui est arrivé au train, non ?<end>
+Dans ce cas, vous n'avez pas besoin que je vous dise ce qui est arrivé au train, n'est-ce pas ?<end>
 
 =>q53_original
 Don't act like a smartass with me, $(#boy/girl). Tell me what happened.<end>
 
 =>q53
-Ne fais pas le malin avec moi, $(#boy/girl). Dites-moi ce qui s'est passé.<end>
+Ne jouez pas les malins avec moi, $(#gars/fille). Dites-moi ce qui s'est passé.<end>
 
 =>q54_original
 The-- Excuse me? How do you know about that?<end>
 
 =>q54
-Excusez-moi ? Comment tu sais ça ?<end>
+Le... Pardon ? Comment savez-vous ça ?<end>
 
 =>a55_original
 Captain Herve from Rail Crossing wanted me to find out what happened to it.<end>
 
 =>a55
-Le capitaine Herve de Rail Crossing voulait que je découvre ce qui lui est arrivé.<end>
+Le capitaine Herve, de Rail Crossing, voulait que je découvre ce qui lui était arrivé.<end>
 
 =>q56_original
 ::He nods.:: Makes sense. Alright, speak. What happened to the train?<end>
 
 =>q56
-::Il acquiesce.:: C'est logique. Très bien, parle. Qu'est-il arrivé au train ?<end>
+::Il hoche la tête.:: Logique. Très bien, parlez. Qu'est-il arrivé au train ?<end>
 
 =>a57_original
 I am very clever.<end>
 
 =>a57
-Je suis très malin.<end>
+Je suis très $(#malin/maligne).<end>
 
 =>q58_original
 You don't want to joke with me; the consequences could be dire, understand? Now I'll repeat the question: How do you know about the train?<end>
 
 =>q58
-Vous ne voulez pas plaisanter avec moi ; les conséquences pourraient être terribles, compris ? Maintenant je vais répéter la question : comment savez-vous pour le train ?<end>
+Vous n'avez pas intérêt à plaisanter avec moi. Les conséquences pourraient être graves, compris ? Je répète donc la question : comment savez-vous pour le train ?<end>
 
 =>a59_original
 Where does the elevator in the back go to?<end>
 
 =>a59
-Où va l'ascenseur à l'arrière ?<end>
+Où mène l'ascenseur, au fond ?<end>
 
 =>q60_original
 It goes down to the Junkyard embassy. Why do you ask?<end>
 
 =>q60
-Il descend à l'ambassade Junkyard. Pourquoi ?<end>
+Il descend à l'ambassade de Junkyard. Pourquoi cette question ?<end>
 
 =>a61_original
 Can I use it to get down?<end>
 
 =>a61
-Je peux l'utiliser pour descendre ?<end>
+Puis-je l'utiliser pour descendre ?<end>
 
 =>q62_original
 You did help us with the train...<end>
@@ -386,7 +386,7 @@ Vous nous avez aidés avec le train...<end>
 I suppose I can allow it; you are free to use it. Just remember one thing: You must holster all your weapons, grenades and other dangerous devices while on the embassy premises. Failure to do that will result in you use of lethal force.<end>
 
 =>q63
-Je suppose que je peux l'autoriser; vous êtes libre de l'utiliser. Souviens-toi d'une chose : Vous devez ranger toutes vos armes, grenades et autres dispositifs dangereux dans les locaux de l'ambassade. Si vous ne le faites pas, vous aurez recours à la force mortelle.<end>
+Je suppose que je peux l'autoriser. Vous êtes libre de l'utiliser. Un seul rappel : vous devez ranger toutes vos armes, grenades et autres dispositifs dangereux dans l'enceinte de l'ambassade. À défaut, il sera fait usage de la force létale.<end>
 
 =>q64_original
 That is all.<end>
@@ -398,25 +398,25 @@ C'est tout.<end>
 No reason. Let's discuss something else.<end>
 
 =>a65
-Aucune raison. Parlons d'autre chose.<end>
+Pour rien. Parlons d'autre chose.<end>
 
 =>q66_original
 Fine.<end>
 
 =>q66
-Très bien.<end>
+Soit.<end>
 
 =>a67_original
 I was sent by Captain Herve again to ask when will he get his supplies.<end>
 
 =>a67
-J'ai été envoyé par le capitaine Herve de nouveau pour demander quand va-t-il obtenir ses provisions.<end>
+Le capitaine Herve m'envoie encore : il veut savoir quand il aura son ravitaillement.<end>
 
 =>q68_original
 The train has been recovered successfully. I realize the situation the captain is in, and that he's impatient, but the process takes time. Tell him that he'll get his supplies in no more than two weeks. <end>
 
 =>q68
-Le train a été récupéré avec succès. Je réalise la situation dans laquelle se trouve le capitaine, et qu'il est impatient, mais le processus prend du temps. Dis-lui qu'il aura ses provisions dans deux semaines. <end>
+Le train a bien été récupéré. Je comprends la situation du capitaine, et son impatience, mais la procédure prend du temps. Dites-lui qu'il aura son ravitaillement dans deux semaines tout au plus. <end>
 
 =>a69_original
 I'd like to talk to you about a train that was supposed to arrive in Rail Crossing.<end>
@@ -428,25 +428,25 @@ J'aimerais vous parler d'un train qui devait arriver à Rail Crossing.<end>
 Yes, Captain Herve sent you here, I presume. Well, the train did leave at the designated time.<end>
 
 =>q70
-Oui, le capitaine Herve vous a envoyé ici, je suppose. Le train est parti à l'heure prévue.<end>
+Oui, le capitaine Herve vous a envoyé$(#/e) ici, je présume. Le train est bien parti à l'heure prévue.<end>
 
 =>a71_original
 But, it never arrived to Rail Crossing. You know what it was loaded with.<end>
 
 =>a71
-Mais il n'est jamais arrivé à Rail Crossing. Tu sais de quoi il était chargé.<end>
+Mais il n'est jamais arrivé à Rail Crossing. Vous savez ce qu'il transportait.<end>
 
 =>q72_original
 Of course I do, and I am well aware it never reached its destination. We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
 
 =>q72
-Bien sûr que oui, et je sais bien qu'il n'a jamais atteint sa destination. On s'en occupe. Dites au capitaine ce qui s'est passé une fois notre enquête terminée. Nous nous excusons, mais c'est notre préoccupation; nos hommes étaient dans ce train, et notre équipement aussi, donc nous allons nous en occuper. C'est tout.<end>
+Évidemment, et je n'ignore pas qu'il n'a jamais atteint sa destination. Nous nous en occupons. Dites au capitaine que nous l'informerons une fois l'enquête close. Nous regrettons, mais c'est notre affaire : nos hommes étaient dans ce train, notre matériel aussi. Nous nous en chargeons. C'est tout.<end>
 
 =>a73_original
 And now what? Captain Herve just has to wait for you to take your sweet time and eventually "look into it"?<end>
 
 =>a73
-Et maintenant ? Le capitaine Herve n'a qu'à attendre que vous preniez votre temps doux et éventuellement "regardez-le" ?<end>
+Et maintenant ? Le capitaine Herve n'a qu'à attendre que vous preniez votre temps, et que vous daigniez « vous en occuper » ?<end>
 
 =>q74_original
 He'll have to wait. I am not obliged to give you any explanations.
@@ -454,7 +454,7 @@ He'll have to wait. I am not obliged to give you any explanations.
 Is that all?<end>
 
 =>q74
-Il devra attendre. Je ne suis pas obligé de vous donner des explications.
+Il devra attendre. Je ne vous dois aucune explication.
 
 C'est tout ?<end>
 
@@ -462,7 +462,7 @@ C'est tout ?<end>
 And when will that be?<end>
 
 =>a75
-Et quand ?<end>
+Et ce sera quand ?<end>
 
 =>q76_original
 I am not able to give you a specific time. As I've said it already, we'll inform the captain.
@@ -470,7 +470,7 @@ I am not able to give you a specific time. As I've said it already, we'll inform
 Is that all?<end>
 
 =>q76
-Je ne peux pas vous donner de temps précis. Comme je l'ai déjà dit, nous en informerons le capitaine.
+Je ne peux pas vous donner d'échéance précise. Comme je l'ai déjà dit, nous informerons le capitaine.
 
 C'est tout ?<end>
 
@@ -478,7 +478,7 @@ C'est tout ?<end>
 I'll tell him that.<end>
 
 =>a77
-Je vais lui dire ça.<end>
+Je lui dirai.<end>
 
 =>q78_original
 Please do. 
@@ -486,7 +486,7 @@ Please do.
 Is that all?<end>
 
 =>q78
-S'il vous plaît.
+Faites.
 
 C'est tout ?<end>
 
@@ -494,13 +494,13 @@ C'est tout ?<end>
 So, where is it now?<end>
 
 =>a79
-Alors, où est-il maintenant ?<end>
+Alors, où est-il, maintenant ?<end>
 
 =>q80_original
 We're looking into it. Tell the captain we'll inform him what happened once we've completed our investigation. We apologize, but this is our concern; our men were on that train, and so was our equipment, so we'll deal with it. That is all.<end>
 
 =>q80
-On s'en occupe. Dites au capitaine ce qui s'est passé une fois notre enquête terminée. Nous nous excusons, mais c'est notre préoccupation; nos hommes étaient dans ce train, et notre équipement aussi, donc nous allons nous en occuper. C'est tout.<end>
+Nous nous en occupons. Dites au capitaine que nous l'informerons une fois l'enquête close. Nous regrettons, mais c'est notre affaire : nos hommes étaient dans ce train, notre matériel aussi. Nous nous en chargeons. C'est tout.<end>
 
 =>a81_original
 What can you tell me about this place?<end>
@@ -512,7 +512,7 @@ Que pouvez-vous me dire sur cet endroit ?<end>
 You are currently located in South Railroad Outpost, Underrail Protectorate's southernmost outpost and one of the most strategically significant positions in the region. South Railroad Outpost acts as a connection between Lower Underrail metro and our Junkyard embassy, as the elevator leading to it is under our control. This position allows us to further maintain order and safety of our citizens, as well of stations that are due to become members of United Stations.<end>
 
 =>q82
-Vous êtes actuellement situé à South Railroad Outpost, Underrail Protectorate et l'une des positions les plus stratégiques de la région. South Railroad Outpost agit comme une connexion entre le métro Lower Underrail et notre ambassade Junkyard, comme l'ascenseur qui mène à elle est sous notre contrôle. Cette position nous permet de maintenir l'ordre et la sécurité de nos citoyens, ainsi que des stations qui doivent devenir membres de United Stations.<end>
+Vous vous trouvez à South Railroad Outpost, l'avant-poste le plus au sud de l'Underrail Protectorate, et l'une des positions les plus stratégiques de la région. South Railroad Outpost assure la liaison entre le métro du Lower Underrail et notre ambassade de Junkyard, l'ascenseur y menant étant sous notre contrôle. Cette position nous permet de maintenir l'ordre et la sécurité de nos citoyens, ainsi que des stations destinées à rejoindre les United Stations.<end>
 
 =>q83_original
 That is all.<end>
@@ -524,7 +524,7 @@ C'est tout.<end>
 It's classified.<end>
 
 =>q84
-C'est confidentiel.<end>
+C'est classifié.<end>
 
 =>q85_original
 Is that all?<end>
@@ -536,29 +536,29 @@ C'est tout ?<end>
 Do you know anything about the Free Drones?<end>
 
 =>a86
-Savez-vous quelque chose sur le Free Drones ?<end>
+Vous savez quelque chose sur les Free Drones ?<end>
 
 =>q87_original
 Free Drones are an anarchist movement that originated in North Underrail and have begun to spread in the South recently as well. Their sole purpose is to oppose Protectorate and the unification of stations, calling it oppression and other ridiculous terms. They supposedly fight for freedom, but in fact they are nothing but a gang of deluded vandals. All who disagree with their world views are deemed brainwashed and are regarded as lesser beings, as evidenced by the brutal treatment they frequently receive.<end>
 
 =>q87
-Free Drones est un mouvement anarchiste originaire du Nord Underrail et qui a commencé à se propager dans le Sud récemment. Leur seul but est de s'opposer à Protectorate et à l'unification des stations, l'appelant oppression et autres termes ridicules. Ils se battent pour la liberté, mais en fait ils ne sont qu'une bande de vandalistes trompés. Tous ceux qui sont en désaccord avec leur vision du monde sont considérés comme ayant subi un lavage de cerveau et sont considérés comme des êtres inférieurs, comme en témoigne le traitement brutal qu'ils reçoivent fréquemment.<end>
+Les Free Drones sont un mouvement anarchiste né dans le North Underrail, qui a commencé à se répandre récemment dans le Sud. Leur seul but est de s'opposer au Protectorate et à l'unification des stations, en parlant d'oppression et d'autres termes ridicules. Ils prétendent se battre pour la liberté ; en réalité, ce n'est qu'une bande de vandales égarés. Quiconque ne partage pas leur vision du monde est taxé de lavage de cerveau et traité comme un être inférieur, comme en témoigne la brutalité dont ils font régulièrement preuve.<end>
 
 =>q88_original
 If you suspect someone to be a member of the Free Drones or otherwise possess any information on them, please inform us.<end>
 
 =>q88
-Si vous soupçonnez quelqu'un d'être membre du Free Drones ou de posséder d'autres informations à leur sujet, veuillez nous en informer.<end>
+Si vous soupçonnez quelqu'un d'appartenir aux Free Drones, ou si vous détenez la moindre information à leur sujet, informez-nous.<end>
 
 =>a89_original
 See you around. Bye.<end>
 
 =>a89
-A bientôt. Au revoir.<end>
+À bientôt. Au revoir.<end>
 
 =>q90_original
 Speak to me.<end>
 
 =>q90
-Parle-moi.<end>
+Je vous écoute.<end>
 

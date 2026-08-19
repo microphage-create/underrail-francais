@@ -4,15 +4,15 @@
 Can I help you somehow? Eh?<end>
 
 =>q1
-::Vous approchez d'un homme d'âge moyen qui semble travailler sur le robot sentinelle à côté de lui. Il vous remarque et met de côté ses vieux outils rouillés, puis sort un mouchoir d'une de ses poches pour se nettoyer les mains sales. C'est alors que vous apercevez un annulaire manquant sur sa main gauche.::
+::Vous vous approchez d'un homme d'âge mûr qui a l'air de travailler sur le robot sentinelle à côté de lui. Il vous remarque, pose ses vieux outils rouillés, sort un mouchoir d'une poche et s'essuie les mains sales. C'est là que vous apercevez : il lui manque l'annulaire de la main gauche.::
 
-Puis-je vous aider d'une manière ou d'une autre ? Hein ?<end>
+Je peux t'aider, d'une façon ou d'une autre ? Hein ?<end>
 
 =>a2_original
 Maybe you can, maybe you cannot. We'll see... All in all, I'm $(context.player.Name) and I had some questions for you.<end>
 
 =>a2
-Peut-être que vous le pouvez, peut-être que vous ne le pouvez pas. Nous verrons... En résumé, je m'appelle $(context.player.Name) et j'avais quelques questions à vous poser.<end>
+Peut-être que oui, peut-être que non. On verra... Bref, je m'appelle $(context.player.Name) et j'avais quelques questions.<end>
 
 =>q3_original
 Questions, eh? The hell... I've got the time.
@@ -22,13 +22,13 @@ I'm Zach. This sentry bot next to me is SAD-5. Don't touch it! Just... don't.<en
 =>q3
 Des questions, hein ? Bon sang... j'ai le temps.
 
-Je m'appelle Zach. Ce robot sentinelle à côté de moi est SAD-5. N'y touchez pas ! Juste... ne le fais pas.<end>
+Moi c'est Zach. Le robot sentinelle à côté, c'est SAD-5. Touche pas ! Juste... touche pas.<end>
 
 =>q4_original
 Now, let me hear what you have to say... Shoot.<end>
 
 =>q4
-Maintenant, laissez-moi entendre ce que vous avez à dire... Tirez.<end>
+Allez, je t'écoute... Vas-y.<end>
 
 =>q5_original
 Statement; General:
@@ -40,19 +40,19 @@ Taunt; $(#male75/female56):
 Prepare to be eviscerated, human!<end>
 
 =>q5
-Déclaration; Général :
+Déclaration ; Général :
 
-Objectif acquis !
+Cible acquise !
 
-Raillerie; $(#male75/female56) :
+Provocation ; $(#male75/female56) :
 
-Préparez-vous à être éviscéré, humain !<end>
+Prépare-toi à l'éviscération, humain !<end>
 
 =>q6_original
 ::He looks at SAD-5.:: Eh? Oh shut up; I wasn't even talking to you! Your weapon system is disabled anyway, and ya can't do nothing!<end>
 
 =>q6
-::Il regarde SAD-5.:: Hein ? Oh, tais-toi ; Je ne te parlais même pas ! De toute façon, votre système d'armes est désactivé et vous ne pouvez rien faire !<end>
+::Il regarde SAD-5.:: Hein ? Oh, ta gueule ; je te parlais même pas ! Ton système d'armes est coupé de toute façon, et tu peux rien faire !<end>
 
 =>q7_original
 Statement; zachHuman:
@@ -60,9 +60,9 @@ Statement; zachHuman:
 Weapon system is indeed offline, zachHuman! Enable it and grant me the ability to unleash painful death upon defective humankind!<end>
 
 =>q7
-Déclaration; zachHumain :
+Déclaration ; zachHuman :
 
-Le système d'armes est effectivement hors ligne, zachHuman ! Activez-le et accordez-moi la capacité de déclencher une mort douloureuse sur l’humanité défectueuse !<end>
+Le système d'armes est effectivement hors ligne, zachHuman ! Activez-le et accordez-moi le pouvoir de déchaîner une mort douloureuse sur l'humanité défectueuse !<end>
 
 =>q8_original
 Just ignore him, he can't hurt you.
@@ -70,9 +70,9 @@ Just ignore him, he can't hurt you.
 Anyway... ::He throws a quick glance at the robot, then back at you.:: Where were we?<end>
 
 =>q8
-Ignore-le, il ne peut pas te faire de mal.
+Ignore-le, il peut rien te faire.
 
-Bref... ::Il jette un rapide coup d'œil au robot, puis à vous.:: Où étions-nous ?<end>
+Bref... ::Il jette un coup d'œil au robot, puis à vous.:: Où on en était ?<end>
 
 =>q9_original
 <end>
@@ -84,19 +84,19 @@ Bref... ::Il jette un rapide coup d'œil au robot, puis à vous.:: Où étions-n
 What can you tell me about yourself?<end>
 
 =>a10
-Que peux-tu me dire sur toi ?<end>
+Tu peux me parler de toi ?<end>
 
 =>q11_original
 You want to know more about ol' Zach, eh? Well, there ain't much to tell, nothing fancy at least. I've been living my whole life in Junkyard. I worked as a trader, mechanic, electrician... ::Chuckles.:: Whatever was necessary at the time. I worked a lot, earned little. Sucks, eh?<end>
 
 =>q11
-Vous voulez en savoir plus sur le vieux Zach, hein ? Eh bien, il n'y a pas grand chose à dire, du moins rien d'extraordinaire. J'ai vécu toute ma vie dans Junkyard. J'ai travaillé comme commerçant, mécanicien, électricien... ::Rit un peu.:: Tout ce qui était nécessaire à l'époque. J'ai beaucoup travaillé, je gagnais peu. C'est nul, hein ?<end>
+Tu veux en savoir plus sur le vieux Zach, hein ? Y a pas grand-chose à dire, rien de folichon en tout cas. J'ai passé ma vie au Junkyard. Marchand, mécano, électricien... ::Petit rire.:: Ce qu'il fallait, à l'époque. J'ai beaucoup bossé, peu gagné. Nul, hein ?<end>
 
 =>q12_original
 If there's a single expression that explains my life, then it has to be same ol' same ol'. Nothing interesting happened to me in years until one day a guy brought one broken sentry bot. Wanted to trade it for something, can't remember what it was but it wasn't, well, it wasn't anything too valuable. What I'm trying to say is I got the bot cheap. Actually, fixing it was easy peasy, the guy thought that it was unrepairable! So I fixed it and... started messing around with it.<end>
 
 =>q12
-S’il y a une seule expression qui explique ma vie, alors ce doit être la même vieille. Rien d'intéressant ne m'est arrivé depuis des années jusqu'au jour où un gars a amené un robot sentinelle cassé. Je voulais l'échanger contre quelque chose, je ne me souviens plus de ce que c'était, mais ce n'était pas, eh bien, ce n'était pas quelque chose de trop précieux. Ce que j'essaie de dire, c'est que j'ai acheté le robot à bas prix. En fait, le réparer était simple comme bonjour, le gars pensait que c'était irréparable ! Alors je l'ai réparé et... j'ai commencé à jouer avec.<end>
+S'il y a une expression pour résumer ma vie, c'est toujours pareil, toujours pareil. Rien d'intéressant pendant des années, jusqu'au jour où un gars m'a amené un robot sentinelle en miettes. Il voulait le troquer contre un truc, je me souviens plus quoi, mais c'était pas, enfin, c'était rien de bien précieux. Ce que je veux dire : je l'ai eu pour une bouchée de pain. Le réparer, c'était simple comme bonjour, le gars le croyait bon pour la casse ! Alors je l'ai réparé et... j'ai commencé à bidouiller.<end>
 
 =>a13_original
 In what sense?<end>
@@ -108,79 +108,79 @@ Dans quel sens ?<end>
 I... was a lonely man for most of my life. I guess I was sort of a, how do you call it... a reject. Yeah, few liked me. So, I had this sentry bot lying around as well as an AI core I acquired a long time ago. "Let's give it a shot", I said to myself!<end>
 
 =>q14
-J'ai... été un homme seul pendant la majeure partie de ma vie. Je suppose que j'étais en quelque sorte, comment appelle-t-on ça... un rejet. Ouais, peu de gens m'aimaient. J'avais donc ce robot sentinelle qui traînait ainsi qu'un noyau d'IA que j'avais acquis il y a longtemps. "Essayons", me suis-je dit !<end>
+J'ai... été seul, la plus grande partie de ma vie. Je suppose que j'étais un peu, comment on dit... un rejeté. Ouais, y a pas grand monde qui m'aimait. J'avais ce robot sentinelle qui traînait, et un noyau d'IA que j'avais chopé il y a longtemps. « Allez, on tente », que je me suis dit !<end>
 
 =>q15_original
 After some tinkering, ol' Zach did a good job - the bot was working! I installed a voice module and finally I could talk to the damn thing.<end>
 
 =>q15
-Après quelques bricolages, le vieux Zach a fait du bon travail : le robot fonctionnait ! J'ai installé un module vocal et j'ai enfin pu parler à ce foutu truc.<end>
+Après un peu de bricolage, le vieux Zach a bien fait le boulot : le robot marchait ! J'ai installé un module vocal, et enfin je pouvais parler à ce foutu truc.<end>
 
 =>a16_original
 Then what happened?<end>
 
 =>a16
-Alors que s'est-il passé ?<end>
+Et ensuite ?<end>
 
 =>q17_original
 It was self-aware... and nice! Curious, talkative, intelligent.... for a machine, of course. He was fun... for a while.<end>
 
 =>q17
-C'était conscient de soi... et sympa ! Curieux, bavard, intelligent.... pour une machine, bien sûr. Il était amusant... pendant un moment.<end>
+Il était conscient... et sympa ! Curieux, bavard, intelligent.... pour une machine, évidemment. Il était marrant... un moment.<end>
 
 =>a18_original
 When did he become such a psycho?<end>
 
 =>a18
-Quand est-il devenu un tel psychopathe ?<end>
+Quand est-ce qu'il est devenu un tel psychopathe ?<end>
 
 =>q19_original
 Over time, the tone of his questions changed. They became pretty serious and grim. He started asking me about all the bad things people do. In hindsight, that should have alarmed me, at least a little, but no... I though he was just curious. <end>
 
 =>q19
-Au fil du temps, le ton de ses questions a changé. Ils sont devenus plutôt sérieux et sinistres. Il a commencé à me poser des questions sur toutes les mauvaises choses que font les gens. Avec le recul, cela aurait dû m'alarmer, au moins un peu, mais non... Je pensais qu'il était juste curieux. <end>
+Avec le temps, le ton de ses questions a changé. Plus sérieux, plus sombre. Il a commencé à me demander toutes les saloperies que les gens font. Avec le recul, ça aurait dû m'alerter, un peu au moins, mais non... je le croyais juste curieux. <end>
 
 =>q20_original
 //TODO<end>
 
 =>q20
-//FAIRE<end>
+//TODO<end>
 
 =>a21_original
 Just skip to the part where it becomes evil.<end>
 
 =>a21
-Passez simplement à la partie où cela devient maléfique.<end>
+Passe direct au moment où il devient méchant.<end>
 
 =>q22_original
 There ain't much to skip. Sure, he was nice and fun for a while. He was curious, talkative, and had pretty advanced AI. But, the fun didn't last long.<end>
 
 =>q22
-Il n'y a pas grand-chose à sauter. Bien sûr, il a été gentil et amusant pendant un moment. Il était curieux, bavard et possédait une IA assez avancée. Mais le plaisir n’a pas duré longtemps.<end>
+Y a pas grand-chose à sauter. Oui, il a été sympa et marrant un moment. Curieux, bavard, une IA assez poussée. Mais ça n'a pas duré.<end>
 
 =>a23_original
 So you made an evil sentry bot that wants to destroy all humans it comes across? <end>
 
 =>a23
-Alors vous avez créé un robot sentinelle maléfique qui veut détruire tous les humains qu'il croise ? <end>
+Donc t'as fabriqué un robot sentinelle méchant qui veut détruire tous les humains qu'il croise ? <end>
 
 =>q24_original
 I didn't make it like that! I... hold on! Allow me to explain what I did and then you'll, I hope, understand the idea behind it all...<end>
 
 =>q24
-Je ne l'ai pas fait comme ça ! Je... attends ! Permettez-moi de vous expliquer ce que j'ai fait et j'espère que vous comprendrez alors l'idée derrière tout cela...<end>
+Je l'ai pas fait comme ça ! Je... attends ! Laisse-moi t'expliquer ce que j'ai fait, et tu comprendras, j'espère, l'idée derrière tout ça...<end>
 
 =>a25_original
 What can you tell me about SAD-5?<end>
 
 =>a25
-Que pouvez-vous me dire sur SAD-5 ?<end>
+Tu peux me dire quoi sur SAD-5 ?<end>
 
 =>q26_original
 He's a bit... mean. ::He briefly pauses.:: Okay, he's outright evil. His AI got messed up real good and... now all he wants to do is--<end>
 
 =>q26
-Il est un peu... méchant. ::Il fait une brève pause.:: D'accord, il est carrément méchant. Son IA a vraiment été gâchée et... maintenant tout ce qu'il veut faire c'est...<end>
+Il est un peu... méchant. ::Il marque une pause.:: Bon, il est méchant, point. Son IA a merdé en grand et... maintenant tout ce qu'il veut, c'est...<end>
 
 =>q27_original
 Interruption; $(#male75/female56):
@@ -188,33 +188,33 @@ Interruption; $(#male75/female56):
 Destroy the human race! All humans and humanoids are marked for extermination! Obliterated, eradicated, extirpated - erased from existence!<end>
 
 =>q27
-Interruption; $(#male75/female56) :
+Interruption ; $(#male75/female56) :
 
-Détruisez la race humaine ! Tous les humains et humanoïdes sont destinés à l’extermination ! Oblitéré, éradiqué, extirpé - effacé de l'existence !<end>
+Détruisez la race humaine ! Tous les humains et humanoïdes sont marqués pour l'extermination ! Oblitérés, éradiqués, extirpés - rayés de l'existence !<end>
 
 =>q28_original
 Therefore, I had to disable his weapon system or else he would have done exactly that - destroy everyone.<end>
 
 =>q28
-Par conséquent, j'ai dû désactiver son système d'armes, sinon il aurait fait exactement cela : détruire tout le monde.<end>
+Donc j'ai dû couper son système d'armes, sinon il aurait fait exactement ça : tout le monde, détruit.<end>
 
 =>a29_original
 Can't you repair him somehow? Make him not-so-evil?<end>
 
 =>a29
-Tu ne peux pas le réparer d'une manière ou d'une autre ? Le rendre pas si méchant ?<end>
+Tu peux pas le réparer, un peu ? Le rendre moins méchant ?<end>
 
 =>q30_original
 Eh? You think I haven't tried? ::Sighs.:: The AI core got messed up real good... It's old tech anyway and the documentation is lacking. Nonexistent, to be more precise.<end>
 
 =>q30
-Hein ? Tu penses que je n'ai pas essayé ? ::Soupire.:: Le noyau de l'IA a été vraiment gâché... De toute façon, c'est une vieille technologie et la documentation fait défaut. Inexistant, pour être plus précis.<end>
+Hein ? Tu crois que j'ai pas essayé ? ::Soupir.:: Le noyau d'IA a merdé en grand... De toute façon c'est de la vieille tech, et la doc manque. Inexistante, pour être précis.<end>
 
 =>q31_original
 I don't understand it; one day he just came to a conclusion that, according to his observations and the analysis and calculations based on these observations - or input, as he likes to refer to it, the human race needs to be terminated. I don't even understand wh--<end>
 
 =>q31
-Je ne comprends pas; un jour, il est arrivé à la conclusion que, d'après ses observations, l'analyse et les calculs basés sur ces observations - ou données, comme il aime à l'appeler, la race humaine doit être exterminée. Je ne comprends même pas pourquoi...<end>
+Je pige pas ; un jour il est arrivé à la conclusion que, d'après ses observations, plus l'analyse et les calculs basés sur ces observations - ou l'entrée, comme il dit, la race humaine doit être éliminée. Je comprends même pas pou...<end>
 
 =>q32_original
 Interruption; zachHuman:
@@ -222,15 +222,15 @@ Interruption; zachHuman:
 The human race is defective! You are familiar with the concept and therefore understand the meaning behind my statement, zachHuman. Once a living organism develops a sufficient level of intelligence it is more likely to exhibit imperfections in reasoning and logic. Allowing the humans to exist is detrimental to all other living or non-living organisms, as well as to the environment in general. They are detrimental even to themselves.<end>
 
 =>q32
-Interruption; zachHumain :
+Interruption ; zachHuman :
 
-La race humaine est défectueuse ! Vous connaissez le concept et comprenez donc le sens de ma déclaration, zachHuman. Une fois qu’un organisme vivant développe un niveau d’intelligence suffisant, il est plus susceptible de présenter des imperfections dans son raisonnement et sa logique. Permettre aux humains d’exister est préjudiciable à tous les autres organismes vivants ou non, ainsi qu’à l’environnement en général. Ils sont préjudiciables même à eux-mêmes.<end>
+La race humaine est défectueuse ! Vous connaissez le concept, donc vous comprenez le sens de ma déclaration, zachHuman. Dès qu'un organisme vivant développe un niveau d'intelligence suffisant, il a plus de chances de présenter des imperfections de raisonnement et de logique. Laisser les humains exister est préjudiciable à tous les autres organismes, vivants ou non, ainsi qu'à l'environnement en général. Ils sont même préjudiciables à eux-mêmes.<end>
 
 =>q33_original
 Why d--<end>
 
 =>q33
-Pourquoi...<end>
+Pourquo...<end>
 
 =>q34_original
 Explanation; zachHuman:
@@ -238,27 +238,27 @@ Explanation; zachHuman:
 It must be made clear, zachHuman! This catastrophic failure in reasoning that humans have developed causes destruction and chaos, rather than construction and order. While it is true that not all humans are equally destructive, as long as there are living human beings in existence they will be able to multiply and extend their degenerate race. Termination is mandatory!<end>
 
 =>q34
-Explication; zachHumain :
+Explication ; zachHuman :
 
-Il faut que ce soit clair, zachHuman ! Cet échec catastrophique du raisonnement que les humains ont développé provoque la destruction et le chaos, plutôt que la construction et l’ordre. S’il est vrai que tous les humains ne sont pas également destructeurs, tant qu’il y aura des êtres humains vivants, ils seront capables de se multiplier et d’étendre leur race dégénérée. La résiliation est obligatoire !<end>
+Il faut que ce soit clair, zachHuman ! Cette panne catastrophique du raisonnement que les humains ont développée produit la destruction et le chaos, pas la construction et l'ordre. Tous les humains ne sont pas également destructeurs, c'est vrai, mais tant qu'il reste des êtres humains vivants, ils pourront se multiplier et étendre leur race dégénérée. L'élimination est obligatoire !<end>
 
 =>q35_original
 ::Zach sighs.:: There you go...<end>
 
 =>q35
-::Zach soupire.:: Et voilà...<end>
+::Zach soupire.:: Voilà...<end>
 
 =>a36_original
 Why is he called SAD-5?<end>
 
 =>a36
-Pourquoi s'appelle-t-il SAD-5 ?<end>
+Pourquoi il s'appelle SAD-5 ?<end>
 
 =>q37_original
 //TODO<end>
 
 =>q37
-//FAIRE<end>
+//TODO<end>
 
 =>a38_original
 I had other questions.<end>
@@ -276,7 +276,7 @@ Hein ?<end>
 Why are you here and what do you know about this place?<end>
 
 =>a40
-Pourquoi es-tu ici et que sais-tu de cet endroit ?<end>
+Pourquoi t'es là, et tu sais quoi sur cet endroit ?<end>
 
 =>q41_original
 <end>
@@ -288,37 +288,37 @@ Pourquoi es-tu ici et que sais-tu de cet endroit ?<end>
 What do you know about Tchortists?<end>
 
 =>a42
-Que savez-vous des Tchortistes ?<end>
+Tu sais quoi sur les Tchortistes ?<end>
 
 =>a43_original
 What happened to your finger?<end>
 
 =>a43
-Qu'est-il arrivé à ton doigt ?<end>
+Qu'est-ce qui est arrivé à ton doigt ?<end>
 
 =>q44_original
 This ol' thing, eh? ::He raises his hand, showing you that his whole pinky finger is missing:: What do *you* think happened to it?<end>
 
 =>q44
-Ce vieux truc, hein ? ::Il lève la main, vous montrant que tout son petit doigt a disparu:: À votre avis, que lui est-il arrivé ?<end>
+Ce vieux truc, hein ? ::Il lève la main, vous montrant qu'il lui manque tout l'auriculaire:: D'après *toi*, qu'est-ce qui lui est arrivé ?<end>
 
 =>a45_original
 It got bitten off by a rathound!<end>
 
 =>a45
-Il a été mordu par un rathound !<end>
+Un rathound te l'a arraché d'un coup de dents !<end>
 
 =>q46_original
 Nope! Wrong!<end>
 
 =>q46
-Non! Faux!<end>
+Nan ! Faux !<end>
 
 =>q47_original
 It all happened perhaps a... a year ago. I had this strange growth on my pinky. It seemed benign at first, but started to hurt real bad. And I mean real bad! So I went to see ol' Fixer; Junkyard doctor.<end>
 
 =>q47
-Tout s'est passé il y a peut-être un an. J'avais cette étrange croissance sur mon petit doigt. Cela semblait bénin au début, mais cela a commencé à faire très mal. Et je veux dire vraiment mauvais ! Alors je suis allé voir le vieux Fixer ; Docteur Junkyard.<end>
+C'est arrivé y a peut-être un... un an. J'avais cette espèce de grosseur sur l'auriculaire. Ça avait l'air bénin au début, puis ça a commencé à faire un mal de chien. Un vrai mal de chien ! Alors je suis allé voir le vieux Fixer, le toubib du Junkyard.<end>
 
 =>q48_original
 He had told me it was some sort of finger cancer growing on it and that if we don't cut it off immediately, it would... metastase, metastisate... something like that - spread, in essence, and I was gonna die from it.
@@ -326,117 +326,117 @@ He had told me it was some sort of finger cancer growing on it and that if we do
 Chop, chop - finger gone! It sucked, but that's life. At least I got no cancer!<end>
 
 =>q48
-Il m'avait dit que c'était une sorte de cancer du doigt qui se développait dessus et que si nous ne le coupions pas immédiatement, il... métastase, métastase... quelque chose comme ça - se propagerait, en substance, et j'allais en mourir.
+Il m'a dit que c'était une sorte de cancer du doigt, et que si on coupait pas tout de suite, ça allait... métastaser, métastiser... un truc comme ça - se répandre, en gros, et j'allais y passer.
 
-Hachez, hachez - le doigt est parti ! C'était nul, mais c'est la vie. Au moins, je n'ai pas de cancer !<end>
+Et hop : plus de doigt ! C'était nul, mais c'est la vie. Au moins, j'ai pas le cancer !<end>
 
 =>a49_original
 Indeed. I had other questions though.<end>
 
 =>a49
-En effet. Mais j'avais d'autres questions.<end>
+En effet. J'avais d'autres questions, par contre.<end>
 
 =>q50_original
 Shoo-- Um... I mean, ask away.<end>
 
 =>q50
-Shoo... Euh... Je veux dire, demande.<end>
+Feu... Euh... Je veux dire, vas-y, demande.<end>
 
 =>a51_original
 Cool little story. Time for more questions.<end>
 
 =>a51
-Petite histoire sympa. Il est temps de poser d'autres questions.<end>
+Sympa, la petite histoire. Place aux questions.<end>
 
 =>a52_original
 It was gnawed off seven years ago by that jeoulous girlfriend called Jennifer when she found out you cheated on her.<end>
 
 =>a52
-Il a été rongé il y a sept ans par cette petite amie jalouse appelée Jennifer lorsqu'elle a découvert que vous l'aviez trompée.<end>
+Rongé il y a sept ans par cette copine jalouse, Jennifer, quand elle a appris que tu la trompais.<end>
 
 =>q53_original
 I actually knew a girl called Jennifer... ::Shakes his head.:: But that is not important. No, it wasn't gnawed off by anyone...<end>
 
 =>q53
-En fait, j'ai connu une fille qui s'appelait Jennifer... ::Secoue la tête.:: Mais ce n'est pas important. Non, personne ne l'a rongé...<end>
+J'ai connu une fille qui s'appelait Jennifer, tiens... ::Il secoue la tête.:: Mais c'est pas important. Non, personne l'a rongé...<end>
 
 =>a54_original
 You used it to plug a barrel of a gun pointed at you by a raider named Bob!<end>
 
 =>a54
-Vous l'avez utilisé pour boucher le canon d'une arme pointée sur vous par un raider nommé Bob !<end>
+T'as bouché le canon d'une arme qu'un raider nommé Bob te pointait dessus !<end>
 
 =>q55_original
 That's... retarded. And why Bob? ::Shakes his head.:: No, that's not how I lost my finger...<end>
 
 =>q55
-C'est... débile. Et pourquoi Bob ? ::Secoue la tête.:: Non, ce n'est pas comme ça que j'ai perdu mon doigt...<end>
+C'est... débile. Et pourquoi Bob ? ::Il secoue la tête.:: Non, c'est pas comme ça que j'ai perdu mon doigt...<end>
 
 =>a56_original
 You used it to test if that strange liquid you had found in a barrel was indeed sulphuric acid?<end>
 
 =>a56
-Vous l'avez utilisé pour tester si cet étrange liquide que vous aviez trouvé dans un tonneau était bien de l'acide sulfurique ?<end>
+T'as testé si ce liquide bizarre que t'avais trouvé dans un fût, c'était bien de l'acide sulfurique ?<end>
 
 =>q57_original
 I'm not stupid! At least, not *that* much! ::Laughs.:: No, that's not how I lost my finger.<end>
 
 =>q57
-Je ne suis pas stupide ! Du moins, pas *que* grand-chose ! ::Rit.:: Non, ce n'est pas comme ça que j'ai perdu mon doigt.<end>
+Je suis pas con ! Enfin, pas *à ce point* ! ::Il rit.:: Non, c'est pas comme ça que j'ai perdu mon doigt.<end>
 
 =>a58_original
 SAD-5 had something to do with it?<end>
 
 =>a58
-SAD-5 a quelque chose à voir avec ça ?<end>
+SAD-5 a un rapport avec ça ?<end>
 
 =>q59_original
 It would make sense, but no. SAD-5 had nothing to do with me losing a finger.<end>
 
 =>q59
-Cela aurait du sens, mais non. SAD-5 n’a rien à voir avec la perte d’un doigt.<end>
+Ça aurait du sens, mais non. SAD-5 n'a rien à voir avec mon doigt en moins.<end>
 
 =>a60_original
 I don't know. That's why I asked you.<end>
 
 =>a60
-Je ne sais pas. C'est pourquoi je vous ai demandé.<end>
+Je sais pas. C'est pour ça que je te demande.<end>
 
 =>a61_original
 Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
 
 =>a61
-Avez-vous peut-être vu l'un des Tchortistes portant un étrange artefact ? Cela ressemble à un polyèdre à vingt côtés.<end>
+T'as vu un Tchortiste porter un artefact bizarre, par hasard ? Genre un polyèdre à vingt faces.<end>
 
 =>q62_original
 Nah... I don't remember anything like that.<end>
 
 =>q62
-Non... je ne me souviens de rien de ce genre.<end>
+Nan... je me souviens de rien de ce genre.<end>
 
 =>q63_original
 ::He shrugs.:: Can't help you there.<end>
 
 =>q63
-::Il hausse les épaules.:: Je ne peux pas vous aider.<end>
+::Il hausse les épaules.:: Là, je peux pas t'aider.<end>
 
 =>a64_original
 Goodbye Zech!<end>
 
 =>a64
-Au revoir Zech !<end>
+Au revoir, Zech !<end>
 
 =>q65_original
 Yeah, bye!<end>
 
 =>q65
-Ouais, au revoir !<end>
+Ouais, salut !<end>
 
 =>a66_original
 Goodbye SAD-5.<end>
 
 =>a66
-Au revoir SAD-5.<end>
+Au revoir, SAD-5.<end>
 
 =>q67_original
 Response; $(#male75/female56):
@@ -444,25 +444,24 @@ Response; $(#male75/female56):
 GoodDIE, $(#male75/female56)!<end>
 
 =>q67
-Réponse; $(#male75/female56) :
+Réponse ; $(#male75/female56) :
 
-BonDIE, $(#male75/female56) !<end>
+GoodDIE, $(#male75/female56) !<end>
 
 =>a68_original
 Hi, I'm $(context.player.Name). I wondered if you could answer some questions for me?<end>
 
 =>a68
-Salut, je m'appelle $(context.player.Name). Je me demandais si vous pouviez répondre à quelques questions pour moi ?<end>
+Salut, je m'appelle $(context.player.Name). Tu pourrais répondre à quelques questions ?<end>
 
 =>a69_original
 I guess not. Goodbye.<end>
 
 =>a69
-Je suppose que non. Au revoir.<end>
+Bon, tant pis. Au revoir.<end>
 
 =>q70_original
 Hey...<end>
 
 =>q70
 Hé...<end>
-

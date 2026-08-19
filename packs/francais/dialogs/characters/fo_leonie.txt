@@ -4,9 +4,9 @@
 Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
 
 =>q1
-::La femme semble compter des charons, mais elle les glisse du comptoir et entre sa main, puis dans sa poche dès que vous approchez. Elle s'appuie sur le comptoir avec ses deux bras et vous donne un sourire amical. Elle est un peu courte, mais maigre et saine, mais sa voix, tandis que la lumière, montre un degré notable de dureté.::
+::La femme a l'air de compter des charons, mais dès que vous approchez elle les racle du comptoir, les prend dans la main et les fourre dans sa poche. Elle s'appuie des deux bras sur le comptoir et vous lance un sourire amical. Elle est plutôt petite, mince, l'air en bonne santé, mais sa voix, même légère, a une dureté qu'on n'entend pas tout de suite.::
 
-Bienvenue au magasin de métal Foundry. Je suis Leonie. Que puis-je pour vous ?<end>
+Bienvenue à la boutique de métal de Foundry. Leonie. Qu'est-ce que je vous sers ?<end>
 
 =>q2_original
 <end>
@@ -18,13 +18,13 @@ Bienvenue au magasin de métal Foundry. Je suis Leonie. Que puis-je pour vous ?<
 Let me see what you have to offer. ::Barter.::<end>
 
 =>a3
-Laisse-moi voir ce que tu as à offrir. ::Troc.::<end>
+Voir ce que vous avez. ::Troc.::<end>
 
 =>q4_original
 I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
 
 =>q4
-Je suis fier de vous dire que nous offrons encore des composants en alliage TiChrome! On est de retour.<end>
+Je suis fière de vous dire qu'on propose à nouveau des pièces en alliage TiChrome ! On a rouvert boutique.<end>
 
 =>a5_original
 ::Barter.::<end>
@@ -36,7 +36,7 @@ Je suis fier de vous dire que nous offrons encore des composants en alliage TiCh
 Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
 
 =>q6
-Bien sûr ! Notez que nous n'avons actuellement aucun de nos fameux composants en alliage TiChrome. La mine est fermée en ce moment, mais j'espère qu'elle reviendra bientôt.<end>
+Bien sûr ! Sachez juste qu'on n'a aucun de nos fameux composants en TiChrome pour le moment. La mine est fermée, mais j'espère qu'elle va bientôt reprendre.<end>
 
 =>a7_original
 Are my steel plates ready?<end>
@@ -54,19 +54,19 @@ Pas encore. Patience, patience.<end>
 Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
 
 =>q9
-Oui. Je vais les chercher. ::Elle marche à l'arrière de son magasin::<end>
+Oui, elles sont prêtes. Je vais les chercher. ::Elle passe à l'arrière du magasin::<end>
 
 =>q10_original
 ::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
 
 =>q10
-::, faire quelques allers-retours jusqu'à ce que tous les ensembles de plaques que vous avez commandés soient soigneusement alignés sur le comptoir.::<end>
+::, faisant quelques allers-retours jusqu'à ce que tous les jeux de plaques que vous avez commandés soient bien alignés sur le comptoir.::<end>
 
 =>q11_original
 If you want a new batch, you know where to find me.<end>
 
 =>q11
-Si tu veux un nouveau lot, tu sais où me trouver.<end>
+Si vous voulez un autre lot, vous savez où me trouver.<end>
 
 =>q12_original
 :: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
@@ -74,9 +74,9 @@ Si tu veux un nouveau lot, tu sais où me trouver.<end>
 That should be all of them.<end>
 
 =>q12
-::et revient rapidement avec un ensemble de plaques d'acier, qu'elle met sur le comptoir avec un bruit satisfaisant.::
+:: et revient d'un pas vif avec un jeu de plaques d'acier, qu'elle pose sur le comptoir avec un bruit sourd, bien net.::
 
-Ça devrait être tous.<end>
+Voilà, ça devrait être tout.<end>
 
 =>q13_original
 <end>
@@ -136,19 +136,19 @@ That should be all of them.<end>
 I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
 
 =>a22
-J'ai des morceaux de métal que je ne sais pas quoi faire. Je me demandais si tu pouvais m'aider.<end>
+J'ai de la ferraille dont je ne sais que faire. Je me demandais si vous pouviez m'aider.<end>
 
 =>q23_original
 I don't deal in scrap metal, sorry. ::She shrugs.::<end>
 
 =>q23
-Je ne traite pas de ferraille, désolé. ::Elle s'éternise.::<end>
+Je ne prends pas la ferraille, désolée. ::Elle hausse les épaules.::<end>
 
 =>q24_original
 We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
 
 =>q24
-Cependant, comme la mine a été fermée et que nous travaillons à une capacité réduite, nous ne pouvons pas accepter de telles demandes pour le moment.<end>
+On *pourrait* la faire fondre et en tirer autre chose, mais la mine est fermée et on tourne au ralenti, donc on n'accepte plus ce genre de demande pour le moment.<end>
 
 =>a25_original
 Why is the mine closed?<end>
@@ -172,19 +172,19 @@ Quel genre d'incident ?<end>
 Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
 
 =>q28
-Certaines créatures ont attaqué nos mineurs, donc la Garde Foundry doit éradiquer ces choses avant qu'il ne soit sûr de travailler à nouveau là-bas. Aussi sûr que possible.<end>
+Des créatures ont attaqué nos mineurs, donc la Foundry Guard doit les éradiquer avant qu'on puisse y retravailler. Aussi sûr que ça peut l'être, en tout cas.<end>
 
 =>a29_original
 I ain't got time to waste, woman. Just skip to the chase.<end>
 
 =>a29
-Je n'ai pas de temps à perdre, femme. Passez à la poursuite.<end>
+J'ai pas de temps à perdre, madame. Allez au fait.<end>
 
 =>q30_original
 Don't you talk to me like that. See those guards over there? Anyhow...<end>
 
 =>q30
-Ne me parle pas comme ça. Vous voyez ces gardes ? De toute façon...<end>
+Ne me parlez pas sur ce ton. Vous voyez les gardes, là-bas ? Bref...<end>
 
 =>a31_original
 Here we go again...<end>
@@ -196,25 +196,25 @@ C'est reparti...<end>
 What?<end>
 
 =>q32
-Quoi?<end>
+Quoi ?<end>
 
 =>a33_original
 Never mind. What kind of incident?<end>
 
 =>a33
-Laisse tomber. Quel genre d'incident ?<end>
+Laissez tomber. Quel genre d'incident ?<end>
 
 =>a34_original
 Just tell me what was the incident, woman. I ain't got time to waste.<end>
 
 =>a34
-Dites-moi ce qui s'est passé. Je n'ai pas de temps à perdre.<end>
+Dites-moi juste ce qui s'est passé, madame. J'ai pas de temps à perdre.<end>
 
 =>a35_original
 Very well. I wanted to ask you something else before I move on.<end>
 
 =>a35
-Très bien. Je voulais te demander autre chose avant de passer à autre chose.<end>
+Très bien. Je voulais vous demander autre chose avant de passer à la suite.<end>
 
 =>q36_original
 No problem.<end>
@@ -232,25 +232,25 @@ Je vais essayer ailleurs. Au revoir.<end>
 But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
 
 =>q38
-Mais ne casse pas encore ton choix : pour toi... J'aurais pu faire fondre tous ces débris ici dans quelque chose de plus utile, comme des plaques de métal.<end>
+Mais rangez pas encore la pioche : pour vous... je pourrais faire fondre toute cette ferraille en quelque chose de plus utile. Des plaques de métal, par exemple.<end>
 
 =>a39_original
 I like the sound of that.<end>
 
 =>a39
-J'aime ça.<end>
+Ça me plaît.<end>
 
 =>q40_original
 You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
 
 =>q40
-Tu sais quoi, laisse-moi d'abord voir tes restes. C'est un terme très général.<end>
+Attendez, montrez-moi d'abord cette ferraille. Ferraille, c'est un mot un peu fourre-tout, vous voyez.<end>
 
 =>a41_original
 ::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
 
 =>a41
-::Mettez un sac de ferraille sur le comptoir.:: Ce sont surtout de petites ferrailles métalliques comme ça.<end>
+::Poser un sac de ferraille sur le comptoir.:: Ce sont surtout de toutes petites chutes, comme ça.<end>
 
 =>q42_original
 ::She puts on a glove and sifts through the sundry scraplets with her fingers.::
@@ -262,13 +262,13 @@ Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... 
 ...mold... press...<end>
 
 =>q42
-::Elle met un gant et des tamis à travers les éraflures avec ses doigts.::
+::Elle enfile un gant et épluche les chutes du bout des doigts.::
 
-Oui, c'est bon. On peut les trier, pas besoin de déchiqueter, pas... ::Sa voix devient plus silencieuse.:: ... principalement, donc ça va aller dans un four en acier...
+Ouais, ouais, ça ira. On peut trier, pas besoin de broyer, non... ::Sa voix baisse de plus en plus.:: ...en gros, ça part au four à acier...
 
-...purification, eh bien... ::Elle s'éternise.::
+...purification, bon... ::Elle hausse les épaules.::
 
-...mold... presse...<end>
+...moule... presse...<end>
 
 =>a43_original
 Leonie?<end>
@@ -282,7 +282,7 @@ Shush, I'm calculating!
 <end>
 
 =>q44
-Shush, je calcule !
+Chut, je calcule !
 
 <end>
 
@@ -292,9 +292,9 @@ Shush, je calcule !
 She then puts the metal scraps on the scale.::<end>
 
 =>q45
-::Puis elle sort une petite calculatrice avec des boutons usés et une échelle. Elle les tape en quelques chiffres, *hmm* une fois, puis les retrouve et est plus satisfaite du résultat de suivi.
+::Puis elle sort une petite calculatrice aux touches presque lisses, et une balance. Elle tape quelques chiffres, *hmm* une fois, les retape, et le deuxième résultat lui plaît davantage.
 
-Elle met ensuite les débris de métal sur l'échelle.::<end>
+Ensuite elle pose la ferraille sur la balance.::<end>
 
 =>q46_original
 ::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
@@ -302,9 +302,9 @@ Elle met ensuite les débris de métal sur l'échelle.::<end>
 Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
 
 =>q46
-::Après avoir fait d'autres calculs, elle retourne la calculatrice de sorte qu'elle soit face à vous : Il se lit « 100 ».::
+::Après encore quelques calculs, elle retourne la calculatrice vers vous : ça affiche « 100 ».::
 
-Voici mon offre : Près d'une centaine de sacs de ferraille comme celui-ci vous donnera un ensemble de plaques d'acier. Ne vous attendez pas à une qualité élevée, mais elle ne sera pas non plus muck; vous les aurez pas cher car ils sont faciles à traiter et ne prendront pas trop de temps à faire. Si tu veux quelque chose de plus compliqué, tu devras passer par quelqu'un d'autre.<end>
+Voilà mon offre : une centaine de sacs de ferraille comme ça, ça vous fait un jeu de plaques d'acier. Attendez-vous pas à de la haute qualité, mais ce sera pas de la boue non plus. Vous les aurez à bas prix : c'est simple à traiter et ça va vite. Si vous voulez plus compliqué, il faudra passer par quelqu'un d'autre.<end>
 
 =>q47_original
 ::She then taps the screen, pointing to her previous calculation, resulting in "30."::
@@ -314,23 +314,23 @@ And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
 ::She leans on the counter.:: So, boss, how about it?<end>
 
 =>q47
-::Elle appuie ensuite sur l'écran, pointant vers son calcul précédent, ce qui donne « 30 ».::
+::Elle tape ensuite l'écran, montre le calcul d'avant : « 30 ».::
 
-Et c'est combien ça va te coûter par set, en charons. Moins cher que la saleté.
+Et ça, c'est le prix par jeu, en charons. Donné.
 
-::Elle se penche sur le comptoir.:: Alors, patron, pourquoi pas ?<end>
+::Elle s'appuie sur le comptoir.:: Alors, patron, on fait affaire ?<end>
 
 =>a48_original
 When can we start?<end>
 
 =>a48
-Quand pouvons-nous commencer ?<end>
+On commence quand ?<end>
 
 =>q49_original
 Now. How much scrap have you got?<end>
 
 =>q49
-Tout de suite. Vous avez combien ?<end>
+Tout de suite. Vous avez combien de ferraille ?<end>
 
 =>q50_original
 <end>
@@ -342,7 +342,7 @@ Tout de suite. Vous avez combien ?<end>
 I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
 
 =>a51
-Je voudrais un jeu de plaques d'acier. ::Donnez-lui 100 sacs de ferraille et 30 pièces de monnaie.::<end>
+Un jeu de plaques d'acier. ::Lui donner 100 sacs de ferraille et 30 charons.::<end>
 
 =>q52_original
 ::She puts the scrap behind the counter.::
@@ -352,97 +352,97 @@ I'll have some nipper take this to get processed. And you, you come back a bit l
 =>q52
 ::Elle met la ferraille derrière le comptoir.::
 
-Je vais demander à un fou de prendre ça pour être traité. Et toi, tu reviens un peu plus tard et les assiettes seront prêtes.<end>
+Je vais envoyer un gamin porter ça au traitement. Et vous, vous repassez un peu plus tard, les plaques seront prêtes.<end>
 
 =>a53_original
 I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
 
 =>a53
-J'aimerais deux séries de plaques d'acier. ::Donnez-lui 200 sacs de ferraille et 60 pièces de monnaie.::<end>
+Deux jeux de plaques d'acier. ::Lui donner 200 sacs de ferraille et 60 charons.::<end>
 
 =>a54_original
 I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
 
 =>a54
-J'aimerais trois séries de plaques d'acier. ::Donnez-lui 300 sacs de ferraille et 90 pièces de monnaie.::<end>
+Trois jeux de plaques d'acier. ::Lui donner 300 sacs de ferraille et 90 charons.::<end>
 
 =>a55_original
 I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
 
 =>a55
-J'aimerais quatre séries de plaques d'acier. ::Donnez-lui 400 sacs de ferraille et 120 pièces de monnaie.::<end>
+Quatre jeux de plaques d'acier. ::Lui donner 400 sacs de ferraille et 120 charons.::<end>
 
 =>q56_original
 That's quite a lot of scrap. <end>
 
 =>q56
-C'est beaucoup de ferraille. <end>
+Ça fait pas mal de ferraille. <end>
 
 =>a57_original
 I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
 
 =>a57
-Je voudrais cinq séries de plaques d'acier. ::Donnez-lui 500 sacs de ferraille et 150 pièces de monnaie.::<end>
+Cinq jeux de plaques d'acier. ::Lui donner 500 sacs de ferraille et 150 charons.::<end>
 
 =>a58_original
 I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
 
 =>a58
-Je voudrais six séries de plaques d'acier. ::Donnez-lui 600 sacs de ferraille et 180 pièces de monnaie.::<end>
+Six jeux de plaques d'acier. ::Lui donner 600 sacs de ferraille et 180 charons.::<end>
 
 =>a59_original
 I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
 
 =>a59
-J'aimerais sept séries de plaques d'acier. ::Donnez-lui 700 sacs de ferraille et 210 pièces de monnaie.::<end>
+Sept jeux de plaques d'acier. ::Lui donner 700 sacs de ferraille et 210 charons.::<end>
 
 =>a60_original
 I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
 
 =>a60
-Je voudrais huit séries de plaques d'acier. ::Donnez-lui 800 sacs de ferraille et 240 pièces de monnaie.::<end>
+Huit jeux de plaques d'acier. ::Lui donner 800 sacs de ferraille et 240 charons.::<end>
 
 =>q61_original
 Damn, that's gonna be a lot of plates! <end>
 
 =>q61
-Ça va faire beaucoup d'assiettes ! <end>
+Bon sang, ça va faire un paquet de plaques ! <end>
 
 =>a62_original
 I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
 
 =>a62
-Je voudrais neuf séries de plaques d'acier. ::Donnez-lui 900 sacs de ferraille et 270 pièces de monnaie.::<end>
+Neuf jeux de plaques d'acier. ::Lui donner 900 sacs de ferraille et 270 charons.::<end>
 
 =>a63_original
 I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
 
 =>a63
-Je voudrais dix séries de plaques d'acier. ::Donnez-lui 1000 sacs de ferraille et 300 pièces de monnaie.::<end>
+Dix jeux de plaques d'acier. ::Lui donner 1000 sacs de ferraille et 300 charons.::<end>
 
 =>a64_original
 Not enough, I guess. I'll come back when I do.<end>
 
 =>a64
-Pas assez, je suppose. Je reviendrai quand je le ferai.<end>
+Pas assez, on dirait. Je reviendrai quand j'en aurai.<end>
 
 =>a65_original
 I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
 
 =>a65
-Je vous rappellerai, mais d'abord, je voulais vous demander autre chose.<end>
+Je reviendrai là-dessus, mais d'abord j'avais autre chose à vous demander.<end>
 
 =>a66_original
 I'll be back with some more scrap. See ya.<end>
 
 =>a66
-Je reviens avec d'autres déchets. A bientôt.<end>
+Je reviens avec de la ferraille. À plus.<end>
 
 =>a67_original
 ::Say nothing.::<end>
 
 =>a67
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q68_original
 That should be it, yes.
@@ -450,7 +450,7 @@ That should be it, yes.
 <end>
 
 =>q68
-Ça devrait être ça, oui.
+Ça devrait être tout, oui.
 
 <end>
 
@@ -458,25 +458,25 @@ That should be it, yes.
 Tell me, how much scrap would I need to get a decent set of plates?<end>
 
 =>a69
-Dis-moi, combien de ferrailles j'aurais besoin d'un ensemble décent d'assiettes ?<end>
+Dites-moi, il me faudrait combien de ferraille pour un jeu de plaques correct ?<end>
 
 =>q70_original
 Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
 
 =>q70
-C'est un terme très général. Montrez-moi ce que vous avez, et je vous dirai tout ce que vous devez savoir.<end>
+Ferraille, c'est un mot fourre-tout, vous savez. Montrez-moi ce que vous avez, et je vous dirai tout.<end>
 
 =>a71_original
 Go on.<end>
 
 =>a71
-Allez.<end>
+Continuer.<end>
 
 =>a72_original
 I'd like to turn some scrap into metal plates.<end>
 
 =>a72
-J'aimerais transformer des déchets en plaques métalliques.<end>
+Je voudrais transformer de la ferraille en plaques de métal.<end>
 
 =>q73_original
 Can do. How much have you got? 
@@ -484,27 +484,27 @@ Can do. How much have you got?
 Don't forget - a hundred bags of scrap and thirty charons per set.<end>
 
 =>q73
-Je peux le faire. Combien avez-vous ?
+Ça se fait. Vous en avez combien ?
 
-N'oubliez pas - cent sacs de ferraille et trente charons par ensemble.<end>
+N'oubliez pas : cent sacs de ferraille et trente charons par jeu.<end>
 
 =>a74_original
 I got some super steel that needs shaping.<end>
 
 =>a74
-J'ai un super acier qui doit être façonné.<end>
+J'ai du super acier à façonner.<end>
 
 =>q75_original
 I see. So what do you want me to do with it?<end>
 
 =>q75
-Je vois. Qu'est-ce que tu veux que j'en fasse ?<end>
+Je vois. Qu'est-ce que vous voulez que j'en fasse ?<end>
 
 =>a76_original
 I want you to create super steel fiber. ::Give her 100 charons.::<end>
 
 =>a76
-Je veux que tu crées des fibres d'acier super. ::Donnez-lui 100 charons.::<end>
+Je veux de la fibre de super acier. ::Lui donner 100 charons.::<end>
 
 =>q77_original
 No problem. I'll get to work. 
@@ -512,27 +512,27 @@ No problem. I'll get to work.
 I'll put the products in the container when I'm done.<end>
 
 =>q77
-Pas de problème. Je vais travailler.
+Pas de problème. Je m'y mets.
 
-Je mettrai les produits dans le contenant quand j'aurai fini.<end>
+Je mettrai le résultat dans le contenant quand j'aurai fini.<end>
 
 =>a78_original
 ::Wait.::<end>
 
 =>a78
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>a79_original
 I want you to create super steel sheet. ::Give her 100 charons.::<end>
 
 =>a79
-Je veux que tu crées une super tôle d'acier. ::Donnez-lui 100 charons.::<end>
+Je veux une tôle de super acier. ::Lui donner 100 charons.::<end>
 
 =>a80_original
 Actually, never mind. I've changed my mind.<end>
 
 =>a80
-En fait, peu importe. J'ai changé d'avis.<end>
+En fait, laissez tomber. J'ai changé d'avis.<end>
 
 =>q81_original
 ::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
@@ -540,15 +540,15 @@ En fait, peu importe. J'ai changé d'avis.<end>
 Put it in here. Let's see what we're working with.<end>
 
 =>q81
-::Elle se rend à l'arrière du magasin et revient avec un cadenas. Elle le met sur le comptoir et en essuie une fine couche de poussière.::
+::Elle passe à l'arrière du magasin et revient avec une cantine. Elle la pose sur le comptoir et en essuie une fine couche de poussière.::
 
-Mettez-le ici. Voyons avec quoi nous travaillons.<end>
+Mettez-le là-dedans. Voyons avec quoi on travaille.<end>
 
 =>a82_original
 Understood. Before I do that, I had more questions.<end>
 
 =>a82
-Compris. Avant, j'avais d'autres questions.<end>
+Compris. Avant ça, j'avais d'autres questions.<end>
 
 =>a83_original
 Got it.<end>
@@ -560,61 +560,61 @@ Compris.<end>
 Put it in the container on the counter and let me see what we're working with.<end>
 
 =>q84
-Mettez-le dans le contenant sur le comptoir et laissez-moi voir avec quoi nous travaillons.<end>
+Mettez-le dans le contenant sur le comptoir et laissez-moi voir avec quoi on travaille.<end>
 
 =>a85_original
 Bernard told me you can work with super steel...<end>
 
 =>a85
-Bernard m'a dit que tu pouvais travailler avec super acier...<end>
+Bernard m'a dit que vous saviez travailler le super acier...<end>
 
 =>q86_original
 Ben sent you here? <end>
 
 =>q86
-Ben t'a envoyé ici ? <end>
+C'est Ben qui vous envoie ? <end>
 
 =>q87_original
 You actually got some?<end>
 
 =>q87
-Tu en as vraiment ?<end>
+Vous en avez vraiment ?<end>
 
 =>a88_original
 Yes. ::Show her your super steel.::<end>
 
 =>a88
-Oui. ::Montre-lui ton super acier.::<end>
+Oui. ::Lui montrer votre super acier.::<end>
 
 =>q89_original
 Wow, so the old coot wasn't kidding. <end>
 
 =>q89
-Wow, donc le vieux coq ne plaisantait pas. <end>
+Waouh, le vieux schnock ne bluffait pas. <end>
 
 =>q90_original
 Yeah, I can work it.<end>
 
 =>q90
-Oui, je peux y arriver.<end>
+Oui, je peux le travailler.<end>
 
 =>q91_original
 I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
 
 =>q91
-Je peux faire des fibres d'acier super, et quelque part par ici j'ai aussi un plan expliquant comment *infuser* cuir avec. Je ne peux pas le faire moi-même - c'est en dehors de mon expertise - mais je vais volontiers vous vendre le plan.<end>
+Je peux faire de la fibre de super acier, et quelque part ici j'ai aussi un plan qui explique comment *infuser* du cuir avec. Je peux pas le faire moi-même, c'est hors de mon rayon, mais je vous le vends volontiers.<end>
 
 =>q92_original
 Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
 
 =>q92
-Je peux aussi en faire des draps. Je ne sais pas ce que tu pourrais faire avec eux, mais je peux les faire.<end>
+Je peux aussi en tirer des tôles. Je sais pas trop ce que vous pourrez en faire, mais bon, je peux les faire.<end>
 
 =>q93_original
 Either of these services will cost you a hundred charons per set of plates.<end>
 
 =>q93
-L'un ou l'autre de ces services vous coûtera une centaine de charons par jeu de plaques.<end>
+L'un ou l'autre, ça vous fera cent charons par jeu de plaques.<end>
 
 =>a94_original
 Not at the moment, no.<end>
@@ -626,49 +626,49 @@ Pas pour le moment, non.<end>
 Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
 
 =>q95
-Eh bien, dans le cas peu probable, vous avez une prise de - oui, je peux travailler.<end>
+Bon, dans le cas peu probable où vous en trouveriez : oui, je peux le travailler.<end>
 
 =>a96_original
 Is there anyone around here that can work with super steel?<end>
 
 =>a96
-Y a-t-il quelqu'un qui peut travailler avec de l'acier ?<end>
+Il y a quelqu'un ici qui sait travailler le super acier ?<end>
 
 =>q97_original
 Well, well... <end>
 
 =>q97
-Et bien... <end>
+Tiens, tiens... <end>
 
 =>a98_original
 You seem to be working here alone with all this heavy stuff.<end>
 
 =>a98
-Vous semblez travailler ici seul avec tout ça.<end>
+Vous avez l'air de tout gérer seule ici, avec tout ce lourd.<end>
 
 =>q99_original
 Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
 
 =>q99
-Oui, je travaille surtout seul et je déplace des choses lourdes tout le temps. C'est drôle que les gens me posent souvent cette question. Parce que je suis une femme ne veut pas dire que je ne peux pas faire le travail d'un homme. Je suis une femme *Foundry*, pour avoir crié à haute voix. ::Elle sourit.:: Et honnêtement, j'aime vraiment ce que je fais; bats en risquant mon cou dans la mine, mais si je devais le faire, je le ferais aussi.<end>
+Oui, je travaille surtout seule et je déplace du lourd tout le temps. C'est drôle, on me pose souvent la question. Être une femme, ça m'empêche pas de faire le boulot d'un homme. Je suis une femme de *Foundry*, bon sang. ::Elle sourit.:: Et pour être honnête, j'adore ce que je fais. Ça vaut mieux que de risquer ma peau à la mine, mais s'il fallait y aller, j'y irais aussi.<end>
 
 =>q100_original
 Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
 
 =>q100
-Tu sais qu'on peut tout faire. ::Elle cligne.::<end>
+Hé, ma sœur, on peut *tout* faire, autant que les hommes. ::Elle fait un clin d'œil.::<end>
 
 =>q101_original
 Us women aren't as friable as you may think.<end>
 
 =>q101
-Les femmes ne sont pas aussi friables que vous le pensez.<end>
+Nous autres, on n'est pas aussi friables que vous croyez.<end>
 
 =>a102_original
 What do you sell here?<end>
 
 =>a102
-Que vendez-vous ici ?<end>
+Qu'est-ce que vous vendez ici ?<end>
 
 =>q103_original
 Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
@@ -676,33 +676,33 @@ Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... a
 Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
 
 =>q103
-Différents types de plaques lourdes, pièces d'armes, caisses d'armes explosives, lames... toutes faites à partir de nombreux alliages différents. La sélection est grande, alors choisissez. Prends, pas une pause. ::Elle sourit.:: C'est du lingo local.
+Des plaques lourdes de toutes sortes, des pièces d'armes, des étuis d'armes explosives, des lames... tout ça dans pas mal d'alliages différents. Y a du choix, alors piochez. Piochez, cassez pas. ::Elle sourit.:: C'est le jargon d'ici.
 
-Quoi qu'il en soit, un de ces alliages est à peu près exclusif à Foundry - TiChrome.<end>
+Bref, un de ces alliages, c'est quasiment exclusif à Foundry : le TiChrome.<end>
 
 =>a104_original
 What can you tell me about TiChrome?<end>
 
 =>a104
-Que pouvez-vous me dire sur TiChrome ?<end>
+Qu'est-ce que vous pouvez me dire sur le TiChrome ?<end>
 
 =>q105_original
 Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
 
 =>q105
-Eh bien, TiChrome est un alliage fait de titane et de chrome, et je suis fier de dire que cet alliage particulier a été fait pour la première fois en Foundry, et seulement récemment. La combinaison de la faible densité et de la haute résistance du titane et du point de fusion élevé du chrome crée un matériau réfléchissant et résistant à la chaleur, ainsi que durable.<end>
+Le TiChrome, c'est un alliage de titane et de chrome, et je suis fière de dire que c'est ici, à Foundry, qu'on l'a fait pour la première fois, et pas plus tard qu'il y a peu. La faible densité et la résistance du titane, plus le haut point de fusion du chrome, ça donne un matériau réfléchissant, qui tient à la chaleur, et solide.<end>
 
 =>q106_original
 We have it in store if you'd like to take a look.<end>
 
 =>q106
-Nous l'avons en réserve si vous voulez jeter un oeil.<end>
+On en a en stock, si vous voulez jeter un œil.<end>
 
 =>q107_original
 Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
 
 =>q107
-Malheureusement, la mine est fermée en ce moment, donc les fouilles au chrome ont été interrompues. Mais j'espère qu'il sera bientôt opérationnel.<end>
+Malheureusement la mine est fermée en ce moment, donc plus d'extraction de chrome. Mais j'espère qu'elle va bientôt reprendre.<end>
 
 =>a108_original
 Thanks, I had more questions.<end>
@@ -714,43 +714,43 @@ Merci, j'avais d'autres questions.<end>
 I'm listening...<end>
 
 =>q109
-J'écoute...<end>
+Je vous écoute...<end>
 
 =>a110_original
 How do you feel now that the mine has been reopened?<end>
 
 =>a110
-Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+Comment vous vous sentez, maintenant que la mine a rouvert ?<end>
 
 =>q111_original
 A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
 
 =>q111
-Une plaque d'acier lourde a été retirée de ma poitrine quand j'en ai entendu parler. ::Elle sourit.:: J'étais vraiment inquiet. Si Foundry est tombé à une invasion de ces choses, nous devrions tous retourner à Lower Underrail. Et pour vous dire la vérité, on s'est habitués à la garde Foundry qui nous protège de toute la merde extérieure. Vraiment.<end>
+J'ai senti une plaque d'acier me quitter la poitrine quand j'ai appris ça. ::Elle sourit.:: J'étais vraiment inquiète. Si Foundry tombait sous une invasion de ces choses, on devrait tous rentrer à Lower Underrail. Et pour vous dire, on s'est habitués à ce que la Foundry Guard nous tienne à l'abri de toute la crasse du dehors. Vraiment.<end>
 
 =>q112_original
 More precisely, those who *survive* life in Foundry, they get used to the security.<end>
 
 =>q112
-Plus précisément, ceux qui *survivent* vie dans Foundry, ils s'habituent à la sécurité.<end>
+Plus précisément : ceux qui *survivent* à Foundry, eux, ils s'habituent à la sécurité.<end>
 
 =>a113_original
 What can you tell me about Foundry?<end>
 
 =>a113
-Que pouvez-vous me dire sur Foundry ?<end>
+Qu'est-ce que vous pouvez me dire sur Foundry ?<end>
 
 =>q114_original
 It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
 
 =>q114
-C'est une des meilleures stations où vivre. L'excavation minérale et la métallurgie sont ce qui maintient Foundry en marche. Notre mine est riche en titane, aluminium et fer, et maintenant que nous avons également trouvé des dépôts de chrome, nous devenons de plus en plus dorés.<end>
+C'est une des meilleures stations où vivre. L'extraction minérale et la métallurgie, c'est ça qui fait tourner Foundry. Notre mine est riche en titane, aluminium et fer, et maintenant qu'on a aussi trouvé du chrome, on commence vraiment à être en or.<end>
 
 =>q115_original
 There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
 
 =>q115
-Il y a un mauvais côté : Tout cela nécessite un travail acharné et dans des conditions dangereuses et souvent malsaines. Beaucoup de gens meurent dans la mine. Mais beaucoup meurent aussi partout Underrail de bandits, de famine et de maladies.<end>
+Le mauvais côté : tout ça, c'est du travail dur, dans des conditions dangereuses et souvent malsaines. Beaucoup meurent à la mine. Mais beaucoup meurent aussi partout dans Underrail, des bandits, de la faim, des maladies.<end>
 
 =>q116_original
 My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
@@ -758,33 +758,33 @@ My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'
 So, are you buying something?<end>
 
 =>q116
-Mon magasin est au meilleur endroit. Le chiffre d'affaires est bon, je ne suis nulle part près de la mine, et je suis entouré de grands hommes forts qui me gardent en sécurité. ::Elle trouve difficile de cacher le sourire timide.::
+Ma boutique est au meilleur endroit. Le chiffre tourne, je suis loin de la mine, et je suis entourée de grands costauds qui veillent sur moi. ::Elle a du mal à cacher un sourire un peu gêné.::
 
-Alors, tu achètes quelque chose ?<end>
+Alors, vous prenez quelque chose ?<end>
 
 =>a117_original
 Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
 
 =>a117
-Tu te souviens de quelqu'un qui vient te voir avec des objets étranges ? Je ne peux pas décrire l'objet, mais c'est quelque chose dont tu te souviendras.<end>
+Vous vous souvenez de quelqu'un venu avec des objets étranges ? Je ne peux pas décrire l'objet, mais c'est le genre de chose qu'on n'oublie pas.<end>
 
 =>q118_original
 I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
 
 =>q118
-Je ne connais pas d'objets étranges, mais il y avait des gens étranges dans mon magasin récemment. Ils interrogeaient sur tous les marchands de Foundry, mais ils semblaient tous secrets et... éteints. Pendant qu'un mec me parlait, les autres murmuraient quelque chose entre eux et regardaient derrière leur dos. Ils sont entrés et sortis en un éclair. Je ne les ai jamais revus après.<end>
+Des objets étranges, je ne vois pas, mais il y a eu des gens *étranges* dans la boutique récemment. Ils posaient des questions sur tous les marchands de Foundry, mais ils avaient l'air secret et... pas nets. Pendant qu'un gars me parlait, les autres chuchotaient entre eux et regardaient derrière leurs épaules. Entrés, sortis, un éclair. Je ne les ai plus jamais revus.<end>
 
 =>a119_original
 Do you know who they were?<end>
 
 =>a119
-Tu sais qui ils étaient ?<end>
+Vous savez qui c'était ?<end>
 
 =>q120_original
 No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
 
 =>q120
-Aucune idée. On dirait des charognards pour moi. C'est vraiment tout ce que je sais, comme je l'ai dit, ils étaient tous secrets.<end>
+Aucune idée. Des récupérateurs, à mon avis. C'est vraiment tout ce que je sais, comme je vous disais, ils étaient très secrets.<end>
 
 =>a121_original
 Thank you, that's all I wanted to know.<end>
@@ -802,19 +802,19 @@ Pas de problème.<end>
 Do you know anything about the mine creatures?<end>
 
 =>a123
-Tu sais quelque chose sur mes créatures ?<end>
+Vous savez quelque chose sur les créatures de la mine ?<end>
 
 =>q124_original
 ::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
 
 =>q124
-::Elle s'éternise.:: Je ne peux vraiment pas vous en dire beaucoup. Les mineurs ont creusé dans une nouvelle grotte et ont croisé des créatures bizarres. La mine est fermée et la Garde Foundry s'occupe du problème. C'est tout ce qu'on nous a dit.<end>
+::Elle hausse les épaules.:: Je n'ai vraiment pas grand-chose à vous dire. Les mineurs ont débouché sur une nouvelle grotte et sont tombés sur des créatures bizarres. Maintenant la mine est fermée et la Foundry Guard s'occupe du problème. C'est tout ce qu'on nous a dit.<end>
 
 =>q125_original
 I hope that was helpful.<end>
 
 =>q125
-J'espère que ça a été utile.<end>
+J'espère que ça vous aura servi.<end>
 
 =>a126_original
 Thank you and goodbye.<end>
@@ -826,5 +826,5 @@ Merci et au revoir.<end>
 Welcome again. What can I get you?<end>
 
 =>q127
-Bienvenue à nouveau. Que puis-je pour vous ?<end>
+Rebonjour. Qu'est-ce que je vous sers ?<end>
 

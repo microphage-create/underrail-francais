@@ -4,7 +4,7 @@
 <end>
 
 =>q1
-::Le capitaine vous parle d'une voix un peu plus élevée en hauteur mais plus sombre de qualité, lisse et claire, mais pour un lisp léger et à peine perceptible.::
+::Le capitaine vous parle d'une voix un peu plus haute, plus sombre de timbre, lisse, nette, à part un léger zozotement, à peine perceptible.::
 
 <end>
 
@@ -14,9 +14,9 @@ I'm Captain Cadmus Grim. Welcome to my ship.
 The two men are my lieutenants: Razor you've already met, and the gentleman to your left is Cruzer.<end>
 
 =>q2
-Je suis le capitaine Cadmus Grim. Bienvenue dans mon vaisseau.
+Je suis le capitaine Cadmus Grim. Bienvenue à bord.
 
-Les deux hommes sont mes lieutenants : Razor que vous avez déjà rencontré, et le monsieur à votre gauche est Cruzer.<end>
+Ces deux hommes sont mes lieutenants : Razor, que vous avez déjà rencontré, et le monsieur à votre gauche, Cruzer.<end>
 
 =>q3_original
 ::A deep voice disturbs the bandana as it passes through it.::
@@ -24,15 +24,15 @@ Les deux hommes sont mes lieutenants : Razor que vous avez déjà rencontré, et
 Ye try any funny stuff 'fore d' Cap'n an' I'll give ye d' same smile I got on me banda: Wide - an' fleshless.<end>
 
 =>q3
-::Une voix profonde perturbe le bandana en le traversant.::
+::Une voix grave traverse le bandana, le dérange à peine.::
 
-Vous essayez n'importe quelle chose drôle 'fore d' Cap'n an' Je vais vous donner le même sourire que j'ai eu sur moi banda: Large - un' sans chair.<end>
+Tu tentes un coup devant l'cap'taine, et je t'offre le même sourire que sur mon bandana. Large. Et sans chair.<end>
 
 =>q4_original
 What's your name?<end>
 
 =>q4
-Quel est votre nom ?<end>
+Comment vous appelez-vous ?<end>
 
 =>a5_original
 $(context.player.Name).<end>
@@ -44,7 +44,7 @@ $(context.player.Name).<end>
 And you wish to become... a pirate?<end>
 
 =>q6
-Et tu veux devenir... un pirate ?<end>
+Et vous voulez devenir... pirate ?<end>
 
 =>a7_original
 Yes.<end>
@@ -56,19 +56,19 @@ Oui.<end>
 You wanna give up your former life and dedicate your new one to Grim Jetters? <end>
 
 =>q8
-Vous voulez abandonner votre ancienne vie et dédier votre nouvelle à Grim Jetters ? <end>
+Vous voulez lâcher votre ancienne vie et dédier la nouvelle aux Grim Jetters ? <end>
 
 =>q9_original
 To have every single livin' soul outside the Black Sea hate your guts and would happily send you under on sight?<end>
 
 =>q9
-D'avoir chaque âme vivante en dehors du Black Sea haïr vos tripes et vous envoyer volontiers sous la vue ?<end>
+Que chaque âme vivante hors du Black Sea vous haïsse, et vous enverrait sous l'eau à vue, avec plaisir ?<end>
 
 =>a10_original
 Hell yeah!<end>
 
 =>a10
-Ouais !<end>
+Carrément !<end>
 
 =>q11_original
 <end>
@@ -86,31 +86,31 @@ Ouais !<end>
 Good. However, you as a $(#man/woman) of such shiftin' loyalty...<end>
 
 =>q13
-Parfait. Cependant, en tant que $(#man/woman) d'un tel changement de loyauté...<end>
+Bien. Toutefois, en tant que $(#homme/femme) d'une loyauté aussi... mobile...<end>
 
 =>a14_original
 Whatever you want me to do to.<end>
 
 =>a14
-Ce que tu veux que je fasse.<end>
+Tout ce que vous voulez que je fasse.<end>
 
 =>q15_original
 You could start by givin' me... information. <end>
 
 =>q15
-Tu pourrais commencer par me donner... des informations. <end>
+Vous pourriez commencer par me donner... des informations. <end>
 
 =>q16_original
 About everythin' that has been goin' on here. Why this expedition is here, what you've discovered up until now... *Everythin'*.<end>
 
 =>q16
-Tout ce qui se passe ici. Pourquoi cette expédition est là, ce que vous avez découvert jusqu'à maintenant... *Tout ce que vous avez découvert*.<end>
+Sur tout ce qui se passe ici. Pourquoi cette expédition est là, ce que vous avez découvert jusqu'ici... *Tout*.<end>
 
 =>a17_original
 ::Tell him what you know about the expedition.::<end>
 
 =>a17
-::Dites-lui ce que vous savez sur l'expédition.::<end>
+::Lui dire ce que l'on sait de l'expédition.::<end>
 
 =>q18_original
 ::After listening carefully to what you have to say, occasionally smiling and rubbing his beard with delight, he leans back into his chair and stares at the ceiling.::
@@ -118,9 +118,9 @@ Tout ce qui se passe ici. Pourquoi cette expédition est là, ce que vous avez d
 Interestin'. Real... interestin'.<end>
 
 =>q18
-::Après avoir écouté attentivement ce que vous avez à dire, souriant parfois et frottant sa barbe avec plaisir, il se penche de nouveau dans sa chaise et regarde le plafond.::
+::Après avoir écouté attentivement, souriant parfois, se frottant la barbe avec plaisir, il se renverse dans son fauteuil et fixe le plafond.::
 
-Intéressant.<end>
+Intéressant. Vraiment... intéressant.<end>
 
 =>q19_original
 ::His eyes shift from the ceiling to you.::
@@ -142,13 +142,13 @@ Intéressant.<end>
 And you have this... workin' microchip implant?<end>
 
 =>q21
-Et vous avez cet... implant de micropuce ?<end>
+Et vous avez cet... implant, cette micropuce qui marche ?<end>
 
 =>a22_original
 Got it right here.<end>
 
 =>a22
-C'est ici.<end>
+Je l'ai, là.<end>
 
 =>q23_original
 ::He smiles.:: Then welcome to the Grim Jetters, $(context.player.Name). Welcome.
@@ -156,27 +156,27 @@ C'est ici.<end>
 I think you'll prove to be a good addition to our ranks after all.<end>
 
 =>q23
-::Il sourit.:: Puis bienvenue sur les Jetters Grim, $(context.player.Name). Bienvenue.
+::Il sourit.:: Alors bienvenue chez les Grim Jetters, $(context.player.Name). Bienvenue.
 
-Je pense que vous serez un bon ajout à nos rangs après tout.<end>
+Je pense que vous ferez, finalement, une bonne recrue.<end>
 
 =>a24_original
 I think so too, Cap'n.<end>
 
 =>a24
-Je crois aussi, Cap'n.<end>
+Je le pense aussi, cap'taine.<end>
 
 =>a25_original
 I think so too, Cap'n.<end>
 
 =>a25
-Je crois aussi, Cap'n.<end>
+Je le pense aussi, cap'taine.<end>
 
 =>a26_original
 No, but I know where to get it.<end>
 
 =>a26
-Non, mais je sais où l'obtenir.<end>
+Non, mais je sais où le trouver.<end>
 
 =>q27_original
 Welcome to the Grim Jetters, $(context.player.Name).
@@ -184,51 +184,51 @@ Welcome to the Grim Jetters, $(context.player.Name).
 Perhaps you'll prove to be a good addition to our ranks after all.<end>
 
 =>q27
-Bienvenue sur les Jetters Grim, $(context.player.Name).
+Bienvenue chez les Grim Jetters, $(context.player.Name).
 
-Peut-être serez-vous un bon ajout à nos rangs après tout.<end>
+Peut-être ferez-vous, finalement, une bonne recrue.<end>
 
 =>q28_original
 But you only know so much. <end>
 
 =>q28
-Mais tu n'en sais rien. <end>
+Mais vous n'en savez qu'une partie. <end>
 
 =>q29_original
 Now, concernin' that free passage through our territory...<end>
 
 =>q29
-En ce qui concerne le libre passage de notre territoire...<end>
+Maintenant, pour ce passage libre dans nos eaux...<end>
 
 =>q30_original
 Your suggestion sounds acceptable: You - and only you - will have unrestriced passage through our territory. Consider that a bonus for successful negotations.<end>
 
 =>q30
-Votre suggestion semble acceptable : vous - et vous seul - aurez traversé notre territoire avec agitation. Considérez qu'un bonus pour les négociations réussies.<end>
+Votre suggestion me convient : vous, et vous seul, aurez le passage libre dans nos eaux, sans restriction. Considérez ça comme un bonus pour des négociations réussies.<end>
 
 =>a31_original
 And the laborers? I might need a few extra hands over there.<end>
 
 =>a31
-Et les ouvriers ? J'ai besoin de quelques mains supplémentaires.<end>
+Et les ouvriers ? J'aurai peut-être besoin de quelques bras, là-bas.<end>
 
 =>q32_original
 No extra hands.<end>
 
 =>q32
-Pas de mains supplémentaires.<end>
+Pas de bras en plus.<end>
 
 =>a33_original
 What if we pay the toll each time I bring someone? Would that be acceptable?<end>
 
 =>a33
-Et si on payait le péage chaque fois que j'amène quelqu'un ? Serait-ce acceptable?<end>
+Et si on payait le péage à chaque fois que j'amène quelqu'un ? Ça irait ?<end>
 
 =>q34_original
 Hmmm. Very well. But no armed men, and I reserve the right to withdraw my hospitality at any time.<end>
 
 =>q34
-Oui. Très bien. Mais aucun homme armé, et je me réserve le droit de retirer mon hospitalité à tout moment.<end>
+Hmmm. Très bien. Mais pas d'hommes armés, et je me réserve le droit de retirer mon hospitalité à tout moment.<end>
 
 =>a35_original
 Deal.<end>
@@ -240,13 +240,13 @@ Marché conclu.<end>
 What remains now is that you contact your camp <end>
 
 =>q36
-Il reste maintenant que vous contactez votre camp <end>
+Il reste maintenant que vous contactiez votre camp <end>
 
 =>q37_original
 and deliver to us everythin' you promised. <end>
 
 =>q37
-et livrez-nous tout ce que vous avez promis. <end>
+et que vous nous livriez tout ce que vous avez promis. <end>
 
 =>q38_original
 After that the professor will be yours.<end>
@@ -258,61 +258,61 @@ Après ça, le professeur sera à vous.<end>
 ::Contact Chief Briggs and wait for them to deliver the supplies.::<end>
 
 =>a39
-::Contactez le chef Briggs et attendez qu'ils livrent les fournitures.::<end>
+::Contacter le chef Briggs et attendre la livraison.::<end>
 
 =>a40_original
 ::Contact Chief Briggs.::<end>
 
 =>a40
-::Contactez le chef Briggs.::<end>
+::Contacter le chef Briggs.::<end>
 
 =>a41_original
 I... um, don't have my comm on me.<end>
 
 =>a41
-Je n'ai pas ma communication.<end>
+Je... euh, j'ai pas mon comm sur moi.<end>
 
 =>q42_original
 Feel free to use mine. ::He hands you a radio, a waterproof floatie-talkie.::<end>
 
 =>q42
-N'hésitez pas à utiliser le mien. ::Il vous donne une radio, un floatie-talkie étanche.::<end>
+Servez-vous du mien. ::Il vous tend une radio, un floatie-talkie étanche.::<end>
 
 =>a43_original
 ::Contact Chief Briggs and wait for them to deliver the supplies.::<end>
 
 =>a43
-::Contactez le chef Briggs et attendez qu'ils livrent les fournitures.::<end>
+::Contacter le chef Briggs et attendre la livraison.::<end>
 
 =>a44_original
 ::Contact Chief Briggs.::<end>
 
 =>a44
-::Contactez le chef Briggs.::<end>
+::Contacter le chef Briggs.::<end>
 
 =>q45_original
 and arrange for everything you promised. <end>
 
 =>q45
-et organisez tout ce que vous avez promis. <end>
+et que vous organisiez tout ce que vous avez promis. <end>
 
 =>a46_original
 No extra hands then.<end>
 
 =>a46
-Pas de mains supplémentaires alors.<end>
+Pas de bras en plus, alors.<end>
 
 =>a47_original
 What do you want now?<end>
 
 =>a47
-Que voulez-vous maintenant ?<end>
+Qu'est-ce que vous voulez, maintenant ?<end>
 
 =>q48_original
 Watch your tongue. Information. I want information. <end>
 
 =>q48
-Surveille ta langue. Information. Je veux des informations. <end>
+Surveillez votre langue. Des informations. Je veux des informations. <end>
 
 =>q49_original
 Good. Then welcome to the Grim Jetters, $(context.player.Name).
@@ -320,9 +320,9 @@ Good. Then welcome to the Grim Jetters, $(context.player.Name).
 Perhaps you'll prove to be a good addition to our ranks after all.<end>
 
 =>q49
-Parfait. Puis bienvenue sur les Jetters Grim, $(context.player.Name).
+Bien. Alors bienvenue chez les Grim Jetters, $(context.player.Name).
 
-Peut-être serez-vous un bon ajout à nos rangs après tout.<end>
+Peut-être ferez-vous, finalement, une bonne recrue.<end>
 
 =>a50_original
 Yes.<end>
@@ -340,31 +340,31 @@ Oui.<end>
 You wanna betray the people you worked for and become a Grim Jetter? <end>
 
 =>q52
-Tu veux trahir les gens pour qui tu as travaillé et devenir un Grim Jetter ? <end>
+Vous voulez trahir les gens pour qui vous avez travaillé et devenir un Grim Jetter ? <end>
 
 =>a53_original
 ::Assess your odds of starting a fight.::<end>
 
 =>a53
-::Évaluez vos chances de commencer un combat.::<end>
+::Évaluer ses chances de partir en bagarre.::<end>
 
 =>q54_original
 ::The two lieutenants are keeping a close eye on you: Razor is equipped with a shotgun and at least one knife, whereas Cruzer is holding an assault rifle and has a sledgehammer on his back. These two are standing so close that unless you make yourself some breathing space you will not even be able to move a finger without getting pounded into dust. Even if you do manage to handle Razor and Cruzer, you still have to worry about Captain Grim himself.::<end>
 
 =>q54
-::Les deux lieutenants vous surveillent de près : Razor est équipé d'un fusil et d'au moins un couteau, alors que Cruzer tient un fusil d'assaut et a un marteau sur le dos. Ces deux-là sont si proches que si vous ne vous faites pas un peu d'espace pour respirer, vous ne serez même pas en mesure de bouger un doigt sans vous faire taper dans la poussière. Même si vous réussissez à gérer Razor et Cruzer, vous devez toujours vous soucier du capitaine Grim lui-même.::<end>
+::Les deux lieutenants ne vous quittent pas des yeux : Razor a un fusil à pompe et au moins un couteau, Cruzer tient un fusil d'assaut, une masse dans le dos. Ils sont si près que, sans vous faire un peu d'air, vous ne bougerez pas un doigt sans vous faire réduire en poussière. Même si vous venez à bout de Razor et de Cruzer, il restera le capitaine Grim.<end>
 
 =>a55_original
 ::Don't fight.::<end>
 
 =>a55
-::Ne vous battez pas.::<end>
+::Ne pas se battre.::<end>
 
 =>q56_original
 ::You choose not to fight.:: <end>
 
 =>q56
-::Tu choisis de ne pas te battre.:: <end>
+::Vous choisissez de ne pas vous battre.:: <end>
 
 =>q57_original
 <end>
@@ -382,37 +382,37 @@ Tu veux trahir les gens pour qui tu as travaillé et devenir un Grim Jetter ? <e
 Well observed.<end>
 
 =>q59
-Bien observé.<end>
+Bien vu.<end>
 
 =>a60_original
 It would be insulting to suggest that you don't know we are here because of these ruins.<end>
 
 =>a60
-Ce serait insultant de suggérer que vous ne savez pas que nous sommes ici à cause de ces ruines.<end>
+Ce serait insultant de laisser entendre que vous ignorez que nous sommes ici à cause de ces ruines.<end>
 
 =>q61_original
 ::He is silent.::<end>
 
 =>q61
-::Il est silencieux.::<end>
+::Il se tait.::<end>
 
 =>a62_original
 After all, you found the professor studying one of them. And you kidnapped him by going through the evacuation tunnel, which means you have some access to these ruins. But the Keep had far too many valuable items inside for a pirate to resist, which suggests that you haven't found a way to actually get inside.<end>
 
 =>a62
-Après tout, vous avez trouvé le professeur étudiant l'un d'eux. Et vous l'avez kidnappé en passant par le tunnel d'évacuation, ce qui signifie que vous avez accès à ces ruines. Mais le Keep avait beaucoup trop d'objets de valeur à l'intérieur pour qu'un pirate résiste, ce qui suggère que vous n'avez pas trouvé un moyen d'entrer réellement.<end>
+Après tout, vous avez trouvé le professeur en train d'en étudier une. Et vous l'avez enlevé en passant par le tunnel d'évacuation, ce qui veut dire que vous avez un accès à ces ruines. Mais le Keep contenait trop d'objets de valeur pour qu'un pirate résiste, ce qui suggère que vous n'avez pas trouvé le moyen d'entrer pour de vrai.<end>
 
 =>q63_original
 Go on.<end>
 
 =>q63
-Allez.<end>
+Continuez.<end>
 
 =>a64_original
 Which could also apply to the rest of the facilities, some - if not all. Inside are the things we *want*, but the things you could *take*, to reference your previous statement.<end>
 
 =>a64
-Ce qui pourrait également s'appliquer au reste des installations, certaines - sinon toutes. A l'intérieur se trouvent les choses que nous *voulions*, mais les choses que vous pourriez *prendre* pour faire référence à votre déclaration précédente.<end>
+Ce qui pourrait aussi valoir pour le reste des installations, certaines, sinon toutes. Dedans, il y a ce que nous *voulons*, mais aussi ce que vous pourriez *prendre*, pour reprendre vos mots.<end>
 
 =>q65_original
 ::The captain briefly exchanges looks with his two lieutenants, both of which have followed your speech with interest. ::
@@ -420,21 +420,21 @@ Ce qui pourrait également s'appliquer au reste des installations, certaines - s
 Good. I'm speakin' to someone with a good noggin' on his shoulders. I am glad to hear we understand each other. <end>
 
 =>q65
-::Le capitaine regarde brièvement avec ses deux lieutenants, qui ont tous deux suivi votre discours avec intérêt.::
+::Le capitaine échange un regard avec ses deux lieutenants, qui ont tous deux suivi avec intérêt.::
 
-Parfait. Je parle à quelqu'un avec une bonne idée sur les épaules. Je suis heureux d'entendre que nous nous comprenons. <end>
+Bien. Je parle à quelqu'un qui a une vraie tête sur les épaules. Je suis content qu'on se comprenne. <end>
 
 =>q66_original
 What you're doin' here was never in question - you're diggin' through these abandoned, dilapidated facilities scattered across the Hell's Gut. But an expedition like this is an extreme risk. It devours lives and money like a voracious sea serpent. That kind of effort could only come from someone who *knows*, not thinks, *knows* he's gonna get somethin' really freakin' good out of it. You ain't scavengin' for random pieces of tech and museum material - you're after somethin' specific, and I wanna know what it is.<end>
 
 =>q66
-Ce que vous faites ici n'a jamais été en question - vous creusez à travers ces installations abandonnées et délabrées dispersées dans le Gut de l'enfer. Mais une expédition comme celle-ci est un risque extrême. Elle dévore des vies et de l'argent comme un serpent vorace. Ce genre d'effort ne pouvait venir que de quelqu'un qui *sait*, ne pense pas, *sait*, il va avoir quelque chose de vraiment bon en dehors de ça. Tu n'es pas en train de chercher des pièces aléatoires de matériel technique et de musée - tu cherches quelque chose de spécifique, et je veux savoir ce que c'est.<end>
+Ce que vous faites ici n'a jamais été la question : vous fouillez ces installations abandonnées, délabrées, éparpillées dans le Hell's Gut. Mais une expédition comme ça, c'est un risque extrême. Ça dévore des vies et de l'argent comme un serpent de mer. Ce genre d'effort, ça ne vient que de quelqu'un qui *sait*, pas qui pense, qui *sait* qu'il va en tirer un truc vraiment bon. Vous ne ramassez pas des bouts de tech et du matériel de musée au hasard : vous cherchez quelque chose de précis, et je veux savoir quoi.<end>
 
 =>q67_original
 Professor was rather unresponsive, as expected, but in all honesty we didn't even try *persuadin'* him to speak. You, on the other hand, you seem a bit more talkative.<end>
 
 =>q67
-Le professeur était plutôt insensible, comme prévu, mais en toute honnêteté nous n'avons même pas essayé *persuadin'* lui de parler. Toi, par contre, tu sembles un peu plus bavard.<end>
+Le professeur n'était pas très loquace, comme prévu, mais pour être honnête on n'a même pas essayé de le *persuader* de parler. Vous, par contre, vous avez l'air un peu plus bavard.<end>
 
 =>a68_original
 Maybe there is something I can do to help.<end>
@@ -458,13 +458,13 @@ Je suis tout ouïe.<end>
 My role in this whole expedition is rather limited, so perhaps I cannot give you what you really want. Still, I can offer you information on everything we've uncovered so far. How we got inside, what we found, our conclusions - all of that I will share with you once Professor Oldfield has been released.<end>
 
 =>a71
-Mon rôle dans toute cette expédition est assez limité, donc peut-être que je ne peux pas vous donner ce que vous voulez vraiment. Je peux vous donner des informations sur tout ce que nous avons découvert jusqu'ici. Comment nous sommes entrés à l'intérieur, ce que nous avons trouvé, nos conclusions - tout cela que je partagerai avec vous une fois que le professeur Oldfield aura été libéré.<end>
+Mon rôle dans toute cette expédition est assez limité, donc peut-être que je ne peux pas vous donner ce que vous voulez vraiment. Je peux toutefois vous offrir des informations sur tout ce qu'on a trouvé jusqu'ici. Comment on est entrés, ce qu'on a trouvé, nos conclusions : tout ça, je le partagerai avec vous une fois le professeur Oldfield libéré.<end>
 
 =>q72_original
 I like the sound of that. I am primarily interested in how you actually managed to enter the facilities. But more on that later. <end>
 
 =>q72
-J'aime ça. Je suis surtout intéressé par la façon dont vous avez réussi à entrer dans les installations. Mais plus tard. <end>
+J'aime ça. Ce qui m'intéresse surtout, c'est comment vous avez réussi à entrer dans les installations. Mais on y reviendra. <end>
 
 =>q73_original
 <end>
@@ -476,19 +476,19 @@ J'aime ça. Je suis surtout intéressé par la façon dont vous avez réussi à 
 ::[Persuade]:: If these negotiations go well, perhaps we can even help each other. Some of these facilities lie in your territory. Perhaps we can help you unlock some of them - if you were to grant us free passage, <end>
 
 =>a74
-::[Persuader]:: Si ces négociations se déroulent bien, nous pouvons peut-être même nous aider mutuellement. Certaines de ces installations se trouvent sur votre territoire. Peut-être pouvons-nous vous aider à débloquer certains d'entre eux - si vous nous accordiez le libre passage, <end>
+::[Persuade]:: Si ces négociations se passent bien, on peut peut-être même s'entraider. Certaines de ces installations sont sur votre territoire. On pourrait vous aider à en ouvrir quelques-unes, si vous nous accordiez le passage libre, <end>
 
 =>q75_original
 Well... I do have some, how should I say, *issues* with allowin' armed security troopers to roam our waters freely.<end>
 
 =>q75
-Et bien... J'en ai quelques-uns, comment devrais-je dire, *questions* avec la permission des soldats de sécurité armés pour parcourir nos eaux librement.<end>
+Eh bien... J'ai quelques, comment dire, *réserves* à laisser des sec-troopers armés circuler librement dans nos eaux.<end>
 
 =>a76_original
 Then how about just one sec-trooper? You let me pass, perhaps a few unarmed laborers if needed, and that's all we need, really.<end>
 
 =>a76
-Alors, qu'est-ce qu'on fait d'un seul sec-trooper ? Vous me laissez passer, peut-être quelques ouvriers non armés si nécessaire, et c'est tout ce dont nous avons besoin, vraiment.<end>
+Alors, un seul sec-trooper ? Vous me laissez passer, peut-être quelques ouvriers non armés si besoin, et c'est tout ce qu'il nous faut, vraiment.<end>
 
 =>q77_original
 ::He ponders for a moment.::
@@ -498,25 +498,25 @@ Yes. It is possible, it is... But we'll get to it later.<end>
 =>q77
 ::Il réfléchit un instant.::
 
-Oui. C'est possible, c'est... Mais nous y arriverons plus tard.<end>
+Oui. C'est possible, ça l'est... Mais on y viendra plus tard.<end>
 
 =>q78_original
 Good. We're makin' progress.<end>
 
 =>q78
-Parfait. On fait des progrès.<end>
+Bien. On avance.<end>
 
 =>q79_original
 Allowin' armed security troopers to roam our waters freely? You have got to be jokin'.<end>
 
 =>q79
-Vous permettez aux soldats de sécurité armés d'aller librement dans nos eaux ? Il faut que vous jouiez.<end>
+Laisser des sec-troopers armés circuler librement dans nos eaux ? Vous plaisantez.<end>
 
 =>a80_original
 ::[Intimidate]:: I do have to warn you to be really careful what you do with this information while the expedition is still here. We wouldn't want to run into each other at some inopportune moment and recreate a problem you and I are trying to solve now, would we?<end>
 
 =>a80
-::[Intimider]:: Je dois vous avertir de faire très attention à ce que vous faites avec cette information pendant que l'expédition est encore ici. On ne voudrait pas se croiser à un moment inopportun et recréer un problème que vous et moi essayons de résoudre maintenant, n'est-ce pas ?<end>
+::[Intimidate]:: Je dois vous prévenir : soyez très prudent avec ces informations tant que l'expédition est encore là. On n'aurait pas envie de se croiser au mauvais moment et de recréer un problème que vous et moi essayons de régler, n'est-ce pas ?<end>
 
 =>q81_original
 I'll be keepin' that in mind.<end>
@@ -530,15 +530,15 @@ Je vais garder ça en tête.<end>
 I warned you! Now you will pay for your insolence. Seize $(#him/her)!<end>
 
 =>q82
-::Il frappe son poing contre la table.::
+::Il frappe du poing sur la table.::
 
-Je t'avais prévenu ! Maintenant vous allez payer pour votre insolence. Saisissez $(#le/la) !<end>
+Je vous avais prévenu ! Maintenant vous allez payer pour votre insolence. Saisissez-$(#le/la) !<end>
 
 =>a83_original
 ::Do not resist.::<end>
 
 =>a83
-::Ne résistez pas.::<end>
+::Ne pas résister.::<end>
 
 =>q84_original
 ::You stand still while the two man grab you by your arms.::
@@ -546,7 +546,7 @@ Je t'avais prévenu ! Maintenant vous allez payer pour votre insolence. Saisisse
 <end>
 
 =>q84
-::Vous restez immobile pendant que les deux hommes vous attrapent par vos bras.::
+::Vous restez immobile pendant que les deux hommes vous saisissent par les bras.::
 
 <end>
 
@@ -554,13 +554,13 @@ Je t'avais prévenu ! Maintenant vous allez payer pour votre insolence. Saisisse
 We're wastin' time here.<end>
 
 =>q85
-On a perdu du temps ici.<end>
+On perd notre temps ici.<end>
 
 =>q86_original
 Take $(#him/her) away. I know you've made a promise, Cruzer, but refrain from rearrangin' $(#his/her) appearance for now. Both of you, keep your eyes open: The sea is hot.<end>
 
 =>q86
-Prenez $(#le/la). Je sais que vous avez fait une promesse, Cruzer, mais évitez d'arranger ' $(#son/sa) pour le moment. Gardez les yeux ouverts. La mer est chaude.<end>
+Emmenez-$(#le/la). Je sais que vous avez fait une promesse, Cruzer, mais évitez de lui refaire le portrait pour l'instant. Vous deux, les yeux ouverts : la mer est chaude.<end>
 
 =>q87_original
 ::He nods.::
@@ -568,15 +568,15 @@ Prenez $(#le/la). Je sais que vous avez fait une promesse, Cruzer, mais évitez 
 Move yer bones!<end>
 
 =>q87
-::Il acquiesce.::
+::Il hoche la tête.::
 
-Bougez vos os !<end>
+Bougez-vous !<end>
 
 =>a88_original
 ::End Dialog::<end>
 
 =>a88
-::Fin de la boîte de dialogue::<end>
+::Partir.::<end>
 
 =>q89_original
 ::He nods and grabs you.::
@@ -584,15 +584,15 @@ Bougez vos os !<end>
 On yer feet!<end>
 
 =>q89
-::Il hoche la tête et t'attrape.::
+::Il hoche la tête et vous saisit.::
 
-Sur les pieds !<end>
+Debout !<end>
 
 =>a90_original
 ::[Strength] Push Razor and Cruzer away from you and get ready to fight.::<end>
 
 =>a90
-::Poussez Razor et Cruzer loin de vous et préparez-vous à vous battre.::<end>
+::[Strength] Pousser Razor et Cruzer et se préparer à se battre.::<end>
 
 =>q91_original
 <end>
@@ -604,49 +604,49 @@ Sur les pieds !<end>
 ::You manage to pull it off, giving yourself enough room to consider your next move.::<end>
 
 =>q92
-::Vous réussissez à le faire, vous donnant assez de place pour considérer votre prochain mouvement.::<end>
+::Vous y arrivez, assez d'espace pour penser au coup d'après.::<end>
 
 =>a93_original
 ::Scream into the navcom.:: Commence the attack!<end>
 
 =>a93
-::Criez dans le navcom.:: Commencez l'attaque !<end>
+::Crier dans le navcom.:: Lancez l'attaque !<end>
 
 =>q94_original
 ::You hear no response but the echoing gunfire and savage shouting ::<end>
 
 =>q94
-::Vous n'entendez que les coups de feu et les cris sauvages.::<end>
+::Vous n'entendez pas de réponse, seulement les coups de feu qui rebondissent et les cris ::<end>
 
 =>q95_original
 ::before turning your attention to your enemies.::<end>
 
 =>q95
-::avant de tourner votre attention à vos ennemis.::<end>
+::avant de vous tourner vers vos ennemis.::<end>
 
 =>a96_original
 ::Fight!::<end>
 
 =>a96
-::Lutte!::<end>
+::Se battre.::<end>
 
 =>q97_original
 ::You hear a faint confirmation ::<end>
 
 =>q97
-::Vous entendez une faible confirmation::<end>
+::Vous entendez une confirmation faible ::<end>
 
 =>q98_original
 ::Perhaps your body language revealed your intentions, or in an unlikely case your thoughts have been read, but ::<end>
 
 =>q98
-::Peut-être votre langage corporel a révélé vos intentions, ou dans un cas improbable vos pensées ont été lues, mais::<end>
+::Peut-être que votre corps a trahi vos intentions, ou, cas improbable, on vous a lu dans la tête, mais ::<end>
 
 =>q99_original
 ::Cruzer's sledgehammerous fist blasts the air out of your lungs before you even had the chance to realize what happened. Breathless, you drop to your knees only to get hit again, this time in the back of your head.::<end>
 
 =>q99
-::Le poing lugehammereux de Cruzer fait exploser l'air de vos poumons avant même que vous ayez eu la chance de réaliser ce qui s'est passé. Sans souffle, vous tombez à genoux seulement pour être frappé à nouveau, cette fois dans l'arrière de votre tête.::<end>
+::Le poing-masse de Cruzer vous vide les poumons avant même que vous ayez le temps de comprendre. Sans souffle, vous tombez à genoux, et vous en prenez une autre, cette fois à l'arrière du crâne.::<end>
 
 =>q100_original
 ::The whole room begins to spin. You look at the captain but his figure is splitting into three before converging into one in sync with the painful pulses rippling through your brain.::
@@ -654,15 +654,15 @@ Sur les pieds !<end>
 You thought you could be faster than my men? ::These words reverberate inside your skull, drowning out most of what followed.:: ...plan all along?<end>
 
 =>q100
-::Toute la pièce commence à tourner. Vous regardez le capitaine, mais sa figure se divise en trois avant de converger en un, en synchro avec les pulsations douloureuses qui déchirent votre cerveau.::
+::Toute la pièce se met à tourner. Vous regardez le capitaine, mais sa silhouette se fend en trois avant de se rejoindre, au rythme des pulsations douloureuses dans le cerveau.::
 
-Vous pensiez être plus rapide que mes hommes ? ::Ces mots résonnent dans votre crâne, noyant la plupart de ce qui a suivi.:: ... plan depuis le début ?<end>
+Vous pensiez être plus rapide que mes hommes ? ::Ces mots résonnent dans le crâne, noient la plupart de ce qui suit.:: ... le plan depuis le début ?<end>
 
 =>a101_original
 Bastards... You're dead. All of you. You don't know... who you're dealing with...<end>
 
 =>a101
-Des salauds... Vous êtes mort. Tous. Tu ne sais pas... à qui tu as affaire...<end>
+Salauds... Vous êtes morts. Tous. Vous savez pas... à qui vous avez affaire...<end>
 
 =>q102_original
 ::The captain calmly walks up to you and buries his foot in your face so hard it nails your body to the floor. You vision turns black for an instant, before colors begin swirling back to you and the three faces brooding over you gain form. The two lieutenants then grab you by the arms and plant you into your previous position so that you may accept another kick from the captain. Blood starts pouring out of your nose and mouth, and with it you spit out a few teeth.::
@@ -670,15 +670,15 @@ Des salauds... Vous êtes mort. Tous. Tu ne sais pas... à qui tu as affaire...<
 Is this why you came here? To get your face smashed in<end>
 
 =>q102
-::Le capitaine marche calmement vers vous et enterre son pied dans votre visage si dur qu'il cloue votre corps au sol. Vous la vision devient noire un instant, avant que les couleurs commencent à tourbillonner vers vous et les trois visages qui couvent sur vous prennent forme. Les deux lieutenants vous attrapent par les armes et vous plantent dans votre position précédente pour que vous puissiez accepter un autre coup du capitaine. Le sang commence à couler du nez et de la bouche, et avec elle vous crachez quelques dents.::
+::Le capitaine s'approche calmement et vous enfonce le pied dans le visage, assez fort pour vous clouer au sol. La vision noircit un instant, puis les couleurs reviennent en tourbillon et les trois visages penchés sur vous prennent forme. Les deux lieutenants vous saisissent par les bras et vous replantent où vous étiez, pour que vous preniez un autre coup de pied du capitaine. Le sang coule du nez et de la bouche, et avec, vous crachez quelques dents.::
 
-C'est pour ça que tu es venu ? Pour te faire fracasser le visage<end>
+C'est pour ça que vous êtes venu ? Pour vous faire casser la gueule<end>
 
 =>q103_original
  and risk Professor's life further?<end>
 
 =>q103
- et risquer la vie du professeur ?<end>
+ et risquer encore la vie du professeur ?<end>
 
 =>q104_original
 <end>
@@ -690,7 +690,7 @@ C'est pour ça que tu es venu ? Pour te faire fracasser le visage<end>
 ::Spit blood in his face.::<end>
 
 =>a105
-::Du sang dans le visage.::<end>
+::Lui cracher du sang au visage.::<end>
 
 =>q106_original
 ::However, all you manage to hit is his chest, and even spitting that far took considerable effort.::
@@ -698,9 +698,9 @@ C'est pour ça que tu es venu ? Pour te faire fracasser le visage<end>
 Hm. Defiant till the last moment, I see. <end>
 
 =>q106
-::Cependant, tout ce que vous réussissez à frapper est sa poitrine, et même cracher si loin a pris un effort considérable.::
+::Tout ce que vous arrivez à viser, c'est sa poitrine, et même cracher si loin a coûté cher.::
 
-Hm. Defiant jusqu'au dernier moment. <end>
+Hm. Revêche jusqu'au bout, je vois. <end>
 
 =>a107_original
 Wait! Wait... you got this all wrong...<end>
@@ -714,7 +714,7 @@ Attendez ! Attendez... vous avez tout faux...<end>
 <end>
 
 =>q108
-::Le capitaine fait quelques pas en avant, calmement. Vous attendez une autre grève, mais elle ne vient jamais.::
+::Le capitaine fait quelques pas, calmement. Vous attendez un autre coup. Il ne vient pas.::
 
 <end>
 
@@ -722,13 +722,13 @@ Attendez ! Attendez... vous avez tout faux...<end>
 I yield! No... more...<end>
 
 =>a109
-Je cède ! Non... plus...<end>
+Je cède ! Plus... plus...<end>
 
 =>a110_original
 ::Remain silent.::<end>
 
 =>a110
-::Restez silencieux.::<end>
+::Rester silencieux.::<end>
 
 =>q111_original
 ?<end>
@@ -740,19 +740,19 @@ Je cède ! Non... plus...<end>
 You'll pay for this...<end>
 
 =>a112
-Tu vas payer pour ça...<end>
+Vous allez payer pour ça...<end>
 
 =>a113_original
 ::Try to get up.::<end>
 
 =>a113
-::Essayez de vous lever.::<end>
+::Essayer de se lever.::<end>
 
 =>a114_original
 ::[Melee] Punch the two lieutenants in quick succession and give yourself some space to fight.::<end>
 
 =>a114
-::[Melee] Frappez rapidement les deux lieutenants et donnez-vous de l'espace pour vous battre.::<end>
+::[Melee] Frapper les deux lieutenants d'affilée et se faire de l'espace.::<end>
 
 =>q115_original
 <end>
@@ -764,7 +764,7 @@ Tu vas payer pour ça...<end>
 ::[Dodge] They will most likely try to grab you as soon as you move. Dodge them and immediately counterattack.::<end>
 
 =>a116
-::[Dodge] Ils vont très probablement essayer de vous attraper dès que vous déménagez. Détendez-vous et contre-attaquez immédiatement.::<end>
+::[Dodge] Ils vont très probablement essayer de vous saisir dès que vous bougez. Les esquiver et contre-attaquer tout de suite.::<end>
 
 =>q117_original
 <end>
@@ -776,25 +776,25 @@ Tu vas payer pour ça...<end>
 ::[Temporal Manipulation] Slow down your enemies' passage of time so that they'd be unable to react to your attack fast enough.::<end>
 
 =>a118
-::[Manipulation temporelle] Ralentissez le temps de vos ennemis pour qu'ils ne réagissent pas assez vite à votre attaque.::<end>
+::[Temporal Manipulation] Ralentir le temps de vos ennemis pour qu'ils ne réagissent pas assez vite.::<end>
 
 =>a119_original
 ::[Thought Control] Introduce confusion in your enemies' minds and exploit that to attack.::<end>
 
 =>a119
-::[Contrôle envisagé] Introduire la confusion dans l'esprit de vos ennemis et exploiter cela pour attaquer.::<end>
+::[Thought Control] Semer la confusion dans l'esprit de vos ennemis et s'en servir pour attaquer.::<end>
 
 =>a120_original
 ::[Yell] Unleashing high-volume acoustic terror upon your enemies should give you a moment to attack freely. Yell!::<end>
 
 =>a120
-::[Yell] Libérer la terreur acoustique sur vos ennemis devrait vous donner un moment pour attaquer librement. Ouais !::<end>
+::[Yell] Déchaîner une terreur acoustique sur vos ennemis devrait vous donner un moment pour attaquer. Hurler !::<end>
 
 =>a121_original
 ::Just attack!::<end>
 
 =>a121
-::Attaque !::<end>
+::Attaquer.::<end>
 
 =>q122_original
 <end>
@@ -806,7 +806,7 @@ Tu vas payer pour ça...<end>
 And you shouldn't be creatin' a new problem while we're tryin' to solve this one.<end>
 
 =>q123
-Et tu ne devrais pas créer un nouveau problème pendant qu'on essaie de le résoudre.<end>
+Et vous ne devriez pas créer un nouveau problème pendant qu'on essaie de régler celui-là.<end>
 
 =>a124_original
 I think you'll be satisfied.<end>
@@ -818,7 +818,7 @@ Je pense que vous serez satisfait.<end>
 I'd like to change the subject for a moment.<end>
 
 =>a125
-J'aimerais changer de sujet.<end>
+J'aimerais changer de sujet un instant.<end>
 
 =>q126_original
 Of course.<end>
@@ -836,13 +836,13 @@ Je vais voir ce que je peux faire.<end>
 Yes. You think about what I said real good.<end>
 
 =>q128
-Oui. Réfléchis à ce que j'ai dit.<end>
+Oui. Réfléchissez bien à ce que j'ai dit.<end>
 
 =>a129_original
 I know nothing about that. I just ride jet skis and kill stuff.<end>
 
 =>a129
-Je ne sais rien de tout ça. Je fais du jet ski et je tue des trucs.<end>
+Je n'en sais rien. Je pilote des jets et je tue des trucs.<end>
 
 =>a130_original
 I'm aware you know we're here to study the natives.<end>
@@ -854,31 +854,31 @@ Je sais que vous savez qu'on est là pour étudier les indigènes.<end>
 ::He is silent.::<end>
 
 =>q131
-::Il est silencieux.::<end>
+::Il se tait.::<end>
 
 =>a132_original
 Sadly we have antagonized them, kicked the hive as you've said, and now everything's gone to hell. Instead of studying the population we now threaten to exterminate a large part of it.<end>
 
 =>a132
-Malheureusement, nous les avons antagonisés, frappé la ruche comme vous l'avez dit, et maintenant tout est en enfer. Au lieu d'étudier la population, nous risquons maintenant d'en exterminer une grande partie.<end>
+Malheureusement, on les a dressés contre nous, on a tapé dans la ruche comme vous dites, et maintenant tout est parti en enfer. Au lieu d'étudier la population, on menace d'en exterminer une bonne partie.<end>
 
 =>q133_original
 I'm gonna stop you there. I know you ain't here because of the natives, so don't try to deceive me. Now continue.<end>
 
 =>q133
-Je vais t'arrêter là. Je sais que vous n'êtes pas là à cause des indigènes, alors n'essayez pas de me tromper. Continuez.<end>
+Je vous arrête là. Je sais que vous n'êtes pas là à cause des indigènes, alors n'essayez pas de me tromper. Continuez.<end>
 
 =>a134_original
 Tell me why you think we're here then.<end>
 
 =>a134
-Dites-moi pourquoi vous pensez qu'on est là.<end>
+Dites-moi pourquoi vous pensez qu'on est là, alors.<end>
 
 =>q135_original
 ::His stare alone exerts pressure on you, and then he continues speaking in an assertive manner.:: <end>
 
 =>q135
-::Son regard seul exerce une pression sur vous, et puis il continue à parler d'une manière affirmée.:: <end>
+::Son regard seul pèse sur vous, puis il reprend, affirmatif.:: <end>
 
 =>a136_original
 Then you know.<end>
@@ -890,31 +890,31 @@ Alors vous savez.<end>
 Did I say "study the savages"? I meant their habitat. And by habitat I mean these ruins.<end>
 
 =>a137
-J'ai dit "étudier les sauvages" ? Je voulais dire leur habitat. Et par habitat je veux dire ces ruines.<end>
+J'ai dit « étudier les sauvages » ? Je voulais dire leur habitat. Et par habitat, je veux dire ces ruines.<end>
 
 =>a138_original
 They are hostile, but as long as we get our data who cares what happens to those stupid enough to attack us, right?<end>
 
 =>a138
-Ils sont hostiles, mais tant que nous obtenons nos données qui se soucient de ce qui arrive à ces idiots assez pour nous attaquer, non ?<end>
+Ils sont hostiles, mais tant qu'on a nos données, qui se soucie de ce qui arrive à ceux assez cons pour nous attaquer, n'est-ce pas ?<end>
 
 =>a139_original
 How much money would be enough for you to release the professor?<end>
 
 =>a139
-Combien d'argent vous suffirait pour libérer le professeur ?<end>
+Combien d'argent suffirait pour que vous libériez le professeur ?<end>
 
 =>q140_original
 If money was all I wanted you would have received a ransom note. Simple and to the point.<end>
 
 =>q140
-Si l'argent était tout ce que je voulais, tu aurais reçu une rançon. Simple et précis.<end>
+Si l'argent était tout ce que je voulais, vous auriez reçu une demande de rançon. Simple, et au but.<end>
 
 =>q141_original
 Listen... you seem to be missin' one important thing here, somethin' that has sparked my interest since the moment Aegis came here - the purpose of your expedition. We've been livin' among these ruins for years yet know very little about what rests inside. Now you're here, tryin' to open them.<end>
 
 =>q141
-Ecoute... tu sembles manquer une chose importante ici, quelque chose qui a suscité mon intérêt depuis que Aegis est venu ici - le but de ton expédition. Nous vivons parmi ces ruines depuis des années, mais nous savons très peu de choses sur ce qui se cache à l'intérieur. Maintenant vous êtes là, vous essayez de les ouvrir.<end>
+Écoutez... il vous manque une chose importante, ici, quelque chose qui m'intéresse depuis le moment où Aegis est arrivé : le but de votre expédition. On vit parmi ces ruines depuis des années, et on sait très peu de ce qu'il y a dedans. Maintenant vous êtes là, vous essayez de les ouvrir.<end>
 
 =>a142_original
 We are not here because of the ruins.<end>
@@ -932,7 +932,7 @@ N'essayez pas de me tromper. <end>
 But you've entered the Fort through an evacuation tunnel.<end>
 
 =>a144
-Mais vous êtes entré dans le fort par un tunnel d'évacuation.<end>
+Mais vous êtes entré dans le Fort par un tunnel d'évacuation.<end>
 
 =>q145_original
 Yes. But only one entrance to the tunnel was accessible before you arrived.<end>
@@ -944,37 +944,37 @@ Oui. Mais une seule entrée du tunnel était accessible avant votre arrivée.<en
 I am more interested in other things now.<end>
 
 =>q146
-Je suis plus intéressé par d'autres choses maintenant.<end>
+D'autres choses m'intéressent davantage, maintenant.<end>
 
 =>a147_original
 I doubt you would disregard a sum of, say, one hundred... *thousand* charons.<end>
 
 =>a147
-Je doute que vous ayez ignoré une somme de cent mille charons.<end>
+Je doute que vous ignoriez une somme de, disons, cent... *mille* charons.<end>
 
 =>q148_original
 That is... a large sum of money, indeed, but as you start dividin' it among a large group of people the zeroes quickly begin fallin' off. Are you sure you wanna pledge that amount of money as part of your offer?<end>
 
 =>q148
-C'est... une grosse somme d'argent, en effet, mais quand vous commencez à diviser 'il parmi un grand groupe de personnes, les zéros commencent à tomber rapidement. Tu es sûr de vouloir promettre ce montant dans le cadre de ton offre ?<end>
+C'est... une grosse somme, en effet, mais dès qu'on commence à la diviser entre beaucoup de gens, les zéros tombent vite. Vous êtes sûr de vouloir engager ce montant dans votre offre ?<end>
 
 =>a149_original
 Yes. And it's yours as soon as we shake hands.<end>
 
 =>a149
-Oui. Et il est à vous dès qu'on serre la main.<end>
+Oui. Et c'est à vous dès qu'on se serre la main.<end>
 
 =>q150_original
 I like the sound of that. We're makin' progress.<end>
 
 =>q150
-J'aime ça. On fait des progrès.<end>
+J'aime ça. On avance.<end>
 
 =>a151_original
 Um, forget I said anything.<end>
 
 =>a151
-Oubliez ce que j'ai dit.<end>
+Euh, oubliez ce que j'ai dit.<end>
 
 =>q152_original
 ::He says nothing.::<end>
@@ -986,19 +986,19 @@ Oubliez ce que j'ai dit.<end>
 You have a nice cabin here. I see you've managed to collect quite a few intriguing items.<end>
 
 =>a153
-Vous avez une jolie cabane ici. Je vois que vous avez réussi à collecter quelques objets intrigants.<end>
+Vous avez une belle cabine, ici. Je vois que vous avez réussi à collectionner pas mal d'objets intrigants.<end>
 
 =>q154_original
 Thank you, I appreciate the compliment. Do you happen to recognize anythin'?<end>
 
 =>q154
-Merci, j'apprécie le compliment. Vous reconnaissez quelque chose ?<end>
+Merci, j'apprécie. Vous reconnaissez quelque chose ?<end>
 
 =>a155_original
 ::[Biology]:: The first thing I noticed was the vampire bat you have in that cage over there. It's a beautiful specimen indeed, but I don't seem to be able to identify what species it is.<end>
 
 =>a155
-::[Biologie]:: La première chose que j'ai remarquée, c'est la batte de vampire que vous avez dans cette cage. C'est vraiment un beau spécimen, mais je n'arrive pas à identifier l'espèce.<end>
+::[Biology]:: La première chose que j'ai remarquée, c'est la chauve-souris vampire dans cette cage, là-bas. Un bel spécimen, vraiment, mais je n'arrive pas à identifier l'espèce.<end>
 
 =>q156_original
 That is a growlin' vampire bat. They were named such by some of my predecessors due to their unrestrained vocal habits, and they only seem to live here, above the Black Sea. They strike out of the darkness, silently and suddenly, so that they may gorge on their victim's lifeblood to their heart's content... before disappearin' whence they came.
@@ -1006,75 +1006,75 @@ That is a growlin' vampire bat. They were named such by some of my predecessors 
 They've grown to become my favorite animals, I have to admit.<end>
 
 =>q156
-C'est une chauve-souris vampire. Ils ont été nommés ainsi par certains de mes prédécesseurs en raison de leurs habitudes vocales inébranlables, et ils semblent seulement vivre ici, au-dessus du Black Sea. Ils sortent de l'obscurité, silencieusement et soudainement, afin qu'ils puissent gorger le sang de leur victime au contenu de leur cœur... avant de disparaître d'où ils sont venus.
+C'est une chauve-souris vampire grognante. Certains de mes prédécesseurs les ont nommées ainsi, à cause de leurs habitudes vocales sans retenue, et elles ne semblent vivre qu'ici, au-dessus du Black Sea. Elles frappent depuis le noir, silencieuses, soudaines, pour se gaver du sang de leur victime à satiété... avant de disparaître d'où elles sont venues.
 
-Ils sont devenus mes animaux préférés, je dois l'admettre.<end>
+Elles sont devenues mes animaux préférés, je dois l'admettre.<end>
 
 =>q157_original
 You have a very good eye. But what I am hopin' you'll be able to see here and now is somethin' of a different nature. Let us return to our primary topic.<end>
 
 =>q157
-Vous avez un très bon œil. Mais ce que j'espère que vous pourrez voir ici, c'est quelque chose de différent. Revenons à notre sujet principal.<end>
+Vous avez l'œil. Mais ce que j'espère que vous verrez, ici et maintenant, est d'une autre nature. Revenons à notre sujet.<end>
 
 =>a158_original
 ::[Mercantile]:: That painting looks like one of the Classical dystopian pieces. These things can be worth tens of thousands of charons, if not hundreds depending on the artist and the work. If they are originals of course.<end>
 
 =>a158
-::[Mercantile]:: Cette peinture ressemble à une des pièces de dystopie classique. Ces choses peuvent valoir des dizaines de milliers de charons, sinon des centaines selon l'artiste et l'œuvre. S'ils sont originaux bien sûr.<end>
+::[Mercantile]:: Ce tableau ressemble à une pièce dystopique classique. Ça peut valoir des dizaines de milliers de charons, voire des centaines, selon l'artiste et l'œuvre. S'ils sont originaux, bien sûr.<end>
 
 =>q159_original
 If it were an original, it would have been exchanged for cold but heart-warmin' coins. Or maybe it is, but I simply like it too much to give it away.<end>
 
 =>q159
-Si c'était un original, il aurait été échangé contre des pièces froides mais chaudes. Ou peut-être, mais j'aime trop le donner.<end>
+Si c'était un original, il aurait déjà été échangé contre des pièces froides, mais qui réchauffent le cœur. Ou peut-être que ça l'est, mais je l'aime trop pour m'en séparer.<end>
 
 =>a160_original
 ::[Intelligence]:: The chess board. I saw it as soon as my blindfold had been removed. Any man who owns one and keeps it so close to his pillow instantly earns my respect.<end>
 
 =>a160
-::[Intelligence]:: L'échiquier. Je l'ai vu dès que mon bandeau avait été enlevé. Tout homme qui en possède un et le garde si près de son oreiller gagne instantanément mon respect.<end>
+::[Intelligence]:: L'échiquier. Je l'ai vu dès qu'on m'a retiré le bandeau. Tout homme qui en possède un, et le garde si près de son oreiller, gagne tout de suite mon respect.<end>
 
 =>q161_original
 ::He half-smiles.:: Yes, I see what you mean. Sadly, some pieces are missin' from the original set, so the substitute ones I am usin' just... make the experience inferior. Even though chess is an abstract game where each of the pieces is merely a physical representation of a unit which can move in a specific way, there is somethin' captivatin' about seein' them in all of their well-crafted glory, even though you could technically use anythin' in their place.<end>
 
 =>q161
-::Il mi-mille.:: Je vois ce que tu veux dire. Malheureusement, certaines pièces manquent de l'ensemble original, donc les substituts que je suis juste... rendre l'expérience inférieure. Même si les échecs sont un jeu abstrait où chacune des pièces est simplement une représentation physique d'une unité qui peut se déplacer d'une manière spécifique, il y a quelque chose ' captivant' sur les voir' dans toute leur gloire bien faite, même si vous pourriez techniquement utiliser n'importe quoi' à leur place.<end>
+::Il esquisse un sourire.:: Oui, je vois ce que vous voulez dire. Malheureusement, il manque des pièces du jeu d'origine, donc les remplaçantes que j'utilise... rendent l'expérience inférieure. Même si les échecs sont un jeu abstrait, chaque pièce n'étant que la représentation physique d'une unité qui se déplace d'une certaine façon, il y a quelque chose de captivant à les voir dans toute leur gloire bien travaillée, même si on pourrait techniquement mettre n'importe quoi à la place.<end>
 
 =>a162_original
 ::[Electronics]:: The laptop. It's an old BCAF-7LT-W made specifically for the Biocorp military. It's twenty years old at least, and it's waterproof if I'm not mistaken.<end>
 
 =>a162
-::[Électronique]:: L'ordinateur portable. C'est un ancien BCAF-7LT-W fabriqué spécifiquement pour l'armée Biocorp. Elle a au moins vingt ans, et elle est étanche si je ne me trompe pas.<end>
+::[Electronics]:: Le portable. C'est un vieux BCAF-7LT-W, fait spécifiquement pour l'armée Biocorp. Il a au moins vingt ans, et il est étanche, si je ne me trompe pas.<end>
 
 =>q163_original
 It is a machine I have had with me for... many years. It is a trustworthy tool that is more difficult to replace than one would initially assume.<end>
 
 =>q163
-C'est une machine que j'ai avec moi depuis... des années. Il s'agit d'un outil digne de confiance qui est plus difficile à remplacer qu'on ne l'imaginerait initialement.<end>
+C'est une machine que j'ai avec moi depuis... des années. Un outil de confiance, plus difficile à remplacer qu'on ne le croirait d'abord.<end>
 
 =>a164_original
 ::[Perception]:: The map on the desk, it's the map of the Black Sea, right?<end>
 
 =>a164
-::[Perception]:: La carte sur le bureau, c'est la carte du Black Sea, non ?<end>
+::[Perception]:: La carte sur le bureau, c'est la carte du Black Sea, n'est-ce pas ?<end>
 
 =>q165_original
 Yes, yes it is. It is incomplete, of course, as there are limits to how far we can explore, but even that might change soon, don't you think so?<end>
 
 =>q165
-Oui. C'est incomplet, bien sûr, car il y a des limites à la mesure dans laquelle nous pouvons explorer, mais même cela pourrait changer bientôt, ne pensez-vous pas?<end>
+Oui, oui. Elle est incomplète, bien sûr, il y a des limites à ce qu'on peut explorer, mais même ça pourrait changer bientôt, vous ne pensez pas ?<end>
 
 =>a166_original
 Well... hmmm...<end>
 
 =>a166
-Et bien...<end>
+Eh bien... hmmm...<end>
 
 =>q167_original
 I think it's best that we stick to the matters at hand.<end>
 
 =>q167
-Je pense qu'il vaut mieux s'en tenir aux choses en jeu.<end>
+Je pense qu'il vaut mieux s'en tenir à ce qui nous occupe.<end>
 
 =>a168_original
 Can I see the professor?<end>
@@ -1098,7 +1098,7 @@ Pas encore.<end>
 ::[Persuade]:: Can I at least talk to him? To make sure he is alive. It helps the negotiations go smoother if one knows that the person $(#he/she) is bargaining for is still among the living.<end>
 
 =>a171
-::[Persuader]:: Puis-je au moins lui parler ? Pour s'assurer qu'il est vivant. Cela aide les négociations à s'améliorer si l'on sait que la personne $(#il/elle) est toujours en négociation.<end>
+::[Persuade]:: Puis-je au moins lui parler ? Pour m'assurer qu'il est vivant. Les négociations vont plus facilement si l'on sait que la personne pour laquelle on marchande est encore parmi les vivants.<end>
 
 =>q172_original
 <end>
@@ -1110,13 +1110,13 @@ Pas encore.<end>
 Hmmm... You have a point.<end>
 
 =>q173
-- Oui. Vous avez raison.<end>
+Hmmm... Vous avez un point.<end>
 
 =>q174_original
 ::He produces a radio. ::<end>
 
 =>q174
-::Il produit une radio.::<end>
+::Il sort une radio.::<end>
 
 =>q175_original
 ::It is a floatie-talkie, exactly the same model as the one the technician at the camp had. ::<end>
@@ -1132,7 +1132,7 @@ Flinger, do you read. Put the professor on.<end>
 =>q176
 
 
-Flinger, vous lisez. Mettez le professeur.<end>
+Flinger, vous me recevez. Passez-moi le professeur.<end>
 
 =>q177_original
 ::After a moment of silence, you hear the professor's voice coming from the device.::
@@ -1140,9 +1140,9 @@ Flinger, vous lisez. Mettez le professeur.<end>
 This is Professor Oldfield.<end>
 
 =>q177
-::Après un moment de silence, vous entendez la voix du professeur venir de l'appareil.::
+::Après un moment de silence, vous entendez la voix du professeur sortir de l'appareil.::
 
-Voici le professeur Oldfield.<end>
+Ici le professeur Oldfield.<end>
 
 =>a178_original
 Don't worry, Professor, we're gonna get you out!<end>
@@ -1158,7 +1158,7 @@ $(context.npc_xpbl_oldfield_playerName)! Am I glad to hear a familiar voice.<end
 =>q179
 ::Sa voix sort encore de la radio.::
 
-$(context.npc_xpbl_oldfield_playerName) ! Je suis heureux d'entendre une voix familière.<end>
+$(context.npc_xpbl_oldfield_playerName) ! Que je suis content d'entendre une voix familière.<end>
 
 =>a180_original
 Did they hurt you, Professor?<end>
@@ -1174,13 +1174,13 @@ I'm alright. I have not been hurt.<end>
 =>q181
 ::Le professeur continue.::
 
-Je vais bien. Je n'ai pas été blessé.<end>
+Je vais bien. On ne m'a pas fait de mal.<end>
 
 =>a182_original
 Stay strong, Professor. You'll be out of there in no time.<end>
 
 =>a182
-Restez fort, professeur. Tu sortiras de là en un rien de temps.<end>
+Tenez bon, professeur. Vous serez sorti avant longtemps.<end>
 
 =>q183_original
 ::The professor continues.::
@@ -1190,7 +1190,7 @@ I hope so, $(context.npc_xpbl_oldfield_playerName). I'll mark your words.<end>
 =>q183
 ::Le professeur continue.::
 
-Je l'espère, $(context.npc_xpbl_oldfield_playerName). Je vais marquer vos mots.<end>
+Je l'espère, $(context.npc_xpbl_oldfield_playerName). Je retiens vos paroles.<end>
 
 =>q184_original
 That would be all, Professor.
@@ -1200,11 +1200,11 @@ That would be all, Professor.
 As you can hear, the professor is indeed alive. Let us return to our negotiations now.<end>
 
 =>q184
-Ce serait tout, professeur.
+Ça suffira, professeur.
 
-::Il éloigne ensuite la radio.::
+::Puis il range la radio.::
 
-Comme vous pouvez l'entendre, le professeur est en effet vivant. Revenons maintenant à nos négociations.<end>
+Comme vous l'entendez, le professeur est bien vivant. Revenons à nos négociations.<end>
 
 =>a185_original
 I've heard enough.<end>
@@ -1222,19 +1222,19 @@ C'est moi, $(context.player.Name). Vous m'entendez ?<end>
 It sure would. <end>
 
 =>q187
-Bien sûr. <end>
+Ça le ferait, oui. <end>
 
 =>q188_original
 But since we trust each other equally, I'd rather do things my way.<end>
 
 =>q188
-Mais comme nous nous faisons confiance, je préfère faire les choses à ma façon.<end>
+Mais comme on se fait autant confiance l'un que l'autre, je préfère faire les choses à ma façon.<end>
 
 =>a189_original
 ::[Intimidate]:: I think it would be wise of you to convince me that the professor is alive. Otherwise we have a different problem, and that requires different negotiation methods.<end>
 
 =>a189
-::[Intimider]:: Je pense qu'il serait sage de vous de me convaincre que le professeur est vivant. Sinon, nous avons un problème différent, ce qui nécessite des méthodes de négociation différentes.<end>
+::[Intimidate]:: Je pense qu'il serait sage de me convaincre que le professeur est vivant. Sinon, on a un autre problème, et ça demande d'autres méthodes de négociation.<end>
 
 =>q190_original
 <end>
@@ -1264,43 +1264,43 @@ Quand on conclut un marché.<end>
 I don't trust you very much. I'd rather see him.<end>
 
 =>a194
-Je ne te fais pas vraiment confiance. Je préfère le voir.<end>
+Je ne vous fais pas vraiment confiance. Je préfère le voir.<end>
 
 =>q195_original
 Not... yet.<end>
 
 =>q195
-Pas encore.<end>
+Pas... encore.<end>
 
 =>a196_original
 Tell me about the savages and your relations.<end>
 
 =>a196
-Parlez-moi des sauvages et de vos relations.<end>
+Parlez-moi des sauvages, et de vos relations.<end>
 
 =>q197_original
 We are not allies. We have our separate communities, and we stay out of each other's way. Most of the Hell's Gut is theirs, but these southeastern waters, the whole bay, in fact, is our bay - The Pirate Bay. That is good enough for us. They never contested it after we came; they don't even come near our base.<end>
 
 =>q197
-Nous ne sommes pas alliés. Nous avons nos communautés séparées, et nous restons à l'écart les unes des autres. La plus grande partie du Gut de l'Enfer est à eux, mais ces eaux du sud-est, toute la baie, en fait, est notre baie - la baie de Pirate. C'est assez bien pour nous. Ils ne l'ont jamais contesté après notre arrivée, ils ne viennent même pas près de notre base.<end>
+Nous ne sommes pas alliés. On a nos communautés à part, et on se tient hors du chemin de l'autre. La plus grande partie du Hell's Gut est à eux, mais ces eaux du sud-est, toute la baie, en fait, c'est notre baie : the Pirate Bay. Ça nous suffit. Ils ne l'ont jamais contestée après notre arrivée ; ils ne s'approchent même pas de notre base.<end>
 
 =>a198_original
 How come? They were violent toward us since the beginning.<end>
 
 =>a198
-Pourquoi ? Ils ont été violents envers nous depuis le début.<end>
+Comment ça ? Ils ont été violents envers nous dès le début.<end>
 
 =>q199_original
 I've told you: We stay out of each other's way. You invaded their territory, disturbed them - maybe you've been slayin' their beloved serpents, who knows - and now you're in jettin' trouble. But we might be in trouble as well. They came awfully close to our border when they were surroundin' you island, somethin' that never happened before. They are dangerous, and now they are furious. Anythin' could happen.<end>
 
 =>q199
-Je vous l'ai dit, on reste à l'écart. Tu as envahi leur territoire, tu les as dérangés, tu as peut-être tué leurs serpents bien-aimés, qui savent, et maintenant tu as des ennuis. Mais nous pourrions aussi avoir des ennuis. Ils sont venus très près de notre frontière quand ils t'entouraient, quelque chose qui n'était jamais arrivé avant. Ils sont dangereux, et maintenant ils sont furieux. Tout peut arriver.<end>
+Je vous l'ai dit : on se tient hors du chemin de l'autre. Vous avez envahi leur territoire, vous les avez dérangés, peut-être que vous tuez leurs serpents bien-aimés, qui sait, et maintenant vous êtes dans la merde. Mais on pourrait l'être aussi. Ils sont venus terriblement près de notre frontière quand ils encerclaient votre île, quelque chose qui n'était jamais arrivé. Ils sont dangereux, et maintenant ils sont furieux. Tout peut arriver.<end>
 
 =>a200_original
 We came to this expedition well prepared. Maybe there are things in our camp we could offer you.<end>
 
 =>a200
-Nous sommes venus à cette expédition bien préparée. Peut-être qu'il y a des choses dans notre camp que nous pourrions vous offrir.<end>
+On est venus à cette expédition bien préparés. Peut-être qu'il y a des choses dans notre camp qu'on pourrait vous offrir.<end>
 
 =>q201_original
 I'm listenin'.<end>
@@ -1318,13 +1318,13 @@ J'écoute.<end>
 We have weapons, ammo and explosives. I'm sure you could put it to good use.<end>
 
 =>a203
-Nous avons des armes, des munitions et des explosifs. Je suis sûr que vous pourriez l'utiliser.<end>
+On a des armes, des munitions et des explosifs. Je suis sûr que vous sauriez vous en servir.<end>
 
 =>q204_original
 That is true. How much are you offerin' me, exactly?<end>
 
 =>q204
-C'est vrai. Combien m'offrez-vous exactement ?<end>
+C'est vrai. Combien m'offrez-vous, exactement ?<end>
 
 =>q205_original
 <end>
@@ -1336,7 +1336,7 @@ C'est vrai. Combien m'offrez-vous exactement ?<end>
 I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
 
 =>a206
-Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous pourrions épargner.<end>
+Je peux vous offrir les trois quarts de notre stock. C'est tout ce qu'on peut se permettre de lâcher.<end>
 
 =>q207_original
 <end>
@@ -1348,13 +1348,13 @@ Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous p
 I like the sound of that. We're makin' progress.<end>
 
 =>q208
-J'aime ça. On fait des progrès.<end>
+J'aime ça. On avance.<end>
 
 =>a209_original
 ::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
 
 =>a209
-::[Mercantile]:: Je peux vous offrir la moitié de notre offre totale. Je pense que c'est juste, et devrait être suffisant pour satisfaire vos besoins actuels.<end>
+::[Mercantile]:: Je peux vous offrir la moitié de notre stock. Je pense que c'est juste, et que ça devrait suffire à vos besoins actuels.<end>
 
 =>q210_original
 <end>
@@ -1366,13 +1366,13 @@ J'aime ça. On fait des progrès.<end>
 Hmmm... I think you can do better than that.<end>
 
 =>q211
-- Oui. Tu peux faire mieux que ça.<end>
+Hmmm... Je pense que vous pouvez faire mieux.<end>
 
 =>a212_original
 ::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
 
 =>a212
-::[Mercantile]:: Je peux vous offrir un quart de notre offre totale. Ça ne sonne pas beaucoup, mais une fois que nous commencerons à décharger, vous vous demanderez où vous allez stocker toutes ces choses.<end>
+::[Mercantile]:: Je peux vous offrir un quart de notre stock. Ça n'a pas l'air de beaucoup, mais une fois qu'on commencera à décharger, vous vous demanderez où ranger tout ça.<end>
 
 =>q213_original
 <end>
@@ -1396,13 +1396,13 @@ Bien sûr.<end>
 We have high-tech personal equipment: night vision goggles, personal energy shields and other high-tech components.<end>
 
 =>a216
-Nous disposons d'équipements personnels high-tech : lunettes de vision nocturne, boucliers d'énergie personnels et autres composants high-tech.<end>
+On a de l'équipement personnel high-tech : lunettes de vision nocturne, boucliers énergétiques personnels, et d'autres composants high-tech.<end>
 
 =>q217_original
 Enticin'. How much are you offerin' me, exactly?<end>
 
 =>q217
-Entendu. Combien m'offrez-vous exactement ?<end>
+Alléchant. Combien m'offrez-vous, exactement ?<end>
 
 =>q218_original
 <end>
@@ -1414,7 +1414,7 @@ Entendu. Combien m'offrez-vous exactement ?<end>
 I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
 
 =>a219
-Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous pourrions épargner.<end>
+Je peux vous offrir les trois quarts de notre stock. C'est tout ce qu'on peut se permettre de lâcher.<end>
 
 =>q220_original
 <end>
@@ -1426,7 +1426,7 @@ Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous p
 ::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
 
 =>a221
-::[Mercantile]:: Je peux vous offrir la moitié de notre offre totale. Je pense que c'est juste, et devrait être suffisant pour satisfaire vos besoins actuels.<end>
+::[Mercantile]:: Je peux vous offrir la moitié de notre stock. Je pense que c'est juste, et que ça devrait suffire à vos besoins actuels.<end>
 
 =>q222_original
 <end>
@@ -1438,13 +1438,13 @@ Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous p
 Hmmm... I think you can do better than that.<end>
 
 =>q223
-- Oui. Tu peux faire mieux que ça.<end>
+Hmmm... Je pense que vous pouvez faire mieux.<end>
 
 =>a224_original
 ::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
 
 =>a224
-::[Mercantile]:: Je peux vous offrir un quart de notre offre totale. Ça ne sonne pas beaucoup, mais une fois que nous commencerons à décharger, vous vous demanderez où vous allez stocker toutes ces choses.<end>
+::[Mercantile]:: Je peux vous offrir un quart de notre stock. Ça n'a pas l'air de beaucoup, mais une fois qu'on commencera à décharger, vous vous demanderez où ranger tout ça.<end>
 
 =>q225_original
 <end>
@@ -1456,13 +1456,13 @@ Hmmm... I think you can do better than that.<end>
 We have our own jet skis and spare components.<end>
 
 =>a226
-Nous avons nos propres skis jet et composants de rechange.<end>
+On a nos propres jets, et des pièces de rechange.<end>
 
 =>q227_original
 I've noticed. And they appear to be quite powerful machines. State your offer.<end>
 
 =>q227
-J'ai remarqué. Et ils semblent être des machines assez puissantes. Présentez votre offre.<end>
+J'ai remarqué. Et ça a l'air de machines assez puissantes. Posez votre offre.<end>
 
 =>q228_original
 <end>
@@ -1474,7 +1474,7 @@ J'ai remarqué. Et ils semblent être des machines assez puissantes. Présentez 
 I can offer you three quarters of our jet skis. That is all we could possibly spare.<end>
 
 =>a229
-Je peux vous offrir les trois quarts de nos jet skis. C'est tout ce que nous pourrions épargner.<end>
+Je peux vous offrir les trois quarts de nos jets. C'est tout ce qu'on peut se permettre de lâcher.<end>
 
 =>q230_original
 <end>
@@ -1486,7 +1486,7 @@ Je peux vous offrir les trois quarts de nos jet skis. C'est tout ce que nous pou
 ::[Mercantile]:: I can offer you half of our jet skis. I think that is fair, and should be enough to satisfy your current needs.<end>
 
 =>a231
-::[Mercantile]:: Je peux vous offrir la moitié de nos jet skis. Je pense que c'est juste, et devrait être suffisant pour satisfaire vos besoins actuels.<end>
+::[Mercantile]:: Je peux vous offrir la moitié de nos jets. Je pense que c'est juste, et que ça devrait suffire à vos besoins actuels.<end>
 
 =>q232_original
 <end>
@@ -1498,13 +1498,13 @@ Je peux vous offrir les trois quarts de nos jet skis. C'est tout ce que nous pou
 Hmmm... I think you can do better than that.<end>
 
 =>q233
-- Oui. Tu peux faire mieux que ça.<end>
+Hmmm... Je pense que vous pouvez faire mieux.<end>
 
 =>a234_original
 ::[Mercantile]:: I can offer you one quarter of our jet skis. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
 
 =>a234
-::[Mercantile]:: Je peux vous offrir un quart de nos jet skis. Ça ne sonne pas beaucoup, mais une fois que nous commencerons à décharger, vous vous demanderez où vous allez stocker toutes ces choses.<end>
+::[Mercantile]:: Je peux vous offrir un quart de nos jets. Ça n'a pas l'air de beaucoup, mais une fois qu'on commencera à décharger, vous vous demanderez où ranger tout ça.<end>
 
 =>q235_original
 <end>
@@ -1516,61 +1516,61 @@ Hmmm... I think you can do better than that.<end>
 We could give you sec-trooper uniforms. You could use them to impersonate our personnel.<end>
 
 =>a236
-On pourrait vous donner des uniformes de parachutistes. Vous pourriez les utiliser pour imiter notre personnel.<end>
+On pourrait vous donner des uniformes de sec-troopers. Vous pourriez vous en servir pour passer pour notre personnel.<end>
 
 =>q237_original
 Would be of little use without appropriate transportation.<end>
 
 =>q237
-Ce serait peu utile sans transport approprié.<end>
+Ça servirait peu sans un transport qui va avec.<end>
 
 =>q238_original
 Perhaps we should discuss that first.<end>
 
 =>q238
-Peut-être devrions-nous en discuter d'abord.<end>
+Peut-être qu'on devrait en discuter d'abord.<end>
 
 =>q239_original
 Hm. That is not how we do our business. Furthermore, you have no reason not to reveal there are pirates dressed as security troopers as soon as you return to Core City.<end>
 
 =>q239
-Hm. Ce n'est pas ainsi que nous faisons nos affaires. De plus, vous n'avez aucune raison de ne pas révéler qu'il y a des pirates habillés en soldats de sécurité dès votre retour à Core City.<end>
+Hm. Ce n'est pas comme ça qu'on fait nos affaires. En plus, vous n'auriez aucune raison de ne pas révéler qu'il y a des pirates habillés en sec-troopers dès votre retour à Core City.<end>
 
 =>a240_original
 ::[Persuade]:: *When* we return to Core City. You'll have plenty of time to use them while we're here. The locals know that Aegis Incorporated is here and won't suspect a thing.<end>
 
 =>a240
-::[Persuader]:: *Quand* nous revenons à Core City. Vous aurez le temps de les utiliser pendant qu'on est là. Les locaux savent que Aegis Incorporated est là et ne soupçonne rien.<end>
+::[Persuade]:: *Quand* on rentrera à Core City. Vous aurez largement le temps de vous en servir tant qu'on est là. Les locaux savent qu'Aegis Incorporated est là, et ils ne soupçonneront rien.<end>
 
 =>q241_original
 Hmh. You can always warn them.<end>
 
 =>q241
-Oui. Tu peux toujours les prévenir.<end>
+Hmh. Vous pouvez toujours les prévenir.<end>
 
 =>a242_original
 We won't. Not if we make an agreement here.<end>
 
 =>a242
-Nous ne le ferons pas. Pas si nous faisons un accord ici.<end>
+On ne le fera pas. Pas si on conclut un accord ici.<end>
 
 =>q243_original
 ::He pauses:: I'll take them. They could be of use at some point.<end>
 
 =>q243
-::Il s'arrête.:: Je les prends. Ils pourraient être utiles à un moment donné.<end>
+::Il s'arrête.:: Je les prends. Ils pourraient servir, un jour.<end>
 
 =>q244_original
 Good. We're makin' progress.<end>
 
 =>q244
-Parfait. On fait des progrès.<end>
+Bien. On avance.<end>
 
 =>q245_original
 I am not convinced. Seems like high risk for little potential gain. Yes. Too risky.<end>
 
 =>q245
-Je ne suis pas convaincu. Il semble qu'il y ait un risque élevé de faible gain potentiel. Oui. Trop risqué.<end>
+Je ne suis pas convaincu. Ça a l'air d'un gros risque pour un petit gain. Oui. Trop risqué.<end>
 
 =>a246_original
 Then allow me to offer you something else.<end>
@@ -1588,13 +1588,13 @@ Bien sûr.<end>
 We have medication, some of it being very difficult to obtain in South Underrail.<end>
 
 =>a248
-Nous avons des médicaments, certains étant très difficiles à obtenir dans le Sud Underrail.<end>
+On a des médicaments, certains très difficiles à obtenir dans le Sud Underrail.<end>
 
 =>q249_original
 High quality medical supplies are often difficult to acquire. How much are you offerin' me, exactly?<end>
 
 =>q249
-Des fournitures médicales de haute qualité sont souvent difficiles à acquérir. Combien m'offrez-vous exactement ?<end>
+Du matériel médical de qualité, c'est souvent dur à se procurer. Combien m'offrez-vous, exactement ?<end>
 
 =>q250_original
 <end>
@@ -1606,7 +1606,7 @@ Des fournitures médicales de haute qualité sont souvent difficiles à acquéri
 I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
 
 =>a251
-Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous pourrions épargner.<end>
+Je peux vous offrir les trois quarts de notre stock. C'est tout ce qu'on peut se permettre de lâcher.<end>
 
 =>q252_original
 <end>
@@ -1618,13 +1618,13 @@ Je peux vous offrir trois quarts de notre offre totale. C'est tout ce que nous p
 I can offer you half of our total supply. That is all we could possibly spare, as we've already supplied the mutie community with some supplies.<end>
 
 =>a253
-Je peux vous offrir la moitié de notre offre. C'est tout ce que nous pourrions épargner, car nous avons déjà fourni des fournitures à la communauté mutie.<end>
+Je peux vous offrir la moitié de notre stock. C'est tout ce qu'on peut se permettre de lâcher, on a déjà fourni un peu à la communauté mutie.<end>
 
 =>a254_original
 ::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
 
 =>a254
-::[Mercantile]:: Je peux vous offrir la moitié de notre offre totale. Je pense que c'est juste, et devrait être suffisant pour satisfaire vos besoins actuels.<end>
+::[Mercantile]:: Je peux vous offrir la moitié de notre stock. Je pense que c'est juste, et que ça devrait suffire à vos besoins actuels.<end>
 
 =>q255_original
 <end>
@@ -1636,13 +1636,13 @@ Je peux vous offrir la moitié de notre offre. C'est tout ce que nous pourrions 
 Hmmm... I think you can do better than that.<end>
 
 =>q256
-- Oui. Tu peux faire mieux que ça.<end>
+Hmmm... Je pense que vous pouvez faire mieux.<end>
 
 =>a257_original
 ::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
 
 =>a257
-::[Mercantile]:: Je peux vous offrir un quart de notre offre totale. Ça ne sonne pas beaucoup, mais une fois que nous commencerons à décharger, vous vous demanderez où vous allez stocker toutes ces choses.<end>
+::[Mercantile]:: Je peux vous offrir un quart de notre stock. Ça n'a pas l'air de beaucoup, mais une fois qu'on commencera à décharger, vous vous demanderez où ranger tout ça.<end>
 
 =>q258_original
 <end>
@@ -1654,25 +1654,25 @@ Hmmm... I think you can do better than that.<end>
 I'd like to ask you a couple of questions about your pirate community here.<end>
 
 =>a259
-J'aimerais vous poser quelques questions sur votre communauté de pirates.<end>
+J'aimerais vous poser quelques questions sur votre communauté de pirates, ici.<end>
 
 =>q260_original
 Do you honestly think I would answer them? Especially now when I have all the reasons to suspect that you might be byin' time for... somethin'? ::He observes you suspiciously.::<end>
 
 =>q260
-Tu crois vraiment que je leur répondrais ? Surtout maintenant que j'ai toutes les raisons de soupçonner que tu pourrais passer pour quelque chose ? ::Il vous observe suspectement.::<end>
+Vous croyez vraiment que je répondrais ? Surtout maintenant, alors que j'ai toutes les raisons de soupçonner que vous gagnez du temps pour... quelque chose ? ::Il vous observe, méfiant.::<end>
 
 =>q261_original
 Move on.<end>
 
 =>q261
-Allez.<end>
+Passez.<end>
 
 =>a262_original
 About the ruins...<end>
 
 =>a262
-Sur les ruines...<end>
+À propos des ruines...<end>
 
 =>a263_original
 About the savages...<end>
@@ -1684,7 +1684,7 @@ About the savages...<end>
 Yes...?<end>
 
 =>q264
-Oui...?<end>
+Oui... ?<end>
 
 =>q265_original
 <end>
@@ -1696,7 +1696,7 @@ Oui...?<end>
 ::[Persuade]:: The savages are throwing themselves at us like flies. Corpse after corpse, we just pile them up. As the pile gets higher you will have better chances at expanding your territory. There's a lot of things up for grabs in the Hell's Gut, why not take the opportunity? You just have to let us do our job.<end>
 
 =>a266
-::[Persuader]:: Les sauvages se jettent sur nous comme des mouches. Corps après corps, on les empile. Comme la pile devient plus élevée, vous aurez de meilleures chances d'étendre votre territoire. Il y a beaucoup de choses à saisir dans le Gut de l'Enfer, pourquoi ne pas en profiter ? Tu dois juste nous laisser faire notre travail.<end>
+::[Persuade]:: Les sauvages se jettent sur nous comme des mouches. Cadavre après cadavre, on les empile. Plus la pile monte, plus vous aurez de chances d'étendre votre territoire. Il y a beaucoup à prendre dans le Hell's Gut, pourquoi ne pas en profiter ? Vous n'avez qu'à nous laisser faire notre boulot.<end>
 
 =>q267_original
 <end>
@@ -1710,27 +1710,27 @@ Do not underestimate the Scalers; that is a mistake one can easily make. Yet if 
 Or they'll fight till eradication no matter what happens.<end>
 
 =>q268
-Ne sous-estimez pas les scalpers; c'est une erreur que l'on peut facilement faire. Pourtant, si vous pouvez réduire suffisamment leur nombre, peut-être qu'ils se retireront dans leurs tentes et lécheront leurs blessures pendant un moment.
+Ne sous-estimez pas les Scalers ; c'est une erreur facile. Pourtant, si vous réduisez assez leur nombre, peut-être qu'ils se retireront sous leurs tentes et lécheront leurs plaies un moment.
 
-Ou ils combattront jusqu'à l'éradication quoi qu'il arrive.<end>
+Ou ils se battront jusqu'à l'éradication, quoi qu'il arrive.<end>
 
 =>q269_original
 Whatever the case, it is in our interest that you keep them busy.<end>
 
 =>q269
-Quoi qu'il en soit, il est dans notre intérêt de les garder occupés.<end>
+Quoi qu'il en soit, c'est dans notre intérêt que vous les occupiez.<end>
 
 =>q270_original
 You do your job. That's really none of our business.<end>
 
 =>q270
-Faites votre travail. Ça ne nous regarde pas.<end>
+Faites votre boulot. Ça ne nous regarde vraiment pas.<end>
 
 =>a271_original
 ::[Intimidate]:: If you keep standing in our way, these savages are going to overwhelm us. And then it's *your* turn. You yourself said that they are now like a swarm that will devour everyone and everything. It's time to end this once and for all. Let us decimate them, and you get to live.<end>
 
 =>a271
-::[Intimider]:: Si vous continuez à nous gêner, ces sauvages vont nous envahir. Et puis c'est ton tour. Vous avez dit vous-même qu'ils sont maintenant comme un essaim qui dévore tout le monde. Il est temps d'arrêter ça une fois pour toutes. Laissez-nous les décimer, et vous pouvez vivre.<end>
+::[Intimidate]:: Si vous continuez à nous barrer la route, ces sauvages vont nous submerger. Et ensuite ce sera *votre* tour. Vous avez dit vous-même qu'ils sont maintenant comme un essaim qui dévore tout le monde, tout. Il est temps d'en finir. Laissez-nous les décimer, et vous vivez.<end>
 
 =>q272_original
 <end>
@@ -1742,25 +1742,25 @@ Faites votre travail. Ça ne nous regarde pas.<end>
 While I cannot ignore them as a threat, Aegis Incorporated is not the only one that has a say in whether we live or die. You worry about your survival, and we'll worry about ours.<end>
 
 =>q273
-Bien que je ne puisse pas les ignorer en tant que menace, Aegis Incorporated n'est pas le seul qui a son mot à dire pour savoir si nous vivons ou mourons. Tu t'inquiètes pour ta survie, et on s'inquiètera pour la nôtre.<end>
+Je ne peux pas les ignorer comme menace, mais Aegis Incorporated n'est pas la seule à avoir son mot à dire sur si on vit ou on meurt. Vous vous occupez de votre survie, on s'occupera de la nôtre.<end>
 
 =>a274_original
 I presume you take issue with our presence near the entrance, or in your case exit from the Black Sea.<end>
 
 =>a274
-Je suppose que vous vous opposez à notre présence près de l'entrée, ou dans votre cas, sortez du Black Sea.<end>
+Je suppose que notre présence près de l'entrée, ou dans votre cas la sortie du Black Sea, vous pose un problème.<end>
 
 =>q275_original
 Great issue at first. But patience is one of the virtues, especially when it comes to people like us. Impatience brings failure; patience brings reward. I would be tellin' a lie, though, if I said your arrival hasn't thrown a massive wrench into our plans. But as long as we - you and I - make a good deal, we can afford to be patient even further.<end>
 
 =>q275
-Bon numéro au début. Mais la patience est une des vertus, surtout quand il s'agit de gens comme nous. L'impatience apporte l'échec; la patience apporte la récompense. Je dirais un mensonge, si je disais que votre arrivée n'a pas jeté une énorme clé dans nos plans. Mais tant que nous - vous et moi - faisons une bonne affaire, nous pouvons nous permettre d'être encore plus patients.<end>
+Un gros problème, au début. Mais la patience est une vertu, surtout pour des gens comme nous. L'impatience amène l'échec ; la patience, la récompense. Je mentirais, toutefois, si je disais que votre arrivée n'a pas jeté une sacrée clé dans nos plans. Mais tant que nous, vous et moi, faisons un bon marché, on peut se permettre d'être encore plus patients.<end>
 
 =>q276_original
 Moreover, even if you do agree to removin' your patrols from the Jaws there is the issue of whether they will stay away. And the fact that your camp is so close to the Jaws is another thing that bothers me.<end>
 
 =>q276
-De plus, même si vous acceptez de retirer vos patrouilles des Jaws, la question est de savoir s'ils resteront loin. Et le fait que votre camp soit si proche des Jaws est une autre chose qui me dérange.<end>
+De plus, même si vous acceptez de retirer vos patrouilles des Jaws, reste la question de savoir si elles resteront loin. Et le fait que votre camp soit si près des Jaws, ça me dérange aussi.<end>
 
 =>q277_original
 <end>
@@ -1772,55 +1772,55 @@ De plus, même si vous acceptez de retirer vos patrouilles des Jaws, la question
 ::[Persuade]:: That is not something you should worry about. We will send all our patrols to different routes and you will have free passage through the Jaws. It works even better for us, as we can now focus on the savages instead of worrying about you. That is, if you promise to leave us alone.<end>
 
 =>a278
-::[Persuader]:: Ce n'est pas quelque chose dont vous devriez vous soucier. Nous enverrons toutes nos patrouilles sur différentes routes et vous aurez libre passage à travers les Jaws. Ça marche encore mieux pour nous, car nous pouvons maintenant nous concentrer sur les sauvages au lieu de nous inquiéter de vous. Si tu promets de nous laisser seuls.<end>
+::[Persuade]:: Ce n'est pas quelque chose dont vous devriez vous soucier. On enverra toutes nos patrouilles sur d'autres routes, et vous aurez le passage libre aux Jaws. Ça nous arrange même : on pourra se concentrer sur les sauvages au lieu de s'inquiéter de vous. Si vous promettez de nous laisser tranquilles.<end>
 
 =>q279_original
 We have a deal.<end>
 
 =>q279
-Nous avons un marché.<end>
+On a un marché.<end>
 
 =>q280_original
 Interestin', but I find all this... rather unconvincin'. Perhaps this is not somethin' we can agree on. We should move on to somethin' else.<end>
 
 =>q280
-Intéressant, mais je trouve tout ça... plutôt peu convaincant. Peut-être que ce n'est pas quelque chose sur lequel nous pouvons nous mettre d'accord. On devrait passer à autre chose.<end>
+Intéressant, mais je trouve tout ça... plutôt peu convaincant. Peut-être que ce n'est pas un point sur lequel on peut s'accorder. On devrait passer à autre chose.<end>
 
 =>a281_original
 ::[Intimidate]:: Impossible. Not only is the Jaws our only way of retreat in case the savages overwhelm us, but to let you sneak behind our backs and continue your raids? It's immoral and illegal, Captain, and our conscience might suddenly and violently awaken. You will have to stay put, Captain, for your own good. <end>
 
 =>a281
-::[Intimider]:: Impossible. Non seulement les Jaws sont-ils notre seul moyen de retraite au cas où les sauvages nous envahiraient, mais pour vous laisser vous faufiler derrière nous et continuer vos raids ? C'est immoral et illégal, capitaine, et notre conscience pourrait soudainement et violemment se réveiller. Vous devrez rester là, capitaine, pour votre bien. <end>
+::[Intimidate]:: Impossible. Non seulement les Jaws sont notre seule retraite si les sauvages nous submergent, mais vous laisser vous faufiler dans notre dos et continuer vos raids ? C'est immoral et illégal, capitaine, et notre conscience pourrait se réveiller, soudain, violemment. Vous devrez rester où vous êtes, capitaine, pour votre bien. <end>
 
 =>q282_original
 Then it's best that we leave things as they are... for now. We should move on to subjects where we can make an agreement acceptable to both parties.<end>
 
 =>q282
-Alors il vaut mieux laisser les choses comme elles sont... pour l'instant. Nous devrions passer à des sujets où nous pouvons rendre un accord acceptable par les deux parties.<end>
+Alors autant laisser les choses comme elles sont... pour l'instant. On devrait passer à des sujets où on peut trouver un accord acceptable pour les deux.<end>
 
 =>q283_original
 If you wanna see the professor alive again, you better tell your conscience to keep bloody quiet. Forget about the blockade. We should move on to somethin' else.<end>
 
 =>q283
-Si tu veux revoir le professeur vivant, tu ferais mieux de dire à ta conscience de garder le silence. Oubliez le blocus. On devrait passer à autre chose.<end>
+Si vous voulez revoir le professeur vivant, vous feriez mieux de dire à votre conscience de la boucler. Oubliez le blocus. On devrait passer à autre chose.<end>
 
 =>a284_original
 Your guys killed two of our sec-troopers. There were three. What happened to the third one?<end>
 
 =>a284
-Vos gars ont tué deux de nos parachutistes. Il y avait trois. Qu'est-il arrivé au troisième ?<end>
+Vos gars ont tué deux de nos sec-troopers. Ils étaient trois. Qu'est-il arrivé au troisième ?<end>
 
 =>q285_original
 We killed *three* troopers. The third one followed us into the tunnel even though he was bleedin' heavily.<end>
 
 =>q285
-Nous avons tué trois soldats. Le troisième nous a suivis dans le tunnel même s'il saignait beaucoup.<end>
+On a tué *trois* troopers. Le troisième nous a suivis dans le tunnel, même s'il saignait beaucoup.<end>
 
 =>q286_original
 In fact, he was the one who shot our insider <end>
 
 =>q286
-En fait, c'est lui qui a tiré sur notre interne. <end>
+En fait, c'est lui qui a tiré sur notre homme à l'intérieur <end>
 
 =>q287_original
 before he himself received a terminal dose of lead. His body was left in the tunnel; he is now fish chomp.
@@ -1828,33 +1828,33 @@ before he himself received a terminal dose of lead. His body was left in the tun
 I have to give it to him, though, he was a brave man.<end>
 
 =>q287
-avant de recevoir lui-même une dose terminale de plomb. Son corps a été laissé dans le tunnel; il est maintenant poisson chomp.
+avant de recevoir lui-même une dose terminale de plomb. Son corps a été laissé dans le tunnel ; les poissons l'ont croqué.
 
-Mais je dois le lui donner, c'était un homme courageux.<end>
+Je dois le lui reconnaître, toutefois : c'était un homme courageux.<end>
 
 =>q288_original
 He shot one of my men <end>
 
 =>q288
-Il a tiré sur un de mes hommes. <end>
+Il a tiré sur un de mes hommes <end>
 
 =>a289_original
 Where's my jet ski?<end>
 
 =>a289
-Où est mon jet ski ?<end>
+Où est mon jet ?<end>
 
 =>q290_original
 It's in the port. Safe.<end>
 
 =>q290
-C'est dans le port. En sécurité.<end>
+Au port. En sécurité.<end>
 
 =>q291_original
 Let's not digress...<end>
 
 =>q291
-Ne digressons pas...<end>
+Ne nous égarons pas...<end>
 
 =>q292_original
 <end>
@@ -1866,13 +1866,13 @@ Ne digressons pas...<end>
 I am $(context.player.Name), Aegis Incorporated sec-trooper.<end>
 
 =>a293
-Je suis $(context.player.Name), Aegis Incorporated sec-trooper.<end>
+Je suis $(context.player.Name), sec-trooper d'Aegis Incorporated.<end>
 
 =>q294_original
 $(context.player.Name). Sec-trooper. <end>
 
 =>q294
-$(context.player.Name). C'est une traînée. <end>
+$(context.player.Name). Sec-trooper. <end>
 
 =>q295_original
 The professor is safe. <end>
@@ -1884,25 +1884,25 @@ Le professeur est en sécurité. <end>
 The other two - the sec-trooper and the fat one - have succumbed to the wounds they received durin' the fight. We had to abandon them in the tunnel which is now, well, an expansion to the underwater habitat.<end>
 
 =>q296
-Les deux autres ont succombé aux blessures qu'ils ont reçues pendant le combat. Nous avons dû les abandonner dans le tunnel qui est maintenant, bien, une expansion à l'habitat sous-marin.<end>
+Les deux autres, le sec-trooper et le gros, ont succombé aux blessures du combat. On a dû les abandonner dans le tunnel, qui est maintenant, disons, une annexe de l'habitat sous-marin.<end>
 
 =>a297_original
 I know Larry was one of your guys.<end>
 
 =>a297
-Larry était l'un de vos gars.<end>
+Je sais que Larry était un de vos gars.<end>
 
 =>q298_original
 I had no doubts about it. But I did not lie to you: He had been shot by a trooper, right in the neck; he bled out in less than a minute.<end>
 
 =>q298
-Je n'avais aucun doute à ce sujet. Mais je ne vous ai pas menti. Il avait été abattu par un soldat, dans le cou; il a saigné en moins d'une minute.<end>
+Je n'en doutais pas. Mais je ne vous ai pas menti : un trooper l'a touché, en plein cou ; il s'est vidé en moins d'une minute.<end>
 
 =>q299_original
 The professor, however, is just a little shaken up. Shaken up - but unharmed. All of that could change at any moment, of course, dependin' on your actions. As long as you and your comrades keep things civil, no further blood will be shed.<end>
 
 =>q299
-Le professeur, cependant, est juste un peu secoué. Secoué - mais indemne. Tout cela pourrait changer à tout moment, bien sûr, en fonction de vos actions. Tant que vous et vos camarades garderez les choses civiles, aucun autre sang ne sera versé.<end>
+Le professeur, lui, est juste un peu secoué. Secoué, mais indemne. Tout ça pourrait changer à tout moment, bien sûr, selon vos actes. Tant que vous et vos camarades restez civils, plus de sang ne sera versé.<end>
 
 =>q300_original
 <end>
@@ -1914,25 +1914,25 @@ Le professeur, cependant, est juste un peu secoué. Secoué - mais indemne. Tout
 ::[Intelligence]:: You speak of civility, yet you abducted a helpless man while spilling the brains of men who defended him. And even as I come here, the first words coming from your lieutenant's mouth form a sadistic threat. If this is what you call civility, Captain Grim, then the bar is far too low for me to reach, and you need not worry.<end>
 
 =>a301
-::[Intelligence]:: Vous parlez de civilité, mais vous avez enlevé un homme impuissant tout en renversant le cerveau des hommes qui l'ont défendu. Et même en venant ici, les premiers mots venant de la bouche de votre lieutenant forment une menace sadique. Si c'est ce que vous appelez civilité, capitaine Grim, alors la barre est beaucoup trop basse pour que je puisse atteindre, et vous n'avez pas besoin de vous inquiéter.<end>
+::[Intelligence]:: Vous parlez de civilité, et pourtant vous avez enlevé un homme sans défense en répandant la cervelle de ceux qui le défendaient. Et même en arrivant ici, les premiers mots de votre lieutenant forment une menace sadique. Si c'est ça, votre civilité, capitaine Grim, alors la barre est trop basse pour que je l'atteigne, et vous n'avez pas à vous inquiéter.<end>
 
 =>q302_original
 ::He smiles slightly.:: I have to admit that your observations are... sound to a degree. ::But then the smile vanishes.:: However, I stongly disagree with your conclusion. <end>
 
 =>q302
-::Il sourit légèrement.:: Je dois admettre que vos observations sont... saines dans une certaine mesure. ::Mais le sourire disparaît.:: Cependant, je suis fermement en désaccord avec votre conclusion. <end>
+::Il sourit légèrement.:: Je dois admettre que vos observations sont... justes, dans une certaine mesure. ::Puis le sourire disparaît.:: Toutefois, je suis fermement en désaccord avec votre conclusion. <end>
 
 =>q303_original
 This expedition of yours, it has brought a lot of trouble. Not only to us, but *them* as well. You invade someone else's territory, armed and dangerous, flauntin' your disregard for anyone's interests but your own. What did you expect in return? Hospitality? Tolerance? Not only have your patrols confined us here, but the tribesmen, the Scalers - which you had agitated - are all over the Black Sea now, more keen on drinkin' human blood than their mother's milk. You people have kicked the hive, so to speak, with all your might and awakened a swarm that threatens to devour anything that gets in its way.<end>
 
 =>q303
-Votre expédition a causé beaucoup de problèmes. Non seulement pour nous, mais aussi pour eux. Tu envahis le territoire de quelqu'un d'autre, armé et dangereux, et tu défies ton mépris pour les intérêts de n'importe qui, sauf le vôtre. Qu'attendiez-vous en retour ? L'accueil ? Tolérance ? Non seulement vos patrouilles nous enferment ici, mais les tribus, les Scalers - que vous aviez agités - sont partout dans le Black Sea maintenant, plus désireux de boire le sang humain que le lait de leur mère. Vous avez donné des coups de pied à la ruche, pour ainsi dire, avec toute votre force et réveillé un essaim qui menace de dévorer tout ce qui s'y trouve.<end>
+Votre expédition a amené beaucoup d'ennuis. Pas seulement pour nous, pour *eux* aussi. Vous envahissez le territoire de quelqu'un d'autre, armés, dangereux, en étalant votre mépris pour tout intérêt sauf le vôtre. Qu'est-ce que vous attendiez en retour ? L'hospitalité ? La tolérance ? Non seulement vos patrouilles nous enferment ici, mais les tribus, les Scalers, que vous avez agités, sont partout sur le Black Sea maintenant, plus avides de sang humain que du lait de leur mère. Vous avez tapé dans la ruche, pour ainsi dire, de toutes vos forces, et réveillé un essaim qui menace de dévorer tout ce qui se met en travers.<end>
 
 =>q304_original
 Simply put, you've raised hell - you've raised the Hell's Gut. We had to intervene.<end>
 
 =>q304
-En fait, vous avez élevé l'enfer - vous avez élevé le Gut de l'enfer. Nous avons dû intervenir.<end>
+Pour le dire simplement : vous avez soulevé l'enfer. Vous avez soulevé le Hell's Gut. On a dû intervenir.<end>
 
 =>q305_original
 <end>
@@ -1944,25 +1944,25 @@ En fait, vous avez élevé l'enfer - vous avez élevé le Gut de l'enfer. Nous a
 You still haven't told me what you want.<end>
 
 =>a306
-Tu ne m'as toujours pas dit ce que tu voulais.<end>
+Vous ne m'avez toujours pas dit ce que vous voulez.<end>
 
 =>q307_original
 We are pirates, my friend: We don't *want* things - we *take* them. But sometimes things are outside of our reach, no matter how close they might appear. Thus it is not the question of what we want from you, but rather of what you can offer us in exchange for your beloved professor, of course. You understand me?<end>
 
 =>q307
-Nous sommes des pirates, mon ami : Nous ne voulons pas de choses - nous les prenons. Mais parfois, les choses sont hors de notre portée, peu importe leur proximité. Ce n'est donc pas la question de ce que nous voulons de vous, mais plutôt de ce que vous pouvez nous offrir en échange de votre professeur bien-aimé, bien sûr. Compris ?<end>
+Nous sommes des pirates, mon ami : on ne *veut* pas les choses, on les *prend*. Mais parfois les choses sont hors de portée, aussi proches qu'elles paraissent. Donc ce n'est pas la question de ce qu'on veut de vous, mais plutôt de ce que vous pouvez nous offrir en échange de votre cher professeur, bien sûr. Vous me comprenez ?<end>
 
 =>a308_original
 ::[Persuade]:: While I can't say I condone the way in which you interfered, I understand what led you to act like that. Know that I will do my best in trying to reach an agreement with you that will satisfy both sides.<end>
 
 =>a308
-::[Persuader]:: Bien que je ne puisse pas dire que je tolère la façon dont vous avez interféré, je comprends ce qui vous a conduit à agir comme ça. Sachez que je ferai de mon mieux pour essayer de conclure un accord avec vous qui satisfera les deux parties.<end>
+::[Persuade]:: Je ne peux pas dire que j'approuve la façon dont vous êtes intervenus, mais je comprends ce qui vous a poussés à agir comme ça. Sachez que je ferai de mon mieux pour trouver un accord qui satisfera les deux côtés.<end>
 
 =>q309_original
 I didn't get that impression so far.<end>
 
 =>q309
-Je n'ai pas eu cette impression jusqu'ici.<end>
+Je n'en ai pas eu l'impression, jusqu'ici.<end>
 
 =>q310_original
 That is good to hear.<end>
@@ -1974,43 +1974,43 @@ C'est bon à entendre.<end>
 We'll see.<end>
 
 =>q311
-Nous verrons.<end>
+On verra.<end>
 
 =>a312_original
 ::[Intimidate]:: I don't think you, as the pirates who are intercepting local vessels, are in a position to judge someone else's respect for territorial integrity. Besides, we haven't actively and purposefully disturbed your raiding even though we could and should have as representatives of North Underrail, Underrail Protectorate - of law and order. So maybe it is you who shouldn't be kicking any hives.<end>
 
 =>a312
-::[Intimider]:: Je ne pense pas que vous, en tant que pirates qui interceptent des navires locaux, soyez en mesure de juger le respect d'autrui pour l'intégrité territoriale. En outre, nous n'avons pas activement et délibérément perturbé votre descente, même si nous pouvions et devrions avoir comme représentants du Nord Underrail, Underrail Protectorate - de l'ordre public. C'est peut-être toi qui ne devrais pas frapper les ruches.<end>
+::[Intimidate]:: Je ne pense pas que vous, en tant que pirates qui interceptez les bateaux locaux, soyez en position de juger le respect d'autrui pour l'intégrité territoriale. En plus, on n'a pas activement, volontairement, gêné vos raids, même si on pouvait et on devrait, en tant que représentants du Nord Underrail, de l'Underrail Protectorate, de l'ordre. Alors c'est peut-être vous qui ne devriez pas taper dans les ruches.<end>
 
 =>q313_original
 We... most certainly do not wish for our relations to escalate any further.<end>
 
 =>q313
-Nous ne souhaitons certainement pas que nos relations s'aggravent davantage.<end>
+Nous... ne souhaitons certainement pas que nos relations s'enveniment davantage.<end>
 
 =>q314_original
 Actively or not, you have and you still are. And I think you will find that we have been dealin' both with local authorities and the Protectorate rather successfuly . We will not be so easily intimidated.<end>
 
 =>q314
-Activement ou pas, vous l'avez et vous l'êtes toujours. Et je pense que vous constaterez que nous avons affaire à la fois aux autorités locales et au Protectorate plutôt réussi. Nous ne serons pas si facilement intimidés.<end>
+Activement ou pas, vous l'avez fait, et vous le faites encore. Et je pense que vous constaterez qu'on s'est assez bien débrouillés, tant avec les autorités locales qu'avec le Protectorate. On ne se laissera pas intimider si facilement.<end>
 
 =>a315_original
 Tell me, why exactly did you kidnap the professor? Do you simply want us to leave... or is it something else you want?<end>
 
 =>a315
-Dites-moi, pourquoi avez-vous enlevé le professeur ? Voulez-vous simplement qu'on parte... ou est-ce autre chose que vous voulez ?<end>
+Dites-moi, pourquoi exactement avez-vous enlevé le professeur ? Vous voulez simplement qu'on parte... ou c'est autre chose que vous voulez ?<end>
 
 =>a316_original
 Blood is not in our interest, even though a lot of it has been shed so far.<end>
 
 =>a316
-Le sang n'est pas dans notre intérêt, même si beaucoup de sang a été versé jusqu'ici.<end>
+Le sang n'est pas dans notre intérêt, même s'il y en a déjà beaucoup de versé.<end>
 
 =>q317_original
 Which is entirely your fault. <end>
 
 =>q317
-Ce qui est entièrement de ta faute. <end>
+Ce qui est entièrement de votre faute. <end>
 
 =>a318_original
 We'd never risk the professor's life.<end>
@@ -2022,7 +2022,7 @@ On ne risquerait jamais la vie du professeur.<end>
 But you already have. <end>
 
 =>q319
-Mais tu l'as déjà fait. <end>
+Mais vous l'avez déjà fait. <end>
 
 =>a320_original
 What do you want?<end>
@@ -2034,43 +2034,43 @@ Que voulez-vous ?<end>
 If anything happens to the professor you will not *ask* but beg us to be civil.<end>
 
 =>a321
-S'il arrive quelque chose au professeur, vous ne le demanderez pas, mais vous nous supplierez d'être civils.<end>
+S'il arrive quelque chose au professeur, vous ne *demanderez* pas, vous nous supplierez d'être civils.<end>
 
 =>q322_original
 I did not mention civility out of pretentiousness. <end>
 
 =>q322
-Je n'ai pas mentionné la civilité par prétentieux. <end>
+Je n'ai pas parlé de civilité par prétention. <end>
 
 =>a323_original
 We'll see about that.<end>
 
 =>a323
-Nous verrons à ce sujet.<end>
+On verra ça.<end>
 
 =>q324_original
 We will. <end>
 
 =>q324
-Certainement.  <end>
+On verra. <end>
 
 =>a325_original
 Bastards!<end>
 
 =>a325
-Des salauds !<end>
+Salauds !<end>
 
 =>q326_original
 ::He responds to your comment with a smirk.::<end>
 
 =>q326
-::Il répond à votre commentaire avec un sourire.::<end>
+::Il répond à votre commentaire d'un sourire en coin.::<end>
 
 =>a327_original
 ::Let him continue.::<end>
 
 =>a327
-::Laisse-le continuer.::<end>
+::Le laisser continuer.::<end>
 
 =>a328_original
 $(context.player.Name), from South Gate Station.<end>
@@ -2082,25 +2082,25 @@ $(context.player.Name), de South Gate Station.<end>
 A Southgater? Interestin'. Then I feel we will understand each other better, bein' that you're one of the locals.<end>
 
 =>q329
-Un Southgater ? Intéressant. Alors je pense que nous nous comprendrons mieux, en étant l'un des habitants.<end>
+Un Southgater ? Intéressant. Alors je pense qu'on se comprendra mieux, vu que vous êtes du coin.<end>
 
 =>a330_original
 I am $(context.player.Name) of the Institute of Tchort.<end>
 
 =>a330
-Je suis $(context.player.Name) du Institute of Tchort.<end>
+Je suis $(context.player.Name) de l'Institute of Tchort.<end>
 
 =>q331_original
 Tchortist? How interestin': A Tchortist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be.  I've heard there is a lot of you in Core City now. <end>
 
 =>q331
-Tchortist ? Intérêt: Un Tchortist travaille pour un entrepreneur de sécurité de North Underrail. Je me demande - je le fais honnêtement - comment ça s'est passé. Il paraît qu'il y a beaucoup d'entre vous dans Core City maintenant. <end>
+Tchortist ? Intéressant : un Tchortist qui bosse pour un contractant de sécurité du Nord Underrail. Je me demande, honnêtement, comment *ça* s'est fait. J'ai entendu dire qu'il y en a beaucoup, de vous, à Core City maintenant. <end>
 
 =>q332_original
 But... ::He shakes his head.:: I suppose now is not the time to discuss that.<end>
 
 =>q332
-Mais... ::Il secoue la tête.:: Je suppose que ce n'est pas le moment de discuter de ça.<end>
+Mais... ::Il secoue la tête.:: Je suppose que ce n'est pas le moment d'en discuter.<end>
 
 =>a333_original
 I am Corporal $(context.player.Name), Underrail Protectorate.<end>
@@ -2112,7 +2112,7 @@ Je suis le caporal $(context.player.Name), Underrail Protectorate.<end>
 Well, well - Protectorate. Cruzer is gonna like you even more now. One of your comrades gave him one jettin' scar many years ago.<end>
 
 =>q334
-Et bien - Protectorate. Cruzer va t'apprécier encore plus. Un de vos camarades lui a fait une cicatrice il y a des années.<end>
+Eh bien, eh bien : Protectorate. Cruzer va vous apprécier encore plus. Un de vos camarades lui a laissé une sacrée cicatrice, il y a des années.<end>
 
 =>q335_original
 ::He pulls down his bandana to show you a massive hole in the left side of his lower jaw. His teeth are present for the most part, but their geometry and placement have been altered severely; the way his bandana clings to his jaw after putting it back on outlines this arrangement much like x-ray imaging.::
@@ -2120,21 +2120,21 @@ Et bien - Protectorate. Cruzer va t'apprécier encore plus. Un de vos camarades 
 I had to spend two months in bed 'cus a dis. <end>
 
 =>q335
-::Il descend son bandana pour vous montrer un trou massif dans le côté gauche de sa mâchoire inférieure. Ses dents sont présentes pour la plupart, mais leur géométrie et leur emplacement ont été sérieusement modifiés; la façon dont son bandana s'accroche à sa mâchoire après l'avoir remis sur les contours de cet arrangement beaucoup comme l'imagerie par rayons X.::
+::Il baisse son bandana pour vous montrer un trou énorme du côté gauche de la mâchoire inférieure. Les dents sont là, pour la plupart, mais leur géométrie, leur placement, ont été sévèrement altérés ; le bandana, une fois remis, épouse cette mâchoire comme une radio.::
 
-J'ai dû passer deux mois au lit. <end>
+J'ai passé deux mois au lit à cause de ça. <end>
 
 =>a336_original
 Sorry to hear you had to go through that.<end>
 
 =>a336
-Désolé d'apprendre que tu as dû traverser ça.<end>
+Désolé d'apprendre que vous avez dû passer par là.<end>
 
 =>q337_original
 Two months. Cost me a lotta coins, it did, 'cus I couldn't loot. But it cost 'im 'is life. ::He grins.:: Coins can be stolen at any time, life is one.<end>
 
 =>q337
-Deux mois. Ça m'a coûté beaucoup de pièces, parce que je ne pouvais pas piller. Mais ça m'a coûté la vie. ::Il sourit.:: Les pièces peuvent être volées à tout moment, la vie en est une.<end>
+Deux mois. Ça m'a coûté un tas de pièces, parce que je pouvais pas piller. Mais ça lui a coûté la vie. ::Il sourit.:: Les pièces, on les vole n'importe quand. La vie, y en a qu'une.<end>
 
 =>q338_original
 Corporal, <end>
@@ -2146,13 +2146,13 @@ Caporal, <end>
 Cool scar, bro. I bet it gets you a lot of women.<end>
 
 =>a339
-C'est cool, mec. Je parie que ça t'apporte beaucoup de femmes.<end>
+Belle cicatrice, mec. Je parie que ça t'amène un tas de femmes.<end>
 
 =>q340_original
 ::He sneers.:: Why ye askin'? Interested in offerin' yer pretty little ass, eh?<end>
 
 =>q340
-::Il éternue.:: Pourquoi ? Tu veux lui offrir un joli petit cul ?<end>
+::Il ricane.:: Pourquoi t'demandes ? T'as envie d'offrir ton joli petit cul, hein ?<end>
 
 =>q341_original
 Cruzer.<end>
@@ -2168,7 +2168,7 @@ Yes, Cap'n.<end>
 =>q342
 ::Il hoche la tête et se détend.::
 
-Oui.<end>
+Oui, cap'taine.<end>
 
 =>q343_original
 ::He turns to you.::
@@ -2176,7 +2176,7 @@ Oui.<end>
 <end>
 
 =>q343
-::Il se tourne vers toi.::
+::Il se tourne vers vous.::
 
 <end>
 
@@ -2184,31 +2184,31 @@ Oui.<end>
 I don' need no scars. I can get any ass I wan' 'round 'ere. I jus' snap me fingers an' dem floozies line up. Ye wanna bend over too, eh?<end>
 
 =>q344
-J'ai pas besoin de cicatrices. Je peux avoir n'importe quoi. Je me tape les doigts et les floozies. Tu veux te pencher aussi ?<end>
+J'ai pas besoin de cicatrices. Ici j'ai le cul que je veux. Je claque des doigts, les gonzesses s'alignent. Tu veux te pencher aussi, hein ?<end>
 
 =>a345_original
 How can you be sure it wasn't me? I've shot at a lot of ass-faced bastards during my career.<end>
 
 =>a345
-Comment pouvez-vous être sûr que ce n'était pas moi ? J'ai tiré sur beaucoup de salauds au cul pendant ma carrière.<end>
+Comment tu peux être sûr que c'était pas moi ? J'ai tiré sur un tas de salauds à gueule de cul, dans ma carrière.<end>
 
 =>q346_original
 Was a man. An' 'e's dead now. <end>
 
 =>q346
-C'était un homme. Un e est mort. <end>
+C'était un homme. Et il est mort. <end>
 
 =>q347_original
 Who knows, maybe I get to pop ye as well.<end>
 
 =>q347
-Qui sait, peut-être que je peux aussi vous faire sauter.<end>
+Qui sait, peut-être que je te descends toi aussi.<end>
 
 =>q348_original
 'E's dead. <end>
 
 =>q348
-E est mort. <end>
+Il est mort. <end>
 
 =>a349_original
 That has nothing to do with me.<end>
@@ -2220,13 +2220,13 @@ That has nothing to do with me.<end>
 Yer d' Cap'n's guest now, but out dere yer kind's free game. <end>
 
 =>q350
-Yer d' Cap'n est l'invitée, mais c'est gratuit. <end>
+Là t'es l'invité du cap'taine, mais dehors, les tiens c'est gibier libre. <end>
 
 =>a351_original
 ::Say nothing.::<end>
 
 =>a351
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q352_original
 Well... <end>
@@ -2238,19 +2238,19 @@ Bien... <end>
 $(context.player.Name) of the Free Drones.<end>
 
 =>a353
-$(context.player.Name) du Free Drones.<end>
+$(context.player.Name) des Free Drones.<end>
 
 =>q354_original
 Free Drones? How interestin': An anarchist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be. <end>
 
 =>q354
-Free Drones ? Un anarchiste qui travaille pour un entrepreneur en sécurité de North Underrail. Je me demande - je le fais honnêtement - comment ça s'est passé. <end>
+Free Drones ? Intéressant : un anarchiste qui bosse pour un contractant de sécurité du Nord Underrail. Je me demande, honnêtement, comment *ça* s'est fait. <end>
 
 =>a355_original
 Where is Professor Oldfield? What have you done with him?<end>
 
 =>a355
-Où est le professeur Oldfield? Qu'avez-vous fait de lui ?<end>
+Où est le professeur Oldfield ? Qu'est-ce que vous lui avez fait ?<end>
 
 =>q356_original
 He is safe. <end>
@@ -2268,13 +2268,13 @@ Où sont-ils ?<end>
 You mean Professor Oldfield and the other men? <end>
 
 =>q358
-Le professeur Oldfield et les autres hommes ? <end>
+Vous voulez dire le professeur Oldfield et les autres hommes ? <end>
 
 =>a359_original
 ::Say nothing.::<end>
 
 =>a359
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q360_original
 <end>
@@ -2298,7 +2298,7 @@ Alors ?<end>
 How about I offer you my own services?<end>
 
 =>a363
-Et si je vous offre mes propres services ?<end>
+Et si je vous offrais mes propres services ?<end>
 
 =>q364_original
 ::The three men look at each other.::
@@ -2314,13 +2314,13 @@ Et si je vous offre mes propres services ?<end>
 In what sense, exactly?<end>
 
 =>q365
-Dans quel sens exactement ?<end>
+Dans quel sens, exactement ?<end>
 
 =>a366_original
 I want to join you. I want to become a pirate.<end>
 
 =>a366
-Je veux me joindre à vous. Je veux devenir pirate.<end>
+Je veux vous rejoindre. Je veux devenir pirate.<end>
 
 =>q367_original
 ::Laughter breaks out.::
@@ -2330,19 +2330,19 @@ A pirate, eh? Are you mockin' us?<end>
 =>q367
 ::Le rire éclate.::
 
-Un pirate, hein ? Tu te moques de nous ?<end>
+Pirate, hein ? Vous vous moquez de nous ?<end>
 
 =>q368_original
 'E gotta be.<end>
 
 =>q368
-Ça doit être moi.<end>
+Forcément.<end>
 
 =>a369_original
 ::[Intelligence]:: Mocking you whilst being in a position as vulnerable as this would be detrimental to my health.<end>
 
 =>a369
-::[Intelligence]:: Tu te masturber tout en étant aussi vulnérable que ça serait préjudiciable à ma santé.<end>
+::[Intelligence]:: Se moquer de vous dans une position aussi vulnérable serait préjudiciable à ma santé.<end>
 
 =>q370_original
 Indeed it would.<end>
@@ -2354,7 +2354,7 @@ En effet.<end>
 Now, don't you think one who's been given this perfect opportunity to assess who the winner of this factional tug-of-war is going to be might not - in the end - decide to work toward negotiating Professor Oldfield's release but instead toward his own acceptance into this crew.<end>
 
 =>a371
-Maintenant, ne pensez-vous pas que quelqu'un qui a eu cette occasion parfaite d'évaluer qui le gagnant de ce remorqueur de guerre factionnel ne sera peut-être pas - à la fin - décider de travailler à négocier la libération du professeur Oldfield mais plutôt à son propre acceptation dans cet équipage.<end>
+Maintenant, vous ne pensez pas que quelqu'un à qui on a donné cette occasion parfaite d'évaluer qui va gagner ce bras de fer entre factions pourrait, au bout du compte, décider de ne pas négocier la libération du professeur Oldfield, mais plutôt sa propre entrée dans cet équipage.<end>
 
 =>q372_original
 ::A quick smile escapes him.:: I see what you mean. 
@@ -2376,13 +2376,13 @@ Alors...<end>
 ::[Persuade]:: I'm serious. The expedition is a sinking ship, and I'd rather be switching to this one.<end>
 
 =>a374
-::[Persuader]:: Je suis sérieux. L'expédition est un navire qui coule, et je préfère passer à celui-ci.<end>
+::[Persuade]:: Je suis sérieux. L'expédition est un navire qui coule, et je préfère passer sur celui-ci.<end>
 
 =>q375_original
 Let me get this straight: You came here to negotiate the release of your dear professor, but now you suddenly realize that you wanna become a pirate?<end>
 
 =>q375
-Laissez-moi comprendre : Vous êtes venu ici pour négocier la libération de votre cher professeur, mais maintenant vous réalisez soudainement que vous voulez devenir un pirate ?<end>
+Que je comprenne : vous êtes venu ici pour négocier la libération de votre cher professeur, et maintenant vous réalisez soudain que vous voulez devenir pirate ?<end>
 
 =>a376_original
 Not suddenly, I knew it for a long time. But I thought this would be the right moment. You and me, Captain, face to face, that's what I was waiting for.<end>
@@ -2400,13 +2400,13 @@ Pas soudainement, je le savais depuis longtemps. Mais je pensais que ce serait l
 I ain't buyin' a word. Now stop wastin' my time.<end>
 
 =>q378
-Je n'achèterai pas un mot. Maintenant, arrêtez-moi.<end>
+Je n'achète pas un mot. Arrêtez de me faire perdre mon temps.<end>
 
 =>a379_original
 I just wanted to introduce a bit of humor into these negotiations. No harm in that, eh?<end>
 
 =>a379
-Je voulais juste introduire un peu d'humour dans ces négociations. Pas de mal, hein ?<end>
+Je voulais juste glisser un peu d'humour dans ces négociations. Pas de mal, hein ?<end>
 
 =>q380_original
 Not at all.<end>
@@ -2424,31 +2424,31 @@ Oubliez ce que j'ai dit.<end>
 Will do.<end>
 
 =>q382
-Ça ira.<end>
+Ça marche.<end>
 
 =>a383_original
 There is not much I can offer you.<end>
 
 =>a383
-Je ne peux pas vous offrir grand chose.<end>
+Je ne peux pas vous offrir grand-chose.<end>
 
 =>q384_original
 Oh, I think there is. You just have to think.<end>
 
 =>q384
-Oh, je crois que oui. Tu dois juste réfléchir.<end>
+Oh, je pense que si. Il suffit de réfléchir.<end>
 
 =>a385_original
 How do you like my offer?<end>
 
 =>a385
-Tu aimes mon offre ?<end>
+Que dites-vous de mon offre ?<end>
 
 =>q386_original
 So you're offerin' $(context.event_pir_meeting_offerLine) in exchange for Professor Oldfield's freedom.<end>
 
 =>q386
-Vous offrez donc $(context.event_pir_meeting_offerLine) en échange de la liberté du professeur Oldfield.<end>
+Donc vous offrez $(context.event_pir_meeting_offerLine) en échange de la liberté du professeur Oldfield.<end>
 
 =>a387_original
 Yes.<end>
@@ -2472,37 +2472,37 @@ J'accepte.<end>
 I might not have learned all I wanted, but after a deal like this I am willin' to wait. <end>
 
 =>q390
-Je n'ai peut-être pas appris tout ce que je voulais, mais après un accord comme celui-ci, je vais attendre. <end>
+Je n'ai peut-être pas appris tout ce que je voulais, mais après un marché comme ça, je veux bien attendre. <end>
 
 =>q391_original
 But first things first - the information you promised.<end>
 
 =>q391
-Mais tout d'abord, les informations que vous avez promises.<end>
+Mais d'abord : les informations que vous avez promises.<end>
 
 =>q392_original
 You're almost there... <end>
 
 =>q392
-Tu y es presque... <end>
+Vous y êtes presque... <end>
 
 =>q393_original
 We're gettin' somewhere, but you can do better.<end>
 
 =>q393
-On va quelque part, mais tu peux faire mieux.<end>
+On avance, mais vous pouvez faire mieux.<end>
 
 =>q394_original
 You can do much better than this. ::He smirks.::<end>
 
 =>q394
-Tu peux faire bien mieux que ça. ::Il sourit.::<end>
+Vous pouvez faire bien mieux que ça. ::Il sourit en coin.::<end>
 
 =>q395_original
 Don't insult me.<end>
 
 =>q395
-Ne m'insulte pas.<end>
+Ne m'insultez pas.<end>
 
 =>a396_original
 Actually, I need to reconsider.<end>
@@ -2514,43 +2514,43 @@ En fait, je dois reconsidérer.<end>
 Of course.I am in no rush. Can't say the same for the professor.<end>
 
 =>q397
-Bien sûr. Je ne suis pas pressé. Je ne peux pas dire la même chose pour le professeur.<end>
+Bien sûr. Je ne suis pas pressé. Je ne peux pas en dire autant du professeur.<end>
 
 =>q398_original
 You haven't made one.<end>
 
 =>q398
-Tu n'en as pas fait.<end>
+Vous n'en avez pas fait.<end>
 
 =>q399_original
 Well? Answer me.<end>
 
 =>q399
-Alors ? Réponds-moi.<end>
+Alors ? Répondez-moi.<end>
 
 =>a400_original
 Yes, I want to be a pirate.<end>
 
 =>a400
-Oui, je veux être un pirate.<end>
+Oui, je veux être pirate.<end>
 
 =>a401_original
 ::Scream into the navcom.:: Commence the attack!<end>
 
 =>a401
-::Criez dans le navcom.:: Commencez l'attaque !<end>
+::Crier dans le navcom.:: Lancez l'attaque !<end>
 
 =>q402_original
 ::You open your mouth, but nothing but a grunt comes out: ::<end>
 
 =>q402
-::Tu ouvres la bouche, mais rien qu'un grognement sort :::<end>
+::Vous ouvrez la bouche, mais il n'en sort qu'un grognement : ::<end>
 
 =>q403_original
 Now, Cruzer, this person is no dryfoot thug. $(#He/She) came here as a negotiator.<end>
 
 =>q403
-Maintenant, Cruzer, cette personne n'est pas un voyou. $(#Il/Elle) est venu ici en tant que négociateur.<end>
+Maintenant, Cruzer, cette personne n'est pas un voyou de terre. $(#Il/Elle) est venu ici pour négocier.<end>
 
 =>q404_original
 ::His eyes shift to you.::
@@ -2558,9 +2558,9 @@ Maintenant, Cruzer, cette personne n'est pas un voyou. $(#Il/Elle) est venu ici 
 Even though $(#he/she) has Grim Jetter blood on $(#his/her) hands.<end>
 
 =>q404
-::Ses yeux tournent vers vous.::
+::Ses yeux passent à vous.::
 
-Même si $(#il/elle) a Grim Jetter sang sur les mains $(#son/sa).<end>
+Même si $(#il/elle) a du sang de Grim Jetter sur les mains.<end>
 
 =>q405_original
 ::His eyes shift to you.::
@@ -2568,39 +2568,39 @@ Même si $(#il/elle) a Grim Jetter sang sur les mains $(#son/sa).<end>
 But I'd heed his advice if I were you.<end>
 
 =>q405
-::Ses yeux tournent vers vous.::
+::Ses yeux passent à vous.::
 
-Mais j'aurais suivi son conseil si j'étais vous.<end>
+Mais je suivrais son conseil, à votre place.<end>
 
 =>q406_original
 ::Wearing a blindfold is indisputably one disorienting and unsettling experience. Still, having your vision suspended results in your other, unimprisoned senses becoming more reactive to the world around you as to provide you with sufficient information...::<end>
 
 =>q406
-::Porter un bandeau des yeux est incontestablement une expérience désorientante et troublante. Pourtant, si votre vision est suspendue, vos autres sens, non emprisonnés, deviennent plus réactifs au monde qui vous entoure pour vous fournir suffisamment d'informations...::<end>
+::Porter un bandeau, c'est indiscutablement désorientant, dérangeant. Pourtant, la vue coupée, les autres sens, libres, deviennent plus réactifs au monde autour, pour vous fournir assez d'informations...::<end>
 
 =>q407_original
 ::The first thing you hear after being blindfolded is the sound of jet skis cutting mercilessly through the waves of the Black Sea. Then you hear what sounds like a massive gate opening in the distance; as you approach the source of that sound, you hear various voices dancing around you, close and far, becoming more pronounced as the machines that brought you to them have at last embraced silence.::<end>
 
 =>q407
-::La première chose que vous entendez après avoir été bandé les yeux est le bruit de jet skis coupant sans pitié à travers les vagues de la mer Noire. Puis vous entendez ce qui sonne comme une porte massive s'ouvrant au loin ; alors que vous approchez de la source de ce son, vous entendez diverses voix dansant autour de vous, proches et lointaines, devenant plus prononcées que les machines qui vous ont amené à eux ont enfin embrassé le silence.::<end>
+::La première chose que vous entendez, une fois bandé, c'est le bruit des jets qui coupent les vagues du Black Sea, sans pitié. Puis ce qui ressemble à une énorme porte, au loin. En approchant, des voix dansent autour de vous, proches, lointaines, de plus en plus nettes, pendant que les machines qui vous ont amené se taisent enfin.::<end>
 
 =>q408_original
 ::After stepping onto solid ground, made of grated metal judging by its feel and sound, you smell food: crab, fish, spices and some less appetizing dishes. You also smell gunpowder, sweat, dirty socks, dog excrement, gasoline, electrolyte and a myriad of other odors, all mixed together. You smell a human settlement, and you are walking - or being tugged, more accurately - right through it.::<end>
 
 =>q408
-::Après avoir marché sur un sol solide, fait de métal râpé en jugeant par sa sensation et son son, vous sentez la nourriture: crabe, poisson, épices et quelques plats moins appétissants. Vous sentez aussi la poudre, la sueur, les chaussettes sales, les excréments de chiens, l'essence, l'électrolyte et une myriade d'autres odeurs, toutes mélangées. Vous sentez un établissement humain, et vous marchez - ou vous êtes coincé, plus exactement - à travers lui.::<end>
+::Une fois le pied sur le sol, du métal grillagé à en juger au toucher et au son, vous sentez la bouffe : crabe, poisson, épices, et des plats moins ragoûtants. Vous sentez aussi la poudre, la sueur, les chaussettes sales, la merde de chien, l'essence, l'électrolyte, et une ribambelle d'autres odeurs, toutes mélangées. Vous sentez un campement humain, et vous marchez, on vous tire, plus précisément, droit dedans.::<end>
 
 =>q409_original
 ::The voices follow you, but only up until you climb a flight of stairs and step into an unstable, echoing place; a hand lowers your head so that you don't hit something while entering this building.::<end>
 
 =>q409
-::Les voix vous suivent, mais seulement jusqu'à ce que vous montiez un vol d'escaliers et que vous passiez dans un endroit instable, échouant; une main baisse la tête de sorte que vous ne frappez pas quelque chose en entrant dans ce bâtiment.::<end>
+::Les voix vous suivent, mais seulement jusqu'à ce que vous montiez un escalier et entriez dans un endroit instable, qui résonne ; une main vous baisse la tête pour que vous ne cogniez rien en entrant.::<end>
 
 =>q410_original
 ::Your nose has been treated with rather insalubrious smells since you arrived to this community, so it comes as a bit of a surprise when you come into a room filled with some kind of herbal fragrance, one you can't exactly identify; the occasional alcoholic notes that linger in the air you are able to recognize easily, though, as well as the smell of a live bat.::<end>
 
 =>q410
-::Votre nez a été traité avec des odeurs assez insalubres depuis votre arrivée dans cette communauté, donc il vient comme une surprise quand vous entrez dans une pièce remplie d'une sorte de parfum à base de plantes, une que vous ne pouvez pas identifier exactement; les notes alcooliques occasionnelles qui s'attardent dans l'air que vous êtes en mesure de reconnaître facilement, cependant, ainsi que l'odeur d'une chauve-souris vivante.::<end>
+::Votre nez a essuyé des odeurs assez malsaines depuis votre arrivée dans cette communauté, donc c'est une petite surprise d'entrer dans une pièce emplie d'un parfum d'herbes, un que vous n'arrivez pas tout à fait à identifier ; les notes d'alcool qui traînent, celles-là, vous les reconnaissez facilement, ainsi que l'odeur d'une chauve-souris vivante.::<end>
 
 =>q411_original
 ::You hear the door closing behind you. You step on a soft carpet. The person which led you here stops to the right of you, yet you feel another close presence to your left as well. And then, after a moment of silence, you hear the third participant just in front of you.::
@@ -2608,19 +2608,18 @@ Mais j'aurais suivi son conseil si j'étais vous.<end>
 Remove $(#his/her) blindfold.<end>
 
 =>q411
-::Vous entendez la porte se fermer derrière vous. Tu marches sur un tapis mou. La personne qui vous a conduit ici s'arrête à droite de vous, mais vous ressentez une autre présence proche à votre gauche aussi. Et puis, après un moment de silence, vous entendez le troisième participant devant vous.::
+::Vous entendez la porte se fermer derrière vous. Vous marchez sur un tapis mou. Celui qui vous a mené s'arrête à votre droite, et vous sentez une autre présence, proche, à gauche. Puis, après un moment de silence, vous entendez le troisième, juste devant vous.::
 
-Supprimer le bandeau $(#son/sa).<end>
+Enlevez-lui le bandeau.<end>
 
 =>q412_original
 ::The voice is male, somewhat higher in pitch but darker in quality, smooth and clear but for a slight lisp that you might not have even noticed in a more normal sensory state. Without delay, the person on the left touches you...::<end>
 
 =>q412
-::La voix est masculine, un peu plus élevée en hauteur, mais plus foncée en qualité, lisse et claire, mais pour un léger lis que vous n'avez peut-être même pas remarqué dans un état sensoriel plus normal. Sans tarder, la personne à gauche vous touche...::<end>
+::La voix est d'homme, un peu plus haute, plus sombre de timbre, lisse, nette, à part un léger zozotement que vous n'auriez peut-être même pas remarqué dans un état sensoriel plus normal. Sans attendre, celui de gauche vous touche...::<end>
 
 =>a413_original
 ::Wait.::<end>
 
 =>a413
-::Attendez.::<end>
-
+::Attendre.::<end>

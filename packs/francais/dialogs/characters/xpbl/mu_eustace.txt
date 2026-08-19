@@ -8,13 +8,13 @@
 Hey. ::wheeze:: Hey.<end>
 
 =>q2
-Bonjour. ::wheeze:: Bonjour.<end>
+Hé. ::wheeze:: Hé.<end>
 
 =>q3_original
 ::sniff::<end>
 
 =>q3
-::Sniff::<end>
+::sniff::<end>
 
 =>q4_original
 Me - Eustace. ::wheeze::<end>
@@ -26,31 +26,31 @@ Moi - Eustace. ::wheeze::<end>
 ::Tenses up his neck muscles, gurgles briefly, then swallows.::<end>
 
 =>q5
-::Il tend les muscles du cou, grogne brièvement, puis avale.::<end>
+::Il tend les muscles du cou, gargouille un instant, puis avale.::<end>
 
 =>q6_original
 You-- ::sniff:: sure are... ::gurgle:: a big one.<end>
 
 =>q6
-Vous... ::Sniff:: sont... ::courbure:: un grand.<end>
+Toi-- ::sniff:: t'es vraiment... ::gurgle:: un grand.<end>
 
 =>q7_original
 You... ::wheeze:: boy or girl? ::sniff.::<end>
 
 =>q7
-Tu... ::wheeze:: garçon ou fille ? ::Sniff.::<end>
+Toi... ::wheeze:: garçon ou fille ? ::sniff.::<end>
 
 =>q8_original
 Exit's... ::wheeze:: that way.<end>
 
 =>q8
-Sortie... ::wheeze:: par là.<end>
+La sortie... ::wheeze:: c'est par là.<end>
 
 =>q9_original
 Wesley's... ::wheeze:: downstairs. Straight... ::sniff:: then down the stairs. ::wheeze::<end>
 
 =>q9
-Wesley... ::wheeze:: en bas. Tout droit... ::Sniff:: puis en bas des escaliers. ::wheeze::<end>
+Wesley... ::wheeze:: en bas. Tout droit... ::sniff:: puis l'escalier. ::wheeze::<end>
 
 =>q10_original
 ::You see a dried up, wiry mutie with noticeably bulging eyes. He is quick to inspect you, but slow to respond and does so with reservations.::
@@ -58,7 +58,7 @@ Wesley... ::wheeze:: en bas. Tout droit... ::Sniff:: puis en bas des escaliers. 
 What do... ::wheeze:: you want?<end>
 
 =>q10
-::Vous voyez une mutie sèche et grinçante aux yeux bourrants. Il est prompt à vous inspecter, mais lent à répondre et le fait avec des réserves.::
+::Vous voyez un mutie desséché, tout en tendons, les yeux nettement globuleux. Il vous inspecte tout de suite, mais répond lentement, et avec des réserves.::
 
 Qu'est-ce que... ::wheeze:: tu veux ?<end>
 
@@ -68,9 +68,9 @@ Qu'est-ce que... ::wheeze:: tu veux ?<end>
 Uh: Need. ::cough:: What do you... ::wheeze:: need?<end>
 
 =>q11
-::Le dernier mot de sa question est accentué par un parfum qui ressemble le plus à celui du poisson fermenté. Il continue.::
+::Le dernier mot de sa question s'accompagne d'une odeur qui rappelle fortement le poisson fermenté. Il continue.::
 
-Besoin. ::toux:: Qu'est-ce que... ::wheeze:: a besoin ?<end>
+Euh : besoin. ::cough:: De quoi t'as... ::wheeze:: besoin ?<end>
 
 =>q12_original
 <end>
@@ -82,25 +82,25 @@ Besoin. ::toux:: Qu'est-ce que... ::wheeze:: a besoin ?<end>
 Show me what you got. ::Barter.::<end>
 
 =>a13
-Montre-moi ce que tu as. ::Troc.::<end>
+Montre-moi ce que t'as. ::Troc.::<end>
 
 =>q14_original
 Hey... um... ::wheeze:: thanks for what you... ::sniff:: did for us. I got some... ::cough:: extra items I could... ::sniff:: sell you. I wasn't plannin' on... Wanna see... ::gurgle:: it?<end>
 
 =>q14
-Hey... euh... ::wheeze:: merci pour ce que tu... ::Sniff:: a fait pour nous. J'ai... des articles supplémentaires ::toux:: que je pourrais... ::Sniff:: vous vendre. Je n'avais pas prévu... Tu veux voir... ::courbure:: ?<end>
+Hé... euh... ::wheeze:: merci pour c'que t'as... ::sniff:: fait pour nous. J'ai quelques... ::cough:: trucs en plus que je pourrais... ::sniff:: te vendre. J'avais pas prévu... Tu veux voir... ::gurgle:: ?<end>
 
 =>a15_original
 Sure. ::Barter.::<end>
 
 =>a15
-Bien sûr. ::Troc.::<end>
+Ouais. ::Troc.::<end>
 
 =>a16_original
 I wanted to ask you something first.<end>
 
 =>a16
-Je voulais te demander quelque chose.<end>
+Je voulais te demander un truc d'abord.<end>
 
 =>q17_original
 ::Wheeze::<end>
@@ -112,13 +112,13 @@ Je voulais te demander quelque chose.<end>
 Show me what you got. ::Barter.::<end>
 
 =>a18
-Montre-moi ce que tu as. ::Troc.::<end>
+Montre-moi ce que t'as. ::Troc.::<end>
 
 =>a19_original
 Who are you?<end>
 
 =>a19
-Qui es-tu?<end>
+T'es qui ?<end>
 
 =>q20_original
 Eustace. ::wheeze:: You?<end>
@@ -130,13 +130,13 @@ Eustace. ::wheeze:: Toi ?<end>
 $(context.player.Name). Nice to meet you.<end>
 
 =>a21
-$(context.player.Name). Ravi de vous rencontrer.<end>
+$(context.player.Name). Content de te rencontrer.<end>
 
 =>q22_original
 ::He nods.:: Yeah. <end>
 
 =>q22
-::Il acquiesce.:: Oui. <end>
+::Il hoche la tête.:: Ouais. <end>
 
 =>a23_original
 $(context.player.Name).<end>
@@ -148,7 +148,7 @@ $(context.player.Name).<end>
 What do you do around here?<end>
 
 =>a24
-Que faites-vous ici ?<end>
+Tu fais quoi, ici ?<end>
 
 =>q25_original
 Stuff. ::wheeze:: I do a lot of stuff. ::He observes you, continuing soon after.:: Huntin'. ::He pauses.:: Makin' traps, bolts... ::Another pause.:: 
@@ -156,27 +156,27 @@ Stuff. ::wheeze:: I do a lot of stuff. ::He observes you, continuing soon after.
 If you're lookin' for someone to trade with... ::wheeze:: then you're talkin' to the right... ::coughs:: mutie. ::He almost smiles.:: <end>
 
 =>q25
-Des trucs. ::wheeze:: Je fais beaucoup de choses. ::Il vous observe, il continue peu après.:: Chasse. ::Encore une pause.::
+Des trucs. ::wheeze:: Je fais plein de trucs. ::Il vous observe, puis reprend peu après.:: La chasse. ::Il s'arrête.:: Les pièges, les carreaux... ::Encore une pause.::
 
-Si vous cherchez quelqu'un pour échanger avec... ::wheeze:: alors vous parlez à droite... ::Tousse:: mutie. ::Il sourit presque.:: <end>
+Si tu cherches quelqu'un pour troquer... ::wheeze:: tu parles au bon... ::coughs:: mutie. ::Il sourit presque.:: <end>
 
 =>q26_original
 I got some... ::wheeze:: huntin' gear and leather... if you're interested.<end>
 
 =>q26
-J'ai... ::wheeze:: qui chasse l'équipement et le cuir... si ça vous intéresse.<end>
+J'ai du... ::wheeze:: matos de chasse et du cuir... si ça t'intéresse.<end>
 
 =>a27_original
 So, are there any outsiders you trade with?<end>
 
 =>a27
-Alors, y a-t-il des étrangers avec qui vous échangez ?<end>
+Y a des étrangers avec qui tu troques ?<end>
 
 =>q28_original
 Uh,,,<end>
 
 =>q28
-Euh,,<end>
+Euh...<end>
 
 =>a29_original
 Ferryman?<end>
@@ -190,9 +190,9 @@ Ferryman?<end>
 Ferryman... yeah, yeah... ::sniff:: Only... ::wheeze:: him.<end>
 
 =>q30
-::Ses yeux sortent encore plus loin.::
+::Ses yeux sortent encore plus.::
 
-Ferryman... oui, oui... ::Sniff:: seulement... ::wheeze:: lui.<end>
+Ferryman... ouais, ouais... ::sniff:: Rien qu'... ::wheeze:: lui.<end>
 
 =>q31_original
 <end>
@@ -204,13 +204,13 @@ Ferryman... oui, oui... ::Sniff:: seulement... ::wheeze:: lui.<end>
 ::Wait.::<end>
 
 =>a32
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>q33_original
 I can't... ::sniff:: answer that. ::cough::<end>
 
 =>q33
-Je ne peux pas... ::Sniff:: répondre. ::toux::<end>
+Je peux pas... ::sniff:: répondre à ça. ::cough::<end>
 
 =>a34_original
 Well?<end>
@@ -222,13 +222,13 @@ Alors ?<end>
 Spit it out.<end>
 
 =>a35
-Crachez-le.<end>
+Crache.<end>
 
 =>q36_original
 Yeah... ::wheeze:: but it ain't with the pirates or the Serpentines. Mutual dislike. ::wheeze:: There is only one outsider that comes here.<end>
 
 =>q36
-Oui... ::wheeze:: mais ce n'est pas avec les pirates ou les Serpentines. Aversion mutuelle. ::wheeze:: Il n'y a qu'un étranger qui vient ici.<end>
+Ouais... ::wheeze:: mais c'est pas avec les pirates ni les Serpentines. On s'aime pas. ::wheeze:: Y a qu'un seul étranger qui vient ici.<end>
 
 =>a37_original
 The Ferryman?<end>
@@ -240,13 +240,13 @@ Le Ferryman ?<end>
 You got it. ::wheeze::<end>
 
 =>q38
-C'est bon. ::wheeze::<end>
+C'est ça. ::wheeze::<end>
 
 =>a39_original
 Who is it?<end>
 
 =>a39
-Qui est-ce ?<end>
+Qui c'est ?<end>
 
 =>q40_original
 The Ferryman.<end>
@@ -258,61 +258,61 @@ Le Ferryman.<end>
 What can you tell me about the Ferryman?<end>
 
 =>a41
-Que pouvez-vous me dire sur le Ferryman ?<end>
+Qu'est-ce que tu peux me dire sur le Ferryman ?<end>
 
 =>q42_original
 He's an old gentleman... ::sniff:: sailin' the sea... ::wheeze:: and scavengin' for stuff. He trades with us some of it, yeah. He's kind to us. ::He nods, his eyes following with a delay.::<end>
 
 =>q42
-C'est un vieux gentleman... ::Sniff:: qui navigue sur la mer... ::wheeze:: et qui cherche des trucs. Il en échange avec nous, oui. Il est gentil avec nous. ::Il fait signe, ses yeux suivent avec un retard.::<end>
+C'est un vieux gentleman... ::sniff:: il navigue sur la mer... ::wheeze:: et il récupère des trucs. Il nous en troque une partie, ouais. Il est gentil avec nous. ::Il hoche la tête, ses yeux suivent avec du retard.::<end>
 
 =>a43_original
 Anything else you can tell me about him?<end>
 
 =>a43
-Tu peux me dire autre chose sur lui ?<end>
+Tu peux m'en dire plus sur lui ?<end>
 
 =>q44_original
 Um... sure. ::He hesistates for a second, his eye darting across the room. Such rapid movement gives them an odd floaty appearance, as though they are two lubricated balls moving freely in their sockets.::<end>
 
 =>q44
-Bien sûr. ::Il hésite une seconde, son œil s'étirant à travers la pièce. Ce mouvement rapide leur donne un aspect flottant étrange, comme s'il s'agissait de deux boules lubrifiées se déplaçant librement dans leurs bases.::<end>
+Euh... ouais. ::Il hésite une seconde, l'œil qui zèbre la pièce. Ce mouvement rapide leur donne un air flottant bizarre, comme deux billes lubrifiées qui roulent librement dans leurs orbites.::<end>
 
 =>q45_original
 He's alone... ::sniff:: out there, you know. All by himself. And he's... ::wheeze:: got lots of time to think about, uh, life, the world - existence.<end>
 
 =>q45
-Il est seul... ::Sniff:: dehors, vous savez. Tout seul. Et il est... ::wheeze:: a beaucoup de temps pour penser à la vie, à l'existence du monde.<end>
+Il est seul... ::sniff:: là-dehors, tu sais. Tout seul. Et il a... ::wheeze:: beaucoup de temps pour penser à, euh, la vie, le monde - l'existence.<end>
 
 =>a46_original
 Tell me more.<end>
 
 =>a46
-Dis-moi plus.<end>
+Dis-m'en plus.<end>
 
 =>q47_original
 Well, uh... um... I can't grasp a lot of what... ::wheeze:: he says - and he doesn't talk often - but it's often concerned... with the decline of... ::cough:: everythin', really. Civilizations, values... ::wheeze:: people.<end>
 
 =>q47
-Et bien... Je ne peux pas saisir beaucoup de ce... ::wheeze:: il dit - et il ne parle pas souvent - mais il est souvent concerné... avec le déclin de... ::toux:: tout, vraiment. Civilisations, valeurs... ::wheeze:: personnes.<end>
+Ben, euh... je capte pas grand-chose de c'qu'... ::wheeze:: il dit - et il parle pas souvent - mais ça tourne souvent... autour du déclin de... ::cough:: tout, vraiment. Les civilisations, les valeurs... ::wheeze:: les gens.<end>
 
 =>a48_original
 He's damn right.<end>
 
 =>a48
-Il a raison.<end>
+Putain, il a raison.<end>
 
 =>q49_original
 It is his... ::cough:: ideas about why all those things... ::wheeze:: are like that that's confusin'. Open spaces above the ceilin', travelin' down, irrelevance of time. I... it's too much for poor Eustace. ::gurgles::<end>
 
 =>q49
-C'est ses... ::toux:: idées sur la raison pour laquelle toutes ces choses... ::wheeze:: sont comme ça c'est confusin'. Espaces ouverts au-dessus du ceilin, voyage vers le bas, inpertinence du temps. C'est trop pour le pauvre Eustace. ::guillemets::<end>
+C'est ses... ::cough:: idées sur pourquoi tout ça... ::wheeze:: est comme ça qui brouillent. Les grands espaces au-dessus du plafond, voyager vers le bas, l'insignifiance du temps. Je... c'est trop pour le pauvre Eustace. ::gurgles::<end>
 
 =>a50_original
 The world has always been like this, it's just that people remember the good things in the past and compare it to the wholeness of the present.<end>
 
 =>a50
-Le monde a toujours été comme ça, c'est juste que les gens se souviennent des bonnes choses du passé et les comparent à l'ensemble du présent.<end>
+Le monde a toujours été comme ça. Les gens se souviennent juste du bon dans le passé et le comparent à tout le présent.<end>
 
 =>a51_original
 The world is perfect as it is.<end>
@@ -324,19 +324,19 @@ Le monde est parfait comme il est.<end>
 Nah. ::sniff:: He doesn't like bein' talked... ::wheeze:: about. Or to, dependin' on who's... ::cough:: doin' the talkin'.<end>
 
 =>q52
-Non, ça va. ::Sniff:: Il n'aime pas qu'on parle de ::wheeze::. Ou de compter sur qui est ::toux:: pour parler.<end>
+Nan. ::sniff:: Il aime pas qu'on parle... ::wheeze:: de lui. Ou à lui, selon qui... ::cough:: parle.<end>
 
 =>a53_original
 What kinds of things does the Ferryman bring for trade?<end>
 
 =>a53
-Quel genre de choses le Ferryman apporte-t-il au commerce?<end>
+Il ramène quoi, le Ferryman, pour troquer ?<end>
 
 =>q54_original
 To us... ::wheeze:: meat, mushrooms, hides... materials. But... ::sniff:: he also finds pretty and odd things.<end>
 
 =>q54
-::wheeze:: viande, champignons, peaux... matériaux. Mais... ::Sniff:: il trouve aussi des choses jolies et étranges.<end>
+Pour nous... ::wheeze:: de la viande, des champignons, des peaux... du matos. Mais... ::sniff:: il trouve aussi des trucs jolis et bizarres.<end>
 
 =>a55_original
 Example?<end>
@@ -348,73 +348,73 @@ Exemple ?<end>
 One time he had... ::wheeze:: this rock thingy. One side... ::sniff:: was rock, the other was crystal. Small thingy. He wouldn't trade it, though... ::cough:: I just saw him look at it.<end>
 
 =>q56
-Une fois, il avait... ::wheeze:: ce truc rock. Un côté... ::Sniff:: était de la roche, l'autre du cristal. Petit truc. Il ne voulait pas l'échanger... ::toux:: Je l'ai vu regarder.<end>
+Une fois il avait... ::wheeze:: ce truc en pierre. Un côté... ::sniff:: c'était de la roche, l'autre du cristal. Un petit truc. Il voulait pas le troquer, par contre... ::cough:: je l'ai juste vu le regarder.<end>
 
 =>q57_original
 He finds other things as well... ::cough:: like ancient jewelery, pretty pieces... ::sniff:: of statues and art.<end>
 
 =>q57
-Il trouve d'autres choses aussi... ::toux:: comme des bijoux anciens, de jolies pièces... ::Sniff:: de statues et d'art.<end>
+Il trouve d'autres trucs aussi... ::cough:: comme des bijoux anciens, de jolis morceaux... ::sniff:: de statues et d'art.<end>
 
 =>a58_original
 Do you know the Ferryman's sailing route?<end>
 
 =>a58
-Connaissez-vous le parcours de navigation du Ferryman ?<end>
+Tu connais la route du Ferryman ?<end>
 
 =>q59_original
 Uh... so-so. He has... a fairly... ::wheeze:: regular route.<end>
 
 =>q59
-Euh... donc. Il a... un itinéraire régulier ::wheeze::.<end>
+Euh... plus ou moins. Il a... une route assez... ::wheeze:: régulière.<end>
 
 =>a60_original
 A guess is better than nothing.<end>
 
 =>a60
-Une supposition vaut mieux que rien.<end>
+Une idée, c'est déjà mieux que rien.<end>
 
 =>q61_original
 Startin' with our place... ::wheeze:: his next stop is usually The Pirate Bay, then he... ::gurgle:: sails north again.<end>
 
 =>q61
-Commencer par chez nous... ::wheeze:: son prochain arrêt est habituellement The Pirate Bay, puis il... ::courbure:: navigue à nouveau vers le nord.<end>
+En partant d'ici... ::wheeze:: son prochain arrêt c'est souvent The Pirate Bay, ensuite il... ::gurgle:: remonte vers le nord.<end>
 
 =>q62_original
 I think he mentioned the... ::sniff:: "northeastern waters" a couple of... ::wheeze:: times. Then he comes back here, and... ::cough:: again and again.<end>
 
 =>q62
-Je pense qu'il a mentionné le... ::Sniff:: "eaux du nord-est" quelques... ::wheeze:: fois. Puis il revient ici, et... ::toux:: encore et encore.<end>
+Je crois qu'il a parlé des... ::sniff:: « eaux du nord-est » deux-trois... ::wheeze:: fois. Ensuite il revient ici, et... ::cough:: encore et encore.<end>
 
 =>q63_original
 I know... ::sniff:: nothin'.<end>
 
 =>q63
-Je sais... ::Sniff:: rien.<end>
+Je sais... ::sniff:: rien.<end>
 
 =>q64_original
 Even if I knew... ::wheeze:: the Ferryman wouldn't... ::cough:: appreciate it. Nah.<end>
 
 =>q64
-Même si je savais... ::wheeze:: le Ferryman n'apprécierait pas... ::toux::. Non, ça va.<end>
+Même si je savais... ::wheeze:: le Ferryman apprécierait pas... ::cough::. Nan.<end>
 
 =>a65_original
 What was the Ferryman's route, again?<end>
 
 =>a65
-Quelle était la route du Ferryman, déjà ?<end>
+C'était quoi déjà, la route du Ferryman ?<end>
 
 =>a66_original
 Any points of interests nearby?<end>
 
 =>a66
-Des points d'intérêt à proximité ?<end>
+Y a des trucs à voir dans le coin ?<end>
 
 =>q67_original
 There are a few... ::wheeze:: places.<end>
 
 =>q67
-Il y a quelques... lieux ::wheeze::.<end>
+Y a quelques... ::wheeze:: endroits.<end>
 
 =>a68_original
 Like?<end>
@@ -426,7 +426,7 @@ Comme ?<end>
 Like... the siphoner pools... ::wheeze:: the hopper island... Red Line, although that ain't quite so near.<end>
 
 =>q69
-Comme... les piscines Siphoner... ::wheeze:: l'île trémie... Red Line, mais ce n'est pas si proche.<end>
+Comme... les mares à siphoners... ::wheeze:: l'île aux sauteurs... Red Line, même si c'est pas tout près.<end>
 
 =>q70_original
 <end>
@@ -438,37 +438,37 @@ Comme... les piscines Siphoner... ::wheeze:: l'île trémie... Red Line, mais ce
 Tell me about the siphoner pools.<end>
 
 =>a71
-Parlez-moi des piscines Siphoner.<end>
+Parle-moi des mares à siphoners.<end>
 
 =>q72_original
 Just west of here... ::cough:: in a small cave. The siphoners are spawnin' like... ::wheeze:: crazy there 'cause it's rich in fish... ::wheeze:: especially if you venture further in. ::wheeze:: <end>
 
 =>q72
-Juste à l'ouest d'ici... ::toux:: dans une petite grotte. Les siphonistes fraient comme... ::wheeze:: fou là-bas parce qu'il est riche en poissons... ::wheeze:: surtout si vous vous aventurez plus loin. ::wheeze:: <end>
+Juste à l'ouest d'ici... ::cough:: dans une petite grotte. Les siphoners pondent comme... ::wheeze:: des fous là-bas, y a plein de poissons... ::wheeze:: surtout si tu t'enfonces plus loin. ::wheeze:: <end>
 
 =>q73_original
 We rarely go too deep... ::wheeze:: 'cause of greater siphoners. Tough critters.<end>
 
 =>q73
-On va rarement trop loin... ::wheeze:: à cause de plus grands siphons. C'est dur.<end>
+On va rarement trop loin... ::wheeze:: à cause des grands siphoners. Des sales bestioles.<end>
 
 =>a74_original
 Hopper island. Tell me about it.<end>
 
 =>a74
-L'île Hopper. Parle-moi de ça.<end>
+L'île aux sauteurs. Parle-moi.<end>
 
 =>q75_original
 It's north of here. ::wheeze:: Not much on the surface, but there's a... ::sniff:: creeper nest underneath. Pirates of old used to stash loot... ::wheeze:: there before the buggers moved in. The Jetters visit it... ::wheeze:: so there's gotta be somethin' still there.<end>
 
 =>q75
-C'est au nord. ::wheeze:: Pas grand-chose à la surface, mais il y a un... nid ::Sniff:: plus rampant en dessous. Les pirates de l'ancien avaient l'habitude de planter le butin... ::wheeze:: là avant que les bestioles n'emménagent. Les Jetters la visitent... ::wheeze:: donc il doit y avoir quelque chose.<end>
+C'est au nord d'ici. ::wheeze:: Pas grand-chose en surface, mais y a un... ::sniff:: nid de creepers en dessous. Les vieux pirates y planquaient du loot... ::wheeze:: avant que les saletés s'installent. Les Jetters y passent... ::wheeze:: donc il doit rester un truc.<end>
 
 =>q76_original
 We don't go there... ::wheeze:: all that often any more... ::He scrathes a wrinkly patch on his head.:: Rarely after the incident...<end>
 
 =>q76
-On n'y va plus... ::wheeze:: tout ça souvent plus... ::Il lui gratte une tache ridée sur la tête.:: Rarement après l'incident...<end>
+On y va plus... ::wheeze:: trop souvent maintenant... ::Il se gratte une plaque ridée sur le crâne.:: Rarement depuis l'incident...<end>
 
 =>a77_original
 What incident?<end>
@@ -480,25 +480,25 @@ Quel incident ?<end>
 Well... ::wheeze:: once the buggers came we started huntin' hoppers... ::wheeze:: in groups. We always had a spotter... ::sniff:: to look out for anythin' comin' outta their nest. One time... Five Fingers was the spotter.<end>
 
 =>q78
-Eh bien... ::wheeze:: une fois que les enculés sont arrivés, nous avons commencé à chasser les trémies... ::wheeze:: en groupes. On a toujours eu un spotter... ::Sniff:: pour s'occuper de tout ce qui sort de leur nid. Une fois... Cinq doigts, c'était le spoteur.<end>
+Ben... ::wheeze:: une fois que les saletés sont arrivées, on a commencé à chasser les sauteurs... ::wheeze:: en groupes. On avait toujours un guetteur... ::sniff:: pour surveiller c'qui sortait du nid. Une fois... c'était Five Fingers le guetteur.<end>
 
 =>a79_original
 He had five fingers on his hand, plus the thumb?<end>
 
 =>a79
-Il avait cinq doigts sur la main, plus le pouce ?<end>
+Il avait cinq doigts à la main, plus le pouce ?<end>
 
 =>q80_original
 No. He had five fingers in total. <end>
 
 =>q80
-C'est pas vrai. Il avait cinq doigts au total. <end>
+Non. Il avait cinq doigts en tout. <end>
 
 =>q81_original
 Used to be Six Fingers, but that... ::wheeze:: didn't work out. ::He almost smiles.::<end>
 
 =>q81
-C'était six doigts, mais ça... ::wheeze:: n'a pas marché. ::Il sourit presque.::<end>
+Avant c'était Six Fingers, mais ça... ::wheeze:: a pas tenu. ::Il sourit presque.::<end>
 
 =>q82_original
 Anyways... ::wheeze:: <end>
@@ -510,31 +510,31 @@ Bref... ::wheeze:: <end>
 Five Fingers fell asleep and... ::wheeze:: got devoured by the buggers. Another mutie, Rags, got snatched too, as... ::wheeze:: there was no spotter to warn him. ::cough:: All we found of him was an undeployed bear trap.<end>
 
 =>q83
-Cinq doigts se sont endormis et... ::wheeze:: s'est fait dévorer par les enculés. Une autre mutie, Rags, s'est aussi fait piéger, car... ::wheeze:: il n'y avait pas de spotter pour l'avertir. ::toux:: Tout ce qu'on a trouvé de lui, c'était un piège à ours.<end>
+Five Fingers s'est endormi et... ::wheeze:: les saletés l'ont dévoré. Un autre mutie, Rags, s'est fait choper aussi, parce que... ::wheeze:: y avait plus de guetteur pour le prévenir. ::cough:: Tout c'qu'on a trouvé de lui, c'était un piège à ours pas posé.<end>
 
 =>q84_original
 It's become too dangerous, so we... ::sniff:: rarely go there now... ::wheeze:: And if we do... we bring lotsa guns.<end>
 
 =>q84
-C'est devenu trop dangereux, donc nous... ::Sniff:: y allons rarement maintenant... ::wheeze:: Et si nous le faisons... nous apportons beaucoup d'armes.<end>
+C'est devenu trop dangereux, alors on... ::sniff:: y va rarement maintenant... ::wheeze:: Et si on y va... on ramène un max d'armes.<end>
 
 =>a85_original
 He had five fingers on each of his hands, plus the thumbs?<end>
 
 =>a85
-Il avait cinq doigts sur chacune de ses mains, plus les pouces ?<end>
+Il avait cinq doigts à chaque main, plus les pouces ?<end>
 
 =>a86_original
 He had five fingers in total?<end>
 
 =>a86
-Il avait cinq doigts au total ?<end>
+Il avait cinq doigts en tout ?<end>
 
 =>q87_original
 Five in total. <end>
 
 =>q87
-Cinq au total. <end>
+Cinq en tout. <end>
 
 =>a88_original
 And?<end>
@@ -546,49 +546,49 @@ Et alors ?<end>
 The Red Line?<end>
 
 =>a89
-La Ligne Rouge ?<end>
+Red Line ?<end>
 
 =>q90_original
 ::He points northeast.:: There, in the distance... ::wheeze:: there is a shore. Red 'cause of the red reeds growin' on it. That's... ::wheeze:: the Red Line.<end>
 
 =>q90
-::Il pointe vers le nord-est.:: Là, au loin... ::wheeze:: il y a une rive. Rouge à cause des roseaux rouges qui poussent dessus. C'est... ::wheeze:: la Ligne Rouge.<end>
+::Il pointe vers le nord-est.:: Là, au loin... ::wheeze:: y a une rive. Rouge à cause des roseaux rouges qui poussent dessus. C'est... ::wheeze:: Red Line.<end>
 
 =>a91_original
 And what's behind the Red Line?<end>
 
 =>a91
-Et qu'y a-t-il derrière la Ligne Rouge ?<end>
+Et derrière Red Line ?<end>
 
 =>q92_original
 Muties don't go there... ::cough:: but the Ferryman does. He told me about - what was it...- ::sniff:: the Fetid... ::wheeze:: Marsh.<end>
 
 =>q92
-Mutie n'y va pas... ::toux:: mais le Ferryman le fait. Il m'a parlé de ::Sniff:: le Fetid... ::wheeze:: Marsh.<end>
+Les muties y vont pas... ::cough:: mais le Ferryman oui. Il m'a parlé de - c'était quoi...- ::sniff:: le Fetid... ::wheeze:: Marsh.<end>
 
 =>a93_original
 What do you know about the Fetid Marsh?<end>
 
 =>a93
-Que savez-vous du marais Fetid ?<end>
+Qu'est-ce que tu sais du Fetid Marsh ?<end>
 
 =>q94_original
 If memory serves... ::sniff:: the Ferryman spoke... ::wheeze:: about a foul-smellin' mist permeatin' the area. The Marsh has... ::wheeze:: venomous buggers livin' in it. Sometimes... the water brings their carcasses... ::sniff:: all the way to here. Ugly buggers.<end>
 
 =>q94
-Si la mémoire sert... ::Sniff:: le Ferryman a parlé... ::wheeze:: à propos d'une brume de mauvaise odeur qui pénètre dans la région. Le Marsh a... ::wheeze:: des enfoirés venimeux qui y vivent. Parfois... l'eau apporte leurs carcasses... ::Sniff:: jusqu'ici. C'est des cons.<end>
+Si je me souviens... ::sniff:: le Ferryman a parlé... ::wheeze:: d'une brume puante qui imbibe tout le coin. Le Marsh a... ::wheeze:: des saletés venimeuses qui vivent là. Des fois... l'eau ramène leurs carcasses... ::sniff:: jusqu'ici. Des sales bestioles.<end>
 
 =>q95_original
 But they make some kinda... ::wheeze:: glowin' honey. He, the Ferryman, trades it with us... ::wheeze:: It <end>
 
 =>q95
-Mais ils font un peu... ::wheeze:: qui brille le miel. Il, le Ferryman, l'échange avec nous... ::wheeze:: <end>
+Mais elles font une sorte de... ::wheeze:: miel qui brille. Lui, le Ferryman, il nous le troque... ::wheeze:: Ça <end>
 
 =>q96_original
 makes the body... ::wheeze:: feel good, yeah. ::sniff::<end>
 
 =>q96
-Le corps... ::wheeze:: se sent bien, oui. ::Sniff::<end>
+fait du bien... ::wheeze:: au corps, ouais. ::sniff::<end>
 
 =>q97_original
 But the honey... <end>
@@ -606,25 +606,25 @@ Et cette île ?<end>
 Nothin' much here... ::wheeze:: Interestin'. This used to be a warehouse of some kind... ::wheeze:: Easy to tell. The only interestin' thing... ::wheeze:: is that the ground in front of the warehouse has been slowly sinkin' for years. It'll get completely submerged soon, I reckon. ::wheeze::<end>
 
 =>q99
-Rien ici... ::wheeze:: Intéressant. C'était un entrepôt... ::wheeze:: Facile à dire. La seule chose intéressante... ::wheeze:: est que le sol devant l'entrepôt coule lentement depuis des années. Il sera bientôt complètement submergé. ::wheeze::<end>
+Pas grand-chose ici... ::wheeze:: D'intéressant. C'était une sorte d'entrepôt... ::wheeze:: Ça se voit. Le seul truc intéressant... ::wheeze:: c'est que le sol devant l'entrepôt s'enfonce doucement depuis des années. Il sera complètement sous l'eau bientôt, je crois. ::wheeze::<end>
 
 =>a100_original
 What did you find in the warehouse when you arrived here?<end>
 
 =>a100
-Qu'avez-vous trouvé dans l'entrepôt quand vous êtes arrivé ici ?<end>
+Qu'est-ce que vous avez trouvé dans l'entrepôt, à l'arrivée ?<end>
 
 =>q101_original
 Well, I wasn't here with the first settlers... ::wheeze:: I arrived about sixty years ago... ::sniff:: so I didn't get to see the warehouse in its original condition. But from the stories... ::wheeze:: I've heard, there was all sorts of things in here, like... ::sniff:: various mechanical parts, electronic components... ::wheeze:: tools, materials.<end>
 
 =>q101
-Je n'étais pas là avec les premiers colons... ::wheeze:: Je suis arrivé il y a environ soixante ans... ::Sniff:: donc je n'ai pas vu l'entrepôt dans son état d'origine. Mais d'après les histoires... ::wheeze:: J'ai entendu, il y avait toutes sortes de choses ici, comme... ::Sniff:: différentes pièces mécaniques, composants électroniques... outils ::wheeze::, matériaux.<end>
+Ben, j'étais pas là avec les premiers... ::wheeze:: Je suis arrivé y a une soixantaine d'années... ::sniff:: donc j'ai pas vu l'entrepôt dans son état d'origine. Mais d'après les histoires... ::wheeze:: que j'ai entendues, y avait de tout ici, genre... ::sniff:: des pièces mécaniques, des composants électroniques... ::wheeze:: des outils, du matos.<end>
 
 =>q102_original
 That's only on the top two levels... ::wheeze:: no one ever went deeper. Some of this... ::wheeze:: stuff was in bad condition 'cause of moisture... corrosion, but what was good was either used in creatin' the refuge or was... traded.<end>
 
 =>q102
-C'est seulement sur les deux premiers niveaux... ::wheeze:: personne n'est jamais allé plus loin. Une partie de ce... ::wheeze:: était en mauvais état à cause de l'humidité... de la corrosion, mais ce qui était bon était soit utilisé dans la créatine' le refuge ou... échangé.<end>
+Ça c'est seulement les deux niveaux du haut... ::wheeze:: personne est jamais allé plus bas. Une partie de ce... ::wheeze:: matos était en mauvais état à cause de l'humidité... la corrosion, mais c'qui était bon a servi à faire le refuge ou a été... troqué.<end>
 
 =>a103_original
 Why didn't anyone go there?<end>
@@ -636,19 +636,19 @@ Pourquoi personne n'y est allé ?<end>
 Well... ::wheeze:: actually they did. And they didn't come back. ::wheeze:: There you go.<end>
 
 =>q104
-Eh bien... ::wheeze:: en fait ils l'ont fait. Et ils ne sont pas revenus. ::wheeze:: Voilà.<end>
+Ben... ::wheeze:: en fait si. Et ils sont pas revenus. ::wheeze:: Voilà.<end>
 
 =>q105_original
 There's somethin' down there for sure. ::wheeze:: If you stand by the crane shaft... ::sniff:: you can hear things movin' down there.<end>
 
 =>q105
-Il y a quelque chose en bas. ::wheeze:: Si vous êtes près de l'arbre de la grue... ::Sniff:: vous pouvez entendre les choses bouger là-bas.<end>
+Y a quelque chose en bas, c'est sûr. ::wheeze:: Si tu restes près du puits de la grue... ::sniff:: tu entends des trucs bouger là-dessous.<end>
 
 =>a106_original
 Crane shaft?<end>
 
 =>a106
-Un arbre de grue ?<end>
+Le puits de la grue ?<end>
 
 =>q107_original
 Yeah, just over there... ::He points northeast.:: That room in the corner.<end>
@@ -660,43 +660,43 @@ Oui, juste là... ::Il pointe vers le nord-est.:: Cette pièce dans le coin.<end
 Some folks used... ::wheeze:: to sleep near it. ::He shivers, which causes his eyes to twitch independently in rhythm for a few seconds.::<end>
 
 =>q108
-Certains ont utilisé ::wheeze:: pour dormir près d'elle. ::Il tremble, ce qui fait que ses yeux s'agitent indépendamment au rythme pendant quelques secondes.::<end>
+Y en a qui... ::wheeze:: dormaient près. ::Il frissonne, et ses yeux se mettent à tiquer chacun de leur côté, en rythme, pendant quelques secondes.::<end>
 
 =>q109_original
 I... ::cough:: can't talk about that.<end>
 
 =>q109
-::toux:: ne peut pas en parler.<end>
+Je... ::cough:: peux pas parler de ça.<end>
 
 =>a110_original
 What do you know about the expedition?<end>
 
 =>a110
-Que savez-vous de l'expédition ?<end>
+Qu'est-ce que tu sais de l'expédition ?<end>
 
 =>q111_original
 The newcomers? They came here... ::wheeze:: about two weeks ago, armed... ::wheeze:: and ready. Set up... ::sniff:: camp on the island to the east, but no one... ::wheeze:: likes their new neighbors.<end>
 
 =>q111
-Les nouveaux ? Ils sont venus ici... ::wheeze:: il y a environ deux semaines, armés... ::wheeze:: et prêts. Montez... le camp ::Sniff:: sur l'île à l'est, mais personne... ::wheeze:: aime leurs nouveaux voisins.<end>
+Les nouveaux ? Ils sont arrivés... ::wheeze:: y a environ deux semaines, armés... ::wheeze:: et prêts. Ils ont planté... ::sniff:: le camp sur l'île à l'est, mais personne... ::wheeze:: aime ces nouveaux voisins.<end>
 
 =>q112_original
 They packed their... ::gurgle:: bags and left... ::wheeze:: so <end>
 
 =>q112
-Ils ont emballé leurs... sacs ::courbure:: et laissé... ::wheeze:: donc <end>
+Ils ont fait leurs... ::gurgle:: sacs et ils sont partis... ::wheeze:: donc <end>
 
 =>q113_original
 they ain't gonna bother no one anymore.<end>
 
 =>q113
-Ils n'embêteront plus personne.<end>
+ils emmerderont plus personne.<end>
 
 =>q114_original
 Since... the Serpentines... ::wheeze:: wiped them out... ::sniff:: <end>
 
 =>q114
-Depuis que... les Serpentines... ::wheeze:: les ont effacées... ::Sniff:: <end>
+Depuis que... les Serpentines... ::wheeze:: les ont balayés... ::sniff:: <end>
 
 =>q115_original
 The Serpentines... ::wheeze:: are in a war with them now... and <end>
@@ -708,37 +708,37 @@ Les Serpentines... ::wheeze:: sont en guerre avec eux maintenant... et <end>
 your mates <end>
 
 =>q116
-vos compagnons <end>
+tes potes <end>
 
 =>q117_original
 have shown their... ::wheeze:: displeasure on numerous... ::sniff:: occasions.<end>
 
 =>q117
-ont montré leur... ::wheeze:: déplaisir sur de nombreuses... ::Sniff:: occasions.<end>
+ont montré leur... ::wheeze:: mécontentement plus d'une... ::sniff:: fois.<end>
 
 =>a118_original
 What's on the island?<end>
 
 =>a118
-Qu'y a-t-il sur l'île ?<end>
+Qu'est-ce qu'il y a sur l'île ?<end>
 
 =>q119_original
 Ruins. ::wheeze:: There's a couple large buildings there. Everythin' else... ::cough:: is rubble.<end>
 
 =>q119
-Des ruines. ::wheeze:: Il y a quelques grands bâtiments. Tout le reste... ::toux:: est des décombres.<end>
+Des ruines. ::wheeze:: Y a deux-trois gros bâtiments. Tout le reste... ::cough:: c'est des décombres.<end>
 
 =>a120_original
 How come the pirates never set up camp over there?<end>
 
 =>a120
-Pourquoi les pirates n'ont jamais installé de camp là-bas ?<end>
+Pourquoi les pirates ont jamais campé là-bas ?<end>
 
 =>q121_original
 Some have tried... ::wheeze:: but the... ::sniff:: Serpentines drove them out.<end>
 
 =>q121
-Certains ont essayé... ::wheeze:: mais... ::Sniff:: Serpentines les a chassés.<end>
+Y en a qui ont essayé... ::wheeze:: mais les... ::sniff:: Serpentines les ont virés.<end>
 
 =>q122_original
 the pirates <end>
@@ -750,61 +750,61 @@ les pirates <end>
 What do you know about the pirate territory?<end>
 
 =>a123
-Que savez-vous du territoire des pirates ?<end>
+Qu'est-ce que tu sais du territoire pirate ?<end>
 
 =>q124_original
 Uh... ain't you... ::sniff:: supposed to know more... ::wheeze:: about that than me?<end>
 
 =>q124
-N'est-ce pas... ::Sniff:: censé en savoir plus... ::wheeze:: sur ça que moi ?<end>
+Euh... t'es pas... ::sniff:: censé en savoir plus... ::wheeze:: que moi, là-dessus ?<end>
 
 =>q125_original
 Yeah. ::cough::<end>
 
 =>q125
-Oui. ::toux::<end>
+Ouais. ::cough::<end>
 
 =>q126_original
 It's The Pirate Bay... ::wheeze:: Many generations of pirates have been... ::cough:: there, in the past. Before they built the walls... ::sniffs:: you could see a huge battleship... ::wheeze:: but no more.<end>
 
 =>q126
-C'est The Pirate Bay... ::wheeze:: Beaucoup de générations de pirates ont été... ::toux:: là, dans le passé. Avant qu'ils construisent les murs... ::Sniffs:: vous pouvez voir un énorme navire de combat... ::wheeze:: mais pas plus.<end>
+C'est The Pirate Bay... ::wheeze:: Des générations de pirates ont été... ::cough:: là, dans le passé. Avant qu'ils construisent les murs... ::sniffs:: tu pouvais voir un énorme cuirassé... ::wheeze:: mais plus maintenant.<end>
 
 =>q127_original
 Now it's nothin' but... ::wheeze:: walls and jetters patrollin'. That's all you can... ::sniff:: see.<end>
 
 =>q127
-Maintenant ce n'est rien, mais... les murs ::wheeze:: et les avions patrouillent. C'est tout ce que vous pouvez... ::Sniff:: voir.<end>
+Maintenant y a plus que... ::wheeze:: des murs et des jetters en patrouille. C'est tout c'que tu peux... ::sniff:: voir.<end>
 
 =>a128_original
 Tell me about the native territory.<end>
 
 =>a128
-Parlez-moi du territoire autochtone.<end>
+Parle-moi du territoire des indigènes.<end>
 
 =>q129_original
 The Serpentines... ::wheeze:: rule everythin' north of here. Unlike <end>
 
 =>q129
-Les Serpentines... ::wheeze:: gouvernent tout au nord d'ici. Contrairement à <end>
+Les Serpentines... ::wheeze:: règnent sur tout au nord d'ici. Pas comme <end>
 
 =>q130_original
 your mates... ::wheeze:: <end>
 
 =>q130
-Tes potes... ::wheeze:: <end>
+tes potes... ::wheeze:: <end>
 
 =>q131_original
 they ain't got fast movin'... ::wheeze:: jets to chase after you. But they... ::wheeze:: got huge ships made of bone... ::sniff:: and leather. And they got natural... ::wheeze:: predators guardin' their waters.<end>
 
 =>q131
-Ils n'ont pas de jets ::wheeze:: pour te poursuivre. Mais ils... ::wheeze:: ont d'énormes vaisseaux en os... ::Sniff:: et cuir. Et ils ont des prédateurs ::wheeze:: qui gardent leurs eaux.<end>
+ils ont pas de jets rapides... ::wheeze:: pour te courir après. Mais ils... ::wheeze:: ont d'énormes navires en os... ::sniff:: et en cuir. Et ils ont des prédateurs... ::wheeze:: naturels qui gardent leurs eaux.<end>
 
 =>q132_original
 The Ferryman... has been there. No one... ::wheeze:: else. No one else... ::cough:: and came back alive.<end>
 
 =>q132
-Le Ferryman... était là. Personne... ::wheeze:: autre. Personne d'autre... ::toux:: et est revenu vivant.<end>
+Le Ferryman... y est allé. Personne... ::wheeze:: d'autre. Personne d'autre... ::cough:: et revenu vivant.<end>
 
 =>q133_original
 the pirates <end>
@@ -816,7 +816,7 @@ les pirates <end>
 Can you tell me anything about the local wildlife?<end>
 
 =>a134
-Pouvez-vous me parler de la faune locale ?<end>
+Tu peux me parler de la faune du coin ?<end>
 
 =>q135_original
 Serpents... ::wheeze:: rule the sea. 
@@ -828,13 +828,13 @@ Siphoners rule the... ::cough:: pools.
 Creepers - the dark caves... ::wheeze::<end>
 
 =>q135
-Les serpents... ::wheeze:: gouvernent la mer.
+Les serpents... ::wheeze:: règnent sur la mer.
 
-Règle des crabes... ::Sniff:: les sables.
+Les crabes règnent... ::sniff:: sur les sables.
 
-Les siphoners règlent... les piscines ::toux::.
+Les siphoners règnent sur les... ::cough:: mares.
 
-Creepers - les grottes sombres... ::wheeze::<end>
+Les creepers - les grottes sombres... ::wheeze::<end>
 
 =>q136_original
 <end>
@@ -846,25 +846,25 @@ Creepers - les grottes sombres... ::wheeze::<end>
 You have hoppers here?<end>
 
 =>a137
-Vous avez des trémies ?<end>
+Y a des sauteurs, ici ?<end>
 
 =>q138_original
 Uh... yeah. ::He nods, wheezing.:: They've been brought here a long time ago... ::wheeze:: 'cause they're easy to keep. But they... ::sniff:: kept dyin' in captivity. ::wheeze:: It's us, I guess. So we let them inhabit the surroundin' lands... ::wheeze::<end>
 
 =>q138
-Euh... ouais. ::Il hoche la tête.:: Ils sont ici depuis longtemps... ::wheeze:: parce qu'ils sont faciles à garder. Mais ils... ::Sniff:: ont continué à mourir en captivité. ::wheeze:: C'est nous, je suppose. Donc nous les laissons habiter les terres environnantes... ::wheeze::<end>
+Euh... ouais. ::Il hoche la tête, le souffle court.:: On les a amenés y a longtemps... ::wheeze:: parce qu'ils sont faciles à garder. Mais ils... ::sniff:: crevaient en captivité. ::wheeze:: C'est nous, je suppose. Alors on les a laissés peupler les terres autour... ::wheeze::<end>
 
 =>q139_original
 They haven't spread far, though. ::wheeze:: Lotsa hungry critters 'round here.<end>
 
 =>q139
-Ils ne se sont pas éloignés. ::wheeze:: Lotsa a faim dans le coin.<end>
+Ils se sont pas trop répandus, par contre. ::wheeze:: Y a trop de bestioles affamées dans le coin.<end>
 
 =>q140_original
 Forget I said anythin'. <end>
 
 =>q140
-Oubliez ce que j'ai dit. <end>
+Oublie c'que j'ai dit. <end>
 
 =>q141_original
 ::Wheeze::<end>
@@ -882,13 +882,13 @@ Parle-moi des crabes.<end>
 Burrow under the... ::wheeze:: sand. Then they... ::sniff:: burst out to getcha. The big buggers do... ::wheeze:: the small ones can't hurt you.<end>
 
 =>q143
-Enterrement sous le sable ::wheeze::. Puis ils... ::Sniff:: ont éclaté pour obtenircha. Les gros cons font... ::wheeze:: les petits ne peuvent pas vous blesser.<end>
+Ils s'enterrent sous le... ::wheeze:: sable. Ensuite ils... ::sniff:: sortent d'un coup pour t'avoir. Les gros, oui... ::wheeze:: les petits peuvent pas te faire mal.<end>
 
 =>q144_original
 But the big ones... some can even zap ya. ::wheeze:: BzzZzz! And you're... ::cough:: dead.<end>
 
 =>q144
-Mais les grands... certains peuvent même te taper. ::wheeze:: Bzzzzz! Et vous êtes... ::toux:: mort.<end>
+Mais les gros... y en a qui peuvent même te zapper. ::wheeze:: BzzZzz ! Et t'es... ::cough:: mort.<end>
 
 =>a145_original
 These serpents...<end>
@@ -900,31 +900,31 @@ Ces serpents...<end>
 Dangerous. They ain't got the taste for us... ::wheeze:: luckily, so they don't linger... ::sniff:: around this island.<end>
 
 =>q146
-Dangereux. Ils n'ont pas le goût pour nous... ::wheeze:: heureusement, pour qu'ils ne s'attardent pas... ::Sniff:: autour de cette île.<end>
+Dangereux. Ils nous trouvent pas bon... ::wheeze:: heureusement, alors ils restent pas... ::sniff:: autour de cette île.<end>
 
 =>q147_original
 But they love... ::wheeze:: <end>
 
 =>q147
-Mais ils aiment... ::wheeze:: <end>
+Mais ils adorent... ::wheeze:: <end>
 
 =>q148_original
 your friends on... ::cough:: jets. <end>
 
 =>q148
-Vos amis sur... les jets ::toux::. <end>
+tes amis sur... ::cough:: leurs jets. <end>
 
 =>q149_original
 Pirates... ::wheeze:: too. They're fast... and got a real nasty bite. ::wheeze:: All of 'em.<end>
 
 =>q149
-Pirates... ::wheeze:: aussi. Ils sont rapides... et ont eu une morsure très méchante. ::wheeze:: Tous.<end>
+Les pirates... ::wheeze:: aussi. Ils sont rapides... et ils ont une sacrée morsure. ::wheeze:: Tous.<end>
 
 =>q150_original
 the newcomers on... ::cough:: jets. <end>
 
 =>q150
-les nouveaux arrivants sur... les jets ::toux::. <end>
+les nouveaux sur... ::cough:: leurs jets. <end>
 
 =>q151_original
 Your mates too.<end>
@@ -936,61 +936,61 @@ Tes potes aussi.<end>
 What can you tell me about the local siphoners?<end>
 
 =>a152
-Que pouvez-vous me dire sur les siphonistes locaux ?<end>
+Qu'est-ce que tu peux me dire sur les siphoners du coin ?<end>
 
 =>q153_original
 There are lesser ones... ::wheeze:: and there are greater ones... Pretty much the same things other than size... ::wheeze:: The greater ones taste a bit better, though. <end>
 
 =>q153
-Il y en a moins... ::wheeze:: et il y en a plus grands... Presque les mêmes choses que la taille... ::wheeze:: Mais les plus grands ont un goût un peu meilleur. <end>
+Y a les petits... ::wheeze:: et y a les grands... À peu près les mêmes à part la taille... ::wheeze:: Les grands ont un peu meilleur goût, par contre. <end>
 
 =>q154_original
 Or so they... ::wheeze:: told me. I can't taste nothin'.<end>
 
 =>q154
-Ou alors... ::wheeze:: me l'a dit. Je ne peux rien goûter.<end>
+Enfin c'est c'qu'on... ::wheeze:: m'a dit. Je goûte rien.<end>
 
 =>a155_original
 Creepers?<end>
 
 =>a155
-Des cris ?<end>
+Les creepers ?<end>
 
 =>q156_original
 Giant spiders. ::wheeze:: Web-weavin' buggers. Their venom can blind... ::wheeze:: you.<end>
 
 =>q156
-Des araignées géantes. ::wheeze:: Web-weavin' buggers. Leur venin peut aveugler... ::wheeze:: vous.<end>
+Des araignées géantes. ::wheeze:: Des saletés qui tissent des toiles. Leur venin peut t'aveugler... ::wheeze::.<end>
 
 =>q157_original
 There's a nest nearby... ::wheeze:: They moved in to eat... ::wheeze:: our hoppers. Huge nest... ::wheeze:: underground.<end>
 
 =>q157
-Il y a un nid à proximité... ::wheeze:: Ils ont emménagé pour manger... ::wheeze:: nos trémies. Un énorme nid... ::wheeze:: sous terre.<end>
+Y a un nid pas loin... ::wheeze:: Ils se sont installés pour bouffer... ::wheeze:: nos sauteurs. Énorme nid... ::wheeze:: sous terre.<end>
 
 =>a158_original
 Let me ask you something else.<end>
 
 =>a158
-Laissez-moi vous demander autre chose.<end>
+Je voulais te demander autre chose.<end>
 
 =>a159_original
 I have no more questions.<end>
 
 =>a159
-Je n'ai plus de questions.<end>
+J'ai plus de questions.<end>
 
 =>q160_original
 Wouldn't know... ::wheeze::<end>
 
 =>q160
-Je ne sais pas... ::wheeze::<end>
+J'en saurais rien... ::wheeze::<end>
 
 =>q161_original
 This is the... ::sniff:: most borin' part of the Black Sea... ::wheeze:: for sure.<end>
 
 =>q161
-C'est la partie ::Sniff:: la plus borin' de la Black Sea... ::wheeze:: pour sûr.<end>
+C'est le... ::sniff:: coin le plus chiant de la Black Sea... ::wheeze:: c'est sûr.<end>
 
 =>a162_original
 About the surrounding areas...<end>
@@ -1008,37 +1008,37 @@ Des questions ? ::wheeze::<end>
 That monolith at the entrance, what do you know about it?<end>
 
 =>a164
-Ce monolithe à l'entrée, que sais-tu à ce sujet ?<end>
+Ce monolithe à l'entrée, tu en sais quoi ?<end>
 
 =>q165_original
 It's been there since we... ::wheeze:: came. Ain't got the faintest what it... ::sniff:: is or does. <end>
 
 =>q165
-Il est là depuis que nous... ::wheeze:: est venu. Il n'y a pas le plus faible ce que c'est... ::Sniff:: est ou fait. <end>
+Il est là depuis qu'on... ::wheeze:: est arrivés. J'ai pas la moindre idée de c'que c'est... ::sniff:: ni c'qu'il fait. <end>
 
 =>q166_original
 Heard plenty of stories... ::wheeze:: But I don't know. However... ::sniff:: the Serpentines... they fear it. ::wheeze:: Scares the... ::sniff:: crap outta them.<end>
 
 =>q166
-J'ai entendu plein d'histoires... ::wheeze:: Mais je ne sais pas. Cependant... ::Sniff:: les Serpentines... ils le craignent. ::wheeze:: effraie les... ::Sniff:: qui leur font chier.<end>
+J'ai entendu plein d'histoires... ::wheeze:: Mais je sais pas. Par contre... ::sniff:: les Serpentines... ils en ont peur. ::wheeze:: Ça leur fait... ::sniff:: une peur bleue.<end>
 
 =>a167_original
 How come?<end>
 
 =>a167
-Pourquoi ?<end>
+Comment ça ?<end>
 
 =>q168_original
 They avoid it like leprosy... ::sniff:: even cover their eyes as to not look at it. ::wheeze:: And if the currents bring their boats close... ::sniff:: they start frantically rowin'... ::wheeze:: back. You can just see it. Frantically, yeah. ::cough::<end>
 
 =>q168
-Ils évitent la lèpre... ::Sniff:: couvre même leurs yeux de ne pas le regarder. ::wheeze:: Et si les courants ferment leurs bateaux... ::Sniff:: ils commencent frénétiquement à ramer... ::wheeze:: retour. Tu peux juste le voir. Franchement, oui. ::toux::<end>
+Ils l'évitent comme la lèpre... ::sniff:: ils se couvrent même les yeux pour pas le regarder. ::wheeze:: Et si les courants ramènent leurs bateaux trop près... ::sniff:: ils se mettent à ramer comme des fous... ::wheeze:: en arrière. Tu le vois, c'est tout. Comme des fous, ouais. ::cough::<end>
 
 =>q169_original
 It's just there... ::wheeze:: and you stop payin' attention to it after a while.<end>
 
 =>q169
-C'est juste là... ::wheeze:: et tu arrêtes d'y prêter attention après un moment.<end>
+Il est juste là... ::wheeze:: et au bout d'un moment tu n'y fais plus gaffe.<end>
 
 =>a170_original
 I have to go now.<end>
@@ -1064,9 +1064,9 @@ Je dois y aller maintenant.<end>
 What? ::wheeze:: ...Can I do for you? ::sniff::<end>
 
 =>q173
-::Il tend les muscles du cou, grogne brièvement, puis avale.::
+::Il tend les muscles du cou, gargouille un instant, puis avale.::
 
-Quoi ? ::wheeze:: ... Je peux le faire pour toi ? ::Sniff::<end>
+Quoi ? ::wheeze:: ...Je peux faire quoi pour toi ? ::sniff::<end>
 
 =>q174_original
 ::He coughs so violently that his eyes seem like they're going to pop out; one of them even enters a cycle of intense twitching which lasts longer than any sane person would want.::
@@ -1074,9 +1074,9 @@ Quoi ? ::wheeze:: ... Je peux le faire pour toi ? ::Sniff::<end>
 Yeah? ::wheeze::<end>
 
 =>q174
-::Il tousse si violemment que ses yeux semblent s'évanouir; l'un d'eux entre même dans un cycle d'intenses secousses qui dure plus longtemps que toute personne saine d'esprit ne le voudrait.::
+::Il tousse si fort que ses yeux ont l'air de vouloir sortir ; l'un d'eux se met même à tiquer à toute allure, plus longtemps que n'importe qui de sain d'esprit ne le supporterait.::
 
-Oui ? ::wheeze::<end>
+Ouais ? ::wheeze::<end>
 
 =>q175_original
 ::He rubs his forehead.::
@@ -1090,17 +1090,17 @@ Where... ::wheeze:: were we?<end>
 =>q175
 ::Il se frotte le front.::
 
-Hnnnn... une... une seconde...
+Hnnnn... une... seconde...
 
-::Il en faut une dizaine, après l'expiration de laquelle il soupire en soulagement et te regarde.::
+::Il lui en faut une dizaine, après quoi il soupire de soulagement et vous regarde.::
 
-Où... ::wheeze:: étions-nous ?<end>
+Où... ::wheeze:: on en était ?<end>
 
 =>q176_original
 Hey... ::wheeze:: the headaches... ::wheeze:: have stopped. ::His eye twitches.::<end>
 
 =>q176
-Hey... ::wheeze:: les maux de tête... ::wheeze:: ont arrêté. ::Son œil se déchire.::<end>
+Hé... ::wheeze:: les maux de tête... ::wheeze:: ont arrêté. ::Son œil tique.::<end>
 
 =>q177_original
 ::He peels a strip of skin from his forearm and puts it in a yellowish nylon bag.::
@@ -1108,13 +1108,13 @@ Hey... ::wheeze:: les maux de tête... ::wheeze:: ont arrêté. ::Son œil se d�
 What is-- ::wheeze:: What can I do for you?<end>
 
 =>q177
-::Il pele une bande de peau de son avant-bras et la met dans un sac en nylon jaunâtre.::
+::Il arrache une bande de peau de son avant-bras et la met dans un sac en nylon jaunâtre.::
 
-Qu'est-ce que... ::wheeze:: Que puis-je pour vous ?<end>
+Qu'est-ce que-- ::wheeze:: Qu'est-ce que je peux faire pour toi ?<end>
 
 =>q178_original
 What do you... ::wheeze:: *need*?<end>
 
 =>q178
-Qu'est-ce que... ::wheeze:: *besoin* ?<end>
+De quoi t'as... ::wheeze:: *besoin* ?<end>
 

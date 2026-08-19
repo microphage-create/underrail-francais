@@ -2,13 +2,13 @@
 They're watching, aren't they?<end>
 
 =>q1
-Ils regardent, non ?<end>
+Ils regardent, hein ?<end>
 
 =>q2_original
 ::He ignores you completely.::<end>
 
 =>q2
-::Il vous ignore complètement.::<end>
+::Il t'ignore complètement.::<end>
 
 =>q3_original
 ::A figure with a familiarly pierced face waves at you.::
@@ -20,25 +20,25 @@ Yo, hey, you! $(#Dude/Sister), yo! Recognize me?
 You like this? It's hardcore, huh? Yeah, it is! You know it, $(#man/sister).<end>
 
 =>q3
-::Une figure avec des vagues de visage percés.::
+::Une silhouette au visage percé, que tu reconnais, te fait signe.::
 
-Vous ! $(#Dude/Sister), vous ! Me reconnaître ?
+Yo, hé, toi ! $(#Mec/Sœurette), yo ! Tu me reconnais ?
 
-::Maintenant encore plus accessoirisé, Duff frappe une pose et vous présente son nouveau look : Il s'agit de baskets sportives flambant neuves, apparemment très légères et confortables; pantalons et costumes en cuir trémie de qualité - peut-être trop serrés dans certains endroits; ceinture en cuir avec une boucle en métal simple mais élégant; une chemise noire; et enfin, ce qui semble être un collier de chaîne en acier super. Et il a même obtenu son mohawk soigneusement taillé.::
+::Encore plus accessoirisé qu'avant, Duff prend la pose et te montre son nouveau look : baskets flambant neuves, on dirait légères et confortables ; pantalon et veste en cuir de sauteur de qualité - un peu trop serrés par endroits ; ceinture en cuir avec une boucle métal simple mais classe ; une chemise noir profond ; et pour finir, ce qui ressemble à un collier en mailles de super steel. Et il s'est même fait tailler le mohawk proprement.::
 
-Tu aimes ça ? C'est hardcore, hein ? Oui ! Tu le sais, $(#man/sister).<end>
+T'aimes ? C'est hardcore, hein ? Ouais, ça l'est ! Tu le sais, $(#mec/sœurette).<end>
 
 =>a4_original
 Hell yeah it's hardcore, man!<end>
 
 =>a4
-C'est hardcore, mec !<end>
+Putain ouais, c'est hardcore, mec !<end>
 
 =>q5_original
 Yeah, I know! It's hardcore.<end>
 
 =>q5
-Oui, je sais ! C'est hardcore.<end>
+Ouais, je sais ! C'est hardcore.<end>
 
 =>q6_original
 While we're here, I wanna... well, I wanted to thank you. I've thought about what happened and... uh... Some important folks wanted that device, huh? Fat rats with lotsa money who could've had us zoned out like nothing. But you didn't do that. You didn't call in the hit squad or whatever. Instead you bought it off us, gave us a *lot* of money and left us alone. I respect that. I know I would've done the opposite, but I... ::He cuts the sentence short with a shrug.::
@@ -46,9 +46,9 @@ While we're here, I wanna... well, I wanted to thank you. I've thought about wha
 Now, who thought that robbing some squeezer would have such a happy ending, huh? ::He laughs.:: So, thanks again... eh, um, what's your name?<end>
 
 =>q6
-Pendant qu'on est là, je veux... je voulais te remercier. J'ai réfléchi à ce qui s'est passé... Des gens importants voulaient cet appareil, hein ? Des gros rats avec beaucoup d'argent qui auraient pu nous faire débarquer comme rien. Mais tu n'as pas fait ça. Tu n'as pas appelé l'équipe. Au lieu de ça, tu nous l'as acheté, tu nous as donné beaucoup d'argent et tu nous as laissés seuls. Je respecte ça. Je sais que j'aurais fait le contraire, mais je... ::Il raccourcit la phrase avec une punaise.::
+Tant qu'on y est, je veux... enfin, je voulais te remercier. J'ai repensé à ce qui s'est passé et... euh... Des gens importants voulaient ce truc, hein ? Des gros rats bourrés de thune qui auraient pu nous zoner comme rien. Mais t'as pas fait ça. T'as pas appelé l'équipe de choc, ni rien. À la place t'nous l'as acheté, t'nous as filé *un max* de thune et t'nous as laissés tranquilles. Je respecte ça. Je sais que moi j'aurais fait l'inverse, mais je... ::Il coupe court d'un haussement d'épaules.::
 
-Qui pensait que le vol d'un pressoir aurait une fin heureuse, hein ? ::Il rit.:: Merci encore... Comment vous appelez-vous ?<end>
+Qui aurait dit que braquer un pigeon finirait aussi bien, hein ? ::Il rit.:: Alors merci encore... euh, c'est quoi ton nom ?<end>
 
 =>a7_original
 $(context.player.Name).<end>
@@ -60,7 +60,7 @@ $(context.player.Name).<end>
 Thank you, $(context.player.Name). You're hardcore.<end>
 
 =>q8
-Merci, $(context.player.Name). Tu es hardcore.<end>
+Merci, $(context.player.Name). T'es hardcore.<end>
 
 =>q9_original
 <end>
@@ -72,7 +72,7 @@ Merci, $(context.player.Name). Tu es hardcore.<end>
 So, what have you been doing besides shopping for clothes? And where are the ladies?<end>
 
 =>a10
-Qu'est-ce que tu as fait à part acheter des vêtements ? Et où sont les dames ?<end>
+T'as fait quoi à part t'habiller ? Et elles sont où, les dames ?<end>
 
 =>q11_original
 They're resting. I dominated them. Yeah, I did. I took them to the Arena, then the Hardcore City Bar, then we did some hardcore shopping. Them girls are tired. ::He laughs.:: Meanwhile, I went out to grab us some food. We rented a place over at the upper level. It's small, but hardcore enough for us.
@@ -80,51 +80,51 @@ They're resting. I dominated them. Yeah, I did. I took them to the Arena, then t
 Oh, and watching a *live* Arena match again after all this time - domination! Much better than watching it on a trim. To smell the blood, to have the gore splatter all around you. And all them bloodthirsty maniacs yelling and screaming together... Hardcore. I missed that. Worth every charon.<end>
 
 =>q11
-Ils se reposent. Je les ai dominés. Oui. Je les ai emmenés à l'aréna, puis au Hardcore City Bar, puis nous avons fait des courses hardcore. Les filles sont fatiguées. ::Il rit.:: Pendant ce temps, je suis allé nous chercher à manger. Nous avons loué une place au niveau supérieur. C'est petit, mais assez hardcore pour nous.
+Elles se reposent. Je les ai dominées. Ouais. Je les ai emmenées à l'Arena, puis au Hardcore City Bar, après on a fait du shopping hardcore. Les nanas sont crevées. ::Il rit.:: Pendant ce temps, je suis sorti nous chercher à bouffer. On a loué un appart au niveau du dessus. C'est petit, mais assez hardcore pour nous.
 
-Oh, et regarder une vie Arène match à nouveau après tout ce temps - domination! Bien mieux que de le regarder sur une garniture. Pour sentir le sang, pour que le gore s'éclabousse autour de vous. Et tous ces maniaques sanguinaires criant et criant ensemble... C'est dur. Ça m'a manqué. Ça vaut le coup.<end>
+Oh, et revoir un match d'Arena *en live* après tout ce temps - domination ! Vachement mieux que sur un trim. Sentir le sang, le gore qui gicle partout autour de toi. Et tous ces maniaques sanguinaires qui gueulent ensemble... Hardcore. Ça m'avait manqué. Ça valait chaque charon.<end>
 
 =>a12_original
 I've also got a house there. It's the large house just northwest of the Core City Housing Corporation office.<end>
 
 =>a12
-J'ai aussi une maison. C'est la grande maison juste au nord-ouest du bureau de la Société d'habitation Core City.<end>
+J'ai une maison là-haut, moi aussi. La grande, juste au nord-ouest du bureau de la Core City Housing Corporation.<end>
 
 =>q13_original
 Damn, you're loaded. Good for you. We might stop by and hang out some time. That alright, huh?<end>
 
 =>q13
-Merde, tu es chargé. Tant mieux pour toi. On pourrait passer et sortir un moment. Ça va, hein ?<end>
+Putain, t'es bourré de thune. Tant mieux pour toi. On pourrait passer traîner un de ces quatre. Ça te va, hein ?<end>
 
 =>a14_original
 Sure. Drop by whenever you like.<end>
 
 =>a14
-Bien sûr. Passez quand vous voulez.<end>
+Carrément. Passez quand vous voulez.<end>
 
 =>q15_original
 Hardcore. I'll talk with the girls. Damn... we got neighbors that ain't scared we're gonna zone them out. How awesome is that, huh?<end>
 
 =>q15
-C'est dur. Je vais parler aux filles. On a des voisins qui n'ont pas peur qu'on les débarque. C'est génial, hein ?<end>
+Hardcore. J'en parle aux filles. Putain... on a des voisins qui flipent pas qu'on les zone. Trop fort, hein ?<end>
 
 =>a16_original
 So you left the Zone for good?<end>
 
 =>a16
-Donc vous avez quitté le Zone pour de bon ?<end>
+Donc vous avez quitté la Zone pour de bon ?<end>
 
 =>q17_original
 ::He nods.:: I feel like a proper citizen now. I got tired of all the scavenging, robbing and zoning out. Gotta think of the girls too. They're hardcore in their own right, but they're still women. Maybe I'll get a job or something. <end>
 
 =>q17
-::Il acquiesce.:: Je me sens comme un bon citoyen maintenant. J'en ai eu assez de tous les fouilles, vols et zonages. Faut penser aux filles aussi. Ils sont hardcore à part entière, mais ce sont toujours des femmes. Je vais peut-être trouver un boulot. <end>
+::Il hoche la tête.:: Je me sens comme un vrai citoyen, maintenant. J'en avais marre de tout fouiller, braquer et zoner. Faut penser aux filles aussi. Elles sont hardcore à leur façon, mais c'est quand même des nanas. Peut-être que je vais me trouver un boulot, ou un truc. <end>
 
 =>q18_original
 Now that the Tunnelers are gone, maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
 
 =>q18
-Maintenant que les Tunneler sont partis, il y a peut-être du futur dans cet endroit après tout. Des opportunités et tout ça. Je trouverai quelque chose.<end>
+Maintenant que les Tunnelers sont partis, y a peut-être un avenir ici, après tout. Des opportunités, tout ça. Je trouverai un truc.<end>
 
 =>q19_original
 <end>
@@ -136,7 +136,7 @@ Maintenant que les Tunneler sont partis, il y a peut-être du futur dans cet end
 By the way, where'd you get that super steel necklace?<end>
 
 =>a20
-Au fait, où as-tu eu ce collier en acier ?<end>
+Au fait, t'as eu ce collier en super steel où ?<end>
 
 =>q21_original
 ::He smiles and lifts the necklace with his hand, gazing at it with extreme pride and delight; it seems that its presence satisfies both his love of money and of jewelry at the same time, for it is both of those at the same time.::
@@ -144,21 +144,21 @@ Au fait, où as-tu eu ce collier en acier ?<end>
 I got this done in Foundry. I said, "Yo, I want this coins melted into a necklace," and they did it. Did a few more trinkets for the girls too. They loved it. A man's gotta know how to treat his girls properly, right?<end>
 
 =>q21
-::Il sourit et lève le collier de sa main, le regardant avec une fierté et un plaisir extrêmes ; il semble que sa présence satisfait à la fois son amour de l'argent et celui des bijoux en même temps, car il est à la fois de ceux en même temps.::
+::Il sourit et soulève le collier, le regardant avec une fierté et un plaisir extrêmes ; on dirait que le bijou nourrit à la fois son amour de l'argent et des bijoux, parce que c'est les deux en même temps.::
 
-J'ai fait ça en Foundry. J'ai dit, "Yo, je veux que ces pièces fondent dans un collier", et ils l'ont fait. J'ai fait quelques bribes pour les filles aussi. Ils ont adoré. Un homme doit savoir traiter ses filles correctement, non ?<end>
+J'ai fait faire ça à Foundry. J'ai dit : « Yo, je veux que ces pièces soient fondues en collier », et ils l'ont fait. Quelques breloques pour les filles, aussi. Elles ont adoré. Un homme, ça doit savoir y faire avec ses nanas, non ?<end>
 
 =>q22_original
 I'm even gonna do super steel piercings one day. ::He laughs.:: No, really, I will.<end>
 
 =>q22
-Je ferai même des piercings en acier un jour. ::Il rit.:: Non, vraiment.<end>
+Un jour je me ferai même des piercings en super steel. ::Il rit.:: Non, pour de vrai, je le ferai.<end>
 
 =>a23_original
 It's been fun chatting with you, but I gotta go. Say hi to the ladies from me and good luck to you all.<end>
 
 =>a23
-Ça a été amusant de discuter avec toi, mais je dois y aller. Dites bonjour aux dames de ma part et bonne chance à vous tous.<end>
+Ça m'a fait plaisir de causer, mais je dois y aller. Dis bonjour aux dames de ma part, et bonne chance à vous tous.<end>
 
 =>q24_original
 <end>
@@ -172,33 +172,33 @@ Hold on one more second. ::He pauses, looks you straight in the eye and speaks.:
 So what do you say, girl, huh? You like the idea?<end>
 
 =>q25
-Attendez encore une seconde. ::Il s'arrête, te regarde droit dans les yeux et parle.:: Si ça t'intéresse, tu pourrais peut-être te joindre à moi et aux filles. Il y a assez de Duff pour une autre femme. ::Il sourit.:: Oh, et ne t'inquiète pas, les autres filles ne seront pas jalouses. Eh bien... peut-être que Priscilla le fera au début, mais si elle pouvait accepter Svetlana, elle t'accepterait aussi.
+Attends encore une seconde. ::Il s'arrête, te regarde droit dans les yeux et parle.:: Euh, si ça t'intéresse... tu pourrais peut-être te joindre à moi et aux filles, tu vois. Y a assez de Duff pour une nana de plus. ::Il sourit.:: Oh, oh, et t'inquiète - les autres filles seront pas jalouses. Bon... Priscilla, peut-être, au début, mais si elle a pu encaisser Svetlana, elle t'encaissera toi aussi.
 
-Qu'est-ce que tu en dis ? Tu aimes l'idée ?<end>
+Alors, qu'est-ce que t'en dis, ma belle, hein ? T'aimes l'idée ?<end>
 
 =>a26_original
 You are not my type.<end>
 
 =>a26
-Tu n'es pas mon genre.<end>
+T'es pas mon genre.<end>
 
 =>q27_original
 Can't zone out a man for trying, huh? ::He laughs.:: Duff doesn't mind. Yeah.<end>
 
 =>q27
-Tu ne peux pas débarquer un homme pour essayer ? ::Il rit.:: Ce n'est pas grave. Oui.<end>
+On va pas zoner un gars pour avoir essayé, hein ? ::Il rit.:: Duff en a rien à foutre. Ouais.<end>
 
 =>q28_original
 Well, see ya. Stay hardcore. <end>
 
 =>q28
-À bientôt. Reste hardcore. <end>
+Bon, à plus. Reste hardcore. <end>
 
 =>q29_original
 ::He then turns toward the crispy, moist meat as it rotates so tantalizingly right before his eyes.:: That's the stuff. No more stinking barrel soup for ol' Duffie.<end>
 
 =>q29
-::Il se tourne ensuite vers la viande croustillante et humide, car elle tourne tellement tant devant ses yeux.:: C'est le truc. Plus de soupe puante pour le ol' Duffie.<end>
+::Il se tourne ensuite vers la viande croustillante et juteuse qui tourne sous ses yeux, trop alléchante.:: Ça, c'est le délire. Plus de soupe de baril dégueu pour le vieux Duffie.<end>
 
 =>a30_original
 I'll think about it.<end>
@@ -210,7 +210,7 @@ Je vais y réfléchir.<end>
 Alright. Hardcore. Yeah. ::He nods.:: You do that. Duff'll be waiting. ::Then he winks.::<end>
 
 =>q31
-Très bien. C'est dur. Oui. ::Il acquiesce.:: Fais ça. Duff va attendre. ::Puis il cligne.::<end>
+Ça marche. Hardcore. Ouais. ::Il hoche la tête.:: Fais ça. Duff t'attendra. ::Puis il fait un clin d'œil.::<end>
 
 =>a32_original
 No.<end>
@@ -222,55 +222,55 @@ Non.<end>
 See ya! Stay hardcore. <end>
 
 =>q33
-A bientôt ! Reste hardcore. <end>
+À plus ! Reste hardcore. <end>
 
 =>a34_original
 Gotta go now. See you around, Duff.<end>
 
 =>a34
-Il faut y aller. A bientôt, Duff.<end>
+Faut que j'y aille. À plus, Duff.<end>
 
 =>q35_original
 The Tunnelers could still wipe us out, but hell, you ain't getting nowhere if you think like that. Maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
 
 =>q35
-Les Tunneler pourraient encore nous anéantir, mais bon sang, tu n'iras nulle part si tu penses comme ça. Il y a peut-être de l'avenir ici. Des opportunités et tout ça. Je trouverai quelque chose.<end>
+Les Tunnelers pourraient encore tous nous buter, mais bon sang, tu vas nulle part si tu penses comme ça. Y a peut-être un avenir ici, après tout. Des opportunités, tout ça. Je trouverai un truc.<end>
 
 =>a36_original
 I rarely go there, actually. But I do have a very good security system.<end>
 
 =>a36
-J'y vais rarement, en fait. Mais j'ai un très bon système de sécurité.<end>
+J'y vais rarement, en fait. Mais j'ai un sacré système de sécu.<end>
 
 =>q37_original
 Oh. That's a shame. Whenever you have some time then. <end>
 
 =>q37
-Oh. C'est dommage. Chaque fois que vous avez du temps alors. <end>
+Oh. Dommage. Quand t'auras un moment, alors. <end>
 
 =>q38_original
 Or you could stop by our place, um... What was the number again...? Well, pipeworks. I'll let you know once I check it again. It's the third from the, uh... I'll let you know.<end>
 
 =>q38
-Ou tu pourrais passer chez nous... Quel était le numéro déjà ? Des pipes. Je vous le ferai savoir une fois que je l'aurai revérifié. C'est le troisième du... Je vous le ferai savoir.<end>
+Ou tu pourrais passer chez nous, euh... C'était quel numéro, déjà... ? Bon, Pipeworks. Je te dirai quand j'aurai revérifié. C'est le troisième à partir du, euh... Je te dirai.<end>
 
 =>a39_original
 I'm going to be busy in the following months.<end>
 
 =>a39
-Je serai occupé dans les mois suivants.<end>
+Je vais être $(#occupé/occupée) les mois qui viennent.<end>
 
 =>a40_original
 I gotta rush. Good luck, Duff.<end>
 
 =>a40
-Je dois me dépêcher. Bonne chance, Duff.<end>
+Je dois filer. Bonne chance, Duff.<end>
 
 =>a41_original
 I can't reveal my name, I'm afraid.<end>
 
 =>a41
-Je ne peux pas révéler mon nom, j'en ai peur.<end>
+Je peux pas dire mon nom.<end>
 
 =>q42_original
 Oh, I see. Secrecy and all that. I get it, I get it. 
@@ -278,27 +278,27 @@ Oh, I see. Secrecy and all that. I get it, I get it.
 Well, thank you, you. You're hardcore.<end>
 
 =>q42
-Oh, je vois. Le secret et tout ça. J'ai compris.
+Oh, je vois. Le secret, tout ça. Je piges, je piges.
 
-Merci, vous. Tu es hardcore.<end>
+Bon, merci, toi. T'es hardcore.<end>
 
 =>a43_original
 You look quite dandy, Duff.<end>
 
 =>a43
-Tu as l'air assez dandy, Duff.<end>
+T'as une de ces têtes de dandy, Duff.<end>
 
 =>a44_original
 I like how everything is matching the color of your mohawk.<end>
 
 =>a44
-J'aime comment tout correspond à la couleur de votre mohawk.<end>
+J'aime bien comment tout colle à la couleur de ton mohawk.<end>
 
 =>q45_original
 Yeah, I know! That's the whole idea. Style. Taste.<end>
 
 =>q45
-Oui, je sais ! C'est toute l'idée. Style. Goûte.<end>
+Ouais, je sais ! C'est tout le délire. Le style. Le goût.<end>
 
 =>a46_original
 Who paid you to wear that?<end>
@@ -310,31 +310,31 @@ Qui t'a payé pour porter ça ?<end>
 ::He scratches his mohawk.:: Huh? ::He stares at you some more, then replies.:: Oh, I dig. You did, $(#man/sister)! It's hardcore, right?<end>
 
 =>q47
-::Il gratte son mohawk.:: Quoi ? ::Il vous fixe un peu plus, puis répond.:: Je creuse. Tu l'as fait, $(#man/sister) ! C'est hardcore, non ?<end>
+::Il se gratte le mohawk.:: Hein ? ::Il te fixe encore un moment, puis répond.:: Oh, je pige. C'est toi, $(#mec/sœurette) ! C'est hardcore, non ?<end>
 
 =>a48_original
 Where are your ladies? Did they leave you because of the horrible outfit?<end>
 
 =>a48
-Où sont vos dames ? Ils t'ont quitté à cause de cette tenue horrible ?<end>
+Elles sont où, tes dames ? Elles t'ont largué à cause de cette tenue de merde ?<end>
 
 =>q49_original
 What!? No, they're waiting for me to grab some food. I mean... I just wanted to say hi, and what do you do? You insult me. If this here was the Zone I'd... ::He takes a glimpse around him before continuing.:: But no, I owe you, so how about you just drop off, huh? Alright? Hardcore. ::He turns his back to you.::<end>
 
 =>q49
-Quoi ? Non, ils attendent que je prenne à manger. Je veux dire... Je voulais juste te dire bonjour, et que fais-tu ? Vous m'insultez. Si c'était le Zone, je... ::Il prend un aperçu de lui avant de continuer.:: Mais non, je te suis redevable, et si tu déposais, hein ? Ça va ? C'est dur. ::Il te tourne le dos.::<end>
+Quoi ?! Non, elles m'attendent, je dois ramener à bouffer. Je veux dire... Je voulais juste te dire salut, et toi tu fais quoi ? Tu m'insultes. Si on était encore dans la Zone, je... ::Il jette un œil autour de lui avant de continuer.:: Mais non, je te dois ça, alors si tu dégageais, hein ? Ça te va ? Hardcore. ::Il te tourne le dos.::<end>
 
 =>a50_original
 Did you just tell me to drop off? You want me to take all those fine coins back, punk?<end>
 
 =>a50
-Tu viens de me dire de déposer ? Tu veux que je récupère toutes ces belles pièces ?<end>
+T'es en train de me dire de dégager ? Tu veux que je reprenne toutes ces belles pièces, p'tit con ?<end>
 
 =>q51_original
 Drop off. Leave me alone. I got rights now, meathead. Drop off.<end>
 
 =>q51
-Lâchez-moi. Laisse-moi tranquille. J'ai des droits maintenant, tête de viande. Lâchez-moi.<end>
+Dégage. Fous-moi la paix. J'ai des droits maintenant, abruti. Dégage.<end>
 
 =>a52_original
 ::Leave.::<end>
@@ -346,7 +346,7 @@ Lâchez-moi. Laisse-moi tranquille. J'ai des droits maintenant, tête de viande.
 Sorry, I think you got the wrong person?<end>
 
 =>a53
-Désolé, je pense que vous vous trompez de personne ?<end>
+$(#Désolé/Désolée), je crois que tu te trompes de personne ?<end>
 
 =>q54_original
 ::He stares at you for a few moments.::
@@ -354,21 +354,21 @@ Désolé, je pense que vous vous trompez de personne ?<end>
 What do you mean? But we... ::He points up and east.:: You know?<end>
 
 =>q54
-::Il te fixe quelques instants.::
+::Il te fixe un moment.::
 
-Comment ça ? Mais nous... ::Il pointe vers l'est.:: Tu sais ?<end>
+Comment ça ? Mais on... ::Il pointe vers le haut, à l'est.:: Tu vois ?<end>
 
 =>a55_original
 I'm just messing with you. You're looking good, man.<end>
 
 =>a55
-Je déconne avec toi. Tu es en forme.<end>
+Je te fais marcher. T'as une de ces têtes, mec.<end>
 
 =>q56_original
 Oh, you scared me for a moment. I though you were gonna blow me off. ::He laughs.:: But yeah, I'm looking hardcore now!<end>
 
 =>q56
-Tu m'as fait peur. J'étais sûr que vous alliez me faire sauter. ::Il rit.:: Mais oui, je suis hardcore maintenant !<end>
+Oh, tu m'as fait flipper une seconde. Je croyais que tu allais me larguer. ::Il rit.:: Mais ouais, là je suis hardcore !<end>
 
 =>a57_original
 You mistook me for someone else. Goodbye.<end>
@@ -380,13 +380,13 @@ Tu m'as pris pour quelqu'un d'autre. Au revoir.<end>
 Ooooooh. I see. Yeah, I get it, I get it. ::He looks around, then quickly whispers at you before turning his back toward you.:: Thank you, uh, stranger. Bye.<end>
 
 =>q58
-Ouoooooh. Je vois. Oui, j'ai compris. ::Il regarde autour de vous, puis vous chuchote rapidement avant de tourner le dos vers vous.:: Merci, euh, étranger. Au revoir.<end>
+Ooooooh. Je vois. Ouais, je pige, je pige. ::Il jette un œil autour, puis te chuchote vite fait avant de te tourner le dos.:: Merci, euh, $(#étranger/étrangère). Salut.<end>
 
 =>a59_original
 I don't know you.<end>
 
 =>a59
-Je ne te connais pas.<end>
+Je te connais pas.<end>
 
 =>q60_original
 <end>
@@ -398,97 +398,97 @@ Je ne te connais pas.<end>
 Damn, I'm hungry.<end>
 
 =>q61
-Merde, j'ai faim.<end>
+Putain, j'ai faim.<end>
 
 =>q62_original
 Tina nearly uttered her first words when she saw me in this fancy suit.<end>
 
 =>q62
-Tina a failli prononcer ses premiers mots quand elle m'a vu dans ce costume.<end>
+Tina a failli lâcher ses premiers mots quand elle m'a vu dans ce costard.<end>
 
 =>q63_original
 No more barrel soup for Duff and the girls.<end>
 
 =>q63
-Plus de soupe pour Duff et les filles.<end>
+Plus de soupe de baril pour Duff et les filles.<end>
 
 =>q64_original
 I saw this old, filthy zoner dumpster diving near our new place. Vermin.<end>
 
 =>q64
-J'ai vu ce vieux benne à benne de zone sale plonger près de notre nouvel endroit. Vermin.<end>
+J'ai vu un vieux zoner crado fouiller les poubelles près de chez nous. De la vermine.<end>
 
 =>q65_original
 I can now take the train the normal way. No more hanging from the side.<end>
 
 =>q65
-Je peux maintenant prendre le train normalement. C'est fini.<end>
+Je peux prendre le train comme tout le monde, maintenant. Fini de s'accrocher sur le côté.<end>
 
 =>q66_original
 If you change your mind, let me know, girl.<end>
 
 =>q66
-Si tu changes d'avis, préviens-moi.<end>
+Si tu changes d'avis, tu me dis, ma belle.<end>
 
 =>q67_original
 What do you mean, "I wasn't paying attention"? Huh? I don't get it...<end>
 
 =>q67
-Comment ça, "je ne faisais pas attention" ? Quoi ? Je ne comprends pas...<end>
+Comment ça, « je faisais pas gaffe » ? Hein ? Je pige pas...<end>
 
 =>q68_original
 I swear I don't have it anymore!<end>
 
 =>q68
-Je jure que je ne l'ai plus !<end>
+Je jure que je l'ai plus !<end>
 
 =>q69_original
 Come on, what-- what more do you want from me, huh? Let me watch the match in peace.<end>
 
 =>q69
-Qu'est-ce que tu veux de plus de moi ? Laissez-moi regarder le match en paix.<end>
+Allez, tu-- tu me veux encore quoi, hein ? Laisse-moi regarder le match tranquille.<end>
 
 =>q70_original
 You sure know how to throw punches...<end>
 
 =>q70
-Tu sais comment lancer des coups...<end>
+Toi, tu sais envoyer des torgnoles...<end>
 
 =>q71_original
 Did you hear what I said? Huh? Get lost!<end>
 
 =>q71
-Tu as entendu ce que j'ai dit ? Quoi ? Allez-vous-en !<end>
+T'as entendu c'que j'ai dit ? Hein ? Dégage !<end>
 
 =>q72_original
 ::All three women are quietly watching you with such intensity you suspect they might leap at you at any given moment. Meanwhile, Duff wipes the blood from his face as much as he can and almost inaudibly swears something. After catching his breath, he looks at you.::<end>
 
 =>q72
-::Les trois femmes vous observent discrètement avec une telle intensité que vous soupçonnez qu'elles pourraient vous sauter dessus à tout moment. Pendant ce temps, Duff essuie le sang de son visage autant qu'il le peut et jure presque inaudiblement quelque chose. Après avoir respiré, il te regarde.::<end>
+::Les trois femmes te regardent en silence, avec une intensité telle que tu te dis qu'elles pourraient te sauter dessus d'une seconde à l'autre. Pendant ce temps, Duff s'essuie le sang du visage tant bien que mal et jure presque sans un son. Quand il a repris son souffle, il te regarde.::<end>
 
 =>q73_original
 I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, tak-- ::He reaches for the device, but it isn't there anymore. His expression is that of panic, and the drops of sweat rolling down his face, clinging occasionaly on some of his numerous piercings, weren't the product of physical strain during the previous fight, but the product of fear.:: Where is that thing!? I had it right here!<end>
 
 =>q73
-Je suppose que tu n'es pas un mauvais combattant, hein ? ::Il se tourne vers les trois femmes.:: Calmez-vous, les filles, un marché est un marché, et je suis un homme de parole. Et voilà, tak-- ::Il arrive pour l'appareil, mais il n'est plus là. Son expression est celle de la panique, et les gouttes de sueur qui descendent son visage, s'accrochant occasionnellement à certains de ses nombreux piercings, n'étaient pas le produit de tensions physiques lors du combat précédent, mais le produit de la peur.:: Où est ce truc ? Je l'avais ici !<end>
+On va dire que t'es... aïe, pas si $(#mauvais/mauvaise) à poings nus, finalement, hein ? ::Il se tourne vers les trois femmes.:: Du calme, les filles, un deal c'est un deal, et je suis un homme de parole. Tiens, pren-- ::Il cherche l'appareil, mais il n'y est plus. Sa tête, c'est la panique, et les gouttes de sueur qui dévalent son visage, s'accrochant parfois à ses piercings, ça vient pas de l'effort du combat : ça vient de la trouille.:: Il est où, ce truc ?! Je l'avais là !<end>
 
 =>q74_original
 ::He searches for it for a while longer, but in the end he gives up.:: Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
 
 =>q74
-Je l'ai perdu ! Je le jure, je l'avais mais... Je ne sais pas ! Je ne l'ai pas ! Je ne sais pas ce qui s'est passé ! Je l'ai peut-être laissé tomber... Je ne sais pas.<end>
+::Il cherche encore un moment, puis il lâche l'affaire.:: Ah ! Je l'ai perdu ! Je jure, je l'avais mais... j'en sais rien ! Je l'ai pas ! Je sais pas c'qui s'est passé ! Peut-être que je l'ai fait tomber... J'en sais rien.<end>
 
 =>a75_original
 You're lying! I'm tired of all this nonsense. I'll take the device from your corpse if I have to. ::Attack!::<end>
 
 =>a75
-Vous mentez ! J'en ai marre de toutes ces bêtises. Je prendrai l'appareil de ton corps si je le dois. ::Attaque!::<end>
+Tu mens ! J'en ai marre de ce cirque. Je prendrai l'appareil sur ton cadavre s'il le faut. ::Attaquer !::<end>
 
 =>a76_original
 You didn't drop it, you just weren't paying attention. Goodbye.<end>
 
 =>a76
-Tu ne l'as pas laissé tomber, mais tu ne faisais pas attention. Au revoir.<end>
+T'as rien fait tomber. T'as juste pas fait gaffe. Au revoir.<end>
 
 =>a77_original
 ::Leave.::<end>
@@ -502,15 +502,15 @@ I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the 
 Let $(#him/her) go, girls. Ow... I think I'm gonna need some rest.<end>
 
 =>q78
-Je suppose que tu n'es pas un mauvais combattant, hein ? ::Il se tourne vers les trois femmes.:: Calmez-vous, les filles, un marché est un marché, et je suis un homme de parole. Tiens, prends-le. ::Il vous donne la CIPD.::
+On va dire que t'es... aïe, pas si $(#mauvais/mauvaise) à poings nus, finalement, hein ? ::Il se tourne vers les trois femmes.:: Du calme, les filles, un deal c'est un deal, et je suis un homme de parole. Tiens, prends-le. ::Il te donne l'ICPD.::
 
-Laissez $(#le/la) partir, les filles. Aïe... Je vais avoir besoin de repos.<end>
+Laissez $(#le/la) partir, les filles. Aïe... Je vais avoir besoin de me poser.<end>
 
 =>q79_original
 Hey, I'd like to watch the match now, thank you.<end>
 
 =>q79
-J'aimerais regarder le match maintenant, merci.<end>
+Hé, j'aimerais regarder le match, maintenant, merci.<end>
 
 =>q80_original
 ::You are led before a hefty man. As he turns toward you, you notice him to have numerous and shiny piercings on his face, all of which reflect the violent pictures from the screen beside him. He takes one last glance at the monitor before focusing on you, not doing well at hiding his irritation.::
@@ -518,45 +518,45 @@ J'aimerais regarder le match maintenant, merci.<end>
 What do you want, huh? Why are you interrupting me while I'm watching the Arena? Deathhammer just killed forty-five burrowers and he's about to kill some more, yet Duff's gotta talk to this jackass here. Come on, speak already.<end>
 
 =>q80
-::Vous êtes conduit devant un homme lourd. Alors qu'il se tourne vers vous, vous le remarquez pour avoir de nombreux piercings brillants sur son visage, qui reflètent toutes les images violentes de l'écran à côté de lui. Il jette un dernier coup d'œil sur le moniteur avant de se concentrer sur vous, ne se contentant pas de cacher son irritation.::
+::On te mène devant un gros bonhomme. Quand il se tourne vers toi, tu vois le tas de piercings brillants sur sa gueule, qui reflètent toutes les images violentes de l'écran à côté. Il jette un dernier coup d'œil au moniteur avant de se concentrer sur toi, sans trop chercher à cacher son agacement.::
 
-Que voulez-vous ? Pourquoi tu m'interromps pendant que je regarde l'aréna ? Deathhammer vient de tuer 45 terriers et il va en tuer d'autres, mais Duff doit parler à ce connard ici. Allez, parle déjà.<end>
+Tu veux quoi, hein ? Pourquoi tu me coupes pendant que je regarde l'Arena ? Deathhammer vient de buter quarante-cinq Burrowers et il va en buter d'autres, et Duff il doit causer avec ce connard. Allez, parle.<end>
 
 =>a81_original
 I heard you recently acquired an ICPD. I'm here to collect it.<end>
 
 =>a81
-J'ai entendu dire que vous aviez récemment acquis une CIPD. Je suis là pour le récupérer.<end>
+J'ai entendu dire que t'avais mis la main sur un ICPD. Je viens le chercher.<end>
 
 =>q82_original
 What is $(#he/she) talking about, huh? IPDC? <end>
 
 =>q82
-De quoi parle $(#il/elle) ? Un IPDC ? <end>
+De quoi $(#il/elle) cause, hein ? Un IPDC ? <end>
 
 =>q83_original
 Duffie, $(#he/she)'s gotta be talkin' about that whatever-it's-called ya took from that scrawny fella.<end>
 
 =>q83
-Duffie, $(#il/elle) doit parler de ce que tu as pris à ce type.<end>
+Duffie, $(#il/elle) doit parler de ce truc-là, comment ça s'appelle, que t'as piqué au type maigrelet.<end>
 
 =>q84_original
 ::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He produces a peculiar, high-tech device.::<end>
 
 =>q84
-::Il rit.:: Oui, je me souviens de lui. Quelle tête de bouche. Alors, c'est ce que tu cherches ? Ça, hein ? ::Il produit un appareil de haute technologie.::<end>
+::Il rit.:: Ouais, je me souviens du type. Quelle andouille. Alors c'est ça que tu cherches ? Ça, hein ? ::Il sort un appareil bizarre, high-tech.::<end>
 
 =>a85_original
 Yeah, that appears to be it.<end>
 
 =>a85
-Oui, ça semble être ça.<end>
+Ouais, on dirait bien.<end>
 
 =>q86_original
 Not so fast, meathead. This thing ain't cheap. How much do you offer for this thing?<end>
 
 =>q86
-Pas si vite. Ce truc n'est pas bon marché. Combien offrez-vous pour ce truc ?<end>
+Pas si vite, abruti. Ce truc, c'est pas donné. Tu mets combien sur la table ?<end>
 
 =>q87_original
 <end>
@@ -574,31 +574,31 @@ Dix charons.<end>
 You meathead! I think you can do a lot better than that. Pfft, ten charons.<end>
 
 =>q89
-Espèce de bête ! Tu peux faire mieux que ça. Pfft, dix charons.<end>
+Espèce d'abruti ! Tu peux largement mieux faire. Pfft, dix charons.<end>
 
 =>q90_original
 Ya tell $(#him/her) Duffie. Yeah!<end>
 
 =>q90
-Vous dites $(#le/la) Duffie. Ouais !<end>
+Vas-y, dis-lui, Duffie. Ouais !<end>
 
 =>a91_original
 One hundred charons.<end>
 
 =>a91
-Une centaine de charons.<end>
+Cent charons.<end>
 
 =>q92_original
 Weak. Where's the money, huh?<end>
 
 =>q92
-Faible. Où est l'argent ?<end>
+Faible. Elle est où, la thune, hein ?<end>
 
 =>q93_original
 Hmm, show us the money, $(#boy/girl). ::She laughs.::<end>
 
 =>q93
-Montre-nous l'argent, $(#boy/girl). ::Elle rit.::<end>
+Hmm, montre-nous la thune, $(#gars/fille). ::Elle rit.::<end>
 
 =>a94_original
 Two hundred charons<end>
@@ -610,55 +610,55 @@ Deux cents charons<end>
 Hmm, not bad. But I think this should cost... more. More.<end>
 
 =>q95
-Pas mal. Mais je pense que ça devrait coûter... plus. Encore.<end>
+Hmm, pas mal. Mais je trouve que ça devrait coûter... plus. Plus.<end>
 
 =>q96_original
 ::Tina shows several hand signals to Duff. You have no idea what they represent, but the way she glances at you makes it highly unlikely that they mean anything nice..::<end>
 
 =>q96
-::Tina montre plusieurs signaux à Duff. Vous n'avez aucune idée de ce qu'ils représentent, mais la façon dont elle vous regarde rend hautement improbable qu'ils signifient quelque chose de gentil..::<end>
+::Tina envoie plusieurs signes de la main à Duff. T'as aucune idée de ce que ça veut dire, mais la façon dont elle te toise, y a peu de chances que ce soit gentil..::<end>
 
 =>q97_original
 ::He laughs.:: Yeah, Tina, $(#he/she) sure is!<end>
 
 =>q97
-::Il rit.:: Oui, Tina, $(#il/elle) c'est sûr !<end>
+::Il rit.:: Ouais, Tina, $(#il/elle) l'est, c'est sûr !<end>
 
 =>a98_original
 ::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
 
 =>a98
-::[Mercantile]:: Tu n'auras pas plus pour ça. Et encore moins sans savoir ce que ça fait.<end>
+::[Mercantile]:: T'auras pas plus pour ça. Encore moins sans même savoir à quoi ça sert.<end>
 
 =>q99_original
 Huh? Well... Hmmm...<end>
 
 =>q99
-Quoi ? Et bien...<end>
+Hein ? Bon... Hmmm...<end>
 
 =>q100_original
 Duffie?<end>
 
 =>q100
-Duuffie ?<end>
+Duffie ?<end>
 
 =>q101_original
 Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
 
 =>q101
-Svetlana, ça va. ::Duff se tourne vers toi.:: Marché conclu !<end>
+Svetlana, c'est bon. ::Duff se tourne vers toi.:: Marché conclu !<end>
 
 =>a102_original
 Here you go. ::Give him 200 stygian coins.::<end>
 
 =>a102
-Voilà. ::Donnez-lui 200 pièces.::<end>
+Voilà. ::Lui donner 200 charons.::<end>
 
 =>q103_original
 Good, good! Here, take this thing. ::He gives you the ICPD.::<end>
 
 =>q103
-Tant mieux ! Tiens, prends ce truc. ::Il vous donne la CIPD.::<end>
+Bien, bien ! Tiens, prends ce truc. ::Il te donne l'ICPD.::<end>
 
 =>q104_original
 It's been nice knowing you. Now, I'd like to get back to the Arena. 
@@ -666,27 +666,27 @@ It's been nice knowing you. Now, I'd like to get back to the Arena.
 So long.<end>
 
 =>q104
-C'était sympa de te connaître. J'aimerais retourner à l'aréna.
+Ça m'a fait plaisir. Maintenant, je voudrais retourner à l'Arena.
 
-Au revoir.<end>
+Salut.<end>
 
 =>q105_original
 I'm sure I'll find someone. Try harder.<end>
 
 =>q105
-Je suis sûr de trouver quelqu'un. Essaie plus fort.<end>
+Je suis sûr de trouver quelqu'un. Vise plus haut.<end>
 
 =>a106_original
 Okay, I'll offer a different amount.<end>
 
 =>a106
-Ok, je vais offrir un montant différent.<end>
+Ok, je propose un autre montant.<end>
 
 =>q107_original
 Let's hear it.<end>
 
 =>q107
-Allons-y.<end>
+On t'écoute.<end>
 
 =>q108_original
 <end>
@@ -698,7 +698,7 @@ Allons-y.<end>
 I'd like to buy the device.<end>
 
 =>a109
-J'aimerais acheter l'appareil.<end>
+Je voudrais acheter l'appareil.<end>
 
 =>q110_original
 ::He searches for the device, but he cannot seem to find it.:: 
@@ -706,63 +706,63 @@ J'aimerais acheter l'appareil.<end>
 Where is that thing? I had it right here!<end>
 
 =>q110
-::Il cherche l'appareil, mais il ne semble pas le trouver.::
+::Il cherche l'appareil, mais il n'arrive pas à le trouver.::
 
-Où est ce truc ? Je l'avais ici !<end>
+Il est où, ce truc ? Je l'avais là !<end>
 
 =>q111_original
 ::He tries to find it for several more minutes, but gives up in the end.:: Ah! I lost it!<end>
 
 =>q111
-::Il essaie de le trouver encore quelques minutes, mais laisse tomber.:: Ah! Je l'ai perdu !<end>
+::Il cherche encore plusieurs minutes, puis il lâche.:: Ah ! Je l'ai perdu !<end>
 
 =>q112_original
 How could ya lost it?<end>
 
 =>q112
-Comment avez-vous pu la perdre ?<end>
+Comment t'as pu l'perdre ?<end>
 
 =>q113_original
 I don't know, woman! What, are you gonna nag about it now? Huh?<end>
 
 =>q113
-Je ne sais pas, femme ! Tu vas te moquer de ça maintenant ? Quoi ?<end>
+J'en sais rien, femme ! Quoi, tu vas râler maintenant ? Hein ?<end>
 
 =>q114_original
 Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
 
 =>q114
-Ah! Je l'ai perdu ! Je le jure, je l'avais mais... Je ne sais pas ! Je ne l'ai pas ! Je ne sais pas ce qui s'est passé ! Je l'ai peut-être laissé tomber... Je ne sais pas.<end>
+Ah ! Je l'ai perdu ! Je jure, je l'avais mais... j'en sais rien ! Je l'ai pas ! Je sais pas c'qui s'est passé ! Peut-être que je l'ai fait tomber... J'en sais rien.<end>
 
 =>a115_original
 FIRE!<end>
 
 =>a115
-FEU!<end>
+FIRE !<end>
 
 =>q116_original
 ::After the magic word had been spoken you become the only one left standing. Dispersed and hugging the ground, the group slowly comes to the realization that they are all still alive. One by one, they raise their heads, listening to the blissful silence - silence by Drop Zone standards - and cautiously survey their surroundings. Nothing. Not even a hint of anything stranger than usual.::<end>
 
 =>q116
-::Après que le mot magique ait été prononcé, vous devenez le seul qui reste debout. Dispersé et enlacé, le groupe se rend lentement compte qu'ils sont tous encore en vie. Un à un, ils lèvent la tête, écoutent le silence bénissant - le silence selon les normes de Drop Zone - et surveillent prudemment leur environnement. Rien. Même pas un soupçon d'étrange.::<end>
+::Le mot magique à peine lâché, tu te retrouves $(#seul/seule) debout. Éparpillés, collés au sol, ils comprennent petit à petit qu'ils sont tous encore en vie. Un par un, ils lèvent la tête, écoutent ce silence béni - le silence aux standards de Drop Zone - et fouillent le coin du regard, prudents. Rien. Même pas l'ombre de quelque chose de plus bizarre que d'habitude.::<end>
 
 =>q117_original
 ::Duff is the first to get back on his feet, and you can see scalding rage in his eyes, that he so desires to punish you for this humiliation. However, he does not. He hesitates - he lets you walk away.::<end>
 
 =>q117
-::Duff est le premier à se remettre sur pied, et vous pouvez voir la fureur scalding dans ses yeux, qu'il désire tellement vous punir pour cette humiliation. Cependant, il ne le fait pas. Il hésite, il vous laisse partir.::<end>
+::Duff est le premier à se remettre sur pied, et tu vois la rage brûlante dans ses yeux, l'envie de te faire payer cette humiliation. Mais il le fait pas. Il hésite - il te laisse partir.::<end>
 
 =>a118_original
 See you around, Duffie. Take care.<end>
 
 =>a118
-A bientôt, Duffie. Prends soin de toi.<end>
+À plus, Duffie. Prends soin de toi.<end>
 
 =>a119_original
 I guess you just weren't paying enough attention. Goodbye.<end>
 
 =>a119
-Vous n'étiez pas assez attentif. Au revoir.<end>
+T'as juste pas fait assez gaffe, on dirait. Au revoir.<end>
 
 =>a120_original
 ::Leave.::<end>
@@ -774,49 +774,49 @@ Vous n'étiez pas assez attentif. Au revoir.<end>
 And you, get lost! Nothing for you here. Actually, I want you all to leave me alone. I just wanna watch the stinking match in peace.<end>
 
 =>q121
-Et toi, perds-toi ! Rien pour vous ici. En fait, laissez-moi tranquille. Je veux juste regarder le match puant en paix.<end>
+Et toi, dégage ! Y a rien pour toi ici. En fait, je veux que vous me fassiez tous la paix. Je veux juste regarder le putain de match tranquille.<end>
 
 =>q122_original
 How much do you offer?<end>
 
 =>q122
-Combien offrez-vous ?<end>
+Tu mets combien ?<end>
 
 =>a123_original
 ::[Intimidate]:: You are going to give me that device right now.<end>
 
 =>a123
-::[Intimider]:: Tu vas me donner cet appareil maintenant.<end>
+::[Intimidate]:: Tu vas me filer cet appareil, maintenant.<end>
 
 =>q124_original
 And what if I don't?<end>
 
 =>q124
-Et si je ne le fais pas ?<end>
+Et si je le fais pas ?<end>
 
 =>a125_original
 ::Press your finger against your ear.:: You ready? Prepare to fire on my mark.<end>
 
 =>a125
-::Appuyez sur votre doigt contre votre oreille.:: Prêt ? Préparez-vous à tirer sur ma marque.<end>
+::Presser un doigt contre son oreille.:: Vous êtes prêts ? Préparez-vous à tirer à mon signal.<end>
 
 =>q126_original
 Huh, what? Who... Are you talking to me, huh, meathead?<end>
 
 =>q126
-Quoi ? Qui... C'est à moi que tu parles ?<end>
+Hein, quoi ? Qui... C'est à moi que tu parles, hein, abruti ?<end>
 
 =>a127_original
 ::Stare at him in silence.::<end>
 
 =>a127
-::Regardez-le en silence.::<end>
+::Le fixer en silence.::<end>
 
 =>q128_original
 ::As the tension becomes unbearable, the women begin to nervously look around, their gazes scanning the shabby scenery for any signs of the mysterious plus-one. Duff and you, meanwhile, your stares are locked together tightly, without a sign of either one relenting.::<end>
 
 =>q128
-::Alors que la tension devient insupportable, les femmes commencent à regarder nerveusement autour, leurs regards balayant le paysage shabby pour tous les signes du mystérieux plus-un. Duff et toi, en attendant, vos regards sont serrés, sans signe de relâchement.::<end>
+::La tension devient insupportable, les femmes commencent à jeter des regards nerveux autour d'elles, à fouiller le décor crado pour un signe du mystérieux plus-un. Duff et toi, pendant ce temps, vos regards restent coincés l'un dans l'autre, sans que l'un ni l'autre ne lâche.::<end>
 
 =>q129_original
 ::But that very sign, a roll of sweat slaloming down his face and between his numerous piercings, marks the beginning of the end of the struggle.::
@@ -824,21 +824,21 @@ Quoi ? Qui... C'est à moi que tu parles ?<end>
 Alright! Alright! I don't wanna, uh, get zoned out by a, by a sniper or... whatever. ::He raises his stare as if to aid his women in the search for the threat.:: Here, take this crap.<end>
 
 =>q129
-::Mais ce signe même, un rouleau de sueur slalomant sur son visage et entre ses nombreux piercings, marque le début de la fin de la lutte.::
+::Mais ce signe-là, une perle de sueur qui slalome sur sa gueule entre les piercings, marque le début de la fin.::
 
-Très bien ! Très bien ! Je ne veux pas, euh, être en zone par un, par un tireur d'élite ou... peu importe. ::Il soulève son regard comme pour aider ses femmes dans la recherche de la menace.:: Prends ça.<end>
+D'accord ! D'accord ! Je veux pas, euh, me faire zoner par un, par un sniper ou... peu importe. ::Il lève les yeux, comme pour aider ses nanas à chercher la menace.:: Tiens, prends cette merde.<end>
 
 =>q130_original
 ::He hands you the device.:: We're good, huh? ::All four pairs of eyes are now focused at you.:: Huh?<end>
 
 =>q130
-::Il te donne l'appareil.:: Ça va, hein ? ::Les quatre paires d'yeux se concentrent sur vous.:: Quoi ?<end>
+::Il te tend l'appareil.:: On est quittes, hein ? ::Les quatre paires d'yeux sont maintenant collées sur toi.:: Hein ?<end>
 
 =>a131_original
 We're good, Duffie. So long.<end>
 
 =>a131
-C'est bon, Duffie. Au revoir.<end>
+On est quittes, Duffie. Salut.<end>
 
 =>q132_original
 ::But the sign you expected is never shown; instead, the grin of victory flashes under the veil of piercings.::
@@ -848,77 +848,77 @@ $(#He/She)'s bluffing, girls, calm yourselves down. We ain't got nothing to worr
 Now stop this hardcore nonsense and let's talk business.<end>
 
 =>q132
-::Mais le signe que vous attendiez n'est jamais montré; au lieu de cela, le sourire de la victoire clignote sous le voile des piercings.::
+::Mais le signe que tu attendais ne vient pas ; à la place, un sourire de victoire claque sous le voile de piercings.::
 
-Le bluff de $(#Il/Elle), les filles, calmez-vous. On n'a rien à craindre. Tu pensais pouvoir nous tromper ? Tête de viande.
+$(#Il/Elle) bluffe, les filles, du calme. On a rien à craindre. T'as cru pouvoir nous la faire, hein ? Abruti.
 
-Maintenant arrêtez cette absurdité hardcore et parlons affaires.<end>
+Maintenant, tu arrêtes ce cirque hardcore et on parle business.<end>
 
 =>a133_original
 You know what? I bet I can kick your ass in a fist fight, chum.<end>
 
 =>a133
-Tu sais quoi ? Je parie que je peux te botter le cul dans une bagarre.<end>
+Tu sais quoi ? Je parie que je peux te botter le cul à poings nus, l'ami.<end>
 
 =>q134_original
 Chum? Oooooh, is that a challenge, huh? Hey, hey, listen to this meathead, girls. ::He laughs.::<end>
 
 =>q134
-Chum ? C'est un défi, hein ? Écoutez cette tête de viande, les filles. ::Il rit.::<end>
+L'ami ? Oooooh, c'est un défi, hein ? Hé, hé, écoutez-moi cet abruti, les filles. ::Il rit.::<end>
 
 =>q135_original
 Ya can dominate $(#his/her) butt, Duffie! Yer the best! <end>
 
 =>q135
-Tu peux dominer les fesses $(#son/sa), Duffie ! Yer le meilleur ! <end>
+Tu peux lui dominer le cul, Duffie ! T'es le meilleur ! <end>
 
 =>q136_original
 ::She laughs.:: Yeah, dominate this pipeworker!<end>
 
 =>q136
-::Elle rit.:: Oui, dominez cette pipeuse !<end>
+::Elle rit.:: Ouais, domine ce pipeworker !<end>
 
 =>q137_original
 Girls, calm down - calm down. You! ::He points his finger at you.:: Why would you want to fight me?<end>
 
 =>q137
-Les filles, calmez-vous. Toi ! ::Il vous pointe le doigt.:: Pourquoi voudrais-tu te battre avec moi ?<end>
+Les filles, du calme - du calme. Toi ! ::Il te pointe du doigt.:: Pourquoi tu voudrais te battre contre moi ?<end>
 
 =>a138_original
 If I can defeat you, you give me that device. It's as simple as that.<end>
 
 =>a138
-Si je peux te vaincre, tu me donnes cet appareil. C'est aussi simple que ça.<end>
+Si je te bats, tu me files l'appareil. C'est aussi simple que ça.<end>
 
 =>q139_original
 Oh, it's on now, meathead! You have yourself a deal. Let's do this.<end>
 
 =>q139
-C'est parti, tête de viande ! Vous avez un marché. Allons-y.<end>
+Oh, c'est parti, abruti ! T'as un deal. On y va.<end>
 
 =>q140_original
 And don't try to cheat your way out of this by using guns or something funny, or else my girls'll blow your head clean off.<end>
 
 =>q140
-Et n'essayez pas de vous en sortir en utilisant des armes ou quelque chose de drôle, sinon mes filles vont vous faire sauter la tête.<end>
+Et tu tentes pas de tricher avec des flingues ou un truc tordu, sinon mes filles te pètent la tête.<end>
 
 =>a141_original
 ::Get ready to fight.::<end>
 
 =>a141
-::Préparez-vous à vous battre.::<end>
+::Se préparer au combat.::<end>
 
 =>a142_original
 I don't, um, you misheard it. I was talking about something else.<end>
 
 =>a142
-Je ne vous ai pas mal entendu. Je parlais d'autre chose.<end>
+Je... euh, t'as mal entendu. Je parlais d'autre chose.<end>
 
 =>q143_original
 ::He laughs.:: Alright. If you say so... *meathead*.<end>
 
 =>q143
-::Il rit.:: Très bien. Si vous le dites...<end>
+::Il rit.:: Ça marche. Si tu le dis... *abruti*.<end>
 
 =>a144_original
 I'll be back later.<end>
@@ -936,43 +936,43 @@ Cinq cents charons<end>
 Hmm, I don't know... That sounds like some decent coin, actually.<end>
 
 =>q146
-Je ne sais pas... On dirait une pièce décente, en fait.<end>
+Hmm, je sais pas... Ça sonne comme une thune décente, en vrai.<end>
 
 =>q147_original
 Duffie, look at $(#him/her). Ya can get more coins than that! Ya deserve it.<end>
 
 =>q147
-Duffie, regarde $(#le/la). Tu peux avoir plus de pièces que ça ! Tu le mérites.<end>
+Duffie, regarde-$(#le/la). Tu peux avoir plus de pièces que ça ! Tu l'mérites.<end>
 
 =>a148_original
 ::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
 
 =>a148
-::[Mercantile]:: Tu n'auras pas plus pour ça. Et encore moins sans savoir ce que ça fait.<end>
+::[Mercantile]:: T'auras pas plus pour ça. Encore moins sans même savoir à quoi ça sert.<end>
 
 =>q149_original
 ::He nods.:: Okay...<end>
 
 =>q149
-::Il acquiesce.:: Ok...<end>
+::Il hoche la tête.:: Ok...<end>
 
 =>q150_original
 Duffie?<end>
 
 =>q150
-Duuffie ?<end>
+Duffie ?<end>
 
 =>q151_original
 Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
 
 =>q151
-Svetlana, ça va. ::Duff se tourne vers toi.:: Marché conclu !<end>
+Svetlana, c'est bon. ::Duff se tourne vers toi.:: Marché conclu !<end>
 
 =>a152_original
 Here you go. ::Give him 500 charons.::<end>
 
 =>a152
-Voilà. ::Donnez-lui 500 charons.::<end>
+Voilà. ::Lui donner 500 charons.::<end>
 
 =>a153_original
 One thousand charons.<end>
@@ -984,19 +984,19 @@ Mille charons.<end>
 ::Duff nods in agreement.:: That seems like a deal to me! This little thing's worth that much, huh? Hardcore. We sure hit gold with this, girls.<end>
 
 =>q154
-::Duff hoche d'accord.:: Ça me semble un marché ! Cette petite chose en vaut la peine. C'est dur. On a trouvé de l'or avec ça.<end>
+::Duff hoche la tête, d'accord.:: Ça, c'est un deal, pour moi ! Ce petit truc vaut autant, hein ? Hardcore. On a tapé dans l'or avec ça, les filles.<end>
 
 =>q155_original
 Sure did, Duffie. ::Svetlana then turns to you.:: As soon as $(#he/she) pays up!<end>
 
 =>q155
-Bien sûr, Duffie. ::Svetlana se tourne ensuite vers vous.:: Dès que $(#il/elle) paie !<end>
+Carrément, Duffie. ::Svetlana se tourne ensuite vers toi.:: Dès que $(#il/elle) paie !<end>
 
 =>a156_original
 Here you go. ::Give him 1000 stygian coins.::<end>
 
 =>a156
-Voilà. ::Donnez-lui 1000 pièces de monnaie.::<end>
+Voilà. ::Lui donner 1000 charons.::<end>
 
 =>a157_original
 Two thousand charons.<end>
@@ -1008,31 +1008,31 @@ Deux mille charons.<end>
 ::Duff seems surprised by your offer at first, but an instant later he begins nodding.:: Yeah, yeah. That's good. Deal! We have a deal!<end>
 
 =>q158
-::Duff semble surpris par votre offre au début, mais un instant plus tard, il commence à hocher la tête.:: Oui, oui. C'est bien. Marché conclu ! Marché conclu !<end>
+::Duff a l'air surpris par ton offre au début, puis une seconde plus tard il se met à hocher la tête.:: Ouais, ouais. C'est bon. Deal ! Marché conclu !<end>
 
 =>q159_original
 ::Tina smiles and shows several hand signals to Duff.::<end>
 
 =>q159
-::Tina sourit et montre plusieurs signaux à Duff.::<end>
+::Tina sourit et envoie plusieurs signes de la main à Duff.::<end>
 
 =>q160_original
 You're right Tina, with that much coin, we could get ourselves all sorts of different stuff.<end>
 
 =>q160
-Tu as raison Tina, avec autant de pièces, on pourrait se procurer toutes sortes de choses différentes.<end>
+T'as raison Tina, avec autant de thune, on pourrait se payer toutes sortes de trucs.<end>
 
 =>q161_original
 May I, um, see the coins?<end>
 
 =>q161
-Puis-je voir les pièces ?<end>
+Je peux, euh, voir les pièces ?<end>
 
 =>a162_original
 Here you go. ::Give him 2000 charons.::<end>
 
 =>a162
-Voilà. ::Donnez-lui 2000 charons.::<end>
+Voilà. ::Lui donner 2000 charons.::<end>
 
 =>a163_original
 Five thousand charons.<end>
@@ -1044,31 +1044,31 @@ Cinq mille charons.<end>
 ::Duff's eyes turn large and become nearly as round as the piercings which decorate his face. His jaw slacks, and his voice grows in richness.:: Whoa! Yeah, sure, it's a deal! We have a deal! ::An uncontrollable laughter escapes him.:: This little thing... is worth *five* *freakin'* *thousand*? Hardcore!<end>
 
 =>q164
-::Les yeux de Duff deviennent grands et deviennent presque aussi ronds que les piercings qui ornent son visage. Sa mâchoire se relâche, et sa voix grandit en richesse.:: Ouah ! C'est un marché ! Marché conclu ! ::Un rire incontrôlable lui échappe.:: Cette petite chose... vaut 5 000 $ ? Hardcore !<end>
+::Les yeux de Duff s'écarquillent, presque aussi ronds que les piercings qui lui tapissent la gueule. La mâchoire lâche, la voix s'épaissit.:: Whoa ! Ouais, carrément, c'est un deal ! Marché conclu ! ::Un rire incontrôlable lui échappe.:: Ce petit truc... ça vaut *cinq* *putain* *de* *mille* ? Hardcore !<end>
 
 =>q165_original
 Duffie, ya the man! No more barrel soup for us - we're gonna eat real food! We're gonna be mighty rich! Rich!<end>
 
 =>q165
-Duffie, c'est toi ! Plus de soupe en baril pour nous, on va manger de la vraie nourriture ! On va être très riches ! Riche !<end>
+Duffie, t'es le chef ! Plus de soupe de baril pour nous - on va bouffer pour de vrai ! On va être grave riches ! Riches !<end>
 
 =>a166_original
 Here's five thousand for the device. ::Give him 5000 stygian coins.::<end>
 
 =>a166
-Voici cinq mille pour l'appareil. ::Donnez-lui 5000 pièces.::<end>
+Voilà cinq mille pour l'appareil. ::Lui donner 5000 charons.::<end>
 
 =>q167_original
 You are derailed to carry that much coin with you, but I ain't complaining! Girls, we are gonna live like those fat rats up there on the upper level! ::He laughs.::<end>
 
 =>q167
-Tu es déraillé pour porter autant de monnaie avec toi, mais je ne me plains pas ! Les filles, on va vivre comme ces gros rats là-haut ! ::Il rit.::<end>
+T'es $(#déréglé/déréglée) de trimballer autant de thune, mais je vais pas m'plaindre ! Les filles, on va vivre comme ces gros rats là-haut, au niveau du dessus ! ::Il rit.::<end>
 
 =>q168_original
 Here you go, take this thing with you. ::He gives you the ICPD.::<end>
 
 =>q168
-Tiens, prends ce truc avec toi. ::Il vous donne la CIPD.::<end>
+Tiens, prends ce truc. ::Il te donne l'ICPD.::<end>
 
 =>q169_original
 ::He laughs.:: I still can't believe this. Can't believe this... This is hardcore! ::He continues laughing.::
@@ -1078,23 +1078,23 @@ I'd... I'd like to get back to watching the Arena. I gotta calm myself a bit. Wh
 So long.<end>
 
 =>q169
-::Il rit.:: Je n'arrive toujours pas à y croire. Je n'arrive pas à y croire... C'est hardcore ! ::Il continue à rire.::
+::Il rit.:: J'y crois toujours pas. J'y crois pas... C'est hardcore ! ::Il continue de rire.::
 
-J'aimerais retourner regarder l'aréna. Je dois me calmer un peu. Ouai...
+J'aimerais... j'aimerais retourner regarder l'Arena. Faut que je me calme un peu. Whoo...
 
-Au revoir.<end>
+Salut.<end>
 
 =>a170_original
 How much do you want for it?<end>
 
 =>a170
-Combien tu veux pour ça ?<end>
+Tu en veux combien ?<end>
 
 =>q171_original
 No, no, no. I asked *you* first. How important is this thing to you? Huh?<end>
 
 =>q171
-C'est pas vrai. Je t'ai demandé d'abord. C'est important pour toi ? Quoi ?<end>
+Non, non, non. C'est moi qui t'ai demandé *en premier*. C'est important, ce truc, pour toi ? Hein ?<end>
 
 =>q172_original
 Come on. Speak.<end>
@@ -1112,29 +1112,28 @@ Trouvons un autre moyen de régler ça.<end>
 Just get on with it, will you? I'm gonna miss the freakin' match.<end>
 
 =>q174
-Continuez. Le match va me manquer.<end>
+Allez, dépêche. Je vais rater le putain de match.<end>
 
 =>q175_original
 ::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He searches for the device, but he can't seem to find it.:: Where is that thing? I had it right here!<end>
 
 =>q175
-::Il rit.:: Oui, je me souviens de lui. Quelle tête de bouche. Alors, c'est ce que tu cherches ? Ça, hein ? ::Il cherche l'appareil, mais il ne semble pas le trouver.:: Où est ce truc ? Je l'avais ici !<end>
+::Il rit.:: Ouais, je me souviens du type. Quelle andouille. Alors c'est ça que tu cherches ? Ça, hein ? ::Il cherche l'appareil, mais il n'arrive pas à le trouver.:: Il est où, ce truc ? Je l'avais là !<end>
 
 =>a176_original
 I need that device you stole from Luben.<end>
 
 =>a176
-J'ai besoin de l'appareil que tu as volé à Luben.<end>
+J'ai besoin de l'appareil que t'as volé à Luben.<end>
 
 =>q177_original
 Stole what from who, huh?<end>
 
 =>q177
-Tu as volé quoi de qui ?<end>
+Volé quoi, à qui, hein ?<end>
 
 =>q178_original
 Huh? The match is on, talk fast.<end>
 
 =>q178
-Quoi ? Le match est ouvert, parle vite.<end>
-
+Hein ? Le match est lancé, parle vite.<end>

@@ -12,7 +12,7 @@ Stop, $(#brother/sister). This is the Institute's West Wing. I would highly reco
 =>q2
 ::Le duo rasophore semble garder l'entrée de ce couloir sombre. L'odeur de la moisissure et de l'étourdissement émane de loin; les quelques éruptions éclairantes lancées autour ne font rien pour effacer le sentiment de consommation d'obscurité au bout du couloir. Vous êtes arrêté par le rasophore féminin et la conversation commence par un avertissement déjà prévu.::
 
-Arrête, $(#brother/sister). Voici l'aile ouest de l'Institut. Je recommande vivement de faire demi-tour et de revenir à moins, bien sûr, que vous ayez un souhait de mort.<end>
+Arrête, $(#frère/sœur). Voici l'aile ouest de l'Institut. Je recommande vivement de faire demi-tour et de revenir à moins, bien sûr, que vous ayez un souhait de mort.<end>
 
 =>q3_original
 <end>
@@ -36,7 +36,7 @@ Quoi ? <end>
 One moment you could have a piece of ceiling drop right on your head and smash your skull, the second a deadly creep might jump straight from the shadow and cull you on the spot. We don't go there, $(#brother/sister), well, except for Efreitor Mateo and a rassophore unit that went with him. But they still haven't returned.<end>
 
 =>q6
-Un moment, vous pourriez avoir un morceau de plafond sur votre tête et vous casser le crâne, le second un rampant mortel pourrait sauter directement de l'ombre et vous abattre sur place. On n'y va pas, $(#brother/sister), à part Efreitor Mateo et une unité de rasophore qui est partie avec lui. Mais ils ne sont toujours pas revenus.<end>
+Un moment, vous pourriez avoir un morceau de plafond sur votre tête et vous casser le crâne, le second un rampant mortel pourrait sauter directement de l'ombre et vous abattre sur place. On n'y va pas, $(#frère/sœur), à part Efreitor Mateo et une unité de rasophore qui est partie avec lui. Mais ils ne sont toujours pas revenus.<end>
 
 =>q7_original
 Look, I can't stop you from going there, but I can warn you. The rest is up to you.<end>
@@ -60,7 +60,7 @@ Pourquoi ne pas juste barrer les portes et laisser cet endroit être? Ça n'a pa
 Well, they were barred before, $(#brother/sister). Efreitor Mateo and his rassophores were the reason we opened the cursed doors. Now we have to stand guard in case they come back, but that's very unlikely by now.<end>
 
 =>q10
-Ils avaient déjà été interdits, $(#brother/sister). Efreitor Mateo et ses rassophores ont été la raison pour laquelle nous avons ouvert les portes maudites. Maintenant, nous devons garder la garde au cas où ils reviendraient, mais c'est très improbable maintenant.<end>
+Ils avaient déjà été interdits, $(#frère/sœur). Efreitor Mateo et ses rassophores ont été la raison pour laquelle nous avons ouvert les portes maudites. Maintenant, nous devons garder la garde au cas où ils reviendraient, mais c'est très improbable maintenant.<end>
 
 =>q11_original
 Still, orders are orders.<end>
@@ -120,7 +120,7 @@ Quand l'unité d'Efreitor y a-t-elle été envoyée ?<end>
 Five days ago I believe, $(#brother/sister). Interestingly, shortly after that Pavel, a rassophore, volunteered to go there; something for the Department of Physics, and he too never returned. So I hope you understand, $(context.player.Name), that this "beautiful" West Wing is a dangerous place.<end>
 
 =>q20
-Il y a cinq jours, je crois, $(#brother/sister). Fait intéressant, peu de temps après que Pavel, un rasophore, s'est porté volontaire pour y aller; quelque chose pour le Département de Physique, et lui aussi n'est jamais revenu. J'espère donc que vous comprenez, $(context.player.Name), que cette "belle" aile ouest est un endroit dangereux.<end>
+Il y a cinq jours, je crois, $(#frère/sœur). Fait intéressant, peu de temps après que Pavel, un rasophore, s'est porté volontaire pour y aller; quelque chose pour le Département de Physique, et lui aussi n'est jamais revenu. J'espère donc que vous comprenez, $(context.player.Name), que cette "belle" aile ouest est un endroit dangereux.<end>
 
 =>q21_original
 Proven.<end>
@@ -180,7 +180,7 @@ Non, il ne s'est pas approché ici.<end>
 No one comes here, to tell you the truth. Well, except for you, $(#brother/sister).<end>
 
 =>q30
-Personne ne vient ici pour te dire la vérité. À part toi, $(#brother/sister).<end>
+Personne ne vient ici pour te dire la vérité. À part toi, $(#frère/sœur).<end>
 
 =>a31_original
 What can you tell me about the West Wing?<end>
@@ -250,7 +250,7 @@ Je ne sais pas...<end>
 I would describe it as electrical-sounding, $(#brother/sister). Something like an electrical discharge of sort, unlike, as sister said, anything we ever heard before.<end>
 
 =>q41
-Je le décrirais comme sonnant électrique, $(#brother/sister). Quelque chose comme une décharge électrique, contrairement à ce qu'on a déjà entendu.<end>
+Je le décrirais comme sonnant électrique, $(#frère/sœur). Quelque chose comme une décharge électrique, contrairement à ce qu'on a déjà entendu.<end>
 
 =>a42_original
 Electrical?<end>
@@ -304,5 +304,5 @@ Tchort vous guide.<end>
 Why are you still here, $(#brother/sister)?<end>
 
 =>q50
-Pourquoi êtes-vous encore là, $(#brother/sister) ?<end>
+Pourquoi êtes-vous encore là, $(#frère/sœur) ?<end>
 

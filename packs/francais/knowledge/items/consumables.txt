@@ -5,11 +5,11 @@ Restaure immédiatement {0} psi.
 Restaure immédiatement {0} points de psi depuis les réserves. Si les réserves manquent de points, les points manquants sont générés à {1}% d'efficacité.
 
 ::AdrenalineShot
-Augmente les points d'action de {0}, l'esquive et l'évitement de {1}% et la force de {2} pendant {3}, en retirant temporairement toute fatigue.
+Augmente les points d'action de {0}, Dodge et Evasion de {1}% et Strength de {2} pendant {3}, en retirant temporairement toute fatigue.
 À l'expiration de l'effet, le consommateur sera épuisé.
 
 ::AdrenalineShot-Old
-Augmente la vitesse de déplacement de {0}%, diminue le délai entre attaques de {1}%, et augmente l'esquive et l'évitement de {2}% pendant {3} secondes, en retirant temporairement toute fatigue.
+Augmente la vitesse de déplacement de {0}%, diminue le délai entre attaques de {1}%, et augmente Dodge et Evasion de {2}% pendant {3} secondes, en retirant temporairement toute fatigue.
 À l'expiration de l'effet, le consommateur sera épuisé.
 
 ::MindDart
@@ -56,10 +56,10 @@ Réduit tous les dégâts subis de {0}% pendant {1}.
 Augmente le taux de critique des armes, combat à mains nues et psionique de {0}% pendant {1}.
 
 ::JumpingBean
-Augmente l'esquive et l'évitement de {0}%. Augmente aussi les points de mouvement de {1} hors furtivité. Dure {2}.
+Augmente Dodge et Evasion de {0}%. Augmente aussi les points de mouvement de {1} hors furtivité. Dure {2}.
 
 ::Hercules
-Augmente la force, la dextérité, l'agilité et la constitution de {0} pendant {1}... mais à quel prix ?
+Augmente Strength, Dexterity, Agility et Constitution de {0} pendant {1}... mais à quel prix ?
 
 ::Bullhead
 Accorde l'immunité à l'étourdissement, l'hébétude et l'incapacité pendant {0}.
@@ -71,16 +71,16 @@ Retire l'inhibition psionique.
 Régénère {0} points de vie chaque tour pendant {1}.
 
 ::SupersoldierDrug
-Augmente la force, la dextérité, l'agilité, la constitution et la perception de {0} et toutes les compétences de combat de {1}% pendant {2}.
+Augmente Strength, Dexterity, Agility, Constitution et Perception de {0} et toutes les compétences de combat de {1}% pendant {2}.
 
 ::TheJuice
-Augmente la perception de {0} et accorde au personnage le don de seconde vue.
+Augmente Perception de {0} et accorde au personnage le don de seconde vue.
 
 ::PsionicAccelerator
 Augmente la régénération de psi de {0}% pendant {1}.
 
 ::Hypercerebrix
-Augmente l'intelligence de {0} pendant {1}.
+Augmente Intelligence de {0} pendant {1}.
 
 ::CoagulationShot
 Retire jusqu'à {0} plaies saignantes.
@@ -89,33 +89,33 @@ Retire jusqu'à {0} plaies saignantes.
 Augmente l'initiative de {0} pendant {1}.
 
 ::ThirdEye
-Augmente la détection de {0}% et la perception de {1} pour détecter les passages secrets et autres secrets pendant {2}.
+Augmente la détection de {0}% et Perception de {1} pour détecter les passages secrets et autres secrets pendant {2}.
 
 ::HealingSalve
 Restaure instantanément {0} points de vie puis {1} points de vie supplémentaires chaque tour pendant {2}.
 
-Malheureusement, cela brouille aussi un peu la vision et engourdit les doigts, réduisant la perception et la dextérité de {3} pendant {4}.
+Malheureusement, cela brouille aussi un peu la vision et engourdit les doigts, réduisant Perception et Dexterity de {3} pendant {4}.
 
 ::SpiritPotion
 Restaure instantanément {0} points de psi puis {1} points de psi supplémentaires chaque tour pendant {2}.
 
-Malheureusement, cela impose aussi un fardeau malsain à l'esprit, réduisant la volonté de {3} et le sang-froid de {4}% pendant {5}.
+Malheureusement, cela impose aussi un fardeau malsain à l'esprit, réduisant Will de {3} et le sang-froid de {4}% pendant {5}.
 
 ::VitalityPowder
-Augmente les points d'action de {0}, l'esquive et l'évitement de {1}% et la force de {2} pendant {3}, en retirant temporairement toute fatigue.
+Augmente les points d'action de {0}, Dodge et Evasion de {1}% et Strength de {2} pendant {3}, en retirant temporairement toute fatigue.
 À l'expiration, le consommateur sera épuisé et perdra aussi {4} points de vie chaque tour pendant {5}.
 
 ::BioluminousSwampHoney
-Augmente la perception de {0} et régénère {1} points de vie chaque tour pendant {2}. Fait aussi briller le consommateur.
+Augmente Perception de {0} et régénère {1} points de vie chaque tour pendant {2}. Fait aussi briller le consommateur.
 
 ::Cigar
-Augmente la régénération de psi de {0}, mais réduit la constitution de {1} pendant {2} minutes. Requiert un briquet.
+Augmente la régénération de psi de {0}, mais réduit Constitution de {1} pendant {2} minutes. Requiert un briquet.
 
 ::PsionicInhalant
 Restaure {0} points de psi de réserve et {1} points de psi sur {2} secondes.
 
 ::PsiReconstructivePill
-Retire définitivement le talent {0}, vous rendant dépendant de votre attribut d'intelligence pour le nombre d'emplacements psi.
+Retire définitivement le talent {0}, vous rendant dépendant de votre Intelligence pour le nombre d'emplacements psi.
 
 ::StatBooster
 Augmente définitivement {0} de 1.

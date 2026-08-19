@@ -8,7 +8,7 @@ Magnifique Tchort !<end>
 I'm sorry, I don't have the time to talk now; something is happening!<end>
 
 =>q2
-Désolé, je n'ai pas le temps de parler maintenant, quelque chose se passe !<end>
+Désolé, je n'ai pas le temps de parler ; il se passe quelque chose !<end>
 
 =>q3_original
 ::The investigator seems to have just finished typing something on his keyboard when you walked in; the final keystroke coincides with you coming to a halt before him. He lifts his head and observes you through his glasses and instantly notices one detail - that there is a smudge on them. Naturally, he removes the glasses, picks up a handkerchief from his drawer and begins wiping the lenses clean. As he is doing so, the conversation begins.::
@@ -16,27 +16,27 @@ Désolé, je n'ai pas le temps de parler maintenant, quelque chose se passe !<en
 Tchort is evolution. I haven't seen you before, $(#brother/sister), and you must be here either to appreciate the light show produced by our resonant transformer, or to do some scientific investigation. Either is acceptable.<end>
 
 =>q3
-::L'enquêteur semble juste avoir fini de taper quelque chose sur son clavier quand vous êtes entré; la frappe finale coïncide avec vous venant à un arrêt avant lui. Il lève la tête et vous observe à travers ses lunettes et remarque instantanément un détail - qu'il y a une tache sur eux. Naturellement, il enlève les lunettes, prend un mouchoir de son tiroir et commence à essuyer les lentilles propres. Comme il le fait, la conversation commence.::
+::L'investigator a l'air d'avoir fini de taper sur son clavier à l'instant où vous entrez ; la dernière frappe coïncide avec votre arrêt devant lui. Il lève la tête, vous observe à travers ses lunettes, et remarque tout de suite un détail : il y a une tache dessus. Naturellement, il les retire, prend un mouchoir dans son tiroir et se met à essuyer les verres. Pendant qu'il fait ça, la conversation commence.::
 
-Tchort est l'évolution. Je ne vous ai jamais vu auparavant, $(#brother/sister), et vous devez être ici soit pour apprécier le spectacle de lumière produit par notre transformateur résonant, soit pour faire une enquête scientifique. L'un ou l'autre est acceptable.<end>
+Tchort est l'évolution. Je ne vous ai jamais $(#vu/vue), $(#frère/sœur), et vous êtes ici soit pour le spectacle de lumières de notre transformateur résonant, soit pour de la recherche scientifique. Les deux conviennent.<end>
 
 =>q4_original
 ::He smiles.:: I am Principal Investigator Schteff, but please - just call me Schteff. You are...?<end>
 
 =>q4
-::Il sourit.:: Je suis le chercheur principal Schteff, mais s'il vous plaît - appelez-moi Schteff. Vous êtes...?<end>
+::Il sourit.:: Je suis Principal Investigator Schteff, mais je vous en prie - appelez-moi Schteff. Vous êtes... ?<end>
 
 =>a5_original
 Evolution is Tchort, brother. I am $(context.player.Name) and I had a few questions for you.<end>
 
 =>a5
-L'évolution est Tchort, frère. Je suis $(context.player.Name) et j'ai eu quelques questions pour vous.<end>
+L'évolution est Tchort, frère. Je suis $(context.player.Name), et j'avais quelques questions pour vous.<end>
 
 =>q6_original
 I have no objections to that, $(context.player.Name); ask whatever questions you had.<end>
 
 =>q6
-Je n'ai aucune objection à cela, $(context.player.Name); posez toutes vos questions.<end>
+Aucune objection, $(context.player.Name) ; posez ce que vous aviez à poser.<end>
 
 =>q7_original
 <end>
@@ -54,7 +54,7 @@ J'ai déployé l'appareil.<end>
 I know - I'm getting some readings! Were there any problems with the authorities?<end>
 
 =>q9
-Je sais, j'ai des relevés ! Des problèmes avec les autorités ?<end>
+Je sais - je reçois des relevés ! Des problèmes avec les autorités ?<end>
 
 =>a10_original
 No problems at all.<end>
@@ -66,19 +66,19 @@ Aucun problème.<end>
 I am very pleased to hear it; I guess luck is starting to be on our side again, $(context.player.Name). Smooth execution - that's what I like to hear.<end>
 
 =>q11
-Je suis très heureux de l'entendre; je suppose que la chance commence à être de nouveau de notre côté, $(context.player.Name). Exécution en douceur - c'est ce que j'aime entendre.<end>
+Ça me fait très plaisir ; la chance recommence à être de notre côté, on dirait, $(context.player.Name). Exécution sans accroc - c'est ce que j'aime entendre.<end>
 
 =>q12_original
 Now, the reception we're getting is not *as* smooth as I had hoped for, but we'll work on it, see if we can tune it a bit. We'll analyze the readings and then we'll know the results.<end>
 
 =>q12
-Maintenant, la réception que nous recevons n'est pas aussi lisse que je l'espérais, mais nous allons travailler dessus, voir si nous pouvons l'accorder un peu. On analysera les relevés et on connaîtra les résultats.<end>
+La réception, en revanche, n'est pas *aussi* propre que je l'espérais, mais on va travailler dessus, voir si on peut l'accorder un peu. On analysera les relevés, et on aura les résultats.<end>
 
 =>q13_original
 Here's five hundred for you. ::He hands you 500 stygian coins.::<end>
 
 =>q13
-Voici 500 dollars pour vous. ::Il vous donne 500 pièces de monnaie.::<end>
+Voilà cinq cents charons. ::Il vous tend 500 pièces stygiennes.::<end>
 
 =>q14_original
 <end>
@@ -96,7 +96,7 @@ Et ensuite ?<end>
 I'm afraid that is all for now - unless you have some experience in particle physics. ::He laughs.:: Don't answer that!<end>
 
 =>q16
-J'ai bien peur que ce soit tout pour le moment - à moins que vous ayez une certaine expérience en physique des particules. ::Il rit.:: Ne réponds pas !<end>
+J'ai bien peur que ce soit tout, pour le moment - à moins que vous ayez de l'expérience en physique des particules. ::Il rit.:: Ne répondez pas !<end>
 
 =>q17_original
 With your help we now have more than enough data to study and plan our next moves. Also - lot of paperwork for the next symposium. And also - we are fresh out of emitters. And also... thank you very much, $(context.player.Name)! Your efforts were apex to say the least.
@@ -104,7 +104,7 @@ With your help we now have more than enough data to study and plan our next move
 Is there anything else you needed?<end>
 
 =>q17
-Avec votre aide, nous avons maintenant plus que suffisamment de données pour étudier et planifier nos prochaines démarches. Aussi - beaucoup de paperasse pour le prochain symposium. Et aussi - nous sommes frais hors des émetteurs. Et aussi... merci beaucoup, $(context.player.Name)! Vos efforts étaient pour le moins astucieux.
+Avec votre aide, nous avons plus qu'assez de données pour étudier et préparer la suite. Aussi - un tas de paperasse pour le prochain symposium. Et aussi - plus d'émetteurs. Et aussi... merci beaucoup, $(context.player.Name) ! Vos efforts étaient apex, c'est le moins qu'on puisse dire.
 
 Autre chose ?<end>
 
@@ -112,67 +112,67 @@ Autre chose ?<end>
 Any more work for me? Take another emitter even farther?<end>
 
 =>a18
-Encore du travail pour moi ? Et un autre émetteur encore plus loin ?<end>
+Encore du travail, pour moi ? Un autre émetteur, encore plus loin ?<end>
 
 =>a19_original
 Well...<end>
 
 =>a19
-Bien...<end>
+Bon...<end>
 
 =>q20_original
 Well what?<end>
 
 =>q20
-Et bien quoi ?<end>
+Bon, quoi ?<end>
 
 =>a21_original
 Actually, it was nothing... nothing worth mentioning.<end>
 
 =>a21
-En fait, ce n'était rien... rien qui mérite d'être mentionné.<end>
+En fait, ce n'était rien... rien qui vaille.<end>
 
 =>q22_original
 If you say so. Let me tell you: I am glad everything went as smooth as possible this time around.<end>
 
 =>q22
-Si vous le dites. Permettez-moi de vous dire: Je suis heureux que tout ait été aussi doux que possible cette fois-ci.<end>
+Si vous le dites. Tenez : je suis content que tout se soit passé aussi bien que possible, cette fois.<end>
 
 =>a23_original
 I managed to run into a group of bandits.<end>
 
 =>a23
-J'ai réussi à rencontrer un groupe de bandits.<end>
+Je suis $(#tombé/tombée) sur un groupe de bandits.<end>
 
 =>q24_original
 Bandits? At the station? Tell me... what happened?<end>
 
 =>q24
-Des bandits ? Au poste ? Dites-moi... que s'est-il passé ?<end>
+Des bandits ? À la station ? Dites-moi... que s'est-il passé ?<end>
 
 =>a25_original
 Well, I just dominated them and went about my business.<end>
 
 =>a25
-Je les ai dominés et j'ai fait mon boulot.<end>
+Je les ai dominés, et j'ai continué mon affaire.<end>
 
 =>q26_original
 ::He gives you a surprised look.:: Magnificent Tchort! Just when you think everything would go as planned, something like this has to come up! Luckily you have experience in dealing with similar situations, $(context.player.Name).<end>
 
 =>q26
-::Il vous donne un regard surpris.:: Magnifique Tchort! Juste quand vous pensez que tout irait comme prévu, quelque chose comme ça doit arriver ! Heureusement, vous avez de l'expérience dans le traitement de situations similaires, $(context.player.Name).<end>
+::Il vous lance un regard surpris.:: Magnifique Tchort ! Juste quand on croit que tout va comme prévu, voilà que ça arrive ! Heureusement, vous avez l'habitude de ce genre de situations, $(context.player.Name).<end>
 
 =>q27_original
 And - that you were successful in deploying the T-ray emitter.<end>
 
 =>q27
-Et - que vous avez réussi à déployer l'émetteur de rayons T.<end>
+Et - que vous ayez réussi à déployer l'émetteur T-ray.<end>
 
 =>a28_original
 They were a tough bunch, but I convinced them to leave me alone.<end>
 
 =>a28
-Ils étaient un groupe dur, mais je les ai convaincus de me laisser tranquille.<end>
+Ils étaient coriaces, mais je les ai convaincus de me laisser tranquille.<end>
 
 =>a29_original
 They robbed me.<end>
@@ -184,19 +184,19 @@ Ils m'ont volé.<end>
 Robbed you? Magnificent Tchort!<end>
 
 =>q30
-Vous avez volé ? Magnifique Tchort !<end>
+On vous a volé ? Magnifique Tchort !<end>
 
 =>a31_original
 Sadly, yes... It was so humiliating...<end>
 
 =>a31
-Malheureusement, oui... C'était tellement humiliant...<end>
+Malheureusement, oui... C'était si humiliant...<end>
 
 =>q32_original
 Magnificent Tchort! Just when you think everything would go as planned, something horrible has to come up! I am very sorry about what happened, but I hope the reward for the job will cover your loss, $(context.player.Name)... plus I'll put some extra charons out of my own pocket.<end>
 
 =>q32
-Magnifique Tchort ! Juste quand vous pensez que tout irait comme prévu, quelque chose d'horrible doit arriver ! Je suis désolé pour ce qui s'est passé, mais j'espère que la récompense pour le travail couvrira votre perte, $(context.player.Name)... plus je vais mettre quelques charons supplémentaires dans ma propre poche.<end>
+Magnifique Tchort ! Juste quand on croit que tout va comme prévu, voilà que ça arrive, et en horrible ! Je suis vraiment désolé, mais j'espère que la récompense du travail couvrira votre perte, $(context.player.Name)... et je rajouterai quelques charons, de ma poche.<end>
 
 =>q33_original
 ::Here, he gives you 200 stygian coins.:: That is almost everything I have.
@@ -204,9 +204,9 @@ Magnifique Tchort ! Juste quand vous pensez que tout irait comme prévu, quelque
 Well now, despite your terrible misfortune - the emitter was successfully deployed.<end>
 
 =>q33
-::Il vous donne 200 pièces de monnaie.:: C'est presque tout ce que j'ai.
+::Là, il vous tend 200 pièces stygiennes.:: C'est presque tout ce que j'ai.
 
-Eh bien, malgré votre terrible malheur - l'émetteur a été déployé avec succès.<end>
+Bon. Malgré ce malheur - l'émetteur a bien été déployé.<end>
 
 =>a34_original
 Yes, and I expect a compensation!<end>
@@ -218,43 +218,43 @@ Oui, et j'attends une compensation !<end>
 Magnificent Tchort! I am very sorry about what happened, but I hope the reward for the job will cover your loss, $(context.player.Name) - and I'll add something out of my own pocket, since I our budget tends to be limited lately and... it was my fault you got robbed.<end>
 
 =>q35
-Magnifique Tchort ! Je suis désolé de ce qui s'est passé, mais j'espère que la récompense pour le travail couvrira votre perte, $(context.player.Name) - et je vais ajouter quelque chose de ma propre poche, puisque j'ai tendance à être limité récemment et... c'était ma faute si vous avez été volé.<end>
+Magnifique Tchort ! Je suis vraiment désolé, mais j'espère que la récompense du travail couvrira votre perte, $(context.player.Name) - et je rajouterai quelque chose de ma poche, notre budget est un peu juste, ces temps-ci, et... c'est ma faute si on vous a volé.<end>
 
 =>a36_original
 Deploying the emitter at Core City station seems simple enough, but will the Oligarchs agree to this?<end>
 
 =>a36
-Déployer l'émetteur à la station Core City semble assez simple, mais les Oligarch accepteront-ils cela?<end>
+Déployer l'émetteur à la station de Core City, ça a l'air simple, mais les Oligarchs vont-ils accepter ?<end>
 
 =>q37_original
 Very unlikely - that's why we're not going to tell them. ::He laughs.:: Find a quiet, isolated spot somewhere at or near the station and conceal the device there. Even if someone finds it later it would have done its job by then.<end>
 
 =>q37
-Très peu probable - c'est pourquoi nous ne allons pas leur dire. ::Il rit.:: Trouvez un endroit calme et isolé quelque part à ou près de la station et cachez l'appareil là. Même si quelqu'un le trouvait plus tard, il aurait fait son travail d'ici là.<end>
+Très peu probable - c'est pour ça qu'on ne va pas leur dire. ::Il rit.:: Trouvez un endroit calme, isolé, à la station ou juste à côté, et cachez l'appareil. Même si quelqu'un le trouve plus tard, il aura déjà fait son travail.<end>
 
 =>q38_original
 I haven't been to Core City in ten years; I can't help you much there. I'm sure you'll find a suitable place on your own.<end>
 
 =>q38
-Je n'ai pas été à Core City en dix ans; je ne peux pas t'aider beaucoup là-bas. Je suis sûr que tu trouveras un endroit approprié tout seul.<end>
+Je n'ai pas mis les pieds à Core City depuis dix ans ; je ne peux pas vous aider beaucoup, là-dessus. Vous trouverez un endroit convenable, j'en suis sûr.<end>
 
 =>a39_original
 Will I be able to use that comm device you gave me?<end>
 
 =>a39
-Est-ce que je pourrai utiliser l'appareil que tu m'as donné ?<end>
+Est-ce que je pourrai utiliser l'appareil de comm que vous m'avez donné ?<end>
 
 =>q40_original
 I doubt it, $(context.player.Name); these comms are made for short ranges - but bring it along just in case. ::He shrugs.:: Who knows, maybe it will work. I mean, I could procure a long distance comm, but it would be pointless - you already know what you're supposed to do, and it's not like you're going to, say, Drop Zone or some other grave place.<end>
 
 =>q40
-J'en doute, $(context.player.Name); ces communications sont faites pour les courtes portées - mais apportez-le juste au cas où. ::Il hausse les épaules.:: Qui sait, peut-être que ça marchera. Je pourrais acheter une communication longue distance, mais ce serait inutile - vous savez déjà ce que vous êtes censé faire, et ce n'est pas comme si vous alliez, disons, Drop Zone ou un autre endroit grave.<end>
+J'en doute, $(context.player.Name) ; ces comms sont faites pour les courtes portées - mais emportez-le, au cas où. ::Il hausse les épaules.:: Qui sait, peut-être que ça marchera. Je pourrais me procurer une comm longue distance, mais ça ne servirait à rien : vous savez déjà ce que vous avez à faire, et ce n'est pas comme si vous alliez, disons, au Drop Zone, ou dans un autre endroit sinistre.<end>
 
 =>a41_original
 I am ready to go.<end>
 
 =>a41
-Je suis prêt à y aller.<end>
+Je suis $(#prêt/prête) à y aller.<end>
 
 =>q42_original
 Apex! Here's another emitter. ::He gives you a T-ray emitter.:: Remember: Do not put it in a metal container or where it's going to be closely surrounded with anything made of metal - it will deaden the signal.
@@ -262,9 +262,9 @@ Apex! Here's another emitter. ::He gives you a T-ray emitter.:: Remember: Do not
 Well now, see you soon and Tchort guide you, $(#brother/sister).<end>
 
 =>q42
-Apex ! Voilà un autre émetteur. ::Il vous donne un émetteur de rayons T.:: Rappelez-vous: Ne le mettez pas dans un conteneur en métal ou là où il va être étroitement entouré de tout ce qui est en métal - il va effacer le signal.
+Apex ! Voilà un autre émetteur. ::Il vous donne un émetteur T-ray.:: Souvenez-vous : pas dans un conteneur en métal, ni là où le métal l'entoure de trop près - ça étouffe le signal.
 
-A bientôt et Tchort vous guide, $(#brother/sister).<end>
+Bon. À bientôt, et Tchort vous guide, $(#frère/sœur).<end>
 
 =>a43_original
 I'll be back soon. Goodbye.<end>
@@ -276,91 +276,91 @@ Je reviens bientôt. Au revoir.<end>
 Tchort guide you too, Principal Investigator. I'll be back shortly.<end>
 
 =>a44
-Tchort vous guide aussi, chercheur principal. Je reviens bientôt.<end>
+Tchort vous guide aussi, Principal Investigator. Je reviens tout de suite.<end>
 
 =>a45_original
 You mentioned wanting to do another T-ray emitter test.<end>
 
 =>a45
-Vous avez dit vouloir faire un autre test d'émetteur de rayons T.<end>
+Vous avez parlé d'un autre test d'émetteur T-ray.<end>
 
 =>q46_original
 What? You are not mad at me for endangering your life, despite the fact I promised it was going to be a safer test?<end>
 
 =>q46
-Quoi ? Tu ne m'en veux pas d'avoir mis ta vie en danger, malgré le fait que j'ai promis que ce serait un test plus sûr ?<end>
+Quoi ? Vous ne m'en voulez pas de vous avoir mis en danger, alors que j'avais promis un test plus sûr ?<end>
 
 =>a47_original
 Well, you couldn't have known about them. Besides, since the test was a success why stop now?<end>
 
 =>a47
-Tu n'aurais pas pu les connaître. D'ailleurs, puisque le test a été un succès, pourquoi s'arrêter maintenant ?<end>
+Vous ne pouviez pas le savoir. Et puisque le test a marché, pourquoi s'arrêter ?<end>
 
 =>q48_original
 Very well then - I'm glad we're on the same page here. I really am, $(context.player.Name).<end>
 
 =>q48
-Je suis content qu'on soit sur la même page. Vraiment, $(context.player.Name).<end>
+Très bien - je suis content qu'on soit d'accord. Vraiment, $(context.player.Name).<end>
 
 =>q49_original
 The previous test - despite its great results - was done in the relative proximity to the receiver. All fine and dandy - but why not try a long range test? Here I have an emitter which had been boosted and tuned to send data over long distances with much greater fidelity. The operational, or detection range of the emitter will be the same - but the data it collects can now be sent over larger distances. That is the idea, at least.<end>
 
 =>q49
-Le test précédent - en dépit de ses grands résultats - a été effectué à la proximité relative du récepteur. Tout va bien et bien - mais pourquoi ne pas essayer un test de longue portée? Ici j'ai un émetteur qui avait été stimulé et accordé pour envoyer des données sur de longues distances avec beaucoup plus de fidélité. La portée opérationnelle ou de détection de l'émetteur sera la même - mais les données qu'il recueille peuvent maintenant être envoyées sur de plus grandes distances. C'est l'idée, du moins.<end>
+Le test précédent - malgré d'excellents résultats - s'est fait assez près du récepteur. Tout va très bien - mais pourquoi ne pas tenter une longue portée ? J'ai ici un émetteur boosté et accordé pour envoyer des données plus loin, avec bien plus de fidélité. La portée opérationnelle, ou de détection, restera la même - mais les données collectées pourront partir plus loin. C'est l'idée, en tout cas.<end>
 
 =>q50_original
 Since sending any signal through thick layers of... whatever - rock, dirt, concrete - is a difficult thing to accomplish, we'll have to find a place that is relatively far yet has no major obstructions in between. That place is - Core City station in Upper Underrail. The long tunnels will allow for the signal to travel without much difficulty, and the population density there is perfect for testing the emitter.<end>
 
 =>q50
-Comme il est difficile d'envoyer un signal à travers des couches épaisses de... quoi que ce soit - pierre, terre, béton -, nous devrons trouver un endroit qui est relativement loin mais qui n'a pas d'obstacle majeur entre les deux. Cet endroit est - station Core City dans Upper Underrail. Les longs tunnels permettront au signal de circuler sans beaucoup de difficulté, et la densité de population est parfaite pour tester l'émetteur.<end>
+Envoyer un signal à travers des couches épaisses de... peu importe - roche, terre, béton - c'est difficile. Il nous faut donc un endroit assez loin, sans gros obstacles entre les deux. Cet endroit, c'est la station de Core City, en Upper Underrail. Les longs tunnels laisseront passer le signal sans trop de mal, et la densité de population est parfaite pour tester l'émetteur.<end>
 
 =>a51_original
 I guess science makes it worth the risk.<end>
 
 =>a51
-La science en vaut la peine.<end>
+La science vaut bien le risque, on va dire.<end>
 
 =>q52_original
 Yes! I was indeed encouraged with the test we did and figured - why not take it a step further?<end>
 
 =>q52
-Oui ! J'ai en effet été encouragé par le test que nous avons fait et nous avons pensé - pourquoi ne pas aller plus loin?<end>
+Oui ! Le test m'a encouragé, et je me suis dit - pourquoi ne pas aller plus loin ?<end>
 
 =>a53_original
 T-ray emitter has been deployed.<end>
 
 =>a53
-L'émetteur de rayons T a été déployé.<end>
+L'émetteur T-ray a été déployé.<end>
 
 =>q54_original
 Yes, I am getting some good reading right now; the emitter runs without a hitch! ::He smiles.:: Still, it's detecting quite a substantial number of living entities in the surrounding area - and they seem quite large in size if the readings are right! Where did you end up deploying it?<end>
 
 =>q54
-Oui, je reçois une bonne lecture en ce moment; l'émetteur court sans accrochage! ::Il sourit.:: Pourtant, il détecte un nombre considérable d'entités vivantes dans les environs - et elles semblent assez grandes si les lectures sont correctes! Où l'avez-vous déployé ?<end>
+Oui, je reçois de bons relevés ; l'émetteur tourne sans accroc ! ::Il sourit.:: Cela dit, il détecte pas mal d'entités vivantes dans les environs - et elles ont l'air assez grosses, si les relevés disent vrai ! Où l'avez-vous déployé, au final ?<end>
 
 =>a55_original
 It was some abandoned janitor's room. Maybe there are some rathound over there.<end>
 
 =>a55
-C'était une chambre de concierge abandonnée. Peut-être qu'il y a du raton laveur là-bas.<end>
+Un local d'entretien abandonné. Peut-être qu'il y a des rathounds, par là.<end>
 
 =>q56_original
 This seems a lot bigger than rathounds, at least bigger than the one's I've ever seen. Are you sure there wasn't anything weird there?<end>
 
 =>q56
-Ça semble beaucoup plus grand que les rathounds, au moins plus grand que celui que j'ai jamais vu. Tu es sûr qu'il n'y avait rien de bizarre ?<end>
+Ça a l'air bien plus gros que des rathounds, en tout cas plus gros que ceux que j'ai vus. Vous êtes $(#sûr/sûre) qu'il n'y avait rien de bizarre ?<end>
 
 =>a57_original
 Why are you worrying so much? Relax, I'm back safe and the job is done.<end>
 
 =>a57
-Pourquoi t'inquiètes-tu autant ? Relax, je suis de retour en sécurité et le travail est terminé.<end>
+Pourquoi vous inquiéter autant ? Détendez-vous, je suis $(#revenu/revenue) $(#sain et sauf/saine et sauve), et le travail est fait.<end>
 
 =>q58_original
 If you say so, $(#brother/sister). In that case, the experiment was a complete and utter success!<end>
 
 =>q58
-Si vous le dites, $(#brother/sister). Dans ce cas, l'expérience a été un succès complet et total!<end>
+Si vous le dites, $(#frère/sœur). Dans ce cas, l'expérience est un succès total !<end>
 
 =>q59_original
 We are getting some truly excellent data here and everything works exactly as it should. I'm so going to brag about this at the next symposium! ::He laughs.:: Joking aside, now's the time to honor my part of the deal. ::He hands you 450 stygian coins.:: Well done, $(context.player.Name)!
@@ -368,9 +368,9 @@ We are getting some truly excellent data here and everything works exactly as it
 You know, I was thinking of doing another test...<end>
 
 =>q59
-Nous obtenons ici des données vraiment excellentes et tout fonctionne exactement comme il se doit. Je vais m'en vanter au prochain symposium ! ::Il rit.:: Joking à part, c'est le moment d'honorer ma partie de l'accord. ::Il vous donne 450 pièces de monnaie.:: Bien joué, $(context.player.Name)!
+On reçoit d'excellentes données, et tout marche comme prévu. Je vais tellement m'en vanter au prochain symposium ! ::Il rit.:: Blague à part, c'est le moment d'honorer ma part du marché. ::Il vous tend 450 pièces stygiennes.:: Bien joué, $(context.player.Name) !
 
-Tu sais, je pensais faire un autre test...<end>
+Vous savez, je pensais à un autre test...<end>
 
 =>q60_original
 <end>
@@ -388,61 +388,61 @@ Non.<end>
 It looked like a toxic disposal plant. While it was full of mutants, it was nothing I couldn't handle.<end>
 
 =>a62
-Ça ressemblait à une usine d'élimination toxique. Alors qu'il était plein de mutants, ce n'était rien que je ne pouvais pas gérer.<end>
+Ça ressemblait à une usine de déchets toxiques. Plein de mutants, mais rien que je ne puisse gérer.<end>
 
 =>q63_original
 Toxic disposal? Mutants? Magnificent Tchort, it's like this research is cursed somehow! I am truly sorry. I wished to avoid situations like this and, while I didn't *completely* rule out a possibility of something getting in your way, I certainly didn't expect mutants! By the Tchort!<end>
 
 =>q63
-L'élimination des toxiques ? Des mutants ? Magnifique Tchort, c'est comme si cette recherche était maudite ! Je suis vraiment désolé. J'ai voulu éviter des situations comme celle-ci et, bien que je n'ai pas *complètement* exclu une possibilité de quelque chose qui vous gêne, je ne m'attendais certainement pas à mutants! Par le Tchort !<end>
+Déchets toxiques ? Des mutants ? Magnifique Tchort, on dirait que cette recherche est maudite ! Je suis vraiment désolé. Je voulais éviter ce genre de chose et, même si je n'avais pas *complètement* écarté qu'on vous barre la route, je ne m'attendais certainement pas à des mutants ! Par Tchort !<end>
 
 =>a64_original
 Don't worry Schteff - it's nothing I couldn't handle; I already told you that. Besides, there was only a few of them in my way.<end>
 
 =>a64
-Ne vous inquiétez pas Schteff - ce n'est rien que je ne pouvais pas gérer; je vous l'ai déjà dit. De plus, il n'y en avait que quelques-uns sur mon chemin.<end>
+Ne vous inquiétez pas, Schteff - rien que je ne puisse gérer ; je vous l'ai déjà dit. Et il n'y en avait que quelques-uns, sur le chemin.<end>
 
 =>a65_original
 Luckily I was capable enough, but those things can be a real pain. And there were lots of them.<end>
 
 =>a65
-Heureusement, j'étais assez capable, mais ça peut être une vraie douleur. Et il y en avait beaucoup.<end>
+Heureusement que j'étais à la hauteur, mais ces choses-là peuvent être une vraie plaie. Et il y en avait beaucoup.<end>
 
 =>q66_original
 I am really sorry; I might have over-relied on reports from Preservation. I'm just glad you're alive, $(#brother/sister). Well now, as for the test itself, it was a complete and utter success, I'm happy to say.<end>
 
 =>q66
-Je suis vraiment désolé; j'aurais peut-être trop tenu compte des rapports de Conservation. Je suis content que tu sois en vie, $(#brother/sister). En ce qui concerne le test lui-même, c'était un succès complet et total, je suis heureux de le dire.<end>
+Je suis vraiment désolé ; j'ai peut-être trop fait confiance aux rapports de Preservation. Je suis content que vous soyez $(#vivant/vivante), $(#frère/sœur). Bon. Quant au test lui-même, c'était un succès total, je suis heureux de le dire.<end>
 
 =>a67_original
 You really have a talent to send people to the most dangerous stinkin' places. I had to go to a mutant-infested area so that you can have a good bloody signal!<end>
 
 =>a67
-Tu as vraiment du talent pour envoyer des gens aux endroits les plus dangereux qui puent. J'ai dû aller dans une zone infestée de mutants pour que tu puisses avoir un bon signal !<end>
+Vous avez vraiment un don pour envoyer les gens dans les pires trous. J'ai dû aller dans une zone infestée de mutants pour que vous ayez un putain de bon signal !<end>
 
 =>q68_original
 Mutants? I didn't know there was any mutants there! Magnificent Tchort, what the hell is wrong with me and this project - it's like a curse or something! ::He grabs his head.:: <end>
 
 =>q68
-Des mutants ? Je ne savais pas qu'il y avait des mutants ! Magnifique Tchort, ce qui ne va pas chez moi et ce projet - c'est comme une malédiction ou quelque chose ! ::Il se prend la tête.:: <end>
+Des mutants ? Je ne savais pas qu'il y en avait ! Magnifique Tchort, qu'est-ce qui cloche, avec moi et ce projet - on dirait une malédiction ! ::Il se prend la tête.:: <end>
 
 =>a69_original
 Luckily I'm alive, but damn it man - you really know where to send your assistants.<end>
 
 =>a69
-Heureusement que je suis en vie, mais bon sang, vous savez où envoyer vos assistants.<end>
+Heureusement que je suis $(#vivant/vivante), mais bon sang - vous savez où envoyer vos assistants.<end>
 
 =>q70_original
 I didn't know anything about it! I was told by Mediant Samuel that his rassophores scanned the station and that it was safe, at least the section closest to us. You know what? I'll toss in a few more coins - two hundred extra - for the trouble you had to go through. Okay?<end>
 
 =>q70
-Je n'en savais rien ! Médiant Samuel m'a dit que ses rasophores scannaient la station et qu'elle était sûre, au moins la section la plus proche de nous. Tu sais quoi ? Je vais jeter quelques pièces de plus - deux cents en plus - pour le problème que vous avez dû traverser. Ça va ?<end>
+Je n'en savais rien ! Mediant Samuel m'a dit que ses rassophores avaient balayé la station, et qu'elle était sûre, du moins la section la plus proche. Vous savez quoi ? Je rajoute quelques charons - deux cents de plus - pour le dérangement. D'accord ?<end>
 
 =>q71_original
 By the Tchort - it's like triploidy. But at least dealing with the, erm, mutants was not in vain, $(#brother/sister) - the experiment was a complete and utter success!<end>
 
 =>q71
-Par le Tchort - c'est comme la triploïdie. Mais au moins traiter avec les mutants n'était pas en vain, $(#brother/sister) - l'expérience était un succès complet et total!<end>
+Par Tchort - c'est comme de la triploïdie. Mais au moins, s'occuper des, euh, mutants n'était pas vain, $(#frère/sœur) - l'expérience est un succès total !<end>
 
 =>q72_original
 We are getting some truly excellent data here and everything works as it should. I'm so going to brag about this at the next symposium! ::He laughs.:: Joking aside, now's the time to honor my part of the deal. ::He hands you 650 stygian coins.::
@@ -450,33 +450,33 @@ We are getting some truly excellent data here and everything works as it should.
 Now to find someone else to help me with another test...<end>
 
 =>q72
-Nous obtenons ici des données vraiment excellentes et tout fonctionne comme il se doit. Je vais m'en vanter au prochain symposium ! ::Il rit.:: Joking à part, c'est le moment d'honorer ma partie de l'accord. ::Il vous donne 650 pièces de monnaie.::
+On reçoit d'excellentes données, et tout marche comme prévu. Je vais tellement m'en vanter au prochain symposium ! ::Il rit.:: Blague à part, c'est le moment d'honorer ma part du marché. ::Il vous tend 650 pièces stygiennes.::
 
-Maintenant trouver quelqu'un d'autre pour m'aider avec un autre test...<end>
+Maintenant, trouver quelqu'un d'autre pour le prochain test...<end>
 
 =>a73_original
 Yeah, yeah. I expect an almost-killed-by-mutated-freaks bonus.<end>
 
 =>a73
-Oui, oui. Je m'attends à un bonus presque tué par muté.<end>
+Oui, oui. Je m'attends à un bonus presque-tué-par-des-mutants.<end>
 
 =>q74_original
 Yes, yes - you'll get it; two hundred extra, okay? But I swear I didn't know anything about the mutants! I was told by Mediant Samuel personally that his rassophores scanned the station and that it was safe, at least the section closest to us.<end>
 
 =>q74
-Oui, oui, tu l'auras, deux cents de plus. Mais je jure que je ne savais rien des mutants ! On m'a dit personnellement par Mediant Samuel que ses rasophores scannaient la station et qu'elle était en sécurité, au moins la section la plus proche de nous.<end>
+Oui, oui - vous l'aurez ; deux cents de plus, d'accord ? Mais je jure que je ne savais rien des mutants ! Mediant Samuel m'a dit en personne que ses rassophores avaient balayé la station, et qu'elle était sûre, du moins la section la plus proche.<end>
 
 =>a75_original
 So is there any more work around here?<end>
 
 =>a75
-Il y a encore du travail ici ?<end>
+Il y a encore du travail, ici ?<end>
 
 =>q76_original
 ::He seems surprised by your question.:: Despite the fact I send people to their deaths, you ask me if I have work for you?<end>
 
 =>q76
-::Il semble surpris par votre question.:: Malgré le fait que j'envoie des gens à leur mort, vous me demandez si j'ai du travail pour vous ?<end>
+::Il a l'air surpris par la question.:: Malgré le fait que j'envoie les gens à la mort, vous me demandez si j'ai du travail pour vous ?<end>
 
 =>a77_original
 Yes.<end>
@@ -488,43 +488,43 @@ Oui.<end>
 A very simple and straightforward answer...<end>
 
 =>q78
-Une réponse simple et simple...<end>
+Une réponse simple, et directe...<end>
 
 =>q79_original
 Okay, hear me out: Since the first test failed - obviously - it means we still don't have foreign environment test data. Therefore, we need to finally deploy one successfully. Well now, despite the fact that you seem to have taken care of yourself just fine in the West Wing, that area is off our list.<end>
 
 =>q79
-Ok, écoutez-moi: Depuis que le premier test a échoué - évidemment - cela signifie que nous n'avons toujours pas de données de test d'environnement étranger. Par conséquent, nous devons enfin en déployer un avec succès. Bien, malgré le fait que vous semblez avoir pris soin de vous juste bien dans l'aile ouest, cette zone est hors de notre liste.<end>
+Très bien, écoutez-moi : le premier test a échoué - évidemment - donc nous n'avons toujours pas de données en environnement étranger. Il faut enfin en déployer un, pour de bon. Bon. Même si vous avez l'air de vous être bien $(#débrouillé/débrouillée) dans la West Wing, cette zone est hors liste.<end>
 
 =>q80_original
 Completely off! But, there is another area nearby that is almost ideal for our experiment. The recent earthquake has created a passage into Harpocrates Station, which was a second entrance to the Institute many, many years ago, but was closed off. Rassophores already scanned the area and it seemed safe; and that's how we need this test to be performed - safe!<end>
 
 =>q80
-C'est fini ! Mais, il y a une autre région à proximité qui est presque idéal pour notre expérience. Le récent tremblement de terre a créé un passage à la station Harpocrates, qui était une deuxième entrée à l'Institut il y a de nombreuses années, mais qui a été fermée. Rassophores a déjà balayé la zone et il semblait sûr; et c'est ainsi que nous avons besoin de ce test pour être effectué - sûr!<end>
+Complètement hors liste ! Mais il y a une autre zone, tout près, presque idéale pour l'expérience. Le tremblement de terre récent a ouvert un passage vers Harpocrates Station, qui était une deuxième entrée de l'Institute il y a très longtemps, puis qu'on a fermée. Les rassophores ont déjà balayé la zone, et elle avait l'air sûre ; et c'est comme ça qu'il nous faut ce test - sûr !<end>
 
 =>q81_original
 There. What you need to do is this: I give you a T-ray emitter and a comm device, you go to Harpocrates - just tell the guards I sent you and they'll let you through - and contact me over the comm device. The emitter has a tracker and we'll find the best place to deploy it based on the signal strength. You do that, return, no one dies - all apex!<end>
 
 =>q81
-Voilà. Ce que vous devez faire est ceci: Je vous donne un émetteur de rayons T et un appareil de communication, vous allez à Harpocrates - juste dire aux gardes que je vous ai envoyé et ils vous laisseront passer - et me contacter par l'appareil de communication. L'émetteur a un traceur et nous trouverons le meilleur endroit pour le déployer en fonction de la force du signal. Vous faites ça, vous revenez, personne ne meurt - tout le sommet!<end>
+Voilà. Voici ce que vous avez à faire : je vous donne un émetteur T-ray et un appareil de comm, vous allez à Harpocrates - dites aux gardes que je vous envoie, ils vous laisseront passer - et vous me contactez via la comm. L'émetteur a un traceur, on trouvera le meilleur endroit selon la force du signal. Vous faites ça, vous revenez, personne ne meurt - tout apex !<end>
 
 =>q82_original
 Once you return, you get your charons and the department gets data. Phew... all in one go. What do you say to all this?<end>
 
 =>q82
-Une fois de retour, vous obtenez vos charons et le département obtient des données. Ouf... tout en un seul coup. Qu'en dites-vous ?<end>
+Une fois de retour, vous avez vos charons, le département a ses données. Ouf... le tout d'un coup. Qu'en dites-vous ?<end>
 
 =>a83_original
 I guess I love science that much.<end>
 
 =>a83
-J'adore tant la science.<end>
+J'aime tant que ça la science, on va dire.<end>
 
 =>q84_original
 Don't we all. ::He laughs.::<end>
 
 =>q84
-Pas nous tous. ::Il rit.::<end>
+Comme tout le monde. ::Il rit.::<end>
 
 =>a85_original
 I need money.<end>
@@ -536,37 +536,37 @@ J'ai besoin d'argent.<end>
 There is no shortage of that, $(context.player.Name), that's for sure. Well now, I suppose as long as you are willing...<end>
 
 =>q86
-Ça ne manque pas, $(context.player.Name), c'est sûr. Je suppose que tant que vous voulez...<end>
+Ça, ça ne manque pas, $(context.player.Name), c'est sûr. Bon. Tant que vous voulez bien...<end>
 
 =>a87_original
 I am ready to deploy this T-ray emitter thing.<end>
 
 =>a87
-Je suis prêt à déployer cet émetteur de rayons T.<end>
+Je suis $(#prêt/prête) à déployer cet émetteur T-ray.<end>
 
 =>q88_original
 Apex... Okay, as I already mentioned earlier, this T-ray emitter will have a tracking device; it was very unfortunate that the one Rassophore Pavel had was devoid of it, or else things...<end>
 
 =>q88
-Apex... Ok, comme je l'ai déjà mentionné, cet émetteur de rayons T aura un dispositif de suivi; il était très malheureux que celui de Rassophore Pavel en ait été dépourvu, ou d'autres choses...<end>
+Apex... Très bien, comme je l'ai déjà dit, cet émetteur T-ray aura un traceur ; c'est bien malheureux que celui de Rassophore Pavel n'en ait pas eu, sinon les choses...<end>
 
 =>q89_original
  I'm sorry, I'm getting sidetracked here. Let's go through the process one more time: Here is the emitter, ::He gives you the T-ray emitter.:: and here is the comm device. ::He hands you a communication device.::<end>
 
 =>q89
- Je suis désolé, je suis sur la touche. Une fois de plus, passons par le processus : Voici l'émetteur, ::Il vous donne l'émetteur de rayons T.:: et voici l'appareil de communication. ::Il vous donne un appareil de communication.::<end>
+ Je suis désolé, je m'égare. Reprenons la procédure : voici l'émetteur, ::Il vous donne l'émetteur T-ray.:: et voici l'appareil de comm. ::Il vous tend un appareil de communication.::<end>
 
 =>q90_original
 Go down the stairs past Eidein's Library and talk to the guards at the first junction; you can't miss it. Again, the area is mostly deserted but I recommend you still keep your eyes open.<end>
 
 =>q90
-Descendez les escaliers après la bibliothèque Eidein et parlez aux gardes à la première jonction; vous ne pouvez pas la manquer. Encore une fois, la région est surtout déserte, mais je vous recommande de garder les yeux ouverts.<end>
+Descendez l'escalier après Eidein's Library et parlez aux gardes au premier carrefour ; vous ne pouvez pas le rater. Encore une fois, la zone est surtout déserte, mais gardez l'œil ouvert, je vous le recommande.<end>
 
 =>a91_original
 On my way, brother. Tchort guide you.<end>
 
 =>a91
-En route, mon frère. Tchort vous guide.<end>
+J'y vais, frère. Tchort vous guide.<end>
 
 =>q92_original
 Apex. I'll now go and prepare the receiver. Tchort guide you.<end>
@@ -578,13 +578,13 @@ Apex. Je vais préparer le récepteur. Tchort vous guide.<end>
 I got it all. Talk to ya soon.<end>
 
 =>a93
-J'ai tout compris. A bientôt.<end>
+J'ai tout. On se parle bientôt.<end>
 
 =>a94_original
 I was wondering if you had any work I could help you with?<end>
 
 =>a94
-Je me demandais si tu pouvais t'aider ?<end>
+Je me demandais si vous aviez du travail dans lequel je pourrais vous aider ?<end>
 
 =>q95_original
 ::His face suddenly turns grim.:: 
@@ -592,9 +592,9 @@ Je me demandais si tu pouvais t'aider ?<end>
 Um, interesting choice of words... $(context.player.Name).<end>
 
 =>q95
-::Son visage devient soudain sombre.::
+::Son visage s'assombrit d'un coup.::
 
-Intéressant choix de mots... $(context.player.Name).<end>
+Euh, choix de mots intéressant... $(context.player.Name).<end>
 
 =>a96_original
 How so?<end>
@@ -606,37 +606,37 @@ Comment ça ?<end>
 I mentioned it was interesting because of a young rassophore who, um, came to me with those *exact* same words you just spoke. I mean, he was interested in what we do here and... wished to help.<end>
 
 =>q97
-J'ai mentionné que c'était intéressant à cause d'un jeune rasophore qui, euh, est venu à moi avec ces *exact* mêmes mots que vous venez de parler. Je veux dire, il était intéressé par ce qu'on fait ici et... voulait aider.<end>
+Je disais intéressant à cause d'un jeune rassophore qui, euh, est venu me voir avec *exactement* les mêmes mots. Il s'intéressait à ce qu'on fait ici et... voulait aider.<end>
 
 =>a98_original
 Please continue...<end>
 
 =>a98
-Continuez...<end>
+Continuez, je vous prie...<end>
 
 =>q99_original
 His name is Pavel. At the time of his arrival the department was testing a terahertz, or T-ray, emitter that would allow us to perform through-wall imaging. I hope you are able to understand how useful such a technology could be to us all. Just imag-- um, better leave the long talk for later and return to Rassophore Pavel.<end>
 
 =>q99
-Son nom est Pavel. Au moment de son arrivée, le département testait un émetteur de térahertz, ou T-ray, qui nous permettrait de réaliser des imageries par le mur. J'espère que vous comprendrez à quel point une telle technologie pourrait nous être utile. Juste l'imagination... euh, mieux de laisser la longue discussion pour plus tard et de revenir à Rassophore Pavel.<end>
+Il s'appelle Pavel. À son arrivée, le département testait un émetteur térahertz, ou T-ray, pour de l'imagerie à travers les murs. J'espère que vous voyez à quel point une telle techno nous serait utile. Imaginez seu-- euh, mieux vaut garder le long discours pour plus tard, et revenir à Rassophore Pavel.<end>
 
 =>q100_original
 He was a man who clearly missed his call - a member of the Preservation Forces who had more interest in scientific investigation than anything else. He would often drop by our lab and was, no doubt about it, genuinely interested in all the wonders of physics. Some two days ago he dropped by the lab and found out the full possibilities of through-wall imaging, which made him even more interested and excited.<end>
 
 =>q100
-C'était un homme qui a clairement manqué son appel - un membre des Forces de préservation qui avait plus d'intérêt pour les recherches scientifiques que toute autre chose. Il passait souvent par notre laboratoire et s'intéressait sans aucun doute à toutes les merveilles de la physique. Il y a deux jours, il est passé au labo et a découvert toutes les possibilités d'imagerie à travers le mur, ce qui l'a rendu encore plus intéressé et excité.<end>
+C'était un homme qui avait clairement raté sa vocation - un membre des Preservation Forces, plus intéressé par la recherche scientifique que par le reste. Il passait souvent au labo, et s'intéressait vraiment, sans aucun doute, à toutes les merveilles de la physique. Il y a deux jours, il est passé et a compris tout ce que l'imagerie à travers les murs permettait, ce qui l'a encore plus emballé.<end>
 
 =>q101_original
 I told him about needing to somehow test the emitter in a very active environment, and since the West Wing had been reopened he personally volunteered to go there and plant the device. I thought it was too dangerous and, well now, asked him how was he going to do it without Mediant Samuel finding out, but he convinced me he had a plan and everything was going to be... apex. Well, I guess I sent him to his doom, for he hasn't returned still, and I regret ever accepting that risk in the first place.<end>
 
 =>q101
-Je lui ai parlé de la nécessité de tester l'émetteur dans un environnement très actif, et depuis la réouverture de l'aile Ouest, il s'est personnellement porté volontaire pour y aller et y installer l'appareil. Je pensais que c'était trop dangereux et, maintenant, lui a demandé comment il allait le faire sans que Mediant Samuel le découvre, mais il m'a convaincu qu'il avait un plan et que tout allait être... apex. Je suppose que je l'ai envoyé à sa mort, car il n'est pas revenu encore, et je regrette d'avoir accepté ce risque en premier lieu.<end>
+Je lui ai dit qu'il nous fallait tester l'émetteur dans un environnement très actif, et puisque la West Wing venait d'être rouverte, il s'est porté volontaire pour y aller planter l'appareil. Je trouvais ça trop dangereux et, bon, je lui ai demandé comment il allait faire sans que Mediant Samuel le sache, mais il m'a convaincu qu'il avait un plan, et que tout serait... apex. Je suppose que je l'ai envoyé à sa perte : il n'est toujours pas revenu, et je regrette d'avoir accepté ce risque.<end>
 
 =>a102_original
 I am sad to say that I already found him dead in the West Wing.<end>
 
 =>a102
-Je suis triste de dire que je l'ai déjà trouvé mort dans l'aile ouest.<end>
+J'ai le chagrin de dire que je l'ai déjà trouvé mort, dans la West Wing.<end>
 
 =>q103_original
 ::Your expression conveyed him the message long before your words. He lowered his gaze into the floor after you told him about Pavel's death.::
@@ -644,45 +644,45 @@ Je suis triste de dire que je l'ai déjà trouvé mort dans l'aile ouest.<end>
 ::He sighs.:: Despite the fact that chances of him still being alive were so slim, the confirmation that he is dead... hits hard.<end>
 
 =>q103
-::Votre expression lui a transmis le message bien avant vos paroles. Il a baissé son regard dans le sol après que vous lui ayez parlé de la mort de Pavel.::
+::Votre visage lui a dit bien avant vos mots. Il a baissé les yeux vers le sol, après que vous lui avez parlé de la mort de Pavel.::
 
-::Il soupire.:: Malgré le fait que les chances qu'il soit encore en vie étaient si minces, la confirmation qu'il est mort... frappe fort.<end>
+::Il soupire.:: Même si les chances qu'il soit encore en vie étaient si minces, la confirmation qu'il est mort... ça frappe fort.<end>
 
 =>q104_original
 I am responsible for Pavel's death... as well as the opening of the West Wing... ::He sighs.:: I have made some terrible mistakes that could have been completely avoided if I just... if I just wasn't so quick to make decisions, or allowed myself to be convinced so easily...<end>
 
 =>q104
-Je suis responsable de la mort de Pavel... ainsi que de l'ouverture de l'aile ouest... ::Il soupire.:: J'ai fait des erreurs terribles qui auraient pu être complètement évitées si j'avais juste... si je n'étais pas si prompt à prendre des décisions, ou si je me suis laissé convaincre si facilement...<end>
+Je suis responsable de la mort de Pavel... et de l'ouverture de la West Wing... ::Il soupire.:: J'ai fait de terribles erreurs, qu'on aurait pu éviter si j'avais... si je n'avais pas décidé si vite, ou si je ne m'étais pas laissé convaincre si facilement...<end>
 
 =>a105_original
 It's not your fault. Pavel was too confident for his own good and overestimated his abilities, and you believed him. It happens.<end>
 
 =>a105
-Ce n'est pas ta faute. Pavel était trop confiant pour son propre bien et surestimé ses capacités, et vous l'avez cru. Ça arrive.<end>
+Ce n'est pas votre faute. Pavel était trop sûr de lui, il a surestimé ses moyens, et vous l'avez cru. Ça arrive.<end>
 
 =>q106_original
 I suppose it is true. Just to understand each other - I am in no way willing to sacrifice lives just to make the tech work, I just... I thought he was going to be in and out quickly and... It's useless... What's done is done.<end>
 
 =>q106
-Je suppose que c'est vrai. Juste pour se comprendre - je ne suis en aucun cas prêt à sacrifier des vies juste pour faire fonctionner la technologie, je... Je pensais qu'il allait entrer et sortir rapidement et... C'est inutile... Ce qui est fait est fait.<end>
+Je suppose que c'est vrai. Pour qu'on se comprenne : je ne suis pas du tout prêt à sacrifier des vies pour faire marcher la techno, je... Je pensais qu'il entrerait et sortirait vite et... C'est inutile... Ce qui est fait est fait.<end>
 
 =>q107_original
 Well now, did you at least manage to find the T-ray emitter he was carrying?<end>
 
 =>q107
-Eh bien, avez-vous au moins réussi à trouver l'émetteur de rayons T qu'il transportait ?<end>
+Bon. Avez-vous au moins trouvé l'émetteur T-ray qu'il portait ?<end>
 
 =>a108_original
 It was not on his body or anywhere near it.<end>
 
 =>a108
-Il n'était ni sur son corps ni à proximité.<end>
+Il n'était ni sur son corps, ni dans les parages.<end>
 
 =>q109_original
 Then we will forget about it; it's not worth retrieving. Also, this is for you. ::He hands you 400 stygian coins.:: You exposed yourself to great danger, so here's something to compensate for it.<end>
 
 =>q109
-Alors nous l'oublierons; cela ne vaut pas la peine d'être récupéré. Et c'est pour toi. ::Il vous donne 400 pièces de monnaie.:: Vous vous êtes exposé à un grand danger, donc voici quelque chose pour le compenser.<end>
+Alors on l'oublie ; ça ne vaut pas la peine d'aller le chercher. Et ceci est pour vous. ::Il vous tend 400 pièces stygiennes.:: Vous vous êtes $(#exposé/exposée) à un grand danger, voilà de quoi compenser.<end>
 
 =>a110_original
 I have nothing to say to that...<end>
@@ -694,43 +694,43 @@ Je n'ai rien à dire à ça...<end>
 I... I too better stop here then. Magnificent Tchort... Well now, did you at least find anything on him? The emitter?<end>
 
 =>q111
-Je devrais m'arrêter ici. Magnifique Tchort... Tu as au moins trouvé quelque chose sur lui ? L'émetteur ?<end>
+Je... je ferais mieux de m'arrêter là, moi aussi. Magnifique Tchort... Bon. Avez-vous au moins trouvé quelque chose sur lui ? L'émetteur ?<end>
 
 =>a112_original
 Pavel was your responsibility. You shouldn't have allowed him to go there no matter how self-assured he was.<end>
 
 =>a112
-Pavel était votre responsabilité. Tu n'aurais pas dû lui permettre d'y aller, peu importe l'assurance qu'il était.<end>
+Pavel était votre responsabilité. Vous n'auriez pas dû le laisser y aller, aussi sûr de lui fût-il.<end>
 
 =>q113_original
 ::He pauses for a moment before continuing.:: You are right. Magnificent Tchort, you are right. I... ::He sighs.:: I better stop right here... I'll live with it for the rest of my life anyway.<end>
 
 =>q113
-::Il s'arrête un moment avant de continuer.:: Vous avez raison. Magnifique Tchort, vous avez raison. Je... ::Il soupire.:: je ferais mieux d'arrêter ici... Je vivrai avec pour le reste de ma vie de toute façon.<end>
+::Il s'arrête un instant, puis reprend.:: Vous avez raison. Magnifique Tchort, vous avez raison. Je... ::Il soupire.:: Je ferais mieux de m'arrêter là... J'aurai ça jusqu'à la fin, de toute façon.<end>
 
 =>a114_original
 I will go look for him if you'd like me to.<end>
 
 =>a114
-Je vais le chercher si tu veux.<end>
+Je vais le chercher, si vous le voulez.<end>
 
 =>q115_original
 No, no - I am not sending anyone else there. I made that awful mistake the first time, Eidein pardon me. He, he just insisted so much - he really wished for the technology to work, so much in fact he was willing to risk his life. I don't want to risk yours or anyone else's!<end>
 
 =>q115
-Non, je n'envoie personne d'autre là-bas. J'ai commis cette terrible erreur la première fois, Eidein pardonnez-moi. Il, il a juste insisté tellement - il voulait vraiment que la technologie fonctionne, tellement en fait il était prêt à risquer sa vie. Je ne veux pas risquer les vôtres ou les autres !<end>
+Non, non - je n'envoie plus personne là-bas. J'ai fait cette terrible erreur la première fois, qu'Eidein me pardonne. Il, il a tellement insisté - il voulait vraiment que la techno marche, au point de risquer sa vie. Je ne veux pas risquer la vôtre, ni celle de quiconque !<end>
 
 =>a116_original
 I am not a rookie, Schteff; I can handle myself quite well. If Pavel is alive, then he is probably hurt and unable to return on his own.<end>
 
 =>a116
-Je ne suis pas un débutant, Schteff; je peux me débrouiller très bien. Si Pavel est en vie, alors il est probablement blessé et incapable de revenir seul.<end>
+Je ne suis pas une recrue, Schteff ; je me débrouille très bien. Si Pavel est vivant, il est probablement blessé, incapable de rentrer seul.<end>
 
 =>q117_original
 By the Tchort... this is all so messed up. ::He sighs.:: Go then... go to the West Wing. Should you find him - bring him back, if there is anything to bring back. The emitter is not important, but returning it wouldn't be frowned upon. Tchort guide you, $(context.player.Name).<end>
 
 =>q117
-Par la Tchort... tout est tellement merdique. ::Il soupire.:: Allez à l'aile ouest. Si vous le trouvez, ramenez-le s'il y a quelque chose à rapporter. L'émetteur n'est pas important, mais le rendre ne serait pas froncé. Tchort vous guide, $(context.player.Name).<end>
+Par Tchort... tout ça est un vrai gâchis. ::Il soupire.:: Allez... allez à la West Wing. Si vous le trouvez - ramenez-le, s'il reste quelque chose à ramener. L'émetteur n'est pas important, mais le rapporter ne serait pas mal vu. Tchort vous guide, $(context.player.Name).<end>
 
 =>q118_original
 <end>
@@ -742,61 +742,61 @@ Par la Tchort... tout est tellement merdique. ::Il soupire.:: Allez à l'aile ou
 I am on the way, brother. Tchort guide you.<end>
 
 =>a119
-Je suis en route, mon frère. Tchort vous guide.<end>
+J'y vais, frère. Tchort vous guide.<end>
 
 =>a120_original
 See you later, Schteff.<end>
 
 =>a120
-A tout à l'heure, Schteff.<end>
+À plus tard, Schteff.<end>
 
 =>a121_original
 Well, if you insist. Can you tell me more about T-rays though?<end>
 
 =>a121
-Si vous insistez. Pouvez-vous m'en dire plus sur les rayons T ?<end>
+Si vous insistez. Vous pouvez m'en dire plus sur les T-rays, quand même ?<end>
 
 =>q122_original
 ::He sighs.:: Certainly...<end>
 
 =>q122
-::Il soupire.:: Certainement...<end>
+::Il soupire.:: Bien sûr...<end>
 
 =>q123_original
 Hmmm... how about I start with the problem first then move on to T-ray technology, which is the solution to the problem. Our whole lives we live surrounded by walls: rock, brick, metal - take a pick! Open space is non-existent pretty much and... well, visibility is therefore very limited. What if we could "see" through these walls? Huh? Let's move on to that...<end>
 
 =>q123
-Que diriez-vous de commencer par le problème, puis passer à la technologie T-ray, qui est la solution au problème. Toute notre vie, nous vivons entourés de murs: pierre, brique, métal - faites un choix! L'espace ouvert est pratiquement inexistant et... la visibilité est donc très limitée. Et si on pouvait "voir" à travers ces murs ? Quoi ? Passons à ça...<end>
+Hmmm... si je commençais par le problème, puis la techno T-ray, qui est la solution. Toute notre vie, on vit entourés de murs : roche, brique, métal - au choix ! L'espace ouvert n'existe pratiquement pas et... la visibilité est donc très limitée. Et si on pouvait « voir » à travers ces murs ? Hein ? Passons à ça...<end>
 
 =>q124_original
 To be able to acquire a certain image of what is behind an obstacle, you first need to send some particle through or around it. Since going around is not an option most of the time - through it'll have to be, $(#brother/sister)! You can use high energy ionizing radiation, but that'll probably give you cancer or outright kill you; it depends. But if the energy is too low, then you are not penetrating the obstacle. The best type of radiation, according to our tests is the terahertz radiation. It lies between the microwave and infrared band, with frequencies, well, measured in several terahertz.<end>
 
 =>q124
-Pour pouvoir acquérir une certaine image de ce qui est derrière un obstacle, vous devez d'abord envoyer une particule à travers ou autour. Puisque le tour n'est pas une option la plupart du temps - à travers elle devra être, $(#brother/sister)! Vous pouvez utiliser des rayonnements ionisants à haute énergie, mais cela vous donnera probablement un cancer ou vous tuera carrément; cela dépend. Mais si l'énergie est trop faible, alors vous ne pénétrerez pas l'obstacle. Le meilleur type de rayonnement, selon nos tests, est le rayonnement térahertz. Il se situe entre le micro-ondes et la bande infrarouge, avec des fréquences, bien, mesurées en plusieurs térahertz.<end>
+Pour obtenir une image de ce qu'il y a derrière un obstacle, il faut d'abord envoyer une particule à travers, ou autour. Autour, la plupart du temps, ce n'est pas une option - ce sera à travers, $(#frère/sœur) ! On peut utiliser un rayonnement ionisant à haute énergie, mais ça vous donnera probablement un cancer, ou ça vous tuera tout net ; ça dépend. Si l'énergie est trop basse, vous ne traversez pas. Le meilleur rayonnement, d'après nos tests, c'est le térahertz. Il se situe entre les micro-ondes et l'infrarouge, avec des fréquences, eh bien, mesurées en plusieurs térahertz.<end>
 
 =>q125_original
 It is convenient for one other reason: We have managed to fine tune the waves to pass through solid non-living objects but be reflected back when it hits living tissue, creating a three-dimensional map of all living entities in the operational vicinity of the emitter device.<end>
 
 =>q125
-Il est pratique pour une autre raison: Nous avons réussi à affiner les ondes pour passer à travers des objets solides non vivants, mais être réfléchis quand il frappe les tissus vivants, créant une carte tridimensionnelle de toutes les entités vivantes dans le voisinage opérationnel de l'appareil émetteur.<end>
+C'est pratique pour une autre raison : nous avons accordé les ondes pour traverser les objets solides non vivants, et se réfléchir en touchant un tissu vivant, ce qui donne une carte en trois dimensions de toutes les entités vivantes dans le voisinage opérationnel de l'émetteur.<end>
 
 =>a126_original
 That is amazing! But it can only detect living things, right?<end>
 
 =>a126
-C'est incroyable ! Mais il ne peut détecter que des choses vivantes, non ?<end>
+C'est extraordinaire ! Mais ça ne détecte que le vivant, c'est ça ?<end>
 
 =>q127_original
 Currently yes, but even that is a leap forward from what we had before - zilch! ::He laughs.:: I mean, it would be pointless to explain what you can do with it; you are a smart enough $(#man/woman), so I'll let your imagination do the work.<end>
 
 =>q127
-Actuellement oui, mais même c'est un bond en avant de ce que nous avions avant - zilch! ::Il rit.:: Je veux dire, ce serait inutile d'expliquer ce que vous pouvez en faire; vous êtes un assez intelligent $(#man/woman), donc je laisserai votre imagination faire le travail.<end>
+Pour l'instant, oui, mais même ça, c'est un bond par rapport à ce qu'on avait avant - que dalle ! ::Il rit.:: Inutile d'expliquer ce qu'on peut en faire ; vous êtes assez $(#intelligent/intelligente), je laisse l'imagination travailler.<end>
 
 =>q128_original
 And if you ever decide to become an investigator - imagination will be your most powerful ally! Eidein pardon me, but sometimes it is even more important than knowledge. Remember that, eh?<end>
 
 =>q128
-Et si jamais vous décidez de devenir un enquêteur - l'imagination sera votre allié le plus puissant! Eidein me pardonne, mais parfois c'est encore plus important que la connaissance. Tu te souviens de ça ?<end>
+Et si jamais vous devenez investigator - l'imagination sera votre meilleur allié ! Qu'Eidein me pardonne, mais parfois elle compte plus que le savoir. Souvenez-vous-en, hein ?<end>
 
 =>a129_original
 Wow, that sounds really good, but I wanted to change the subject.<end>
@@ -808,43 +808,43 @@ Wow, that sounds really good, but I wanted to change the subject.<end>
 Erm... okay. Ask, $(#brother/sister).<end>
 
 =>q130
-C'est bon. Demande, $(#brother/sister).<end>
+Euh... d'accord. Demandez, $(#frère/sœur).<end>
 
 =>a131_original
 You have a good point, brother. Instead, let's talk about something else.<end>
 
 =>a131
-Tu as raison, mon frère. Parlons plutôt d'autre chose.<end>
+Vous marquez un point, frère. Parlons d'autre chose, plutôt.<end>
 
 =>q132_original
 Speak, $(#brother/sister).<end>
 
 =>q132
-Parle, $(#brother/sister).<end>
+Parlez, $(#frère/sœur).<end>
 
 =>a133_original
 That is a very sad story. But the whole idea about through-wall imaging is quite interesting. Can you tell me more about these emitters?<end>
 
 =>a133
-C'est une histoire très triste. Mais l'idée de l'imagerie à travers le mur est très intéressante. Pouvez-vous m'en dire plus sur ces émetteurs ?<end>
+C'est une histoire très triste. Mais l'idée de l'imagerie à travers les murs est vraiment intéressante. Vous pouvez m'en dire plus, sur ces émetteurs ?<end>
 
 =>a134_original
 He thought he could do anything, poor man. I had other things to ask you...<end>
 
 =>a134
-Il pensait pouvoir tout faire, pauvre homme. J'avais d'autres choses à te demander...<end>
+Il se croyait capable de tout, le pauvre. J'avais d'autres questions...<end>
 
 =>a135_original
 I'm all ears, brother.<end>
 
 =>a135
-Je suis tout ouïe, mon frère.<end>
+Je suis tout ouïe, frère.<end>
 
 =>a136_original
 Doesn't sound that way to me.<end>
 
 =>a136
-Ça ne me semble pas comme ça.<end>
+Ça ne m'en a pas l'air.<end>
 
 =>q137_original
 No, what I meant was: <end>
@@ -856,49 +856,49 @@ Non, je voulais dire : <end>
 Oh no, did I say something offensive? I am new to Tchortism, please forgive me!<end>
 
 =>a138
-J'ai dit quelque chose d'offensant ? Je suis nouveau au Tchortism, pardonne-moi !<end>
+J'ai dit quelque chose d'offensant ? Je suis $(#nouveau/nouvelle) au Tchortism, pardonnez-moi !<end>
 
 =>q139_original
 Don't be silly, $(context.player.Name), you haven't offended anyone. <end>
 
 =>q139
-Ne sois pas bête, $(context.player.Name), tu n'as offensé personne. <end>
+Ne dites pas de bêtises, $(context.player.Name), vous n'avez offensé personne. <end>
 
 =>a140_original
 What can you tell me about these tremors?<end>
 
 =>a140
-Que pouvez-vous me dire à propos de ces tremblements ?<end>
+Que pouvez-vous me dire sur ces tremblements ?<end>
 
 =>q141_original
 We have a seismograph set up here in the lab and we monitor it very carefully. First of all, these tremors came out of nowhere: There was no previous indication that an earthquake was about to happen. And second - we still do not know why it is happening.<end>
 
 =>q141
-Nous avons un sismographe installé ici dans le labo et nous le surveillons très attentivement. Tout d'abord, ces tremblements sont sortis de nulle part : Rien n'indiquait auparavant qu'un tremblement de terre allait se produire. Deuxièmement, nous ne savons toujours pas pourquoi cela se produit.<end>
+Nous avons un sismographe ici, au labo, et nous le surveillons de près. D'abord, ces tremblements sont sortis de nulle part : rien n'indiquait qu'un séisme allait arriver. Ensuite - nous ne savons toujours pas pourquoi.<end>
 
 =>a142_original
 Do you maybe know the direction they are coming from?<end>
 
 =>a142
-Tu sais peut-être d'où ils viennent ?<end>
+Vous savez d'où ils viennent, peut-être ?<end>
 
 =>q143_original
 Well now, the readings - if they are correct, and they should be - imply that it is coming from the west. I obviously can't pinpoint it specifically, $(#brother/sister). Why do you ask?<end>
 
 =>q143
-Eh bien maintenant, les lectures - si elles sont correctes, et elles devraient l'être - impliquent qu'elles viennent de l'ouest. Je ne peux évidemment pas l'identifier spécifiquement, $(#brother/sister). Pourquoi ?<end>
+Bon. Les relevés - s'ils sont justes, et ils devraient l'être - indiquent l'ouest. Je ne peux évidemment pas pointer plus précisément, $(#frère/sœur). Pourquoi cette question ?<end>
 
 =>a144_original
 No reason. Let me ask you something else now.<end>
 
 =>a144
-Aucune raison. Laisse-moi te demander autre chose.<end>
+Pour rien. Laissez-moi vous demander autre chose.<end>
 
 =>q145_original
 By all means, $(context.player.Name).<end>
 
 =>q145
-Par tous les moyens, $(context.player.Name).<end>
+Je vous en prie, $(context.player.Name).<end>
 
 =>a146_original
 Interesting... I'll be right back. Tchort guide you.<end>
@@ -910,13 +910,13 @@ Intéressant... Je reviens. Tchort vous guide.<end>
 Tchort guide you too, $(#brother/sister).<end>
 
 =>q147
-Tchort vous guide aussi, $(#brother/sister).<end>
+Tchort vous guide aussi, $(#frère/sœur).<end>
 
 =>a148_original
 Hmmm... I need to go, see you later, Schteff.<end>
 
 =>a148
-- Oui. Je dois y aller, à plus tard, Schteff.<end>
+Hmmm... Je dois y aller, à plus tard, Schteff.<end>
 
 =>q149_original
 Tchort guide you, $(context.player.Name).<end>
@@ -928,73 +928,73 @@ Tchort vous guide, $(context.player.Name).<end>
 Hmmm... I'd like to ask you something else.<end>
 
 =>a150
-- Oui. J'aimerais vous demander autre chose.<end>
+Hmmm... J'aimerais vous demander autre chose.<end>
 
 =>a151_original
 What am I supposed to do with the T-ray emitter again?<end>
 
 =>a151
-Qu'est-ce que je suis censé faire de l'émetteur de rayons T ?<end>
+Qu'est-ce que je dois faire, déjà, avec l'émetteur T-ray ?<end>
 
 =>q152_original
 It's simple: I gave you a T-ray emitter and a comm device; you now need to go to Harpocrates Station - take the stairs next to Eidein's Library - and once you get there, contact me over the comm device. The emitter has a tracker on it so that we can find the best place to deploy it based on the signal strength.<end>
 
 =>q152
-C'est simple : je vous ai donné un émetteur de rayons T et un appareil de communication ; vous devez maintenant aller à la station Harpocrates - prendre les escaliers à côté de la bibliothèque de Eidein - et une fois que vous y êtes, contactez-moi au-dessus de l'appareil de communication. L'émetteur a un traceur dessus afin que nous puissions trouver le meilleur endroit pour le déployer en fonction de la force du signal.<end>
+C'est simple : je vous ai donné un émetteur T-ray et un appareil de comm ; vous allez à Harpocrates Station - prenez l'escalier à côté d'Eidein's Library - et une fois sur place, contactez-moi via la comm. L'émetteur a un traceur, pour qu'on trouve le meilleur endroit selon la force du signal.<end>
 
 =>q153_original
 It's very simple... well, it should be. Now go; I'll be in the office waiting for your call.<end>
 
 =>q153
-C'est très simple... ça devrait l'être. Allez, je serai au bureau en attendant votre appel.<end>
+C'est très simple... enfin, ça devrait l'être. Allez ; je serai au bureau, j'attends votre appel.<end>
 
 =>a154_original
 What do I need to do at the Core City station again?<end>
 
 =>a154
-Que dois-je faire à nouveau à la station Core City ?<end>
+Que dois-je faire, déjà, à la station de Core City ?<end>
 
 =>q155_original
 It's simple: Take that T-ray emitter I gave you to Core City Upper Underrail station and try to plant it in a safe and secluded location. After you are done, return to me.<end>
 
 =>q155
-C'est simple: Prenez cet émetteur de rayons T que je vous ai donné à la station Core City Upper Underrail et essayez de l'installer dans un endroit sûr et isolé. Après que vous ayez fini, revenez à moi.<end>
+C'est simple : prenez l'émetteur T-ray que je vous ai donné, allez à la station Core City, Upper Underrail, et plantez-le dans un endroit sûr, à l'écart. Quand c'est fait, revenez me voir.<end>
 
 =>q156_original
 Well now, you better get going. I can't wait to see what becomes of this test.<end>
 
 =>q156
-Tu ferais mieux d'y aller. J'ai hâte de voir ce que devient ce test.<end>
+Bon, vous feriez mieux d'y aller. J'ai hâte de voir ce que ce test va donner.<end>
 
 =>a157_original
 I will go look for Rassophore Pavel if you want me to.<end>
 
 =>a157
-Je vais chercher Rassophore Pavel si tu veux.<end>
+Je vais chercher Rassophore Pavel, si vous le voulez.<end>
 
 =>a158_original
 I found Pavel, but he was dead long before I got to him.<end>
 
 =>a158
-J'ai trouvé Pavel, mais il était mort bien avant que je ne le rencontre.<end>
+J'ai trouvé Pavel, mais il était mort bien avant que j'arrive.<end>
 
 =>a159_original
 Tell me more about T-ray technology you are developing?<end>
 
 =>a159
-Parlez-moi de la technologie T-ray que vous développez ?<end>
+Parlez-moi de la techno T-ray que vous développez.<end>
 
 =>a160_original
 What can you tell me about this department?<end>
 
 =>a160
-Que pouvez-vous me dire à propos de ce département ?<end>
+Que pouvez-vous me dire sur ce département ?<end>
 
 =>q161_original
 Well now, this is the Department of Physics and that is exactly what we do here - physics. ::He laughs.:: We have our little lab here and our own personal particle accelerator even and we are pretty much have our hands free to do whatever we desire. We perform tests, experiments and make new discoveries in an attempt to further aid this institution and its goals.<end>
 
 =>q161
-Maintenant, c'est le Département de Physique et c'est exactement ce que nous faisons ici - la physique. ::Il rit.:: Nous avons notre petit laboratoire ici et notre propre accélérateur de particules personnel même et nous sommes à peu près libres de faire ce que nous désirons. Nous effectuons des essais, des expériences et faisons de nouvelles découvertes afin d'aider davantage cette institution et ses objectifs.<end>
+Bon, voici le Department of Physics, et c'est exactement ce qu'on fait ici - de la physique. ::Il rit.:: On a notre petit labo, notre propre accélérateur de particules, même, et on a à peu près les mains libres pour faire ce qu'on veut. On teste, on expérimente, on découvre, pour aider cette institution et ses buts.<end>
 
 =>a162_original
 Sounds like a lot of fun.<end>
@@ -1006,13 +1006,13 @@ Sounds like a lot of fun.<end>
 Oh, physics is fun - apex, and don't let anyone try to convince you otherwise. I suppose the only downside is that we sometimes tend to be underappreciated, I feel. You know, by the other departments; like, physicists play with their own toys, blah blah blah... Eidein pardon me for saying that, but it can get on my nerves sometimes.<end>
 
 =>q163
-Oh, la physique est amusante - apex, et ne laissez personne essayer de vous convaincre autrement. Je suppose que le seul inconvénient est que nous avons parfois tendance à être sous-estimés, je pense. Tu sais, par les autres départements ; genre, les physiciens jouent avec leurs propres jouets, bla bla bla... Eidein pardonne-moi de dire ça, mais ça peut me mettre sur les nerfs parfois.<end>
+Oh, la physique, c'est amusant - apex, et que personne ne vous dise le contraire. Le seul inconvénient, c'est qu'on est parfois un peu sous-estimés, je trouve. Vous savez, par les autres départements ; du genre, les physiciens jouent avec leurs jouets, bla bla bla... Qu'Eidein me pardonne, mais ça me tape sur les nerfs, des fois.<end>
 
 =>q164_original
 But when we *do* show them something apex then their jaws instantly crack the floor. ::He smiles.::<end>
 
 =>q164
-Mais quand nous leur montrons quelque chose d'apex, leurs mâchoires fendent instantanément le sol. ::Il sourit.::<end>
+Mais quand on *leur* montre quelque chose d'apex, leurs mâchoires tapent le sol. ::Il sourit.::<end>
 
 =>a165_original
 That's interesting, but I would like to ask you something else.<end>
@@ -1024,37 +1024,37 @@ C'est intéressant, mais j'aimerais vous demander autre chose.<end>
 I am all ears, $(#brother/sister).<end>
 
 =>q166
-Je suis tout ouïe, $(#brother/sister).<end>
+Je suis tout ouïe, $(#frère/sœur).<end>
 
 =>a167_original
 Why did you join the Institute of Tchort?<end>
 
 =>a167
-Pourquoi avez-vous rejoint le Institute of Tchort ?<end>
+Pourquoi avez-vous rejoint l'Institute of Tchort ?<end>
 
 =>q168_original
 That was a long time ago... ::He laughs.:: I... I am going to give you a simple answer here; there is no need to go into a lot of details. Here's a single sentence:<end>
 
 =>q168
-C'était il y a longtemps... ::Il rit.:: I... Je vais vous donner une réponse simple ici; il n'y a pas besoin d'entrer dans beaucoup de détails. Voici une phrase :<end>
+C'était il y a longtemps... ::Il rit.:: Je... je vais vous donner une réponse simple ; pas besoin d'entrer dans les détails. Une seule phrase :<end>
 
 =>q169_original
 I always had imagination, and here I could make it a reality. That's all there is to it, $(#brother/sister).<end>
 
 =>q169
-J'ai toujours eu de l'imagination, et ici je pourrais en faire une réalité. C'est tout ce qu'il y a, $(#brother/sister).<end>
+J'ai toujours eu de l'imagination, et ici je pouvais en faire une réalité. C'est tout, $(#frère/sœur).<end>
 
 =>a170_original
 I am interested in purchasing some tech stuff, if you've got any available.<end>
 
 =>a170
-Je suis intéressé par l'achat de trucs techniques, si vous en avez.<end>
+Je serais $(#intéressé/intéressée) par un peu de matos technique, si vous en avez.<end>
 
 =>q171_original
 An unusual request - but one I can respond to positively. Talk to Investigator Kiro and tell him I gave you permission. The selection should be satisfying, I'm sure.<end>
 
 =>q171
-Une demande inhabituelle - mais une que je peux répondre positivement. Parlez à l'enquêteur Kiro et dites-lui que je vous ai donné la permission. La sélection devrait être satisfaisante.<end>
+Demande inhabituelle - mais je peux y répondre favorablement. Parlez à Investigator Kiro et dites-lui que je vous y autorise. Le choix devrait suffire, j'en suis sûr.<end>
 
 =>a172_original
 Where can I find him?<end>
@@ -1066,13 +1066,13 @@ Où puis-je le trouver ?<end>
 He is over by the particle accelerator, probably doing some calculations. He's a brilliant mathematician so I *allow* him to do all the difficult math for me. ::He laughs.:: <end>
 
 =>q173
-Il est passé par l'accélérateur de particules, faisant probablement quelques calculs. C'est un mathématicien brillant, alors je lui donne la possibilité de faire tous les calculs difficiles pour moi. ::Il rit.:: <end>
+Il est près de l'accélérateur de particules, en train de calculer, probablement. C'est un mathématicien brillant, alors je lui *permets* de faire tous les calculs difficiles à ma place. ::Il rit.:: <end>
 
 =>a174_original
 Thank you. I had other questions though.<end>
 
 =>a174
-Je vous remercie. J'avais d'autres questions.<end>
+Merci. J'avais d'autres questions, pourtant.<end>
 
 =>q175_original
 Okay...<end>
@@ -1084,19 +1084,19 @@ Très bien...<end>
 What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
 
 =>a176
-Que dit une cellule sur le point de subir une mitose à un chercheur intéressé ? « J'espère que j'ai votre attention partagée !<end>
+Que dit une cellule sur le point d'entrer en mitose à un investigator intéressé ? « J'espère avoir votre attention... divisée ! »<end>
 
 =>q177_original
 ::He laughs at the joke.:: That is apex! Very good, very good. Did you come up with that?<end>
 
 =>q177
-::Il se moque de la blague.:: C'est le sommet ! Très bien, très bien. Tu as trouvé ça ?<end>
+::Il rit de la blague.:: C'est apex ! Très bien, très bien. C'est de vous ?<end>
 
 =>a178_original
 Yes. Everyone says I'm a really funny $(#guy/girl).<end>
 
 =>a178
-Oui. Tout le monde dit que je suis un $(#guy/girl) très drôle.<end>
+Oui. Tout le monde dit que je suis vraiment drôle.<end>
 
 =>q179_original
 And you are. That was brilliant. 
@@ -1104,7 +1104,7 @@ And you are. That was brilliant.
 <end>
 
 =>q179
-Et vous l'êtes. C'était génial. 
+Et vous l'êtes. C'était brillant. 
 
 <end>
 
@@ -1112,13 +1112,13 @@ Et vous l'êtes. C'était génial.
 You know, I should probably suggest to Praepostor Amelia that she takes a postulant's sense of humor into great consideration when making the selection. Never enough funny people here at the Institute!<end>
 
 =>q180
-Vous savez, je devrais probablement suggérer à Praepostor Amelia qu'elle prend le sens de l'humour d'un postulant en considération lors de la sélection. Jamais assez de gens drôles ici à l'Institut !<end>
+Vous savez, je devrais sans doute suggérer à Praepostor Amelia de bien peser le sens de l'humour d'un postulant, à la sélection. Jamais assez de gens drôles, à l'Institute !<end>
 
 =>a181_original
 I heard it from an investigator over at the genetics lab.<end>
 
 =>a181
-Je l'ai entendu d'un enquêteur au laboratoire de génétique.<end>
+Je l'ai entendue d'un investigator, au labo de génétique.<end>
 
 =>q182_original
 That was brilliant either way. It's the *way* you tell a joke that matters the most. 
@@ -1126,7 +1126,7 @@ That was brilliant either way. It's the *way* you tell a joke that matters the m
 <end>
 
 =>q182
-C'était brillant de toute façon. C'est la façon dont tu dis une blague qui compte le plus. 
+C'était brillant, de toute façon. C'est *la façon* de raconter qui compte le plus. 
 
 <end>
 
@@ -1134,7 +1134,7 @@ C'était brillant de toute façon. C'est la façon dont tu dis une blague qui co
 I heard it somewhere a long time ago.<end>
 
 =>a183
-Je l'ai entendu il y a longtemps.<end>
+Je l'ai entendue quelque part, il y a longtemps.<end>
 
 =>a184_original
 Tchort guide you, brother.<end>
@@ -1146,47 +1146,46 @@ Tchort vous guide, frère.<end>
 I have to go now. See you later, Schteff.<end>
 
 =>a185
-Je dois y aller maintenant. A tout à l'heure, Schteff.<end>
+Je dois y aller. À plus tard, Schteff.<end>
 
 =>a186_original
 I am $(context.player.Name), but please - just call me $(context.player.Name).<end>
 
 =>a186
-Je suis $(context.player.Name), mais s'il vous plaît - appelez-moi $(context.player.Name).<end>
+Je suis $(context.player.Name), mais je vous en prie - appelez-moi $(context.player.Name).<end>
 
 =>q187_original
 ::He laughs.:: I will, I will... $(context.player.Name).<end>
 
 =>q187
-::Il rit.:: Je vais, je vais... $(context.player.Name).<end>
+::Il rit.:: Je le ferai, je le ferai... $(context.player.Name).<end>
 
 =>q188_original
 Now, I assume you wished to talk to me about something?<end>
 
 =>q188
-Vous vouliez me parler de quelque chose ?<end>
+Vous vouliez me parler de quelque chose, j'imagine ?<end>
 
 =>a189_original
 My name is $(context.player.Name), and I must confess that the light show was indeed pleasing to my eyes.<end>
 
 =>a189
-Mon nom est $(context.player.Name), et je dois avouer que le spectacle de lumière était vraiment agréable à mes yeux.<end>
+Je m'appelle $(context.player.Name), et je dois avouer que le spectacle de lumières m'a plu.<end>
 
 =>q190_original
 ::He laughs.::: You are not the only one, $(context.player.Name); I'm sure you have caught our beloved Minister Unas appreciating the coils - sometimes from really unsafe distances. ::He laughs.:: Hmmm, I should warn him about that - again.<end>
 
 =>q190
-::Il rit.::: Vous n'êtes pas le seul, $(context.player.Name); je suis sûr que vous avez attrapé notre cher ministre Unas appréciant les bobines - parfois à des distances vraiment dangereuses. ::Il rit.:: Hmm, je devrais l'avertir à nouveau.<end>
+::Il rit.:: Vous n'êtes pas $(#le seul/la seule), $(context.player.Name) ; je suis sûr que vous avez surpris notre cher Minister Unas à admirer les bobines - parfois à des distances vraiment peu sûres. ::Il rit.:: Hmmm, je devrais le prévenir - encore.<end>
 
 =>q191_original
 Are you here to ask about the tremors? Because everyone swarmed here after the ground started shaking, like it was something we are causing. Reminds me of the particle accelerator black hole panic from a few years ago. Magnificent Tchort...<end>
 
 =>q191
-Tu es là pour poser des questions sur les tremblements ? Parce que tout le monde s'est échauffé ici après que le sol ait commencé à trembler, comme si c'était quelque chose que nous causions. Ça me rappelle la panique de l'accélérateur de particules il y a quelques années. Magnifique Tchort...<end>
+Vous venez pour les tremblements ? Parce que tout le monde a débarqué ici dès que le sol a bougé, comme si c'était nous. Ça me rappelle la panique du trou noir, avec l'accélérateur, il y a quelques années. Magnifique Tchort...<end>
 
 =>q192_original
 Need something, $(#brother/sister)?<end>
 
 =>q192
-Besoin de quelque chose, $(#brother/sister) ?<end>
-
+Vous aviez besoin de quelque chose, $(#frère/sœur) ?<end>

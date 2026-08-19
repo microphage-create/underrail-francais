@@ -2,13 +2,13 @@
 Save yourself, $(#brother/sister)!<end>
 
 =>q1
-Sauve-toi, $(#brother/sister) !<end>
+Sauvez-vous, $(#frère/sœur) !<end>
 
 =>q2_original
 Can't talk right now, $(#brother/sister) - something important is happening!<end>
 
 =>q2
-Je ne peux pas parler maintenant, $(#brother/sister) - quelque chose d'important se passe !<end>
+Je ne peux pas parler maintenant, $(#frère/sœur) - quelque chose d'important se passe !<end>
 
 =>q3_original
 ::He yawns.:: Um, Tchort is evolution, $(context.player.Name)...<end>
@@ -50,7 +50,7 @@ Malheureusement - ou heureusement - personne dans le département ou autrement n
 I got some good results which I will analyze them later, once my head is well again. As for you, $(context.player.Name), your input was incredibly valuable and, therefore, I give you this. ::He hands you three hundred stygian coins.:: Thank you for your time and dedication. It is... appreciated.<end>
 
 =>q9
-J'ai obtenu de bons résultats que je vais les analyser plus tard, une fois que ma tête est à nouveau bien. Quant à vous, $(context.player.Name), votre apport a été incroyablement précieux et, par conséquent, je vous le donne. ::Il vous donne trois cents pièces de monnaie.:: Merci pour votre temps et votre dévouement. C'est... apprécié.<end>
+J'ai obtenu de bons résultats que je vais les analyser plus tard, une fois que ma tête est à nouveau bien. Quant à vous, $(context.player.Name), votre apport a été incroyablement précieux et, par conséquent, je vous le donne. ::Il vous donne trois cents pièces stygiennes.:: Merci pour votre temps et votre dévouement. C'est... apprécié.<end>
 
 =>q10_original
 ::He yawns.:: Do you need anything else?<end>
@@ -74,7 +74,7 @@ Je suis volontaire pour boire !<end>
 $(#Brother/Sister), we are doing important scientific work - we are *not* doing this out of pure fun. Now please wait for me while I inform Investigator Octavia that we are not to be disturbed.<end>
 
 =>q13
-$(#Brother/Sister), nous faisons un travail scientifique important - nous ne faisons pas cela par pur plaisir. Veuillez m'attendre pendant que j'informe l'enquêteur Octavia que nous ne devons pas être dérangés.<end>
+$(#Frère/Sœur), nous faisons un travail scientifique important - nous ne faisons pas cela par pur plaisir. Veuillez m'attendre pendant que j'informe l'enquêteur Octavia que nous ne devons pas être dérangés.<end>
 
 =>a14_original
 ::Get ready.::<end>
@@ -110,7 +110,7 @@ Je cherche du travail.<end>
 Oh, interested in becoming an investigator? That is apex! Excellent! Institute of Tchort welcomes young and prosperous $(#men/women) such as yourself. You know... an old quote by Illustrious Eidein just sprang to my mind: "Tchortists are like nucleotides from which DNA is composed - small building blocks that together form something truly great." Actions of each individual lead to the creation of something better. Every piece of the puzzle is important.<end>
 
 =>q19
-Tu veux devenir enquêteur ? C'est le sommet ! Parfait ! Institute of Tchort accueille les jeunes et prospères $(#men/women) comme vous-même. Vous savez... une vieille citation de l'illustre Eidein vient de m'arriver à l'esprit : "Tchortists sont comme des nucléotides dont l'ADN est composé - de petits blocs de construction qui forment ensemble quelque chose de vraiment grand." Les actions de chaque individu conduisent à la création de quelque chose de mieux. Chaque morceau du puzzle est important.<end>
+Tu veux devenir enquêteur ? C'est le sommet ! Parfait ! Institute of Tchort accueille les jeunes et prospères $(#hommes/femmes) comme vous-même. Vous savez... une vieille citation de l'illustre Eidein vient de m'arriver à l'esprit : "Tchortists sont comme des nucléotides dont l'ADN est composé - de petits blocs de construction qui forment ensemble quelque chose de vraiment grand." Les actions de chaque individu conduisent à la création de quelque chose de mieux. Chaque morceau du puzzle est important.<end>
 
 =>q20_original
 If you are willing to become a piece just like the rest of us then together we *will* complete the puzzle. Yes... 
@@ -120,7 +120,7 @@ In any case, I have some work just for you!<end>
 =>q20
 Si vous êtes prêt à devenir une pièce comme nous autres, alors ensemble, nous allons terminer le puzzle. Oui...
 
-En tout cas, j'ai du travail pour toi !<end>
+Dans tous les cas, j'ai du travail pour vous !<end>
 
 =>a21_original
 I'm as ready as I'll ever be.<end>
@@ -150,7 +150,7 @@ Quoi qu'il en soit, la seconde est liée à la recherche et à la recherche de d
 So $(#brother/sister), are you still interested? If you are, I can give you the details.<end>
 
 =>q25
-Alors $(#brother/sister), êtes-vous toujours intéressé ? Si vous l'êtes, je peux vous donner les détails.<end>
+Alors $(#frère/sœur), êtes-vous toujours intéressé ? Si vous l'êtes, je peux vous donner les détails.<end>
 
 =>a26_original
 Tchort guide your words, brother.<end>
@@ -192,7 +192,7 @@ Vous avez du travail pour moi ?<end>
 Well... huh... yes, why not! I do have something for you, $(context.player.Name). I need a-- ::He yawns.:: a test subject.<end>
 
 =>q32
-Pourquoi pas ? J'ai quelque chose pour toi, $(context.player.Name). J'ai besoin de ::Il bâille.:: un sujet de test.<end>
+Pourquoi pas ? J'ai quelque chose pour vous, $(context.player.Name). J'ai besoin de ::Il bâille.:: un sujet de test.<end>
 
 =>a33_original
 What are you going to inject me with?<end>
@@ -210,7 +210,7 @@ Je ne vais pas t'injecter quoi que ce soit... bien que si tu le souhaites vraime
 Listen, during the years I've had some time to pursue a more... personal project. Not many of my colleagues are aware of what I'm doing, $(#brother/sister), so I ask of you to keep this between you and me. Now, uh, as an organic chemist... No, as an expert in the field of organic chemistry... Ah, I'll just be straight with you - I've been wishing to make the perfect alcoholic beverage!<end>
 
 =>q35
-Pendant les années, j'ai eu le temps de poursuivre un projet plus... personnel. Peu de mes collègues sont au courant de ce que je fais, $(#brother/sister), donc je vous demande de garder ceci entre vous et moi. En tant que chimiste biologique... Non, en tant qu'expert en chimie organique... Je vais être franc avec toi, je voulais faire la boisson alcoolisée parfaite !<end>
+Pendant les années, j'ai eu le temps de poursuivre un projet plus... personnel. Peu de mes collègues sont au courant de ce que je fais, $(#frère/sœur), donc je vous demande de garder ceci entre vous et moi. En tant que chimiste biologique... Non, en tant qu'expert en chimie organique... Je vais être franc avec toi, je voulais faire la boisson alcoolisée parfaite !<end>
 
 =>q36_original
 Yes, that's right: I am making strong liquor - approximately fifty percent alcohol content. Now, that's decent; at least for me. That is, of course, not the most important thing - what is important is the taste, smell, consistency and all the other qualities. You know, you would like the drink itself to be enjoyable first and foremost, right?<end>
@@ -240,7 +240,7 @@ Pour arriver au point, l'alcool que je fais est synthétique - mais l'objectif e
 So I need a volunteer...volunteer... Yes! Now *that* sounds a lot better than "test subject;" I need to remember that... Anyway, $(#brother/sister): I need a volunteer to try out several samples I had prepared. I will be doing the testing with you, so do not worry - if I'm drinking it with you, you should know it's good! If you are interested, $(#brother/sister), I have everything close by and we can begin at any time.<end>
 
 =>q40
-Donc j'ai besoin d'un volontaire... volontaire... Oui ! Maintenant *ça* sonne beaucoup mieux que "test sujet"; je dois me rappeler que... Bref, $(#brother/sister): J'ai besoin d'un volontaire pour essayer plusieurs échantillons que j'avais préparés. Je vais faire le test avec vous, alors ne vous inquiétez pas - si je le bois avec vous, vous devriez savoir que c'est bon! Si vous êtes intéressé, $(#brother/sister), j'ai tout près et nous pouvons commencer à tout moment.<end>
+Donc j'ai besoin d'un volontaire... volontaire... Oui ! Maintenant *ça* sonne beaucoup mieux que "test sujet"; je dois me rappeler que... Bref, $(#frère/sœur): J'ai besoin d'un volontaire pour essayer plusieurs échantillons que j'avais préparés. Je vais faire le test avec vous, alors ne vous inquiétez pas - si je le bois avec vous, vous devriez savoir que c'est bon! Si vous êtes intéressé, $(#frère/sœur), j'ai tout près et nous pouvons commencer à tout moment.<end>
 
 =>a41_original
 Oh, I see! You want me to test your booze!<end>
@@ -282,7 +282,7 @@ Je n'aime pas le son...<end>
 Wait! Wait, hold it, $(#brother/sister), I might have expressed myself badly. Pardon me. Allow me to explain what I meant...<end>
 
 =>q47
-Attendez ! Attendez, attendez, $(#brother/sister), j'aurais pu m'exprimer mal. Excusez-moi. Permettez-moi d'expliquer ce que je voulais dire...<end>
+Attendez ! Attendez, attendez, $(#frère/sœur), j'aurais pu m'exprimer mal. Excusez-moi. Permettez-moi d'expliquer ce que je voulais dire...<end>
 
 =>a48_original
 No way! I'm not going to be a test subject!<end>
@@ -300,7 +300,7 @@ Il y avait un problème avec XAL-001 - un problème majeur.<end>
 Wh-- Magnificent Tchort! ::He rubs his eyes.:: Tell me what happened, $(#brother/sister)?<end>
 
 =>q50
-Magnifique Tchort ! ::Il se frotte les yeux.:: Dites-moi ce qui s'est passé, $(#brother/sister) ?<end>
+Magnifique Tchort ! ::Il se frotte les yeux.:: Dites-moi ce qui s'est passé, $(#frère/sœur) ?<end>
 
 =>a51_original
 At first it worked fine but after some time it started leaking acid and spraying it in all directions - even back at me.<end>
@@ -330,7 +330,7 @@ Voici. ::Donnez-lui XAL-001.::<end>
 Thank you, $(#brother/sister)... I am very disappointed with this abortive test; I thought we had it! But alas...<end>
 
 =>q55
-Merci, $(#brother/sister)... Je suis très déçu par ce test avorté; je pensais que nous l'avions! Mais hélas...<end>
+Merci, $(#frère/sœur)... Je suis très déçu par ce test avorté; je pensais que nous l'avions! Mais hélas...<end>
 
 =>a56_original
 I'm sure you'll get it right next time.<end>
@@ -348,7 +348,7 @@ Oui, c'est ça. Si nous nous laissons arrêter par tous les obstacles, nous n'ar
 This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.:: XAL, XAL... magnificent Tchort.<end>
 
 =>q58
-C'est pour toi, $(#brother/sister). ::Il vous donne trois cents pièces de monnaie.:: XAL, XAL... magnifique Tchort.<end>
+C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.:: XAL, XAL... magnifique Tchort.<end>
 
 =>q59_original
 <end>
@@ -378,7 +378,7 @@ Test avorté ? Cette merde que tu m'as donnée m'a presque coûté la vie !<end>
 Ugh, I am really sorry about that; had I known the test would be so catastrophic I wouldn't have asked of you to perform it. I hope you forgive me, $(#brother/sister). I am sorry.<end>
 
 =>q63
-Ugh, je suis vraiment désolé pour cela; si j'avais su que le test serait si catastrophique je ne vous aurais pas demandé de le faire. J'espère que vous me pardonnerez, $(#brother/sister). Je suis désolé.<end>
+Ugh, je suis vraiment désolé pour cela; si j'avais su que le test serait si catastrophique je ne vous aurais pas demandé de le faire. J'espère que vous me pardonnerez, $(#frère/sœur). Je suis désolé.<end>
 
 =>a64_original
 I don't have it anymore...<end>
@@ -426,7 +426,7 @@ Je suis désolé, mais c'est ce que c'est. Il n'y avait rien que j'aurais pu fai
 I apologize for reacting that way; Eidein pardon me. The next version of the weapon will be better, I promise. This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.::<end>
 
 =>q71
-Je m'excuse d'avoir réagi ainsi; Eidein pardonnez-moi. La prochaine version de l'arme sera meilleure, je le promets. C'est pour toi, $(#brother/sister). ::Il vous donne trois cents pièces de monnaie.::<end>
+Je m'excuse d'avoir réagi comme ça ; Eidein me pardonne. La prochaine version de l'arme sera meilleure, je le promets. C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.::<end>
 
 =>a72_original
 I risked my life to test that worthless junk and all you do is complain?<end>
@@ -438,7 +438,7 @@ J'ai risqué ma vie pour tester cette merde sans valeur et tout ce que tu fais c
 ::He calms down after a second.:: Listen, I didn't mean in that way. I am happy that you have returned to us in one piece, $(#brother/sister), I really am. Um... in the end, even without the weapon itself I believe we will know where to look for the cause of the problem - based on what you said, of course.<end>
 
 =>q73
-::Il se calme après une seconde.:: Je ne voulais pas dire ça. Je suis heureux que vous nous ayez rendu en une seule pièce, $(#brother/sister), je le suis vraiment. En fin de compte, même sans l'arme elle-même, je crois que nous saurons où chercher la cause du problème - en fonction de ce que vous avez dit, bien sûr.<end>
+::Il se calme après une seconde.:: Je ne voulais pas dire ça. Je suis heureux que vous nous ayez rendu en une seule pièce, $(#frère/sœur), je le suis vraiment. En fin de compte, même sans l'arme elle-même, je crois que nous saurons où chercher la cause du problème - en fonction de ce que vous avez dit, bien sûr.<end>
 
 =>a74_original
 I had to discard it in the heat of combat.<end>
@@ -462,13 +462,13 @@ J'ai réussi à trouver des données sur la conception des protéines dans Hecat
 You did? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants! <end>
 
 =>q77
-Vraiment ? Oh, c'est apex, $(#brother/sister) ! Je vais envoyer ça à mes assistants ! <end>
+Vraiment ? Oh, c'est apex, $(#frère/sœur) ! Je vais envoyer ça à mes assistants ! <end>
 
 =>q78_original
 And this is for you, $(#brother/sister). ::He gives you three hundred stygian coins.:: I will mention this to Episkopos Lydia at the next symposium, have no fear. Listen, if you keep this up, you might have a good future in Investigation. Honestly.<end>
 
 =>q78
-Et ceci est pour vous, $(#brother/sister). ::Il vous donne trois cents pièces de monnaie.:: Je vais le mentionner à Episkopos Lydia lors du prochain symposium, n'ayez pas peur. Ecoute, si tu continues, tu pourrais avoir un bon avenir en enquête. Honnêtement.<end>
+Et ceci est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.:: J'en parlerai à Episkopos Lydia au prochain symposium, n'ayez crainte. Écoutez : si vous continuez comme ça, vous pourriez avoir un bel avenir en Investigation. Honnêtement.<end>
 
 =>q79_original
 <end>
@@ -582,7 +582,7 @@ C'est logique. Je suppose qu'on a vraiment oublié ça, et ça expliquerait pour
 Here, ::He hands you three hundred stygian coins.:: take this, $(#brother/sister). You earned it within mere minutes! ::He smiles.:: Apex, just apex.<end>
 
 =>q97
-Tiens, ::Il vous donne trois cents pièces de monnaie.:: prends ça, $(#brother/sister). Tu l'as gagné en quelques minutes ! ::Il sourit.:: Apex, juste apex.<end>
+Tenez, ::Il vous tend trois cents pièces stygiennes.:: prenez ça, $(#frère/sœur). Vous l'avez gagné en quelques minutes ! ::Il sourit.:: Apex, rien que de l'apex.<end>
 
 =>a98_original
 Excuse me, I need something analyzed. ::Show him the broken-off spike.::<end>
@@ -594,7 +594,7 @@ Excusez-moi, j'ai besoin d'une analyse. ::Montre-lui la pointe cassée.::<end>
 Take it to Octavia, $(#brother/sister). She'll perform the analysis for you.<end>
 
 =>q99
-Emmenez-le à Octavia, $(#brother/sister). Elle fera l'analyse pour vous.<end>
+Emmenez-le à Octavia, $(#frère/sœur). Elle fera l'analyse pour vous.<end>
 
 =>q100_original
  ::He yawns.:: Now...<end>
@@ -618,7 +618,7 @@ Oui, le pistolet chimique ! Quelque part autour de l'année quatre-vingt-dix-sep
 You see, Harmost Stavros desired all rassophore expeditions in the Deep Caverns to be equipped with several chemical weapons per combat unit during their time down there. The reasons for that were of logistical nature - a combat unit could use naturally occurring caustic chemicals... ehm, *acids* - which are abundant in Deep Caverns and can be obtained from living or environmental sources - and be self-sufficient ammunition-wise, therefore maintaining constant combat capability.<end>
 
 =>q103
-Harmost Stavros a souhaité que toutes les expéditions de rasophore dans le Deep Caverns soient équipées de plusieurs armes chimiques par unité de combat pendant leur temps là-bas. Les raisons pour cela étaient de nature logistique - une unité de combat pourrait utiliser des produits chimiques caustiques naturels... ehm, *acides* - qui sont abondants dans Deep Caverns et peuvent être obtenus à partir de sources vivantes ou environnementales - et être autosuffisants en matière de munitions, de sorte que maintenir une capacité de combat constante.<end>
+Harmost Stavros a souhaité que toutes les expéditions de rassophore dans le Deep Caverns soient équipées de plusieurs armes chimiques par unité de combat pendant leur temps là-bas. Les raisons pour cela étaient de nature logistique - une unité de combat pourrait utiliser des produits chimiques caustiques naturels... ehm, *acides* - qui sont abondants dans Deep Caverns et peuvent être obtenus à partir de sources vivantes ou environnementales - et être autosuffisants en matière de munitions, de sorte que maintenir une capacité de combat constante.<end>
 
 =>a104_original
 Go on...<end>
@@ -648,7 +648,7 @@ Encore une fois, où puis-je entrer ?<end>
 Yes, right! Listen now, $(context.player.Name)... while we are pleased so far with how the prototype turned out it still needs more field testing before it can finally enter production. That is where *you* come in, $(#brother/sister)! I need you to test the weapon - preferably on Lunatics or the Faceless; you had successfully dealt with the former in the past so I have no doubt that you will enjoy the work.<end>
 
 =>q108
-Oui, c'est ça ! Écoutez maintenant, $(context.player.Name)... alors que nous sommes très heureux de la façon dont le prototype s'est avéré, il lui faut encore plus de tests de terrain avant de pouvoir enfin entrer en production. C'est là que vous entrez, $(#brother/sister) ! J'ai besoin que vous testiez l'arme - de préférence sur Lunatics ou le Faceless; vous aviez traité avec succès le premier dans le passé donc je n'ai aucun doute que vous apprécierez le travail.<end>
+Oui, c'est ça ! Écoutez maintenant, $(context.player.Name)... alors que nous sommes très heureux de la façon dont le prototype s'est avéré, il lui faut encore plus de tests de terrain avant de pouvoir enfin entrer en production. C'est là que vous entrez, $(#frère/sœur) ! J'ai besoin que vous testiez l'arme - de préférence sur Lunatics ou le Faceless; vous aviez traité avec succès le premier dans le passé donc je n'ai aucun doute que vous apprécierez le travail.<end>
 
 =>q109_original
 Bottom line is: If you are interested, I can give you XAL-001 right this very moment so that you may test it - with Tchort's guidance, of course. ::He laughs.::<end>
@@ -696,7 +696,7 @@ So what do you say, $(#brother/sister), are you interested in making a contribut
 =>q114
 Par conséquent, je voudrais que vous visitiez cet endroit et fouiner autour et voir ce que vous pouvez trouver, si quelque chose *peut être trouvé. L'installation est située quelque part à l'est de Core City; nous n'avons pas un emplacement exact mais ne devrions pas être trop loin de lui.
 
-Qu'en dites-vous, $(#brother/sister), êtes-vous intéressé à apporter une contribution à l'Institut ?<end>
+Qu'en dites-vous, $(#frère/sœur), êtes-vous intéressé à apporter une contribution à l'Institut ?<end>
 
 =>q115_original
 <end>
@@ -714,7 +714,7 @@ Oui. En fait, j'y suis déjà allé et j'ai les données ici.<end>
 You what...? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants. <end>
 
 =>q117
-Quoi ? Oh, c'est apex, $(#brother/sister) ! Je vais envoyer ça à mes assistants. <end>
+Quoi ? Oh, c'est apex, $(#frère/sœur) ! Je vais envoyer ça à mes assistants. <end>
 
 =>a118_original
 I'll see what I can do about it.<end>
@@ -774,7 +774,7 @@ Vous avez parlé de la conception des protéines. C'est quoi ?<end>
 Eidein pardon me, I suppose I missed explaining that. Protein design is, by definition, a creation of new protein molecules that will fold, or assume a certain shape, to a certain protein structure. And the whole reason why we would seek to do that, $(#brother/sister), is so that we can create proteins with completely new or slightly varied functions.<end>
 
 =>q127
-Eidein pardonnez-moi, je suppose que j'ai manqué d'expliquer ça. La conception des protéines est, par définition, une création de nouvelles molécules protéiques qui se plieront, ou assumeront une certaine forme, à une certaine structure protéique. Et toute la raison pour laquelle nous cherchons à le faire, $(#brother/sister), c'est que nous pouvons créer des protéines avec des fonctions complètement nouvelles ou légèrement variées.<end>
+Eidein pardonnez-moi, je suppose que j'ai manqué d'expliquer ça. La conception des protéines est, par définition, une création de nouvelles molécules protéiques qui se plieront, ou assumeront une certaine forme, à une certaine structure protéique. Et toute la raison pour laquelle nous cherchons à le faire, $(#frère/sœur), c'est que nous pouvons créer des protéines avec des fonctions complètement nouvelles ou légèrement variées.<end>
 
 =>q128_original
 Since proteins are one of the most important biomolecules with numerous functions, you can see why designing new sequences is such an important task. Yes, right... that should be the gist of it. <end>
@@ -826,7 +826,7 @@ Magnifique Tchort ! Je pense qu'ils sont ennuyeux. Je reçois des plaintes const
 And no one has any answers on why this is happening. It just will not stop, $(#brother/sister).<end>
 
 =>q135
-Et personne n'a de réponse sur ce qui se passe. Ça ne s'arrêtera pas, $(#brother/sister).<end>
+Et personne n'a de réponse sur ce qui se passe. Ça ne s'arrêtera pas, $(#frère/sœur).<end>
 
 =>a136_original
 Is there a way for me to get a hold of some chemicals around here?<end>
@@ -926,7 +926,7 @@ Je dois y aller maintenant. Au revoir.<end>
 Tchort guide you, $(#brother/sister). Tchort guide you. ::He yawns.::<end>
 
 =>q151
-Tchort vous guide, $(#brother/sister). Tchort vous guide. ::Il bâille.::<end>
+Tchort vous guide, $(#frère/sœur). Tchort vous guide. ::Il bâille.::<end>
 
 =>a152_original
 I think I'm okay... I'll survive.<end>
@@ -1140,7 +1140,7 @@ J'aime vraiment ça ici à l'Institut. Je pense que j'ai enfin trouvé un endroi
 Apex! I am r-eally happy for you, $(context.player.Name)... um, apex! The Institute is a place of safety, progress and something else I can't remember at the m-oment... but I to find this magnificent in-stituti-on the most apex one in existence.<end>
 
 =>q186
-Apex ! Je suis très heureuse pour toi, $(context.player.Name)... um, apex ! L'Institut est un lieu de sécurité, de progrès et quelque chose d'autre dont je ne me souviens pas au m-oment... mais je dois trouver ce magnifique in-stituti-sur le plus apex existant.<end>
+Apex ! Je suis très content pour vous, $(context.player.Name)... euh, apex ! L'Institute est un lieu de sécurité, de progrès, et d'autre chose dont je ne me souviens plus pour le m-oment... mais il faut que je retrouve ce magnifique in-stituti-on, le plus apex qui soit.<end>
 
 =>a187_original
 I actually think rathounds are kinda cute. There, I said it! I know everyone hates them and wants them dead, but I think they are cute dammit!<end>
@@ -1446,7 +1446,7 @@ Strange... despite me liking the smell of it the taste is just somewhat bland an
 Well... it is what it is, $(#brother/sister). I like this batch but... we are not all the same. But it is only one of many and I hope you will find the others a bit more pleasant than this one. Let us move one to the next sample...<end>
 
 =>q237
-C'est ce que c'est, $(#brother/sister). J'aime ce lot mais... nous ne sommes pas tous les mêmes. Mais c'est seulement l'un des nombreux et j'espère que vous trouverez les autres un peu plus agréable que celui-ci. Passons un à l'échantillon suivant...<end>
+C'est ce que c'est, $(#frère/sœur). J'aime ce lot mais... nous ne sommes pas tous les mêmes. Mais c'est seulement l'un des nombreux et j'espère que vous trouverez les autres un peu plus agréable que celui-ci. Passons un à l'échantillon suivant...<end>
 
 =>a238_original
 Again, this does nothing for me. The taste is as bland as its smell.<end>
@@ -1506,7 +1506,7 @@ Bien... très bien...<end>
 Apex! Just take it easy the next time; I need you alive. ::He laughs.:: Anyway, let us move on, $(#brother/sister)...<end>
 
 =>q247
-Apex ! Calme-toi la prochaine fois, j'ai besoin de toi vivant. ::Il rit.:: Bref, passons à autre chose, $(#brother/sister)...<end>
+Apex ! Calme-toi la prochaine fois, j'ai besoin de toi vivant. ::Il rit.:: Bref, passons à autre chose, $(#frère/sœur)...<end>
 
 =>a248_original
 Good taste... but a bit... too strong...<end>
@@ -1518,7 +1518,7 @@ Bon goût... mais un peu... trop fort...<end>
 Apex! Maybe it wouldn't be too strong if you took it a bit easier; take a sip next time. Anyway, let us move on, $(#brother/sister)...<end>
 
 =>q249
-Apex ! Peut-être qu'il ne serait pas trop fort si vous avez pris un peu plus facile; prendre une gorgée la prochaine fois. Bref, passons à autre chose, $(#brother/sister)...<end>
+Apex ! Peut-être qu'il ne serait pas trop fort si vous avez pris un peu plus facile; prendre une gorgée la prochaine fois. Bref, passons à autre chose, $(#frère/sœur)...<end>
 
 =>a250_original
 Should be... stronger...<end>
@@ -1530,7 +1530,7 @@ Should be... stronger...<end>
 ::He laughs.:: Right... Let us move on, $(#brother/sister), and try to take it a bit easier with the next one please; I need you alive.<end>
 
 =>q251
-::Il rit.:: Droite... Passons à autre chose, $(#brother/sister), et essayons de le prendre un peu plus facilement avec le prochain s'il vous plaît; j'ai besoin de vous vivant.<end>
+::Il rit.:: Droite... Passons à autre chose, $(#frère/sœur), et essayons de le prendre un peu plus facilement avec le prochain s'il vous plaît; j'ai besoin de vous vivant.<end>
 
 =>a252_original
 Too strong... tastes... bad...<end>
@@ -1630,13 +1630,13 @@ Oh, oh, oh. Hello, $(#brother/sister). Tchort is evolution, Tchort is evolution.
 =>q267
 ::Dès qu'il vous a remarqué, l'homme dans un labo blanc ferme un dossier qu'il tentait de lire et vous salue avec une poignée de main ferme. Ses yeux de sang se noient dans la fatigue, quelque chose qui frotte ses yeux, qu'il effectue de temps en temps, tout simplement ne peut pas enlever, mais ne peut que soulager un peu. Pourtant, il semble alerte et assez concentré, et surtout amical pendant votre conversation.::
 
-Oh, oh, oh. Bonjour, $(#brother/sister). Tchort est une évolution, Tchort est une évolution. Je suis l'enquêteur principal Georgis, et je dirige le département de chimie... une partie de l'enquête, au cas où vous ne le saviez pas.<end>
+Oh, oh, oh. Bonjour, $(#frère/sœur). Tchort est l'évolution, Tchort est l'évolution. Je suis Principal Investigator Georgis, et je dirige le département de chimie... une partie d'Investigation, au cas où vous ne le sauriez pas.<end>
 
 =>a268_original
 Evolution is Tchort. I am $(context.player.Name).<end>
 
 =>a268
-Evolution est Tchort. Je suis $(context.player.Name).<end>
+L'évolution est Tchort. Je m'appelle $(context.player.Name).<end>
 
 =>q269_original
 Ah, yes, yes... You helped Efreitor Denzil get the Reaching Man from Lunatics. Yes, right. Eidein was very pleased to have the figurine finally in his hands.
@@ -1670,11 +1670,11 @@ Je suis $(context.player.Name).<end>
 Eidein pardon me, but these *bloody* tremors are getting on my nerves...<end>
 
 =>q273
-Eidein pardonnez-moi, mais ces tremblements montent sur mes nerfs...<end>
+Eidein me pardonne, mais ces *sacrés* tremblements commencent à me taper sur les nerfs...<end>
 
 =>q274_original
 Oh, oh, oh! It's you, $(#brother/sister).<end>
 
 =>q274
-Oh, oh, oh! C'est toi, $(#brother/sister).<end>
+Oh, oh, oh ! C'est vous, $(#frère/sœur).<end>
 

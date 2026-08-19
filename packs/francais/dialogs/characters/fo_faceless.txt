@@ -2,19 +2,19 @@
 ::The quadrupedal Faceless steps forward. His weapon is aimed at you, yet he seems reluctant to immediately open fire, instead opting for an emotionless stare.::<end>
 
 =>q1
-::Le quadrupède s'avance. Son arme vous vise, mais il semble réticent à ouvrir immédiatement le feu, au lieu de choisir un regard sans émotion.::<end>
+::Le Faceless quadrupède s'avance. Son arme vous vise, mais il n'ouvre pas le feu tout de suite : il vous fixe, sans émotion.::<end>
 
 =>a2_original
 ::Give him time to see what his intentions are.::<end>
 
 =>a2
-::Donnez-lui le temps de voir quelles sont ses intentions.::<end>
+::Attendre. Voir ses intentions.::<end>
 
 =>q3_original
 ::He silently holds you at gun point, and for a while nothing happens; nothing but the subtle exchange of glances between his weapons-at-the-ready companions, done in such a curiously responsive manner as if an aspect of some kind of unspoken conversation.::<end>
 
 =>q3
-::Il vous tient silencieusement au point de tir, et pendant un certain temps rien ne se passe; rien que l'échange subtil de regards entre ses armes-à-prêts compagnons, fait d'une manière si curieusement réactive comme si un aspect d'une sorte de conversation non parlée.::<end>
+::Il vous tient en joue, en silence, et un moment rien ne se passe. Rien, sauf un échange de regards entre ses compagnons, armes prêtes : si réactif, si juste, qu'on dirait une conversation sans un mot.::<end>
 
 =>q4_original
 ::He then reaches for something on the inside of the chin of his mask, and soon after that you can hear a crude synthesized voice.:: 
@@ -22,7 +22,7 @@
 Identify yourself.<end>
 
 =>q4
-::Il arrive alors à quelque chose à l'intérieur du menton de son masque, et peu de temps après, vous pouvez entendre une voix grossière synthétisée.::
+::Il glisse alors la main sous le menton de son masque, et peu après s'élève une voix synthétisée, rude.::
 
 Identifiez-vous.<end>
 
@@ -36,25 +36,25 @@ Je suis $(context.player.Name) de South Gate Station.<end>
 What is your business here?<end>
 
 =>q6
-Qu'est-ce que tu fais ici ?<end>
+Que venez-vous faire ici ?<end>
 
 =>a7_original
 The leaders of Foundry want to know why you are here.<end>
 
 =>a7
-Les dirigeants de Foundry veulent savoir pourquoi vous êtes ici.<end>
+Les dirigeants de Foundry veulent savoir pourquoi vous êtes là.<end>
 
 =>q8_original
 ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to their community.<end>
 
 =>q8
-::Il s'arrête brièvement, comme s'il ne savait pas comment procéder.:: Quelque chose de précieux nous a été volé. Nous pensons qu'il aurait pu trouver son chemin vers leur communauté.<end>
+::Il s'interrompt un instant, comme s'il hésitait sur la suite.:: On nous a volé quelque chose de précieux. Nous pensons que cet objet a pu aboutir dans leur communauté.<end>
 
 =>q9_original
 If you can help us locate the missing item, we will be on our way.<end>
 
 =>q9
-Si vous pouvez nous aider à localiser l'élément manquant, nous serons en route.<end>
+Si vous nous aidez à retrouver l'objet disparu, nous partirons.<end>
 
 =>q10_original
 <end>
@@ -66,19 +66,19 @@ Si vous pouvez nous aider à localiser l'élément manquant, nous serons en rout
 Is this what you're after? ::Show him the Acorn.::<end>
 
 =>a11
-C'est ce que tu cherches ? ::Montre-lui le maïs.::<end>
+C'est ce que vous cherchez ? ::Lui montrer l'Acorn.::<end>
 
 =>q12_original
 ::He looks at the sealed container.:: Open it.<end>
 
 =>q12
-::Il regarde le conteneur scellé.:: Ouvre-le.<end>
+::Il regarde le conteneur scellé.:: Ouvrez-le.<end>
 
 =>a13_original
 Um, I still haven't found the way to do so.<end>
 
 =>a13
-Je n'ai toujours pas trouvé le moyen de le faire.<end>
+Euh... je n'ai toujours pas trouvé comment.<end>
 
 =>q14_original
 ::His raspy response comes after a tense delay.:: 
@@ -86,7 +86,7 @@ Je n'ai toujours pas trouvé le moyen de le faire.<end>
 This is not what we're after.<end>
 
 =>q14
-::Sa réponse furieuse vient après un retard tendu.::
+::Sa réponse râpeuse tombe après un silence tendu.::
 
 Ce n'est pas ce que nous cherchons.<end>
 
@@ -94,25 +94,25 @@ Ce n'est pas ce que nous cherchons.<end>
 Can you describe what was stolen, then?<end>
 
 =>a15
-Pouvez-vous décrire ce qui a été volé ?<end>
+Pouvez-vous décrire ce qui a été volé, alors ?<end>
 
 =>q16_original
 We may not tell you this, but the item is very distinct. People who came in contact with it will certainly remember it.<end>
 
 =>q16
-Nous ne pouvons pas vous le dire, mais l'article est très distinct. Ceux qui sont entrés en contact avec elle s'en souviendront certainement.<end>
+Nous ne pouvons pas vous le dire. Mais l'objet est très reconnaissable. Quiconque l'a croisé s'en souviendra.<end>
 
 =>q17_original
 Inquire with the local merchants; the thief who stole it might have attempted to sell it to them.<end>
 
 =>q17
-Informez-vous auprès des marchands locaux; le voleur qui l'a volé aurait peut-être tenté de le leur vendre.<end>
+Renseignez-vous auprès des marchands du coin. Le voleur a pu tenter de le leur vendre.<end>
 
 =>a18_original
 The Tchortists recently stole a peculiar item from one of Coretech's research facilities. It looked like a bluish-gray polyhedron with unusual symbols on its faces. Is that the thing you're looking for?<end>
 
 =>a18
-Les Tchortists ont récemment volé un objet particulier dans l'une des installations de recherche de Coretech. Il ressemblait à un polyèdre bleuté avec des symboles inhabituels sur ses visages. C'est ce que tu cherches ?<end>
+Les Tchortists ont récemment volé un objet particulier dans l'un des labos de recherche de Coretech. Un polyèdre gris-bleu, avec des symboles inhabituels sur ses faces. C'est ce que vous cherchez ?<end>
 
 =>q19_original
 ::He answers after an uncomfortably long pause.:: 
@@ -120,45 +120,45 @@ Les Tchortists ont récemment volé un objet particulier dans l'une des installa
 Providing you're telling the truth, we have no reason to remain here.<end>
 
 =>q19
-::Il répond après une longue pause.::
+::Il répond après une pause trop longue.::
 
-Si vous dites la vérité, nous n'avons aucune raison de rester ici.<end>
+Si vous dites vrai, nous n'avons plus de raison de rester.<end>
 
 =>q20_original
 Take this as a sign of our appreciation for your assistance in this matter. ::He hands you what looks to be a high quality power core.::<end>
 
 =>q20
-Considérez cela comme un signe de notre reconnaissance pour votre aide dans cette affaire. ::Il vous donne ce qui semble être un noyau de puissance de haute qualité.::<end>
+Prenez ceci en gage de notre reconnaissance pour votre aide. ::Il vous tend ce qui ressemble à un noyau d'énergie de haute qualité.::<end>
 
 =>a21_original
 What will you do now?<end>
 
 =>a21
-Que vas-tu faire maintenant ?<end>
+Que ferez-vous maintenant ?<end>
 
 =>q22_original
 The matter is very simple: We will retrieve this item. Those who would stop us from doing so will be dealt with.<end>
 
 =>q22
-La question est très simple : nous allons récupérer cet article. Ceux qui nous empêcheraient de le faire seront traités.<end>
+C'est simple : nous récupérerons cet objet. Quiconque nous en empêchera sera traité en conséquence.<end>
 
 =>q23_original
 Our business here is done.<end>
 
 =>q23
-Notre travail ici est terminé.<end>
+Notre affaire ici est close.<end>
 
 =>a24_original
 Is this item the reason your people have blockaded the Core City?<end>
 
 =>a24
-Est-ce la raison pour laquelle votre peuple a bloqué le Core City ?<end>
+C'est pour cet objet que les vôtres ont bloqué Core City ?<end>
 
 =>q25_original
 While we appreciate your assistance, we must advise you not to investigate this matter further or interfere with our operations near Core City or elsewhere.<end>
 
 =>q25
-Bien que nous apprécions votre aide, nous devons vous conseiller de ne pas enquêter plus avant sur cette question ou d'interférer avec nos opérations près de Core City ou ailleurs.<end>
+Nous apprécions votre aide. Mais nous vous conseillons de ne plus enquêter, et de ne pas interférer avec nos opérations près de Core City, ni ailleurs.<end>
 
 =>a26_original
 Thanks and good luck.<end>
@@ -170,79 +170,79 @@ Merci et bonne chance.<end>
 Good luck to you.<end>
 
 =>q27
-Bonne chance.<end>
+Bonne chance à vous.<end>
 
 =>a28_original
 In that case, I've learned that something rather unusual used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a28
-Dans ce cas, j'ai appris que quelque chose d'anormal était en la possession d'un homme appelé Cornell, le chef des chasseurs acides, un gang de Core City. Cependant, il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où chercher l'objet.<end>
+Dans ce cas, j'ai appris qu'un objet plutôt inhabituel se trouvait entre les mains d'un certain Cornell, le chef des Acid Hunters, un gang de Core City. Il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où le chercher.<end>
 
 =>a29_original
 In that case, the item you seek has to be in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a29
-Dans ce cas, l'objet que vous cherchez doit être en la possession d'un homme appelé Cornell. C'est le chef du gang Acid Hunters qui traîne habituellement dans Core City. À ce stade, il est hautement improbable que l'article soit quelque part près de Foundry.<end>
+Dans ce cas, l'objet que vous cherchez est entre les mains d'un certain Cornell. C'est le chef du gang Acid Hunters, qui traîne d'habitude à Core City. À ce stade, il est très peu probable que l'objet soit encore près de Foundry.<end>
 
 =>a30_original
 I'll get back to looking, then.<end>
 
 =>a30
-Je vais retourner chercher.<end>
+Je vais continuer à chercher, alors.<end>
 
 =>a31_original
 Sorry, I cannot do this.<end>
 
 =>a31
-Désolé, je ne peux pas faire ça.<end>
+Je suis $(#désolé/désolée), je ne peux pas.<end>
 
 =>q32_original
 Very well. Leave us then.<end>
 
 =>q32
-Très bien. Laissez-nous alors.<end>
+Très bien. Laissez-nous, alors.<end>
 
 =>a33_original
 It can't be opened.<end>
 
 =>a33
-Il ne peut pas être ouvert.<end>
+Ça ne s'ouvre pas.<end>
 
 =>a34_original
 Is it the thing you're after or not?<end>
 
 =>a34
-C'est ce que tu cherches ou pas ?<end>
+C'est ce que vous cherchez, ou pas ?<end>
 
 =>a35_original
 If it's that Cube you're looking for, it used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a35
-Si c'est ce Cube que vous cherchez, il était en la possession d'un homme appelé Cornell, le chef des chasseurs acides, un gang de Core City. Cependant, il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où chercher l'objet.<end>
+Si c'est ce Cube que vous cherchez, il se trouvait entre les mains d'un certain Cornell, le chef des Acid Hunters, un gang de Core City. Il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où le chercher.<end>
 
 =>a36_original
 If it's that Cube you're looking for, I can tell you now that this item is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a36
-Si c'est ce Cube que vous cherchez, je peux vous dire maintenant que cet objet est en la possession d'un homme appelé Cornell. C'est le chef du gang Acid Hunters qui traîne habituellement dans Core City. À ce stade, il est hautement improbable que l'article soit quelque part près de Foundry.<end>
+Si c'est ce Cube que vous cherchez, je peux vous le dire : l'objet est entre les mains d'un certain Cornell. C'est le chef du gang Acid Hunters, qui traîne d'habitude à Core City. À ce stade, il est très peu probable que l'objet soit encore près de Foundry.<end>
 
 =>a37_original
 Alright, I'll see what I can do. What was stolen exactly?<end>
 
 =>a37
-Je vais voir ce que je peux faire. Qu'est-ce qui a été volé exactement ?<end>
+D'accord, je vais voir ce que je peux faire. Qu'est-ce qui a été volé, exactement ?<end>
 
 =>a38_original
 Sorry, I cannot do this.<end>
 
 =>a38
-Désolé, je ne peux pas faire ça.<end>
+Je suis $(#désolé/désolée), je ne peux pas.<end>
 
 =>a39_original
 I wanted to talk to you about the item you're looking for.<end>
 
 =>a39
-Je voulais te parler de l'objet que tu cherches.<end>
+Je voulais vous parler de l'objet que vous cherchez.<end>
 
 =>q40_original
 ::After a short pause, he responds.:: 
@@ -252,85 +252,85 @@ How do you know about this?<end>
 =>q40
 ::Après une courte pause, il répond.::
 
-Comment tu sais ça ?<end>
+Comment savez-vous cela ?<end>
 
 =>a41_original
 A traveling merchant you recently interrogated - the one with the two bodyguards you killed - he wrote about what happened on his mobile computer. He too is not among the living anymore, but his logs offered enough information for me to seek you out.<end>
 
 =>a41
-Un marchand itinérant que vous avez interrogé récemment - celui avec les deux gardes du corps que vous avez tués - a écrit sur ce qui s'est passé sur son ordinateur mobile. Lui aussi n'est plus parmi les vivants, mais ses registres m'ont fourni assez d'informations pour vous chercher.<end>
+Un marchand itinérant que vous avez interrogé récemment - celui dont vous avez tué les deux gardes du corps - a consigné ce qui s'est passé sur son ordinateur portable. Lui non plus n'est plus parmi les vivants, mais ses logs m'ont donné assez d'informations pour vous retrouver.<end>
 
 =>q42_original
 What you say did occur. ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to the community nearby.<end>
 
 =>q42
-Ce que vous dites est arrivé. ::Il s'arrête brièvement, comme s'il ne savait pas comment procéder.:: Quelque chose de précieux nous a été volé. Nous pensons qu'il aurait pu trouver son chemin vers la communauté voisine.<end>
+Ce que vous dites s'est produit. ::Il s'interrompt un instant, comme s'il hésitait sur la suite.:: On nous a volé quelque chose de précieux. Nous pensons que cet objet a pu aboutir dans la communauté voisine.<end>
 
 =>q43_original
 If you can help us locate the missing item, we will be on our way.<end>
 
 =>q43
-Si vous pouvez nous aider à localiser l'élément manquant, nous serons en route.<end>
+Si vous nous aidez à retrouver l'objet disparu, nous partirons.<end>
 
 =>a44_original
 The item you seek used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a44
-L'objet que vous cherchez était en possession d'un homme appelé Cornell, le chef des chasseurs acides, un gang de Core City. Cependant, il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où chercher l'objet.<end>
+L'objet que vous cherchez se trouvait entre les mains d'un certain Cornell, le chef des Acid Hunters, un gang de Core City. Il ne l'a plus. Tout ce que je sais, c'est que Foundry n'est pas l'endroit où le chercher.<end>
 
 =>a45_original
 The item you seek is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a45
-L'objet que vous cherchez est en la possession d'un homme appelé Cornell. C'est le chef du gang Acid Hunters qui traîne habituellement dans Core City. À ce stade, il est hautement improbable que l'article soit quelque part près de Foundry.<end>
+L'objet que vous cherchez est entre les mains d'un certain Cornell. C'est le chef du gang Acid Hunters, qui traîne d'habitude à Core City. À ce stade, il est très peu probable que l'objet soit encore près de Foundry.<end>
 
 =>a46_original
 I'll see what I can do. Can you describe the thing that was stolen from you exactly?<end>
 
 =>a46
-Je vais voir ce que je peux faire. Pouvez-vous décrire ce qui vous a été volé exactement ?<end>
+Je vais voir ce que je peux faire. Pouvez-vous décrire exactement ce qu'on vous a volé ?<end>
 
 =>a47_original
 I was merely exploring.<end>
 
 =>a47
-J'explorais simplement.<end>
+Je ne faisais qu'explorer.<end>
 
 =>q48_original
 There's nothing for you to take here. Be on your way.<end>
 
 =>q48
-Il n'y a rien à prendre ici. Allez-y.<end>
+Il n'y a rien à prendre ici. Passez votre chemin.<end>
 
 =>a49_original
 My business is my own.<end>
 
 =>a49
-Mes affaires sont les miennes.<end>
+C'est mon affaire.<end>
 
 =>q50_original
 Your answer is not acceptable. We will give you one more chance.<end>
 
 =>q50
-Votre réponse n'est pas acceptable. Nous vous donnerons encore une chance.<end>
+Votre réponse n'est pas acceptable. Nous vous laissons une dernière chance.<end>
 
 =>a51_original
 And I will tell you again this is no business of yours.<end>
 
 =>a51
-Et je vais vous dire encore une fois que ça ne vous regarde pas.<end>
+Et je vous le répète : ça ne vous regarde pas.<end>
 
 =>a52_original
 ::Attack!::<end>
 
 =>a52
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a53_original
 My name is $(context.player.Name) and I'm a vagrant scavenger.<end>
 
 =>a53
-Mon nom est $(context.player.Name) et je suis un vagabond.<end>
+Je m'appelle $(context.player.Name). Je suis $(#un charognard/une charognarde) sans feu ni lieu.<end>
 
 =>a54_original
 This is no concern of yours.<end>
@@ -342,19 +342,19 @@ This is no concern of yours.<end>
 ::Attack!::<end>
 
 =>a55
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>q56_original
 ::The synthesized voice greets you.:: Did you locate the item?<end>
 
 =>q56
-::La voix synthétisée vous accueille.:: Avez-vous trouvé l'objet ?<end>
+::La voix synthétisée vous accueille.:: Avez-vous localisé l'objet ?<end>
 
 =>a57_original
 Is this what you're after? ::Show him the Acorn.::<end>
 
 =>a57
-C'est ce que tu cherches ? ::Montre-lui le maïs.::<end>
+C'est ce que vous cherchez ? ::Lui montrer l'Acorn.::<end>
 
 =>a58_original
 Not yet, but I have a couple of questions.<end>
@@ -366,7 +366,7 @@ Pas encore, mais j'ai quelques questions.<end>
 No, we will answer no more questions.<end>
 
 =>q59
-Non, nous ne répondrons plus aux questions.<end>
+Non. Nous ne répondrons plus à aucune question.<end>
 
 =>a60_original
 I'm still looking.<end>
@@ -384,19 +384,19 @@ Alors nous n'avons rien à vous dire.<end>
 Our business here is done.<end>
 
 =>q62
-Notre travail ici est terminé.<end>
+Notre affaire ici est close.<end>
 
 =>q63_original
 We have told you already - there is nothing to be found here. Begone.<end>
 
 =>q63
-Nous vous l'avons déjà dit - il n'y a rien à trouver ici. Enlève.<end>
+Nous vous l'avons déjà dit : il n'y a rien à trouver ici. Disparaissez.<end>
 
 =>a64_original
 I've decided to help with locating your stolen property. What was it exactly?<end>
 
 =>a64
-J'ai décidé d'aider à localiser vos biens volés. C'était quoi exactement ?<end>
+J'ai décidé de vous aider à retrouver ce qu'on vous a volé. Qu'est-ce que c'était, exactement ?<end>
 
 =>a65_original
 Can I ask you a question?<end>
@@ -414,5 +414,5 @@ Non.<end>
 Sorry for bothering you. I'll be on my way.<end>
 
 =>a67
-Désolé de vous déranger. Je m'en vais.<end>
+$(#Désolé/Désolée) de vous déranger. Je m'en vais.<end>
 

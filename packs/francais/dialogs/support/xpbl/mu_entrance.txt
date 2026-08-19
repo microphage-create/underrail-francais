@@ -178,7 +178,7 @@ Wesley, il est notre leader ::wheeze::. C'est à lui que tu veux parler. Mais...
 ::[Persuade]:: Considering the importance of the matter I want to discuss with your leader, it would be more dangerous for you *not* to let me in. These waters are turning more and more perilous, and I think you people would want to know more about what's going on.<end>
 
 =>a29
-::[Persuader]:: Compte tenu de l'importance de la question dont je veux discuter avec votre leader, il serait plus dangereux pour vous de ne pas me laisser entrer. Ces eaux deviennent de plus en plus périlleuses, et je pense que vous voudriez en savoir plus sur ce qui se passe.<end>
+::[Persuade]:: Compte tenu de l'importance de la question dont je veux discuter avec votre leader, il serait plus dangereux pour vous de ne pas me laisser entrer. Ces eaux deviennent de plus en plus périlleuses, et je pense que vous voudriez en savoir plus sur ce qui se passe.<end>
 
 =>q30_original
 ::His eyebrows rise a bit and his face relaxes.::
@@ -240,7 +240,7 @@ Je ne suis toujours pas sûr... ::wheeze:: vous devriez être laissé entrer.<en
 ::[Intimidate]:: Bad things are going to happen if you don't let me speak to Wesley.<end>
 
 =>a38
-::[Intimider]:: Les mauvaises choses vont arriver si vous ne me laissez pas parler à Wesley.<end>
+::[Intimidate]:: Les mauvaises choses vont arriver si vous ne me laissez pas parler à Wesley.<end>
 
 =>q39_original
 Ya... threatenin' me?<end>
@@ -322,7 +322,7 @@ Mangez du plomb !<end>
 ::Fight!::<end>
 
 =>a51
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a52_original
 I'm going in whether you freaks like it or not. ::Attack!::<end>
@@ -660,13 +660,13 @@ Protectorate ? Ça me dit quelque chose, mais je ne peux pas... ::wheeze:: Hmm. 
 I'm $(context.player.Name). I come here as a free $(#man/woman) - as a Free Drone.<end>
 
 =>a104
-Je suis $(context.player.Name). Je viens ici comme un $(#man/woman) libre - comme un Drone Libre.<end>
+Je suis $(context.player.Name). Je viens ici comme un $(#homme/femme) libre - comme un Drone Libre.<end>
 
 =>q105_original
 Free Drone? Never heard of it. ::wheeze:: So, why do ya want in, $(#Mr./Ms.) Free?<end>
 
 =>q105
-Drone libre ? Jamais entendu parler. ::wheeze:: Alors, pourquoi veux-tu entrer, $(#Mr./Ms.) Gratuit ?<end>
+Drone libre ? Jamais entendu parler. ::wheeze:: Alors, pourquoi veux-tu entrer, $(#M./Mme) Gratuit ?<end>
 
 =>a106_original
 I'm $(context.player.Name) from the Institute of Tchort.<end>

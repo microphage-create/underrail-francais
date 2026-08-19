@@ -2,7 +2,7 @@
 ::She aims her rifle at you.::<end>
 
 =>q1
-::Elle vise son fusil contre vous.::<end>
+::Elle vous vise au fusil.::<end>
 
 =>q2_original
 <end>
@@ -14,19 +14,19 @@
 So... you're that corporal $(#guy/girl). <end>
 
 =>q3
-Donc... vous êtes ce caporal $(#guy/girl). <end>
+Alors... vous êtes ce caporal. <end>
 
 =>q4_original
 Hm. We'll see...<end>
 
 =>q4
-Hm. Nous verrons...<end>
+Hm. On verra...<end>
 
 =>q5_original
 So... you're the new $(#guy/girl). <end>
 
 =>q5
-Donc... tu es le nouveau $(#guy/girl). <end>
+Alors... vous êtes $(#le nouveau/la nouvelle). <end>
 
 =>q6_original
 <end>
@@ -38,7 +38,7 @@ Donc... tu es le nouveau $(#guy/girl). <end>
 This way, newbie!<end>
 
 =>q7
-Par ici, nouveau !<end>
+Par ici, la recrue !<end>
 
 =>q8_original
 Get ready. They're coming...<end>
@@ -56,31 +56,31 @@ Préparez-vous. Ils arrivent...<end>
 Move! You're messing up my aim.<end>
 
 =>q10
-Bouge ! Tu gâches mon but.<end>
+Bougez ! Vous me gênez la visée.<end>
 
 =>q11_original
 ::Looks through the scope.::<end>
 
 =>q11
-::Regarde à travers la portée.::<end>
+::Regarde à travers la lunette.::<end>
 
 =>q12_original
 Frag the bastards!<end>
 
 =>q12
-Frag les salauds !<end>
+Fraggez ces salauds !<end>
 
 =>q13_original
 Worry about your own hide...<end>
 
 =>q13
-Inquiète-toi de ta propre peau...<end>
+Occupez-vous de votre peau...<end>
 
 =>q14_original
 Congratulations, you're alive. Now report to Chief Briggs.<end>
 
 =>q14
-Félicitations, vous êtes en vie. Faites maintenant rapport au chef Briggs.<end>
+Félicitations, vous êtes en vie. Maintenant, rapport au Chief Briggs.<end>
 
 =>q15_original
 <end>
@@ -92,25 +92,25 @@ Félicitations, vous êtes en vie. Faites maintenant rapport au chef Briggs.<end
 Fraggin' pirate scum...<end>
 
 =>q16
-C'est une ordure de pirate...<end>
+Fraggin' racaille pirate...<end>
 
 =>q17_original
 Fraggin' savages...<end>
 
 =>q17
-Des sauvages frénétiques...<end>
+Fraggin' sauvages...<end>
 
 =>q18_original
 ::Tracks the rampaging Naga Protector through her scope.:: Can't get a clear fraggin' shot...<end>
 
 =>q18
-::Trace le Naga Protector à travers son champ d'application.:: Je n'arrive pas à me tirer dessus...<end>
+::Suit le Naga Protector déchaîné dans sa lunette.:: Impossible d'aligner un putain de tir...<end>
 
 =>q19_original
 Go and pack your bags. We're getting outta Hell's Gut.<end>
 
 =>q19
-Va faire tes valises. On s'en va.<end>
+Allez faire vos sacs. On se tire du Hell's Gut.<end>
 
 =>q20_original
 <end>
@@ -128,19 +128,19 @@ Bon débarras. <end>
 ::She returns to scanning the dim horizon.::<end>
 
 =>q22
-::Elle revient à scanner l'horizon.::<end>
+::Elle reprend son balayage de l'horizon sombre.::<end>
 
 =>q23_original
 You shouldn't be here anymore. <end>
 
 =>q23
-Tu ne devrais plus être là. <end>
+Vous n'avez plus rien à faire ici. <end>
 
 =>q24_original
 ::Cold air surrounds the roof. Yahota stands still, gazing at the sea, her cloak flapping in the wind - which doesn't seem to bother her at all.::<end>
 
 =>q24
-::L'air froid entoure le toit. Yahota reste immobile, regardant la mer, son manteau battant dans le vent - ce qui ne semble pas la déranger du tout.::<end>
+::L'air froid entoure le toit. Yahota ne bouge pas, le regard sur la mer, son manteau claque dans le vent - ça ne semble pas la déranger le moins du monde.::<end>
 
 =>q25_original
 ::She glances at you, but somewhat incompletely, as though allocating anything more than the edge of her peripheral vision to identify you is redundant.::
@@ -148,9 +148,9 @@ Tu ne devrais plus être là. <end>
 It's you. What is it?<end>
 
 =>q25
-::Elle vous regarde, mais un peu incomplètement, comme si l'attribution de quelque chose de plus que le bord de sa vision périphérique pour vous identifier était redondante.::
+::Elle vous jette un coup d'œil, incomplet : consacrer plus que le bord de sa vision périphérique à vous identifier serait du gaspillage.::
 
-C'est toi. Qu'est-ce que c'est ?<end>
+C'est vous. Qu'est-ce qu'il y a ?<end>
 
 =>a26_original
 Hey there.<end>
@@ -162,13 +162,13 @@ Salut.<end>
 ::She nods, ::<end>
 
 =>q27
-::Elle hoche la tête,::<end>
+::Elle hoche la tête, ::<end>
 
 =>q28_original
 ::her eyes scanning the vast gloomy sea.::<end>
 
 =>q28
-::Ses yeux scrutent la vaste mer sombre.::<end>
+::les yeux sur l'étendue sombre de la mer.::<end>
 
 =>q29_original
 <end>
@@ -180,31 +180,31 @@ Salut.<end>
 I'm interested in enemy activity.<end>
 
 =>a30
-Je m'intéresse aux activités ennemies.<end>
+Je veux savoir ce que fait l'ennemi.<end>
 
 =>q31_original
 The sea's looking calm at the moment. No enemy activity whatsoever.<end>
 
 =>q31
-La mer est calme en ce moment. Aucune activité ennemie.<end>
+La mer est calme, pour le moment. Aucune activité ennemie.<end>
 
 =>a32_original
 There was something else I wanted to ask you...<end>
 
 =>a32
-Il y avait autre chose que je voulais te demander...<end>
+J'avais autre chose à vous demander...<end>
 
 =>a33_original
 Thanks for the info. I'll leave you to your duty.<end>
 
 =>a33
-Merci pour les infos. Je vous laisse à votre devoir.<end>
+Merci pour les infos. Je vous laisse à votre poste.<end>
 
 =>a34_original
 I'll leave you to your duty.<end>
 
 =>a34
-Je vous laisse à votre devoir.<end>
+Je vous laisse à votre poste.<end>
 
 =>q35_original
 Pirates or savages?<end>
@@ -228,7 +228,7 @@ Pirates.<end>
 The whole south-eastern part of the sea is pretty much dead. Barely any pirate activity there.<end>
 
 =>q38
-Toute la partie sud-est de la mer est à peu près morte. A peine toute activité de pirate là-bas.<end>
+Tout le sud-est de la mer est quasiment mort. À peine un pirate, là-bas.<end>
 
 =>q39_original
 <end>
@@ -258,7 +258,7 @@ Et les indigènes ?<end>
 Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
 
 =>q43
-Je n'ai pas remarqué d'activité dernièrement. Pas de lumières, de bateaux ou autre chose du genre. <end>
+Rien vu bouger, ces derniers temps. Pas de lumières, pas de bateaux, rien de ce genre. <end>
 
 =>q44_original
 <end>
@@ -276,13 +276,13 @@ Et les pirates ?<end>
 Not much activity lately. Much fewer moving lights and boats as well. <end>
 
 =>q46
-Pas beaucoup d'activité dernièrement. Beaucoup moins de lumières et de bateaux. <end>
+Pas grand-chose, ces derniers temps. Beaucoup moins de lumières et de bateaux, aussi. <end>
 
 =>q47_original
 This might be the calm before the storm.<end>
 
 =>q47
-C'est peut-être le calme avant la tempête.<end>
+Ça sent le calme avant la tempête.<end>
 
 =>q48_original
 <end>
@@ -294,31 +294,31 @@ C'est peut-être le calme avant la tempête.<end>
 Less activity than before the first attack, but still plenty.<end>
 
 =>q49
-Moins d'activité qu'avant la première attaque, mais encore beaucoup.<end>
+Moins d'activité qu'avant la première attaque. Il en reste pourtant largement assez.<end>
 
 =>q50_original
 Still lots of activity. There's a lot of them there. <end>
 
 =>q50
-Toujours beaucoup d'activité. Il y en a beaucoup. <end>
+Toujours beaucoup d'activité. Ils sont nombreux, là-bas. <end>
 
 =>q51_original
 Lots of activity there ever since we moved in. They are probably preparing for another attack.<end>
 
 =>q51
-Beaucoup d'activité là-bas depuis notre arrivée. Ils se préparent probablement à une autre attaque.<end>
+Beaucoup d'activité là-bas depuis qu'on s'est installés. Ils préparent probablement une autre attaque.<end>
 
 =>q52_original
 Not much activity over at the pirate base. Their patrols are becoming rather sparse as well.<end>
 
 =>q52
-Pas beaucoup d'activité à la base des pirates. Leurs patrouilles sont de plus en plus rares.<end>
+Pas grand-chose du côté de la base pirate. Leurs patrouilles aussi se font rares.<end>
 
 =>q53_original
 Lots of pirate jet ski patrols about. They could be up to something<end>
 
 =>q53
-Beaucoup de patrouilles de jet de pirate. Ils pourraient faire quelque chose.<end>
+Beaucoup de patrouilles en jet ski, côté pirates. Ils mijotent peut-être quelque chose<end>
 
 =>q54_original
  again<end>
@@ -342,67 +342,67 @@ Sauvages.<end>
 Can you see the Ferryman anywhere?<end>
 
 =>a57
-Pouvez-vous voir le Ferryman n'importe où ?<end>
+Vous voyez le Ferryman, quelque part ?<end>
 
 =>q58_original
 No. He sailed north into savage territory before I lost sight of him.<end>
 
 =>q58
-C'est pas vrai. Il a navigué vers le nord en territoire sauvage avant que je ne perde la vue.<end>
+Non. Il a filé au nord, en territoire sauvage, avant que je le perde.<end>
 
 =>q59_original
 But he should be in my scope again soon. <end>
 
 =>q59
-Mais il devrait être bientôt dans mon champ d'application. <end>
+Mais il devrait bientôt revenir dans ma lunette. <end>
 
 =>q60_original
 He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again.<end>
 
 =>q60
-Il suit une route assez cohérente, visitant l'île muette et la base des pirates avant de repartir vers le nord.<end>
+Il suit une route assez régulière : l'île des muties, la base pirate, puis il remonte au nord.<end>
 
 =>q61_original
 ::She nods.:: He's docked at the <end>
 
 =>q61
-::Elle hoche la tête.:: Il est amarré au <end>
+::Elle hoche la tête.:: Il est amarré <end>
 
 =>q62_original
 pirate base. <end>
 
 =>q62
-base pirate. <end>
+à la base pirate. <end>
 
 =>q63_original
 He's lying on the ground and doesn't appear to be moving. Looks fragged to me.<end>
 
 =>q63
-Il est allongé sur le sol et ne semble pas bouger. Ça m'a l'air froissé.<end>
+Il est allongé au sol. Il ne bouge pas. Il a l'air mort, d'ici.<end>
 
 =>q64_original
 pier on the southern side of the mutie island. <end>
 
 =>q64
-quai du côté sud de l'île muette. <end>
+au quai sud de l'île des muties. <end>
 
 =>a65_original
 What can you see from here?<end>
 
 =>a65
-Que voyez-vous d'ici ?<end>
+Qu'est-ce que vous voyez, d'ici ?<end>
 
 =>q66_original
 You got eyes as well...<end>
 
 =>q66
-Tu as aussi des yeux...<end>
+Vous avez des yeux, vous aussi...<end>
 
 =>a67_original
 ::[Perception] Look around.:: Let's put them to the test... Well, there's a... a spider, a giant spider on that island northwest of here, for instance.<end>
 
 =>a67
-::[Perception] Regarde.:: Mettez-les à l'épreuve... Il y a une... une araignée, une araignée géante sur cette île au nord-ouest d'ici, par exemple.<end>
+::[Perception]:: Regarder autour.:: On va les mettre à l'épreuve... Il y a... une araignée, une araignée géante sur l'île au nord-ouest, par exemple.<end>
 
 =>q68_original
 ::She looks northwest without squinting.::
@@ -410,39 +410,39 @@ Tu as aussi des yeux...<end>
 Yes, I see it. That's a... good catch.<end>
 
 =>q68
-::Elle a l'air du nord-ouest sans souder.::
+::Elle regarde au nord-ouest, sans plisser les yeux.::
 
-Oui, je le vois. C'est une bonne prise.<end>
+Oui, je la vois. Belle... prise.<end>
 
 =>a69_original
 Still, I need some info on the surrounding locations and what is and has been going on around here.<end>
 
 =>a69
-J'ai besoin d'informations sur les environs et ce qui se passe et ce qui se passe ici.<end>
+J'ai quand même besoin d'infos sur les alentours. Ce qui s'y passe, et ce qui s'y est passé.<end>
 
 =>q70_original
 ::She inhales and exhales slowly as her eyes are panning across the scenery.:: South, it's nothing but the Jaws, as you locals call it, <end>
 
 =>q70
-::Elle inhale et expire lentement alors que ses yeux sillonnent le paysage.:: Sud, ce n'est rien d'autre que les Jaws, comme vous l'appellez, <end>
+::Elle inspire, expire lentement, le regard qui balaie le paysage.:: Au sud, rien d'autre que les Jaws, comme vous dites par ici, <end>
 
 =>q71_original
 and that glowing monolith on the cliff.<end>
 
 =>q71
-et ce monolithe brillant sur la falaise.<end>
+et ce monolithe lumineux sur la falaise.<end>
 
 =>q72_original
 West, mutie island, you already know. <end>
 
 =>q72
-Ouest, île muette, tu sais déjà. <end>
+À l'ouest, l'île des muties, vous connaissez déjà. <end>
 
 =>q73_original
 Saw no activity after you left.<end>
 
 =>q73
-Aucune activité après votre départ.<end>
+Rien vu bouger après votre départ.<end>
 
 =>q74_original
 East and southeast, pirate territory: <end>
@@ -460,13 +460,13 @@ Peu ou pas d'activité. <end>
 North - <end>
 
 =>q76
-Nord <end>
+Nord - <end>
 
 =>q77_original
 now that's the... fraggin' savage land. <end>
 
 =>q77
-C'est la terre sauvage. <end>
+là, c'est le... putain de territoire sauvage. <end>
 
 =>q78_original
 <end>
@@ -478,7 +478,7 @@ C'est la terre sauvage. <end>
 Haven't noticed any activity lately. No moving lights or anything of the sort. <end>
 
 =>q79
-Je n'ai pas remarqué d'activité dernièrement. Pas de lumières qui bougent. <end>
+Rien vu bouger, ces derniers temps. Pas de lumières, rien de ce genre. <end>
 
 =>q80_original
 North-east, <end>
@@ -490,7 +490,7 @@ Nord-est, <end>
 that's where the horticulture center is located. You know all about that.<end>
 
 =>q81
-C'est là que se trouve le centre d'horticulture. Tu sais tout ça.<end>
+c'est là qu'est le centre d'horticulture. Vous savez déjà tout ça.<end>
 
 =>q82_original
 <end>
@@ -502,7 +502,7 @@ C'est là que se trouve le centre d'horticulture. Tu sais tout ça.<end>
 ::She pauses.:: There's also this guy cruising around on a crane ferry. Old man. Armed. Refused to cooperate. Could be a pirate, as I've seen him sail into their port on numerous occasions. I've also seen him go north into savage territory.<end>
 
 =>q83
-::Elle fait une pause.:: Il y a aussi ce type qui navigue sur une grue. Vieil homme. Armés. Refusé de coopérer. Ça pourrait être un pirate, comme je l'ai vu naviguer dans leur port à de nombreuses reprises. Je l'ai aussi vu aller au nord en territoire sauvage.<end>
+::Elle marque une pause.:: Il y a aussi ce type qui circule sur un ferry-grue. Vieil homme. Armé. A refusé de coopérer. Ça pourrait être un pirate : je l'ai vu rentrer dans leur port plus d'une fois. Je l'ai aussi vu filer au nord, en territoire sauvage.<end>
 
 =>q84_original
 ::She falls silent for a moment.::
@@ -512,7 +512,7 @@ Gotta keep my eyes peeled at all times. It appears as though you can see a lot f
 =>q84
 ::Elle se tait un instant.::
 
-Je dois garder mes yeux épluchés en tout temps. Il semble que vous pouvez voir beaucoup d'ici, mais tout est beaucoup plus proche que vous le pensez. Reste en alerte.<end>
+Faut que je reste aux aguets, tout le temps. On croirait voir loin, d'ici. Tout est beaucoup plus près qu'on ne le pense. Faut rester alerte.<end>
 
 =>q85_original
 ::She turns away.::<end>
@@ -524,19 +524,19 @@ Je dois garder mes yeux épluchés en tout temps. Il semble que vous pouvez voir
 there's plenty of vegetation there. And some kind of... fraggin' mist, damned if I know what it is. Can't see much there, generally.<end>
 
 =>q86
-Il y a beaucoup de végétation. Et une sorte de... brume, si je sais ce que c'est. On n'y voit pas grand chose, en général.<end>
+il y a pas mal de végétation. Et une sorte de... putain de brume, je saurais pas dire ce que c'est. On n'y voit pas grand-chose, en général.<end>
 
 =>q87_original
 Not much activity lately. Much fewer moving lights as well. <end>
 
 =>q87
-Pas beaucoup d'activité dernièrement. Beaucoup moins de lumières mobiles aussi. <end>
+Pas grand-chose, ces derniers temps. Beaucoup moins de lumières, aussi. <end>
 
 =>q88_original
 This might be the calm before the storm.<end>
 
 =>q88
-C'est peut-être le calme avant la tempête.<end>
+Ça sent le calme avant la tempête.<end>
 
 =>q89_original
 <end>
@@ -548,31 +548,31 @@ C'est peut-être le calme avant la tempête.<end>
 Less activity than before the first attack, but still plenty.<end>
 
 =>q90
-Moins d'activité qu'avant la première attaque, mais encore beaucoup.<end>
+Moins d'activité qu'avant la première attaque. Il en reste pourtant largement assez.<end>
 
 =>q91_original
 Still lots of activity. There's a lot of them. <end>
 
 =>q91
-Toujours beaucoup d'activité. Il y en a beaucoup. <end>
+Toujours beaucoup d'activité. Ils sont nombreux. <end>
 
 =>q92_original
 Lots of activity there ever since we moved in. <end>
 
 =>q92
-Beaucoup d'activité là-bas depuis notre arrivée. <end>
+Beaucoup d'activité là-bas depuis qu'on s'est installés. <end>
 
 =>q93_original
 There's a few spots which are well-illuminated; that must be where their villages are.<end>
 
 =>q93
-Il y a quelques endroits qui sont bien illuminés; c'est là que se trouvent leurs villages.<end>
+Il y a quelques coins bien éclairés. Ça doit être leurs villages.<end>
 
 =>q94_original
 the savage land. <end>
 
 =>q94
-la terre sauvage. <end>
+le territoire sauvage. <end>
 
 =>q95_original
 Lots of activity after the attack.<end>
@@ -584,13 +584,13 @@ Beaucoup d'activité après l'attaque.<end>
 Lots of lights, lots of jets patrolling around. <end>
 
 =>q96
-Beaucoup de lumières, beaucoup de jets qui patrouillent. <end>
+Beaucoup de lumières, beaucoup de jets en patrouille. <end>
 
 =>q97_original
 Also, the whole eastern side of the Black Sea is basalt rock, but there's also a lot of that red vegetation there.<end>
 
 =>q97
-De plus, tout le côté est du Black Sea est une roche basalte, mais il y a aussi beaucoup de végétation rouge.<end>
+Et tout le flanc est du Black Sea, c'est du basalte. Mais il y a aussi pas mal de cette végétation rouge.<end>
 
 =>q98_original
 <end>
@@ -602,7 +602,7 @@ De plus, tout le côté est du Black Sea est une roche basalte, mais il y a auss
 West, on that island, that's where the muties live. Not much activity there, generally.<end>
 
 =>q99
-Ouest, sur cette île, c'est là que vivent les muties. Il n'y a pas beaucoup d'activité, en général.<end>
+À l'ouest, sur cette île, c'est là que vivent les muties. Pas grand-chose qui bouge, en général.<end>
 
 =>a100_original
 You've got better eyes than me.<end>
@@ -620,49 +620,49 @@ Vous avez de meilleurs yeux que moi.<end>
 I need some info on the surrounding locations and what is and has been going on around here.<end>
 
 =>a102
-J'ai besoin d'informations sur les environs et ce qui se passe et ce qui se passe ici.<end>
+J'ai besoin d'infos sur les alentours. Ce qui s'y passe, et ce qui s'y est passé.<end>
 
 =>a103_original
 I suppose I do.<end>
 
 =>a103
-Je suppose que oui.<end>
+J'imagine, oui.<end>
 
 =>q104_original
 Of course you do.<end>
 
 =>q104
-Bien sûr que si.<end>
+Évidemment.<end>
 
 =>a105_original
 Just answer the damn question. I need information.<end>
 
 =>a105
-Réponds à cette foutue question. J'ai besoin d'informations.<end>
+Répondez à la question, bon sang. J'ai besoin d'informations.<end>
 
 =>q106_original
 Watch it.<end>
 
 =>q106
-Regarde.<end>
+Attention à ce que vous dites.<end>
 
 =>a107_original
 Tell me about the surrounding areas.<end>
 
 =>a107
-Parlez-moi des environs.<end>
+Parlez-moi des alentours.<end>
 
 =>q108_original
 South, it's the Jaws <end>
 
 =>q108
-Sud, c'est les Jaws <end>
+Au sud, ce sont les Jaws <end>
 
 =>a109_original
 You don't seem very pleased with me being around.<end>
 
 =>a109
-Tu n'as pas l'air très contente que je sois là.<end>
+Je n'ai pas l'impression que ma présence vous enchante.<end>
 
 =>q110_original
 ::She remains silent...::<end>
@@ -674,37 +674,37 @@ Tu n'as pas l'air très contente que je sois là.<end>
 ::...and continues staring at the sea.::<end>
 
 =>q111
-::...et continue à regarder la mer.::<end>
+::...et continue de fixer la mer.::<end>
 
 =>q112_original
 Company is distraction. I don't like distractions.<end>
 
 =>q112
-La compagnie est une distraction. Je n'aime pas les distractions.<end>
+La compagnie, c'est une distraction. Je n'aime pas les distractions.<end>
 
 =>q113_original
 But you're alright, I guess.<end>
 
 =>q113
-Mais ça va, je suppose.<end>
+Mais vous passez, je suppose.<end>
 
 =>q114_original
 You're tolerable.<end>
 
 =>q114
-Vous êtes tolérable.<end>
+Vous êtes supportable.<end>
 
 =>q115_original
 But you fight well, so you're worth something. Guess I can tolerate you.<end>
 
 =>q115
-Mais tu te bats bien, donc tu vaux quelque chose. Je peux te tolérer.<end>
+Mais vous vous battez bien, donc vous valez quelque chose. Je peux vous supporter.<end>
 
 =>a116_original
 Are you bothered by strange dreams as well?<end>
 
 =>a116
-Etes-vous dérangé par des rêves étranges ?<end>
+Les rêves étranges vous gênent, vous aussi ?<end>
 
 =>q117_original
 ::She shakes her head...::<end>
@@ -716,19 +716,19 @@ Etes-vous dérangé par des rêves étranges ?<end>
 No. I don't dream.<end>
 
 =>q118
-C'est pas vrai. Je ne rêve pas.<end>
+Non. Je ne rêve pas.<end>
 
 =>a119_original
 You do sleep, right?<end>
 
 =>a119
-Tu dors, hein ?<end>
+Vous dormez tout de même, n'est-ce pas ?<end>
 
 =>q120_original
 ::She glances at you.:: I sleep in short, one and a half hour phases. That's one full sleep cycle. Couple of times a day. Always have.<end>
 
 =>q120
-::Elle te regarde.:: Je dors en petites phases d'une heure et demie. Un cycle de sommeil complet. Deux fois par jour. Comme toujours.<end>
+::Elle vous jette un coup d'œil.:: Je dors par cycles courts d'une heure et demie. Un cycle complet. Plusieurs fois par jour. Toujours été comme ça.<end>
 
 =>q121_original
 If I do dream... ::She slowly shakes her head.:: I don't remember it.<end>
@@ -740,13 +740,13 @@ Si je rêve... ::Elle secoue lentement la tête.:: Je ne m'en souviens pas.<end>
 You mean, you don't sleep at all?<end>
 
 =>a122
-Tu ne dors pas du tout ?<end>
+Vous voulez dire que vous ne dormez pas du tout ?<end>
 
 =>a123_original
 I wanted to ask you about your relationship with Chief Briggs.<end>
 
 =>a123
-Je voulais vous poser des questions sur votre relation avec le chef Briggs.<end>
+Je voulais vous interroger sur votre relation avec Chief Briggs.<end>
 
 =>q124_original
 ::She gives you a cold stare.::
@@ -754,7 +754,7 @@ Je voulais vous poser des questions sur votre relation avec le chef Briggs.<end>
 <end>
 
 =>q124
-::Elle te regarde froidement.::
+::Elle vous fusille du regard.::
 
 <end>
 
@@ -762,13 +762,13 @@ Je voulais vous poser des questions sur votre relation avec le chef Briggs.<end>
 Bri--? ::She shakes her head.:: No. We won't be talking about the chief right now. <end>
 
 =>q125
-- Oui. ::Elle secoue la tête.:: No. On ne parlera pas du chef. <end>
+Bri-- ? ::Elle secoue la tête.:: Non. On ne parlera pas du chef. Pas maintenant. <end>
 
 =>q126_original
 No... C'mon. ::She turns to the sea.::<end>
 
 =>q126
-Allez. ::Elle se tourne vers la mer.::<end>
+Non... Laissez tomber. ::Elle se tourne vers la mer.::<end>
 
 =>q127_original
 
@@ -778,19 +778,19 @@ What's there to ask?<end>
 =>q127
 
 
-Qu'y a-t-il à demander ?<end>
+Qu'est-ce qu'il y aurait à demander ?<end>
 
 =>a128_original
 Are you his daughter? I mean, you both have that silent type persona about you, and you kinda even look alike.<end>
 
 =>a128
-Vous êtes sa fille ? Je veux dire, vous avez tous les deux ce personnage silencieux sur vous, et vous vous ressemblez un peu.<end>
+Vous êtes sa fille ? Vous avez tous les deux ce côté silencieux, et vous vous ressemblez un peu.<end>
 
 =>q129_original
 ::Her frigid stare persists.::<end>
 
 =>q129
-::Son regard frigide persiste.::<end>
+::Son regard reste de glace.::<end>
 
 =>q130_original
 ::And then she looks away.::
@@ -798,7 +798,7 @@ Vous êtes sa fille ? Je veux dire, vous avez tous les deux ce personnage silenc
 <end>
 
 =>q130
-::Et puis elle regarde ailleurs.::
+::Puis elle détourne les yeux.::
 
 <end>
 
@@ -806,25 +806,25 @@ Vous êtes sa fille ? Je veux dire, vous avez tous les deux ce personnage silenc
 Damn, you got dumb questions. Fraggin' dumb.<end>
 
 =>q131
-Vous avez des questions stupides. C'est stupide.<end>
+Vous posez des questions débiles. Fraggin' débiles.<end>
 
 =>a132_original
 Are you related in any way? Some of us have noticed some... similarities.<end>
 
 =>a132
-Avez-vous un lien de parenté ? Certains d'entre nous ont remarqué quelques... similitudes.<end>
+Vous avez un lien de parenté ? Certains d'entre nous ont remarqué... des ressemblances.<end>
 
 =>a133_original
 Are you two lovers? He asked to see you straight away after returning from Core City, and frankly, you do look like his type.<end>
 
 =>a133
-Vous êtes amoureux ? Il a demandé de vous voir immédiatement après être revenu de Core City, et franchement, vous ressemblez à son genre.<end>
+Vous êtes amants ? Il a demandé à vous voir tout de suite en rentrant de Core City, et franchement, vous avez l'air de son genre.<end>
 
 =>q134_original
 Am I his... *what*...?<end>
 
 =>q134
-Je suis son...<end>
+Je suis son... *quoi*... ?<end>
 
 =>q135_original
 ::Her lips tighten. She moves toward you; you expect assault but instead she calmly leans forward and whispers into your ear...::
@@ -832,27 +832,27 @@ Je suis son...<end>
 Richard Briggs is the chief of Aegis Incorporated and my commanding officer. Nothing more, nothing less. If you imply anything different one more time or spread any rumors, any rumors at all, you or anyone else, then know that I can easily hit a fast moving head full of *crap* out there where no one will know what happened.<end>
 
 =>q135
-::Ses lèvres se serrent. Elle se dirige vers vous; vous vous attendez à l'assaut, mais au lieu de cela, elle se penche calmement vers l'avant et murmure dans votre oreille...::
+::Ses lèvres se pincient. Elle s'approche ; vous vous attendez à un coup, mais elle se penche calmement et vous murmure à l'oreille...::
 
-Richard Briggs est le chef de Aegis Incorporated et mon commandant. Rien de plus, rien de moins. Si vous insinuez quelque chose de différent une fois de plus ou répandez des rumeurs, des rumeurs du tout, vous ou n'importe qui d'autre, alors sachez que je peux facilement frapper une tête en mouvement rapide plein de *crap* là où personne ne saura ce qui s'est passé.<end>
+Richard Briggs est le chief d'Aegis Incorporated et mon officier commandant. Rien de plus, rien de moins. Si vous insinuez autre chose une fois de plus, ou si vous colportez la moindre rumeur, la moindre, vous ou n'importe qui d'autre, sachez que je peux facilement descendre une tête qui bouge vite, pleine de *merde*, là-bas où personne ne saura ce qui s'est passé.<end>
 
 =>a136_original
 Listen, everyone's already talking about it.<end>
 
 =>a136
-Tout le monde en parle déjà.<end>
+Écoutez, tout le monde en parle déjà.<end>
 
 =>q137_original
 Really now? Are they?<end>
 
 =>q137
-Vraiment maintenant ? Vraiment ?<end>
+Ah oui ? Ils en parlent ?<end>
 
 =>q138_original
 Outta my sight, fraggin' insect.<end>
 
 =>q138
-Hors de ma vue, insecte.<end>
+Hors de ma vue, putain d'insecte.<end>
 
 =>q139_original
 <end>
@@ -876,19 +876,19 @@ Serpent.<end>
 ::Say nothing.::<end>
 
 =>a142
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>a143_original
 Mhm. I'll try not to.<end>
 
 =>a143
-Oui. Je vais essayer de ne pas.<end>
+Mmh. J'éviterai.<end>
 
 =>a144_original
 I won't.<end>
 
 =>a144
-Je ne le ferai pas.<end>
+Je n'en ferai rien.<end>
 
 =>q145_original
 ::She looks at you for a few more seconds.::
@@ -896,7 +896,7 @@ Je ne le ferai pas.<end>
 <end>
 
 =>q145
-::Elle te regarde encore quelques secondes.::
+::Elle vous fixe encore quelques secondes.::
 
 <end>
 
@@ -904,19 +904,19 @@ Je ne le ferai pas.<end>
 Sorry.<end>
 
 =>a146
-Désolé.<end>
+Pardon.<end>
 
 =>a147_original
 ::Say nothing.::<end>
 
 =>a147
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>a148_original
 Don't you threaten me, you featureless slag!<end>
 
 =>a148
-Ne me menacez pas, espèce de scotch !<end>
+Ne me menacez pas, espèce de scorie sans visage !<end>
 
 =>a149_original
 Nothing.<end>
@@ -934,7 +934,7 @@ Rien.<end>
 Tell me about yourself.<end>
 
 =>a151
-Parle-moi de toi.<end>
+Parlez-moi de vous.<end>
 
 =>q152_original
 <end>
@@ -948,9 +948,9 @@ Parle-moi de toi.<end>
 What? What? I'm a sec-specialist currently on guard duty trying to keep us all alive, okay. I'd rather be moving around like usually but... frag it, it's what I gotta do.<end>
 
 =>q153
-::Elle te regarde, soupirant.::
+::Elle vous regarde, en soupirant.::
 
-Quoi ? Quoi ? Je suis un spécialiste en service de garde qui essaie de nous garder tous en vie. Je préfère me déplacer comme d'habitude, mais... c'est ce que je dois faire.<end>
+Quoi ? Quoi ? Je suis sec-specialist, actuellement de garde, et j'essaie de nous garder en vie, voilà. Je préférerais bouger, comme d'habitude, mais... frag, c'est ce que je dois faire.<end>
 
 =>q154_original
 ::She pauses.:: Look... I wanna be left alone. I work best *alone*: I can concentrate, I can think, I can plan my moves without depending on anyone else - and I got no attachments.
@@ -958,87 +958,87 @@ Quoi ? Quoi ? Je suis un spécialiste en service de garde qui essaie de nous gar
 So let's keep things that way. You do your job, I'll do mine.<end>
 
 =>q154
-::Elle fait une pause.:: Regardez... Je veux être seule. Je travaille mieux *seule*: je peux me concentrer, je peux penser, je peux planifier mes mouvements sans dépendre de personne d'autre - et je n'ai pas de pièces jointes.
+::Elle marque une pause.:: Écoutez... Je veux qu'on me foute la paix. Je travaille mieux *seule* : je me concentre, je réfléchis, je prévois mes mouvements sans dépendre de personne - et je n'ai d'attache nulle part.
 
-Alors gardons les choses comme ça. Fais ton travail, je ferai le mien.<end>
+Alors on reste comme ça. Vous faites votre boulot, je fais le mien.<end>
 
 =>q155_original
 ::Silence ensues.::<end>
 
 =>q155
-::Le silence s'ensuit.::<end>
+::Le silence s'installe.::<end>
 
 =>q156_original
 There's nothing to tell. I'm just a sec-specialist doing my job.<end>
 
 =>q156
-Il n'y a rien à dire. Je ne suis qu'un second spécialiste.<end>
+Il n'y a rien à raconter. Je suis juste une sec-specialist qui fait son boulot.<end>
 
 =>q157_original
 ::She gives you a freezing glance before returning to her duty.::<end>
 
 =>q157
-::Elle vous donne un coup d'œil glacial avant de retourner à son devoir.::<end>
+::Elle vous jette un regard glacial avant de reprendre son poste.::<end>
 
 =>a158_original
 Any final thoughts before we depart?<end>
 
 =>a158
-Des dernières pensées avant notre départ ?<end>
+Un dernier mot avant qu'on parte ?<end>
 
 =>q159_original
 No. No. Nothing besides what I've told you already.<end>
 
 =>q159
-C'est pas vrai. C'est pas vrai. Rien d'autre que ce que je vous ai déjà dit.<end>
+Non. Non. Rien d'autre que ce que je vous ai déjà dit.<end>
 
 =>a160_original
 Don't know what I expected.<end>
 
 =>a160
-Je ne sais pas ce que j'attendais.<end>
+Je ne sais pas ce que j'espérais.<end>
 
 =>q161_original
 ::She turns toward you.::<end>
 
 =>q161
-::Elle se tourne vers toi.::<end>
+::Elle se tourne vers vous.::<end>
 
 =>q162_original
 If you expected me to open my heart to you about how it's been difficult and how I'm lucky to be alive...<end>
 
 =>q162
-Si tu m'attendais à t'ouvrir le cœur sur la difficulté et la chance d'être en vie...<end>
+Si vous comptiez que je vous ouvre mon cœur, que je vous dise que ça a été dur et que j'ai de la chance d'être en vie...<end>
 
 =>q163_original
 ::She looks you dead in the eye.:: Frag it, $(#man/sis), just frag it. Now go pack your bags and leave me alone.<end>
 
 =>q163
-::Elle te regarde mort dans les yeux.:: Frag it, $(#man/sis), juste frag it. Va faire tes valises et laisse-moi tranquille.<end>
+::Elle vous regarde droit dans les yeux.:: Frag, $(#gars/sœurette). Frag tout ça. Allez faire vos sacs et laissez-moi.<end>
 
 =>q164_original
 ::She chuckles and returns to the sea.:: Damn, $(#man/sis). You and your questions.<end>
 
 =>q164
-::Elle chuckles et retourne à la mer.:: Merde, $(#man/sis). Toi et tes questions.<end>
+::Elle ricane et se tourne vers la mer.:: Putain, $(#gars/sœurette). Vous et vos questions.<end>
 
 =>a165_original
 Well, it's been... interesting.<end>
 
 =>a165
-Ça a été... intéressant.<end>
+Eh bien... ça a été intéressant.<end>
 
 =>a166_original
 Ah. You know, I think your attitude is the one freezing this rooftop, not the winds.<end>
 
 =>a166
-Ah. Vous savez, je pense que votre attitude est celle qui gèle ce toit, pas les vents.<end>
+Vous savez, je crois que c'est votre attitude qui gèle ce toit, pas le vent.<end>
 
 =>q167_original
 ::She frowns.:: <end>
 
 =>q167
-::Elle fronce.:: <end>
+::Elle fronce les sourcils.:: <end>
 
 =>a168_original
 ::Nod.::<end>
@@ -1050,19 +1050,19 @@ Ah. Vous savez, je pense que votre attitude est celle qui gèle ce toit, pas les
 Tell me about the monolith.<end>
 
 =>a169
-Parle-moi du monolithe.<end>
+Parlez-moi du monolithe.<end>
 
 =>q170_original
 ::She answers coldly.:: <end>
 
 =>q170
-::Elle répond froidement.:: <end>
+::Elle répond, froide.:: <end>
 
 =>q171_original
 Can't tell you much. Never seen anything like it before. It's a strange, glowing, angular structure.<end>
 
 =>q171
-Je ne peux rien vous dire. Je n'ai jamais rien vu de tel. C'est une structure étrange, brillante, angulaire.<end>
+Pas grand-chose à dire. Je n'ai jamais rien vu de pareil. Une structure étrange, lumineuse, angulaire.<end>
 
 =>q172_original
 There is a human-shaped statue beside it. At first I thought it was a pirate, but it never moved. It's got something in its hands, but I can't tell what it is 'cause of the glow. 
@@ -1070,39 +1070,39 @@ There is a human-shaped statue beside it. At first I thought it was a pirate, bu
 That's all I got for you.<end>
 
 =>q172
-Il y a une statue en forme d'homme à côté. Au début, je pensais que c'était un pirate, mais ça n'a jamais bougé. Il a quelque chose dans ses mains, mais je ne peux pas dire ce que c'est à cause de la lueur.
+Il y a une statue humaine à côté. Au début j'ai cru à un pirate, mais ça n'a jamais bougé. Elle tient quelque chose, mais avec la lueur je ne distingue pas quoi.
 
-C'est tout ce que j'ai pour toi.<end>
+C'est tout ce que j'ai.<end>
 
 =>a173_original
 It's a lot colder up here. Where's all the warm air rising from below?<end>
 
 =>a173
-Il fait plus froid ici. Où est l'air chaud qui monte d'en bas ?<end>
+Il fait nettement plus froid, ici. Où passe l'air chaud qui devrait monter d'en bas ?<end>
 
 =>q174_original
 ::She nods.:: There's a cold air current coming down from that crevice up there. ::She points to a crevice in the cavern ceiling north of you. You can see some bats approaching it from the side and being carried off course some ten meters south.::<end>
 
 =>q174
-::Elle hoche la tête.:: Il y a un courant d'air froid venant de cette crevasse. ::Elle montre une crevasse dans le plafond de la caverne au nord de vous. Vous pouvez voir des chauves-souris qui s'approchent du côté et qui sont emportées par une dizaine de mètres au sud.::<end>
+::Elle hoche la tête.:: Il y a un courant d'air froid qui descend de cette crevasse, là-haut. ::Elle désigne une crevasse dans le plafond de la caverne, au nord. On voit des chauves-souris s'en approcher par le côté et se faire déporter d'une dizaine de mètres vers le sud.::<end>
 
 =>q175_original
 And it's hitting just this fraggin' lighthouse.<end>
 
 =>q175
-Et il frappe juste ce phare.<end>
+Et ça tape pile sur ce putain de phare.<end>
 
 =>a176_original
 How good of a shot are you?<end>
 
 =>a176
-T'es vraiment bon à tirer ?<end>
+Vous tirez comment, au juste ?<end>
 
 =>q177_original
 ::She nods...::<end>
 
 =>q177
-::Elle hoche...::<end>
+::Elle hoche la tête...::<end>
 
 =>q178_original
 Outstanding. <end>
@@ -1116,7 +1116,7 @@ Remarquable. <end>
 <end>
 
 =>q179
-::Elle te regarde::
+::Elle vous jette un coup d'œil::
 
 <end>
 
@@ -1124,25 +1124,25 @@ Remarquable. <end>
 Don't you have any surveillance and detection equipment you can use?<end>
 
 =>a180
-Vous n'avez pas d'équipement de surveillance et de détection ?<end>
+Vous n'avez pas d'équipement de surveillance, de détection ?<end>
 
 =>q181_original
 ::She answers coldly.:: <end>
 
 =>q181
-::Elle répond froidement.:: <end>
+::Elle répond, froide.:: <end>
 
 =>q182_original
 NV and thermal cameras, auto-turrets, perimetral omnisensors and other automatic detection systems. We brought it all.<end>
 
 =>q182
-NV et caméras thermiques, auto-turrets, omnicapteurs périmétrals et autres systèmes de détection automatique. On a tout apporté.<end>
+Caméras NV et thermiques, tourelles auto, omnisenseurs de périmètre et le reste de la détection automatique. On a tout amené.<end>
 
 =>a183_original
 Then why not install some of that up here?<end>
 
 =>a183
-Alors pourquoi ne pas installer ça ici ?<end>
+Alors pourquoi ne pas en installer un peu, ici ?<end>
 
 =>q184_original
 ::She scans the sea from east to west.:: The Hell's Gut is too busy a place; the automatics get confused, start false alarms. Cannot be entirely relied upon. 
@@ -1150,9 +1150,9 @@ Alors pourquoi ne pas installer ça ici ?<end>
 Cameras, they require keen human eyes behind them.<end>
 
 =>q184
-::Elle scanne la mer d'est en ouest.:: Le Gut de l'enfer est trop occupé un endroit; les automatiques se confondent, démarrent de fausses alarmes. On ne peut pas s'en fier entièrement.
+::Elle balaie la mer d'est en ouest.:: Le Hell's Gut est trop vivant ; les automates s'y perdent, déclenchent de fausses alarmes. On ne peut pas s'y fier tout seuls.
 
-Caméras, ils ont besoin de regards humains vifs derrière eux.<end>
+Les caméras, il leur faut un œil humain derrière. Un œil vif.<end>
 
 =>q185_original
 Mine are the keenest around here; all the optical equipment I'll ever need is this scope. 
@@ -1160,9 +1160,9 @@ Mine are the keenest around here; all the optical equipment I'll ever need is th
 ::She looks at it, then through it as she carries on with her duty.::<end>
 
 =>q185
-Les miens sont les plus vifs par ici, tout l'équipement optique dont j'aurai jamais besoin est cette portée.
+Les miens sont les plus vifs du coin. Tout l'optique dont j'aurai jamais besoin, c'est cette lunette.
 
-::Elle la regarde, puis à travers elle comme elle poursuit son devoir.::<end>
+::Elle la regarde, puis regarde à travers, et reprend son poste.::<end>
 
 =>a186_original
 I need some information.<end>
@@ -1174,49 +1174,49 @@ J'ai besoin d'informations.<end>
 Just checking up on you.<end>
 
 =>a187
-Je vérifie juste pour toi.<end>
+Je passais prendre de vos nouvelles.<end>
 
 =>a188_original
 We're all going to be here for a while, so why not get to know each other a bit better.<end>
 
 =>a188
-On va tous être ici pendant un moment, alors pourquoi ne pas apprendre à mieux se connaître.<end>
+On va rester ici un moment. Autant apprendre à se connaître un peu.<end>
 
 =>q189_original
 ::She says nothing, ::<end>
 
 =>q189
-::Elle ne dit rien.::<end>
+::Elle ne dit rien, ::<end>
 
 =>a190_original
 I wanted to compliment you on your fighting abilities.<end>
 
 =>a190
-Je voulais vous complimenter pour vos capacités de combat.<end>
+Je voulais vous féliciter. Vous vous battez bien.<end>
 
 =>q191_original
 Guess it's time to leave this place. <end>
 
 =>q191
-Il est temps de quitter cet endroit. <end>
+Je suppose qu'il est temps de quitter cet endroit. <end>
 
 =>q192_original
 ::She continues staring at the sea.::<end>
 
 =>q192
-::Elle continue à regarder la mer.::<end>
+::Elle continue de fixer la mer.::<end>
 
 =>q193_original
 And we even... even got a live Lemurian out of it. ::She shakes her head in disbelief.:: <end>
 
 =>q193
-Et nous avons même... même eu un Lemurian en direct. ::Elle secoue la tête dans l'incrédulité.:: <end>
+Et on a même... même ressorti un Lemurian vivant de tout ça. ::Elle secoue la tête, incrédule.:: <end>
 
 =>q194_original
 It's been too fraggin' long...<end>
 
 =>q194
-Ça fait trop longtemps...<end>
+Ça fait un putain de bail...<end>
 
 =>q195_original
 ::Her presence feels colder than the winds whipping the rooftop.::
@@ -1224,7 +1224,7 @@ It's been too fraggin' long...<end>
 What?<end>
 
 =>q195
-::Sa présence est plus froide que les vents qui fouettent le toit.::
+::Sa présence est plus froide que le vent qui fouette le toit.::
 
 Quoi ?<end>
 
@@ -1232,7 +1232,7 @@ Quoi ?<end>
 ::She scans the sea and counts her bullets simultaneously, moving them from one satchel to the other. After reaching in the former for more and retrieving nothing, she closes the latter one and exhales softly, staring beyond the dim horizon.::<end>
 
 =>q196
-::Elle scanne la mer et compte ses balles simultanément, les déplaçant d'un sac à l'autre. Après avoir atteint le premier pour plus et ne rien récupérer, elle ferme le second et expire doucement, regardant au-delà de l'horizon sombre.::<end>
+::Elle balaie la mer et compte ses balles en même temps, les passant d'une sacoche à l'autre. Quand elle plonge la main dans la première et n'en retire plus rien, elle ferme la seconde, expire doucement, le regard au-delà de l'horizon sombre.::<end>
 
 =>q197_original
 
@@ -1242,33 +1242,31 @@ Quoi ?<end>
 =>q197
 
 
-
-
 <end>
 
 =>q198_original
 I gotta hand it to you, you got the professor back without bloodshed. I wouldn't have the patience.<end>
 
 =>q198
-Je dois te le donner, tu as récupéré le professeur sans effusion de sang. Je n'aurais pas la patience.<end>
+Faut vous reconnaître ça : vous avez récupéré le professeur sans verser de sang. Moi, je n'aurais pas eu la patience.<end>
 
 =>q199_original
 Smooth negotiating there.<end>
 
 =>q199
-En douceur.<end>
+Négociation propre, ça.<end>
 
 =>a200_original
 Things got out of hand.<end>
 
 =>a200
-Les choses sont tombées en panne.<end>
+Ça a dégénéré.<end>
 
 =>q201_original
 ::She nods.:: They surely did.<end>
 
 =>q201
-::Elle hoche la tête.:: Certainement.<end>
+::Elle hoche la tête.:: Ça, oui.<end>
 
 =>q202_original
 ::She turns toward the sea.::<end>
@@ -1280,31 +1278,31 @@ Les choses sont tombées en panne.<end>
 Did I ask for your opinion?<end>
 
 =>a203
-J'ai demandé votre avis ?<end>
+Je vous ai demandé votre avis ?<end>
 
 =>q204_original
 You're getting it anyway. I did save your ass out there. You're welcome.<end>
 
 =>q204
-Tu l'auras quand même. Je t'ai sauvé le cul. De rien.<end>
+Vous l'avez quand même. Je vous ai sauvé le cul, là-bas. De rien.<end>
 
 =>a205_original
 Thanks for busting us out of there.<end>
 
 =>a205
-Merci de nous avoir fait sortir de là.<end>
+Merci de nous avoir sortis de là.<end>
 
 =>q206_original
 ::She nods.:: All in a day's work. <end>
 
 =>q206
-::Elle hoche la tête.:: Tous dans une journée de travail. <end>
+::Elle hoche la tête.:: C'est le boulot. <end>
 
 =>a207_original
 I came here for some information.<end>
 
 =>a207
-Je suis venu ici pour des informations.<end>
+Je venais chercher des informations.<end>
 
 =>q208_original
 Go for it. <end>
@@ -1316,13 +1314,13 @@ Allez-y. <end>
 ::Say nothing.::<end>
 
 =>a209
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q210_original
 The professor's back, and if we do our job right, hopefully not out of the pan and into the fraggin' fire.<end>
 
 =>q210
-Le professeur est de retour, et si nous faisons notre travail bien, espérons ne pas sortir de la poêle et dans le feu fragin.<end>
+Le professeur est de retour. Si on fait bien notre boulot, il ne sortira pas de la poêle pour tomber dans le putain de feu.<end>
 
 =>q211_original
 ::She tracks the Naga Protector patrolling the beach through her scope.::
@@ -1330,21 +1328,21 @@ Le professeur est de retour, et si nous faisons notre travail bien, espérons ne
 I don't trust bots. But then again...<end>
 
 =>q211
-::Elle suit le Naga Protector qui patrouille la plage à travers son champ d'application.::
+::Elle suit dans sa lunette le Naga Protector qui patrouille sur la plage.::
 
-Je ne fais pas confiance aux robots. Mais encore une fois...<end>
+Je ne fais pas confiance aux bots. Ceci dit...<end>
 
 =>q212_original
 I could see your encounter with the turrets in front of that military installation at F12<end>
 
 =>q212
-Je pouvais voir votre rencontre avec les tourelles devant cette installation militaire à F12<end>
+J'ai vu votre rencontre avec les tourelles, devant cette installation militaire en F12<end>
 
 =>q213_original
  and the savage party's arrival after that. They occupy a lighthouse in D10. Think that's where you've been spotted from.<end>
 
 =>q213
- et l'arrivée de la fête sauvage après ça. Ils occupent un phare en D10. Je pense que c'est là que vous avez été repéré.<end>
+ et l'arrivée du groupe de sauvages juste après. Ils occupent un phare en D10. C'est de là qu'on vous a repérés, je pense.<end>
 
 =>q214_original
 . <end>
@@ -1356,7 +1354,7 @@ Je pouvais voir votre rencontre avec les tourelles devant cette installation mil
 ::She scans the dim horizon, occassionally looking through her scope when details require closer examination.:: <end>
 
 =>q215
-::Elle scanne l'horizon sombre, en regardant occasionnellement sa portée lorsque les détails nécessitent un examen plus approfondi.:: <end>
+::Elle balaie l'horizon sombre, et passe parfois par la lunette quand un détail demande à être vu de plus près.:: <end>
 
 =>q216_original
 
@@ -1364,8 +1362,6 @@ Je pouvais voir votre rencontre avec les tourelles devant cette installation mil
 <end>
 
 =>q216
-
-
 
 
 <end>
@@ -1378,13 +1374,13 @@ I gotta hand it to you, you saved all our asses. Had the pirates succeeded at th
 =>q217
 
 
-Je dois te le donner, tu as sauvé tous nos culs. Si les pirates avaient réussi au Keep, nous serions dans un monde de blessés en ce moment. ::Elle fait une pause.:: Par ici... on a le saut sur eux.<end>
+Faut vous reconnaître ça : vous nous avez tous sauvé le cul. Si les pirates avaient réussi au Keep, on serait dans la merde jusqu'au cou. ::Elle marque une pause.:: Comme ça... on les a pris de vitesse.<end>
 
 =>q218_original
 ::This time, however, she appears to be looking through it all.::<end>
 
 =>q218
-::Cette fois, cependant, elle semble regarder à travers tout cela.::<end>
+::Cette fois, pourtant, elle a l'air de regarder à travers tout ça.::<end>
 
 =>q219_original
 
@@ -1394,7 +1390,7 @@ Not many of us remaining. ::She looks at you as if she wants to continue but the
 =>q219
 
 
-Pas beaucoup d'entre nous restent. ::Elle te regarde comme si elle voulait continuer mais se détourne.::<end>
+On n'est plus beaucoup. ::Elle vous regarde comme si elle allait continuer, puis se détourne.::<end>
 
 =>q220_original
 
@@ -1404,7 +1400,7 @@ Doc bought it. Spared him the misery, if anything.<end>
 =>q220
 
 
-Doc l'a acheté. Je lui ai épargné la misère.<end>
+Doc a clamsé. Je lui ai au moins épargné la misère.<end>
 
 =>q221_original
 
@@ -1414,7 +1410,7 @@ How painters can stand to watch something as boring as this for hours and hours 
 =>q221
 
 
-Comment les peintres peuvent regarder quelque chose d'aussi ennuyeux que ça pendant des heures et des heures est quelque chose que je ne saurai jamais. <end>
+Comment les peintres tiennent à regarder un truc aussi chiant pendant des heures, ça je ne le saurai jamais. <end>
 
 =>q222_original
 
@@ -1424,7 +1420,7 @@ Ever seen a sea serpent eating a bat? The bat was flying low... then boom. Gone.
 =>q222
 
 
-Vous avez déjà vu un serpent marin manger une chauve-souris ? La batte volait bas... puis boom. Parti.<end>
+Vous avez déjà vu un serpent de mer bouffer une chauve-souris ? Elle volait bas... puis boum. Plus rien.<end>
 
 =>q223_original
 
@@ -1440,11 +1436,10 @@ Vous nous avez fait entrer. ::Elle hoche la tête.:: <end>
 And fragged all the muties. <end>
 
 =>q224
-Et fracassé toutes les muties. <end>
+Et descendu toutes les muties. <end>
 
 =>q225_original
 Keep it up.<end>
 
 =>q225
 Continuez.<end>
-

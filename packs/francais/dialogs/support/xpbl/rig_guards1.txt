@@ -8,7 +8,7 @@ Salut ! Attendez !<end>
 ::Fight!::<end>
 
 =>a2
-::Lutte!::<end>
+::Combattre::<end>
 
 =>q3_original
 Use the western dock. Everythin' else is off-limits.<end>
@@ -60,7 +60,7 @@ Just... just keep to this dock, $(#jack/sis), and we're cool. Dig?<end>
 =>q10
 Qu'est-ce... Alors prends-le dans ton pantalon, merde ! Je m'en fiche. Avec le genre de raids que les pirates ont fait ces derniers temps, on n'aura aucune chance avec quoi que ce soit. Pour tout ce que je sais, il pourrait y avoir une bande d'entre eux cachés dans ce contenant juste là, prêt à me trancher la gorge grand ouvert.
 
-Reste sur ce quai, $(#jack/sis), et on est cool. Pigé ?<end>
+Reste sur ce quai, $(#gars/fille), et on est cool. Pigé ?<end>
 
 =>a11_original
 No. ::Attack!::<end>
@@ -120,7 +120,7 @@ Bienvenue au Rig.<end>
 Yer on Black Eel territory now, $(#jack/sis).<end>
 
 =>q20
-Yer sur le territoire de Black Eel maintenant, $(#jack/sis).<end>
+Yer sur le territoire de Black Eel maintenant, $(#gars/fille).<end>
 
 =>q21_original
 Ya look familiar.<end>
@@ -210,7 +210,7 @@ Qui êtes-vous ? Tu n'es pas censé être ére.<end>
 ::[Persuade]:: I'm the new $(#guy/girl). Came here to figure out why the system's been running slow lately.<end>
 
 =>a35
-::[Persuader]:: Je suis le nouveau $(#guy/girl). Je suis venu ici pour comprendre pourquoi le système est lent ces derniers temps.<end>
+::[Persuade]:: Je suis le nouveau $(#gars/fille). Je suis venu ici pour comprendre pourquoi le système est lent ces derniers temps.<end>
 
 =>q36_original
 <end>
@@ -276,13 +276,13 @@ Je vais travailler, alors.<end>
 ::Fight!::<end>
 
 =>a46
-::Lutte!::<end>
+::Combattre::<end>
 
 =>a47_original
 ::[Persuade][Hacking]:: I'm the new $(#guy/girl). Came here to check out the slowdowns you've been experiencing lately. Now considering you're running advanced military software on that crappy-looking laptop... Eh, could be anything: CPU overheating, hard drive issues, viruses or just some background app doing crap. Anyway, the sooner I start the sooner I get 'er back up to full speed.<end>
 
 =>a47
-::[Persuade][Hicking]:: Je suis le nouveau $(#guy/girl). Je suis venu voir les ralentissements que tu as vécus dernièrement. Maintenant, vu que vous utilisez un logiciel militaire avancé sur ce portable merdique... Eh, peut être n'importe quoi: CPU surchauffe, problèmes de disque dur, virus ou juste une application de fond faisant des conneries. Quoi qu'il en soit, le plus tôt je commencerai à remonter à plein régime.<end>
+::[Persuade][Hicking]:: Je suis le nouveau $(#gars/fille). Je suis venu voir les ralentissements que tu as vécus dernièrement. Maintenant, vu que vous utilisez un logiciel militaire avancé sur ce portable merdique... Eh, peut être n'importe quoi: CPU surchauffe, problèmes de disque dur, virus ou juste une application de fond faisant des conneries. Quoi qu'il en soit, le plus tôt je commencerai à remonter à plein régime.<end>
 
 =>q48_original
 <end>
@@ -294,7 +294,7 @@ Je vais travailler, alors.<end>
 I'm the new $(#guy/girl). ::Attack!::<end>
 
 =>a49
-Je suis le nouveau $(#guy/girl). ::Attaque!::<end>
+Je suis le nouveau $(#gars/fille). ::Attaque!::<end>
 
 =>a50_original
 I better get going...<end>
@@ -758,7 +758,7 @@ C'est vrai. Répondez à ma question.<end>
 ::[Persuade]:: I'm the new $(#guy/girl). We're doin' some work on the turrets and need to turn 'em off for about half an hour or so.<end>
 
 =>a123
-::[Persuader]:: Je suis le nouveau $(#guy/girl). On travaille sur les tourelles et on doit les éteindre pendant une demi-heure.<end>
+::[Persuade]:: Je suis le nouveau $(#gars/fille). On travaille sur les tourelles et on doit les éteindre pendant une demi-heure.<end>
 
 =>q124_original
 <end>
@@ -788,7 +788,7 @@ Santé.<end>
 ::[Persuade][Electronics]:: I'm the new $(#guy/girl). We got some turrets workin' sluggish, so I came 'ere  to turn off the power so we could try an' figure out what's causin' the low voltage. The network's not overloaded, we checked that first, an' wirin' looks good. Frankly, I'm just hopin' it's not the bloody transformer.<end>
 
 =>a128
-::[Persuade][Electronics]:: Je suis le nouveau $(#guy/girl). On a des tourelles qui marchent mal, alors je suis venu éteindre le courant pour essayer de comprendre ce qui cause la basse tension. Le réseau n'est pas surchargé, nous avons vérifié d'abord, un 'wirin' semble bien. Franchement, j'espère que ce n'est pas le transformateur.<end>
+::[Persuade][Electronics]:: Je suis le nouveau $(#gars/fille). On a des tourelles qui marchent mal, alors je suis venu éteindre le courant pour essayer de comprendre ce qui cause la basse tension. Le réseau n'est pas surchargé, nous avons vérifié d'abord, un 'wirin' semble bien. Franchement, j'espère que ce n'est pas le transformateur.<end>
 
 =>q129_original
 <end>
@@ -854,7 +854,7 @@ Hé, vous, venez. ::Il te regarde bien.:: Je n'avais jamais vu ce visage.<end>
 ::[Persuade]:: I'm the new $(#guy/girl). Been told you $(#folks needed an extra pair of hands/boys needed some help) around here, so here I am earning myself some shinies.<end>
 
 =>a139
-::[Persuader]:: Je suis le nouveau $(#guy/girl). On vous a dit $(#folks needed an extra pair of hands/boys needed some help) par ici, alors je me gagne des shinies.<end>
+::[Persuade]:: Je suis le nouveau $(#gars/fille). On vous a dit $(#folks needed an extra pair of hands/boys needed some help) par ici, alors je me gagne des shinies.<end>
 
 =>q140_original
 Oh yeah...?<end>
@@ -1080,7 +1080,7 @@ Pour le conducteur ? Donne-le-moi. Je vais lui apporter.<end>
 ::[Intimidate]:: If this were intended for your grubby fingers to defile, you would've known by now.<end>
 
 =>a176
-::[Intimider]:: Si cela était destiné à vos doigts grogneux à souiller, vous auriez su maintenant.<end>
+::[Intimidate]:: Si cela était destiné à vos doigts grogneux à souiller, vous auriez su maintenant.<end>
 
 =>q177_original
 Hey, ya watch yer tongue, you!<end>
@@ -1102,7 +1102,7 @@ Tu peux y aller. Allez-y.
 ::[Persuade]:: No can do, man. I was told not to show, much less hand this over to anyone but the rigmaster himself.<end>
 
 =>a179
-::[Persuader]:: C'est impossible. On m'a dit de ne pas le montrer, et encore moins de remettre ça à quelqu'un d'autre, sauf au conducteur.<end>
+::[Persuade]:: C'est impossible. On m'a dit de ne pas le montrer, et encore moins de remettre ça à quelqu'un d'autre, sauf au conducteur.<end>
 
 =>q180_original
 Somethin' important then. Hmm.<end>

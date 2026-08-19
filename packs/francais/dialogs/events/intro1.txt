@@ -2,7 +2,7 @@
 Alright... last topic, of course, earthquake repairs.<end>
 
 =>q1
-Très bien... dernier sujet, bien sûr, les réparations après tremblement de terre.<end>
+Très bien... dernier point, évidemment : les réparations du séisme.<end>
 
 =>a2_original
 ::Continue::<end>
@@ -14,55 +14,55 @@ Très bien... dernier sujet, bien sûr, les réparations après tremblement de t
 What's the situation at the South Tunnel?<end>
 
 =>q3
-Quelle est la situation au Tunnel Sud ?<end>
+Où en est le South Tunnel ?<end>
 
 =>q4_original
 Got to dig deeper to plant the explosives, or we risk more damage to the tunnel.<end>
 
 =>q4
-Il faut creuser plus profondément pour poser les explosifs, sinon nous risquons d'endommager davantage le tunnel.<end>
+Il faut creuser plus profond pour poser les explosifs, sinon on risque d'abîmer encore le tunnel.<end>
 
 =>q5_original
 Almost everyone is working shifts up there. Shouldn't be too long now.<end>
 
 =>q5
-Presque tout le monde travaille par roulement là-haut. Cela ne devrait pas être trop long maintenant.<end>
+Presque tout le monde enchaîne les quarts là-haut. Ça ne devrait plus tarder.<end>
 
 =>q6_original
 ::He nods.:: Gorsky, how's the security looking?<end>
 
 =>q6
-::Il acquiesce.:: Gorsky, comment est la sécurité ?<end>
+::Il acquiesce.:: Gorsky, où en est la sécurité ?<end>
 
 =>q7_original
 Got one man at the cave exit and that's enough, as far as I'm concerned. Automated security is strong there and as long as we know the Crossroad and the Cove are clear, no one can sneak up on us.<end>
 
 =>q7
-J'ai un homme à la sortie de la grotte et ça suffit, en ce qui me concerne. La sécurité automatisée y est forte et tant que nous savons que le carrefour et la crique sont dégagés, personne ne peut nous surprendre.<end>
+J'ai un homme à la sortie des grottes, et ça me suffit. La sécu automatique est costaud là-bas, et tant qu'on sait que les Crossroad Caves et Mushroom Cove sont clairs, personne ne peut nous tomber dessus.<end>
 
 =>q8_original
 Also, got one man at the under-passages, and he's been ordered not to open the gate no matter what. The last thing we need right now are those bloody Lurkers sneaking up on us.<end>
 
 =>q8
-Il y a aussi un homme dans les passages souterrains, et on lui a ordonné de ne pas ouvrir la porte quoi qu'il arrive. La dernière chose dont nous avons besoin en ce moment, ce sont ces foutus Lurker qui nous attaquent furtivement.<end>
+J'ai aussi un homme aux under-passages, consigne : il n'ouvre pas la porte, peu importe ce qui se passe. Le dernier truc dont on a besoin, c'est ces putains de Lurkers qui nous arrivent dans le dos.<end>
 
 =>q9_original
 Everyone else is up at the platform securing workers and tunnels.<end>
 
 =>q9
-Tout le monde est sur la plate-forme pour sécuriser les travailleurs et les tunnels.<end>
+Tout le reste est sur la plateforme, à sécuriser les ouvriers et les tunnels.<end>
 
 =>q10_original
 Good, good. If no one has anything else to add, that will conclude this council meeting...<end>
 
 =>q10
-Bien, bien. Si personne n’a autre chose à ajouter, cela mettra fin à cette séance du conseil…<end>
+Bien, bien. Si personne n'a rien à ajouter, on clôture cette réunion du conseil...<end>
 
 =>q11_original
 Actually... just one more thing, in case you weren't informed already: I admitted a new citizen to the station. <end>
 
 =>q11
-En fait... encore une chose, au cas où vous ne seriez pas au courant : j'ai admis un nouveau citoyen dans la station.<end>
+En fait... encore une chose, au cas où on ne vous l'aurait pas dit : j'ai admis $(#un nouveau citoyen/une nouvelle citoyenne) à la station. <end>
 
 =>q12_original
 That $(context.player.Name) $(#fellow/girl)?<end>
@@ -74,19 +74,19 @@ Ce $(context.player.Name), ce $(#gars/fille) ?<end>
 Yes. I think $(#he/she) will be a good addition to this station. $(#He/She) and Vencel are still at the range, but they should be done any moment now, I believe.<end>
 
 =>q13
-Oui. Je pense qu'$(#il/elle) sera un bon ajout à la station. $(#Il/Elle) et Vencel sont encore au stand de tir, mais ça devrait finir d'un moment à l'autre.<end>
+Oui. Je pense qu'$(#il/elle) sera un bon élément pour cette station. $(#Il/Elle) et Vencel sont encore au stand de tir, mais ça devrait être fini d'un moment à l'autre.<end>
 
 =>q14_original
 You put too much trust in your tests, Tanner. All I care about is how $(#he/she) handles live action, not how many points $(#he/she) got.<end>
 
 =>q14
-Vous faites trop confiance à vos tests, Tanner. Moi, ce qui compte, c'est comment $(#il/elle) gère le feu réel, pas le score aux épreuves.<end>
+Vous faites trop confiance à vos tests, Tanner. Moi, ce qui m'importe, c'est comment $(#il/elle) se débrouille en vrai, pas le score aux épreuves.<end>
 
 =>q15_original
 Well, we'll find out soon enough. Best put $(#him/her) to work immediately. We need all hands on deck right now.<end>
 
 =>q15
-On le saura bien assez tôt. Mettez-$(#le/la) au boulot tout de suite. On a besoin de toutes les mains disponibles.<end>
+On le saura bien assez tôt. Mettez-$(#le/la) au travail tout de suite. On a besoin de toutes les mains disponibles.<end>
 
 =>q16_original
 Indeed. That is all. Vera. Gorsky.<end>
@@ -105,4 +105,3 @@ En effet. C'est tout. Vera. Gorsky.<end>
 
 =>a18
 ::Passer l'intro::<end>
-

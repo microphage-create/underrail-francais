@@ -4,9 +4,9 @@
 What? I mean, good day... and how may I help you?<end>
 
 =>q1
-::Vous vous arrêtez devant un long comptoir, son côté avant aussi sale que le sol sur lequel vous êtes, et regardez la femme derrière elle. Les lignes accentuées sur son visage enveloppent la fatigue sous tous les angles possibles, et après un retard notable, elle se présente avec un regard confus qui se fait ébranler par ses lourdes paupières, après quoi une réintroduction verbale s'ensuit. Au moins, dès qu'elle parvient à invoquer les mots appropriés.::
+::Vous vous arrêtez devant un long comptoir, la façade aussi crasseuse que le sol sous vos pieds, et vous regardez la femme derrière. Les traits marqués de son visage crient la fatigue sous tous les angles. Après un délai bien trop long, elle se présente d'un regard perdu que ses paupières lourdes referment, puis elle se reprend à voix haute. Du moins, dès qu'elle a réussi à trouver les mots.::
 
-Quoi ? Bonne journée... et comment puis-je vous aider ?<end>
+Quoi ? Je veux dire, bonjour... et comment puis-je vous aider ?<end>
 
 =>q2_original
 <end>
@@ -18,25 +18,25 @@ Quoi ? Bonne journée... et comment puis-je vous aider ?<end>
 I came to collect my reward.<end>
 
 =>a3
-Je suis venu récupérer ma récompense.<end>
+Je viens chercher ma récompense.<end>
 
 =>q4_original
 Um, yeah, congratulations. ::She yawns.:: That was a good run. Here is your money; two thousand as promised. ::She gives you 2000 stygian coins.:: All your stuff is in the middle locker behind me. There. ::She points at the locker, but also doesn't at the same time. More like, she swings her arm in the general direction of the locker.::<end>
 
 =>q4
-Euh, oui, félicitations. ::Elle bâille.:: C'était une bonne course. Voici votre argent, deux mille comme promis. ::Elle vous donne 2000 pièces de monnaie.:: Toutes tes affaires sont dans le casier du milieu derrière moi. Voilà. ::Elle pointe au casier, mais pas en même temps. Plutôt, elle balance son bras dans la direction générale du casier.::<end>
+Euh, ouais, félicitations. ::Elle bâille.:: C'était une bonne course. Voici votre argent, deux mille comme promis. ::Elle vous tend 2000 charons.:: Toutes vos affaires sont dans le casier du milieu, derrière moi. Voilà. ::Elle désigne le casier, et en même temps pas vraiment. Plus exactement, elle balance le bras dans la direction générale du casier.::<end>
 
 =>q5_original
 You are one of the rare ones who get to take their money. ::A short delay ensues.:: Um, what I meant was - have a nice day.<end>
 
 =>q5
-Tu es l'un des rares à pouvoir prendre leur argent. ::Un court délai s'ensuit.:: Hum, ce que je voulais dire c'était - bonne journée.<end>
+Vous faites partie des rares qui repartent avec leur fric. ::Un court silence.:: Euh, ce que je voulais dire... bonne journée.<end>
 
 =>a6_original
 I'm ready to start the Gauntlet.<end>
 
 =>a6
-Je suis prêt à commencer le Gauntlet.<end>
+Je suis $(#prêt/prête) à lancer le Gauntlet.<end>
 
 =>q7_original
 Um, good. ::She yawns.:: The other two runners are ready... and stuff like that. ::She stares at a spot in the wall for several seconds.:: Um, yeah, sorry, please wait for the broadcast to be set up, and then we'll start the show.
@@ -46,47 +46,47 @@ You also need to turn in all your gear and put on a runner suit. Then once you'r
 After you're, um, done, come see me about the reward and your stuff. Yeah.<end>
 
 =>q7
-Tant mieux. ::Elle bâille.:: Les deux autres coureurs sont prêts. ::Elle regarde un endroit dans le mur pendant plusieurs secondes.:: Euh, oui, désolé, s'il vous plaît attendez que l'émission soit mise en place, et ensuite nous allons commencer l'émission.
+Euh, bien. ::Elle bâille.:: Les deux autres coureurs sont prêts... et ce genre de trucs. ::Elle fixe un point du mur pendant plusieurs secondes.:: Euh, ouais, désolée, attendez que la diffusion soit en place, et après on lance l'émission.
 
-Vous devez aussi retourner tout votre équipement et mettre un costume de coureur. Puis une fois que vous avez dépassé la porte, vous pouvez choisir parmi une sélection d'armes et d'équipement avant d'entrer dans l'ascenseur.
+Vous devez aussi rendre tout votre matos et enfiler une combinaison de coureur. Une fois la porte passée, vous choisissez parmi une sélection d', euh, armes et d'équipement, avant de monter dans l'ascenseur.
 
-Quand tu auras fini, viens me voir pour la récompense et tes affaires. Oui.<end>
+Quand vous aurez, euh, fini, vous venez me voir pour la récompense et vos affaires. Ouais.<end>
 
 =>a8_original
 ::Start the Gauntlet.::<end>
 
 =>a8
-::Démarre le Gauntlet.::<end>
+::Commencer le Gauntlet.::<end>
 
 =>a9_original
 What is this place?<end>
 
 =>a9
-Quel est cet endroit ?<end>
+C'est quoi, cet endroit ?<end>
 
 =>q10_original
 What does it look like? ::She sighs.:: Sorry, what I wanted to say was, this is the entrance to the Gauntlet. All runners apply here... and stuff like that.<end>
 
 =>q10
-A quoi ça ressemble ? ::Elle soupire.:: Désolé, ce que je voulais dire, c'est l'entrée du Gauntlet. Tous les coureurs s'appliquent ici... et des trucs comme ça.<end>
+Ça ressemble à quoi, d'après vous ? ::Elle soupire.:: Désolée, ce que je voulais dire : c'est l'entrée du Gauntlet. Tous les coureurs s'inscrivent ici... et ce genre de trucs.<end>
 
 =>q11_original
 Um, I'm sorry, I haven't slept in... in...<end>
 
 =>q11
-Désolé, je n'ai pas dormi...<end>
+Euh, désolée, j'ai pas dormi depuis... depuis...<end>
 
 =>q12_original
 Never mind. Are you here to, um, apply?<end>
 
 =>q12
-Laisse tomber. Tu es là pour, euh, postuler ?<end>
+Laissez tomber. Vous êtes là pour, euh, vous inscrire ?<end>
 
 =>a13_original
 I would like to apply for the Gauntlet.<end>
 
 =>a13
-Je voudrais demander le Gauntlet.<end>
+Je voudrais m'inscrire au Gauntlet.<end>
 
 =>q14_original
 ::Her fatigued eyes have trouble inspecting the person in front of her - you. Eventually she does manage to process who you actually are.:: 
@@ -94,105 +94,105 @@ Je voudrais demander le Gauntlet.<end>
 Invictus! I'm... I'm sorry, um, I didn't recognize you there. Yes, yes, you can apply! It's very rare for an invictus to actually come here to apply personally.<end>
 
 =>q14
-::Ses yeux fatigués ont du mal à inspecter la personne devant elle - vous. Finalement, elle réussit à traiter qui vous êtes réellement.::
+::Ses yeux fatigués ont du mal à inspecter la personne en face d'elle : vous. Elle finit tout de même par comprendre qui vous êtes.::
 
-Invictus ! Je suis désolée, je ne vous ai pas reconnu. Oui, oui, vous pouvez postuler ! Il est très rare qu'un invictus vienne ici pour s'appliquer personnellement.<end>
+Invictus ! Je... je suis désolée, euh, je vous avais pas reconnu. Oui, oui, vous pouvez vous inscrire ! C'est très rare qu'un Invictus vienne s'inscrire en personne.<end>
 
 =>q15_original
 Let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
 
 =>q15
-Laisse-moi juste... une seconde. ::Elle passe par plusieurs papiers.:: Merde, c'est ici.<end>
+Laissez-moi juste, euh, une seconde. ::Elle feuillette plusieurs papiers.:: Merde, euh, ah, le voilà.<end>
 
 =>q16_original
 I'm sure the Invictus, um - you - knows how a run through the Gauntlet works, but let's go through that again. Okay. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
 
 =>q16
-Je suis sûr que l'Invictus, euh - vous - sait comment une course à travers le Gauntlet fonctionne, mais passons à nouveau à travers cela. Très bien. ::Elle regarde le journal dans sa main.:: Pourquoi j'ai pris ça ? Je n'ai pas besoin de ça ! ::Jette le papier.:: Oui, la course.<end>
+Je suis sûre que l'Invictus, euh, vous, sait comment une course dans le Gauntlet fonctionne, mais on reprend quand même. Bon. ::Elle regarde le papier dans sa main.:: Pourquoi j'ai pris ça ? J'en ai pas besoin ! ::Elle jette le papier.:: Euh, ouais, la course.<end>
 
 =>q17_original
 Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners nor the viewers know which room comes next.<end>
 
 =>q17
-Le Gauntlet lui-même est composé de plusieurs pièces reliées par des ascenseurs, chaque pièce contenant un défi différent. Certains ont des créatures mortelles, d'autres ont des pièges, d'autres à la fois, et des trucs comme ça. Le système d'ascenseur amène les coureurs à des pièces choisies au hasard, de sorte que ni les coureurs ni les téléspectateurs ne savent quelle chambre vient ensuite.<end>
+Euh, ça marche comme ça : le Gauntlet, c'est plusieurs salles reliées par des ascenseurs, chaque salle avec un défi différent. Des fois des créatures mortelles, des fois des pièges... des fois les deux, et ce genre de trucs. Le système d'ascenseurs envoie les coureurs dans des salles tirées au sort, donc ni les coureurs ni les spectateurs savent quelle salle vient ensuite.<end>
 
 =>q18_original
 That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
 
 =>q18
-C'est la partie amusante. Pas vrai ? De toute façon, l'objectif est de passer par toutes ces pièces et d'arriver à la fin avant que les autres coureurs fassent, et des choses comme ça. En outre, vous ne pouvez pas utiliser votre propre équipement; vous pouvez choisir dans les casiers au début ce que vous voulez utiliser. Vous pouvez cependant utiliser ce que vous trouvez pendant votre course.<end>
+C'est ça le plus marrant. Non ? Euh, bref, l'objectif c'est de passer toutes ces salles et d'arriver au bout avant les autres coureurs, et ce genre de trucs. Aussi, vous pouvez pas utiliser votre propre matos ; vous piochez dans les casiers au départ ce que vous voulez. Par contre, vous pouvez utiliser ce que vous trouvez en route.<end>
 
 =>q19_original
 Oh, yeah, the more time you spend in one room, the more difficult next ones will become. *But,* in some rooms you can find keys which you can use during the final stretch, um, the final room, to unlock doors which enable you to use shortcuts to the end. So it's up to you to choose the way you run the Gauntlet.<end>
 
 =>q19
-Plus vous passerez de temps dans une pièce, plus les prochaines seront difficiles. *Mais,* dans certaines pièces, vous pouvez trouver des clés que vous pouvez utiliser pendant le dernier tronçon, um, la chambre finale, pour débloquer les portes qui vous permettent d'utiliser des raccourcis jusqu'à la fin. C'est donc à vous de choisir la façon dont vous exécutez le Gauntlet.<end>
+Ah, ouais, plus vous restez longtemps dans une salle, plus les suivantes deviennent dures. *Mais* dans certaines salles, vous pouvez trouver des clés, à utiliser dans la dernière ligne droite, euh, la salle finale, pour ouvrir des portes et prendre des raccourcis jusqu'à la fin. Donc c'est vous qui choisissez comment vous courez le Gauntlet.<end>
 
 =>q20_original
 And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. Um, so do you have more questions or are you ready to start? We need only one more runner.<end>
 
 =>q20
-Et c'est tout. Tu arrives au bout, tu tires le levier, les autres coureurs meurent, tu vis. Si quelqu'un d'autre arrive en premier, quelqu'un vit et tu meurs. Vous avez d'autres questions ou êtes-vous prêt à commencer ? Il nous faut un seul coureur.<end>
+Et voilà. Vous arrivez au bout, vous tirez le levier, les autres coureurs meurent, vous vivez. Si quelqu'un d'autre arrive avant, c'est lui qui vit et vous qui mourez. Euh, vous avez d'autres questions, ou vous êtes $(#prêt/prête) à commencer ? Il nous manque plus qu'un coureur.<end>
 
 =>q21_original
 Are you the gladiator Lanista called about? Um, $(context.playerArenaTitle)?<end>
 
 =>q21
-Êtes-vous le gladiateur Lanista appelé ? Euh, $(context.playerArenaTitle) ?<end>
+C'est vous $(#le gladiateur/la gladiatrice) dont Lanista a parlé ? Euh, $(context.playerArenaTitle) ?<end>
 
 =>a22_original
 Yes, I am.<end>
 
 =>a22
-Oui.<end>
+Oui, c'est moi.<end>
 
 =>q23_original
 Good, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
 
 =>q23
-Bien, laisse-moi juste, euh, une seconde. ::Elle passe par plusieurs papiers.:: Merde, c'est ici.<end>
+Bien, laissez-moi juste, euh, une seconde. ::Elle feuillette plusieurs papiers.:: Merde, euh, ah, le voilà.<end>
 
 =>q24_original
 Um, I don't know how familiar you are with how a run, through the Gauntlet that is, works. I'll just explain it all. ::She looks at the paper in her hand.:: Why did I take this? I don't need this! ::Throws the paper away.:: Um, yeah, the run.<end>
 
 =>q24
-Je ne sais pas à quel point vous êtes familier avec comment fonctionne une course, à travers le Gauntlet, c'est-à-dire. Je vais tout expliquer. ::Elle regarde le journal dans sa main.:: Pourquoi j'ai pris ça ? Je n'ai pas besoin de ça ! ::Jette le papier.:: Oui, la course.<end>
+Euh, je sais pas à quel point vous connaissez le fonctionnement d'une course, dans le Gauntlet, je veux dire. Je vais tout expliquer. ::Elle regarde le papier dans sa main.:: Pourquoi j'ai pris ça ? J'en ai pas besoin ! ::Elle jette le papier.:: Euh, ouais, la course.<end>
 
 =>a25_original
 I guess I'm not famous enough. Yes, I am the one.<end>
 
 =>a25
-Je ne suis pas assez célèbre. Oui, c'est moi.<end>
+Je dois pas être assez célèbre. Oui, c'est moi.<end>
 
 =>q26_original
 Guess not, let me just, um, one second. ::She goes through several papers.:: Damn it, um, oh, here it is.<end>
 
 =>q26
-Non, laisse-moi juste... une seconde. ::Elle passe par plusieurs papiers.:: Merde, c'est ici.<end>
+Apparemment pas, laissez-moi juste, euh, une seconde. ::Elle feuillette plusieurs papiers.:: Merde, euh, ah, le voilà.<end>
 
 =>q27_original
 You can't just walk in her-- ::She makes a pause, yawns, then continues.:: What I meant was, only challengers and gladiators who earned the right to apply for the Gaunlet can... Um, one must fight in the Arena and be really good and...<end>
 
 =>q27
-Tu ne peux pas marcher dans son... ::Elle fait une pause, bâille, puis continue.:: Ce que je voulais dire, c'est que seuls les contestants et gladiateurs qui ont gagné le droit de demander le Gaunlet peuvent... Hum, il faut se battre dans l'arène et être vraiment bon et...<end>
+Vous pouvez pas débarquer comm-- ::Elle s'arrête, bâille, puis reprend.:: Ce que je voulais dire : seuls les challengers et les gladiateurs qui ont gagné le droit de s'inscrire au Gauntlet peuvent... Euh, il faut se battre dans l'Arena, être vraiment bon, et...<end>
 
 =>q28_original
 You just can't... apply. I hope you understood. I'm not sure I did...<end>
 
 =>q28
-Tu ne peux pas... postuler. J'espère que vous avez compris. Je ne suis pas sûr de l'avoir...<end>
+Vous pouvez simplement pas... vous inscrire. J'espère que vous avez compris. J'en suis même pas sûre, moi...<end>
 
 =>a29_original
 I have some questions about the Gauntlet.<end>
 
 =>a29
-J'ai quelques questions sur le Gauntlet.<end>
+J'ai des questions sur le Gauntlet.<end>
 
 =>q30_original
 Um, why not. It's not like I'll get some rest soon. I mean, what do you want to know?<end>
 
 =>q30
-Pourquoi pas. Ce n'est pas comme si je me reposais bientôt. Que voulez-vous savoir ?<end>
+Euh, pourquoi pas. C'est pas comme si j'allais me reposer tout de suite. Enfin, vous voulez savoir quoi ?<end>
 
 =>q31_original
 <end>
@@ -204,73 +204,73 @@ Pourquoi pas. Ce n'est pas comme si je me reposais bientôt. Que voulez-vous sav
 Can you tell me the basics of the Gauntlet again?<end>
 
 =>a32
-Pouvez-vous me dire à nouveau les bases du Gauntlet ?<end>
+Vous pouvez me redire les bases du Gauntlet ?<end>
 
 =>q33_original
 Um, okay, here we go again.<end>
 
 =>q33
-C'est reparti.<end>
+Euh, d'accord, c'est reparti.<end>
 
 =>q34_original
 Um, it all goes like this: The Gauntlet itself is composed of multiple rooms connected by elevators, with each room containing a different challenge. Some have deadly creatures, some have traps... some both, and stuff like that. The elevator system brings runners to randomly selected rooms, so neither the runners or the viewers don't know which room comes next.<end>
 
 =>q34
-Le Gauntlet lui-même est composé de plusieurs pièces reliées par des ascenseurs, chaque pièce contenant un défi différent. Certains ont des créatures mortelles, d'autres ont des pièges, d'autres à la fois, et des trucs comme ça. Le système d'ascenseur amène les coureurs dans des salles choisies au hasard, de sorte que ni les coureurs ni les téléspectateurs ne savent quelle salle vient ensuite.<end>
+Euh, ça marche comme ça : le Gauntlet, c'est plusieurs salles reliées par des ascenseurs, chaque salle avec un défi différent. Des fois des créatures mortelles, des fois des pièges... des fois les deux, et ce genre de trucs. Le système d'ascenseurs envoie les coureurs dans des salles tirées au sort, donc ni les coureurs ni les spectateurs savent quelle salle vient ensuite.<end>
 
 =>q35_original
 That's the fun part. Right? Um, anyway, the objective is to go through all those rooms and get to the end before other runners do, and stuff like that. Also, you can't use your own gear; you get to pick from the lockers at the start what you want to use. You can use what you find during your run, though.<end>
 
 =>q35
-C'est la partie amusante. Pas vrai ? De toute façon, l'objectif est de passer par toutes ces pièces et d'arriver à la fin avant que les autres coureurs fassent, et des choses comme ça. En outre, vous ne pouvez pas utiliser votre propre équipement; vous pouvez choisir dans les casiers au début ce que vous voulez utiliser. Vous pouvez cependant utiliser ce que vous trouvez pendant votre course.<end>
+C'est ça le plus marrant. Non ? Euh, bref, l'objectif c'est de passer toutes ces salles et d'arriver au bout avant les autres coureurs, et ce genre de trucs. Aussi, vous pouvez pas utiliser votre propre matos ; vous piochez dans les casiers au départ ce que vous voulez. Par contre, vous pouvez utiliser ce que vous trouvez en route.<end>
 
 =>q36_original
 Oh, yeah, the more time you spend in one room, the more difficult next ones will be. Will be, but in some rooms you can find keys which you can use during the final strech, um, the final room, to unlock doors and use shortcuts. So it's up to you to choose how you run the Gauntlet.<end>
 
 =>q36
-Plus vous passerez de temps dans une pièce, plus les prochaines seront difficiles. Sera, mais dans certaines pièces vous pouvez trouver des clés que vous pouvez utiliser pendant la dernière marche, um, la chambre finale, pour débloquer les portes et utiliser des raccourcis. Donc, c'est à vous de choisir comment exécuter le Gauntlet.<end>
+Ah, ouais, plus vous restez longtemps dans une salle, plus les suivantes seront dures. Seront, mais dans certaines salles vous pouvez trouver des clés, à utiliser dans la dernière ligne droite, euh, la salle finale, pour ouvrir des portes et prendre des raccourcis. Donc c'est vous qui choisissez comment vous courez le Gauntlet.<end>
 
 =>q37_original
 And that's it. You get to the end, pull the lever, other runners die, you live. If someone else gets there first, that someone lives and you die. That's really all there is to it.<end>
 
 =>q37
-Et c'est tout. Tu arrives au bout, tu tires le levier, les autres coureurs meurent, tu vis. Si quelqu'un d'autre arrive en premier, quelqu'un vit et tu meurs. C'est tout ce qu'il y a à faire.<end>
+Et voilà. Vous arrivez au bout, vous tirez le levier, les autres coureurs meurent, vous vivez. Si quelqu'un d'autre arrive avant, c'est lui qui vit et vous qui mourez. C'est vraiment tout.<end>
 
 =>a38_original
 What is the reward for completing the Gauntlet?<end>
 
 =>a38
-Quelle est la récompense pour avoir complété le Gauntlet ?<end>
+C'est quoi la récompense, pour finir le Gauntlet ?<end>
 
 =>q39_original
 Didn't I mention this? Um, it's two thousand charons. That's *two* *thousand.*<end>
 
 =>q39
-Je n'en ai pas parlé ? C'est deux mille charons. C'est deux mille.<end>
+J'en ai pas parlé ? Euh, c'est deux mille charons. *Deux* *mille.*<end>
 
 =>q40_original
 That's important, I probably mentioned it. ::She yawns.::<end>
 
 =>q40
-C'est important, je l'ai probablement mentionné. ::Elle bâille.::<end>
+C'est important, j'en ai sûrement parlé. ::Elle bâille.::<end>
 
 =>a41_original
 What is the Gauntlet?<end>
 
 =>a41
-Qu'est-ce que le Gauntlet?<end>
+C'est quoi, le Gauntlet ?<end>
 
 =>q42_original
 Um, the Gauntlet... the Gauntlet is a very recent and increasingly popular, um, event in which contestants called runners compete in overcoming multiple challenging and dangerous rooms. The goal is to, well, survive the rooms *and* get to the end before the other runners do. Its growing popularity is, um, largely due to JKK making sure it's being broadcasted throughout the whole Underrail.<end>
 
 =>q42
-Um, le Gauntlet... le Gauntlet est un événement très récent et de plus en plus populaire, dans lequel les concurrents appelés coureurs se disputent pour surmonter plusieurs salles difficiles et dangereuses. L'objectif est, bien, de survivre aux pièces * et * obtenir à la fin avant les autres coureurs faire. Sa popularité croissante est en grande partie due au fait que JKK s'assure qu'elle est diffusée dans tout le Underrail.<end>
+Euh, le Gauntlet... le Gauntlet, c'est un événement tout récent, de plus en plus populaire, euh, où des candidats qu'on appelle coureurs s'affrontent dans plusieurs salles dures et dangereuses. Le but, c'est, bon, de survivre aux salles *et* d'arriver au bout avant les autres. Sa popularité, euh, ça vient surtout de JKK, qui s'assure que ça passe dans tout Underrail.<end>
 
 =>q43_original
 Oh, and since the majority of runners don't survive... ::She pauses.:: What I *really* meant was, it's held once a week.<end>
 
 =>q43
-Et puisque la majorité des coureurs ne survivent pas... ::Elle fait une pause.:: Ce que je voulais dire, c'est que ça se tient une fois par semaine.<end>
+Ah, et comme la majorité des coureurs survivent pas... ::Elle s'arrête.:: Ce que je voulais *vraiment* dire : ça a lieu une fois par semaine.<end>
 
 =>a44_original
 Let's discuss something else.<end>
@@ -282,25 +282,25 @@ Parlons d'autre chose.<end>
 ::She gives you a tired nod.::<end>
 
 =>q45
-::Elle te fait un clin d'œil fatigué.::<end>
+::Elle vous fait un signe de tête fatigué.::<end>
 
 =>a46_original
 Why don't you get some rest?<end>
 
 =>a46
-Pourquoi tu ne te reposes pas ?<end>
+Pourquoi vous vous reposez pas ?<end>
 
 =>q47_original
 Do you think I don't want to? Um, what I meant was, I wish, oh, how I wish. I long - I yearn for a warm bed. One that will embrace me tightly, love me, caress me and let me sleep for seven days straight - and make the fatigue, the blurred vision and all of that go away...<end>
 
 =>q47
-Tu crois que je ne veux pas ? Ce que je voulais dire, c'est que j'aimerais, oh, comme je le souhaite. Je veux un lit chaud. Celui qui m'embrassera étroitement, m'aimera, me caressera et me laissera dormir sept jours de suite - et fera disparaître la fatigue, la vision floue et tout ça...<end>
+Vous croyez que j'en ai pas envie ? Euh, ce que je voulais dire : si seulement, oh, si seulement. Je rêve, je meurs d'envie d'un lit chaud. Un lit qui m'enlace fort, qui m'aime, qui me caresse et qui me laisse dormir sept jours d'affilée, et qui fasse disparaître la fatigue, la vision floue, et tout le reste...<end>
 
 =>q48_original
 ::She sighs.:: But, I can't. Not now. It's a long story.<end>
 
 =>q48
-::Elle soupire.:: Mais je ne peux pas. Pas maintenant. C'est une longue histoire.<end>
+::Elle soupire.:: Mais je peux pas. Pas maintenant. C'est une longue histoire.<end>
 
 =>a49_original
 See you some other time.<end>
@@ -312,13 +312,13 @@ See you some other time.<end>
 So long. Get some rest.<end>
 
 =>a50
-Au revoir. Repose-toi.<end>
+À plus. Reposez-vous.<end>
 
 =>q51_original
 I would if I could. ::She sighs, yawns and waves at you.:: Bye.<end>
 
 =>q51
-Si je pouvais. ::Elle soupire, bâille et onde sur toi.:: Au revoir.<end>
+Si je pouvais. ::Elle soupire, bâille et vous fait un petit signe.:: Au revoir.<end>
 
 =>a52_original
 Bye.<end>
@@ -332,7 +332,6 @@ Au revoir.<end>
 Um, what do you need?<end>
 
 =>q53
-::Andrea se tient là, les yeux fermés, mais les ouvre rapidement, dès que vous approchez.:: Je suis réveillé ! Je suis réveillé ! Je me reposais les yeux !
+::Andrea est là, les yeux fermés, mais les ouvre tout grands dès que vous approchez.:: Je suis réveillée ! Je suis réveillée ! Je me reposais juste les yeux !
 
-De quoi avez-vous besoin ?<end>
-
+Euh, vous avez besoin de quoi ?<end>

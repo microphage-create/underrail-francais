@@ -2,13 +2,13 @@
 You're done for!<end>
 
 =>q1
-C'est fini !<end>
+T'es cuit !<end>
 
 =>q2_original
 GET OUT!<end>
 
 =>q2
-Dehors !<end>
+DEHORS !<end>
 
 =>q3_original
 ::You stare at a raised crossbow.::
@@ -16,45 +16,45 @@ Dehors !<end>
 Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, ONE finger and I'll launch a bolt through your hollow skull!<end>
 
 =>q3
-::Vous regardez une arbalète surélevée.::
+::Vous avez une arbalète braquée sur vous.::
 
-Qu'est-ce qu'il y a ? Qu'est-ce qu'il y a ? Bouge un doigt et je lance un boulon dans ton crâne creux !<end>
+Qu'est-ce que tu fous ici, intrus !? Hein ? Hein !? Tu bouges un, UN doigt, et je te plante un carreau au travers du crâne !<end>
 
 =>a4_original
 Leo, it's me. Don't you remember?<end>
 
 =>a4
-Leo, c'est moi. Tu ne te souviens pas ?<end>
+Leo, c'est moi. Tu te souviens pas ?<end>
 
 =>q5_original
 Get outta here, intruder! Get out! I swear, I'll nail you to that wall over there if you don't get outta here!<end>
 
 =>q5
-Sors d'ici, intrus ! Dehors ! Je te jure, je te clouerai à ce mur là-bas si tu ne sors pas d'ici !<end>
+Dégage, intrus ! Dehors ! Je te jure, je te cloue à ce mur si tu dégages pas !<end>
 
 =>a6_original
 Farewell then, Leo.<end>
 
 =>a6
-Adieu alors, Leo.<end>
+Adieu, Leo.<end>
 
 =>a7_original
 ::Walk away without saying a word.::<end>
 
 =>a7
-::Partez sans dire un mot.::<end>
+::Partir sans dire un mot.::<end>
 
 =>a8_original
 As if you can hit anything, old man. Give me your best shot! ::Fight!::<end>
 
 =>a8
-Comme si tu pouvais frapper quoi que ce soit, mon vieux. Donnez-moi votre meilleure chance ! ::Lutte!::<end>
+Comme si t'allais toucher quoi que ce soit, vieux. Allez, tire ! ::Combattre.::<end>
 
 =>a9_original
 Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
 
 =>a9
-Calme-toi. Je ne suis pas là pour causer des ennuis. Tu peux baisser ton arme ?<end>
+Calme-toi. Je suis pas là pour chercher des ennuis. Tu peux baisser l'arme ?<end>
 
 =>q10_original
 <end>
@@ -66,7 +66,7 @@ Calme-toi. Je ne suis pas là pour causer des ennuis. Tu peux baisser ton arme ?
 ::[Persuasion] ::<end>
 
 =>q11
-::[Persuasion]::<end>
+::[Persuasion] ::<end>
 
 =>q12_original
 <end>
@@ -86,9 +86,9 @@ Calme-toi. Je ne suis pas là pour causer des ennuis. Tu peux baisser ton arme ?
 Or maybe you're just losing your mind due to the fact that you've spent an hour talking to a bottomless pit.::<end>
 
 =>q14
-::Vous avez passé une heure à discuter avec votre écho. Une longue conversation, au cours de laquelle vous et le Hole of Reason avez convenu de tout, ce qui en fait la conversation la plus ennuyeuse que vous ayez jamais eue. Pourtant, bizarrement, pas le plus inutile, il semble: Vous vous sentez comme si votre raisonnement était quelque peu plus précis, votre mémoire plus fiable; vous vous sentez plus concentré et moins susceptible d'être distrait par des interférences extérieures - vous vous sentez étrange.
+::Vous avez passé une heure à parler avec votre écho. Une longue discussion, pendant laquelle vous et le Hole of Reason avez été d'accord sur à peu près tout : clairement la conversation la plus ennuyeuse de votre vie. Et pourtant, bizarrement, pas la plus inutile : votre raisonnement vous semble plus net, votre mémoire plus sûre ; vous vous sentez plus $(#concentré/concentrée), moins facile à dérouter - vous vous sentez bizarre.
 
-Ou peut-être que tu perds la tête en raison du fait que tu as passé une heure à parler à une fosse sans fond.::<end>
+Ou alors vous perdez simplement la tête, à force de parler une heure avec un trou sans fond.::<end>
 
 =>q15_original
 Feelin' good, $(context.player.Name)?<end>
@@ -100,7 +100,7 @@ Tu te sens bien, $(context.player.Name) ?<end>
 Feeling persuasive... and persuaded.<end>
 
 =>a16
-Se sentir persuasif... et persuadé.<end>
+$(#Persuasif/Persuasive)... et $(#persuadé/persuadée).<end>
 
 =>q17_original
 Eh?<end>
@@ -112,7 +112,7 @@ Hein ?<end>
 Never mind. I wanted to talk to you about a few things.<end>
 
 =>a18
-Laisse tomber. Je voulais te parler de quelques choses.<end>
+Laisse tomber. Je voulais te parler de deux-trois trucs.<end>
 
 =>q19_original
 Eh?<end>
@@ -130,25 +130,25 @@ Hein ?<end>
 Do you have anything to trade? ::Barter.::<end>
 
 =>a21
-Avez-vous quelque chose à échanger ? ::Troc.::<end>
+T'as quelque chose à troquer ? ::Troc.::<end>
 
 =>a22_original
 I've activated one of the elevators that leads out of Deep Caverns. Would you like to come with me?<end>
 
 =>a22
-J'ai activé un des ascenseurs qui mène à Deep Caverns. Tu veux venir avec moi ?<end>
+J'ai activé un des ascenseurs qui sort de Deep Caverns. Tu veux venir avec moi ?<end>
 
 =>q23_original
 ::He stares blankly at you.::<end>
 
 =>q23
-::Il te regarde à blanc.::<end>
+::Il vous fixe, l'air vide.::<end>
 
 =>a24_original
 I said, would you like to come with me? Get out of here?<end>
 
 =>a24
-Tu veux venir avec moi ? Sors d'ici ?<end>
+Je t'ai demandé si tu voulais venir. Sortir d'ici.<end>
 
 =>q25_original
 ::A few noiseless moments pass before he shakes his head and answers.:: 
@@ -156,75 +156,75 @@ Tu veux venir avec moi ? Sors d'ici ?<end>
 No.<end>
 
 =>q25
-::Quelques moments sans bruit passent avant qu'il ne se secoue la tête et ne réponde.::
+::Quelques secondes passent, sans un bruit. Il secoue la tête, enfin.::
 
-C'est pas vrai.<end>
+Non.<end>
 
 =>a26_original
 Why not? Do you really want to stay here for the rest of your life?<end>
 
 =>a26
-Pourquoi pas ? Tu veux vraiment rester ici pour le reste de ta vie ?<end>
+Pourquoi pas ? Tu veux vraiment finir tes jours ici ?<end>
 
 =>q27_original
 I don't know.<end>
 
 =>q27
-Je ne sais pas.<end>
+Je sais pas.<end>
 
 =>a28_original
 Are you afraid of going up there?<end>
 
 =>a28
-Tu as peur d'y aller ?<end>
+T'as peur de monter ?<end>
 
 =>q29_original
 I don't know.<end>
 
 =>q29
-Je ne sais pas.<end>
+Je sais pas.<end>
 
 =>a30_original
 Life is better up there. It ain't great, but it's a lot better than it is in this place.<end>
 
 =>a30
-La vie est meilleure là-haut. C'est pas génial, mais c'est beaucoup mieux qu'ici.<end>
+La vie est mieux là-haut. C'est pas le paradis, mais c'est nettement mieux qu'ici.<end>
 
 =>q31_original
 I believe what you're sayin', but I'm not goin' there. I can't. I just can't. I *just* can't. I don't know. *Here* I know... and I don't. *There* I just... don't. And I don't remember.<end>
 
 =>q31
-Je crois ce que tu dis, mais je n'y vais pas. Je ne peux pas. Je ne peux pas. Je ne peux pas. Je ne sais pas. Je sais. Je n'y suis pas. Et je ne me souviens pas.<end>
+Je te crois, mais j'y vais pas. Je peux pas. Je peux pas. Je *peux* pas. Je sais pas. *Ici* je sais... et je sais pas. *Là-bas* je... sais pas. Et je me souviens pas.<end>
 
 =>q32_original
 You go. Go. Don't think of me.<end>
 
 =>q32
-Allez-y. Ne pense pas à moi.<end>
+Vas-y. Vas-y. Pense pas à moi.<end>
 
 =>a33_original
 If you ever change your mind, go to the elevator by the lake.<end>
 
 =>a33
-Si vous changez d'avis, allez à l'ascenseur près du lac.<end>
+Si tu changes d'avis, va à l'ascenseur près du lac.<end>
 
 =>q34_original
 ::He quietly nods.::<end>
 
 =>q34
-::Il hoche doucement.::<end>
+::Il hoche la tête, sans un mot.::<end>
 
 =>a35_original
 Whatever. I'm off, old man.<end>
 
 =>a35
-Peu importe. Je m'en vais, mon vieux.<end>
+Tant pis. J'y vais, vieux.<end>
 
 =>a36_original
 Why are you here, Leo? And for how long?<end>
 
 =>a36
-Pourquoi es-tu ici, Leo ? Et pour combien de temps ?<end>
+Pourquoi t'es ici, Leo ? Et depuis quand ?<end>
 
 =>q37_original
 ::Your question is answered by a confused stare. A spoken reply follows.::
@@ -232,9 +232,9 @@ Pourquoi es-tu ici, Leo ? Et pour combien de temps ?<end>
 You are askin' me questions I can't answer.<end>
 
 =>q37
-::Votre question est répondue par un regard confus. Voici une réponse orale.::
+::Un regard perdu lui sert de réponse. Puis il parle.::
 
-Je ne peux pas répondre à vos questions.<end>
+Tu me poses des questions auxquelles je peux pas répondre.<end>
 
 =>a38_original
 Why not?<end>
@@ -246,37 +246,37 @@ Pourquoi pas ?<end>
 I can't remember those things. I forgot 'em. I sometimes even... have trouble rememberin' my own name... Leo. Leo. *Leo*.<end>
 
 =>q39
-Je ne me souviens pas de ces choses. Je les ai oubliés. Parfois, même... j'ai du mal à me souvenir de mon nom... Leo.<end>
+Je me souviens pas de ces trucs. Je les ai oubliés. Des fois, même... j'ai du mal à me rappeler mon propre nom... Leo. Leo. *Leo*.<end>
 
 =>a40_original
 How can one forget his very own name?<end>
 
 =>a40
-Comment peut-on oublier son nom ?<end>
+Comment on oublie son propre nom ?<end>
 
 =>q41_original
 It's the pressure. The pressure in my head makes me forget things, you know. Everytime I go near the complex, the pressure... it makes the edges of my mind fuzzy. Then, it shrinks, and I feel somethin' inside got lost. The devils, Tchortists, they live there with their demons and are resistant to it, I think, but I... I forget.<end>
 
 =>q41
-C'est la pression. La pression dans ma tête me fait oublier des choses. Chaque fois que je m'approche du complexe, la pression... rend mon esprit flou. Puis, ça rétrécit, et je sens que quelque chose à l'intérieur s'est perdu. Les démons, Tchortists, ils y vivent avec leurs démons et y résistent, je pense, mais j'oublie.<end>
+C'est la pression. La pression dans ma tête, elle me fait oublier, tu vois. Chaque fois que je m'approche du complexe, la pression... elle brouille les bords de mon esprit. Après, ça rétrécit, et je sens qu'un morceau s'est perdu là-dedans. Les diables, les Tchortists, ils vivent là avec leurs démons, eux ils résistent, je crois, mais moi... j'oublie.<end>
 
 =>a42_original
 I know what you mean. I was there too and felt a strange sensation in my head, but it gets better as soon as I leave the area.<end>
 
 =>a42
-Je vois ce que tu veux dire. J'étais là aussi et j'ai ressenti une étrange sensation dans la tête, mais ça s'améliore dès que je quitte la région.<end>
+Je vois ce que tu veux dire. J'y étais aussi, cette sensation bizarre dans le crâne, mais ça passe dès que je m'éloigne.<end>
 
 =>q43_original
 Yes, the pressure lessens once you leave... but there's always somethin' missin' from your mind.<end>
 
 =>q43
-Oui, la pression diminue une fois que vous partez... mais il y a toujours quelque chose qui vous manque.<end>
+Oui, la pression lâche une fois que tu t'éloignes... mais y a toujours un bout qui manque, dans ta tête.<end>
 
 =>q44_original
 I remember other things... Yes. Yes. Recent things and, and some other if I can focus hard on it, those I remember. But the past, it evaporated! Poof!<end>
 
 =>q44
-Je me souviens d'autres choses... Oui. Oui. Des choses récentes et, et d'autres si je peux me concentrer sur elle, celles dont je me souviens. Mais le passé, il s'est évaporé ! Pouf !<end>
+Je me souviens d'autres trucs... Oui. Oui. Les trucs récents et, et d'autres si je me concentre très fort, ceux-là je les ai. Mais le passé, il s'est évaporé ! Pouf !<end>
 
 =>a45_original
 Evaporated?<end>
@@ -288,121 +288,121 @@ Evaporated?<end>
 It evaporated - POOF! Some things I know but can't remember... Yes - I know but can't remember. The knife, I know that it's important, but can't remember why. It's... a deep feelin'. Maybe someone gave it to me. Maybe I made it myself. I don't remember. But I feel it to be a part of me, and if I can't, can't keep my memories, then maybe I can keep things that were a part of it. Yes, yes. It's the only option I've left.<end>
 
 =>q46
-Il s'est évaporé. Je sais des choses, mais je ne me souviens pas... Je sais, mais je ne me souviens pas. Le couteau, je sais que c'est important, mais je ne me souviens pas pourquoi. C'est... une sensation profonde. Quelqu'un me l'a peut-être donné. Peut-être que je l'ai fait moi-même. Je ne me souviens pas. Mais je sens que ça fait partie de moi, et si je ne peux pas, je ne peux pas garder mes souvenirs, alors peut-être que je peux garder des choses qui en faisaient partie. Oui, oui. C'est la seule option qui me reste.<end>
+Il s'est évaporé - POUF ! Y a des trucs que je *sais* mais dont je me souviens pas... Oui - je sais, mais je me souviens pas. Le couteau, je sais qu'il compte, mais je sais plus pourquoi. C'est... un truc profond. Peut-être que quelqu'un me l'a donné. Peut-être que je l'ai fait moi-même. Je me souviens pas. Mais je le sens comme un morceau de moi, et si je peux pas, si je peux pas garder mes souvenirs, alors peut-être que je peux garder les trucs qui en faisaient partie. Oui, oui. C'est tout ce qu'il me reste.<end>
 
 =>q47_original
 Maybe my mind will become clearer one day and those items will help me remember. Yes, yes.<end>
 
 =>q47
-Peut-être que mon esprit deviendra plus clair un jour et ces objets m'aideront à me souvenir. Oui, oui.<end>
+Peut-être qu'un jour ma tête sera plus claire, et ces objets m'aideront à me souvenir. Oui, oui.<end>
 
 =>a48_original
 Why did you go back to the complex if the pressure makes you lose your memory?<end>
 
 =>a48
-Pourquoi êtes-vous retourné au complexe si la pression vous fait perdre la mémoire ?<end>
+Pourquoi t'es retourné au complexe, si la pression te fait perdre la mémoire ?<end>
 
 =>q49_original
 I rarely go there. Right. The pressure, devils - and demons. It is not a good place to be. No. But the diggers - they emerged, so I had to.<end>
 
 =>q49
-J'y vais rarement. Oui. La pression, les démons et les démons. Ce n'est pas un bon endroit pour être. C'est pas vrai. Mais les plongeurs - ils ont émergé, donc je le devais.<end>
+J'y vais rarement. Voilà. La pression, les diables - et les démons. C'est pas un endroit où rester. Non. Mais les creuseurs - ils sont sortis, alors j'ai dû.<end>
 
 =>a50_original
 Diggers?<end>
 
 =>a50
-Des digers ?<end>
+Des creuseurs ?<end>
 
 =>q51_original
 Diggers, the critters you must've seen out front. They crawled out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out! Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
 
 =>q51
-Diggers, les créatures que vous avez dû voir devant. Ils sont sortis du sol quand le grand tremblement l'a ouvert. Le grand tremblement. Le grand *shake*. Puis ils sont sortis ! C'est horrible. J'ai mis ces pièges pour eux, mais ils ont un cerveau dedans. Pas un seul piège n'a été déclenché !<end>
+Les creuseurs, les bêtes que t'as dû voir devant. Ils ont rampé hors du sol quand le grand tremblement l'a ouvert. Le *grand* tremblement. Le grand *tremblement*. Et ils sont sortis ! Des horreurs, ces trucs. J'ai planté des pièges pour eux, mais ils ont un peu de cervelle. Pas un seul piège a sauté !<end>
 
 =>q52_original
 But... I think I remember now. I saw 'em a long time before. Maybe. But not in such numbers, no, no, and it was far away from my home. But this, this is too many...<end>
 
 =>q52
-Mais... Je crois que je me souviens maintenant. Je les ai vus bien avant. Peut-être. Mais pas en de tels nombres, non, non, et c'était loin de chez moi. Mais ça, c'est trop...<end>
+Mais... je crois que je me souviens, maintenant. Je les avais déjà vus, il y a longtemps. Peut-être. Mais pas autant, non, non, et c'était loin de chez moi. Là, là c'est trop...<end>
 
 =>a53_original
 You were going to tell me why did the diggers make you go back to the complex.<end>
 
 =>a53
-Tu allais me dire pourquoi les poignards t'ont fait retourner au complexe.<end>
+Tu allais me dire pourquoi les creuseurs t'ont forcé à retourner au complexe.<end>
 
 =>q54_original
 Yes! I needed to find... uh, somethin' it was, somethin' - anythin' to keep 'em away from my home! The complex is rich with... things. I know it is, but I can't remember exactly what. I found things in the past there - useful things. I had to take the risk. I had to try. The diggers were closing in, and the storages, nothin' of use there against 'em.<end>
 
 =>q54
-Oui ! J'avais besoin de trouver quelque chose pour les éloigner de chez moi ! Le complexe est riche en... choses. Je sais, mais je ne me souviens pas exactement de quoi. J'ai trouvé des choses dans le passé - des choses utiles. Je devais prendre le risque. J'ai dû essayer. Les pelles se fermaient, et les rangements, rien d'utile contre eux.<end>
+Oui ! Fallait que je trouve... euh, un truc, un truc - n'importe quoi pour les tenir loin de chez moi ! Le complexe est plein de... trucs. Je le sais, mais je me souviens plus exactement quoi. J'y ai déjà trouvé des choses - des choses utiles. Fallait que je prenne le risque. Fallait que j'essaie. Les creuseurs se rapprochaient, et les entrepôts, rien de bon contre eux là-dedans.<end>
 
 =>a55_original
 Well, did you find anything?<end>
 
 =>a55
-Vous avez trouvé quelque chose ?<end>
+Et, t'as trouvé quelque chose ?<end>
 
 =>q56_original
 ::He looks around himself, his eyes scanning every corner of his home.:: It appears I haven't. No, I am sure I haven't. I found nothin' there. I found *nothin'* there.<end>
 
 =>q56
-::Il regarde autour de lui, ses yeux scrutant chaque coin de sa maison.:: Il semble que je ne l'ai pas fait. Non, je suis sûr que non. J'ai rien trouvé. J'ai trouvé rien.<end>
+::Il regarde autour de lui, les yeux à fouiller chaque recoin de sa baraque.:: On dirait que non. Non, j'en suis sûr. J'ai rien trouvé. J'ai trouvé *rien*.<end>
 
 =>q57_original
 Even though I went prepared, I found nothing. I've been training, you see, to prevent the pressure from makin' me forget. It helps. To a degree. $(context.player.Name). *$(context.player.Name)*.<end>
 
 =>q57
-Même si je me suis préparé, je n'ai rien trouvé. J'ai été entrainé, vous voyez, pour éviter que la pression ne m'oublie. Ça aide. Dans une certaine mesure. *$(context.player.Name)*.<end>
+Même préparé, j'ai rien trouvé. Je m'entraîne, tu vois, pour que la pression me fasse moins oublier. Ça aide. Un peu. $(context.player.Name). *$(context.player.Name)*.<end>
 
 =>a58_original
 I'd be glad to clear the burrowers for you.<end>
 
 =>a58
-Je serais ravi de vous nettoyer les terriers.<end>
+Je serais $(#ravi/ravie) de te débarrasser des fouisseurs.<end>
 
 =>q59_original
 Diggers - do not confuse me. You can try to slay 'em, but they'll just come back. From the ground. They always do. I know. No, I need somethin' to keep them away. Permanently. That is why I went to the complex. Yes.<end>
 
 =>q59
-Ne me confondez pas. Tu peux les tuer, mais ils reviendront. Du sol. Ils le font toujours. Je sais. Non, j'ai besoin de quelque chose pour les éloigner. Permanentement. C'est pourquoi je suis allé au complexe. Oui.<end>
+Creuseurs - me confonds pas. Tu peux essayer de les buter, mais ils reviendront. Du sol. Toujours. Je le sais. Non, il me faut un truc pour les tenir à distance. Pour de bon. C'est pour ça que je suis allé au complexe. Oui.<end>
 
 =>q60_original
 I lost my knife there. In the complex. While running from Tchortists. Tchortists. But then you brought it back. Yes. That is what happened.<end>
 
 =>q60
-J'ai perdu mon couteau. Dans le complexe. En courant de Tchortists. Tchortistes. Mais vous l'avez ramené. Oui. C'est ce qui s'est passé.<end>
+J'ai perdu mon couteau, là-bas. Dans le complexe. En fuyant les Tchortists. Les Tchortists. Et puis tu me l'as rapporté. Oui. C'est ça qui s'est passé.<end>
 
 =>a61_original
 Resist the pressure? Tell me what you mean?<end>
 
 =>a61
-Résister à la pression ? Comment ça ?<end>
+Résister à la pression ? Qu'est-ce que tu veux dire ?<end>
 
 =>q62_original
 The Hole of Reason.<end>
 
 =>q62
-Le trou de la raison.<end>
+Le Hole of Reason.<end>
 
 =>a63_original
 The what now?<end>
 
 =>a63
-Le quoi maintenant ?<end>
+Le quoi, déjà ?<end>
 
 =>q64_original
 It's in the back. Yes, yes. When my mind is fuzzy, I go to it. It helps. It clears it up, solidifies the mind.<end>
 
 =>q64
-C'est derrière. Oui, oui. Quand mon esprit est flou, j'y vais. Ça aide. Ça l'éclaircit, ça renforce l'esprit.<end>
+C'est derrière. Oui, oui. Quand ma tête est floue, j'y vais. Ça aide. Ça dégage, ça solidifie l'esprit.<end>
 
 =>a65_original
 May I see this Hole of Reason?<end>
 
 =>a65
-Puis-je voir ce trou de raison ?<end>
+Je peux voir ce Hole of Reason ?<end>
 
 =>q66_original
 ::He nods with a smile.::
@@ -410,153 +410,153 @@ Puis-je voir ce trou de raison ?<end>
 Mhm. Follow me... um, $(context.player.Name).<end>
 
 =>q66
-::Il hoche la tête avec un sourire.::
+::Il hoche la tête, un sourire aux lèvres.::
 
-Oui. Suivez-moi... $(context.player.Name).<end>
+Mhm. Suis-moi... euh, $(context.player.Name).<end>
 
 =>a67_original
 ::Follow him to the Hole of Reason.::<end>
 
 =>a67
-::Suivez-le au trou de la raison.::<end>
+::Le suivre jusqu'au Hole of Reason.::<end>
 
 =>a68_original
 Interesting. Maybe I'll check it out some time later.<end>
 
 =>a68
-Intéressant. Je vais peut-être vérifier ça plus tard.<end>
+Intéressant. J'irai peut-être y jeter un œil plus tard.<end>
 
 =>q69_original
 When my mind is fuzzy, I go to it. Yes. I *go* to it. *I,* Leo. *Leo*.<end>
 
 =>q69
-Quand mon esprit est flou, j'y vais. Oui. J'y vais. Je, Leo.<end>
+Quand ma tête est floue, j'y vais. Oui. J'y *vais*. *Moi,* Leo. *Leo*.<end>
 
 =>a70_original
 Where is this "Hole of Reason"?<end>
 
 =>a70
-Où est ce "bol de la raison" ?<end>
+Il est où, ce "Hole of Reason" ?<end>
 
 =>a71_original
 I had other questions, if you don't mind.<end>
 
 =>a71
-J'avais d'autres questions, si ça ne vous dérange pas.<end>
+J'avais d'autres questions, si ça te dérange pas.<end>
 
 =>q72_original
 No. I don't. Ask.<end>
 
 =>q72
-C'est pas vrai. Je ne sais pas. Demande.<end>
+Non. Ça me dérange pas. Demande.<end>
 
 =>a73_original
 You mean burrowers?<end>
 
 =>a73
-Tu veux dire des terriers ?<end>
+Tu veux dire des fouisseurs ?<end>
 
 =>q74_original
 Burrowers? I mean diggers. You must've seen 'em out front. They came out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out. Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
 
 =>q74
-Des terriers ? Je veux dire des pelles. Vous avez dû les voir devant. Ils sont sortis du sol quand le grand tremblement l'a ouvert. Le grand tremblement. Le grand *shake*. Puis ils sont sortis. C'est horrible. J'ai mis ces pièges pour eux, mais ils ont un cerveau dedans. Pas un seul piège n'a été déclenché !<end>
+Des fouisseurs ? Je veux dire des creuseurs. T'as dû les voir devant. Ils sont sortis du sol quand le grand tremblement l'a ouvert. Le *grand* tremblement. Le grand *tremblement*. Et ils sont sortis. Des horreurs, ces trucs. J'ai planté des pièges pour eux, mais ils ont un peu de cervelle. Pas un seul piège a sauté !<end>
 
 =>a75_original
 So, how far back do you remember about yourself?<end>
 
 =>a75
-Tu te souviens de toi ?<end>
+Jusqu'où tu te souviens de toi, au juste ?<end>
 
 =>q76_original
 I... know I've been 'ere for a long time. I don't remember how I came 'ere, but I know I came from some other place. There are clues that tell me so. Yes, yes. I had some items with me, like the bone knife, things, um... pictures of people! I feel somethin' when I look at those things, yes, yes. I know those people, but I don't remember 'em.<end>
 
 =>q76
-Je sais que j'ai disparu depuis longtemps. Je ne me souviens pas comment je suis venu, mais je sais que je suis venu d'un autre endroit. Il y a des indices qui me le disent. Oui, oui. J'avais des objets avec moi, comme le couteau à os, des photos de gens ! Je sens quelque chose quand je regarde ces choses. Je connais ces gens, mais je ne m'en souviens pas.<end>
+Je... je *sais* que je suis ici depuis longtemps. Je me souviens pas comment je suis arrivé, mais je sais que je viens d'ailleurs. Y a des indices qui me le disent. Oui, oui. J'avais des objets sur moi, le couteau à os, des trucs, euh... des photos de gens ! Je *sens* quelque chose quand je les regarde, oui, oui. Je les connais, ces gens, mais je m'en souviens pas.<end>
 
 =>q77_original
 I haven't seen people in... a long time. I know one was 'ere. With me. No. Yes. Yes, he was. There was another man 'ere with me. There *was* another *man* with me. Here. But I don't remember what happened to him. I know he was 'ere.<end>
 
 =>q77
-Je n'ai pas vu les gens depuis longtemps. Je sais qu'il y en avait un. Avec moi. Non, oui. Oui. Il y avait un autre homme avec moi. Il y avait un autre homme. Ici. Mais je ne me souviens pas de ce qui lui est arrivé. Je sais qu'il était mort.<end>
+J'ai pas vu de gens depuis... longtemps. Je sais qu'il y en avait un. Avec moi. Non. Oui. Oui, il était là. Y avait un autre homme ici, avec moi. Y *avait* un autre *homme* avec moi. Ici. Mais je me souviens pas de ce qui lui est arrivé. Je *sais* qu'il était là.<end>
 
 =>a78_original
 Do you miss him?<end>
 
 =>a78
-Il te manque ?<end>
+Il te manque, lui ?<end>
 
 =>q79_original
 I do. I do. I don't remember why but I do... I miss him a lot. He was my best friend. We were together until he...<end>
 
 =>q79
-Oui. Oui. Je ne me souviens pas pourquoi mais je... Il me manque beaucoup. C'était mon meilleur ami. Nous étions ensemble jusqu'à ce qu'il...<end>
+Oui. Oui. Je sais plus pourquoi, mais oui... Il me manque beaucoup. C'était mon meilleur ami. On était ensemble jusqu'à ce qu'il...<end>
 
 =>a80_original
 What did you say?<end>
 
 =>a80
-Qu'est-ce que tu as dit ?<end>
+T'as dit quoi ?<end>
 
 =>q81_original
 Eh? No. He was my broth-- No, no, no, no, no. I can't remember anymore! Fuzzy, fuzzy! It...<end>
 
 =>q81
-Et alors ? C'est pas vrai. C'était mon bouillon... Non, non, non, non, non. Je ne me souviens plus ! Fuzzy, Fuzzy ! C'est...<end>
+Hein ? Non. C'était mon frèr-- Non, non, non, non, non. Je me souviens plus ! Flou, flou ! Ça...<end>
 
 =>a82_original
 Did he come here with you, perhaps? Do you remember?<end>
 
 =>a82
-Il est peut-être venu avec vous ? Tu te souviens ?<end>
+Il est peut-être venu ici avec toi ? Tu te souviens ?<end>
 
 =>q83_original
 Train.<end>
 
 =>q83
-Train.<end>
+Le train.<end>
 
 =>a84_original
 You came together by a train? I haven't seen a railroad anywhere.<end>
 
 =>a84
-Vous êtes venus par train ? Je n'ai vu aucun chemin de fer.<end>
+Vous êtes venus ensemble, en train ? J'ai vu aucun rail, par ici.<end>
 
 =>q85_original
 I don't remember. I don't know. It hurts me... Fuzzy!<end>
 
 =>q85
-Je ne me souviens pas. Je ne sais pas. Ça me fait mal... Fuzzy !<end>
+Je me souviens pas. Je sais pas. Ça me fait mal... Flou !<end>
 
 =>a86_original
 Why did you come here, Leo?<end>
 
 =>a86
-Pourquoi es-tu venu ici, Leo ?<end>
+Pourquoi t'es venu ici, Leo ?<end>
 
 =>q87_original
 Leo.<end>
 
 =>q87
-Léo.<end>
+Leo.<end>
 
 =>a88_original
 Yes, that's your name. Now tell me why'd you come here?<end>
 
 =>a88
-Oui, c'est votre nom. Dites-moi pourquoi vous êtes venu ici ?<end>
+Oui, c'est ton nom. Maintenant dis-moi pourquoi t'es venu ici.<end>
 
 =>q89_original
 *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
 
 =>q89
-Je suis Léo. Je suis Léo. Je suis "Leo". Ravi de vous rencontrer, euh... $(context.player.Name).<end>
+*Moi,* c'est Leo. Je *suis* Leo. Je suis *Leo*. Ravi de te connaître, euh... $(context.player.Name).<end>
 
 =>q90_original
 I'll remember you, I will. By the white rat's hair, I will. Now to keep my end of the bargain. Ask me anythin' you wish to know...<end>
 
 =>q90
-Je me souviendrai de toi. Par les cheveux du rat blanc, je le ferai. Maintenant pour garder ma fin du marché. Demande-moi tout ce que tu veux savoir...<end>
+Je me souviendrai de toi, ça oui. Par le poil du rat blanc, je le ferai. Maintenant, je tiens ma part du marché. Demande-moi ce que tu veux savoir...<end>
 
 =>q91_original
 ...$(context.player.Name).<end>
@@ -574,25 +574,25 @@ Leo ? Ça va ?<end>
 We better talk about something else. I see that this is getting to you.<end>
 
 =>a93
-On devrait parler d'autre chose. Je vois que ça vous arrive.<end>
+On ferait mieux de parler d'autre chose. Je vois que ça te travaille.<end>
 
 =>q94_original
 Eh? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.<end>
 
 =>q94
-$(context.player.Name) ? $(context.player.Name) *$(context.player.Name)*.<end>
+Hein ? $(context.player.Name) ? $(context.player.Name). *$(context.player.Name)*.<end>
 
 =>a95_original
 This is pointless. Listen up, I had other questions?<end>
 
 =>a95
-C'est inutile. J'avais d'autres questions ?<end>
+Ça mène nulle part. Écoute, j'avais d'autres questions.<end>
 
 =>a96_original
 I think you got that one wrong. But think, old man, you can do it.<end>
 
 =>a96
-Je crois que tu t'es trompé. Mais réfléchis, mon vieux, tu peux le faire.<end>
+Je crois que tu t'es trompé, là. Mais réfléchis, vieux, tu peux y arriver.<end>
 
 =>a97_original
 Best friend? You remember him?<end>
@@ -610,109 +610,109 @@ Jusqu'à ce que quoi ?<end>
 Until he... no. He was not my friend, but my bro-- No, no, no, no, no. I can't remember! Fuzzy, fuzzy! It...<end>
 
 =>q99
-Jusqu'à ce qu'il... non. Ce n'était pas mon ami, mais mon frère... Non, non, non, non, non. Je ne me souviens pas ! Fuzzy, Fuzzy ! C'est...<end>
+Jusqu'à ce qu'il... non. C'était pas mon ami, c'était mon frèr-- Non, non, non, non, non. Je me souviens plus ! Flou, flou ! Ça...<end>
 
 =>a100_original
 I'd like to change the subject now.<end>
 
 =>a100
-J'aimerais changer de sujet.<end>
+Je voudrais changer de sujet, là.<end>
 
 =>q101_original
 Eh? Alright, Alright. Go ahead then. Ask.<end>
 
 =>q101
-Et alors ? Très bien. Allez-y. Demande.<end>
+Hein ? D'accord, d'accord. Vas-y. Demande.<end>
 
 =>a102_original
 You forgot your past?<end>
 
 =>a102
-Tu as oublié ton passé ?<end>
+T'as oublié ton passé ?<end>
 
 =>a103_original
 I wouldn't want anything like that to happen to me.<end>
 
 =>a103
-Je ne voudrais pas que ça m'arrive.<end>
+J'aimerais pas que ça m'arrive, à moi.<end>
 
 =>a104_original
 That's horrible. If you're afraid about forgetting your own name, then I better not ask about other, less important things.<end>
 
 =>a104
-C'est horrible. Si vous avez peur d'oublier votre propre nom, alors je ferais mieux de ne pas poser de questions sur d'autres choses moins importantes.<end>
+C'est horrible. Si t'as peur d'oublier ton propre nom, autant que je pose pas de questions sur le reste, moins important.<end>
 
 =>a105_original
 Can't or won't?<end>
 
 =>a105
-Tu ne peux pas ou tu ne veux pas ?<end>
+Tu peux pas, ou tu veux pas ?<end>
 
 =>q106_original
 Can't. <end>
 
 =>q106
-Je ne peux pas. <end>
+Je peux pas. <end>
 
 =>a107_original
 Why do you repeat your name several times every time you say it?<end>
 
 =>a107
-Pourquoi répéter votre nom plusieurs fois chaque fois que vous le dites ?<end>
+Pourquoi tu répètes ton nom plusieurs fois, à chaque fois que tu le dis ?<end>
 
 =>q108_original
 So I won't forget it.<end>
 
 =>q108
-Donc je ne l'oublierai pas.<end>
+Pour pas l'oublier.<end>
 
 =>a109_original
 Do you know of a way out of here?<end>
 
 =>a109
-Tu connais une sortie ?<end>
+Tu connais un moyen de sortir d'ici ?<end>
 
 =>q110_original
 There are elevators, yes, yes, but not a single one of them works. They lead up, I think.<end>
 
 =>q110
-Il y a des ascenseurs, oui, oui, mais pas un seul d'entre eux fonctionne. Ils mènent, je crois.<end>
+Y a des ascenseurs, oui, oui, mais pas un seul qui marche. Ils montent, je crois.<end>
 
 =>a111_original
 Where can I find them?<end>
 
 =>a111
-Où puis-je les trouver ?<end>
+Je les trouve où ?<end>
 
 =>q112_original
 One is in the big complex, one is, um, near the lake. There might be more, but those are the ones I know of.<end>
 
 =>q112
-L'un est dans le grand complexe, l'autre est près du lac. Il y en a peut-être plus, mais ce sont ceux dont je connais.<end>
+Y en a un dans le grand complexe, un autre, euh, près du lac. Y en a peut-être d'autres, mais c'est ceux que je connais.<end>
 
 =>a113_original
 Does "Underrail" mean anything to you? Core City? Do you remember metro tunnels, trains? Anything of the sort?<end>
 
 =>a113
-"Underrail" vous dit quelque chose ? Core City ? Tu te souviens des tunnels, des trains ? Quelque chose du genre ?<end>
+"Underrail", ça te dit quelque chose ? Core City ? Tu te souviens des tunnels de métro, des trains ? Un truc comme ça ?<end>
 
 =>q114_original
 Eh? No... it means nothing to me, I think. You sound like it should, you do. But... I don't remember anything like that. Is that where you're from? You think I'm from there too?<end>
 
 =>q114
-Et alors ? Non... ça ne signifie rien pour moi, je crois. Tu as l'air de le faire. Mais... Je ne me souviens de rien de tel. C'est d'où tu viens ? Tu crois que je suis de là aussi ?<end>
+Hein ? Non... ça me dit rien, je crois. T'as l'air de dire que ça devrait, ouais. Mais... je me souviens de rien de tout ça. C'est de là que tu viens ? Tu crois que j'en viens aussi ?<end>
 
 =>q115_original
 ::His eyes roll back as he grabs his head and lets out a painful cry. He then drops to his knees and begins weeping.::<end>
 
 =>q115
-::Ses yeux se retournent alors qu'il saisit la tête et laisse sortir un cri douloureux. Il tombe ensuite à genoux et commence à pleurer.::<end>
+::Ses yeux se révulsent. Il se prend la tête et pousse un cri de douleur. Puis il s'effondre à genoux et se met à pleurer.::<end>
 
 =>a116_original
 Stand up, old man. You are stronger than that. You know it.<end>
 
 =>a116
-Lève-toi, vieux. Tu es plus fort que ça. Tu le sais.<end>
+Lève-toi, vieux. T'es plus fort que ça. Tu le sais.<end>
 
 =>q117_original
 ::He wipes the tears from his wrinkly cheeks and gets up.::
@@ -734,31 +734,31 @@ Pourquoi pas ?<end>
 It's only more things for me to forget.<end>
 
 =>q119
-C'est juste plus de choses à oublier.<end>
+C'est encore plus de trucs à oublier, rien de plus.<end>
 
 =>a120_original
 Wouldn't you want to get out of here?<end>
 
 =>a120
-Tu ne veux pas sortir d'ici ?<end>
+Tu voudrais pas sortir d'ici ?<end>
 
 =>q121_original
 I don't know. I don't know. And I don't want to speak about this anymore.<end>
 
 =>q121
-Je ne sais pas. Je ne sais pas. Et je ne veux plus en parler.<end>
+Je sais pas. Je sais pas. Et je veux plus en parler.<end>
 
 =>a122_original
 Let me ask you something else.<end>
 
 =>a122
-Laissez-moi vous demander autre chose.<end>
+Laisse-moi te demander autre chose.<end>
 
 =>q123_original
 Eh? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
 
 =>q123
-Eth? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
+Hein ? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
 
 =>q124_original
 <end>
@@ -770,121 +770,121 @@ Eth? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
 Tell me about the labyrinth.<end>
 
 =>a125
-Parlez-moi du labyrinthe.<end>
+Parle-moi du labyrinthe.<end>
 
 =>q126_original
 The labyrinth is swarmin' with giant death-worms. They spit acid and will devour anything they come up to - rats, froggers, diggers. Everything. But I evaded them. He-he-Ha! You just ought to carefully observe the ground and avoid them. Tread lightly. Little by little and I was through the labyrinth, I remember.<end>
 
 =>q126
-Le labyrinthe est chaud avec des vers géants. Ils cracheront de l'acide et dévoreront tout ce qu'ils atteindront - des rats, des grenouilles, des éboueurs. Tout. Mais je les ai échappés. Il-il-Ha ! Vous devriez juste observer attentivement le sol et les éviter. C'est clair. Petit à petit et j'ai traversé le labyrinthe, je me souviens.<end>
+Le labyrinthe grouille de vers de la mort géants. Ils crachent de l'acide et ils bouffent tout ce qui passe - rats, grenouilles, creuseurs. Tout. Mais je les ai semés. He-he-Ha ! Faut juste bien regarder le sol et les éviter. Marcher léger. Petit à petit, j'ai traversé le labyrinthe, je m'en souviens.<end>
 
 =>a127_original
 Why did you go there in the first place?<end>
 
 =>a127
-Pourquoi y êtes-vous allé ?<end>
+Pourquoi t'y es allé, au départ ?<end>
 
 =>q128_original
 I was... lookin' for somethin'. I can't remember what, but I know it. I don't think I found it, no, no. ::He looks around the room.:: No, no, I haven't. I've found somethin' else, though...<end>
 
 =>q128
-Je cherchais quelque chose. Je ne me souviens pas de quoi, mais je le sais. Je ne crois pas l'avoir trouvé. ::Il regarde autour de la pièce.:: Non, pas du tout. J'ai trouvé autre chose...<end>
+Je... je cherchais un truc. Je me souviens plus quoi, mais je le *sais*. Je crois pas l'avoir trouvé, non, non. ::Il jette un œil autour de la pièce.:: Non, non, j'ai pas. J'ai trouvé autre chose, par contre...<end>
 
 =>q129_original
 Energy rocks. Three of them, but only one was still glowing. I felt tinglin' in my skin, drawin' me to touch it. Yes, yes. I remember touchin' it and, and... it hit my mind with images. But the images hurt me. Fuzzy, fuzzy.<end>
 
 =>q129
-Des roches énergétiques. Trois d'entre eux, mais un seul brillait encore. Je me suis sentie entêtée dans ma peau, me tirant pour la toucher. Oui, oui. Je me souviens avoir touché et, et... ça m'a frappé avec des images. Mais les images m'ont fait mal. Fuzzy, Fuzzy.<end>
+Des pierres d'énergie. Trois, mais une seule brillait encore. Ma peau picotait, ça me tirait à la toucher. Oui, oui. Je me souviens l'avoir touchée et, et... ça m'a cogné le crâne d'images. Mais les images me faisaient mal. Flou, flou.<end>
 
 =>q130_original
 I also didn't have much time to look at it - the death-worms were after me! I ran my way out of the labyrinth, somehow rememberin' where I was supposed to go. I'd forgotten it since, but at the time it was clear where I needed to run. It goes without sayin' I never came back there. Ought to be mad to do that again! He-he-HA!<end>
 
 =>q130
-Je n'ai pas eu beaucoup de temps pour le regarder - les vers de la mort étaient après moi! J'ai quitté le labyrinthe, en me rappelant où j'étais censé aller. Je l'avais oublié depuis, mais à l'époque il était clair où je devais courir. Je n'y suis jamais revenu. Ça devrait être fou de recommencer ! C'est lui !<end>
+J'ai pas eu beaucoup de temps pour regarder - les vers de la mort étaient sur moi ! J'ai détalé hors du labyrinthe, en me rappelant où fallait que j'aille. Je l'ai oublié depuis, mais sur le moment c'était clair, la direction. Inutile de dire que je suis jamais retourné là-bas. Faudrait être fou pour recommencer ! He-he-HA !<end>
 
 =>a131_original
 Tell me about the complex.<end>
 
 =>a131
-Parlez-moi du complexe.<end>
+Parle-moi du complexe.<end>
 
 =>q132_original
 The complex is vast. Tchorti-- Tchortists live there with their demons. Devils! I was there many times, I know it, and I always felt the pressure inside my head. Yet, besides makin' me forget it also wakes up the demons. They come out of their holes, holes in the ground, so watch for those if you ought to go there. Not that I would recommend it. No, no.<end>
 
 =>q132
-Le complexe est vaste. Tchorti-- XXPROT0 Les XXistes y vivent avec leurs démons. Les démons ! J'y étais souvent, je le sais, et j'ai toujours ressenti la pression dans ma tête. Pourtant, en plus de me faire oublier ça réveille aussi les démons. Ils sortent de leurs trous, des trous dans le sol, alors surveillez-les si vous voulez y aller. Pas que je le recommande. Non, pas du tout.<end>
+Le complexe est immense. Tchorti-- les Tchortists y vivent avec leurs démons. Des diables ! J'y suis allé souvent, je le *sais*, et j'ai toujours senti la pression dans le crâne. En plus de me faire oublier, ça réveille les démons. Ils sortent de leurs trous, des trous dans le sol, alors gare à ça si tu dois y aller. Pas que je le recommande. Non, non.<end>
 
 =>a133_original
 What else can you tell me about the complex? What's it for?<end>
 
 =>a133
-Que pouvez-vous me dire d'autre sur le complexe ? Pourquoi ?<end>
+Qu'est-ce que tu peux me dire d'autre sur le complexe ? Ça sert à quoi ?<end>
 
 =>q134_original
 The complex was the place where people who lived in the four buildings worked. Yes, yes. They were, what's the word, scientists! I remember seein' that in their notes. They were doin' experiments on things. Maybe they created the devils, the demons. Maybe the demons killed them, there are dismembered corpses all throughout the complex. I remember seein' them.<end>
 
 =>q134
-Le complexe était l'endroit où travaillaient les habitants des quatre bâtiments. Oui, oui. C'était, quel est le mot, scientifiques ! Je me souviens avoir vu ça dans leurs notes. Ils faisaient des expériences sur des choses. Ils ont peut-être créé les démons. Peut-être que les démons les ont tués, il y a des cadavres démembrés dans tout le complexe. Je me souviens les avoir vus.<end>
+Le complexe, c'est là que travaillaient les gens des quatre bâtiments. Oui, oui. Ils étaient, c'est quoi le mot, des scientifiques ! Je me souviens l'avoir lu dans leurs notes. Ils faisaient des expériences sur des trucs. Peut-être qu'ils ont créé les diables, les démons. Peut-être que les démons les ont tués : y a des cadavres démembrés partout dans le complexe. Je me souviens les avoir vus.<end>
 
 =>a135_original
 Tell me more.<end>
 
 =>a135
-Dis-moi plus.<end>
+Dis-m'en plus.<end>
 
 =>q136_original
 I found useful things there. It is a place of many secrets, and while I've found some of 'em, I reckon there is more to discover. Oh, like the shelters, there are shelters where the demons won't hurt you and the pressure can't reach you.<end>
 
 =>q136
-J'y ai trouvé des choses utiles. C'est un endroit de nombreux secrets, et bien que j'ai trouvé certains d'entre eux, je pense qu'il y a plus à découvrir. Comme les abris, il y a des abris où les démons ne vous feront pas de mal et la pression ne peut pas vous atteindre.<end>
+J'y ai trouvé des trucs utiles. C'est un endroit plein de secrets, et j'en ai déniché quelques-uns, mais je parie qu'il en reste. Tiens, les abris : y a des abris où les démons te touchent pas et où la pression t'atteint pas.<end>
 
 =>q137_original
 That bloody complex. Because of it my memories leaked out of my head. It is evil, I tell you. Why fate came over me, I don't know. And I don't remember.<end>
 
 =>q137
-Ce foutu complexe. C'est à cause de ça que mes souvenirs sont sortis de ma tête. C'est maléfique, je vous le dis. Pourquoi le destin m'a renversé, je ne sais pas. Et je ne me souviens pas.<end>
+Ce putain de complexe. C'est à cause de lui que mes souvenirs ont fuité de ma tête. C'est le mal, je te le dis. Pourquoi le destin s'est abattu sur moi, je sais pas. Et je me souviens pas.<end>
 
 =>a138_original
 Tell me about the storages.<end>
 
 =>a138
-Parlez-moi des entrepôts.<end>
+Parle-moi des entrepôts.<end>
 
 =>q139_original
 Ah, the storages. It's a place where useful things are. It is a place where *useful* things are. I know that's why I built my home close to it.<end>
 
 =>q139
-Ah, les entrepôts. C'est un endroit où les choses sont utiles. C'est un endroit où les choses sont utiles. Je sais que c'est pour ça que j'ai construit ma maison.<end>
+Ah, les entrepôts. C'est un endroit où y a des trucs utiles. C'est un endroit où y a des *trucs utiles*. Je sais que c'est pour ça que j'ai bâti ma baraque juste à côté.<end>
 
 =>q140_original
 There are weapons there, materials and parts too, ammo. Also, also, there are two large storages that go inside the cave wall. One is open, and has dangerous gases inside and slimy slugs, while the other is sealed. I was never able to open it, but I saw through a crack in the wall that it has more shelves inside, with more useful things. Yes, I saw shelves. I remember seein' *shelves*.<end>
 
 =>q140
-Il y a aussi des armes, des matières et des pièces, des munitions. De plus, il y a deux grands entrepôts qui entrent dans le mur de la grotte. L'un est ouvert, et a des gaz dangereux à l'intérieur et des limaces visqueuses, tandis que l'autre est scellé. Je n'ai jamais pu l'ouvrir, mais j'ai vu à travers une fissure dans le mur qu'il a plus d'étagères à l'intérieur, avec des choses plus utiles. Oui, j'ai vu des étagères. Je me souviens avoir vu des étagères.<end>
+Y a des armes là-dedans, des matériaux et des pièces aussi, des munitions. Et puis, et puis, y a deux grands entrepôts qui s'enfoncent dans la paroi. L'un est ouvert, plein de gaz dangereux et de limaces visqueuses, l'autre est scellé. J'ai jamais pu l'ouvrir, mais à travers une fente dans le mur j'ai vu plus d'étagères, avec plus de trucs utiles. Oui, j'ai vu des étagères. Je me souviens avoir vu des *étagères*.<end>
 
 =>q141_original
 The storages were empty until diggers showed up, but then the Masked drove them off. I can go there, the Masked won't hurt me. They *won't* hurt me.<end>
 
 =>q141
-Les entrepôts étaient vides jusqu'à ce que des poignards arrivent, mais le Masque les a chassés. Je peux y aller, le Masque ne me fera pas de mal. Ils ne m'ont pas fait mal.<end>
+Les entrepôts étaient vides jusqu'à ce que les creuseurs débarquent, et puis les Masqués les ont chassés. Je peux y aller, les Masqués me font pas de mal. Ils me *feront* pas de mal.<end>
 
 =>a142_original
 Tell me about the demon breeding grounds.<end>
 
 =>a142
-Parlez-moi des aires de reproduction des démons.<end>
+Parle-moi des nids de démons.<end>
 
 =>q143_original
 Demons. I was there, a long time ago. It is past the complex... I think, let me think, I think there are tanks there. Large tanks full of green-- yellow-- green liquid. Yes, tanks. Large *tanks*. I saw horrible things there, sure. But, I know I saw somethin' more there...<end>
 
 =>q143
-Des démons. J'y étais, il y a longtemps. Il est passé le complexe... Je crois qu'il y a des tanks. Grands réservoirs pleins de vert-- jaune-- liquide vert. Oui, des chars. Grandes citernes. J'y ai vu des choses horribles. Mais, je sais que j'ai vu quelque chose de plus...<end>
+Les démons. J'y étais, il y a longtemps. C'est après le complexe... je crois, laisse-moi réfléchir, je crois qu'y a des citernes. De grandes citernes pleines de liquide vert-- jaune-- vert. Oui, des citernes. De *grandes* citernes. J'y ai vu des horreurs, ça oui. Mais je *sais* que j'ai vu autre chose, là-bas...<end>
 
 =>q144_original
 Somethin'... huge. A larger demon. I remember my head was feelin' like it was gonna turn to mush. I... it hurts my brain when I try to rem-- ::He quickly puts his palms on his temples and begins rubbing the area, clenching his eyes and grunting.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...<end>
 
 =>q144
-Quelque chose... énorme. Un démon plus grand. Je me souviens que ma tête avait l'impression qu'elle allait se transformer en bousculade. Je... ça me fait mal au cerveau quand j'essaie de... ::Il met rapidement ses paumes sur ses temples et commence à frotter la région, se serre les yeux et grogne.:: Hnnnnnnnnn... hnnnnnnnnnn... hnnnnnnnnnn...<end>
+Un truc... énorme. Un démon plus grand. Je me souviens, ma tête avait l'air de vouloir se changer en bouillie. Je... ça me fait mal au cerveau quand j'essaie de me sou-- ::Il plaque les paumes sur ses tempes et se met à frotter, les yeux plissés, en grognant.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...<end>
 
 =>q145_original
 ::The tension dissipates. His eyes remain closed, but not clenched; his breath evens out; his palms still rubbing his temples. As he calms down he slowly lifts his eyelids and tiredly looks at you.::
@@ -892,57 +892,57 @@ Quelque chose... énorme. Un démon plus grand. Je me souviens que ma tête avai
 I can't tell you more. It hurts.<end>
 
 =>q145
-::La tension se dissipe. Ses yeux restent fermés, mais pas serrés; son souffle s'éteint; ses paumes frottent encore ses temples. Alors qu'il se calme, il lève lentement ses paupières et vous regarde fatiguément.::
+::La tension retombe. Ses yeux restent fermés, mais plus crispés ; sa respiration se calme ; ses paumes frottent encore les tempes. Quand il se détend, il lève lentement les paupières et vous regarde, épuisé.::
 
-Je ne peux pas vous en dire plus. Ça fait mal.<end>
+Je peux pas t'en dire plus. Ça fait mal.<end>
 
 =>a146_original
 Tell me about the machine plant.<end>
 
 =>a146
-Parlez-moi de l'usine.<end>
+Parle-moi de l'usine.<end>
 
 =>q147_original
 It is past the storages. At the intersection follow the road straight. Nor-- North! The diggers are there now. In the yard. I saw them, I remember it. But inside, there I've never been. No, no. But I saw lights turn on, machines come out. The plant is makin' them. It has to be. They clink-clank-clink-clank around it, protectin' whatever is inside. Yes, yes.<end>
 
 =>q147
-Il est passé les entrepôts. À l'intersection suivre la route tout droit. Ni... nord ! Les poignards sont là. Dans la cour. Je les ai vus, je m'en souviens. Mais à l'intérieur, je n'ai jamais été là. Non, pas du tout. Mais j'ai vu les lumières s'allumer, les machines s'éteignent. La plante les fabrique. Ça doit l'être. Ils clink-clank-clink-clank autour, protégeant tout ce qui est à l'intérieur. Oui, oui.<end>
+C'est après les entrepôts. À l'intersection, tout droit. No-- Nord ! Les creuseurs sont là, maintenant. Dans la cour. Je les ai vus, je m'en souviens. Mais à l'intérieur, j'y suis jamais allé. Non, non. Par contre j'ai vu les lumières s'allumer, des machines en sortir. L'usine les fabrique. Ça peut pas être autre chose. Elles font clic-clac-clic-clac autour, à protéger ce qu'il y a dedans. Oui, oui.<end>
 
 =>q148_original
 One attacked me once. I got too close. It spoke to me. Then I destroyed it. I... Leo, *Leo* destroyed it.<end>
 
 =>q148
-Un m'a attaqué une fois. J'étais trop près. Ça m'a parlé. Puis je l'ai détruit. Je l'ai... détruit.<end>
+Une m'a attaqué, une fois. Je me suis trop approché. Elle m'a parlé. Alors je l'ai détruite. Moi... Leo, *Leo* l'a détruite.<end>
 
 =>a149_original
 Tell me about the Masked site.<end>
 
 =>a149
-Parlez-moi du site masqué.<end>
+Parle-moi du site des Masqués.<end>
 
 =>q150_original
 You go... *east* from my home, past the storages. Many Masked there. There they keep their diggin' machines, guns - machines. Machine rats. Yes, yes. And imprisoned devils too. Oh, yes, yes. My mind swirled and I remembered it.<end>
 
 =>q150
-Tu vas... l'est de chez moi, après les entrepôts. Beaucoup sont masqués là-bas. Là, ils gardent leurs machines, leurs armes. Des rats de machine. Oui, oui. Et les démons emprisonnés aussi. Oui, oui. Mon esprit a tourbillonné et je m'en suis souvenu.<end>
+Tu vas... *à l'est* de chez moi, après les entrepôts. Plein de Masqués, là-bas. C'est là qu'ils gardent leurs machines de forage, leurs flingues - des machines. Des rats-machines. Oui, oui. Et des diables en cage, aussi. Oh, oui, oui. La tête m'a tourné, et je m'en suis souvenu.<end>
 
 =>q151_original
 The buildings are surrounded by high walls. I've been there before the Masked came. I have been there *before* the Masked came. I entered some of the buildings and saw the insides were in ruin. Dead people were all over the place, and so were giant white rats.<end>
 
 =>q151
-Les bâtiments sont entourés de hauts murs. J'y suis allé avant l'arrivée du Masque. J'y suis allé avant que le Masque ne vienne. Je suis entré dans certains bâtiments et j'ai vu que les intérieurs étaient en ruine. Les morts étaient partout, tout comme les rats blancs géants.<end>
+Les bâtiments sont ceinturés de hauts murs. J'y étais avant que les Masqués arrivent. J'y étais *avant* que les Masqués arrivent. Je suis entré dans quelques bâtiments : l'intérieur était en ruine. Des morts partout, et des rats blancs géants pareil.<end>
 
 =>q152_original
 But there is nothin' of that inside now. The Masked cleaned it up.<end>
 
 =>q152
-Mais il n'y a rien de tout ça à l'intérieur maintenant. Le Masque l'a nettoyé.<end>
+Mais y a plus rien de tout ça, maintenant. Les Masqués ont nettoyé.<end>
 
 =>a153_original
 What do you think of the Masked? Are they good or bad?<end>
 
 =>a153
-Que pensez-vous du Masqué ? Ils sont bons ou mauvais ?<end>
+T'en penses quoi, des Masqués ? Ils sont bien ou pas ?<end>
 
 =>q154_original
 They are good. I know it. I remember they wouldn't hurt me. But I remembered that they killed people too...
@@ -950,33 +950,33 @@ They are good. I know it. I remember they wouldn't hurt me. But I remembered tha
 I don't know now... Fuzzy.<end>
 
 =>q154
-Ils sont bons. Je le sais. Je me souviens qu'ils ne me feraient pas de mal. Mais je me rappelle qu'ils ont tué des gens aussi...
+Ils sont bien. Je le *sais*. Je me souviens qu'ils me feraient pas de mal. Mais je me souviens aussi qu'ils ont tué des gens...
 
-Je ne sais pas maintenant... Fuzzy.<end>
+Je sais plus, là... Flou.<end>
 
 =>a155_original
 Tell me about the mushroom forest.<end>
 
 =>a155
-Parlez-moi de la forêt de champignons.<end>
+Parle-moi de la forêt de champignons.<end>
 
 =>q156_original
 It is s-south. Far south. Then west. Yes, yes. The mushrooms are tall and high, but the danger lies low. The forest is filled with numerous mushroom beasts... and there is one big. Yes, yes. I never dared comin' closer to it, I don't remember, but I *know* it is dangerous.<end>
 
 =>q156
-C'est s-sud. Très au sud. Puis ouest. Oui, oui. Les champignons sont grands et hauts, mais le danger est faible. La forêt est remplie de nombreux champignons et il y en a une grande. Oui, oui. Je n'ai jamais osé m'approcher, je ne m'en souviens pas, mais je sais que c'est dangereux.<end>
+C'est au s-sud. Loin au sud. Puis à l'ouest. Oui, oui. Les champignons sont grands, hauts, mais le danger rampe au sol. La forêt est pleine de bêtes-champignons... et y en a une énorme. Oui, oui. J'ai jamais osé m'approcher, je m'en souviens pas, mais je *sais* que c'est dangereux.<end>
 
 =>q157_original
 The little maggots, watch out for them, they grow into mushroom beasts. They *grow* into mushroom beasts.<end>
 
 =>q157
-Les petits loups, veillent sur eux, ils grandissent en bêtes de champignons. Ils se jettent dans les champignons.<end>
+Les petits asticots, gare à eux, ils deviennent des bêtes-champignons. Ils *deviennent* des bêtes-champignons.<end>
 
 =>a158_original
 What do you mean by "they grow into mushroom beasts"?<end>
 
 =>a158
-Que voulez-vous dire par "ils grandissent en bêtes de champignons" ?<end>
+Qu'est-ce que tu veux dire, "ils deviennent des bêtes-champignons" ?<end>
 
 =>q159_original
 Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into the mushrooms and grow. If you need to go there, watch out! And watch out for the spores too, 'cause if you inhale them, it makes your head spin and spin and spin. You lose yourself for a time, and I know I once woke up in a place I'd never seen before. Don't remember how I got out. 
@@ -984,57 +984,57 @@ Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into
 It's dangerous. And in the mushroom forest you ought to be more alert than the beasts that live there.<end>
 
 =>q159
-Exactement ça, $(context.player.Name)... *$(context.player.Name)*. Ils percent dans les champignons et poussent. Si vous avez besoin d'y aller, faites attention ! Et attention aux spores aussi, parce que si vous les inhalez, ça fait tourner la tête et tourner et tourner. Tu te perds pour un moment, et je sais que je me suis réveillé dans un endroit que je n'avais jamais vu. Je ne me souviens pas comment je suis sorti.
+Exactement ça, $(context.player.Name)... *$(context.player.Name)*. Ils s'enfoncent dans les champignons et ils poussent. Si tu dois y aller, gare ! Et gare aux spores aussi, parce que si tu les respires, la tête te tourne et tourne et tourne. Tu te perds un moment, et je sais que je me suis réveillé dans un endroit que j'avais jamais vu. Je me souviens plus comment je suis sorti.
 
-C'est dangereux. Et dans la forêt des champignons, vous devriez être plus alerte que les bêtes qui y vivent.<end>
+C'est dangereux. Et dans la forêt de champignons, faut être plus à l'affût que les bêtes qui y vivent.<end>
 
 =>a160_original
 Spores? What more do you remember about that place you woke up in?<end>
 
 =>a160
-Des spores ? Tu te souviens de cet endroit où tu t'es réveillé ?<end>
+Des spores ? Tu te souviens de plus, de l'endroit où tu t'es réveillé ?<end>
 
 =>q161_original
 Remember? That's a tough one. I remember... as I said, I was breathin' in those spores for too long I suppose. I felt my head spin and spin - and then all went dark. Yes. Dark. I thought I was dead. Poof. Ought to be. But then, I felt myself again - my arms, legs, bowels. Heart beatin'. But I was now in a smaller cave. More like... a bunch of tunnels. I know that. Full of beasts. And a big one.<end>
 
 =>q161
-Tu te souviens ? C'est dur. Je me souviens... comme je l'ai dit, j'ai respiré dans ces spores trop longtemps, je suppose. J'ai senti ma tête tourner et tourner - et puis tout est devenu sombre. Oui. Noir. Je pensais être mort. Pouf. Ça devrait l'être. Mais je me suis sentie à nouveau - mes bras, mes jambes, mes entrailles. Le coeur bat. Mais j'étais dans une petite grotte. Plutôt... un tas de tunnels. Je le sais. Plein de bêtes. Et un gros.<end>
+Me souvenir ? Ça, c'est dur. Je me souviens... comme je t'ai dit, j'ai trop respiré ces spores, je suppose. La tête qui tourne et qui tourne - et puis tout est devenu noir. Oui. Noir. Je me suis cru mort. Pouf. Fallait s'y attendre. Et puis je me suis senti à nouveau - les bras, les jambes, les tripes. Le cœur qui bat. Mais j'étais dans une grotte plus petite. Plus... un tas de tunnels. Je le sais. Plein de bêtes. Et une grosse.<end>
 
 =>q162_original
 Heart beatin'... Yes, yes. But how I got out... don't remember. Don't remember.<end>
 
 =>q162
-Le coeur bat... Oui, oui. Mais comment je suis sorti... je ne me souviens pas. Je ne me souviens pas.<end>
+Le cœur qui bat... Oui, oui. Mais comment je suis sorti... je me souviens pas. Je me souviens pas.<end>
 
 =>a163_original
 Tell me about the four buildings.<end>
 
 =>a163
-Parlez-moi des quatre bâtiments.<end>
+Parle-moi des quatre bâtiments.<end>
 
 =>q164_original
 The Masked are there now, but only outside. I remember it. Meanwhile, I've been INSIDE. Yes, yes. People lived inside. Maybe I did too, I don't remember it. I don't know it either. Now only electric spiders live there, but they don't always come out. They feed on power, and when the lights are out they retreat into their lairs.<end>
 
 =>q164
-Les Masqués sont là maintenant, mais seulement dehors. Je m'en souviens. Pendant ce temps, j'ai été INSIDE. Oui, oui. Les gens vivaient à l'intérieur. Peut-être que moi aussi, je ne m'en souviens pas. Je ne le sais pas non plus. Maintenant, seules les araignées électriques y vivent, mais elles ne sortent pas toujours. Ils se nourrissent d'énergie, et quand les lumières sont éteintes, ils se retirent dans leurs tanières.<end>
+Les Masqués sont là maintenant, mais seulement dehors. Je m'en souviens. Moi, j'ai été DEDANS. Oui, oui. Des gens vivaient là. Peut-être moi aussi, je m'en souviens pas. Je le sais pas non plus. Maintenant y a plus que des araignées électriques, mais elles sortent pas toujours. Elles se nourrissent de courant, et quand les lumières sont mortes elles rentrent dans leurs trous.<end>
 
 =>a165_original
 Is there anything of interest inside the four buildings?<end>
 
 =>a165
-Y a-t-il quelque chose d'intéressant dans les quatre bâtiments ?<end>
+Y a quelque chose d'intéressant, dans les quatre bâtiments ?<end>
 
 =>q166_original
 The people who lived there are connected to the complex. Some doors were locked, but others weren't. I know I read through those people's personal notes... I can't remember how. I didn't bring it with me because their past is not mine. It would confuse me. I know it. But I found some card thingies, keycards that I used to open some doors in the complex. I'd give them to you, but I don't remember where I put them. I don't know if I even have them 'ere anymore.<end>
 
 =>q166
-Les gens qui y vivaient sont reliés au complexe. Certaines portes étaient fermées, mais d'autres pas. Je sais que j'ai lu les notes personnelles de ces gens... Je ne me souviens pas comment. Je ne l'ai pas apporté avec moi parce que leur passé n'est pas à moi. Ça me troublerait. Je le sais. Mais j'ai trouvé des cartes, des cartes-clés que j'avais l'habitude d'ouvrir dans le complexe. Je te les donnerais, mais je ne me souviens pas où je les mets. Je ne sais même plus si je les ai.<end>
+Les gens qui vivaient là, ils sont liés au complexe. Certaines portes étaient fermées, d'autres pas. Je sais que j'ai lu leurs notes perso... je me souviens plus comment. Je les ai pas emportées : leur passé, c'est pas le mien. Ça me brouillerait. Je le sais. Mais j'ai trouvé des trucs en carte, des keycards, pour ouvrir des portes dans le complexe. Je te les donnerais, mais je sais plus où je les ai mises. Je sais même plus si je les ai encore.<end>
 
 =>q167_original
 That's all I can remember right now. I know there is more, *$(context.player.Name),* and I'll think about it.<end>
 
 =>q167
-C'est tout ce dont je me souviens. Je sais qu'il y a plus, *$(context.player.Name),* et je vais y réfléchir.<end>
+C'est tout ce dont je me souviens, là. Je *sais* qu'il y a plus, *$(context.player.Name),* et je vais y réfléchir.<end>
 
 =>a168_original
 You mean coil spiders?<end>
@@ -1046,25 +1046,25 @@ Tu veux dire des araignées à bobines ?<end>
 I mean electric spiders. Don't confuse me.<end>
 
 =>q169
-Je veux dire des araignées électriques. Ne me confondez pas.<end>
+Je veux dire des araignées électriques. Me confonds pas.<end>
 
 =>a170_original
 I'm sorry, didn't mean to confuse you. Anyway, is there anything of interest inside the four buildings?<end>
 
 =>a170
-Je suis désolé, je ne voulais pas vous confondre. De toute façon, y a-t-il quelque chose d'intéressant dans les quatre bâtiments ?<end>
+Pardon, je voulais pas te brouiller. Bref, y a quelque chose d'intéressant dans les quatre bâtiments ?<end>
 
 =>a171_original
 I need to ask you something else.<end>
 
 =>a171
-Je dois te demander autre chose.<end>
+Faut que je te demande autre chose.<end>
 
 =>q172_original
 Hold up! I just remembered one more thing: The labyrinth! So-- South of the lake.<end>
 
 =>q172
-Attendez ! Je viens de me rappeler une dernière chose : le labyrinthe ! Donc... Au sud du lac.<end>
+Attends ! Je viens de me souvenir d'un truc encore : le labyrinthe ! Au su-- au sud du lac.<end>
 
 =>q173_original
 Yes, yes.<end>
@@ -1088,7 +1088,7 @@ Changeons de sujet.<end>
 I'm sorry, Leo. Maybe I shouldn't have mentioned any of that.<end>
 
 =>a176
-Je suis désolé, Leo. Peut-être que je n'aurais pas dû en parler.<end>
+Pardon, Leo. J'aurais peut-être pas dû en parler.<end>
 
 =>q177_original
 ::He wipes the tears from his wrinkly cheeks and gets up.::
@@ -1098,25 +1098,25 @@ Maybe you shouldn't... $(context.player.Name).<end>
 =>q177
 ::Il essuie les larmes de ses joues ridées et se lève.::
 
-Peut-être que tu ne devrais pas... $(context.player.Name).<end>
+Peut-être que t'aurais pas dû... $(context.player.Name).<end>
 
 =>a178_original
 ::Say nothing.::<end>
 
 =>a178
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>a179_original
 I'm trying to open the large gate in the complex, past the tanks.<end>
 
 =>a179
-J'essaie d'ouvrir la grande porte du complexe, après les chars.<end>
+J'essaie d'ouvrir la grande porte du complexe, après les citernes.<end>
 
 =>q180_original
 Eh? Large gate? Oh, yes, yes. And what do you need me for?<end>
 
 =>q180
-Et alors ? Grande porte ? Oui, oui. Et pourquoi tu as besoin de moi ?<end>
+Hein ? La grande porte ? Oh, oui, oui. Et t'as besoin de moi pour quoi ?<end>
 
 =>q181_original
 <end>
@@ -1128,37 +1128,37 @@ Et alors ? Grande porte ? Oui, oui. Et pourquoi tu as besoin de moi ?<end>
 I need to find some mechanical parts for the gate opening mechanism. Do you know the best place to look for those?<end>
 
 =>a182
-Je dois trouver des pièces mécaniques pour le mécanisme d'ouverture. Tu connais le meilleur endroit pour les chercher ?<end>
+Il me faut des pièces mécaniques pour le mécanisme d'ouverture. Tu sais où je cherche ça le mieux ?<end>
 
 =>q183_original
 Storages. Yes, storages is a good place to look. It has useful things. But I know nothin' about repairin' any gate mechanisms so I can't help you with it.<end>
 
 =>q183
-Stockages. Oui, les rangements sont un bon endroit pour regarder. Il a des choses utiles. Mais je ne sais rien sur la réparation des mécanismes de porte pour que je ne puisse pas t'aider avec ça.<end>
+Les entrepôts. Oui, les entrepôts, c'est un bon coin pour chercher. Y a des trucs utiles. Mais je connais rien à la réparation des mécanismes de porte, donc je peux pas t'aider là-dessus.<end>
 
 =>q184_original
 Well... I rem-- I think there are a few more similar gates in the complex. Maybe you can, you know, pull out a replacement part from a working mechanism. Yes, that makes sense. I think...<end>
 
 =>q184
-Je crois qu'il y a quelques portes similaires dans le complexe. Peut-être que vous pouvez, vous savez, sortir une pièce de remplacement d'un mécanisme de travail. Oui, c'est logique. Je crois...<end>
+Bon... je me sou-- je crois qu'y a d'autres portes du même genre, dans le complexe. Tu peux peut-être, tu vois, piquer une pièce de rechange sur un mécanisme qui marche. Oui, ça tient. Je crois...<end>
 
 =>a185_original
 There is a large slimy mass covering the gate, preventing me from opening it. Have you ever encountered anything like that or know how to get rid of it?<end>
 
 =>a185
-Il y a une grande masse visqueuse couvrant la porte, m'empêchant de l'ouvrir. Avez-vous déjà rencontré quelque chose comme ça ou savez-vous comment vous en débarrasser ?<end>
+Y a une grosse masse visqueuse sur la porte, elle m'empêche de l'ouvrir. T'as déjà vu un truc comme ça, ou tu sais comment s'en débarrasser ?<end>
 
 =>q186_original
 I don't know.<end>
 
 =>q186
-Je ne sais pas.<end>
+Je sais pas.<end>
 
 =>q187_original
 Actually... wait, wait. I remember a machine in the complex. Yes, yes. Near the exit to storages. It had... "organic" somethin' written on it. Slime is organic. Maybe there's somethin' to it, but I can't...<end>
 
 =>q187
-En fait... Attendez. Je me souviens d'une machine dans le complexe. Oui, oui. Près de la sortie des entrepôts. Il y avait quelque chose de "organique" écrit dessus. Slime est organique. Il y a peut-être quelque chose, mais je ne peux pas...<end>
+Attends... attends, attends. Je me souviens d'une machine dans le complexe. Oui, oui. Près de la sortie vers les entrepôts. Y avait... "organique" un truc d'écrit dessus. La bave, c'est organique. Peut-être que ça a un rapport, mais je peux pas...<end>
 
 =>q188_original
 ::He begins rubbing his temples. His teeth are clenched, eyes sporadically twitching during this short pause. Then, he exhales and opens his eyes.::
@@ -1166,27 +1166,27 @@ En fait... Attendez. Je me souviens d'une machine dans le complexe. Oui, oui. Pr
 I can't do it. It is gone. GONE! Just... find the machine. Start from there.<end>
 
 =>q188
-::Il commence à frotter ses temples. Ses dents sont serrées, les yeux tremblent sporadiquement pendant cette courte pause. Puis, il expire et ouvre les yeux.::
+::Il se met à se frotter les tempes. Les dents serrées, les yeux qui tressautent pendant cette courte pause. Puis il expire et ouvre les yeux.::
 
-Je ne peux pas. Il est parti. Allez ! Trouve la machine. Commencez par là.<end>
+Je peux pas. C'est parti. PARTI ! Trouve... trouve la machine. Commence par là.<end>
 
 =>a189_original
 I need a keycard to open the gate, since I can't bypass it myself. Do you know where I can find such a card?<end>
 
 =>a189
-J'ai besoin d'une carte pour ouvrir la porte, car je ne peux pas la contourner moi-même. Savez-vous où je peux trouver une telle carte ?<end>
+Il me faut une keycard pour ouvrir la porte, je peux pas la contourner tout $(#seul/seule). Tu sais où je peux en trouver une ?<end>
 
 =>q190_original
 Four buildings. Yes, yes, I think that's the best place to look.<end>
 
 =>q190
-Quatre bâtiments. Oui, je pense que c'est le meilleur endroit pour regarder.<end>
+Les quatre bâtiments. Oui, oui, je crois que c'est le meilleur endroit où chercher.<end>
 
 =>a191_original
 I know of it already. I had other questions about the gate.<end>
 
 =>a191
-Je le sais déjà. J'avais d'autres questions sur la porte.<end>
+Je le savais déjà. J'avais d'autres questions sur la porte.<end>
 
 =>q192_original
 Eh?<end>
@@ -1204,97 +1204,97 @@ En fait, changeons de sujet.<end>
 You mentioned something about resisting the pressure inside your head when you're near the complex. Tell me more about what you meant.<end>
 
 =>a194
-Vous avez parlé de résister à la pression dans votre tête quand vous êtes près du complexe. Parle-moi de ce que tu voulais dire.<end>
+T'as parlé de résister à la pression dans ta tête, près du complexe. Dis-m'en plus.<end>
 
 =>a195_original
 I changed my mind. I want to talk to this Hole of Reason.<end>
 
 =>a195
-J'ai changé d'avis. Je veux parler à ce trou de raison.<end>
+J'ai changé d'avis. Je veux parler à ce Hole of Reason.<end>
 
 =>a196_original
 What can you tell me about the Tchortists?<end>
 
 =>a196
-Que pouvez-vous me dire sur les Tchortists ?<end>
+Qu'est-ce que tu peux me dire sur les Tchortists ?<end>
 
 =>q197_original
 Devils! They roam the complex, I saw 'em before. Yes, in that I'm sure. I remember. Devils want to shoot me. Demons want to eat me. But they never came 'ere. No, no. Never. They guard somethin', somethin' big! It lies behind a large gate.<end>
 
 =>q197
-Les démons ! Ils errent dans le complexe, je les ai vus avant. Oui, j'en suis sûr. Je me souviens. Les démons veulent me tuer. Les démons veulent me manger. Mais ils ne sont jamais venus. Non, pas du tout. Jamais. Ils gardent quelque chose, quelque chose de grand ! Elle se trouve derrière une grande porte.<end>
+Des diables ! Ils rôdent dans le complexe, je les ai déjà vus. Oui, ça j'en suis sûr. Je me souviens. Les diables veulent me tirer dessus. Les démons veulent me bouffer. Mais ils sont jamais venus ici. Non, non. Jamais. Ils gardent un truc, un gros truc ! Ça se trouve derrière une grande porte.<end>
 
 =>a198_original
 Are you talking about Tchort?<end>
 
 =>a198
-Vous parlez de Tchort ?<end>
+Tu parles de Tchort ?<end>
 
 =>q199_original
 Somethin' big... behind the gate. I don't remember.<end>
 
 =>q199
-Quelque chose de grand... derrière la porte. Je ne me souviens pas.<end>
+Un gros truc... derrière la porte. Je me souviens pas.<end>
 
 =>a200_original
 Where is that "something"?<end>
 
 =>a200
-Où est ce "quelque chose" ?<end>
+Il est où, ce "truc" ?<end>
 
 =>q201_original
 Demon breeding grounds. I know it.<end>
 
 =>q201
-Les aires de reproduction du démon. Je le sais.<end>
+Les nids de démons. Je le *sais*.<end>
 
 =>a202_original
 You mentioned the Masked. What can you tell me about them?<end>
 
 =>a202
-Vous avez parlé du Masque. Que pouvez-vous me dire à leur sujet ?<end>
+T'as parlé des Masqués. Qu'est-ce que tu peux m'en dire ?<end>
 
 =>q203_original
 I don't remember seein' them before. No, no. I *know* they weren't 'ere before the big shake. Then, they started to appear. They had masks of steel and mechanical parts. Legs, arms, bodies - steel. They saw me. I think. I know they saw me, but they didn't hurt me. They let me walk freely around the storage. Yes, yes. They didn't hurt me.<end>
 
 =>q203
-Je ne me souviens pas les avoir vus avant. Non, pas du tout. Je sais qu'ils n'étaient pas avant le grand tremblement. Puis, ils ont commencé à apparaître. Ils avaient des masques en acier et des pièces mécaniques. Jambes, bras, corps - acier. Ils m'ont vu. Je crois. Je sais qu'ils m'ont vu, mais ils ne m'ont pas fait de mal. Ils m'ont laissé marcher librement autour du stockage. Oui, oui. Ils ne m'ont pas blessé.<end>
+Je me souviens pas les avoir vus avant. Non, non. Je *sais* qu'ils étaient pas là avant le grand tremblement. Après, ils ont commencé à surgir. Ils avaient des masques d'acier et des pièces mécaniques. Jambes, bras, corps - acier. Ils m'ont vu. Je crois. Je *sais* qu'ils m'ont vu, mais ils m'ont pas touché. Ils m'ont laissé circuler autour des entrepôts. Oui, oui. Ils m'ont pas fait de mal.<end>
 
 =>q204_original
 The Masked were fightin' with the Tcho--Tch--Tchortists. Devils! Attacked them from all sides and crushed them! Oughta kill them all, I said. He-he-HA! But, but the pressure, it hurt them too, I think. They retreated, but they're still there, holdin' almost every entrance to the complex.<end>
 
 =>q204
-Les Masqués se battaient avec les Tcho--Tch--Tchort. Les démons ! Ils les ont attaqués de tous les côtés et les ont écrasés ! Tuez-les tous. C'est lui ! Mais la pression, ça leur a fait du mal aussi, je crois. Ils ont reculé, mais ils sont toujours là, tenant presque toutes les entrées du complexe.<end>
+Les Masqués se battaient avec les Tcho-- Tch-- Tchortists. Des diables ! Ils les ont attaqués de tous les côtés et ils les ont écrasés ! Fallait tous les buter, que je disais. He-he-HA ! Mais, mais la pression, ça les a touchés aussi, je crois. Ils ont reculé, mais ils sont toujours là, ils tiennent presque toutes les entrées du complexe.<end>
 
 =>a205_original
 The Faceless are gone. The area around your home is clear of them.<end>
 
 =>a205
-Les Faceless sont partis. La zone autour de votre maison est libre d'eux.<end>
+Les Faceless sont partis. Autour de ta baraque, y en a plus.<end>
 
 =>q206_original
 They didn't hurt me. It wouldn't hurt me. No, no. Legs, arms, bodies, claw - steel. I felt my mind swirlin'. They left me alone. Eh? Yes, they left me alone.<end>
 
 =>q206
-Ils ne m'ont pas blessé. Ça ne me ferait pas de mal. Non, pas du tout. Jambes, bras, corps, griffe - acier. J'ai senti mon esprit tourbillonner. Ils m'ont laissée seule. Et alors ? Oui, ils m'ont laissée seule.<end>
+Ils m'ont pas fait de mal. Ça m'aurait pas fait de mal. Non, non. Jambes, bras, corps, griffe - acier. J'ai senti ma tête tourner. Ils m'ont laissé tranquille. Hein ? Oui, ils m'ont laissé tranquille.<end>
 
 =>a207_original
 I said, the Faceless are gone. The area around your home is clear of them.<end>
 
 =>a207
-J'ai dit, le Faceless est parti. La zone autour de votre maison est libre d'eux.<end>
+J'ai dit : les Faceless sont partis. Autour de ta baraque, y en a plus.<end>
 
 =>q208_original
 I don't remember. Somethin' the Tch-- Tchortists-- *Tchortists* have. Important for everyone, everyone. I don't remember.<end>
 
 =>q208
-Je ne me souviens pas. Quelque chose que les Tch-- Tchortists-- *Tchortists* ont. Important pour tout le monde. Je ne me souviens pas.<end>
+Je me souviens pas. Un truc que les Tch-- Tchortists-- *Tchortists* ont. Important pour tout le monde, tout le monde. Je me souviens pas.<end>
 
 =>a209_original
 I said, do you know why they're still here?<end>
 
 =>a209
-Tu sais pourquoi ils sont encore là ?<end>
+Je t'ai demandé : tu sais pourquoi ils sont encore là ?<end>
 
 =>a210_original
 Do you know why they're still here?<end>
@@ -1306,73 +1306,73 @@ Tu sais pourquoi ils sont encore là ?<end>
 I'd like to know more about the surrounding areas.<end>
 
 =>a211
-J'aimerais en savoir plus sur les environs.<end>
+J'aimerais en savoir plus sur les alentours.<end>
 
 =>q212_original
 Oh, 'kay, 'kay. As we agreed when you brought me the knife. Bone knife. *Bone* knife. He-he-Ha! Yes.<end>
 
 =>q212
-Oh, oui, oui. Comme convenu quand tu m'as apporté le couteau. Un couteau à os. Un couteau. Il-il-Ha ! Oui.<end>
+Oh, d'accord, d'accord. Comme convenu quand tu m'as ramené le couteau. Le couteau à os. Le couteau *à os*. He-he-Ha ! Oui.<end>
 
 =>q213_original
 Where do I start? Right, there's a few areas of interest 'round 'ere: the big complex, the storages, the... the demon breeding ground, the machine plant, the Masked site, the mushroom forest and the four buildings. Yes, I think that's all. What are you interested in knowin' about?<end>
 
 =>q213
-Par où je commence ? Il y a quelques zones d'intérêt autour de l'ère : le grand complexe, les entrepôts, le... le terrain de reproduction des démons, la machinerie, le site masqué, la forêt de champignons et les quatre bâtiments. Oui, c'est tout. Qu'est-ce que tu veux savoir ?<end>
+Par où je commence ? Bon, y a quelques coins qui comptent, par ici : le grand complexe, les entrepôts, le... le nid de démons, l'usine, le site des Masqués, la forêt de champignons et les quatre bâtiments. Oui, je crois que c'est tout. Qu'est-ce que tu veux savoir ?<end>
 
 =>q214_original
 Eh? Which one?<end>
 
 =>q214
-Et alors ? Lequel ?<end>
+Hein ? Lequel ?<end>
 
 =>a215_original
 I gotta go now. See you some other time.<end>
 
 =>a215
-Je dois y aller. À une autre fois.<end>
+Je dois y aller. À une prochaine.<end>
 
 =>a216_original
 I better take a stroll and see if this was worth it. See you later, Leo.<end>
 
 =>a216
-Je ferais mieux de me promener et de voir si ça valait le coup. A tout à l'heure, Leo.<end>
+Je vais faire un tour, voir si ça valait le coup. À plus, Leo.<end>
 
 =>a217_original
 Feeling very persuasive... and persuaded.<end>
 
 =>a217
-Se sentir très persuasif... et persuadé.<end>
+Très $(#persuasif/persuasive)... et $(#persuadé/persuadée).<end>
 
 =>a218_original
 Feeling highly persuasive... and persuaded.<end>
 
 =>a218
-Se sentir très persuasif... et persuadé.<end>
+Hautement $(#persuasif/persuasive)... et $(#persuadé/persuadée).<end>
 
 =>a219_original
 Feeling particularly persuasive... and persuaded.<end>
 
 =>a219
-Se sentir particulièrement persuasif... et persuadé.<end>
+Particulièrement $(#persuasif/persuasive)... et $(#persuadé/persuadée).<end>
 
 =>a220_original
 Feeling exceptionally persuasive... and persuaded.<end>
 
 =>a220
-Se sentant particulièrement persuasif... et persuadé.<end>
+Exceptionnellement $(#persuasif/persuasive)... et $(#persuadé/persuadée).<end>
 
 =>a221_original
 For now. Say, I wanted to talk to you about a few things.<end>
 
 =>a221
-Pour l'instant. Je voulais te parler de quelques choses.<end>
+Pour l'instant. Dis, je voulais te parler de deux-trois trucs.<end>
 
 =>a222_original
 I hope. Time to take a stroll and see if this was worth it. See you later, Leo.<end>
 
 =>a222
-J'espère. Il est temps de se promener et de voir si ça valait le coup. A tout à l'heure, Leo.<end>
+J'espère. Je vais faire un tour, voir si ça valait le coup. À plus, Leo.<end>
 
 =>q223_original
 <end>
@@ -1404,9 +1404,9 @@ J'espère. Il est temps de se promener et de voir si ça valait le coup. A tout 
 I shouldn't have come out of that locker so fast. Ow... dang it.<end>
 
 =>q227
-::Leo vous mène à un trou dans le sol. Tu regardes dans le vide avant de le regarder. Il a un sourire heureux sur le visage et se frotte la main avec plaisir. Sans avertissement, son expression se solidifie, et il arrive rapidement à soutenir son bas du dos. Tu entends un crack très fort, et puis il parle.::
+::Leo vous mène à un trou dans le sol. Vous plongez le regard dans le vide, puis vous le regardez : sourire béat, il se frotte les mains tremblantes, ravi. Sans crier gare, son visage se fige, et il se rattrape le bas du dos. Un craquement trop fort, puis il parle.::
 
-Je n'aurais pas dû sortir si vite. C'est bon.<end>
+J'aurais pas dû sortir du casier si vite. Aïe... zut.<end>
 
 =>a228_original
 Are you okay? You want to sit down?<end>
@@ -1426,15 +1426,15 @@ Are you okay? You want to sit down?<end>
 There! You're gettin' the hang of it already.<end>
 
 =>q230
-::Leo pointe vers le trou et hoche plusieurs fois. Ses mains soutiennent toujours son dos fragile.::
+::Leo désigne le trou et hoche la tête plusieurs fois. Ses mains soutiennent encore son dos fragile.::
 
-Voilà ! Tu te débrouilles déjà.<end>
+Voilà ! T'as déjà pigé le truc.<end>
 
 =>q231_original
 ::There! You're gettin' the hang of it already.::<end>
 
 =>q231
-::Voilà ! Tu te débrouilles déjà.::<end>
+::Voilà ! T'as déjà pigé le truc.::<end>
 
 =>a232_original
 It's an echo.<end>
@@ -1446,13 +1446,13 @@ C'est un écho.<end>
 Would you listen for a moment!?<end>
 
 =>q233
-Voulez-vous écouter un moment ?<end>
+T'écoutes deux secondes !?<end>
 
 =>q234_original
 ::Would you listen for a moment!?::<end>
 
 =>q234
-::Voulez-vous écouter un moment ?::<end>
+::T'écoutes deux secondes !?::<end>
 
 =>q235_original
 ::Leo proceeds with a whisper.::
@@ -1460,21 +1460,21 @@ Voulez-vous écouter un moment ?<end>
 Look: The Hole of Reason helps your mind work. You talk to it, and it answers. Now, the trick is to talk about all the important stuff, your past, your knowledge. What comes out of the hole will... *stick* to your memory and slow down the, uh, effects of the pressure. It helps, I swear.<end>
 
 =>q235
-::Leo passe par un murmure.::
+::Leo continue à voix basse.::
 
-Le trou de la raison aide votre esprit à travailler. Tu lui parles, et ça répond. Maintenant, l'astuce est de parler de toutes les choses importantes, votre passé, vos connaissances. Ce qui sort du trou va... *coller* à votre mémoire et ralentir les effets de la pression. Ça aide, je le jure.<end>
+Écoute : le Hole of Reason, ça fait marcher ta tête. Tu lui parles, et il répond. Le truc, c'est de parler de ce qui compte, ton passé, ce que tu sais. Ce qui sort du trou va... *coller* à ta mémoire et ralentir, euh, les effets de la pression. Ça aide, je te le jure.<end>
 
 =>a236_original
 Okay, okay. Let's give it a shot. Tell me what to do? How do I start?<end>
 
 =>a236
-Très bien. Allons-y. Dis-moi quoi faire ? Comment je commence ?<end>
+D'accord, d'accord. On essaie. Tu me dis quoi faire ? Je commence comment ?<end>
 
 =>q237_original
 Say anythin' to start off the conversation. Then you ought to let it flow, but remember: Try to direct it toward things that are important to you, that you wanna hold on to. Got it?<end>
 
 =>q237
-Dis tout pour commencer la conversation. Alors vous devriez laisser couler, mais rappelez-vous: Essayez de le diriger vers des choses qui sont importantes pour vous, que vous voulez tenir. Compris ?<end>
+Dis n'importe quoi pour lancer. Après tu laisses venir, mais retiens bien : essaie de pousser vers ce qui compte pour toi, ce que tu veux garder. Pigé ?<end>
 
 =>q238_original
 <end>
@@ -1486,13 +1486,13 @@ Dis tout pour commencer la conversation. Alors vous devriez laisser couler, mais
 ::Speak to the Hole of Reason.::<end>
 
 =>a239
-::Parlez au trou de la raison.::<end>
+::Parler au Hole of Reason.::<end>
 
 =>a240_original
 I'm not interested in this right now. No offense, but forget I even asked you about this, which shouldn't be a problem for you.<end>
 
 =>a240
-Ça ne m'intéresse pas. Sans vouloir t'offenser, mais oublie que je t'ai même posé des questions, ce qui ne devrait pas être un problème pour toi.<end>
+Ça m'intéresse pas, là. Sans vouloir t'offenser, oublie que je t'ai seulement posé la question. Ça devrait pas être dur, pour toi.<end>
 
 =>q241_original
 ::Offense taken, you notice.::
@@ -1500,69 +1500,69 @@ I'm not interested in this right now. No offense, but forget I even asked you ab
 Well. 'Kay.<end>
 
 =>q241
-::C'est une infraction.::
+::Il l'a mal pris, vous le voyez.::
 
-Et bien. 'Kay.<end>
+Bon. D'accord.<end>
 
 =>a242_original
 I wanted to ask you a few things.<end>
 
 =>a242
-Je voulais vous poser quelques questions.<end>
+Je voulais te demander deux-trois trucs.<end>
 
 =>q243_original
 Well. 'Kay.<end>
 
 =>q243
-Et bien. 'Kay.<end>
+Bon. D'accord.<end>
 
 =>a244_original
 See you later.<end>
 
 =>a244
-A tout à l'heure.<end>
+À plus.<end>
 
 =>a245_original
 I knew your marbles were smashed with a hammer and then poured back into your head, but this I didn't expect.<end>
 
 =>a245
-Je savais que tes marbres avaient été écrasés avec un marteau, puis versés dans ta tête, mais je ne m'y attendais pas.<end>
+Je savais qu'on t'avait réduit les billes au marteau et recoulé le tout dans le crâne, mais ça, je l'avais pas vu venir.<end>
 
 =>a246_original
 So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.<end>
 
 =>a246
-Donc, c'est le "Hole of Reason". Je ne comprends toujours pas comment cela vous a aidé à atténuer la pression dans votre tête, comme vous l'appelez.<end>
+Donc voilà, le "Hole of Reason". Je pige toujours pas comment ça t'aidait à calmer la pression dans ta tête, comme tu dis.<end>
 
 =>q247_original
 ::So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.::<end>
 
 =>q247
-::Donc, c'est le "Hole of Reason". Je ne comprends toujours pas comment cela vous a aidé à atténuer la pression dans votre tête, comme vous l'appelez.::<end>
+::Donc voilà, le "Hole of Reason". Je pige toujours pas comment ça t'aidait à calmer la pression dans ta tête, comme tu dis.::<end>
 
 =>a248_original
 Oh, quit complaining and tell me what's so important about this hole.<end>
 
 =>a248
-Arrête de te plaindre et dis-moi ce qui est si important dans ce trou.<end>
+Arrête de râler et dis-moi ce qui compte tant, dans ce trou.<end>
 
 =>q249_original
 ::Oh, quit complaining and tell me what's so important about this hole.::<end>
 
 =>q249
-::Arrête de te plaindre et dis-moi ce qui est si important dans ce trou.::<end>
+::Arrête de râler et dis-moi ce qui compte tant, dans ce trou.::<end>
 
 =>a250_original
 Why did you bring me here, old man?<end>
 
 =>a250
-Pourquoi m'avoir amené ici, mon vieux ?<end>
+Pourquoi tu m'as amené ici, vieux ?<end>
 
 =>q251_original
 ::Why did you bring me here, old man?::<end>
 
 =>q251
-::Pourquoi m'avoir amené ici, mon vieux ?::<end>
+::Pourquoi tu m'as amené ici, vieux ?::<end>
 
 =>q252_original
 ::A terrified man leaps out of the locker, his former sanctuary, and pushes you aside. Despite his age, his movements are swift and agile, yet, as it usually comes with old age, this fear-driven overexertion is likely to pain him once he comes to a full rest. He raises his crossbow, taking a shaky aim at your face. Words come out of his mouth as quickly as he did from the locker and are carried by a quivering, chalky voice.::
@@ -1570,39 +1570,39 @@ Pourquoi m'avoir amené ici, mon vieux ?<end>
 Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, *one* finger and I'll launch a bolt through your hollow skull!<end>
 
 =>q252
-::Un homme terrifié sort du casier, son ancien sanctuaire, et vous repousse. Malgré son âge, ses mouvements sont rapides et agiles, mais comme il vient habituellement avec la vieillesse, cette suractivité motivée par la peur risque de le faire souffrir une fois qu'il se reposera. Il lève son arbalète, en t'attaquant au visage. Les mots sortent de sa bouche aussi vite qu'il l'a fait depuis le casier et sont portés par une voix crépusculaire.::
+::Un homme terrifié jaillit du casier, son ancien refuge, et vous écarte. Malgré l'âge, ses mouvements sont vifs, agiles - mais comme souvent à cet âge, cet effort de peur va lui coûter dès qu'il s'arrêtera. Il lève l'arbalète, vise votre visage, les bras tremblants. Les mots sortent aussi vite que lui du casier, portés par une voix blanche, chevrotante.::
 
-Qu'est-ce qu'il y a ? Qu'est-ce qu'il y a ? Bouge un doigt et je lance un boulon dans ton crâne creux !<end>
+Qu'est-ce que tu fous ici, intrus !? Hein ? Hein !? Tu bouges un, *un* doigt, et je te plante un carreau au travers du crâne !<end>
 
 =>a253_original
 Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
 
 =>a253
-Calme-toi. Je ne suis pas là pour causer des ennuis. Tu peux baisser ton arme ?<end>
+Calme-toi. Je suis pas là pour chercher des ennuis. Tu peux baisser l'arme ?<end>
 
 =>q254_original
 ::His face turns pale after finally recognizing the robe that you are wearing.:: Wha-- You, you are one of 'em! Devil! Devil! You will not take me - YOU WILL NOT!<end>
 
 =>q254
-::Son visage devient pâle après avoir finalement reconnu la robe que vous portez.:: Wha-- Toi, tu en fais partie ! Démon ! Démon ! Tu ne m'emmèneras pas.<end>
+::Son visage blêmit quand il reconnaît enfin la robe que vous portez.:: Qu-- Toi, t'en es $(#un/une) ! Diable ! Diable ! Tu m'auras pas - TU M'AURAS PAS !<end>
 
 =>a255_original
 ::Fight!::<end>
 
 =>a255
-::Lutte!::<end>
+::Combattre.::<end>
 
 =>q256_original
 Not so fast, intruder, not so fast! ::He squeezes the crossbow even harder.:: First, I want you to tell me who you are and, and... and what in the echoing words of reason are you doin' in my damn house!?<end>
 
 =>q256
-Pas si vite, intrus, pas si vite ! ::Il serre l'arbalète encore plus fort.:: D'abord, je veux que tu me dises qui tu es et, et... et qu'est-ce que tu fais dans ma foutue maison dans les mots de raison ?<end>
+Pas si vite, intrus, pas si vite ! ::Il serre l'arbalète encore plus fort.:: D'abord, tu vas me dire qui t'es et, et... et qu'est-ce que tu fous dans ma foutue baraque, par les échos de la raison !?<end>
 
 =>a257_original
 I am $(context.player.Name), and I am a member of the Institute of Tchort.<end>
 
 =>a257
-Je suis $(context.player.Name), et je suis membre du Institute of Tchort.<end>
+Je suis $(context.player.Name), membre de l'Institute of Tchort.<end>
 
 =>q258_original
 ::As soon as you utter the word "Tchort," the old man's face turns pale and his hands begin shaking uncontrollably.::
@@ -1610,15 +1610,15 @@ Je suis $(context.player.Name), et je suis membre du Institute of Tchort.<end>
 Tch-Tch-Tchort!? TCHORT!? Devil! You will not take me - YOU WILL NOT!<end>
 
 =>q258
-::Dès que vous prononcez le mot "Tchort", le visage du vieil homme devient pâle et ses mains commencent à trembler incontrôlablement.::
+::Dès que vous prononcez le mot "Tchort", le visage du vieil homme blêmit et ses mains se mettent à trembler, sans contrôle.::
 
-Tch-Tch-Tchort!? C'est vrai ? Démon ! Tu ne m'emmèneras pas.<end>
+Tch-Tch-Tchort !? TCHORT !? Diable ! Tu m'auras pas - TU M'AURAS PAS !<end>
 
 =>a259_original
 My name is $(context.player.Name), and I have found your, erm, shack by pure accident.<end>
 
 =>a259
-Mon nom est $(context.player.Name), et j'ai trouvé votre, euh, cabane par accident pur.<end>
+Je m'appelle $(context.player.Name), et j'ai trouvé ta, euh, cabane par pur accident.<end>
 
 =>q260_original
 Hey, it's *not* a shack. It-- Forget about that. 
@@ -1626,9 +1626,9 @@ Hey, it's *not* a shack. It-- Forget about that.
 Now you, ugh... you are not one of those devils... uh... Tch... Tchortists, by any chance?<end>
 
 =>q260
-C'est pas une cabane. Oublie ça.
+Hé, c'est *pas* une cabane. Ça-- Oublie.
 
-Tu n'es pas un de ces diables, par hasard ?<end>
+Toi, euh... t'es pas un de ces diables... euh... Tch... Tchortists, des fois ?<end>
 
 =>a261_original
 Actually, I am. Why?<end>
@@ -1643,9 +1643,9 @@ Devil! You will not take me - YOU WILL NOT!
 <end>
 
 =>q262
-::Dès que vous prononcez ces paroles, le visage du vieil homme devient pâle et ses mains commencent à trembler incontrôlablement.::
+::Dès que vous prononcez ces mots, le visage du vieil homme blêmit et ses mains se mettent à trembler, sans contrôle.::
 
-Démon ! Tu ne m'emmèneras pas.
+Diable ! Tu m'auras pas - TU M'AURAS PAS !
 <end>
 
 =>a263_original
@@ -1660,33 +1660,33 @@ Non.<end>
 *I* am Leo. I *am* Leo. I am *Leo*. I'd say "nice to meet you," but I don't know if I'd be honest about it. No, no.<end>
 
 =>q264
-::Son regard tendu dure encore quelques instants de silence avant de perdre lentement de l'intensité. Il abaisse aussi son arme, mais garde la vigilance.::
+::Son regard tendu tient encore quelques secondes de silence, puis perd peu à peu de sa force. Il baisse l'arme aussi, mais reste aux aguets.::
 
-Je suis Léo. Je suis Léo. Je suis "Leo". Je dirais "bien de te rencontrer", mais je ne sais pas si je serais honnête. Non, pas du tout.<end>
+*Moi,* c'est Leo. Je *suis* Leo. Je suis *Leo*. Je dirais "enchanté", mais je sais pas si je serais honnête. Non, non.<end>
 
 =>a265_original
 I swear I'm not here to do you any harm, old man. In fact, I might even need your help.<end>
 
 =>a265
-Je te jure que je ne suis pas là pour te faire du mal, mon vieux. En fait, je pourrais même avoir besoin de votre aide.<end>
+Je te jure que je suis pas là pour te faire de mal, vieux. En fait, j'aurais même besoin de ton aide.<end>
 
 =>q266_original
 Why would I wanna help someone who broke into my house? Eh? Eh?<end>
 
 =>q266
-Pourquoi je voudrais aider quelqu'un qui est entré par effraction chez moi ? Et alors ? Et alors ?<end>
+Pourquoi je voudrais aider quelqu'un qui a forcé ma baraque ? Hein ? Hein ?<end>
 
 =>a267_original
 Because you are a good man and your knowledge of the area is extensive. I hope.<end>
 
 =>a267
-Parce que vous êtes un homme bon et que votre connaissance de la région est vaste. J'espère.<end>
+Parce que t'es un homme bien, et que tu connais le coin comme ta poche. J'espère.<end>
 
 =>q268_original
 He-he-HA! Yeah, right. Listen, if you need somethin' for me, you ought to give somethin' in return. And I already have a thing in mind, intruder.<end>
 
 =>q268
-C'est lui ! Oui, c'est ça. Ecoute, si tu as besoin de quelque chose pour moi, tu devrais donner quelque chose en retour. Et j'ai déjà quelque chose en tête, intrus.<end>
+He-he-HA ! Ouais, c'est ça. Écoute, si t'as besoin d'un truc de moi, tu donnes un truc en échange. Et j'ai déjà une idée, intrus.<end>
 
 =>a269_original
 ::Sigh.:: I should have seen it coming...<end>
@@ -1698,19 +1698,19 @@ C'est lui ! Oui, c'est ça. Ecoute, si tu as besoin de quelque chose pour moi, t
 I lost something very important to me... very dear, very valuable. Six days ago I believe it was, or seven... I was scavenging around the complex for supplies when I ran into, uh, Tch... Tchortists, yes, and had to run for my life! Devils! I ran from 'em and, after I got back 'ere, I realized I had dropped my knife somewhere along the way. LOST IT! It was so pretty, had a handle made from bone. BONE - a beauty, yes.<end>
 
 =>q270
-J'ai perdu quelque chose de très important pour moi... très cher, très précieux. Il y a six jours, je crois que c'était... J'étais en train de chercher des provisions dans le complexe quand j'ai rencontré, euh, Tch... Tchortists, oui, et j'ai dû courir pour ma vie ! Les démons ! J'ai fui et, après mon retour, j'ai réalisé que j'avais largué mon couteau quelque part en chemin. Lève-la ! C'était si joli, il avait une poignée faite d'os. Une beauté, oui.<end>
+J'ai perdu un truc très important pour moi... très cher, très précieux. Y a six jours, je crois, ou sept... Je fouillais le complexe pour des provisions quand je suis tombé sur, euh, Tch... Tchortists, oui, et j'ai dû courir pour ma peau ! Des diables ! J'ai filé, et en rentrant ici j'ai compris que j'avais lâché mon couteau en chemin. PERDU ! Il était si beau, une poignée en os. EN OS - une beauté, oui.<end>
 
 =>q271_original
 I need it back, so if you can find it I'd be very thankful. I could help you. I know stuff. Only if you help me. But you ought to be careful: There's been a lot of fightin' between the Tchortists and the Masked, so watch out. Did I forget something...? Eh... Yes! The place where I ran into the patrol was west of the storages. Yes, yes... west. <end>
 
 =>q271
-J'en ai besoin, donc si vous le trouvez, je serais très reconnaissant. Je pourrais vous aider. Je sais des trucs. Seulement si tu m'aides. Mais vous devriez être prudent : Il y a eu beaucoup de combats entre les Tchortists et les Masqués, alors faites attention. J'ai oublié quelque chose ? Oui ! L'endroit où j'ai croisé la patrouille était à l'ouest des entrepôts. Oui, oui... ouest. <end>
+Il me le faut, alors si tu le retrouves je te serais bien reconnaissant. Je pourrais t'aider. Je sais des trucs. Seulement si tu m'aides. Mais fais gaffe : y a eu pas mal de bagarre entre les Tchortists et les Masqués, alors ouvre l'œil. J'ai oublié un truc...? Euh... Oui ! L'endroit où j'ai croisé la patrouille, c'était à l'ouest des entrepôts. Oui, oui... l'ouest. <end>
 
 =>a272_original
 Is this your knife? ::Show him the bone knife.::<end>
 
 =>a272
-C'est ton couteau ? ::Montre-lui le couteau à os.::<end>
+C'est ton couteau ? ::Lui montrer le couteau à os.::<end>
 
 =>q273_original
 ::His lips stretch into a smile as soon as you show him the knife; his eyes fill with tears of joy.:: 
@@ -1718,15 +1718,15 @@ C'est ton couteau ? ::Montre-lui le couteau à os.::<end>
 HA! HA! That's the one! That's the one! I haven't forgotten how it looks. No, no. It's so, so pretty...<end>
 
 =>q273
-::Ses lèvres s'étirent dans un sourire dès que vous lui montrez le couteau; ses yeux se remplissent de larmes de joie.::
+::Ses lèvres s'étirent en sourire dès que vous lui montrez le couteau ; ses yeux se remplissent de larmes de joie.::
 
-C'est vrai ! C'est celui-là ! C'est celui-là ! Je n'ai pas oublié à quoi ça ressemble. Non, pas du tout. C'est si joli...<end>
+HA ! HA ! C'est celui-là ! C'est celui-là ! J'ai pas oublié à quoi il ressemble. Non, non. Il est si, si beau...<end>
 
 =>q274_original
 Thank you so much... uh... uh... What did ya say your name was?<end>
 
 =>q274
-Merci beaucoup... euh... euh... Quel est votre nom ?<end>
+Merci, merci... euh... euh... C'est quoi que t'as dit, comme nom ?<end>
 
 =>a275_original
 $(context.player.Name).<end>
@@ -1738,13 +1738,13 @@ $(context.player.Name).<end>
 $(context.player.Name). $(context.player.Name). $(context.player.Name). *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
 
 =>q276
-$(context.player.Name). $(context.player.Name). $(context.player.Name). *Je suis Léo. Je suis Léo. Je suis "Leo". Ravi de vous rencontrer, euh... $(context.player.Name).<end>
+$(context.player.Name). $(context.player.Name). $(context.player.Name). *Moi,* c'est Leo. Je *suis* Leo. Je suis *Leo*. Ravi de te connaître, euh... $(context.player.Name).<end>
 
 =>a277_original
 Piece of cake. See you soon, Leo.<end>
 
 =>a277
-Du gâteau. A bientôt, Leo.<end>
+Un jeu d'enfant. À bientôt, Leo.<end>
 
 =>a278_original
 I'll see what I can do. Goodbye.<end>
@@ -1756,49 +1756,49 @@ Je vais voir ce que je peux faire. Au revoir.<end>
 Tell me what you need, old man.<end>
 
 =>a279
-Dis-moi ce dont tu as besoin, mon vieux.<end>
+Dis-moi ce qu'il te faut, vieux.<end>
 
 =>a280_original
 I did not break in, the front doors were unlocked.<end>
 
 =>a280
-Je n'ai pas pénétré, les portes d'entrée étaient déverrouillées.<end>
+J'ai pas forcé, la porte d'entrée était ouverte.<end>
 
 =>q281_original
 Liar! What about the traps, eh, intruder? Eh? Are you gonna say I put 'em there as a welcomin' sign? I-- He-he, well, in a way...<end>
 
 =>q281
-Menteuse ! Et les pièges ? Et alors ? Tu vas dire que je les mets là comme un signe de mariage ? Dans un sens...<end>
+Tu mens ! Et les pièges, hein, intrus ? Hein ? Tu vas dire que je les ai plantés là en guise de bienvenue ? Je-- He-he, bon, dans un sens...<end>
 
 =>q282_original
 But, that's beside the point. You never said why I would want to help you with anythin'? Eh?<end>
 
 =>q282
-Mais c'est à côté de ça. Tu n'as jamais dit pourquoi je voulais t'aider ? Et alors ?<end>
+Mais c'est pas la question. T'as jamais dit pourquoi je voudrais t'aider, à quoi que ce soit ? Hein ?<end>
 
 =>a283_original
 I'm sure an old man like you might need help with something in exchange.<end>
 
 =>a283
-Je suis sûr qu'un vieil homme comme vous a besoin d'aide pour quelque chose en échange.<end>
+Je suis $(#sûr/sûre) qu'un vieux comme toi a besoin d'un coup de main, en échange.<end>
 
 =>q284_original
 He-he. That's my kind of talking, intruder. I do have somethin' in mind for you, he-he.<end>
 
 =>q284
-C'est lui. C'est mon genre de parler, intrus. J'ai quelque chose en tête pour toi.<end>
+He-he. Ça, c'est mon langage, intrus. J'ai bien un truc en tête pour toi, he-he.<end>
 
 =>a285_original
 Look, I don't want anything from you at all. I'm just going to leave you to whatever you were doing.<end>
 
 =>a285
-Je ne veux rien de toi. Je vais te laisser faire ce que tu faisais.<end>
+Écoute, je veux rien de toi. Je te laisse à ce que t'étais en train de faire.<end>
 
 =>q286_original
 Eh, 'kay, 'kay. You better move on now, intruder.<end>
 
 =>q286
-Eh, oui, oui. Tu ferais mieux d'avancer, intrus.<end>
+Eh, d'accord, d'accord. Tu bouges, maintenant, intrus.<end>
 
 =>a287_original
 ::Leave.::<end>
@@ -1810,49 +1810,49 @@ Eh, oui, oui. Tu ferais mieux d'avancer, intrus.<end>
 You naive fool! ::Attack him!::<end>
 
 =>a288
-Espèce d'idiot naïf ! ::Attaquez-le !::<end>
+Pauvre naïf ! ::L'attaquer.::<end>
 
 =>a289_original
 NO! Not one of those freaks. Never!<end>
 
 =>a289
-Non, c'est pas vrai ! Pas un de ces monstres. Jamais !<end>
+NON ! Pas $(#un/une) de ces tarés. Jamais !<end>
 
 =>a290_original
 I'm $(context.player.Name), and I'm lost in the Deep Caverns. I have been trying to find a way out, but I suppose I found this shack of yours.<end>
 
 =>a290
-Je suis $(context.player.Name), et je suis perdu dans le Deep Caverns. J'ai essayé de trouver une issue, mais je suppose que j'ai trouvé votre cabane.<end>
+Je suis $(context.player.Name), et je suis $(#perdu/perdue) dans Deep Caverns. J'essaie de trouver une sortie, et je suppose que je suis $(#tombé/tombée) sur ta cabane.<end>
 
 =>a291_original
 Look, I didn't even know this place was here. Now put that thing away.<end>
 
 =>a291
-Je ne savais même pas que cet endroit était là. Maintenant rangez ce truc.<end>
+Je savais même pas que cet endroit existait. Range-moi ce truc, maintenant.<end>
 
 =>q292_original
 You didn't answer my question! No, NO! Who are you and why did you come 'ere?<end>
 
 =>q292
-Tu n'as pas répondu à ma question ! Non, pas du tout ! Qui êtes-vous et pourquoi êtes-vous venus ?<end>
+T'as pas répondu à ma question ! Non, NON ! Qui t'es, et pourquoi t'es $(#venu/venue) ici ?<end>
 
 =>a293_original
 Damn it, man, you scared me more than I scared you. Put that thing down and let's talk.<end>
 
 =>a293
-Tu m'as fait plus peur que moi. Posez ce truc et parlons.<end>
+Putain, t'as réussi à me faire plus peur que moi à toi. Pose ce truc et on parle.<end>
 
 =>q294_original
 Wh-- Uh, you again? What in the broken stalactite do you want now, eh?<end>
 
 =>q294
-Qu... Encore toi ? Que veux-tu dans le stalactite cassé ?<end>
+Qu-- Euh, encore toi ? Qu'est-ce que tu veux encore, par les stalactites cassées, hein ?<end>
 
 =>a295_original
 I was wondering if you could help me with some things. You look like you know a lot about Deep Caverns.<end>
 
 =>a295
-Je me demandais si tu pouvais m'aider. Vous semblez en savoir beaucoup sur Deep Caverns.<end>
+Je me demandais si tu pouvais m'aider pour quelques trucs. T'as l'air de bien connaître Deep Caverns.<end>
 
 =>a296_original
 Nothing. Goodbye.<end>
@@ -1864,25 +1864,25 @@ Rien. Au revoir.<end>
 Who's-- Oh, have you found it yet? Eh?<end>
 
 =>q297
-Qui est... Vous l'avez trouvé ? Et alors ?<end>
+Qui va là-- Ah, tu l'as trouvé ? Hein ?<end>
 
 =>a298_original
 I think this is what you were looking for.<end>
 
 =>a298
-Je pense que c'est ce que vous cherchiez.<end>
+Je crois que c'est ça, ce que tu cherchais.<end>
 
 =>a299_original
 Where did you say you lost it?<end>
 
 =>a299
-Où l'avez-vous perdue ?<end>
+Où t'as dit que tu l'avais perdu ?<end>
 
 =>q300_original
 Just at the entrance to the complex, west of the storages. You had to walk past those to get here, you know. Remember, eh? Anyway, go there and get my knife.<end>
 
 =>q300
-Juste à l'entrée du complexe, à l'ouest des entrepôts. Tu devais passer devant ça pour arriver ici. Tu te souviens ? Va chercher mon couteau.<end>
+Juste à l'entrée du complexe, à l'ouest des entrepôts. T'as dû passer devant pour arriver ici, tu sais. Tu te souviens, hein ? Bon, vas-y, ramène-moi mon couteau.<end>
 
 =>a301_original
 I'm on it.<end>
@@ -1900,17 +1900,17 @@ Pas encore.<end>
 Go then. I'll forget what I asked you to do by the time you do it!<end>
 
 =>q303
-Allez-y. J'oublierai ce que je t'ai demandé de faire avant que tu le fasses !<end>
+Vas-y alors. J'aurai oublié ce que je t'ai demandé avant même que tu le fasses !<end>
 
 =>a304_original
 Right...<end>
 
 =>a304
-Oui...<end>
+Ouais...<end>
 
 =>a305_original
 ::Leave without saying anything.::<end>
 
 =>a305
-::Partez sans rien dire.::<end>
+::Partir sans rien dire.::<end>
 

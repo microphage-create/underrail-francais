@@ -4,9 +4,9 @@
 Hey; hey; hey; you must be $(context.player.Name)? Hmmm? Hmmm? It's good to meet you, I'm Twitch. I said, it's good to meet you, I'm Twitch!<end>
 
 =>q1
-::L'homme pâle et maigre se tourne vers vous et libère instantanément un torrent de mots. Les mots sont expulsés avec une telle rapidité qu'il est très difficile de suivre ce qu'il dit. Ses mouvements rapides et nerveux et son besoin constant d'alterner entre vous et les nombreux moniteurs devant lui sont à la fois intrigants et étranges.::
+::L'homme pâle et maigre se tourne vers vous et lâche tout de suite un torrent de mots. Ça sort si vite que suivre devient un vrai problème. Ses gestes rapides, saccadés, et ce besoin constant de passer de vous aux tas d'écrans devant lui, c'est à la fois intrigant et pas naturel.::
 
-Hé ; Hé; Hé; tu dois être $(context.player.Name) ? Hmmm? Hmmm? Ravi de vous rencontrer, je suis Twitch. J'ai dit, ça fait plaisir de vous rencontrer, je suis Twitch !<end>
+Hé ; hé ; hé ; vous devez être $(context.player.Name) ? Hmmm ? Hmmm ? Enchanté, je suis Twitch. J'ai dit, enchanté, je suis Twitch !<end>
 
 =>q2_original
 <end>
@@ -18,79 +18,79 @@ Hé ; Hé; Hé; tu dois être $(context.player.Name) ? Hmmm? Hmmm? Ravi de vous
 Why are you doing that strange thing?<end>
 
 =>a3
-Pourquoi fais-tu cette chose étrange ?<end>
+Pourquoi vous faites ce truc bizarre ?<end>
 
 =>q4_original
 Doing what? ::He looks at a monitor.:: Oh, wait; let me zoom that in; more; more; Shame. The resolution is far too low to discern anything. I can't... ::He looks at you.:: Doing what, heh, doing what?<end>
 
 =>q4
-Faire quoi ? ::Il regarde un moniteur.:: Oh, attends ; permettez-moi de zoomer dessus ; plus; plus; Honte. La résolution est bien trop faible pour discerner quoi que ce soit. Je ne peux pas... ::Il vous regarde.:: Faire quoi, hein, faire quoi ?<end>
+Faire quoi ? ::Il regarde un écran.:: Oh, attendez ; je zoome ; plus ; plus ; Dommage. La résolution est beaucoup trop basse pour rien discerner. Je peux pas... ::Il vous regarde.:: Faire quoi, hein, faire quoi ?<end>
 
 =>a5_original
 The multitasking. It's creeping me out, man. Can't you focus on one thing at a time?<end>
 
 =>a5
-Le multitâche. Ça me fait flipper, mec. Ne peux-tu pas te concentrer sur une chose à la fois ?<end>
+Le multitâche. Ça me fout les jetons. Vous pouvez pas vous coller à un truc à la fois ?<end>
 
 =>q6_original
 ::He turns toward you.:: If I focus on one thing, then I'm missing something else. I need to be on a constant lookout in order to register and process everything that is happening. Simply by focusing all my attention to you, $(context.player.Name), I've already missed several important events.<end>
 
 =>q6
-::Il se tourne vers vous.:: Si je me concentre sur une chose, alors il me manque autre chose. Je dois être constamment à l'affût afin d'enregistrer et de traiter tout ce qui se passe. Simplement en concentrant toute mon attention sur toi, $(context.player.Name), j'ai déjà raté plusieurs événements importants.<end>
+::Il se tourne vers vous.:: Si je me colle à un seul truc, j'en rate un autre. Faut que je sois en veille permanente, pour enregistrer et traiter tout ce qui se passe. Rien qu'en collant toute mon attention sur vous, $(context.player.Name), j'ai déjà loupé plusieurs trucs importants.<end>
 
 =>q7_original
 ::He looks at the monitors again.:: My way is the optimal way!<end>
 
 =>q7
-::Il regarde à nouveau les moniteurs.:: Ma voie est la voie optimale !<end>
+::Il regarde encore les écrans.:: Ma méthode, c'est la méthode optimale !<end>
 
 =>a8_original
 Never mind. Let's talk about something else.<end>
 
 =>a8
-Pas grave. Parlons d'autre chose.<end>
+Laissez tomber. Autre chose.<end>
 
 =>q9_original
 Just be quick about it, things are happening and I don't know if I'll be able to... :: He focuses on one of the monitors.::<end>
 
 =>q9
-Faites vite, il se passe des choses et je ne sais pas si j'en serai capable... ::Il se concentre sur l'un des moniteurs.::<end>
+Faites vite, y a des trucs qui se passent et je sais pas si je vais pouvoir... :: Il se concentre sur l'un des écrans.::<end>
 
 =>a10_original
 What do you do around here?<end>
 
 =>a10
-Que fais-tu par ici ?<end>
+Vous faites quoi, ici ?<end>
 
 =>q11_original
 Scrutinize, study, analyze and then extrapolate, conclude, calculate. ::He focuses on something on one of the monitors.:: Seventeen, I should write that down. Yes, the technology allows me to be a nearly omnipresent observer. I perceive what only few can so if you ever need some surveillance help, I'm your man.<end>
 
 =>q11
-Scruter, étudier, analyser puis extrapoler, conclure, calculer. ::Il se concentre sur quelque chose sur l'un des moniteurs.:: Dix-sept ans, je devrais écrire ça. Oui, la technologie me permet d’être un observateur quasi omniprésent. Je comprends ce que peu de gens peuvent faire, donc si jamais vous avez besoin d'aide en matière de surveillance, je suis votre homme.<end>
+Scruter, étudier, analyser, puis extrapoler, conclure, calculer. ::Il se concentre sur un détail d'un écran.:: Dix-sept. Faut que je note. Oui, la techno me permet d'être un observateur quasi omniprésent. Je perçois ce que peu de gens peuvent percevoir, donc si jamais vous avez besoin d'un coup de main en surveillance, je suis votre homme.<end>
 
 =>q12_original
 By the way, you look like you've gained a few pounds. ::He looks at a monitor.:: Just an observation.<end>
 
 =>q12
-Au fait, tu as l’air d’avoir pris quelques kilos. ::Il regarde un moniteur.:: Juste une observation.<end>
+Au fait, on dirait que vous avez pris quelques kilos. ::Il regarde un écran.:: Simple observation.<end>
 
 =>q13_original
 By the way, is that a bald patch on your head? Maybe it's just the lighting. ::He looks at the monitor.::<end>
 
 =>q13
-Au fait, est-ce une calvitie sur ta tête ? C'est peut-être juste l'éclairage. ::Il regarde le moniteur.::<end>
+Au fait, c'est une plaque chauve, ça, sur votre tête ? Peut-être que c'est juste la lumière. ::Il regarde l'écran.::<end>
 
 =>a14_original
 I might need some surveillance help. <end>
 
 =>a14
-J'ai peut-être besoin d'aide de surveillance. <end>
+J'aurais peut-être besoin d'un coup de main en surveillance. <end>
 
 =>q15_original
 Hey, whatever you need. ::He looks at the monitor.::<end>
 
 =>q15
-Tout ce dont tu as besoin. ::Il regarde le moniteur.::<end>
+Hé, tout ce que vous voulez. ::Il regarde l'écran.::<end>
 
 =>q16_original
 <end>
@@ -102,7 +102,7 @@ Tout ce dont tu as besoin. ::Il regarde le moniteur.::<end>
 I need some surveillance equipment to spy on the Talloski family in Core City.<end>
 
 =>a17
-J'ai besoin de matériel de surveillance pour espionner la famille Talloski dans Core City.<end>
+J'ai besoin de matos de surveillance pour espionner la famille Talloski, à Core City.<end>
 
 =>q18_original
 Please wait... ::He hastily types something on the keyboard, then turns around to you. You feel like you have his full attention, as strange as it may be.::
@@ -110,21 +110,21 @@ Please wait... ::He hastily types something on the keyboard, then turns around t
 I have just the right thing for you. As a matter of fact, I believe you're already familiar with the piece of equipment I'm about to present to you.<end>
 
 =>q18
-Attendez... ::Il tape rapidement quelque chose sur le clavier, puis se retourne vers vous. Vous avez l'impression d'avoir toute son attention, aussi étrange que cela puisse être.::
+Attendez... ::Il tape vite quelque chose au clavier, puis se tourne vers vous. Vous avez l'impression d'avoir toute son attention, aussi bizarre que ça puisse être.::
 
-J'ai juste la bonne chose pour toi. En fait, je crois que vous connaissez déjà le matériel que je vais vous présenter.<end>
+J'ai exactement ce qu'il vous faut. En fait, je crois que vous connaissez déjà le matos que je m'apprête à vous présenter.<end>
 
 =>q19_original
 ::Twitch releases a loud whistle. Almost instantly, you hear the sound of something skittering across the metal floor, something tiny. You have heard this sound before, you remember. A burrower spawn reveals itself and comes toward Twitch, proceeding to climb his leg with quick motions of its tiny legs, going all the way up to his shiny bald head, on top of which it finally rests.::<end>
 
 =>q19
-::Twitch lance un grand sifflement. Presque instantanément, vous entendez le bruit de quelque chose qui s'égare sur le sol en métal, quelque chose de minuscule. Vous avez déjà entendu ce son, vous vous souvenez. Un frai de terriers se révèle et vient vers Twitch, en grimpant sa jambe avec des mouvements rapides de ses petites jambes, allant jusqu'à sa tête chauve brillante, sur laquelle il repose finalement.::<end>
+::Twitch lâche un sifflement fort. Presque tout de suite, vous entendez quelque chose trottiner sur le sol métallique, quelque chose de minuscule. Vous avez déjà entendu ce bruit, vous vous souvenez. Un rejeton de Burrower se montre et vient vers Twitch, gravit sa jambe à petits coups de pattes rapides, jusqu'à sa tête chauve et brillante, où il finit par s'installer.::<end>
 
 =>a20_original
 Oh, that ugly thing again.<end>
 
 =>a20
-Oh, cette chose moche encore.<end>
+Oh, encore ce truc moche.<end>
 
 =>q21_original
 Beauty is in the eye of the beholder. Whether you like it or not - the spawn is yours to command. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
@@ -132,45 +132,45 @@ Beauty is in the eye of the beholder. Whether you like it or not - the spawn is 
 Once the spawn is in place, return to me. I'll keep a close eye on every bit of information it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
 
 =>q21
-La beauté est dans l'œil du spectateur. Que vous l'aimiez ou non - le frai est à vous de commander. Comme avant, vous devez le libérer dans un puits de ventilation de votre choix; il restera là et... faire son travail.
+La beauté est dans l'œil de celui qui regarde. Que ça vous plaise ou non, le rejeton est à vos ordres. Comme avant, vous le lâchez dans une gaine de ventilation de votre choix ; il reste là et... il fait le boulot.
 
-Une fois la fraye en place, revenez à moi. Je surveillerai de près toutes les informations qu'il envoie. J'ai dit que je garderais un œil sur tout ce qu'il renvoie.<end>
+Une fois le rejeton en place, vous revenez. Je garderai un œil sur chaque info qu'il renvoie. Hmmm, j'ai dit, je garderai un œil sur tout ce qu'il renvoie.<end>
 
 =>q22_original
 ::The creature climbs down onto his left shoulder. He brings his mouth close to it, just like Abram did before, almost like speaking to it, but no sounds come from either of the two strange creatures. Twitch then extends his arm toward you and touches your shoulder, allowing the little one to walk across to you. Again, it finds home in a comfortable pocket in which it finally comes to a still.::<end>
 
 =>q22
-::La créature descend sur son épaule gauche. Il s'en rapproche, comme Abram l'a fait avant, presque comme s'il lui parlait, mais aucun bruit ne vient des deux créatures étranges. Twitch étend alors son bras vers vous et touche votre épaule, permettant au petit de marcher à travers vous. Encore une fois, il trouve la maison dans une poche confortable dans laquelle il vient enfin à un immobile.::<end>
+::La créature descend sur son épaule gauche. Il approche la bouche, comme Abram avant lui, presque comme s'il lui parlait, mais aucun son ne sort ni de l'un ni de l'autre. Twitch tend ensuite le bras, touche votre épaule, et laisse le petit passer chez vous. Encore une fois, il se niche dans une poche confortable, et là, il s'immobilise.::<end>
 
 =>a23_original
 Yay, I love when creepy things crawl all over me.<end>
 
 =>a23
-Ouais, j'aime quand des choses flippantes rampent sur moi.<end>
+Youpi. J'adore quand des trucs glauques me rampent dessus.<end>
 
 =>q24_original
 You should be used to it by now. Take care of it, and see you later. I have to return to my monitors; I've probably missed so much inf-- ::He turns around, instantly gluing his eyes one of the monitors.::<end>
 
 =>q24
-Tu devrais t'y habituer maintenant. Prends soin de ça, et à plus tard. Je dois retourner à mes moniteurs ; j'ai probablement manqué tellement inf-- ::Il se retourne, collant instantanément l'un des moniteurs.::<end>
+Vous devriez être habitué, maintenant. Prenez-en soin, et à plus. Je dois retourner à mes écrans ; j'ai probablement loupé tellement d'inf-- ::Il se retourne, collant tout de suite les yeux à l'un des écrans.::<end>
 
 =>a25_original
 Thanks Twitch, I'll be on my way now. See you later.<end>
 
 =>a25
-Je vous remercie. Twitch, je vais y aller. A tout à l'heure.<end>
+Merci Twitch, j'y vais. À plus.<end>
 
 =>q26_original
 Take care of it, and see you later. I have to return to my monitors; I've probably missed so much inf-- ::He turns around, instantly gluing his eyes one of the monitors.::<end>
 
 =>q26
-Prends soin de ça, et à plus tard. Je dois retourner à mes moniteurs ; j'ai probablement manqué tellement inf-- ::Il se retourne, collant instantanément l'un des moniteurs.::<end>
+Prenez-en soin, et à plus. Je dois retourner à mes écrans ; j'ai probablement loupé tellement d'inf-- ::Il se retourne, collant tout de suite les yeux à l'un des écrans.::<end>
 
 =>a27_original
 Don't you have something a bit more traditional? Eh?<end>
 
 =>a27
-Tu n'as pas quelque chose de plus traditionnel ? Et alors ?<end>
+Vous n'avez pas un truc un peu plus classique ? Hein ?<end>
 
 =>q28_original
 ::Twitch laughs.:: I would be ashamed of myself if I'd have given you anything but the best we have to offer. Trust me, this bad boy is more than fitting for the task at hand. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
@@ -178,15 +178,15 @@ Tu n'as pas quelque chose de plus traditionnel ? Et alors ?<end>
 Once the spawn is in place, return to me. I'll keep a close eye on everything it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
 
 =>q28
-::Twitch rit.:: J'aurais honte de moi si je t'avais donné n'importe quoi, sauf le meilleur que nous ayons à offrir. Crois-moi, ce méchant garçon est plus qu'adéquate pour la tâche à accomplir. Comme avant, vous devez le libérer dans un puits de ventilation de votre choix; il restera là et... faire son travail.
+::Twitch rit.:: J'aurais honte de vous filer autre chose que le meilleur qu'on a. Faites-moi confiance, ce petit bijou est plus que calé pour le boulot. Comme avant, vous le lâchez dans une gaine de ventilation de votre choix ; il reste là et... il fait le boulot.
 
-Une fois la fraye en place, revenez à moi. Je surveillerai de près tout ce qu'il envoie. J'ai dit que je garderais un œil sur tout ce qu'il renvoie.<end>
+Une fois le rejeton en place, vous revenez. Je garderai un œil sur tout ce qu'il renvoie. Hmmm, j'ai dit, je garderai un œil sur tout ce qu'il renvoie.<end>
 
 =>a29_original
 Ah, we meet again, my insectoid companion.<end>
 
 =>a29
-On se retrouve, mon compagnon insectoïde.<end>
+Ah, on se retrouve, mon compagnon insectoïde.<end>
 
 =>q30_original
 $(context.player.Name), you are already familiar with this little bad boy. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
@@ -194,111 +194,111 @@ $(context.player.Name), you are already familiar with this little bad boy. As be
 Once the spawn is in place, return to me. I'll keep a close eye on everything it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
 
 =>q30
-$(context.player.Name), vous connaissez déjà ce petit mauvais garçon. Comme avant, vous devez le libérer dans un puits de ventilation de votre choix; il restera là et... faire son travail.
+$(context.player.Name), vous connaissez déjà ce petit bijou. Comme avant, vous le lâchez dans une gaine de ventilation de votre choix ; il reste là et... il fait le boulot.
 
-Une fois la fraye en place, revenez à moi. Je surveillerai de près tout ce qu'il envoie. J'ai dit que je garderais un œil sur tout ce qu'il renvoie.<end>
+Une fois le rejeton en place, vous revenez. Je garderai un œil sur tout ce qu'il renvoie. Hmmm, j'ai dit, je garderai un œil sur tout ce qu'il renvoie.<end>
 
 =>a31_original
 Nothing at the moment. I suppose I could ask you something else.<end>
 
 =>a31
-Rien pour le moment. Je suppose que je pourrais vous demander autre chose.<end>
+Rien pour l'instant. Je suppose que je peux vous demander autre chose.<end>
 
 =>q32_original
 Ask...<end>
 
 =>q32
-Demande...<end>
+Demandez...<end>
 
 =>a33_original
 I'd like to return the spawn. I never got the chance to use it.<end>
 
 =>a33
-J'aimerais rendre la fraye. Je n'ai jamais eu la chance de l'utiliser.<end>
+Je voudrais rendre le rejeton. J'ai jamais eu l'occasion de m'en servir.<end>
 
 =>q34_original
 ::Twitch stops what he was doing and focuses on the matter at hand. You let the spawn cross over to him, after which they again perform the "silent speaking" ritual. Finally, after their communication is over, the spawn climbs down and skitters away into darkness.::<end>
 
 =>q34
-::Twitch arrête ce qu'il faisait et se concentre sur la question. Tu as laissé le frai passer vers lui, après quoi ils accomplissent de nouveau le rituel « parlant silencieux ». Enfin, après la fin de leur communication, les géniteurs descendent et s'éloignent dans l'obscurité.::<end>
+::Twitch lâche ce qu'il faisait et se colle au sujet. Vous laissez le rejeton passer chez lui, et ils refont le rituel du « silence parlé ». Quand c'est fini, le rejeton descend et disparaît en trottinant dans le noir.::<end>
 
 =>q35_original
 He's a good boy, isn't he?  Hmmm? I said, isn't he?::He returns to one of his monitors.::<end>
 
 =>q35
-C'est un bon garçon, non ? - Oui. J'ai dit, n'est-ce pas?::Il revient à un de ses moniteurs.::<end>
+C'est un bon garçon, non ?  Hmmm ? J'ai dit, non ?::Il revient à l'un de ses écrans.::<end>
 
 =>a36_original
 I released the spawn.<end>
 
 =>a36
-J'ai libéré la frayère.<end>
+J'ai lâché le rejeton.<end>
 
 =>q37_original
 That sounded so... ominous. Release the spawn! ::Before you even get a chance to process what he said, he repeats it, as if expecting you to have answered it already.:: I said, release the spawn! Anyway, I am aware you released it, because I already had some information sent by it.<end>
 
 =>q37
-C'était si... sinistre. Libérez le frai ! ::Avant même que vous ayez une chance de traiter ce qu'il a dit, il le répète, comme s'il s'attendait à ce que vous y ayez déjà répondu.:: J'ai dit, relâchez le frai! De toute façon, je sais que vous l'avez publié, parce que j'ai déjà reçu des informations.<end>
+Ça sonnait tellement... sinistre. Lâchez le rejeton ! ::Avant même que vous ayez le temps de digérer, il répète, comme s'il attendait déjà une réponse.:: J'ai dit, lâchez le rejeton ! Bref, je sais que vous l'avez lâché, parce que j'en ai déjà reçu des infos.<end>
 
 =>a38_original
 Got something interesting?<end>
 
 =>a38
-Vous avez quelque chose d'intéressant ?<end>
+Vous avez un truc intéressant ?<end>
 
 =>q39_original
 Well, so fa-- ::He focuses on one of the monitors for a brief moment.:: --r, the only thing of any interest was a discussion between a man referred to as Vlatko and his son, Maxim. It appears that their big-screen... ::He quickly glances at another monitor.:: big-screen monitor broke.<end>
 
 =>q39
-Eh bien, donc fa-- ::Il se concentre sur l'un des moniteurs pour un bref moment.:: --r, la seule chose d'intérêt était une discussion entre un homme appelé Vlatko et son fils, Maxim. Il semble que leur écran grand écran... ::Il regarde rapidement un autre moniteur.:: moniteur grand écran cassé.<end>
+Bon, pour l'insta-- ::Il se concentre un instant sur l'un des écrans.:: --nt, le seul truc un peu intéressant, c'est une discussion entre un type appelé Vlatko et son fils, Maxim. On dirait que leur grand écran... ::Il jette un coup d'œil rapide à un autre écran.:: leur moniteur grand écran a lâché.<end>
 
 =>q40_original
 This prevents them from watching ArenaNow. They seem pretty... ::He focuses on one of the monitors.:: pretty distressed by this.<end>
 
 =>q40
-Cela les empêche de regarder ArenaNow. Ils semblent plutôt... ::Il se concentre sur l'un des moniteurs.:: assez affligés par ça.<end>
+Du coup, plus d'ArenaNow. Ils ont l'air plutôt... ::Il se concentre sur l'un des écrans.:: plutôt affectés.<end>
 
 =>a41_original
 I see... Okay, call me if anything new happens. I'll see what I can do with this information.<end>
 
 =>a41
-Je vois... Appelez-moi si quelque chose de nouveau arrive. Je vais voir ce que je peux faire avec cette information.<end>
+Je vois... Bon, vous me prévenez s'il se passe un truc neuf. Je verrai ce que je peux faire de cette info.<end>
 
 =>q42_original
 I will. ::He returns to one of his monitors.::<end>
 
 =>q42
-Je vais. ::Il revient à un de ses moniteurs.::<end>
+Je le ferai. ::Il revient à l'un de ses écrans.::<end>
 
 =>a43_original
 Just tell me already.<end>
 
 =>a43
-Dis-moi juste déjà.<end>
+Dites-le, allez.<end>
 
 =>q44_original
 Someone's impa-- ::He focuses on one of the monitors for a split second.:: --tient. Anyway, the only thing of interest so far was a discussion between a man referred to as Vlatko and his son, Maxim. It appears that their big-screen... ::He quickly glances at another monitor.:: big-screen monitor broke.<end>
 
 =>q44
-Quelqu'un est impa-- ::Il se concentre sur un des moniteurs pendant une seconde.:: --orient. Quoi qu'il en soit, la seule chose intéressante jusqu'à présent était une discussion entre un homme appelé Vlatko et son fils, Maxim. Il semble que leur écran grand écran... ::Il regarde rapidement un autre moniteur.:: moniteur grand écran cassé.<end>
+Quelqu'un d'impa-- ::Il se concentre une fraction de seconde sur l'un des écrans.:: --tient. Bref, le seul truc intéressant pour l'instant, c'est une discussion entre un type appelé Vlatko et son fils, Maxim. On dirait que leur grand écran... ::Il jette un coup d'œil rapide à un autre écran.:: leur moniteur grand écran a lâché.<end>
 
 =>a45_original
 How and why did you join Oculus?<end>
 
 =>a45
-Comment et pourquoi avez-vous rejoint Oculus ?<end>
+Comment et pourquoi vous avez rejoint Oculus ?<end>
 
 =>q46_original
 I was skilled enough to be... ::He looks at a monitor.:: What is he doing? Get out of there! ::He returns to you.:: I was skilled enough to be invited to meet Azif. Just like you, I started doing small-time jobs in Core City for people who later turned out to be... ::He looks at a monitor.:: Oculites? There?<end>
 
 =>q46
-J'étais assez doué pour être... ::Il regarde un moniteur.:: Que fait-il ? Dégage ! ::Il vous revient.:: J'étais assez compétent pour être invité à rencontrer Azif. Tout comme vous, j'ai commencé à faire des petits boulots dans Core City pour des gens qui se sont avérés être... ::Il regarde un moniteur.:: Oculites ? Voilà ?<end>
+J'étais assez doué pour être... ::Il regarde un écran.:: Qu'est-ce qu'il fabrique ? Dégage de là ! ::Il revient vers vous.:: J'étais assez doué pour être invité à voir Azif. Comme vous, j'ai commencé par des petits boulots à Core City, pour des gens qui se sont avérés être... ::Il regarde un écran.:: Des oculites ? Là-bas ?<end>
 
 =>q47_original
 Anyway, I needed the money for my addiction. Those were hard times. I'm off the stuff now. Hmmm? I said, I'm off the stuff now... ::He looks at a monitor.::<end>
 
 =>q47
-De toute façon, j'avais besoin de l'argent pour ma dépendance. C'était dur. J'en ai plus. - Oui. J'ai dit, j'ai arrêté les trucs maintenant... ::Il regarde un moniteur.::<end>
+Bref, il me fallait l'argent pour mon addiction. C'était dur. J'ai arrêté, maintenant. Hmmm ? J'ai dit, j'ai arrêté, maintenant... ::Il regarde un écran.::<end>
 
 =>a48_original
 Motion?<end>
@@ -312,99 +312,99 @@ Motion ?<end>
 It's called SSDMT-7; don't ask me about the... ::He looks at a monitor.:: Gauntlet?<end>
 
 =>q49
-::Il rit.:: Non, Motion est faible, insignifiant par rapport à ce que j'ai fait, $(context.player.Name). - Oui. Oui, faible par rapport à ce que j'ai fait !
+::Il rit.:: Non, Motion c'est faible, insignifiant à côté de ce que je prenais, $(context.player.Name). Hmmm ? Oui, faible à côté de ce que je prenais !
 
-Ça s'appelle SSDMT-7, ne m'interroge pas sur... ::Il regarde un moniteur.:: Gauntlet ?<end>
+Ça s'appelle SSDMT-7 ; me demandez pas le... ::Il regarde un écran.:: Gauntlet ?<end>
 
 =>q50_original
 Anyway, I was approached and told I had done well, that I had incredible perception and that Azif would like to talk to me. So, I casually strolled through the caves and that's... ::He looks at a monitor.:: That's huge...<end>
 
 =>q50
-Bref, on m'a approché et on m'a dit que j'avais bien fait, que j'avais une perception incroyable et que Azif aimerait me parler. Donc, je me promenais dans les grottes et c'est... ::Il regarde un moniteur.:: C'est énorme...<end>
+Bref, on est venus me voir, on m'a dit que j'avais bien fait, que j'avais une perception dingue, et qu'Azif voulait me parler. Alors j'ai traversé les grottes comme si de rien n'était, et c'est... ::Il regarde un écran.:: C'est énorme...<end>
 
 =>a51_original
 ::Let him continue.::<end>
 
 =>a51
-::Laisse-le continuer.::<end>
+::Le laisser continuer.::<end>
 
 =>a52_original
 What can you tell me about Oculus?<end>
 
 =>a52
-Que pouvez-vous me dire sur Oculus ?<end>
+Vous pouvez me dire quoi sur Oculus ?<end>
 
 =>q53_original
 It's a high tech pyramid, built by... ::He focuses on a monitor.:: Free Drones? ::He turns back to you.:: I wasn't talking to you, sorry. Built by Godmen; that's how we call the mysterious beings we know nothing about.<end>
 
 =>q53
-C'est une pyramide de haute technologie, construite par... ::Il se concentre sur un moniteur.:: Free Drones? ::Il se retourne vers vous.:: Je ne vous parlais pas, désolé. Construit par les Dieux ; c'est ainsi que nous appelons les êtres mystérieux que nous ne connaissons rien.<end>
+C'est une pyramide high-tech, construite par... ::Il se concentre sur un écran.:: Free Drones ? ::Il se retourne vers vous.:: Je vous parlais pas, désolé. Construite par les Godmen ; c'est comme ça qu'on appelle ces êtres mystérieux dont on ne sait rien.<end>
 
 =>q54_original
 It - the Oculus - is incredibly advanced; it is more sophisticated than anything even the most powerful people in Underrail possess. I adore some of the toys I have available here. I'm talking about surveillance tech, of course. Nothing in existence beats Oculus' arsenal of high-tech gadgetry. ::He laughs for a split second then abruptly stops.::<end>
 
 =>q54
-Il - l'Oculus - est incroyablement avancé; il est plus sophistiqué que tout, même les personnes les plus puissantes dans Underrail possèdent. J'adore certains jouets que j'ai disponibles ici. Je parle de la technologie de surveillance, bien sûr. Rien dans l'existence ne bat l'arsenal de haute technologie d'Oculus. ::Il rit pendant une seconde et s'arrête brusquement.::<end>
+Oculus, c'est incroyablement avancé. Plus sophistiqué que tout ce que même les plus puissants d'Underrail possèdent. J'adore certains des jouets que j'ai ici. La techno de surveillance, évidemment. Rien, nulle part, ne bat l'arsenal high-tech d'Oculus. ::Il rit une fraction de seconde, puis s'arrête net.::<end>
 
 =>a55_original
 Who is that six-fingered cyborg?<end>
 
 =>a55
-Qui est ce cyborg à six doigts ?<end>
+C'est qui, ce cyborg à six doigts ?<end>
 
 =>q56_original
 A client. Do not talk to him; he doesn't want to be talked to. Hmm? I said do not talk to him.<end>
 
 =>q56
-Un client. Ne lui parle pas, il ne veut pas qu'on lui parle. Quoi ? Ne lui parle pas.<end>
+Un client. Lui parlez pas ; il veut pas qu'on lui parle. Hmm ? J'ai dit, lui parlez pas.<end>
 
 =>q57_original
 ::He leans toward one of the monitors.:: Interesting, he was alive a few minutes ago...<end>
 
 =>q57
-::Il se penche vers un des moniteurs.:: Intéressant, il était vivant il y a quelques minutes...<end>
+::Il se penche vers l'un des écrans.:: Intéressant, il était vivant il y a quelques minutes...<end>
 
 =>a58_original
 What can you tell me about those robed oculites? <end>
 
 =>a58
-Que pouvez-vous me dire sur ces oculites en robe ? <end>
+Vous pouvez me dire quoi sur ces oculites en robe ? <end>
 
 =>q59_original
 ::He answers you while still watching one of the monitors.:: Colloquially known as Whisperers, the deadly psi-warriors belonging to a clan called Khazum Morakht guard Oculus vigilantly. All Khazum Morakht members are highly intelligent individuals who join the clan at a young age and receive training in all major psi disciplines. Only upon mastering all of those can they swear an oath before being allowed to perform their duty.<end>
 
 =>q59
-::Il vous répond en regardant un des moniteurs.:: Colloquially connu sous le nom de Whisperers, les psi-warriors mortels appartenant à un clan appelé Khazum Morakht garde Oculus vigilantly. Tous les membres de Khazum Morakht sont des individus hautement intelligents qui rejoignent le clan à un jeune âge et reçoivent une formation dans toutes les grandes disciplines psi. Ce n'est qu'en maîtrisant tous ces hommes qu'ils peuvent prêter serment avant d'être autorisés à accomplir leur devoir.<end>
+::Il vous répond sans quitter un écran des yeux.:: On les appelle Whisperers. Guerriers psi mortels du clan Khazum Morakht, ils gardent Oculus sans relâche. Tous les membres de Khazum Morakht sont des types très intelligents, qui rejoignent le clan jeunes et s'entraînent dans toutes les grandes disciplines psi. Ce n'est qu'une fois tout ça maîtrisé qu'ils peuvent prêter serment, et seulement ensuite qu'on les laisse faire le boulot.<end>
 
 =>q60_original
 Once they swear to protect someone or something they will do so until death. Most often, it's the death of their opponents - rare are the cases where the members of Khazum Morakht were killed on duty. There is a common misconception that they are mute, while in fact they are not; it is by their free will that they chose not to speak in order to-- ::He stops abruptly.::<end>
 
 =>q60
-Une fois qu'ils jureront de protéger quelqu'un ou quelque chose qu'ils feront jusqu'à la mort. Le plus souvent, c'est la mort de leurs adversaires - rares sont les cas où les membres de Khazum Morakht ont été tués en service. Il y a une idée fausse commune qu'ils sont muets, alors qu'en fait ils ne sont pas; c'est par leur libre arbitre qu'ils ont choisi de ne pas parler pour-- ::Il s'arrête brusquement.::<end>
+Une fois qu'ils jurent de protéger quelqu'un ou quelque chose, ils le font jusqu'à la mort. Le plus souvent, c'est la mort de leurs adversaires. Rare, les cas où un Khazum Morakht est tombé en service. Y a une idée fausse, assez répandue, qu'ils sont muets. Ils le sont pas ; c'est de leur plein gré qu'ils ont choisi de pas parler, pour-- ::Il s'arrête net.::<end>
 
 =>q61_original
 That is all I can tell you at the moment. Hmmm? Hmmm? I said, that's all for now. ::He focuses on one of the monitors.::<end>
 
 =>q61
-C'est tout ce que je peux vous dire en ce moment. - Oui. - Oui. C'est tout pour l'instant. ::Il se concentre sur l'un des moniteurs.::<end>
+C'est tout ce que je peux vous dire pour l'instant. Hmmm ? Hmmm ? J'ai dit, c'est tout pour maintenant. ::Il se concentre sur l'un des écrans.::<end>
 
 =>a62_original
 Can you watch the Arena on one of these monitors?<end>
 
 =>a62
-Pouvez-vous regarder l'aréna sur un de ces moniteurs ?<end>
+Vous pouvez regarder l'Arena sur un de ces écrans ?<end>
 
 =>q63_original
 ::Twitch glances at you, then returns to his monitors.:: Of course I can, $(context.player.Name). I lived in Core City before I came here; I was so addicted to watching... ::Turns at a different monitor.:: to watching the Arena. A bloodthirsty maniac! Yeah, that's what I was...<end>
 
 =>q63
-::Twitch vous regarde, puis retourne à ses moniteurs.:: Bien sûr, $(context.player.Name). J'ai vécu à Core City avant de venir ici; j'étais tellement accro à regarder... ::Il tourne à un autre moniteur.:: à regarder l'aréna. Un maniaque sanguinaire ! Oui, c'est ce que j'étais...<end>
+::Twitch vous jette un œil, puis retourne à ses écrans.:: Bien sûr que je peux, $(context.player.Name). J'habitais Core City avant de venir ici ; j'étais accro à regarder... ::Il se tourne vers un autre écran.:: à regarder l'Arena. Un maniaque sanguinaire ! Ouais, c'est ce que j'étais...<end>
 
 =>q64_original
 Let me play it on that monitor. ::One press of a button later.:: There, now we... Oh, joy - it is Mark the Impaler! How typical of him: He's impaling a man.<end>
 
 =>q64
-Laissez-moi le jouer sur ce moniteur. ::Une touche plus tard.:: Voilà, maintenant nous... Oh, joie - c'est Mark l'Impaler! Comme il est typique de lui : il empale un homme.<end>
+Je le mets sur cet écran. ::Une pression sur un bouton plus tard.:: Voilà, maintenant on... Oh, joie : c'est Mark the Impaler ! Typique : il empale un homme.<end>
 
 =>q65_original
 
@@ -412,7 +412,7 @@ Before you ask, yes, I've seen your fight with Carnifex: You dominated. ::He foc
 
 =>q65
 
-Avant de demander, oui, j'ai vu votre combat avec Carnifex : Vous avez dominé. ::Il se concentre sur un de ses moniteurs.::<end>
+Avant que vous demandiez, oui, j'ai vu votre combat contre Carnifex : vous avez dominé. ::Il se concentre sur l'un de ses écrans.::<end>
 
 =>q66_original
 
@@ -420,7 +420,7 @@ Avant de demander, oui, j'ai vu votre combat avec Carnifex : Vous avez dominé. 
 
 =>q66
 
-::Il se concentre sur un de ses moniteurs.::<end>
+::Il se concentre sur l'un de ses écrans.::<end>
 
 =>a67_original
 Can I ask you about some of the other oculites?<end>
@@ -432,23 +432,22 @@ Je peux vous poser des questions sur les autres oculites ?<end>
 ::He begins turning his head toward you, stopping midway, eyes still stuck to the monitor.:: No. If you wish to know more about someone, ask them yourself.<end>
 
 =>q68
-::Il commence à tourner la tête vers vous, s'arrêtant à mi-chemin, les yeux toujours collés au moniteur.:: No. Si vous voulez en savoir plus sur quelqu'un, demandez-lui vous-même.<end>
+::Il commence à tourner la tête vers vous, s'arrête à mi-chemin, les yeux toujours collés à l'écran.:: Non. Si vous voulez en savoir plus sur quelqu'un, demandez-lui vous-même.<end>
 
 =>q69_original
 ::His head returns to its original position.::<end>
 
 =>q69
-::Sa tête revient à sa position initiale.::<end>
+::Sa tête reprend sa position de départ.::<end>
 
 =>a70_original
 Goodbye, Twitch.<end>
 
 =>a70
-Au revoir.<end>
+Au revoir, Twitch.<end>
 
 =>q71_original
 ::Looks at you.:: Good to... ::Then at a monitor, then you again.:: see you again... ::Then at a monitor, then you again.:: $(context.player.Name)!<end>
 
 =>q71
-::Regarde-toi.:: Bon à... ::Puis à un moniteur, puis vous encore.:: vous revoir... ::Puis à un moniteur, puis vous encore.:: $(context.player.Name) !<end>
-
+::Il vous regarde.:: Content de... ::Puis un écran, puis vous encore.:: vous revoir... ::Puis un écran, puis vous encore.:: $(context.player.Name) !<end>

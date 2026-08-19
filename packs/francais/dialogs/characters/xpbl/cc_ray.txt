@@ -58,7 +58,7 @@ Mon jet a besoin de réparations.<end>
 Hardcore. Well, now, um, friend... ::He snaps his fingers.:: By the way, what do I call ya$(#, son/)? What's yer name?<end>
 
 =>q9
-C'est dur. Eh bien, maintenant, euh, ami... ::Il lui claque les doigts.:: Au fait, comment j'appelle ya$(#, son/) ? Quel est son nom ?<end>
+Hardcore. Bon, alors, euh, l'ami... ::Il claque des doigts.:: Au fait, comment je vous appelle$(#, fiston/) ? C'est quoi votre nom ?<end>
 
 =>a10_original
 That is none of your business.<end>
@@ -70,7 +70,7 @@ That is none of your business.<end>
 ::He raises his hands, chest height, palms facing forward.:: No need to act all hardcore, friend. I was just askin'. Imma just call ya... friend, then.<end>
 
 =>q11
-::Il lève les mains, la poitrine, les paumes face à l'avant.:: Pas besoin d'agir hardcore, mon ami. Je voulais juste. Imma vous appelle juste... ami, alors.<end>
+::Il lève les mains, la poitrine, les paumes face à l'avant.:: Pas la peine de jouer les hardcore, l'ami. Je demandais, c'est tout. Je vais juste vous appeler... l'ami, alors.<end>
 
 =>q12_original
 Now, $(context.npc_cc_ray_playerName), <end>
@@ -88,7 +88,7 @@ Maintenant, $(context.npc_cc_ray_playerName), <end>
 Imma ask ya one thing now before we proceed: Is this your first jet or have you owned or at least ridden one before?<end>
 
 =>q14
-Imma vous demande une chose avant de procéder : Est-ce votre premier jet ou avez-vous possédé ou au moins monté un avant ?<end>
+Je vous pose une question avant qu'on continue : c'est votre premier jet, ou vous en avez déjà possédé un, ou au moins monté un ?<end>
 
 =>a15_original
 Never owned, never ridden one before.<end>
@@ -190,13 +190,13 @@ Parlons réparations. <end>
 Unless ya've suffered a breakdown, and by that I mean a malfunction which either prevents yer jet from operatin' at all, or impedes it so much ya can't drive it no more, there's no need for me to be takin' yer hard-earned coins for repairs ya could do on yer own.<end>
 
 =>q31
-Sauf si vous avez souffert d'une panne, et par cela je veux dire un dysfonctionnement qui empêche yer jet d'opérer du tout, ou l'empêche tellement vous ne pouvez pas conduire plus, il n'y a pas besoin pour moi de prendre ' yer pièces durement gagnées pour les réparations que vous pourriez faire de vous-même.<end>
+Sauf si vous avez une vraie panne, je veux dire un truc qui empêche le jet de marcher du tout, ou qui le handicape tellement que vous pouvez plus le conduire, y a pas de raison que je vous prenne vos charons durement gagnés pour des réparations que vous pourriez faire vous-même.<end>
 
 =>q32_original
 Instead, I could just sell ya one of our vehicle repair kits. They're cheap and so simple to use it is said if ya threw it in the water to them slackjaw fishes, they'd pick it right up and start fixin' stuff. ::He laughs.:: They can be used to perform all kinds of repairs on pretty much any type of vehicle under the stalactites, be it a jet, quad... heck, maybe even a powered frame like the Protectorate Dreadnought, I dunno. Ya just follow the instructions and yer hardcore.<end>
 
 =>q32
-Je pourrais vous vendre un de nos kits de réparation. Ils sont bon marché et si simples à utiliser il est dit que si vous l'avez jeté dans l'eau à eux poissons de la jachère, ils le ramasseraient et commenceraient à réparer des trucs. ::Il rit.:: Ils peuvent être utilisés pour effectuer toutes sortes de réparations sur presque n'importe quel type de véhicule sous les stalactites, que ce soit un jet, quad... heck, peut-être même un cadre alimenté comme le Protectorate Dreadnought, je ne sais pas. Tu n'as qu'à suivre les instructions et yer hardcore.<end>
+Je pourrais juste vous vendre un de nos kits de réparation de véhicule. Ils sont pas chers, et si simples à utiliser qu'on dit que si vous le jetez à l'eau aux slackjaws, ils le ramasseraient et se mettraient à réparer des trucs. ::Il rit.:: Ça marche pour à peu près n'importe quel véhicule sous les stalactites : jet, quad... heck, peut-être même un châssis motorisé comme le Dreadnought du Protectorate, j'en sais rien. Vous suivez les instructions, et vous êtes hardcore.<end>
 
 =>a33_original
 In that case, I'd like to purchase a few repair kits.<end>
@@ -1244,7 +1244,7 @@ Parle-moi de la Torpille.<end>
 Speed. That's all there is to the Torpedo - speed. It's one of the finest examples of Hexagon engineering. It's twice as fast as a normal jet, twice as light, comes equipped with XG Turbopower 999 electric turbochargers which brings ya from naught to hardcore in the time it takes ya to press that sweet "turbo" button. It got two engines, baby, and almost no weight. This jet, this very jet, is *the* fastest jet in South Underrail. Let me repeat that: The *fastest* jet in South Underrail. Can't deny that.<end>
 
 =>q206
-Vitesse. C'est tout ce qu'il y a à la vitesse Torpedo. C'est l'un des meilleurs exemples d'ingénierie d'Hexagon. Il est deux fois plus rapide qu'un jet normal, deux fois plus léger, est équipé de turbocompresseurs électriques XG Turbopower 999 qui vous amène de nausée à hardcore dans le temps qu'il vous faut pour appuyer sur ce doux bouton "turbo". Il a deux moteurs, bébé, et presque aucun poids. Ce jet, c'est le jet le plus rapide du Sud Underrail. Permettez-moi de le répéter : le jet le plus rapide du Sud Underrail. Je ne peux pas nier ça.<end>
+La vitesse. C'est tout ce qu'il y a à dire du Torpedo : la vitesse. Un des plus beaux exemples d'ingénierie d'Hexagon. Deux fois plus rapide qu'un jet normal, deux fois plus léger, équipé de turbocompresseurs électriques XG Turbopower 999 qui vous emmènent de zéro à hardcore le temps d'appuyer sur ce doux bouton « turbo ». Il a deux moteurs, bébé, et presque aucun poids. Ce jet, c'est le jet le plus rapide du Sud Underrail. Permettez-moi de le répéter : le jet le plus rapide du Sud Underrail. Je ne peux pas nier ça.<end>
 
 =>q207_original
 Speed. It comes at a price, though. And not just how much coin it's worth, but the fact that the frame offers little protection and durability, and that it handles best when yer goin' in a straight line.<end>
@@ -1342,7 +1342,7 @@ It comes with XL 55 twin lasers which draw power from the jet's primary battery.
 The only real drawback this thing got is that it leaves ya a bit exposed. But other than that, it's one dominatin' jet. Can't deny that.<end>
 
 =>q222
-Il est livré avec les deux lasers XL 55 qui tirent la puissance de la batterie primaire du jet. Tu dois veiller à ne pas utiliser tout le jus d'yer en tirant dessus.
+Il est livré avec les deux lasers XL 55 qui tirent la puissance de la batterie primaire du jet. Faut faire gaffe à pas vider tout votre jus en tirant avec.
 
 Le seul vrai inconvénient, c'est qu'il vous laisse un peu exposé. Mais à part ça, c'est un jet dominant. Je ne peux pas nier ça.<end>
 
@@ -1468,7 +1468,7 @@ Parle-moi de cadres.<end>
 The frame is the jet itself. Ya can exchange engines and batteries - with limitations, of course - and tune yer jet to yer likin', but ya change the frame and it ain't the same jet no more. Ya want a speeder? Ya get a light, slick, sexy frame. Ya want a fighter? Ya want it to be sturdy, to have guns and armor. Ya wanna haul loot? Room for a big engine so ya got a lotta power.<end>
 
 =>q242
-Le cadre est le jet lui-même. Ya peut échanger des moteurs et des batteries - avec des limites, bien sûr - et d'accord yer jet à yer Likin ', mais vous changez le cadre et ce n'est plus le même jet. Tu veux un speeder ? Vous obtenez un cadre léger, slick, sexy. Tu veux un combattant ? Tu veux qu'il soit robuste, qu'il ait des armes et des armures. Tu veux tirer le butin ? La place pour un gros moteur donc tu as beaucoup de puissance.<end>
+Le châssis, c'est le jet lui-même. Vous pouvez échanger moteurs et batteries - avec des limites, bien sûr - et régler le jet à votre goût, mais vous changez le châssis et c'est plus le même jet. Vous voulez un speeder ? Vous prenez un châssis léger, slick, sexy. Un fighter ? Il faut qu'il soit costaud, avec des canons et de l'armure. Vous voulez trimballer du loot ? De la place pour un gros moteur, pour avoir de la puissance.<end>
 
 =>q243_original
 Speakin' of that, weight of the frame is a very important thing, 'cuz no matter how hardcore yer engine is, if that thing's too heavy, ya ain't gonna be doin' any racin' with it. Some frames can support certain components which others cannot, and some can even support multiple engines and batteries. So ya gotta be thinkin' about that as well if ya wanna upgrade yer jet.<end>
@@ -1528,13 +1528,13 @@ Parlez-moi de la suspension.<end>
 The suspension is what keeps yer jet stable and easier to control. Technically, ya can do without it, but let's face it - life's a lot better if ya got it. Water is an uneven surface, where even when there aren't any waves yer still ridin' on somethin' that's providin' a lot of resistance.<end>
 
 =>q252
-La suspension est ce qui maintient yer jet stable et plus facile à contrôler. Techniquement, vous pouvez le faire sans, mais faisons-le face - la vie est beaucoup mieux si vous l'avez. L'eau est une surface inégale, où même s'il n'y a pas de vagues qui se débarrassent encore de quelque chose qui offre beaucoup de résistance.<end>
+La suspension, c'est ce qui tient votre jet stable et plus facile à contrôler. Techniquement vous pouvez vous en passer, mais soyons honnêtes : la vie est bien meilleure avec. L'eau, c'est une surface inégale, et même sans vagues vous roulez encore sur un truc qui offre pas mal de résistance.<end>
 
 =>q253_original
 Suspension helps ya improve yer ride quality, keep yer aim steadier and makes yer landin' much better when yer bouncin' over them waves at a hundred kilometers an hour. The most important thing is to make sure the size of the suspension is right for the jet. Everythin' else is just a matter of how much coin ya want to exchange for stability.<end>
 
 =>q253
-Suspension vous aide à améliorer la qualité de conduite, garder yer viser plus stable et rend yer atterrir ' beaucoup mieux quand yer bouncin' sur eux vagues à cent kilomètres à l'heure. La chose la plus importante est de s'assurer que la taille de la suspension est correcte pour le jet. Tout le reste est juste une question de combien de pièce vous voulez échanger contre la stabilité.<end>
+La suspension améliore la tenue de route, tient la visée plus stable, et rend l'atterrissage bien meilleur quand vous rebondissez sur les vagues à cent à l'heure. Le plus important, c'est que la taille de la suspension colle au jet. Tout le reste, c'est juste combien de charons vous voulez échanger contre de la stabilité.<end>
 
 =>a254_original
 Got it. Let's talk about jet skis.<end>
@@ -2614,7 +2614,7 @@ C'est dur. Ooh, et c'est une belle clé aussi.<end>
 Oh, Imma enjoy takin' this baby out for its first ride, *mhm*. Soon as I close the shop, he-he.<end>
 
 =>q433
-Oh, Imma aime sortir ce bébé pour sa première balade, *mhm*. Dès que je ferme la boutique, il-il.<end>
+Oh, je vais adorer sortir ce bébé pour son premier tour, *mhm*. Dès que je ferme la boutique, hé-hé.<end>
 
 =>a434_original
 No. The key has been lost a long time ago, sadly.<end>
@@ -3086,7 +3086,7 @@ Je suis désolé, mais je préfère ne pas en parler, $(context.npc_cc_ray_playe
 ::[Persuade]:: I see. But think about this: There isn't a lot of jet ski merchants or shops around here, right? If I see or hear about someone selling jet components, hypothetically speaking, then maybe we could trace it back to whoever broke into your shop.<end>
 
 =>a507
-::[Persuader]:: Je vois. Mais pensez à ceci : Il n'y a pas beaucoup de marchands de jet ski ni de boutiques ici, non ? Si je vois ou entends parler de quelqu'un qui vend des composants jet, hypothétiquement parlant, alors peut-être que nous pourrions retrouver celui qui s'est introduit dans votre magasin.<end>
+::[Persuade]:: Je vois. Mais pensez à ceci : Il n'y a pas beaucoup de marchands de jet ski ni de boutiques ici, non ? Si je vois ou entends parler de quelqu'un qui vend des composants jet, hypothétiquement parlant, alors peut-être que nous pourrions retrouver celui qui s'est introduit dans votre magasin.<end>
 
 =>q508_original
 Ya'd... do that? Hardcore! So there are thoughtful people in Underrail after all!<end>
@@ -3292,13 +3292,13 @@ Donc... le suspect est un $(context.npc_cc_ray_describeBreakIn_finalDescription)
 Heh, ya got one of 'em rathound hides too. Guess they're gettin' more popular than I thought.<end>
 
 =>q540
-Tu as aussi une peau de raton laveur. Ils sont plus populaires que je pensais.<end>
+Tu as aussi une peau de rathound. Ils sont plus populaires que je pensais.<end>
 
 =>q541_original
 Thank ya so, so much. If they catch the person ya just described Imma give you a hardcore discount on the next jet ya purchase from me. It's a dominatin' deal, can't deny that. It's the least I could do, $(context.npc_cc_ray_playerName).<end>
 
 =>q541
-Merci beaucoup. S'ils attrapent la personne que tu viens de décrire, Imma te donne un rabais hardcore sur le prochain jet que tu achètes de moi. C'est un dominatin, ne peut pas nier ça. C'est le moins que je puisse faire, $(context.npc_cc_ray_playerName).<end>
+Merci beaucoup. S'ils coincent la personne que vous venez de décrire, je vous fais un rabais hardcore sur le prochain jet que tu achètes de moi. C'est un dominatin, ne peut pas nier ça. C'est le moins que je puisse faire, $(context.npc_cc_ray_playerName).<end>
 
 =>q542_original
 O-kay... So the suspect is a... $(context.npc_cc_ray_describeBreakIn_finalDescription). If I give this to the Praetorians they'll laugh at me.<end>
@@ -3436,7 +3436,7 @@ Marron fécal.<end>
 The person was bald as a hopper.<end>
 
 =>a564
-La personne était chauve comme une trémie.<end>
+La personne était chauve comme une sauteur.<end>
 
 =>a565_original
 The head was covered. Couldn't see.<end>
@@ -3658,7 +3658,7 @@ Mon nom n'est pas important en ce moment, Ray.<end>
 O-kay. Imma just call ya... friend, then.<end>
 
 =>q601
-Oui. Imma vous appelle juste... ami, alors.<end>
+D'accord. Je vais juste vous appeler... l'ami, alors.<end>
 
 =>a602_original
 Bob.<end>

@@ -4,9 +4,9 @@
 Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?<end>
 
 =>q1
-::L'homme vous salue avec un sourire chaleureux.::
+::L'homme vous salue d'un sourire chaleureux.::
 
-Ravi de vous rencontrer. Je suis Malcom. Comment puis-je vous aider ?<end>
+Ah, $(context.player.Name), ravi de vous rencontrer enfin. Je suis Malcom. Comment puis-je vous aider ?<end>
 
 =>q2_original
 <end>
@@ -18,25 +18,25 @@ Ravi de vous rencontrer. Je suis Malcom. Comment puis-je vous aider ?<end>
 Know anything about that scavenger from Mushroom Cove?<end>
 
 =>a3
-Vous savez quelque chose sur ce trésorier de Mushroom Cove ?<end>
+Vous savez quelque chose sur ce récupérateur de Mushroom Cove ?<end>
 
 =>q4_original
 Well, one of the guards found <end>
 
 =>q4
-Eh bien, un des gardes trouvé <end>
+Eh bien, un des gardes a trouvé <end>
 
 =>q5_original
 him <end>
 
 =>q5
-lui <end>
+cet homme <end>
 
 =>q6_original
 there, dying, just as I was starting my shift some hours ago. <end>
 
 =>q6
-là, mourant, tout comme je commençais mon service il y a quelques heures. <end>
+là-bas, mourant, juste au moment où je commençais ma garde, il y a quelques heures. <end>
 
 =>q7_original
 $(tempContext.wasteWaterPronounCap) <end>
@@ -48,31 +48,31 @@ $(tempContext.wasteWaterPronounCap) <end>
 was horribly mutated, covered in green tumors and all. <end>
 
 =>q8
-a été horriblement muté, couvert de tumeurs vertes et tout. <end>
+était horriblement muté, couvert de tumeurs vertes, tout ça. <end>
 
 =>q9_original
 Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.<end>
 
 =>q9
-Des choses terribles se produisent là-bas tout le temps, mais ce $(context.frag_dun_wasteWater_corpseGender) était encore vivant quand $(tempContext.wasteWaterPronoun) a été amené ici. C'est quelque chose que vous ne voyez pas souvent. Malheureusement, cela n'a pas duré, car $(tempContext.wasteWaterPronoun) est mort avant d'atteindre le niveau médical, cependant.<end>
+Des choses terribles arrivent tout le temps, là-dehors, mais ce $(context.frag_dun_wasteWater_corpseGender) était encore en vie quand $(tempContext.wasteWaterPronoun) a été amené par ici. Ça, on le voit pas souvent. Malheureusement, ça n'a pas duré : $(tempContext.wasteWaterPronoun) est mort avant d'arriver au niveau médical.<end>
 
 =>a10_original
 Did he manage to say who did this to him?<end>
 
 =>a10
-Il a réussi à lui dire qui lui a fait ça ?<end>
+Il a réussi à dire qui lui avait fait ça ?<end>
 
 =>q11_original
 No. Mushroom Cove's full of psi beetles<end>
 
 =>q11
-C'est pas vrai. Mushroom Cove est plein de coléoptères psi<end>
+Non. Mushroom Cove est plein de coléoptères psi<end>
 
 =>q12_original
 . Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different from anything I've seen the beetles do.<end>
 
 =>q12
-Peut-être, comme ils ont des capacités de psi désagréables à leur disposition, mais la façon dont ce charognard a été blessé... c'est quelque peu différent de tout ce que j'ai vu les scarabées faire.<end>
+. Ça pourrait être eux, ils ont des pouvoirs psi vicieux, mais la façon dont ce récupérateur a été blessé... c'est pas tout à fait ce que j'ai déjà vu faire aux coléoptères.<end>
 
 =>q13_original
 <end>
@@ -84,25 +84,25 @@ Peut-être, comme ils ont des capacités de psi désagréables à leur dispositi
 How do I get to Mushroom Cove?<end>
 
 =>a14
-Comment puis-je arriver à Mushroom Cove?<end>
+Comment j'arrive à Mushroom Cove ?<end>
 
 =>q15_original
 It's a wet cave a bit south from here. <end>
 
 =>q15
-C'est une grotte humide un peu au sud d'ici. <end>
+C'est une grotte humide, un peu au sud d'ici. <end>
 
 =>q16_original
 But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
 
 =>q16
-Mais je vous conseille de ne pas y aller maintenant, $(context.player.Name). C'est un endroit dangereux pour un débutant.<end>
+Mais je vous déconseille d'y aller maintenant, $(context.player.Name). C'est dangereux, pour un bleu.<end>
 
 =>q17_original
 But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...<end>
 
 =>q17
-Mais vous n'avez aucune idée étrange, $(context.player.Name). C'est un endroit dangereux...<end>
+Mais faites pas les malins, $(context.player.Name). C'est un endroit dangereux...<end>
 
 =>a18_original
 That's everything I needed to know.<end>
@@ -114,13 +114,13 @@ C'est tout ce que je voulais savoir.<end>
 ::He nods.:: Heading out?<end>
 
 =>q19
-::Il acquiesce.:: Vous partez ?<end>
+::Il hoche la tête.:: Vous sortez ?<end>
 
 =>a20_original
 That's everything I needed to know. I need to get out into the caves.<end>
 
 =>a20
-C'est tout ce que je voulais savoir. Je dois aller dans les grottes.<end>
+C'est tout ce que je voulais savoir. Il faut que je sorte dans les caves.<end>
 
 =>q21_original
 You didn't get your access card yet, right? Yes. Should be around here somewhere... 
@@ -128,9 +128,9 @@ You didn't get your access card yet, right? Yes. Should be around here somewhere
 ::He starts looking through the drawers.::<end>
 
 =>q21
-Tu n'as pas encore eu ta carte d'accès, non ? Oui. Ça devrait être quelque part...
+Vous n'avez pas encore votre carte d'accès, c'est ça ? Oui. Elle doit être par ici quelque part...
 
-::Il commence à regarder dans les tiroirs.::<end>
+::Il commence à fouiller dans les tiroirs.::<end>
 
 =>q22_original
 There it is. ::He produces a red access card and passes it to you.::
@@ -138,45 +138,45 @@ There it is. ::He produces a red access card and passes it to you.::
 Now listen here, this is the procedure...<end>
 
 =>q22
-Le voilà. ::Il produit une carte d'accès rouge et vous la transmet.::
+La voilà. ::Il sort une carte d'accès rouge et vous la tend.::
 
-Écoute, c'est la procédure...<end>
+Alors écoutez bien, voilà la procédure...<end>
 
 =>q23_original
 When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.<end>
 
 =>q23
-Quand vous voulez partir, faites-le moi savoir et j'ouvrirai la porte intérieure. Vous entrez ensuite dans la salle de transition. Puis je ferme la porte intérieure et j'ouvre la porte extérieure et vous quittez.<end>
+Quand vous voulez sortir, vous me le dites et j'ouvre la porte intérieure. Vous entrez dans le sas. Ensuite je ferme la porte intérieure, j'ouvre la porte extérieure, et vous y allez.<end>
 
 =>q24_original
 Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.<end>
 
 =>q24
-Ok, maintenant, quand tu veux revenir, utilise la carte que je t'ai donnée sur la console dehors. Tenez-vous devant la caméra pour confirmer que c'est vous. Alors j'ouvrirai la porte extérieure.<end>
+Bon. Pour rentrer, vous utilisez la carte que je vous ai donnée, sur la console dehors. Placez-vous devant la caméra, que je confirme que c'est vous. Ensuite j'ouvre la porte extérieure.<end>
 
 =>q25_original
 Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.<end>
 
 =>q25
-Plus tôt, nous faisions de la bioscannerie chaque fois que quelqu'un passait, mais comme personne ne s'est jamais montré positif, c'est devenu une nuisance.<end>
+Avant, on faisait un bioscan à chaque passage, mais comme personne n'a jamais été positif, ça devenait une corvée.<end>
 
 =>a26_original
 What if I *do* contract a disease?<end>
 
 =>a26
-Et si je contracte une maladie ?<end>
+Et si je *contracte* vraiment une maladie ?<end>
 
 =>q27_original
 Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.<end>
 
 =>q27
-Alors soyez assez gentil pour m'informer afin que je puisse activer les tourelles. Ils te déchireront, on brûlera les restes et tout va bien.<end>
+Alors soyez assez gentil pour me le dire, que j'active les tourelles. Elles vous réduisent en charpie, on brûle les restes, et tout va bien.<end>
 
 =>q28_original
 ::He chuckles.:: Just kidding... or am I.<end>
 
 =>q28
-::Il rit.:: Je plaisante... ou je le suis.<end>
+::Il ricane.:: Je plaisante... ou pas.<end>
 
 =>a29_original
 Understood.<end>
@@ -188,115 +188,115 @@ Compris.<end>
 So, you going or what?<end>
 
 =>q30
-Alors, tu pars ou quoi ?<end>
+Alors, vous y allez, ou quoi ?<end>
 
 =>q31_original
  but this doesn't look like a product of their psionics. <end>
 
 =>q31
- mais cela ne ressemble pas à un produit de leurs psys. <end>
+ mais ça ressemble pas à un effet de leur psi. <end>
 
 =>a32_original
 Did she manage to say who did this to her?<end>
 
 =>a32
-Elle a réussi à lui dire qui lui a fait ça ?<end>
+Elle a réussi à dire qui lui avait fait ça ?<end>
 
 =>q33_original
 was severely burnt, smelled horribly. <end>
 
 =>q33
-a été sévèrement brûlé, senti horriblement. <end>
+était horriblement brûlé, ça sentait le cramé. <end>
 
 =>q34_original
 had so many gunshot wounds it was impossible to count them all. <end>
 
 =>q34
-il était impossible de les compter tous. <end>
+avait tellement de balles dedans qu'on pouvait plus les compter. <end>
 
 =>q35_original
 was badly electrocuted, smelled horribly. <end>
 
 =>q35
-était mal électrocuté, senti horriblement. <end>
+était gravement électrocuté, ça sentait le cramé. <end>
 
 =>q36_original
 was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. <end>
 
 =>q36
-Il a été terrifié par quelque chose, avec des morceaux de chair qui s'enfuient. Ce n'était pas un scarabée, c'est sûr. <end>
+avait été horriblement lacéré par quelque chose, avec des lambeaux de chair qui pendaient. Pas des coléoptères psi, ça c'est sûr. <end>
 
 =>q37_original
 was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. <end>
 
 =>q37
-Il manquait des taches de cheveux et de peau - le crâne montrait. Mais ce visage... comme $(tempContext.wasteWaterPronoun) a traversé l'enfer vivant. <end>
+avait des plaques de cheveux et de peau en moins - le crâne se voyait. Mais ce visage... on aurait dit que $(tempContext.wasteWaterPronoun) avait traversé l'enfer. <end>
 
 =>q38_original
 her <end>
 
 =>q38
-elle <end>
+cette femme <end>
 
 =>a39_original
 I need to get out into the caves.<end>
 
 =>a39
-Je dois aller dans les grottes.<end>
+Il faut que je sorte dans les caves.<end>
 
 =>a40_original
 Open the gate, please. I'm off to the caves.<end>
 
 =>a40
-Ouvrez la porte, s'il vous plaît. Je vais dans les grottes.<end>
+Ouvrez la porte, s'il vous plaît. Je sors dans les caves.<end>
 
 =>a41_original
 Open the gate, please. I'm off to the caves.<end>
 
 =>a41
-Ouvrez la porte, s'il vous plaît. Je vais dans les grottes.<end>
+Ouvrez la porte, s'il vous plaît. Je sors dans les caves.<end>
 
 =>q42_original
 ::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.<end>
 
 =>q42
-::Il acquiesce.:: Oh, et voici un conseil pour vous: Si vous vous trouvez entouré de rathons, utilisez des fusées éclairantes pour les effrayer. Ils seront de retour, alors essayez de ne pas rester.<end>
+::Il hoche la tête.:: Oh, et un conseil : si vous vous retrouvez cerné par des rathounds, utilisez des fusées éclairantes pour les faire fuir. Ils reviendront, par contre, alors traînez pas.<end>
 
 =>a43_original
 Thanks, I'll keep that in mind.<end>
 
 =>a43
-Merci, je vais garder ça en tête.<end>
+Merci, je retiens.<end>
 
 =>q44_original
 You're good to go.<end>
 
 =>q44
-C'est bon.<end>
+Vous pouvez y aller.<end>
 
 =>a45_original
 Everyone knows that.<end>
 
 =>a45
-Tout le monde le sait.<end>
+Tout le monde sait ça.<end>
 
 =>q46_original
 Just trying to help you out. <end>
 
 =>q46
-J'essaie juste de t'aider. <end>
+J'essaie juste de vous aider. <end>
 
 =>a47_original
 I want to stomp them out, not scare them away.<end>
 
 =>a47
-Je veux les arracher, pas les effrayer.<end>
+Je veux les écraser, pas les faire fuir.<end>
 
 =>q48_original
 Well then... try not to lose a foot. <end>
 
 =>q48
-Alors... essaie de ne pas perdre un pied. <end>
+Dans ce cas... essayez de pas y laisser un pied. <end>
 
 =>a49_original
 Not right now.<end>
@@ -308,13 +308,13 @@ Pas maintenant.<end>
 $(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
 
 =>q50
-$(context.player.Name), où étais-tu tout ce temps ? Vera vous cherche. Tu devrais aller dans son bureau le plus tôt possible.<end>
+$(context.player.Name), où étiez-vous passé, tout ce temps ? Vera vous cherche. Vous devriez aller à son bureau dès que possible.<end>
 
 =>a51_original
 What for?<end>
 
 =>a51
-Pourquoi?<end>
+Pour quoi faire ?<end>
 
 =>q52_original
 Don't know, but something's going on, $(context.player.Name). I've never seen her like this. 
@@ -322,33 +322,33 @@ Don't know, but something's going on, $(context.player.Name). I've never seen he
 Just go to her.<end>
 
 =>q52
-Je ne sais pas, mais il se passe quelque chose, $(context.player.Name). Je ne l'ai jamais vue comme ça.
+Je sais pas, mais il se passe quelque chose, $(context.player.Name). Je l'ai jamais vue comme ça.
 
-Va la voir.<end>
+Allez la voir.<end>
 
 =>a53_original
 I will. See you later.<end>
 
 =>a53
-Oui. A tout à l'heure.<end>
+J'y vais. À plus tard.<end>
 
 =>q54_original
 You aren't planning on disappearing like Tanner did, right? ::He chuckles.:: Ignore that.<end>
 
 =>q54
-Tu n'as pas l'intention de disparaître comme Tanner, pas vrai ? ::Il rit.:: Ignore ça.<end>
+Vous comptez pas disparaître comme Tanner, hein ? ::Il ricane.:: Oubliez ça.<end>
 
 =>q55_original
 You be careful out there. No one's safe from now 'cause of the Faceless.<end>
 
 =>q55
-Soyez prudent. Personne n'est en sécurité à cause du Faceless.<end>
+Faites attention, là-dehors. Plus personne n'est à l'abri, maintenant, à cause des Faceless.<end>
 
 =>q56_original
 You know, I saw that dead scavenger as <end>
 
 =>q56
-Vous savez, j'ai vu ce trésor mort comme <end>
+Vous savez, j'ai vu ce récupérateur mort pendant qu'<end>
 
 =>q57_original
 he <end>
@@ -360,59 +360,58 @@ il <end>
 was being carried to medical. ::He shakes his head.::<end>
 
 =>q58
-était transporté à un médecin. ::Il secoue la tête.::<end>
+était emmené à l'infirmerie. ::Il secoue la tête.::<end>
 
 =>a59_original
 I've seen the body myself. What do you know about it?<end>
 
 =>a59
-J'ai vu le corps. Qu'est-ce que tu en sais ?<end>
+J'ai vu le corps moi-même. Qu'est-ce que vous en savez ?<end>
 
 =>q60_original
 Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
 
 =>q60
-L'un des gardes a trouvé cette mort $(context.frag_dun_wasteWater_corpseGender) dans Mushroom Cove tout comme je commençais mon service il y a quelques heures. <end>
+Eh bien, un des gardes a trouvé ce $(context.frag_dun_wasteWater_corpseGender) mourant dans Mushroom Cove, juste au moment où je commençais ma garde, il y a quelques heures. <end>
 
 =>a61_original
 I heard about that. What happened?<end>
 
 =>a61
-J'en ai entendu parler. Que s'est-il passé ?<end>
+J'en ai entendu parler. Qu'est-ce qui s'est passé ?<end>
 
 =>a62_original
 Tell me more.<end>
 
 =>a62
-Dis-moi plus.<end>
+Dites-m'en plus.<end>
 
 =>a63_original
 I'd rather not discuss that.<end>
 
 =>a63
-Je préfère ne pas en parler.<end>
+Je préfère pas en parler.<end>
 
 =>q64_original
 Fair enough. <end>
 
 =>q64
-Assez. <end>
+Soit. <end>
 
 =>q65_original
 Going somewhere?<end>
 
 =>q65
-Tu vas quelque part ?<end>
+Vous allez quelque part ?<end>
 
 =>a66_original
 Don't know, don't wanna know.<end>
 
 =>a66
-Je ne sais pas, je ne veux pas savoir.<end>
+Je sais pas, et je veux pas savoir.<end>
 
 =>q67_original
 she <end>
 
 =>q67
 elle <end>
-

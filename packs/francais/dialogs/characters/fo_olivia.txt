@@ -2,19 +2,19 @@
 And they had to put us in adjacent cells...<end>
 
 =>q1
-Et ils ont dû nous mettre dans des cellules adjacentes...<end>
+Et il a fallu qu'ils nous mettent dans des cellules voisines...<end>
 
 =>q2_original
 Muck! ::She coughs.:: I told you to leave me.<end>
 
 =>q2
-Purée ! ::Elle tousse.:: Je vous ai dit de me quitter.<end>
+Merde ! ::Elle tousse.:: Je vous avais dit de me laisser.<end>
 
 =>q3_original
 Can't talk now, I'm working.<end>
 
 =>q3
-Je ne peux pas parler maintenant, je travaille.<end>
+Je ne peux pas parler, je travaille.<end>
 
 =>q4_original
 ::The middle-aged woman was just about to take a bite out of a cold piece of canned meat when you approached her. She scans you for a moment, hesitating, but then she decides to address you.::
@@ -22,9 +22,9 @@ Je ne peux pas parler maintenant, je travaille.<end>
 May I help you? ::She coughs.::<end>
 
 =>q4
-::La femme d'âge moyen était sur le point de prendre une bouchée d'un morceau froid de viande en conserve quand vous l'avez approchée. Elle vous scanne un moment, hésitant, mais ensuite elle décide de vous adresser.::
+::La femme d'âge moyen allait mordre dans un morceau froid de viande en conserve quand vous l'avez approchée. Elle vous dévisage un instant, hésite, puis décide de vous parler.::
 
-Puis-je vous aider ? ::Elle tousse.::<end>
+Je peux vous aider ? ::Elle tousse.::<end>
 
 =>a5_original
 Hi, I'm $(context.player.Name). I'd like to ask you something.<end>
@@ -36,7 +36,7 @@ Bonjour, je suis $(context.player.Name). J'aimerais vous demander quelque chose.
 ::She pauses.:: Oh, alright. I'm on a break anyway. ::She coughs.:: I'm Olivia. What do you need?<end>
 
 =>q6
-::Elle fait une pause.:: Oh, très bien. Je suis en pause de toute façon. ::Elle tousse.:: Je suis Olivia. De quoi avez-vous besoin ?<end>
+::Elle s'arrête.:: Oh, d'accord. Je suis en pause de toute façon. ::Elle tousse.:: Je suis Olivia. Qu'est-ce qu'il vous faut ?<end>
 
 =>q7_original
 <end>
@@ -48,13 +48,13 @@ Bonjour, je suis $(context.player.Name). J'aimerais vous demander quelque chose.
 I reported Nicolas to the chief.<end>
 
 =>a8
-J'ai signalé Nicolas au chef.<end>
+J'ai dénoncé Nicolas au chef.<end>
 
 =>q9_original
 I know, they called me to come over. ::The smile which appears on her face starts joyful, but soon inverts.:: He's rotting in prison now, as he should. Yes. ::She coughs.:: You must've made quite a case against him, considering I had a pretty informal chat with the officers. You're... the boss. ::She smiles again, in the same fashion as before.::<end>
 
 =>q9
-Je sais, ils m'ont appelé pour venir. ::Le sourire qui apparaît sur son visage commence à être joyeux, mais s'inverse rapidement.:: Il pourrit en prison, comme il devrait. Oui. ::Elle tousse.:: Vous avez dû faire une sacrée affaire contre lui, vu que j'ai eu une conversation informelle avec les officiers. Vous êtes... le patron. ::Elle sourit encore, de la même manière qu'avant.::<end>
+Je sais, ils m'ont fait venir. ::Le sourire qui lui vient est d'abord joyeux, puis il s'inverse.:: Il pourrit en prison, et c'est bien fait. Oui. ::Elle tousse.:: Vous avez dû monter un sacré dossier, vu l'entretien plutôt informel que j'ai eu avec les officiers. Vous êtes... $(#le patron/la patronne). ::Elle sourit encore, de la même façon qu'avant.::<end>
 
 =>q10_original
 No one suspected anything. It's like... oh, never mind. I am golden now; free of that pig.
@@ -62,9 +62,9 @@ No one suspected anything. It's like... oh, never mind. I am golden now; free of
 Let's never discuss this again. ::She coughs.::<end>
 
 =>q10
-Personne ne soupçonnait rien. C'est comme... oh, peu importe. Je suis en or maintenant; libre de ce cochon.
+Personne n'a rien soupçonné. C'est comme... oh, peu importe. Je suis tranquille, maintenant. Débarrassée de ce porc.
 
-Ne parlons plus jamais de ça. ::Elle tousse.::<end>
+On n'en reparle plus jamais. ::Elle tousse.::<end>
 
 =>a11_original
 Your husband wants you dead.<end>
@@ -78,15 +78,15 @@ Votre mari veut votre mort.<end>
 What did you say!?<end>
 
 =>q12
-::Elle commence à tousser violemment. Après presque dix secondes, elle se rétablit et répond.::
+::Elle se met à tousser violemment. Après presque dix secondes, elle reprend son souffle.::
 
-Qu'est-ce que tu as dit ?<end>
+Qu'est-ce que vous avez dit !?<end>
 
 =>a13_original
 He hired me to kill you.<end>
 
 =>a13
-Il m'a engagé pour te tuer.<end>
+Il m'a $(#engagé/engagée) pour vous tuer.<end>
 
 =>q14_original
 Oh, did he now? ::Olivia frowns as her eyes start filling with tears. In them you see rage, but that rage quickly transforms into utter terror as soon as she fully grasps what you just said.::
@@ -94,15 +94,15 @@ Oh, did he now? ::Olivia frowns as her eyes start filling with tears. In them yo
 N-no... please!<end>
 
 =>q14
-Ah oui ? ::Olivia fronce alors que ses yeux se remplissent de larmes. En eux vous voyez la rage, mais cette rage se transforme rapidement en terreur absolue dès qu'elle saisit pleinement ce que vous venez de dire.::
+Ah, c'est comme ça ? ::Olivia fronce les sourcils, les yeux qui se remplissent de larmes. Vous y voyez de la rage, mais cette rage bascule tout de suite en terreur dès qu'elle comprend vraiment ce que vous venez de dire.::
 
-S'il vous plaît !<end>
+N-non... s'il vous plaît !<end>
 
 =>a15_original
 Calm down - I'm not here to kill you. I'm here to help you.<end>
 
 =>a15
-Calme-toi, je ne suis pas là pour te tuer. Je suis là pour vous aider.<end>
+Calmez-vous. Je ne suis pas là pour vous tuer. Je suis là pour vous aider.<end>
 
 =>q16_original
 ::She wipes her eyes.::
@@ -110,27 +110,27 @@ Calme-toi, je ne suis pas là pour te tuer. Je suis là pour vous aider.<end>
 Why... ::She sniffs.:: why would you want help me? And *how* could you help me? ::She coughs.::<end>
 
 =>q16
-::Elle essuie ses yeux.::
+::Elle s'essuie les yeux.::
 
-Pourquoi... ::Elle renifle.:: pourquoi voudrais-tu m'aider ? Et comment pourriez-vous m'aider ? ::Elle tousse.::<end>
+Pourquoi... ::Elle renifle.:: pourquoi voudriez-vous m'aider ? Et *comment* pourriez-vous m'aider ? ::Elle tousse.::<end>
 
 =>a17_original
 How about I kill him for you?<end>
 
 =>a17
-Et si je le tuais pour toi ?<end>
+Et si je le tuais pour vous ?<end>
 
 =>q18_original
 No... no. I-- I'm not interested in-- ::She coughs.:: Stop it! Are you derailed?<end>
 
 =>q18
-C'est pas vrai. Je ne suis pas intéressé par... ::Elle tousse.:: Arrête ! Vous avez déraillé ?<end>
+Non... non. Ça... ça ne m'intéresse pas... ::Elle tousse.:: Arrêtez ! Vous avez déraillé ?<end>
 
 =>a19_original
 No one will know about this. It'll stay between you and me.<end>
 
 =>a19
-Personne ne le saura. Ça restera entre toi et moi.<end>
+Personne ne le saura. Ça restera entre vous et moi.<end>
 
 =>q20_original
 ::She stares at you, obviously shaken up by the conversation. She coughs a few times but remains silent otherwise. Eventually she speaks.:: Something ... happened in our relationship. We went from blissful love to gut-wrenching hatred. Our love sunk all the way to Deep Caverns, so to say. And I don't even know why. I don't think he knows either. ::She coughs.:: If he wants me dead, then I'm not... I'm not going to sit around doing nothing. My...
@@ -138,51 +138,51 @@ Personne ne le saura. Ça restera entre toi et moi.<end>
 I think I know how we can pull this off.<end>
 
 =>q20
-::Elle te regarde, évidemment secouée par la conversation. Elle tousse quelques fois mais reste silencieuse sinon. Finalement, elle parle.:: Quelque chose ... est arrivé dans notre relation. Nous sommes passés d'un amour béni à une haine épouvantable. Notre amour a coulé jusqu'à Deep Caverns, pour ainsi dire. Et je ne sais même pas pourquoi. Je ne pense pas qu'il le sache non plus. ::Elle tousse.:: S'il veut ma mort, je ne suis pas... Je ne vais pas rester assis à ne rien faire. Mon...
+::Elle vous fixe, visiblement secouée. Elle tousse quelques fois, sinon elle se tait. Puis elle parle.:: Il s'est passé quelque chose... dans notre couple. On est passés d'un amour béni à une haine viscérale. Notre amour a coulé jusqu'aux Deep Caverns, pour ainsi dire. Et je ne sais même pas pourquoi. Je ne pense pas qu'il le sache non plus. ::Elle tousse.:: S'il me veut morte, je ne vais pas... je ne vais pas rester assise à attendre. Mon...
 
-Je pense que je sais comment on peut faire ça.<end>
+Je crois que je sais comment on peut s'y prendre.<end>
 
 =>a21_original
 I kill him and make it look like it's a workplace accident. You get the insurance money and use a part of that to pay me.<end>
 
 =>a21
-Je le tue et je fais croire que c'est un accident de travail. Vous avez l'argent de l'assurance et utilisez une partie de ça pour me payer.<end>
+Je le tue, je fais passer ça pour un accident du travail. Vous touchez l'assurance et vous en prenez une partie pour me payer.<end>
 
 =>q22_original
 How did you know? ::She coughs.::<end>
 
 =>q22
-Comment le savez-vous ? ::Elle tousse.::<end>
+Comment le saviez-vous ? ::Elle tousse.::<end>
 
 =>a23_original
 Your husband had the same idea.<end>
 
 =>a23
-Votre mari avait la même idée.<end>
+Votre mari a eu la même idée.<end>
 
 =>q24_original
 Ah, I see. Makes perfect sense. He might be a stupid hog, but when it comes to money, his brain runs faster than Underrail Express trains. If that's the case, though, then I don't need to explain anything to you.<end>
 
 =>q24
-Ah, je vois. C'est parfaitement logique. C'est peut-être un porc stupide, mais en ce qui concerne l'argent, son cerveau court plus vite que Underrail Express. Si c'est le cas, je n'ai pas besoin de t'expliquer.<end>
+Ah, je vois. Ça se tient. C'est peut-être un porc stupide, mais dès qu'il s'agit d'argent, son cerveau file plus vite que l'Underrail Express. Si c'est ça, je n'ai plus rien à vous expliquer.<end>
 
 =>q25_original
 Make it look like it's a work-related accident and I'll give you seven hundred fifty charons. ::She coughs.:: Do we have a deal?<end>
 
 =>q25
-Faites comme si c'était un accident de travail et je vous donnerai sept cent cinquante charons. ::Elle tousse.:: Marché conclu ?<end>
+Faites passer ça pour un accident du travail et je vous donne sept cent cinquante charons. ::Elle tousse.:: On a un marché ?<end>
 
 =>a26_original
 ::[Mercantile]:: Your husband offered eight hundred. You're going to have to do better than that.<end>
 
 =>a26
-::[Mercantile]:: Votre mari a offert 800. Tu vas devoir faire mieux que ça.<end>
+::[Mercantile]:: Votre mari a proposé huit cents. Il va falloir faire mieux.<end>
 
 =>q27_original
 I'll give you eight hundred fifty then. ::She coughs.:: I am in no position to barter.<end>
 
 =>q27
-Je vous donne huit cent cinquante alors. ::Elle tousse.:: Je ne suis pas en position de troc.<end>
+Je vous en donne huit cent cinquante, alors. ::Elle tousse.:: Je ne suis pas en position de marchander.<end>
 
 =>a28_original
 It's a deal.<end>
@@ -194,7 +194,7 @@ Marché conclu.<end>
 Good. See me when it's done. ::She coughs.::<end>
 
 =>q29
-Parfait. Regarde-moi quand c'est fini. ::Elle tousse.::<end>
+Bien. Revenez me voir quand ce sera fait. ::Elle tousse.::<end>
 
 =>q30_original
 <end>
@@ -212,13 +212,13 @@ Je dois y réfléchir.<end>
 Don't think about it for too long. ::She coughs.:: See me if you change your mind.<end>
 
 =>q32
-N'y pense pas trop longtemps. ::Elle tousse.:: Voyez-moi si vous changez d'avis.<end>
+Ne réfléchissez pas trop longtemps. ::Elle tousse.:: Revenez me voir si vous changez d'avis.<end>
 
 =>q33_original
 I can only offer you seven hundred fifty charons. I can't spare any more. Is one hundred charons really that much of a big deal to you. ::She coughs.::<end>
 
 =>q33
-Je ne peux vous offrir que sept cent cinquante charons. Je ne peux plus épargner. C'est une centaine de charons pour toi. ::Elle tousse.::<end>
+Je ne peux vous offrir que sept cent cinquante charons. Je ne peux pas aligner plus. Cent charons, c'est vraiment si grave ? ::Elle tousse.::<end>
 
 =>a34_original
 Just a hunch.<end>
@@ -230,13 +230,13 @@ Juste une intuition.<end>
 Just a hunch? Doubt it. My husband must've had the same idea. If that's the case, though, then I don't need to explain anything to you.<end>
 
 =>q35
-Juste une intuition ? J'en doute. Mon mari devait avoir la même idée. Si c'est le cas, je n'ai pas besoin de t'expliquer.<end>
+Juste une intuition ? J'en doute. Mon mari a dû avoir la même idée. Si c'est ça, je n'ai plus rien à vous expliquer.<end>
 
 =>a36_original
 Let's hear it.<end>
 
 =>a36
-Allons-y.<end>
+Je vous écoute.<end>
 
 =>q37_original
 Some time ago, the mayor decided to offer money to family members of all Foundry workers who died because of workplace accidents. They call it an insurance policy or something like that. So, if you can kill Nicolas and make it look like it's a work related accident, I get the policy money and give you seven hundred fifty charons for your work. 
@@ -244,15 +244,15 @@ Some time ago, the mayor decided to offer money to family members of all Foundry
 Do we have a deal?<end>
 
 =>q37
-Il y a quelque temps, le maire a décidé d'offrir de l'argent aux membres de la famille de tous les travailleurs Foundry morts en raison d'accidents du travail. Ils appellent ça une police d'assurance ou quelque chose comme ça. Donc, si vous pouvez tuer Nicolas et faire croire que c'est un accident lié au travail, je reçois l'argent de la politique et vous donne sept cent cinquante charons pour votre travail.
+Il y a quelque temps, le maire a décidé de verser de l'argent aux familles des ouvriers de Foundry morts dans un accident du travail. Ils appellent ça une assurance, ou un truc dans le genre. Donc si vous tuez Nicolas et que ça passe pour un accident du travail, je touche l'assurance et je vous donne sept cent cinquante charons pour le boulot.
 
-Marché conclu ?<end>
+On a un marché ?<end>
 
 =>a38_original
 How about we forget what I said and just report Nicolas?<end>
 
 =>a38
-Et si on oubliait ce que j'ai dit et rapportait Nicolas ?<end>
+Et si on oubliait ce que j'ai dit, et qu'on dénonçait Nicolas ?<end>
 
 =>q39_original
 And what will we say? "A drunk man mentioned he wants to kill his wife. Please arrest him."? 
@@ -260,7 +260,7 @@ And what will we say? "A drunk man mentioned he wants to kill his wife. Please a
 I doubt the chief would bother with that. ::She coughs.::<end>
 
 =>q39
-Et qu'allons-nous dire ? "Un homme ivre a dit vouloir tuer sa femme. S'il vous plaît, arrêtez-le."?
+Et on dit quoi ? « Un ivrogne a dit qu'il voulait tuer sa femme. Arrêtez-le, s'il vous plaît. » ?
 
 Je doute que le chef s'embête avec ça. ::Elle tousse.::<end>
 
@@ -268,25 +268,25 @@ Je doute que le chef s'embête avec ça. ::Elle tousse.::<end>
 How about I kill him for you?<end>
 
 =>a40
-Et si je le tuais pour toi ?<end>
+Et si je le tuais pour vous ?<end>
 
 =>q41_original
 Stop it! I-- I'm not interested in anything like that. ::She coughs.:: Are you derailed?<end>
 
 =>q41
-Arrête ! Ça ne m'intéresse pas. ::Elle tousse.:: Vous avez déraillé ?<end>
+Arrêtez ! Ça... ça ne m'intéresse pas, ce genre de chose. ::Elle tousse.:: Vous avez déraillé ?<end>
 
 =>a42_original
 No one will know about this. It'll stay between you and me.<end>
 
 =>a42
-Personne ne le saura. Ça restera entre toi et moi.<end>
+Personne ne le saura. Ça restera entre vous et moi.<end>
 
 =>a43_original
 Forget I even mentioned this. We should change the subject.<end>
 
 =>a43
-Oublie que j'en ai même parlé. Nous devrions changer de sujet.<end>
+Oubliez que j'en ai parlé. Changeons de sujet.<end>
 
 =>q44_original
 Yeah, sure. ::She coughs.::<end>
@@ -298,7 +298,7 @@ Oui, bien sûr. ::Elle tousse.::<end>
 How about we report him?<end>
 
 =>a45
-Et si on le signalait ?<end>
+Et si on le dénonçait ?<end>
 
 =>q46_original
 ::She takes a deep breath, one that doesn't get interrupted by coughing, surprisingly.:: 
@@ -306,39 +306,39 @@ Et si on le signalait ?<end>
 Oh, I'm sick and tired of that *bastard* ruining my life. He deserves to rot in prison. But what if he sees me with you, though? Maybe he'll catch on and escape - or do something worse? No. You go find Chief Banner and talk to him. Alone. Please. I'll stay here.<end>
 
 =>q46
-::Elle respire profondément, une qui ne se fait pas interrompre par la toux, étonnamment.::
+::Elle inspire à fond, une fois sans que la toux la coupe, étonnamment.::
 
-Oh, j'en ai marre que ce bâtard me gâche la vie. Il mérite de pourrir en prison. Mais s'il me voit avec toi ? Peut-être qu'il s'échappera ou fera quelque chose de pire ? C'est pas vrai. Trouvez le chef Banner et parlez-lui. Seul. S'il vous plaît. Je vais rester ici.<end>
+Oh, j'en ai assez que ce *salaud* me pourrisse la vie. Il mérite de pourrir en prison. Mais s'il me voit avec vous ? Il va peut-être capter et se barrer. Ou faire pire. Non. Allez trouver Chief Banner et parlez-lui. $(#Seul/Seule). S'il vous plaît. Je reste ici.<end>
 
 =>a47_original
 I'll see to it. Goodbye for now.<end>
 
 =>a47
-Je vais m'en occuper. Au revoir pour l'instant.<end>
+Je m'en occupe. Au revoir pour l'instant.<end>
 
 =>a48_original
 You know, I truly revel in watching terror grow in my victim's eyes just after I've informed them that their time is up; I just... I just can't get enough of it. ::Attack!::<end>
 
 =>a48
-Tu sais, je me réjouis vraiment de voir la terreur grandir dans les yeux de ma victime juste après que je les ai informés que leur temps est écoulé; je... Je n'en peux plus. ::Attaque!::<end>
+Vous savez, rien ne me plaît comme de voir la terreur grandir dans les yeux de ma victime, juste après que je lui aie dit que c'était fini. J'en ai... j'en ai jamais assez. ::Attaquer.::<end>
 
 =>a49_original
 Yes, please. ::Attack!::<end>
 
 =>a49
-Oui, s'il vous plaît. ::Attaque!::<end>
+Oui, s'il vous plaît. ::Attaquer.::<end>
 
 =>a50_original
 ::Attack!::<end>
 
 =>a50
-::Attaque!::<end>
+::Attaquer.::<end>
 
 =>a51_original
 I talked to him while he was drunk, and he mentioned he was planning it.<end>
 
 =>a51
-Je lui ai parlé pendant qu'il était ivre, et il a dit qu'il le préparait.<end>
+Je lui ai parlé pendant qu'il était ivre. Il a dit qu'il le préparait.<end>
 
 =>q52_original
 Oh, did he now!? ::She pauses.:: 
@@ -346,9 +346,9 @@ Oh, did he now!? ::She pauses.::
 The sad thing is... I'm sure that drunken airhead actually meant it.<end>
 
 =>q52
-Oh, l'a-t-il fait maintenant !? ::Elle fait une pause.::
+Ah, il a dit ça !? ::Elle s'arrête.::
 
-La triste chose est... Je suis sûr que cette tête d'air bourrée le voulait vraiment.<end>
+Le triste, c'est que... je suis sûre que cet imbécile bourré le pensait vraiment.<end>
 
 =>q53_original
 You know what, I'm sick and tired of that man's muck! ::Her eyes become watery but do not produce a tear.:: He is ruining my life right now. I hate him. I hate him! If anyone deserves to die, it's that stupid *bastard*. 
@@ -356,21 +356,21 @@ You know what, I'm sick and tired of that man's muck! ::Her eyes become watery b
 Muck!<end>
 
 =>q53
-Tu sais quoi, j'en ai marre de ce type ! ::Ses yeux deviennent aqueux mais ne produisent pas de déchirure.:: Il ruine ma vie en ce moment. Je le déteste. Je le déteste ! Si quelqu'un mérite de mourir, c'est ce stupide "bastard".
+Vous savez quoi, j'en ai assez de la merde de cet homme ! ::Ses yeux s'embuent, mais aucune larme ne tombe.:: Il me pourrit la vie, là, maintenant. Je le déteste. Je le déteste ! Si quelqu'un mérite de mourir, c'est ce *salaud* stupide.
 
-Purée !<end>
+Merde !<end>
 
 =>a54_original
 How about we report him?<end>
 
 =>a54
-Et si on le signalait ?<end>
+Et si on le dénonçait ?<end>
 
 =>a55_original
 Are you sure you don't want me to take care of Nicolas for you? I'm not going to ask you again, Olivia.<end>
 
 =>a55
-Tu es sûr que tu ne veux pas que je prenne soin de Nicolas pour toi ? Je ne vais pas te le redemander, Olivia.<end>
+Vous êtes sûre que vous ne voulez pas que je m'occupe de Nicolas ? Je ne vous le redemanderai pas, Olivia.<end>
 
 =>a56_original
 It's done.<end>
@@ -382,19 +382,19 @@ C'est fait.<end>
 Oh? Oh. ::She nods.:: We won't discuss this ever again. Here's your money. <end>
 
 =>q57
-Oh? Oh. ::Elle hoche la tête.:: Nous n'en reparlerons plus jamais. Voilà ton argent. <end>
+Oh ? Oh. ::Elle hoche la tête.:: On n'en reparlera plus jamais. Voici votre argent. <end>
 
 =>q58_original
 ::She hands you 850 stygian coins.::<end>
 
 =>q58
-::Elle vous donne 850 pièces de monnaie.::<end>
+::Elle vous tend 850 charons.::<end>
 
 =>q59_original
 ::She hands you 750 stygian coins.::<end>
 
 =>q59
-::Elle vous donne 750 pièces de monnaie.::<end>
+::Elle vous tend 750 charons.::<end>
 
 =>q60_original
 You barren-headed imbecile. ::She bends over due to a violent cough.:: Didn't we have a deal to make it look like a work-related accident? ::A single teardrop falls on her lab coat.:: Now they'll come for me. They'll find out.
@@ -403,16 +403,16 @@ Leave me. Imbecile. Muck!
 <end>
 
 =>q60
-Espèce d'imbécile. ::Elle se penche à cause d'une toux violente.:: On n'avait pas un marché pour que ça ressemble à un accident de travail ? ::Une seule goutte tombe sur son manteau de labo.:: Ils viendront me chercher. Ils le découvriront.
+Espèce d'imbécile. Tête vide. ::Elle se plie en deux, prise d'une toux violente.:: On n'avait pas un marché pour que ça passe pour un accident du travail ? ::Une larme tombe sur sa blouse.:: Maintenant ils vont venir me chercher. Ils sauront.
 
-Laisse-moi. Imbécile. Purée !
+Laissez-moi. Imbécile. Merde !
 <end>
 
 =>a61_original
 What do you do around here?<end>
 
 =>a61
-Que faites-vous ici ?<end>
+Vous faites quoi, ici ?<end>
 
 =>q62_original
 <end>
@@ -424,37 +424,37 @@ Que faites-vous ici ?<end>
 Oh, I'm a chemist. I make explosives for the mining purposes. TNT, to be exact.<end>
 
 =>q63
-Je suis chimiste. Je fais des explosifs à des fins minières. TNT, pour être exact.<end>
+Je suis chimiste. Je fabrique des explosifs pour la mine. Du TNT, pour être précise.<end>
 
 =>a64_original
 Yeah, that sounds cool.<end>
 
 =>a64
-Oui, ça a l'air cool.<end>
+Oui, ça a l'air pas mal.<end>
 
 =>q65_original
 Yeah, I suppose so. ::She laughs.:: On the other hand, I'm the only chemist around here, so it can get a bit boring, but oh, well. ::She coughs.::<end>
 
 =>q65
-Oui, je suppose. ::Elle rit.:: D'un autre côté, je suis le seul chimiste par ici, donc ça peut devenir un peu ennuyeux, mais bon. ::Elle tousse.::<end>
+Oui, je suppose. ::Elle rit.:: D'un autre côté, je suis la seule chimiste du coin, alors ça peut devenir un peu ennuyeux, mais bon. ::Elle tousse.::<end>
 
 =>a66_original
 ::[Chemistry]:: I have some knowledge of chemistry. I'd be very interested to find out how trinitrotoluene is made.<end>
 
 =>a66
-::[Chemistry]:: J'ai quelques connaissances en chimie. J'aimerais savoir comment le trinitrotoluène est fabriqué.<end>
+::[Chemistry]:: J'ai quelques bases en chimie. Ça m'intéresserait beaucoup de savoir comment on fabrique le trinitrotoluène.<end>
 
 =>q67_original
 Ah. I can explain the process to you if you wish. ::She coughs.:: I don't get to talk about trinitrotoluene as often as you'd think; no one understands what I'm saying. ::She coughs.:: Most of the people here deal with much simpler things, and when it's TNT, it's just when they need to blow something up. ::She coughs.::<end>
 
 =>q67
-Ah. Je peux vous expliquer le processus si vous le souhaitez. ::Elle tousse.:: Je ne peux pas parler de trinitrotoluène aussi souvent que vous le pensez ; personne ne comprend ce que je dis. ::Elle tousse.:: La plupart des gens ici traitent de choses beaucoup plus simples, et quand c'est TNT, c'est juste quand ils ont besoin de faire sauter quelque chose. ::Elle tousse.::<end>
+Ah. Je peux vous expliquer le procédé, si vous voulez. ::Elle tousse.:: Je n'ai pas l'occasion de parler du trinitrotoluène aussi souvent qu'on pourrait croire. Personne ne comprend ce que je dis. ::Elle tousse.:: La plupart des gens ici s'occupent de choses bien plus simples, et le TNT, c'est seulement quand ils ont besoin de faire sauter quelque chose. ::Elle tousse.::<end>
 
 =>a68_original
 I'd like to hear it.<end>
 
 =>a68
-J'aimerais l'entendre.<end>
+J'aimerais entendre ça.<end>
 
 =>q69_original
 Great! I mean, great. Well, first you need sulfuric and nitric acid. Mix those two together and add a very small amount of water. Pour a small amount of that, into an empty beaker and put it in an ice bath. Add some toluene and stir it. After several minutes of stirring, heat it up to fifty degrees centigrade. ::She coughs.:: Add some more sulfuric and nitric acid mixture and continue heating it. 
@@ -462,15 +462,15 @@ Great! I mean, great. Well, first you need sulfuric and nitric acid. Mix those t
 Cool it down, drain some acid, heat it up again, add some more mixture, do that for three hours. After all that, the TNT will start to solidify and then you cool it down with water, and there it is.<end>
 
 =>q69
-Génial ! Je veux dire, génial. Il vous faut d'abord de l'acide sulfurique et nitrique. Mélangez-les ensemble et ajoutez une très petite quantité d'eau. Versez une petite quantité de cela, dans un bécher vide et mettez-le dans un bain de glace. Ajouter du toluène et remuer. Après quelques minutes de brassage, chauffer jusqu'à 50 degrés centigrades. ::Elle tousse.:: Ajouter un peu plus de mélange d'acide sulfurique et d'acide nitrique et continuer à le chauffer.
+Parfait ! Enfin, parfait. D'abord, il vous faut de l'acide sulfurique et de l'acide nitrique. Vous mélangez les deux et vous ajoutez un tout petit peu d'eau. Vous en versez un peu dans un bécher vide, et vous le mettez dans un bain de glace. Vous ajoutez du toluène, vous remuez. Après plusieurs minutes, vous chauffez à cinquante degrés. ::Elle tousse.:: Vous rajoutez un peu du mélange sulfurique-nitrique et vous continuez à chauffer.
 
-Refroidir, égoutter un peu d'acide, le réchauffer encore, ajouter un peu plus de mélange, faire cela pendant trois heures. Après tout cela, le TNT va commencer à solidifier et puis vous le refroidissez avec de l'eau, et le voilà.<end>
+Vous laissez refroidir, vous évacuez un peu d'acide, vous réchauffez, vous rajoutez du mélange, et ça pendant trois heures. Après tout ça, le TNT commence à se solidifier. Vous le refroidissez à l'eau, et voilà.<end>
 
 =>q70_original
 ::She coughs.:: There you go, a short version of the process. Now, you have to be careful, all measures have to be exact. Temperature, acid mixing ratios and all that. If you mess something up, you could blow yourself to smithereens. Never happened to me. ::She laughs.::<end>
 
 =>q70
-::Elle tousse.:: Voilà, une courte version du processus. Maintenant, vous devez être prudent, toutes les mesures doivent être exactes. Température, rapports de mélange acide et tout ça. Si vous gâchez quelque chose, vous pourriez vous faire exploser. Ça ne m'est jamais arrivé. ::Elle rit.::<end>
+::Elle tousse.:: Voilà, la version courte. Maintenant, il faut faire attention : toutes les mesures doivent être exactes. Température, proportions d'acides, tout. Si vous ratez un truc, vous pouvez vous faire exploser en miettes. Ça ne m'est jamais arrivé. ::Elle rit.::<end>
 
 =>a71_original
 That was very interesting, thank you for that.<end>
@@ -482,19 +482,19 @@ C'était très intéressant, merci.<end>
 Don't mention it. Hey. thank you... ::She coughs.::thank you for listening.<end>
 
 =>q72
-N'en parle pas. Merci... ::Elle tousse.::Merci d'avoir écouté.<end>
+Il n'y a pas de quoi. Hé. Merci... ::Elle tousse.::merci d'avoir écouté.<end>
 
 =>a73_original
 That doesn't sound as fun as I had hoped. Let's talk about something else.<end>
 
 =>a73
-Ce n'est pas aussi amusant que je l'espérais. Parlons d'autre chose.<end>
+C'est moins drôle que ce que j'espérais. Parlons d'autre chose.<end>
 
 =>q74_original
 Yes?<end>
 
 =>q74
-Oui?<end>
+Oui ?<end>
 
 =>a75_original
 Actually, maybe some other time.<end>
@@ -506,7 +506,7 @@ En fait, peut-être une autre fois.<end>
 Oh, right.<end>
 
 =>q76
-C'est vrai.<end>
+Ah, d'accord.<end>
 
 =>a77_original
 Let's talk about something else.<end>
@@ -524,19 +524,19 @@ Oui ?<end>
 ::[Chemistry]:: Trinitrotoluene. That sounds interesting; I was always curious how it was made.<end>
 
 =>a79
-::[Chemistry]:: Trinitrotoluène. Cela semble intéressant; j'ai toujours été curieux de savoir comment cela a été fait.<end>
+::[Chemistry]:: Trinitrotoluène. Ça m'intéresse. J'ai toujours été $(#curieux/curieuse) de savoir comment on le fabrique.<end>
 
 =>q80_original
 I... ::She coughs.:: I don't think I should really be talking to you about that. I don't really know you. Sorry.<end>
 
 =>q80
-::Elle tousse.:: Je ne pense pas que je devrais vraiment vous en parler. Je ne te connais pas vraiment. Désolé.<end>
+Je... ::Elle tousse.:: Je ne pense pas que je devrais vraiment vous en parler. Je ne vous connais pas vraiment. Désolée.<end>
 
 =>a81_original
 ::[Persuade]:: Come on, I'm really interested. Why don't you just tell me?<end>
 
 =>a81
-::[Persuader]:: Allez, ça m'intéresse vraiment. Pourquoi tu ne me le dis pas ?<end>
+::[Persuade]:: Allez, ça m'intéresse vraiment. Pourquoi vous ne me le diriez pas ?<end>
 
 =>q82_original
 All right, if you insist.<end>
@@ -548,13 +548,13 @@ Très bien, si vous insistez.<end>
 Please, I'd rather not.<end>
 
 =>q83
-Je ne préfère pas.<end>
+S'il vous plaît, je préférerais ne pas.<end>
 
 =>a84_original
 Fine, let's talk about something else.<end>
 
 =>a84
-Bien, parlons d'autre chose.<end>
+Soit. Parlons d'autre chose.<end>
 
 =>q85_original
 Sure, go for it.<end>
@@ -566,37 +566,37 @@ Bien sûr, allez-y.<end>
 How do you feel now that the mine has been reopened?<end>
 
 =>a86
-Comment vous sentez-vous maintenant que la mine a été rouverte ?<end>
+Comment vous sentez-vous, maintenant que la mine a rouvert ?<end>
 
 =>q87_original
 Well, I definitely feel much safer. ::She coughs.:: I was concerned that those creatures would swarm us all. I heard some rumors and... you know. ::She coughs.:: But the guards, they did an excellent job at keeping us safe. And now we're golden. I heard you helped in some way, so I suppose I should also thank you for my safety. ::She laughs.::<end>
 
 =>q87
-Je me sens plus en sécurité. ::Elle tousse.:: Je craignais que ces créatures nous envahissent tous. J'ai entendu des rumeurs et... tu sais. ::Elle tousse.:: Mais les gardes ont fait un excellent travail pour nous protéger. Et maintenant nous sommes en or. J'ai entendu dire que tu as aidé d'une certaine façon, donc je suppose que je devrais aussi te remercier pour ma sécurité. ::Elle rit.::<end>
+Eh bien, je me sens nettement plus en sécurité. ::Elle tousse.:: J'avais peur que ces créatures nous envahissent tous. J'ai entendu des rumeurs et... vous voyez. ::Elle tousse.:: Mais les gardes ont très bien fait leur travail. Et maintenant on est tranquilles. On m'a dit que vous aviez aidé, d'une façon ou d'une autre, alors je suppose que je devrais aussi vous remercier pour ma sécurité. ::Elle rit.::<end>
 
 =>q88_original
 You saved my life again. ::She laughs.::<end>
 
 =>q88
-Tu m'as encore sauvé la vie. ::Elle rit.::<end>
+Vous m'avez encore sauvé la vie. ::Elle rit.::<end>
 
 =>q89_original
 This foul world needs more people like you.<end>
 
 =>q89
-Ce monde a besoin de plus de gens comme vous.<end>
+Ce monde pourri a besoin de plus de gens comme vous.<end>
 
 =>a90_original
 About TNT...<end>
 
 =>a90
-A propos de TNT...<end>
+À propos du TNT...<end>
 
 =>q91_original
 Yes, what about it? ::She coughs.::<end>
 
 =>q91
-Oui, et alors ? ::Elle tousse.::<end>
+Oui, qu'est-ce qu'il y a ? ::Elle tousse.::<end>
 
 =>a92_original
 Nothing, let's talk about something else.<end>
@@ -608,7 +608,7 @@ Rien, parlons d'autre chose.<end>
 About the thing with Nicolas...<end>
 
 =>a93
-A propos du truc avec Nicolas...<end>
+À propos de l'histoire avec Nicolas...<end>
 
 =>q94_original
 ::She nods.::<end>
@@ -620,59 +620,59 @@ A propos du truc avec Nicolas...<end>
 What can you tell me about Foundry?<end>
 
 =>a95
-Que pouvez-vous me dire sur Foundry ?<end>
+Que pouvez-vous me dire sur Foundry ?<end>
 
 =>q96_original
 If you're not drinking local water, or eating local food, or working in the mine, or with explosives, or breathing the foul air, it's not that bad a place to live in. Oh, and this meat here is good. ::She points to the piece of meat on the counter.:: Messer's meat. I mean, from his pigs. ::She laughs, but a cough interrupts her.::<end>
 
 =>q96
-Si vous ne buvez pas d'eau locale, que vous mangez de la nourriture locale, que vous travaillez dans la mine, que vous utilisez des explosifs ou que vous respirez l'air sale, ce n'est pas si mal d'y vivre. Et cette viande est bonne. ::Elle indique le morceau de viande sur le comptoir.:: Viande de Messer. Je veux dire, de ses cochons. ::Elle rit, mais une toux l'interrompt.::<end>
+Si vous ne buvez pas l'eau du coin, que vous ne mangez pas la nourriture d'ici, que vous ne travaillez pas à la mine, ni avec les explosifs, et que vous ne respirez pas l'air vicié... ce n'est pas si mal, pour y vivre. Oh, et cette viande-là est bonne. ::Elle montre le morceau sur le comptoir.:: La viande de Messer. Enfin, celle de ses cochons. ::Elle rit, mais une toux la coupe.::<end>
 
 =>q97_original
 At least Ironheads can't touch us in Foundry.<end>
 
 =>q97
-Au moins Ironheads ne peut pas nous toucher dans Foundry.<end>
+Au moins, les Ironheads ne peuvent pas nous toucher à Foundry.<end>
 
 =>a98_original
 Can you tell me anything about the mine creatures?<end>
 
 =>a98
-Pouvez-vous me parler de mes créatures ?<end>
+Vous pouvez me dire quelque chose sur les créatures de la mine ?<end>
 
 =>q99_original
 I really don't know what to say. ::She coughs.:: I've never seen one in person, but I heard those things look quite menacing and that they very much are. I'm sure that the mayor will find a way to rid us of those awful things.<end>
 
 =>q99
-Je ne sais vraiment pas quoi dire. ::Elle tousse.:: Je n'en ai jamais vu un en personne, mais j'ai entendu ces choses semblent plutôt menaçantes et qu'elles le sont beaucoup. Je suis sûr que le maire trouvera un moyen de nous débarrasser de ces choses horribles.<end>
+Je ne sais vraiment pas quoi dire. ::Elle tousse.:: Je n'en ai jamais vu une de près, mais on dit que ces choses ont l'air menaçantes, et qu'elles le sont vraiment. Je suis sûre que le maire trouvera un moyen de nous en débarrasser.<end>
 
 =>q100_original
 I'm not worried, though, even though I'm working closer to them than anyone. I have faith in the guardsmen. ::She coughs.::<end>
 
 =>q100
-Je ne suis pas inquiet, même si je travaille plus près d'eux que quiconque. J'ai confiance en les gardes. ::Elle tousse.::<end>
+Je ne suis pas inquiète, pourtant, même si je travaille plus près d'elles que n'importe qui. J'ai confiance dans les gardes. ::Elle tousse.::<end>
 
 =>a101_original
 I need to go now. Bye.<end>
 
 =>a101
-Je dois y aller maintenant. Au revoir.<end>
+Je dois y aller. Au revoir.<end>
 
 =>a102_original
 I'll leave you to your meal. Enjoy.<end>
 
 =>a102
-Je te laisse à ton repas. Amuse-toi bien.<end>
+Je vous laisse à votre repas. Bon appétit.<end>
 
 =>q103_original
 ::She responds with some pleased nodding and dives back into her meal.::<end>
 
 =>q103
-::Elle répond avec un peu de bonne tête et plonge dans son repas.::<end>
+::Elle hoche la tête, contente, et replonge dans son assiette.::<end>
 
 =>q104_original
 Need something? ::She coughs.::<end>
 
 =>q104
-Besoin de quelque chose ? ::Elle tousse.::<end>
+Vous avez besoin de quelque chose ? ::Elle tousse.::<end>
 

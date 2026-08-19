@@ -2,7 +2,7 @@
 They... they are here!<end>
 
 =>q1
-Ils sont là !<end>
+Ils... ils sont là !<end>
 
 =>q2_original
 ::The woman carefully places down a beaker full of purple liquid as soon as you come near. On the table in front of her, you see numerous glassware: beakers, flasks, vials - it is all there. She lowers the protective mask covering her mouth and starts the conversation.::
@@ -10,21 +10,21 @@ Ils sont là !<end>
 Tchort is evolution. I don't think we've met before, I'm Octavia... Investigator Octavia.<end>
 
 =>q2
-::La femme place soigneusement un bécher plein de liquide violet dès que vous approchez. Sur la table devant elle, vous voyez de nombreux verreries: béchers, flacons, flacons - tout est là. Elle abaisse le masque protecteur qui couvre sa bouche et commence la conversation.::
+::La femme pose avec précaution un bécher de liquide violet dès que vous approchez. Sur la table, devant elle, de la verrerie : béchers, fioles, flacons - il y a de tout. Elle abaisse le masque qui lui couvre la bouche et entame la conversation.::
 
-Tchort est l'évolution. Je ne crois pas qu'on se soit déjà rencontrés, je suis Octavia... l'enquêteur Octavia.<end>
+Tchort est l'évolution. Je ne crois pas que nous nous soyons déjà $(#rencontrés/rencontrées). Je suis Octavia... Investigator Octavia.<end>
 
 =>a3_original
 I'm $(context.player.Name). I hope you're not too busy to answer a few questions for me.<end>
 
 =>a3
-Je suis $(context.player.Name). J'espère que vous n'êtes pas trop occupé pour répondre à quelques questions.<end>
+Je suis $(context.player.Name). J'espère que vous n'êtes pas trop occupée pour me répondre.<end>
 
 =>q4_original
 No problem. What I'm doing can wait, $(#brother/sister). What did you have in mind?<end>
 
 =>q4
-Pas de problème. Ce que je fais peut attendre $(#brother/sister). Qu'avez-vous en tête ?<end>
+Pas de problème. Ce que je fais peut attendre, $(#frère/sœur). Qu'aviez-vous en tête ?<end>
 
 =>q5_original
 <end>
@@ -36,7 +36,7 @@ Pas de problème. Ce que je fais peut attendre $(#brother/sister). Qu'avez-vous 
 ::[Chemistry]:: I'm doing some testing for the principal investigator, and I need highly corrosive substances. Any way you can help me out?<end>
 
 =>a6
-::[Chemistry]:: Je fais des tests pour le chercheur principal, et j'ai besoin de substances hautement corrosives. Tu peux m'aider ?<end>
+::[Chemistry]:: Je fais des tests pour le Principal Investigator, et j'ai besoin de substances très corrosives. Vous pouvez m'aider ?<end>
 
 =>q7_original
 Well, we have something we've been collecting in the Deep Caverns. ::She walks over to one of the shelves and picks up a hardened plastic box labeled "Caution: Caustic."::
@@ -44,7 +44,7 @@ Well, we have something we've been collecting in the Deep Caverns. ::She walks o
 <end>
 
 =>q7
-Nous avons quelque chose que nous avons recueilli dans le Deep Caverns. ::Elle passe à l'une des étagères et ramasse une boîte en plastique durcie portant l'étiquette "Attention : Caustique".::
+Nous avons quelque chose que nous récoltons dans les Deep Caverns. ::Elle va vers une étagère et prend une boîte en plastique durci, étiquetée « Attention : caustique ».::
 
 <end>
 
@@ -52,7 +52,7 @@ Nous avons quelque chose que nous avons recueilli dans le Deep Caverns. ::Elle p
 I see you've already got protection. Take a look at this...<end>
 
 =>q8
-Je vois que vous avez déjà une protection. Regarde ça...<end>
+Je vois que vous avez déjà une protection. Regardez ça...<end>
 
 =>a9_original
 ::Barter.::<end>
@@ -64,37 +64,37 @@ Je vois que vous avez déjà une protection. Regarde ça...<end>
 Put on some protective gloves and take a look at this...<end>
 
 =>q10
-Mets des gants de protection et regarde ça...<end>
+Mettez des gants de protection et regardez ça...<end>
 
 =>a11_original
 You giggled just then. Why?<end>
 
 =>a11
-Tu as glouché tout de suite. Pourquoi ?<end>
+Vous venez de glousser. Pourquoi ?<end>
 
 =>q12_original
 I don't know what you mean, $(#brother/sister). I really don't know.<end>
 
 =>q12
-Je ne vois pas ce que tu veux dire, $(#brother/sister). Je ne sais vraiment pas.<end>
+Je ne vois pas ce que vous voulez dire, $(#frère/sœur). Vraiment pas.<end>
 
 =>a13_original
 You did giggle, I saw you. Don't try to lie to me.<end>
 
 =>a13
-Vous avez ri, je vous ai vu. N'essayez pas de me mentir.<end>
+Vous avez bien gloussé, je vous ai vue. Ne cherchez pas à me mentir.<end>
 
 =>q14_original
 ::She lowers her head and starts laughing silently. She tries to stop, but is unable to.::<end>
 
 =>q14
-::Elle baisse la tête et commence à rire silencieusement. Elle essaie d'arrêter, mais ne peut pas.::<end>
+::Elle baisse la tête et se met à rire en silence. Elle essaie de s'arrêter, sans y arriver.::<end>
 
 =>a15_original
 Is this about the alcoholic beverage quality control tests Principal Investigator and I performed?<end>
 
 =>a15
-Est-ce au sujet des tests de contrôle de la qualité des boissons alcoolisées que j'ai effectués?<end>
+C'est à propos des tests de contrôle qualité des boissons alcoolisées que le Principal Investigator et moi avons faits ?<end>
 
 =>q16_original
 ::She barely controls herself not to burst out laughing; the words "quality control tests" seem to have made it even more difficult for her. You patiently wait for her to get a hold of herself, and, after she does so and wipes the tears from her eyes, you are finally met with an answer.::
@@ -102,51 +102,51 @@ Est-ce au sujet des tests de contrôle de la qualité des boissons alcoolisées 
 You... ::She takes a deep breath.:: yes... yes it is.<end>
 
 =>q16
-::Elle se contrôle à peine pour ne pas éclater de rire ; les mots « tests de contrôle de qualité » semblent l'avoir rendu encore plus difficile pour elle. Vous attendez patiemment qu'elle s'empare d'elle-même, et, après qu'elle l'ait fait et qu'elle essuie les larmes de ses yeux, vous avez enfin une réponse.::
+::Elle se retient à peine d'éclater de rire ; les mots « tests de contrôle qualité » n'arrangent rien. Vous attendez qu'elle se ressaisisse ; quand elle y parvient, elle s'essuie les larmes, et vous avez enfin une réponse.::
 
-Vous... ::Elle prend une profonde inspiration.:: oui... oui.<end>
+Vous... ::Elle inspire à fond.:: oui... oui, c'est ça.<end>
 
 =>a17_original
 We were doing important scientific work over there. I don't see what is so funny about it.<end>
 
 =>a17
-Nous faisions un travail scientifique important là-bas. Je ne vois pas ce qui est si drôle.<end>
+Nous faisions un travail scientifique important, là-bas. Je ne vois pas ce qu'il y a de drôle.<end>
 
 =>q18_original
 Um... well...you see...<end>
 
 =>q18
-Vous voyez...<end>
+Euh... voilà... vous voyez...<end>
 
 =>a19_original
 Did *I* do something that you find so funny during that time perhaps?<end>
 
 =>a19
-Est-ce que j'ai fait quelque chose que tu trouves si drôle pendant cette période ?<end>
+Est-ce que *j'*ai fait quelque chose de si drôle, pendant ce temps-là ?<end>
 
 =>q20_original
 Well, no one was in the lab during the time you, um, did all that... important scientific work. ::She almost laughs but manages to control it.:: But, em, when I returned to the lab - I was the first one here, by the way - I saw you, em...<end>
 
 =>q20
-Personne n'était au labo pendant que vous, euh, avez fait tout ça... un travail scientifique important. ::Elle rit presque mais parvient à le contrôler.:: Mais, em, quand je suis retourné au labo - j'étais le premier ici, au fait - je vous ai vu, em...<end>
+Personne n'était au labo pendant que vous, euh, faisiez tout ce... travail scientifique important. ::Elle rit presque, mais se retient.:: Mais, euh, quand je suis revenue - j'étais la première ici, d'ailleurs - je vous ai $(#vu/vue), euh...<end>
 
 =>a21_original
 You saw me...?<end>
 
 =>a21
-Vous m'avez vu... ?<end>
+Vous m'avez $(#vu/vue)... ?<end>
 
 =>q22_original
 I saw you running around the lab with your pants over your head and an empty bottle in your hand, with the funniest expression I've ever seen in my life; it's like you were angry and happy AND smelled something bad at the *same* time. Magnificent Tchort, it was hilarious! Then, you saw me watching you, and you pulled the pants from your head very, *very* slowly - all the while staring at me like a confused cat. Then you slowly walked backwards with your pants and bottle in your hands, and went to bed, um, crate... I mean to sleep. You went to sleep.<end>
 
 =>q22
-Je vous ai vu courir autour du labo avec votre pantalon au-dessus de votre tête et une bouteille vide dans votre main, avec l'expression la plus drôle que j'ai jamais vu dans ma vie; c'est comme si vous étiez en colère et heureux ET senti quelque chose de mauvais au même moment. Magnifique Tchort, c'était hilarant ! Puis, vous m'avez vu vous regarder, et vous avez tiré le pantalon de votre tête très, très lentement - tout en me regardant comme un chat confus. Puis tu as lentement marché en arrière avec ton pantalon et ta bouteille dans tes mains, et tu es allé au lit, um, caisse... je veux dire dormir. Tu as dormi.<end>
+Je vous ai $(#vu/vue) courir dans le labo, le pantalon sur la tête et une bouteille vide à la main, avec l'expression la plus drôle que j'aie jamais vue ; on aurait dit que vous étiez en colère et $(#heureux/heureuse) ET que vous sentiez quelque chose de mauvais, *en même temps*. Magnifique Tchort, c'était hilarant ! Puis vous m'avez vue vous regarder, et vous avez retiré le pantalon de votre tête très, *très* lentement - tout en me fixant comme un chat perdu. Ensuite vous avez reculé tout doucement, pantalon et bouteille à la main, et vous êtes $(#allé/allée) au lit, euh, à la caisse... je veux dire dormir. Vous êtes $(#allé/allée) dormir.<end>
 
 =>q23_original
 ::She finally bursts out laughing.:: I am sorry... I can't... ::She laughs.:: It was so... funny...<end>
 
 =>q23
-::Elle éclate enfin de rire.:: Je suis désolé... Je ne peux pas... ::Elle rit.:: C'était tellement... drôle...<end>
+::Elle éclate enfin de rire.:: Je suis désolée... je ne peux pas... ::Elle rit.:: C'était tellement... drôle...<end>
 
 =>a24_original
 We will never talk about this again. Understood?<end>
@@ -158,13 +158,13 @@ Nous n'en reparlerons plus jamais. Compris ?<end>
 No... um, no problem. You, em, needed anything from me, $(#brother/sister)?<end>
 
 =>q25
-Pas de problème. Vous aviez besoin de moi, $(#brother/sister) ?<end>
+Non... euh, pas de problème. Vous, euh, aviez besoin de moi, $(#frère/sœur) ?<end>
 
 =>a26_original
 Looks like I had a lot of fun!<end>
 
 =>a26
-On dirait que j'ai eu beaucoup de plaisir !<end>
+On dirait que je me suis bien $(#amusé/amusée) !<end>
 
 =>q27_original
 Looks like you did. ::She laughs.::<end>
@@ -176,7 +176,7 @@ On dirait bien. ::Elle rit.::<end>
 In any case, let's not talk about this again. Deal?<end>
 
 =>a28
-En tout cas, ne parlons plus de ça. Marché conclu ?<end>
+Dans tous les cas, n'en reparlons plus. Marché conclu ?<end>
 
 =>a29_original
 Excellent! Well, now that I know what happened, let's change the subject.<end>
@@ -188,91 +188,91 @@ Parfait ! Maintenant que je sais ce qui s'est passé, changeons de sujet.<end>
 No problem, $(#brother/sister).<end>
 
 =>q30
-Pas de problème, $(#brother/sister).<end>
+Pas de problème, $(#frère/sœur).<end>
 
 =>a31_original
 Magnificent Tchort! I don't remember any of that!<end>
 
 =>a31
-Magnifique Tchort ! Je ne m'en souviens plus !<end>
+Magnifique Tchort ! Je ne me souviens de rien !<end>
 
 =>q32_original
 ::She shrugs, laughing.::<end>
 
 =>q32
-::Elle grouille, elle rigole.::<end>
+::Elle hausse les épaules, en riant.::<end>
 
 =>a33_original
 Well... I'm glad it made you laugh. Let's talk about something else.<end>
 
 =>a33
-Et bien... Je suis content que ça t'ait fait rire. Parlons d'autre chose.<end>
+Bon... Je suis $(#content/contente) que ça vous ait fait rire. Parlons d'autre chose.<end>
 
 =>a34_original
 Would you tell me already?<end>
 
 =>a34
-Tu veux bien me le dire ?<end>
+Vous allez me le dire, oui ?<end>
 
 =>a35_original
 You are laughing because I got drunk, right?<end>
 
 =>a35
-Tu ris parce que je me suis saoulé, non ?<end>
+Vous riez parce que je me suis $(#saoulé/saoulée), c'est ça ?<end>
 
 =>q36_original
 ::She barely controls herself not to burst out laughing; the directness of your statement seem to have made it even more difficult for her. You patiently wait for her to get a hold of herself, and, after she does so and wipes the tears from her eyes, you are finally met with an answer.::<end>
 
 =>q36
-::Elle se contrôle à peine pour ne pas éclater de rire ; le caractère direct de votre déclaration semble l'avoir rendu encore plus difficile pour elle. Vous attendez patiemment qu'elle s'empare d'elle-même, et, après qu'elle l'ait fait et qu'elle essuie les larmes de ses yeux, vous avez enfin une réponse.::<end>
+::Elle se retient à peine d'éclater de rire ; le franc-parler de votre phrase n'arrange rien. Vous attendez qu'elle se ressaisisse ; quand elle y parvient, elle s'essuie les larmes, et vous avez enfin une réponse.::<end>
 
 =>a37_original
 Specifically, did *I* do something, um, strange during that time?<end>
 
 =>a37
-Est-ce que j'ai fait quelque chose d'étrange pendant ce temps ?<end>
+Plus précisément : est-ce que *j'*ai fait quelque chose d', euh, étrange, à ce moment-là ?<end>
 
 =>a38_original
 I'm sure you do, but never mind. I have more important things to talk to you about.<end>
 
 =>a38
-Je suis sûr que oui, mais peu importe. J'ai des choses plus importantes à vous dire.<end>
+J'en suis $(#sûr/sûre), mais peu importe. J'ai des choses plus importantes à vous dire.<end>
 
 =>a39_original
 Principal Investigator Georgis told me I could purchase chemicals from you.<end>
 
 =>a39
-Georgis m'a dit que je pouvais vous acheter des produits chimiques.<end>
+Principal Investigator Georgis m'a dit que je pouvais vous acheter des produits chimiques.<end>
 
 =>q40_original
 No problem. This is what we have available...<end>
 
 =>q40
-Pas de problème. C'est ce que nous avons...<end>
+Pas de problème. Voici ce que nous avons...<end>
 
 =>a41_original
 I was told you could analyze the chemical composition of something for me.<end>
 
 =>a41
-On m'a dit que tu pouvais analyser la composition chimique de quelque chose pour moi.<end>
+On m'a dit que vous pouviez analyser la composition chimique de quelque chose pour moi.<end>
 
 =>q42_original
 Sure, $(#brother/sister). Hand it over.<end>
 
 =>q42
-Bien sûr, $(#brother/sister). Donne ça.<end>
+Bien sûr, $(#frère/sœur). Donnez-moi ça.<end>
 
 =>a43_original
 ::Give her the broken-off spike.::<end>
 
 =>a43
-::Donne-lui la pointe cassée.::<end>
+::Lui donner la pointe cassée.::<end>
 
 =>q44_original
 ::She inspects the sample.:: Okay. Please wait here while I go and put this in the analyzer. I'll be back shortly.<end>
 
 =>q44
-::Elle contrôle l'échantillon.:: Très bien. Attendez ici pendant que je vais mettre ça dans l'analyseur. Je reviens bientôt.<end>
+::Elle examine l'échantillon.:: Très bien. Attendez ici, je vais mettre ça dans l'analyseur. Je reviens tout de suite.<end>
 
 =>q45_original
 ::You pass the time by reading the labels on various chemical containers: There is actually a substance called bastardane!
@@ -280,15 +280,15 @@ Bien sûr, $(#brother/sister). Donne ça.<end>
 It doesn't take too long for Octavia to return.::<end>
 
 =>q45
-::Vous passez le temps en lisant les étiquettes sur divers contenants chimiques : Il y a en fait une substance appelée bâtane !
+::Vous passez le temps à lire les étiquettes des flacons : il existe vraiment une substance appelée bastardane !
 
-Il ne faut pas trop de temps pour qu'Octavia revienne.::<end>
+Octavia ne tarde pas à revenir.::<end>
 
 =>q46_original
 Hey, $(#brother/sister), I'm back with the results.<end>
 
 =>q46
-Hey, $(#brother/sister), je suis de retour avec les résultats.<end>
+Me voilà, $(#frère/sœur). J'ai les résultats.<end>
 
 =>a47_original
 And?<end>
@@ -300,19 +300,19 @@ Et alors ?<end>
 ::She hands you the sample back.:: Pure carbon.<end>
 
 =>q48
-::Elle vous remet l'échantillon.:: Carbone pur.<end>
+::Elle vous rend l'échantillon.:: Carbone pur.<end>
 
 =>a49_original
 What do you mean by pure carbon?<end>
 
 =>a49
-Que voulez-vous dire par carbone pur ?<end>
+Que voulez-vous dire, par carbone pur ?<end>
 
 =>q50_original
 I mean that this is composed entirely of carbon molecules. Nothing else.<end>
 
 =>q50
-Je veux dire que c'est composé entièrement de molécules de carbone. Rien d'autre.<end>
+Je veux dire que c'est composé uniquement de molécules de carbone. Rien d'autre.<end>
 
 =>a51_original
 Interesting...<end>
@@ -324,13 +324,13 @@ Intéressant...<end>
 Where does this come from? It's got an unusual shape.<end>
 
 =>q52
-D'où ça vient ? Il a une forme inhabituelle.<end>
+D'où ça vient ? La forme est inhabituelle.<end>
 
 =>a53_original
 I can't say.<end>
 
 =>a53
-Je ne peux pas dire.<end>
+Je ne peux pas le dire.<end>
 
 =>q54_original
 Alright. If <end>
@@ -342,25 +342,25 @@ Très bien. Si <end>
 you need anything else, just let me know.<end>
 
 =>q55
-Vous avez besoin d'autre chose, faites-le moi savoir.<end>
+vous avez besoin d'autre chose, dites-le-moi.<end>
 
 =>a56_original
 I have no idea. The PI just gave it to me to bring to you.<end>
 
 =>a56
-Aucune idée. Le procureur vient de me le donner pour t'amener.<end>
+Aucune idée. Le PI me l'a donné pour vous l'apporter.<end>
 
 =>q57_original
 Ah. Alright, $(#brother/sister), if <end>
 
 =>q57
-Ah. Très bien, $(#brother/sister), si <end>
+Ah. Très bien, $(#frère/sœur), si <end>
 
 =>q58_original
 you need anything else, just let me know.<end>
 
 =>q58
-Vous avez besoin d'autre chose, faites-le moi savoir.<end>
+vous avez besoin d'autre chose, dites-le-moi.<end>
 
 =>a59_original
 This used to be a person.<end>
@@ -372,7 +372,7 @@ C'était une personne.<end>
 ::She nods.:: Well, uh...<end>
 
 =>q60
-::Elle acquiesce.:: Eh bien, euh...<end>
+::Elle hoche la tête.:: Eh bien, euh...<end>
 
 =>q61_original
 If <end>
@@ -396,7 +396,7 @@ J'attends.<end>
 ::Remain silent.::<end>
 
 =>a64
-::Restez silencieux.::<end>
+::Rester silencieux.::<end>
 
 =>a65_original
 I would like to purchase chemicals.<end>
@@ -408,19 +408,19 @@ Je voudrais acheter des produits chimiques.<end>
 Is there a way I can acquire some chemicals around here?<end>
 
 =>a66
-Y a-t-il un moyen d'acquérir des produits chimiques par ici ?<end>
+Y a-t-il un moyen de se procurer des produits chimiques, par ici ?<end>
 
 =>q67_original
 Well, I happen to be in charge of the chemical inventory... but, you'd have to ask our PI, Georgis for permission. He is in his office right over there.<end>
 
 =>q67
-Eh bien, il se trouve que je suis responsable de l'inventaire chimique... mais, vous devriez demander à notre IP, Georgis pour la permission. Il est dans son bureau juste là.<end>
+Il se trouve que je m'occupe de l'inventaire chimique... mais il vous faudra demander l'autorisation à notre PI, Georgis. Il est dans son bureau, juste là.<end>
 
 =>q68_original
 If he says yes, then come back to me, $(#brother/sister).<end>
 
 =>q68
-S'il dit oui, alors reviens à moi, $(#brother/sister).<end>
+S'il dit oui, revenez me voir, $(#frère/sœur).<end>
 
 =>a69_original
 Can you tell me who's in charge here?<end>
@@ -432,73 +432,73 @@ Pouvez-vous me dire qui commande ici ?<end>
 That would be our PI, Georgis. You can find him in his office right over there, behind those double doors.<end>
 
 =>q70
-Ce serait notre IP, Georgis. Vous pouvez le trouver dans son bureau juste là, derrière ces portes doubles.<end>
+Ce serait notre PI, Georgis. Vous le trouverez dans son bureau, juste là, derrière ces doubles portes.<end>
 
 =>a71_original
 What does PI stand for?<end>
 
 =>a71
-Que représente PI ?<end>
+Que veut dire PI ?<end>
 
 =>q72_original
 Oh, it stands for "Principal Investigator." A Principal Investigator is the head of a specific department. Our PI is Investigator Georgis while, for example, that would be PI Rista for the genetics department or PI Schteff for physics.<end>
 
 =>q72
-Oh, ça veut dire "enquêteur principal". Un chercheur principal est le chef d'un ministère particulier. Notre IP est chercheur Georgis alors que, par exemple, ce serait PI Rista pour le département de génétique ou PI Schteff pour la physique.<end>
+Oh, ça veut dire « Principal Investigator ». Un Principal Investigator est le chef d'un département. Notre PI, c'est Investigator Georgis ; par exemple, ce serait PI Rista pour la génétique, ou PI Schteff pour la physique.<end>
 
 =>q73_original
 While we're at it, all departments belonging to Investigation, which is the name of one of Institute of Tchort's divisions, are overseen by the episkopos. Currently, that would be Episkopos Lydia. There, that should give you just a basic idea how things function in Investigation.<end>
 
 =>q73
-Pendant que nous y sommes, tous les départements appartenant à Investigation, qui est le nom d'une des divisions de Institute of Tchort, sont supervisés par l'épiskopos. Actuellement, ce serait Episkopos Lydia. Là, cela devrait vous donner juste une idée de base comment les choses fonctionnent dans Enquête.<end>
+Puisque nous y sommes : tous les départements d'Investigation - c'est le nom d'une des divisions de l'Institute of Tchort - sont sous la tutelle de l'episkopos. Pour l'instant, c'est Episkopos Lydia. Voilà, ça devrait vous donner une idée de base de comment ça marche, à Investigation.<end>
 
 =>a74_original
 I see. Before I go to him, I had other questions I wanted to ask you...<end>
 
 =>a74
-Je vois. Avant d'aller chez lui, j'avais d'autres questions à vous poser...<end>
+Je vois. Avant d'aller le voir, j'avais d'autres questions...<end>
 
 =>a75_original
 Thank you, I'll go talk to him right now.<end>
 
 =>a75
-Merci, je vais lui parler.<end>
+Merci, je vais lui parler tout de suite.<end>
 
 =>q76_original
 Tchort guide you, $(#brother/sister).<end>
 
 =>q76
-Tchort vous guide, $(#brother/sister).<end>
+Tchort vous guide, $(#frère/sœur).<end>
 
 =>a77_original
 Tchort guide you, sister.<end>
 
 =>a77
-Tchort vous guide, ma sœur.<end>
+Tchort vous guide, sœur.<end>
 
 =>q78_original
 You too, $(#brother/sister)... you too.<end>
 
 =>q78
-Toi aussi, $(#brother/sister)... toi aussi.<end>
+Vous aussi, $(#frère/sœur)... vous aussi.<end>
 
 =>a79_original
 See you some other time, Investigator.<end>
 
 =>a79
-À une autre fois, enquêteur.<end>
+À une autre fois, Investigator.<end>
 
 =>a80_original
 Evolution is Tchort. My name is $(context.player.Name).<end>
 
 =>a80
-Evolution est Tchort. Mon nom est $(context.player.Name).<end>
+L'évolution est Tchort. Je m'appelle $(context.player.Name).<end>
 
 =>q81_original
 ::She nods.:: So, how can I help you?<end>
 
 =>q81
-::Elle acquiesce.:: Comment puis-je vous aider ?<end>
+::Elle hoche la tête.:: Alors, comment puis-je vous aider ?<end>
 
 =>q82_original
 ::As soon as your eyes meet, Octavia giggles for a split second before abruptly stopping.::
@@ -506,13 +506,12 @@ Evolution est Tchort. Mon nom est $(context.player.Name).<end>
 Mmmm, how may I help you, $(#brother/sister)?<end>
 
 =>q82
-::Dès que vos yeux se rencontrent, Octavia gigogne une seconde avant de s'arrêter brusquement.::
+::Dès que vos regards se croisent, Octavia glousse une fraction de seconde, puis s'arrête net.::
 
-Comment puis-je vous aider, $(#brother/sister) ?<end>
+Mmmm, comment puis-je vous aider, $(#frère/sœur) ?<end>
 
 =>q83_original
 ::She lowers her face mask.:: Yes, $(#brother/sister)?<end>
 
 =>q83
-::Elle abaisse son masque.:: Oui, $(#brother/sister) ?<end>
-
+::Elle abaisse son masque.:: Oui, $(#frère/sœur) ?<end>

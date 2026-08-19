@@ -2,7 +2,7 @@
 $(#Mister/Miss) $(context.player.Name)? I have a message for you.<end>
 
 =>q1
-$(#Mister/Miss) $(context.player.Name) ? J'ai un message pour vous.<end>
+$(#Monsieur/Mademoiselle) $(context.player.Name) ? J'ai un message pour vous.<end>
 
 =>a2_original
 Let's hear it.<end>
@@ -26,7 +26,7 @@ Je vous écoute.<end>
 Archibald Knight, chief of Praetorian Security, hereby requests that you meet him in his office at the Praetorian Security headquarters. You are to see him as soon as possible.<end>
 
 =>q5
-Archibald Knight, chef de Praetorian Security, vous prie par la présente de le rencontrer dans son bureau au quartier général de Praetorian Security. Vous devez le voir dès que possible.<end>
+Archibald Knight, chef de Praetorian Security, vous convie à le rejoindre dans son bureau, au QG de Praetorian Security. Vous devez le voir dès que possible.<end>
 
 =>a6_original
 Is that all?<end>
@@ -56,13 +56,13 @@ Splendide. Invictus, terminé !<end>
 Thank you. Here's a charon for your troubles. ::Offer him one charon.::<end>
 
 =>a10
-Merci. Voici un charon pour le dérangement. ::Lui offrir un charon.::<end>
+Merci. Un charon pour le dérangement. ::Lui offrir un charon.::<end>
 
 =>q11_original
 Only one? ::He displays an expression of disgust.:: What a cheapskate! I'll pass.<end>
 
 =>q11
-Un seul ? ::Il affiche un air de dégoût.:: Quelle radinerie ! Je passe mon tour.<end>
+Un seul ? ::Il affiche un air de dégoût.:: Quel radin ! Je passe.<end>
 
 =>a12_original
 Suit yourself. Have a nice day.<end>
@@ -80,13 +80,13 @@ Comme tu veux, mec. Au revoir.<end>
 Rupert Simmons, president of Coretech, hereby requests that you meet him in his office at the Coretech building. You are to see him as soon as possible.<end>
 
 =>q14
-Rupert Simmons, président de Coretech, vous prie par la présente de le rencontrer dans son bureau au bâtiment Coretech. Vous devez le voir dès que possible.<end>
+Rupert Simmons, président de Coretech, vous convie à le rejoindre dans son bureau, au bâtiment Coretech. Vous devez le voir dès que possible.<end>
 
 =>q15_original
 Gunnar Edstrom, of JKK, hereby requests that you meet him in his office in the JKK headquarters. You are to see him as soon as possible.<end>
 
 =>q15
-Gunnar Edstrom, de JKK, vous prie par la présente de le rencontrer dans son bureau au QG de JKK. Vous devez le voir dès que possible.<end>
+Gunnar Edstrom, de JKK, vous convie à le rejoindre dans son bureau, au QG de JKK. Vous devez le voir dès que possible.<end>
 
 =>a16_original
 A message for me? Well, I'm all ears...<end>
@@ -98,10 +98,10 @@ Un message pour moi ? Je suis tout ouïe...<end>
 Oh, joy! Can't wait to hear it.<end>
 
 =>a17
-Oh, joie ! J'ai hâte d'entendre ça.<end>
+Oh, la joie. J'ai hâte d'entendre ça.<end>
 
 =>q18_original
 Now off to Hardcore City Bar! Dominating!<end>
 
 =>q18
-Direction le Hardcore City Bar ! Dominating !<end>
+Allez, direction le Hardcore City Bar ! Dominating !<end>
