@@ -2,13 +2,13 @@
 Make space for others. Next!<end>
 
 =>q1
-Faites de l'espace pour les autres. Suivant !<end>
+Faites de la place pour les autres. Suivant !<end>
 
 =>q2_original
 ::The gangling man is hurriedly typing something into the computer - its light adding further contrast to his raw-boned face - before ::<end>
 
 =>q2
-::L'homme de gang est pressé de taper quelque chose dans l'ordinateur - sa lumière ajoutant plus de contraste à son visage brut-bonné - avant::<end>
+::L'homme dégingandé tape à toute vitesse sur l'ordinateur - la lumière creuse encore son visage osseux - avant ::<end>
 
 =>q3_original
 ::issuing what appears to be a wagering ticket to the person next to you.::
@@ -16,9 +16,9 @@ Faites de l'espace pour les autres. Suivant !<end>
 Okay, who's next?<end>
 
 =>q3
-::délivrer ce qui semble être un billet de mise à la personne à côté de vous.::
+::de tendre ce qui ressemble à un ticket de pari à la personne à côté de toi.::
 
-Qui est le suivant ?<end>
+Bon, c'est qui, ensuite ?<end>
 
 =>q4_original
 <end>
@@ -30,13 +30,13 @@ Qui est le suivant ?<end>
 I'd like to place a bet.<end>
 
 =>a5
-J'aimerais faire un pari.<end>
+Placer un pari.<end>
 
 =>q6_original
 Yeah, yeah, shoot.<end>
 
 =>q6
-Ouais, ouais, tire.<end>
+Ouais, ouais, vas-y.<end>
 
 =>q7_original
 <end>
@@ -48,13 +48,13 @@ Ouais, ouais, tire.<end>
 I'm betting on...<end>
 
 =>a8
-Je parie sur...<end>
+Parier sur...<end>
 
 =>q9_original
 ::He waits, giving off an aura of impatience.::<end>
 
 =>q9
-::Il attend, donnant une aura d'impatience.::<end>
+::Il attend, impatient.::<end>
 
 =>q10_original
 <end>
@@ -80,9 +80,9 @@ $(tempcontext.Hopper1Name).<end>
 Yeah.<end>
 
 =>q13
-::Il se tape le nom de la sauteur.::
+::Il tape le nom du sauteur.::
 
-Oui.<end>
+Ouais.<end>
 
 =>q14_original
 <end>
@@ -94,7 +94,7 @@ Oui.<end>
 On the nose.<end>
 
 =>a15
-Sur le nez.<end>
+Gagnant.<end>
 
 =>q16_original
 ::He inputs the wager type.::
@@ -102,9 +102,9 @@ Sur le nez.<end>
 Mmmm-okay, the minimum stake is fifty charons.<end>
 
 =>q16
-::Il entre dans le type de mise.::
+::Il saisit le type de pari.::
 
-La mise est de 50 charons.<end>
+Mmmm-okay, la mise minimum c'est cinquante charons.<end>
 
 =>q17_original
 <end>
@@ -116,7 +116,7 @@ La mise est de 50 charons.<end>
 Fifty charons it is.<end>
 
 =>a18
-C'est 50 charons.<end>
+Cinquante charons.<end>
 
 =>q19_original
 ::He inputs the amount.::
@@ -126,17 +126,17 @@ Oooookay. We only give refunds in case the race gets canceled.
 Now - the *money* - and I'll print you your wagerin' ticket.<end>
 
 =>q19
-::Il fournit le montant.::
+::Il saisit le montant.::
 
-Ouookay. Nous ne donnons des remboursements que si la course est annulée.
+Oooookay. On rembourse que si la course est annulée.
 
-Maintenant - l'argent - et je vais vous imprimer votre billet de pari.<end>
+Bon - le *fric* - et je t'imprime ton ticket de pari.<end>
 
 =>a20_original
 Here you go. ::Give him the coins.::<end>
 
 =>a20
-Voilà. ::Donne-lui les pièces.::<end>
+Voilà. ::Lui tendre les pièces.::<end>
 
 =>q21_original
 ::The machine prints a wagering ticket with a loud *brrrrrr*, a ticket which he grabs and hands to you with little care.::
@@ -146,23 +146,23 @@ Bring this to me after the race to settle your bet. Also, dead hoppers maintain 
 Okay, who's next?<end>
 
 =>q21
-::La machine imprime un billet de pari avec un *brrrrrrr* fort, un billet qu'il saisit et vous tend avec peu de soin.::
+::La machine imprime un ticket de pari avec un gros *brrrrrrr*, un ticket qu'il attrape et te balance sans trop y faire gaffe.::
 
-Apporte-moi ça après la course pour régler ton pari. De plus, les sauteurs mortes maintiennent leur place à la fin de la course.
+Rapporte-moi ça après la course pour régler ton pari. Et les sauteurs morts gardent leur place à l'arrivée.
 
-Qui est le suivant ?<end>
+Bon, c'est qui, ensuite ?<end>
 
 =>q22_original
 Me, me! Make room for the *man*!<end>
 
 =>q22
-Moi, moi ! Faites place à l'homme*!<end>
+Moi, moi ! Faites place au *mec* !<end>
 
 =>q23_original
 Hold it right there, trash - it's my turn!<end>
 
 =>q23
-Ne bouge pas, c'est mon tour !<end>
+Halte-là, racaille - c'est mon tour !<end>
 
 =>a24_original
 ::Leave.::<end>
@@ -174,7 +174,7 @@ Ne bouge pas, c'est mon tour !<end>
 I changed my mind about the amount.<end>
 
 =>a25
-J'ai changé d'avis sur le montant.<end>
+Changer le montant.<end>
 
 =>q26_original
 ::He puts his finger on the delete button.::
@@ -182,15 +182,15 @@ J'ai changé d'avis sur le montant.<end>
 Come on, $(#man/lady).<end>
 
 =>q26
-::Il met son doigt sur le bouton de suppression.::
+::Il pose le doigt sur le bouton supprimer.::
 
-Allez, $(#monsieur/madame).<end>
+Allez, $(#mec/nana).<end>
 
 =>a27_original
 On the other hand, I guess I won't be betting today.<end>
 
 =>a27
-D'un autre côté, je ne parierai pas aujourd'hui.<end>
+Ne pas parier aujourd'hui.<end>
 
 =>q28_original
 Come on, $(#man/lady), quit wastin' everyone's time.
@@ -198,81 +198,81 @@ Come on, $(#man/lady), quit wastin' everyone's time.
 *Next*!<end>
 
 =>q28
-Allez, $(#monsieur/madame), arrêter de perdre tout le temps.
+Allez, $(#mec/nana), arrête de faire perdre du temps à tout le monde.
 
-*Suivant*!<end>
+*Suivant* !<end>
 
 =>a29_original
 I'm betting a hundred charons.<end>
 
 =>a29
-Je parie une centaine de charons.<end>
+Miser cent charons.<end>
 
 =>a30_original
 I'm betting a hundred fifty charons.<end>
 
 =>a30
-Je parie cent cinquante charons.<end>
+Miser cent cinquante charons.<end>
 
 =>a31_original
 I'm betting two hundred charons.<end>
 
 =>a31
-Je parie 200 charons.<end>
+Miser deux cents charons.<end>
 
 =>a32_original
 I'm betting three hundred charons.<end>
 
 =>a32
-Je parie 300 charons.<end>
+Miser trois cents charons.<end>
 
 =>a33_original
 I'm betting four hundred charons.<end>
 
 =>a33
-Je parie quatre cents charons.<end>
+Miser quatre cents charons.<end>
 
 =>a34_original
 I'm betting five hundred charons.<end>
 
 =>a34
-Je parie 500 charons.<end>
+Miser cinq cents charons.<end>
 
 =>a35_original
 I'm betting a thousand charons.<end>
 
 =>a35
-Je parie mille charons.<end>
+Miser mille charons.<end>
 
 =>q36_original
 Daaaaaamn! We got a one-chancer. Better get ready to jump on the rails, ha-ha!<end>
 
 =>q36
-Daaaaaamn ! On a un cancer. Préparez-vous à sauter sur les rails !<end>
+Puuuutain ! On a un tout-pour-le-tout. Prépare-toi à sauter sur les rails, ha-ha !<end>
 
 =>q37_original
 Quiet! <end>
 
 =>q37
-Du calme ! <end>
+Silence ! <end>
 
 =>a38_original
 I'm betting one thousand five hundred charons.<end>
 
 =>a38
-Je parie mille cinq cents charons.<end>
+Miser mille cinq cents charons.<end>
 
 =>a39_original
 I'm betting two thousand charons.<end>
 
 =>a39
-Je parie deux mille charons.<end>
+Miser deux mille charons.<end>
 
 =>a40_original
 I changed my mind about the wager type.<end>
 
 =>a40
-J'ai changé d'avis sur le type de pari.<end>
+Changer le type de pari.<end>
 
 =>q41_original
 ::He presses delete.::<end>
@@ -284,49 +284,49 @@ J'ai changé d'avis sur le type de pari.<end>
 I gotta go get my wallet. Be back in a moment.<end>
 
 =>a42
-Je dois aller chercher mon portefeuille. Je reviens dans un instant.<end>
+Aller chercher mon portefeuille. Je reviens.<end>
 
 =>q43_original
 Get <end>
 
 =>q43
-Obtenez <end>
+Dégage, <end>
 
 =>q44_original
 movin', $(#jack/sis)! Comin' through!<end>
 
 =>q44
-Je m'en vais, $(#gars/fille) ! C'est fini !<end>
+$(#gars/sœurette) ! On passe !<end>
 
 =>q45_original
 I was here *first*, yokel.<end>
 
 =>q45
-J'étais ici *premier*, joug.<end>
+J'étais là *en premier*, péquenaud.<end>
 
 =>a46_original
 At the tail.<end>
 
 =>a46
-À la queue.<end>
+Deuxième.<end>
 
 =>a47_original
 Slow show.<end>
 
 =>a47
-Lentement.<end>
+Troisième.<end>
 
 =>a48_original
 In the coins.<end>
 
 =>a48
-Dans les pièces.<end>
+Placé.<end>
 
 =>a49_original
 Actually, I'd like to bet on another hopper.<end>
 
 =>a49
-J'aimerais parier sur une autre sauteur.<end>
+Parier sur un autre sauteur.<end>
 
 =>q50_original
 ::He presses delete.::<end>
@@ -356,31 +356,31 @@ $(tempcontext.Hopper4Name).<end>
 So how does all of this work?<end>
 
 =>a54
-Alors comment tout ça marche ?<end>
+Demander comment ça marche.<end>
 
 =>q55_original
 Grab a leaflet at the entrance. It's all in there.<end>
 
 =>q55
-Prenez un tract à l'entrée. Tout est là.<end>
+Prends un tract à l'entrée. Tout y est.<end>
 
 =>q56_original
 Got lots of pictures in case ya can't *reed*, ha-ha. Now get movin', $(#jack/sis), c'mon!<end>
 
 =>q56
-J'ai plein de photos au cas où tu ne pourrais pas *reed*, ha-ha. Maintenant bougez, $(#gars/fille), allez !<end>
+Y a plein d'images au cas où tu saurais pas *lirre*, ha-ha. Allez, bouge, $(#gars/sœurette), allez !<end>
 
 =>a57_original
 Actually, I'm betting on...<end>
 
 =>a57
-En fait, je parie sur...<end>
+Parier sur...<end>
 
 =>q58_original
 ::He looks at you, giving off an aura of impatience.::<end>
 
 =>q58
-::Il te regarde, il donne une aura d'impatience.::<end>
+::Il te regarde, impatient.::<end>
 
 =>a59_original
 I already read it.<end>
@@ -392,115 +392,115 @@ Je l'ai déjà lu.<end>
 *Both* sides?<end>
 
 =>q60
-Les deux côtés ?<end>
+Les *deux* faces ?<end>
 
 =>a61_original
 Hold up... ::Check the leaflet.::<end>
 
 =>a61
-Attendez... ::Vérifiez la notice.::<end>
+Attends... ::Consulter le tract.::<end>
 
 =>q62_original
 Would you hurry up? The race is about to start.<end>
 
 =>q62
-Dépêchez-vous. La course va commencer.<end>
+Tu peux te dépêcher ? La course va commencer.<end>
 
 =>q63_original
 Dammit, cantcha see I'm in over my head with these people?<end>
 
 =>q63
-Cantcha voit que je suis au-dessus de ma tête avec ces gens ?<end>
+Putain, tu vois pas que je suis débordé avec tous ces gens ?<end>
 
 =>q64_original
 You: Go read the damn leaflet.<end>
 
 =>q64
-Allez lire ce fichu tract.<end>
+Toi : va lire ce putain de tract.<end>
 
 =>a65_original
 Thanks, I'll go do that.<end>
 
 =>a65
-Merci, je vais le faire.<end>
+Merci, j'y vais.<end>
 
 =>a66_original
 Alright, alright. ::Leave.::<end>
 
 =>a66
-Très bien. ::Partir.::<end>
+Bon, bon. ::Partir.::<end>
 
 =>a67_original
 N-nooo.<end>
 
 =>a67
-C'est pas vrai.<end>
+N-nooon.<end>
 
 =>a68_original
 Uhhhhh...<end>
 
 =>a68
-Oui.<end>
+Euhhhhh...<end>
 
 =>a69_original
 Can't you tell me the gist of it?<end>
 
 =>a69
-Tu ne peux pas me dire l'essentiel ?<end>
+Demander l'essentiel.<end>
 
 =>a70_original
 Actually, I need to think some more.<end>
 
 =>a70
-En fait, j'ai besoin de réfléchir.<end>
+Réfléchir encore un peu.<end>
 
 =>q71_original
 Then get <end>
 
 =>q71
-Alors <end>
+Alors dégage, <end>
 
 =>a72_original
 Ehm... Hi.<end>
 
 =>a72
-C'est... Bonjour.<end>
+Euh... Salut.<end>
 
 =>q73_original
 Ey, ey, ey - we ain't got all day, ya slackjaw.<end>
 
 =>q73
-On n'a pas toute la journée.<end>
+Hé, hé, hé - on n'a pas toute la journée, espèce d'abruti.<end>
 
 =>q74_original
 You wanna place your bet or you wanna continue wastin' everyone's time?<end>
 
 =>q74
-Tu veux faire ton pari ou continuer à passer du temps à tout le monde ?<end>
+Tu veux placer ton pari ou tu veux continuer à faire perdre du temps à tout le monde ?<end>
 
 =>a75_original
 I'd like a drink, please.<end>
 
 =>a75
-Je voudrais un verre, s'il vous plaît.<end>
+Je voudrais un verre.<end>
 
 =>q76_original
 A dr-- I'm the betmaker, not a bartender.<end>
 
 =>q76
-Je suis le parieur, pas le barman.<end>
+Un ve-- je suis le bookmaker, pas le barman.<end>
 
 =>q77_original
 Ey, get a load-a this slackjaw, ha-ha-ha-ha!<end>
 
 =>q77
-Ey, prends une charge-un ce sleakjaw, ha-ha-ha-ha !<end>
+Hé, vous l'avez vu, c't'abruti, ha-ha-ha-ha !<end>
 
 =>q78_original
 You wanna settle a bet or you wanna continue wastin' everyone's time?<end>
 
 =>q78
-Tu veux régler un pari ou tu veux continuer à perdre ton temps ?<end>
+Tu veux régler un pari ou tu veux continuer à faire perdre du temps à tout le monde ?<end>
 
 =>q79_original
 <end>
@@ -512,13 +512,13 @@ Tu veux régler un pari ou tu veux continuer à perdre ton temps ?<end>
 I'd like to settle a bet.<end>
 
 =>a80
-J'aimerais régler un pari.<end>
+Régler un pari.<end>
 
 =>q81_original
 Your wagerin' ticket.<end>
 
 =>q81
-Votre billet de pari.<end>
+Ton ticket de pari.<end>
 
 =>q82_original
 <end>
@@ -530,19 +530,19 @@ Votre billet de pari.<end>
 Here. ::Show him your wagering ticket.::<end>
 
 =>a83
-Ici. ::Montre-lui ton billet.::<end>
+Voilà. ::Lui montrer le ticket de pari.::<end>
 
 =>q84_original
 Moment. ::He scans the ticket.::<end>
 
 =>q84
-Moment. ::Il scanne le ticket.::<end>
+Un instant. ::Il scanne le ticket.::<end>
 
 =>q85_original
 Here's $(tempcontext.BetWinnings) charons.<end>
 
 =>q85
-Voici $(tempcontext.BetWinnings) charons.<end>
+Voilà $(tempcontext.BetWinnings) charons.<end>
 
 =>q86_original
 ::He throws the ticket somewhere behind the counter.::
@@ -550,21 +550,21 @@ Voici $(tempcontext.BetWinnings) charons.<end>
 *Next*!<end>
 
 =>q86
-::Il jette le billet quelque part derrière le comptoir.::
+::Il jette le ticket quelque part derrière le comptoir.::
 
-*Suivant*!<end>
+*Suivant* !<end>
 
 =>a87_original
 Hold up - I got more.<end>
 
 =>a87
-Attendez, j'en ai plus.<end>
+Attends - j'en ai d'autres.<end>
 
 =>q88_original
 ::He waits impatiently for the ticket.::<end>
 
 =>q88
-::Il attend avec impatience le billet.::<end>
+::Il attend le ticket, impatient.::<end>
 
 =>a89_original
 ::Leave.::<end>
@@ -582,7 +582,7 @@ Mon tour ! Faites place !<end>
 It's *my* turn, you wretched...!<end>
 
 =>q91
-C'est mon tour, misérable...<end>
+C'est *mon* tour, misérable... !<end>
 
 =>q92_original
 <end>
@@ -594,49 +594,49 @@ C'est mon tour, misérable...<end>
 Here. You won $(tempcontext.BetWinnings) charons. ::He hands you your earnings.::<end>
 
 =>q93
-Ici. Vous avez gagné $(tempcontext.BetWinnings) charons. ::Il vous donne vos gains.::<end>
+Tiens. T'as gagné $(tempcontext.BetWinnings) charons. ::Il te tend tes gains.::<end>
 
 =>q94_original
 ::An ugly mug peeks over your shoulder and grins.:: Ooooooh, that's a nice big bag o' coins ya earned there, $(#jack/sis).<end>
 
 =>q94
-::Un sale coup d'œil sur ton épaule et tes sourires.:: Ooooooh, c'est un beau gros sac o' pièces que vous avez gagné là, $(#gars/fille).<end>
+::Une sale gueule se penche par-dessus ton épaule et affiche un sourire.:: Ooooooh, c't'un beau gros sac de pièces que t'as ramassé là, $(#gars/sœurette).<end>
 
 =>a95_original
 Get lost, ratface.<end>
 
 =>a95
-Pousse-toi.<end>
+Dégage, gueule de rat.<end>
 
 =>q96_original
 'N' *you* getcha coins 'n' get movin'.<end>
 
 =>q96
-Tu as des pièces de monnaie et tu t'en vas.<end>
+Et *toi*, tu prends tes pièces et tu dégages.<end>
 
 =>a97_original
 You continue looking over my shoulder and I'll dislocate both of yours.<end>
 
 =>a97
-Tu continues à regarder par-dessus mon épaule et je te disloquerai les deux.<end>
+Tu continues à mater par-dessus mon épaule et je te disloque les deux.<end>
 
 =>q98_original
 He-hey, hold yer hoppers, $(#jackie/sissy). Didn't mean nothin' by it.<end>
 
 =>q98
-Hé, tiens les sauteurs, $(#jackie/sissy). Ça ne voulait rien dire.<end>
+Hé, hé, retiens tes sauteurs, $(#gars/sœurette). Je voulais rien dire.<end>
 
 =>a99_original
 ::Collect your winnings in silence.::<end>
 
 =>a99
-::Recueillez vos gains en silence.::<end>
+::Récupérer les gains en silence.::<end>
 
 =>a100_original
 Stare at this! ::Attack!::<end>
 
 =>a100
-Regarde ça ! ::Attaque!::<end>
+Mate ça ! ::Attaquer !::<end>
 
 =>q101_original
 ::And then shakes his head.::
@@ -646,67 +646,67 @@ No. No payout for this one.<end>
 =>q101
 ::Puis il secoue la tête.::
 
-C'est pas vrai. Pas de paiement pour celui-ci.<end>
+Non. Pas de gains pour celui-là.<end>
 
 =>a102_original
 Hold up. How about this one...<end>
 
 =>a102
-Attendez. Et celui-là...<end>
+Attends. Et celui-là...<end>
 
 =>a103_original
 It's gotta be worth something.<end>
 
 =>a103
-Ça doit valoir quelque chose.<end>
+Ça doit bien valoir quelque chose.<end>
 
 =>q104_original
 Hey, no winning ticket - no payout.<end>
 
 =>q104
-Pas de billet gagnant, pas de paiement.<end>
+Hé, pas de ticket gagnant, pas de gains.<end>
 
 =>a105_original
 I'm getting a payout no matter what. Open that safe! ::Attack!::<end>
 
 =>a105
-Je reçois un paiement, quoi qu'il arrive. Ouvrez ce coffre ! ::Attaque!::<end>
+Je veux mes gains, un point c'est tout. Ouvre ce coffre ! ::Attaquer !::<end>
 
 =>a106_original
 Here. ::Give him a wagering ticket.::<end>
 
 =>a106
-Ici. ::Donnez-lui un billet de pari.::<end>
+Voilà. ::Lui tendre un ticket de pari.::<end>
 
 =>a107_original
 Here. ::Give him a wagering ticket.::<end>
 
 =>a107
-Ici. ::Donnez-lui un billet de pari.::<end>
+Voilà. ::Lui tendre un ticket de pari.::<end>
 
 =>a108_original
 Here. ::Give him a wagering ticket.::<end>
 
 =>a108
-Ici. ::Donnez-lui un billet de pari.::<end>
+Voilà. ::Lui tendre un ticket de pari.::<end>
 
 =>a109_original
 Here. ::Give him a wagering ticket.::<end>
 
 =>a109
-Ici. ::Donnez-lui un billet de pari.::<end>
+Voilà. ::Lui tendre un ticket de pari.::<end>
 
 =>a110_original
 Here. ::Give him a wagering ticket.::<end>
 
 =>a110
-Ici. ::Donnez-lui un billet de pari.::<end>
+Voilà. ::Lui tendre un ticket de pari.::<end>
 
 =>a111_original
 I need a ticket? What a load of derailed crap!<end>
 
 =>a111
-J'ai besoin d'un billet ? Quelle charge de merde déraillée !<end>
+Il me faut un ticket ? Quelle merde déraillée !<end>
 
 =>q112_original
 ::He sighs.:: Can't do nothin' without a wagerin' ticket.
@@ -714,9 +714,9 @@ J'ai besoin d'un billet ? Quelle charge de merde déraillée !<end>
 *Next*!<end>
 
 =>q112
-::Il soupire.:: On ne peut rien faire sans un billet.
+::Il soupire.:: On peut rien faire sans ticket de pari.
 
-*Suivant*!<end>
+*Suivant* !<end>
 
 =>a113_original
 I don't have one.<end>
@@ -740,13 +740,13 @@ Non.<end>
 Ey, ey - make way!<end>
 
 =>q116
-Faites place !<end>
+Hé, hé - faites place !<end>
 
 =>q117_original
 You here for a refund or to waste everyone's time?<end>
 
 =>q117
-Tu es ici pour un remboursement ou pour perdre du temps à tout le monde ?<end>
+T'es là pour un remboursement ou pour faire perdre du temps à tout le monde ?<end>
 
 =>q118_original
 <end>
@@ -758,7 +758,7 @@ Tu es ici pour un remboursement ou pour perdre du temps à tout le monde ?<end>
 I want a refund.<end>
 
 =>a119
-Je veux un remboursement.<end>
+Demander un remboursement.<end>
 
 =>a120_original
 Not me.<end>
@@ -770,7 +770,7 @@ Pas moi.<end>
 Never mind.<end>
 
 =>a121
-Pas grave.<end>
+Laisser tomber.<end>
 
 =>q122_original
 ::turning to you.::
@@ -778,9 +778,9 @@ Pas grave.<end>
 You next?<end>
 
 =>q122
-::Je me tourne vers toi.::
+::se tournant vers toi.::
 
-Tu es le suivant ?<end>
+C'est toi, ensuite ?<end>
 
 =>q123_original
 ::handing out a refund to a person near you.::
@@ -788,15 +788,15 @@ Tu es le suivant ?<end>
 Okay, who's next?<end>
 
 =>q123
-::remettre un remboursement à une personne près de chez vous.::
+::en tendant un remboursement à quelqu'un près de toi.::
 
-Qui est le suivant ?<end>
+Bon, c'est qui, ensuite ?<end>
 
 =>q124_original
 *Next*!<end>
 
 =>q124
-*Suivant*!<end>
+*Suivant* !<end>
 
 =>q125_original
 <end>
@@ -820,5 +820,5 @@ Qui est le suivant ?<end>
 ::Puts a cold root soda on the back of his neck.:: Go watch the race... or whatever.<end>
 
 =>q128
-::Il met un soda à la racine froide sur le cou.:: Va regarder la course.<end>
+::Il se plaque un Root Soda glacé dans le cou.:: Va voir la course... ou ce que tu veux.<end>
 
