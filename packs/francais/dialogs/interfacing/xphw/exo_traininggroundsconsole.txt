@@ -10,15 +10,15 @@
 Standing by for clean up...::<end>
 
 =>q2
-::La séance de formation est terminée !
+::Séance d'entraînement terminée !
 
-Je suis prêt pour le nettoyage...::<end>
+En attente du nettoyage...::<end>
 
 =>a3_original
 ::Exit::<end>
 
 =>a3
-::Sortie::<end>
+::Quitter::<end>
 
 =>q4_original
 ::Please configure the next training session
@@ -26,151 +26,150 @@ Je suis prêt pour le nettoyage...::<end>
 You may choose up to two options: ::<end>
 
 =>q4
-::Veuillez configurer la prochaine session de formation
+::Veuillez configurer la séance d'entraînement suivante
 
-Vous pouvez choisir jusqu'à deux options :::<end>
+Vous pouvez choisir jusqu'à deux options : ::<end>
 
 =>a5_original
 ::[Debug] Deploy exosoldiers test: ::<end>
 
 =>a5
-::Essai de déploiement d'exosoldiers :::<end>
+::[Debug] Test de déploiement d'exosoldats : ::<end>
 
 =>q6_original
 ::Select option: ::<end>
 
 =>q6
-::Sélectionnez l'option & #160;:::<end>
+::Choisir l'option : ::<end>
 
 =>a7_original
 ::Set/Reset starting flags::<end>
 
 =>a7
-::Définir/réinitialiser les drapeaux de démarrage::<end>
+::Set/Reset des flags de départ::<end>
 
 =>a8_original
 ::Deploy regular squad::<end>
 
 =>a8
-::Déployer l'équipe régulière::<end>
+::Déployer une escouade standard::<end>
 
 =>a9_original
 ::Deploy psychophract squad::<end>
 
 =>a9
-::Déployer l'équipe de psychophract::<end>
+::Déployer une escouade Psychophract::<end>
 
 =>a10_original
 ::Deploy regular squad without an intercessor::<end>
 
 =>a10
-::Déployer l'équipe régulière sans intercesseur::<end>
+::Déployer une escouade standard sans Intercessor::<end>
 
 =>a11_original
 ::Deploy regular squad without bots::<end>
 
 =>a11
-::Déployer l'équipe régulière sans robots::<end>
+::Déployer une escouade standard sans robots::<end>
 
 =>a12_original
 ::Deploy regular squad with more bots::<end>
 
 =>a12
-::Déployer l'équipe régulière avec plus de robots::<end>
+::Déployer une escouade standard avec plus de robots::<end>
 
 =>a13_original
 ::Deploy regular squad without medics::<end>
 
 =>a13
-::Déployer l'équipe régulière sans médecins::<end>
+::Déployer une escouade standard sans médecins::<end>
 
 =>a14_original
 ::Deploy regular squad with more medics::<end>
 
 =>a14
-::Déployer l'équipe régulière avec plus de médecins::<end>
+::Déployer une escouade standard avec plus de médecins::<end>
 
 =>a15_original
 ::Deploy tougher squad::<end>
 
 =>a15
-::Déployer une équipe plus forte::<end>
+::Déployer une escouade renforcée::<end>
 
 =>a16_original
 ::Remove and store squad::<end>
 
 =>a16
-::Enlever et stocker l'équipe::<end>
+::Retirer et ranger l'escouade::<end>
 
 =>a17_original
 ::Prime northern auto-obstacle group::<end>
 
 =>a17
-::Premier groupe d'auto-obstacle nord::<end>
+::Amorcer le groupe d'auto-obstacles nord::<end>
 
 =>q18_original
 ::Northern auto-obstacles primed::<end>
 
 =>q18
-::Auto-obstacles du Nord::<end>
+::Auto-obstacles nord amorcés::<end>
 
 =>a19_original
 ::Prime southern auto-obstacle group::<end>
 
 =>a19
-::Premier groupe auto-obstacle sud::<end>
+::Amorcer le groupe d'auto-obstacles sud::<end>
 
 =>q20_original
 ::Southern auto-obstacles primed::<end>
 
 =>q20
-::Auto-obstacles du Sud::<end>
+::Auto-obstacles sud amorcés::<end>
 
 =>a21_original
 ::Prime eastern auto-obstacle group::<end>
 
 =>a21
-::Premier groupe auto-obstacle est::<end>
+::Amorcer le groupe d'auto-obstacles est::<end>
 
 =>q22_original
 ::Eastern auto-obstacles primed::<end>
 
 =>q22
-::Obstacles auto-orientaux::<end>
+::Auto-obstacles est amorcés::<end>
 
 =>a23_original
 ::Prime western auto-obstacle group::<end>
 
 =>a23
-::Premier groupe d'auto-obstacle occidental::<end>
+::Amorcer le groupe d'auto-obstacles ouest::<end>
 
 =>q24_original
 ::Western auto-obstacles primed::<end>
 
 =>q24
-::Auto-obstacles occidentaux::<end>
+::Auto-obstacles ouest amorcés::<end>
 
 =>a25_original
 ::*Prime all auto-obstacle groups*::<end>
 
 =>a25
-::*Prime tous les groupes d'obstacle automatique*::<end>
+::*Amorcer tous les groupes d'auto-obstacles*::<end>
 
 =>q26_original
 ::All auto-obstacles primed.::<end>
 
 =>q26
-::Tous les obstacles auto ont commencé.::<end>
+::Tous les auto-obstacles sont amorcés.::<end>
 
 =>q27_original
 ::Setup completed. Ready to start a new session.::<end>
 
 =>q27
-::Installation terminée. Prêt à commencer une nouvelle session.::<end>
+::Configuration terminée. Prêt pour une nouvelle séance.::<end>
 
 =>a28_original
 ::Start training session::<end>
 
 =>a28
-::Début de la session de formation::<end>
-
+::Lancer la séance d'entraînement::<end>

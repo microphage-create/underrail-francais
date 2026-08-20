@@ -10,15 +10,15 @@ Firmware version: 1.44
 Battery: 99% (Charging)::<end>
 
 =>q2
-::BCE-3JK-4 - Électronique de base Biocorp
-Version firmware: 1.44
-Batterie : 99% (chargement)::<end>
+::BCE-3JK-4 - Biocorp Core Electronics
+Version firmware : 1.44
+Batterie : 99% (en charge)::<end>
 
 =>a3_original
 ::Operate Storage Warehouse gates::<end>
 
 =>a3
-::Opérations de stockage Portes d'entrepôt::<end>
+::Actionner les portes de l'entrepôt::<end>
 
 =>q4_original
 ::Warning!
@@ -26,9 +26,9 @@ Batterie : 99% (chargement)::<end>
 Errors detected. Opening all remaining functional gates. Consult the available maintenance officials for further instructions.::<end>
 
 =>q4
-::Avertissement !
+::Attention !
 
-Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Consultez les agents d'entretien disponibles pour obtenir des instructions supplémentaires.::<end>
+Erreurs détectées. Ouverture de toutes les portes encore fonctionnelles. Consulter le personnel de maintenance disponible.::<end>
 
 =>a5_original
 ::Back::<end>
@@ -40,25 +40,25 @@ Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Co
 ::Leave::<end>
 
 =>a6
-::Partir::<end>
+::Quitter::<end>
 
 =>a7_original
 ::Logs::<end>
 
 =>a7
-::Registres::<end>
+::Journaux::<end>
 
 =>q8_original
 ::Please insert the search term into the designated field.::<end>
 
 =>q8
-::Veuillez insérer le terme de recherche dans le champ désigné.::<end>
+::Saisir le terme de recherche dans le champ prévu.::<end>
 
 =>a9_original
 ::Search for Biocorp::<end>
 
 =>a9
-::Recherche de Biocorp::<end>
+::Rechercher Biocorp::<end>
 
 =>q10_original
 ::Displaying most relevant search results for inserted term: ::
@@ -66,9 +66,9 @@ Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Co
 ::$(context.interfacing_xpbl_ojyc3_consoleLog)::<end>
 
 =>q10
-::Afficher les résultats de recherche les plus pertinents pour le terme inséré:::
+::Résultats les plus pertinents pour le terme saisi : ::
 
-::$(context.interface xpbl ojyc3 consoleLog)::<end>
+::$(context.interfacing_xpbl_ojyc3_consoleLog)::<end>
 
 =>a11_original
 ::Back::<end>
@@ -80,19 +80,19 @@ Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Co
 ::Leave::<end>
 
 =>a12
-::Partir::<end>
+::Quitter::<end>
 
 =>a13_original
 ::Search for Junkyard::<end>
 
 =>a13
-::Recherche de pourriel::<end>
+::Rechercher Junkyard::<end>
 
 =>a14_original
 ::Search for Navy::<end>
 
 =>a14
-::Rechercher la marine::<end>
+::Rechercher Navy::<end>
 
 =>a15_original
 ::Search for Mutagen::<end>
@@ -104,7 +104,7 @@ Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Co
 ::Search for Hollow Earth::<end>
 
 =>a16
-::Rechercher la Terre Hollow::<end>
+::Rechercher Hollow Earth::<end>
 
 =>a17_original
 ::Search for Armory::<end>
@@ -122,13 +122,13 @@ Erreurs détectées. Ouverture de toutes les portes fonctionnelles restantes. Co
 ::Search for Industries::<end>
 
 =>a19
-::Rechercher des industries::<end>
+::Rechercher Industries::<end>
 
 =>a20_original
 ::Search for Technocrats::<end>
 
 =>a20
-::Rechercher des technocrates::<end>
+::Rechercher Technocrats::<end>
 
 =>a21_original
 ::[Intelligence] Search for Exoskeleton::<end>
@@ -160,7 +160,7 @@ Erreur !::<end>
 ::Testing chamber instruction manual::<end>
 
 =>a24
-::Manuel d ' instruction de la chambre d ' essai::<end>
+::Manuel de la chambre d'essais::<end>
 
 =>q25_original
 ::The following codes are used for operating the security systems over at the Testing Section. Depending on the type of hazard which has occurred, a specific code must be inserted in order to regain system functions.::
@@ -175,16 +175,16 @@ EH-F2 : Hazard type: Fire - level 2
 EH-E1 : Hazard type: Earthquake - level 1::<end>
 
 =>q25
-::Les codes suivants sont utilisés pour l'exploitation des systèmes de sécurité à la Section des essais. Selon le type de danger qui s'est produit, un code spécifique doit être inséré pour retrouver les fonctions du système.::
+::Les codes suivants servent à piloter les systèmes de sécurité de la section d'essais. Selon le type d'incident, il faut entrer le code correspondant pour rétablir le système.::
 
 ::...
-EH-A1 : Type de danger : acide - niveau 1
-EH-A2 : Type de danger : acide - niveau 2
+EH-A1 : type d'incident : acide - niveau 1
+EH-A2 : type d'incident : acide - niveau 2
 ...
-EH-F1 : Type de danger : Feu - niveau 1
-EH-F2 : Type de danger : Feu - niveau 2
+EH-F1 : type d'incident : incendie - niveau 1
+EH-F2 : type d'incident : incendie - niveau 2
 ...
-EH-E1 : Type de danger : tremblement de terre - niveau 1::<end>
+EH-E1 : type d'incident : séisme - niveau 1::<end>
 
 =>a26_original
 ::Back::<end>
@@ -196,19 +196,19 @@ EH-E1 : Type de danger : tremblement de terre - niveau 1::<end>
 ::Logs::<end>
 
 =>a27
-::Registres::<end>
+::Journaux::<end>
 
 =>q28_original
 ::Please insert the search term into the designated field.::<end>
 
 =>q28
-::Veuillez insérer le terme de recherche dans le champ désigné.::<end>
+::Saisir le terme de recherche dans le champ prévu.::<end>
 
 =>a29_original
 ::Search for Biocorp::<end>
 
 =>a29
-::Recherche de Biocorp::<end>
+::Rechercher Biocorp::<end>
 
 =>q30_original
 ::Displaying most relevant search results for inserted term: 
@@ -216,9 +216,9 @@ EH-E1 : Type de danger : tremblement de terre - niveau 1::<end>
 $(context.interfacing_xpbl_ojyc3_consoleLog)::<end>
 
 =>q30
-::Afficher les résultats de recherche les plus pertinents pour le terme inséré:
+::Résultats les plus pertinents pour le terme saisi : 
 
-$(context.interface xpbl ojyc3 consoleLog)::<end>
+$(context.interfacing_xpbl_ojyc3_consoleLog)::<end>
 
 =>a31_original
 ::Back::<end>
@@ -230,19 +230,19 @@ $(context.interface xpbl ojyc3 consoleLog)::<end>
 ::Leave::<end>
 
 =>a32
-::Partir::<end>
+::Quitter::<end>
 
 =>a33_original
 ::Search for Junkyard::<end>
 
 =>a33
-::Recherche de pourriel::<end>
+::Rechercher Junkyard::<end>
 
 =>a34_original
 ::Search for Navy::<end>
 
 =>a34
-::Rechercher la marine::<end>
+::Rechercher Navy::<end>
 
 =>a35_original
 ::Search for Mutagen::<end>
@@ -254,7 +254,7 @@ $(context.interface xpbl ojyc3 consoleLog)::<end>
 ::Search for Hollow Earth::<end>
 
 =>a36
-::Rechercher la Terre Hollow::<end>
+::Rechercher Hollow Earth::<end>
 
 =>a37_original
 ::Search for Armory::<end>
@@ -272,13 +272,13 @@ $(context.interface xpbl ojyc3 consoleLog)::<end>
 ::Search for Industries::<end>
 
 =>a39
-::Rechercher des industries::<end>
+::Rechercher Industries::<end>
 
 =>a40_original
 ::Search for Technocrats::<end>
 
 =>a40
-::Rechercher des technocrates::<end>
+::Rechercher Technocrats::<end>
 
 =>a41_original
 ::[Intelligence] Search for Exoskeleton::<end>

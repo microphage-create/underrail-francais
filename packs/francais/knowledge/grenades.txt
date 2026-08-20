@@ -1,8 +1,8 @@
 ::Flashbang
-Incapacite tous ceux pris dans le souffle pendant {0}, sauf s'ils résistent à l'effet. Les cibles incapacitées perdent aussi immédiatement le contact visuel avec toi, ce qui permet de se cacher facilement.
+Incapacite tous ceux pris dans le souffle pendant {0}, sauf s'ils résistent à l'effet. Les cibles incapacitées perdent aussi le contact visuel tout de suite : facile de se cacher.
 
 ::Flashbang-Old
-Incapacite tous ceux pris dans le souffle pendant {0} secondes, sauf s'ils résistent à l'effet. Les cibles incapacitées perdent aussi immédiatement le contact visuel avec toi, ce qui permet de se cacher facilement.
+Incapacite tous ceux pris dans le souffle pendant {0} secondes, sauf s'ils résistent à l'effet. Les cibles incapacitées perdent aussi le contact visuel tout de suite : facile de se cacher.
 
 ::Stingball
 Inflige {0} de dégâts à tous ceux pris dans le souffle et étourdit les cibles vivantes pendant {1} si elles ne résistent pas aux dégâts.
@@ -11,7 +11,7 @@ Inflige {0} de dégâts à tous ceux pris dans le souffle et étourdit les cible
 Tous ceux pris dans le souffle subissent {0} de dégâts, plus les dégâts de {1}-{2} éclats, chaque éclat infligeant {3} de dégâts. Plus on est près de la détonation, plus la chance de prendre des éclats est élevée.
 
 ::NailBomb
-Tous ceux pris dans le souffle sont touchés par {0}-{1} clous, chacun infligeant {2} de dégâts avec {3} % de chance de provoquer une plaie saignante qui inflige {4} % de dégâts supplémentaires sur {5}. Chaque plaie saignante a aussi {6} % de chance de s'infecter, augmentant les dégâts subis de toutes sources de {7} % et réduisant les soins de {8} % pour la même durée (stacks {9} fois).
+Tous ceux pris dans le souffle sont touchés par {0}-{1} clous, chacun {2} dégâts avec {3}% de chances de plaie saignante ({4}% dégâts encore sur {5}). Chaque plaie saignante a aussi {6}% de chances de s'infecter : +{7}% dégâts subis de toutes sources, -{8}% soins, même durée. Stack {9} fois.
 
 ::HE
 Tous ceux pris dans le souffle subissent {0} de dégâts et {1} de dégâts. Ignore {2} % de la résistance et du seuil de dégâts.
@@ -23,7 +23,7 @@ Tous ceux pris dans le souffle subissent {0} de dégâts et {1} de dégâts.
 Tous les automates pris dans le souffle subissent {0} de dégâts (ignore résistances et boucliers) et sont étourdis pendant {1} tours. Toutes les cibles voient aussi leur équipement électronique vidé de toute son énergie et subissent des dégâts électriques égaux à {2} % de l'énergie drainée.
 
 ::Molotov
-Tous ceux pris dans le souffle subissent {0} de dégâts et ont {1} % de chance de prendre feu, subissant {2} % des dégâts d'origine en plus sur {3}. Le carburant enflamme le sol. Les créatures dans le feu subissent des dégâts de chaleur égaux à {4} %-{5} % de leurs PV max (plafonnés à {6}-{7}), plus {8}-{9} supplémentaires selon l'intensité du feu à cet endroit ; celles qui traversent le feu subissent un tiers de ces dégâts par case.
+Tous ceux pris dans le souffle subissent {0} de dégâts et ont {1} % de chances de prendre feu, subissant {2} % des dégâts d'origine en plus sur {3}. Le carburant enflamme le sol. Les créatures dans le feu subissent des dégâts de chaleur égaux à {4} %-{5} % de leurs PV max (plafonnés à {6}-{7}), plus {8}-{9} supplémentaires selon l'intensité du feu à cet endroit ; celles qui traversent le feu subissent un tiers de ces dégâts par case.
 
 ::ToxicGas
 Lance une grenade à gaz au sol. Elle reste {0} et libère un gaz toxique qui inflige {1} de dégâts par tour (selon la concentration) à quiconque s'y trouve, et un tiers de ces dégâts à ceux qui le traversent. Les créatures vivantes exposées deviennent contaminées et peuvent subir jusqu'à {2} % de dégâts en plus de toutes sources.
@@ -34,7 +34,7 @@ Lance une grenade à gaz au sol. Elle reste {0} et libère un gaz toxique qui in
 ::Cryogas
 Lance une grenade à gaz au sol. Elle reste {0} et libère un gaz cryogénique qui inflige {1} de dégâts par tour (selon la concentration) à quiconque s'y trouve, et applique Chill : -{2} PM pendant {3}. Stack jusqu'à {4} fois.
 
-Cause aussi une hypothermie qui réduit Constitution de {5}. Cet effet stack jusqu'à {6} fois et dure jusqu'à {7}. Une fois l'hypothermie au max de stacks, la cible peut geler pendant {8}.
+Cause aussi une hypothermie : -{5} Constitution. Stack jusqu'à {6} fois, jusqu'à {7}. Au max de stacks, la cible peut geler pendant {8}.
 
 ::HerbicideGas
 Lance une grenade à gaz au sol. Elle reste {0} et libère un gaz herbicide toxique qui inflige {1} de dégâts par tour (selon la concentration) à quiconque s'y trouve, et un tiers de ces dégâts à ceux qui le traversent. Inflige {2} % de dégâts aux insectoïdes et ignore leur résistance au poison.

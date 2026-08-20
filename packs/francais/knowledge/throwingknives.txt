@@ -1,8 +1,8 @@
 ::Regular
-Lance le couteau : {0} dégâts si ça touche. Ces dégâts n'appliquent que {2} % de la résistance et du seuil mécaniques de la cible, mais ce qui passe l'armure est augmenté de {3} % contre les cibles vivantes. Dégâts et précision suivent Throwing. En mêlée d'un ennemi : malus de {1} % aux chances de toucher.
+Lance le couteau : {0} dégâts si ça touche. Ces dégâts ne subissent que {2} % de la résistance et du seuil mécaniques de la cible, mais ce qui passe l'armure est augmenté de {3} % contre les cibles vivantes. Dégâts et précision suivent Throwing. En mêlée d'un ennemi : malus de {1} % aux chances de toucher.
 
 ::BurrowerPoison
-Si la cible subit des dégâts, elle est aussi affligée du poison de fouisseur : {0} dégâts chaque tour, jusqu'à {1}. Stack {2} fois.
+Si la cible subit des dégâts, elle est aussi affligée du poison de burrower : {0} dégâts chaque tour, jusqu'à {1}. Stack {2} fois.
 
 ::CaveEarPoison
 Si la cible subit des dégâts, elle est aussi affligée du poison d'oreille des caves : +{0} % dégâts biologiques subis, -{1} Perception. Jusqu'à {2}.
@@ -26,4 +26,4 @@ Si la cible subit des dégâts, elle est aussi affligée du poison de lépreux :
 Si la cible subit des dégâts, elle est aussi affligée du poison Heartbreak : {0} dégâts chaque tour jusqu'à {1}. Stack {2} fois. S'il expire naturellement, il inflige ensuite une grosse salve de dégâts qui croît très vite avec chaque stack.
 
 ::ShockShuriken
-Lance le shuriken : {0} dégâts (n'applique que {3} % de la résistance et du seuil mécaniques de la cible) et {1} dégâts si ça touche. Si des dégâts électriques passent, {4} % de chances d'étourdir ou de court-circuiter la cible pendant un tour. En mêlée d'un ennemi : malus de {2} % aux chances de toucher.
+Lance le shuriken : {0} dégâts (ne subit que {3} % de la résistance et du seuil mécaniques de la cible) et {1} dégâts si ça touche. Si des dégâts électriques passent, {4} % de chances d'étourdir ou de court-circuiter la cible pendant un tour. En mêlée d'un ennemi : malus de {2} % aux chances de toucher.

@@ -1,24 +1,24 @@
 ::Cryokinesis
-Matérialise un éclat de glace et le projette sur la cible : {0}-{1} froid et {2}-{3} mécanique, debuff Froid (-{4} PM pendant {5} tours). Stack {6} fois.
+Matérialise un éclat de glace et le projette sur la cible : {0}-{1} froid et {2}-{3} mécanique, applique Chill (-{4} PM pendant {5} tours). Stack {6} fois.
 
 ::Cryokinesis-RT
-Matérialise un éclat de glace et le projette sur la cible : {0}-{1} froid et {2}-{3} mécanique, debuff Froid (-10% vitesse pendant {4} s). Stack {5} fois.
+Matérialise un éclat de glace et le projette sur la cible : {0}-{1} froid et {2}-{3} mécanique, applique Chill (-10% vitesse pendant {4} s). Stack {5} fois.
 
 ::Cryostasis
-Suspend la cible en cryostase pendant {0} tours + 1 tour par effet Froid actuel. Tout dégât annule la cryostase.
+Suspend la cible en cryostase pendant {0} tours + 1 tour par effet Chill actuel. Tout dégât annule la cryostase.
 
 L'effet peut être réduit ou mitigué par la résistance au froid.
 
 ::Cryostasis-RT
-Suspend la cible en cryostase pendant {0} s + {1} s par effet Froid actuel. Tout dégât annule la cryostase.
+Suspend la cible en cryostase pendant {0} s + {1} s par effet Chill actuel. Tout dégât annule la cryostase.
 
 L'effet peut être réduit ou mitigué par la résistance au froid.
 
 ::TelekineticPunch
-Force télékinétique frappe la cible : {0}-{1} dégâts mécaniques et étourdissement pendant {2} sauf jet de vigueur réussi. Étourdissement sur organiques uniquement.
+Une force télékinétique frappe la cible : {0}-{1} dégâts mécaniques et étourdissement pendant {2}, sauf jet de vigueur réussi. Organiques uniquement.
 
 ::TelekineticPunch-RT
-Force télékinétique frappe la cible : {0}-{1} dégâts mécaniques et étourdissement pendant {2} s sauf jet de sang-froid réussi. Étourdissement sur organiques uniquement.
+Une force télékinétique frappe la cible : {0}-{1} dégâts mécaniques et étourdissement pendant {2} s, sauf jet de sang-froid réussi. Organiques uniquement.
 
 ::Pyrokinesis
 Crée une boule de gaz surchauffé et la projette sur la zone. Tous ceux pris dans le souffle subissent {0}-{1} dégâts de chaleur.
@@ -29,10 +29,10 @@ Crée une boule de gaz surchauffé et la projette sur la zone. Tous ceux pris da
 ::NeuralOverload
 Court-circuite le système nerveux central d'une cible vivante : {0}-{1} dégâts électriques. +{2}% dégâts par point d'Intelligence de la cible au-dessus de {3}.
 
-Dégâts non bouclierables, contournent la résistance électrique standard, mais réduits par le sang-froid de la cible.
+Ces dégâts ignorent le bouclier et la résistance électrique standard, mais le sang-froid de la cible les réduit.
 
 ::NeuralOverloadIntimidation
-Intimide aussi la cible : -{0} skills offensifs pendant {1}.
+Intimide aussi la cible : -{0} aux compétences offensives pendant {1}.
 
 ::NeuralOverloadCerebralAcidization
 Inflige encore {0}% des dégâts d'origine sur {1} en acide irrésistible.
@@ -72,7 +72,7 @@ Crée un doppelgänger d'une cible humaine décidé à la détruire. Immunisé a
 ::TelekineticProxy
 Déplace le proxy télékinétique de sa position actuelle vers la zone désignée : {0} dégâts à tout sur le chemin. Si le proxy est absent, trop loin ou sans ligne droite libre, un nouveau est invoqué.
 
-Le proxy mime tes pouvoirs télékinétiques offensifs et effets si la cible est dans son rayon. Dure {1}, timer refresh à chaque déplacement ou mime.
+Le proxy recopie tes pouvoirs télékinétiques offensifs si la cible est dans son rayon. Dure {1} ; la durée se relance à chaque déplacement ou copie.
 
 ::ThermodynamicDestabilization
 Afflige la cible d'une déstabilisation thermodynamique pendant {0}. Si elle est détruite pendant ce temps, elle explose : chaleur et mécanique environnantes égales (au total) à {1}% des PV de la cible au moment de l'application.
@@ -84,7 +84,7 @@ Pour chaque cible prise dans l'explosion : {0}% de chances de s'enflammer ({1}% 
 Enrage une cible vivante jusqu'à {0} : elle devient hostile envers tout.
 
 ::PsiCognitiveInterruption
-Brûle {0}-{1} points psi de la cible, dégâts égaux à {2}% du psi brûlé. Non bouclierable, contourne la résistance standard, réduit par le sang-froid de la cible.
+Brûle {0}-{1} points psi de la cible, dégâts égaux à {2}% du psi brûlé. Ces dégâts ignorent le bouclier et la résistance standard, mais le sang-froid de la cible les réduit.
 
 Applique aussi une inhibition psionique jusqu'à {3} : pas d'invocation psi ni de regen psi.
 
@@ -99,7 +99,7 @@ Tu disparais de la vue de la cible : elle ne peut plus détecter pendant {0}, tu
 Invoquer vide immédiatement tous les PA et PM restants. Inactif sur machines et créatures à vision vraie. Combat uniquement.
 
 ::ElectrokineticImprint
-Génère une empreinte électrokinétique sur la zone : {0} dégâts au premier personnage qui marche dessus + étourdissement pendant {1}. Sur un piège, elle retourne. Une seule empreinte active à la fois.
+Génère une empreinte électrokinétique sur la zone : {0} dégâts au premier personnage qui marche dessus + étourdissement pendant {1}. Posée sur un piège, elle te revient dans la figure. Une seule empreinte active à la fois.
 
 ::Implosion
 Dégâts mécaniques égaux à {0}% des PV actuels de la cible. Contourne seuils et boucliers, ne peut pas crit.
@@ -108,9 +108,9 @@ Dégâts mécaniques égaux à {0}% des PV actuels de la cible. Contourne seuils
 Crée un champ disruptif autour de la cible : -{0}% chance de toucher à distance et au lancer pendant {1}.
 
 ::CryokineticOrb
-Tu lances un gros orbe gelé qui se brise à l'impact et envoie des éclats de glace dans toutes les directions. Chaque éclat : {0} et {1} dégâts + Froid.
+Tu lances un gros orbe gelé qui se brise à l'impact et envoie des éclats de glace dans toutes les directions. Chaque éclat : {0} et {1} dégâts + Chill.
 
-Cibles gelées : -{2} PM pendant {3}. Stack {4} fois.
+Cibles sous Chill : -{2} PM pendant {3}. Stack {4} fois.
 
 Les cibles proches du point d'impact peuvent prendre plusieurs éclats ; les lointaines peuvent n'en prendre aucun.
 
@@ -119,7 +119,7 @@ Chaque éclat : {5}% de chances de plaie saignante ({6}% des dégâts mécanique
 ::ExothermicAura
 Immunité à la chaleur et flammes autour de toi et dans ton sillage. Dure {0} ; pas de flammes le dernier tour.
 
-Créatures dans le feu : dégâts de chaleur égaux à {1}%-{2}% de leurs PV max (plafond {3}-{4}) + {5}-{6} selon l'intensité au spot. Créatures qui traversent le feu : un tiers de ces dégâts par case.
+Créatures dans le feu : dégâts de chaleur égaux à {1}%-{2}% de leurs PV max (plafond {3}-{4}) + {5}-{6} selon l'intensité à cet endroit. Créatures qui traversent le feu : un tiers de ces dégâts par case.
 
 ::CryoShield
 Crée {0} éclats gelés autour de l'invoqueur. À chaque attaque de mêlée reçue : {1}% de chances qu'un éclat bloque {2} de dégâts mécaniques et soit détruit. Dure {3} ou jusqu'à épuisement des éclats.
@@ -155,7 +155,7 @@ Place la cible en stase pendant {0} : immunisée à tous les dégâts et à la p
 Relie jusqu'à {0} ennemis en chaîne psychokinétique qui transfère {1}% de tous les dégâts mécaniques et électriques directs au maillon suivant en dégâts mécaniques (contourne boucliers énergie). Max total transféré de maillon à maillon : {2}. Dure {3} ou jusqu'à rupture.
 
 ::TelekineticGrounding
-Immobilise la cible jusqu'à {0}. Irrésistible, mais la victime a une chance de se libérer en fin de chaque tour. La chance part bas et monte à mesure que les chaînes télékinétiques s'affaiblissent. Plus ta Strength est haute, plus c'est facile de se libérer.
+Immobilise la cible jusqu'à {0}. Irrésistible, mais la victime a une chance de se libérer en fin de chaque tour. La chance part bas et monte à mesure que les chaînes télékinétiques s'affaiblissent. Plus la Strength de la cible est haute, plus c'est facile de se libérer.
 
 ::PlasmaBeam
 Projette un faisceau de plasma surchauffé qui s'intensifie vers sa portée max. Puissance max aux 2/3 du trajet : jusqu'à {0} et {1} dégâts sur quiconque sur la trajectoire.
@@ -163,14 +163,14 @@ Projette un faisceau de plasma surchauffé qui s'intensifie vers sa portée max.
 ::PsychosomaticPredation
 Crée un focus prédateur chez l'invoqueur contre un ennemi vivant : +{0}% dégâts armes et mains nues du prédateur, mais -{1}% de ces dégâts contre tout le reste. Bonus double en mêlée, encore doublé contre un ennemi effrayé. Jusqu'à {2}, tant que prédateur et proie restent relativement proches.
 
-Si le prédateur tue la cible avec une attaque directe : +{3} psi et reset de la recharge.
+Si le prédateur tue la cible avec une attaque directe : +{3} psi et recharge relancée.
 
 ::MotorCognitiveTransference
-Réduit chaque skill offensif de base de la cible jusqu'à {0}% (plafond {1}), puis transfère la moitié de ce montant à la valeur de base de l'invoqueur, ou fixe la base de l'invoqueur jusqu'à {2}% de celle de la cible (plafond {3}), selon ce qui donne le skill effectif le plus haut. Jusqu'à {4}. Humanoïdes uniquement.
+Réduit la valeur de base de chaque compétence offensive de la cible jusqu'à {0}% (plafond {1}), puis en transfère la moitié à tes compétences de base, ou aligne tes bases sur jusqu'à {2}% de celles de la cible (plafond {3}), selon ce qui donne la compétence effective la plus haute. Dure jusqu'à {4}. Humanoïdes uniquement.
 
 ::CryogenicBarrier
 Forme des éclats de glace à partir de l'eau de la case cible principale : {0} et {1} dégâts à tous les personnages sur ces cases. Si la case est praticable et vide, laisse une barrière de glace ({2} PV) pendant {3} ou jusqu'à destruction.
 
 La barrière a 100% de résistance bio, froid et électrique, et {7} mécanique.
 
-Les cibles qui subissent du froid deviennent aussi gelées : -{4} PM pendant {5}. Stack {6} fois.
+Les cibles qui subissent du froid reçoivent aussi Chill : -{4} PM pendant {5}. Stack {6} fois.

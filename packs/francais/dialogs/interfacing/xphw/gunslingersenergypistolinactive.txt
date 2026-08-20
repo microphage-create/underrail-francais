@@ -4,21 +4,21 @@
 Upon further inspection you find a connector on the side...::<end>
 
 =>q1
-::L'arme semble inactive. Pourtant, lorsque vous le tenez par la poignée, le petit écran clignote en rouge, affichant le message - "Utilisateur non autorisé".
+::L'arme a l'air inactive. Pourtant, dès que vous la tenez par la poignée, le petit écran clignote en rouge : « Utilisateur non autorisé ».
 
-Lors d'une inspection plus approfondie, vous trouvez un connecteur sur le côté...::<end>
+En y regardant de plus près, vous trouvez un connecteur sur le côté...::<end>
 
 =>a2_original
 ::Connect a haxxor to the weapon.::<end>
 
 =>a2
-::Connectez un haxxor à l'arme.::<end>
+::Connecter un haxxor à l'arme::<end>
 
 =>q3_original
 ::The weapon's display turns yellow. The "Unauthorized user" message persists.::<end>
 
 =>q3
-::L'écran de l'arme devient jaune. Le message « utilisateur non autorisé » persiste.::<end>
+::L'écran de l'arme passe au jaune. Le message « Utilisateur non autorisé » reste affiché.::<end>
 
 =>q4_original
 <end>
@@ -30,7 +30,7 @@ Lors d'une inspection plus approfondie, vous trouvez un connecteur sur le côté
 ::[Hacking] Access basic information.::<end>
 
 =>a5
-::[Hacking] Accès aux informations de base.::<end>
+::[Hacking] Accéder aux informations de base::<end>
 
 =>q6_original
 ::*About:*
@@ -42,19 +42,19 @@ Serial number: DE8NA3CC0004
 Last servicing date: Unavailable::<end>
 
 =>q6
-::*À propos:*
+::*À propos :*
 
-Fabricant: DETEK, Dis, North Underrail
-Nom du produit: Pistolet de service énergétique pulsé - Modèle 2, modification 3
-Nom du modèle: PESP-M02A3
-Numéro de série: DE8NA3CC0004
-Dernière date d'entretien: Indisponible::<end>
+Fabricant : DETeK, Dis, North Underrail
+Nom du produit : Pulsed Energy Service Pistol - Model 2, Alteration 3
+Nom du modèle : PESP-M02A3
+Numéro de série : DE8NA3CC0004
+Dernier entretien : Indisponible::<end>
 
 =>a7_original
 ::Software information::<end>
 
 =>a7
-::Informations sur les logiciels::<end>
+::Informations logiciel::<end>
 
 =>q8_original
 ::*Software information:*
@@ -64,11 +64,11 @@ UI version: 4.3
 Network address: Unavailable::<end>
 
 =>q8
-::*Informations sur les logiciels:*
+::*Informations logiciel :*
 
-Version OS: 1.2.897
-Version UI: 4.3
-Adresse du réseau: Indisponible::<end>
+Version OS : 1.2.897
+Version UI : 4.3
+Adresse réseau : Indisponible::<end>
 
 =>a9_original
 ::Back::<end>
@@ -80,13 +80,13 @@ Adresse du réseau: Indisponible::<end>
 ::Exit::<end>
 
 =>a10
-::Sortie::<end>
+::Quitter::<end>
 
 =>a11_original
 ::Power information::<end>
 
 =>a11
-::Informations sur la puissance::<end>
+::Informations énergie::<end>
 
 =>q12_original
 ::*Power information:*
@@ -97,18 +97,18 @@ Battery type: 120v potassium-ion
 Battery status: Unavailable::<end>
 
 =>q12
-::*Informations sur la puissance:*
+::*Informations énergie :*
 
-Type de supercondensateur: 1x HV hybride
-État du surcondensateur: Bon
-Type de batterie: 120v potassique-ion
+Type de supercondensateur : 1x HV hybride
+État du supercondensateur : Bon
+Type de batterie : 120v potassium-ion
 État de la batterie : Indisponible::<end>
 
 =>a13_original
 ::Weapon information::<end>
 
 =>a13
-::Informations sur les armes::<end>
+::Informations arme::<end>
 
 =>q14_original
 ::*Weapon information:*
@@ -128,27 +128,27 @@ Total energy output per shot: 48kJ
 Note: energy "shot" as defined under section 4.8 of BCMS/5.3 UPMS::<end>
 
 =>q14
-::* Renseignements sur les armes :*
+::*Informations arme :*
 
-* Mode létal:*
-Énergie par impulsion: 240 J
-Pouls par plan: 50
-Délai d'impulsion par injection : 10 μs
-Production totale d'énergie par shot: 12kJ
+*Mode létal :*
+Énergie par impulsion : 240J
+Impulsions par tir : 50 
+Délai d'impulsion par tir : 10 µs
+Énergie totale par tir : 12kJ
 
-*Mode lent (par défaut):*
-Énergie par impulsion: 2,4 kJ
-Pouls par coup: 20
-Délai d'impulsion par injection: 25 μs
-Production totale d'énergie par shot: 48kJ
+*Mode moins létal (par défaut) :*
+Énergie par impulsion : 2.4kJ
+Impulsions par tir : 20
+Délai d'impulsion par tir : 25 µs
+Énergie totale par tir : 48kJ
 
-Note: énergie "capture" telle que définie à la section 4.8 du BCMS/5.3 UPSM::<end>
+Note : « tir » énergétique au sens de la section 4.8 du BCMS/5.3 UPMS::<end>
 
 =>a15_original
 ::User information::<end>
 
 =>a15
-::Informations sur l'utilisateur::<end>
+::Informations utilisateur::<end>
 
 =>q16_original
 ::Authorized users (1):
@@ -160,11 +160,11 @@ Weapon administrator(s):
 Unavailable::<end>
 
 =>q16
-::Utilisateurs autorisés (1):
+::Utilisateurs autorisés (1) :
 
 *U8HU3CSD* - Ronald Westrock
 
-Administrateur(s) d'armes:
+Administrateur(s) de l'arme :
 
 Indisponible::<end>
 
@@ -172,7 +172,7 @@ Indisponible::<end>
 ::[Hacking] Add a new user.::<end>
 
 =>a17
-::[Hacking] Ajouter un nouvel utilisateur.::<end>
+::[Hacking] Ajouter un utilisateur::<end>
 
 =>q18_original
 ::Collecting biometric data...
@@ -180,15 +180,15 @@ Indisponible::<end>
 Please hold the weapon by its grip until all the necessary information has been collected.::<end>
 
 =>q18
-::Collecte de données biométriques...
+::Collecte des données biométriques...
 
-Veuillez tenir l'arme par sa poignée jusqu'à ce que toutes les informations nécessaires aient été recueillies.::<end>
+Tenez l'arme par la poignée jusqu'à ce que toutes les données nécessaires soient recueillies.::<end>
 
 =>a19_original
 ::Do as it says.::<end>
 
 =>a19
-::Fais ce qu'il dit.::<end>
+::Faire comme indiqué::<end>
 
 =>q20_original
 ::Successfully added a new user:
@@ -196,15 +196,15 @@ Veuillez tenir l'arme par sa poignée jusqu'à ce que toutes les informations n�
 *TSMSL2SR - $(context.player.Name)*::<end>
 
 =>q20
-::Ajout réussi d'un nouvel utilisateur :
+::Nouvel utilisateur ajouté :
 
-*TSMSL2SR - $(context.player. Nom*::<end>
+*TSMSL2SR - $(context.player.Name)*::<end>
 
 =>q21_original
 ::Error: Access Denied::<end>
 
 =>q21
-::Erreur : Accès refusé::<end>
+::Erreur : accès refusé::<end>
 
 =>a22_original
 ::Back::<end>
@@ -216,11 +216,10 @@ Veuillez tenir l'arme par sa poignée jusqu'à ce que toutes les informations n�
 ::Warning: Unauthorized user detected. Logging biometric data...::<end>
 
 =>q23
-::Avertissement : Un utilisateur non autorisé a été détecté. Enregistrer des données biométriques...::<end>
+::Avertissement : utilisateur non autorisé détecté. Journalisation des données biométriques...::<end>
 
 =>a24_original
 ::Put it away.::<end>
 
 =>a24
-::Range ça.::<end>
-
+::Ranger l'arme::<end>

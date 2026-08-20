@@ -6,9 +6,9 @@ LOW POWER!
 UNLOCKING...::<end>
 
 =>q1
-::STATUT : DÉVERROUILLAGE...
+::ÉTAT : DÉVERROUILLAGE...
 
-FAIBLE PUISSANCE !
+PUISSANCE FAIBLE !
 
 DÉVERROUILLAGE...::<end>
 
@@ -16,31 +16,31 @@ DÉVERROUILLAGE...::<end>
 ::LOCK::<end>
 
 =>a2
-::VERROUILLAGE::<end>
+::VERROUILLER::<end>
 
 =>a3_original
 ::UNLOCK::<end>
 
 =>a3
-::OUVRIR::<end>
+::DÉVERROUILLER::<end>
 
 =>a4_original
 ::EXIT::<end>
 
 =>a4
-::SORTIE::<end>
+::QUITTER::<end>
 
 =>q5_original
 ::STATUS: LOCKED::<end>
 
 =>q5
-::STATUT : VERROUILLÉ::<end>
+::ÉTAT : VERROUILLÉ::<end>
 
 =>a6_original
 ::UNLOCK::<end>
 
 =>a6
-::OUVRIR::<end>
+::DÉVERROUILLER::<end>
 
 =>q7_original
 ::UNLOCKING...
@@ -54,9 +54,8 @@ LOW POWER!::<end>
 =>q7
 ::DÉVERROUILLAGE...
 
-FAIBLE PUISSANCE !
+PUISSANCE FAIBLE !
 
 DÉVERROUILLAGE...
 
-FAIBLE PUISSANCE !::<end>
-
+PUISSANCE FAIBLE !::<end>

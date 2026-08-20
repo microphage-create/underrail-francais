@@ -118,16 +118,16 @@ Ne peut pas se déplacer.
 Ne peut pas se déplacer.
 
 ::thermodynamicity_heat-Old
-Coût de la prochaine capacité psi de chaleur réduit de {0}%.
+Coût du prochain pouvoir psi de chaleur réduit de {0}%.
 
 ::thermodynamicity_cold-Old
-Coût de la prochaine capacité psi de froid réduit de {0}%.
+Coût du prochain pouvoir psi de froid réduit de {0}%.
 
 ::thermodynamicity_heat
-Coût en points d'action de la prochaine capacité psi de chaleur réduit de {0}%.
+Coût en PA du prochain pouvoir psi de chaleur réduit de {0}%.
 
 ::thermodynamicity_cold
-Coût en points d'action de la prochaine capacité psi de froid réduit de {0}%.
+Coût en PA du prochain pouvoir psi de froid réduit de {0}%.
 
 ::PackHunting-Old
 Cette créature chasse en meute. Ses dégâts augmentent contre les cibles entourées d'autres membres de la meute. Dégâts contre la cible actuelle augmentés de {0}%.
@@ -166,7 +166,7 @@ Ce personnage brûle pour {0} dégâts chaque tour, tout en courant paniqué.
 Ce personnage est affligé par {0} et subit {1} dégâts bio chaque tour.
 
 ::CaveEarPoison
-Ce personnage est affligé par le poison d'oreille des caves. Tous les dégâts biologiques reçus augmentés de {0}% et perception réduite de {1}.
+Ce personnage est affligé par le poison d'oreille des caves. Tous les dégâts biologiques reçus augmentés de {0}% et Perception réduite de {1}.
 
 ::CrawlerPoison
 Ce personnage est affligé par le poison de crawler et subit {0} dégâts bio chaque tour. S'il n'est pas retiré avant expiration, il étourdit la victime jusqu'à {1}.
@@ -186,37 +186,37 @@ Vous voyez dans le noir.
 ::LocusOfControl
 Immunisé à l'étourdissement, la peur, l'incapacité et le contrôle mental.
 
-La prochaine capacité psi de contrôle mental invoquée aura une zone d'effet, mais mettra fin à cet effet.
+Le prochain pouvoir psi de contrôle mental aura une zone d'effet, mais mettra fin à cet effet.
 
 ::Premeditation
-La prochaine capacité psi du personnage coûtera {0}% de psi en moins, {1}% de PA en moins et verra sa portée augmentée de {2}.
+Le prochain pouvoir psi coûtera {0}% de psi en moins, {1}% de PA en moins et aura +{2} portée.
 
 ::PsionicMania
-La prochaine capacité psi offensive du personnage sera un coup critique automatique.
+Le prochain pouvoir psi offensif sera un crit automatique.
 
 ::psionicSynergy
-La proximité d'autres coléoptères Azuridae psioniquement actifs augmente les niveaux de compétences psi de cette créature de {0} et lui permet d'invoquer des capacités psi plus puissantes.
+La proximité d'autres coléoptères Azuridae psioniquement actifs augmente les niveaux de compétences psi de cette créature de {0} et lui permet d'invoquer des pouvoirs psi plus puissants.
 
 ::SpecialTactics
 La prochaine attaque de carreau spéciale du personnage ne coûtera aucun point d'action.
 
 ::Food_rathoundBarbeque
-Force augmentée de 1.
+Strength augmentée de 1.
 
 ::Food_burrowerBurger
 Constitution augmentée de 1.
 
 ::Food_caveHopperSteak
-Agilité augmentée de 1.
+Agility augmentée de 1.
 
 ::Food_eelSandwich
-Dextérité augmentée de 1.
+Dexterity augmentée de 1.
 
 ::Food_mushroomBrew
-Force augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et dextérité réduites de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
+Strength augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et Dexterity réduites de 2. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
 
 ::Food_coffee
-Points de mouvement augmentés de 5 et coût en psi de toutes les capacités psi réduit de 10%, mais régénération de psi aussi réduite de 3.
+Points de mouvement augmentés de 5 et coût en psi de toutes les pouvoirs psi réduit de 10%, mais régénération de psi aussi réduite de 3.
 
 ::Food_baconCheeseSandwich
 Points de vie maximum augmentés de 20.
@@ -255,7 +255,7 @@ Capacité de port augmentée de 25.
 Bonus de dégâts critiques psioniques augmenté de 40%.
 
 ::Food_psiBeetleBrainSoup
-Coût en psi des capacités psi réduit de 15%.
+Coût en psi des pouvoirs psi réduit de 15%.
 
 ::Food_rootSoda
 Initiative augmentée de 5.
@@ -288,7 +288,7 @@ Dégâts de poison subis réduits de 20% et Evasion augmentée de 30.
 Points de vie maximum augmentés de 40.
 
 ::Food_bisonMilk
-Force augmentée de 1 et bonus de dégâts critiques des armes de mêlée et attaques à mains nues augmenté de 25%.
+Strength augmentée de 1 et bonus de dégâts critiques des armes de mêlée et attaques à mains nues augmenté de 25%.
 
 ::Food_mysteryCandy
 Taux de critique des armes, attaques à mains nues et psi augmenté de 5%, mais Will réduite de 1 et sang-froid réduit de 100.
@@ -303,10 +303,10 @@ Tous les attributs augmentés de 3. Chance de subir un coup critique d'arme, à 
 Tous les attributs réduits de 3. Toutes les compétences psioniques réduites de 20 et régénération de psi réduite de 30.
 
 ::Food_stalagDrop
-Force augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et dextérité réduites de 1. Toutes les compétences psioniques réduites de 10 et régénération de psi réduite de 15.
+Strength augmentée de 1 et tous les dégâts mécaniques subis réduits de 10%. Perception et Dexterity réduites de 1. Toutes les compétences psioniques réduites de 10 et régénération de psi réduite de 15.
 
 ::Food_caveTear
-Force augmentée de 2 et tous les dégâts mécaniques subis réduits de 20%. Perception et dextérité réduites de 3. Toutes les compétences psioniques réduites de 30 et régénération de psi réduite de 40.
+Strength augmentée de 2 et tous les dégâts mécaniques subis réduits de 20%. Perception et Dexterity réduites de 3. Toutes les compétences psioniques réduites de 30 et régénération de psi réduite de 40.
 
 ::Food_cleanDeal
 Thought Control augmenté de 20, mais Perception réduite de 1 et sang-froid réduit de 30.
@@ -315,7 +315,7 @@ Thought Control augmenté de 20, mais Perception réduite de 1 et sang-froid ré
 Pickpocketing augmenté de 15.
 
 ::Food_slampipe
-Force augmentée de 1 et le personnage inflige 15% de dégâts en bonus avec les armes de mêlée contondantes, armes de poings et attaques à mains nues. Agilité réduite de 1. 
+Strength augmentée de 1 et le personnage inflige 15% de dégâts en bonus avec les armes de mêlée contondantes, armes de poings et attaques à mains nues. Agility réduite de 1. 
 
 ::Food_outwork
 Capacité de port augmentée de 30.
@@ -342,7 +342,7 @@ Détection augmentée de 23,3%, chance de subir un crit d'arme, à mains nues ou
 Points de vie augmentés de 30, mais sang-froid réduit du même montant. Son goût répugnant vous collera à la bouche pendant des heures.
 
 ::Food_scrapperac
-Ce personnage inflige 15% de dégâts en bonus avec les armes de mêlée et attaques à mains nues, et a une petite chance d'hébéter la cible, lui-même, ou les deux à chaque telle attaque.
+Ce personnage inflige 15% de dégâts en bonus en mêlée et à mains nues, avec une petite chance d'hébéter la cible, lui-même, ou les deux à chaque attaque.
 
 ::Food_jonSpecial
 Toutes les compétences augmentées de 5.
@@ -462,7 +462,7 @@ Si cette cible est détruite, elle explose et inflige {0} et {1} dégâts aux pe
 Tous les dégâts biologiques subis réduits de {0}%.
 
 ::PsionicTrance
-Bonus de dégâts critiques des capacités psi augmenté de {0}%, mais coût en psi aussi augmenté de {1}%.
+Bonus de dégâts critiques des pouvoirs psi augmenté de {0}%, mais coût en psi aussi augmenté de {1}%.
 
 ::PainSuppression
 Tous les dégâts subis réduits de {0}%.
@@ -492,7 +492,7 @@ Vous pilotez un jet-ski.
 Points d'action réduits de {0} et points de mouvement de {1}.
 
 ::Inhibited
-Ne peut pas invoquer de capacités psi ni régénérer de points de psi naturellement.
+Ne peut pas invoquer de pouvoirs psi ni régénérer de points de psi naturellement.
 
 ::ConcentratedFire
 Reçoit {0}% de dégâts en plus des attaques en rafale.
@@ -549,19 +549,19 @@ Récupère {0} de bouclier chaque tour.
 Toutes les résistances et seuils de dégâts réduits de {0}%.
 
 ::BlackDragonPoison
-Affecté par un poison qui empêche l'invocation de capacités psi et la régénération de points de psi.
+Affecté par un poison qui empêche l'invocation de pouvoirs psi et la régénération de points de psi.
 
 ::PsychostaticElectricity
 Chance de subir un coup critique d'arme, à mains nues ou psi augmentée de {0}%.
 
 ::SecondSight
-Perception augmentée de {0} et le personnage reçoit le don de seconde vue.
+Perception augmentée de {0} et le personnage gagne Second Sight.
 
 ::Hemopsychosis
-Vos capacités psi coûtent des points de vie au lieu de points de psi.
+Vos pouvoirs psi coûtent des points de vie au lieu de points de psi.
 
 ::HemopsychosisReduced
-Vos capacités psi coûtent des points de vie au lieu de points de psi, mais leur coût est réduit de {0}%.
+Vos pouvoirs psi coûtent des points de vie au lieu de points de psi, mais leur coût est réduit de {0}%.
 
 ::Blindsiding
 Dégâts à mains nues et d'armes augmentés de {0}%.
@@ -590,7 +590,7 @@ Immunisé à tous les dégâts et à la plupart des effets invalidants, mais ne 
 La stase se brise si elle absorbe {0} dégâts de plus, sinon elle expire au début du dernier tour de durée au lieu de la fin.
 
 ::BlindingPoison
-Ce personnage est affligé par un poison aveuglant et subit {0} dégâts bio chaque tour. Sa perception est aussi réduite de {1}.
+Ce personnage est affligé par un poison aveuglant et subit {0} dégâts bio chaque tour. Perception aussi réduite de {1}.
 
 ::PsionicAcceleration
 Régénération de psi augmentée de {0}%.
@@ -708,7 +708,7 @@ Points de mouvement réduits de {2}.
 Points d'action réduits de {3}. La plaie infestée fait un mal abominable.
 
 ::SwampTrance
-Ce personnage a sa perception augmentée de {0} et régénère {1} points de vie chaque tour. Le fait aussi briller.
+Perception augmentée de {0} et régénère {1} PV chaque tour. Fait aussi briller.
 
 ::Polarized
 Résistance et seuil aux dégâts d'énergie réduits de {0}% et électriques de {1}%. Chance de subir un coup critique d'arme augmentée de {2}%.
@@ -726,7 +726,7 @@ Si l'attaque pénètre l'armure, un hyperallergène est appliqué : infligera ju
 Toutes les compétences offensives et psioniques augmentées de {0}%.
 
 ::Smoking
-Augmente la régénération de psi de {0}, mais réduit la constitution de {1}.
+Régénération de psi augmentée de {0}, mais Constitution réduite de {1}.
 
 ::CerebralAcidization
 Cette créature subit {0} dégâts d'acide chaque tour.
@@ -759,10 +759,10 @@ Draine {0} d'énergie chaque tour et éclaire jusqu'à {1} cases devant le porte
 Draine {0} d'énergie chaque tour et éclaire dans un rayon de {1}.
 
 ::IndustrialExoskeletonAura
-Force augmentée de {0} et points de mouvement de {1}. Malus de vitesse de déplacement de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} d'énergie supplémentaires par case de déplacement.
+Strength augmentée de {0} et PM de {1}. Malus de vitesse de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} par case de déplacement.
 
 ::CombatExoskeletonAura
-Force augmentée de {0} et points de mouvement de {1}. Malus de vitesse de déplacement de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} d'énergie supplémentaires par case de déplacement.
+Strength augmentée de {0} et PM de {1}. Malus de vitesse de l'armure annulé. Draine {2} d'énergie chaque tour, plus {3} par case de déplacement.
 
 ::ShootingSpree
 Votre prochaine attaque au sniper remboursera 100% du coût en PA si elle tue la cible.
@@ -804,13 +804,13 @@ Ce personnage est chassé et recevra {0}% de dégâts en bonus des attaques d'ar
 Compétences psioniques augmentées de {0} grâce à la présence d'autres psioniques.
 
 ::FreezingMemories
-Volonté augmentée de {2}. Tous les dégâts de froid subis réduits de {0}% et tous les dégâts mécaniques de {1}%. Le personnage est immunisé à tout nouvel effet de refroidissement ou de gel.
+Will augmentée de {2}. Tous les dégâts de froid subis réduits de {0}% et tous les dégâts mécaniques de {1}%. Immunisé à tout nouvel effet Chill ou Frozen.
 
 ::Motion
-Ce chat est en Motion : intelligence et perception réduites de {0}, points de psi maximum augmentés de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
+Ce chat est en Motion : Intelligence et Perception réduites de {0}, psi max augmenté de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
 
 ::MotionWithdrawal
-Ce chat souffre d'un grave manque de Motion : intelligence et perception réduites de {0}, points de psi maximum de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
+Ce chat souffre d'un grave manque de Motion : Intelligence et Perception réduites de {0}, psi max de {1} et régénération de psi de {2}. Aussi, sang-froid réduit de {3}%.
 
 ::MindFog
 Intelligence réduite de {0} et coût en psi augmenté de {1}%.
@@ -861,7 +861,7 @@ Réduit le nombre de cumuls de Commande sensorimotrice de {0}.
 Renforce et contribue aux informations sensorimotrices reçues.
 
 ::WildPsionicInnervation
-Niveau de compétence augmenté de {0}, taux de critique de {1} et dégâts critiques de {2}, tandis que le coût en points de psi est réduit de {3} pour les capacités psi {4}. Toutes les autres écoles psi non boostées ont leur coût en points de psi augmenté de {5}.
+Niveau de compétence augmenté de {0}, taux de critique de {1} et dégâts critiques de {2}, tandis que le coût en points de psi est réduit de {3} pour les pouvoirs psi {4}. Toutes les autres écoles psi non boostées ont leur coût en points de psi augmenté de {5}.
 
 ::ParafibroticRegeneration
 Soigne {0} points de vie par tour et dégâts mécaniques et de chaleur subis réduits de {1}.

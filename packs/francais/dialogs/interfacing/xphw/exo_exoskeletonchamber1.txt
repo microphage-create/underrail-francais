@@ -6,13 +6,13 @@ Please step on the marked spot and face the assembler to start the procedure.::<
 =>q1
 ::Agence de sécurité ESA-25M3
 
-S'il vous plaît, marchez sur le point marqué et faites face à l'assembleur pour commencer la procédure.::<end>
+Placez-vous sur le repère et tournez-vous vers l'assembleur pour lancer la procédure.::<end>
 
 =>a2_original
 ::Face the machine.::<end>
 
 =>a2
-::Face à la machine.::<end>
+::Se tourner vers la machine::<end>
 
 =>q3_original
 ::Performing initial scan...
@@ -20,7 +20,7 @@ S'il vous plaît, marchez sur le point marqué et faites face à l'assembleur po
 ::<end>
 
 =>q3
-::Effectuer l'analyse initiale...
+::Scan initial en cours...
 
 ::<end>
 
@@ -30,15 +30,15 @@ S'il vous plaît, marchez sur le point marqué et faites face à l'assembleur po
 Would you like to create a new template now?::<end>
 
 =>q4
-::Avertissement : modèle d'utilisateur ou de corps non reconnu. Toutes les combinaisons exosquelette sont adaptées à des types de carrosserie spécifiques et ne peuvent être assemblées sans créer d'abord un gabarit.
+::Avertissement : utilisateur ou gabarit morphologique non reconnu. Toutes les combinaisons Exoskeleton sont ajustées à des morphologies précises et ne peuvent pas être assemblées sans gabarit.
 
-Voulez-vous créer un nouveau modèle maintenant ?::<end>
+Créer un nouveau gabarit maintenant ?::<end>
 
 =>a5_original
 ::Add new template::<end>
 
 =>a5
-::Ajouter un nouveau modèle::<end>
+::Ajouter un gabarit::<end>
 
 =>q6_original
 ::Please remain still for the duration of the procedure until prompted otherwise.
@@ -48,47 +48,47 @@ Collecting biometric data... Completed.
 Scanning for CC marker... Completed - marker not found.::<end>
 
 =>q6
-::Veuillez rester immobile pendant toute la durée de la procédure jusqu'à ce qu'il en soit autrement.
+::Restez immobile pendant toute la procédure, jusqu'à nouvel ordre.
 
-Effectuer un scan complet... Terminé.
-Collecte de données biométriques... Terminé.
-Scanner pour le marqueur CC... Terminé - marqueur introuvable.::<end>
+Scan corporel complet... Terminé.
+Collecte des données biométriques... Terminé.
+Recherche du marqueur CC... Terminé - marqueur introuvable.::<end>
 
 =>q7_original
 ::Please ::<end>
 
 =>q7
-::S'il vous plaît.::<end>
+::Veuillez ::<end>
 
 =>q8_original
 ::turn your head to your left.::<end>
 
 =>q8
-::Tourne la tête à gauche.::<end>
+::tourner la tête vers la gauche.::<end>
 
 =>a9_original
 ::Look left.::<end>
 
 =>a9
-::Regarde à gauche.::<end>
+::Regarder à gauche::<end>
 
 =>q10_original
 ::Please ::<end>
 
 =>q10
-::S'il vous plaît.::<end>
+::Veuillez ::<end>
 
 =>q11_original
 ::turn your head to your right.::<end>
 
 =>q11
-::Tourne la tête à droite.::<end>
+::tourner la tête vers la droite.::<end>
 
 =>a12_original
 ::Look right.::<end>
 
 =>a12
-::Regarde à droite.::<end>
+::Regarder à droite::<end>
 
 =>q13_original
 ::You may face forward.
@@ -96,9 +96,9 @@ Scanner pour le marqueur CC... Terminé - marqueur introuvable.::<end>
 Please raise your arms above your head and remain still.::<end>
 
 =>q13
-::Vous pouvez faire face en avant.
+::Vous pouvez regarder droit devant.
 
-Levez les bras au-dessus de votre tête et restez immobile.::<end>
+Levez les bras au-dessus de la tête et restez immobile.::<end>
 
 =>q14_original
 <end>
@@ -110,7 +110,7 @@ Levez les bras au-dessus de votre tête et restez immobile.::<end>
 ::Raise your arms.::<end>
 
 =>a15
-::Levez les bras.::<end>
+::Lever les bras::<end>
 
 =>q16_original
 ::You may lower your arms.
@@ -120,7 +120,7 @@ Please crouch.::<end>
 =>q16
 ::Vous pouvez baisser les bras.
 
-Accroche-toi.::<end>
+Accroupissez-vous.::<end>
 
 =>q17_original
 <end>
@@ -132,7 +132,7 @@ Accroche-toi.::<end>
 ::Crouch.::<end>
 
 =>a18
-::Croucou.::<end>
+::S'accroupir::<end>
 
 =>q19_original
 ::You may stand up.
@@ -143,12 +143,12 @@ Creating template and registering user... Completed.
 New template added: ::<end>
 
 =>q19
-::Vous pouvez vous lever.
+::Vous pouvez vous relever.
 
-Effectuer des calculs finals... Terminé.
-Création de gabarits et enregistrement de l'utilisateur... Terminé.
+Calculs finaux... Terminé.
+Création du gabarit et enregistrement de l'utilisateur... Terminé.
 
-Nouveau modèle ajouté:::<end>
+Nouveau gabarit ajouté : ::<end>
 
 =>q20_original
 <end>
@@ -174,39 +174,39 @@ Nouveau modèle ajouté:::<end>
 Please load components into the assembler before proceeding.::<end>
 
 =>q23
-::Aucun costume exosquelette disponible pour le moment.
+::Aucune combinaison Exoskeleton disponible pour le moment.
 
-Veuillez charger les composants dans l'assembleur avant de procéder.::<end>
+Chargez d'abord les composants dans l'assembleur.::<end>
 
 =>a24_original
 ::Exit::<end>
 
 =>a24
-::Sortie::<end>
+::Quitter::<end>
 
 =>q25_original
 ::Exoskeleton suit already registered to this body template.::<end>
 
 =>q25
-::costume d'exosquelette déjà enregistré à ce modèle de corps.::<end>
+::Combinaison Exoskeleton déjà enregistrée sur ce gabarit morphologique.::<end>
 
 =>a26_original
 ::[Debug] Unregister suit.::<end>
 
 =>a26
-::Désinscrire le costume.::<end>
+::[Debug] Désinscrire la combinaison::<end>
 
 =>q27_original
 ::Unregistering suit... Completed.::<end>
 
 =>q27
-::Un costume d'enregistrement... Terminé.::<end>
+::Désinscription de la combinaison... Terminé.::<end>
 
 =>q28_original
 ::Please select which exoskeleton suit you want to register to this body template. A single user can be issued only one suit.::<end>
 
 =>q28
-::Veuillez sélectionner la combinaison exosquelette que vous souhaitez enregistrer sur ce modèle de corps. Un seul utilisateur ne peut recevoir qu'une seule combinaison.::<end>
+::Sélectionnez la combinaison Exoskeleton à enregistrer sur ce gabarit. Un utilisateur ne peut recevoir qu'une seule combinaison.::<end>
 
 =>q29_original
 <end>
@@ -218,7 +218,7 @@ Veuillez charger les composants dans l'assembleur avant de procéder.::<end>
 ::Combat Exoskeleton::<end>
 
 =>a30
-::Exosquelette de combat::<end>
+::Combat Exoskeleton::<end>
 
 =>q31_original
 ::Suit registered successfully. 
@@ -226,7 +226,7 @@ Veuillez charger les composants dans l'assembleur avant de procéder.::<end>
 ::<end>
 
 =>q31
-::Suit enregistré avec succès.
+::Combinaison enregistrée.
 
 ::<end>
 
@@ -236,39 +236,39 @@ Veuillez charger les composants dans l'assembleur avant de procéder.::<end>
 Would you like to proceed with suit assembly regardless?::<end>
 
 =>q32
-::Marqueur CC non trouvé ou reconnu. Un cranejack ne peut pas être installé sans lui, et la combinaison ne pourra pas surveiller et réguler les processus neurocognitifs.
+::Marqueur CC introuvable ou non reconnu. Un skulljack ne peut pas être installé sans lui, et la combinaison ne pourra ni surveiller ni réguler les processus neurocognitifs.
 
-Voulez-vous procéder à l'assemblée des costumes indépendamment?::<end>
+Assembler la combinaison malgré tout ?::<end>
 
 =>a33_original
 ::Assemble exoskeleton::<end>
 
 =>a33
-::Assembler l'exosquelette::<end>
+::Assembler l'Exoskeleton::<end>
 
 =>a34_original
 ::Technomedic Exoskeleton::<end>
 
 =>a34
-::Exosquelette Technomedique::<end>
+::Technomedic Exoskeleton::<end>
 
 =>a35_original
 ::Intercessor Exoskeleton::<end>
 
 =>a35
-::Exosquelette intercesseur::<end>
+::Intercessor Exoskeleton::<end>
 
 =>a36_original
 ::Psychophract Exoskeleton::<end>
 
 =>a36
-::Exosquelette psychophartique::<end>
+::Psychophract Exoskeleton::<end>
 
 =>a37_original
 ::[Hacking] Unregister current exoskeleton suit.::<end>
 
 =>a37
-::Désinscrire le costume d'exosquelette actuel.::<end>
+::[Hacking] Désinscrire la combinaison Exoskeleton actuelle::<end>
 
 =>q38_original
 <end>
@@ -296,7 +296,7 @@ Logging...::<end>
 =>q41
 ::Erreur : tentative d'accès non autorisée détectée !
 
-Je suis en route...::<end>
+Journalisation...::<end>
 
 =>q42_original
 ::EST0257F::<end>
@@ -308,89 +308,88 @@ Je suis en route...::<end>
 ::Jump.::<end>
 
 =>a43
-::Saute.::<end>
+::Sauter::<end>
 
 =>q44_original
 ::Please do not deviate from the instuctions: crouch.::<end>
 
 =>q44
-::Veuillez ne pas s'écarter des instuctions: crouch.::<end>
+::Ne déviez pas des instructions : accroupissez-vous.::<end>
 
 =>a45_original
 ::Bend over.::<end>
 
 =>a45
-::Plie-toi.::<end>
+::Se pencher::<end>
 
 =>a46_original
 ::Abort procedure.::<end>
 
 =>a46
-::Abandon de la procédure.::<end>
+::Annuler la procédure::<end>
 
 =>a47_original
 ::Raise your left arm only.::<end>
 
 =>a47
-::Levez votre bras gauche seulement.::<end>
+::Lever uniquement le bras gauche::<end>
 
 =>q48_original
 ::Please raise both your arms above your head.::<end>
 
 =>q48
-::Levez vos deux bras au-dessus de votre tête.::<end>
+::Levez les deux bras au-dessus de la tête.::<end>
 
 =>a49_original
 ::Raise your right arm only.::<end>
 
 =>a49
-::Levez votre bras droit seulement.::<end>
+::Lever uniquement le bras droit::<end>
 
 =>a50_original
 ::Wave with both your arms as wide as you can.::<end>
 
 =>a50
-::Wave avec vos deux bras aussi larges que possible.::<end>
+::Agiter les deux bras le plus largement possible::<end>
 
 =>q51_original
 ::Please keep your arms still.::<end>
 
 =>q51
-::Ne bougez pas.::<end>
+::Gardez les bras immobiles.::<end>
 
 =>a52_original
 ::Look left.::<end>
 
 =>a52
-::Regarde à gauche.::<end>
+::Regarder à gauche::<end>
 
 =>q53_original
 ::Please do not deviate from the instuctions: ::<end>
 
 =>q53
-::Ne vous écartez pas des instuctions :::<end>
+::Ne déviez pas des instructions : ::<end>
 
 =>a54_original
 ::Look right.::<end>
 
 =>a54
-::Regarde à droite.::<end>
+::Regarder à droite::<end>
 
 =>q55_original
 ::Please do not deviate from the instructions: ::<end>
 
 =>q55
-::Veuillez ne pas s'écarter des instructions:::<end>
+::Ne déviez pas des instructions : ::<end>
 
 =>q56_original
 ::Template detected: ::<end>
 
 =>q56
-::Modèle détecté :::<end>
+::Gabarit détecté : ::<end>
 
 =>a57_original
 ::Leave.::<end>
 
 =>a57
-::Partir.::<end>
-
+::Partir::<end>

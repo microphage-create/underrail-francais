@@ -8,7 +8,7 @@
 ::The console is fully functional. It's display features all of the controls needed to operate the large crane nearby.::<end>
 
 =>q2
-::La console est entièrement fonctionnelle. Il affiche toutes les commandes nécessaires au fonctionnement de la grande grue à proximité.::<end>
+::La console est entièrement fonctionnelle. L'écran affiche toutes les commandes pour manœuvrer la grande grue, à côté.::<end>
 
 =>q3_original
 <end>
@@ -20,19 +20,19 @@
 ::Clear the obstacles which are blocking the waterway.::<end>
 
 =>a4
-::Effacer les obstacles qui bloquent la voie navigable.::<end>
+::Dégager les obstacles qui bloquent la voie d'eau.::<end>
 
 =>a5_original
 ::Leave.::<end>
 
 =>a5
-::Partir.::<end>
+::Quitter.::<end>
 
 =>q6_original
 ::The console's display struggles to work as it seems to have issues with it's power supply. Behind it, you notice that the cables lying on the floor are in bad condition. The cables themselves feature a modular design, which alows them to be easily plugged one into another. About half of the cables that are going to the back of the console are heavily damaged. The cables on your right side are further connected to the large crane nearby. They are all in decent shape. Console's flickering display displays a barely readable massage: Insufficient power.::<end>
 
 =>q6
-::L'affichage de la console a du mal à fonctionner car il semble avoir des problèmes avec son alimentation. Derrière, vous remarquez que les câbles sur le sol sont en mauvais état. Les câbles eux-mêmes disposent d'une conception modulaire, qui leur permet d'être facilement branchés entre eux. Environ la moitié des câbles qui vont à l'arrière de la console sont lourdement endommagés. Les câbles de votre côté droit sont également reliés à la grande grue à proximité. Ils sont tous en forme décente. L'écran clignotant de Console affiche un massage à peine lisible : une puissance insuffisante.::<end>
+::L'écran de la console peine à s'allumer : l'alimentation a l'air défaillante. Derrière, vous voyez que les câbles au sol sont en mauvais état. Ils sont modulaires, faits pour se brancher les uns dans les autres. Environ la moitié de ceux qui arrivent à l'arrière de la console sont gravement endommagés. Ceux sur votre droite relient encore la grande grue, à côté. Ils sont encore en état. L'écran clignote, un message à peine lisible : Puissance insuffisante.::<end>
 
 =>q7_original
 <end>
@@ -44,7 +44,7 @@
 ::[Electronics] Attempt to fix the cables using using an advanced electronic repair kit.::<end>
 
 =>a8
-::[Electronics] Essayez de réparer les câbles en utilisant un kit de réparation électronique avancé.::<end>
+::[Electronics] Tenter de réparer les câbles avec un kit de réparation électronique avancé.::<end>
 
 =>q9_original
 <end>
@@ -56,13 +56,13 @@
 ::Using a spare toolkit combined with your skills in electronics, you manage to replace and reinstall the broken link between the console and it's power supply. The surge of incoming new power, makes the screen glow bright for a short moment. Console's display now features all control options for the large crane nearby.::<end>
 
 =>q10
-::En utilisant une boîte à outils de rechange combinée à vos compétences en électronique, vous réussissez à remplacer et à réinstaller le lien rompu entre la console et son alimentation. La surtension de la nouvelle puissance entrante, rend l'écran lumineux pour un court moment. L'affichage de Console propose désormais toutes les options de contrôle pour la grande grue à proximité.::<end>
+::Avec une boîte à outils de rechange et vos compétences en électronique, vous remplacez le lien rompu entre la console et son alimentation. L'arrivée de courant fait briller l'écran un instant. Toutes les commandes de la grande grue s'affichent.::<end>
 
 =>a11_original
 ::[Electronics] Attempt to fix the cables using an electronic repair kit.::<end>
 
 =>a11
-::[Electronics] Essayez de réparer les câbles à l'aide d'un kit de réparation électronique.::<end>
+::[Electronics] Tenter de réparer les câbles avec un kit de réparation électronique.::<end>
 
 =>q12_original
 <end>
@@ -74,19 +74,19 @@
 ::Install the modular cables.::<end>
 
 =>a13
-::Installez les câbles modulaires.::<end>
+::Installer les câbles modulaires.::<end>
 
 =>q14_original
 ::The modular cables lying on the floor are quite intuitively designed and as such, using the cables from the box you've obtained, they don't pose any additional hassle for you to repair them. After you link the final missing cable, the console's display briefly flashes as it receives full power. The console now displays all the controls needed to operate the large crane nearby.::<end>
 
 =>q14
-::Les câbles modulaires situés sur le sol sont conçus de manière très intuitive et en tant que tels, en utilisant les câbles de la boîte que vous avez obtenu, ils ne posent pas de tracas supplémentaires pour vous de les réparer. Après avoir relié le dernier câble manquant, l'affichage de la console clignote brièvement car elle reçoit une pleine puissance. La console affiche maintenant toutes les commandes nécessaires au fonctionnement de la grande grue à proximité.::<end>
+::Les câbles modulaires au sol sont assez intuitifs. Avec ceux de la boîte que vous avez récupérée, les réparer n'est qu'une formalité. Vous branchez le dernier câble manquant : l'écran clignote, pleine puissance. La console affiche toutes les commandes de la grande grue, à côté.::<end>
 
 =>a15_original
 ::Leave.::<end>
 
 =>a15
-::Partir.::<end>
+::Quitter.::<end>
 
 =>q16_original
 <end>
@@ -102,15 +102,15 @@ All sections available for futher use. Consult the Guidance Manual for futher in
 
 =>q17
 ::BCE-TX-5 - Biocorp Core Electronics
-Version firmware: 2.25
+Version firmware : 2.25
 
-Toutes les sections sont disponibles pour utilisation future. Consultez le Guide d'orientation pour de plus amples renseignements.::<end>
+Toutes les sections sont disponibles. Consulter le manuel d'utilisation pour plus d'informations.::<end>
 
 =>a18_original
 ::Leave.::<end>
 
 =>a18
-::Partir.::<end>
+::Quitter.::<end>
 
 =>q19_original
 ::Biocorp Industries
@@ -124,7 +124,7 @@ Fire hazard event occurred in section B. Initiated lockdown. Input the security 
 
 ATTENTION !
 
-Le risque d'incendie est survenu dans la section B. Verrouillage amorcé. Entrez le code de sécurité pour un événement dangereux particulier afin de rouvrir les portes à la section B. Type d'événement: Feu, niveau: 1::<end>
+Incident incendie en section B. Verrouillage enclenché. Entrer le code de sécurité correspondant à l'incident pour rouvrir les portes de la section B. Type d'événement : incendie, niveau : 1::<end>
 
 =>q20_original
 <end>
@@ -136,7 +136,7 @@ Le risque d'incendie est survenu dans la section B. Verrouillage amorcé. Entrez
 ::[Hacking] Attempt to hack the console.::<end>
 
 =>a21
-::[Hacking] Tentative de piratage de la console.::<end>
+::[Hacking] Tenter de pirater la console.::<end>
 
 =>q22_original
 ::Access granted. Reseting quarantine maintenance mechanisms for section B, please stand by...
@@ -144,15 +144,15 @@ Le risque d'incendie est survenu dans la section B. Verrouillage amorcé. Entrez
 Section B is now ready for use..::<end>
 
 =>q22
-::Accès accordé. Réinitialisation des mécanismes d'entretien de quarantaine pour la section B, veuillez vous tenir...
+::Accès autorisé. Réinitialisation des mécanismes de quarantaine de la section B, patienter...
 
-La section B est maintenant prête à être utilisée.::<end>
+La section B est prête.::<end>
 
 =>a23_original
 ::Leave.::<end>
 
 =>a23
-::Partir.::<end>
+::Quitter.::<end>
 
 =>a24_original
 ::EH-F1::<end>
@@ -164,13 +164,13 @@ La section B est maintenant prête à être utilisée.::<end>
 ::password::<end>
 
 =>a25
-::mot de passe::<end>
+::password::<end>
 
 =>q26_original
 ::Incorrect security access code. Please try again.::<end>
 
 =>q26
-::Code d'accès de sécurité incorrect. Veuillez réessayer.::<end>
+::Code de sécurité incorrect. Réessayer.::<end>
 
 =>a27_original
 ::123456::<end>
@@ -182,7 +182,7 @@ La section B est maintenant prête à être utilisée.::<end>
 ::open up::<end>
 
 =>a28
-::ouvrir::<end>
+::open up::<end>
 
 =>a29_original
 ::Biocorp::<end>
@@ -194,5 +194,5 @@ La section B est maintenant prête à être utilisée.::<end>
 ::Leave.::<end>
 
 =>a30
-::Partir.::<end>
+::Quitter.::<end>
 

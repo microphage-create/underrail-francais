@@ -15,12 +15,12 @@ Tir visé avec n'importe quelle arme à distance à cible unique : crit garanti.
 Recharge : {0}.
 
 ::S-old
-Attaque spéciale arbalète ou sniper : dégâts bonus par point de furtivité. Uniquement en furtif. Ne peut pas crit.
+Attaque spéciale arbalète ou sniper : dégâts bonus par point de Stealth. Uniquement en furtif. Ne peut pas crit.
 
 Recharge : {0}.
 
 ::S
-Attaque spéciale arbalète ou sniper : {0}% des dégâts d'arme + {1}% par point de furtivité. Uniquement en furtif. Ne peut pas crit.
+Attaque spéciale arbalète ou sniper : {0}% des dégâts d'arme + {1}% par point de Stealth. Uniquement en furtif. Ne peut pas crit.
 
 Recharge : {2}.
 
@@ -83,7 +83,7 @@ Cibles vivantes uniquement.
 Permet d'apprendre et d'invoquer des pouvoirs psi, mais PV de base réduits de {0}%.
 
 ::CI
-Durée des effets de froid de tes pouvoirs psi +{0}. Permet de briser les cibles en cryostase si l'attaque inflige plus de {1}% des PV restants (seuls les dégâts mécaniques et de froid comptent).
+Durée des effets Chill de tes pouvoirs psi +{0}. Permet de briser les cibles en cryostase si l'attaque inflige plus de {1}% des PV restants (seuls les dégâts mécaniques et de froid comptent).
 
 Aussi +{2}% PV à la barrière cryogénique.
 
@@ -157,7 +157,7 @@ Deux balles en plus sur le burst fusil d'assaut, mitraillette, LMG et minigun, e
 +{0} balles bonus pour le burst LMG, et +{1} balles bonus par stack de montée en régime pour le burst minigun.
 
 ::Ambush
-Depuis l'ombre vers une cible éclairée, avec une arme à distance à cible unique : ignore la moitié de l'Evasion de la cible, +{0}% taux de crit + {1}% par point de furtivité.
+Depuis l'ombre vers une cible éclairée, avec une arme à distance à cible unique : ignore la moitié de l'Evasion de la cible, +{0}% taux de crit + {1}% par point de Stealth.
 
 ::ForceUser
 La télékinésie est forte en toi.
@@ -229,7 +229,7 @@ Un peu de renommée et d'infamie la première fois.
 Recharge : {3}.
 
 ::Burglar
--{0}% temps de crochetage et de piratage. +{1} furtivité en zones contrôlées.
+-{0}% temps de crochetage et de piratage. +{1} Stealth en zones contrôlées.
 
 ::NinjaLooter
 -{0}% temps de vol à la tire. -{1}% soupçon levé en volant si caché de la cible.
@@ -265,7 +265,7 @@ Tu regénères des points psi près des mindshrooms si tu es sous {0}% de ta cap
 Ton subconscient est branché sur le mycélium : +{0} points psi en ramassant des mindshrooms.
 
 ::Yell
-Cri intimidant : réduit la préparation au combat des ennemis autour et les sort de furtif. Skills offensifs réduits de {0}% de ton Intimidation pendant {1}.
+Cri intimidant : les ennemis autour perdent leur préparation au combat et sortent de furtif. Compétences offensives réduites de {0}% de ton Intimidation pendant {1}.
 
 Recharge : {2}.
 
@@ -926,7 +926,7 @@ Durée des aliments +{0} minutes.
 ::TattooBlackCrawler
 Tu peux encore voir ses grands yeux rouges si tu fixes assez longtemps les coins les plus sombres d'Underrail.
 
-+{0}% furtivité (de la valeur de base).
++{0}% Stealth (de la valeur de base).
 
 ::TattooAbomination
 Force vitale - primordiale, durable, puissante - tordue en forme monstrueuse.

@@ -8,10 +8,10 @@ Tire sur le sol ciblé avec l'arme équipée.
 Commence à attaquer automatiquement la cible avec l'arme équipée.
 
 ::AimedShot
-Tir visé monotarget à distance : crit garanti.
+Tir visé à distance, cible unique : crit garanti.
 
 ::Snipe
-Attaque spéciale arbalète ou sniper : {0}% dégâts (suivent la furtivité). Uniquement en furtif. Ne peut pas crit.
+Attaque spéciale arbalète ou sniper : {0}% dégâts (suivent Stealth). Uniquement en furtif. Ne peut pas crit.
 
 ::KCS
 Dégâts d'arme normaux + plaie saignante ({0}% dégâts, suivent Perception) sur {1}, retire tous les PM (la cible peut encore bouger avec des PA).
@@ -56,10 +56,10 @@ Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} 
 Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours. Stack {3} fois.
 
 ::CaveEarPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison d'oreille de cave (+{0}% dégâts biologiques subis, -{1} Perception, jusqu'à {2}).
+Si l'attaque traverse l'armure : poison d'oreille des caves (+{0}% dégâts biologiques subis, -{1} Perception, jusqu'à {2}).
 
 ::CaveEarPoisonItemEffect_Cap
-Applique {0} de poison d'oreille de cave sur une arme de mêlée adaptée : +{1}% dégâts biologiques subis, -{2} Perception, jusqu'à {3}.
+Applique {0} de poison d'oreille des caves sur une arme de mêlée adaptée : +{1}% dégâts biologiques subis, -{2} Perception, jusqu'à {3}.
 
 ::ShootCaveEarPoisonBolt
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison (+{0}% dégâts biologiques subis, -{1} Perception). Jusqu'à {2}.
@@ -92,19 +92,19 @@ Applique {0} de poison aveuglant sur une arme de mêlée adaptée : {1} dégâts
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, -{2} Perception). Stack {3} fois.
 
 ::LeperPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison lépreux ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
+Si l'attaque traverse l'armure : poison de lépreux ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
 
 ::LeperPoisonItemEffect_Cap
-Applique {0} de poison lépreux sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, +{3}% dégâts mécaniques subis. Stack {4} fois.
+Applique {0} de poison de lépreux sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, +{3}% dégâts mécaniques subis. Stack {4} fois.
 
 ::ShootLeperPoisonBolt
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
 
 ::HeartbreakPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison heartbreak ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+Si l'attaque traverse l'armure : poison Heartbreak ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
 
 ::HeartbreakPoisonItemEffect_Cap
-Applique {0} de poison heartbreak sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. Stack {3} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+Applique {0} de poison Heartbreak sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. Stack {3} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
 
 ::ShootHeartbreakPoisonBolt
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
@@ -156,12 +156,12 @@ Attaque spéciale à courte portée au pistolet : {0}% dégâts d'arme contre ci
 ::CutThroat
 Attaque furtive puissante au couteau dans le dos : ignore résistances et boucliers, plaie saignante ({0}% dégâts sur {1}) et étourdissement pour la même durée.
 
-Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+Tu dois être caché de la cible en furtif, ou elle doit être incapacitée. Humanoïdes uniquement.
 
 ::Sap
 Attaque spéciale à la barre à mine dans le dos : ignore résistances et boucliers, incapacité jusqu'à {0}.
 
-Tu dois être caché de la cible en furtif, ou elle doit être incapacité. Humanoïdes uniquement.
+Tu dois être caché de la cible en furtif, ou elle doit être incapacitée. Humanoïdes uniquement.
 
 ::ChuckAttack
 Roundhouse kick puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
@@ -273,4 +273,4 @@ Attaque spéciale : coûte {0} énergie, seulement {1}% des dégâts d'arme norm
 Attaque spéciale à la lame de poignet intégrée : {0} dégâts mécaniques (suivent Melee et Strength), {1} chances de plaie saignante ({2} des dégâts initiaux sur {3} tours). Consomme {3} énergie.
 
 ::Branding
-Attaque spéciale plus dure à placer : {0} dégâts et marque les humanoïdes (démoralisés, -{1} skills de combat pendant {2}).
+Attaque spéciale plus dure à placer : {0} dégâts et marque les humanoïdes (démoralisés, -{1} aux compétences de combat pendant {2}).
