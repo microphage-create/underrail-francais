@@ -30,13 +30,13 @@ I will transfer three quarters of them to you. Command them well, subcognator.<e
 =>q5
 Sous mon commandement, il ne reste même plus un peloton.
 
-Je vous en transférerai les trois quarts. Commandez-les bien, sous-cognator.<end>
+Je vous en transférerai les trois quarts. Commandez-les bien, subcognator.<end>
 
 =>a6_original
 Finally, a promotion. Had enough of being a measly corporal.<end>
 
 =>a6
-Enfin une promotion. J'en ai assez d'être un misérable caporal.<end>
+Enfin une promotion. J'en ai assez d'être $(#un misérable caporal/une misérable caporale).<end>
 
 =>q7_original
 Look into the pool...
@@ -64,7 +64,7 @@ Oui, monsieur.<end>
 I'm ready, I guess.<end>
 
 =>a10
-Je suis prêt, je suppose.<end>
+Je suis prêt$(#/e), je suppose.<end>
 
 =>a11_original
 But where are they?<end>
@@ -76,7 +76,7 @@ Mais où sont-ils ?<end>
 I have serious doubts about this...<end>
 
 =>a12
-J'ai de sérieux doutes à ce sujet...<end>
+J'ai de sérieux doutes...<end>
 
 =>a13_original
 I don't see anything.<end>
@@ -100,7 +100,7 @@ Doesn't look like much.<end>
 It will soon enough.<end>
 
 =>q16
-Ce sera bientôt le cas.<end>
+Ça le sera bien assez tôt.<end>
 
 =>a17_original
 This dirty pool?<end>
@@ -116,7 +116,7 @@ There is more...<end>
 =>q18
 Souillé. Par eux.
 
-Il y a plus...<end>
+Ce n'est pas tout...<end>
 
 =>q19_original
 It never ends...<end>
@@ -128,7 +128,7 @@ It never ends...<end>
 ::Look into the pool...::<end>
 
 =>a20
-::Regardez dans le bassin...::<end>
+::Regarder dans le bassin...::<end>
 
 =>q21_original
 <end>
@@ -146,11 +146,11 @@ All remaining squads, resp--
 Nnnn--<end>
 
 =>q22
-Nous perdons... Nous avons perdu...
+Nous perd-- Nous avons per--
 
 Envahisseurs !
 
-Toutes les escouades restantes, resp...
+Toutes les escouades restantes, répon--
 
 Nnnn--<end>
 
@@ -158,7 +158,7 @@ Nnnn--<end>
 Snap out of it, we can still pull this off!<end>
 
 =>a23
-Revenez-nous, on peut encore y arriver !<end>
+Reprenez-vous, on peut encore y arriver !<end>
 
 =>q24_original
 No...<end>
@@ -182,7 +182,7 @@ Non...<end>
 ::His head drops down.::<end>
 
 =>q27
-::Sa tête descend.::<end>
+::Sa tête s'affaisse.::<end>
 
 =>a28_original
 ::Wait for the inevitable.::<end>
@@ -206,7 +206,7 @@ V-v-victoire...<end>
 Subcognator.<end>
 
 =>q31
-Sous-cognator.<end>
+Subcognator.<end>
 
 =>q32_original
 <end>
@@ -218,13 +218,13 @@ Sous-cognator.<end>
 Commence battle!<end>
 
 =>a33
-Commencer le combat.<end>
+Engager le combat.<end>
 
 =>q34_original
 My squad will take over the northern frontline. They are not your concern.<end>
 
 =>q34
-Mon escouade prendra le contrôle de la ligne de front nord. Ce n'est pas votre affaire.<end>
+Mon escouade prendra la ligne de front nord. Ne vous en occupez pas.<end>
 
 =>q35_original
 <end>
@@ -245,7 +245,7 @@ East frontline will *attack*.
 <end>
 
 =>q37
-La ligne de front Est *attaquera*.
+La ligne de front est *attaquera*.
 <end>
 
 =>q38_original
@@ -322,7 +322,7 @@ La ligne de front nord *défendra*.
 I'm going to need a briefing, sir.<end>
 
 =>a47
-Je vais avoir besoin d'un briefing.<end>
+J'ai besoin d'un briefing, monsieur.<end>
 
 =>q48_original
 First course of action: Inspect the battlefield, assess the enemy, gather intel.
@@ -332,9 +332,9 @@ Determine which front should be on the offense, and which on the defense.
 Deploy troops and any assets you may have accordingly.<end>
 
 =>q48
-Premier plan d'action : inspecter le champ de bataille, évaluer l'ennemi, rassembler le renseignement.
+Première étape : inspectez le champ de bataille, évaluez l'ennemi, recueillez du renseignement.
 
-Déterminer quel front attaque, et lequel défend.
+Déterminez quel front attaque, et lequel défend.
 
 Déployez les troupes et les moyens dont vous disposez en conséquence.<end>
 
@@ -344,7 +344,7 @@ Make sure to visit your subordinates after each battle, assess morale and interv
 The ultimate objective is to breach through the invading enemy's defenses... and illuminate all fronts.<end>
 
 =>q49
-Allez voir vos subordonnés après chaque bataille, évaluez le moral, intervenez ou redéployez.
+N'oubliez pas d'aller voir vos subordonnés après chaque bataille : évaluez le moral, intervenez ou redéployez.
 
 L'objectif ultime : percer les défenses de l'ennemi envahisseur... et illuminer tous les fronts.<end>
 
@@ -352,13 +352,13 @@ L'objectif ultime : percer les défenses de l'ennemi envahisseur... et illuminer
 ::Deploy combatants.::<end>
 
 =>a50
-::Déployer des combattants.::<end>
+::Déployer les combattants.::<end>
 
 =>q51_original
 The troops are awaiting your orders. Address them by their call signs.<end>
 
 =>q51
-Les troupes attendent vos ordres. Appelez-les par leurs indicatifs.<end>
+Les troupes attendent vos ordres. Adressez-vous à elles par leurs indicatifs.<end>
 
 =>q52_original
 
@@ -368,7 +368,7 @@ My squad will hold the north frontline for as long as possible.<end>
 =>q52
 
 
-Mon équipe tiendra la ligne de front nord aussi longtemps que possible.<end>
+Mon escouade tiendra la ligne de front nord aussi longtemps que possible.<end>
 
 =>q53_original
 <end>
@@ -380,7 +380,7 @@ Mon équipe tiendra la ligne de front nord aussi longtemps que possible.<end>
 ::Exosoldier deployment.::<end>
 
 =>a54
-::Déploiement d'exosoldier.::<end>
+::Déploiement Exosoldier.::<end>
 
 =>q55_original
 Exosoldiers standing by.<end>
@@ -398,7 +398,7 @@ Exosoldiers en attente.<end>
 ::Deploy soldier 1 .::<end>
 
 =>a57
-::Déployer le soldat 1 .::<end>
+::Déployer le soldat 1.::<end>
 
 =>q58_original
 Almach ready for deployment.<end>
@@ -410,7 +410,7 @@ Almach prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a59
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>q60_original
 Exosoldier deployed.<end>
@@ -422,19 +422,19 @@ Exosoldier déployé.<end>
 ::Move to east frontline.::<end>
 
 =>a61
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a62_original
 ::Move to south frontline.::<end>
 
 =>a62
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a63_original
 ::Move to west frontline.::<end>
 
 =>a63
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a64_original
 ::Go back.::<end>
@@ -446,43 +446,43 @@ Exosoldier déployé.<end>
 ::Deploy soldier 2.::<end>
 
 =>a65
-::Déploiement du soldat 2.::<end>
+::Déployer le soldat 2.::<end>
 
 =>q66_original
 Rigel ready for deployment.<end>
 
 =>q66
-Rigel est prêt pour le déploiement.<end>
+Rigel prêt pour le déploiement.<end>
 
 =>a67_original
 ::Move to north frontline.::<end>
 
 =>a67
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a68_original
 ::Move to east frontline.::<end>
 
 =>a68
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a69_original
 ::Move to south frontline.::<end>
 
 =>a69
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a70_original
 ::Move to west frontline.::<end>
 
 =>a70
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a71_original
 ::Deploy soldier 3.::<end>
 
 =>a71
-::Déploiement du soldat 3.::<end>
+::Déployer le soldat 3.::<end>
 
 =>q72_original
 Altair ready for deployment.<end>
@@ -494,31 +494,31 @@ Altair prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a73
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a74_original
 ::Move to east frontline.::<end>
 
 =>a74
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a75_original
 ::Move to south frontline.::<end>
 
 =>a75
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a76_original
 ::Move to west frontline.::<end>
 
 =>a76
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a77_original
 ::Deploy soldier 4.::<end>
 
 =>a77
-::Déployer un soldat 4.::<end>
+::Déployer le soldat 4.::<end>
 
 =>q78_original
 Naos ready for deployment.<end>
@@ -530,31 +530,31 @@ Naos prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a79
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a80_original
 ::Move to east frontline.::<end>
 
 =>a80
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a81_original
 ::Move to south frontline.::<end>
 
 =>a81
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a82_original
 ::Move to west frontline.::<end>
 
 =>a82
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a83_original
 ::Deploy soldier 5.::<end>
 
 =>a83
-::Déploiement du soldat 5.::<end>
+::Déployer le soldat 5.::<end>
 
 =>q84_original
 Caph ready for deployment.<end>
@@ -566,31 +566,31 @@ Caph prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a85
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a86_original
 ::Move to east frontline.::<end>
 
 =>a86
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a87_original
 ::Move to south frontline.::<end>
 
 =>a87
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a88_original
 ::Move to west frontline.::<end>
 
 =>a88
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a89_original
 ::Deploy soldier 6.::<end>
 
 =>a89
-::Déploiement du soldat 6.::<end>
+::Déployer le soldat 6.::<end>
 
 =>q90_original
 Thuban ready for deployment.<end>
@@ -602,31 +602,31 @@ Thuban prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a91
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a92_original
 ::Move to east frontline.::<end>
 
 =>a92
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a93_original
 ::Move to south frontline.::<end>
 
 =>a93
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a94_original
 ::Move to west frontline.::<end>
 
 =>a94
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a95_original
 ::Deploy soldier 7.::<end>
 
 =>a95
-::Déploiement du soldat 7.::<end>
+::Déployer le soldat 7.::<end>
 
 =>q96_original
 Castor ready for deployment.<end>
@@ -638,25 +638,25 @@ Castor prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a97
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a98_original
 ::Move to east frontline.::<end>
 
 =>a98
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a99_original
 ::Move to south frontline.::<end>
 
 =>a99
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a100_original
 ::Move to west frontline.::<end>
 
 =>a100
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a101_original
 ::Go back.::<end>
@@ -674,37 +674,37 @@ Castor prêt pour le déploiement.<end>
 Mirfak ready for deployment.<end>
 
 =>q103
-Mirfak est prêt pour le déploiement.<end>
+Mirfak prêt pour le déploiement.<end>
 
 =>a104_original
 ::Move to north frontline.::<end>
 
 =>a104
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a105_original
 ::Move to east frontline.::<end>
 
 =>a105
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a106_original
 ::Move to south frontline.::<end>
 
 =>a106
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a107_original
 ::Move to west frontline.::<end>
 
 =>a107
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a108_original
 ::Deploy soldier 9.::<end>
 
 =>a108
-::Déploiement du soldat 9.::<end>
+::Déployer le soldat 9.::<end>
 
 =>q109_original
 Enif ready for deployment.<end>
@@ -716,31 +716,31 @@ Enif prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a110
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a111_original
 ::Move to east frontline.::<end>
 
 =>a111
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a112_original
 ::Move to south frontline.::<end>
 
 =>a112
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a113_original
 ::Move to west frontline.::<end>
 
 =>a113
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a114_original
 ::Deploy soldier 10.::<end>
 
 =>a114
-::Déploiement du soldat 10.::<end>
+::Déployer le soldat 10.::<end>
 
 =>q115_original
 Algol ready for deployment.<end>
@@ -752,31 +752,31 @@ Algol prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a116
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a117_original
 ::Move to east frontline.::<end>
 
 =>a117
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a118_original
 ::Move to south frontline.::<end>
 
 =>a118
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a119_original
 ::Move to west frontline.::<end>
 
 =>a119
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a120_original
 ::Deploy soldier 11.::<end>
 
 =>a120
-::Déploiement du soldat 11.::<end>
+::Déployer le soldat 11.::<end>
 
 =>q121_original
 Vega ready for deployment.<end>
@@ -788,31 +788,31 @@ Vega prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a122
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a123_original
 ::Move to east frontline.::<end>
 
 =>a123
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a124_original
 ::Move to south frontline.::<end>
 
 =>a124
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a125_original
 ::Move to west frontline.::<end>
 
 =>a125
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a126_original
 ::Deploy soldier 12.::<end>
 
 =>a126
-::Déploiement du soldat 12.::<end>
+::Déployer le soldat 12.::<end>
 
 =>q127_original
 Saiph ready for deployment.<end>
@@ -824,25 +824,25 @@ Saiph prêt pour le déploiement.<end>
 ::Move to north frontline.::<end>
 
 =>a128
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a129_original
 ::Move to east frontline.::<end>
 
 =>a129
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a130_original
 ::Move to south frontline.::<end>
 
 =>a130
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a131_original
 ::Move to west frontline.::<end>
 
 =>a131
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a132_original
 ::Go back.::<end>
@@ -854,31 +854,31 @@ Saiph prêt pour le déploiement.<end>
 ::Technomedic deployment.::<end>
 
 =>a133
-::Déploiement technomédical.::<end>
+::Déploiement Technomedic.::<end>
 
 =>q134_original
 Techomedical personnel standing by.<end>
 
 =>q134
-Personnel technomédical en attente.<end>
+Personnel Technomedic en attente.<end>
 
 =>a135_original
 ::Deploy medic 1.::<end>
 
 =>a135
-::Déployer un médecin 1.::<end>
+::Déployer le médecin 1.::<end>
 
 =>q136_original
 Auster, prepped and ready.<end>
 
 =>q136
-Auster, paré.<end>
+Auster, paré et prêt.<end>
 
 =>a137_original
 ::Move to north frontline.::<end>
 
 =>a137
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>q138_original
 Technomedic deployed.<end>
@@ -890,19 +890,19 @@ Technomedic déployé.<end>
 ::Move to east frontline.::<end>
 
 =>a139
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a140_original
 ::Move to south frontline.::<end>
 
 =>a140
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a141_original
 ::Move to west frontline.::<end>
 
 =>a141
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a142_original
 ::Go back.::<end>
@@ -914,43 +914,43 @@ Technomedic déployé.<end>
 ::Deploy medic 2.::<end>
 
 =>a143
-::Déployer un médecin 2.::<end>
+::Déployer le médecin 2.::<end>
 
 =>q144_original
 Eurus, prepped and ready.<end>
 
 =>q144
-Eurus, paré.<end>
+Eurus, paré et prêt.<end>
 
 =>a145_original
 ::Move to north frontline.::<end>
 
 =>a145
-::Aller à la ligne de front nord.::<end>
+::Déplacer vers la ligne de front nord.::<end>
 
 =>a146_original
 ::Move to east frontline.::<end>
 
 =>a146
-::Aller à la ligne de front est.::<end>
+::Déplacer vers la ligne de front est.::<end>
 
 =>a147_original
 ::Move to south frontline.::<end>
 
 =>a147
-::Aller à la ligne de front sud.::<end>
+::Déplacer vers la ligne de front sud.::<end>
 
 =>a148_original
 ::Move to west frontline.::<end>
 
 =>a148
-::Aller à la ligne de front ouest.::<end>
+::Déplacer vers la ligne de front ouest.::<end>
 
 =>a149_original
 ::Intercessor deployment.::<end>
 
 =>a149
-::Déploiement intercesseur.::<end>
+::Déploiement Intercessor.::<end>
 
 =>q150_original
 Calvera ready.<end>
@@ -962,31 +962,31 @@ Calvera prêt.<end>
 ::Deploy to north frontline.::<end>
 
 =>a151
-::Déployer à la ligne de front nord.::<end>
+::Déployer vers la ligne de front nord.::<end>
 
 =>q152_original
 Intercessor deployed.<end>
 
 =>q152
-Intercesseur déployé.<end>
+Intercessor déployé.<end>
 
 =>a153_original
 ::Deploy to east frontline.::<end>
 
 =>a153
-::Déployer à la ligne de front est.::<end>
+::Déployer vers la ligne de front est.::<end>
 
 =>a154_original
 ::Deploy to south frontline.::<end>
 
 =>a154
-::Déployer à la ligne de front sud.::<end>
+::Déployer vers la ligne de front sud.::<end>
 
 =>a155_original
 ::Deploy to west frontline.::<end>
 
 =>a155
-::Déployer à la ligne de front ouest.::<end>
+::Déployer vers la ligne de front ouest.::<end>
 
 =>a156_original
 ::Go back.::<end>
@@ -1102,7 +1102,7 @@ L'Est attaquera.<end>
 I want the south to defend.<end>
 
 =>a172
-Je veux que le Sud se défende.<end>
+Je veux que le sud se défende.<end>
 
 =>q173_original
 South will defend.<end>
@@ -1192,9 +1192,9 @@ Where do you wish to place it?
 <end>
 
 =>q185
-La Brilliance.
+*La Brilliance.*
 
-Où voulez-vous le placer ?
+Où voulez-vous la placer ?
 
 <end>
 
@@ -1214,7 +1214,7 @@ La ligne de front est devrait l'avoir.<end>
 The Brilliance has been deployed to the eastern frontline.<end>
 
 =>q188
-La Brilliance a été déployée sur le front est.<end>
+La Brilliance a été déployée sur la ligne de front est.<end>
 
 =>a189_original
 South frontline should have it.<end>
@@ -1262,7 +1262,7 @@ La Brilliance a été déployée sur la ligne de front nord.<end>
 Currently, the Brilliance is located at the south frontline.<end>
 
 =>q196
-Actuellement, la Brilliance est située au front sud.<end>
+Actuellement, la Brilliance est située sur la ligne de front sud.<end>
 
 =>q197_original
 Currently, the Brilliance is located at the west frontline.<end>
@@ -1274,13 +1274,13 @@ Actuellement, la Brilliance est située sur la ligne de front ouest.<end>
 It has yet to be deployed.<end>
 
 =>q198
-Il n'a pas encore été déployé.<end>
+Elle n'a pas encore été déployée.<end>
 
 =>a199_original
 I wish to address all available troops.<end>
 
 =>a199
-Je voudrais m'adresser à toutes les troupes disponibles.<end>
+Je souhaite m'adresser à toutes les troupes disponibles.<end>
 
 =>q200_original
 Propagate your thoughts, and they will receive them.<end>
@@ -1298,7 +1298,7 @@ Propagez vos pensées, et elles les recevront.<end>
 ::Void is all around you. Never has such emptiness felt so full and oppressive. Yet through your mind you use its impossible surface as a canvas to paint on. Your thoughts plant light in its darkest parts and manifest colors both seen and unseen.::<end>
 
 =>q202
-::Le Void est partout autour de vous. Jamais un tel vide n'a paru si plein, si oppressant. Pourtant, par l'esprit, vous prenez sa surface impossible pour toile. Vos pensées plantent de la lumière dans ses recoins les plus sombres et font naître des couleurs vues et non vues.::<end>
+::Le Void est partout autour de vous. Jamais un tel vide n'a paru si plein et si oppressant. Pourtant, par l'esprit, vous prenez sa surface impossible pour toile. Vos pensées plantent de la lumière dans ses recoins les plus sombres et font naître des couleurs, vues et non vues.::<end>
 
 =>q203_original
 ::Outside your will, little glimmers of light begin pulsing into existence all over this darkscape.
@@ -1306,9 +1306,9 @@ Propagez vos pensées, et elles les recevront.<end>
 They may appear identical, but each one has a life of its own.::<end>
 
 =>q203
-::Hors de votre volonté, de petites lueurs se mettent à pulser dans ce paysage sombre.
+::En dehors de votre volonté, de petites lueurs se mettent à pulser dans toute cette étendue sombre.
 
-Elles peuvent sembler identiques, mais chacune a une vie à elle.::<end>
+Elles peuvent sembler identiques, mais chacune a une vie qui lui est propre.::<end>
 
 =>q204_original
 ::The Void fights back, its shadowy space collapsing upon itself and swallowing your light.
@@ -1316,9 +1316,9 @@ Elles peuvent sembler identiques, mais chacune a une vie à elle.::<end>
 But the glimmers, some of them linger on...::<end>
 
 =>q204
-::Le Void riposte, son espace d'ombre s'effondre sur lui-même et avale votre lumière.
+::Le Void riposte. Son espace d'ombre s'effondre sur lui-même et avale votre lumière.
 
-Mais les lueurs, certaines tiennent encore...::<end>
+Mais certaines lueurs tiennent encore...::<end>
 
 =>a205_original
 ::Back.::<end>
@@ -1346,13 +1346,13 @@ You perceive many imperfect spheres of light. The small ones cast signal the lar
 =>q208
 ::Vous vous concentrez.
 
-Vous percevez beaucoup de sphères de lumière imparfaites. Les petites lancent un signal vers la grande, moins imparfaite, et elle leur répond, mais la communication entre les petites se perd facilement dans l'obscurité.::<end>
+Vous percevez beaucoup de sphères de lumière imparfaites. Les petites émettent un signal vers la grande, moins imparfaite, et elle leur répond, mais la communication entre les petites se perd facilement dans l'obscurité qui règne.::<end>
 
 =>q209_original
 ::You imagine these signals as beams of light, and you guide them. One little identical sphere connects with the other little identical sphere. Then you connect the third one... and another... and another... until the network grows to an impressive size.::<end>
 
 =>q209
-::Vous imaginez ces signaux comme des faisceaux de lumière, et vous les guidez. Une petite sphère identique se connecte à l'autre petite sphère identique. Puis vous connectez le troisième... et l'autre... et l'autre... jusqu'à ce que le réseau atteigne une taille impressionnante.::<end>
+::Vous imaginez ces signaux comme des faisceaux de lumière, et vous les guidez. Une petite sphère identique se relie à l'autre petite sphère identique. Puis vous reliez la troisième... et une autre... et une autre... jusqu'à ce que le réseau prenne une taille impressionnante.::<end>
 
 =>q210_original
 ::No longer are little ones myopically linked just to the large sphere - now they are all linked to each other.
@@ -1360,13 +1360,13 @@ Vous percevez beaucoup de sphères de lumière imparfaites. Les petites lancent 
 There is interference. It severs the links, and it will eventually undo all of your work. But it will take time.::<end>
 
 =>q210
-::Les petits ne sont plus myopiquement liés à la grande sphère, maintenant ils sont tous liés les uns aux autres.
+::Les petites ne sont plus liées, à courte vue, à la seule grande sphère : maintenant elles sont toutes liées les unes aux autres.
 
-Il y a des interférences. Il coupe les liens, et il finira par annuler tout votre travail. Mais ça prendra du temps.::<end>
+Des interférences coupent les liens, et elles finiront par défaire tout votre travail. Mais ça prendra du temps.::<end>
 
 =>q211_original
 This may not be a wise choice. The men have experienced far too much. Tend to them personally.<end>
 
 =>q211
-Ce n'est peut-être pas un choix prudent. Les hommes ont trop vu. Occupez-vous d'eux en personne.<end>
+Ce n'est peut-être pas un choix prudent. Les hommes en ont trop vécu. Occupez-vous d'eux en personne.<end>
 

@@ -4,9 +4,9 @@
 At ease, Corporal. Welcome to Epione Lab. I'm Captain Blackwall. I suspect Colonel Cathcart sent you here.<end>
 
 =>q1
-::Le capitaine observe en silence, sans un geste, un Dreadnought qui déblaie le gros tas de gravats. Le bruit assourdissant de la foreuse qui pulvérise les débris ne le dérange pas ; il a même l'air d'apprécier, à en juger par les sourires qui lui traversent le visage de temps à autre. Votre arrivée le sort de sa quiétude.::
+::Vous trouvez le capitaine, silencieux et calme, en train d'observer un Dreadnought qui déblaie le gros tas de gravats. Le bruit assourdissant de la grande foreuse qui pulvérise les débris ne le dérange pas ; il a même l'air d'apprécier, à en juger par les sourires qui lui traversent le visage de temps à autre. Votre arrivée le sort toutefois de sa tranquillité.::
 
-Repos, caporal. Bienvenue à Epione Lab. Capitaine Blackwall. Le colonel Cathcart vous a $(#envoyé/envoyée), je présume.<end>
+Repos, caporal. Bienvenue à Epione Lab. Je suis le capitaine Blackwall. Le colonel Cathcart vous a $(#envoyé/envoyée), je présume.<end>
 
 =>a2_original
 That is correct, sir.<end>
@@ -18,13 +18,13 @@ C'est exact, monsieur.<end>
 To be frank, I expected... more than a single soldier. But, no matter, I hope you had no trouble finding us. I want you to listen carefully now, Corporal.<end>
 
 =>q3
-Pour être franc, je m'attendais à... plus qu'un seul soldat. Peu importe. J'espère que vous n'avez pas eu de mal à nous trouver. Écoutez-moi bien maintenant, caporal.<end>
+Pour être franc, je m'attendais à... davantage qu'un soldat isolé. Peu importe. J'espère que vous n'avez pas eu de mal à nous trouver. Maintenant, écoutez-moi bien, caporal.<end>
 
 =>q4_original
 The situation is as follows: Due to the extreme importance of Epione Lab, I had ordered regular and heavily armed patrols around the facility's perimeter ever since its establishment. Recently, not one, but several of our patrols reported some rather strange happenings. Silhouettes moving in the dark passageways, footsteps echoing the tunnels, voices... those sort of things. As if someone or *something* is circling and probing our perimeter.<end>
 
 =>q4
-Voici la situation : vu l'importance extrême d'Epione Lab, j'ai ordonné dès l'installation des patrouilles régulières, lourdement armées, autour du périmètre. Récemment, non pas une, mais plusieurs de nos patrouilles ont signalé des faits plutôt étranges. Des silhouettes qui bougent dans les passages sombres, des pas qui résonnent dans les tunnels, des voix... ce genre de choses. Comme si quelqu'un, ou *quelque chose*, tournait autour du périmètre et le sondait.<end>
+Voici la situation. Epione Lab est d'une importance extrême : dès sa mise en place, j'ai ordonné des patrouilles régulières, lourdement armées, autour du périmètre. Récemment, ce n'est pas une patrouille, mais plusieurs, qui ont signalé des incidents plutôt étranges. Des silhouettes dans les passages sombres, des pas qui résonnent dans les tunnels, des voix... ce genre de choses. Comme si quelqu'un, ou *quelque chose*, tournait autour du périmètre et le sondait.<end>
 
 =>q5_original
 These occurrences have repeated several times already within a short period of time, and to be frank, Corporal - that makes me uneasy. Very much. My patrolmen were never able to catch anyone suspicious, but I'd be a fool to disregard their reports. We have many enemies in the South, but even regular bandits and other lowlife know they'd get shot to pieces if they were spotted this close to the facility. No, someone else must be behind this.
@@ -32,7 +32,7 @@ These occurrences have repeated several times already within a short period of t
 Therefore, I contacted Colonel Cathcart and requested aid.<end>
 
 =>q5
-Ces faits se sont déjà répétés plusieurs fois en peu de temps, et pour être franc, caporal : ça me met mal à l'aise. Très. Mes patrouilleurs n'ont jamais pu mettre la main sur le moindre suspect, mais je serais un imbécile d'ignorer leurs rapports. Nous avons beaucoup d'ennemis dans le Sud, mais même les bandits ordinaires et la racaille savent qu'ils se feraient hacher menu s'ils se faisaient voir si près du site. Non, il y a quelqu'un d'autre derrière tout ça.
+Ça s'est déjà répété plusieurs fois en peu de temps, et pour être franc, caporal : ça me met mal à l'aise. Très mal. Mes patrouilleurs n'ont jamais pu mettre la main sur le moindre suspect, mais je serais un imbécile d'ignorer leurs rapports. Nous avons beaucoup d'ennemis dans le Sud, mais même les bandits ordinaires et la racaille savent qu'ils se feraient tailler en pièces s'ils se faisaient repérer si près du site. Non, il y a quelqu'un d'autre derrière tout ça.
 
 J'ai donc contacté le colonel Cathcart et demandé du renfort.<end>
 
@@ -40,19 +40,19 @@ J'ai donc contacté le colonel Cathcart et demandé du renfort.<end>
 What do you need me for, sir?<end>
 
 =>a6
-Qu'attendez-vous de moi, monsieur ?<end>
+Que voulez-vous de moi, monsieur ?<end>
 
 =>q7_original
 Corporal, pay attention, please. I want that area scrutinized. If even a centipede is missing a leg, I want to know about it.<end>
 
 =>q7
-Caporal, écoutez-moi. Je veux que le secteur soit passé au peigne fin. S'il manque une patte à un mille-pattes, je veux le savoir.<end>
+Caporal, un peu d'attention, s'il vous plaît. Je veux ce secteur passé au peigne fin. S'il manque une patte à un mille-pattes, je veux le savoir.<end>
 
 =>q8_original
 I think that's clear enough. Do you have any further questions for me, Corporal, or are we done here?<end>
 
 =>q8
-Je pense que c'est assez clair. D'autres questions, caporal, ou c'est tout ?<end>
+Je pense que c'est assez clair. D'autres questions, caporal, ou on en a fini ?<end>
 
 =>a9_original
 No, sir. I'm on my way, sir.<end>
@@ -66,7 +66,7 @@ Perfect. Report to me once you've got something. Oh, and... since you're working
 That is all. Dismissed.<end>
 
 =>q10
-Parfait. Faites-moi rapport dès que vous tenez quelque chose. Ah, et... puisque vous travaillez $(#seul/seule), mieux vaut rester aussi $(#furtif/furtive) que possible. Comme ça, vous pourrez peut-être repérer nos visiteurs mystérieux - s'ils existent - avant qu'ils ne vous repèrent.
+Parfait. Faites-moi rapport dès que vous avez quelque chose. Ah, et... puisque vous travaillez $(#seul/seule), mieux vaut rester aussi $(#furtif/furtive) que possible. Comme ça, vous pourrez peut-être repérer nos visiteurs mystérieux - s'ils existent vraiment - avant qu'ils ne vous repèrent.
 
 Ce sera tout. Rompez.<end>
 
@@ -80,7 +80,7 @@ J'avais d'autres questions, monsieur. Si ça ne vous dérange pas.<end>
 Not at all. What did you have in mind, Corporal?<end>
 
 =>q12
-Pas du tout. Que voulez-vous savoir, caporal ?<end>
+Pas du tout. Je vous écoute, caporal.<end>
 
 =>q13_original
 <end>
@@ -98,7 +98,7 @@ J'ai trouvé un groupe de Free Drones caché près d'Epione Lab. Ils ne respiren
 Outstanding work, Corporal. Free Drones, you say... To be frank, it's no surprise. I already had suspicions it was them skittering around... I just needed proof. ::His eyes shift to the right while he continues.:: So, they suspect something is happening here... We need to mobilize. I'll request more troops from Fort Apogee... hmmm...<end>
 
 =>q15
-Excellent travail, caporal. Des Free Drones, dites-vous... Pour être franc, ça ne me surprend pas. Je les soupçonnais déjà de rôder dans le coin... Il me fallait une preuve. ::Ses yeux glissent vers la droite tandis qu'il continue.:: Donc ils se doutent que quelque chose se passe ici... Il faut se mobiliser. Je vais demander plus de troupes à Fort Apogee... hmmm...<end>
+Excellent travail, caporal. Des Free Drones, dites-vous... Pour être franc, ça ne me surprend pas. Je les soupçonnais déjà de se faufiler dans le coin... Il me fallait une preuve. ::Son regard part vers la droite pendant qu'il continue.:: Donc ils se doutent que quelque chose se passe ici... Il faut mobiliser. Je vais demander plus de troupes à Fort Apogee... hmmm...<end>
 
 =>q16_original
 Oh, ignore me talking to myself. All in all - outstanding work, Corporal. You are shaping up to be quite a valuable asset. Yes, yes... I already know what you did in Rail Crossing. Good work, soldier.
@@ -106,15 +106,15 @@ Oh, ignore me talking to myself. All in all - outstanding work, Corporal. You ar
 Back to the current issue. Tell me: Where did you find their hideout?<end>
 
 =>q16
-Oh, ne faites pas attention, je réfléchis à voix haute. Bref : excellent travail, caporal. Vous êtes en train de devenir un atout précieux. Oui, oui... Je sais déjà ce que vous avez fait à Rail Crossing. Bon travail, soldat.
+Oh, ne faites pas attention, je me parle. Quoi qu'il en soit, excellent travail, caporal. Vous vous révélez un atout précieux. Oui, oui... Je sais déjà ce que vous avez fait à Rail Crossing. Bon travail, soldat.
 
-Revenons au sujet. Dites-moi : où avez-vous trouvé leur cachette ?<end>
+Revenons à l'affaire. Dites-moi : où avez-vous trouvé leur cachette ?<end>
 
 =>a17_original
 It's just to the north of here, sir; the eastern entrance to the first passageway leads right to their hideout.<end>
 
 =>a17
-Juste au nord d'ici, monsieur ; l'entrée côté est du premier passage mène droit à leur cachette.<end>
+Juste au nord d'ici, monsieur. L'entrée côté est du premier passage mène droit à leur cachette.<end>
 
 =>q18_original
 Perfect. I'll send some men there right away; maybe they'll dig out something useful.
@@ -122,7 +122,7 @@ Perfect. I'll send some men there right away; maybe they'll dig out something us
 You are dismissed, Corporal. You may return to Fort Apogee.<end>
 
 =>q18
-Parfait. J'y envoie des hommes tout de suite ; ils mettront peut-être la main sur quelque chose d'utile.
+Parfait. J'y envoie des hommes tout de suite ; ils y dénicheront peut-être quelque chose d'utile.
 
 Rompez, caporal. Vous pouvez retourner à Fort Apogee.<end>
 
@@ -148,7 +148,7 @@ Pour être franc, caporal, je ne peux pas vous le dire. C'est classifié.<end>
 But, I can tell you that it is extremely important for the future of all military operations in South Underrail. That's all you need to know for now. Any other questions?<end>
 
 =>q22
-Mais je peux vous dire que c'est extrêmement important pour l'avenir de toutes les opérations militaires dans South Underrail. C'est tout ce que vous avez à savoir pour l'instant. D'autres questions ?<end>
+Mais je peux vous dire que c'est extrêmement important pour l'avenir de toutes les opérations militaires dans South Underrail. C'est tout ce qu'il vous faut savoir pour l'instant. D'autres questions ?<end>
 
 =>a23_original
 You use Dreadnoughts to clear rubble?<end>
@@ -160,13 +160,13 @@ Vous utilisez des Dreadnoughts pour déblayer les gravats ?<end>
 Dreadnoughts are designed for that, Corporal. Other than having superior weaponry they also come equipped with incredibly powerful and durable drills. When you need to make an entry, you can drill your own way if the existing one doesn't *fit* your needs. ::He laughs.::<end>
 
 =>q24
-Les Dreadnoughts sont faits pour ça, caporal. En plus d'un armement supérieur, ils embarquent des foreuses d'une puissance et d'une résistance incroyables. Quand il faut forcer une entrée, vous pouvez vous forer votre propre chemin si le passage existant ne *convient* pas. ::Il rit.::<end>
+Les Dreadnoughts sont conçus pour ça, caporal. En plus d'un armement supérieur, ils embarquent des foreuses d'une puissance et d'une résistance incroyables. Quand il faut ouvrir une entrée, vous pouvez forer votre propre chemin si le passage existant ne *convient* pas. ::Il rit.::<end>
 
 =>q25_original
 You'd be surprised how much you can do with them if you think tactically and try to outsmart and outmaneuver your enemy. Of course, they also prove useful when you *only* need to clear some debris, as you can see here. And hear. ::He flashes a smile.::<end>
 
 =>q25
-Vous seriez $(#surpris/surprise) de ce qu'on peut en tirer, si on pense tactique, qu'on cherche à devancer l'ennemi et à le manœuvrer. Bien sûr, ils servent aussi quand on a *seulement* des débris à déblayer, comme vous le voyez ici. Et comme vous l'entendez. ::Il esquisse un sourire.::<end>
+Vous seriez $(#surpris/surprise) de ce qu'on peut en tirer, si on pense tactique, si on cherche à déjouer l'ennemi et à le manœuvrer. Bien sûr, ils servent aussi quand on a *seulement* des débris à déblayer, comme vous le voyez ici. Et l'entendez. ::Un sourire lui traverse le visage.::<end>
 
 =>a26_original
 ::Salute and leave.::<end>
@@ -184,7 +184,7 @@ Vous avez des théories sur ce qui se passe, monsieur ?<end>
 I don't want to speculate, Corporal; I want to know exactly what's happening. I want that area scrutinized. If even a centipede is missing a leg, I want to know about it.<end>
 
 =>q28
-Je ne veux pas spéculer, caporal. Je veux savoir exactement ce qui se passe. Je veux que le secteur soit passé au peigne fin. S'il manque une patte à un mille-pattes, je veux le savoir.<end>
+Je ne veux pas de spéculations, caporal. Je veux savoir exactement ce qui se passe. Je veux ce secteur passé au peigne fin. S'il manque une patte à un mille-pattes, je veux le savoir.<end>
 
 =>a29_original
 I found a group of Free Drones hiding near Epione Lab. They breathe no more.<end>
@@ -204,7 +204,7 @@ Outstanding work, Corporal. Free Drones, you say... To be frank, it's no surpris
 
 Vous... vous les avez trouvés ? C'était... c'était rapide...
 
-Excellent travail, caporal. Des Free Drones, dites-vous... Pour être franc, ça ne me surprend pas. Je les soupçonnais déjà de rôder dans le coin... Il me fallait une preuve. ::Ses yeux glissent vers la droite tandis qu'il continue.:: Donc ils se doutent que quelque chose se passe ici... Il faut se mobiliser. Je vais demander plus de troupes à Fort Apogee... hmmm...<end>
+Excellent travail, caporal. Des Free Drones, dites-vous... Pour être franc, ça ne me surprend pas. Je les soupçonnais déjà de se faufiler dans le coin... Il me fallait une preuve. ::Son regard part vers la droite pendant qu'il continue.:: Donc ils se doutent que quelque chose se passe ici... Il faut mobiliser. Je vais demander plus de troupes à Fort Apogee... hmmm...<end>
 
 =>a31_original
 Yes, he told me to see you about the strange sightings near this site, sir.<end>

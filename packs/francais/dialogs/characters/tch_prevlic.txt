@@ -14,13 +14,13 @@ Parlez à Son Excellence, Harmost Stavros.<end>
 ::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
 
 =>q3
-::Rassophore Prevlic vous regarde en silence, sans un mot. Vous soupçonnez que son visage, sous le masque, est tout aussi inexpressif.::<end>
+::Rassophore Prevlic vous regarde en silence, sans un mot. Vous soupçonnez que, sous le masque, son visage est aussi inexpressif que le masque lui-même.::<end>
 
 =>a4_original
 Can I, um, take a look at what you have available, brother?<end>
 
 =>a4
-Puis-je, euh, jeter un œil à ce que vous avez, frère ?<end>
+Puis-je, euh, voir ce que vous avez, frère ?<end>
 
 =>q5_original
 ::He nods after a short delay.::<end>
@@ -52,9 +52,9 @@ Tchort vous guide, frère.<end>
 Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
 
 =>q9
-::Rassophore Prevlic lève lentement le bras droit et le pose sur sa poitrine, dans un effort pour vous saluer, tandis que le gauche pend, inerte. Son visage vous est invisible, mais une aura de morosité l'entoure : dans ses gestes, dans sa voix, soulignée par ce bras qui pend. Vous êtes $(#certain/certaine) qu'on la lirait au fond de ses yeux, s'ils n'étaient pas cachés derrière le masque.::
+::Rassophore Prevlic lève lentement le bras droit et le pose sur sa poitrine, tant bien que mal, pour vous saluer ; le gauche pend, inerte. Son visage vous est invisible, mais une morosité s'en dégage : dans les gestes, dans la voix, et ce bras qui pend n'arrange rien. Vous êtes $(#certain/certaine) qu'on la lirait au fond de ses yeux, s'ils n'étaient pas cachés derrière le masque.::
 
-Tchort est l'évolution. Je suis Rassophore Prevlic. En quoi puis-je vous aider, $(#frère/sœur) ?<end>
+Tchort est l'évolution. Je suis Rassophore Prevlic. Que puis-je pour vous, $(#frère/sœur) ?<end>
 
 =>q10_original
 <end>
@@ -78,7 +78,7 @@ J'aimerais vous poser quelques questions sur Cytosine Outpost et les récentes a
 I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
 
 =>q13
-Je... je préférerais ne pas parler, euh, des événements récents concernant les Faceless, ni...<end>
+Je... j'aimerais autant ne pas parler, euh, de ce qui s'est passé avec les Faceless, ni...<end>
 
 =>q14_original
 ::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
@@ -90,31 +90,31 @@ Je... je préférerais ne pas parler, euh, des événements récents concernant 
 What is wrong with your arm?<end>
 
 =>a15
-Qu'est-ce qui ne va pas avec votre bras ?<end>
+Que s'est-il passé, à votre bras ?<end>
 
 =>q16_original
 ::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
 
 =>q16
-::Il y jette un coup d'œil, hésite. Un instant plus tard, il répond.:: Ça ? Ça... Une balle a traversé la partie interne de mon épaule pendant... euh, une des attaques récentes. Elle a traversé le... plexus brachial - ce sont, euh, les nerfs du bras - et depuis, j'ai... des difficultés.<end>
+::Il y jette un coup d'œil, hésite. Un instant plus tard, il répond.:: Ça ? Ça... Une balle a traversé la face interne de mon épaule pendant... euh, une des attaques récentes. Elle a traversé le... plexus brachial - ce sont, euh, les nerfs qui commandent le bras - et depuis, j'ai... des difficultés.<end>
 
 =>q17_original
 ::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
 
 =>q17
-::Sa voix tremble.:: Je veux dire... « difficultés » - je ne le sens même plus, ce vestige inutile, encore moins le bouger. ::Il s'arrête.:: Regardez-le, c'est pathétique ! Je ne m'en servirai plus jamais, j'en suis sûr, même si nous *survivons* à l'assaut. Ils vont... ::Il hyperventile.:: Ils reviendront, $(#frère/sœur), euh, ils reviendront. Ils nous élimineront... Ils finiront le travail ! Nous allons mourir !<end>
+::Sa voix tremble.:: Je veux dire... « difficultés » - je ne le sens même plus, cet appendice vestigial, encore moins le bouger. ::Il s'arrête.:: Regardez-le, c'est pathétique ! Je ne m'en servirai plus jamais, j'en suis sûr, même si nous *survivons* à l'assaut. Ils vont... ::Il hyperventile.:: Ils reviendront, $(#frère/sœur), euh, ils reviendront. Ils nous élimineront... Ils iront jusqu'au bout ! Nous allons mourir !<end>
 
 =>a18_original
 ::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
 
 =>a18
-::[Persuade]:: Calmez-vous, frère. Tout ira bien. Tchort a besoin que vous gardiez la tête claire, et que vous fassiez votre devoir avec fierté. Ressaisissez-vous : vous êtes un rassophore.<end>
+::[Persuade]:: Calmez-vous, frère. Tout ira bien. Tchort a besoin que vous gardiez la tête claire, et que vous accomplissiez votre devoir avec fierté. Ressaisissez-vous : vous êtes un rassophore.<end>
 
 =>q19_original
 ::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
 
 =>q19
-::Il prend une grande inspiration, qui semble le calmer.:: Vous... vous avez raison... Oui, vous avez raison ! Ce n'est pas fini. Mes frères et sœurs - certains sont en pire état - tiennent bon, et je dois en faire autant !<end>
+::Il prend une grande inspiration, qui semble le calmer.:: Vous... vous avez raison... Oui, vous avez raison ! Ce n'est pas fini. Mes frères et sœurs - certains sont plus mal en point - tiennent bon, et je dois en faire autant !<end>
 
 =>q20_original
 ::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
@@ -138,15 +138,15 @@ Non, non, non - les Faceless sont forts, ils vont nous submerger... Ils...<end>
 Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
 
 =>q22
-::Il se reprend juste avant de basculer tout à fait.:: Calmez-vous... calmez-vous... ah...
+::Il se reprend juste avant de craquer tout à fait.:: Du calme... du calme... ah...
 
-Allons... il faut changer de sujet, $(#frère/sœur). Euh, besoin de provisions ? Oui ?<end>
+Bon... il faut changer de sujet, $(#frère/sœur). Euh, besoin de provisions ? Oui ?<end>
 
 =>a23_original
 Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
 
 =>a23
-On dirait. Mais nous sommes tous destinés à mourir un jour, n'est-ce pas ? Alors pourquoi ne pas mourir bravement, en essayant de préserver Tchort. N'est-ce pas ce qui nous guide, Rassophore Prevlic ? N'est-ce pas notre but ?<end>
+On dirait. Mais nous mourrons tous un jour, non ? Alors autant mourir bravement, à défendre Tchort. N'est-ce pas ce qui nous guide, Rassophore Prevlic ? N'est-ce pas notre raison d'être ?<end>
 
 =>q24_original
 ::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
@@ -154,7 +154,7 @@ On dirait. Mais nous sommes tous destinés à mourir un jour, n'est-ce pas ? Alo
 Leave...<end>
 
 =>q24
-::Il se fige d'un coup et reste immobile, jusqu'à ce que vous le voyiez frissonner de peur. Il se prend la tête de son bras valide et se met à pleurer. Quelques instants passent avant qu'il ne parvienne à vous dire un dernier mot.::
+::Il se fige d'un coup et reste immobile, jusqu'à ce que vous le voyiez frissonner de peur. Il se saisit la tête de son bras valide et se met à pleurer. Quelques instants passent avant qu'il ne parvienne à vous dire un dernier mot.::
 
 Partez...<end>
 
@@ -168,7 +168,7 @@ Oui... euh...<end>
 I'll be leaving you. See ya.<end>
 
 =>a26
-Je vous laisse. À plus.<end>
+Je vous laisse. Salut.<end>
 
 =>a27_original
 Tchort guide you, brother.<end>

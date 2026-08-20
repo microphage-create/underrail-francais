@@ -4,7 +4,7 @@
 <end>
 
 =>q1
-::Intacte malgré la chute d'eau qu'elle a dû traverser, la vieille femme vous fixe, l'intrus.::
+::Pas une goutte sur elle, malgré la chute d'eau qu'elle a dû traverser. La vieille femme vous fixe, $(#l'intrus/l'intruse).::
 
 <end>
 
@@ -24,7 +24,7 @@ Qui est cet homme ?<end>
 I said: Get out! ::Her hands begin to tremble, yet her expression remains unchanged.::<end>
 
 =>q4
-J'ai dit : sortez ! ::Ses mains commencent à trembler, mais son expression reste inchangée.::<end>
+J'ai dit : dehors ! ::Ses mains se mettent à trembler, le visage inchangé.::<end>
 
 =>q5_original
 <end>
@@ -36,25 +36,25 @@ J'ai dit : sortez ! ::Ses mains commencent à trembler, mais son expression rest
 I don't mean to be disrespectful, but...<end>
 
 =>a6
-Je ne veux pas être irrespectueux, mais...<end>
+Je ne veux pas être $(#irrespectueux/irrespectueuse), mais...<end>
 
 =>q7_original
 No buts! Get out! There is nothing for you here! Get. *out*!<end>
 
 =>q7
-Pas de mais ! Dehors ! Il n'y a rien pour vous ici ! Dégagez !<end>
+Pas de mais ! Dehors ! Y a rien pour toi ici ! Dehors. *Dehors* !<end>
 
 =>a8_original
 I'm sorry. I will leave.<end>
 
 =>a8
-Je suis désolé. Je vais partir.<end>
+Je suis désolé$(#/e). Je m'en vais.<end>
 
 =>q9_original
 What you saw here... stays with you.<end>
 
 =>q9
-Ce que vous avez vu ici... reste avec vous.<end>
+Ce que tu as vu ici... ça reste avec toi.<end>
 
 =>a10_original
 Make me.<end>
@@ -66,19 +66,19 @@ Forces-moi.<end>
 ::She clenches her bony hands into rigid, spastic claws.::<end>
 
 =>q11
-::Elle serre ses mains osseuses dans des griffes rigides et spastiques.::<end>
+::Elle serre ses mains osseuses en griffes raides, spasmodiques.::<end>
 
 =>a12_original
 ::Fight!::<end>
 
 =>a12
-::Combattre::<end>
+::Combattre.::<end>
 
 =>a13_original
 Is this your son?<end>
 
 =>a13
-C'est votre fils ?<end>
+C'est ton fils ?<end>
 
 =>a14_original
 What is going on here?<end>
@@ -90,7 +90,7 @@ Qu'est-ce qui se passe ici ?<end>
 I'm terribly sorry, I didn't know what was inside the cave.<end>
 
 =>a15
-Désolé, je ne savais pas ce qu'il y avait dans la grotte.<end>
+Je suis désolé$(#/e), je ne savais pas ce qu'il y avait dans la grotte.<end>
 
 =>q16_original
 Now you know. Now you get out!<end>
@@ -120,7 +120,7 @@ Dehors.<end>
 ::The old woman raises her head as much as her humped back allows and looks upon your face.::<end>
 
 =>q20
-::La vieille femme lève la tête autant que son dos bosselé le permet et regarde votre visage.::<end>
+::La vieille femme lève la tête autant que son dos voûté le permet et vous scrute le visage.::<end>
 
 =>q21_original
 <end>
@@ -144,13 +144,13 @@ Je suis l'Invictus.<end>
 You... are psionic.<end>
 
 =>q24
-Vous êtes psionique.<end>
+Tu... es psionique.<end>
 
 =>a25_original
 Yes. How did you know?<end>
 
 =>a25
-Oui. Comment le savez-vous ?<end>
+Oui. Comment tu le sais ?<end>
 
 =>q26_original
 Felt it.
@@ -166,7 +166,7 @@ Je l'ai senti.
 ::She waves you to follow her inside.::<end>
 
 =>q27
-::Elle vous envoie la suivre à l'intérieur.::<end>
+::Elle vous fait signe de la suivre à l'intérieur.::<end>
 
 =>q28_original
 <end>
@@ -208,13 +208,13 @@ Montre-moi ce que tu as. ::Troc.::<end>
 ::[Mercantile]:: I noticed you have a lot of difficult-to-obtain substances. As someone who makes great use of these I am more than willing to pay a lot of money for not having to look for them myself. So if you happen to have something you haven't shown me...<end>
 
 =>a34
-::[Mercantile]:: J'ai remarqué que vous avez beaucoup de substances difficiles à obtenir. En tant que quelqu'un qui fait grand usage de ces derniers, je suis plus que prêt à payer beaucoup d'argent pour ne pas avoir à les chercher moi-même. Donc si vous avez quelque chose que vous ne m'avez pas montré...<end>
+::[Mercantile]:: J'ai vu que tu as beaucoup de substances difficiles à trouver. J'en fais grand usage, et je suis plus que prêt$(#/e) à payer cher pour ne pas avoir à les chercher moi-même. Alors si tu as quelque chose que tu ne m'as pas montré...<end>
 
 =>q35_original
 ::She stares at you in silence.::<end>
 
 =>q35
-::Elle vous regarde en silence.::<end>
+::Elle vous fixe en silence.::<end>
 
 =>q36_original
 <end>
@@ -226,7 +226,7 @@ Montre-moi ce que tu as. ::Troc.::<end>
 I see. Perhaps there are some other goods you'd prefer to money. Leather, fungi, plants, organs? Medication you do not possess? I can get you anything.<end>
 
 =>a37
-Je vois. Peut-être qu'il y a d'autres biens que vous préféreriez de l'argent. Cuir, champignons, plantes, organes ? Vous ne possédez pas de médicaments ? Je peux t'apporter n'importe quoi.<end>
+Je vois. Peut-être que tu préfères autre chose que des charons. Cuir, champignons, plantes, organes ? Des médicaments que tu n'as pas ? Je peux te ramener n'importe quoi.<end>
 
 =>q38_original
 ::She remains motionless for a few moments then walks toward her bed, disappearing from view. She returns with a medium-sized rectangular plastic box full of variegated ampules, vials, bottles and such, each properly labeled, and places it on the table for your to see.:: 
@@ -234,9 +234,9 @@ Je vois. Peut-être qu'il y a d'autres biens que vous préféreriez de l'argent.
 Here.<end>
 
 =>q38
-::Elle reste immobile pendant quelques instants puis marche vers son lit, disparaissant de la vue. Elle revient avec une boîte de plastique rectangulaire de taille moyenne remplie d'ampoules, de flacons, de bouteilles et de tels, chacun correctement étiqueté, et la place sur la table pour que vous puissiez voir.::
+::Elle reste immobile un moment, puis va vers son lit et disparaît. Elle revient avec une boîte en plastique rectangulaire, de taille moyenne, pleine d'ampoules, de flacons, de fioles, le tout étiqueté, et la pose sur la table sous vos yeux.::
 
-Ici.<end>
+Tiens.<end>
 
 =>a39_original
 ::Barter.::<end>
@@ -254,7 +254,7 @@ Ici.<end>
 What do you say? It's a great way to earn some coin.<end>
 
 =>a41
-Qu'en dites-vous ? C'est une excellente façon de gagner une pièce.<end>
+Qu'est-ce que tu en dis ? C'est un bon moyen de gagner des charons.<end>
 
 =>q42_original
 No.<end>
@@ -266,13 +266,13 @@ Non.<end>
 What you see is what you get.<end>
 
 =>q43
-Ce que vous voyez est ce que vous obtenez.<end>
+Tu prends ce que tu vois.<end>
 
 =>a44_original
 Can you check my wounds?<end>
 
 =>a44
-Tu peux vérifier mes blessures ?<end>
+Tu peux regarder mes blessures ?<end>
 
 =>q45_original
 ::She takes a good look at you.::
@@ -280,7 +280,7 @@ Tu peux vérifier mes blessures ?<end>
 Ten charons.<end>
 
 =>q45
-::Elle te regarde bien.::
+::Elle vous examine.::
 
 Dix charons.<end>
 
@@ -294,37 +294,37 @@ Voilà. ::Payer 10 charons.::<end>
 Be still.<end>
 
 =>q47
-Ne bougez pas.<end>
+Bouge pas.<end>
 
 =>a48_original
 ::Let her treat you.::<end>
 
 =>a48
-::Laissez-la vous soigner.::<end>
+::Se laisser soigner.::<end>
 
 =>a49_original
 On the other hand, it's only a flesh wound.<end>
 
 =>a49
-D'un autre côté, ce n'est qu'une blessure à la chair.<end>
+D'un autre côté, c'est qu'une blessure superficielle.<end>
 
 =>q50_original
 ::She is silent.::<end>
 
 =>q50
-::Elle est silencieuse.::<end>
+::Elle se tait.::<end>
 
 =>a51_original
 Do you live alone?<end>
 
 =>a51
-Tu vis seul ?<end>
+Tu vis seule ?<end>
 
 =>q52_original
 ::She stares at you briefly...::<end>
 
 =>q52
-::Elle vous regarde brièvement...::<end>
+::Elle vous fixe un instant...::<end>
 
 =>q53_original
 I have two dogs.<end>
@@ -336,7 +336,7 @@ J'ai deux chiens.<end>
 You are with the Grim Jetters, right?<end>
 
 =>a54
-Vous êtes avec les Jetters Grim, non ?<end>
+Tu es avec les Grim Jetters, non ?<end>
 
 =>q55_original
 Yes.<end>
@@ -348,7 +348,7 @@ Oui.<end>
 An old pirate or...?<end>
 
 =>a56
-Un vieux pirate ou... ?<end>
+Une vieille pirate, ou... ?<end>
 
 =>q57_original
 No. I don't do that. I take care of the ill and wounded, and I help with whatever I can.<end>
@@ -360,13 +360,13 @@ Non. Je fais pas ça. Je m'occupe des malades et des blessés, et j'aide comme j
 How did you end up joining the pirates?<end>
 
 =>a58
-Comment avez-vous fini par rejoindre les pirates ?<end>
+Comment t'as fini chez les pirates ?<end>
 
 =>q59_original
 ::Her eyes lose focus for a moment, her attention clearly elsewhere.::<end>
 
 =>q59
-::Ses yeux perdent un instant de vue, son attention clairement ailleurs.::<end>
+::Ses yeux se vident un instant, l'attention ailleurs.::<end>
 
 =>q60_original
 Leave it.<end>
@@ -378,19 +378,19 @@ Laisse tomber.<end>
 Are there more psionics in the Grim Jetters' ranks?<end>
 
 =>a61
-Y a-t-il plus de psy dans les rangs de Grim Jetters ?<end>
+Y a d'autres psioniques dans les rangs des Grim Jetters ?<end>
 
 =>q62_original
 No. There were some psionics here, but they... were sent under.<end>
 
 =>q62
-Non. Y'en a eu, des psioniques, ici. Mais ils... ont été envoyés au fond.<end>
+Non. Y en a eu, des psioniques, ici. Mais ils... ont été envoyés au fond.<end>
 
 =>a63_original
 Can you interpret dreams?<end>
 
 =>a63
-Pouvez-vous interpréter les rêves ?<end>
+Tu peux interpréter les rêves ?<end>
 
 =>q64_original
 Mm?<end>
@@ -402,31 +402,31 @@ Mm ?<end>
 I have had this dream. I found myself alone in the darkness, naked...<end>
 
 =>a65
-J'ai fait ce rêve. Je me suis retrouvée seule dans l'obscurité, nue...<end>
+J'ai fait ce rêve. Je me suis retrouvé$(#/e) seul$(#/e) dans le noir, nu$(#/e)...<end>
 
 =>q66_original
 And large serpentine eyes were staring at you.<end>
 
 =>q66
-Et de grands yeux serpentins te regardaient.<end>
+Et de grands yeux de serpent te regardaient.<end>
 
 =>a67_original
 No - fearful, trembling eyes.<end>
 
 =>a67
-Non - peureux, yeux tremblants.<end>
+Non. Des yeux peureux, tremblants.<end>
 
 =>q68_original
 That is... unusual. That is not what the rest of us dreamt.<end>
 
 =>q68
-C'est... inhabituel. Ce n'est pas ce que nous avons rêvé.<end>
+C'est... inhabituel. C'est pas ce que nous, on a rêvé.<end>
 
 =>a69_original
 Go on...<end>
 
 =>a69
-Continue...<end>
+Continuer...<end>
 
 =>q70_original
 It started when the expedition arrived.<end>
@@ -438,19 +438,19 @@ It started when the expedition arrived.<end>
 The native shamans are responsible for it. Or more specifically, their High Shaman.<end>
 
 =>a71
-Les chamans indigènes en sont responsables. Ou plus précisément, leur High Shaman.<end>
+Les chamans indigènes. Ou plus précisément, leur Haut Chaman.<end>
 
 =>q72_original
 U... Uyen... surm. Serpent Eyes.<end>
 
 =>q72
-Uyen... surm. Les yeux du serpent.<end>
+U... Uyen... surm. Yeux du Serpent.<end>
 
 =>a73_original
 You know about him?<end>
 
 =>a73
-Tu sais pour lui ?<end>
+Tu le connais ?<end>
 
 =>q74_original
 I've felt his presence.<end>
@@ -470,15 +470,15 @@ J'ai senti sa présence.<end>
 Dreams, they are a means of communication. It is our inner self trying to tells us the truths we don't accept or understand. These truths come in form of ideas, images, emotions and intuitions, because that is the language the inner self speaks, and in our foolishness we often dismiss them because they depart from what we think is real; but dreams do not distort reality - they reveal it. They reveal it.<end>
 
 =>q76
-- C'est quoi ?
+::Après un moment d'hésitation, elle tire vers elle le tabouret de fortune derrière elle et s'assoit, les mains posées sur les genoux.:: Oh... ::Puis elle vous regarde.::
 
-Les rêves sont un moyen de communication. C'est notre moi intérieur qui essaie de nous dire les vérités que nous n'acceptons ni ne comprenons. Ces vérités se présentent sous forme d'idées, d'images, d'émotions et d'intuitions, parce que c'est le langage que parle le moi intérieur, et dans notre folie nous les rejetons souvent parce qu'ils s'écartent de ce que nous pensons être réel; mais les rêves ne déforment pas la réalité - ils la révèlent. Ils le révèlent.<end>
+Les rêves, c'est un langage. C'est le moi intérieur qui essaie de nous dire les vérités qu'on refuse, ou qu'on comprend pas. Ça vient en idées, en images, en émotions, en intuitions : c'est comme ça que le moi intérieur parle. Et on est assez sots pour les rejeter, parce que ça colle pas à ce qu'on croit réel. Mais les rêves ne déforment pas la réalité. Ils la révèlent. Ils la révèlent.<end>
 
 =>q77_original
 This *symbolism* of dreams is not always clear, yet sometimes it seems apparent - but that is a trap. Not because the dreams lie, no, no, but because we might only scratch the surface of the truth we are trying to obtain, so we turn our inner ear away before we've even heard the whole message, thinking we've received it.<end>
 
 =>q77
-Ce *symbolisme* des rêves n'est pas toujours clair, mais parfois il semble évident - mais c'est un piège. Non pas parce que les rêves mentent, non, non, mais parce que nous pourrions seulement gratter la surface de la vérité que nous essayons d'obtenir, donc nous tournons notre oreille intérieure loin avant même d'avoir entendu tout le message, pensant que nous l'avons reçu.<end>
+Ce *symbolisme* des rêves n'est pas toujours clair. Parfois il a l'air évident, et c'est un piège. Pas que les rêves mentent, non, non. C'est qu'on n'effleure que la surface de la vérité qu'on cherche, alors on détourne l'oreille intérieure avant même d'avoir entendu le message en entier, en croyant l'avoir reçu.<end>
 
 =>q78_original
 <end>
@@ -490,7 +490,7 @@ Ce *symbolisme* des rêves n'est pas toujours clair, mais parfois il semble évi
 How do you interpret the dream of me being devoured?<end>
 
 =>a79
-Comment interprétez-vous le rêve d'être dévoré ?<end>
+Comment tu interprètes le rêve où on me dévore ?<end>
 
 =>q80_original
 Let's explore the elements one by one:
@@ -506,29 +506,29 @@ Eyes, a symbol with many meanings: awakening - perhaps to a truth - introspectio
 Suffocation: death.<end>
 
 =>q80
-Explorons les éléments un par un :
+Prenons les éléments un par un :
 
-Ténèbre: peur, mystère - ne pas savoir.
+Ténèbres : peur, mystère. Ne pas savoir.
 
-Froid : solitude, chagrin, peur.
+Froid : solitude, chagrin, effroi.
 
-Nuité : innocence - ou plutôt impuissance.
+Nudité : innocence. Ou plutôt impuissance.
 
-Les yeux, symbole avec de nombreuses significations : éveil - peut-être à la vérité - introspection, porte d'entrée dans l'âme...
+Les yeux, un symbole à plusieurs sens : éveil, peut-être à une vérité. Introspection. Porte vers l'âme...
 
-Suffocation : mort.<end>
+Suffocation : la mort.<end>
 
 =>q81_original
 The message is this: You've come here, not knowing what awaits you; you are unwelcome, but you will not go back; we will show you our nature - and you will die.<end>
 
 =>q81
-Le message est ceci: Vous êtes venu ici, ne sachant pas ce qui vous attend; vous êtes importun, mais vous ne reviendrez pas; nous vous montrerons notre nature - et vous mourrez.<end>
+Le message, le voilà : tu es venu$(#/e) ici sans savoir ce qui t'attend. Tu n'es pas $(#le bienvenu/la bienvenue), mais tu ne reviendras pas. On te montrera notre nature. Et tu mourras.<end>
 
 =>a82_original
 That doesn't sound like something my inner self would say to me.<end>
 
 =>a82
-Ça ne ressemble pas à quelque chose que mon moi intérieur me dirait.<end>
+Ça ressemble pas à ce que mon moi intérieur me dirait.<end>
 
 =>q83_original
 No.<end>
@@ -540,7 +540,7 @@ Non.<end>
 This is not a message from our inner self. It is too clear, untruthful and detached. It is a message *passed on* by our inner self. The mind can extend beyond brain matter and affect the world - psionically. These dreams are nothing but messages from outside minds speaking to our inner self so that it may pass it to us as the truth.<end>
 
 =>q84
-Ce n'est pas un message de notre moi intérieur. C'est trop clair, faux et détaché. C'est un message * transmis* par notre moi intérieur. Le mental peut aller au-delà de la matière cérébrale et affecter le monde - psionnellement. Ces rêves ne sont que des messages de l'extérieur parlant à notre moi intérieur afin qu'il puisse nous les transmettre comme la vérité.<end>
+C'est pas un message de notre moi intérieur. Trop clair, trop faux, trop froid. C'est un message *passé* par le moi intérieur. L'esprit peut aller au-delà de la matière du cerveau et toucher le monde. Psioniquement. Ces rêves, c'est rien d'autre que des messages d'autres esprits, qui parlent à notre moi intérieur pour qu'il nous les donne comme vérité.<end>
 
 =>q85_original
 <end>
@@ -558,7 +558,7 @@ Message des chamans.<end>
 From the shamans. From the Serpentborn shamans.<end>
 
 =>q87
-Des chamans. Des chamans de Serpentborn.<end>
+Des chamans. Des chamans Serpentborn.<end>
 
 =>q88_original
 <end>
@@ -570,31 +570,31 @@ Des chamans. Des chamans de Serpentborn.<end>
 Why does the High Shaman communicate these things to us through dreams?<end>
 
 =>a89
-Pourquoi le Haut Chaman nous communique-t-il ces choses à travers les rêves ?<end>
+Pourquoi le Haut Chaman nous envoie ça par les rêves ?<end>
 
 =>q90_original
 To ingrain the message more firmly than language ever could.<end>
 
 =>q90
-Enraciner le message plus fermement que la langue ne le pouvait.<end>
+Pour graver le message plus fort que les mots ne le pourraient jamais.<end>
 
 =>q91_original
 Also, we do not understand their language. The language of inner self - dreams - we do. It's a language they command well.<end>
 
 =>q91
-De plus, nous ne comprenons pas leur langue. C'est le langage des rêves intérieurs. C'est une langue qu'ils maîtrisent bien.<end>
+Et puis on comprend pas leur langue. La langue du moi intérieur, les rêves, oui. Ça, ils la maîtrisent.<end>
 
 =>a92_original
 Why do the shamans communicate these things to us through dreams?<end>
 
 =>a92
-Pourquoi les chamans nous communiquent-ils ces choses à travers les rêves ?<end>
+Pourquoi les chamans nous envoient ça par les rêves ?<end>
 
 =>a93_original
 How much do you know about the shamans?<end>
 
 =>a93
-Que savez-vous des chamans ?<end>
+Tu sais quoi, sur les chamans ?<end>
 
 =>q94_original
 <end>
@@ -613,7 +613,7 @@ They are spiriters. They speak to the dead and perform sacred rituals... rituals
 <end>
 
 =>q96
-Ce sont des esprits. Ils parlent aux morts et accomplissent des rituels sacrés... des rituels impliquant des serpents et des choses horribles. Je peux ressentir tout cela, parfois faiblement, parfois fortement, mais la présence que je ressens le plus est la présence du Grand Esprit.
+Ce sont des spiriteurs. Ils parlent aux morts, ils font des rituels sacrés... des rituels avec des serpents, et des choses horribles. Je sens tout ça, parfois faible, parfois fort. Mais la présence que je sens le plus, c'est celle du Grand Spiriteur.
 <end>
 
 =>q97_original
@@ -622,25 +622,25 @@ U... Uyen... surm. Serpent Eyes.<end>
 
 =>q97
 
-Uyen... surm. Les yeux du serpent.<end>
+U... Uyen... surm. Yeux du Serpent.<end>
 
 =>q98_original
 He speaks directly to the Serpent and acts upon its will. And it is he who actually speaks through dreams. He is the most powerful of the spiriters.<end>
 
 =>q98
-Il parle directement au Serpent et agit sur sa volonté. Et c'est lui qui parle à travers les rêves. Il est le plus puissant des esprits.<end>
+Il parle directement au Serpent et agit selon Sa volonté. Et c'est lui qui parle vraiment par les rêves. Le plus puissant des spiriteurs.<end>
 
 =>a99_original
 What can you tell me about the Serpent?<end>
 
 =>a99
-Que pouvez-vous me dire sur le Serpent ?<end>
+Tu peux me dire quoi, sur le Serpent ?<end>
 
 =>q100_original
 I know little, but even little is too horrible to mention.<end>
 
 =>q100
-Je sais peu, mais même peu est trop horrible à mentionner.<end>
+J'en sais peu. Mais même ce peu est trop horrible pour en parler.<end>
 
 =>a101_original
 I see. There was something else...<end>
@@ -664,61 +664,61 @@ Je vois. Il y avait autre chose...<end>
 Not much. They are priests. They speak to the dead and perform sacred rituals. That much I have felt.<end>
 
 =>q104
-Pas beaucoup. Ce sont des prêtres. Ils parlent aux morts et accomplissent des rituels sacrés. Ce que j'ai ressenti.<end>
+Pas grand-chose. Ce sont des prêtres. Ils parlent aux morts, ils font des rituels sacrés. Ça, je l'ai senti.<end>
 
 =>a105_original
 Do you know anything about the High Shaman?<end>
 
 =>a105
-Tu sais quelque chose sur le High Shaman ?<end>
+Tu sais quelque chose sur le Haut Chaman ?<end>
 
 =>q106_original
 U... Uyen... surm. Serpent Eyes. I know about him. I've felt his presence.<end>
 
 =>q106
-Uyen... surm. Les yeux du serpent. Je sais pour lui. J'ai senti sa présence.<end>
+U... Uyen... surm. Yeux du Serpent. Je le connais. J'ai senti sa présence.<end>
 
 =>a107_original
 Let's talk about the shamans again.<end>
 
 =>a107
-Parlons encore des chamans.<end>
+Reparler des chamans.<end>
 
 =>a108_original
 That message seems to be primarily directed at the expedition, as you said the dreams started when it arrived.<end>
 
 =>a108
-Ce message semble être principalement dirigé vers l'expédition, comme vous l'avez dit les rêves ont commencé quand il est arrivé.<end>
+Ce message vise surtout l'expédition, tu as dit que les rêves avaient commencé à son arrivée.<end>
 
 =>q109_original
 True. It is aimed at them, but our inner self hears it still.<end>
 
 =>q109
-C'est vrai. Il est destiné à eux, mais notre moi intérieur l'entend encore.<end>
+C'est vrai. C'est à eux que ça s'adresse. Mais notre moi intérieur l'entend quand même.<end>
 
 =>q110_original
 Everyone in the Black Sea can hear it, but it seems to affects the most the people on the expedition's island, or people more sensitive to it, like me.<end>
 
 =>q110
-Tout le monde dans le Black Sea peut l'entendre, mais il semble affecter le plus les gens sur l'île de l'expédition, ou les gens plus sensibles à elle, comme moi.<end>
+Tout le monde dans le Black Sea peut l'entendre. Mais ça touche surtout ceux de l'île de l'expédition, ou les plus sensibles, comme moi.<end>
 
 =>a111_original
 What about that dream I had? In which I was the serpent?<end>
 
 =>a111
-Et mon rêve ? Dans lequel j'étais le serpent ?<end>
+Et ce rêve où j'étais le serpent ?<end>
 
 =>q112_original
 Tell me how it goes.<end>
 
 =>q112
-Dites-moi comment ça se passe.<end>
+Raconte.<end>
 
 =>a113_original
 To sum it up, I am in the dark, but I am not blind. I see small trembling eyes that provoke hunger. The last thing I feel is triumph.<end>
 
 =>a113
-Pour résumer, je suis dans le noir, mais je ne suis pas aveugle. Je vois de petits yeux tremblants qui provoquent la faim. La dernière chose que je ressens est le triomphe.<end>
+Pour résumer : je suis dans le noir, mais je ne suis pas aveugle. Je vois de petits yeux tremblants qui donnent faim. La dernière chose que je ressens, c'est le triomphe.<end>
 
 =>q114_original
 So, the elements are these:
@@ -736,17 +736,17 @@ Hunger: instinct, nature again.
 Triumph...<end>
 
 =>q114
-Voici donc les éléments :
+Alors, les éléments :
 
-Il est sombre, mais vous n'êtes pas aveugle: vous possédez une connaissance sacrée et ésotérique.
+Il fait noir, mais tu n'es pas aveugle : tu possèdes un savoir sacré, ésotérique.
 
-Salissure froide : environnement indésirable.
+Terre froide : un lieu où tu n'es pas $(#le bienvenu/la bienvenue).
 
-Nudité : nature.
+Nudité : la nature.
 
-Yeux tremblants: peur intérieure, faiblesse.
+Yeux tremblants : peur au fond, faiblesse.
 
-Faim : instinct, nature à nouveau.
+Faim : l'instinct. La nature, encore.
 
 Triomphe...<end>
 
@@ -754,37 +754,37 @@ Triomphe...<end>
 The message is the same, but the perspective is opposite: Different inner selves interpet it differently. Then it means the message is a truth, but a truth concerned purely with the nature of the Serpentborn.<end>
 
 =>q115
-Le message est le même, mais la perspective est opposée : différents soi-même intérieur l'interpellent différemment. Alors cela signifie que le message est une vérité, mais une vérité qui concerne uniquement la nature du Serpentborn.<end>
+Le message est le même, mais le point de vue est inverse. Les mois intérieurs l'interprètent autrement. Ça veut dire que le message est une vérité, mais une vérité qui ne concerne que la nature des Serpentborn.<end>
 
 =>q116_original
 But why would you interpret the message like that? Why is your inner self like theirs?<end>
 
 =>q116
-Mais pourquoi interpréter le message comme ça ? Pourquoi ton moi intérieur est comme le leur ?<end>
+Mais pourquoi tu l'interprètes comme ça ? Pourquoi ton moi intérieur est comme le leur ?<end>
 
 =>a117_original
 Come to think of it, it may be because I was using some native-made stimulants before I went to sleep.<end>
 
 =>a117
-C'est peut-être parce que j'utilisais des stimulants locaux avant de dormir.<end>
+En y pensant, c'est peut-être parce que je prenais des stimulants indigènes avant de dormir.<end>
 
 =>q118_original
 Then it is clear: These stimulants have infected your nature. That is why the dreams are different.<end>
 
 =>q118
-Alors il est clair: Ces stimulants ont infecté votre nature. C'est pourquoi les rêves sont différents.<end>
+Alors c'est clair : ces stimulants ont infecté ta nature. Voilà pourquoi les rêves sont différents.<end>
 
 =>q119_original
 Foolish of you. Hope that these effects aren't permanent.<end>
 
 =>q119
-Fou de vous. Espérons que ces effets ne soient pas permanents.<end>
+Imprudent. Espérons que ça reste pas.<end>
 
 =>a120_original
 I had a different dream this time. In this one I was the serpent.<end>
 
 =>a120
-J'ai fait un autre rêve cette fois. Dans celui-ci, j'étais le serpent.<end>
+J'ai fait un autre rêve, cette fois. Dans celui-là, j'étais le serpent.<end>
 
 =>q121_original
 That is unusual. <end>
@@ -796,7 +796,7 @@ C'est inhabituel. <end>
 I'd like to change the subject for now.<end>
 
 =>a122
-J'aimerais changer de sujet pour l'instant.<end>
+Changer de sujet, pour l'instant.<end>
 
 =>q123_original
 ::She nods.::<end>
@@ -832,7 +832,7 @@ Un message de qui ?<end>
 Sounds like something the natives would say.<end>
 
 =>a128
-On dirait que les indigènes diraient quelque chose.<end>
+Ça ressemble à ce que diraient les indigènes.<end>
 
 =>q129_original
 Yes.<end>
@@ -850,7 +850,7 @@ Un message des chamans.<end>
 How do you interpret the dream of me devouring something?<end>
 
 =>a131
-Comment interprétez-vous le rêve que je dévore quelque chose ?<end>
+Comment tu interprètes le rêve où je dévore quelque chose ?<end>
 
 =>q132_original
 That is an unusual one. I had never experienced it, I or anyone I know.
@@ -858,9 +858,9 @@ That is an unusual one. I had never experienced it, I or anyone I know.
 I'll first interpret the dream I have been having: I'm alone in the cold darkness, when two gigantic serpentine eyes flash and call me near. Then I feel the cold scales, and I suffocate.<end>
 
 =>q132
-C'est inhabituel. Je ne l'avais jamais vécu, moi ou quelqu'un que je connais.
+Ça, c'est inhabituel. Je l'ai jamais vécu. Ni moi, ni personne que je connaisse.
 
-J'interpréterai d'abord le rêve que j'ai fait : je suis seul dans l'obscurité froide, quand deux yeux serpentins gigantesques s'éclairent et m'appellent près de moi. Puis je sens les écailles froides, et j'étouffe.<end>
+D'abord, le rêve que moi je fais : je suis seule dans le froid, dans le noir, et deux yeux de serpent énormes s'allument et m'appellent. Puis je sens les écailles froides, et j'étouffe.<end>
 
 =>a133_original
 ::[Intelligence]:: Do the dreams have anything to do with the native shamans?<end>
@@ -872,7 +872,7 @@ J'interpréterai d'abord le rêve que j'ai fait : je suis seul dans l'obscurité
 ::She gives you a long look.:: Yes...<end>
 
 =>q134
-::Elle te regarde depuis longtemps.:: Oui...<end>
+::Elle vous lance un long regard.:: Oui...<end>
 
 =>a135_original
 ::[Intelligence]:: I'm guessing it's somehow related to the natives.<end>
@@ -884,13 +884,13 @@ J'interpréterai d'abord le rêve que j'ai fait : je suis seul dans l'obscurité
 What do they mean?<end>
 
 =>a136
-Comment ça ?<end>
+Ça veut dire quoi ?<end>
 
 =>a137_original
 You've had plenty of time to think about it, then.<end>
 
 =>a137
-Vous avez eu le temps d'y réfléchir.<end>
+Tu as eu le temps d'y penser, alors.<end>
 
 =>q138_original
 Yes. <end>
@@ -908,19 +908,19 @@ Le reste ?<end>
 How did you know?<end>
 
 =>a140
-Comment le savez-vous ?<end>
+Comment tu le sais ?<end>
 
 =>q141_original
 Some of us have been sharing these dreams. <end>
 
 =>q141
-Certains d'entre nous ont partagé ces rêves. <end>
+Certains d'entre nous les ont, ces rêves. <end>
 
 =>a142_original
 You've had them too?<end>
 
 =>a142
-Vous aussi ?<end>
+Toi aussi ?<end>
 
 =>q143_original
 Yes. And others. <end>
@@ -932,7 +932,7 @@ Oui. Et d'autres. <end>
 I have been having these dreams. They all start with me being alone in the darkness, naked...<end>
 
 =>a144
-J'ai fait ces rêves. Ils commencent tous par être seuls dans l'obscurité, nus...<end>
+J'ai ces rêves. Ils commencent tous pareil : je suis seul$(#/e) dans le noir, nu$(#/e)...<end>
 
 =>a145_original
 About those dreams...<end>
@@ -944,7 +944,7 @@ About those dreams...<end>
 You can feel psionic emissions. Have you ever felt anything coming from the hospital to the east of Port Ceto?<end>
 
 =>a146
-Vous pouvez sentir des émissions psioniques. Avez-vous déjà ressenti quelque chose venant de l'hôpital à l'est de Port Ceto ?<end>
+Tu sentes les émissions psioniques. T'as déjà senti quelque chose qui venait de l'hôpital, à l'est de Port Ceto ?<end>
 
 =>q147_original
 Yes. Often.<end>
@@ -964,21 +964,21 @@ It is a tortured soul that spoke in pure emotion, in nothing but intense pain. F
 ::Her stare departs for a moment before returning to you.:: Recently I have felt great distress coming from there. Greater than I've ever felt. <end>
 
 =>q149
-C'est une âme torturée qui parlait dans l'émotion pure, dans la douleur intense. Peu peuvent interpréter cela, moins sont disposés, et encore moins peuvent faire quoi que ce soit à ce sujet.
+C'est une âme torturée qui parlait en émotion pure, rien que de la douleur. Peu peuvent lire ça. Encore moins le veulent. Et presque personne ne peut y faire quoi que ce soit.
 
-::Son regard part un moment avant de revenir vers vous.:: Récemment, j'ai ressenti une grande détresse venant de là. Plus grand que je n'ai jamais ressenti. <end>
+::Son regard s'absente un instant, puis revient vers vous.:: Récemment, j'ai senti une grande détresse de là-bas. Plus forte que tout ce que j'ai jamais senti. <end>
 
 =>q150_original
 At its peak I sensed relief, then it all ended.<end>
 
 =>q150
-A son apogée, j'ai senti le soulagement, puis tout s'est terminé.<end>
+Au plus fort, j'ai senti un soulagement. Puis tout s'est arrêté.<end>
 
 =>q151_original
 It grew and grew in intensity, and then it stopped. But it is still there.<end>
 
 =>q151
-Il a grandi et a grandi en intensité, puis il s'est arrêté. Mais il est toujours là.<end>
+Ça a grossi, encore, encore, puis ça s'est arrêté. Mais c'est toujours là.<end>
 
 =>a152_original
 Do you know anything about the Jaws monolith?<end>
@@ -996,25 +996,25 @@ Laisse tomber.<end>
 Why?<end>
 
 =>a154
-Pourquoi?<end>
+Pourquoi ?<end>
 
 =>q155_original
 The monolith holds knowledge few people can understand; it also holds risks many will fall prey to.<end>
 
 =>q155
-Le monolithe possède des connaissances que peu de gens peuvent comprendre; il détient aussi des risques auxquels beaucoup vont être la proie.<end>
+Le monolithe détient un savoir que peu de gens peuvent comprendre. Et des risques dont beaucoup seront les proies.<end>
 
 =>a156_original
 I've already been there.<end>
 
 =>a156
-J'y suis déjà allé.<end>
+J'y suis déjà allé$(#/e).<end>
 
 =>q157_original
 ::She pauses.:: What did you discover?<end>
 
 =>q157
-::Elle fait une pause.:: Qu'avez-vous découvert ?<end>
+::Elle fait une pause.:: Qu'est-ce que tu as trouvé ?<end>
 
 =>q158_original
 <end>
@@ -1026,7 +1026,7 @@ J'y suis déjà allé.<end>
 ::Explain to her what you saw.::<end>
 
 =>a159
-::Expliquez-lui ce que vous avez vu.::<end>
+::Lui expliquer ce que vous avez vu.::<end>
 
 =>q160_original
 ::She listens carefully but displays neither surprise nor awe regarding a single word you've said.::
@@ -1034,7 +1034,7 @@ J'y suis déjà allé.<end>
 I see.<end>
 
 =>q160
-::Elle écoute attentivement, mais ne montre ni surprise ni admiration à propos d'un seul mot que vous avez dit.::
+::Elle écoute, attentive, sans surprise ni émerveillement à un seul mot de ce que vous dites.::
 
 Je vois.<end>
 
@@ -1048,55 +1048,55 @@ C'est la même chose que j'ai vue.<end>
 You've been up there?<end>
 
 =>a162
-Vous y êtes allé ?<end>
+T'y es allée ?<end>
 
 =>q163_original
 Yes. It drew me near just like it draws everyone.<end>
 
 =>q163
-Oui. Ça m'a attiré comme ça attire tout le monde.<end>
+Oui. Ça m'a attirée, comme ça attire tout le monde.<end>
 
 =>a164_original
 Then what are your thoughts on it?<end>
 
 =>a164
-Alors, qu'y pensez-vous ?<end>
+Alors, t'en penses quoi ?<end>
 
 =>q165_original
 What are yours?<end>
 
 =>q165
-Quels sont les vôtres ?<end>
+Et toi ?<end>
 
 =>a166_original
 It's a symbolic message. What I saw does not correspond to real events but instead reveals something fundamental about the One.<end>
 
 =>a166
-C'est un message symbolique. Ce que j'ai vu ne correspond pas aux événements réels, mais révèle plutôt quelque chose de fondamental à propos de l'Un.<end>
+C'est un message symbolique. Ce que j'ai vu ne correspond pas à des faits, ça révèle quelque chose de fondamental sur l'Un.<end>
 
 =>q167_original
 ::She nods.:: I understand what you mean. <end>
 
 =>q167
-::Elle hoche la tête.:: Je comprends ce que vous voulez dire. <end>
+::Elle hoche la tête.:: Je vois ce que tu veux dire. <end>
 
 =>q168_original
 It clearly revolves around "the One." He is important. He is the bringer of light and the bringer of death, but whether he is a servant of good or evil is unclear. Both light and death can be interpreted in many different ways.<end>
 
 =>q168
-Ça tourne clairement autour de "L'Un". Il est important. Il apporte la lumière et la mort, mais il n'est pas clair s'il est un serviteur du bien ou du mal. La lumière et la mort peuvent être interprétées de différentes manières.<end>
+Ça tourne clairement autour de « l'Un ». Il compte. Il apporte la lumière et la mort, mais s'il sert le bien ou le mal, ça c'est pas clair. Lumière et mort, ça s'interprète de bien des façons.<end>
 
 =>a169_original
 But who is the One?<end>
 
 =>a169
-Mais qui est celui-là ?<end>
+Mais qui est l'Un ?<end>
 
 =>q170_original
 He could be anyone. Maybe it's not a he but a she, or something else. A being from the past, from the future, independent of time or reality. He could be an ideal: A hero, or a villain.<end>
 
 =>q170
-Il pourrait être n'importe qui. Peut-être que ce n'est pas un lui, mais une elle, ou autre chose. Un être du passé, du futur, indépendant du temps ou de la réalité. Il pourrait être un idéal : un héros, ou un méchant.<end>
+N'importe qui. Peut-être pas un homme, mais une femme, ou autre chose. Un être du passé, du futur, hors du temps, hors du réel. Ça pourrait être un idéal : un héros. Ou un monstre.<end>
 
 =>q171_original
 ::She sits down for a moment, pressing her lower back as.:: Oh... ::She then looks at you.::
@@ -1104,15 +1104,15 @@ Il pourrait être n'importe qui. Peut-être que ce n'est pas un lui, mais une el
 But all that is beyond. ::She waves it away.:: Who knows.<end>
 
 =>q171
-- C'est quoi ?
+::Elle s'assoit un moment, une main dans le bas du dos.:: Oh... ::Puis elle vous regarde.::
 
-Mais tout cela est au-delà. ::Elle l'a balancé.:: Qui sait.<end>
+Mais tout ça, c'est au-delà. ::Elle écarte ça d'un geste.:: Qui sait.<end>
 
 =>a172_original
 I think it means literally what I saw. It depicts this One as someone who holds great power which he shows in front of the king.<end>
 
 =>a172
-Je pense que ça signifie littéralement ce que j'ai vu. Il représente celui-ci comme quelqu'un qui détient un grand pouvoir qu'il montre devant le roi.<end>
+Je pense que ça veut dire exactement ce que j'ai vu. Ça montre l'Un comme quelqu'un qui détient un grand pouvoir, et qui l'étale devant le roi.<end>
 
 =>a173_original
 I'm still trying to figure it out.<end>
@@ -1136,13 +1136,13 @@ Je ne sais vraiment pas.<end>
 I tried focusing, and some images poured inside my head: serpents, dark shapes, light that burns...<end>
 
 =>a176
-J'ai essayé de me concentrer, et quelques images ont coulé dans ma tête: serpents, formes sombres, lumière qui brûle...<end>
+J'ai essayé de me concentrer, et des images se sont déversées dans ma tête : serpents, formes sombres, une lumière qui brûle...<end>
 
 =>q177_original
 You are lucky to be alive.<end>
 
 =>q177
-Vous avez de la chance d'être en vie.<end>
+T'as de la chance d'être en vie.<end>
 
 =>q178_original
 <end>
@@ -1154,31 +1154,31 @@ Vous avez de la chance d'être en vie.<end>
 But you will try again later. I feel it.<end>
 
 =>q179
-Mais vous réessayerez plus tard. Je le sens.<end>
+Mais tu réessayeras plus tard. Je le sens.<end>
 
 =>q180_original
 Men that didn't fear the monolith enough have left their remains there. Heed their warning.<end>
 
 =>q180
-Les hommes qui ne craignaient pas assez le monolithe ont laissé leurs restes là. Écoutez leur avertissement.<end>
+Ceux qui n'ont pas assez craint le monolithe ont laissé leurs restes là-bas. Écoute leur avertissement.<end>
 
 =>q181_original
 ::She looks north.:: They... the Serpentborn - they fear it very much. Their shamans know something about the nature of the monolith that we do not; they must have a good reason to fear it.<end>
 
 =>q181
-::Elle a l'air du nord.:: Ils... le Serpentborn... ils le craignent beaucoup. Leurs chamans savent quelque chose sur la nature du monolithe que nous ne savons pas ; ils doivent avoir une bonne raison de le craindre.<end>
+::Elle regarde vers le nord.:: Eux... les Serpentborn. Ils le craignent, beaucoup. Leurs chamans savent quelque chose sur la nature du monolithe que nous, on sait pas. Ils doivent avoir une bonne raison de le craindre.<end>
 
 =>q182_original
 I'm sure you will go there. <end>
 
 =>q182
-Je suis sûr que vous y irez. <end>
+Je suis sûre que tu y iras. <end>
 
 =>q183_original
 What that reason is exactly? I don't know. But it has to do with the how its nature and their nature interact on some level I cannot describe. <end>
 
 =>q183
-Quelle est cette raison exactement ? Je ne sais pas. Mais cela a à voir avec la façon dont sa nature et leur nature interagissent à un certain niveau que je ne peux pas décrire. <end>
+Cette raison, exactement ? Je sais pas. Mais ça tient à la façon dont sa nature et la leur se touchent, à un niveau que je peux pas dire. <end>
 
 =>q184_original
 
@@ -1188,19 +1188,19 @@ But just because they fear it more doesn't mean we shouldn't fear it at all. <en
 =>q184
 
 
-Mais ce n'est pas parce qu'ils craignent plus qu'on ne devrait pas le craindre du tout. <end>
+Mais ce n'est pas parce qu'ils le craignent plus qu'on devrait pas le craindre du tout. <end>
 
 =>a185_original
 I've already encounted similar ones in the past.<end>
 
 =>a185
-J'en ai déjà compté dans le passé.<end>
+J'en ai déjà rencontré de semblables.<end>
 
 =>q186_original
 You did? Then why ask about this one?<end>
 
 =>q186
-Vraiment ? Alors pourquoi demander pour celui-ci ?<end>
+Ah oui ? Alors pourquoi tu demandes pour celui-là ?<end>
 
 =>a187_original
 This one seems different.<end>
@@ -1230,7 +1230,7 @@ Depends on who approaches it. <end>
 To understand the monolith you need *Will*. Intelligence solves problems. Strength moves things. But Will is control over oneself, Will is persistence and perseverance - Will is focus; Will is to not allow anything to distract or divert you from what you must do. Only with Will can you understand the monolith, and I don't think you have it.<end>
 
 =>q191
-Pour comprendre le monolithe dont vous avez besoin *Will*. L'intelligence résout les problèmes. La force déplace les choses. Mais la Volonté est le contrôle sur soi-même, la Volonté est la persévérance et la persévérance - La Volonté est focalisée; La volonté est de ne rien permettre de vous distraire ou de vous détourner de ce que vous devez faire. Seulement avec Will, vous pouvez comprendre le monolithe, et je ne pense pas que vous l'ayez.<end>
+Pour comprendre le monolithe, il te faut du *Will*. Intelligence, ça résout les problèmes. Strength, ça déplace les choses. Mais Will, c'est la maîtrise de soi. Will, c'est tenir, persévérer. Will, c'est le focus. Will, c'est ne rien laisser te distraire ou te détourner de ce que tu dois faire. Rien que le Will permet de comprendre le monolithe. Et je crois pas que tu l'aies.<end>
 
 =>a192_original
 I'm not afraid of anything.<end>
@@ -1254,19 +1254,19 @@ Tu me trouves stupide ?<end>
 I'm really clever.<end>
 
 =>a195
-Je suis très malin.<end>
+Je suis très $(#malin/maline).<end>
 
 =>q196_original
 Or a deluded fool. <end>
 
 =>q196
-Ou un imbécile trompé. <end>
+Ou un imbécile qui se raconte des histoires. <end>
 
 =>a197_original
 I hear it all the time: "You can't do this, you can't do that..." Why won't people just let me do my thing?<end>
 
 =>a197
-Je l'entends tout le temps : "Tu ne peux pas faire ça, tu ne peux pas faire ça..." Pourquoi les gens ne me laissent pas faire mon truc ?<end>
+Je l'entends tout le temps : « Tu peux pas faire ça, tu peux pas faire ça... » Pourquoi on me laisse pas faire ?<end>
 
 =>a198_original
 I will stay away from it, then.<end>
@@ -1278,13 +1278,13 @@ Je m'en éloignerai.<end>
 ::She shakes her head.:: Doubt it.<end>
 
 =>q199
-::Elle secoue la tête.:: En doute.<end>
+::Elle secoue la tête.:: J'en doute.<end>
 
 =>a200_original
 Don't you worry about me and just tell me what you know about it, alright?<end>
 
 =>a200
-Ne t'inquiète pas pour moi et dis-moi ce que tu en sais.<end>
+T'inquiète pas pour moi. Dis-moi ce que tu en sais, voilà.<end>
 
 =>a201_original
 I must know.<end>
@@ -1308,7 +1308,7 @@ Oui.<end>
 Tell me about it.<end>
 
 =>a204
-Parle-moi de ça.<end>
+Parle-m'en.<end>
 
 =>a205_original
 I heard you might know something about the Jaws monolith.<end>
@@ -1326,7 +1326,7 @@ J'ai entendu dire que tu savais quelque chose sur le monolithe des Jaws.<end>
 I've visited the monolith...<end>
 
 =>a207
-J'ai visité le monolithe...<end>
+Je suis allé$(#/e) au monolithe...<end>
 
 =>q208_original
 And?<end>
@@ -1338,7 +1338,7 @@ Et alors ?<end>
 I heard the Black Eels killed your son.<end>
 
 =>a209
-J'ai entendu dire que les Black Eels avaient tué votre fils.<end>
+J'ai entendu dire que les Black Eels avaient tué ton fils.<end>
 
 =>q210_original
 They shot him. <end>
@@ -1358,9 +1358,9 @@ They shot him... Razor brought him back on his jet. I tried to help him, but I c
 Rats upon the Black Eel who shot him. Ravenous rats!<end>
 
 =>q212
-Ils lui ont tiré dessus... Razor l'a ramené sur son jet. J'ai essayé de l'aider, mais je ne pouvais pas. Il ne voulait pas respirer dans mes mains. ::Elle les soulève devant son visage, les inspectant avec des yeux qui ne révèlent que brièvement la douleur. Elle pose ensuite ses mains sur la table.::
+Ils lui ont tiré dessus... Razor l'a ramené sur son jet. J'ai essayé de l'aider. J'ai pas pu. Il ne respirait plus dans mes mains. ::Elle les lève devant son visage, les inspecte, et la douleur ne passe qu'un instant dans ses yeux. Puis elle pose les mains sur la table.::
 
-Des rats sur l'anguille noire qui lui a tiré dessus. Des rats corbeaux !<end>
+Que les rats rongent le Black Eel qui lui a tiré dessus. Des rats voraces !<end>
 
 =>q213_original
 <end>
@@ -1378,25 +1378,25 @@ Parle-moi de ton fils.<end>
 ::She eyes you tentatively.:: Then I have to tell you about myself.<end>
 
 =>q215
-::Elle te voit provisoirement.:: Alors je dois vous parler de moi.<end>
+::Elle vous toise, hésitante.:: Alors il faut que je te parle de moi.<end>
 
 =>q216_original
 ::She makes a lengthy pause, but just as you started thinking of saying something, she takes a deep, slow breath and begins.:: I left Fatherland as a young woman. I was gifted, so I was told. I felt with my mind what ailed others, and it was to be... used to help people. Many came to me, looking for help... non-stop. I spent my youth healing them with my mind, giving them lekovnitze - herb mushrooms - but eventually I grew to hate everyone: Mother, Father, everyone - Fatherland. They cared about my gift but not about me... except for Bryan, a traveler from Underrail.<end>
 
 =>q216
-::Elle fait une longue pause, mais tout comme vous avez commencé à penser à dire quelque chose, elle prend une respiration profonde, lente et commence.:: J'ai quitté la patrie en tant que jeune femme. J'étais doué, on m'a dit. J'ai senti avec mon esprit ce qui avait mal aux autres, et c'était d'être... utilisé pour aider les gens. Beaucoup sont venus me voir, cherchant de l'aide... sans arrêt. J'ai passé ma jeunesse à les guérir avec mon esprit, en leur donnant lekovnitze - champignons d'herbe - mais finalement j'ai grandi pour haïr tout le monde: Mère, Père, tout le monde - Patrie. Ils se souciaient de mon cadeau mais pas de moi... sauf Bryan, un voyageur de Underrail.<end>
+::Elle marque une longue pause, et juste au moment où vous alliez dire quelque chose, elle prend une respiration lente, profonde, et commence.:: J'ai quitté Fatherland, jeune femme. J'étais douée, on me l'a dit. Je sentais avec l'esprit ce qui faisait souffrir les autres, et ça devait... servir. Aider les gens. Beaucoup venaient, cherchaient de l'aide... sans arrêt. J'ai passé ma jeunesse à les soigner avec l'esprit, à leur donner du lekovnitze, des champignons-herbes. Et j'ai fini par tous les haïr : Mère, Père, tout le monde. Fatherland. Ils se souciaient de mon don, pas de moi... sauf Bryan, un voyageur d'Underrail.<end>
 
 =>a217_original
 I know a man from Fatherland. He's from a place called, uh, Ch-ni-okovo Ludilo.<end>
 
 =>a217
-Je connais un homme de la patrie. Il vient d'un endroit appelé Ch-ni-okovo Ludilo.<end>
+Je connais un homme de Fatherland. Il vient d'un endroit appelé... euh, Ch-ni-okovo Ludilo.<end>
 
 =>q218_original
 I know where it is. I've been there. But I was from another place, Brezna.<end>
 
 =>q218
-Je sais où il est. J'y suis allé. Mais j'étais d'un autre endroit, Brezna.<end>
+Je sais où c'est. J'y suis allée. Mais moi, je venais d'ailleurs. Brezna.<end>
 
 =>a219_original
 And you left Brezna with Bryan?<end>
@@ -1416,9 +1416,9 @@ Oui. <end>
 He took me away, and I did not look back. ::She says, her eyes gleaming.:: But he was no mere traveler but an outlaw, a criminal. I knew who he was, but I didn't care. To me he was... good. Me, him, and his gang, his "pack"... we traveled across Underrail, leading a... horrible life. They did bad things to others, and themselves, and I did the same. I used my powers for an ill purpose, and used my freedom to hurt myself.<end>
 
 =>q221
-::Elle sort un mouchoir pour essuyer ses larmes, une chose inhabituelle qui est colorée et riche en motifs de champignons semblables à de la vigne. Elle a l'air aussi vieille qu'elle.::
+::Elle sort un mouchoir pour essuyer ses larmes, un mouchoir inhabituel, coloré, couvert de motifs de champignons en lianes. Il a l'air aussi vieux qu'elle.::
 
-Il m'a emmenée et je n'ai pas regardé en arrière. ::Elle dit que ses yeux brillent.:: Mais il n'était pas un simple voyageur mais un hors-la-loi, un criminel. Je savais qui il était, mais je m'en fichais. Pour moi, il était... bon. Moi, lui et son gang, son "paquet"... nous avons traversé Underrail, menant une... vie horrible. Ils ont fait de mauvaises choses aux autres et à eux-mêmes, et j'ai fait de même. J'ai utilisé mes pouvoirs pour un mauvais but, et j'ai utilisé ma liberté pour me blesser.<end>
+Il m'a emmenée, et je n'ai pas regardé en arrière. ::dit-elle, les yeux brillants.:: Mais ce n'était pas un simple voyageur. Un hors-la-loi. Un criminel. Je savais qui il était. Je m'en fichais. Pour moi, il était... bon. Moi, lui, et sa bande, sa « meute »... on a traversé Underrail. Une vie... horrible. Ils ont fait du mal aux autres, et à eux-mêmes, et moi pareil. J'ai mis mes pouvoirs au service du mal, et ma liberté à me faire du mal.<end>
 
 =>q222_original
 I was free from my name too. Katarina became Katie. ::She frowns.:: I was stupid. Stupid! He promised so much, but gave me nothing. ::Sniffs.:: Nothing but petty... petty riches and drugs to keep me calm. 
@@ -1426,21 +1426,21 @@ I was free from my name too. Katarina became Katie. ::She frowns.:: I was stupid
 I wanted a child. But that life made it... difficult for me to...<end>
 
 =>q222
-J'étais libre de mon nom aussi. Katarina est devenue Katie. ::Elle fronce.:: J'étais stupide. Stupide ! Il m'a promis tellement, mais ne m'a rien donné. ::Des renifles.:: Rien que des petites... petites richesses et de la drogue pour me calmer.
+Libre de mon nom aussi. Katarina est devenue Katie. ::Elle fronce les sourcils.:: J'étais stupide. Stupide ! Il promettait tant, et il n'a rien donné. ::Renifle.:: Rien que des petites... petites richesses, et de la drogue pour me tenir calme.
 
-Je voulais un enfant. Mais cette vie a rendu... difficile pour moi...<end>
+Je voulais un enfant. Mais cette vie... ça m'a rendu... difficile de...<end>
 
 =>a223_original
 It's okay.<end>
 
 =>a223
-C'est bon.<end>
+C'est rien.<end>
 
 =>q224_original
 I finally did give birth to Niki. He was the only child I was gifted with. His father was shot like a rat for some petty crime when Niki was five, but he grew up just like him, an outlaw. He has his blood; there was nothing I could do about it... and I could not offer him a better life. I took care of Niki wherever he went, for whomever he worked. I was always accepted because... ::sniffs:: because of my healing abilities.<end>
 
 =>q224
-J'ai enfin donné naissance à Niki. C'était le seul enfant avec qui j'étais doué. Son père a été abattu comme un rat pour un petit crime quand Niki avait cinq ans, mais il a grandi comme lui, un hors-la-loi. Il a son sang, il n'y avait rien que je pouvais faire... et je ne pouvais pas lui offrir une meilleure vie. Je me suis occupé de Niki où qu'il aille, pour qui il travaille. J'ai toujours été accepté parce que... ::Sniffs:: à cause de mes capacités de guérison.<end>
+J'ai fini par mettre Niki au monde. Le seul enfant qui m'ait été donné. Son père a été abattu comme un rat, pour un petit crime, Niki avait cinq ans. Et Niki a grandi comme lui. Hors-la-loi. C'est son sang. J'y pouvais rien... et je pouvais pas lui offrir mieux. Je me suis occupée de Niki partout où il allait, pour qui il travaillait. On m'acceptait toujours, parce que... ::renifle:: parce que je soigne.<end>
 
 =>q225_original
 Years passed... and we came here. Here... here it is better than anywhere we've been before. Niki built me a house, and he was respected among the Jetters.
@@ -1448,21 +1448,21 @@ Years passed... and we came here. Here... here it is better than anywhere we've 
 But then he was shot... my only child was shot. My blood. My only...<end>
 
 =>q225
-Des années passèrent... et nous sommes venus ici. Ici, c'est mieux que partout où nous avons été. Niki m'a construit une maison, et il a été respecté parmi les Jetters.
+Les années ont passé... et on est venus ici. Ici... ici c'est mieux que partout où on a été. Niki m'a construit une maison. Et il était respecté, chez les Jetters.
 
-Mais après, on lui a tiré dessus... mon seul enfant a été tué. Mon sang. Mon seul...<end>
+Et puis on lui a tiré dessus... mon seul enfant. Mon sang. Mon seul...<end>
 
 =>q226_original
 Niki is everything to me... everything. There is a way to heal him, but... I have to be patient.<end>
 
 =>q226
-Niki est tout pour moi... tout. Il y a un moyen de le guérir, mais... Je dois être patient.<end>
+Niki est tout pour moi... tout. Il y a un moyen de le guérir, mais... il faut que je sois patiente.<end>
 
 =>q227_original
 ::As more tears roll down her cheeks, she buries her face in the clenched handkerchief and weeps.::<end>
 
 =>q227
-::Comme d'autres larmes s'enfoncent sur ses joues, elle enterre son visage dans le mouchoir serré et pleure.::<end>
+::Tandis que d'autres larmes coulent sur ses joues, elle enfouit son visage dans le mouchoir serré et pleure.::<end>
 
 =>a228_original
 I just...<end>
@@ -1476,9 +1476,9 @@ J'ai juste...<end>
 No! No more!<end>
 
 =>q229
-::Elle se penche vers l'avant et te frappe dans la poitrine.::
+::Elle se penche et vous frappe dans le haut de la poitrine.::
 
-Pas du tout ! C'est fini !<end>
+Non ! Plus un mot !<end>
 
 =>q230_original
 ::She wipes her tears, throws her now-messy handkerchief in a basket and puts on her usual expression.::
@@ -1486,9 +1486,9 @@ Pas du tout ! C'est fini !<end>
 No more about Niki.<end>
 
 =>q230
-::Elle essuie ses larmes, jette son mouchoir maintenant mésange dans un panier et met son expression habituelle.::
+::Elle essuie ses larmes, jette le mouchoir froissé dans un panier, et reprend son visage habituel.::
 
-Plus rien à propos de Niki.<end>
+Plus rien sur Niki.<end>
 
 =>a231_original
 You...<end>
@@ -1506,19 +1506,19 @@ Mais...<end>
 ::Leave her alone.::<end>
 
 =>a233
-::Laisse-la tranquille.::<end>
+::La laisser tranquille.::<end>
 
 =>q234_original
 ::She wipes her tears as you leave.::<end>
 
 =>q234
-::Elle essuie ses larmes pendant que tu pars.::<end>
+::Elle essuie ses larmes tandis que vous partez.::<end>
 
 =>a235_original
 ::Hug her.::<end>
 
 =>a235
-::Crache-la.::<end>
+::La serrer dans ses bras.::<end>
 
 =>q236_original
 ::She pushes you back.::
@@ -1526,33 +1526,33 @@ Mais...<end>
 Don't touch me.<end>
 
 =>q236
-::Elle te repousse.::
+::Elle vous repousse.::
 
-Ne me touche pas.<end>
+Me touche pas.<end>
 
 =>a237_original
 ::Say nothing.::<end>
 
 =>a237
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>a238_original
 Continue with your story.<end>
 
 =>a238
-Continuez avec votre histoire.<end>
+Continuer ton histoire.<end>
 
 =>a239_original
 So you left with Bryan.<end>
 
 =>a239
-Donc tu es parti avec Bryan.<end>
+Alors tu es partie avec Bryan.<end>
 
 =>a240_original
 ::Say nothing.::<end>
 
 =>a240
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q241_original
 ::She then shakes her head.::
@@ -1560,7 +1560,7 @@ Donc tu es parti avec Bryan.<end>
 <end>
 
 =>q241
-::Elle se serre la tête.::
+::Elle secoue alors la tête.::
 
 <end>
 
@@ -1568,7 +1568,7 @@ Donc tu es parti avec Bryan.<end>
 Katya, will you now tell me about your son?<end>
 
 =>a242
-Katya, pouvez-vous me parler de votre fils ?<end>
+Katya, tu me parles de ton fils, maintenant ?<end>
 
 =>q243_original
 ::She stares at you, clenching her bony hand into a claw.::
@@ -1578,9 +1578,9 @@ Eels... Rats.
 <end>
 
 =>q243
-::Elle te regarde, se serre la main dans une griffe.::
+::Elle vous fixe, sa main osseuse serrée en griffe.::
 
-Anguilles... Des rats.
+Les Eels... Des rats.
 
 <end>
 
@@ -1588,13 +1588,13 @@ Anguilles... Des rats.
 I will tell you, then. I will tell you.<end>
 
 =>q244
-Je vais vous le dire. Je vais vous le dire.<end>
+Je vais te le dire. Je vais te le dire.<end>
 
 =>q245_original
 The man you saw in that cave, he is Niki - Nikola, my son, my baby. <end>
 
 =>q245
-L'homme que vous avez vu dans cette grotte, c'est Niki - Nikola, mon fils, mon bébé. <end>
+L'homme que tu as vu dans cette grotte, c'est Niki. Nikola. Mon fils. Mon bébé. <end>
 
 =>q246_original
 You know that.<end>
@@ -1606,7 +1606,7 @@ Tu le sais.<end>
 About what happened in the cave...<end>
 
 =>a247
-Sur ce qui s'est passé dans la grotte...<end>
+Pour ce qui s'est passé dans la grotte...<end>
 
 =>q248_original
 Leave it.<end>
@@ -1642,7 +1642,7 @@ Pourquoi ça t'intéresse ?<end>
 A wise man once told me that helping others with their burden will help me with mine.<end>
 
 =>a253
-Un homme sage m'a dit qu'aider les autres avec leur fardeau m'aiderait avec le mien.<end>
+Un sage m'a dit qu'aider les autres à porter leur fardeau m'aiderait à porter le mien.<end>
 
 =>q254_original
 ::She pauses.:: That may be true...<end>
@@ -1676,37 +1676,37 @@ Laisse tomber.<end>
 I can tell that you need someone to talk to.<end>
 
 =>a258
-Je peux dire à quelqu'un à qui parler.<end>
+Je vois que t'as besoin de parler à quelqu'un.<end>
 
 =>q259_original
 ::She stares at you.::<end>
 
 =>q259
-::Elle te regarde.::<end>
+::Elle vous fixe.::<end>
 
 =>a260_original
 I don't know. I just do.<end>
 
 =>a260
-Je ne sais pas. Oui.<end>
+Je sais pas. C'est comme ça.<end>
 
 =>a261_original
 You need to sort yourself out. How can you help anyone else if you can't help yourself?<end>
 
 =>a261
-Tu dois te débrouiller. Comment peux-tu aider quelqu'un d'autre si tu ne peux pas t'en empêcher ?<end>
+Tu dois te reprendre. Comment tu peux aider les autres si tu peux pas t'aider toi-même ?<end>
 
 =>q262_original
 You... speak true. <end>
 
 =>q262
-Vous... parlez vrai. <end>
+Tu... dis vrai. <end>
 
 =>a263_original
 You and I both possess what most do not. I think I can understand more than most.<end>
 
 =>a263
-Toi et moi possédons ce que la plupart ne possèdent pas. Je pense pouvoir comprendre plus que la plupart.<end>
+Toi et moi, on a ce que la plupart n'ont pas. Je pense que je peux comprendre plus que la plupart.<end>
 
 =>a264_original
 Very well, then.<end>
@@ -1724,31 +1724,31 @@ J'aimerais vraiment savoir.<end>
 Why didn't you ever return to Fatherland? Would they accept you back?<end>
 
 =>a266
-Pourquoi n'es-tu jamais rentrée en Patrie ? Ils t'accepteraient ?<end>
+Pourquoi t'es jamais rentrée à Fatherland ? Ils te reprendraient ?<end>
 
 =>q267_original
 No. They would not. The life I led... I threw away family, tradition - all the teachings. But not because they are bad teachings; the older I am the more I realize they are good. But the people who held them... I hated the teachings because I hated the people.<end>
 
 =>q267
-C'est pas vrai. Ils ne le feraient pas. La vie que j'ai menée... J'ai jeté la famille, la tradition - tous les enseignements. Mais pas parce qu'ils sont mauvais enseignements; plus je suis âgé, plus je réalise qu'ils sont bons. Mais les gens qui les tenaient... Je détestais les enseignements parce que je détestais les gens.<end>
+Non. Ils voudraient pas. La vie que j'ai menée... J'ai jeté la famille, la tradition, tous les enseignements. Pas parce que les enseignements sont mauvais. Plus je vieillis, plus je vois qu'ils sont bons. Mais les gens qui les portaient... Je haïssais les enseignements parce que je haïssais les gens.<end>
 
 =>q268_original
 I was not stupid for what I wanted. I was stupid for the way I tried to achieve it.<end>
 
 =>q268
-Je n'étais pas stupide pour ce que je voulais. J'ai été stupide pour la façon dont j'ai essayé d'y arriver.<end>
+J'étais pas stupide pour ce que je voulais. J'étais stupide pour la façon dont j'ai voulu l'avoir.<end>
 
 =>a269_original
 I'll leave you be.<end>
 
 =>a269
-Je vous laisse.<end>
+Je te laisse.<end>
 
 =>q270_original
 I hope you butchered them.<end>
 
 =>q270
-J'espère que vous les avez massacrés.<end>
+J'espère que tu les as massacrés.<end>
 
 =>a271_original
 ::Nod.::<end>
@@ -1766,13 +1766,13 @@ J'espère que vous les avez massacrés.<end>
 Sure did.<end>
 
 =>a273
-Bien sûr.<end>
+Et comment.<end>
 
 =>a274_original
 With delight.<end>
 
 =>a274
-Avec plaisir.<end>
+Avec délice.<end>
 
 =>a275_original
 Who, the Eels?<end>
@@ -1784,13 +1784,13 @@ Qui, les Eels ?<end>
 Who?<end>
 
 =>a276
-OMS?<end>
+Qui ?<end>
 
 =>q277_original
 ::She shakes her head, her eyes glued to a plastic compartment box with dried mushrooms she seems to be sorting.:: I won't take him in.<end>
 
 =>q277
-::Elle secoue la tête, les yeux collés dans une boîte en plastique avec des champignons séchés qu'elle semble trier.:: Je ne l'emmènerai pas.<end>
+::Elle secoue la tête, les yeux collés à une boîte en plastique de champignons séchés qu'elle a l'air de trier.:: Je le prends pas.<end>
 
 =>a278_original
 Who, Todd?<end>
@@ -1802,7 +1802,7 @@ Qui, Todd ?<end>
 ::She nods once then shakes her head nervously.:: I won't. Tell Grim I won't.<end>
 
 =>q279
-::Elle hoche la tête une fois et se secoue la tête nerveusement.:: Je ne le ferai pas. Dites à Grim que je ne le ferai pas.<end>
+::Elle hoche une fois, puis secoue la tête, nerveuse.:: Non. Dis à Grim que je le prends pas.<end>
 
 =>a280_original
 Why not?<end>
@@ -1826,7 +1826,7 @@ Mon Nikola a besoin de moi. <end>
 ::She falls silent and focuses on sorting her mushrooms.::<end>
 
 =>q283
-::Elle tombe silencieuse et se concentre sur le tri de ses champignons.::<end>
+::Elle se tait et se concentre sur le tri de ses champignons.::<end>
 
 =>q284_original
 It's too much for me. No. Too much. <end>
@@ -1838,7 +1838,7 @@ C'est trop pour moi. Non, trop. <end>
 The poor guy's got no one.<end>
 
 =>a285
-Le pauvre n'a personne.<end>
+Le pauvre gars n'a personne.<end>
 
 =>a286_original
 Is it because of Nikola?<end>
@@ -1850,13 +1850,13 @@ C'est à cause de Nikola ?<end>
 I didn't come to talk about that.<end>
 
 =>a287
-Je ne suis pas venu en parler.<end>
+Je ne suis pas venu$(#/e) pour parler de ça.<end>
 
 =>q288_original
 ::She looks at you.::<end>
 
 =>q288
-::Elle te regarde.::<end>
+::Elle vous regarde.::<end>
 
 =>q289_original
 ::You catch her in deep concentration.:: 
@@ -1866,9 +1866,9 @@ Something is different...
 I no longer feel his presence...<end>
 
 =>q289
-::Vous l'attrapez en pleine concentration.::
+::Vous la surprenez en pleine concentration.::
 
-Quelque chose est différent...
+Quelque chose a changé...
 
 Je ne sens plus sa présence...<end>
 
@@ -1876,13 +1876,13 @@ Je ne sens plus sa présence...<end>
 The Serpent Eyes is dead.<end>
 
 =>a290
-Les yeux du Serpent sont morts.<end>
+Les Yeux du Serpent sont morts.<end>
 
 =>a291_original
 I killed the High Shaman.<end>
 
 =>a291
-J'ai tué le Chaman.<end>
+J'ai tué le Haut Chaman.<end>
 
 =>a292_original
 Maybe he's on a break.<end>
@@ -1894,13 +1894,13 @@ Il est peut-être en pause.<end>
 ::Say nothing.::<end>
 
 =>a293
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q294_original
 ::She is silent too.::<end>
 
 =>q294
-::Elle est silencieuse aussi.::<end>
+::Elle se tait aussi.::<end>
 
 =>a295_original
 I don't know what you're talking about.<end>
@@ -1914,7 +1914,7 @@ Lies. I can feel it.
 <end>
 
 =>q296
-Des mensonges. Je peux le sentir.
+Mensonge. Je le sens.
 
 <end>
 
@@ -1922,7 +1922,7 @@ Des mensonges. Je peux le sentir.
 ::She keeps staring at you.::<end>
 
 =>q297
-::Elle continue à te fixer.::<end>
+::Elle continue de vous fixer.::<end>
 
 =>q298_original
 <end>
@@ -1934,19 +1934,19 @@ Des mensonges. Je peux le sentir.
 I'm new here.<end>
 
 =>a299
-Je suis nouveau ici.<end>
+Je suis $(#nouveau/nouvelle) ici.<end>
 
 =>q300_original
 ::No response, only observation.::<end>
 
 =>q300
-::Pas de réponse, seulement observation.::<end>
+::Pas de réponse. Elle vous observe, c'est tout.::<end>
 
 =>q301_original
 What do you want?<end>
 
 =>q301
-Que voulez-vous ?<end>
+Qu'est-ce que tu veux ?<end>
 
 =>a302_original
 Is this your place?<end>
@@ -1970,19 +1970,19 @@ Je cherche des médicaments.<end>
 I'll be on my way. Sorry to have bothered you.<end>
 
 =>a305
-Je m'en vais. Désolé de vous avoir dérangé.<end>
+Je m'en vais. Désolé$(#/e) de t'avoir dérangée.<end>
 
 =>a306_original
 Good day, madam. ::Bow your head.::<end>
 
 =>a306
-Bonne journée, madame. ::Baisse la tête.::<end>
+Bonne journée, madame. ::Incliner la tête.::<end>
 
 =>a307_original
 Greetings. My name is $(context.player.Name).<end>
 
 =>a307
-Bonjour. Mon nom est $(context.player.Name).<end>
+Bonjour. Je m'appelle $(context.player.Name).<end>
 
 =>a308_original
 Hello.<end>
@@ -1994,29 +1994,29 @@ Bonjour.<end>
 Heya.<end>
 
 =>a309
-Bonjour.<end>
+Salut.<end>
 
 =>a310_original
 Yo.<end>
 
 =>a310
-Oui.<end>
+Yo.<end>
 
 =>a311_original
 Didn't mean to disturb you. Goodbye.<end>
 
 =>a311
-Je ne voulais pas vous déranger. Au revoir.<end>
+Je voulais pas te déranger. Au revoir.<end>
 
 =>q312_original
 ::She returns to her work without uttering a word.::<end>
 
 =>q312
-::Elle revient à son travail sans dire un mot.::<end>
+::Elle reprend son travail sans un mot.::<end>
 
 =>q313_original
 ::Mutters something incomprehensible.::<end>
 
 =>q313
-::Mutter quelque chose d'incompréhensible.::<end>
+::Marmonne quelque chose d'incompréhensible.::<end>
 

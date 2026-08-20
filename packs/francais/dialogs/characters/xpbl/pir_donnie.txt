@@ -2,7 +2,7 @@
 Yo, we're bein' attacked!<end>
 
 =>q1
-On est attaqués !<end>
+Yo, on se fait attaquer !<end>
 
 =>q2_original
 Yo. Got them shinies?<end>
@@ -14,13 +14,13 @@ Yo. T'as les brillants ?<end>
 ::Enter the game with twenty charons.:: Let's play some strippage!<end>
 
 =>a3
-::Entrer dans la partie avec vingt charons.:: On se fait une partie de strippage !<end>
+::Entrer dans la partie avec vingt charons.:: Allez, on se fait un strippage !<end>
 
 =>q4_original
 Alright. Now, help Senda move that table over there and...<end>
 
 =>q4
-Très bien. Aide Senda à déplacer cette table et...<end>
+Ça marche. Aide Senda à bouger cette table là-bas et...<end>
 
 =>a5_original
 ::Play strippage.::<end>
@@ -38,31 +38,31 @@ J'ai changé d'avis. J'ai besoin de toi à la boutique.<end>
 Hey, eh: <end>
 
 =>q7
-Coucou, hein. <end>
+Hé, eh : <end>
 
 =>q8_original
 Ya wouldn't mind waitin' on me for a bit longer? <end>
 
 =>q8
-Ça ne te dérangerait pas de m'attendre un peu plus ? <end>
+Ça te dérangerait pas de m'attendre encore un peu ? <end>
 
 =>q9_original
 I'll be back at the shop before ya know it. We alright? We good? Atta $(#boy/girl).<end>
 
 =>q9
-Je suis de retour à la boutique avant que tu t'en rendes compte. On est bons ? On est bons ? Atta $(#gars/fille).<end>
+Je reviens à la boutique avant que tu t'en rendes compte. On est bons ? On est bons ? Bravo $(#gars/fille).<end>
 
 =>q10_original
 Oh, alright.<end>
 
 =>q10
-Oh, très bien.<end>
+Oh, d'accord.<end>
 
 =>q11_original
 Sorry, ladies, but Donnie's gotta jet away. But I'll catch ya later, alright? Atta girls, yea.<end>
 
 =>q11
-Désolé, mesdames, mais Donnie doit jeter. Je vous rattrape plus tard, d'accord ? Atta les filles, ouais.<end>
+Désolé les dames, mais Donnie doit se tirer. Je vous rattrape plus tard, d'accord ? Bravo les filles, ouais.<end>
 
 =>q12_original
 Alright, $(#banga/sweet), follow me.<end>
@@ -80,7 +80,7 @@ Alright, $(#banga/sweet), follow me.<end>
 Not yet. Will be back soon.<end>
 
 =>a14
-Pas encore. Je reviens bientôt.<end>
+Pas encore. Je reviens vite.<end>
 
 =>q15_original
 We're waitin', $(#banga/sweet).<end>
@@ -92,7 +92,7 @@ On attend, $(#banga/chérie).<end>
 Now, Senda baby, eh... how 'bout ya move that table right over there, yea. And, and, and if you, Chalice dear, if *you* could lift that--<end>
 
 =>q16
-Maintenant, Senda bébé, eh... et si tu bouges cette table juste là, oui. Et, et, et si vous, Chalice chérie, si vous pouviez soulever ça...<end>
+Allez, Senda bébé, eh... tu veux bien bouger cette table juste là, ouais. Et, et, et toi, Chalice chérie, si *toi* tu pouvais soulever ça...<end>
 
 =>q17_original
 ::And then he notices you.::
@@ -100,21 +100,21 @@ Maintenant, Senda bébé, eh... et si tu bouges cette table juste là, oui. Et, 
 H-hey. Ya that new $(#banga/girl). The... eh... yea! Pleased to meet ya! I'm Donnie Merchant - the merchant - and these 'ere are Senda, Chalice and Ruth. <end>
 
 =>q17
-::Et puis il vous remarque.::
+::Et puis il te remarque.::
 
-H-hé. T'es c'nouveau $(#banga/fille). Le... eh... ouais ! Enchanté ! Moi c'est Donnie Merchant - le marchand - et celles-là c'est Senda, Chalice et Ruth. <end>
+H-hé. T'es $(#l'nouveau banga/la nouvelle fille). Le... eh... ouais ! Enchanté ! Moi c'est Donnie Merchant - le marchand - et celles-là, c'est Senda, Chalice et Ruth. <end>
 
 =>q18_original
 Us Jetters got only the *finest* ladies 'ere. Am I right, eh, sweet, am I right?<end>
 
 =>q18
-Nous, Jetters, n'avons que les filles les plus belles. J'ai raison, hein, chérie, n'est-ce pas ?<end>
+Nous les Jetters, on a que les *plus belles* dames ici. J'ai raison, hein, chérie, j'ai raison ?<end>
 
 =>q19_original
 Hey... *sweet*.<end>
 
 =>q19
-Salut, chérie.<end>
+Hé... *chérie*.<end>
 
 =>q20_original
 <end>
@@ -126,7 +126,7 @@ Salut, chérie.<end>
 ::[Persuade]:: It's an emergency. We're about to go on a raid and I need some gear fast. I need *you*, man.<end>
 
 =>a21
-::[Persuade]:: C'est une urgence. On va faire un raid et j'ai besoin de vitesse. J'ai besoin de toi, mec.<end>
+::[Persuade]:: C'est urgent. On part en raid et j'ai besoin d'équipement, vite. J'ai besoin de *toi*, mec.<end>
 
 =>q22_original
 <end>
@@ -138,19 +138,19 @@ Salut, chérie.<end>
 By the sea! Finally! Why didntcha say so straight away?<end>
 
 =>q23
-Par la mer ! Enfin ! Pourquoi ne pas l'avoir dit tout de suite ?<end>
+Par la mer ! Enfin ! Pourquoi tu l'as pas dit tout de suite ?<end>
 
 =>q24_original
 Wait a second, wait a second - ain't no one mentioned no Union convoys.<end>
 
 =>q24
-Attendez une seconde, attendez une seconde - personne n'a mentionné aucun convoi de l'Union.<end>
+Attends une seconde, attends une seconde - personne a parlé de convois de l'Union.<end>
 
 =>q25_original
 Ya know, what you're tryin' to do ain't nice. Pirates don't do that to other pirates, alright?<end>
 
 =>q25
-Ce que vous essayez de faire n'est pas gentil. Les pirates ne font pas ça aux autres pirates.<end>
+Tu sais, c'que t'essaies de faire, c'est pas beau. Les pirates font pas ça aux autres pirates, d'accord ?<end>
 
 =>q26_original
 <end>
@@ -168,7 +168,7 @@ Ce que vous essayez de faire n'est pas gentil. Les pirates ne font pas ça aux a
 Mind if I joined you?<end>
 
 =>a28
-Je peux me joindre à vous ?<end>
+Je peux m'incruster ?<end>
 
 =>q29_original
 Actually...<end>
@@ -180,31 +180,31 @@ En fait...<end>
 Why not? There ain't no better way to get to know someone than havin' some shroom boom. We was just about to play some *strippage*.<end>
 
 =>q30
-Pourquoi pas ? Il n'y a pas de meilleur moyen de connaître quelqu'un que d'avoir un shroom boom. On était sur le point de jouer à la strippage.<end>
+Pourquoi pas ? Y a pas mieux pour faire connaissance que de se taper un shroom boom. On était pile à se lancer un *strippage*.<end>
 
 =>a31_original
 ::[Intelligence]:: Strip poker?<end>
 
 =>a31
-::[Intelligence]:: poker en bande ?<end>
+::[Intelligence]:: Strip poker ?<end>
 
 =>q32_original
 Close, close, but not quite.<end>
 
 =>q32
-Presque, mais pas tout à fait.<end>
+Presque, presque, mais pas tout à fait.<end>
 
 =>q33_original
 Strippage is a card game in which the goal is to strip the other players of their clothes, their coins - and their dignity. It's like a mix of strip poker, ruth or bare and just plain ol' gettin' wasted.<end>
 
 =>q33
-Strippage est un jeu de cartes dans lequel le but est de dépouiller les autres joueurs de leurs vêtements, leurs pièces - et leur dignité. C'est comme un mélange de strip poker, de ruth ou de nu et juste de gaspiller.<end>
+Le strippage, c'est un jeu de cartes : le but, c'est de déshabiller les autres, de les dépouiller de leurs pièces - et de leur dignité. Un mélange de strip poker, de ruth or bare, et de biture à l'ancienne.<end>
 
 =>q34_original
 It's fun, yea, very fun. All you need are some clothes, some coin, and some dignity. Easy to play, you'll get the hang of it quickly. Twenty charons should be enough. The shroom boom's on us this time.<end>
 
 =>q34
-C'est amusant, oui, très amusant. Tout ce dont vous avez besoin, c'est de vêtements, de pièces de monnaie et de dignité. Facile à jouer, vous aurez le coup rapide. Vingt charons devraient suffire. Le boom du shroom est sur nous cette fois.<end>
+C'est marrant, ouais, trop marrant. T'as besoin de fringues, de fric, et d'un peu de dignité. Facile, tu vas piger direct. Vingt charons, ça suffit. Le shroom boom, c'est pour nous cette fois.<end>
 
 =>q35_original
 <end>
@@ -216,61 +216,61 @@ C'est amusant, oui, très amusant. Tout ce dont vous avez besoin, c'est de vête
 Low on coins, I'm afraid. I'll pass.<end>
 
 =>a36
-Peu de pièces, j'en ai peur. Je vais passer.<end>
+Je suis un peu fauché, désolé. Je passe.<end>
 
 =>q37_original
 Shame...<end>
 
 =>q37
-Honte...<end>
+Dommage...<end>
 
 =>q38_original
 Well, now... <end>
 
 =>q38
-Maintenant... <end>
+Bon, alors... <end>
 
 =>a39_original
 I have no dignity. I'll pass.<end>
 
 =>a39
-Je n'ai aucune dignité. Je vais passer.<end>
+J'ai pas de dignité. Je passe.<end>
 
 =>q40_original
 Ya wouldn't be the first without it. ::He laughs.:: But suit yourself.<end>
 
 =>q40
-Tu ne serais pas le premier sans ça. ::Il rit.:: Mais s'il vous plaît.<end>
+T'aurais pas été le premier sans. ::Il rit.:: Mais fais comme tu veux.<end>
 
 =>a41_original
 Actually, I'd rather give you money through trade than losing it alongside my clothes.<end>
 
 =>a41
-En fait, je préfère te donner de l'argent par échange plutôt que de le perdre à côté de mes vêtements.<end>
+En fait, je préfère te filer du fric au troc plutôt que de le perdre avec mes fringues.<end>
 
 =>a42_original
 I'll go get the money. You guys wait for me.<end>
 
 =>a42
-Je vais chercher l'argent. Attendez-moi.<end>
+Je vais chercher le fric. Vous m'attendez.<end>
 
 =>a43_original
 Strippage?<end>
 
 =>a43
-Une strip-tease ?<end>
+Strippage ?<end>
 
 =>a44_original
 Fine.<end>
 
 =>a44
-Très bien.<end>
+D'accord.<end>
 
 =>q45_original
 Atta $(#boy/girl).<end>
 
 =>q45
-Atta $(#gars/fille).<end>
+Bravo $(#gars/fille).<end>
 
 =>a46_original
 No.<end>
@@ -282,49 +282,49 @@ Non.<end>
 Well, whatcha gonna do. <end>
 
 =>q47
-Qu'est-ce que tu vas faire ? <end>
+Bon, qu'est-ce que tu veux. <end>
 
 =>a48_original
 It's an emergency. We're about to go on a raid and I need some gear fast. I need *you*, man.<end>
 
 =>a48
-C'est une urgence. On va faire un raid et j'ai besoin de vitesse. J'ai besoin de toi, mec.<end>
+C'est urgent. On part en raid et j'ai besoin d'équipement, vite. J'ai besoin de *toi*, mec.<end>
 
 =>a49_original
 Sorry to bother you, but I need a merchant.<end>
 
 =>a49
-Désolé de vous déranger, mais j'ai besoin d'un marchand.<end>
+Désolé de te déranger, mais j'ai besoin d'un marchand.<end>
 
 =>q50_original
 Oh, and just as things have started to get jettin'. Hey, eh: <end>
 
 =>q50
-Oh, et tout comme les choses ont commencé à se lancer. Coucou, hein. <end>
+Oh, et pile au moment où ça commençait à jeter. Hé, eh : <end>
 
 =>a51_original
 I'll leave you to whatever it is you were doing, then.<end>
 
 =>a51
-Je te laisserai faire ce que tu faisais.<end>
+Je te laisse à ce que tu faisais, alors.<end>
 
 =>q52_original
 Us Jetters got some *fine* ladies 'ere, ay?<end>
 
 =>q52
-Nous, les Jetters, on a des belles dames.<end>
+Nous les Jetters, on a des *belles* dames ici, hein ?<end>
 
 =>q53_original
 Oh, Donnie, Donnie. Ye sayin' it now, but whatcha gonna think after we down a coupla bottles of shroom boom?<end>
 
 =>q53
-Oh, Donnie, Donnie. Tu dis ça maintenant, mais qu'est-ce qu'on va penser après un coupla de boum ?<end>
+Oh, Donnie, Donnie. Tu dis ça maintenant, mais tu vas penser quoi après deux-trois bouteilles de shroom boom ?<end>
 
 =>q54_original
 That's when you're at your finest, girls. At your finest! ::He laughs.::<end>
 
 =>q54
-C'est là que vous êtes à votre meilleur, les filles. À votre meilleur ! ::Il rit.::<end>
+C'est là que vous êtes au top, les filles. Au top ! ::Il rit.::<end>
 
 =>q55_original
 Yo! Oh... Sorry, we got carried away. We been havin' lots of fun, lots.That shroom boom really makes time fly.
@@ -332,9 +332,9 @@ Yo! Oh... Sorry, we got carried away. We been havin' lots of fun, lots.That shro
 Can you... ya know, wait for me just a bit longer?<end>
 
 =>q55
-Oui ! Oh... Désolé, on s'est emportés. On s'est bien amusés. Ce boom fait vraiment voler le temps.
+Yo ! Oh... Désolé, on s'est emportés. On s'est trop amusés, trop. Ce shroom boom, ça fait vraiment filer le temps.
 
-Tu peux... attendre un peu plus longtemps ?<end>
+Tu peux... tu sais, m'attendre encore un peu ?<end>
 
 =>q56_original
 Whoops!<end>
@@ -354,9 +354,9 @@ Pleased to meet ya! I'm Donnie Merchant.
 Real strange we haven't met by now, ya know.<end>
 
 =>q58
-Ravi de vous rencontrer ! Je suis Donnie Merchant.
+Enchanté ! Moi c'est Donnie Merchant.
 
-C'est étrange qu'on ne se soit pas rencontrés.<end>
+Vraiment bizarre qu'on se soit pas croisés avant, tu sais.<end>
 
 =>q59_original
 <end>
@@ -368,7 +368,7 @@ C'est étrange qu'on ne se soit pas rencontrés.<end>
 I need stuff. ::Barter.::<end>
 
 =>a60
-J'ai besoin de trucs. ::Troc.::<end>
+J'ai besoin de matos. ::Troc.::<end>
 
 =>a61_original
 How's Todd doing?<end>
@@ -380,7 +380,7 @@ Comment va Todd ?<end>
 Todd? ::He turns toward him.:: Myeeeh... Takes humor way too seriously. Takes breaks every five minutes, the deucer. Some things he understands well, but then again he can also act like an utter clod. Stares at everythin'. Doesn't talk much, mostly nods and "uuuhhhs" and "ummmms". <end>
 
 =>q62
-Todd ? ::Il se tourne vers lui.:: Myeeeh... L'humour est trop sérieux. Ça prend des pauses toutes les cinq minutes, le deucer. Certaines choses qu'il comprend bien, mais encore une fois il peut aussi agir comme un clode. Regarde tout. Ça ne parle pas beaucoup, surtout des clins d'œil et des "uuuhhh" et des "ummms". <end>
+Todd ? ::Il se tourne vers lui.:: Myeeeh... Il prend l'humour trop au sérieux. Il se pose toutes les cinq minutes, le deucer. Y a des trucs qu'il pige bien, mais après il peut aussi faire l'andouille complète. Il fixe tout. Il cause pas beaucoup, surtout des hochements et des « uuuhhh » et des « ummms ». <end>
 
 =>q63_original
 But I can't blame 'im - he's an abyssal dweller. On the upside, he can reach things, digs simple instructions, and, and, and ya know, $(#banga/sweet), sometimes it's real jettin' to have someone quiet around ya. 
@@ -388,63 +388,63 @@ But I can't blame 'im - he's an abyssal dweller. On the upside, he can reach thi
 And the poor sod actually tries, he does.<end>
 
 =>q63
-Mais je ne peux pas le blâmer - c'est un habitant de l'abîme. A l'envers, il peut atteindre les choses, creuser des instructions simples, et, et, et, et vous savez, $(#banga/sweet), parfois c'est vraiment jetant ' d'avoir quelqu'un tranquille autour de vous.
+Mais je peux pas lui en vouloir - c'est un habitant des abysses. Le plus, c'est qu'il attrape les trucs en hauteur, il pige les consignes simples, et, et, et tu sais, $(#banga/chérie), parfois c'est du vrai jet d'avoir quelqu'un de tranquille à côté.
 
-Et le pauvre soda essaie en fait, il le fait.<end>
+Et le pauvre type, il essaie, ça oui.<end>
 
 =>q64_original
 It's... kinda nice to have an honest helper 'round 'ere.<end>
 
 =>q64
-C'est... plutôt sympa d'avoir une aide honnête.<end>
+C'est... plutôt chouette d'avoir un coup de main honnête dans le coin.<end>
 
 =>a65_original
 One of the mates mentioned this "White Shado'" guy who's apparently the only man to have broken into Port Ceto.<end>
 
 =>a65
-Un des copains a mentionné ce type "White Shado" qui est apparemment le seul homme à avoir pénétré dans Port Ceto.<end>
+Un des mates a parlé de ce type, « White Shado' », le seul à avoir jamais cassé Port Ceto, paraît-il.<end>
 
 =>q66_original
 Yea, durin' Jetter times at least<end>
 
 =>q66
-Oui, au moins jetter<end>
+Ouais, du temps des Jetters en tout cas<end>
 
 =>q67_original
 , and if ya don't count Aegis sec-troopers, if ya think of it as "breakin' in" and not an assault.<end>
 
 =>q67
-, et si vous ne comptez pas Aegis sec-troopers , si vous pensez que c'est comme "cambriolage" et pas une agression.<end>
+, et si tu comptes pas les sec-troopers d'Aegis, si tu vois ça comme un « casse » et pas un assaut.<end>
 
 =>a68_original
 So who is he?<end>
 
 =>a68
-Alors qui est-ce ?<end>
+Alors c'est qui ?<end>
 
 =>q69_original
 ::He shrugs.:: No one really knows. Everythin' was normal and jettin' until at one point the main gate opened and a white-haired man jetted outta the port on Kenny Slickjaw's jet. He left the Hell's Gut before we, we... before we managed to catch the sneaky rat.<end>
 
 =>q69
-::Il hausse les épaules.:: Personne ne sait vraiment. Tout était normal et jetait jusqu'à ce que la porte principale s'ouvre et qu'un homme aux cheveux blancs sorte du port du jet de Kenny Slickjaw. Il a quitté le Gut de l'Enfer avant que nous, nous... avant que nous parvenions à attraper le rat sournois.<end>
+::Il hausse les épaules.:: Personne sait vraiment. Tout était normal, du jet, jusqu'au moment où la porte principale s'ouvre et qu'un type aux cheveux blancs se tire du port sur le jet de Kenny Slickjaw. Il a quitté Hell's Gut avant qu'on, qu'on... avant qu'on pince ce rat sournois.<end>
 
 =>q70_original
 Then we found clues - footprints and such: He snuck all the way from the monolith - all the way from there, yea - past the Shop, through the jettin' Skidrow - and not even the dogs managed to sniff 'im out - around the Cap'n's ship, then reached the gate.<end>
 
 =>q70
-Puis nous avons trouvé des indices - des empreintes de pas et d'autres: Il a pris tout le chemin du monolithe - tout le chemin de là, oui - passé le Shop, à travers le jettin' Skidrow - et même les chiens n'ont pas réussi à le renifler - autour du navire de Cap'n, puis a atteint la porte.<end>
+Après on a trouvé des indices - des traces et tout : il a rampé tout le chemin depuis le monolithe - tout le chemin depuis là-bas, ouais - passé la Boutique, à travers le Skidrow, du jet - et même les chiens l'ont pas pifé - autour du navire du Cap'n, puis jusqu'à la porte.<end>
 
 =>a71_original
 ::[Stealth]:: Sounds like a fun thing to try when there's nothing else to do.<end>
 
 =>a71
-::[Stealth]:: C'est marrant d'essayer quand il n'y a rien d'autre à faire.<end>
+::[Stealth]:: Ça a l'air marrant à tenter, quand y a rien d'autre à faire.<end>
 
 =>q72_original
 Hm? What was that?<end>
 
 =>q72
-Quoi ? C'était quoi ?<end>
+Hm ? C'était quoi, ça ?<end>
 
 =>a73_original
 Nothing, nothing.<end>
@@ -456,31 +456,31 @@ Rien, rien.<end>
 Alright, $(#banga/sweet). So, nothin'<end>
 
 =>q74
-Très bien, $(#banga/sweet). Donc, rien.<end>
+Ça marche, $(#banga/chérie). Donc, rien<end>
 
 =>q75_original
 was missin' from the port other than Kenny's jet and the key - which, as Kenny claims, was in 'is pocket at the time - and... a greater fusion cell, yea. Still, we got no idea what the deal with all of that was.<end>
 
 =>q75
-J'étais absent du port autre que le jet de Kenny et la clé - qui, selon Kenny, était dans la poche à l'époque - et... une plus grande cellule de fusion, oui. Pourtant, nous n'avons aucune idée de ce que c'était.<end>
+manquait au port, à part le jet de Kenny et la clé - qui, d'après Kenny, était dans sa poche à ce moment-là - et... une grande cellule de fusion, ouais. On a toujours aucune idée de c'que ça voulait dire, tout ça.<end>
 
 =>q76_original
 It's a mystery... and a jettin' legend to tell to dryfoots.<end>
 
 =>q76
-C'est un mystère... et une légende à raconter aux pieds secs.<end>
+C'est un mystère... et une légende du jet à raconter aux pieds-secs.<end>
 
 =>a77_original
 That's incredible. And no one saw him until he opened the gate?<end>
 
 =>a77
-C'est incroyable. Et personne ne l'a vu jusqu'à ce qu'il ouvre la porte ?<end>
+C'est dingue. Et personne l'a vu avant qu'il ouvre la porte ?<end>
 
 =>q78_original
 By the sea - ya betcha. Nothin' <end>
 
 =>q78
-Au bord de la mer. Rien <end>
+Par la mer - tu parles. Rien <end>
 
 =>q79_original
 .<end>
@@ -492,13 +492,13 @@ Au bord de la mer. Rien <end>
 Guess who beat D' Flinger at a knife throwing game.<end>
 
 =>a80
-Devine qui a battu D' Flinger à un jeu de lancer de couteau.<end>
+Devine qui a battu D' Flinger au lancer de couteaux.<end>
 
 =>q81_original
 You're kiddin' me, $(#banga/sweet)? You're seriously jettin' kiddin' me?<end>
 
 =>q81
-Tu te fous de moi, $(#banga/chérie) ? Tu te fous de moi pour de vrai ?<end>
+Tu te fous de moi, $(#banga/chérie) ? Tu te fous de moi pour de vrai, là ?<end>
 
 =>a82_original
 Nope.<end>
@@ -510,49 +510,49 @@ Non.<end>
 By the sea... So that's why he's sulkin'! The son of a rat almost, almost stomped over me in the damn food line at Calamity's. And I was thinkin' then and there what the hell's gut was wrong with this jerk.<end>
 
 =>q83
-Au bord de la mer... C'est pour ça qu'il boude ! Le fils d'un rat a failli m'écraser dans la foutue chaîne alimentaire de Calamity. Et j'ai pensé à ce qui n'allait pas avec ce connard.<end>
+Par la mer... C'est pour ça qu'il boude ! Ce fils de rat a failli me marcher dessus dans la foutue file de Calamity. Et je me disais, là, sur le moment, c'était quoi le problème de ce connard.<end>
 
 =>a84_original
 I'm guessing everyone's going to know about this right now.<end>
 
 =>a84
-Je suppose que tout le monde va le savoir.<end>
+Je parie que tout le monde va le savoir dans la seconde.<end>
 
 =>q85_original
 It's a massive deal, $(#banga/sweet). Ya beat D' Flinger! Ha-ha, atta $(#boy/girl)! Now you're D' Flinger, technically speakin', and D' Flinger is... A Flinger?<end>
 
 =>q85
-C'est énorme, $(#banga/chérie). T'as battu D' Flinger ! Ha-ha, atta $(#gars/fille) ! Maintenant t'es D' Flinger, techniquement, et D' Flinger c'est... un Flinger ?<end>
+C'est énorme, $(#banga/chérie). T'as battu D' Flinger ! Ha-ha, bravo $(#gars/fille) ! Maintenant t'es D' Flinger, techniquement, et D' Flinger c'est... Un Flinger ?<end>
 
 =>a86_original
 I'm happy with the name I already have, thank you.<end>
 
 =>a86
-Je suis content du nom que j'ai déjà, merci.<end>
+Le nom que j'ai déjà me va très bien, merci.<end>
 
 =>q87_original
 Yea, on second thought, yea.<end>
 
 =>q87
-Oui, en deuxième réflexion, oui.<end>
+Ouais, en y repensant, ouais.<end>
 
 =>q88_original
 Wait till Calamity hears about this! She hates 'is guts.<end>
 
 =>q88
-Attendez que Calamity entende ça ! Elle déteste les tripes.<end>
+Attends que Calamity entende ça ! Elle le déteste des tripes.<end>
 
 =>a89_original
 From now on I shall be known as $(context.player.Name) - D' Real Flinger.<end>
 
 =>a89
-Désormais, je serai connu sous le nom de $(context.player.Name) - D' Real Flinger.<end>
+À partir de maintenant, on m'appellera $(context.player.Name) - D' Real Flinger.<end>
 
 =>q90_original
 Um... I think ya should stick to $(context.player.Name).<end>
 
 =>q90
-Tu devrais t'en tenir à $(context.player.Name).<end>
+Euh... je pense que tu devrais rester sur $(context.player.Name).<end>
 
 =>a91_original
 How about Invictus?<end>
@@ -564,103 +564,103 @@ Et Invictus ?<end>
 Ya gotta earn that one first, ha-ha.<end>
 
 =>q92
-Tu dois gagner celui-là en premier, ha-ha.<end>
+Faut le mériter, celui-là, ha-ha.<end>
 
 =>a93_original
 I kicked his fat ass all the way from here to Core City.<end>
 
 =>a93
-Je lui ai donné un coup de pied jusqu'à Core City.<end>
+Je lui ai botté le cul tout le chemin d'ici jusqu'à Core City.<end>
 
 =>a94_original
 What? You thought he was really *d' bes'*?<end>
 
 =>a94
-Quoi ? Vous pensiez qu'il était vraiment "d'être" ?<end>
+Quoi ? T'as cru qu'il était vraiment *d' bes'* ?<end>
 
 =>a95_original
 I don't like seeing grown men cry... except in this case.<end>
 
 =>a95
-Je n'aime pas voir des adultes pleurer... sauf dans ce cas.<end>
+J'aime pas voir les grands pleurer... sauf là.<end>
 
 =>a96_original
 I gave D' Flinger the middle finger.<end>
 
 =>a96
-J'ai donné à D' Flinger le majeur.<end>
+J'ai mis le majeur à D' Flinger.<end>
 
 =>a97_original
 Any coins for me?<end>
 
 =>a97
-Des pièces pour moi ?<end>
+Y a des pièces pour moi ?<end>
 
 =>q98_original
 Lemme see...<end>
 
 =>q98
-Laisse-moi voir...<end>
+Attends voir...<end>
 
 =>q99_original
 Yup. Here. ::He places several piles of stygian coins on the counter.::<end>
 
 =>q99
-Oui. Ici. ::Il place sur le comptoir plusieurs tas de pièces de monnaie de style.::<end>
+Ouais. Tiens. ::Il pose plusieurs tas de pièces stygiennes sur le comptoir.::<end>
 
 =>q100_original
 Hope it comes back to me, ha-ha-ha.<end>
 
 =>q100
-J'espère que ça me reviendra.<end>
+J'espère que ça me reviendra, ha-ha-ha.<end>
 
 =>q101_original
 Nope, nothin'.<end>
 
 =>q101
-Non, rien.<end>
+Nan, rien.<end>
 
 =>a102_original
 I have been having strange dreams lately...<end>
 
 =>a102
-J'ai fait des rêves étranges ces derniers temps...<end>
+J'ai des rêves bizarres, ces temps-ci...<end>
 
 =>q103_original
 Yea... The serpent ones?<end>
 
 =>q103
-Ouais... Les serpents ?<end>
+Ouais... Ceux avec les serpents ?<end>
 
 =>a104_original
 Wait, you know about this?<end>
 
 =>a104
-Attendez, vous êtes au courant ?<end>
+Attends, t'es au courant ?<end>
 
 =>q105_original
 Some of our mates have complained 'bout 'em. Mostly the ones that go on patrols, or the folks from Port Crag. I think it's all gotta do with the expedition and the Scalers, ya know. Lotta tension in the air, and we all feel it. A lot have been sleepin' bad lately.<end>
 
 =>q105
-Certains de nos compagnons se sont plaints. Surtout ceux qui font des patrouilles, ou les gens de Port Crag. Je pense que tout doit être fait avec l'expédition et les Scalers, tu sais. Beaucoup de tension dans l'air, et nous le sentons tous. Beaucoup ont mal dormi ces derniers temps.<end>
+Y a des mates qui s'en sont plaints. Surtout ceux qui patrouillent, ou les gens de Port Crag. Je pense que ça a tout à voir avec l'expédition et les Scalers, tu sais. Y a une sacrée tension dans l'air, et on la sent tous. Beaucoup dorment mal, ces temps-ci.<end>
 
 =>a106_original
 But it is odd, isn't it? Many people are having similar, maybe even identical dreams.<end>
 
 =>a106
-Mais c'est bizarre, n'est-ce pas ? Beaucoup de gens ont des rêves semblables, voire identiques.<end>
+Mais c'est bizarre, non ? Plein de gens ont des rêves pareils, peut-être même identiques.<end>
 
 =>q107_original
 ::He shrugs.:: Yea, but, but, but... I really don't know what to say...<end>
 
 =>q107
-::Il hausse les épaules.:: Oui, mais, mais... Je ne sais vraiment pas quoi dire...<end>
+::Il hausse les épaules.:: Ouais, mais, mais, mais... j'sais vraiment pas quoi te dire...<end>
 
 =>q108_original
 Actually... there's someone who might be able to tell ya more, if she's willin'.<end>
 
 =>q108
-En fait... il y a quelqu'un qui pourrait vous en dire plus, si elle veut.<end>
+En fait... y a quelqu'un qui pourrait t'en dire plus, si elle est d'accord.<end>
 
 =>a109_original
 Katya.<end>
@@ -672,7 +672,7 @@ Katya.<end>
 Yea. <end>
 
 =>q110
-Oui. <end>
+Ouais. <end>
 
 =>q111_original
 Katya. <end>
@@ -684,43 +684,43 @@ Katya. <end>
 She treats our wounds and prepares medicine. <end>
 
 =>q112
-Elle soigne nos blessures et prépare des médicaments. <end>
+Elle soigne nos plaies et prépare les médocs. <end>
 
 =>q113_original
 Ya can find her on the southern edge of the Skidrow.<end>
 
 =>q113
-Ya peut la trouver à la limite sud du Skidrow.<end>
+Tu la trouves au bord sud du Skidrow.<end>
 
 =>a114_original
 Tell me about Katya.<end>
 
 =>a114
-Parlez-moi de Katya.<end>
+Parle-moi de Katya.<end>
 
 =>q115_original
 First things first: <end>
 
 =>q115
-Tout d'abord : <end>
+Déjà, première chose : <end>
 
 =>q116_original
 Since you're a fresh Jetter, lemme give ya a helping hand with some of the more important folks 'round 'ere: There's me... ::He pronounces it with pride.:: Razor and Cruz you've met, Cap'n Grim 'imself as well; Calamity - she feeds us; Katya - she heals us; D' Flinger - he...'s <end>
 
 =>q116
-Puisque vous êtes un Jetter frais, lemme vous donne un coup de main avec quelques-uns des gens les plus importants 'rround 'ere: There's me... ::Il le prononce avec fierté.:: Razor et Cruz vous avez rencontré, Cap'n Grim 'imself aussi; Calamity - elle nous nourrit; Katya - elle nous guérit; D' Flinger - il... <end>
+Vu que t'es un Jetter tout frais, laisse-moi te filer un coup de main sur les têtes qui comptent ici : y a moi... ::Il le dit avec fierté.:: Razor et Cruz, tu les as vus, le Cap'n Grim lui-même aussi ; Calamity - elle nous nourrit ; Katya - elle nous soigne ; D' Flinger - il... <end>
 
 =>q117_original
 no longer <end>
 
 =>q117
-plus <end>
+n'est plus <end>
 
 =>q118_original
 the finest blade flinger in Hell's Gut.<end>
 
 =>q118
-la plus belle lame de Gut de l'enfer.<end>
+le meilleur lanceur de lames de Hell's Gut.<end>
 
 =>q119_original
 <end>
@@ -732,25 +732,25 @@ la plus belle lame de Gut de l'enfer.<end>
 Tell me about yourself. How'd you become a pirate?<end>
 
 =>a120
-Parle-moi de toi. Comment êtes-vous devenu un pirate ?<end>
+Parle-moi de toi. Comment t'es devenu pirate ?<end>
 
 =>q121_original
 I was stolen and brought 'ere.<end>
 
 =>q121
-J'ai été volé et amené.<end>
+On m'a volé et on m'a ramené ici.<end>
 
 =>a122_original
 You mean kidnapped?<end>
 
 =>a122
-Vous voulez dire kidnappé ?<end>
+Tu veux dire kidnappé ?<end>
 
 =>q123_original
 No, I mean stolen. Eh...<end>
 
 =>q123
-Non, je veux dire volé. Et...<end>
+Non, je veux dire volé. Eh...<end>
 
 =>q124_original
 I used to be a travelin' merchant. Ya know, life on the rails, buyin' and sellin', dealin' and leavin', eh. Life was jettin', $(#banga/sweet), it was jettin'. I had a concession pass for all Underrail Express trains. Massive coinage in my pockets. No bandit dared bother me after I uppercutted ol' Vinnie The Rock in the groin; for the record, 'is cobbles were surprisingly soft for a someone who calls 'imself "The Rock".
@@ -758,39 +758,39 @@ I used to be a travelin' merchant. Ya know, life on the rails, buyin' and sellin
 Anyways, it was all jettin'... and then I jetted it all up by takin' a ferry from Junkyard to SGS.<end>
 
 =>q124
-Je voyageais comme marchand. Tu sais, la vie sur les rails, l'achat et la vente, l'échange et la fuite, eh. La vie était en jettin, $(#banga/sweet), c'était en jettin. J'avais une carte de concession pour tous les trains Underrail Express. Une pièce de monnaie massive dans mes poches. Aucun bandit n'a osé m'embêter après que j'aie mis le ol' Vinnie The Rock dans l'aine; pour le disque, 'est-ce que les galets étaient étonnamment doux pour quelqu'un qui s'appelle "le Rock".
+J'étais marchand ambulant. Tu sais, la vie sur les rails, acheter et vendre, troc et je me tire, eh. La vie, c'était du jet, $(#banga/chérie), du jet. J'avais un pass de concession pour tous les trains Underrail Express. Les poches pleines de fric. Aucun bandit osait me chercher après que j'ai mis un uppercut dans l'aine du vieux Vinnie The Rock ; pour la petite histoire, ses couilles étaient étonnamment molles pour un type qui s'appelle « The Rock ».
 
-En tout cas, c'était un jet... et j'ai tout jeté en prenant un ferry de Junkyard à SGS.<end>
+Bref, c'était du jet... et j'ai tout jeté en l'air en prenant un ferry de Junkyard à SGS.<end>
 
 =>q125_original
 Grim Jetters stopped us right in the middle of the Chancer's Bay. Cruz was leadin' 'em. No Eels in sight. He stepped onto the ferry and told everyone - yea, there was like three more people on the ferry, some banga with 'is wife and a butt-ugly kid with big ears - and... Where was I...? Yea, told everyone to surrender all their stuff.<end>
 
 =>q125
-Grim Jetters nous a arrêtés au milieu de la baie du Chancelier. Cruz les dirigeait. Pas d'anguilles en vue. Il a marché sur le ferry et a dit à tout le monde - oui, il y avait comme trois autres personnes sur le ferry, un peu de banga avec 'est femme et un petit cul avec de grandes oreilles - et... Où étais-je ? Ouais, a dit à tout le monde de rendre toutes leurs affaires.<end>
+Les Grim Jetters nous ont arrêtés pile au milieu de Chancer's Bay. Cruz menait la danse. Pas un Eel en vue. Il est monté sur le ferry et il a dit à tout le monde - ouais, y avait genre trois autres personnes, un banga avec sa femme et un gosse moche à crever, des grandes oreilles - et... Où j'en étais... ? Ouais, il a dit à tout le monde de tout ramener.<end>
 
 =>q126_original
 Now, I'd been used to dealin' with bangas much bigger than me, lemme tell ya, but Cruz's *big*. Yea, big. I still gave 'im trouble, I did. Jet 'im. Show 'im this little guy got a pair, ya know.<end>
 
 =>q126
-Maintenant, j'avais l'habitude de traiter avec des bangas beaucoup plus grands que moi, lemme vous le dire, mais Cruz est *big*. Ouais, gros. J'ai toujours eu des ennuis. Jet 'im. Montre-lui qu'il a une paire.<end>
+Bon, j'avais l'habitude de m'occuper de bangas bien plus costauds que moi, je te le dis, mais Cruz, il est *gros*. Ouais, gros. Je lui ai quand même donné du fil, ça oui. Je l'ai jeté. Montrer à ce type que le petit a une paire, tu vois.<end>
 
 =>q127_original
 So he shoved me in a coffer and locked me in. He literally, *literally* stole me as though I was... stuff. Hurts the ego a bit, gotta be honest.<end>
 
 =>q127
-Il m'a mis dans un coffre et m'a enfermé. Il m'a littéralement volé comme si j'étais... des trucs. Ça fait mal à l'ego, il faut être honnête.<end>
+Alors il m'a fourré dans un coffre et il a fermé. Il m'a littéralement, *littéralement* volé comme si j'étais... du matos. Ça pique l'ego, faut être honnête.<end>
 
 =>a128_original
 Where'd he get the coffer?<end>
 
 =>a128
-Où a-t-il trouvé le coffre ?<end>
+Il a piqué le coffre où ?<end>
 
 =>q129_original
 Ah, it was that... that family's coffer, yea. Big one. Perfect fit for a little person. Cruz emptied all their clothes and crap in the water and put me inside instead. ::He pauses.:: Every time I think of that kid of theirs... By the sea, what a mug. What a mug.<end>
 
 =>q129
-Ah, c'est que... le coffre de cette famille, oui. Grande. Parfait pour une petite personne. Cruz a vidé tous leurs vêtements et leurs conneries dans l'eau et m'a mis à l'intérieur. ::Il fait une pause.:: Chaque fois que je pense à leur fils... Au bord de la mer, quelle tasse. Quelle tasse.<end>
+Ah, c'était... le coffre de cette famille, ouais. Un gros. Pile pour un petit. Cruz a jeté tous leurs fringues et leur merde à l'eau et il m'a mis à la place. ::Il marque une pause.:: Chaque fois que je pense à leur gosse... Par la mer, quelle gueule. Quelle gueule.<end>
 
 =>a130_original
 So what happened next?<end>
@@ -804,123 +804,123 @@ I... think Cruz wanted to dump me to the serpents or something, not sure to this
 Cap'n Grim saw how jettin'-good I was. And that I don't take up too much space, ha-ha.<end>
 
 =>q131
-Je... pense que Cruz voulait me jeter aux serpents ou quelque chose, pas sûr à ce jour, mais j'ai réussi à parler de ma sortie, eh bien, tout ce qui aurait pu m'arriver. En gros, j'ai demandé au Cap'n s'il voulait faire des affaires. Ensuite, je travaille pour les pirates.
+Je... pense que Cruz voulait me larguer aux serpents ou un truc, j'suis toujours pas sûr, mais j'ai réussi à parler pour m'en sortir, enfin, de tout le sale qui aurait pu m'arriver. En gros - j'ai demandé au Cap'n s'il voulait faire des affaires, ouais. Le temps de dire ouf, je bosse pour les pirates.
 
-Le capitaine Grim a vu comme j'étais bon. Et que je ne prends pas trop d'espace, ha-ha.<end>
+Le Cap'n Grim a vu à quel point j'étais du jet. Et que je prends pas trop de place, ha-ha.<end>
 
 =>a132_original
 Do you miss your old life?<end>
 
 =>a132
-Votre ancienne vie vous manque ?<end>
+Ta vie d'avant te manque ?<end>
 
 =>q133_original
 Sometimes. But to tell ya the truth this place has really grown on me and I couldn't imagine doin' anythin' else right now. I like it 'ere. I hated it at first. Oh boy did I despise *everythin'* about it. It took a while before they allowed me to actually leave The Pirate Bay. At first I told them about different trade routes and who's got massive coinage, where to acquire good loot... That kind of stuff. But after they started trustin' me, life became a hell of a lot better.<end>
 
 =>q133
-Parfois. Mais pour te dire la vérité cet endroit a vraiment grandi sur moi et je ne pouvais pas imaginer faire autre chose en ce moment. J'aime ça. Je détestais ça au début. J'ai tout méprisé. Ça a pris un moment avant qu'ils me permettent de quitter la baie Pirate. Au début, je leur ai parlé de différentes routes commerciales et qui a une monnaie massive, où acquérir un bon butin... Ce genre de choses. Mais après qu'ils aient commencé à me faire confiance, la vie s'est beaucoup améliorée.<end>
+Des fois. Mais pour te dire la vérité, l'endroit m'a vraiment accroché et j'imaginerais plus faire autre chose, là, maintenant. J'aime bien ici. Au début je détestais. Oh putain que je méprisais *tout*. Ça a pris un moment avant qu'ils me laissent vraiment quitter The Pirate Bay. Au début je leur parlais des routes commerciales, qui a le gros fric, où chopper du bon butin... Ce genre de trucs. Mais une fois qu'ils ont commencé à me faire confiance, la vie est devenue vachement mieux.<end>
 
 =>q134_original
 Lotsa loot, lotsa booze, lotsa coin and lotsa girls. Lotsa fun, $(#banga/sweet)! Life's simpler, but boy I got all I need. Lovin' it, lovin'.<end>
 
 =>q134
-Lotsa butin, beaucoupa alcool, beaucoupa pièce et beaucoupa filles. Beaucoup de plaisir, $(#banga/sweet) ! La vie est plus simple, mais j'ai tout ce dont j'ai besoin. Ça va, ça va.<end>
+Plein de butin, plein de bibine, plein de fric et plein de filles. Que du kiff, $(#banga/chérie) ! La vie est plus simple, mais putain j'ai tout c'qu'il me faut. J'adore, j'adore.<end>
 
 =>a135_original
 And Cruzer? Your thoughts on him.<end>
 
 =>a135
-Et Cruzer ? Vos pensées sur lui.<end>
+Et Cruzer ? T'en penses quoi, de lui.<end>
 
 =>q136_original
 We're jettin' now. Cruz and I are jettin'.<end>
 
 =>q136
-C'est parti. Cruz et moi, on est en panne.<end>
+On jette, maintenant. Cruz et moi, on jette.<end>
 
 =>a137_original
 Some kids are so ugly you wanna punch them right in the face.<end>
 
 =>a137
-Certains enfants sont si laids que tu veux les frapper au visage.<end>
+Y a des gosses tellement moches que t'as envie de les frapper en pleine gueule.<end>
 
 =>q138_original
 Yea! ::He laughs.:: Right in the kisser!<end>
 
 =>q138
-Ouais ! ::Il rit.:: Dans le baiser !<end>
+Ouais ! ::Il rit.:: En pleine gueule !<end>
 
 =>a139_original
 Tell me about Cap'n Grim.<end>
 
 =>a139
-Parlez-moi de Cap'n Grim.<end>
+Parle-moi du Cap'n Grim.<end>
 
 =>q140_original
 What can I say, he's the Cap'n. He's united all of the pirates into a single crew.<end>
 
 =>q140
-Que puis-je dire, c'est le Cap'n. Il a uni tous les pirates en une seule équipe.<end>
+Qu'est-ce que tu veux que je te dise, c'est le Cap'n. Il a uni tous les pirates en un seul équipage.<end>
 
 =>a141_original
 How did he do that?<end>
 
 =>a141
-Comment a-t-il fait ?<end>
+Il a fait ça comment ?<end>
 
 =>q142_original
 Ey? What do ya mean, "how"? He's the Cap'n: He's can lead, he can fight, he can think. He had a smaller crew and they were jettin', and then they grew larger and larger and slowly turned into this - the most jettin' pirate crew.<end>
 
 =>q142
-Oui ? Comment ça, "comment" ? C'est le Cap'n : il peut diriger, se battre, penser. Il avait un équipage plus petit et ils étaient en jet', puis ils grandissaient et se transformaient lentement en ceci - l'équipage pirate le plus en jet'.<end>
+Hein ? Comment ça, « comment » ? C'est le Cap'n : il sait mener, il sait se battre, il sait réfléchir. Il avait un plus petit équipage, et ils jetaient, et puis ils ont grossi, grossi, et lentement ça a donné ça - l'équipage pirate le plus jet qui soit.<end>
 
 =>a143_original
 Yeah, but how did it all start? Where does the Cap'n come from? Who was he before the Jetters, is my main question.<end>
 
 =>a143
-Oui, mais comment ça a commencé ? D'où vient le Cap ? Qui était-il avant les Jetters, est ma principale question.<end>
+Ouais, mais ça a commencé comment ? D'où il vient, le Cap'n ? Qui il était avant les Jetters, c'est surtout ça que je veux savoir.<end>
 
 =>q144_original
 Well... eh... $(#banga/sweet), now, now, now you're askin' too much. I wasn't 'round back then. And, eh, I don't think the Cap'n ever talked 'bout 'is past, really. He's...<end>
 
 =>q144
-Et bien... eh... $(#banga/sweet), maintenant, maintenant, tu en penses trop. Je n'étais pas à l'époque. Et, eh, je ne pense pas que le Cap n'ait jamais parlé 'c'est passé, vraiment. Il est...<end>
+Bon... eh... $(#banga/chérie), là, là, là tu demandes trop. J'étais pas dans le coin, à l'époque. Et, eh, je crois pas que le Cap'n ait jamais parlé de son passé, vraiment. Il est...<end>
 
 =>q145_original
 I mean, the Cap'n's the cap'n. There. Alright, $(#banga/sweet)?<end>
 
 =>q145
-Le Cap'n est le Cap'n. Voilà. Ça va, $(#banga/sweet) ?<end>
+Le Cap'n, c'est le cap'n. Voilà. D'accord, $(#banga/chérie) ?<end>
 
 =>a146_original
 Let's talk about someone else.<end>
 
 =>a146
-Parlons d'un autre.<end>
+Parlons de quelqu'un d'autre.<end>
 
 =>q147_original
 Yea, alright.<end>
 
 =>q147
-Oui, très bien.<end>
+Ouais, ça marche.<end>
 
 =>a148_original
 Tell me about Razor.<end>
 
 =>a148
-Parlez-moi de Razor.<end>
+Parle-moi de Razor.<end>
 
 =>q149_original
 Razor. He died jettin', that he did... <end>
 
 =>q149
-Razor. Il est mort en jet, qu'il a fait... <end>
+Razor. Il est mort en jetant, ça oui... <end>
 
 =>q150_original
 Been with the Jetters pretty much since the start.<end>
 
 =>q150
-J'étais avec les Jetters depuis le début.<end>
+Avec les Jetters à peu près depuis le début.<end>
 
 =>q151_original
 When ya look at the 'im and Cruz as bein' Cap'n's lieutentants, they always kinda had different roles in the crew: Razor's the one doin' the "outside" stuff, while Cruz's doin' the "inside" stuff. Ya know, like mostly takin' care of what's *out there* as opposed to takin' care of what's *'ere*, ha-ha, that kinda thing. 
@@ -928,57 +928,57 @@ When ya look at the 'im and Cruz as bein' Cap'n's lieutentants, they always kind
 Although, when it comes to raids - everyone's takin' good care of that, eh, if ya catch the way my jet's floatin', $(#banga/sweet)!<end>
 
 =>q151
-Quand tu regardes le 'Im et Cruz comme être' Les remplaçants de Cap'n, ils avaient toujours des rôles différents dans l'équipage : Razor est celui qui fait le truc "hors-jeu", tandis que Cruz fait le truc "intérieur". Tu sais, comme surtout prendre soin de ce qui est là-bas, plutôt que de prendre soin de ce qui est là-bas.
+Quand tu regardes lui et Cruz comme lieutenants du Cap'n, ils ont toujours eu des rôles un peu différents dans l'équipage : Razor, c'est celui qui fait le truc « dehors », Cruz le truc « dedans ». Tu vois, surtout s'occuper de c'qu'il y a *là-bas* plutôt que de c'qu'il y a *ici*, ha-ha, ce genre.
 
-Bien que, en ce qui concerne les raids - tout le monde s'en occupe bien, eh, si vous prenez la façon dont mon jet flotte, $(#banga/sweet)!<end>
+Ceci dit, pour les raids - tout le monde s'en occupe bien, eh, si tu piges comment mon jet flotte, $(#banga/chérie) !<end>
 
 =>q152_original
 But yea, <end>
 
 =>q152
-Mais oui, <end>
+Mais ouais, <end>
 
 =>q153_original
 Razor was a loner kinda banga anyway, so it makes sense. He used to be in charge of Port Crag, up northeast, but now I ain't got a jettin' idea who's gonna take 'is place.<end>
 
 =>q153
-Razor était un solitaire un peu banga de toute façon, donc c'est logique. Il était en charge de Port Crag, au nord-est, mais maintenant je n'ai pas une idée qui va prendre place.<end>
+Razor c'était un banga un peu solitaire de toute façon, donc ça se tient. Il s'occupait de Port Crag, au nord-est, mais maintenant j'ai pas la moindre idée du jet, qui va prendre sa place.<end>
 
 =>q154_original
 Razor's a loner kinda banga anyway, so it makes sense. He's in charge of Port Crag, up northeast, and that's where he spends most of 'is time, if you need 'im.<end>
 
 =>q154
-Razor est un solitaire un peu banga de toute façon, donc c'est logique. Il est en charge de Port Crag, au nord-est, et c'est là qu'il passe le plus de temps, si vous en avez besoin.<end>
+Razor c'est un banga un peu solitaire de toute façon, donc ça se tient. C'est lui qui s'occupe de Port Crag, au nord-est, et c'est là qu'il passe le plus de son temps, si t'as besoin de lui.<end>
 
 =>q155_original
 Razor, ya know 'im by now. <end>
 
 =>q155
-Razor, vous le connaissez maintenant. <end>
+Razor, tu le connais maintenant. <end>
 
 =>a156_original
 Tell me about Cruzer.<end>
 
 =>a156
-Parlez-moi de Cruzer.<end>
+Parle-moi de Cruzer.<end>
 
 =>q157_original
 Ah, ol' Cruz. Even though me and 'im kinda had some bad blood in the past, I respected the banga. Yea. 'Cause out gotta hand it to 'im: <end>
 
 =>q157
-Ah, mon Dieu Cruz. Même si moi et moi avions un peu de mauvais sang dans le passé, j'ai respecté le banga. Oui. Parce qu'il faut le lui donner. <end>
+Ah, le vieux Cruz. Même si lui et moi on a eu un peu de mauvais sang, j'ai respecté le banga. Ouais. Parce qu'il faut lui reconnaître : <end>
 
 =>q158_original
 He led 'is own crew before the Jetters came along, and they scared everyone crapless with their grinnin' bandanas. Then they all joined up, and plenty of Spectral Grinners are still around.<end>
 
 =>q158
-Il dirigeait son propre équipage avant que les Jetters n'arrivent, et ils craignaient tout le monde avec leurs bandanas. Puis ils se sont tous joints, et beaucoup de Grenners Spectral sont encore là.<end>
+Il menait son propre équipage avant les Jetters, et ils foutaient la trouille à tout le monde avec leurs bandanas qui sourient. Puis ils ont tous rejoint, et y a encore pas mal de Spectral Grinners dans le coin.<end>
 
 =>a159_original
 He's the only one still wearing the bandana from what I can see.<end>
 
 =>a159
-C'est le seul qui porte encore le bandana de ce que je vois.<end>
+C'est le seul qui porte encore le bandana, d'après ce que je vois.<end>
 
 =>q160_original
 They wear 'em, but mostly when raidin'. Again, it scares the people crapless, glowin' in the dark like that, he-he. But then again, some of 'is old crewmates got sent under, some stopped wearin' 'em... I dunno. ::He shrugs.:: I came a lot later.
@@ -986,9 +986,9 @@ They wear 'em, but mostly when raidin'. Again, it scares the people crapless, gl
 But Cruz, Cruz wears it all the time.<end>
 
 =>q160
-Ils les portent, mais surtout quand ils font des raids. Encore une fois, ça effraie les gens sans pitié, il brille dans le noir comme ça, il-il. Mais encore une fois, des vieux camarades d'équipage ont été envoyés, certains ont cessé de les porter... ::Il hausse les épaules.:: Je suis venu beaucoup plus tard.
+Ils les portent, mais surtout en raid. Encore une fois, ça fout la trouille aux gens, ça brille dans le noir comme ça, hé-hé. Mais après, y en a de ses vieux mates qui ont été envoyés au fond, d'autres ont arrêté de les porter... J'sais pas. ::Il hausse les épaules.:: Moi je suis arrivé bien plus tard.
 
-Mais Cruz le porte tout le temps.<end>
+Mais Cruz, Cruz le porte tout le temps.<end>
 
 =>q161_original
 Anyways: <end>
@@ -1002,9 +1002,9 @@ When ya look at the 'im and Razor as bein' Cap'n's lieutentants, they always kin
 Although, when it comes to raids - everyone's takin' good care of that, eh, if ya catch the way my jet's floatin', $(#banga/sweet)!<end>
 
 =>q162
-Quand vous regardez les 'im et Razor comme étant' Les remplaçants de Cap'n, ils ont toujours eu des rôles différents dans l'équipage : Cruz est celui qui fait le truc "intérieur", tandis que Razor fait le truc "extérieur". Tu sais, comme surtout prendre soin de ce qui est *'ere* plutôt que de prendre soin de ce qui est là-bas*, ha-ha, ce genre de chose.
+Quand tu regardes lui et Razor comme lieutenants du Cap'n, ils ont toujours eu des rôles un peu différents dans l'équipage : Cruz, c'est celui qui fait le truc « dedans », Razor le truc « dehors ». Tu vois, surtout s'occuper de c'qu'il y a *ici* plutôt que de c'qu'il y a *là-bas*, ha-ha, ce genre.
 
-Bien que, en ce qui concerne les raids - tout le monde s'en occupe bien, eh, si vous prenez la façon dont mon jet flotte, $(#banga/sweet)!<end>
+Ceci dit, pour les raids - tout le monde s'en occupe bien, eh, si tu piges comment mon jet flotte, $(#banga/chérie) !<end>
 
 =>q163_original
 Cruz had this hulkin', intimidatin' presence, ya know, so he was naturally good at keepin' rowdy bangas under control. Or sendin' bangas under, yea.
@@ -1012,9 +1012,9 @@ Cruz had this hulkin', intimidatin' presence, ya know, so he was naturally good 
 He spent most of 'is time 'ere in the port. You could often see 'im standin' on the ship's deck as he watched the crew...<end>
 
 =>q163
-Cruz avait cette présence intimidante, tu sais, donc il était naturellement bon pour garder le contrôle des bangas. Ou envoyer des bangas.
+Cruz avait cette présence massive, intimidante, tu sais, donc il était naturellement bon pour tenir les bangas agités. Ou pour envoyer des bangas au fond, ouais.
 
-Il a passé la plupart du temps dans le port. On pouvait souvent le voir debout sur le pont du navire alors qu'il regardait l'équipage...<end>
+Il passait le plus de son temps ici au port. Tu le voyais souvent debout sur le pont du navire, à surveiller l'équipage...<end>
 
 =>q164_original
 Cruz's got this hulkin', intimidatin' presence, ya know, so he was naturally good at keepin' rowdy bangas under control. Or sendin' bangas under, yea.
@@ -1022,15 +1022,15 @@ Cruz's got this hulkin', intimidatin' presence, ya know, so he was naturally goo
 He spends most of 'is time 'ere in the port. But if you need 'im, he's most likely on the ship itself. ::He points at the Ceto destroyer.:: When he's not on a raid.<end>
 
 =>q164
-Cruz a cette présence intimidante, tu sais, donc il était naturellement bon pour garder le contrôle des bangas. Ou envoyer des bangas.
+Cruz a cette présence massive, intimidante, tu sais, donc il est naturellement bon pour tenir les bangas agités. Ou pour envoyer des bangas au fond, ouais.
 
-Il passe la plupart du temps dans le port. Mais si vous en avez besoin, il est probablement sur le vaisseau lui-même. ::Il pointe au Destroyer de Ceto.:: Quand il n'est pas en raid.<end>
+Il passe le plus de son temps ici au port. Mais si t'as besoin de lui, il est le plus souvent sur le navire lui-même. ::Il désigne le destroyer Ceto.:: Quand il est pas en raid.<end>
 
 =>a165_original
 He was the only one still wearing the bandana from what I could see.<end>
 
 =>a165
-Il était le seul à porter encore la bandana de ce que je pouvais voir.<end>
+C'était le seul qui portait encore le bandana, d'après ce que je voyais.<end>
 
 =>q166_original
 They wore 'em, but mostly when raidin'. Again, it scares the people crapless, glowin' in the dark like that, he-he. But now, after Cruz got sent under, 'is old crewmates started wearin' them out of respect. That was real jettin' to see, I gotta admit.
@@ -1038,21 +1038,21 @@ They wore 'em, but mostly when raidin'. Again, it scares the people crapless, gl
 But Cruz, Cruz wore it all the time, yea.<end>
 
 =>q166
-Ils les portaient, mais surtout quand ils font des raids. Encore une fois, ça effraie les gens sans pitié, il brille dans le noir comme ça, il-il. Mais maintenant, après l'envoi de Cruz, "les vieux compagnons d'équipage ont commencé à les porter" par respect. C'était un vrai coup d'œil.
+Ils les portaient, mais surtout en raid. Encore une fois, ça fout la trouille aux gens, ça brille dans le noir comme ça, hé-hé. Mais maintenant, après que Cruz a été envoyé au fond, ses vieux mates ont commencé à les porter par respect. C'était du vrai jet à voir, faut l'admettre.
 
-Mais Cruz, Cruz le portait tout le temps, oui.<end>
+Mais Cruz, Cruz le portait tout le temps, ouais.<end>
 
 =>a167_original
 ::Say nothing.::<end>
 
 =>a167
-::Ne dis rien.::<end>
+::Ne rien dire.::<end>
 
 =>q168_original
 Cruz. Ya gotta hand it to 'im, ya know: <end>
 
 =>q168
-Cruz. Tu dois le lui donner, tu sais : <end>
+Cruz. Faut lui reconnaître, tu sais : <end>
 
 =>a169_original
 Tell me about Calamity.<end>
@@ -1064,73 +1064,73 @@ Parle-moi de Calamity.<end>
 Oh, Cal's a jettin' cook. You'll find 'er stall just right of the main gate. We've had a lot of cooks, some were jettin' but had crappy temper - like Ol' Percy - or were fun but awful cooks - like Bob "Chef of Crapsine" - or were total deucers - like Roy Deuce. They'd come and die, but Cal'... she's lotsa fun, and 'er food's to dream about.<end>
 
 =>q170
-Cal est une cuisinière à réaction. Vous trouverez "un décrochage juste à droite de la porte principale. Nous avons eu beaucoup de cuisiniers, certains ont été jettin ' mais ont eu un mauvais tempérament - comme Ol' Percy - ou étaient amusants mais terribles cuisiniers - comme Bob "Chef de Crapsine" - ou étaient des deucers complets - comme Roy Deuce. Ils venaient et mouraient, mais Cal... elle est très amusante, et la nourriture est à rêver.<end>
+Oh, Cal, c'est une cuistot du jet. Tu trouveras son stand juste à droite de la porte principale. On a eu pas mal de cuistos, certains jetaient mais avaient un sale caractère - comme le Vieux Percy - ou étaient marrants mais cuisinaient comme des merdes - comme Bob « Chef of Crapsine » - ou étaient des deucers complets - comme Roy Deuce. Ils venaient et ils crevaient, mais Cal'... elle est trop marrante, et sa bouffe, c'est à en rêver.<end>
 
 =>q171_original
 Just, eh, treat 'er nice, ya know. She can be your best banga - or make the toilet your best banga, if ya catch the way my jet's floatin'. She takes no crap from no one.<end>
 
 =>q171
-Juste, eh, gâtez mieux, vous savez. Elle peut être votre meilleur banga - ou faire les toilettes votre meilleur banga, si vous prenez la façon dont mon jet flotte. Elle ne prend aucune merde de personne.<end>
+Juste, eh, sois correct avec elle, tu vois. Elle peut être ta meilleure banga - ou faire des chiottes ta meilleure banga, si tu piges comment mon jet flotte. Elle encaisse la merde de personne.<end>
 
 =>a172_original
 Tell me about D' Flinger.<end>
 
 =>a172
-Parlez-moi de D' Flinger.<end>
+Parle-moi de D' Flinger.<end>
 
 =>q173_original
 Haven't seen much of 'im since ya beat 'im. He's probably down there practicin'.<end>
 
 =>q173
-Je n'en ai pas vu beaucoup depuis que tu l'as battu. Il est probablement en train de pratiquer.<end>
+Je l'ai pas trop vu depuis que tu l'as battu. Il est probablement en bas à s'entraîner.<end>
 
 =>q174_original
 He's *D'* Flinger, after all. Ya take that away from 'im... and what's left?<end>
 
 =>q174
-Il est Flinger, après tout. Tu lui enlèves ça... et qu'est-ce qu'il reste ?<end>
+C'est *D'* Flinger, après tout. Tu lui retires ça... et qu'est-ce qu'il reste ?<end>
 
 =>q175_original
 He's the slickest flinger in the Hell's Gut. No denyin' it. Many've come and challenged 'im - no one defeated 'im.<end>
 
 =>q175
-C'est le plus malin des gourdins. Pas de refus. Beaucoup sont venus le défier - personne ne l'a vaincu.<end>
+C'est le plus slick des lanceurs de Hell's Gut. Y a pas à dire. Plein sont venus le défier - personne l'a battu.<end>
 
 =>q176_original
 With that said, that's all he's about, really. He's either sittin' in the Shop's basement and practicin', or flingin' off with the dryfoots and takin' their coins, or flingin' off an impressin' the girls. Or eatin', yea, he likes that, hah.<end>
 
 =>q176
-Avec ça dit, c'est tout ce qu'il veut, vraiment. Il est soit assis dans le sous-sol de la boutique, soit en train de flirter avec les pieds secs et de prendre leurs pièces, soit en train de flirter avec les filles. Ou manger, oui, il aime ça.<end>
+Ceci dit, c'est à peu près tout c'qu'il est, vraiment. Soit il est assis au sous-sol de la Boutique à s'entraîner, soit il lance avec les pieds-secs et il leur pique leurs pièces, soit il lance pour impressionner les filles. Ou il bouffe, ouais, il aime ça, hah.<end>
 
 =>a177_original
 There was something else I wanted to ask you.<end>
 
 =>a177
-Il y avait autre chose que je voulais te demander.<end>
+Y avait autre chose que je voulais te demander.<end>
 
 =>q178_original
 Go for it, $(#banga/sweet).<end>
 
 =>q178
-Allez-y, $(#banga/sweet).<end>
+Vas-y, $(#banga/chérie).<end>
 
 =>q179_original
 Well, Katya's an old woman. She came 'ere with 'er son, Slick Nick.<end>
 
 =>q179
-Katya est une vieille femme. Elle est venue avec son fils Slick Nick.<end>
+Bon, Katya c'est une vieille. Elle est venue ici avec son fils, Slick Nick.<end>
 
 =>a180_original
 Slick Nick brought his mom along to piracy?<end>
 
 =>a180
-Slick Nick a amené sa mère à la piraterie ?<end>
+Slick Nick a ramené sa mère dans la piraterie ?<end>
 
 =>q181_original
 It's more like she wouldn't let 'im go alone. She's from somewhere in the far west, west from South Underrail, and, and, and she's... ya know, strange. Maybe it's her upbringin', maybe because she's a psionic, I dunno. Anyways, she came 'ere to take care of 'er son - only son - and since she knew how to treat wounds and prepare medicine, she was useful to the rest of the crew and we accepted 'er.<end>
 
 =>q181
-C'est plutôt comme si elle ne voulait pas le laisser partir seul. Elle vient de quelque part dans l'extrême ouest, à l'ouest du Sud Underrail, et, et, et, et elle est... tu sais, étrange. C'est peut-être elle qui se réveille, peut-être parce qu'elle est psy, je sais pas. Quoi qu'il en soit, elle est venue s'occuper de son fils unique, et comme elle savait traiter les blessures et préparer des médicaments, elle a été utile au reste de l'équipage et nous l'avons acceptée.<end>
+C'est plutôt elle qui voulait pas le laisser y aller tout seul. Elle vient de quelque part très à l'ouest, à l'ouest du South Underrail, et, et, et elle est... tu sais, bizarre. Peut-être son éducation, peut-être parce qu'elle est psionique, j'sais pas. Bref, elle est venue s'occuper de son fils - fils unique - et comme elle savait soigner les plaies et préparer les médocs, elle a servi au reste de l'équipage et on l'a prise.<end>
 
 =>a182_original
 And Nick?<end>
@@ -1142,13 +1142,13 @@ Et Nick ?<end>
 Nick... he got sent under by the Black Eels. He was a slick fighter - hence the nick, ay - but the Eel was slicker. We managed to bring 'is body back and... she was shattered. It was awful. She was cryin' for 'er little Nikki... It was awful. <end>
 
 =>q183
-Nick... il a été envoyé par les Black Eels. C'était un combattant léché - d'où le nick, ay - mais l'Ael était lécher. On a réussi à ramener le corps et... elle a été brisée. C'était affreux. Elle pleurait pour son petit Nikki... C'était affreux. <end>
+Nick... les Black Eels l'ont envoyé au fond. C'était un combattant slick - d'où le surnom, hein - mais l'Eel était plus slick. On a réussi à ramener son corps et... elle était en miettes. C'était affreux. Elle pleurait son petit Nikki... C'était affreux. <end>
 
 =>q184_original
 Yea, eh, $(#banga/sweet) I'd rather not go on. Brings back bad memories.<end>
 
 =>q184
-Je préfère ne pas continuer. Ça ramène de mauvais souvenirs.<end>
+Ouais, eh, $(#banga/chérie), je préfère m'arrêter là. Ça ramène de mauvais souvenirs.<end>
 
 =>a185_original
 Let's change the subject.<end>
@@ -1160,7 +1160,7 @@ Changeons de sujet.<end>
 Well, I gotta go. See ya, Donnie.<end>
 
 =>a186
-Je dois y aller. Au revoir, Donnie.<end>
+Bon, je dois y aller. À plus, Donnie.<end>
 
 =>a187_original
 Tell me about Nick again.<end>
@@ -1184,7 +1184,7 @@ De rien.<end>
 Who?<end>
 
 =>a190
-OMS?<end>
+Qui ?<end>
 
 =>a191_original
 Any doctors around here?<end>
@@ -1196,13 +1196,13 @@ Des médecins par ici ?<end>
 Kinda. There's Katya. <end>
 
 =>q192
-Un peu. Voilà Katya. <end>
+Un peu. Y a Katya. <end>
 
 =>a193_original
 I wanted to ask you about some of the people here.<end>
 
 =>a193
-Je voulais vous poser des questions sur certaines personnes ici.<end>
+Je voulais te poser des questions sur des gens d'ici.<end>
 
 =>q194_original
 <end>
@@ -1214,61 +1214,61 @@ Je voulais vous poser des questions sur certaines personnes ici.<end>
 I was wondering, what do you do with all the loot? The things you don't use. Do you have connections through which you sell them or...?<end>
 
 =>a195
-Je me demandais, que fais-tu de tout le butin ? Ce que tu n'utilises pas. Avez-vous des liens par lesquels vous les vendez ou... ?<end>
+Je me demandais, vous faites quoi de tout le butin ? Les trucs dont vous vous servez pas. Vous avez des contacts pour les vendre ou... ?<end>
 
 =>q196_original
 Yea, yea. Ya know, Black Eels are our mortal enemies, the filthy, rat-bangin' sons of slackjaws - they should all be sent under! ::He slams the counter with his fist, then grabs his shorts before they drop down.:: Anyways, we can't trade with them, obviously, but other folks - they don't care where the goods comes from. The stuff we loot we distribute amongs each other; the stuff we don't need we sell. <end>
 
 =>q196
-Oui, oui. Tu sais, les Anguilles Noires sont nos ennemis mortels, les fils sales et bâillonnés de rats - ils devraient tous être envoyés sous ! ::Il frappe le comptoir avec son poing, puis saisit son short avant qu'ils ne tombent.:: Quoi qu'il en soit, nous ne pouvons pas échanger avec eux, évidemment, mais d'autres gens - ils se fichent d'où viennent les marchandises. Les trucs qu'on pille, qu'on se distribue entre eux, les trucs qu'on n'a pas besoin de vendre. <end>
+Ouais, ouais. Tu sais, les Black Eels c'est nos ennemis mortels, ces sales baiseurs de rats, fils de slackjaws - ils devraient tous être envoyés au fond ! ::Il frappe le comptoir du poing, puis rattrape son short avant qu'il tombe.:: Bref, on peut pas trader avec eux, évidemment, mais les autres - ils s'en foutent d'où vient la marchandise. C'qu'on pille, on se le répartit ; c'qu'on a pas besoin, on le vend. <end>
 
 =>q197_original
 Now, I or someone else takes a trip with the goods, usually goin' past Camp Hathor and through the Meatway. <end>
 
 =>q197
-Maintenant, moi ou quelqu'un d'autre prend un voyage avec les marchandises, habituellement aller 'avant Camp Hathor et à travers le Meatway. <end>
+Alors moi ou un autre, on part avec la marchandise, en général on passe Camp Hathor et on prend le Meatway. <end>
 
 =>q198_original
 Even though the sonar's been popped to pieces, we still gotta be careful, 'cause the Eel patrols are still 'bout. It's best to avoid goin' near The Rig or Core City.<end>
 
 =>q198
-Même si le sonar a été mis en pièces, nous devons toujours être prudents, car les patrouilles d'Ael sont toujours en panne. Il est préférable d'éviter d'aller près du Rig ou Core City.<end>
+Même si le sonar a été réduit en miettes, on doit quand même faire gaffe, parce que les patrouilles Eel sont toujours dans le coin. Mieux vaut éviter de frôler The Rig ou Core City.<end>
 
 =>q199_original
 Bloody Eel clods! ::He grabs onto his shorts and slams the fist against the counter.:: <end>
 
 =>q199
-Des cailloux ! ::Il s'empare de son short et frappe le poing contre le comptoir.:: <end>
+Ces andouilles d'Eels ! ::Il rattrape son short et frappe le comptoir du poing.:: <end>
 
 =>q200_original
 The Eels control the waterways, but if ya go around from the other side instead of goin' straight past The Rig to Core City or wherever, you're takin' less risks. The Eels know what's up, ya know.<end>
 
 =>q200
-Les anguilles contrôlent les voies navigables, mais si vous vous déplacez de l'autre côté au lieu de passer droit devant The Rig à Core City ou n'importe où, vous prenez moins de risques. Les Eels savent ce qui se passe.<end>
+Les Eels tiennent les voies d'eau, mais si tu fais le tour de l'autre côté au lieu de passer pile devant The Rig vers Core City ou ailleurs, tu prends moins de risques. Les Eels savent c'qui se trame, tu vois.<end>
 
 =>a201_original
 ::[Mercantile]:: So, when do I get to see the *good* stuff?<end>
 
 =>a201
-::[Mercantile]:: Alors, quand est-ce que je peux voir les bons trucs ?<end>
+::[Mercantile]:: Alors, c'est quand que je vois le *bon* matos ?<end>
 
 =>q202_original
 All stuff's good stuff, yo.<end>
 
 =>q202
-Tout est bien.<end>
+Tout le matos c'est du bon matos, yo.<end>
 
 =>q203_original
 But... I know what you're thinkin' of. Ya want the jettin' stuff. The *jettin'* stuff. The stuff I don't show to just about any dryfoot that's gonna go under on 'is first raid, eh.<end>
 
 =>q203
-Mais... je sais de quoi tu penses. Tu veux les trucs à jet. Les trucs "jette". Les trucs que je ne montre pas à n'importe quel pied sec qui va tomber sous sur 'est le premier raid, eh.<end>
+Mais... je sais à quoi tu penses. Tu veux le matos du jet. Le matos *du jet*. Le truc que je montre pas à n'importe quel pied-sec qui va au fond dès son premier raid, eh.<end>
 
 =>a204_original
 You got it. So, can I see this jetting stuff?<end>
 
 =>a204
-C'est bon. Je peux voir ça ?<end>
+Exactement. Alors, je peux voir ce matos du jet ?<end>
 
 =>q205_original
 <end>
@@ -1280,19 +1280,19 @@ C'est bon. Je peux voir ça ?<end>
 Nope. Got nothin' right now. We ain't done any raidin' since the expedition got 'ere.<end>
 
 =>q206
-Pas du tout. J'ai rien pour l'instant. On n'a pas fait de raid depuis l'expédition.<end>
+Nan. J'ai rien pour l'instant. On a pas fait de raid depuis que l'expédition est arrivée.<end>
 
 =>q207_original
 As soon as we're back in business, $(#banga/sweet), as soon as we're back in business.<end>
 
 =>q207
-Dès que nous sommes de retour en affaires, $(#banga/sweet), dès que nous sommes de retour en affaires.<end>
+Dès qu'on reprend les affaires, $(#banga/chérie), dès qu'on reprend les affaires.<end>
 
 =>q208_original
 Yea, yea. Check this out, $(#banga/sweet).<end>
 
 =>q208
-Oui, oui. Regarde ça, $(#banga/sweet).<end>
+Ouais, ouais. Jette un œil, $(#banga/chérie).<end>
 
 =>a209_original
 ::Barter.::<end>
@@ -1304,37 +1304,37 @@ Oui, oui. Regarde ça, $(#banga/sweet).<end>
 Nope. Nothin' interestin's come up lately. Check back some other time.<end>
 
 =>q210
-Pas du tout. Rien d'intéressant, ces derniers temps. Revenez une autre fois.<end>
+Nan. Rien d'intéressant est arrivé, ces temps-ci. Repasse une autre fois.<end>
 
 =>a211_original
 ::[Mercantile]:: Anything interesting arrived?<end>
 
 =>a211
-::[Mercantile]:: Quelque chose d'intéressant est arrivé ?<end>
+::[Mercantile]:: Y a du nouveau d'intéressant ?<end>
 
 =>a212_original
 Tell me about the Ferryman.<end>
 
 =>a212
-Parlez-moi du Ferryman.<end>
+Parle-moi du Ferryman.<end>
 
 =>q213_original
 The Ferryman... Some say he was a pirate, some say he was in the Biocorp navy, some say he came 'ere thirty or so years ago - but no one really knows nothin'. If he was a pirate, he must've left piracy way before any one of us came 'ere, and we all found 'im sailin' the Black Sea and doin' what he does.<end>
 
 =>q213
-Le Ferryman... Certains disent qu'il était un pirate, certains disent qu'il était dans la marine Biocorp, d'autres disent qu'il est venu il y a une trentaine d'années, mais personne ne sait rien. S'il était un pirate, il a dû quitter la piraterie avant que l'un d'entre nous vienne 'ére, et nous avons tous trouvé 'il navigue' le Black Sea et fait' ce qu'il fait.<end>
+Le Ferryman... Y en a qui disent qu'il était pirate, d'autres qu'il était dans la marine Biocorp, d'autres qu'il est arrivé y a une trentaine d'années - mais personne sait vraiment rien. S'il était pirate, il a dû lâcher la piraterie bien avant que l'un de nous débarque ici, et on l'a tous trouvé à naviguer le Black Sea en faisant c'qu'il fait.<end>
 
 =>a214_original
 How do the Jetters treat him?<end>
 
 =>a214
-Comment les Jetters le traitent-ils ?<end>
+Les Jetters le traitent comment ?<end>
 
 =>q215_original
 With respect. He takes no nonsense from no one, trades fairly, and is out there in the danger all day long, scavengin' for stuff outta the deepest parts of the Hell's Gut. Hey, even the Scalers won't touch 'im!<end>
 
 =>q215
-Avec respect. Il ne prend pas d'absurdités de personne, traite équitablement, et est dehors dans le danger toute la journée, fougueux 'pour des choses sur les parties les plus profondes de la Gut de l'enfer. Même les Scalers ne le toucheront pas !<end>
+Avec respect. Il encaisse les conneries de personne, il trade fair, et il est dehors dans le danger toute la journée, à chiner du matos au plus profond de Hell's Gut. Hé, même les Scalers y touchent pas !<end>
 
 =>a216_original
 Do you know why that is?<end>
@@ -1346,79 +1346,79 @@ Tu sais pourquoi ?<end>
 No clue, $(#banga/sweet). Maybe it's 'is wits, maybe it's 'is thunderous trainshot, but my guess is he somehow got 'em to trade with 'im. ::He taps his temple.:: Ferryman's real wise. He trades with both us Jetters and them muties as well, so that's gotta be the game he's playin'. And speakin' of wisdom, he's got a lotta stuff to tell.<end>
 
 =>q217
-Aucune idée, $(#banga/sweet). Peut-être que c'est de l'esprit, peut-être que c'est du tonnerre, mais je suppose qu'il les a fait échanger avec lui. ::Il tape sur son temple.:: Ferryman est très sage. Il trade avec nous deux Jetters et eux muties aussi, donc ça doit être le jeu qu'il joue. Et en parlant de sagesse, il a beaucoup de choses à dire.<end>
+Aucune idée, $(#banga/chérie). Peut-être c'est sa tête, peut-être c'est son trainshot qui tonne, mais mon pari c'est qu'il a réussi à les faire trader avec lui. ::Il se tape la tempe.:: Le Ferryman, il est vraiment malin. Il trade avec nous les Jetters *et* avec les muties, donc ça doit être le jeu qu'il joue. Et en parlant de sagesse, il a un tas de trucs à raconter.<end>
 
 =>q218_original
 With that said, he's an odd fellow, doin' what he does. I mean, a guy, no matter how old, should be surrounded by women, yea, not serpents; although... there's some overlap there. Anyways, yea, he's got this strange worldview about the descent of civilizations and what's up there, beyond the stalactites and... it's difficult to digest, ya know.<end>
 
 =>q218
-C'est un type bizarre qui fait ce qu'il fait. Je veux dire, un mec, quel que soit son âge, devrait être entouré de femmes, oui, pas de serpents; bien que... il y ait des chevauchements. Bref, il a cette étrange vision du monde sur la descente des civilisations et ce qui est là-haut, au-delà des stalactites et... c'est difficile à digérer, tu sais.<end>
+Ceci dit, c'est un type bizarre, à faire c'qu'il fait. Je veux dire, un mec, peu importe l'âge, il devrait être entouré de femmes, ouais, pas de serpents ; bien que... y a un peu de recouvrement, là. Bref, ouais, il a cette vision du monde bizarre sur la descente des civilisations et c'qu'il y a là-haut, au-delà des stalactites et... c'est dur à digérer, tu vois.<end>
 
 =>q219_original
 But the Ferryman's a real banga. Respect.<end>
 
 =>q219
-Mais le Ferryman est un vrai banga. Respect.<end>
+Mais le Ferryman, c'est un vrai banga. Respect.<end>
 
 =>a220_original
 How come?<end>
 
 =>a220
-Pourquoi ?<end>
+Comment ça ?<end>
 
 =>a221_original
 When's the next time the Ferryman's stopping by Port Ceto?<end>
 
 =>a221
-Quand est la prochaine fois que le Ferryman s'arrête à Port Ceto ?<end>
+C'est quand la prochaine fois que le Ferryman s'arrête à Port Ceto ?<end>
 
 =>q222_original
 Should've been 'ere by now...<end>
 
 =>q222
-Ça aurait dû être fini...<end>
+Il aurait déjà dû être là...<end>
 
 =>q223_original
 ::He shrugs his shoulders.::<end>
 
 =>q223
-::Il lui écrase les épaules.::<end>
+::Il hausse les épaules.::<end>
 
 =>q224_original
 Nnnnot any time soon, no. He just left, yo.<end>
 
 =>q224
-Nnn pas si tôt, non. Il vient de partir.<end>
+Nnnnnon, pas de sitôt, non. Il vient de partir, yo.<end>
 
 =>q225_original
 Ya get so used to the rhythm of 'im comin' and goin', ya know, ya could almost sense when he's about to arrive.<end>
 
 =>q225
-Tu t'habitues tellement au rythme de 'im comin' et goin', tu sais, tu pourrais presque sentir quand il va arriver.<end>
+Tu t'habitues tellement au rythme de ses allers-retours, tu sais, tu pourrais presque sentir quand il va arriver.<end>
 
 =>q226_original
 Hm. Should be 'ere soon, I think. Yea, it's been a while since the last time he was 'ere.<end>
 
 =>q226
-Hm. Ça devrait être bientôt. Oui, ça fait un moment qu'il n'était plus là.<end>
+Hm. Il devrait pas tarder, je pense. Ouais, ça fait un moment depuis la dernière fois.<end>
 
 =>q227_original
 He's 'ere right now, $(#banga/sweet). The dock's just south of 'ere. Better hurry up unless ya wanna miss 'im, yea, yea.<end>
 
 =>q227
-Il est en ce moment, $(#banga/sweet). Le quai est juste au sud de l'ère. Dépêche-toi, à moins que tu ne veuilles le manquer.<end>
+Il est là maintenant, $(#banga/chérie). Le quai est juste au sud d'ici. Dépêche-toi, sauf si tu veux le rater, ouais, ouais.<end>
 
 =>q228_original
 Shouldn't be 'ere any time soon, $(#banga/sweet), I don't think.<end>
 
 =>q228
-Ne devrait pas être bientôt, $(#banga/sweet), je ne pense pas.<end>
+Il devrait pas être là de sitôt, $(#banga/chérie), je crois pas.<end>
 
 =>a229_original
 Tell me about this place.<end>
 
 =>a229
-Parlez-moi de cet endroit.<end>
+Parle-moi de cet endroit.<end>
 
 =>q230_original
 Port Ceto? Well, it's been around for decades, yea, decades. Pirates of past generations have always found their refuge in the Black Sea. Before Grim Jetters you had the Spectral Grinners, and before them the Hoodlums, and before ya had the, the, eh... I don't know, Mike Rough's Dollar Snatchers or somethin'. 
@@ -1426,15 +1426,15 @@ Port Ceto? Well, it's been around for decades, yea, decades. Pirates of past gen
 I made that last one up, I really don't know.<end>
 
 =>q230
-Port Ceto ? Ça fait des décennies. Les pirates des générations passées ont toujours trouvé leur refuge dans le Black Sea. Avant Grim Jetters, vous aviez les Spectral Grenners, et avant eux les Hoodlums, et avant vous aviez les, eh... Je ne sais pas, les Snatchers de Mike Rough.
+Port Ceto ? Bon, ça existe depuis des décennies, ouais, des décennies. Les pirates des générations d'avant ont toujours trouvé refuge dans le Black Sea. Avant les Grim Jetters t'avais les Spectral Grinners, et avant eux les Hoodlums, et avant t'avais les, les, eh... j'sais pas, les Dollar Snatchers de Mike Rough ou un truc.
 
-J'ai inventé le dernier, je ne sais vraiment pas.<end>
+Celui-là je l'ai inventé, je sais vraiment pas.<end>
 
 =>q231_original
 Anyways, each generation of pirates built upon what the previous one had built. The captain would always take the ship and the crew'd build around it. Then there'd be mutiny, or they'd get sent under durin' a raid, or they'd disband... whatever, and the new pirates'd move in and add somethin' of their own.<end>
 
 =>q231
-En tout cas, chaque génération de pirates a construit sur ce que la précédente avait construit. Le capitaine prenait toujours le navire et l'équipage construisait autour. Ensuite, il y aurait une mutinerie, ou ils seraient envoyés sous la menace d'un raid, ou ils se dissoudraient, quoi qu'il en soit, et les nouveaux pirates emménageraient et ajouteraient quelque chose de leur propre.<end>
+Bref, chaque génération de pirates a construit sur c'que la précédente avait posé. Le capitaine prenait toujours le navire et l'équipage construisait autour. Puis y avait une mutinerie, ou on les envoyait au fond pendant un raid, ou ils se dispersaient... peu importe, et les nouveaux pirates s'installaient et rajoutaient un truc à eux.<end>
 
 =>q232_original
 <end>
@@ -1446,55 +1446,55 @@ En tout cas, chaque génération de pirates a construit sur ce que la précéden
 How large were these crews if they needed that much space?<end>
 
 =>a233
-Quelle était la taille de ces équipages s'ils avaient besoin de cet espace ?<end>
+Ils étaient si gros que ça, ces équipages, pour avoir besoin d'autant de place ?<end>
 
 =>q234_original
 Small compared to us, small. Most of what ya see has been built by the Jetter's, yea, but... but the Skidrow's always been there in one form or another, for example. Or so I've been told. Oh, and Port Crag. Port Crag's been around for a long time.<end>
 
 =>q234
-Petit par rapport à nous, petit. La plupart de ce que vous voyez a été construit par le Jetter, oui, mais... mais le Skidrow a toujours été là sous une forme ou une autre, par exemple. Ou alors on m'a dit. Et Port Crag. Port Crag est là depuis longtemps.<end>
+Petits à côté de nous, petits. La plupart de c'que tu vois, c'est les Jetters qui l'ont bâti, ouais, mais... mais le Skidrow a toujours été là, sous une forme ou une autre, par exemple. Enfin, c'est c'qu'on m'a dit. Oh, et Port Crag. Port Crag, ça existe depuis longtemps.<end>
 
 =>q235_original
 But the base we got now, this massive fortress, that's all Jetters. Yo, we are the largest pirate crew ever, $(#banga/sweet). Ever. *Ever*. And the most jettin', alright.<end>
 
 =>q235
-Mais la base qu'on a maintenant, cette immense forteresse, c'est tout Jetters. Yo, nous sommes le plus grand équipage de pirates jamais, $(#banga/sweet). Jamais. Et le plus rapide, d'accord.<end>
+Mais la base qu'on a maintenant, cette forteresse massive, ça c'est tout Jetters. Yo, on est le plus grand équipage pirate de tous les temps, $(#banga/chérie). De tous. *De tous*. Et le plus jet, d'accord.<end>
 
 =>a236_original
 Tell me about the various sections of Port Ceto.<end>
 
 =>a236
-Parlez-moi des différentes sections de Port Ceto.<end>
+Parle-moi des différents coins de Port Ceto.<end>
 
 =>q237_original
 Alright. Eh, ya, ya... ya got the Capn's ship. The Ceto destroyer. That's the center of Port Ceto. The Skidrow's where you and I met. That's where most of the crew lives.<end>
 
 =>q237
-Très bien. Vous avez le vaisseau du Capn. Le destroyer de Ceto. C'est le centre de Port Ceto. Le Skidrow est là où on s'est rencontrés. C'est là que vit la plupart de l'équipage.<end>
+Ça marche. Eh, t'as, t'as... t'as le navire du Cap'n. Le destroyer Ceto. C'est le centre de Port Ceto. Le Skidrow, c'est là qu'on s'est croisés. C'est là que vit le gros de l'équipage.<end>
 
 =>q238_original
 Northwest of Skidrow is the Shop. We call it that 'cause it's both a warehouse and a workshop. And it's got a lockup in the basement, ay, right in the basement.<end>
 
 =>q238
-Le Nord-Ouest de Skidrow est la Boutique. On appelle ça comme ça parce que c'est à la fois un entrepôt et un atelier. Et il y a un verrou dans le sous-sol.<end>
+Au nord-ouest du Skidrow, y a la Boutique. On l'appelle comme ça parce que c'est à la fois un entrepôt et un atelier. Et y a un mitard au sous-sol, hein, pile au sous-sol.<end>
 
 =>q239_original
 North of 'ere's the main entrance and Calamity's food stand, and south of 'ere's the Big Dock. That's for big ships. That's where the Ferryman docks.<end>
 
 =>q239
-Au nord de 'ere' est l'entrée principale et le stand alimentaire de Calamity, et au sud de 'ere' est le Big Dock. C'est pour les gros vaisseaux. C'est là que les docks Ferryman.<end>
+Au nord d'ici, l'entrée principale et le stand de Calamity, et au sud d'ici le Big Dock. Ça c'est pour les gros navires. C'est là que le Ferryman accoste.<end>
 
 =>q240_original
 Then there's a couple of outposts around The Pirate Bay, and of course - Port Crag.<end>
 
 =>q240
-Puis il y a quelques avant-postes autour de la baie Pirate, et bien sûr - Port Crag.<end>
+Ensuite y a deux-trois avant-postes autour de The Pirate Bay, et bien sûr - Port Crag.<end>
 
 =>a241_original
 What can you tell me about Port Crag?<end>
 
 =>a241
-Que pouvez-vous me dire sur Port Crag ?<end>
+Tu peux me dire quoi sur Port Crag ?<end>
 
 =>q242_original
 Long or short version?<end>
@@ -1512,25 +1512,25 @@ Longue.<end>
 Alright. There was this crew way, way in the past that was led by two brothers. They both lived 'ere on the ship until they got into an "argument" and kind of split, but not really. The older one stayed on the ship, while the other one sailed north with 'is part of the crew and set up camp by the old lighthouse. They went to raids together and worked as a team, split the loot fairly, but other than that were completely separate.<end>
 
 =>q244
-Très bien. Il y avait ce chemin d'équipage, dans le passé qui était dirigé par deux frères. Ils ont tous les deux vécu sur le navire jusqu'à ce qu'ils soient entrés dans un "argument" et une sorte de division, mais pas vraiment. L'aîné est resté sur le navire, tandis que l'autre a navigué au nord avec 'est une partie de l'équipage et a installé le camp près de l'ancien phare. Ils sont allés à des raids ensemble et ont travaillé comme une équipe, divisé le butin assez, mais autre que ce qui était complètement séparé.<end>
+Ça marche. Y avait cet équipage, y a longtemps, longtemps, mené par deux frères. Ils vivaient tous les deux ici sur le navire jusqu'à ce qu'ils aient une « dispute » et qu'ils se séparent, un peu, mais pas vraiment. L'aîné est resté sur le navire, l'autre a filé au nord avec sa part d'équipage et a planté le camp près du vieux phare. Ils partaient en raid ensemble, travaillaient en équipe, se partageaient le butin fair, mais à part ça ils étaient complètement à part.<end>
 
 =>q245_original
 Until they had another argument and completely eradicated each other. A few folks survived to tell the tale of the Bloody Bay and all that, yea, and then formed a new crew - the Bloody Bayhounds.<end>
 
 =>q245
-Jusqu'à ce qu'ils aient un autre argument et qu'ils s'éliminent complètement. Quelques personnes ont survécu pour raconter l'histoire de la baie Bloody et tout cela, oui, puis ont formé une nouvelle équipe - les Bayhounds Bloody.<end>
+Jusqu'à ce qu'ils aient une autre dispute et qu'ils s'éradiquent complètement l'un l'autre. Quelques-uns ont survécu pour raconter l'histoire de la Bloody Bay et tout ça, ouais, et puis ils ont formé un nouvel équipage - les Bloody Bayhounds.<end>
 
 =>a246_original
 What was the original crew called?<end>
 
 =>a246
-Comment s'appelait l'équipage original ?<end>
+L'équipage d'origine, il s'appelait comment ?<end>
 
 =>q247_original
 Loot Brothers. Unimaginative, I know.<end>
 
 =>q247
-Des frères pilleurs. Je sais.<end>
+Loot Brothers. Pas de l'imagination, je sais.<end>
 
 =>q248_original
 Anyways, we use Port Crag <end>
@@ -1542,73 +1542,73 @@ Bref, on utilise Port Crag <end>
 as an extension of Port Ceto - part of the crew's there, there's another dock - and it's, it's, it's got a tall lighthouse so we can keep an eye out for Scalers. It's our border - our frontier, if, ya know, ya wanna look at it that way.<end>
 
 =>q249
-comme extension de Port Ceto - une partie de l'équipage est là, il y a un autre quai - et c'est, c'est, il a un grand phare pour qu'on puisse garder un œil sur Scalers. C'est notre frontière, notre frontière, si, tu sais, tu veux regarder ça comme ça.<end>
+comme extension de Port Ceto - une partie de l'équipage est là, y a un autre quai - et c'est, c'est, c'est un grand phare pour qu'on surveille les Scalers. C'est notre frontière - notre frontière, si, tu vois, tu veux le voir comme ça.<end>
 
 =>q250_original
 It's the edge. And since Razor<end>
 
 =>q250
-C'est le bord. Et depuis Razor<end>
+C'est le bout. Et comme Razor<end>
 
 =>q251_original
  was in charge of the place until he got popped, <end>
 
 =>q251
- était en charge de l'endroit jusqu'à ce qu'il se fasse sauter, <end>
+ s'occupait de l'endroit jusqu'à ce qu'on le descende, <end>
 
 =>q252_original
 which, if you know Razor... Well, ya dig what I mean, $(#banga/sweet).<end>
 
 =>q252
-Si vous connaissez Razor... Eh bien, vous cherchez ce que je veux dire, $(#banga/sweet).<end>
+ce qui, si tu connais Razor... Bon, tu piges c'que je veux dire, $(#banga/chérie).<end>
 
 =>q253_original
 's in charge of the place, <end>
 
 =>q253
-est en charge du lieu, <end>
+s'occupe de l'endroit, <end>
 
 =>a254_original
 Short.<end>
 
 =>a254
-Court.<end>
+Courte.<end>
 
 =>q255_original
 It was constructed by a crew that was 'ere long before the Jetters. <end>
 
 =>q255
-Il a été construit par un équipage qui était « bien avant les Jetters. <end>
+C'est un équipage qui était là bien avant les Jetters qui l'a construit. <end>
 
 =>q256_original
 We use it <end>
 
 =>q256
-Nous l'utilisons <end>
+On s'en sert <end>
 
 =>a257_original
 There was something else I wanted to ask you.<end>
 
 =>a257
-Il y avait autre chose que je voulais te demander.<end>
+Y avait autre chose que je voulais te demander.<end>
 
 =>q258_original
 Alright.<end>
 
 =>q258
-Très bien.<end>
+Ça marche.<end>
 
 =>a259_original
 About Port Ceto...<end>
 
 =>a259
-A propos de Port Ceto...<end>
+À propos de Port Ceto...<end>
 
 =>q260_original
 Yea?<end>
 
 =>q260
-Oui ?<end>
+Ouais ?<end>
 
 =>a261_original
 About certain locations...<end>
@@ -1620,7 +1620,7 @@ About certain locations...<end>
 Sure. What would ya like to know about?<end>
 
 =>q262
-Bien sûr. Que voulez-vous savoir ?<end>
+Bien sûr. Tu veux savoir quoi ?<end>
 
 =>q263_original
 <end>
@@ -1632,7 +1632,7 @@ Bien sûr. Que voulez-vous savoir ?<end>
 Anything I should know about the surrounding areas?<end>
 
 =>a264
-Quelque chose que je devrais savoir sur les environs ?<end>
+Y a un truc que je devrais savoir sur les environs ?<end>
 
 =>q265_original
 Well, $(#banga/sweet), there's a couple of interestin' locations 'round 'ere. As ya know, the Grim Jetters control The Pirate Bay, but there's a place southeast that no pirate wanna go near. No one, yea. It's a hospital, it seems, and folks that did approach it say they heard voices of dead people, and saw some gruesome things. 
@@ -1640,9 +1640,9 @@ Well, $(#banga/sweet), there's a couple of interestin' locations 'round 'ere. As
 Don't know what's inside, never been there, never will.<end>
 
 =>q265
-Et bien, $(#banga/sweet), il y a un couple d'endroits qui s'intéressent aux alentours. Comme vous le savez, les Jetters Grim contrôlent The Pirate Bay, mais il y a un endroit au sud-est où aucun pirate ne veut s'approcher. Personne, oui. C'est un hôpital, il semble, et les gens qui l'ont approché disent qu'ils ont entendu des voix de morts, et ont vu des choses horribles.
+Bon, $(#banga/chérie), y a deux-trois endroits intéressants dans le coin. Comme tu sais, les Grim Jetters tiennent The Pirate Bay, mais y a un endroit au sud-est où aucun pirate veut s'approcher. Personne, ouais. On dirait un hôpital, et les gens qui s'en sont approchés disent qu'ils ont entendu des voix de morts, et vu des trucs dégueulasses.
 
-Je ne sais pas ce qu'il y a dedans, jamais été là, jamais.<end>
+Je sais pas c'qu'il y a dedans, jamais mis les pieds, jamais.<end>
 
 =>q266_original
 Then there's another bay to the east - The Creepers Bay. It's an old ruined complex of some kind - folks that've been there say it's some kinda factory full of loot - but it's all under giant, giant cobwebs and is full of deadly freakin' creepers. Only the gutsiest dare go there, and most don't come back. 
@@ -1650,27 +1650,27 @@ Then there's another bay to the east - The Creepers Bay. It's an old ruined comp
 ::He shrugs.:: Pirates bein' pirates. Whatcha gonna do.<end>
 
 =>q266
-Ensuite, il y a une autre baie à l'est - la baie Creepers. C'est un vieux complexe ruiné d'une sorte - les gens qui ont été là disent que c'est une sorte d'usine pleine de butin - mais c'est tout sous géant, cobweb géant et est plein de monstres mortels. Seul le plus courageux ose y aller, et la plupart ne reviennent pas.
+Ensuite y a une autre baie à l'est - The Creepers Bay. C'est un vieux complexe en ruine, d'un genre - ceux qui y sont allés disent que c'est une sorte d'usine pleine de butin - mais c'est tout sous des toiles géantes, géantes, et plein de creepers mortels, putain. Seuls les plus gonflés osent y aller, et la plupart reviennent pas.
 
-::Il hausse les épaules.:: Pirates sont des pirates. Qu'est-ce que tu vas faire ?<end>
+::Il hausse les épaules.:: Les pirates, c'est des pirates. Qu'est-ce que tu veux.<end>
 
 =>q267_original
 What else is there...? Well, there's the Fetid Marsh. It's to the east of Port Crag, right through a cave. Craggers go there to get themselves some marsh honey from locust hives. Tasty stuff, but the place is full of creepy-crawlies, serpents and whatnot. <end>
 
 =>q267
-Quoi d'autre... ? Voilà le marais Fetid. C'est à l'est de Port Crag, à travers une grotte. Les crageurs vont là-bas pour se procurer du miel de marais de ruches de sauterelles. C'est délicieux, mais l'endroit est plein d'éclaboussures, de serpents et de tout. <end>
+Qu'est-ce qu'il y a d'autre... ? Bon, y a le Fetid Marsh. C'est à l'est de Port Crag, pile à travers une grotte. Les Craggers y vont pour se ramener du miel de marais, des ruches de locustes. C'est bon, mais l'endroit est plein de bestioles, de serpents et de tout le tremblement. <end>
 
 =>q268_original
 Ask Razor about it. He goes there with 'is crew and knows that stuff better than I do.<end>
 
 =>q268
-Demande Razor à ce sujet. Il y va avec l'équipe et sait mieux que moi.<end>
+Demande à Razor. Il y va avec son équipage, il connaît ça mieux que moi.<end>
 
 =>q269_original
 That's it until I remember anythin' else.<end>
 
 =>q269
-C'est tout jusqu'à ce que je me souvienne d'autre chose.<end>
+C'est tout, jusqu'à ce que je me souvienne d'autre chose.<end>
 
 =>q270_original
 <end>
@@ -1682,31 +1682,31 @@ C'est tout jusqu'à ce que je me souvienne d'autre chose.<end>
 What do you know about the expedition?<end>
 
 =>a271
-Que savez-vous de l'expédition ?<end>
+T'en sais quoi, de l'expédition ?<end>
 
 =>q272_original
 I know they're no longer gonna bother us, that I know, ya know.<end>
 
 =>q272
-Je sais qu'ils ne vont plus nous déranger, que je sais, tu sais.<end>
+Je sais qu'ils vont plus nous emmerder, ça je le sais, tu sais.<end>
 
 =>q273_original
 We still got bad neighbors, though.<end>
 
 =>q273
-On a toujours de mauvais voisins.<end>
+On a toujours de mauvais voisins, par contre.<end>
 
 =>q274_original
 They came 'ere 'bout two weeks ago or so. Northerners from some university or whatever. Came 'ere to dig out the ruins, see what's inside, which wouldn't be such a bad thing - eh - if they hadn't brought Aegis Incorporated along.<end>
 
 =>q274
-Ils sont venus il y a deux semaines. Des gens du Nord d'une université ou autre. Il est venu creuser les ruines, voir ce qui est à l'intérieur, ce qui ne serait pas une si mauvaise chose - eh - s'ils n'avaient pas apporté Aegis Incorporated.<end>
+Ils sont arrivés y a deux semaines, à peu près. Des Nordistes, d'une université ou je-sais-pas-quoi. Ils sont venus creuser les ruines, voir c'qu'il y a dedans, ce qui serait pas si mal - eh - s'ils avaient pas ramené Aegis Incorporated avec.<end>
 
 =>a275_original
 What can you tell me about Aegis Incorporated?<end>
 
 =>a275
-Que pouvez-vous me dire sur Aegis Incorporated ?<end>
+Tu peux me dire quoi sur Aegis Incorporated ?<end>
 
 =>q276_original
 Northern security contractors. Protectorate veterans, most of them, at least. All highly trained and well-equipped. Not to be jetted with, $(#banga/sweet), no, no, not to be jetted with. 
@@ -1714,21 +1714,21 @@ Northern security contractors. Protectorate veterans, most of them, at least. Al
 However... the Scalers have *numbers* and, and lack fear. Now that they've started attackin' them, they're bound to send 'em under eventually unless they pack their bags.<end>
 
 =>q276
-Contractuels de sécu du Nord. Des vétérans du Protectorate, la plupart, en tout cas. Tous bien formés, bien équipés. On joue pas avec, $(#banga/chérie), non, non, on joue pas avec.
+Des contractuels de sécu du Nord. Des vétérans du Protectorate, la plupart, en tout cas. Tous très entraînés, bien équipés. On jette pas avec, $(#banga/chérie), non, non, on jette pas avec.
 
-Cependant... les Scalers ont *nombres* et, et manquent de peur. Maintenant qu'ils ont commencé à les attaquer, ils sont tenus de les envoyer sous leurs sacs.<end>
+Par contre... les Scalers ont les *nombres* et, et ils ont pas peur. Maintenant qu'ils ont commencé à les attaquer, ils vont finir par les envoyer au fond, sauf s'ils font leurs valises.<end>
 
 =>q277_original
 We'll see what happens. We got jettin' eyes and ears on 'em.<end>
 
 =>q277
-Nous verrons ce qui se passe. On a des yeux et des oreilles sur eux.<end>
+On verra c'qui se passe. On a des yeux et des oreilles du jet sur eux.<end>
 
 =>a278_original
 I see. Now, I wanted to talk about something else.<end>
 
 =>a278
-Je vois. Je voulais parler d'autre chose.<end>
+Je vois. Bon, je voulais parler d'autre chose.<end>
 
 =>q279_original
 Sure.<end>
@@ -1740,61 +1740,61 @@ Bien sûr.<end>
 What can you tell me about the Scaler territory?<end>
 
 =>a280
-Que pouvez-vous me dire sur le territoire de Scaler ?<end>
+Tu peux me dire quoi sur le territoire des Scalers ?<end>
 
 =>q281_original
 We don't go there, $(#banga/sweet). ::He shakes his head.:: Whatcha see is whatcha... see, ha-ha. The Ferryman's the only guy I know of that sails there *without* gettin' 'is head impaled on a spear. He doesn't talk much about what he's seen, but he does bring fur from there. The stuff the Scalers wear. Some of the mates have seen herds of these big, chest-high horned beasts covered in the same thick fur, weighin' a ton they do. How the Ferryman gets it I ain't sure, but the only way I can think if is through trade.<end>
 
 =>q281
-On n'y va pas, $(#banga/chérie). ::Il secoue la tête.:: C'que tu vois, c'est c'que tu... vois, ha-ha. Le Ferryman, c'est le seul que je connaisse qui navigue là-bas *sans* se faire empaler la tête sur une lance. Il cause pas beaucoup de c'qu'il a vu, mais il ramène de la fourrure de là-bas. Le truc que portent les Scalers. Y'a des mates qui ont vu des troupeaux de ces grosses bêtes cornées, hauteur de poitrine, la même fourrure épaisse, une tonne le morceau. Comment le Ferryman l'a, j'suis pas sûr, mais la seule façon que je vois, c'est le troc.<end>
+On y va pas, $(#banga/chérie). ::Il secoue la tête.:: C'que tu vois, c'est c'que tu... vois, ha-ha. Le Ferryman, c'est le seul que je connaisse qui navigue là-bas *sans* se faire empaler la tête sur une lance. Il cause pas beaucoup de c'qu'il a vu, mais il ramène de la fourrure de là-bas. Le truc que portent les Scalers. Y a des mates qui ont vu des troupeaux de ces grosses bêtes cornées, hauteur de poitrine, la même fourrure épaisse, une tonne le morceau. Comment le Ferryman l'a, j'suis pas sûr, mais la seule façon que je vois, c'est le troc.<end>
 
 =>q282_original
 But, but, now that you've asked... I remember a little somethin' Bleedin' Boil Jim told me a few years ago and just before 'is disease got the better of 'im.<end>
 
 =>q282
-Mais, maintenant que vous avez demandé... Je me souviens d'un petit truc "Bleedin" Boil Jim m'a dit il y a quelques années et juste avant que la maladie ne s'améliore.<end>
+Mais, mais, maintenant que t'as demandé... je me souviens d'un petit truc que Bleedin' Boil Jim m'a dit y a quelques années, pile avant que sa maladie l'emporte.<end>
 
 =>q283_original
 He was cruisin' far north, wantin' to see what's out there and no longer carin' about what happens to 'im, and goin' deeper into Scaler territory. He told me, yea, he told me he saw a buncha Scalers throwin' other Scalers in the water, their ankles tied together as well as their hands behind their backs. There were shamans there, doin' their thing, and then they'd just chuck 'em in, send 'em under.<end>
 
 =>q283
-Il courait loin au nord, il voulait voir ce qu'il y a dehors et ne plus s'occuper de ce qui lui arrive, et aller plus loin dans le territoire de Scaler. Il m'a dit, oui, il m'a dit qu'il a vu un tasa Scalers jeter les autres Scalers dans l'eau, leurs chevilles attachées ensemble ainsi que leurs mains derrière leur dos. Il y avait des chamans là-bas, faisant leur truc, et puis ils les ont jetés dedans, les envoyer en dessous.<end>
+Il croisait loin au nord, il voulait voir c'qu'il y avait là-bas et il en avait plus rien à foutre de c'qui lui arriverait, et il rentrait plus profond dans le territoire Scaler. Il m'a dit, ouais, il m'a dit qu'il a vu un tas de Scalers jeter d'autres Scalers à l'eau, chevilles liées et les mains dans le dos. Y avait des chamans, à faire leur truc, et puis ils les balançaient dedans, ils les envoyaient au fond.<end>
 
 =>q284_original
 Now, he also mentioned some rapids, uh, to the west, I think. I can't remember if that's where they chucked 'em or not, but wherever they did, he reckons those Scalers have done somethin' bad and were punished for it.<end>
 
 =>q284
-Maintenant, il a aussi mentionné quelques rapides, euh, à l'ouest, je pense. Je ne me souviens pas si c'est là qu'ils les ont jetés ou non, mais où qu'ils aient fait, il pense que ces Scalers ont fait quelque chose de mauvais et ont été punis pour ça.<end>
+Là, il a aussi parlé de rapides, euh, à l'ouest, je pense. Je me souviens plus si c'est là qu'ils les ont balancés ou pas, mais où qu'ils l'aient fait, il pensait que ces Scalers avaient fait un sale coup et qu'on les punissait.<end>
 
 =>q285_original
 He sailed deep and, and. and saw them furry beasts and a buncha stuff, but once bolts started flyin' over 'is head, yea... 'is will to live kinda returned to, so he jetted outta there.<end>
 
 =>q285
-Il a navigué profondément et, et. et les a vus bêtes furieuses et un tas de choses, mais une fois que les boulons ont commencé à voler sur la tête est, oui... est la volonté de vivre un peu retourné à, alors il a jeté dehors là.<end>
+Il a navigué profond et, et, et il a vu ces bêtes à fourrure et un tas de trucs, mais une fois que les carreaux ont commencé à siffler au-dessus de sa tête, ouais... sa volonté de vivre est un peu revenue, alors il s'est jeté hors de là.<end>
 
 =>a286_original
 What do you know about the ruins around us?<end>
 
 =>a286
-Que savez-vous des ruines autour de nous ?<end>
+T'en sais quoi, des ruines autour de nous ?<end>
 
 =>q287_original
 Well, I think ya know a lot more now than any pirate 'round 'ere. I mean, generations of pirates have lived 'ere for so long, and, and... all they could do was stare at dilapidated walls and wonder what's inside.<end>
 
 =>q287
-Je pense que tu en sais beaucoup plus que n'importe quel pirate. Des générations de pirates ont vécu si longtemps, et... tout ce qu'ils pouvaient faire, c'était regarder des murs délabrés et se demander ce qu'il y a dedans.<end>
+Bon, je pense que t'en sais déjà beaucoup plus que n'importe quel pirate du coin. Je veux dire, des générations de pirates ont vécu ici si longtemps, et, et... tout c'qu'ils pouvaient faire, c'était fixer des murs délabrés et se demander c'qu'il y avait dedans.<end>
 
 =>q288_original
 What I always found most fascinatin' were these, these, these trinkets folks would sometimes find - yea, Ferryman would fish 'em out from time to time. Jewelery, figurines, tools - that sorta stuff. Ya can tell a lot about folks from little things. Every clod wants to show off and built a massive buildin', but when ya see they took care to make all this little, seemingly insignificant stuff beautiful, then it... then it gives ya an... what's the word... insight into these folks' lives, ya know.<end>
 
 =>q288
-Ce que j'ai toujours trouvé le plus fascinant' étaient ceux-ci, ces, ces bibelots les gens trouveraient parfois - oui, Ferryman les pêcheraient de temps en temps. Des bijoux, des figurines, des outils. Tu peux en dire beaucoup sur les gens de petites choses. Chaque clode veut montrer et construire une construction massive, mais quand vous voyez qu'ils ont pris soin de rendre toutes ces petites choses, apparemment insignifiantes, beau, puis... alors ça vous donne un... ce que le mot... aperçu dans la vie de ces gens, vous savez.<end>
+C'que j'ai toujours trouvé le plus fascinant, c'est ces, ces, ces bibelots que les gens trouvaient des fois - ouais, le Ferryman en pêchait de temps en temps. Bijoux, figurines, outils - ce genre. Tu peux en dire beaucoup sur des gens, avec les petits trucs. Chaque andouille veut se la raconter et construire un bâtiment massif, mais quand tu vois qu'ils ont pris soin de rendre toutes ces petites choses, apparemment insignifiantes, belles, alors ça... alors ça te donne un... c'est quoi le mot... un aperçu de la vie de ces gens, tu vois.<end>
 
 =>q289_original
 I mean, I saw a buncha these beautiful necklaces, rings, wristbands - decorated tool bands that got tools in them and they just slide 'em in your hand when you're workin' - then... um... ::He scratches his head.:: fancy buttons, digital glasses with slick frames... Everythin' they made they made beautiful.<end>
 
 =>q289
-Je veux dire, j'ai vu un tas de ces beaux colliers, bagues, bracelets - bandeaux d'outils décorés qui ont des outils en eux et ils les glissent juste dans votre main quand vous travaillez - alors... um... ::Il se gratte la tête.:: boutons fantaisie, lunettes numériques avec cadres lisses... Tout ce qu'ils ont rendu beau.<end>
+Je veux dire, j'ai vu un tas de ces beaux colliers, bagues, bracelets - des bandeaux d'outils décorés, les outils dedans, et ça te glisse ça dans la main quand tu travailles - ensuite... euh... ::Il se gratte la tête.:: des boutons classe, des lunettes digitales avec des montures slick... Tout c'qu'ils faisaient, ils le faisaient beau.<end>
 
 =>q290_original
 And then ya look at ruins of Biocorp facilities: All blocky and lifeless. 
@@ -1802,93 +1802,93 @@ And then ya look at ruins of Biocorp facilities: All blocky and lifeless.
 ::He shrugs.:: Maybe it's just my trader's eye preferin' shiny and shapely things...<end>
 
 =>q290
-Et puis vous regardez les ruines des installations Biocorp: Tout bloc et sans vie.
+Et après tu regardes les ruines des installations Biocorp : tout en blocs, sans vie.
 
-::Il hausse les épaules.:: Peut-être que c'est juste l'œil de mon trader qui préfère les choses brillantes et façonnées...<end>
+::Il hausse les épaules.:: Peut-être que c'est juste mon œil de trader qui préfère les trucs brillants et bien formés...<end>
 
 =>a291_original
 Where did you say the Fetid Marsh was?<end>
 
 =>a291
-Où est le Fetid Marsh ?<end>
+C'est où, déjà, le Fetid Marsh ?<end>
 
 =>q292_original
 Go to Port Crag, then take the eastern exit. On the north wall is a cave that leads to the Marsh.<end>
 
 =>q292
-Allez à Port Crag, puis prenez la sortie est. Sur le mur nord se trouve une grotte qui mène au marais.<end>
+Va à Port Crag, puis prends la sortie est. Sur le mur nord y a une grotte qui mène au Marsh.<end>
 
 =>q293_original
 I think, uh, I think there's a way around, but this is much shorter and safer. I think ya can go north and, and past Port Crag, then west, kinda... <end>
 
 =>q293
-Je pense qu'il y a un moyen, mais c'est beaucoup plus court et plus sûr. Je pense que tu peux aller au nord et passer Port Crag, puis à l'ouest, un peu... <end>
+Je pense, euh, je pense qu'y a un détour, mais ça c'est beaucoup plus court et plus sûr. Je pense que tu peux aller au nord et, et passer Port Crag, puis à l'ouest, un peu... <end>
 
 =>q294_original
 Ask Razor, yea, ask 'im.<end>
 
 =>q294
-Demandez Razor, oui, demandez-lui.<end>
+Demande à Razor, ouais, demande-lui.<end>
 
 =>a295_original
 Where did you say the spooky hospital was?<end>
 
 =>a295
-Où as-tu dit que l'hôpital était effrayant ?<end>
+C'est où, déjà, l'hôpital qui fait flipper ?<end>
 
 =>q296_original
 It's just southeast from here. Can't miss it.<end>
 
 =>q296
-C'est juste au sud-est. Je ne peux pas le manquer.<end>
+C'est juste au sud-est d'ici. Tu peux pas le rater.<end>
 
 =>q297_original
 There's a lotta rotted corpses in the surroundin' buildin's there, I heard, lotta. But that's nothin' compared to the voices. It freaks people out big time.<end>
 
 =>q297
-Il y a beaucoup de cadavres pourris dans le bâtiment environnant, j'ai entendu, lotta. Mais ce n'est rien comparé aux voix. Ça fait flipper les gens.<end>
+Y a un tas de cadavres pourris dans les bâtiments autour, j'ai entendu, un tas. Mais ça c'est rien à côté des voix. Ça fait flipper les gens, grave.<end>
 
 =>a298_original
 How to get to The Creeper Bay again?<end>
 
 =>a298
-Comment arriver à la baie Creeper ?<end>
+C'est comment, déjà, pour The Creeper Bay ?<end>
 
 =>q299_original
 East. Just east.<end>
 
 =>q299
-Est. Juste à l'est.<end>
+Est. Pile à l'est.<end>
 
 =>q300_original
 Don't be a clod, $(#banga/sweet). If you're goin' there, go prepared.<end>
 
 =>q300
-Fais pas l'andouille, $(#banga/chérie). Si tu y vas, vas-y préparé.<end>
+Fais pas l'andouille, $(#banga/chérie). Si tu y vas, prépare-toi.<end>
 
 =>a301_original
 I'm interested in Lower Underrail waterway hydrography. Can you give me a run-down of all the lakes and rivers.<end>
 
 =>a301
-Je m'intéresse à l'hydrographie de la voie navigable Lower Underrail. Pouvez-vous me donner une descente de tous les lacs et rivières.<end>
+Je m'intéresse à l'hydrographie des voies d'eau du Lower Underrail. Tu peux me faire le tour de tous les lacs et rivières.<end>
 
 =>q302_original
 No problem, no problem. Startin' from the Black Sea: As soon as ya get past the Jaws - that's where that monolith is, the Glowin' Canine - you're in the Black Strait. The Strait leads west to the Dreadpool - that's where we do most of our raids. Goin' southeast will take ya to Isaac's River, on whose western bank is Camp Hathor; the river was known as Isaac's Slurry back when I was young, yea, 'cause of the coal minin' slurry bein' expelled downstream. Further south and then west is the Meatway, a narrow passage leadin' to the Chancer's Bay - Junkyard, SGS...<end>
 
 =>q302
-Pas de problème. À partir de la Black Sea: Dès que vous aurez passé les Jaws - c'est là que se trouve ce monolithe, la Canine de Glowin - vous êtes dans le détroit noir. Le détroit mène à l'ouest vers le Dreadpool - c'est là que nous faisons la plupart de nos raids. Le sud-est vous mènera à la rivière Isaac, sur la rive ouest de laquelle est Camp Hathor; la rivière était connue comme la boue d'Isaac quand j'étais jeune, oui, 'à cause de la mine de charbon 'slurry bein' expulsé en aval. Plus au sud et ensuite à l'ouest se trouve le Meatway, un passage étroit menant à la baie du Chancelier - Junkyard, SGS...<end>
+Pas de problème, pas de problème. On part du Black Sea : dès que t'as passé les Jaws - c'est là qu'est le monolithe, le Glowin' Canine - t'es dans le Black Strait. Le Strait mène à l'ouest vers le Dreadpool - c'est là qu'on fait le plus de nos raids. Vers le sud-est ça te mène à Isaac's River, dont la rive ouest c'est Camp Hathor ; la rivière s'appelait Isaac's Slurry quand j'étais jeune, ouais, à cause des rejets de slurry des mines de charbon, en aval. Plus au sud et ensuite à l'ouest, le Meatway, un passage étroit qui mène à Chancer's Bay - Junkyard, SGS...<end>
 
 =>q303_original
 Now, back to Dreadpool: Southeast is Isaac's River, west is the Core Ring. It's literally a ring whose upper half consists of Core City's sewer-filled water, and bottom half of clean, but Black Eel-patrolled waters. That's where The Rig is as well.<end>
 
 =>q303
-Maintenant, retour à Dreadpool: Sud-est est la rivière Isaac, ouest est l'anneau de base. C'est littéralement un anneau dont la moitié supérieure est constituée de l'eau remplie d'égouts de Core City, et la moitié inférieure de l'eau propre, mais l'anguille noire. C'est là que se trouve le Rig.<end>
+Bon, on revient au Dreadpool : sud-est, Isaac's River, ouest, le Core Ring. C'est littéralement un anneau dont la moitié haute c'est l'eau d'égout de Core City, et la moitié basse de l'eau propre, mais patrouillée par les Black Eels. C'est là qu'est The Rig aussi.<end>
 
 =>q304_original
 Although, now that we've tore 'em a new one - yea, baby! - the waters are plenty more piratable than usual. But still.<end>
 
 =>q304
-Bien que, maintenant que nous les avons déchirés un nouveau - oui, bébé! - les eaux sont beaucoup plus piratable que d'habitude. Mais quand même.<end>
+Ceci dit, maintenant qu'on leur a ouvert un nouveau trou - ouais, bébé ! - les eaux sont bien plus piratables que d'habitude. Mais quand même.<end>
 
 =>q305_original
 South from the Core Ring is the Scrappy Narrow which leads to the Chancer's Bay. So now ya got the full circle, $(#banga/sweet).
@@ -1896,21 +1896,21 @@ South from the Core Ring is the Scrappy Narrow which leads to the Chancer's Bay.
 That should cover the basic waterway layout, yea.<end>
 
 =>q305
-Au sud de l'anneau de base, se trouve le Bruant-gris qui mène à la baie du Chancelier. Vous avez le cercle complet, $(#banga/sweet).
+Au sud du Core Ring, y a le Scrappy Narrow qui mène à Chancer's Bay. Voilà, t'as le cercle complet, $(#banga/chérie).
 
-Cela devrait couvrir la configuration de base de la voie navigable, oui.<end>
+Ça devrait couvrir le plan de base des voies d'eau, ouais.<end>
 
 =>a306_original
 Does anyone else around here know more about the monolith?<end>
 
 =>a306
-Quelqu'un d'autre ici en sait plus sur le monolithe ?<end>
+Y a quelqu'un d'autre ici qui en sait plus sur le monolithe ?<end>
 
 =>q307_original
 Well, the only one else... maybe Katya. Some mates saw 'er goin' up there a few times while the rest of us were hittin' the sack. She's... like that sometimes, ya know. <end>
 
 =>q307
-La seule autre... peut-être Katya. Des potes ont vu "aller" là-haut quelques fois pendant que le reste d'entre nous touchait le sac. Elle est... comme ça parfois, tu sais. <end>
+Bon, la seule autre... peut-être Katya. Des mates l'ont vue monter là-haut deux-trois fois pendant que le reste d'entre nous pionçait. Elle est... comme ça, des fois, tu vois. <end>
 
 =>q308_original
 <end>
@@ -1922,13 +1922,13 @@ La seule autre... peut-être Katya. Des potes ont vu "aller" là-haut quelques f
 What do you know about the monolith at the entrance to the Black Sea?<end>
 
 =>a309
-Que savez-vous du monolithe à l'entrée du Black Sea ?<end>
+T'en sais quoi, du monolithe à l'entrée du Black Sea ?<end>
 
 =>q310_original
 The Glowin' Canine? I know I don't wanna go nowhere near it, that's what I know, $(#banga/sweet).<end>
 
 =>q310
-La canine de Glowin ? Je sais que je ne veux pas y aller, c'est ce que je sais, $(#banga/sweet).<end>
+Le Glowin' Canine ? Je sais que je veux pas m'en approcher, voilà c'que je sais, $(#banga/chérie).<end>
 
 =>a311_original
 Why not?<end>
@@ -1940,43 +1940,43 @@ Pourquoi pas ?<end>
 'Cause it pops folks, that's why. Sends 'em under. Kills 'em. Eh...<end>
 
 =>q312
-Parce qu'il y a des gens, c'est pour ça. Il les envoie en dessous. Ça les tue.<end>
+Parce que ça descend les gens, voilà pourquoi. Ça les envoie au fond. Ça les tue. Eh...<end>
 
 =>q313_original
 Folks have been goin' up there for who knows how long. You'll hear all kinds of stories about it, about psionic powers and people goin' derailed, and I'm guessin' they're all true. And folks, ya know, the sane ones, shun it. Ya know. But! But years ago, way before Jetters came to be, a few pirates went up there to... "loot" the thing. Loot!<end>
 
 =>q313
-Les gens y vont depuis longtemps. Vous entendrez toutes sortes d'histoires à ce sujet, sur les pouvoirs psioniques et les gens qui ont déraillé, et je suppose qu'ils sont tous vrais. Et les gens, tu sais, ceux qui sont sains d'esprit, évitent ça. Tu sais. Mais... Mais il y a des années, bien avant que Jetters n'arrive, quelques pirates sont allés là-haut pour... "loot" le truc. Lâche !<end>
+Les gens montent là-haut depuis on sait pas combien de temps. Tu vas entendre toutes sortes d'histoires là-dessus, des pouvoirs psi, des gens qui déraillent, et je parie que c'est tout vrai. Et les gens, tu sais, les sains d'esprit, ils évitent. Tu vois. Mais ! Mais y a des années, bien avant les Jetters, quelques pirates sont montés là-haut pour... « looter » le truc. Looter !<end>
 
 =>q314_original
 There were three of them: Rocco, Joe Irongut and - Steve Heave. Steve was a real boulder, big fella. That's why he was called Heave, apparently. He was the derailed clod whose idea it was to go up there in the first place. They wanted to break a few pieces off the monolith and then sell it. So Irongut recommended they bring a jackhammer and a few minin' picks and have a go at it, yea.<end>
 
 =>q314
-Il y en avait trois : Rocco, Joe Irongut et - Steve Heave. Steve était un vrai rocher. C'est pourquoi il s'appelait Heave, apparemment. C'était le clode déraillé dont l'idée était d'aller là-haut en premier lieu. Ils voulaient casser quelques morceaux du monolithe et le vendre. Irongut a recommandé qu'ils apportent un jackhammer et quelques petits choix et qu'ils y aillent, oui.<end>
+Ils étaient trois : Rocco, Joe Irongut et - Steve Heave. Steve c'était un vrai roc, un gros. C'est pour ça qu'on l'appelait Heave, paraît-il. C'était l'andouille déraillée dont c'était l'idée, au départ, de monter là-haut. Ils voulaient casser deux-trois morceaux du monolithe et les vendre. Donc Irongut a dit d'amener un marteau-piqueur et quelques pics de mine, et d'essayer, ouais.<end>
 
 =>q315_original
 The jackhammer failed to start, yea, so, so, so Steve got... he got... *mega* pissed off, and I mean massively pissed off, and he took one of the picks and swung at the thing, at the monolith.<end>
 
 =>q315
-Le jackhammer n'a pas commencé, oui, donc Steve s'est... il s'est... *méga* énervé, et je veux dire en colère massivement, et il a pris un des pics et a balancé le truc, au monolithe.<end>
+Le marteau-piqueur a pas voulu démarrer, ouais, alors, alors, alors Steve s'est... il s'est... *méga* énervé, et je veux dire vraiment énervé, et il a pris un des pics et il a tapé dans le truc, dans le monolithe.<end>
 
 =>q316_original
 Boom! Blindin' light and deafenin' bang - and Steve's gone! The dumb bastard got, and I'm bein' serious now, he got turned to stone. Stone or somethin' like that, I don't know. He's still up there, frozen with the pick in 'is hand. The other two ran for it, and Irongut got deafened for life. His eardrums jus' went pop and that's it.<end>
 
 =>q316
-Boom ! Aveuglante lumière et assourdissante bang - et Steve est parti! L'imbécile a eu, et je suis sérieux maintenant, il s'est transformé en pierre. Je ne sais pas. Il est toujours là-haut, gelé avec le pic dans la main. Les deux autres ont couru pour elle, et Irongut a été sourd pour la vie. Ses tympans ont sauté et c'est tout.<end>
+Boom ! Lumière aveuglante et bang assourdissant - et Steve a disparu ! L'imbécile s'est, et là je suis sérieux, il s'est transformé en pierre. Pierre ou un truc comme ça, j'sais pas. Il est toujours là-haut, figé avec le pic dans la main. Les deux autres ont détalé, et Irongut est resté sourd à vie. Ses tympans ont pété, et c'est tout.<end>
 
 =>q317_original
 Rocco was the only one unscathed, and he stayed alive up until a few years ago. He's been tellin' the story for years, yea, and I'm retellin' it to ya to the syllable. To the syllable.<end>
 
 =>q317
-Rocco était le seul à ne pas être tué, et il est resté vivant jusqu'il y a quelques années. Il raconte l'histoire depuis des années, et je te le raconte à la syllabe. Au syllabe.<end>
+Rocco c'était le seul indemne, et il a tenu jusqu'à y a quelques années. Il racontait l'histoire depuis des années, ouais, et je te la refile à la syllabe près. À la syllabe près.<end>
 
 =>a318_original
 So did they at least manage to break off a piece of the monolith?<end>
 
 =>a318
-Ils ont réussi à briser un morceau du monolithe ?<end>
+Ils ont au moins réussi à casser un morceau du monolithe ?<end>
 
 =>q319_original
 I don't think so, no, no. Rocco did tell me about some derailed old mate of theirs, yea, who claimed he found "the glowin' shard." But whenever folks wanted proof: "I los' it on gamble, duuuuuuuh!" Hahahaha! The way Rocco does 'is face is just hilar-- ehem...
@@ -1984,15 +1984,15 @@ I don't think so, no, no. Rocco did tell me about some derailed old mate of thei
 Anyways, he must've gambled with crabs 'cause no pirate ever saw this "glowin' shard."<end>
 
 =>q319
-Je ne crois pas. Rocco m'a parlé d'un vieil ami déraillé, qui a prétendu avoir trouvé "l'ardeur éclatante". Mais quand les gens voulaient la preuve: "Je la lose sur le pari, duuuuuuuh!" C'est ça ! La façon dont Rocco fait son visage est juste hilar...
+Je crois pas, non, non. Rocco m'a parlé d'un vieux mate déraillé à eux, ouais, qui jurait avoir trouvé « l'éclat luisant ». Mais dès que les gens voulaient une preuve : « J'l'ai perdu au jeu, duuuuuuuh ! » Hahahaha ! La tête que fait Rocco, c'est juste hilar-- ehem...
 
-Quoi qu'il en soit, il a dû jouer avec des crabes parce qu'aucun pirate n'a jamais vu ce "glowin" shard.<end>
+Bref, il a dû jouer contre des crabes, parce qu'aucun pirate a jamais vu cet « éclat luisant ».<end>
 
 =>a320_original
 Catch ya later, Donnie.<end>
 
 =>a320
-A bientôt, Donnie.<end>
+À plus, Donnie.<end>
 
 =>q321_original
 <end>
@@ -2004,25 +2004,25 @@ A bientôt, Donnie.<end>
 And ya say ya never, *ever* played strippage before? Ya freakin' liar, you.<end>
 
 =>q322
-Et tu dis que tu n'as jamais joué de strip-tease avant ? Espèce de menteur.<end>
+Et tu dis que t'as jamais, *jamais* joué au strippage ? Espèce de sale menteur, toi.<end>
 
 =>a323_original
 I guess I'm natural. If it's any consolation, at least I'll return some of the money I took from you once we start doing business.<end>
 
 =>a323
-Je suppose que je suis naturel. Si c'est une consolation, au moins je vous rendrai l'argent que j'ai pris quand on commencera à faire des affaires.<end>
+Je suppose que je suis un naturel. Si ça peut te consoler, au moins je te rendrai une partie du fric que je t'ai piqué, dès qu'on fera affaire.<end>
 
 =>q324_original
 But... can ya return Chalice's tears?<end>
 
 =>q324
-Mais... peux-tu rendre les larmes de Chalice ?<end>
+Mais... tu peux rendre les larmes de Chalice ?<end>
 
 =>a325_original
 It was... eh, all part of the game.<end>
 
 =>a325
-Ça faisait partie du jeu.<end>
+C'était... eh, tout ça faisait partie du jeu.<end>
 
 =>q326_original
 Yea...<end>
@@ -2034,25 +2034,25 @@ Ouais...<end>
 Now - let's get down to business. Whatcha need?<end>
 
 =>q327
-Passons aux affaires. Quoi ?<end>
+Bon - on passe aux affaires. T'as besoin de quoi ?<end>
 
 =>a328_original
 With some effort.<end>
 
 =>a328
-Avec quelques efforts.<end>
+Avec un peu d'effort.<end>
 
 =>q329_original
 Eh, yea - no.<end>
 
 =>q329
-Oui, non.<end>
+Eh, ouais - non.<end>
 
 =>q330_original
 Ye earned yerself a few coins and threw Ruth's panties in the sea. Ain't bad for a first timer.<end>
 
 =>q330
-Vous avez gagné quelques pièces et jeté la culotte de Ruth dans la mer. C'est pas mal pour une première fois.<end>
+T'as gagné quelques pièces et tu as balancé la culotte de Ruth à la mer. Pas mal pour une première fois.<end>
 
 =>a331_original
 I thought she'd catch them.<end>
@@ -2064,85 +2064,85 @@ Je pensais qu'elle les attraperait.<end>
 She was too wasted.<end>
 
 =>q332
-Elle était trop gâchée.<end>
+Elle était trop bourrée.<end>
 
 =>a333_original
 Not my fault.<end>
 
 =>a333
-Ce n'est pas ma faute.<end>
+C'est pas ma faute.<end>
 
 =>q334_original
 It was jettin' any way ya look at it.<end>
 
 =>q334
-C'était de toute façon que tu regardes.<end>
+C'était du jet, de n'importe quel côté que tu le prennes.<end>
 
 =>a335_original
 Yeah. ::Laugh.::<end>
 
 =>a335
-Oui. ::Rire.::<end>
+Ouais. ::Rire.::<end>
 
 =>q336_original
 Not bad for a first game. Ya kept your undies *and* broke even.<end>
 
 =>q336
-Pas mal pour un premier match. Tu as gardé tes sous-vêtements * et * cassés.<end>
+Pas mal pour une première partie. T'as gardé tes sous-vêtements *et* tu sors à l'équilibre.<end>
 
 =>a337_original
 I'm getting the hang of it.<end>
 
 =>a337
-Je m'en occupe.<end>
+Je commence à piger.<end>
 
 =>q338_original
 Ya sure are, $(#banga/sweet), ya sure are.<end>
 
 =>q338
-Bien sûr, $(#banga/sweet), tu l'es.<end>
+Ça, ouais, $(#banga/chérie), ça ouais.<end>
 
 =>q339_original
 At least ya didn't lose *all* your money.<end>
 
 =>q339
-Au moins, tu n'as pas perdu tout ton argent.<end>
+Au moins t'as pas perdu *tout* ton fric.<end>
 
 =>a340_original
 Or *all* of my dignity.<end>
 
 =>a340
-Ou de ma dignité.<end>
+Ni *toute* ma dignité.<end>
 
 =>q341_original
 Oh, don't worry about it, $(#banga/sweet). It's all part of bein' a pirate.<end>
 
 =>q341
-Ne t'en fais pas, $(#banga/sweet). Ça fait partie du métier de pirate.<end>
+Oh, t'inquiète pas pour ça, $(#banga/chérie). Ça fait partie d'être pirate.<end>
 
 =>q342_original
 Hey, better luck next time. It was fun, though, yea. And ya should have that thing on your bum checked, ya know.<end>
 
 =>q342
-Bonne chance la prochaine fois. Mais c'était amusant, oui. Et tu devrais vérifier ce truc sur ton cul, tu sais.<end>
+Hé, plus de chance la prochaine fois. C'était marrant, quand même, ouais. Et tu devrais te faire checker ce truc sur le cul, tu sais.<end>
 
 =>a343_original
 I think I'll stick to more conventional, less demeaning games.<end>
 
 =>a343
-Je pense que je vais m'en tenir à des jeux plus conventionnels, moins humiliants.<end>
+Je pense que je vais m'en tenir à des jeux plus classiques, moins humiliants.<end>
 
 =>q344_original
 Yo, $(#banga/sweet). I'm back and ready to do business. Whatcha need?<end>
 
 =>q344
-Oui, $(#banga/sweet). Je suis de retour et prêt à faire des affaires. Quoi ?<end>
+Yo, $(#banga/chérie). Je suis de retour et prêt à faire affaire. T'as besoin de quoi ?<end>
 
 =>q345_original
 Yo, got some jettin' stuff ya might wanna take a look at.<end>
 
 =>q345
-Tu devrais jeter un coup d'œil.<end>
+Yo, j'ai du matos du jet, tu vas peut-être vouloir jeter un œil.<end>
 
 =>a346_original
 Sure. ::Barter.::<end>
@@ -2160,7 +2160,7 @@ Je voulais te demander quelque chose d'abord...<end>
 Hey, $(#banga/sweet), eh... Some of my mates have noticed ya ridin' - the Shark. *The* Shark.<end>
 
 =>q348
-Hey, $(#banga/sweet), eh... Certains de mes potes ont remarqué que tu te débarrassais du requin. Le requin.<end>
+Hé, $(#banga/chérie), eh... Y a des mates qui t'ont vu monter - le Shark. *Le* Shark.<end>
 
 =>a349_original
 Yeah...<end>
@@ -2172,7 +2172,7 @@ Ouais...<end>
 $(#Banga/Sweet)... do ya even know who rode that jet?<end>
 
 =>q350
-$(#Banga/Sweet)... savez-vous qui a monté ce jet ?<end>
+$(#Banga/Chérie)... t'es seulement au courant de qui montait ce jet ?<end>
 
 =>a351_original
 Gizzy McGold, the vigilante that killed pirates because, apparently, they killed his wife.<end>
@@ -2196,49 +2196,49 @@ Donc tu sais...<end>
 Are you trying to tell me I can't ride it anymore?<end>
 
 =>a354
-Tu veux me dire que je ne peux plus monter ?<end>
+T'essaies de me dire que je peux plus le monter ?<end>
 
 =>q355_original
 That's not what I'm tryin' to tell ya at all. I just wanted to, ya know, let ya know some mates have lost... mates to Gizzy and, ya know... might take issue. Just thought I'd make sure ya know 'bout all this stuff in case it happens, alright?<end>
 
 =>q355
-Ce n'est pas ce que j'essaie de te dire. Je voulais juste, tu sais, te faire savoir que des potes ont perdu... des potes à Gizzy et, tu sais... pourraient avoir des problèmes. Je pensais que je ferais en sorte que tu saches tout ça au cas où ça arriverait.<end>
+C'est pas du tout c'que j'essaie de te dire. Je voulais juste, tu sais, te prévenir que des mates ont perdu... des mates à cause de Gizzy et, tu sais... ça peut coincer. Je me suis dit que tu devrais être au courant, au cas où ça arrive, d'accord ?<end>
 
 =>q356_original
 ::He chuckles.:: But the funniest thing - and this is jettin' - is that Gizzy's wife - as the story goes - wasn't sent under by the pirates - she ran away with a pirate!<end>
 
 =>q356
-::Il rit.:: Mais la chose la plus drôle - et c'est le jet - c'est que la femme de Gizzy - comme l'histoire le dit - n'a pas été envoyée par les pirates - elle s'est enfuie avec un pirate!<end>
+::Il rit.:: Mais le plus drôle - et ça c'est du jet - c'est que la femme de Gizzy - d'après l'histoire - c'est pas les pirates qui l'ont envoyée au fond - elle s'est enfuie avec un pirate !<end>
 
 =>q357_original
 Ha-ha-ha-ha! All that time Gizzy was goin' after the mate who banged her without even knowin' what kinda bangin' actually took place. Ha-ha-ha!<end>
 
 =>q357
-C'est ça ! Pendant tout ce temps, Gizzy allait après l'ami qui l'a baisée sans même savoir ce qu'il y avait en fait. C'est ça !<end>
+Ha-ha-ha-ha ! Tout ce temps Gizzy courait après le mate qui l'avait tapée, sans même savoir quel genre de tape ça avait vraiment été. Ha-ha-ha !<end>
 
 =>a358_original
 ::[Intelligence]:: Are you sure about that? Maybe he did know but preferred to tell the other version.<end>
 
 =>a358
-::[Intelligence]:: Tu en es sûr ? Peut-être qu'il le savait mais préférait en parler à l'autre version.<end>
+::[Intelligence]:: T'en es sûr ? Peut-être qu'il le savait, mais il préférait raconter l'autre version.<end>
 
 =>q359_original
 Oh... Yeeeea... Hadn't thought of that, hmmm. Got a point there...<end>
 
 =>q359
-Oh, oui... Je n'y avais pas pensé. J'ai compris...<end>
+Oh... Ouuuuais... J'y avais pas pensé, hmmm. T'as un point, là...<end>
 
 =>a360_original
 Is his wife... ex still around?<end>
 
 =>a360
-Sa femme... est toujours là ?<end>
+Sa femme... son ex, elle est toujours dans le coin ?<end>
 
 =>q361_original
 Well, no. Gizzy did find her "banga" eventually and blew 'im and 'is jet to flotsam. She left the port after that and... ::He shrugs.:: Who gives an eel?<end>
 
 =>q361
-Et bien, non. Gizzy a finalement trouvé son "banga" et l'a soufflé et est en jet pour flotsam. Elle a quitté le port après ça et... ::Il hausse les épaules.:: Qui donne une anguille ?<end>
+Bon, non. Gizzy a fini par trouver son « banga » et il l'a réduit en épave, lui et son jet. Elle a quitté le port après ça et... ::Il hausse les épaules.:: Qui s'en tamponne l'anguille ?<end>
 
 =>q362_original
 She was a... <end>
@@ -2250,31 +2250,31 @@ C'était une... <end>
 bit of a serpent, ya know.<end>
 
 =>q363
-Un peu de serpent, tu sais.<end>
+un peu serpent, tu vois.<end>
 
 =>q364_original
 bit of a nightmare, ya know.<end>
 
 =>q364
-Un cauchemar, tu sais.<end>
+un peu cauchemar, tu vois.<end>
 
 =>a365_original
 Yeah, well, enough of this. There are more important things I wanted to discuss.<end>
 
 =>a365
-Ça suffit. Il y a des choses plus importantes que je voulais discuter.<end>
+Ouais, bon, ça suffit. Y a des trucs plus importants que je voulais aborder.<end>
 
 =>q366_original
 Ya need... stuff, ay?<end>
 
 =>q366
-Tu as besoin... de trucs, ay ?<end>
+T'as besoin... de matos, hein ?<end>
 
 =>a367_original
 I'm riding that jet no matter what the rest of the Jetters think.<end>
 
 =>a367
-Je monte ce jet, peu importe ce que pensent les Jetters.<end>
+Je monte ce jet, peu importe c'que pensent les autres Jetters.<end>
 
 =>a368_original
 No.<end>
@@ -2286,13 +2286,13 @@ Non.<end>
 Heard of Gizzy McGold? He used to hunt down pirates and send 'em under, and, and, and he was jettin' at it. He got popped 'imself some time ago, but the banga did accumulate a decent body count.<end>
 
 =>q369
-Vous avez entendu parler de Gizzy McGold ? Il traquait des pirates et les envoyait, et, et, et il était en train de se jeter dessus. Il s'est fait sauter lui-même il y a quelque temps, mais le banga a accumulé un nombre de corps décent.<end>
+T'as entendu parler de Gizzy McGold ? Il chassait les pirates et les envoyait au fond, et, et, et il était du jet à ça. On l'a descendu lui-même y a un moment, mais le banga s'était fait un beau décompte.<end>
 
 =>a370_original
 What is this about, Donnie?<end>
 
 =>a370
-De quoi s'agit-il, Donnie ?<end>
+C'est à propos de quoi, Donnie ?<end>
 
 =>q371_original
 ::Croons.:: I feel jettin'... na-na-na-- 
@@ -2300,33 +2300,33 @@ De quoi s'agit-il, Donnie ?<end>
 Oh! Yoooooo, $(#banga/sweet)... <end>
 
 =>q371
-::Des Croons.:: Je me sens en train de...
+::Fredonne.:: Je me sens du jet... na-na-na--
 
-C'est vrai ! Yoooooo, $(#banga/sweet)... <end>
+Oh ! Yoooooo, $(#banga/chérie)... <end>
 
 =>q372_original
 Whatcha need this time?<end>
 
 =>q372
-De quoi a-t-il besoin cette fois ?<end>
+T'as besoin de quoi, cette fois ?<end>
 
 =>q373_original
 Ya know, that submarine of yours, the one you used to get, ya know, down - *all* the way down... It'd be absolutely jettin' to be able to use it to transport stuff from 'ere to Underrail. <end>
 
 =>q373
-Tu sais, ton sous-marin, celui que tu avais l'habitude d'obtenir, tu sais, en bas - tout le chemin vers le bas... Il serait absolument jettin 'de pouvoir l'utiliser pour transporter des choses de 'ere à Underrail. <end>
+Tu sais, ce sous-marin à toi, celui que t'as utilisé pour aller, tu sais, en bas - *tout* en bas... Ce serait absolument du jet de pouvoir s'en servir pour transporter du matos d'ici vers l'Underrail. <end>
 
 =>q374_original
 Especially now that the sonar's been popped to pieces, no one will be able to see us comin'. <end>
 
 =>q374
-Surtout maintenant que le sonar a été mis en pièces, personne ne pourra nous voir venir. <end>
+Surtout maintenant que le sonar a été réduit en miettes, plus personne pourra nous voir arriver. <end>
 
 =>q375_original
 Shame it's got trouble sailin' horizontally, from what I heard. Real shame.<end>
 
 =>q375
-Dommage que ça ait du mal à naviguer horizontalement, d'après ce que j'ai entendu. Vraiment honteux.<end>
+Dommage qu'il ait du mal à naviguer à l'horizontale, d'après c'que j'ai entendu. Vrai dommage.<end>
 
 =>q376_original
 <end>
@@ -2342,7 +2342,7 @@ Hey, whacha doin'? Whatcha *doin'*? There's two more ammo crates to go through. 
 =>q377
 ::Il se tourne vers Todd, qui vient de se mettre à l'aise dans le canapé.::
 
-Hé, whacha fait? Qu'est-ce que tu fais ? Il y a deux autres caisses de munitions à traverser. Allez, allez, pas de deucin jusqu'à ce que le travail soit fini.<end>
+Hé, tu fous quoi ? Tu *fous* quoi ? Y a encore deux caisses de munitions à passer. Allez, allez, on deuce pas avant que le boulot soit fini.<end>
 
 =>q378_original
 ::Todd sighs and gets up.::<end>
@@ -2354,37 +2354,37 @@ Hé, whacha fait? Qu'est-ce que tu fais ? Il y a deux autres caisses de munition
 By the sea. Gotta earn your chomp, dontcha?<end>
 
 =>q379
-Au bord de la mer. Tu dois gagner ton chomp ?<end>
+Par la mer. Faut gagner sa pitance, non ?<end>
 
 =>q380_original
 We'd be much safer from those Eel clods. <end>
 
 =>q380
-On serait plus à l'abri de ces cailloux. <end>
+On serait bien plus à l'abri de ces andouilles d'Eels. <end>
 
 =>q381_original
 Hey, $(#banga/sweet), any loot in those jetted ruins? Got somethin' for me?<end>
 
 =>q381
-Hey, $(#banga/sweet), un butin dans ces ruines ? Tu as quelque chose pour moi ?<end>
+Hé, $(#banga/chérie), y a du butin dans ces ruines jetées ? T'as un truc pour moi ?<end>
 
 =>q382_original
 Yo, see that smoke risin' in the north? That's what happens when you anger the Scalers.<end>
 
 =>q382
-Tu vois cette fumée risine dans le nord ? C'est ce qui arrive quand on irrite les Scalers.<end>
+Yo, tu vois cette fumée qui monte au nord ? Voilà c'qui arrive quand tu mets les Scalers en colère.<end>
 
 =>q383_original
 Ya know what bein' the largest chomper in the waterways means, dontcha, $(#banga/sweet)?<end>
 
 =>q383
-Tu sais ce que c'est que dontcha, $(#banga/sweet) ?<end>
+Tu sais c'que ça veut dire, d'être le plus gros croqueur des voies d'eau, hein, $(#banga/chérie) ?<end>
 
 =>q384_original
 Looooooooooooooooot. ::He nods a few times while rubbing his hands.:: He-he-he, yea.<end>
 
 =>q384
-C'est pas vrai. ::Il hoche quelques fois en se frottant les mains.:: Il-il-il, oui.<end>
+Butiiiiiiiiiiiiin. ::Il hoche la tête en se frottant les mains.:: Hé-hé-hé, ouais.<end>
 
 =>q385_original
 Atta, $(#boy/girl)! We, we, we're swimmin' in sweet Protectorate loot. 
@@ -2392,43 +2392,43 @@ Atta, $(#boy/girl)! We, we, we're swimmin' in sweet Protectorate loot.
 Wanna... check it out, ay?<end>
 
 =>q385
-Atta, $(#gars/fille) ! Nous, on nage dans le doux butin Protectorate.
+Bravo, $(#gars/fille) ! On, on, on nage dans le butin sucré du Protectorate.
 
-Tu veux... vérifier, ay ?<end>
+Tu veux... jeter un œil, hein ?<end>
 
 =>q386_original
 Heeey, $(#banga/sweet) - we got loot incomin'! Got some new stuff for sale.<end>
 
 =>q386
-Heeey, $(#banga/sweet) - on a du butin en jeu ! J'ai de nouveaux trucs à vendre.<end>
+Heeey, $(#banga/chérie) - on a du butin qui arrive ! J'ai du nouveau à vendre.<end>
 
 =>q387_original
 Hey, $(#banga/sweet), ya seen Katya lately? I got this... eh, problem and she's nowhere to be found.<end>
 
 =>q387
-Hey, $(#banga/sweet), vous avez vu Katya dernièrement ? J'ai un problème et elle n'est nulle part.<end>
+Hé, $(#banga/chérie), t'as vu Katya récemment ? J'ai ce... eh, problème et elle est nulle part.<end>
 
 =>q388_original
 Hope some dryfoot didn't piss 'er off. She can get moody sometimes and, ya know, go hermit for a few days if someone gets on 'er nerves.<end>
 
 =>q388
-J'espère qu'un pied sec n'a pas pissé. Elle peut parfois devenir d'humeur et, tu sais, aller l'ermite pendant quelques jours si quelqu'un se met sur les nerfs.<end>
+J'espère qu'un pied-sec l'a pas mise en rogne. Elle peut être lunatique des fois et, tu sais, filer en ermite deux-trois jours si quelqu'un lui tape sur les nerfs.<end>
 
 =>q389_original
 Yo, yo, $(#banga/sweet). <end>
 
 =>q389
-Yo, yo, $(#banga/sweet). <end>
+Yo, yo, $(#banga/chérie). <end>
 
 =>q390_original
 Whatcha lookin' for?<end>
 
 =>q390
-Qu'est-ce que tu cherches ?<end>
+Tu cherches quoi ?<end>
 
 =>q391_original
 'Sup?<end>
 
 =>q391
-Ça va ?<end>
+Quoi d'neuf ?<end>
 

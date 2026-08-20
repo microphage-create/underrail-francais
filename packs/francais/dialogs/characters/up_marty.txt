@@ -4,9 +4,9 @@
 Oh, a customer! Come in, come in, $(#man/woman). I have all sorts of goods to sell, yes. I am Marty Quick, nice to meet you, very well, what would you like to buy?<end>
 
 =>q1
-::L'homme a l'air content de vous voir, en tout cas c'est ce que dit ce sourire jusqu'aux oreilles. Visage et bras plutôt maigres, mais le gros bide à bière donne l'impression que toute sa graisse a migré dans une seule masse, au ventre. Quand il parle, l'accent saute tout de suite : étrangement familier, sans que vous sachiez trop pourquoi...::
+::L'homme a l'air content de vous voir, en tout cas c'est ce que dit ce sourire d'une oreille à l'autre. Visage et bras plutôt maigres, mais le gros bide à bière donne l'impression que toute sa graisse a migré dans une seule masse, au ventre. Quand il parle, l'accent saute tout de suite : étrangement familier, sans que vous sachiez trop pourquoi...::
 
-Ah, un client ! Entrez, entrez, $(#monsieur/madame). J'ai toutes sortes de marchandises, oui. Marty Quick, enchanté, très bien, qu'est-ce que vous voulez acheter ?<end>
+Ah, $(#un client/une cliente) ! Entrez, entrez, $(#monsieur/madame). J'ai toutes sortes de marchandises, oui. Marty Quick, enchanté, très bien, qu'est-ce que vous voulez acheter ?<end>
 
 =>q2_original
 <end>
@@ -18,7 +18,7 @@ Ah, un client ! Entrez, entrez, $(#monsieur/madame). J'ai toutes sortes de march
 Show me what you got, Marty. ::Barter.::<end>
 
 =>a3
-Voir ce que vous avez, Marty. ::Troc.::<end>
+Voir ce que vous avez, Marty. ::Troquer.::<end>
 
 =>a4_original
 What do you sell?<end>
@@ -30,7 +30,7 @@ Vous vendez quoi ?<end>
 I sell all sort of interesting things, yes, brought here from various places throughout Upper Underrail, dear customer. You can browse through my wares if you'd like. I promise you - you won't be disappointed. <end>
 
 =>q5
-Je vends toutes sortes de choses intéressantes, oui, ramenées d'un peu partout dans Upper Underrail, cher client. Vous pouvez regarder, si vous voulez. Je vous le promets : vous serez pas déçu. <end>
+Je vends toutes sortes de choses intéressantes, oui, ramenées d'un peu partout dans Upper Underrail, $(#cher client/chère cliente). Vous pouvez regarder, si vous voulez. Je vous le promets : vous serez pas $(#déçu/déçue). <end>
 
 =>q6_original
 And, in case you wanted to know, we are always looking to trade for food and ammo, so if you've got some to spare, we can make a pretty good deal, yes!
@@ -38,9 +38,9 @@ And, in case you wanted to know, we are always looking to trade for food and amm
 What do you say, huh? Dear customer? Yes?<end>
 
 =>q6
-Et, au cas où ça vous intéresse, on cherche toujours à troquer bouffe et munitions. Si vous en avez en trop, on peut faire une très bonne affaire, oui !
+Et, au cas où ça vous intéresse, on cherche toujours à troquer nourriture et munitions. Si vous en avez en trop, on peut faire une très bonne affaire, oui !
 
-Alors, hein ? Cher client ? Oui ?<end>
+Alors, hein ? $(#Cher client/Chère cliente) ? Oui ?<end>
 
 =>a7_original
 Who are you people, if I may ask?<end>
@@ -54,7 +54,7 @@ Ah, I was prepared for that one: We are a group of scavengers. We scour the Uppe
 Some places are very difficult to access, but those usually have the best valuables. We target these places, yes, like old facilities or abandoned storages or stores, there's plenty of those around.<end>
 
 =>q8
-Ah, celle-là, j'étais prêt : on est un groupe de récupérateurs. On ratisse Upper Underrail pour les objets de valeur, oui, et on les ramène ici, pour les échanger avec nos précieux clients. Comme vous.
+Ah, celle-là, j'étais prêt : on est un groupe de récupérateurs. On ratisse Upper Underrail pour les objets de valeur, oui, et on les ramène ici, pour les échanger avec nos précieux clients, comme vous.
 
 Certains endroits sont très durs d'accès, mais c'est souvent là qu'il y a le meilleur. On vise ça, oui : vieilles installations, entrepôts abandonnés, magasins. Y en a plein, dans le coin.<end>
 
@@ -62,31 +62,31 @@ Certains endroits sont très durs d'accès, mais c'est souvent là qu'il y a le 
 Do *you* go scavenging with the rest or...?<end>
 
 =>a9
-Et *vous*, vous allez récupérer avec les autres, ou... ?<end>
+Et *vous*, vous partez en récup avec les autres, ou... ?<end>
 
 =>q10_original
 No, I don't, no.<end>
 
 =>q10
-Non, je n'y vais pas, non.<end>
+Non, j'y vais pas, non.<end>
 
 =>a11_original
 But, you said "we." It implies you too go on scavenge hunts with the rest.<end>
 
 =>a11
-Mais vous avez dit « nous ». Ça veut dire que vous y allez aussi, avec les autres.<end>
+Mais vous avez dit « nous ». Ça implique que vous y allez aussi, avec les autres.<end>
 
 =>q12_original
 It is just an expression, dear customer. Do not concern yourself with that anymore. Rather, concern yourself with trading, yes!<end>
 
 =>q12
-C'est une façon de parler, cher client. Occupez-vous plus de ça. Occupez-vous plutôt du troc, oui !<end>
+C'est une façon de parler, $(#cher client/chère cliente). Laissez tomber. Occupez-vous plutôt du troc, oui !<end>
 
 =>q13_original
 Chop chop, dear customer! Someone else could come in at any moment, yes, and buy something you'd want while you're standing here and chatting, yes. Then you'll be sorry.<end>
 
 =>q13
-Allez, allez, cher client ! Quelqu'un d'autre peut entrer à tout moment, oui, et acheter le truc que vous voulez pendant que vous restez là à discuter, oui. Après, vous serez désolé.<end>
+Allez, allez, $(#cher client/chère cliente) ! Quelqu'un d'autre peut entrer à tout moment, oui, et acheter le truc que vous voulez pendant que vous restez là à discuter, oui. Après, vous le regretterez.<end>
 
 =>a14_original
 I have other questions...<end>
@@ -110,13 +110,13 @@ C'est quoi tous ces gros bras autour de la boutique ?<end>
 They are my associates. Come on, customer, did you come straight from the caves, no? There are bandits, robbers, raiders, outlaws, marauders, gangsters, criminals...<end>
 
 =>q17
-Ce sont mes associés. Allez, client, vous sortez tout droit des grottes, non ? Y a des bandits, des voleurs, des pillards, des hors-la-loi, des maraudeurs, des gangsters, des criminels...<end>
+C'est mes associés. Allez, $(#cher client/chère cliente), vous sortez tout droit des grottes, non ? Y a des bandits, des voleurs, des pillards, des hors-la-loi, des maraudeurs, des gangsters, des criminels...<end>
 
 =>q18_original
 ...crooks, thieves, railroadmen, thugs... all over Upper Underrail! Sometimes even pirates. The "goons" help me protect my store so that no one could steal my goods, kill me and kidnap my wife. I don't want that, no.<end>
 
 =>q18
-...des arnaqueurs, des larrons, des écumeurs de rails, des voyous... partout dans Upper Underrail ! Parfois même des pirates. Les « gros bras » m'aident à protéger la boutique, pour que personne ne vole ma marchandise, me tue et kidnappe ma femme. Je veux pas ça, non.<end>
+...des arnaqueurs, des chapardeurs, des cheminots, des voyous... partout dans Upper Underrail ! Parfois même des pirates. Les « gros bras » m'aident à protéger la boutique, pour que personne ne vole ma marchandise, me tue et kidnappe ma femme. Je veux pas ça, non.<end>
 
 =>a19_original
 You have a wife?<end>
@@ -128,7 +128,7 @@ Vous avez une femme ?<end>
 No, but if I had one, she'd be kidnapped in an instant, dear customer. I mean, she'd be beautiful in body, face and soul - a real trophy for a bandit, robber, raider, outlaw, marauder, gangster, criminal...<end>
 
 =>q20
-Non, mais si j'en avais une, on la kidnapperait dans la seconde, cher client. Je veux dire : belle de corps, de visage et d'âme. Un vrai trophée pour un bandit, un voleur, un pillard, un hors-la-loi, un maraudeur, un gangster, un criminel...<end>
+Non, mais si j'en avais une, on la kidnapperait dans la seconde, $(#cher client/chère cliente). Je veux dire : belle de corps, de visage et d'âme. Un vrai trophée pour un bandit, un voleur, un pillard, un hors-la-loi, un maraudeur, un gangster, un criminel...<end>
 
 =>a21_original
 Yeah, yeah. I had other questions.<end>
@@ -146,7 +146,7 @@ Ouais, ouais. J'avais d'autres questions.<end>
 What? You no buy?<end>
 
 =>q23
-Quoi ? Vous achetez pas ?<end>
+Quoi ? Vous pas acheter ?<end>
 
 =>a24_original
 Goodbye, Marty.<end>
@@ -176,7 +176,7 @@ On verra.<end>
 Welcome back, dear customer. <end>
 
 =>q28
-Rebonjour, cher client. <end>
+Rebonjour, $(#cher client/chère cliente). <end>
 
 =>q29_original
 Don't mind the frozen vents. As they say, low temperatures - low prices!<end>
@@ -194,7 +194,7 @@ Faites pas attention aux bouches d'aération gelées. Comme on dit : basses temp
 Don't let the inexplicable light flicker dissuade your from browsing through my goods, no, no.<end>
 
 =>q31
-Laissez pas le clignotement bizarre des lumières vous empêcher de regarder la marchandise, non, non.<end>
+Laissez pas le clignotement inexplicable des lumières vous dissuader de regarder la marchandise, non, non.<end>
 
 =>q32_original
 Ignore the smell, please. It is only temporary, yes. <end>
@@ -206,4 +206,4 @@ Ignorez l'odeur, s'il vous plaît. C'est temporaire, oui. <end>
 Oh, you have returned. Very good, splendid. What would you like to buy, my dear customer?<end>
 
 =>q33
-Oh, vous êtes revenu. Très bien, splendide. Qu'est-ce que vous voulez acheter, cher client ?<end>
+Oh, vous êtes $(#revenu/revenue). Très bien, splendide. Qu'est-ce que vous voulez acheter, $(#mon cher client/ma chère cliente) ?<end>
