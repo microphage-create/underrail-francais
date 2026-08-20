@@ -2,55 +2,55 @@
 ::Before you is a body of a young $(context.frag_dun_wasteWater_corpseGender) scavenger.::<end>
 
 =>q1
-::Avant vous est un corps d'un jeune $(context.frag dun déchetWater corpseGender) charognard.::<end>
+::Devant vous, le corps d'un jeune $(context.frag_dun_wasteWater_corpseGender) fouilleur.::<end>
 
 =>a2_original
 ::Inspect the body.::<end>
 
 =>a2
-::Inspectez le corps.::<end>
+::Examiner le corps::<end>
 
 =>q3_original
 ::It's a corpse, and no longer edible.::<end>
 
 =>q3
-::C'est un cadavre, et plus comestible.::<end>
+::C'est un cadavre. Plus rien de comestible.::<end>
 
 =>a4_original
 ::Leave it alone.::<end>
 
 =>a4
-::Laisse tomber.::<end>
+::Laisser::<end>
 
 =>q5_original
 ::Before you is a body of a young scavenger, a $(context.frag_dun_wasteWater_corpseGender) barely over twenty, if over at all; you have some difficulty telling the age, as the ::<end>
 
 =>q5
-::Avant que vous ne soyez un corps d'un jeune trésorier, un $(context.frag dun déchetWater corpseGender) à peine plus de vingt, si plus du tout; vous avez quelques difficultés à dire l'âge, comme le::<end>
+::Devant vous, le corps d'un jeune fouilleur, un $(context.frag_dun_wasteWater_corpseGender) à peine la vingtaine, peut-être même pas. L'âge est dur à dire, tant ::<end>
 
 =>q6_original
 ::state the body's in ::<end>
 
 =>q6
-::indiquer que le corps est dans::<end>
+::l'état du corps ::<end>
 
 =>q7_original
 ::really undermines your perception.::<end>
 
 =>q7
-::Ça sape vraiment votre perception.::<end>
+::brouille vraiment votre perception.::<end>
 
 =>a8_original
 ::Inspect the deceased.::<end>
 
 =>a8
-::Inspectez le défunt.::<end>
+::Examiner le défunt::<end>
 
 =>q9_original
 ::His ::<end>
 
 =>q9
-::Ses::<end>
+::<end>
 
 =>q10_original
 <end>
@@ -62,7 +62,7 @@
 ::somewhat deformed body is covered in small, pox-sized green tumors from whose base thin, mycelium-like tendrils grow over and into the pale skin. You also notice what appear to be several needle marks, mostly on the arms, but there's one on the neck as well.::<end>
 
 =>q11
-::Le corps quelque peu déformé est recouvert de petites tumeurs vertes de la taille de la pox à partir de laquelle les vrilles minces de la base, de type mycélium, poussent sur et dans la peau pâle. Vous remarquez aussi ce qui semble être plusieurs marques d'aiguille, principalement sur les bras, mais il y en a une sur le cou aussi.::<end>
+::Le corps, un peu déformé, est recouvert de petites tumeurs vertes, grosseur d'une pustule. De leur base partent de fins filaments, comme du mycélium, qui courent sur la peau pâle et s'y enfoncent. Vous remarquez aussi ce qui ressemble à plusieurs traces de piqûre, surtout aux bras, plus une dans le cou.::<end>
 
 =>q12_original
 <end>
@@ -74,89 +74,88 @@
 ::[Biology] The body's pale and cold, and pretty stiff, meaning rigor mortis has set in. You take a look at some of the exposed back and notice moderate suggillation - that is, the pooling of blood inside the body. The amount of pooled blood and its location, combined with what you deduced so far, tells you that death occured no more than six hours ago.::<end>
 
 =>q13
-::[Biology] Le corps est pâle et froid, et assez raide, ce qui signifie que la rigueur morte s'est installée. Vous regardez un peu le dos exposé et remarquez une suggillation modérée - c'est-à-dire l'accumulation de sang dans le corps. La quantité de sang accumulé et son emplacement, combiné à ce que vous avez déduit jusqu'à présent, vous indique que la mort est survenue il y a pas plus de six heures.::<end>
+::[Biology] Le corps est pâle, froid, assez raide : la rigidité cadavérique s'est installée. Vous jetez un œil au dos exposé et notez une suggillation modérée, le sang s'est accumulé dans le corps. La quantité, l'emplacement, plus ce que vous avez déjà déduit : la mort date de six heures tout au plus.::<end>
 
 =>q14_original
 ::[Chemistry] Additionally, the body reeks of rotten hopper eggs and ammonia - essentially sewage. Looking at the muck on the deceased's clothes confirms that this person has indeed ventured into some rather foul place or places.::<end>
 
 =>q14
-::[Chemistry] De plus, le corps pue les oeufs de sauteur pourris et l'ammoniac - essentiellement les eaux usées. En regardant les vêtements de la défunte, on confirme que cette personne s'est aventurée dans un endroit ou des endroits plutôt mauvais.::<end>
+::[Chemistry] Le corps pue aussi les œufs de sauteur pourris et l'ammoniac : de l'égout, en gros. La crasse sur les vêtements confirme que cette personne a bel et bien traîné dans un endroit infect, voire plusieurs.::<end>
 
 =>q15_original
 ::[Perception] And lastly, ::<end>
 
 =>q15
-::[Perception] Et enfin,::<end>
+::[Perception] Et pour finir, ::<end>
 
 =>q16_original
 ::one of the fingers on the left hand exhibits a single ring mark.::<end>
 
 =>q16
-::l'un des doigts de la main gauche montre une seule marque d'anneau.::<end>
+::un doigt de la main gauche porte la marque d'une bague.::<end>
 
 =>q17_original
 ::Unfortunately, that's everything useful you're able to determine from inspecting the body.::<end>
 
 =>q17
-::Malheureusement, c'est tout ce qui est utile que vous pouvez déterminer en inspectant le corps.::<end>
+::Voilà tout ce que vous arrivez à tirer d'utile de l'examen.::<end>
 
 =>a18_original
 ::Leave.::<end>
 
 =>a18
-::Partir.::<end>
+::Partir::<end>
 
 =>q19_original
 ::[Perception] Also, ::<end>
 
 =>q19
-::[Perception] Aussi,::<end>
+::[Perception] Aussi, ::<end>
 
 =>q20_original
 ::body is severely burned, with sagging, melted skin almost running down the $(context.frag_dun_wasteWater_corpseGender)'s face and exposed arms. You notice several strange symbols burned into the skin, mostly the arms and chest, but there is also a single one on the forehead - shaped like a flaming drop of liquid. Also, the wrists are bruised and cut, as if they were tied with something and the victim was trying to break loose.::<end>
 
 =>q20
-::corps est gravement brûlé, avec la peau fondue en étirement presque en courant vers le bas du $(context.frag dun déchetWater corpseGender) et les bras exposés. Vous remarquez plusieurs symboles étranges brûlés dans la peau, principalement les bras et la poitrine, mais il ya aussi un seul sur le front - en forme de goutte de liquide flamboyante. De plus, les poignets sont meurtris et coupés, comme s'ils étaient attachés à quelque chose et la victime essayait de se briser.::<end>
+::Le corps est gravement brûlé. La peau fondue, affaissée, dégouline presque sur le visage du $(context.frag_dun_wasteWater_corpseGender) et sur les bras à nu. Plusieurs symboles étranges ont été brûlés dans la peau, surtout aux bras et à la poitrine, plus un seul sur le front : une goutte de liquide en flammes. Les poignets sont meurtris et entaillés, comme s'ils avaient été liés et que la victime avait tenté de se dégager.::<end>
 
 =>q21_original
 ::body shows signs of electrocution, namely burn marks stretching between the limbs and the face, haloed in large hematomas in several spots along the way. Three distinct areas of the body have suffered the most damage: The first area is the feet - each sole has a single burned hole in the middle; the second is the knees - as if the $(context.frag_dun_wasteWater_corpseGender) has, hypothetically, dropped to them after the first strike and suffered another; and lastly, the hands - which are charred and missing several fingers.::<end>
 
 =>q21
-::corps montre des signes d'électrocution, à savoir des marques de brûlure s'étirant entre les membres et le visage, auréolés dans de grands hématomes en plusieurs endroits le long du chemin. Trois zones distinctes du corps ont été les plus endommagées : La première zone est les pieds - chaque plante a un seul trou brûlé au milieu; la seconde est les genoux - comme si le $(context.frag dun déchetWater corpseGender) a, hypothétiquement, chuté à eux après la première frappe et en a souffert une autre; et enfin, les mains - qui sont carbonisées et manquant plusieurs doigts.::<end>
+::Le corps montre des signes d'électrocution : des traces de brûlure qui relient les membres au visage, auréolées de gros hématomes par endroits. Trois zones ont pris le plus cher. Les pieds : un trou brûlé au milieu de chaque plante. Les genoux : comme si le $(context.frag_dun_wasteWater_corpseGender) s'y était, en théorie, affalé après le premier choc et en avait pris un deuxième. Les mains : carbonisées, plusieurs doigts en moins.::<end>
 
 =>q22_original
 ::body is full of bullet wounds from all sides, some of which form groups consisting of small entry wounds mixed in with large exit wounds. What is striking, however, is that the relative locations of some of these entry and exit wounds suggests that the $(context.frag_dun_wasteWater_corpseGender) was shot either from a low position - or by some very short shooters.::<end>
 
 =>q22
-::Le corps est plein de blessures par balle de tous les côtés, dont certains forment des groupes constitués de petites blessures d'entrée mélangées à de grandes blessures de sortie. Ce qui est frappant, cependant, c'est que les emplacements relatifs de certaines de ces blessures d'entrée et de sortie suggèrent que le $(context.frag dun déchetWater corpseGender) a été tiré soit à partir d'une position basse - ou par quelques tireurs très courts.::<end>
+::Le corps est criblé de balles de tous les côtés. Certaines forment des groupes : petites plaies d'entrée mêlées à de larges plaies de sortie. Ce qui frappe, c'est que la position relative de certaines de ces plaies suggère qu'on a tiré sur le $(context.frag_dun_wasteWater_corpseGender) depuis une position basse, ou que les tireurs étaient tout petits.::<end>
 
 =>q23_original
 ::body is covered in bite marks, with several fingers and bits of face and arms chewed off, revealing the bones underneath. You notice numerous canine teeth puncture wounds, but the bite marks appear too small to have been made by rathounds, you think.::<end>
 
 =>q23
-::corps est recouvert de marques de morsure, avec plusieurs doigts et des morceaux de visage et les bras mâchés, révélant les os en dessous. Vous remarquez de nombreuses plaies de perforation de dents canines, mais les marques de morsure semblent trop petites pour avoir été faites par des rathons, vous pensez.::<end>
+::Le corps est couvert de morsures. Plusieurs doigts, des morceaux de visage et de bras ont été mâchés, l'os se voit. Beaucoup de plaies de canines, mais les morsures vous paraissent trop petites pour des rathounds.::<end>
 
 =>q24_original
 ::head is missing patches of hair which were ripped out of the scalp, and what's left underneath has been severely clawed, exposing the whiteness of the skull underneath. As to who did it, the answer reveals itself when you look at the $(context.frag_dun_wasteWater_corpseGender)'s fingertips: The nails - where they're still present - are mostly broken, with bits of flesh and bloodied hair underneath them.::<end>
 
 =>q24
-::la tête manque des taches de cheveux qui ont été arrachés du cuir chevelu, et ce qui reste en dessous a été griffé sévèrement, exposant la blancheur du crâne en dessous. Quant à qui l'a fait, la réponse se révèle quand vous regardez les doigts de $(context.frag dun déchetWater corpseGender) : Les ongles - là où ils sont encore présents - sont pour la plupart brisés, avec des morceaux de chair et des cheveux ensanglantés sous eux.::<end>
+::La tête a des plaques de cheveux arrachées, et ce qu'il reste en dessous a été profondément griffé : le blanc du crâne se voit. Quant à qui l'a fait, la réponse saute aux yeux quand vous regardez le bout des doigts du $(context.frag_dun_wasteWater_corpseGender) : les ongles, là où il en reste, sont pour la plupart cassés, avec des bouts de chair et de cheveux ensanglantés dessous.::<end>
 
 =>q25_original
 ::Her ::<end>
 
 =>q25
-::Elle::<end>
+::<end>
 
 =>q26_original
 ::damage the head has suffered ::<end>
 
 =>q26
-::endommagement de la tête::<end>
+::ce qu'a subi la tête ::<end>
 
 =>q27_original
 ::damage the body has suffered ::<end>
 
 =>q27
-::dommages subis par le corps::<end>
-
+::ce qu'a subi le corps ::<end>

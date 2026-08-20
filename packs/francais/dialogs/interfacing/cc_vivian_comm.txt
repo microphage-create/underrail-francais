@@ -2,37 +2,37 @@
 ::You hear nothing but static.::<end>
 
 =>q1
-::Vous n'entendez que statique.::<end>
+::Vous n'entendez que des parasites.::<end>
 
 =>q2_original
 ::There is no need to use this now.::<end>
 
 =>q2
-::Il n'est pas nécessaire de l'utiliser maintenant.::<end>
+::Pas besoin de l'utiliser maintenant.::<end>
 
 =>q3_original
 ::You hear nothing but static.::<end>
 
 =>q3
-::Vous n'entendez que statique.::<end>
+::Vous n'entendez que des parasites.::<end>
 
 =>q4_original
 Hey, the elevator is working! Lovely! You did it, $(context.player.Name)! Come up here!<end>
 
 =>q4
-L'ascenseur marche ! Magnifique ! Tu l'as fait, $(context.player.Name) ! Venez ici !<end>
+Hé, l'ascenseur marche ! Chouette ! T'as réussi, $(context.player.Name) ! Monte !<end>
 
 =>q5_original
 ::You hear Vivian's worried voice over the speaker.:: $(context.player.Name)! $(context.player.Name)! Can you hear me? Are you okay? <end>
 
 =>q5
-::Vous entendez la voix inquiète de Vivian sur le haut-parleur.:: $(context.player.Name)! $(context.player.Name)! Vous m'entendez ? Ça va ? <end>
+::Vous entendez la voix inquiète de Vivian sur le haut-parleur.:: $(context.player.Name) ! $(context.player.Name) ! Tu m'entends ? Ça va ?<end>
 
 =>a6_original
 I'm fine, but I can't seem to get back up. What is this place?<end>
 
 =>a6
-Je vais bien, mais je ne peux pas me remettre. C'est quoi cet endroit ?<end>
+Je vais bien, mais j'arrive pas à remonter. C'est quoi, cet endroit ?<end>
 
 =>q7_original
 Drats! The stupid elevator is not working! I can't do anything to make it operational again, not from up here. Let's see, hmm, there is a console in this room, let me take a look. Just... one... moment...
@@ -40,9 +40,9 @@ Drats! The stupid elevator is not working! I can't do anything to make it operat
 Aha, got it! According to what I'm reading, below me is some Biocorp research facility. Who knows what they've got there, so be careful. Also, I've just opened the map of the area, and I can see the whole layout. Wait, I think I can also remotely unlock some doors, maybe that'll be useful at some point. Tell me, where are you now?<end>
 
 =>q7
-Des drags ! Ce stupide ascenseur ne marche pas ! Je ne peux rien faire pour le rendre opérationnel, pas d'ici. Voyons, il y a une console dans cette pièce, laissez-moi jeter un oeil. Juste... un... moment...
+Mince ! Cet ascenseur débile marche plus ! Je peux rien faire pour le relancer, pas d'ici. Voyons, hmm, y a une console dans cette pièce, laisse-moi jeter un œil. Juste... un... instant...
 
-Ah, compris ! Selon ce que je lis, en dessous de moi se trouve un centre de recherche Biocorp. Qui sait ce qu'ils ont là, alors soyez prudent. En outre, je viens d'ouvrir la carte de la zone, et je peux voir toute la disposition. Attends, je pense que je peux aussi déverrouiller à distance certaines portes, peut-être que ça sera utile à un moment donné. Dis-moi, où es-tu maintenant ?<end>
+Ah, trouvé ! D'après ce que je lis, en dessous de moi y a un centre de recherche Biocorp. Qui sait ce qu'ils ont là-bas, alors fais gaffe. Et je viens d'ouvrir la carte de la zone, je vois tout le plan. Attends, je crois que je peux aussi déverrouiller des portes à distance, ça pourra servir. Dis-moi, t'es où, là ?<end>
 
 =>q8_original
 <end>
@@ -54,25 +54,25 @@ Ah, compris ! Selon ce que je lis, en dessous de moi se trouve un centre de rech
 How can I get the elevator working?<end>
 
 =>a9
-Comment puis-je faire travailler l'ascenseur ?<end>
+Comment je fais pour faire marcher l'ascenseur ?<end>
 
 =>q10_original
 I have no idea, but there is a "generator room" just by the elevator, judging from what I can see here.<end>
 
 =>q10
-Je n'en ai aucune idée, mais il y a une "salle des générateurs" juste à côté de l'ascenseur, à en juger par ce que je vois ici.<end>
+Aucune idée, mais y a une « salle des générateurs » juste à côté de l'ascenseur, d'après ce que je vois d'ici.<end>
 
 =>q11_original
 Maybe you should check it out.<end>
 
 =>q11
-Tu devrais peut-être vérifier.<end>
+Tu devrais peut-être y jeter un œil.<end>
 
 =>a12_original
 Can you give me some directions?<end>
 
 =>a12
-Pouvez-vous me donner des directions ?<end>
+Tu peux me guider un peu ?<end>
 
 =>q13_original
 Okay, let's see. You are now in Sector 1, as far as I can see here. Just next to the elevator is the "Generator room," and to the east of that is the "Armory," or so it says here. All the way to the west is the "Main Storage," and to the east is the "Offices." Northwest you've got the "Maintenance Room," and south-southeast is where the "Security Room" is located. 
@@ -80,45 +80,45 @@ Okay, let's see. You are now in Sector 1, as far as I can see here. Just next to
 South doors lead to Sector 2. Meanwhile, Sector 3 is accessed near the maintenance room.<end>
 
 =>q13
-Voyons voir. Vous êtes maintenant dans le secteur 1, autant que je peux le voir ici. Juste à côté de l'ascenseur se trouve la « salle Generator », et à l'est de celle-ci est l' « Armory », ou alors il est dit ici. Tout le chemin vers l'ouest est le « stockage principal » et vers l'est les « bureaux ». Dans le nord-ouest, vous avez la « salle d'entretien », et au sud-sud-est se trouve la « salle de sécurité ».
+Ok, voyons voir. T'es dans le secteur 1, d'après ce que je vois. Juste à côté de l'ascenseur, c'est la « salle des générateurs », et à l'est de ça, « l'armurerie », enfin c'est ce qu'il y a écrit. Tout à l'ouest, le « stockage principal », et à l'est, les « bureaux ». Au nord-ouest t'as la « salle d'entretien », et au sud-sud-est, la « salle de sécurité ».
 
-Les portes sud mènent au secteur 2. Pendant ce temps, le secteur 3 est accessible près de la salle d'entretien.<end>
+Les portes au sud mènent au secteur 2. Le secteur 3, on y accède près de la salle d'entretien.<end>
 
 =>q14_original
 Got everything?<end>
 
 =>q14
-Vous avez tout ?<end>
+T'as tout ?<end>
 
 =>q15_original
 Okay, let's see... You are now in Sector 2, and there are only three rooms here. The westernmost reads "Pumping room," the middle one is "Research 2," and the eastern one is unlabeled on this map.<end>
 
 =>q15
-Voyons... Vous êtes maintenant dans le secteur 2 et il n'y a que trois chambres ici. Le plus à l'ouest se lit "Pumping room", le milieu est "Recherche 2," et l'est est non marqué sur cette carte.<end>
+Ok, voyons... T'es dans le secteur 2, et y a que trois pièces. La plus à l'ouest, c'est marqué « salle de pompage », celle du milieu « Recherche 2 », et celle de l'est est pas indiquée sur la carte.<end>
 
 =>q16_original
 That's all I can see here...<end>
 
 =>q16
-C'est tout ce que je vois ici...<end>
+C'est tout ce que je vois d'ici...<end>
 
 =>a17_original
 Some doors are locked in here. Can you do anything to help?<end>
 
 =>a17
-Certaines portes sont verrouillées ici. Tu peux faire quelque chose pour aider ?<end>
+Y a des portes verrouillées ici. Tu peux faire quelque chose ?<end>
 
 =>q18_original
 Let's see, you're in Sector 1... Drats, I don't think I can unlock any of the doors near you. I need some special permission or something. But, listen, I can see all these doors require keycards to open, so maybe you should check the office; perhaps you'll be able to find some of the keycards there.<end>
 
 =>q18
-Voyons voir, vous êtes dans le secteur 1... Drats, je ne pense pas pouvoir ouvrir les portes près de vous. J'ai besoin d'une autorisation spéciale. Mais, écoutez, je peux voir que toutes ces portes nécessitent des cartes-clés à ouvrir, donc peut-être devriez-vous vérifier le bureau; peut-être serez-vous en mesure de trouver certaines des cartes-clés là-bas.<end>
+Voyons, t'es dans le secteur 1... Mince, je pense pas pouvoir déverrouiller les portes près de toi. Il me faut une autorisation spéciale, ou un truc du genre. Mais écoute, toutes ces portes s'ouvrent avec des keycards, alors tu devrais peut-être fouiller les bureaux. Tu pourrais en trouver là-bas.<end>
 
 =>q19_original
 At least I got to unlock the doors in Sector 2 for you, so I'm not completely useless. ::She laughs.::<end>
 
 =>q19
-Au moins, je dois ouvrir les portes du secteur 2 pour vous, donc je ne suis pas complètement inutile. ::Elle rit.::<end>
+Au moins, j'ai pu déverrouiller les portes du secteur 2 pour toi, donc je suis pas complètement inutile. ::Elle rit.::<end>
 
 =>q20_original
 Still, from what I see here I think I might be able to open some of the doors in Sector 2, so call me when you get there.
@@ -126,51 +126,51 @@ Still, from what I see here I think I might be able to open some of the doors in
 Did you catch all that?<end>
 
 =>q20
-Mais d'après ce que je vois ici, je pense pouvoir ouvrir certaines des portes du secteur 2, alors appelez-moi quand vous y serez.
+Quand même, d'après ce que je vois, je devrais pouvoir ouvrir quelques portes du secteur 2, alors appelle-moi quand t'y seras.
 
-Tu as attrapé tout ça ?<end>
+T'as tout pigé ?<end>
 
 =>q21_original
 Let's see, you're now in Sector 2... Hey, I can unlock all the doors in this sector from here! All done! Damn Vivian, you are hacking like a cham-- Khm, sorry.<end>
 
 =>q21
-Voyons voir, vous êtes maintenant dans le secteur 2... Je peux déverrouiller toutes les portes de ce secteur d'ici ! C'est fini ! Merde Vivian, tu hackes comme une cham...<end>
+Voyons, t'es dans le secteur 2... Hé, je peux déverrouiller toutes les portes de ce secteur d'ici ! C'est fait ! Merde Vivian, tu hackes comme une cham-- Khm, pardon.<end>
 
 =>q22_original
 You should be good to go.<end>
 
 =>q22
-Tu devrais être prêt.<end>
+C'est bon, tu peux y aller.<end>
 
 =>q23_original
 It says here all doors are unlocked in Sector 2. Maybe they're just stuck. Try kicking them.<end>
 
 =>q23
-Ici, toutes les portes sont déverrouillées dans le secteur 2. Peut-être qu'ils sont coincés. Essayez de les frapper.<end>
+Ici c'est marqué que toutes les portes du secteur 2 sont déverrouillées. Peut-être qu'elles sont juste coincées. Essaie de leur filer un coup de pied.<end>
 
 =>q24_original
 Stupid doors...<end>
 
 =>q24
-Des portes stupides...<end>
+Ces portes débiles...<end>
 
 =>a25_original
 I'm in the armory.<end>
 
 =>a25
-Je suis dans l'armure.<end>
+Je suis dans l'armurerie.<end>
 
 =>q26_original
 That sounds lovely, maybe you can find something of interest there. Maybe some weapons and ammo.<end>
 
 =>q26
-Ça a l'air charmant, peut-être que tu peux y trouver quelque chose d'intéressant. Peut-être des armes et des munitions.<end>
+Chouette, tu peux peut-être y trouver un truc intéressant. Des armes et des munitions, tiens.<end>
 
 =>q27_original
 I really don't know what else to tell you about an armory.<end>
 
 =>q27
-Je ne sais vraiment pas quoi te dire d'autre sur une armure.<end>
+Je sais vraiment pas quoi te dire de plus sur une armurerie.<end>
 
 =>a28_original
 I'm in the toilet.<end>
@@ -182,13 +182,13 @@ Je suis aux toilettes.<end>
 $(context.player.Name)! Yuck! I did not need to know that.<end>
 
 =>q29
-$(context.player.Name) ! Ouais ! Je n'avais pas besoin de le savoir.<end>
+$(context.player.Name) ! Beurk ! J'avais pas besoin de savoir ça.<end>
 
 =>q30_original
 I mean, really.<end>
 
 =>q30
-Vraiment.<end>
+Nan mais vraiment.<end>
 
 =>a31_original
 I'm in a large room full of desks.<end>
@@ -200,115 +200,115 @@ Je suis dans une grande pièce pleine de bureaux.<end>
 That's the office. Let me check... Yes, it is. You should look around.<end>
 
 =>q32
-C'est le bureau. Laisse-moi vérifier... Oui. Tu devrais regarder autour de toi.<end>
+C'est les bureaux. Laisse-moi vérifier... Oui. Tu devrais fouiller un peu.<end>
 
 =>q33_original
 Maybe someone left you a sandwich there. ::She laughs.:: I'm sorry, this is no time for jokes.<end>
 
 =>q33
-Quelqu'un t'a peut-être laissé un sandwich. ::Elle rit.:: Je suis désolé, ce n'est pas le moment de plaisanter.<end>
+Quelqu'un t'a peut-être laissé un sandwich. ::Elle rit.:: Désolée, c'est pas le moment de plaisanter.<end>
 
 =>a34_original
 I'm in the office.<end>
 
 =>a34
-Je suis au bureau.<end>
+Je suis dans les bureaux.<end>
 
 =>q35_original
 Did you find that sandwi-- I mean, lovely. See if you can find something useful there.<end>
 
 =>q35
-Tu as trouvé ce sandwi... Voyez si vous y trouvez quelque chose d'utile.<end>
+T'as trouvé ce sandwi-- Je veux dire, chouette. Vois si tu y trouves un truc utile.<end>
 
 =>q36_original
 Keep your eyes open.<end>
 
 =>q36
-Gardez les yeux ouverts.<end>
+Ouvre l'œil.<end>
 
 =>a37_original
 I'm in the storage room.<end>
 
 =>a37
-Je suis dans la salle de stockage.<end>
+Je suis dans le stockage.<end>
 
 =>q38_original
 Okay, got it. I tried accessing the storage manifest, but the file seems corrupted. Still, it should not be a problem, you can check it out what's in there for yourself.<end>
 
 =>q38
-Compris. J'ai essayé d'accéder au manifeste de stockage, mais le fichier semble corrompu. Pourtant, ce ne devrait pas être un problème, vous pouvez vérifier ce qui est là pour vous.<end>
+Ok, compris. J'ai essayé d'accéder à l'inventaire du stockage, mais le fichier a l'air corrompu. Enfin, ça devrait pas poser de problème, tu peux voir toi-même ce qu'il y a.<end>
 
 =>q39_original
 Maybe you can find those generator parts in here.<end>
 
 =>q39
-Vous pouvez peut-être trouver ces pièces de générateur ici.<end>
+Tu peux peut-être trouver les pièces du générateur là-dedans.<end>
 
 =>q40_original
 There could be useful stuff in there.<end>
 
 =>q40
-Il pourrait y avoir des trucs utiles là-dedans.<end>
+Y a peut-être des trucs utiles là-dedans.<end>
 
 =>q41_original
 Maybe you can find something to fix those pipes.<end>
 
 =>q41
-Tu peux peut-être trouver quelque chose pour réparer ces tuyaux.<end>
+Tu peux peut-être trouver de quoi réparer ces tuyaux.<end>
 
 =>q42_original
 Maybe you can find parts for the generator in here, or something to fix the pipes.<end>
 
 =>q42
-Vous pouvez peut-être trouver des pièces pour le générateur ici, ou quelque chose pour réparer les tuyaux.<end>
+Tu peux peut-être trouver des pièces pour le générateur, ou de quoi réparer les tuyaux.<end>
 
 =>a43_original
 I'm in a small room full of large metal boxes.<end>
 
 =>a43
-Je suis dans une petite pièce pleine de grandes boîtes métalliques.<end>
+Je suis dans une petite pièce pleine de grandes caisses en métal.<end>
 
 =>q44_original
 Hmm, there is an unmarked room in Sector 2. Maybe that's the one.<end>
 
 =>q44
-Il y a une pièce non marquée dans le secteur 2. C'est peut-être celui-là.<end>
+Hmm, y a une pièce non marquée dans le secteur 2. C'est peut-être celle-là.<end>
 
 =>q45_original
 I've got nothing here. You're gonna have to check it out for yourself.<end>
 
 =>q45
-Je n'ai rien ici. Tu vas devoir vérifier par toi-même.<end>
+J'ai rien de mon côté. Tu vas devoir voir par toi-même.<end>
 
 =>a46_original
 I'm in a small room with a console, two desks and some shelves.<end>
 
 =>a46
-Je suis dans une petite pièce avec une console, deux bureaux et quelques étagères.<end>
+Je suis dans une petite pièce avec une console, deux bureaux et des étagères.<end>
 
 =>q47_original
 Console? Hmmm, can you be a bit more specific?<end>
 
 =>q47
-Console ? Tu peux être un peu plus précis ?<end>
+Une console ? Hmm, tu peux préciser un peu ?<end>
 
 =>a48_original
 It's in the southeast part of this area.<end>
 
 =>a48
-C'est dans la partie sud-est de cette zone.<end>
+C'est dans le sud-est de la zone.<end>
 
 =>q49_original
 Oh, the security room, makes sense. Nothing specific about it on my end. Check the console; if it's working, maybe it could prove useful.<end>
 
 =>q49
-La salle de sécurité est logique. Rien de précis à ce sujet de ma part. Vérifiez la console; si elle fonctionne, peut-être qu'elle pourrait s'avérer utile.<end>
+Ah, la salle de sécurité, logique. Rien de spécial de mon côté. Jette un œil à la console. Si elle marche, ça pourra servir.<end>
 
 =>q50_original
 I saw mention of patrolling security sentries somewhere in here, but I can't seem to find it again. Drats!<end>
 
 =>q50
-J'ai vu la mention de patrouiller des sentinelles de sécurité quelque part ici, mais je n'arrive pas à le retrouver. Des drags !<end>
+J'ai vu passer un truc sur des sentinelles de sécurité en patrouille, mais j'arrive plus à remettre la main dessus. Mince !<end>
 
 =>a51_original
 I'm in the security room.<end>
@@ -320,49 +320,49 @@ Je suis dans la salle de sécurité.<end>
 Okay, there was a console there, right? Maybe you should check it out. I've finally found info regarding the sentries: They are patrolling the main hallway in Sector 2.<end>
 
 =>q52
-Il y avait une console, non ? Tu devrais peut-être vérifier. J'ai enfin trouvé des infos sur les sentinelles : Ils patrouillent dans le couloir principal du secteur 2.<end>
+Ok, y avait une console là, non ? Tu devrais peut-être y jeter un œil. J'ai enfin trouvé l'info sur les sentinelles : elles patrouillent dans le couloir principal du secteur 2.<end>
 
 =>q53_original
 Maybe you can do something about that from the security room.<end>
 
 =>q53
-Peut-être que vous pouvez faire quelque chose à ce sujet de la salle de sécurité.<end>
+Tu peux peut-être faire un truc depuis la salle de sécurité.<end>
 
 =>a54_original
 I'm in a room with desks, tables and some high tech equipment.<end>
 
 =>a54
-Je suis dans une pièce avec des bureaux, des tables et du matériel de haute technologie.<end>
+Je suis dans une pièce avec des bureaux, des tables et du matos high-tech.<end>
 
 =>q55_original
 There is a room in here, marked as "Research 2." Maybe that's the one.<end>
 
 =>q55
-Il y a une pièce ici, marquée comme "Recherche 2". C'est peut-être celui-là.<end>
+Y a une pièce marquée « Recherche 2 ». C'est peut-être celle-là.<end>
 
 =>q56_original
 Other than that... I've got nothing. Drats.<end>
 
 =>q56
-À part ça... Je n'ai rien. Des draps.<end>
+À part ça... J'ai rien. Mince.<end>
 
 =>a57_original
 I'm in a room full of work tables, shelves with all sorts of equipment and some fuel tanks.<end>
 
 =>a57
-Je suis dans une pièce pleine de tables de travail, d'étagères avec toutes sortes d'équipements et de réservoirs de carburant.<end>
+Je suis dans une pièce pleine d'établis, d'étagères avec tout un tas de matos, et des réservoirs de carburant.<end>
 
 =>q58_original
 That sounds like the maintenance room. <end>
 
 =>q58
-On dirait la salle d'entretien. <end>
+On dirait la salle d'entretien.<end>
 
 =>q59_original
 Maybe you can find some useful equipment. It's a maintenance room after all.<end>
 
 =>q59
-Vous trouverez peut-être de l'équipement utile. C'est une salle d'entretien après tout.<end>
+Tu trouveras peut-être du matos utile. C'est une salle d'entretien, après tout.<end>
 
 =>a60_original
 I'm in the maintenance room.<end>
@@ -374,7 +374,7 @@ Je suis dans la salle d'entretien.<end>
 Got it. Look around...<end>
 
 =>q61
-Compris. Regarde autour de toi...<end>
+Compris. Jette un œil autour...<end>
 
 =>a62_original
 I'm in the room with the generator.<end>
@@ -386,163 +386,163 @@ Je suis dans la pièce avec le générateur.<end>
 Lovely, I can see on the console that the hydraulic generator for the elevator is in that room. That's the one, see if you can start it up.<end>
 
 =>q63
-Je peux voir sur la console que le générateur hydraulique de l'ascenseur est dans cette pièce. C'est celui-là, voyez si vous pouvez commencer.<end>
+Chouette, je vois sur la console que le générateur hydraulique de l'ascenseur est dans cette pièce. C'est bien celui-là, vois si tu peux le démarrer.<end>
 
 =>q64_original
 Get back to me after that.<end>
 
 =>q64
-Rappelle-moi après ça.<end>
+Rappelle-moi après.<end>
 
 =>a65_original
 I'm in the pumping room. There's lots of pipes and tanks here.<end>
 
 =>a65
-Je suis dans la salle de pompage. Il y a beaucoup de tuyaux et de réservoirs ici.<end>
+Je suis dans la salle de pompage. Y a un tas de tuyaux et de réservoirs ici.<end>
 
 =>q66_original
 Oh, okay. As far as I can gather, the pump in this room is used to supply fluid to the elevator's hydraulic generator.<end>
 
 =>q66
-Oh, ça va. Pour autant que je puisse me rassembler, la pompe dans cette pièce est utilisée pour alimenter le générateur hydraulique de l'ascenseur.<end>
+Oh, d'accord. D'après ce que je comprends, la pompe de cette pièce alimente le générateur hydraulique de l'ascenseur.<end>
 
 =>q67_original
 Lovely! This is exactly what you need!<end>
 
 =>q67
-Magnifique ! C'est exactement ce dont vous avez besoin !<end>
+Chouette ! C'est exactement ce qu'il te faut !<end>
 
 =>q68_original
 That could prove important for your escape, $(context.player.Name). You should check its condition.<end>
 
 =>q68
-Cela pourrait être important pour votre évasion, $(context.player.Name). Vous devriez vérifier son état.<end>
+Ça pourrait être important pour t'en sortir, $(context.player.Name). Tu devrais jeter un œil à son état.<end>
 
 =>a69_original
 There is a collapsed passage near the maintenance room.<end>
 
 =>a69
-Il y a un passage effondré près de la salle d'entretien.<end>
+Y a un passage effondré près de la salle d'entretien.<end>
 
 =>q70_original
 Oh, that leads to Sector 3. Drats! Let me see for a second... Sector... 3... Okay, it's a large research and development area of this facility, much larger than Sector 1 and 2 combined!<end>
 
 =>q70
-Ça mène au secteur 3. Des drags ! Voyons voir une seconde... Secteur... 3... D'accord, c'est un grand domaine de recherche et développement de cette installation, beaucoup plus grand que les secteurs 1 et 2 combinés !<end>
+Oh, ça mène au secteur 3. Mince ! Laisse-moi voir une seconde... Secteur... 3... Ok, c'est un grand secteur de recherche et développement de l'installation, bien plus grand que les secteurs 1 et 2 réunis !<end>
 
 =>q71_original
 A collapsed tunnel doesn't help us at all!<end>
 
 =>q71
-Un tunnel effondré ne nous aide pas du tout !<end>
+Un tunnel effondré, ça nous avance à rien !<end>
 
 =>a72_original
 I checked the hydraulic pump, but there was an error regarding a breach in the pipeline.<end>
 
 =>a72
-J'ai vérifié la pompe hydraulique, mais il y avait une erreur concernant une brèche dans le pipeline.<end>
+J'ai vérifié la pompe hydraulique, mais y avait une erreur, une brèche dans la conduite.<end>
 
 =>q73_original
 Oh, so that's a problem. Well, see if you can follow the pipes and see where they're damaged. Maybe you can find a way fix it somehow, if it's not too severe?<end>
 
 =>q73
-C'est un problème. Voyez si vous pouvez suivre les tuyaux et voir où ils sont endommagés. Tu peux peut-être trouver un moyen de le réparer, si ce n'est pas trop grave ?<end>
+Ah, ça c'est un problème. Bon, vois si tu peux suivre les tuyaux et trouver où ils sont abîmés. Tu pourras peut-être les réparer, si c'est pas trop grave ?<end>
 
 =>q74_original
 Check the maintenance room or the storage, maybe you can find something there to help you check the pip-- I mean fix the pipes! Fix the pipes!<end>
 
 =>q74
-Vérifiez la salle d'entretien ou le stockage, peut-être que vous pouvez trouver quelque chose là pour vous aider à vérifier le pip-- Je veux dire réparer les tuyaux! Réparez les tuyaux !<end>
+Regarde dans la salle d'entretien ou le stockage, tu trouveras peut-être de quoi t'aider à vérifier le tuy-- Je veux dire réparer les tuyaux ! Répare les tuyaux !<end>
 
 =>a75_original
 I checked the hydraulic generator and it looks to me that some parts are broken.<end>
 
 =>a75
-J'ai vérifié le générateur hydraulique et il me semble que certaines pièces sont cassées.<end>
+J'ai vérifié le générateur hydraulique, et on dirait que certaines pièces sont cassées.<end>
 
 =>q76_original
 Oh, that is not good. Not good at all! ::She pauses for a few seconds.:: Hey, I got an idea: We can repair the generator together; I can guide you through the whole process; I've worked on hydraulic generators before, which is *incredibly* convenient. But, if something seems broken, then our best bet is to try to find a replacement before anything else.<end>
 
 =>q76
-Ce n'est pas bon. Pas bon du tout ! ::Elle s'arrête quelques secondes.:: J'ai une idée : nous pouvons réparer le générateur ensemble ; je peux vous guider tout au long du processus ; j'ai déjà travaillé sur des générateurs hydrauliques, ce qui est *incroyablement* pratique. Mais, si quelque chose semble cassé, alors notre meilleur pari est d'essayer de trouver un remplacement avant toute autre chose.<end>
+Oh, c'est pas bon. Pas bon du tout ! ::Elle s'arrête quelques secondes.:: Hé, j'ai une idée : on peut réparer le générateur ensemble. Je te guide tout du long. J'ai déjà bossé sur des générateurs hydrauliques, ça tombe *incroyablement* bien. Mais si un truc a l'air cassé, le mieux c'est d'abord de trouver une pièce de rechange.<end>
 
 =>q77_original
 My best guess is that there could be some spare parts either in the storage or in the maintenance room. Check them both out.<end>
 
 =>q77
-Ma meilleure idée est qu'il pourrait y avoir des pièces de rechange dans le rangement ou dans la salle d'entretien. Regarde les deux.<end>
+À mon avis, y a des pièces de rechange dans le stockage ou dans la salle d'entretien. Fouille les deux.<end>
 
 =>a78_original
 I have them right here with me, and I'm in the generator room right now.<end>
 
 =>a78
-Je les ai ici avec moi, et je suis dans la salle des générateurs en ce moment.<end>
+Je les ai sur moi, et je suis dans la salle des générateurs en ce moment.<end>
 
 =>q79_original
 Lovely. ::She takes a deep breath.:: Okay, listen carefully: First, I need you to explain to me what you see in there...<end>
 
 =>q79
-Magnifique. ::Elle prend une profonde inspiration.:: D'abord, expliquez-moi ce que vous voyez là-dedans...<end>
+Chouette. ::Elle prend une grande inspiration.:: Ok, écoute bien : d'abord, il faut que tu me décrives ce que tu vois là-dedans...<end>
 
 =>a80_original
 ::Start the repairs.::<end>
 
 =>a80
-::Commencez les réparations.::<end>
+::Commencer les réparations.::<end>
 
 =>a81_original
 I have them right here with me.<end>
 
 =>a81
-Je les ai ici avec moi.<end>
+Je les ai sur moi.<end>
 
 =>q82_original
 Lovely! Call me when you're near the generator so that we can start working on it.<end>
 
 =>q82
-Magnifique ! Appelle-moi quand tu seras près du générateur pour qu'on puisse y travailler.<end>
+Chouette ! Appelle-moi quand t'es près du générateur, qu'on s'y mette.<end>
 
 =>a83_original
 Got it. Talk to you later.<end>
 
 =>a83
-Compris. A tout à l'heure.<end>
+Compris. À tout à l'heure.<end>
 
 =>a84_original
 I have some generator parts with me.<end>
 
 =>a84
-J'ai des pièces de générateur avec moi.<end>
+J'ai des pièces de générateur sur moi.<end>
 
 =>a85_original
 I'm in the generator room, and have the necessary parts.<end>
 
 =>a85
-Je suis dans la salle des générateurs, et j'ai les pièces nécessaires.<end>
+Je suis dans la salle des générateurs, et j'ai les pièces qu'il faut.<end>
 
 =>a86_original
 I can't start the hydraulic generator, it said that the hydraulic fluid levels are low.<end>
 
 =>a86
-Je ne peux pas démarrer le générateur hydraulique, il a dit que les niveaux de fluide hydraulique sont bas.<end>
+J'arrive pas à démarrer le générateur hydraulique, il indique que le niveau de fluide hydraulique est trop bas.<end>
 
 =>q87_original
 Yeah, we've gotta fix those pipes and start the pump; the generator can't work without it.<end>
 
 =>q87
-On doit réparer ces tuyaux et démarrer la pompe, le générateur ne peut pas fonctionner sans.<end>
+Ouais, faut qu'on répare ces tuyaux et qu'on démarre la pompe. Le générateur peut pas marcher sans.<end>
 
 =>q88_original
 Drats, problems everywhere.<end>
 
 =>q88
-Des problèmes partout.<end>
+Mince, des problèmes partout.<end>
 
 =>q89_original
 Hmm... check the pumping room in Sector 2.<end>
 
 =>q89
-Hmm... Vérifiez la salle de pompage du secteur 2.<end>
+Hmm... jette un œil à la salle de pompage du secteur 2.<end>
 
 =>q90_original
 It's gotta be that.<end>
@@ -554,25 +554,25 @@ It's gotta be that.<end>
 I'm roaming the corridors.<end>
 
 =>a91
-Je pars dans les couloirs.<end>
+Je traîne dans les couloirs.<end>
 
 =>q92_original
 Understood. Call me when you're somewhere specific.<end>
 
 =>q92
-Compris. Appelez-moi quand vous serez précis.<end>
+Compris. Appelle-moi quand t'es quelque part de précis.<end>
 
 =>q93_original
 If you need my help, that is.<end>
 
 =>q93
-Si tu as besoin de mon aide, c'est ça.<end>
+Enfin, si t'as besoin d'aide.<end>
 
 =>a94_original
 I'm in the vents.<end>
 
 =>a94
-Je suis dans les ventilations.<end>
+Je suis dans les conduits.<end>
 
 =>a95_original
 I'm near the elevator.<end>
@@ -584,13 +584,13 @@ Je suis près de l'ascenseur.<end>
 Okay, I don't think there is much to be done there right now.<end>
 
 =>q96
-Je ne pense pas qu'il y ait beaucoup à faire là-bas.<end>
+Ok, je pense pas qu'il y ait grand-chose à faire là pour l'instant.<end>
 
 =>q97_original
 Unless you wanna try climbing up, but it looks pretty high...<end>
 
 =>q97
-A moins que tu veuilles grimper, mais ça a l'air assez haut...<end>
+Sauf si tu veux essayer de grimper, mais ça a l'air plutôt haut...<end>
 
 =>a98_original
 I'll call you later.<end>
@@ -602,23 +602,22 @@ Je te rappelle plus tard.<end>
 Okay, please take care, and call me if you need help.<end>
 
 =>q99
-Prenez soin de vous et appelez-moi si vous avez besoin d'aide.<end>
+Ok, prends soin de toi, et appelle-moi si t'as besoin d'aide.<end>
 
 =>a100_original
 ::End Conversation::<end>
 
 =>a100
-::Conversation finale::<end>
+::Terminer la conversation.::<end>
 
 =>a101_original
 It wasn't the most pleasant landing, but at least I'm still alive. Where am I?<end>
 
 =>a101
-Ce n'était pas l'atterrissage le plus agréable, mais au moins je suis encore en vie. Où suis-je ?<end>
+L'atterrissage était pas terrible, mais au moins je suis encore en vie. Je suis où ?<end>
 
 =>q102_original
 I read you.<end>
 
 =>q102
-Je vous ai lu.<end>
-
+Je t'entends.<end>

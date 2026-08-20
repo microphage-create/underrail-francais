@@ -10,21 +10,21 @@ Notes: Subject suffers from multiple severe respiratory issues (details under co
 Vital Status: Deceased::<end>
 
 =>q1
-::Nom du sujet: B-004
+::Nom du sujet : B-004
 
-Âge: 6 ans
+Âge : 6
 
-Sexe: Homme
+Sexe : Masculin
 
-Notes: Le sujet souffre de multiples problèmes respiratoires graves (détails sous le code T-889-L). À surveiller jusqu'à nouvel ordre.
+Notes : Le sujet souffre de plusieurs troubles respiratoires graves (détails sous le code T-889-L). À garder sous maintien vital et à surveiller jusqu'à nouvel ordre.
 
-État vital: Décédé::<end>
+État vital : Décédé::<end>
 
 =>a2_original
 ::Exit::<end>
 
 =>a2
-::Sortie::<end>
+::Quitter::<end>
 
 =>q3_original
 ::Subject Name: B-004
@@ -38,27 +38,27 @@ Notes: Subject suffers from multiple severe respiratory issues (details under co
 Vital Status: Severe::<end>
 
 =>q3
-::Nom du sujet: B-004
+::Nom du sujet : B-004
 
-Âge: 6 ans
+Âge : 6
 
-Sexe: Homme
+Sexe : Masculin
 
-Notes: Le sujet souffre de multiples problèmes respiratoires graves (détails sous le code T-889-L). À surveiller jusqu'à nouvel ordre.
+Notes : Le sujet souffre de plusieurs troubles respiratoires graves (détails sous le code T-889-L). À garder sous maintien vital et à surveiller jusqu'à nouvel ordre.
 
-État vital : sévère::<end>
+État vital : Grave::<end>
 
 =>a4_original
 ::Disable life support::<end>
 
 =>a4
-::Désactiver le maintien de la vie::<end>
+::Couper le maintien vital::<end>
 
 =>q5_original
 ::Are you sure you want to disable life support?::<end>
 
 =>q5
-::Désactiver le maintien de vie ?::<end>
+::Couper le maintien vital ?::<end>
 
 =>a6_original
 ::Yes::<end>
@@ -70,7 +70,7 @@ Notes: Le sujet souffre de multiples problèmes respiratoires graves (détails s
 ::Life support disabled::<end>
 
 =>q7
-::Aide à la vie handicapés::<end>
+::Maintien vital coupé::<end>
 
 =>q8_original
 ::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
@@ -78,13 +78,12 @@ Notes: Le sujet souffre de multiples problèmes respiratoires graves (détails s
 Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
 
 =>q8
-::Au moment où vous éteignez le support de vie, la créature à l'intérieur du récipient de verre ouvre ses yeux et commence à bouger. Ses bras faibles se déplacent avec peu de coordination alors qu'il se presse autour de sa prochaine tombe. Il vous regarde avec ses yeux obscurs, sombres et affligés avant qu'il ne renonce.
+::Dès que vous coupez le maintien vital, la créature dans le caisson de verre ouvre les yeux et se met à bouger. Ses bras trop faibles s'agitent sans coordination tandis qu'elle se débat dans ce qui va être sa tombe. Elle vous fixe de ses yeux troubles, sombres et affolés, puis elle lâche prise.
 
-Son corps boite, sa tête tombe vers l'avant - ses yeux restent ouverts mais incapables de voir.::<end>
+Son corps s'affaisse, sa tête bascule en avant - ses yeux restent ouverts, mais ils ne voient plus.::<end>
 
 =>a9_original
 ::No::<end>
 
 =>a9
-::No::<end>
-
+::Non::<end>

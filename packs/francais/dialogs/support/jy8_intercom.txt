@@ -2,7 +2,7 @@
 ::You ring the intercom but no one answers.::<end>
 
 =>q1
-::Vous sonnez l'interphone mais personne ne répond.::<end>
+::Tu sonnes à l'interphone, mais personne ne répond.::<end>
 
 =>q2_original
 ::You ring the intercom. A croaky voice answers.:: 
@@ -10,9 +10,9 @@
 I haven't seen you before, stranger. Came to do some gamblin'?<end>
 
 =>q2
-::Vous sonnez l'interphone. Une voix croquée répond.::
+::Tu sonnes à l'interphone. Une voix éraillée répond.::
 
-Je ne t'ai jamais vu, étranger. Tu es venu faire du gamblin ?<end>
+Je t'ai jamais vu, étranger. T'es $(#venu/venue) pour jouer ?<end>
 
 =>q3_original
 <end>
@@ -24,19 +24,19 @@ Je ne t'ai jamais vu, étranger. Tu es venu faire du gamblin ?<end>
 Yeah, can I come in?<end>
 
 =>a4
-Je peux entrer ?<end>
+Ouais, je peux entrer ?<end>
 
 =>q5_original
 Sure, sure, but all new members must pay twenty charons admittance fee first.<end>
 
 =>q5
-Bien sûr, bien sûr, mais tous les nouveaux membres doivent payer 20 charons d'entrée d'abord.<end>
+Ouais, ouais, mais les nouveaux, ils paient vingt charons d'entrée d'abord.<end>
 
 =>a6_original
 Alright, fair enough. ::Slip the charons through the designated crack in the door.::<end>
 
 =>a6
-Très bien. ::Faites glisser les charons à travers la fissure désignée dans la porte.::<end>
+Ça marche. ::Glisser les charons dans la fente prévue de la porte.::<end>
 
 =>q7_original
 Welcome aboard.<end>
@@ -48,13 +48,13 @@ Bienvenue à bord.<end>
 I'll have to think about this.<end>
 
 =>a8
-Je vais devoir y réfléchir.<end>
+Faut que j'y réfléchisse.<end>
 
 =>q9_original
 Yeh. You do that.<end>
 
 =>q9
-Oui. Fais ça.<end>
+Ouais. Tu fais ça.<end>
 
 =>a10_original
 Sorry, wrong house.<end>
@@ -66,23 +66,23 @@ Désolé, mauvaise maison.<end>
 Decided to pay the fee?<end>
 
 =>q11
-Décidé de payer les frais?<end>
+T'as décidé de payer l'entrée ?<end>
 
 =>a12_original
 Yeah, here's the charons. ::Slip the charons through the designated crack in the door.::<end>
 
 =>a12
-Voilà les charons. ::Faites glisser les charons à travers la fissure désignée dans la porte.::<end>
+Ouais, voilà les charons. ::Glisser les charons dans la fente prévue de la porte.::<end>
 
 =>a13_original
 Maybe some other time.<end>
 
 =>a13
-Peut-être une autre fois.<end>
+Une autre fois, p't-être.<end>
 
 =>q14_original
 Yeh.<end>
 
 =>q14
-Oui.<end>
+Ouais.<end>
 

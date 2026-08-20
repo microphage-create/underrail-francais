@@ -22,33 +22,33 @@
         In the coins - back the hopper to finish either first or second; first place means full payment, second place is reduced payment::<end>
 
 =>q1
-::Bienvenue à *Hopperdrome*, l'endroit pour tous vos besoins de course de sauteur!
+::Bienvenue au *Hopperdrome*, tout pour les courses de sauteurs !
 
-*Troisième Sud Underrail Hop-off - derniers événements du jour*:
-- Pentapus L'acte de jonglage de Tom
-- Concours de bière
-- *Hop-off Final - Course de 10 tours*
-- Programme musical : Septaphonistes itinérants, Fatigue des métaux, 10011001
-*Hoppers*:
-$(interface xpbl hopperRacing hopper1info)
----------------------------------------------------------------------------------
-$(interface xpbl hopperRacing hopper2info)
----------------------------------------------------------------------------------
-$(interface xpbl hopperRacing hopper3info)
----------------------------------------------------------------------------------
-$(interface xpbl hopperRacing hopper4info)
----------------------------------------------------------------------------------
-* Types d'attente*:
-Sur le nez - dos la sauteur pour terminer en premier
-À la queue - derrière la sauteur pour finir deuxième seulement
-Lent show - dos à la sauteur pour terminer troisième seulement
-Dans les pièces - le dos de la sauteur pour finir soit premier ou deuxième; la première place signifie le paiement intégral, la deuxième place est le paiement réduit::<end>
+*Troisième Hop-off du South Underrail - programme du dernier jour* :
+        - Numéro de jonglage de ferraille de Pentapus Tom
+        - Concours de bibine
+        - *Finale du Hop-off - course en 10 tours*
+        - Programme musical : The Traveling Septaphonists, Metal Fatigue, 10011001
+*Sauteurs* :
+        $(interfacing_xpbl_hopperRacing_hopper1info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper2info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper3info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper4info)
+        ------------------------------------------------------------------
+*Types de paris* :
+        Sur le nez - parier uniquement sur la première place
+        À la queue - parier uniquement sur la deuxième place
+        La troisième - parier uniquement sur la troisième place
+        Dans les charons - parier sur la première ou la deuxième ; premier = paiement complet, deuxième = paiement réduit::<end>
 
 =>a2_original
 ::Flip the leaflet.::<end>
 
 =>a2
-::Flipez la notice.::<end>
+::Retourner le feuillet::<end>
 
 =>q3_original
 ::*How does fixed-odds betting work*: Here at the Hopperdrome we use decimal odds. This type of odds takes into account that the bettor must first part with their part of the stake to make a bet. Therefore, the decimal odds of an outcome are equivalent to one plus the decimal value of the fractional odds.
@@ -67,30 +67,29 @@ $(interfacing_xpbl_hopperRacing_hopper4quotas)
 -------------------------------------------------::<end>
 
 =>q3
-::*Comment fonctionnent les paris fixes ?*: Ici au Hopperdrome nous utilisons les probabilités décimales. Ce type de cotes tient compte du fait que le parieur doit d'abord faire partie de la mise pour faire un pari. Par conséquent, les cotes décimales d'un résultat sont équivalentes à une plus la valeur décimale des cotes fractionnelles.
-Exemple : Parier à 1,01 cote signifie que pour 100 charons, le parieur gagne un charon, ou 1% du pari.
+::*Comment marchent les paris à cote fixe* : Ici, au Hopperdrome, on utilise des cotes décimales. Ce type de cote tient compte du fait que le parieur doit d'abord se séparer de sa mise pour placer un pari. La cote décimale d'un résultat équivaut donc à un plus la valeur décimale de la cote fractionnaire.
+Exemple : une cote à 1,01 signifie que pour 100 charons misés, le parieur en gagne un, soit 1 % de la mise.
 
-Voici une liste de cotes pour chaque sauteur de course, commandée par types de paris (au nez, à la queue, lent spectacle et dans les pièces, respectivement).
+Voici les cotes de chaque sauteur, dans l'ordre des types de paris (sur le nez, à la queue, la troisième et dans les charons).
 
 -------------------------------------------------
-$(interface xpbl hopperRacing hopper1quotas)
+$(interfacing_xpbl_hopperRacing_hopper1quotas)
 -------------------------------------------------
-$(interface xpbl hopperRacing hopper2quotas)
+$(interfacing_xpbl_hopperRacing_hopper2quotas)
 -------------------------------------------------
-$(interface xpbl hopperRacing hopper3quotas)
+$(interfacing_xpbl_hopperRacing_hopper3quotas)
 -------------------------------------------------
-$(interface xpbl hopperRacing hopper4quotas)
+$(interfacing_xpbl_hopperRacing_hopper4quotas)
 -------------------------------------------------::<end>
 
 =>a4_original
 ::Flip the leaflet.::<end>
 
 =>a4
-::Flipez la notice.::<end>
+::Retourner le feuillet::<end>
 
 =>a5_original
 ::Put it away.::<end>
 
 =>a5
-::Range ça.::<end>
-
+::Ranger::<end>

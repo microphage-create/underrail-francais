@@ -8,25 +8,25 @@
 $(context.npc_xpbl_oldfield_playerName)? Oldfield speaking. Over.<end>
 
 =>q2
-$(context.npc_xpbl_oldfield_playerName)? Oldfield parlant. À vous.<end>
+$(context.npc_xpbl_oldfield_playerName) ? Ici Oldfield. À vous.<end>
 
 =>a3_original
 I hear you loud and clear, Professor. Over.<end>
 
 =>a3
-Je vous entends fort et clair, Professeur. À vous.<end>
+Je vous entends fort et clair, professeur. À vous.<end>
 
 =>q4_original
 Excellent. I have work for you. We've been looking through some data in the Keep, or as we now know it as the Arch Island Keep, and have uncovered the locations of a couple of facilities I'd like you to investigate.<end>
 
 =>q4
-Parfait. J'ai du travail pour toi. Nous avons examiné certaines données dans le Keep, ou comme nous le connaissons maintenant comme le Keep Arch Island, et avons découvert les emplacements de quelques installations que j'aimerais que vous cherchiez.<end>
+Parfait. J'ai du travail pour vous. On a croisé des données dans le Keep, ou comme on l'appelle maintenant l'Arch Island Keep, et on a mis la main sur l'emplacement de quelques installations que j'aimerais que vous inspectiez.<end>
 
 =>q5_original
 The first one is the Nexus of Technology, a research facility located at coordinates K7. It should be your primary target for now, as we believe that, in addition to any potential technology we might uncover, it contains invaluable information regarding the other facilities and Lemurian history.<end>
 
 =>q5
-Le premier est le Nexus of Technology, un centre de recherche situé aux coordonnées K7. Il devrait être votre cible principale pour l'instant, car nous croyons que, en plus de toute technologie potentielle que nous pourrions découvrir, il contient des informations inestimables concernant les autres installations et l'histoire Lemurian.<end>
+La première, c'est le Nexus of Technology, un centre de recherche aux coordonnées K7. Ça devrait être votre cible principale pour l'instant : en plus de la technologie qu'on pourrait y trouver, on pense qu'il contient des informations inestimables sur les autres installations et sur l'histoire lémurienne.<end>
 
 =>q6_original
 Yes, Lemuria - this is the name NFT gave to this project as well as the whole region itself. 
@@ -34,51 +34,51 @@ Yes, Lemuria - this is the name NFT gave to this project as well as the whole re
 Lemuria... But more on that later.<end>
 
 =>q6
-Oui, Lemuria - c'est le nom que NFT a donné à ce projet ainsi qu'à toute la région elle-même.
+Oui, Lemuria - c'est le nom que NFT a donné à ce projet, et à toute la région.
 
-Lemuria... Mais plus tard.<end>
+Lemuria... On y reviendra.<end>
 
 =>a7_original
 Gee, Professor, you've been really busy down there.<end>
 
 =>a7
-Professeur, vous avez été très occupé.<end>
+Dis donc, professeur, vous n'avez pas chômé, là-dessous.<end>
 
 =>q8_original
 By the caverns, Arch Island Keep is a genuine gold mine of ancient history. In all honesty, if I don't get a heart attack now from all the excitement I don't think I ever will.<end>
 
 =>q8
-Par les cavernes, Arch Island Keep est une véritable mine d'or de l'histoire ancienne. En toute honnêteté, si je ne reçois pas une crise cardiaque maintenant de toute l'excitation je ne pense pas que je le ferai jamais.<end>
+Par les cavernes, l'Arch Island Keep est une vraie mine d'or pour l'histoire ancienne. Honnêtement, si je ne fais pas de crise cardiaque là, avec toute cette excitation, je n'en ferai jamais.<end>
 
 =>q9_original
 Regardless, besides <end>
 
 =>q9
-Peu importe, outre <end>
+Quoi qu'il en soit, outre <end>
 
 =>q10_original
 Nexus of Technology, there is another location we have info on - Crimson Meadow Horticulture Center, located in H7; it's that misty red shore north-east of our camp. All of these red plants seem to originate from there. But be warned: Chief told me his sec-troopers encountered dangerous insectoid creatures over there.<end>
 
 =>q10
-Nexus of Technology, il ya un autre emplacement nous avons des infos sur - Centre d'horticulture Crimson Meadow, situé dans H7; c'est cette brumeuse rive rouge au nord-est de notre camp. Toutes ces plantes rouges semblent provenir de là. Mais soyez averti : le chef m'a dit qu'il avait rencontré des créatures insectoïdes dangereuses là-bas.<end>
+Nexus of Technology, on a une autre position : Crimson Meadow Horticulture Center, en H7. C'est cette rive rouge brumeuse au nord-est de notre camp. Toutes ces plantes rouges semblent venir de là. Mais attention : le chef m'a dit que ses sec-troopers y avaient croisé des créatures insectoïdes dangereuses.<end>
 
 =>q11_original
 $(context.npc_xpbl_oldfield_playerName), there is one more important piece of information I need to give you. All of these coordinates came from a dispatching console found in Arch Island Keep. On it we found traffic logs between Arch Island Keep and these other locations; each of these has marked coordinates. Other facilities must have them as well, so if you find them in working condition, get us those coordinates. It will help us immensely.<end>
 
 =>q11
-$(context.npc_xpbl_oldfield_playerName), il y a une autre information importante que je dois vous donner. Toutes ces coordonnées provenaient d'une console d'expédition trouvée à Arch Island Keep. Nous y avons trouvé des journaux de trafic entre Arch Island Keep et ces autres endroits; chacun d'eux a marqué des coordonnées. D'autres installations doivent aussi les avoir, donc si vous les trouvez en état de travail, obtenez-nous ces coordonnées. Cela nous aidera énormément.<end>
+$(context.npc_xpbl_oldfield_playerName), il me reste un point important. Toutes ces coordonnées venaient d'une console de dispatch trouvée à l'Arch Island Keep. Dessus, on a récupéré les journaux de trafic entre l'Arch Island Keep et ces autres sites ; chacun a des coordonnées marquées. Les autres installations doivent en avoir aussi. Si vous en trouvez une en état de marche, ramenez-nous ces coordonnées. Ça nous aidera énormément.<end>
 
 =>q12_original
 That is all. Best of luck, $(context.npc_xpbl_oldfield_playerName). Contact me over the navcom or in person once you've uncovered something. Oldfield out.<end>
 
 =>q12
-C'est tout. Bonne chance, $(context.npc_xpbl_oldfield_playerName). Contactez-moi sur le navcom ou en personne une fois que vous avez découvert quelque chose. Oldfield sortie.<end>
+C'est tout. Bonne chance, $(context.npc_xpbl_oldfield_playerName). Contactez-moi au navcom ou en personne dès que vous aurez trouvé quelque chose. Oldfield, terminé.<end>
 
 =>a13_original
 Will do. Out.<end>
 
 =>a13
-Ça ira. Dehors.<end>
+C'est noté. Terminé.<end>
 
 =>q14_original
 ::You look at the navcom device.::<end>
@@ -96,7 +96,7 @@ Will do. Out.<end>
 ::Select channel.::<end>
 
 =>a16
-::Sélectionnez le canal.::<end>
+::Sélectionner le canal::<end>
 
 =>q17_original
 ::Select channel::<end>
@@ -126,7 +126,7 @@ Will do. Out.<end>
 ::Static.::<end>
 
 =>q21
-::Statique.::<end>
+::Grésillements.::<end>
 
 =>q22_original
 <end>
@@ -144,7 +144,7 @@ Oui ? ::Vous entendez des coups de feu en arrière-plan.::<end>
 What's your status? Over.<end>
 
 =>a24
-Quel est votre statut ? À vous.<end>
+Votre situation ? À vous.<end>
 
 =>q25_original
 <end>
@@ -158,15 +158,15 @@ What th--?
 It's you.<end>
 
 =>q26
-Quoi ?
+Qu'est-ce que-- ?
 
-C'est toi.<end>
+C'est vous.<end>
 
 =>q27_original
 ::Static.::<end>
 
 =>q27
-::Statique.::<end>
+::Grésillements.::<end>
 
 =>q28_original
 <end>
@@ -178,7 +178,7 @@ C'est toi.<end>
 ::Put the device back in your pocket.::<end>
 
 =>a29
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>q30_original
 Good for the time being. Over. ::Gunfire continues.::<end>
@@ -196,19 +196,19 @@ Tant mieux pour le moment. À vous. ::Les coups de feu continuent.::<end>
 Roger. Hang in there. $(context.player.Name) out.<end>
 
 =>a32
-Bien reçu. Accroche-toi. $(context.player.Name) sortie.<end>
+Bien reçu. Tenez bon. $(context.player.Name), terminé.<end>
 
 =>q33_original
 Our numbers are getting low, but we're still alive and kicking. Over. ::Gunfire continues.::<end>
 
 =>q33
-Nos chiffres sont bas, mais on est toujours en vie et on frappe. À vous. ::Les coups de feu continuent.::<end>
+On est de moins en moins nombreux, mais on tient encore. À vous. ::Les coups de feu continuent.::<end>
 
 =>a34_original
 $(context.player.Name) out.<end>
 
 =>a34
-$(context.player.Name) sorti.<end>
+$(context.player.Name), terminé.<end>
 
 =>a35_original
 You are all going to die.<end>
@@ -226,19 +226,19 @@ Vous allez tous mourir.<end>
 ::Say nothing.::<end>
 
 =>a37
-::Ne dis rien.::<end>
+::Ne rien dire::<end>
 
 =>q38_original
 There's no need to use the navcom, $(context.player.Name), I'm right here. Out.<end>
 
 =>q38
-Inutile d'utiliser le navcom, $(context.player.Name), je suis là. Dehors.<end>
+Pas besoin du navcom, $(context.player.Name), je suis juste là. Terminé.<end>
 
 =>q39_original
 Marcus here. Over.<end>
 
 =>q39
-Marcus ici. À vous.<end>
+Ici Marcus. À vous.<end>
 
 =>q40_original
 <end>
@@ -250,7 +250,7 @@ Marcus ici. À vous.<end>
 Hey, Marky.<end>
 
 =>a41
-Bonjour, Marky.<end>
+Hé, Marky.<end>
 
 =>q42_original
 Goodbye, $(context.player.Name). <end>
@@ -262,13 +262,13 @@ Au revoir, $(context.player.Name). <end>
 ::Static.::<end>
 
 =>q43
-::Statique.::<end>
+::Grésillements.::<end>
 
 =>a44_original
 I found some old naval mines we could deploy around the island, over.<end>
 
 =>a44
-J'ai trouvé de vieilles mines navales que nous pourrions déployer autour de l'île.<end>
+J'ai trouvé de vieilles mines navales. On pourrait les déployer autour de l'île. À vous.<end>
 
 =>q45_original
 <end>
@@ -286,19 +286,19 @@ Des mines navales ? Où ?<end>
 At J1. They appear to be in good condition. I just need you to send someone to pick them up, over.<end>
 
 =>a47
-À J1. Ils semblent en bon état. J'ai juste besoin que tu envoies quelqu'un les chercher.<end>
+À J1. Elles ont l'air en bon état. J'ai besoin que vous envoyiez quelqu'un les récupérer. À vous.<end>
 
 =>q48_original
 We don't have any sec-troopers left to spare. <end>
 
 =>q48
-Nous n'avons plus de parachutistes à épargner. <end>
+On n'a plus de sec-troopers à détacher. <end>
 
 =>q49_original
 Especially considering they'd have to go through pirate territory. <end>
 
 =>q49
-Surtout s'ils devaient traverser le territoire des pirates. <end>
+Surtout s'ils doivent traverser le territoire pirate. <end>
 
 =>q50_original
 Over.<end>
@@ -310,7 +310,7 @@ Over.<end>
 What do you propose I do, over?<end>
 
 =>a51
-Qu'est-ce que tu me proposes ?<end>
+Vous me proposez quoi, alors ? À vous.<end>
 
 =>q52_original
 Uh, perhaps there is some other way... 
@@ -326,31 +326,31 @@ Il y a peut-être un autre moyen...
 We haven't seen him in a while, but maybe that old ferryman would be willing to help you.<end>
 
 =>q53
-On ne l'a pas vu depuis longtemps, mais ce vieux ferry serait peut-être prêt à vous aider.<end>
+On ne l'a pas vu depuis longtemps, mais ce vieux Ferryman serait peut-être prêt à vous aider.<end>
 
 =>q54_original
 He's been uncooperative so far, but who knows. That's all I could think of. Over.<end>
 
 =>q54
-Il n'a pas coopéré jusqu'ici, mais qui sait. C'est tout ce à quoi je pensais. À vous.<end>
+Il n'a pas trop joué le jeu jusqu'ici, mais qui sait. C'est tout ce qui me vient. À vous.<end>
 
 =>a55_original
 I'll see what I can do. Out.<end>
 
 =>a55
-Je vais voir ce que je peux faire. Dehors.<end>
+Je vais voir ce que je peux faire. Terminé.<end>
 
 =>q56_original
 Maybe that old ferryman would be willing to help you. <end>
 
 =>q56
-Peut-être que ce vieux ferry serait prêt à vous aider. <end>
+Peut-être que ce vieux Ferryman serait prêt à vous aider. <end>
 
 =>q57_original
 Having sec-troopers out of the camp at a moment like this is far too risky. <end>
 
 =>q57
-Le fait d'avoir des parachutistes hors du camp à un moment comme celui-ci est beaucoup trop risqué. <end>
+Sortir des sec-troopers du camp, à un moment pareil, c'est beaucoup trop risqué. <end>
 
 =>q58_original
 It's too dangerous to go through the pirate territory.<end>
@@ -362,7 +362,7 @@ C'est trop dangereux de traverser le territoire des pirates.<end>
 I've negotiated a deal with the pirates. You'll have to pay a toll, and there can't be any armed men on the boats, over.<end>
 
 =>a59
-J'ai négocié un accord avec les pirates. Vous devrez payer un péage, et il ne peut pas y avoir d'hommes armés sur les bateaux.<end>
+J'ai négocié un accord avec les pirates. Il faudra payer un péage, et pas d'hommes armés sur les bateaux. À vous.<end>
 
 =>q60_original
 That sounds far too risky...<end>
@@ -374,7 +374,7 @@ That sounds far too risky...<end>
 They allowed me passage through their territory, over.<end>
 
 =>a61
-Ils m'ont permis de traverser leur territoire.<end>
+Ils m'ont laissé traverser leur territoire. À vous.<end>
 
 =>q62_original
 If you say so. In that case I'll dispatch some laborers to the location you specified. <end>
@@ -392,31 +392,31 @@ Over.<end>
 The area has been secured, but still be on the lookout for any creepers. The whole region is infested with them, over.<end>
 
 =>a64
-La zone a été sécurisée, mais soyez toujours à l'affût de tous les reptiles. Toute la région est infestée par eux.<end>
+La zone est sécurisée, mais dites-leur de surveiller les creepers. Toute la région en est infestée. À vous.<end>
 
 =>q65_original
 Roger that. Dispatching units now. Out.<end>
 
 =>q65
-Bien reçu. Des dépêches. Dehors.<end>
+Bien reçu. J'envoie les unités. Terminé.<end>
 
 =>a66_original
 Out.<end>
 
 =>a66
-Dehors.<end>
+Terminé.<end>
 
 =>a67_original
 The whole region is infested with creepers, and so is the area where the mines are. Tell them to be on the lookout, over.<end>
 
 =>a67
-Toute la région est infestée de rampants, tout comme la zone où se trouvent les mines. Dites-leur d'être en garde à vue.<end>
+Toute la région est infestée de creepers, et la zone des mines aussi. Dites-leur d'ouvrir l'œil. À vous.<end>
 
 =>a68_original
 The way to J1 is free. Don't you worry about the pirates, over.<end>
 
 =>a68
-Le chemin vers J1 est libre. Ne t'inquiète pas pour les pirates.<end>
+Le chemin vers J1 est libre. Ne vous inquiétez pas pour les pirates. À vous.<end>
 
 =>q69_original
 In that case I'll dispatch an armed transport to the location you specified. <end>
@@ -428,25 +428,25 @@ Dans ce cas, j'enverrai un transport armé à l'endroit que vous avez indiqué. 
 What do you propose I do, over?<end>
 
 =>a70
-Qu'est-ce que tu me proposes ?<end>
+Vous me proposez quoi, alors ? À vous.<end>
 
 =>a71_original
 I've negotiated a deal with the pirates so we can get those mines. The conditions were that any passing boat has to pay a toll, and there can't carry any armed men, over.<end>
 
 =>a71
-J'ai négocié un accord avec les pirates pour qu'on puisse avoir ces mines. Les conditions étaient que tout bateau de passage doit payer un péage, et il ne peut pas transporter d'hommes armés, à plus.<end>
+J'ai négocié un accord avec les pirates pour qu'on puisse récupérer ces mines. Conditions : tout bateau de passage paie un péage, et pas d'hommes armés à bord. À vous.<end>
 
 =>a72_original
 The way to J1 is pirate-free. Go and get those mines, over.<end>
 
 =>a72
-Le chemin vers J1 est sans pirate. Va chercher ces mines.<end>
+Le chemin vers J1 est libre de pirates. Allez chercher ces mines. À vous.<end>
 
 =>a73_original
 ::Channel 2 (Chief Briggs)::<end>
 
 =>a73
-::Chaîne 2 (Chef Briggs)::<end>
+::Canal 2 (Chef Briggs)::<end>
 
 =>q74_original
 <end>
@@ -476,97 +476,97 @@ Vous allez tous mourir.<end>
 I need backup. Can you spare any troops to attack the pirates, over?<end>
 
 =>a78
-J'ai besoin de renforts. Pouvez-vous épargner des troupes pour attaquer les pirates ?<end>
+J'ai besoin de renforts. Vous pouvez détacher des troupes pour attaquer les pirates ? À vous.<end>
 
 =>q79_original
 Negative. We're pinned down. I repeat: Negative, we're pinned down.<end>
 
 =>q79
-Négatif. On est coincés. Négatif, on est coincés.<end>
+Négatif. On est coincés. Je répète : négatif, on est coincés.<end>
 
 =>q80_original
 Lay low until we drive them away if you can; if not - you're on your own, soldier. Over.<end>
 
 =>q80
-Allongez-vous jusqu'à ce que nous les chassions si vous le pouvez; sinon - vous êtes seul, soldat. À vous.<end>
+Restez à couvert jusqu'à ce qu'on les repousse, si vous pouvez. Sinon, vous vous débrouillez, soldat. À vous.<end>
 
 =>a81_original
 I found the professor. Need extraction, over.<end>
 
 =>a81
-J'ai trouvé le professeur. Besoin d'extraction.<end>
+J'ai trouvé le professeur. Besoin d'extraction. À vous.<end>
 
 =>q82_original
 Negative. We're pinned down. Attempting extraction at this point would be too risky.<end>
 
 =>q82
-Négatif. On est coincés. La tentative d'extraction à ce stade serait trop risquée.<end>
+Négatif. On est coincés. Tenter une extraction maintenant, c'est trop risqué.<end>
 
 =>q83_original
 Lay low until we drive them away or find your own way out. Over.<end>
 
 =>q83
-Allongez-vous jusqu'à ce que nous les chassions ou trouvions votre propre sortie. À vous.<end>
+Restez à couvert jusqu'à ce qu'on les repousse, ou trouvez votre propre sortie. À vous.<end>
 
 =>q84_original
 What's your location, over?<end>
 
 =>q84
-Où êtes-vous ?<end>
+Votre position ? À vous.<end>
 
 =>a85_original
 On a small island at E4, over.<end>
 
 =>a85
-Sur une petite île à E4, plus loin.<end>
+Sur une petite île, E4. À vous.<end>
 
 =>q86_original
 Affirmative. We'll be right there. Out.<end>
 
 =>q86
-Affirmatif. Nous serons là. Dehors.<end>
+Affirmatif. On arrive. Terminé.<end>
 
 =>a87_original
 ::Wait.::<end>
 
 =>a87
-::Attendez.::<end>
+::Attendre::<end>
 
 =>a88_original
 At G3, near the main entrance. The nearby enemies have been neutralized, over.<end>
 
 =>a88
-A G3, près de l'entrée principale. Les ennemis voisins ont été neutralisés.<end>
+En G3, près de l'entrée principale. Les ennemis à proximité ont été neutralisés. À vous.<end>
 
 =>a89_original
 At G3, near the main entrance. The nearby enemies have been neutralized, and I'm about to open the gate for you, over.<end>
 
 =>a89
-A G3, près de l'entrée principale. Les ennemis voisins ont été neutralisés, et je vais ouvrir la porte pour vous.<end>
+En G3, près de l'entrée principale. Les ennemis à proximité ont été neutralisés, et je m'apprête à vous ouvrir la porte. À vous.<end>
 
 =>a90_original
 I'll contact you as I find a suitable extraction point. Over.<end>
 
 =>a90
-Je vous contacterai pour trouver un point d'extraction approprié. À vous.<end>
+Je vous contacte dès que j'ai un point d'extraction valable. À vous.<end>
 
 =>q91_original
 Affirmative, over.<end>
 
 =>q91
-Affirmatif, terminé.<end>
+Affirmatif. À vous.<end>
 
 =>q92_original
 We've commenced the attack. Assist the sec-troops in locating and extracting the professor. Briggs out.<end>
 
 =>q92
-Nous avons commencé l'attaque. Aider les groupes à localiser et extraire le professeur. Briggs sortie.<end>
+On a lancé l'attaque. Aidez les sec-troops à localiser et extraire le professeur. Briggs, terminé.<end>
 
 =>q93_original
 Speak to me in person.<end>
 
 =>q93
-Parle-moi en personne.<end>
+Parlez-moi en personne.<end>
 
 =>q94_original
 Briggs.<end>
@@ -584,7 +584,7 @@ Briggs.<end>
 'Sup, Chief-o?<end>
 
 =>a96
-Entendu, chef ?<end>
+Quoi de neuf, chef-o ?<end>
 
 =>q97_original
 We'll find you.<end>
@@ -596,7 +596,7 @@ Nous vous trouverons.<end>
 Commence the attack on the pirates! Now!<end>
 
 =>a98
-Commence l'attaque des pirates ! Tout de suite !<end>
+Lancez l'attaque contre les pirates ! Maintenant !<end>
 
 =>q99_original
 <end>
@@ -608,55 +608,55 @@ Commence l'attaque des pirates ! Tout de suite !<end>
 Affirmative. Out!<end>
 
 =>q100
-Affirmatif. Dehors !<end>
+Affirmatif. Terminé !<end>
 
 =>a101_original
 I'm interested in the camp's security status, over.<end>
 
 =>a101
-Je m'intéresse à la sécurité du camp.<end>
+Je veux le point sur la sécurité du camp. À vous.<end>
 
 =>q102_original
 The situation is bad. There are only a handful of sec-troopers left defending the camp. <end>
 
 =>q102
-La situation est mauvaise. Il ne reste plus qu'une poignée de croupiers pour défendre le camp. <end>
+La situation est mauvaise. Il ne reste plus qu'une poignée de sec-troopers pour défendre le camp. <end>
 
 =>q103_original
 Our firearm and ammunition supplies are <end>
 
 =>q103
-Nos armes à feu et munitions sont <end>
+Nos stocks d'armes à feu et de munitions sont <end>
 
 =>q104_original
 very good, <end>
 
 =>q104
-très bien, <end>
+très bons, <end>
 
 =>q105_original
 high-tech equipment supplies - <end>
 
 =>q105
-fournitures d'équipement de haute technologie - <end>
+ceux d'équipement high-tech - <end>
 
 =>q106_original
 very good, <end>
 
 =>q106
-très bien, <end>
+très bons, <end>
 
 =>q107_original
 medical supplies - <end>
 
 =>q107
-fournitures médicales <end>
+ceux de matériel médical - <end>
 
 =>q108_original
 very good. <end>
 
 =>q108
-Très bien. <end>
+très bons. <end>
 
 =>q109_original
 <end>
@@ -668,7 +668,7 @@ Très bien. <end>
 Our jet ski numbers are very good.<end>
 
 =>q110
-Nos numéros de jet ski sont très bons.<end>
+Notre parc de jet skis est en très bon état.<end>
 
 =>q111_original
 <end>
@@ -680,7 +680,7 @@ Nos numéros de jet ski sont très bons.<end>
 In addition to that we have lost<end>
 
 =>q112
-En outre, nous avons perdu<end>
+Et on a aussi perdu<end>
 
 =>q113_original
  Yahota.<end>
@@ -692,25 +692,25 @@ En outre, nous avons perdu<end>
 That is all, over.<end>
 
 =>q114
-C'est fini.<end>
+C'est tout. À vous.<end>
 
 =>q115_original
 ... some very good people.<end>
 
 =>q115
-... quelques très bonnes personnes.<end>
+... des gens très bien.<end>
 
 =>q116_original
 We have a sufficient number of jet skis left.<end>
 
 =>q116
-Il nous reste un nombre suffisant de jet skis.<end>
+Il nous reste assez de jet skis.<end>
 
 =>q117_original
 We have lost a large number of jet skis.<end>
 
 =>q117
-Nous avons perdu un grand nombre de jet skis.<end>
+On a perdu beaucoup de jet skis.<end>
 
 =>q118_original
 We barely have any jet skis left.<end>
@@ -722,61 +722,61 @@ Il nous reste à peine des jet skis.<end>
 satisfactory. <end>
 
 =>q119
-satisfaisante. <end>
+satisfaisants. <end>
 
 =>q120_original
 running extremely low. <end>
 
 =>q120
-extrêmement bas. <end>
+presque épuisés. <end>
 
 =>q121_original
 almost non-existent. <end>
 
 =>q121
-Presque inexistante. <end>
+quasi inexistants. <end>
 
 =>q122_original
 satisfactory, <end>
 
 =>q122
-satisfaisant, <end>
+satisfaisants, <end>
 
 =>q123_original
 running extremely low, <end>
 
 =>q123
-extrêmement bas, <end>
+presque épuisés, <end>
 
 =>q124_original
 almost non-existent, <end>
 
 =>q124
-presque inexistante, <end>
+quasi inexistants, <end>
 
 =>q125_original
 satisfactory, <end>
 
 =>q125
-satisfaisant, <end>
+satisfaisants, <end>
 
 =>q126_original
 quickly diminishing, <end>
 
 =>q126
-diminution rapide, <end>
+en chute rapide, <end>
 
 =>q127_original
 almost non-existent, <end>
 
 =>q127
-presque inexistante, <end>
+quasi inexistants, <end>
 
 =>q128_original
 There are currently $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers defending the camp. <end>
 
 =>q128
-Il y a actuellement $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers défendant le camp. <end>
+Il reste actuellement $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers pour défendre le camp. <end>
 
 =>a129_original
 ::Channel 3 (Yahota)::<end>
@@ -794,7 +794,7 @@ Il y a actuellement $(context.global_xpbl_aegisSecTroopersAvailable) sec-trooper
 I'm busy.<end>
 
 =>q131
-Je suis occupé.<end>
+Je suis occupée.<end>
 
 =>a132_original
 You're dead.<end>
@@ -806,19 +806,19 @@ Vous êtes mort.<end>
 Not before I get the chance to shoot your nuts off, bastard.<end>
 
 =>q133
-Pas avant que j'aie la chance de te tirer dessus, connard.<end>
+Pas avant de t'avoir fait sauter les couilles, enfoiré.<end>
 
 =>q134_original
 Not before I get the chance to blast that mug of yours to pieces, tart.<end>
 
 =>q134
-Pas avant que j'aie la chance d'exploser ta tasse, tarte.<end>
+Pas avant de t'avoir réduit la tronche en lambeaux, salope.<end>
 
 =>a135_original
 Roger. Out.<end>
 
 =>a135
-Bien reçu. Dehors.<end>
+Bien reçu. Terminé.<end>
 
 =>q136_original
 I'm in position.<end>
@@ -842,7 +842,7 @@ Tu te souviens de moi ?<end>
 I'm interested in enemy activity, over.<end>
 
 =>a139
-Je m'intéresse à l'activité ennemie.<end>
+Je veux le point sur l'activité ennemie. À vous.<end>
 
 =>q140_original
 <end>
@@ -866,7 +866,7 @@ Je m'intéresse à l'activité ennemie.<end>
 The sea's looking calm at the moment. No enemy activity whatsoever. <end>
 
 =>q143
-La mer est calme en ce moment. Aucune activité ennemie. <end>
+La mer a l'air calme pour le moment. Aucune activité ennemie. <end>
 
 =>q144_original
 Over.<end>
@@ -878,19 +878,19 @@ Over.<end>
 There was something else I wanted to ask you, over.<end>
 
 =>a145
-Je voulais te demander autre chose.<end>
+J'avais autre chose à vous demander. À vous.<end>
 
 =>q146_original
 Go ahead, over.<end>
 
 =>q146
-Allez-y.<end>
+Je vous écoute. À vous.<end>
 
 =>a147_original
 Thanks for the info. I'll leave you to your duty. Out.<end>
 
 =>a147
-Merci pour les infos. Je vous laisse à votre devoir. Dehors.<end>
+Merci pour les infos. Je vous laisse à votre poste. Terminé.<end>
 
 =>q148_original
 Pirates or savages?<end>
@@ -914,7 +914,7 @@ Pirates.<end>
 The whole south-eastern part of the sea is pretty much dead. Barely any pirate activity there. <end>
 
 =>q151
-Toute la partie sud-est de la mer est à peu près morte. A peine toute activité de pirate là-bas. <end>
+Tout le sud-est de la mer est quasi mort. Presque plus d'activité pirate par là. <end>
 
 =>q152_original
 Over.<end>
@@ -926,7 +926,7 @@ Over.<end>
 And the savages, over?<end>
 
 =>a153
-Et les sauvages ?<end>
+Et les sauvages ? À vous.<end>
 
 =>q154_original
 <end>
@@ -938,7 +938,7 @@ Et les sauvages ?<end>
 Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
 
 =>q155
-Je n'ai pas remarqué d'activité dernièrement. Pas de lumières, de bateaux ou autre chose du genre. <end>
+Rien remarqué ces temps-ci. Pas de lumières en mouvement, pas de bateaux, rien. <end>
 
 =>q156_original
 Over.<end>
@@ -950,13 +950,13 @@ Over.<end>
 And the pirates, over?<end>
 
 =>a157
-Et les pirates ?<end>
+Et les pirates ? À vous.<end>
 
 =>q158_original
 Not much activity lately. Much fewer moving lights and boats as well. <end>
 
 =>q158
-Pas beaucoup d'activité dernièrement. Beaucoup moins de lumières et de bateaux. <end>
+Pas grand-chose ces temps-ci. Bien moins de lumières en mouvement, et de bateaux aussi. <end>
 
 =>q159_original
 This might be the calm before the storm. <end>
@@ -968,31 +968,31 @@ C'est peut-être le calme avant la tempête. <end>
 Less activity than before the first attack, but still plenty. <end>
 
 =>q160
-Moins d'activité qu'avant la première attaque, mais encore beaucoup. <end>
+Moins d'activité qu'avant la première attaque, mais il en reste. <end>
 
 =>q161_original
 Still lots of activity. There's a lot of them there. <end>
 
 =>q161
-Toujours beaucoup d'activité. Il y en a beaucoup. <end>
+Toujours beaucoup d'activité. Ils sont nombreux, là-bas. <end>
 
 =>q162_original
 Lots of activity there ever since we moved in. They are probably preparing for another attack. <end>
 
 =>q162
-Beaucoup d'activité là-bas depuis notre arrivée. Ils se préparent probablement à une autre attaque. <end>
+Beaucoup d'activité là-bas depuis qu'on s'est installés. Ils préparent probablement une autre attaque. <end>
 
 =>q163_original
 Not much activity over at the pirate base. Their patrols are becoming rather sparse as well. <end>
 
 =>q163
-Pas beaucoup d'activité à la base des pirates. Leurs patrouilles sont de plus en plus rares. <end>
+Pas grand-chose du côté de la base pirate. Leurs patrouilles se font rares, aussi. <end>
 
 =>q164_original
 Lots of pirate jet ski patrols about. They could be up to something <end>
 
 =>q164
-Beaucoup de patrouilles de jet de pirate. Ils pourraient faire quelque chose. <end>
+Plein de patrouilles pirate en jet ski. Ils mijotent peut-être un coup <end>
 
 =>q165_original
 again<end>
@@ -1016,7 +1016,7 @@ Sauvages.<end>
 I need to speak to you in person. Where can I find you? Over.<end>
 
 =>a168
-Je dois te parler en personne. Où puis-je vous trouver ? À vous.<end>
+Je dois vous parler en personne. Où est-ce que je vous trouve ? À vous.<end>
 
 =>q169_original
 Not now.<end>
@@ -1070,7 +1070,7 @@ En haut du phare du camp.<end>
 Can you see the Ferryman anywhere, over?<end>
 
 =>a177
-Pouvez-vous voir le Ferryman n'importe où ?<end>
+Vous voyez le Ferryman quelque part ? À vous.<end>
 
 =>q178_original
 ::She answers coldly.:: <end>
@@ -1082,19 +1082,19 @@ Pouvez-vous voir le Ferryman n'importe où ?<end>
 No. He sailed north into savage territory before I lost sight of him. Should be in my scope again soon. <end>
 
 =>q179
-C'est pas vrai. Il a navigué vers le nord en territoire sauvage avant que je ne perde la vue. Ça devrait être dans mon champ d'application bientôt. <end>
+Non. Il a mis le cap au nord, en territoire sauvage, avant que je le perde de vue. Il devrait bientôt revenir dans ma lunette. <end>
 
 =>q180_original
 He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again. Over.<end>
 
 =>q180
-Il suit une route assez cohérente, visitant l'île muette et la base des pirates avant de repartir vers le nord. À vous.<end>
+Il suit un trajet assez régulier : l'île mutie, la base pirate, puis il remonte au nord. À vous.<end>
 
 =>q181_original
 Yes. He's docked at the <end>
 
 =>q181
-Oui. Il est amarré au <end>
+Oui. Il est amarré à la <end>
 
 =>q182_original
 pirate base. <end>
@@ -1106,55 +1106,55 @@ base pirate. <end>
 He's lying on the ground and doesn't appear to be moving. Looks fragged to me. Over.<end>
 
 =>q183
-Il est allongé sur le sol et ne semble pas bouger. Ça m'a l'air froissé. À vous.<end>
+Il est allongé par terre, on dirait qu'il bouge plus. Clamsé, à mon avis. À vous.<end>
 
 =>q184_original
 pier on the southern side of the mutie island. <end>
 
 =>q184
-quai du côté sud de l'île muette. <end>
+jetée sud de l'île mutie. <end>
 
 =>a185_original
 I need information on the pirate base. Over.<end>
 
 =>a185
-J'ai besoin d'informations sur la base des pirates. À vous.<end>
+J'ai besoin d'infos sur la base pirate. À vous.<end>
 
 =>q186_original
 You neutralized pretty much every fraggin' pirate. <end>
 
 =>q186
-Tu as neutralisé tous les pirates. <end>
+Vous avez neutralisé à peu près tous les putains de pirates. <end>
 
 =>q187_original
 Locate the professor and carry out his extraction, over.<end>
 
 =>q187
-Localisez le professeur et effectuez son extraction.<end>
+Localisez le professeur et procédez à son extraction. À vous.<end>
 
 =>q188_original
 They're well-armed, have lots of jet skis at their disposal - and hounds, lots of hounds walking about. <end>
 
 =>q188
-Ils sont bien armés, ils ont beaucoup de jet skis à leur disposition - et des chiens, beaucoup de chiens qui marchent. <end>
+Ils sont bien armés, ils ont des tas de jet skis sous la main - et des molosses, des tas de molosses qui tournent. <end>
 
 =>q189_original
 Lots of fraggin' pirates here, that's for sure. <end>
 
 =>q189
-Beaucoup de pirates ici, c'est sûr. <end>
+Y a un putain de tas de pirates, ça c'est sûr. <end>
 
 =>q190_original
 From what I've been able to gather so far, there are three locations where Professor Oldfield is most probably being held at: The first is a derelict battleship in G2, right in the middle of their main base. Then there's a large heavily-defended building in E3. And then there's also that smaller base in I5, the one with the NFT lighthouse. There's a lot of activity there as well, which makes it another potential target.<end>
 
 =>q190
-D'après ce que j'ai pu rassembler jusqu'à présent, il y a trois endroits où le professeur Oldfield est probablement détenu à : Le premier est un navire de combat abandonné en G2, en plein milieu de leur base principale. Puis il y a un grand bâtiment lourdement défendu dans E3. Et puis il y a aussi cette base plus petite en I5, celle avec le phare NFT. Il y a beaucoup d'activité là aussi, ce qui en fait une autre cible potentielle.<end>
+D'après ce que j'ai pu coller jusqu'ici, il y a trois endroits où le professeur Oldfield a le plus de chances d'être retenu. Le premier : une épave de cuirassé en G2, pile au milieu de leur base principale. Ensuite, un gros bâtiment lourdement défendu en E3. Et cette plus petite base en I5, celle avec le phare NFT. Y a pas mal d'activité là aussi, donc autre cible possible.<end>
 
 =>q191_original
 But for all we know the professor could be held anywhere. Maybe they even moved him somewhere deeper in the bay. Over.<end>
 
 =>q191
-Mais pour tout ce qu'on sait, le professeur pourrait être retenu n'importe où. Peut-être même qu'ils l'ont déplacé plus profondément dans la baie. À vous.<end>
+Mais on n'en sait rien : le professeur peut être n'importe où. Ils l'ont peut-être même poussé plus loin dans la baie. À vous.<end>
 
 =>q192_original
 <end>
@@ -1166,19 +1166,19 @@ Mais pour tout ce qu'on sait, le professeur pourrait être retenu n'importe où.
 Tell me again about where you think the professor could be held at? Over.<end>
 
 =>a193
-Dites-moi encore où le professeur pourrait être détenu ? À vous.<end>
+Répétez-moi où vous pensez qu'ils retiennent le professeur. À vous.<end>
 
 =>a194_original
 Got any specifics on their defenses? Over.<end>
 
 =>a194
-Vous avez des détails sur leurs défenses ? À vous.<end>
+Vous avez du précis sur leurs défenses ? À vous.<end>
 
 =>q195_original
 High sheet metal walls around the base, with manned turrets at regular intervals. The southern entrance is the least defended one, but to get there you have to sneak through either G4 or H4, cross the bay undetected, and then enter the base from there. Plenty of jet ski patrols in the bay as well. Over.<end>
 
 =>q195
-Murs hauts en tôle autour de la base, avec tourelles habitées à intervalles réguliers. L'entrée sud est la moins défendue, mais pour y arriver, il faut traverser le G4 ou le H4, traverser la baie sans être détecté, puis entrer dans la base de là. Beaucoup de patrouilles de jet ski dans la baie aussi. À vous.<end>
+De hauts murs en tôle autour de la base, avec des tourelles occupées à intervalles réguliers. L'entrée sud est la moins défendue, mais pour y arriver il faut se faufiler par G4 ou H4, traverser la baie sans se faire voir, et entrer par là. Plein de patrouilles jet ski dans la baie, aussi. À vous.<end>
 
 =>a196_original
 Armament? Over.<end>
@@ -1194,9 +1194,9 @@ They also have hounds, pit bulls mostly. Was almost sniffed out by one of those 
 Over.<end>
 
 =>q197
-Beaucoup d'armes à feu, d'explosifs, d'arbales, de machettes, de luges et autres armes. Grandes tourelles à double barre; pas d'armes énergétiques remarquées jusqu'à présent.
+Beaucoup d'armes à feu, d'explosifs, d'arbalètes, de machettes, de masses et d'autres armes de mêlée. Tourelles gros calibre, double canon ; pas d'armes à énergie aperçues pour l'instant.
 
-Ils ont aussi des chiens, surtout des pit-bulls. J'ai presque été reniflé par un de ces mutants pendant mon infiltration.
+Ils ont aussi des molosses, surtout des pit-bulls. J'ai failli me faire repérer par un de ces clebs pendant l'infiltration.
 
 À vous.<end>
 
@@ -1210,7 +1210,7 @@ Que pouvez-vous me dire sur le cuirassé ? À vous.<end>
 Appears to be one of those old Biocorp ships of war. There is a bridge which connects the main platform to the ship. Heavily guarded. If I were the captain of this rancid rabble, that's where I'd like my HQ to be. Over.<end>
 
 =>q199
-Il semble être l'un de ces vieux navires de guerre Biocorp. Il y a un pont qui relie la plate-forme principale au navire. Très surveillé. Si j'étais le capitaine de cette rancune, j'aimerais que mon QG soit là. À vous.<end>
+On dirait un de ces vieux navires de guerre Biocorp. Un pont relie la plateforme principale au bateau. Lourdement gardé. Si j'étais le capitaine de cette racaille pourrie, c'est là que je mettrais mon QG. À vous.<end>
 
 =>a200_original
 What can you tell me about the large building in E3? Over.<end>
@@ -1222,7 +1222,7 @@ Que pouvez-vous me dire sur le grand bâtiment de E3 ? À vous.<end>
 It's a two-story building. Purpose unknown. Multiple entrances. Lots of guards outside, and there are snipers on the rooftop. There are two ways to enter the area, east and south, and both require you to go through the main base. The western path leads up to a hill; it leads to the cliff where that glowing monolith is at. Over.<end>
 
 =>q201
-C'est un immeuble de deux étages. Objet inconnu. Plusieurs entrées. Beaucoup de gardes dehors, et il y a des tireurs d'élite sur le toit. Il y a deux façons d'entrer dans la région, à l'est et au sud, et les deux exigent que vous traversiez la base principale. Le sentier ouest mène à une colline; il mène à la falaise où se trouve ce monolithe brillant. À vous.<end>
+Un bâtiment de deux étages. Usage inconnu. Plusieurs entrées. Plein de gardes dehors, et des snipers sur le toit. Deux accès, est et sud, et les deux forcent à passer par la base principale. Le chemin ouest monte vers une colline ; ça mène à la falaise où se trouve ce monolithe lumineux. À vous.<end>
 
 =>a202_original
 What can you tell me about the lighthouse base? Over.<end>
@@ -1234,19 +1234,19 @@ Que pouvez-vous me dire sur la base du phare ? À vous.<end>
 Tall sheet metal walls. Jet ski dock at the entrance. Two large buildings, the taller of which is connected to the lighthouse via skyway. Actually, that's three buildings if we count the lighthouse as well. The main entrance is heavily guarded. But there is another entrance to the east. That's all I got. Over.<end>
 
 =>q203
-De grandes parois en tôle. Station de ski à l'entrée. Deux grands bâtiments, dont le plus haut est relié au phare par skyway. En fait, c'est trois bâtiments si on compte aussi le phare. L'entrée principale est très surveillée. Mais il y a une autre entrée à l'est. C'est tout ce que j'ai. À vous.<end>
+De hauts murs en tôle. Un quai pour jet skis à l'entrée. Deux gros bâtiments, dont le plus haut est relié au phare par une passerelle. Trois, si on compte le phare. L'entrée principale est lourdement gardée. Mais il y a une autre entrée à l'est. C'est tout ce que j'ai. À vous.<end>
 
 =>a204_original
 That's all I needed to know. $(context.player.Name) out.<end>
 
 =>a204
-C'est tout ce que j'avais besoin de savoir. $(context.player.Name) sortie.<end>
+C'est tout ce que je voulais savoir. $(context.player.Name), terminé.<end>
 
 =>q205_original
 Yahota out.<end>
 
 =>q205
-Yahota sorti.<end>
+Yahota, terminé.<end>
 
 =>q206_original
 <end>
@@ -1264,13 +1264,13 @@ Que voulez-vous savoir ?<end>
 I can see you.<end>
 
 =>q208
-Je peux te voir.<end>
+Je vous vois.<end>
 
 =>q209_original
 Too lazy to climb the lighthouse?<end>
 
 =>q209
-Trop paresseux pour grimper au phare ?<end>
+Trop flemme de monter au phare ?<end>
 
 =>q210_original
 Yeah?<end>
@@ -1294,7 +1294,7 @@ Oui ?<end>
 Yes? ::You hear gunfire in the background.:: Oldfield here. Who is this?<end>
 
 =>q213
-Oui ? ::Vous entendez des coups de feu en arrière-plan.:: Oldfield ici. Qui est-ce ?<end>
+Oui ? ::Vous entendez des coups de feu en arrière-plan.:: Ici Oldfield. Qui est à l'appareil ?<end>
 
 =>a214_original
 Remember me, professor?<end>
@@ -1306,7 +1306,7 @@ Vous vous souvenez de moi, professeur ?<end>
 With great disdain. Farewell, $(context.npc_xpbl_oldfield_playerName). May this sea be your grave.<end>
 
 =>q215
-Avec grand dédain. Adieu, $(context.npc_xpbl_oldfield_playerName). Que cette mer soit votre tombe.<end>
+Avec le plus grand mépris. Adieu, $(context.npc_xpbl_oldfield_playerName). Que cette mer vous serve de tombe.<end>
 
 =>a216_original
 Are you okay, Professor?<end>
@@ -1324,19 +1324,19 @@ Oui, ça va. <end>
 Don't worry about me. Best of luck. Out.<end>
 
 =>q218
-Ne t'inquiète pas pour moi. Bonne chance. Dehors.<end>
+Ne vous inquiétez pas pour moi. Bonne chance. Terminé.<end>
 
 =>q219_original
 I'd prefer it if we spoke in person. Oldfield out.<end>
 
 =>q219
-Je préfèrerais qu'on parle en personne. Oldfield sortie.<end>
+Je préférerais qu'on se parle en personne. Oldfield, terminé.<end>
 
 =>q220_original
 Oldfield on the line. Over.<end>
 
 =>q220
-Oldfield sur la ligne. À vous.<end>
+Oldfield à l'appareil. À vous.<end>
 
 =>q221_original
 <end>
@@ -1348,25 +1348,25 @@ Oldfield sur la ligne. À vous.<end>
 I have a report to make about Nexus of Technology, over.<end>
 
 =>a222
-J'ai un rapport à faire sur Nexus of Technology, terminé.<end>
+J'ai un rapport à vous faire sur le Nexus of Technology. À vous.<end>
 
 =>q223_original
 It's you! May this sea be your grave.<end>
 
 =>q223
-C'est toi ! Que cette mer soit votre tombe.<end>
+C'est vous ! Que cette mer vous serve de tombe.<end>
 
 =>q224_original
 Yes, yes? Um... over.<end>
 
 =>q224
-Oui, oui ? C'est fini.<end>
+Oui, oui ? Euh... à vous.<end>
 
 =>a225_original
 It is a large research facility... ::Explain to him what you discovered.::<end>
 
 =>a225
-C'est un grand centre de recherche... ::Expliquez-lui ce que vous avez découvert.::<end>
+C'est un grand centre de recherche... ::Lui expliquer ce que vous avez découvert.::<end>
 
 =>q226_original
 ::After listening to you with great interest, only occasionally interjecting with various exclamations of surprise and awe, the professor shares his thoughts.::
@@ -1374,21 +1374,21 @@ C'est un grand centre de recherche... ::Expliquez-lui ce que vous avez découver
 Goodness me, that is marvelous indeed! Your descent down the elevator shaft, turning on the power, exploring the floors, all of it - truly incredible. And the fact that you managed to upgrade your microchip implant's clearance level with that... what did you say the device was called?<end>
 
 =>q226
-::Après vous avoir écouté avec beaucoup d'intérêt, interjetant parfois avec diverses exclamations de surprise et d'admiration, le professeur partage ses pensées.::
+::Après vous avoir écouté avec un grand intérêt, n'interrompant que de temps à autre par des exclamations de surprise et d'admiration, le professeur donne son avis.::
 
-Mon Dieu, c'est vraiment merveilleux! Votre descente dans le puits de l'ascenseur, l'allumage de la puissance, l'exploration des planchers, tout cela - vraiment incroyable. Et le fait que vous ayez réussi à améliorer le niveau de clairance de votre micropuce avec ça... comment avez-vous dit que l'appareil s'appelait ?<end>
+Bon sang, c'est formidable, vraiment ! La descente dans la cage d'ascenseur, remettre le courant, explorer les étages, tout ça - tout à fait incroyable. Et le fait que vous ayez réussi à augmenter le niveau d'autorisation de votre implant micropuce avec ce... comment avez-vous dit que s'appelait l'appareil ?<end>
 
 =>a227_original
 Microchip encoder.<end>
 
 =>a227
-Encodeur micropuce.<end>
+Encodeur de micropuce.<end>
 
 =>q228_original
 Ah, yes - microchip encoder. That clearance level will certainly prove to be of great use, certainly. <end>
 
 =>q228
-Ah, oui - encodeur micropuce. Ce niveau d'autorisation s'avérera certainement très utile. <end>
+Ah oui, encodeur de micropuce. Ce niveau d'autorisation vous sera certainement d'une grande utilité. <end>
 
 =>q229_original
 <end>
@@ -1412,13 +1412,13 @@ Excellent travail, $(context.npc_xpbl_oldfield_playerName). <end>
 See Marcus about your well-earned bonus when you come back. <end>
 
 =>q232
-Voir Marcus sur votre boni bien mérité quand vous revenez. <end>
+Passez voir Marcus pour votre bonus, vous l'avez mérité, à votre retour. <end>
 
 =>q233_original
 I'll contact you as soon as I have a new task for you. Best of luck. Oldfield out.<end>
 
 =>q233
-Je vous contacterai dès que j'aurai une nouvelle tâche pour vous. Bonne chance. Oldfield sortie.<end>
+Je vous contacterai dès que j'aurai une nouvelle tâche pour vous. Bonne chance. Oldfield, terminé.<end>
 
 =>q234_original
 The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in the camp's kitchen.
@@ -1426,21 +1426,21 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 ::It takes a moment for him to continue.:: He's... one of the few left alive, I'm afraid. <end>
 
 =>q234
-Le secrétaire-chef, oui, le secrétaire-chef est en charge des paiements maintenant. Vous le trouverez dans la cuisine du camp.
+Le chef de sécu, oui. C'est lui qui s'occupe des paiements, maintenant. Vous le trouverez à la cuisine du camp.
 
-::Il lui faut un moment pour continuer.:: Il est... l'un des rares vivants, j'en ai peur. <end>
+::Il lui faut un moment pour continuer.:: Il est... l'un des rares encore en vie, j'en ai peur. <end>
 
 =>q235_original
 See the sec-chef about your bonus when you come back. <end>
 
 =>q235
-Voyez le second chèque sur votre bonus à votre retour. <end>
+Passez voir le chef de sécu pour votre bonus, à votre retour. <end>
 
 =>a236_original
 I have a report to make about Crimson Meadow Horticulture Center, over.<end>
 
 =>a236
-J'ai un rapport à faire sur le Centre d'horticulture de Crimson Meadow.<end>
+J'ai un rapport à vous faire sur le Crimson Meadow Horticulture Center. À vous.<end>
 
 =>q237_original
 Excellent. Do go on. Over.<end>
@@ -1452,7 +1452,7 @@ Parfait. Continuez. À vous.<end>
 As the name says, it is a massive horticulture center... ::Explain to him what you discovered.::<end>
 
 =>a238
-Comme son nom l'indique, c'est un vaste centre d'horticulture... ::Expliquez-lui ce que vous avez découvert.::<end>
+Comme son nom l'indique, c'est un vaste centre d'horticulture... ::Lui expliquer ce que vous avez découvert.::<end>
 
 =>q239_original
 ::You manage to convey the brooding atmosphere of the horticulture center so perfectly that the professor remains speechless for a good half a minute after you've finished speaking. He speaks after this pause.::
@@ -1460,15 +1460,15 @@ Comme son nom l'indique, c'est un vaste centre d'horticulture... ::Expliquez-lui
 By the caverns, that is un-believable, $(context.npc_xpbl_oldfield_playerName). The vegetation, the insects, the pesticide... amazing, truly amazing. <end>
 
 =>q239
-::Vous réussissez à transmettre l'atmosphère de couver du centre horticole si parfaitement que le professeur reste sans voix pendant une bonne demi-minute après avoir fini de parler. Il parle après cette pause.::
+::Vous arrivez si bien à faire passer l'atmosphère pesante du centre horticole que le professeur reste sans voix une bonne demi-minute après que vous ayez fini. Puis il reprend.::
 
-Par les cavernes, c'est incroyable, $(context.npc_xpbl_oldfield_playerName). La végétation, les insectes, le pesticide... incroyable, vraiment incroyable. <end>
+Par les cavernes, c'est in-croyable, $(context.npc_xpbl_oldfield_playerName). La végétation, les insectes, le pesticide... extraordinaire, vraiment extraordinaire. <end>
 
 =>q240_original
 But one of the most important things is that you managed to find that dispatch console. They seem to be the key to discovering the locations of Lemurian facilities.<end>
 
 =>q240
-Mais l'une des choses les plus importantes est que vous avez réussi à trouver cette console d'expédition. Ils semblent être la clé pour découvrir les emplacements des installations Lemurian.<end>
+Mais l'un des points les plus importants, c'est que vous avez trouvé cette console de dispatch. Elles semblent être la clé pour localiser les installations lémuriennes.<end>
 
 =>q241_original
 <end>
@@ -1480,13 +1480,13 @@ Mais l'une des choses les plus importantes est que vous avez réussi à trouver 
 It's... such a shame you couldn't explore the entire facility. Who knows what other incredible things you would've discovered?<end>
 
 =>q242
-C'est... dommage que tu n'aies pas pu explorer toute l'installation. Qui sait quelles autres choses incroyables vous auriez découvertes ?<end>
+C'est... vraiment dommage que vous n'ayez pas pu explorer toute l'installation. Qui sait ce que vous y auriez encore trouvé ?<end>
 
 =>a243_original
 I have a report to make about Lemurian Health Center, over.<end>
 
 =>a243
-J'ai un rapport à faire sur Lemurian Health Center, terminé.<end>
+J'ai un rapport à vous faire sur le Lemurian Health Center. À vous.<end>
 
 =>q244_original
 Good work. I am all ears. Over.<end>
@@ -1498,7 +1498,7 @@ Bon travail. Je suis tout ouïe. À vous.<end>
 You are going to hear certain things that might be hard to believe... ::Explain to him what you discovered.::<end>
 
 =>a245
-Vous allez entendre certaines choses qui pourraient être difficiles à croire... ::Expliquez-lui ce que vous avez découvert.::<end>
+Vous allez entendre certaines choses qui pourraient être difficiles à croire... ::Lui expliquer ce que vous avez découvert.::<end>
 
 =>q246_original
 ::The surreal nature of your visit to the Lemurian Health Center is difficult to express in mere words, but you do your best, and the professor follows your report with interest till the very end.::
@@ -1506,15 +1506,15 @@ Vous allez entendre certaines choses qui pourraient être difficiles à croire..
 I... don't know what to say, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>q246
-::La nature surréaliste de votre visite au Centre de santé Lemurien est difficile à exprimer en mots, mais vous faites de votre mieux, et le professeur suit votre rapport avec intérêt jusqu'à la fin.::
+::Le caractère surréaliste de votre visite au Lemurian Health Center est difficile à mettre en mots, mais vous faites de votre mieux, et le professeur suit le rapport jusqu'au bout, attentif.::
 
-Je ne sais pas quoi dire, $(context.npc_xpbl_oldfield_playerName).<end>
+Je... ne sais pas quoi dire, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>a247_original
 You don't have to say anything.<end>
 
 =>a247
-Tu n'as rien à dire.<end>
+Vous n'êtes pas obligé de dire quoi que ce soit.<end>
 
 =>q248_original
 It might indeed be for the best.<end>
@@ -1526,7 +1526,7 @@ It might indeed be for the best.<end>
 Let's just move on to me getting Phil's microchip implanted into my hand.<end>
 
 =>a249
-Mettons la micropuce de Phil dans ma main.<end>
+Passons à l'implant de la micropuce de Phil dans ma main.<end>
 
 =>q250_original
 Indeed we should, yes. Was there a reason why you did that?<end>
@@ -1538,7 +1538,7 @@ En effet, oui. Pourquoi avez-vous fait ça ?<end>
 I needed it to access Joint Security headquarters. There was a scanner there which wouldn't let me pass without an implant in my hand.<end>
 
 =>a251
-J'en avais besoin pour accéder au quartier général de la sécurité. Il y avait un scanner qui ne me laisserait pas passer sans un implant dans ma main.<end>
+J'en avais besoin pour accéder au Joint Security Headquarters. Il y avait un scanner qui ne me laissait pas passer sans implant dans la main.<end>
 
 =>q252_original
 Ah, yes, I believe you mentioned it to me. <end>
@@ -1550,19 +1550,19 @@ Oui, je crois que vous m'en avez parlé. <end>
 I believe Doctor Savage can extract the implant for you.<end>
 
 =>q253
-Le docteur Savage peut vous extraire l'implant.<end>
+Le docteur Savage peut vous extraire l'implant, je crois.<end>
 
 =>a254_original
 I'll keep that in mind, over.<end>
 
 =>a254
-Je vais garder ça à l'esprit.<end>
+Je garde ça en tête. À vous.<end>
 
 =>q255_original
 Yes, over, yes. <end>
 
 =>q255
-Oui, c'est fini. <end>
+Oui, à vous, oui. <end>
 
 =>q256_original
 In any case... <end>
@@ -1580,7 +1580,7 @@ En tout cas... <end>
 I need it to access Joint Security headquarters. There is a scanner there which won't let me pass without an implant in my hand.<end>
 
 =>a258
-J'en ai besoin pour accéder au quartier général de la sécurité. Il y a un scanner qui ne me laissera pas passer sans un implant dans ma main.<end>
+J'en ai besoin pour accéder au Joint Security Headquarters. Il y a un scanner qui ne me laisse pas passer sans implant dans la main.<end>
 
 =>q259_original
 I see... Very well then. <end>
@@ -1592,7 +1592,7 @@ Je vois... Très bien alors. <end>
 I had a feeling I'd need that at some later point. Better do it while I'm there.<end>
 
 =>a260
-J'avais l'impression d'en avoir besoin plus tard. Fais-le pendant que je suis là.<end>
+J'avais l'impression que j'en aurais besoin plus tard. Autant le faire tant que j'y suis.<end>
 
 =>q261_original
 I'll trust your judgement. <end>
@@ -1604,19 +1604,19 @@ Je me fierai à votre jugement. <end>
 You believe me, though, right?<end>
 
 =>a262
-Tu me crois, non ?<end>
+Vous me croyez, quand même ?<end>
 
 =>q263_original
 After being here for this long there's nothing I find hard to believe anymore, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>q263
-Après être ici depuis si longtemps, il n'y a plus rien que je puisse croire, $(context.npc_xpbl_oldfield_playerName).<end>
+Après tout ce temps ici, il n'y a plus rien que j'aie du mal à croire, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>a264_original
 I have a report to make about Joint Security Headquarters, over.<end>
 
 =>a264
-J'ai un rapport à faire sur le quartier général de la sécurité.<end>
+J'ai un rapport à vous faire sur le Joint Security Headquarters. À vous.<end>
 
 =>q265_original
 I'm listening. Over.<end>
@@ -1628,7 +1628,7 @@ J'écoute. À vous.<end>
 Well, after managing to pass that damned bioscan, I... ::Explain to him what you discovered.::<end>
 
 =>a266
-Après avoir réussi à passer ce foutu bioscan, je... ::Expliquez-lui ce que vous avez découvert.::<end>
+Après avoir réussi à passer ce foutu bioscan, je... ::Lui expliquer ce que vous avez découvert.::<end>
 
 =>q267_original
 ::You report all your findings while the professor, as always, listens with great attentiveness.::
@@ -1636,9 +1636,9 @@ Après avoir réussi à passer ce foutu bioscan, je... ::Expliquez-lui ce que vo
 A rather sad ending for the Lemurian Security Command, I have to say. Goodness me, you stood in the same room from which Lemurian officers, fathers, sons and husbands observed their home being demolished by the Biocorp Undernavy.<end>
 
 =>q267
-::Vous rapportez toutes vos découvertes pendant que le professeur, comme toujours, écoute avec une grande attention.::
+::Vous rapportez tout ce que vous avez trouvé pendant que le professeur, comme toujours, écoute avec une grande attention.::
 
-Une fin plutôt triste pour le commandement de sécurité Lemurian, je dois dire. Bon sang, vous étiez dans la même pièce d'où Lemurian officiers, pères, fils et maris ont vu leur maison démolie par le Biocorp Undernavy.<end>
+Une fin assez triste pour le Lemurian Security Command, je dois dire. Bon sang, vous étiez dans la même pièce d'où des officiers lémuriens, pères, fils et maris, ont vu leur foyer se faire démolir par la Biocorp Undernavy.<end>
 
 =>a268_original
 And now Biocorp is in ruins as well.<end>
@@ -1652,33 +1652,33 @@ Yes... Yes. It's an interesting parallel to make, as fifteen years ago Biocorp A
 History tends to repeat itself, yet sadly it seems that with each iteration humanity loses more than it rebuilds, and some things are lost forever.<end>
 
 =>q269
-Oui... Oui. C'est un parallèle intéressant à faire, comme il y a quinze ans Biocorp Les officiers des forces armées aussi regardaient vers le bas les envahisseurs Protectorate qui se sont introduits et ont causé des ravages dans Dis.
+Oui... Oui. C'est un parallèle intéressant : il y a quinze ans, les officiers des Biocorp Armed Forces regardaient eux aussi les envahisseurs du Protectorate entrer dans Dis et y semer le chaos.
 
-L'histoire a tendance à se répéter, mais malheureusement il semble qu'avec chaque itération l'humanité perde plus qu'elle ne reconstruise, et certaines choses sont perdues pour toujours.<end>
+L'histoire a tendance à se répéter, et malheureusement, à chaque tour, l'humanité perd plus qu'elle ne reconstruit. Certaines choses sont perdues pour toujours.<end>
 
 =>a270_original
 But not everything. There was this dispatcher terminal at JSHQ. On it I found out about a transport vessel with a cargo id that read - *ACoNR*.<end>
 
 =>a270
-Mais pas tout. Il y avait ce terminal de répartiteur au QGJ. Sur elle, j'ai découvert un bateau de transport avec une carte d'identité qui lisait - *ACoNR*.<end>
+Mais pas tout. Il y avait un terminal de dispatch au JSHQ. Dessus, j'ai trouvé un transport dont l'identifiant de cargaison était : *ACoNR*.<end>
 
 =>q271_original
 Acorn? ::He takes off his glasses for a moment.:: Could it be? How large is it then if...?<end>
 
 =>q271
-Du Acorn ? ::Il enlève ses lunettes un moment.:: Ça se pourrait ? Quelle est sa taille alors ?<end>
+L'Acorn ? ::Il enlève ses lunettes un instant.:: Ce serait possible ? Il fait quelle taille, alors, si... ?<end>
 
 =>q272_original
 And it... it is at that Abyssal Station? Abyssal Station Zero.<end>
 
 =>q272
-Et c'est à la station d'Abyssal ? Station Abyssale Zéro.<end>
+Et c'est... à cette Abyssal Station ? Abyssal Station Zero.<end>
 
 =>a273_original
 Seems so. The location is marked as Abyssal Station Zero Elevators.<end>
 
 =>a273
-Il semble que oui. L'emplacement est marqué comme Abyssal Station Zero Ascenseurs.<end>
+On dirait. L'emplacement est marqué Abyssal Station Zero Elevators.<end>
 
 =>q274_original
 It's rather peculiar: This entire region has always been referred to as LEMCO, and we've not found a single instance of this Abyssal Station being mentioned.
@@ -1686,9 +1686,9 @@ It's rather peculiar: This entire region has always been referred to as LEMCO, a
 Yet... if this station truly is abyssal, its depth could have saved it from Biocorp's detection.<end>
 
 =>q274
-C'est assez étrange. Toute cette région a toujours été appelée LEMCO, et nous n'avons trouvé aucune instance de cette station d'Abyssal mentionnée.
+C'est assez étrange : toute cette région a toujours été appelée LEMCO, et on n'a trouvé aucune mention de cette Abyssal Station.
 
-Pourtant... si cette station est vraiment abyssale, sa profondeur aurait pu la sauver de la détection de Biocorp.<end>
+Pourtant... si cette station est vraiment abyssale, sa profondeur a pu la soustraire à la détection de Biocorp.<end>
 
 =>q275_original
 The Acorn... they sent it to a place they deemed the safest. They must've sent people too. If this station has remained intact for so long...
@@ -1696,15 +1696,15 @@ The Acorn... they sent it to a place they deemed the safest. They must've sent p
 $(context.npc_xpbl_oldfield_playerName), there could still be someone down there.<end>
 
 =>q275
-Ils l'ont envoyé dans un endroit qu'ils ont jugé le plus sûr. Ils ont dû envoyer des gens aussi. Si cette station est restée intacte depuis si longtemps...
+L'Acorn... ils l'ont envoyé là où ils jugeaient le plus sûr. Ils ont dû envoyer des gens, aussi. Si cette station est restée intacte aussi longtemps...
 
-$(context.npc_xpbl_oldfield_playerName), il pourrait encore y avoir quelqu'un en bas.<end>
+$(context.npc_xpbl_oldfield_playerName), il pourrait encore y avoir quelqu'un, en bas.<end>
 
 =>a276_original
 It's what NFT does best: Conquering the most inhospitable places.<end>
 
 =>a276
-C'est ce que NFT fait le mieux: Conquérir les endroits les plus inhospitaliers.<end>
+C'est ce que NFT fait de mieux : conquérir les endroits les plus inhospitaliers.<end>
 
 =>q277_original
 Precisely!<end>
@@ -1722,19 +1722,19 @@ Voici votre prochaine destination, $(context.npc_xpbl_oldfield_playerName), Abys
 In case that these elevators are no longer functional, there is still that submarine you can try to use. Although... I fear whether it could endure the depths.<end>
 
 =>q279
-Si ces ascenseurs ne sont plus fonctionnels, il y a encore ce sous-marin que vous pouvez essayer d'utiliser. Bien que... Je crains qu'il ne puisse supporter les profondeurs.<end>
+Si ces ascenseurs ne marchent plus, il reste ce sous-marin que vous pouvez tenter d'utiliser. Même si... je me demande s'il tiendrait la profondeur.<end>
 
 =>q280_original
 See Marcus about your well-earned bonus when you come back. <end>
 
 =>q280
-Voir Marcus sur votre boni bien mérité quand vous revenez. <end>
+Passez voir Marcus pour votre bonus, vous l'avez mérité, à votre retour. <end>
 
 =>q281_original
 Best of luck, $(context.npc_xpbl_oldfield_playerName), best of luck. Oldfield out.<end>
 
 =>q281
-Bonne chance, $(context.npc_xpbl_oldfield_playerName), bonne chance. Oldfield sortie.<end>
+Bonne chance, $(context.npc_xpbl_oldfield_playerName), bonne chance. Oldfield, terminé.<end>
 
 =>q282_original
 The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in the camp's kitchen.
@@ -1742,15 +1742,15 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 ::It takes a moment for him to continue.:: He's... one of the few left alive, I'm afraid.<end>
 
 =>q282
-Le secrétaire-chef, oui, le secrétaire-chef est en charge des paiements maintenant. Vous le trouverez dans la cuisine du camp.
+Le chef de sécu, oui. C'est lui qui s'occupe des paiements, maintenant. Vous le trouverez à la cuisine du camp.
 
-::Il lui faut un moment pour continuer.:: Il est... l'un des rares vivants, j'en ai peur.<end>
+::Il lui faut un moment pour continuer.:: Il est... l'un des rares encore en vie, j'en ai peur.<end>
 
 =>q283_original
 See the sec-chef about your bonus when you come back. <end>
 
 =>q283
-Voyez le second chèque sur votre bonus à votre retour. <end>
+Passez voir le chef de sécu pour votre bonus, à votre retour. <end>
 
 =>q284_original
 Hopefully those elevators still work. If not... There has to be another way. There has to be. <end>
@@ -1762,49 +1762,49 @@ J'espère que ces ascenseurs fonctionnent encore. Sinon... Il doit y avoir un au
 Exactly. And from this station I've just returned.<end>
 
 =>a285
-Exactement. Et de cette station, je reviens.<end>
+Exactement. Et c'est de cette station que je reviens.<end>
 
 =>q286_original
 Goodness me... It's best that we discuss this in the camp. Come here as soon as you can. Out.<end>
 
 =>q286
-Mon Dieu... Il vaut mieux qu'on en parle dans le camp. Viens ici dès que tu peux. Dehors.<end>
+Bon sang... Mieux vaut en parler au camp. Venez dès que vous pouvez. Terminé.<end>
 
 =>q287_original
 Where... where was it taken? <end>
 
 =>q287
-Où a-t-il été pris ? <end>
+Où... où l'a-t-on emmené ? <end>
 
 =>a288_original
 The location is marked as Abyssal Station Zero Elevators. It is somewhere in the southeastern bay.<end>
 
 =>a288
-L'emplacement est marqué comme Abyssal Station Zero Ascenseurs. C'est quelque part dans la baie du sud-est.<end>
+L'emplacement est marqué Abyssal Station Zero Elevators. C'est quelque part dans la baie sud-est.<end>
 
 =>q289_original
 Abyssal Station Zero... <end>
 
 =>q289
-Station Abyssal Zéro... <end>
+Abyssal Station Zero... <end>
 
 =>a290_original
 To Abyssal Station Zero. From which I've just returned.<end>
 
 =>a290
-À la station d'Abyssal Zero. D'où je viens de revenir.<end>
+À Abyssal Station Zero. D'où je reviens à l'instant.<end>
 
 =>a291_original
 Professor, there was a dispatcher terminal there. On it I found out about a transport vessel with a cargo id that read - *ACoNR*.<end>
 
 =>a291
-Professeur, il y avait un terminal du régulateur. Sur elle, j'ai découvert un bateau de transport avec une carte d'identité qui lisait - *ACoNR*.<end>
+Professeur, il y avait un terminal de dispatch. Dessus, j'ai trouvé un transport dont l'identifiant de cargaison était : *ACoNR*.<end>
 
 =>a292_original
 I have a report to make about the Abyssal Station, over.<end>
 
 =>a292
-J'ai un rapport à faire sur la station d'Abyssal.<end>
+J'ai un rapport à vous faire sur l'Abyssal Station. À vous.<end>
 
 =>q293_original
 You went down there?<end>
@@ -1828,7 +1828,7 @@ Parfait. <end>
 Did you doubt me?<end>
 
 =>a296
-Tu doutais de moi ?<end>
+Vous doutiez de moi ?<end>
 
 =>q297_original
 Not at all, $(context.npc_xpbl_oldfield_playerName), not at all. <end>
@@ -1846,31 +1846,31 @@ Oh, oui.<end>
 I've found a submarine at the Blistering Shores facility in the northeastern part of the sea, at L12. Over.<end>
 
 =>a299
-J'ai trouvé un sous-marin à l'usine de Blistering Shores, au nord-est de la mer, à L12. À vous.<end>
+J'ai trouvé un sous-marin à l'installation de Blistering Shores, au nord-est de la mer, en L12. À vous.<end>
 
 =>q300_original
 Submarine? Oh, goodness me, that's quite a remarkable find. Shame it's so far away from here. How preserved is it, over?<end>
 
 =>q300
-Sous-marin ? Oh, mon Dieu, c'est une découverte remarquable. Dommage que ce soit si loin d'ici. Comment est-il préservé, fini ?<end>
+Un sous-marin ? Oh, bon sang, quelle trouvaille. Dommage que ce soit si loin d'ici. Dans quel état de conservation, à vous ?<end>
 
 =>a301_original
 I don't think you understand. I believe it could still be used, even if not to its full capacity, over.<end>
 
 =>a301
-Vous ne comprenez pas. Je pense qu'il pourrait encore être utilisé, même si ce n'est à sa pleine capacité, terminé.<end>
+Je ne crois pas que vous voyiez. Je pense qu'on pourrait encore s'en servir, même pas à pleine capacité. À vous.<end>
 
 =>q302_original
 Wait a minute, you mean an *actual* working submarine. By the caverns!<end>
 
 =>q302
-Attendez une minute, vous voulez dire un sous-marin de travail. Par les cavernes !<end>
+Attendez une minute : vous voulez dire un *vrai* sous-marin qui marche. Par les cavernes !<end>
 
 =>a303_original
 A deep-diving submarine, from the looks of it, over.<end>
 
 =>a303
-Un sous-marin plongeant profond, d'après l'apparence, terminé.<end>
+Un sous-marin de grande profondeur, à ce que ça a l'air. À vous.<end>
 
 =>q304_original
 Remarkable! <end>
@@ -1882,19 +1882,19 @@ Remarquable ! <end>
 But this Abyssal Station you're talking about... It is something completely new to me.<end>
 
 =>q305
-Mais cette station d'Abyssal dont vous parlez... C'est quelque chose de complètement nouveau pour moi.<end>
+Mais cette Abyssal Station dont vous parlez... C'est tout à fait nouveau pour moi.<end>
 
 =>a306_original
 I found out about it in Joint Security Headquarters, after managing to pass that damned bioscan... ::Explain to him what you discovered.::<end>
 
 =>a306
-J'ai découvert ça au quartier général de la sécurité, après avoir réussi à passer ce foutu bioscan... ::Expliquez-lui ce que vous avez découvert.::<end>
+J'en ai entendu parler au Joint Security Headquarters, après avoir réussi à passer ce foutu bioscan... ::Lui expliquer ce que vous avez découvert.::<end>
 
 =>q307_original
 This submarine, $(context.npc_xpbl_oldfield_playerName), it could be the last part of the puzzle. If the Acorn truly is down there, at this Abyssal Station...<end>
 
 =>q307
-Ce sous-marin, $(context.npc_xpbl_oldfield_playerName), pourrait être la dernière partie du puzzle. Si l'Agland est vraiment en bas, à cette station d'Abyssal...<end>
+Ce sous-marin, $(context.npc_xpbl_oldfield_playerName), ça pourrait être la dernière pièce du puzzle. Si l'Acorn est vraiment en bas, à cette Abyssal Station...<end>
 
 =>q308_original
 The only question which remains is: Will this submarine actually work?<end>
@@ -1920,9 +1920,9 @@ You may become the first $(#man/woman) in two centuries to dive in a Lemurian su
 If you need anything, contact me. We're getting so close...<end>
 
 =>q311
-Vous pouvez devenir le premier $(#homme/femme) en deux siècles à plonger dans un sous-marin Lemurian.
+Vous pourriez être $(#le premier homme/la première femme) en deux siècles à plonger dans un sous-marin lémurien.
 
-Si vous avez besoin de quelque chose, contactez-moi. Nous nous rapprochons...<end>
+Si vous avez besoin de quoi que ce soit, contactez-moi. On y est presque...<end>
 
 =>a312_original
 I haven't seen any holes.<end>
@@ -1946,43 +1946,43 @@ Je ne sais pas.<end>
 This would certainly open a new way for us to access these facilities. There would be no need to traverse dangerous waters, but we can instead sail below the surface.<end>
 
 =>q315
-Cela ouvrirait certainement une nouvelle voie à l'accès à ces installations. Il ne serait pas nécessaire de traverser des eaux dangereuses, mais nous pouvons au contraire naviguer sous la surface.<end>
+Ça nous ouvrirait clairement une autre façon d'accéder à ces installations. Plus besoin de traverser des eaux dangereuses : on passerait sous la surface.<end>
 
 =>a316_original
 When I deliver, I deliver, over.<end>
 
 =>a316
-Quand je livre, je livre, fini.<end>
+Quand je livre, je livre. À vous.<end>
 
 =>a317_original
 I don't think you understand. It's a functional submarine. It's damaged and cannot be used to its full capacity, but it has an auto-pilot I may be able to activate, over.<end>
 
 =>a317
-Vous ne comprenez pas. C'est un sous-marin fonctionnel. Il est endommagé et ne peut pas être utilisé à sa pleine capacité, mais il a un pilote automatique que je pourrais être en mesure d'activer, plus.<end>
+Je ne crois pas que vous voyiez. C'est un sous-marin qui marche. Il est endommagé, on ne peut pas s'en servir à pleine capacité, mais il a un pilote automatique que je pourrai peut-être activer. À vous.<end>
 
 =>a318_original
 I don't think you understand. It's a functional submarine. It's damaged and cannot be used to its full capacity, but I've found a way to activate its auto-pilot. I've located this Abyssal Station Zero in the southeastern bay, and that's where I'll be diving, over.<end>
 
 =>a318
-Vous ne comprenez pas. C'est un sous-marin fonctionnel. Il est endommagé et ne peut pas être utilisé à sa pleine capacité, mais j'ai trouvé un moyen d'activer son pilote automatique. J'ai localisé cette station d'Abyssal Zero dans la baie sud-est, et c'est là que je vais plonger.<end>
+Je ne crois pas que vous voyiez. C'est un sous-marin qui marche. Il est endommagé, on ne peut pas s'en servir à pleine capacité, mais j'ai trouvé comment activer son pilote automatique. J'ai localisé Abyssal Station Zero dans la baie sud-est, et c'est là que je plongerai. À vous.<end>
 
 =>a319_original
 Mind answering a couple of questions not related to my current mission?<end>
 
 =>a319
-Tu peux répondre à quelques questions qui ne sont pas liées à ma mission actuelle ?<end>
+Vous pourriez répondre à deux ou trois questions qui n'ont rien à voir avec ma mission du moment ?<end>
 
 =>q320_original
 You mean, over navcom? We better discuss these things in person, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>q320
-Tu veux dire, à propos du navcom ? Nous devrions discuter de ces choses en personne, $(context.npc_xpbl_oldfield_playerName).<end>
+Vous voulez dire, au navcom ? Mieux vaut en parler en personne, $(context.npc_xpbl_oldfield_playerName).<end>
 
 =>q321_original
 See me when you return to the camp and I'll be happy to answer any questions you may have. Over.<end>
 
 =>q321
-Rendez-vous au camp et je serai ravi de répondre à vos questions. À vous.<end>
+Passez me voir à votre retour au camp, et je répondrai volontiers à vos questions. À vous.<end>
 
 =>a322_original
 Where are you right now, professor, at the Keep or in your tent? Over.<end>
@@ -1994,19 +1994,19 @@ Où êtes-vous, professeur, au Keep ou dans votre tente ? À vous.<end>
 I'm in my tent, over.<end>
 
 =>q323
-Je suis dans ma tente.<end>
+Je suis dans ma tente. À vous.<end>
 
 =>q324_original
 I'm in the Arch Island Keep, over.<end>
 
 =>q324
-Je suis dans l'Arch Island Keep.<end>
+Je suis à l'Arch Island Keep. À vous.<end>
 
 =>a325_original
 ::Channel 5 (Doctor Savage)::<end>
 
 =>a325
-::Canal 5 (Doctor Savage)::<end>
+::Canal 5 (Docteur Savage)::<end>
 
 =>q326_original
 <end>
@@ -2018,13 +2018,13 @@ Je suis dans l'Arch Island Keep.<end>
 ::You hear a sigh.:: Just talk to me. Out.<end>
 
 =>q327
-::Vous entendez un soupir.:: Parle-moi. Dehors.<end>
+::Vous entendez un soupir.:: Parlez-moi directement. Terminé.<end>
 
 =>q328_original
 Mmm? Savage speaking.<end>
 
 =>q328
-- Oui. Savage à l'appareil.<end>
+Mm ? Ici Savage.<end>
 
 =>q329_original
 <end>
@@ -2036,7 +2036,7 @@ Mmm? Savage speaking.<end>
 Doc, the muties want some of our medicine in exchange for letting me search for the microchip implant. I have a list of the medication they need, over.<end>
 
 =>a330
-Doc, les muties veulent un peu de notre médicament en échange de me laisser chercher l'implant de micropuce. J'ai une liste des médicaments dont ils ont besoin.<end>
+Doc, les muties veulent une partie de nos médicaments en échange du droit de chercher l'implant micropuce. J'ai la liste de ce qu'il leur faut. À vous.<end>
 
 =>q331_original
 <end>
@@ -2056,7 +2056,7 @@ Doc, les muties veulent un peu de notre médicament en échange de me laisser ch
 Does Chief know about this?<end>
 
 =>q333
-::Il répond avec un retard.::
+::Il répond avec un temps de retard.::
 
 Le chef est au courant ?<end>
 
@@ -2064,7 +2064,7 @@ Le chef est au courant ?<end>
 ::[Persuade]:: No. But you tell him that unless I appease these muties somehow their island's going to turn into a war zone and he's never going to get that implant.<end>
 
 =>a334
-::[Persuade]:: No. Mais dis-lui que si je n'apaise pas ces muties, leur île deviendra une zone de guerre et il n'aura jamais cet implant.<end>
+::[Persuade]:: Non. Mais dites-lui que si je n'arrive pas à calmer ces muties, leur île va tourner à la zone de guerre et il n'aura jamais cet implant.<end>
 
 =>q335_original
 ::He sighs.:: <end>
@@ -2076,7 +2076,7 @@ Le chef est au courant ?<end>
 I see your point...<end>
 
 =>q336
-Je vois votre point...<end>
+Je vois ce que vous voulez dire...<end>
 
 =>q337_original
 ::Silence.::<end>
@@ -2094,7 +2094,7 @@ Je vois votre point...<end>
 They need... ::Read the list.::<end>
 
 =>a339
-Ils ont besoin... ::Lisez la liste.::<end>
+Ils ont besoin... ::Lire la liste.::<end>
 
 =>q340_original
 ::You wait for Doc's response after reading him the list.::<end>
@@ -2112,13 +2112,13 @@ C'est une sacrée liste.<end>
 Yes. I'm short on time, you know.<end>
 
 =>a342
-Oui. Je suis à court de temps, tu sais.<end>
+Oui. Je n'ai pas que ça à faire, vous savez.<end>
 
 =>q343_original
 You do realize that is going out of our *actual* supplies? Not Union Resources or... I don't know what you have here in South Underrail. This will affect us. More for them means less for us.<end>
 
 =>q343
-Tu réalises que ça sort de nos fournitures ? Pas des ressources syndicales ou... Je ne sais pas ce que vous avez dans le Sud Underrail. Cela nous affectera. Plus pour eux signifie moins pour nous.<end>
+Vous vous rendez compte que ça sort de nos *vraies* réserves ? Pas Union Resources ou... je ne sais pas ce que vous avez, vous, dans le South Underrail. Ça va nous impacter. Plus pour eux, moins pour nous.<end>
 
 =>q344_original
 <end>
@@ -2152,25 +2152,25 @@ C'est gentil. Quelqu'un peut l'apporter ?<end>
 Yes. I'll send someone over. ::He sighs.:: Savage out.<end>
 
 =>q348
-Oui. Je vais envoyer quelqu'un. ::Il soupire.:: Savage en dehors.<end>
+Oui. J'envoie quelqu'un. ::Il soupire.:: Savage, terminé.<end>
 
 =>a349_original
 ::Wait for the supplies to arrive.::<end>
 
 =>a349
-::Attendez que les provisions arrivent.::<end>
+::Attendre l'arrivée des provisions::<end>
 
 =>a350_original
 ::Wait for the supplies to arrive.::<end>
 
 =>a350
-::Attendez que les provisions arrivent.::<end>
+::Attendre l'arrivée des provisions::<end>
 
 =>a351_original
 Well, when you put it that way...<end>
 
 =>a351
-Eh bien, quand tu le dis comme ça...<end>
+Bon, quand vous le dites comme ça...<end>
 
 =>q352_original
 So?<end>
@@ -2182,7 +2182,7 @@ Alors ?<end>
 Forget about it. I'll figure something out.<end>
 
 =>a353
-Oublie ça. Je trouverai quelque chose.<end>
+Laissez tomber. Je me débrouillerai.<end>
 
 =>q354_original
 Is that everything?<end>
@@ -2194,7 +2194,7 @@ C'est tout ?<end>
 Come on, Doc, can't we spare at least something?<end>
 
 =>a355
-Allez, Doc, on ne peut pas au moins épargner quelque chose ?<end>
+Allez, Doc, on ne peut vraiment rien lâcher ?<end>
 
 =>q356_original
 Damn it...<end>
@@ -2208,21 +2208,21 @@ No, no. Sorry, $(context.player.Name), but I can't help you. I can't afford to b
 Just forget about it, okay?<end>
 
 =>q357
-Non, pas du tout. Désolé, $(context.player.Name), mais je ne peux pas vous aider. Je ne peux pas me permettre de gaspiller des ressources. Et Chef Briggs...
+Non, non. Désolé, $(context.player.Name), mais je ne peux pas vous aider. On n'a pas les moyens de gâcher des ressources. Et le chef Briggs...
 
-Oublie ça.<end>
+Oubliez ça, d'accord ?<end>
 
 =>a358_original
 Doc...<end>
 
 =>a358
-Docteur...<end>
+Doc...<end>
 
 =>q359_original
 Stop.<end>
 
 =>q359
-Arrête.<end>
+Stop.<end>
 
 =>q360_original
 Now, was there anything else you needed or...?<end>
@@ -2246,7 +2246,7 @@ Oui. Il m'a dit de vous contacter.<end>
 Doc, we need to send some of our medical supplies to the muties, over.<end>
 
 =>a363
-Doc, nous devons envoyer quelques-uns de nos fournitures médicales aux muties, terminé.<end>
+Doc, il faut envoyer une partie de nos réserves médicales aux muties. À vous.<end>
 
 =>q364_original
 Why? We already have the implant.<end>
@@ -2264,7 +2264,7 @@ Je leur ai promis.<end>
 I can't help you. We have the implant already and can't afford to be wasting resources.<end>
 
 =>q366
-Je ne peux pas t'aider. Nous avons déjà l'implant et nous ne pouvons pas nous permettre de gaspiller des ressources.<end>
+Je ne peux pas vous aider. On a déjà l'implant, et on n'a pas les moyens de gâcher des ressources.<end>
 
 =>a367_original
 They need it, Doc.<end>
@@ -2276,13 +2276,13 @@ Ils en ont besoin, Doc.<end>
 Stop asking questions and work with me here.<end>
 
 =>a368
-Arrête de poser des questions et travaille avec moi ici.<end>
+Arrêtez de poser des questions et donnez-moi un coup de main.<end>
 
 =>a369_original
 About those supplies for the muties...<end>
 
 =>a369
-A propos de ces fournitures pour les muties...<end>
+Au sujet de ces réserves pour les muties...<end>
 
 =>q370_original
 ::He sighs.:: We already have the implant. Why are we talking about this?<end>
@@ -2294,25 +2294,25 @@ A propos de ces fournitures pour les muties...<end>
 Doc, could you possibly implant a microchip into my hand, over?<end>
 
 =>a371
-Doc, pourriez-vous implanter une puce dans ma main ?<end>
+Doc, vous pourriez m'implanter une micropuce dans la main ? À vous.<end>
 
 =>q372_original
 Are you... out of your mind? You want to put... Wait, what implant? NFT's?<end>
 
 =>q372
-Tu es... folle ? Tu veux dire... Attends, quel implant ? Chez NFT ?<end>
+Vous avez... perdu la tête ? Vous voulez poser... Attendez, quel implant ? Celui de NFT ?<end>
 
 =>a373_original
 ::[Intelligence]:: Yes. I can't get past a bioscanning chamber at the military base to the north, and it has to be because I'm using the arm, yet without the arm I can't get authorized. So maybe if I implant the chip in my own hand I'll be able to pass the scan. Over.<end>
 
 =>a373
-::[Intelligence]:: Oui. Je ne peux pas passer une chambre de bioscannage à la base militaire au nord, et ça doit être parce que j'utilise le bras, mais sans le bras je ne peux pas être autorisé. Donc peut-être que si j'implante la puce dans ma propre main, je pourrais passer le scan. À vous.<end>
+::[Intelligence]:: Oui. Je n'arrive pas à passer la chambre de bioscan de la base militaire au nord. Ça doit venir du fait que je me sers du bras, mais sans le bras le scan ne m'autorise pas. Alors si j'implante la puce dans ma propre main, je passerai peut-être. À vous.<end>
 
 =>q374_original
 Uh... I'm not following you at all, but I still can't do that. <end>
 
 =>q374
-Je ne te suis pas du tout, mais je ne peux toujours pas faire ça. <end>
+Je ne vous suis pas du tout, mais je ne peux toujours pas faire ça. <end>
 
 =>q375_original
 I don't have the proper tools, and not to mention all the other risks I see with a procedure like that in these conditions.<end>
@@ -2326,15 +2326,15 @@ But if you still find a way to do it... ::He sighs.:: I got an extraction tool I
 If you get yourself an implant, I can get it out. Over.<end>
 
 =>q376
-Mais si vous trouvez encore un moyen de le faire... ::Il soupire.:: J'ai un outil d'extraction pour... Qu'est-ce que ça peut te faire ?
+Mais si vous trouvez quand même le moyen de le faire... ::Il soupire.:: J'ai un outil d'extraction que j'utilise pour... Oh, qu'est-ce que ça peut vous faire.
 
-Si tu as un implant, je peux le sortir. À vous.<end>
+Si vous vous faites poser un implant, je pourrai vous l'enlever. À vous.<end>
 
 =>a377_original
 Yes. I can't get past a bioscanning chamber at the military base to the north. Maybe if I put that thing in my hand I'll be able to. Over.<end>
 
 =>a377
-Oui. Je ne peux pas passer une chambre de bioscannage à la base militaire au nord. Peut-être que si je mets ce truc dans ma main, je pourrai. À vous.<end>
+Oui. Je n'arrive pas à passer la chambre de bioscan de la base militaire au nord. Peut-être que si je me mets ce truc dans la main, ça passera. À vous.<end>
 
 =>q378_original
 Sorry, $(context.player.Name), but I can't do that. <end>
@@ -2352,31 +2352,31 @@ Désolé, $(context.player.Name), mais je ne peux pas faire ça. <end>
 ::[Intelligence]:: I can't get past a bioscanning chamber at the military base to the north, and it has to be because I'm using the arm, yet without the arm I can't get authorized. So maybe if I implant the chip in my own hand I'll be able to pass the scan. Over.<end>
 
 =>a380
-::[Intelligence]:: Je ne peux pas passer une chambre de bioscannage à la base militaire au nord, et ça doit être parce que j'utilise le bras, mais sans le bras je ne peux pas être autorisé. Donc peut-être que si j'implante la puce dans ma propre main, je pourrais passer le scan. À vous.<end>
+::[Intelligence]:: Je n'arrive pas à passer la chambre de bioscan de la base militaire au nord. Ça doit venir du fait que je me sers du bras, mais sans le bras le scan ne m'autorise pas. Alors si j'implante la puce dans ma propre main, je passerai peut-être. À vous.<end>
 
 =>a381_original
 I can't get past a bioscanning chamber at the military base to the north. Maybe if I put that thing in my hand I'll be able to, over.<end>
 
 =>a381
-Je ne peux pas passer une chambre de bioscannage à la base militaire au nord. Peut-être que si je mets ce truc dans ma main, je pourrai, plus.<end>
+Je n'arrive pas à passer la chambre de bioscan de la base militaire au nord. Peut-être que si je me mets ce truc dans la main, ça passera. À vous.<end>
 
 =>a382_original
 Heya, Doc. How's the addiction?<end>
 
 =>a382
-Hé, docteur. Comment va la dépendance ?<end>
+Hé, Doc. Et l'addiction, ça va ?<end>
 
 =>a383_original
 ::Channel 6 (Recovery Team Alfa)::<end>
 
 =>a383
-::Canal 6 (équipe de rétablissement Alfa)::<end>
+::Canal 6 (Recovery Team Alfa)::<end>
 
 =>q384_original
 This is RTA leader speaking, over.<end>
 
 =>q384
-C'est le chef de la RTA qui parle.<end>
+Ici le chef RTA. À vous.<end>
 
 =>q385_original
 <end>
@@ -2396,9 +2396,9 @@ It's you, isn't it?
 We're gonna get you, treacherous bastard.<end>
 
 =>q387
-C'est toi, n'est-ce pas ?
+C'est vous, hein ?
 
-On va te chercher, sale traître.<end>
+On va vous avoir, sale traître.<end>
 
 =>a388_original
 Report. Over.<end>
@@ -2428,13 +2428,13 @@ Rapport. À vous.<end>
 We're holding position, over. ::You hear gunfire in the background.:: Eat this! ::Gunfire continues.::<end>
 
 =>q392
-Nous tenons position. ::Vous entendez des coups de feu en arrière-plan.:: Mangez ça ! ::Les coups de feu continuent.::<end>
+On tient la position. À vous. ::Vous entendez des coups de feu en arrière-plan.:: Prends ça ! ::Les coups de feu continuent.::<end>
 
 =>q393_original
 We're... we're low on men... ::You hear gunfire in the background.:: There are so many... ::Gunfire continues.::<end>
 
 =>q393
-Nous sommes... nous sommes faibles avec les hommes... ::Vous entendez des coups de feu en arrière-plan.:: Il y en a tellement... ::Les coups de feu continuent.::<end>
+On est... on est à court d'hommes... ::Vous entendez des coups de feu en arrière-plan.:: Ils sont trop nombreux... ::Les coups de feu continuent.::<end>
 
 =>q394_original
 We're in the camp. Over.<end>
@@ -2452,7 +2452,7 @@ On est dans le camp. À vous.<end>
 We've been ambushed by a giant hermit crab. Neutralized it before it could get close. This one was hiding in an NFT crate. Be on the lookout. <end>
 
 =>q396
-Nous avons été pris en embuscade par un gros crabe ermite. Il l'a neutralisé avant qu'il puisse se rapprocher. Celui-ci se cachait dans une caisse NFT. Soyez à l'affût. <end>
+On s'est fait tendre une embuscade par un crabe ermite géant. Neutralisé avant qu'il s'approche. Celui-là se planquait dans une caisse NFT. Restez à l'œil. <end>
 
 =>q397_original
 
@@ -2460,19 +2460,19 @@ Resuming mission, over.<end>
 
 =>q397
 
-Reprise de la mission.<end>
+Reprise de mission. À vous.<end>
 
 =>q398_original
 We recently engaged giant insects capable of long-ranged attacks. They live in three to four meters tall hives and are highly defensive. We're trying to avoid these hives as much as possible but there is simply too many of them. <end>
 
 =>q398
-Nous avons récemment engagé des insectes géants capables d'attaques à longue portée. Ils vivent dans des ruches de trois à quatre mètres de haut et sont très défensifs. Nous essayons d'éviter ces ruches autant que possible, mais il y en a tout simplement trop. <end>
+On a récemment engagé des insectes géants capables d'attaques à distance. Ils vivent dans des nids de trois à quatre mètres de haut, très défensifs. On essaie d'éviter ces nids autant que possible, mais il y en a tout simplement trop. <end>
 
 =>q399_original
 We engaged a group of natives. Neutralized one, the rest retreated. No casualties on our sides. <end>
 
 =>q399
-Nous avons engagé un groupe de indigènes. Neutralisé, le reste s'est retiré. Pas de victimes de nos côtés. <end>
+On a engagé un groupe d'indigènes. Un de neutralisé, les autres ont battu en retraite. Aucune perte de notre côté. <end>
 
 =>q400_original
 Nothing t--
@@ -2480,15 +2480,15 @@ Nothing t--
 ::You hear loud screeching followed by silence.::<end>
 
 =>q400
-Rien...
+Rien à si--
 
-::Vous entendez de grands cris suivis de silence.::<end>
+::Vous entendez un cri strident, puis le silence.::<end>
 
 =>q401_original
 Everything's okay. Your voice disturbed some bats. We have nothing new to report. <end>
 
 =>q401
-Tout va bien. Ta voix a perturbé des chauves-souris. Nous n'avons rien de nouveau à signaler. <end>
+Tout va bien. Votre voix a dérangé des chauves-souris. Rien de nouveau à signaler. <end>
 
 =>q402_original
 Nothing new to report. <end>
@@ -2506,13 +2506,13 @@ Nous sommes en mouvement. À vous.<end>
 ::Channel 7 (Camp security)::<end>
 
 =>a404
-::Chaîne 7 (sécurité du camp)::<end>
+::Canal 7 (Sécurité du camp)::<end>
 
 =>q405_original
 Wilson here, over.<end>
 
 =>q405
-Wilson, par ici.<end>
+Ici Wilson. À vous.<end>
 
 =>q406_original
 <end>
@@ -2524,13 +2524,13 @@ Wilson, par ici.<end>
 What's your status? Over.<end>
 
 =>a407
-Quel est votre statut ? À vous.<end>
+Votre situation ? À vous.<end>
 
 =>q408_original
 No hostiles in sight. Ready to move out, over.<end>
 
 =>q408
-Aucun ennemi en vue. Prêt à partir.<end>
+Aucun hostile en vue. Prêts à partir. À vous.<end>
 
 =>q409_original
 <end>
@@ -2550,7 +2550,7 @@ Our defenses are spread real thin. I don't know if we can take another attack.
 Over.<end>
 
 =>q411
-Nos défenses sont très minces. Je ne sais pas si on peut faire une autre attaque.
+Nos défenses sont étirées au maximum. Je ne sais pas si on encaisserait une autre attaque.
 
 À vous.<end>
 
@@ -2558,7 +2558,7 @@ Nos défenses sont très minces. Je ne sais pas si on peut faire une autre attaq
 We're starting to feel the casualties, but so far so good. Everything is in order otherwise, and no hostiles in sight. Over.<end>
 
 =>q412
-Nous commençons à ressentir les pertes, mais jusqu'à présent, si bien. Tout est en ordre autrement, et aucun ennemi en vue. À vous.<end>
+On commence à sentir les pertes, mais jusqu'ici ça va. Le reste est en ordre, aucun hostile en vue. À vous.<end>
 
 =>q413_original
 <end>
@@ -2570,19 +2570,19 @@ Nous commençons à ressentir les pertes, mais jusqu'à présent, si bien. Tout 
 Everything is in order. No hostiles in sight, over.<end>
 
 =>q414
-Tout est en ordre. Pas d'ennemis en vue.<end>
+Tout est en ordre. Aucun hostile en vue. À vous.<end>
 
 =>q415_original
 Business as usual. No hostile activities, over.<end>
 
 =>q415
-Comme d'habitude. Pas d'activités hostiles.<end>
+Comme d'habitude. Aucune activité hostile. À vous.<end>
 
 =>a416_original
 ::Channel 8 (Jet ski patrols)::<end>
 
 =>a416
-::Canal 8 (patrouilles de ski de Jet)::<end>
+::Canal 8 (Patrouilles jet ski)::<end>
 
 =>q417_original
 <end>
@@ -2618,7 +2618,7 @@ Rapport. À vous.<end>
 We're... trying to pick off as many as we can... ::You hear gunfire and water splashing in the background.:: <end>
 
 =>q422
-On essaie de choisir autant que possible... ::Vous entendez des coups de feu et des éclaboussures dans le fond.:: <end>
+On... essaie d'en descendre un maximum... ::Vous entendez des coups de feu et des éclaboussures en arrière-plan.:: <end>
 
 =>q423_original
 <end>
@@ -2630,7 +2630,7 @@ On essaie de choisir autant que possible... ::Vous entendez des coups de feu et 
 Perimeter is secured. We're staying on patrol until the last ship leaves the island, over.<end>
 
 =>q424
-Le périmètre est sécurisé. On reste en patrouille jusqu'à ce que le dernier vaisseau quitte l'île.<end>
+Le périmètre est sécurisé. On reste en patrouille jusqu'à ce que le dernier navire quitte l'île. À vous.<end>
 
 =>q425_original
 <end>
@@ -2644,9 +2644,9 @@ Several patrols have reported spotting something large passing underneath them, 
 I hope it's just fatigue, but be ready for anything. Over.<end>
 
 =>q426
-Plusieurs patrouilles ont signalé avoir repéré quelque chose de grand passant sous elles, serpentine de forme et de plus de quinze ou même vingt mètres de long. En dehors de cela, les descriptions diffèrent radicalement.
+Plusieurs patrouilles ont signalé quelque chose de gros qui passait sous elles, forme de serpent, plus de quinze voire vingt mètres de long. À part ça, les descriptions divergent complètement.
 
-J'espère que c'est juste de la fatigue, mais soyez prêt à tout. À vous.<end>
+J'espère que c'est la fatigue, mais soyez prêts à tout. À vous.<end>
 
 =>q427_original
 The waters are calm at the moment. <end>
@@ -2658,7 +2658,7 @@ Les eaux sont calmes en ce moment. <end>
 Resuming patrol, over.<end>
 
 =>q428
-Reprise de la patrouille.<end>
+Reprise de patrouille. À vous.<end>
 
 =>q429_original
 The insects northeast have become more aggressive, engaging passing patrols from greater distance. 
@@ -2666,21 +2666,21 @@ The insects northeast have become more aggressive, engaging passing patrols from
 There are no friendly casualties, over.<end>
 
 =>q429
-Les insectes du nord-est sont devenus plus agressifs, engageant des patrouilles de passage à plus grande distance.
+Les insectes au nord-est sont devenus plus agressifs : ils engagent les patrouilles de plus loin.
 
-Il n'y a pas de victimes amicales.<end>
+Aucune perte de notre côté. À vous.<end>
 
 =>q430_original
 Recently encountered green serpents. Scared them off. Nothing else to report. Over.<end>
 
 =>q430
-Récemment rencontré serpents verts. Ils les ont effrayés. Rien d'autre à signaler. À vous.<end>
+On a croisé des serpents verts récemment. On les a fait déguerpir. Rien d'autre à signaler. À vous.<end>
 
 =>q431_original
 A previously unreported kind of serpent attacked Sierra-Seven. He's okay. The snake has retreated after being wounded. It's blue in color, larger than the other types and capable of spitting caustic projectiles at great distances. Highly dangerous. Be on the lookout. Over.<end>
 
 =>q431
-Un serpent qui n'avait jamais été rapporté attaqua Sierra-Seven. Il va bien. Le serpent s'est retiré après avoir été blessé. Il est bleu de couleur, plus grand que les autres types et capable de cracher des projectiles caustiques à de grandes distances. Très dangereux. Soyez à l'affût. À vous.<end>
+Un type de serpent jamais signalé a attaqué Sierra-Seven. Il va bien. Le serpent a battu en retraite une fois blessé. Il est bleu, plus gros que les autres, et capable de cracher des projectiles caustiques à longue distance. Très dangereux. Ouvrez l'œil. À vous.<end>
 
 =>q432_original
 All is clear at the moment. <end>
@@ -2692,7 +2692,7 @@ Tout est clair pour le moment. <end>
 This is Jenkins, over.<end>
 
 =>q433
-C'est Jenkins, fini.<end>
+Ici Jenkins. À vous.<end>
 
 =>a434_original
 ::Back::<end>
@@ -2704,13 +2704,13 @@ C'est Jenkins, fini.<end>
 ::You look at the navcom.::<end>
 
 =>q435
-::Regardez le navcom.::<end>
+::Vous regardez le navcom.::<end>
 
 =>a436_original
 ::Manually select a frequency.::<end>
 
 =>a436
-::Sélectionnez manuellement une fréquence.::<end>
+::Sélectionner une fréquence manuellement::<end>
 
 =>q437_original
 ::Select frequency::<end>
@@ -2728,7 +2728,7 @@ C'est Jenkins, fini.<end>
 ::27.894 MHz::<end>
 
 =>a439
-::27,894 MHz::<end>
+::27.894 MHz::<end>
 
 =>q440_original
 ::You dial in the frequency.::<end>
@@ -2752,25 +2752,25 @@ Il y a quelqu'un ? À vous.<end>
 Hey dere. <end>
 
 =>q443
-Hé, enragé. <end>
+Hé. <end>
 
 =>q444_original
 Who gave ye dis frequency?<end>
 
 =>q444
-Qui vous a donné de la fréquence ?<end>
+Qui t'a filé c'te fréquence ?<end>
 
 =>a445_original
 No one, I found it on my own.<end>
 
 =>a445
-Personne, je l'ai trouvé tout seul.<end>
+Personne, je l'ai trouvée tout seul.<end>
 
 =>q446_original
 Well, git off. 'S fer important business 'n' d' Cap'n said dere can't be anyone on d' frequency but me 'n'... mates. So don' be a dumbat 'n' get off, c'mon.<end>
 
 =>q446
-Eh bien, arrête. 'S fer important business 'n' d'' Cap'n dit que ne peut être personne sur la fréquence d ' mais moi 'n'... potes. Alors, ne sois pas idiote.<end>
+Barre-toi. C'est pour un truc important, et l'Cap'n a dit qu'y a que moi et... les mates sur c'te fréquence. Alors fais pas l'dumbat et casse-toi, allez.<end>
 
 =>a447_original
 Who else?<end>
@@ -2782,7 +2782,7 @@ Qui d'autre ?<end>
 *Mates*. Now git off.<end>
 
 =>q448
-*Matières*. Allez.<end>
+*Les mates*. Allez, ouste.<end>
 
 =>a449_original
 Who is this anyway?<end>
@@ -2794,13 +2794,13 @@ Qui est-ce ?<end>
 Dis is Lord Git off D' Damned Frequency!<end>
 
 =>q450
-Dis, c'est Lord Git hors de la fréquence de la damnée !<end>
+C'est lord Barre-toi-d'cette-putain-de-fréquence !<end>
 
 =>a451_original
 Fine, man, fine. I'm gone.<end>
 
 =>a451
-Très bien. Je suis parti.<end>
+Bon, bon. Je me casse.<end>
 
 =>q452_original
 Dumbat... <end>
@@ -2818,13 +2818,13 @@ Dumbat... <end>
 ::You hear nothing but static.::<end>
 
 =>q454
-::Vous n'entendez que statique.::<end>
+::Vous n'entendez que des grésillements.::<end>
 
 =>a455_original
 Sorry to have bothered you, mate. Out.<end>
 
 =>a455
-Désolé de t'avoir dérangé. Dehors.<end>
+Désolé de t'avoir dérangé, mate. Terminé.<end>
 
 =>a456_original
 Who is this anyway? Over.<end>
@@ -2842,13 +2842,13 @@ Qui d'autre ? À vous.<end>
 No one, I found it on my own, over.<end>
 
 =>a458
-Personne, je l'ai trouvé tout seul.<end>
+Personne, je l'ai trouvée tout seul. À vous.<end>
 
 =>a459_original
 $(context.player.Name) callin'.<end>
 
 =>a459
-$(context.player.Name) qui appelle.<end>
+$(context.player.Name) à l'appareil.<end>
 
 =>a460_original
 This is the one and only - Invictus.<end>
@@ -2860,7 +2860,7 @@ C'est le seul et unique - Invictus.<end>
 Dat ye $(context.player.Name)? <end>
 
 =>q461
-Dat vous $(context.player.Name)? <end>
+C'est toi, $(context.player.Name) ? <end>
 
 =>a462_original
 This is, um, $(#Jimmy/Jenny).<end>
@@ -2886,9 +2886,9 @@ So, how ye likin' me girl, eh, ye back-bladin' rat? Huh? HUH? Oh, I found out, I
 Yer fish chomp, banga...<end>
 
 =>q465
-Alors, comment tu m'aimes, hein ? Quoi ? Oui ? Oh, j'ai découvert, j'en suis sûr. Maintenant, laissez-moi vous dire un secret : D'ici demain, tu seras un poisson.
+Alors, elle te plaît, ma nana, hein, espèce de rat de derrière ? Hein ? HEIN ? Oh, j'ai pigé, j'ai bien pigé. Petit secret : demain t'es de la pâtée à poissons.
 
-C'est du poisson, banga...<end>
+T'es de la pâtée à poissons, banga...<end>
 
 =>q466_original
 Jenny... I heard sumthin', Jenny. I heard ye had sum dam' bangin' time wit' dat Jimmy D' Barrel. I was a clod fer trustin' a floozy who gave it to a fat, stinkin' deucer d' momen' I turned 'round.
@@ -2896,33 +2896,33 @@ Jenny... I heard sumthin', Jenny. I heard ye had sum dam' bangin' time wit' dat 
 Yer fish chomp. Yer both fish chomp, ye fisheyed serpent!<end>
 
 =>q466
-Jenny, j'ai entendu un résumé. J'ai entendu dire que vous aviez une somme de dam' putain de temps avec Jimmy D' Barrel. J'étais un clod fer confiant en un floozy qui l'a donné à un gros et puant deucer d' maman.
+Jenny... j'ai entendu un truc, Jenny. J'ai entendu que t'avais passé un putain de bon moment avec ce Jimmy D' Barrel. J'étais une andouille de faire confiance à une traînée qui l'a donné à un gros deucer puant dès que j'ai tourné le dos.
 
-C'est du poisson. Yer à la fois poisson chomp, serpent pêché!<end>
+T'es de la pâtée à poissons. Vous l'êtes tous les deux, espèce de serpent aux yeux de poisson !<end>
 
 =>a467_original
 No, it's me, $(context.player.Name), the new $(#guy/girl).<end>
 
 =>a467
-Non, c'est moi, $(context.player.Name), le nouveau $(#gars/fille).<end>
+Non, c'est moi, $(context.player.Name), $(#le nouveau/la nouvelle).<end>
 
 =>q468_original
 Oh, hey. <end>
 
 =>q468
-Bonjour. <end>
+Oh, hé. <end>
 
 =>a469_original
 Yelloooooooooooooo...<end>
 
 =>a469
-C'est quoi ?<end>
+Allôôôôôôôôôôôôôôôô...<end>
 
 =>q470_original
 Take it easy, banga, take it easy! Yer splittin' me ears. <end>
 
 =>q470
-Du calme, banga, du calme ! Yer me partage les oreilles. <end>
+Du calme, banga, du calme ! Tu m'éclates les oreilles. <end>
 
 =>a471_original
 Can anyone hear me?<end>
@@ -2934,7 +2934,7 @@ Quelqu'un m'entend ?<end>
 Yea, yea, I can hear ye. <end>
 
 =>q472
-Oui, oui, je vous entends. <end>
+Ouais, ouais, je t'entends. <end>
 
 =>a473_original
 I've got a gift for you...<end>
@@ -2946,31 +2946,31 @@ J'ai un cadeau pour toi...<end>
 A gift? What kinda gift? Wait, who's dis? <end>
 
 =>q474
-Un cadeau ? Quel cadeau ? Attends, qui est dis ? <end>
+Un cadeau ? Quel genre de cadeau ? Attends, c'est qui, là ? <end>
 
 =>a475_original
 AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
 
 =>a475
-AAAAAAAAAAAAAAAAAAAaaaaaa AAAAAAAaaa AAAAAAAAAAAAA!<end>
+AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
 
 =>a476_original
 ::Change frequency.::<end>
 
 =>a476
-::Changer de fréquence.::<end>
+::Changer de fréquence::<end>
 
 =>a477_original
 ::22.787 MHz (Ferryman)::<end>
 
 =>a477
-::22,787 MHz (Ferryman)::<end>
+::22.787 MHz (Ferryman)::<end>
 
 =>q478_original
 ::Static.::<end>
 
 =>q478
-::Statique.::<end>
+::Grésillements.::<end>
 
 =>q479_original
 ::After a short delay and some jarring static.::
@@ -2978,7 +2978,7 @@ AAAAAAAAAAAAAAAAAAAaaaaaa AAAAAAAaaa AAAAAAAAAAAAA!<end>
 <end>
 
 =>q479
-::Après un court délai et quelques embrayages statiques.::
+::Après un court silence, puis des grésillements stridents.::
 
 <end>
 
@@ -2992,31 +2992,31 @@ AAAAAAAAAAAAAAAAAAAaaaaaa AAAAAAAaaa AAAAAAAAAAAAA!<end>
 I ::static:: --n hear your jet. <end>
 
 =>q481
-J'entends votre jet. <end>
+J' ::static:: --ends ton jet. <end>
 
 =>q482_original
 Come to the fe-- ::static::.<end>
 
 =>q482
-Venez au ::statique::.<end>
+Viens au fe-- ::static::.<end>
 
 =>a483_original
 Got it. Out.<end>
 
 =>a483
-Compris. Dehors.<end>
+Compris. Terminé.<end>
 
 =>q484_original
 Yea... ::static:: --eah.<end>
 
 =>q484
-Oui... ::statique:: -- eah.<end>
+Ouais... ::static:: --uais.<end>
 
 =>q485_original
 Hey, kid. ::static::<end>
 
 =>q485
-Hé, petit. ::statique::<end>
+Hé, gamin. ::static::<end>
 
 =>q486_original
 <end>
@@ -3028,61 +3028,61 @@ Hé, petit. ::statique::<end>
 I'm in position to load those naval mines, over.<end>
 
 =>a487
-Je suis en position de charger ces mines navales.<end>
+Je suis en position pour charger les mines navales. À vous.<end>
 
 =>q488_original
 Is th-- ::static:: area clear?<end>
 
 =>q488
-La zone ::statique:: est-elle dégagée ?<end>
+La zo-- ::static:: est dégagée ?<end>
 
 =>a489_original
 Yes, both the warehouse and the dock outside, over.<end>
 
 =>a489
-Oui, l'entrepôt et le quai à l'extérieur.<end>
+Oui, l'entrepôt et le quai dehors. À vous.<end>
 
 =>q490_original
 Got-- ::static.:: the coins?<end>
 
 =>q490
-Vous avez... ::statique.:: les pièces ?<end>
+T'as-- ::static.:: les pièces ?<end>
 
 =>a491_original
 Yes. Six hundred, as was the deal. Over.<end>
 
 =>a491
-Oui. Six cents, tout comme le marché. À vous.<end>
+Oui. Six cents, comme convenu. À vous.<end>
 
 =>q492_original
 Good-- ::static:: do I get there?<end>
 
 =>q492
-C'est bien, ::statique:: ?<end>
+Bien-- ::static:: j'y vais comment ?<end>
 
 =>a493_original
 It's right past the Pirate Bay, then you go... ::Explain to him how to reach you and help him load the naval mines.::<end>
 
 =>a493
-C'est juste après la baie de Pirate, puis tu vas... ::Expliquez-lui comment vous joindre et l'aider à charger les mines navales.::<end>
+C'est juste après la baie pirate, ensuite tu vas... ::Lui expliquer comment vous rejoindre et l'aider à charger les mines navales.::<end>
 
 =>a494_original
 Yes. Seven hundred, as was the deal. Over.<end>
 
 =>a494
-Oui. Sept cents, tout comme le marché. À vous.<end>
+Oui. Sept cents, comme convenu. À vous.<end>
 
 =>a495_original
 Yes. Eight hundred, as was the deal. Over.<end>
 
 =>a495
-Oui. 800, tout comme le marché. À vous.<end>
+Oui. Huit cents, comme convenu. À vous.<end>
 
 =>a496_original
 Yes. One thousand, as was the deal. Over.<end>
 
 =>a496
-Oui. Mille, tout comme le marché. À vous.<end>
+Oui. Mille, comme convenu. À vous.<end>
 
 =>a497_original
 I don't have it. Over.<end>
@@ -3094,55 +3094,55 @@ Je ne l'ai pas. À vous.<end>
 Then-- ::static:: --no. We had a deal.<end>
 
 =>q498
-Alors... ::statique:: --non. Nous avions un marché.<end>
+Alors-- ::static:: --non. On avait un accord.<end>
 
 =>q499_original
 Get the-- ::static:: --then speak to me.<end>
 
 =>q499
-Prends le... ::statique:: -- alors parle-moi.<end>
+Ramène le-- ::static:: --et tu me rappelles.<end>
 
 =>a500_original
 The warehouse is clear, but there are still creatures at the dock outside, just east, over.<end>
 
 =>a500
-L'entrepôt est dégagé, mais il y a encore des créatures à l'extérieur, juste à l'est, au-dessus.<end>
+L'entrepôt est dégagé, mais il reste des créatures au quai dehors, juste à l'est. À vous.<end>
 
 =>q501_original
 We had-- ::static:: --no-- ::static:: --until it's clear.<end>
 
 =>q501
-Nous avions-- ::statique:: --non-- ::statique:: -- jusqu'à ce que ce soit clair.<end>
+On avait-- ::static:: --non-- ::static:: --tant que c'est pas dégagé.<end>
 
 =>a502_original
 The dock outside is clear, but there are still creatures in the warehouse, over.<end>
 
 =>a502
-Le quai est dégagé, mais il y a encore des créatures dans l'entrepôt.<end>
+Le quai dehors est dégagé, mais il reste des créatures dans l'entrepôt. À vous.<end>
 
 =>a503_original
 No. There are still creatures both inside the warehouse and at the dock outside, just east.<end>
 
 =>a503
-C'est pas vrai. Il y a encore des créatures à l'intérieur de l'entrepôt et au quai à l'extérieur, juste à l'est.<end>
+Non. Il reste des créatures dans l'entrepôt et au quai dehors, juste à l'est.<end>
 
 =>a504_original
 The submarine is ready to be towed to the south-eastern part of the Black Sea. There's supposed to be an elevator there leading to a deep sea mining station. Over.<end>
 
 =>a504
-Le sous-marin est prêt à être remorqué au sud-est du Black Sea. Il y a un ascenseur qui mène à une station minière. À vous.<end>
+Le sous-marin est prêt à être remorqué vers le sud-est de la Black Sea. Il devrait y avoir un ascenseur là-bas, vers une station minière en eaux profondes. À vous.<end>
 
 =>q505_original
 Mhm. I know whe-- ::static.:: --soon-- ::static.:: --aiting for you there.<end>
 
 =>q505
-Oui. Je sais... ::statique.:: -- bientôt... ::statique.:: -- en train de vous aider.<end>
+Mhm. Je sais o-- ::static.:: --bientôt-- ::static.:: --tends sur place.<end>
 
 =>a506_original
 Thanks, over.<end>
 
 =>a506
-Merci, fini.<end>
+Merci. À vous.<end>
 
 =>q507_original
 ::His response is unintelligible.::<end>
@@ -3160,7 +3160,7 @@ Où es-tu maintenant ? À vous.<end>
 I'm at $(context.npc_xpbl_ferryman_currentLocation). ::You hear him puffing smoke directly into the microphone.::<end>
 
 =>q509
-Je suis au $(context.npc_xpbl_ferryman_currentLocation). ::Vous l'entendez souffler de la fumée directement dans le microphone.::<end>
+Je suis à $(context.npc_xpbl_ferryman_currentLocation). ::Vous l'entendez souffler la fumée direct dans le micro.::<end>
 
 =>a510_original
 And after that? Over.<end>
@@ -3172,37 +3172,37 @@ Et après ça ? À vous.<end>
 First $(context.npc_xpbl_ferryman_firstNextLocation), the-- ::static:: $(context.npc_xpbl_ferryman_secondNextLocation). That-- ::static:: plan.<end>
 
 =>q511
-Première $(context.npc_xpbl_ferryman_firstNextLocation), le-- ::statique:: $(context.npc_xpbl_ferryman_secondNextLocation). Ça... ::statique:: plan.<end>
+D'abord $(context.npc_xpbl_ferryman_firstNextLocation), le-- ::static:: $(context.npc_xpbl_ferryman_secondNextLocation). Ça-- ::static:: plan.<end>
 
 =>a512_original
 Thanks, over.<end>
 
 =>a512
-Merci, fini.<end>
+Merci. À vous.<end>
 
 =>q513_original
 ::You hear nothing. Even though you can't see him, you get the feeling that he just nodded.::<end>
 
 =>q513
-::Vous n'entendez rien. Même si tu ne peux pas le voir, tu as l'impression qu'il vient de hocher la tête.::<end>
+::Vous n'entendez rien. Même sans le voir, vous avez l'impression qu'il vient de hocher la tête.::<end>
 
 =>q514_original
 ::You hear nothing but static::<end>
 
 =>q514
-::Vous n'entendez que statique::<end>
+::Vous n'entendez que des grésillements::<end>
 
 =>a515_original
 I need something moved to another location.<end>
 
 =>a515
-J'ai besoin d'un autre endroit.<end>
+J'ai besoin de faire déplacer un truc.<end>
 
 =>q516_original
 Find m-- ::static:: ...I'm at $(context.npc_xpbl_ferryman_currentLocation).<end>
 
 =>q516
-Trouver m-- ::statique:: ...Je suis à $(context.npc_xpbl_ferryman_currentLocation).<end>
+Viens m-- ::static:: ...Je suis à $(context.npc_xpbl_ferryman_currentLocation).<end>
 
 =>q517_original
 ::The rest is unintelligible.::<end>
@@ -3214,19 +3214,19 @@ Trouver m-- ::statique:: ...Je suis à $(context.npc_xpbl_ferryman_currentLocati
 That's all. Out.<end>
 
 =>a518
-C'est tout. Dehors.<end>
+C'est tout. Terminé.<end>
 
 =>q519_original
 Speak.<end>
 
 =>q519
-Parler.<end>
+Parle.<end>
 
 =>a520_original
 ::Check stored coordinates.::<end>
 
 =>a520
-::Vérifiez les coordonnées stockées.::<end>
+::Consulter les coordonnées enregistrées::<end>
 
 =>q521_original
 ::Stored coordinates:
@@ -3236,13 +3236,13 @@ $(context.interfacing_xpbl_navcom_acquiredCoordinates)::<end>
 =>q521
 ::Coordonnées stockées:
 
-$(context.interface xpbl navcom acquisitionCoordonnées)::<end>
+$(context.interfacing_xpbl_navcom_acquiredCoordinates)::<end>
 
 =>a522_original
 ::Check Ferryman's frequent locations.::<end>
 
 =>a522
-::Vérifiez les endroits fréquents de Ferryman.::<end>
+::Consulter les lieux fréquents du Ferryman::<end>
 
 =>q523_original
 ::Mutie Refuge Dock - B6
@@ -3251,10 +3251,10 @@ Northeastern Waters Area - I8
 Sørmirbæren Geyser Village - J11::<end>
 
 =>q523
-::Dock de refuge Mutie - B6
-Port Ceto Dock - G1
-Secteur des eaux du Nord-Est - I8
-Village de Sørmirbæren Geyser - J11::<end>
+::Quai Mutie Refuge - B6
+Quai Port Ceto - G1
+Eaux du nord-est - I8
+Sørmirbæren Geyser Village - J11::<end>
 
 =>q524_original
 ::mut - b6
@@ -3263,142 +3263,142 @@ wat - i8
 bone - j11::<end>
 
 =>q524
-::- b6
-Ceto - g1
-C'est vrai.
-os - j11::<end>
+::mut - b6
+ceto - g1
+wat - i8
+bone - j11::<end>
 
 =>a525_original
 ::Retype Ferryman's entries into something more readable.::<end>
 
 =>a525
-::Retypez les entrées de Ferryman dans quelque chose de plus lisible.::<end>
+::Réécrire les notes du Ferryman plus lisiblement::<end>
 
 =>a526_original
 ::[Debug] Start Events::<end>
 
 =>a526
-::[Debug] Événements de démarrage::<end>
+::[Debug] Démarrer les événements::<end>
 
 =>q527_original
 ::Devs only. Data miners will be shot.::<end>
 
 =>q527
-::Seulement les Devs. Les mineurs de données seront abattus.::<end>
+::Réservé aux devs. Les data miners seront abattus.::<end>
 
 =>a528_original
 ::Queue pirate invasion delayed event.::<end>
 
 =>a528
-::L'invasion des pirates a retardé l'événement.::<end>
+::Mettre en file l'événement retardé d'invasion pirate::<end>
 
 =>a529_original
 ::Queue professor gives next mission delayed event.::<end>
 
 =>a529
-::Queue professeur donne prochain événement retardé de mission.::<end>
+::Mettre en file l'événement retardé de la prochaine mission du professeur::<end>
 
 =>a530_original
 ::Queue kidnapping of the professor delayed event.::<end>
 
 =>a530
-::L'enlèvement du professeur a retardé l'événement.::<end>
+::Mettre en file l'événement retardé d'enlèvement du professeur::<end>
 
 =>a531_original
 ::Queue next savage invasion.::<end>
 
 =>a531
-::Queue prochaine invasion sauvage.::<end>
+::Mettre en file la prochaine invasion sauvage::<end>
 
 =>a532_original
 ::Start battle 1.::<end>
 
 =>a532
-::Début de la bataille 1.::<end>
+::Démarrer le combat 1::<end>
 
 =>a533_original
 ::Start battle 2.::<end>
 
 =>a533
-::Début de la bataille 2.::<end>
+::Démarrer le combat 2::<end>
 
 =>a534_original
 ::Start battle 3.::<end>
 
 =>a534
-::Début de la bataille 3.::<end>
+::Démarrer le combat 3::<end>
 
 =>a535_original
 ::Start battle 4.::<end>
 
 =>a535
-::Début de la bataille 4.::<end>
+::Démarrer le combat 4::<end>
 
 =>a536_original
 ::Start battle 5.::<end>
 
 =>a536
-::Début de la bataille 5.::<end>
+::Démarrer le combat 5::<end>
 
 =>a537_original
 ::Start pirate invasion.::<end>
 
 =>a537
-::Commence l'invasion des pirates.::<end>
+::Démarrer l'invasion pirate::<end>
 
 =>a538_original
 ::Spawn/despawn first pirate mission merchant ship.::<end>
 
 =>a538
-::Premier navire marchand de mission pirate.::<end>
+::Faire apparaître/disparaître le premier navire marchand de la mission pirate::<end>
 
 =>a539_original
 ::Spawn/despawn second pirate mission Protectorate ship.::<end>
 
 =>a539
-::La deuxième mission pirate protectorate.::<end>
+::Faire apparaître/disparaître le navire Protectorate de la deuxième mission pirate::<end>
 
 =>a540_original
 ::Deploy mines::<end>
 
 =>a540
-::Déploiement des mines::<end>
+::Déployer les mines::<end>
 
 =>a541_original
 ::Undeploy camp.::<end>
 
 =>a541
-::Un camp de déploiement.::<end>
+::Replier le camp::<end>
 
 =>a542_original
 ::Start mutant goes to Black Sea cutscene.::<end>
 
 =>a542
-::Début mutant va à Black Sea Cutscene.::<end>
+::Lancer la cutscene du mutant vers la Black Sea::<end>
 
 =>a543_original
 Glad to hear our work's paying off.<end>
 
 =>a543
-Heureux d'apprendre que notre travail est payant.<end>
+Content de voir que ça paie, notre boulot.<end>
 
 =>a544_original
 Glad to hear my work's paying off.<end>
 
 =>a544
-Content d'apprendre que mon travail est payant.<end>
+Content de voir que ça paie, mon boulot.<end>
 
 =>a545_original
 ::Say nothing.::<end>
 
 =>a545
-::Ne dis rien.::<end>
+::Ne rien dire::<end>
 
 =>q546_original
 Are you... there, $(context.npc_xpbl_oldfield_playerName)? Hello?<end>
 
 =>q546
-Vous êtes... là, $(context.npc_xpbl_oldfield_playerName) ? Allô ?<end>
+Vous... êtes là, $(context.npc_xpbl_oldfield_playerName) ? Allô ?<end>
 
 =>a547_original
 I can hear you, Professor. Over.<end>
@@ -3416,13 +3416,13 @@ Tant mieux. En plus <end>
 ::Put the device back in your pocket.::<end>
 
 =>a549
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>a550_original
 ::Put the device back in your pocket.::<end>
 
 =>a550
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>q551_original
 $(context.npc_xpbl_oldfield_playerName), do you read me? This is Oldfield. Over.<end>
@@ -3434,25 +3434,25 @@ $(context.npc_xpbl_oldfield_playerName), vous me recevez ? Ici Oldfield. À vous
 I read you, Professor. Go ahead, over.<end>
 
 =>a552
-Je vous ai lu, professeur. Allez-y.<end>
+Je vous reçois, professeur. Je vous écoute. À vous.<end>
 
 =>q553_original
 I need to speak to you in private. It's important. Please see me in my tent as soon as you're able to. Over.<end>
 
 =>q553
-Je dois te parler en privé. C'est important. Veuillez me voir dans ma tente dès que vous le pourrez. À vous.<end>
+Je dois vous parler en privé. C'est important. Passez me voir dans ma tente dès que vous le pourrez. À vous.<end>
 
 =>a554_original
 Roger that, Professor. See you soon. Out.<end>
 
 =>a554
-Bien reçu, professeur. A bientôt. Dehors.<end>
+Bien reçu, professeur. À tout à l'heure. Terminé.<end>
 
 =>q555_original
 Oldfield out.<end>
 
 =>q555
-Oldfield sorti.<end>
+Oldfield, terminé.<end>
 
 =>a556_original
 It'll have to wait, Professor, I'm really busy right now.<end>
@@ -3464,7 +3464,7 @@ It'll have to wait, Professor, I'm really busy right now.<end>
 The matter is not of *utmost* urgency, but it is important and I'd rather delay it as little as possible. That is all. Oldfield out.<end>
 
 =>q557
-La question n'est pas de toute urgence, mais elle est importante et je préfère la retarder le moins possible. C'est tout. Oldfield sortie.<end>
+Ce n'est pas d'une *extrême* urgence, mais c'est important, et je préfère le retarder le moins possible. C'est tout. Oldfield, terminé.<end>
 
 =>q558_original
 <end>
@@ -3488,7 +3488,7 @@ $(context.player.Name), ici Marcus. <end>
 Please respond, over.<end>
 
 =>q561
-Répondez, s'il vous plaît.<end>
+Répondez, s'il vous plaît. À vous.<end>
 
 =>a562_original
 I'm here, Marcus. What's going on? Over.<end>
@@ -3500,55 +3500,55 @@ Je suis ici, Marcus. Qu'est-ce qui se passe ? À vous.<end>
 An ambush in the Keep. A team of sec-troopers opened the evacuation tunnels and engaged a group of pirates there.<end>
 
 =>q563
-Une embuscade dans le Keep. Une équipe de parachutistes a ouvert les tunnels d'évacuation et y a engagé un groupe de pirates.<end>
+Une embuscade dans le Keep. Une équipe de sec-troopers a ouvert les tunnels d'évacuation et y a engagé un groupe de pirates.<end>
 
 =>q564_original
 They neutralized them all, however; no casualties on our side. Chief Briggs is on the scene right now if you need to speak with him. Everything's under control and you may resume with your missions as instructed. Just wanted to inform you. Over.<end>
 
 =>q564
-Ils les ont tous neutralisés, mais aucune victime de notre côté. Le chef Briggs est sur place en ce moment si vous avez besoin de lui parler. Tout est sous contrôle et vous pouvez reprendre avec vos missions selon les instructions. Je voulais juste vous informer. À vous.<end>
+Ils les ont tous neutralisés, toutefois : aucune perte de notre côté. Le chef Briggs est sur place si vous avez besoin de lui parler. Tout est sous contrôle, vous pouvez reprendre vos missions comme prévu. Je voulais juste vous prévenir. À vous.<end>
 
 =>a565_original
 Things could've turned out a lot worse if I hadn't revealed the spy, over.<end>
 
 =>a565
-Ça aurait pu être pire si je n'avais pas révélé l'espion.<end>
+Ça aurait pu mal tourner si je n'avais pas démasqué l'espion. À vous.<end>
 
 =>q566_original
 Probably so, yes. He would've certainly tipped them off that the sec-troopers were coming their way.<end>
 
 =>q566
-Probablement, oui. Il leur aurait certainement dit que les parachutistes venaient.<end>
+Probablement, oui. Il les aurait sûrement prévenus que les sec-troopers arrivaient.<end>
 
 =>q567_original
 Speak to the chief. He'll give you all the details. Over.<end>
 
 =>q567
-Parle au chef. Il vous donnera tous les détails. À vous.<end>
+Parlez au chef. Il vous donnera tous les détails. À vous.<end>
 
 =>a568_original
 I'll talk to him once I have get the chance. Thanks for the info. Out.<end>
 
 =>a568
-Je lui parlerai une fois que j'aurai la chance. Merci pour les infos. Dehors.<end>
+Je lui parlerai dès que j'en aurai l'occasion. Merci pour les infos. Terminé.<end>
 
 =>q569_original
 Roger. Out.<end>
 
 =>q569
-Bien reçu. Dehors.<end>
+Bien reçu. Terminé.<end>
 
 =>a570_original
 Roger that. I have to go now. Out.<end>
 
 =>a570
-Bien reçu. Je dois y aller maintenant. Dehors.<end>
+Bien reçu. Je dois y aller maintenant. Terminé.<end>
 
 =>q571_original
 It's about Professor Oldfield - he has been kidnapped. They stormed through one of the evacuation tunnels and took the professor. Over.<end>
 
 =>q571
-C'est à propos du professeur Oldfield - il a été enlevé. Ils ont traversé l'un des tunnels d'évacuation et ont pris le professeur. À vous.<end>
+C'est au sujet du professeur Oldfield : il a été enlevé. Ils ont foncé par un des tunnels d'évacuation et l'ont emmené. À vous.<end>
 
 =>a572_original
 Weren't there guards down there?<end>
@@ -3560,7 +3560,7 @@ Il n'y avait pas de gardes en bas ?<end>
 There were. Listen, <end>
 
 =>q573
-Il y en avait. Écoute, <end>
+Il y en avait. Écoutez, <end>
 
 =>q574_original
 Chief Briggs wants you to meet him ASAP in the Keep, right at the entrance to the evacuation tunnels.
@@ -3576,13 +3576,13 @@ Le chef Briggs veut que vous le rencontriez au plus vite dans le Keep, à l'entr
 Got it. I'm headed there straight away. Out.<end>
 
 =>a575
-Compris. J'y vais tout de suite. Dehors.<end>
+Compris. J'y vais tout de suite. Terminé.<end>
 
 =>a576_original
 I'm kind of tied up in here.<end>
 
 =>a576
-Je suis un peu attaché ici.<end>
+Je suis un peu coincé, là.<end>
 
 =>q577_original
 ASAP, $(context.player.Name). Over.<end>
@@ -3594,13 +3594,13 @@ Au plus vite, $(context.player.Name). À vous.<end>
 Yeah. Out.<end>
 
 =>a578
-Oui. Dehors.<end>
+Oui. Terminé.<end>
 
 =>a579_original
 This keeps getting better and better...<end>
 
 =>a579
-Ça continue de s'améliorer...<end>
+Ça ne s'arrange pas, décidément...<end>
 
 =>a580_original
 Where is he?<end>
@@ -3612,13 +3612,13 @@ Où est-il ?<end>
 We don't know with certainty. Listen, <end>
 
 =>q581
-Nous ne savons pas avec certitude. Écoute, <end>
+On ne sait pas avec certitude. Écoutez, <end>
 
 =>a582_original
 ::Put the device back in your pocket.::<end>
 
 =>a582
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>q583_original
 We have an emergency. <end>
@@ -3636,49 +3636,49 @@ Nous avons une urgence. <end>
 $(context.player.Name), this is Briggs. What's your status? Over.<end>
 
 =>q585
-$(context.player.Name), ici Briggs. Quel est votre statut ? À vous.<end>
+$(context.player.Name), ici Briggs. Votre situation ? À vous.<end>
 
 =>a586_original
 I have located something that might contain a functional microchip. Over.<end>
 
 =>a586
-J'ai trouvé quelque chose qui pourrait contenir une puce fonctionnelle. À vous.<end>
+J'ai localisé quelque chose qui pourrait contenir une micropuce fonctionnelle. À vous.<end>
 
 =>q587_original
 Excellent. Bring it over to the camp ASAP. We'll be waiting for you outside of the Keep. Out.<end>
 
 =>q587
-Parfait. Amène-le au camp dès que possible. Nous vous attendons à l'extérieur du Keep. Dehors.<end>
+Parfait. Ramenez-le au camp au plus vite. On vous attend hors du Keep. Terminé.<end>
 
 =>a588_original
 I was thinking of sailing around and testing this thing out first. Over.<end>
 
 =>a588
-Je pensais faire le tour et tester ce truc d'abord. À vous.<end>
+Je pensais d'abord faire un tour et tester ce truc. À vous.<end>
 
 =>q589_original
 Negative. Return to the camp. This is an order. Out.<end>
 
 =>q589
-Négatif. Retournez au camp. C'est un ordre. Dehors.<end>
+Négatif. Retournez au camp. C'est un ordre. Terminé.<end>
 
 =>a590_original
 Understood. Out.<end>
 
 =>a590
-Compris. Dehors.<end>
+Compris. Terminé.<end>
 
 =>a591_original
 ::Say nothing.::<end>
 
 =>a591
-::Ne dis rien.::<end>
+::Ne rien dire::<end>
 
 =>a592_original
 I think I got it, Chief.<end>
 
 =>a592
-Je crois que j'ai compris, chef.<end>
+Je crois que je l'ai, chef.<end>
 
 =>a593_original
 I found nothing so far. Over.<end>
@@ -3690,19 +3690,19 @@ Je n'ai rien trouvé jusqu'ici. À vous.<end>
 We must locate one of these microchips before the natives regroup. You are to continue your search. Out.<end>
 
 =>q594
-Nous devons localiser une de ces puces avant que les indigènes se regroupent. Vous devez poursuivre vos recherches. Dehors.<end>
+Il faut mettre la main sur une de ces micropuces avant que les indigènes se regroupent. Vous continuez les recherches. Terminé.<end>
 
 =>a595_original
 ::Put the device back in your pocket.::<end>
 
 =>a595
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>a596_original
 ::Put the device back in your pocket.::<end>
 
 =>a596
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>q597_original
 ::Chief Briggs growls through the navcom's tiny speaker.::
@@ -3710,21 +3710,21 @@ Nous devons localiser une de ces puces avant que les indigènes se regroupent. V
 It was you, wasn't it? You were the mole in our ranks all along, you Southern bastard.<end>
 
 =>q597
-::Le chef Briggs grogne à travers le petit haut-parleur du navcom.::
+::Le chef Briggs grogne dans le minuscule haut-parleur du navcom.::
 
-C'était toi, n'est-ce pas ? Tu étais la taupe de nos rangs depuis le début, espèce de bâtard du Sud.<end>
+C'était vous, hein ? Vous étiez la taupe dans nos rangs depuis le début, espèce de bâtard du Sud.<end>
 
 =>a598_original
 What are you talking about?<end>
 
 =>a598
-De quoi parles-tu?<end>
+De quoi parlez-vous ?<end>
 
 =>q599_original
 We'll find you. ::The conversation ends in static.::<end>
 
 =>q599
-Nous vous trouverons. ::La conversation se termine en statique.::<end>
+On vous trouvera. ::La conversation se termine en grésillements.::<end>
 
 =>a600_original
 I had nothing to do with it, Chief!<end>
@@ -3736,7 +3736,7 @@ Je n'ai rien à voir avec ça, chef !<end>
 You know... I'm getting sick and tired of you blaming me for all the crap happening.<end>
 
 =>a601
-Tu sais... J'en ai marre que tu me blâmes pour toutes ces conneries.<end>
+Vous savez... J'en ai marre que vous me mettiez sur le dos toutes les conneries qui arrivent.<end>
 
 =>a602_original
 Took you a while to figure it out, Briggsy.<end>
@@ -3748,43 +3748,43 @@ Took you a while to figure it out, Briggsy.<end>
 Shove it, you pompous Northern invalid.<end>
 
 =>a603
-Débrouillez-vous, espèce d'infirme du Nord.<end>
+Allez vous faire voir, espèce d'infirme pompeux du Nord.<end>
 
 =>q604_original
 $(context.player.Name), this is Briggs. I want you to come to my tent ASAP. It's important. Over.<end>
 
 =>q604
-$(context.player.Name), ici Briggs. Je veux que tu viennes dans ma tente. C'est important. À vous.<end>
+$(context.player.Name), ici Briggs. Je vous veux dans ma tente au plus vite. C'est important. À vous.<end>
 
 =>a605_original
 What is this about, sir?<end>
 
 =>a605
-De quoi s'agit-il ?<end>
+C'est à quel sujet, monsieur ?<end>
 
 =>q606_original
 Come to my tent. Out.<end>
 
 =>q606
-Viens dans ma tente. Dehors.<end>
+Venez dans ma tente. Terminé.<end>
 
 =>a607_original
 ::Put the device back in your pocket.::<end>
 
 =>a607
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>q608_original
 Attention all sec-troopers: We did it. The enemy has been defeated. I repeat: The enemy has been defeated. All defending troops should report to the supply tent. Out.<end>
 
 =>q608
-Nous l'avons fait. L'ennemi a été vaincu. Je répète : l'ennemi a été vaincu. Toutes les troupes de défense doivent se présenter à la tente d'approvisionnement. Dehors.<end>
+À tous les sec-troopers : on a réussi. L'ennemi est vaincu. Je répète : l'ennemi est vaincu. Toutes les troupes de défense, au rassemblement à la tente de ravitaillement. Terminé.<end>
 
 =>q609_original
 Attention all sec-troopers: The camp is under attack. I repeat - we are under attack. <end>
 
 =>q609
-Le camp est attaqué. Je répète - nous sommes attaqués. <end>
+À tous les sec-troopers : le camp est attaqué. Je répète : on est attaqués. <end>
 
 =>q610_original
 It's the pirates this time. <end>
@@ -3802,7 +3802,7 @@ C'est les pirates cette fois. <end>
 All sec-troopers should report back. We need *everyone*!<end>
 
 =>q612
-Toutes les sec-troopers doivent se présenter. On a besoin de tout le monde !<end>
+Tous les sec-troopers, au rassemblement. On a besoin de *tout le monde* !<end>
 
 =>q613_original
 <end>
@@ -3826,13 +3826,13 @@ Bien reçu, $(context.player.Name).<end>
 I am unable to comply. You're without me this time. Good luck. Over.<end>
 
 =>a616
-Je ne peux pas m'y conformer. Tu es sans moi cette fois. Bonne chance. À vous.<end>
+Je ne peux pas m'exécuter. Vous vous débrouillez sans moi, cette fois. Bonne chance. À vous.<end>
 
 =>q617_original
 Damn it! We don't have enough men to defend the camp. Return as soon as possible or we might not survive this attack. Out.<end>
 
 =>q617
-C'est pas vrai ! Nous n'avons pas assez d'hommes pour défendre le camp. Revenez dès que possible ou nous ne survivrons pas à cette attaque. Dehors.<end>
+Bon sang ! On n'a pas assez d'hommes pour défendre le camp. Revenez dès que possible, ou on ne survivra peut-être pas à cette attaque. Terminé.<end>
 
 =>q618_original
 All available troops should report to camp defense.<end>
@@ -3844,19 +3844,19 @@ Toutes les troupes disponibles doivent se présenter à la défense du camp.<end
 $(context.player.Name), this is Marcus. Can you hear me, over?<end>
 
 =>q619
-$(context.player.Name), ici Marcus. Vous m'entendez ?<end>
+$(context.player.Name), ici Marcus. Vous m'entendez, à vous ?<end>
 
 =>a620_original
 Loud and clear. Over.<end>
 
 =>a620
-C'est clair. À vous.<end>
+Fort et clair. À vous.<end>
 
 =>q621_original
 That technician with the waterproof comm - he's a pirate spy. He's been using that comm to leak information to the pirates ever since he arrived here, which happened at the same time as you arrived.<end>
 
 =>q621
-Ce technicien avec la communication étanche, c'est un espion pirate. Il utilise cette communication pour divulguer des informations aux pirates depuis son arrivée ici, ce qui s'est passé en même temps que vous êtes arrivé.<end>
+Ce technicien avec la comm étanche : c'est un espion pirate. Il se sert de cette comm pour faire fuiter des infos aux pirates depuis son arrivée ici, qui coïncide avec la vôtre.<end>
 
 =>a622_original
 Did you interrogate him? Over.<end>
@@ -3868,7 +3868,7 @@ Vous l'avez interrogé ? À vous.<end>
 Yes. He got really nervous when I called him to my tent and showed him the comm. After that it was just the matter of getting a few sec-troopers and asking the right questions. You have no idea how big this is, $(context.player.Name). Who knows what would've happened if that guy remained undetected. Over.<end>
 
 =>q623
-Oui. Il était vraiment nerveux quand je l'ai appelé à ma tente et lui ai montré la communication. Après cela, il s'agissait juste d'obtenir quelques sec-troopers et de poser les bonnes questions. Vous n'avez aucune idée de l'ampleur de ce phénomène, $(context.player.Name). Qui sait ce qui se serait passé si ce type n'avait pas été détecté. À vous.<end>
+Oui. Il est devenu vraiment nerveux quand je l'ai fait venir dans ma tente et que je lui ai montré la comm. Après ça, il n'y avait plus qu'à prendre quelques sec-troopers et poser les bonnes questions. Vous n'avez aucune idée de l'ampleur, $(context.player.Name). Qui sait ce qui se serait passé si ce type était resté dans la nature. À vous.<end>
 
 =>a624_original
 What's going to happen to him?<end>
@@ -3886,19 +3886,19 @@ On l'a enfermé pour l'instant. Nous allons essayer d'obtenir plus d'information
 Good work, $(context.player.Name). Chief Briggs is pleased as well. You're getting a bonus for this. <end>
 
 =>q626
-Bon travail, $(context.player.Name). Le chef Briggs est heureux. Vous obtenez un bonus pour ça. <end>
+Bon travail, $(context.player.Name). Le chef Briggs est content, lui aussi. Vous aurez un bonus pour ça. <end>
 
 =>q627_original
 And that first paycheck you didn't get originally.<end>
 
 =>q627
-Et la première paye que tu n'as pas eue.<end>
+Et cette première paie que vous n'aviez pas eue, au départ.<end>
 
 =>q628_original
 That's it for now. Take care. Marcus out.<end>
 
 =>q628
-C'est tout pour l'instant. Prends soin de toi. Marcus sortie.<end>
+C'est tout pour l'instant. Prenez soin de vous. Marcus, terminé.<end>
 
 =>a629_original
 Now what?<end>
@@ -3910,23 +3910,23 @@ Et maintenant ?<end>
 Are you going to throw him to the serpents?<end>
 
 =>a630
-Tu vas le jeter aux serpents ?<end>
+Vous allez le jeter aux serpents ?<end>
 
 =>q631_original
 No, what... No. <end>
 
 =>q631
-Non, quoi... C'est pas vrai. <end>
+Non, quoi... Non. <end>
 
 =>a632_original
 ::Put the device back in your pocket.::<end>
 
 =>a632
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 
 =>a633_original
 ::Put the device back in your pocket.::<end>
 
 =>a633
-::Mettez l'appareil dans votre poche.::<end>
+::Remettre l'appareil dans votre poche::<end>
 

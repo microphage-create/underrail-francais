@@ -2,19 +2,19 @@
 Hmm? Are you here to take that corpse away? It's over there. ::He points his thumb at the mutant corpse resting on the table in the corner.::<end>
 
 =>q1
-Quoi ? Tu es là pour enlever ce cadavre ? C'est là-bas. ::Il pointe son pouce sur le corps mutant reposant sur la table dans le coin.::<end>
+Quoi ? T'es là pour emporter le cadavre ? Il est là-bas. ::Il pointe le cadavre mutant du pouce, sur la table dans le coin.::<end>
 
 =>a2_original
 ::[Persuade]:: Yep, that's why I'm here. Can I ask you a question first, doc? I've always been fascinated by biology.<end>
 
 =>a2
-::[Persuade]:: C'est pour ça que je suis là. Je peux vous poser une question ? J'ai toujours été fasciné par la biologie.<end>
+::[Persuade]:: Ouais, c'est pour ça que je suis là. Je peux te poser une question d'abord, doc ? La biologie, ça m'a toujours $(#fasciné/fascinée).<end>
 
 =>q3_original
 Alright, but make it quick. I have a lot of work to do still.<end>
 
 =>q3
-Très bien, mais fais vite. J'ai beaucoup de travail à faire.<end>
+D'accord, mais fais vite. J'ai encore du boulot.<end>
 
 =>q4_original
 <end>
@@ -32,19 +32,19 @@ Que font ces cadavres ici ?<end>
 These are the mutants from Depot A area. I'm researching their mutations.<end>
 
 =>q6
-Ce sont les mutants de la zone Depot A. Je cherche leurs mutations.<end>
+Ce sont les mutants du secteur Depot A. J'étudie leurs mutations.<end>
 
 =>a7_original
 What happened to these people?<end>
 
 =>a7
-Qu'est-il arrivé à ces gens ?<end>
+Qu'est-ce qui est arrivé à ces gens ?<end>
 
 =>q8_original
 They once lived in the Depot A, or the Old Junkyard as they call it. At one time in the past they were exposed to powerful mutagen.<end>
 
 =>q8
-Ils vivaient autrefois dans le Depot A, ou le Old Junkyard comme ils l'appellent. Dans le passé, ils étaient exposés à un puissant mutagène.<end>
+Ils vivaient dans Depot A. Le Old Junkyard, comme on l'appelle. Un jour, il y a longtemps, ils ont été exposés à un mutagène puissant.<end>
 
 =>a9_original
 Who did this? Who exposed them to mutagen?<end>
@@ -56,43 +56,43 @@ Qui a fait ça ? Qui les a exposés au mutagène ?<end>
 I don't know - maybe the old Biocorp. It happened way before my time, more than a hundred years ago.<end>
 
 =>q10
-Je ne sais pas - peut-être le vieux Biocorp. C'est arrivé bien avant mon époque, il y a plus de cent ans.<end>
+Je sais pas. Peut-être le vieux Biocorp. C'était bien avant mon temps, il y a plus d'un siècle.<end>
 
 =>a11_original
 That's all I needed to know. Time to die, doc. ::Attack!::<end>
 
 =>a11
-C'est tout ce que j'avais besoin de savoir. Il est temps de mourir, doc. ::Attaque!::<end>
+C'est tout ce qu'il me fallait. L'heure de mourir, doc. ::Attaquer !::<end>
 
 =>q12_original
 Guards, intruder!<end>
 
 =>q12
-Gardes, intrus !<end>
+Gardes, un intrus !<end>
 
 =>a13_original
 ::Fight!::<end>
 
 =>a13
-::Combattre::<end>
+::Combattre !::<end>
 
 =>a14_original
 You stay right there and be quiet now. I'm keeping my eye on you.<end>
 
 =>a14
-Reste ici et reste tranquille. Je te surveille.<end>
+Toi, tu restes là et tu la fermes. Je te surveille.<end>
 
 =>a15_original
 Catch you later, doc.<end>
 
 =>a15
-On se voit plus tard, docteur.<end>
+À plus, doc.<end>
 
 =>q16_original
 Don't forget to get rid of that corpse. There should be some body bags in one of the lockers over there. <end>
 
 =>q16
-N'oublie pas de te débarrasser de ce cadavre. Il devrait y avoir des sacs dans un des casiers. <end>
+Oublie pas de te débarrasser du cadavre. Y a des sacs mortuaires dans un des casiers, là-bas. <end>
 
 =>q17_original
 
@@ -102,55 +102,55 @@ And *suit up*! Should be common sense...<end>
 =>q17
 
 
-Et habille-toi ! Ça devrait être du bon sens...<end>
+Et *enfile une combi* ! Ça devrait aller de soi...<end>
 
 =>q18_original
 Wait a minute... You're not one of the guards. You shouldn't be in here. I'm calling security!<end>
 
 =>q18
-Attendez... Tu n'es pas un des gardes. Tu ne devrais pas être ici. J'appelle la sécurité !<end>
+Attends... T'es pas un des gardes. T'as rien à faire ici. J'appelle la sécu !<end>
 
 =>a19_original
 ::[Intimidate]:: You be quiet or I'll break your neck. I got some questions for you, doc, and you better have the answers.<end>
 
 =>a19
-::[Intimidate]:: Tais-toi ou je te casse le cou. J'ai des questions pour vous, docteur, et vous feriez mieux d'avoir les réponses.<end>
+::[Intimidate]:: Tu la fermes ou je te brise le cou. J'ai des questions, doc, et t'as intérêt à avoir les réponses.<end>
 
 =>q20_original
 ::With evident distress in his voice, he responds.:: What... what do you want to know?<end>
 
 =>q20
-::Avec une détresse évidente dans sa voix, il répond.:: Qu'est-ce que tu veux savoir ?<end>
+::La détresse est évidente dans sa voix.:: Qu'est-ce que... qu'est-ce que tu veux savoir ?<end>
 
 =>a21_original
 ::Attack!::<end>
 
 =>a21
-::Attaque!::<end>
+::Attaquer !::<end>
 
 =>a22_original
 ::[Intimidate]:: I'll be asking questions here, doc. And you better answer them if you want to live.<end>
 
 =>a22
-::[Intimidate]:: Je vais vous poser des questions, doc. Et tu ferais mieux de leur répondre si tu veux vivre.<end>
+::[Intimidate]:: C'est moi qui pose les questions, doc. Et t'as intérêt à répondre si tu veux vivre.<end>
 
 =>q23_original
 ::Your threat startles him, and it takes a further moment for him to respond.:: What... what do you want to know?<end>
 
 =>q23
-::Votre menace le surprend, et il lui faut un autre moment pour répondre.:: Qu'est-ce que tu veux savoir ?<end>
+::Ta menace le fait sursauter, et il lui faut un moment de plus pour répondre.:: Qu'est-ce que... qu'est-ce que tu veux savoir ?<end>
 
 =>a24_original
 Actually, I'm here to kill you. ::Attack!::<end>
 
 =>a24
-En fait, je suis là pour te tuer. ::Attaque!::<end>
+En fait, je suis là pour te tuer. ::Attaquer !::<end>
 
 =>q25_original
 I wasn't trying to do anything, I swear.<end>
 
 =>q25
-Je n'essayais rien, je le jure.<end>
+J'essayais rien, je le jure.<end>
 
 =>q26_original
 Hmm?<end>

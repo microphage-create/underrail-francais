@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::
@@ -18,7 +18,7 @@
 ::Please select one of the following options: ::<end>
 
 =>q3
-::Veuillez sélectionner l'une des options suivantes :::<end>
+::Choisir une option : ::<end>
 
 =>a4_original
 ::Surveillance system::<end>
@@ -32,9 +32,9 @@
 Number of active security cameras in Nexus of Technology: $(context.loc_xpbl_rf_numberOfSecCamerasActive)::<end>
 
 =>q5
-::Le système de surveillance est en ligne.
+::Système de surveillance en ligne.
 
-Nombre de caméras de sécurité actives dans Nexus de la technologie: $(context.loc xpbl rf numberOfSecCamerasActive)::<end>
+Caméras de sécurité actives au Nexus of Technology : $(context.loc_xpbl_rf_numberOfSecCamerasActive)::<end>
 
 =>a6_original
 ::[Hacking] Disable the surveillance system::<end>
@@ -62,25 +62,25 @@ Surveillance system disabled successfully..::<end>
 =>q7
 ::Désactivation du système de surveillance...
 
-Niveau 0...
-Niveau 1...
-Niveau 2...
-Niveau 3...
-Niveau 4...
-Niveau 5...
-Niveau 6...
-Niveau 7...
-Niveau 8...
-Niveau 9...
-Je suis en route... C'est fait.
+Niveau 0... Terminé.
+Niveau 1... Terminé.
+Niveau 2... Terminé.
+Niveau 3... Terminé.
+Niveau 4... Terminé.
+Niveau 5... Terminé.
+Niveau 6... Terminé.
+Niveau 7... Terminé.
+Niveau 8... Terminé.
+Niveau 9... Terminé.
+Journalisation... Terminé.
 
-Système de surveillance désactivé avec succès..::<end>
+Système de surveillance désactivé.::<end>
 
 =>q8_original
 ::Surveillance system is offline.::<end>
 
 =>q8
-::Le système de surveillance est hors ligne.::<end>
+::Système de surveillance hors ligne.::<end>
 
 =>a9_original
 ::Back::<end>
@@ -98,19 +98,19 @@ Système de surveillance désactivé avec succès..::<end>
 ::Toggle north section gate::<end>
 
 =>a11
-::Basculer la porte de section nord::<end>
+::Basculer la porte de la section nord::<end>
 
 =>a12_original
 ::Toggle south section gate::<end>
 
 =>a12
-::Couper la porte de section sud::<end>
+::Basculer la porte de la section sud::<end>
 
 =>a13_original
 ::Toggle south section gate::<end>
 
 =>a13
-::Couper la porte de section sud::<end>
+::Basculer la porte de la section sud::<end>
 
 =>q14_original
 ::Warning: Gate locked.
@@ -118,15 +118,15 @@ Système de surveillance désactivé avec succès..::<end>
 You do not have permission to open this gate. Please contact a security supervisor for more details.::<end>
 
 =>q14
-::Avertissement : Porte verrouillée.
+::Avertissement : porte verrouillée.
 
-Vous n'avez pas la permission d'ouvrir cette porte. Veuillez contacter un superviseur de la sécurité pour plus de détails.::<end>
+Pas l'autorisation d'ouvrir cette porte. Contacter un superviseur de sécurité.::<end>
 
 =>a15_original
 ::[Hacking] Unlock the gate::<end>
 
 =>a15
-::[Hacking] Déverrouillez la porte::<end>
+::[Hacking] Déverrouiller la porte::<end>
 
 =>q16_original
 ::Security technology level south section gate is now unlocked.
@@ -134,7 +134,7 @@ Vous n'avez pas la permission d'ouvrir cette porte. Veuillez contacter un superv
 ::<end>
 
 =>q16
-::La porte de la section sud de la technologie de sécurité est maintenant déverrouillée.
+::Porte de la section sud (niveau technologique de sécurité) désormais déverrouillée.
 
 ::<end>
 
@@ -148,7 +148,7 @@ Vous n'avez pas la permission d'ouvrir cette porte. Veuillez contacter un superv
 ::Contact active security supervisor::<end>
 
 =>a18
-::Contactez le superviseur actif de la sécurité::<end>
+::Contacter le superviseur de sécurité en service::<end>
 
 =>q19_original
 ::No active security supervisors detected. There may be temporary communication problems preventing this. 
@@ -156,21 +156,21 @@ Vous n'avez pas la permission d'ouvrir cette porte. Veuillez contacter un superv
 Please try again later.::<end>
 
 =>q19
-::Aucun superviseur de sécurité actif détecté. Il peut y avoir des problèmes de communication temporaires.
+::Aucun superviseur de sécurité en service détecté. Des problèmes de communication temporaires peuvent l'expliquer.
 
-Veuillez réessayer plus tard.::<end>
+Réessayer plus tard.::<end>
 
 =>a20_original
 ::Summon available Servants::<end>
 
 =>a20
-::Invoquer les employés disponibles::<end>
+::Appeler des Servants disponibles::<end>
 
 =>a21_original
 ::Exit::<end>
 
 =>a21
-::Sortie::<end>
+::Quitter::<end>
 
 =>q22_original
 ::Welcome, guest::
@@ -178,7 +178,6 @@ Veuillez réessayer plus tard.::<end>
 <end>
 
 =>q22
-::Bienvenue, invité::
+::Bienvenue, guest::
 
 <end>
-

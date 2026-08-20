@@ -2,7 +2,7 @@
 ::Stares at you silently.::<end>
 
 =>q1
-::Vous regarde silencieusement.::<end>
+::Te fixe en silence.::<end>
 
 =>q2_original
 <end>
@@ -14,7 +14,7 @@
 Are you the $(#guy/girl) sent from the SGS?<end>
 
 =>q3
-Êtes-vous le $(#gars/fille) envoyé par le SGS ?<end>
+T'es $(#le gars/la fille) que le SGS a $(#envoyé/envoyée) ?<end>
 
 =>q4_original
 Hey, $(context.player.Name).<end>
@@ -26,11 +26,11 @@ Hé, $(context.player.Name).<end>
 The captain is inside.<end>
 
 =>q5
-Le capitaine est à l'intérieur.<end>
+Le capitaine est dedans.<end>
 
 =>q6_original
 If you need some help, talk to the captain.<end>
 
 =>q6
-Si vous avez besoin d'aide, parlez au capitaine.<end>
+Si t'as besoin d'aide, parle au capitaine.<end>
 

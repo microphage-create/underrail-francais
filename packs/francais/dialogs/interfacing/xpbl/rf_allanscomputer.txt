@@ -18,19 +18,19 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 ::Mail::<end>
 
 =>a3
-::Courriel::<end>
+::Mails::<end>
 
 =>q4_original
 ::Mail::<end>
 
 =>q4
-::Courriel::<end>
+::Mails::<end>
 
 =>a5_original
 ::From: T. Cambridge; No subject.::<end>
 
 =>a5
-::De: T. Cambridge; Aucun sujet.::<end>
+::De : T. Cambridge ; Sans objet.::<end>
 
 =>q6_original
 ::T.C: I'm coming over today to collect the ACoNR from the tech vault. I'll be at the Nexus in half an hour.
@@ -50,21 +50,21 @@ T.C: No need. I'll be picking up ACoNR only.
 A.M: Very well. I'll be waiting here.::<end>
 
 =>q6
-::T.C: Je viens chercher l'ACoNR dans le coffre technique. Je serai au Nexus dans une demi-heure.
+::T.C: Je passe aujourd'hui récupérer l'ACoNR dans le coffre technique. Je serai au Nexus dans une demi-heure.
 
-Qu'est-ce qui se passe ?
+A.M: Qu'est-ce qui se passe ?
 
-T.C: Le commandement veut qu'il soit ici au QGJ.
+T.C: Le Commandement le veut ici, au JSHQ.
 
-A.M: Je pensais qu'il allait être envoyé ci-dessous.
+A.M: Je croyais qu'on allait l'envoyer plus bas.
 
-T.C : Le premier ministre et le ministre de la Technologie sont partis il y a une quinzaine de minutes après une réunion de quatre heures avec le commandement. Il semble que les plans aient changé. C'est un vrai bordel ici. Tout le monde court sans tête pendant que le temps s'épuise - vite.
+T.C: Le Premier ministre et le ministre de la Technologie sont partis il y a une quinzaine de minutes, après une réunion de quatre heures avec le Commandement. On dirait que les plans ont changé. C'est le bordel, ici. Tout le monde court dans tous les sens, et le temps file à toute allure.
 
-En effet. Tu veux un homme fort en attente ?
+A.M: En effet. Tu veux un costaud en réserve ?
 
-T.C: Pas besoin. Je vais chercher l'ACoNR seulement.
+T.C: Pas la peine. Je ne prends que l'ACoNR.
 
-Très bien. J'attends ici.::<end>
+A.M: Très bien. Je t'attends ici.::<end>
 
 =>a7_original
 ::Back::<end>
@@ -76,7 +76,7 @@ Très bien. J'attends ici.::<end>
 ::To: J. Toplin, L. Noel...; Subject: New challenge::<end>
 
 =>a8
-::À : J. Toplin, L. Noel...; Sujet : Nouveau défi::<end>
+::À : J. Toplin, L. Noel... ; Objet : Nouveau défi::<end>
 
 =>q9_original
 ::Hey guys,
@@ -86,13 +86,13 @@ just wanted to let you know that it's finally finished: The Musical Cipher is he
 =>q9
 ::Salut les gars,
 
-Je voulais juste vous dire que c'est fini : le chiffre musical est là. Nous l'avons déjà fait plusieurs fois, donc je ne pense pas qu'il soit nécessaire d'expliquer beaucoup. Chacun d'entre vous obtiendra ses propres échantillons de texte codés::<end>
+juste un mot pour vous dire que c'est enfin fini : le chiffre musical est là. On a déjà fait ça un paquet de fois, donc je ne pense pas qu'il faille trop expliquer. Chacun d'entre vous recevra ses propres échantillons de texte chiffrés ::<end>
 
 =>q10_original
 ::as well as an encoded four-digit code for the tech vault next to my office. ::<end>
 
 =>q10
-::ainsi qu'un code à quatre chiffres codé pour le coffre technique à côté de mon bureau.::<end>
+::ainsi qu'un code à quatre chiffres chiffré pour le coffre technique à côté de mon bureau. ::<end>
 
 =>q11_original
 ::One key per person has been used to encrypt each person's text, and the keys are being kept safe on my computer; you will NOT be able to get them through the wire, so don't even try. The first one to decrypt the code and unlock the tech vault gets to try out the Sonocaster at the range.
@@ -104,25 +104,25 @@ Your text will arrive in a separate mail.  I'll play you some Lemurian Philharmo
 Allan McLane, Nexus Security::<end>
 
 =>q11
-::Une clé par personne a été utilisée pour chiffrer le texte de chaque personne, et les clés sont gardées en sécurité sur mon ordinateur; vous ne serez pas en mesure de les faire passer par le fil, alors n'essayez même pas. Le premier à déchiffrer le code et déverrouiller le coffre technique permet d'essayer le Sonocaster à la portée.
+::Une clé par personne a servi à chiffrer le texte de chacun, et les clés restent au chaud sur mon ordi ; vous n'arriverez PAS à les récupérer par le réseau, alors n'essayez même pas. Le premier à déchiffrer le code et à ouvrir le coffre technique aura le droit d'essayer le Sonocaster au stand de tir.
 
-Maintenant, avant que certains d'entre vous (Hammond) commentent, je suis parfaitement conscient que j'ai sacrifié une certaine sécurité pour garder l'aspect musical du chiffre aussi authentique que possible. Après tout, il s'agit de s'amuser avec ces défis. C'est peut-être notre dernier, alors pourquoi ne pas y injecter de l'art ?
+Maintenant, avant que certains d'entre vous (Hammond) fassent la remarque, je suis parfaitement conscient d'avoir sacrifié un peu de sécurité pour garder l'aspect musical du chiffre aussi authentique que possible. Après tout, le but de ces défis, c'est de s'amuser. Ça sera peut-être même le dernier, alors autant y mettre un peu d'art.
 
-Votre texte arrivera dans un courrier séparé. Je vais te jouer de la philharmonie lémurienne sur les haut-parleurs, juste pour mettre la bonne humeur.
+Votre texte arrivera dans un mail à part. Je vous passerai un peu de Lemurian Philharmony dans les haut-parleurs, juste pour installer l'ambiance.
 
-Allan McLane, Sécurité Nexus::<end>
+Allan McLane, Nexus Security::<end>
 
 =>q12_original
 ::in which I have concealed a four-digit code for the tech vault next to my office, one digit per sample. ::<end>
 
 =>q12
-::dans lequel j'ai caché un code à quatre chiffres pour le coffre technique à côté de mon bureau, un chiffre par échantillon.::<end>
+::dans lesquels j'ai caché un code à quatre chiffres pour le coffre technique à côté de mon bureau, un chiffre par échantillon. ::<end>
 
 =>a13_original
 ::To: J. Toplin, L. Noel...; Subject: Musical Cipher Keys::<end>
 
 =>a13
-::À : J. Toplin, L. Noel...; Sujet : Clés du chiffrement musical::<end>
+::À : J. Toplin, L. Noel... ; Objet : Clés du chiffre musical::<end>
 
 =>q14_original
 ::Hey guys,
@@ -136,23 +136,23 @@ Allan McLane, Nexus Security::<end>
 =>q14
 ::Salut les gars,
 
-le défi est terminé, comme nous le savons tous, avec Laverne étant le plus rapide pour déchiffrer son texte et acquérir le code de voûte technique. Félicitations encore, Laverne ! J'ai pensé que je devrais rendre publiques les clés de cryptage de tout le monde pour que tous ceux qui n'ont pas pu déchiffrer leur texte à temps puissent le faire avec leurs clés respectives et, j'espère, les utiliser pour finalement résoudre le chiffre.
+le défi est terminé, comme on le sait tous, Laverne ayant été la plus rapide à déchiffrer son texte et à récupérer le code du coffre technique. Encore bravo, Laverne ! Je me suis dit que je devais rendre publiques les clés de chiffrement de tout le monde, pour que ceux qui n'ont pas réussi à déchiffrer leur texte à temps puissent le faire avec leurs clés respectives et, je l'espère, s'en servir pour enfin résoudre le chiffre.
 
-Puisque nous avons des problèmes particuliers avec LIN en ce moment et ne pouvons pas utiliser Ether, j'ai joint un fichier contenant toutes les clés de ce courrier.
+Vu qu'on a des soucis bizarres avec LIN en ce moment et qu'on ne peut pas passer par Ether, j'ai joint à ce mail un fichier avec toutes les clés.
 
-Allan McLane, Sécurité Nexus::<end>
+Allan McLane, Nexus Security::<end>
 
 =>a15_original
 ::Open attached file (Musical_Cipher_Keys.odc)::<end>
 
 =>a15
-::Ouvrir le fichier ci-joint (Musical Cipher Keys.odc)::<end>
+::Ouvrir le fichier joint (Musical_Cipher_Keys.odc)::<end>
 
 =>q16_original
 ::Cannot open Musical_Cipher_Keys.odc: File is corrupt and unreadable.::<end>
 
 =>q16
-::Impossible d'ouvrir Musical Cipher Keys.odc: Le fichier est corrompu et illisible.::<end>
+::Impossible d'ouvrir Musical_Cipher_Keys.odc : fichier corrompu et illisible.::<end>
 
 =>q17_original
 ::
@@ -160,7 +160,9 @@ Allan McLane, Sécurité Nexus::<end>
 Attempt to repair the file?::<end>
 
 =>q17
-::Tenter de réparer le dossier ?::<end>
+::
+
+Tenter de réparer le fichier ?::<end>
 
 =>a18_original
 ::Yes::<end>
@@ -190,7 +192,7 @@ Attempt to repair the file?::<end>
 ::Error: File could not be repaired. All readable data has been recovered and written in Musical_Cipher_Keys.odc.rec::<end>
 
 =>q22
-::Erreur : le fichier n'a pas pu être réparé. Toutes les données lisibles ont été récupérées et écrites dans Musical Cipher Keys.odc.rec::<end>
+::Erreur : le fichier n'a pas pu être réparé. Toutes les données lisibles ont été récupérées et écrites dans Musical_Cipher_Keys.odc.rec::<end>
 
 =>q23_original
 <end>
@@ -202,13 +204,13 @@ Attempt to repair the file?::<end>
 ::Open Musical_Cipher_Keys.odc.rec::<end>
 
 =>a24
-::Ouvrir Musical Cipher Keys.odc.rec::<end>
+::Ouvrir Musical_Cipher_Keys.odc.rec::<end>
 
 =>q25_original
 ::eff perfec -= 7433 tave keys: 244 000040 ^( Micke $(context.global_xpbl_encryptedText_intervalKey) !` 002202000 Hammond seventh @ 6733377736 Key 4: ?? Thadious Interval key: m 63 4744444747477454447744 ? ordan v l ird, /? diminish + venth 03033013410740040043404040000043030 ? Key 2: ?> 03603 ~ 030033003040333044334404004330 minor Key 03034431143413013 Key ?? Key ?::<end>
 
 =>q25
-::eff perfec -= 7433 touches tave: 244 000040 ^( Micke $(context.global xpbl encryptedText intervalKey) !` 002202000 Hammond septième @ 6733377736 Key 4: ?? La clé d'intervalle fastidieuse: m 63 47444447477454447744 ? ordan v l ird, /? diminuer + vendh 0303301341074004004340404000043030 ? Key 2: ?> 03603 ~ 030033003030333044334404040330 clé mineure 03034431143413013 clé ?? La clé ?::<end>
+::eff perfec -= 7433 tave keys: 244 000040 ^( Micke $(context.global_xpbl_encryptedText_intervalKey) !` 002202000 Hammond seventh @ 6733377736 Key 4: ?? Thadious Interval key: m 63 4744444747477454447744 ? ordan v l ird, /? diminish + venth 03033013410740040043404040000043030 ? Key 2: ?> 03603 ~ 030033003040333044334404004330 minor Key 03034431143413013 Key ?? Key ?::<end>
 
 =>a26_original
 ::Back::<end>
@@ -220,19 +222,19 @@ Attempt to repair the file?::<end>
 ::Back to: To: J. Toplin, L. Noel...; Subject: Musical Cipher Keys::<end>
 
 =>a27
-::Retour à : À : J. Toplin, L. Noel...; Sujet : Clés du chiffrement musical::<end>
+::Retour à : À : J. Toplin, L. Noel... ; Objet : Clés du chiffre musical::<end>
 
 =>a28_original
 ::Back to Mail::<end>
 
 =>a28
-::Retour au courriel::<end>
+::Retour aux mails::<end>
 
 =>a29_original
 ::[Hacking] Attempt to open the original file.::<end>
 
 =>a29
-::Tentative d'ouvrir le fichier original.::<end>
+::[Hacking] Tenter d'ouvrir le fichier original::<end>
 
 =>q30_original
 <end>
@@ -256,7 +258,7 @@ Attempt to repair the file?::<end>
 ::77 105 99 107 101 121 $(context.global_xpbl_encryptedText_ascii)::<end>
 
 =>q33
-::77 105 99 107 101 121 $(context.global xpbl encryptedText ascii)::<end>
+::77 105 99 107 101 121 $(context.global_xpbl_encryptedText_ascii)::<end>
 
 =>q34_original
 ::65 114 116 104 117 114 10 10 * * 116 101 114 118 97 108 32 107 101 121 58 32 112 101 114 102 101 99 116 32 117 110 105 115 111 110 44 32 109 105 110 111 114 32 116 104 105 114 100 44 32 * 105 110 111 114 32 115 105 120 116 * 46 10 10 79 99 116 97 118 101 32 107 101 121 115 58 32 10 10 75 101 121 32 49 58 32 * 50 52 48 48 48 50 50 48 48 * * 48 50 50 48 50 50 50 48 48 48 48 50 48 52 50 48 * 10 75 101 121 32 50 58 32 48 50 52 48 * * 48 50 48 48 48 50 48 50 50 48 50 48 48 50 48 48 48 50 50 48 50 50 48 48 50 48 * * * 48 50 48 50 48 50 48 50 50 48 50 48 50 48 50 48 48 48 50 48 48 50 * 50 * 48 * * 48 48 48 48 48 50 50 50 * 48 48 50 48 50 48 48 48 50 * 50 50 50 48 50 48 50 * 10 75 101 121 32 51 58 32 48 50 52 48 48 50 50 * 48 48 48 48 52 50 50 50 50 50 48 48 52 50 48 48 48 * * 48 50 48 50 48 48 50 50 48 50 48 48 48 50 48 * 50 50 48 50 48 50 48 50 50 50 48 * 50 50 10 75 101 121 32 52 58 32 48 * 52 48 * 48 48 50 50 * * 48 48 48 50 50 48 50 * 48 48 50 51 * 50 50 50 48 50 50 48 48 50 * 48 48 48 48 50 48 50 50 48 50 * * * 48 52 50 48 48 50 50 50 48 * * * 48 50 50 52 50 48 48 50 48 50 * 50 * * * 50 48 50 50 48 50 50 48 51 48 50 50 48 48 48 50 48 48 * * * * 48 48 48 48 * 50::<end>
@@ -304,37 +306,37 @@ Attempt to repair the file?::<end>
 ::Exit::<end>
 
 =>a41
-::Sortie::<end>
+::Quitter::<end>
 
 =>q42_original
 ::Error: File cannot be opened.::<end>
 
 =>q42
-::Erreur : le fichier ne peut pas être ouvert.::<end>
+::Erreur : impossible d'ouvrir le fichier.::<end>
 
 =>a43_original
 ::Back to: To: J. Toplin, L. Noel...; Subject: Musical Cipher Keys::<end>
 
 =>a43
-::Retour à : À : J. Toplin, L. Noel...; Sujet : Clés du chiffrement musical::<end>
+::Retour à : À : J. Toplin, L. Noel... ; Objet : Clés du chiffre musical::<end>
 
 =>a44_original
 ::Back to Mail::<end>
 
 =>a44
-::Retour au courriel::<end>
+::Retour aux mails::<end>
 
 =>q45_original
 ::Musical_Cipher_Keys.odc repaired successfully, but certain parts of the file may still be damaged or missing.::<end>
 
 =>q45
-::Musical Cipher Keys.odc réparé avec succès, mais certaines parties du fichier peuvent encore être endommagées ou manquantes.::<end>
+::Musical_Cipher_Keys.odc réparé, mais certaines parties du fichier peuvent encore être endommagées ou manquantes.::<end>
 
 =>a46_original
 ::Open Musical_Cipher_Keys.odc.rec::<end>
 
 =>a46
-::Ouvrir Musical Cipher Keys.odc.rec::<end>
+::Ouvrir Musical_Cipher_Keys.odc.rec::<end>
 
 =>q47_original
 ::Jeff
@@ -351,14 +353,14 @@ Key 4: 3?073673766?37334336::<end>
 =>q47
 ::Jeff
 
-Intervalle ?ey: parfait f?urt?, majeur troisième, parfait fi?th.
+Interval ?ey: perfect f?urt?, major third, perfect fi?th.
 
-"Octave ke ?"
+Octave ke??? 
 
-Clé ? : 360?6767377646777
-Clé 2: 3603766346774374?7477
+Key ?: 360?6767377646777
+Key 2: 3603766346774374?7477
 K?y 3: 36?36676?36333767776376
-Clé 4: 3?073673766?37334336::<end>
+Key 4: 3?073673766?37334336::<end>
 
 =>a48_original
 ::Next::<end>
@@ -381,12 +383,12 @@ K?y 4: 04200?400000?4?4?400240?0::<end>
 =>q49
 ::Laverne
 
-Clef d'intervalle : ?rfect unison, mineur second, m?jor sixième.
+Interval key: ??rfect unison, minor second, m?jor sixth.
 
-O?tave clés:
+O?tave keys: 
 
-Clé 1: 0424400004?0400?040444040
-??y 2: 0420444?044404444440400?004
+Key 1: 0424400004?0400?040444040
+??y 2: 0420444?04440444444440400?004
 ?ey 3: 0??00440??002444440024
 K?y 4: 04200?400000?4?4?400240?0::<end>
 
@@ -411,14 +413,14 @@ Key ?: $(context.global_xpbl_encryptedString3_key)::<end>
 =>q51
 ::Mickey
 
-$(context.global xpbl encryptedText intervalKey)
+$(context.global_xpbl_encryptedText_intervalKey)
 
-Clés d'octave :
+Octave keys: 
 
-Clé 1: $(context.global xpbl encryptedString0 key)
-Clé ? : $(context.global xpbl encryptedString1 key)
-Clé ? : $(context.global xpbl encryptedString2 key)
-Clé ? : $(context.global xpbl encryptedString3 key)::<end>
+Key 1: $(context.global_xpbl_encryptedString0_key)
+Key ?: $(context.global_xpbl_encryptedString1_key)
+Key ?: $(context.global_xpbl_encryptedString2_key)
+Key ?: $(context.global_xpbl_encryptedString3_key)::<end>
 
 =>a52_original
 ::Next::<end>
@@ -441,14 +443,14 @@ Key 4: 0?40?0022??0002202?0023?2220::<end>
 =>q53
 ::Arthur
 
-??clé de départ : unisson parfait, troisième mineur, ?inor sixt?.
+??terval key: perfect unison, minor third, ?inor sixt?.
 
-Clés d'octave :
+Octave keys: 
 
-Clé 1 : ?240002200??0220222
-Clé 2 : 0240??020002022020020002202202020??
-Clé 3 : 0240022?00004222220042000??020200
-Clé 4: 0?40?0022??0002202?0023?2220::<end>
+Key 1: ?240002200??0220222
+Key 2: 0240??02000202202002000220220020??
+Key 3: 0240022?00004222220042000??020200
+Key 4: 0?40?0022??0002202?0023?2220::<end>
 
 =>a54_original
 ::Next::<end>
@@ -470,16 +472,16 @@ Key 4: 360333?63661333773337
 ::<end>
 
 =>q55
-::Hameau
+::Hammond
 
-Clé intervalle : ?écond majeur, p?rfect quatrième, mineur septième.
+Interval key: major ?econd, p?rfect fourth, minor seventh.
 
-Octave k?ys:
+Octave k?ys: 
 
-Clé 1: 36033673736773377377363673?
-Clé 2 : ?033776676366363773716363733?377
+Key 1: 36033673736773377377363673?
+Key 2: ??033776676366363773716363733?377
 ??? ?? 36063367?63637337766633
-Clé 4: 360333?63661333773337
+Key 4: 360333?63661333773337
 ::<end>
 
 =>a56_original
@@ -502,16 +504,16 @@ Key 4: 630444646444774764644
 ::<end>
 
 =>q57
-::Dégoûtant
+::Thadious
 
-Clé d'intervalle : septième majeur, troisième majeur, septième majeur.
+Interval key: major seventh, major third, major seventh.
 
-Clés d'octave :
+Octave keys: 
 
-Clé 1: 63047444447474774544
-Clé 2: 63074764444777447456745
-Clé 3: 6304744644477
-Clé 4: 630444646444774764644
+Key 1: 63047444447474774544
+Key 2: 63074764444777447456745
+Key 3: 6304744644477
+Key 4: 630444646444774764644
 ::<end>
 
 =>a58_original
@@ -533,13 +535,13 @@ Key 1: 0?63??34330304004433300430??04
 ??? 4: 0?600433?74100403?0330::<end>
 
 =>q59
-::Jordanie
+::Jordan
 
-Dans la clé de la vallée : troisième mineure, cinquième diminuée, septième majeure.
+In???val key: minor third, diminished fifth, major seventh.
 
-Oct?ve clés:
+Oct?ve keys: 
 
-Clé 1: 0?63??34330400443300430??04
+Key 1: 0?63??34330304004433300430??04
 ?ey 2: ?36033433030004
 ??y 3: 036??00434340?3030?0040?004
 ??? 4: 0?600433?74100403?0330::<end>
@@ -565,14 +567,14 @@ Key 4: 036004333?41004030::<end>
 =>q61
 ::Yusuf
 
-Clé d'intervalle : troisième mineure, fift diminué?, septième majeure.
+Interval key: minor third, diminished fift?, major seventh.
 
-Clés d'octave :
+Octave keys:
 
-Clé 1: 03630134330304044330
-Clé 2: 036033433030000434443
-Clé 3: 03610004343404303000040404040
-Clé 4: 036004333?41004030::<end>
+Key 1: 0363013433030400443330
+Key 2: 03603343303000434443
+Key 3: 0361000434340430300004040
+Key 4: 036004333?41004030::<end>
 
 =>a62_original
 ::Next::<end>
@@ -593,22 +595,22 @@ Key 3: 3?64141433001014140011411
 Key 4? 306331??110400303113171404??4::<end>
 
 =>q63
-::- Oui.
+::Ian:
 
-Intervalle ??? : ???? sixième, deuxième mineure, sixième mineure.
+Interval ???: ????? sixth, minor second, minor sixth.
 
-Clés d'octave :
+Octave keys:
 
-Clé 1 : ?061417443030403
-Clé 2 : ???41100303443114341301330?
-Clé 3: 3?64141433001014140011411
-Clé 4? 306331??110400303113171404??4::<end>
+Key 1: ?0614174430300403
+Key 2: ????41100303443114341301330?
+Key 3: 3?64141433001014140011411
+Key 4? 306331??110400303113171404??4::<end>
 
 =>a64_original
 ::Read again::<end>
 
 =>a64
-::Lire à nouveau::<end>
+::Relire::<end>
 
 =>a65_original
 ::Previous::<end>
@@ -662,7 +664,7 @@ Clé 4? 306331??110400303113171404??4::<end>
 ::No::<end>
 
 =>a73
-::No::<end>
+::Non::<end>
 
 =>q74_original
 <end>
@@ -674,7 +676,7 @@ Clé 4? 306331??110400303113171404??4::<end>
 ::From: R. McLane; Subject: Cipher (View entire conversation)::<end>
 
 =>a75
-::De: R. McLane; Sujet: Chiffre (Voir la conversation entière)::<end>
+::De : R. McLane ; Objet : Chiffre (Voir toute la conversation)::<end>
 
 =>q76_original
 ::I'm back, brother. Had a lot of work over at the JSHQ dockyard.
@@ -682,9 +684,9 @@ Clé 4? 306331??110400303113171404??4::<end>
 Now, for some reason I can't find the previous conversation, but I think you were just about to explain to me how that musical cipher of yours works. The one you made for that challenge the other day. It sounded really interesting. Just keep in mind that your bro is a marine mechanic and not a cryptographer, will you?::<end>
 
 =>q76
-::Je suis de retour, mon frère. J'avais beaucoup de travail au chantier naval du JSHQ.
+::Me revoilà, frère. J'ai eu pas mal de boulot au chantier naval du JSHQ.
 
-Pour une raison quelconque, je ne trouve pas la conversation précédente, mais je pense que tu étais sur le point de m'expliquer comment fonctionne ton code musical. Celui que vous avez fait pour ce défi l'autre jour. C'était vraiment intéressant. Gardez à l'esprit que votre frère est un mécanicien marin et non un cryptographe, n'est-ce pas ?::<end>
+Bon, pour une raison que j'ignore je ne retrouve pas la conversation d'avant, mais je crois que tu allais m'expliquer comment marche ton chiffre musical. Celui que tu as pondu pour le défi l'autre jour. Ça avait l'air vraiment intéressant. Garde juste en tête que ton frangin est mécano marine, pas cryptographe, d'accord ?::<end>
 
 =>a77_original
 ::Next::<end>
@@ -699,9 +701,9 @@ Well, it was my turn to come up with something this time around, and I really wa
 ::<end>
 
 =>q78
-::Oui, c'est là qu'on s'est arrêtés. Et ne vous inquiétez pas, je vais essayer de le rendre aussi facile à suivre que possible.
+::Oui, c'est là qu'on s'était arrêtés. Et t'inquiète, je vais essayer de faire simple.
 
-Eh bien, c'était mon tour de trouver quelque chose cette fois, et je voulais vraiment quelque chose qui était basé sur la musique. Non seulement ça, je voulais quelque chose qui serait, sinon top, au moins aussi intéressant que le défi d'Arthur Asimov il y a quelques mois. Mais j'avais du mal à trouver la bonne idée, jusqu'à ce que je me souvienne que 3 fois 12 égale 36...
+Bon, c'était à moi de trouver un truc cette fois, et je voulais vraiment quelque chose basé sur la musique. Pas seulement ça : je voulais quelque chose qui, sans forcément le battre, soit au moins aussi intéressant que le défi d'Arthur Asimov d'il y a quelques mois. Mais je séchais, jusqu'à ce que je me souvienne que 3 fois 12 égalent 36...
 ::<end>
 
 =>a79_original
@@ -714,7 +716,7 @@ Eh bien, c'était mon tour de trouver quelque chose cette fois, et je voulais vr
 ::That simple realization allowed me to develop the cipher that could, possibly and only to a certain degree, be applicable in real life but also make sense musically: In 12TET there are 12 notes per octave, and I figured that with three octaves I had exactly the right number of notes to encode all 26 letters as well as numbers ranging from 0 to 9, which was all I needed to encode. Then I just took it from there. Of course, I could've spelled all of the numbers, but again, the musical aspect of the cipher is what's important here.::<end>
 
 =>q80
-::Cette simple réalisation m'a permis de développer le chiffre qui pourrait, peut-être et seulement dans une certaine mesure, être applicable dans la vie réelle mais aussi avoir un sens musicalement: En 12TET il y a 12 notes par octave, et j'ai pensé qu'avec trois octaves j'avais exactement le bon nombre de notes pour coder les 26 lettres ainsi que des nombres allant de 0 à 9, ce qui était tout ce dont j'avais besoin pour coder. Puis je l'ai pris de là. Bien sûr, j'aurais pu épeler tous les chiffres, mais encore une fois, l'aspect musical du chiffre est ce qui est important ici.::<end>
+::Cette simple constatation m'a permis de mettre au point un chiffre éventuellement applicable dans la vraie vie, seulement jusqu'à un certain point, tout en tenant musicalement : en 12TET, il y a 12 notes par octave, et je me suis dit qu'avec trois octaves j'avais pile le bon nombre de notes pour coder les 26 lettres plus les chiffres de 0 à 9, tout ce dont j'avais besoin. Ensuite j'ai déroulé à partir de là. Bien sûr, j'aurais pu épeler tous les nombres, mais encore une fois, c'est l'aspect musical du chiffre qui compte ici.::<end>
 
 =>a81_original
 ::Next::<end>
@@ -726,7 +728,7 @@ Eh bien, c'était mon tour de trouver quelque chose cette fois, et je voulais vr
 ::Yeah, yeah, I understand everything up to this point. Maybe I'm not as dumb as people say. So, how does it work exactly?::<end>
 
 =>q82
-::Oui, je comprends tout jusqu'ici. Peut-être que je ne suis pas aussi bête que les gens disent. Alors, comment ça marche exactement ?::<end>
+::Ouais, ouais, je suis avec toi jusque-là. Peut-être que je ne suis pas aussi con qu'on le dit. Alors, concrètement, ça marche comment ?::<end>
 
 =>a83_original
 ::Next::<end>
@@ -738,7 +740,7 @@ Eh bien, c'était mon tour de trouver quelque chose cette fois, et je voulais vr
 ::Okay, so think of it like this: You have 3 blocks of 12 notes, each of the 36 corresponding to a letter of the alphabet (26 notes out of total 36, as I've mentioned before) and the other 10 are numbers, aligned so that the alphabet goes first, then the numbers. For example, the default arrangement is that letter *A* corresponds to note C, letter *B* to C#/Db, *C* to D, etc. Then the notes start repeating once you reach the letter M, so now letter *M* is note C, *N* is C#, etc. And you go all the way until you're done with the numbers as well.::<end>
 
 =>q84
-::Ok, alors pensez-y comme ceci: Vous avez 3 blocs de 12 notes, chacun des 36 correspondant à une lettre de l'alphabet (26 notes sur 36, comme je l'ai mentionné précédemment) et les 10 autres sont des nombres, alignés pour que l'alphabet passe en premier, puis les nombres. Par exemple, l'arrangement par défaut est que la lettre *A* correspond à la note C, la lettre *B* à C#/Db, *C* à D, etc. Puis les notes commencent à se répéter une fois que vous atteignez la lettre M, alors maintenant la lettre *M* est note C, *N* est C#, etc. Et tu vas jusqu'à ce que tu aies fini avec les chiffres aussi.::<end>
+::OK, imagine ça comme ça : tu as 3 blocs de 12 notes, chacune des 36 correspondant à une lettre de l'alphabet (26 notes sur 36 au total, comme je l'ai dit) et les 10 autres sont des chiffres, alignés pour que l'alphabet passe en premier, puis les nombres. Par exemple, l'arrangement par défaut, c'est que la lettre *A* correspond à la note C, la lettre *B* à C#/Db, *C* à D, etc. Puis les notes recommencent une fois que tu arrives à la lettre M, donc maintenant la lettre *M* est la note C, *N* est C#, etc. Et tu continues jusqu'à avoir fini les chiffres aussi.::<end>
 
 =>a85_original
 ::Next::<end>
@@ -752,9 +754,9 @@ Eh bien, c'était mon tour de trouver quelque chose cette fois, et je voulais vr
 However, the other two blocks are not only being transposed but also *modulated*; more precisely, since they have already been offset by the *transposition* interval (minor third), on top of that go the *modulation* intervals for each block.::<end>
 
 =>q86
-::Donc c'est la configuration de base. Maintenant, la première chose que je fais pour manipuler cet arrangement est de *transposer* les notes dans tous ces trois blocs par un intervalle sélectionné au hasard. Disons que le premier bloc est en train d'être transposé par un tiers mineur (3 demi-tons, en accord avec le thème musical). Cela signifie que la lettre *A* correspond maintenant à la note D#/Eb, la lettre *B* à E, *C* à F, etc. Il en va de même pour les deux autres blocs.
+::Voilà la base. Maintenant, la première chose que je fais pour manipuler cet arrangement, c'est *transposer* les notes dans ces trois blocs d'un intervalle tiré au hasard. Disons que le premier bloc est transposé d'une minor third (tierce mineure, 3 demi-tons, pour rester dans le thème musical). Ça veut dire que la lettre *A* correspond maintenant à la note D#/Eb, la lettre *B* à E, *C* à F, etc. Pareil pour les deux autres blocs.
 
-Cependant, les deux autres blocs ne sont pas seulement transposés mais aussi *modulés* ; plus précisément, puisqu'ils ont déjà été compensés par l'intervalle *transposition* (mineur troisième), en plus de cela vont les intervalles *modulation* pour chaque bloc.::<end>
+Sauf que les deux autres blocs ne sont pas seulement transposés, ils sont aussi *modulés* ; plus précisément, comme ils ont déjà été décalés par l'intervalle de *transposition* (minor third), par-dessus ça s'ajoutent les intervalles de *modulation* de chaque bloc.::<end>
 
 =>a87_original
 ::Next::<end>
@@ -766,7 +768,7 @@ Cependant, les deux autres blocs ne sont pas seulement transposés mais aussi *m
 ::For the second block let's pick another minor third, which makes that 6 semitones in total (*3*+3); 6 semitones from C is F#. So, again, the first block is offset *only* by the transposition interval, but once we reach the second we have *transposition* plus *first modulation*, so we start at the F# note. Now, the letter *M* (first letter of the second block) is F#, *N* is G, *O* is G#/Ab... The same principle applies to the third block: If the *second modulation* (offset interval for the third block) is a fifth (7 semitones above; *3* + 7 = 10; 10 semitones from C is A#/Bb), then letter *Y* (first letter of the third block) is A#/Bb, *Z* is B, (now we're starting with numbers) number *0* is C, *1* is C#/Db, etc.::<end>
 
 =>q88
-::Pour le deuxième bloc, prenons un autre tiers mineur, ce qui fait que 6 demi-tonnes au total (*3*+3); 6 demi-tonnes de C est F#. Donc, encore une fois, le premier bloc est offset *seulement* par l'intervalle de transposition, mais une fois que nous atteignons le second, nous avons *transposition* plus *première modulation*, donc nous commençons à la note F#. Maintenant, la lettre *M* (première lettre du deuxième bloc) est F#, *N* est G, *O* est G#/Ab... Le même principe s'applique au troisième bloc : Si la *seconde modulation* (intervalle de rupture pour le troisième bloc) est un cinquième (7 demi-tonnes au-dessus ; *3* + 7 = 10 ; 10 demi-tonnes de C est A#/Bb), alors la lettre *Y* (première lettre du troisième bloc) est A#/Bb, *Z* est B, (maintenant nous commençons par des nombres) le numéro *0* est C, *1* est C#/Db, etc.::<end>
+::Pour le deuxième bloc, prenons une autre minor third, ce qui fait 6 demi-tons au total (*3*+3) ; 6 demi-tons à partir de C, ça donne F#. Donc, encore une fois, le premier bloc n'est décalé *que* par l'intervalle de transposition, mais une fois au deuxième on a *transposition* plus *première modulation*, donc on part de la note F#. Du coup, la lettre *M* (première lettre du deuxième bloc) est F#, *N* est G, *O* est G#/Ab... Le même principe s'applique au troisième bloc : si la *seconde modulation* (intervalle de décalage du troisième bloc) est une fifth (quinte, 7 demi-tons au-dessus ; *3* + 7 = 10 ; 10 demi-tons à partir de C, ça donne A#/Bb), alors la lettre *Y* (première lettre du troisième bloc) est A#/Bb, *Z* est B, (et là on attaque les chiffres) le chiffre *0* est C, *1* est C#/Db, etc.::<end>
 
 =>a89_original
 ::Next::<end>
@@ -780,9 +782,9 @@ Cependant, les deux autres blocs ne sont pas seulement transposés mais aussi *m
 Each block has its own starting octave, and octave numbers always start at the C note. If we, say, transpose a piece starting at B1 (the last note in the first octave) by a perfect fifth higher (7 semitones) then the next 7 notes belong to the higher octave (C2, C#2, D2, D#2, E2, F2 and F#2). In this case, our transposed piece now starts with F#2. The most important thing to remember is that octaves start with the C note, therefore the octave number will always become one higher every time we reach the next C.::<end>
 
 =>q90
-::Ces trois intervalles musicaux (transposition, première modulation et deuxième modulation) composent la clé *intervalle* utilisée pour décoder le chiffre. Ensuite, les octaves, car comment saura-t-on lequel des trois F correspond à quelles lettres/numéros?
+::Ces trois intervalles musicaux (transposition, première modulation et seconde modulation) composent la clé *interval* qui sert à décoder le chiffre. Ensuite viennent les octaves, parce que comment savoir lequel des trois F correspond à quelles lettres/chiffres ?
 
-Chaque bloc a sa propre octave de départ, et les nombres d'octaves commencent toujours à la note C. Si nous transposons une pièce commençant à B1 (la dernière note de la première octave) par un cinquième supérieur parfait (7 semi-tonnes), alors les 7 prochaines notes appartiennent à l'octave supérieur (C2, C#2, D2, D#2, E2, F2 et F#2). Dans ce cas, notre pièce transposée commence maintenant par F#2. La chose la plus importante à retenir est que les octaves commencent par la note C, donc le nombre d'octaves deviendra toujours plus élevé chaque fois que nous atteignons le prochain C.::<end>
+Chaque bloc a sa propre octave de départ, et les numéros d'octave commencent toujours à la note C. Si on transpose, disons, un morceau qui commence à B1 (la dernière note de la première octave) d'une perfect fifth vers le haut (quinte juste, 7 demi-tons), alors les 7 notes suivantes appartiennent à l'octave supérieure (C2, C#2, D2, D#2, E2, F2 et F#2). Dans ce cas, notre morceau transposé commence maintenant par F#2. Le plus important à retenir : les octaves commencent à la note C, donc le numéro d'octave monte de un à chaque fois qu'on atteint le C suivant.::<end>
 
 =>a91_original
 ::Next::<end>
@@ -796,9 +798,9 @@ Chaque bloc a sa propre octave de départ, et les nombres d'octaves commencent t
 And that's all there is to it. What do you think?::<end>
 
 =>q92
-::Les octaves de départ pour chacun des trois blocs sont quelque chose que je génère, et c'est la première partie de la touche *octave*. C'est un nombre à trois chiffres; le premier chiffre est le nombre octave pour le premier bloc, le deuxième pour le deuxième bloc, le troisième pour le troisième bloc. Ce qu'il reste à faire maintenant est d'encoder le texte (qui dans ce cas étaient les titres d'œuvres de nos compositeurs bien-aimés) mais de garder les notes et leurs numéros octaves correspondants séparés. Les notes sont votre texte encodé, les chiffres octaves sont la deuxième partie de votre clé octave. Donc votre clé octave terminée est les trois octaves de départ mentionnées ci-dessus suivies de tous ces nombres octaves.
+::Les octaves de départ de chacun des trois blocs, je les génère, et c'est la première partie de la clé *octave*. C'est un nombre à trois chiffres ; le premier chiffre est le numéro d'octave du premier bloc, le deuxième celui du deuxième, le troisième celui du troisième. Il reste ensuite à encoder le texte (ici, des titres d'œuvres de nos compositeurs bien-aimés) tout en gardant les notes et leurs numéros d'octave séparés. Les notes, c'est ton texte chiffré ; les numéros d'octave, c'est la deuxième partie de ta clé octave. Donc ta clé octave complète, c'est les trois octaves de départ dont je parlais, suivies de tous ces numéros d'octave.
 
-Et c'est tout ce qu'il y a à faire. Qu'en pensez-vous ?::<end>
+Et voilà, c'est tout. Qu'est-ce que t'en penses ?::<end>
 
 =>a93_original
 ::Next::<end>
@@ -810,7 +812,7 @@ Et c'est tout ce qu'il y a à faire. Qu'en pensez-vous ?::<end>
 ::Which part of the "I'm a marine mechanic and not a cryptographer" didn't you understand, exactly? Did you really think I was going to understand all of *that*? I knew you were going to get carried away.::<end>
 
 =>q94
-::Quelle partie du "Je suis mécanicien de marine et pas cryptographe" n'avez-vous pas compris, exactement ? Tu pensais vraiment que j'allais comprendre tout ça ? Je savais que tu allais t'emporter.::<end>
+::C'est quelle partie de « je suis mécano marine, pas cryptographe » que tu n'as pas pigée, au juste ? T'as vraiment cru que j'allais suivre *tout* ça ? Je savais que tu allais t'emballer.::<end>
 
 =>a95_original
 ::Next::<end>
@@ -822,7 +824,7 @@ Et c'est tout ce qu'il y a à faire. Qu'en pensez-vous ?::<end>
 ::I apologize, brother. I suppose I didn't need to go into so much detail.::<end>
 
 =>q96
-::Désolé, mon frère. Je suppose que je n'avais pas besoin d'entrer dans autant de détails.::<end>
+::Pardon, frère. Je suppose que je n'avais pas besoin d'entrer dans autant de détail.::<end>
 
 =>a97_original
 ::Next::<end>
@@ -836,9 +838,9 @@ Et c'est tout ce qu'il y a à faire. Qu'en pensez-vous ?::<end>
 Now, I have to run. I just got another call. See you after I'm done. Take care, brother.::<end>
 
 =>q98
-::Et tu tombes toujours dessus, mon frère. Je plaisantais. J'ai compris la partie musicale, la cryptographie, pas tant que ça. Je crois que j'en ai l'essentiel. Je vois que vous y réfléchissez beaucoup.
+::Et tu marches à tous les coups, frère. Je plaisantais. La partie musique, j'ai suivi ; la crypto, beaucoup moins. Je crois que j'ai pigé l'idée, quand même. On voit que t'y as vraiment réfléchi.
 
-Maintenant, je dois courir. Je viens d'avoir un autre appel. À tout à l'heure. Prends soin de toi, mon frère.::<end>
+Bon, faut que j'y aille. Je viens d'avoir un autre appel. On se voit quand j'ai fini. Prends soin de toi, frère.::<end>
 
 =>a99_original
 ::Next::<end>
@@ -852,9 +854,9 @@ Maintenant, je dois courir. Je viens d'avoir un autre appel. À tout à l'heure.
 I'll see you later. And *you* take care; my office conceals no dangers but possibly that of a chair breaking under my weight.::<end>
 
 =>q100
-::Vous m'avez fait venir. Mais vous avez raison, je me fais emporter facilement. Et oui, comme je l'ai mentionné plus tôt, je voulais que ce soit quelque chose de spécial, unique, vous comprenez.
+::Tu m'as eu. Mais tu as raison, je m'emballe facilement. Et oui, comme je le disais, je voulais que ce soit quelque chose de spécial, d'unique, tu vois.
 
-A tout à l'heure. Et vous prenez soin ; mon bureau ne cache aucun danger, mais peut-être celui d'une chaise qui se brise sous mon poids.::<end>
+À tout à l'heure. Et *toi*, prends soin de toi ; mon bureau ne cache aucun danger, sauf peut-être celui d'une chaise qui craque sous mon poids.::<end>
 
 =>a101_original
 ::Previous::<end>
@@ -933,4 +935,3 @@ A tout à l'heure. Et vous prenez soin ; mon bureau ne cache aucun danger, mais 
 
 =>a113
 ::Retour::<end>
-

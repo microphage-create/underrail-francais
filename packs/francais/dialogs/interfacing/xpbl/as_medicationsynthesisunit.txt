@@ -8,9 +8,9 @@ Please select the item you want to synthesize. The percentage of total MedSynth 
 
 =>q1
 
-::LEMCO L-MSU - Unité de synthèse des médicaments
+::LEMCO L-MSU - Unité de synthèse de médicaments
 
-Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu chimique MedSynth nécessaire à la synthèse est affiché à côté de chaque élément.
+Choisir le produit à synthétiser. Le pourcentage de contenu chimique MedSynth requis s'affiche à côté de chaque produit.
 
 ::<end>
 
@@ -28,7 +28,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>q3
 
-::Niveau de jauge MSCC : $(context.loc xpbl as medicationSynthesisCanisterCharge)%::<end>
+::Jauge MSCC : $(context.loc_xpbl_as_medicationSynthesisCanisterCharge)%::<end>
 
 =>q4_original
 
@@ -36,7 +36,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>q4
 
-::- Veuillez remplacer la boîte chimique MedSynth.::<end>
+:: - Remplacer la cartouche chimique MedSynth.::<end>
 
 =>q5_original
 
@@ -52,7 +52,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>a6
 
-::Synthétiser l'hypo avancé (-10%)::<end>
+::Synthétiser advanced health hypo (-10%)::<end>
 
 =>q7_original
 
@@ -64,11 +64,11 @@ Synthesis successful. Please collect your item from the deposit tray.::<end>
 
 =>q7
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
-
-Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
+Synthèse...
+ 
+Synthèse réussie. Récupérer le produit dans le bac de dépôt.::<end>
 
 =>a8_original
 
@@ -76,7 +76,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a8
 
-::Synthétisation de la morphine (-10%)::<end>
+::Synthétiser morphine shot (-10%)::<end>
 
 =>a9_original
 
@@ -84,7 +84,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a9
 
-::Synthétiser la dose d'adrénaline (-10%)::<end>
+::Synthétiser adrenaline shot (-10%)::<end>
 
 =>a10_original
 
@@ -92,7 +92,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a10
 
-::Synthétiser l'amplificateur psi (-5%)::<end>
+::Synthétiser psi booster (-5%)::<end>
 
 =>a11_original
 
@@ -100,7 +100,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a11
 
-::Inhalant psionique désaturé synthétisé (-5%)::<end>
+::Synthétiser desaturated psionic inhalant (-5%)::<end>
 
 =>a12_original
 
@@ -108,7 +108,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a12
 
-::Synthesize focus stim (-15%)::<end>
+::Synthétiser focus stim (-15%)::<end>
 
 =>a13_original
 
@@ -116,7 +116,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a13
 
-::Haricot de saut synthétique (-15%)::<end>
+::Synthétiser jumping bean (-15%)::<end>
 
 =>a14_original
 
@@ -124,7 +124,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a14
 
-::Synthétiser la tête de taureau (-20%)::<end>
+::Synthétiser bullhead (-20%)::<end>
 
 =>a15_original
 
@@ -132,7 +132,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a15
 
-::Synthétiser le troisième œil (-25%)::<end>
+::Synthétiser third eye (-25%)::<end>
 
 =>a16_original
 
@@ -140,7 +140,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a16
 
-::Hypercérébrix de synthèse (-30%)::<end>
+::Synthétiser hypercerebrix (-30%)::<end>
 
 =>a17_original
 
@@ -148,5 +148,4 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a17
 
-::Sortie::<end>
-
+::Quitter::<end>

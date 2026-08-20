@@ -2,13 +2,13 @@
 ::You get no response.::<end>
 
 =>q1
-::Vous n'avez aucune réponse.::<end>
+::Aucune réponse.::<end>
 
 =>q2_original
 ::Something tells you it is not wise to touch this intercom right now.::<end>
 
 =>q2
-::Quelque chose vous dit qu'il n'est pas sage de toucher cette interphone maintenant.::<end>
+::Quelque chose vous dit que ce n'est pas le moment de toucher à cet interphone.::<end>
 
 =>q3_original
 ::A slow, unhurried male voice is heard from the intercom.::
@@ -16,7 +16,7 @@
 Tchort is evolution, $(#brother/sister). What do you need?<end>
 
 =>q3
-::Une voix masculine lente et non pressée est entendue de l'interphone.::
+::Une voix d'homme, lente, posée, dans l'interphone.::
 
 Tchort est l'évolution, $(#frère/sœur). De quoi avez-vous besoin ?<end>
 
@@ -30,19 +30,19 @@ Tchort est l'évolution, $(#frère/sœur). De quoi avez-vous besoin ?<end>
 Can you open the gate for me?<end>
 
 =>a5
-Tu peux ouvrir la porte pour moi ?<end>
+Pouvez-vous m'ouvrir la grille ?<end>
 
 =>q6_original
 Opening the gate now, $(#brother/sister). Tchort guide you.<end>
 
 =>q6
-Ouverture de la porte maintenant, $(#frère/sœur). Tchort vous guide.<end>
+J'ouvre la grille, $(#frère/sœur). Tchort vous guide.<end>
 
 =>a7_original
 Tchort guide you too, brother.<end>
 
 =>a7
-Tchort vous guide aussi, mon frère.<end>
+Tchort vous guide aussi, frère.<end>
 
 =>a8_original
 Bye bye.<end>
@@ -54,13 +54,13 @@ Au revoir.<end>
 I need to leave the Institute building.<end>
 
 =>a9
-Je dois quitter le bâtiment de l'Institut.<end>
+Je dois quitter le bâtiment de l'Institute.<end>
 
 =>q10_original
 What is the reason for your egress, $(#brother/sister)?<end>
 
 =>q10
-Quelle est la raison de votre fuite, $(#frère/sœur)?<end>
+Quelle est la raison de votre sortie, $(#frère/sœur) ?<end>
 
 =>q11_original
 <end>
@@ -72,19 +72,19 @@ Quelle est la raison de votre fuite, $(#frère/sœur)?<end>
 I'm on official Institute business.<end>
 
 =>a12
-Je suis sur les affaires officielles de l'Institut.<end>
+Je suis en mission officielle de l'Institute.<end>
 
 =>q13_original
 Official business? On whose authority?<end>
 
 =>q13
-Des affaires officielles ? Sur l'autorité de qui ?<end>
+Mission officielle ? Sur l'autorité de qui ?<end>
 
 =>a14_original
 Principal Investigator Rista.<end>
 
 =>a14
-Chercheur principal Rista.<end>
+Principal Investigator Rista.<end>
 
 =>q15_original
 Yes, I have been informed of that, $(#brother/sister).<end>
@@ -96,25 +96,25 @@ Oui, j'en ai été informé, $(#frère/sœur).<end>
 Oh, and I might need to take several trips back and forth.<end>
 
 =>a16
-Oh, et je pourrais avoir besoin de faire plusieurs voyages aller-retour.<end>
+Oh, et je devrai peut-être faire plusieurs allers-retours.<end>
 
 =>q17_original
 I will note that. <end>
 
 =>q17
-Je vais le noter. <end>
+Je note. <end>
 
 =>a18_original
 Principal Investigator Georgis.<end>
 
 =>a18
-Chercheur principal Georgis.<end>
+Principal Investigator Georgis.<end>
 
 =>a19_original
 Principal Investigator Schteff.<end>
 
 =>a19
-Chercheur principal Schteff.<end>
+Principal Investigator Schteff.<end>
 
 =>a20_original
 Uh...<end>
@@ -126,7 +126,7 @@ Euh...<end>
 I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
 
 =>q21
-Je ne connais personne qui s'appelle "Uh". En fait, je dois vous avertir de ne pas faire de fausses déclarations concernant votre évasion.<end>
+Je ne connais personne du nom de « Uh ». Je vous préviens : pas de fausses déclarations sur votre sortie.<end>
 
 =>a22_original
 It's a private matter.<end>
@@ -138,7 +138,7 @@ C'est une affaire privée.<end>
 What kind of private matter?<end>
 
 =>q23
-Quel genre de problème privé ?<end>
+Quel genre d'affaire privée ?<end>
 
 =>a24_original
 It's very personal.<end>
@@ -150,7 +150,7 @@ C'est très personnel.<end>
 How long will you be out?<end>
 
 =>q25
-Combien de temps vas-tu sortir ?<end>
+Combien de temps serez-vous dehors ?<end>
 
 =>a26_original
 I'll be back quickly.<end>
@@ -162,13 +162,13 @@ Je reviens vite.<end>
 Everything you said has been noted. <end>
 
 =>q27
-Tout ce que vous avez dit a été noté. <end>
+Tout a été noté. <end>
 
 =>a28_original
 Not soon, that's for sure.<end>
 
 =>a28
-Pas bientôt, c'est sûr.<end>
+Pas tout de suite, c'est sûr.<end>
 
 =>a29_original
 I have no idea.<end>
@@ -186,13 +186,13 @@ Je dois rencontrer quelqu'un.<end>
 To roam South Underrail.<end>
 
 =>a31
-Vers le sud Underrail.<end>
+Pour parcourir South Underrail.<end>
 
 =>a32_original
 I need to visit my settlement.<end>
 
 =>a32
-Je dois visiter mon établissement.<end>
+Je dois passer à ma colonie.<end>
 
 =>a33_original
 Nothing important, I'm just going to the courtyard.<end>
@@ -204,55 +204,55 @@ Rien d'important, je vais juste dans la cour.<end>
 What for?<end>
 
 =>q34
-Pourquoi ?<end>
+Pour quoi faire ?<end>
 
 =>a35_original
 Just to stretch my legs.<end>
 
 =>a35
-Juste pour m'étirer les jambes.<end>
+Juste pour me dégourdir les jambes.<end>
 
 =>a36_original
 To talk to some of the people out front.<end>
 
 =>a36
-Pour parler à des gens devant.<end>
+Pour parler aux gens devant.<end>
 
 =>a37_original
 Could you just let me go without all these questions?<end>
 
 =>a37
-Tu peux me laisser partir sans toutes ces questions ?<end>
+Pouvez-vous me laisser partir sans toutes ces questions ?<end>
 
 =>q38_original
 Please answer my question, $(#brother/sister); I'm just following the rules.<end>
 
 =>q38
-Veuillez répondre à ma question, $(#frère/sœur); je suis juste les règles.<end>
+Répondez à ma question, $(#frère/sœur) ; je ne fais que suivre le règlement.<end>
 
 =>a39_original
 I would like to ask you a few questions.<end>
 
 =>a39
-Je voudrais vous poser quelques questions.<end>
+J'aimerais vous poser quelques questions.<end>
 
 =>q40_original
 Come into my office then, $(#brother/sister).<end>
 
 =>q40
-Viens dans mon bureau alors, $(#frère/sœur).<end>
+Venez dans mon bureau, $(#frère/sœur).<end>
 
 =>a41_original
 On my way, brother.<end>
 
 =>a41
-En route, mon frère.<end>
+J'arrive, frère.<end>
 
 =>a42_original
 Okay.<end>
 
 =>a42
-Très bien.<end>
+D'accord.<end>
 
 =>a43_original
 I changed my mind, I don't need anything.<end>
@@ -265,4 +265,3 @@ Tchort guide you, $(#brother/sister).<end>
 
 =>q44
 Tchort vous guide, $(#frère/sœur).<end>
-

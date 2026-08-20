@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges
@@ -10,13 +10,15 @@
 ::<end>
 
 =>q2
-::Bienvenue, P. Bridges::<end>
+::Bienvenue, P. Bridges
+
+::<end>
 
 =>q3_original
 ::Dispatcher Terminal - ::<end>
 
 =>q3
-::Terminal d'expédition -::<end>
+::Terminal dispatcher - ::<end>
 
 =>q4_original
 ::Arch Island Keep
@@ -24,7 +26,7 @@
 Unable to connect to LIN. Only local data is available.::<end>
 
 =>q4
-::Garder Arch Island
+::Arch Island Keep
 
 Impossible de se connecter à LIN. Seules les données locales sont disponibles.::<end>
 
@@ -38,7 +40,7 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 ::View dispatcher logs::<end>
 
 =>a6
-::Afficher les journaux du régulateur::<end>
+::Afficher les journaux d'expédition::<end>
 
 =>q7_original
 ::No connection. Only local and most recent logs available.
@@ -46,9 +48,9 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 Dispatcher logs:::<end>
 
 =>q7
-::Pas de connexion. Seulement les journaux locaux et les plus récents disponibles.
+::Aucune connexion. Seuls les journaux locaux et les plus récents sont disponibles.
 
-Registres de l'expéditeur:::<end>
+Journaux d'expédition:::<end>
 
 =>a8_original
 ::Arch Island Keep - LE 16.10.122::<end>
@@ -74,23 +76,23 @@ Time: 22:42. From: Keep (E6). To: BSBRF (K11). Unit: P-011. Cargo Id: PASS1.::<e
 =>q9
 ::LE 16.10.122:
 
-Heure: 12:34. De: Nexus (K7). À : Garder (E6). Unité: T-033. Id de fret: 8901733.
-Heure: 13:00. De: Keep (E6). À : Dépôt Ouest (B7). Unité: T-033. Aucune.
-Heure: 13:44. De: Nexus (K7). À : Garder (E6). Unité: T-015.
-Heure: 13:50. De: West Depot (B7). À : Garder (E6). Unité: HT-001. Numéro de fret: 0287899.
-Heure: 14:30. De: Garder (E6). Vers: Quarry (L5). Unité: HT-001. Aucune.
-Heure: 14:34. De: Garder (E6). Vers: Nexus (K7). Unité: T-015. Cargo Id: 1903561.
-Heure: 18:22. De: Crimson (H7). À : Garder (E6). Unité: P-010. Id cargo: PASS3.
-Heure: 18:31. De: Garder (E6). À : Crimson (H7). Unité: P-010. Id cargo: PASS3.
-Heure: 20:34. De: Quarry (L5). À : Garder (E6). Unité: HT-001. Numéro de fret: 7773910.
-Heure: 21:32. De: Citadelle (G1). À : Garder (E6). Unité: P-011. Id de fret: PASS1.
-Heure: 22:42. De: Gardez (E6). Aux: BSBRF (K11). Unité: P-011. Id de fret: PASS1.::<end>
+Heure: 12:34. De: Nexus (K7). À: Keep (E6). Unité: T-033. Id cargo: 8901733.
+Heure: 13:00. De: Keep (E6). À: West Depot (B7). Unité: T-033. Id cargo: Néant.
+Heure: 13:44. De: Nexus (K7). À: Keep (E6). Unité: T-015. Id cargo: 9980182.
+Heure: 13:50. De: West Depot (B7). À: Keep (E6). Unité: HT-001. Id cargo: 0287899.
+Heure: 14:30. De: Keep (E6). À: Quarry (L5). Unité: HT-001. Id cargo: Néant.
+Heure: 14:34. De: Keep (E6). À: Nexus (K7). Unité: T-015. Id cargo: 1903561.
+Heure: 18:22. De: Crimson (H7). À: Keep (E6). Unité: P-010. Id cargo: PASS3.
+Heure: 18:31. De: Keep (E6). À: Crimson (H7). Unité: P-010. Id cargo: PASS3.
+Heure: 20:34. De: Quarry (L5). À: Keep (E6). Unité: HT-001. Id cargo: 7773910.
+Heure: 21:32. De: Citadel (G1). À: Keep (E6). Unité: P-011. Id cargo: PASS1.
+Heure: 22:42. De: Keep (E6). À: BSBRF (K11). Unité: P-011. Id cargo: PASS1.::<end>
 
 =>a10_original
 ::Import coordinates to your NCD::<end>
 
 =>a10
-::Importer les coordonnées à votre NCD::<end>
+::Importer les coordonnées dans votre NCD::<end>
 
 =>q11_original
 ::Importing coordinates...
@@ -108,27 +110,27 @@ Imported successfully.
 =>q11
 ::Importation des coordonnées...
 
-Dépôt de stockage ouest - B7
-Garde de l'île Arch - E6
-Centre d'horticulture Crimson Meadow - H7
-Nexus de technologie - K7
-Centre de recherche Blistering Shores - L12
-Quarry viridescente - L4
+West Storage Depot - B7
+Arch Island Keep - E6
+Crimson Meadow Horticulture Center - H7
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
+Viridescent Quarry - L4
 
-Importé avec succès.
+Importation réussie.
 ::<end>
 
 =>a12_original
 ::Obtain Course docking coordinates for listed locations::<end>
 
 =>a12
-::Obtenir les coordonnées d'accostage du cours pour les emplacements indiqués::<end>
+::Obtenir les coordonnées d'amarrage Course pour les sites listés::<end>
 
 =>q13_original
 ::No coordinates available.::<end>
 
 =>q13
-::Pas de coordonnées disponibles.::<end>
+::Aucune coordonnée disponible.::<end>
 
 =>a14_original
 ::Back::<end>
@@ -140,7 +142,7 @@ Importé avec succès.
 ::Crimson Meadow Horticulture Center - LE 15.10.122::<end>
 
 =>a15
-::Centre d'horticulture de Crimson Meadow - LE 15.10.122::<end>
+::Crimson Meadow Horticulture Center - LE 15.10.122::<end>
 
 =>q16_original
 ::LE 15.10.122:
@@ -163,26 +165,26 @@ Time: 23:23. From: Citadel (G1). To: Crimson (H7). Unit: P-009. Cargo Id: PASS3.
 =>q16
 ::LE 15.10.122:
 
-Heure: 10:28. De: Quarry (L5). À : Crimson (H7). Unité T-021. Numéro de fret: 2911326.
-Heure: 11:12. De: Crimson (H7). Aux : Citadelle (G1). Unité T-021. Aucune.
-Heure: 11:51. De: Crimson (H7). À : Santé (I1). P-009 Id de fret: PASS3.
-Heure: 13:22. De: Garder (E6). À : Crimson (H7). HT-004. Numéro du fret: 9187332.
-Heure: 14h35. De: JSHQ (F12). À : Crimson (H7). P-001. Cargo Id: PASS1.
-Heure: 15:09. De: Crimson (H7). À : Dépôt Ouest (B7). Numéro d'identification du fret: 1787920.
-Heure: 17:31. De: Crimson (H7). Aux : JSHQ (F12). P-001. Cargo Id: PASS1.
-Heure: 17:38. De: LEMCO (K3). À : Crimson (H7). HT-002. Numéro du fret: 0029321.
-Heure: 17:54. De: Nexus (K7). À : Crimson (H7). P-023. Id de fret: PASS2.
-Heure: 18:03. De: Crimson (H7). À : LEMCO (K3). HT-002. Aucune.
-Heure: 19:24. De: Crimson (H7). Vers: Nexus (K7). P-023. Id de fret: PASS2.
-Heure: 21:21. De: BSBRF (K11). À : Crimson (H7). Unité: T-011. Cargo Id: 2018706.
-Heure: 22:19. De: Crimson (H7). Aux: BSBRF (K11). Unité: T-011. Aucune.
-Heure: 23:23. De: Citadelle (G1). À : Crimson (H7). Unité: P-009. Identification du fret: PASS3.::<end>
+Heure: 10:28. De: Quarry (L5). À: Crimson (H7). Unité T-021. Id cargo: 2911326.
+Heure: 11:12. De: Crimson (H7). À: Citadel (G1). Unité T-021. Id cargo: Néant.
+Heure: 11:51. De: Crimson (H7). À: Health (I1). P-009. Id cargo: PASS3.
+Heure: 13:22. De: Keep (E6). À: Crimson (H7). HT-004. Id cargo: 9187332.
+Heure: 14:35. De: JSHQ (F12). À: Crimson (H7). P-001. Id cargo: PASS1.
+Heure: 15:09. De: Crimson (H7). À: West Depot (B7). HT-004. Id cargo: 1787920.
+Heure: 17:31. De: Crimson (H7). À: JSHQ (F12). P-001. Id cargo: PASS1.
+Heure: 17:38. De: LEMCO (K3). À: Crimson (H7). HT-002. Id cargo: 0029321.
+Heure: 17:54. De: Nexus (K7). À: Crimson (H7). P-023. Id cargo: PASS2.
+Heure: 18:03. De: Crimson (H7). À: LEMCO (K3). HT-002. Id cargo: Néant.
+Heure: 19:24. De: Crimson (H7). À: Nexus (K7). P-023. Id cargo: PASS2.
+Heure: 21:21. De: BSBRF (K11). À: Crimson (H7). Unité: T-011. Id cargo: 2018706.
+Heure: 22:19. De: Crimson (H7). À: BSBRF (K11). Unité: T-011. Id cargo: Néant.
+Heure: 23:23. De: Citadel (G1). À: Crimson (H7). Unité: P-009. Id cargo: PASS3.::<end>
 
 =>a17_original
 ::Import coordinates to your NCD::<end>
 
 =>a17
-::Importer les coordonnées à votre NCD::<end>
+::Importer les coordonnées dans votre NCD::<end>
 
 =>q18_original
 ::Importing coordinates...
@@ -203,15 +205,15 @@ Importing successful.
 =>q18
 ::Importation des coordonnées...
 
-Quarry viridescente - L4
-Centre d'horticulture Crimson Meadow - H7
-Centre de santé lémurienne - I1
-Citadelle de vie - G1
-Garde de l'île Arch - E6
-Quartier général conjoint de la sécurité - F12
-Complexe manufacturier lémurien - K3
-Nexus de technologie - K7
-Centre de recherche Blistering Shores - L12
+Viridescent Quarry - L4
+Crimson Meadow Horticulture Center - H7
+Lemurian Health Center - I1
+Citadel of Life - G1
+Arch Island Keep - E6
+Joint Security Headquarters - F12
+Lemurian Manufacturing Complex - K3
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
 
 Importation réussie.
 ::<end>
@@ -220,13 +222,13 @@ Importation réussie.
 ::Obtain Course docking coordinates for listed locations::<end>
 
 =>a19
-::Obtenir les coordonnées d'accostage du cours pour les emplacements indiqués::<end>
+::Obtenir les coordonnées d'amarrage Course pour les sites listés::<end>
 
 =>q20_original
 ::Obtaining coordinates...::<end>
 
 =>q20
-::Obtenir des coordonnées...::<end>
+::Obtention des coordonnées...::<end>
 
 =>q21_original
 ::Joint Security Headquarters - N/A
@@ -237,24 +239,24 @@ Blistering Shores Research Facility - N/A
 ::<end>
 
 =>q21
-::Quartier général conjoint de la sécurité - S.O.
-Arch Island Keep - Erreur (Impossible d'obtenir des coordonnées)
-Ascenseurs Zéro de la station d'abysse - 020 476 118 263 2115
-Nexus de technologie - Erreur (Impossible d'obtenir des coordonnées)
-Installation de recherche de Blistering Shores - S.O.
+::Joint Security Headquarters - N/A
+Arch Island Keep - Erreur (impossible d'obtenir les coordonnées)
+Abyssal Station Zero Elevators - 020 476 118 263 2115
+Nexus of Technology - Erreur (impossible d'obtenir les coordonnées)
+Blistering Shores Research Facility - N/A
 ::<end>
 
 =>a22_original
 ::Import coordinates to NCD::<end>
 
 =>a22
-::Importer les coordonnées vers NCD::<end>
+::Importer les coordonnées dans le NCD::<end>
 
 =>q23_original
 ::Course coordinates imported successfully.::<end>
 
 =>q23
-::Coordonnées du cours importées avec succès.::<end>
+::Coordonnées Course importées.::<end>
 
 =>q24_original
 <end>
@@ -282,25 +284,25 @@ Time: 10:33. From:  BSBRF (K11). To: JSHQ (F12). Unit: T-017. Cargo Id: 6608310.
 =>q25
 ::LE 17.10.122:
 
-Heure: 09:02. De: JSHQ (F12). À : Garder (E6). Unité: ST-004. Numéro de fret: SEC1.
-Heure: 09:02. De: JSHQ (F12). À : Garder (E6). Unité: HT-002. Numéro de fret: 2298148.
-Heure: 09:04. De: JSHQ (F12). À : Garder (E6). Unité: ST-001. Numéro de fret: SEC1.
-Heure: 09:07. De: JSHQ (F12). À : Garder (E6). Unité: ST-003. Numéro de fret: SEC1.
-Heure: 09:07. De: JSHQ (F12). À : Garder (E6). Unité: ST-005. Numéro de fret: SEC1.
-Heure: 09:08. De: JSHQ (F12). À : Garder (E6). Unité: SC-010. Numéro de fret: SEC1.
-Heure: 09:09. De: JSHQ (F12). À : Garder (E6). Unité: SC-004. Numéro de fret: SEC1.
-Heure: 09:11. De: JSHQ (F12). À : Garder (E6). Unité: SC-007. Numéro de fret: SEC1.
-Heure: 09:22. De: JSHQ (F12). À : AbyssE (L2). Unité: SP-001. Cargo Id: ACoNR.
-Heure: 09:47. De: Nexus (K7). Aux : JSHQ (F12). Unité: P-010. Cargo Id: PASS1.
-Heure: 10:22. De: LEMCO (K3). Aux : JSHQ (F12). Unité: P-020. Id cargo: PASS1.
-Heure: 10:24. De: LEMCO (K3). Aux : JSHQ (F12). Unité: P-006. Numéro de fret: PASS2.
-Heure: 10:33. De: BSBRF (K11). Aux : JSHQ (F12). Unité: T-017. Numéro de fret: 6608310.::<end>
+Heure: 09:02. De: JSHQ (F12). À: Keep (E6). Unité: ST-004. Id cargo: SEC1.
+Heure: 09:02. De: JSHQ (F12). À: Keep (E6). Unité: HT-002. Id cargo: 2298148.
+Heure: 09:04. De: JSHQ (F12). À: Keep (E6). Unité: ST-001. Id cargo: SEC1.
+Heure: 09:07. De: JSHQ (F12). À: Keep (E6). Unité: ST-003. Id cargo: SEC1.
+Heure: 09:07. De: JSHQ (F12). À: Keep (E6). Unité: ST-005. Id cargo: SEC1.
+Heure: 09:08. De: JSHQ (F12). À: Keep (E6). Unité: SC-010. Id cargo: SEC1.
+Heure: 09:09. De: JSHQ (F12). À: Keep (E6). Unité: SC-004. Id cargo: SEC1.
+Heure: 09:11. De: JSHQ (F12). À: Keep (E6). Unité: SC-007. Id cargo: SEC1.
+Heure: 09:22. De: JSHQ (F12). À: AbyssE (L2). Unité: SP-001. Id cargo: ACoNR.
+Heure: 09:47. De: Nexus (K7). À: JSHQ (F12). Unité: P-010. Id cargo: PASS1.
+Heure: 10:22. De: LEMCO (K3). À: JSHQ (F12). Unité: P-020. Id cargo: PASS1.
+Heure: 10:24. De: LEMCO (K3). À: JSHQ (F12). Unité: P-006. Id cargo: PASS2.
+Heure: 10:33. De: BSBRF (K11). À: JSHQ (F12). Unité: T-017. Id cargo: 6608310.::<end>
 
 =>a26_original
 ::Import coordinates to your NCD::<end>
 
 =>a26
-::Importer les coordonnées à votre NCD::<end>
+::Importer les coordonnées dans votre NCD::<end>
 
 =>q27_original
 ::Importing coordinates...
@@ -318,12 +320,12 @@ Importing successful.
 =>q27
 ::Importation des coordonnées...
 
-Quartier général conjoint de la sécurité - F12
-Garde de l'île Arch - E6
-Abyssal Station Zero Ascenseurs - L2
-Nexus de technologie - K7
-Complexe manufacturier lémurien - K3
-Centre de recherche Blistering Shores - L12
+Joint Security Headquarters - F12
+Arch Island Keep - E6
+Abyssal Station Zero Elevators - L2
+Nexus of Technology - K7
+Lemurian Manufacturing Complex - K3
+Blistering Shores Research Facility - L12
 
 Importation réussie.
 ::<end>
@@ -332,19 +334,19 @@ Importation réussie.
 ::Obtain Course docking coordinates for listed locations::<end>
 
 =>a28
-::Obtenir les coordonnées d'accostage du cours pour les emplacements indiqués::<end>
+::Obtenir les coordonnées d'amarrage Course pour les sites listés::<end>
 
 =>a29_original
 ::Write the coordinates down manually::<end>
 
 =>a29
-::Écrire les coordonnées manuellement::<end>
+::Noter les coordonnées à la main::<end>
 
 =>q30_original
 ::You write down the Course docking coordinates.::<end>
 
 =>q30
-::Vous écrivez les coordonnées d'accostage.::<end>
+::Vous notez les coordonnées d'amarrage Course.::<end>
 
 =>a31_original
 ::Back::<end>
@@ -362,19 +364,19 @@ Importation réussie.
 ::Joint Security Headquarters - LE 17.10.122::<end>
 
 =>a33
-::Quartier général conjoint de la sécurité - LE 17.10.122::<end>
+::Joint Security Headquarters - LE 17.10.122::<end>
 
 =>a34_original
 ::Back.::<end>
 
 =>a34
-::En arrière.::<end>
+::Retour::<end>
 
 =>a35_original
 ::Exit::<end>
 
 =>a35
-::Sortie::<end>
+::Quitter::<end>
 
 =>q36_original
 ::Crimson Meadow Horticulture Center
@@ -382,7 +384,7 @@ Importation réussie.
 Unable to connect to LIN. Only local data is available.::<end>
 
 =>q36
-::Centre d'horticulture Crimson Meadow
+::Crimson Meadow Horticulture Center
 
 Impossible de se connecter à LIN. Seules les données locales sont disponibles.::<end>
 
@@ -392,7 +394,7 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 Unable to connect to LIN. Only local data is available.::<end>
 
 =>q37
-::Quartier général conjoint de la sécurité
+::Joint Security Headquarters
 
 Impossible de se connecter à LIN. Seules les données locales sont disponibles.::<end>
 
@@ -405,4 +407,3 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 ::Bienvenue, invité
 
 ::<end>
-

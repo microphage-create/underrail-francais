@@ -8,7 +8,7 @@ Tchort est l'évolution !<end>
 Just follow sister Therese, $(context.player.Name).<end>
 
 =>q2
-Suivez la sœur Thérèse, $(context.player.Name).<end>
+Suivez sœur Theresa, $(context.player.Name).<end>
 
 =>q3_original
 ::The guard motions you to hold still, then speaks to you in a firm voice.::
@@ -16,9 +16,9 @@ Suivez la sœur Thérèse, $(context.player.Name).<end>
 Halt, $(#brother/sister), you have entered a restricted area. I will have to ask you to leave.<end>
 
 =>q3
-::La garde vous pousse à rester immobile, puis vous parle d'une voix ferme.::
+::Le garde vous fait signe de rester immobile, puis vous parle d'une voix ferme.::
 
-Halt, $(#frère/sœur), vous êtes entré dans une zone réglementée. Je vais devoir vous demander de partir.<end>
+Halte, $(#frère/sœur). Vous venez de pénétrer dans une zone interdite. Je vais devoir vous demander de partir.<end>
 
 =>q4_original
 <end>
@@ -36,37 +36,37 @@ Tchort est l'évolution.<end>
 Evolution is Tchort, $(#brother/sister). Now please leave this area. Tchort guide you.<end>
 
 =>q6
-Evolution est Tchort, $(#frère/sœur). Maintenant, veuillez quitter cette zone. Tchort vous guide.<end>
+L'évolution est Tchort, $(#frère/sœur). Maintenant, quittez cette zone. Tchort vous guide.<end>
 
 =>a7_original
 What is this area?<end>
 
 =>a7
-C'est quoi, cette zone ?<end>
+Quelle est cette zone ?<end>
 
 =>q8_original
 Didn't you hear what I said, $(#brother/sister)? Leave this area.<end>
 
 =>q8
-Tu n'as pas entendu ce que j'ai dit, $(#frère/sœur) ? Quittez cette zone.<end>
+Vous n'avez pas entendu ce que j'ai dit, $(#frère/sœur) ? Quittez cette zone.<end>
 
 =>a9_original
 Mediant Samuel sent me here.<end>
 
 =>a9
-Samuel m'a envoyé ici.<end>
+Mediant Samuel m'a $(#envoyé/envoyée) ici.<end>
 
 =>q10_original
 No he didn't, $(#brother/sister), or else we would have known it. Now please leave.<end>
 
 =>q10
-Non, il ne l'a pas fait, $(#frère/sœur), sinon on l'aurait su. Partez, s'il vous plaît.<end>
+Non, $(#frère/sœur). Sinon nous l'aurions su. Maintenant, partez.<end>
 
 =>a11_original
 My bad, I was looking for the toilet. Goodbye.<end>
 
 =>a11
-Je cherchais les toilettes. Au revoir.<end>
+Pardon, je cherchais les toilettes. Au revoir.<end>
 
 =>q12_original
 Tchort guide you.<end>
@@ -78,7 +78,7 @@ Tchort vous guide.<end>
 I'm so sorry, I'm new here; it won't happen again. Tchort guide you.<end>
 
 =>a13
-Je suis désolée, je suis nouveau ici, ça n'arrivera plus. Tchort vous guide.<end>
+Je suis $(#désolé/désolée), je suis $(#nouveau/nouvelle) ici ; ça n'arrivera plus. Tchort vous guide.<end>
 
 =>q14_original
 <end>
@@ -90,17 +90,17 @@ Je suis désolée, je suis nouveau ici, ça n'arrivera plus. Tchort vous guide.<
 Leave. Now.<end>
 
 =>q15
-Partez. Tout de suite.<end>
+Partez. Maintenant.<end>
 
 =>q16_original
 You have been warned, $(#brother/sister).<end>
 
 =>q16
-Vous avez été prévenu, $(#frère/sœur).<end>
+Vous étiez $(#prévenu/prévenue), $(#frère/sœur).<end>
 
 =>q17_original
 $(#Brother/Sister)!<end>
 
 =>q17
-$(#Frère/Sœur)!<end>
+$(#Frère/Sœur) !<end>
 

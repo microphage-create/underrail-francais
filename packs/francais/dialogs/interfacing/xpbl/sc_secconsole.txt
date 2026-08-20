@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::<end>
@@ -26,7 +26,7 @@
 ::Lift lockdown::<end>
 
 =>a5
-::Verrouillage de levage::<end>
+::Lever le confinement::<end>
 
 =>q6_original
 ::Verifying clearance level...
@@ -38,13 +38,13 @@ Lifting lockdown will unlock the main entrance gates, disable automated bioscann
 Proceed?::<end>
 
 =>q6
-::Vérifier le niveau d'autorisation...
+::Vérification du niveau d'habilitation...
 
-Votre niveau d'autorisation est C-4.
+Validé : votre niveau d'habilitation est C-4.
 
-Le verrouillage de levage déverrouillera les portes d'entrée principales, désactivera les procédures de bioscannage automatisé et permettra l'accès à l'ascenseur du commandement de sécurité. Le mode de fonctionnement des systèmes de défense automatisés restera inchangé.
+Lever le confinement déverrouillera les portes d'entrée principales, désactivera les procédures automatisées de bioscan et donnera accès à l'ascenseur Security Command. Le mode de fonctionnement des systèmes de défense automatisés restera inchangé.
 
-Poursuivez ?::<end>
+Continuer ?::<end>
 
 =>a7_original
 ::Yes::<end>
@@ -62,19 +62,19 @@ Unlocking Security Command Elevator... Done.
 Lockdown lifted successfully.::<end>
 
 =>q8
-::Lever le verrou...
+::Levée du confinement...
 
-Ouverture de la porte 1...
-Ouverture de la porte 2...
-Déverrouillage de l'ascenseur du commandement de sécurité...
+Ouverture de la porte d'entrée 1... Terminé.
+Ouverture de la porte d'entrée 2... Terminé.
+Déverrouillage de l'ascenseur Security Command... Terminé.
 
-Verrouillage réussi.::<end>
+Confinement levé.::<end>
 
 =>a9_original
 ::No::<end>
 
 =>a9
-::No::<end>
+::Non::<end>
 
 =>a10_original
 ::Surveillance system::<end>
@@ -88,9 +88,9 @@ Verrouillage réussi.::<end>
 Number of active security cameras in Joint Security Headquarters: N/A::<end>
 
 =>q11
-::Statut du système de surveillance: en ligne.
+::État du système de surveillance : En ligne.
 
-Nombre de caméras de sécurité actives au quartier général de la sécurité conjointe : s.o.::<end>
+Nombre de caméras de sécurité actives à Joint Security Headquarters : N/A::<end>
 
 =>a12_original
 ::Disable the surveillance system::<end>
@@ -134,13 +134,13 @@ Surveillance system disabled successfully..::<end>
 =>q15
 ::Désactivation du système de surveillance...
 
-Système de surveillance désactivé avec succès..::<end>
+Système de surveillance désactivé.::<end>
 
 =>q16_original
 ::Surveillance system status: Offline.::<end>
 
 =>q16
-::Statut du système de surveillance: Hors ligne.::<end>
+::État du système de surveillance : Hors ligne.::<end>
 
 =>a17_original
 ::Back::<end>
@@ -164,31 +164,31 @@ Erreur...
 
 Erreur...
 
-Redémarrer...::<end>
+Redémarrage...::<end>
 
 =>a19_original
 ::Exit::<end>
 
 =>a19
-::Sortie::<end>
+::Quitter::<end>
 
 =>a20_original
 ::Auto-turret defense system::<end>
 
 =>a20
-::Système de défense auto-turrète::<end>
+::Système de défense des tourelles automatiques::<end>
 
 =>q21_original
 ::Auto-turret defense system status: Online::<end>
 
 =>q21
-::État du système de défense auto-turret: Online::<end>
+::État du système de défense des tourelles automatiques : En ligne::<end>
 
 =>a22_original
 ::Disable auto-turret defense system::<end>
 
 =>a22
-::Désactiver le système de défense auto-turret::<end>
+::Désactiver le système de défense des tourelles automatiques::<end>
 
 =>q23_original
 ::Error...
@@ -216,7 +216,7 @@ Erreur...::<end>
 ::[Hacking] Disable auto-turret defense system::<end>
 
 =>a24
-::Désactivez le système de défense de la tourelle auto::<end>
+::[Hacking] Désactiver le système de défense des tourelles automatiques::<end>
 
 =>q25_original
 ::Disabling...
@@ -226,19 +226,19 @@ Success: Auto-turret defense system has been disabled.::<end>
 =>q25
 ::Désactivation...
 
-Succès : Le système de défense automatique a été désactivé.::<end>
+Succès : le système de défense des tourelles automatiques a été désactivé.::<end>
 
 =>q26_original
 ::Auto-turret defense system status: Offline::<end>
 
 =>q26
-::État du système de défense auto-turret : Hors ligne::<end>
+::État du système de défense des tourelles automatiques : Hors ligne::<end>
 
 =>a27_original
 ::Contact active security supervisor::<end>
 
 =>a27
-::Contactez le superviseur actif de la sécurité::<end>
+::Contacter le superviseur de sécurité en service::<end>
 
 =>q28_original
 ::No active security supervisors detected. There may be temporary communication problems preventing this. 
@@ -246,15 +246,15 @@ Succès : Le système de défense automatique a été désactivé.::<end>
 Please try again later.::<end>
 
 =>q28
-::Aucun superviseur de sécurité actif détecté. Il peut y avoir des problèmes de communication temporaires.
+::Aucun superviseur de sécurité en service détecté. Des problèmes de communication temporaires peuvent l'expliquer.
 
-Veuillez réessayer plus tard.::<end>
+Réessayer plus tard.::<end>
 
 =>a29_original
 ::Summon available strongman::<end>
 
 =>a29
-::Invoquer un homme fort disponible::<end>
+::Appeler un strongman disponible::<end>
 
 =>q30_original
 
@@ -264,11 +264,10 @@ Veuillez réessayer plus tard.::<end>
 =>q30
 
 
-::Attention : le quartier général commun de sécurité est entièrement verrouillé.::<end>
+::Avertissement : Joint Security Headquarters est en confinement total.::<end>
 
 =>q31_original
 ::You do not have permission to use this console. Minimum clearance level required is C-3.::<end>
 
 =>q31
-::Vous n'êtes pas autorisé à utiliser cette console. Le niveau d’autorisation minimum requis est C-3.::<end>
-
+::Vous n'avez pas l'autorisation d'utiliser cette console. Niveau d'habilitation minimum requis : C-3.::<end>

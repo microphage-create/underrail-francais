@@ -2,13 +2,13 @@
 ::Welcome, $(context.player.Name)::<end>
 
 =>q1
-::Bienvenue, $(context.player. Nom)::<end>
+::Bienvenue, $(context.player.Name)::<end>
 
 =>a2_original
 ::Encrypt the text.::<end>
 
 =>a2
-::Chiffrez le texte.::<end>
+::Chiffrer le texte::<end>
 
 =>q3_original
 ::Unencrypted text:
@@ -25,30 +25,30 @@ $(context.global_xpbl_encryptionKey)
 ::<end>
 
 =>q3
-::Texte non chiffré :
+::Texte en clair :
 
-$(context.global xpbl unencryptedText)
+$(context.global_xpbl_unencryptedText)
 
 Texte chiffré :
 
-$(context.global xpbl encryptedText)
+$(context.global_xpbl_encryptedText)
 
 Clé :
 
-$(context.global xpbl encryptionKey)
+$(context.global_xpbl_encryptionKey)
 ::<end>
 
 =>a4_original
 ::Type password::<end>
 
 =>a4
-::Saisissez le mot de passe::<end>
+::Saisir le mot de passe::<end>
 
 =>q5_original
 ::Password: $(context.xpbl_loc_rf_lockerPassword)::<end>
 
 =>q5
-::Mot de passe : $(context.xpbl loc rf lockerMot de passe)::<end>
+::Mot de passe : $(context.xpbl_loc_rf_lockerPassword)::<end>
 
 =>a6_original
 1<end>
@@ -114,11 +114,10 @@ $(context.global xpbl encryptionKey)
 ::Clear::<end>
 
 =>a16
-::Clair::<end>
+::Effacer::<end>
 
 =>a17_original
 ::Main::<end>
 
 =>a17
-::Principale::<end>
-
+::Accueil::<end>

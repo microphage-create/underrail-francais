@@ -18,19 +18,19 @@ Impossible de se connecter à LIN. Seules les données locales sont disponibles.
 ::Mail::<end>
 
 =>a3
-::Courriel::<end>
+::Messagerie::<end>
 
 =>q4_original
 ::Mail::<end>
 
 =>q4
-::Courriel::<end>
+::Messagerie::<end>
 
 =>a5_original
 ::From: A. Mclane; Subject: New challenge; Cc: J. Toplin, L. Noel...::<end>
 
 =>a5
-::De: A. Mclane; Sujet: Nouveau défi; Cc: J. Toplin, L. Noel...::<end>
+::De : A. Mclane ; Objet : Nouveau défi ; Cc : J. Toplin, L. Noel...::<end>
 
 =>q6_original
 ::Hey guys,
@@ -40,13 +40,13 @@ just wanted to let you know that it's finally finished: The Musical Cipher is he
 =>q6
 ::Salut les gars,
 
-Je voulais juste vous dire que c'est fini : le chiffre musical est là. Nous l'avons déjà fait plusieurs fois, donc je ne pense pas qu'il soit nécessaire d'expliquer beaucoup. Chacun d'entre vous obtiendra ses propres échantillons de texte codés::<end>
+juste un mot pour vous dire que c'est enfin fini : le Chiffre musical est là. On a déjà fait ça un paquet de fois, donc peu besoin d'expliquer. Chacun d'entre vous recevra ses propres échantillons de texte encodés ::<end>
 
 =>q7_original
 ::as well as an encoded four-digit code for the tech vault next to my office. ::<end>
 
 =>q7
-::ainsi qu'un code à quatre chiffres codé pour le coffre technique à côté de mon bureau.::<end>
+::ainsi qu'un code à quatre chiffres encodé pour le coffre technique à côté de mon bureau. ::<end>
 
 =>q8_original
 ::One key per person has been used to encrypt each person's text, and the keys are being kept safe on my computer; you will NOT be able to get them through the wire, so don't even try. The first one to decrypt the code and unlock the tech vault gets to try out the Sonocaster at the range.
@@ -58,13 +58,13 @@ Your text will arrive in a separate mail.  I'll play you some Lemurian Philharmo
 Allan McLane, Nexus Security::<end>
 
 =>q8
-::Une clé par personne a été utilisée pour chiffrer le texte de chaque personne, et les clés sont gardées en sécurité sur mon ordinateur; vous ne serez pas en mesure de les faire passer par le fil, alors n'essayez même pas. Le premier à déchiffrer le code et déverrouiller le coffre technique permet d'essayer le Sonocaster à la portée.
+::Une clé par personne a servi à chiffrer le texte de chacun, et les clés restent au chaud sur mon ordinateur ; vous ne pourrez PAS les récupérer par le réseau, alors même pas la peine d'essayer. Le premier à déchiffrer le code et à ouvrir le coffre technique pourra tester le Sonocaster au stand de tir.
 
-Maintenant, avant que certains d'entre vous (Hammond) commentent, je suis parfaitement conscient que j'ai sacrifié une certaine sécurité pour garder l'aspect musical du chiffre aussi authentique que possible. Après tout, il s'agit de s'amuser avec ces défis. C'est peut-être notre dernier, alors pourquoi ne pas y injecter de l'art ?
+Maintenant, avant que certains d'entre vous (Hammond) y aillent de leur commentaire : je sais très bien que j'ai sacrifié un peu de sécurité pour garder l'aspect musical du chiffre aussi authentique que possible. Après tout, le but de ces défis, c'est de s'amuser. Ça sera peut-être même le dernier, alors pourquoi ne pas y glisser un peu d'art ?
 
-Votre texte arrivera dans un courrier séparé. Je vais te jouer de la philharmonie lémurienne sur les haut-parleurs, juste pour mettre la bonne humeur.
+Votre texte arrivera dans un mail à part. Je vous passerai un peu de Philharmonie lémurienne dans les haut-parleurs, juste pour planter l'ambiance.
 
-Allan McLane, Sécurité Nexus::<end>
+Allan McLane, Nexus Security::<end>
 
 =>a9_original
 ::Back::<end>
@@ -76,13 +76,13 @@ Allan McLane, Sécurité Nexus::<end>
 ::in which I have concealed a four-digit code for the tech vault next to my office, one digit per sample. ::<end>
 
 =>q10
-::dans lequel j'ai caché un code à quatre chiffres pour le coffre technique à côté de mon bureau, un chiffre par échantillon.::<end>
+::dans lequel j'ai caché un code à quatre chiffres pour le coffre technique à côté de mon bureau, un chiffre par échantillon. ::<end>
 
 =>a11_original
 ::From: A. Mclane; Subject: New challenge::<end>
 
 =>a11
-::De : A. Mclane; Sujet : Nouveau défi::<end>
+::De : A. Mclane ; Objet : Nouveau défi::<end>
 
 =>q12_original
 ::Mickey,
@@ -98,11 +98,11 @@ $(context.global_xpbl_encryptedString3)
 =>q12
 ::Mickey,
 
-Voici votre texte :
-$(context.global xpbl encryptedString0)
-$(context.global xpbl encryptedString1)
-$(context.global xpbl encryptedString2)
-$(context.global xpbl encryptedString3)
+Voici ton texte :
+$(context.global_xpbl_encryptedString0)
+$(context.global_xpbl_encryptedString1)
+$(context.global_xpbl_encryptedString2)
+$(context.global_xpbl_encryptedString3)
 
 ::<end>
 
@@ -114,7 +114,7 @@ $(context.global_xpbl_encryptedKeypadCode)
 
 =>q13
 ::Et voici le code du clavier :
-$(context.global xpbl encryptedKeypadCode)
+$(context.global_xpbl_encryptedKeypadCode)
 
 ::<end>
 
@@ -124,15 +124,15 @@ $(context.global xpbl encryptedKeypadCode)
 Allan McLane, Nexus Security::<end>
 
 =>q14
-::Bonne chance !
+::Bonne chance, vieux !
 
-Allan McLane, Sécurité Nexus::<end>
+Allan McLane, Nexus Security::<end>
 
 =>a15_original
 ::To: L. Noel, Subject: Allan's Challenge (8 messages)::<end>
 
 =>a15
-::À : L. Noel, Sujet : Défi Allan (8 messages)::<end>
+::À : L. Noel, Objet : Défi d'Allan (8 messages)::<end>
 
 =>q16_original
 ::Hey Laverne,
@@ -142,11 +142,11 @@ need some help with music theory. Hear me out: You are an electrolinist, while I
 Your best pal Mickey, office next door::<end>
 
 =>q16
-::Bonjour Laverne,
+::Salut Laverne,
 
-besoin d'aide avec la théorie de la musique. Écoutez-moi : vous êtes électroliniste, alors que j'étais le pire des cours de musique, et vous savez que c'est vrai. En fait, j'étais l'un des rares dont la connaissance de la théorie musicale pouvait être décrite comme « absolument abyssale ». Par conséquent, j'ai besoin d'aide si je dois avoir une chance égale de briser le chiffre, non ? Et puisque vous êtes un musicien professionnel, et extrêmement intelligent, et drop-mort magnifique, et un grand cuisinier et un être humain superbe sur le dessus de tout cela, il est parfaitement logique que vous devriez venir à mon aide parce que avec votre vaste connaissance de la théorie de la musique, il vous faudra quelques minutes pour m'éclairer. Ça prendrait si peu de temps que tu ne réaliseras même pas que tu m'as aidé, alors que je serais éternellement reconnaissant.
+besoin d'un coup de main en théorie musicale. Écoute-moi bien : toi, tu es électroliniste, alors que moi j'étais le pire de la classe de musique, et tu le sais très bien. En fait, j'étais de ceux, rares, dont le niveau en théorie musicale se résumait le mieux à « abyssal, point barre ». Donc j'ai besoin d'aide si je veux une chance égale de casser le chiffre, non ? Et comme tu es musicienne pro, et extrêmement intelligente, et canon à tomber par terre, et une sacrée cuisinière, et un être humain formidable par-dessus le marché, c'est tout à fait logique que tu viennes à mon secours, parce qu'avec ta science infinie de la théorie musicale tu n'auras besoin que de quelques minutes pour m'illuminer. Si peu de temps que tu ne te rendras même pas compte de m'avoir aidé, alors que moi je t'en serai éternellement reconnaissant.
 
-Votre meilleur ami Mickey, bureau à côté::<end>
+Ton meilleur pote Mickey, bureau d'à côté::<end>
 
 =>a17_original
 ::Next::<end>
@@ -163,11 +163,11 @@ Laverne
 :x::<end>
 
 =>q18
-::Hey meilleur ami Mickey,
+::Hé meilleur pote Mickey,
 
-Je suis occupé.
+Je suis occupée.
 
-Laverne
+Laverne 
 :x::<end>
 
 =>a19_original
@@ -184,11 +184,11 @@ please help me! I suck at music! I can't even hum a simple tune, let alone deal 
 Your humble servant Mickey, dark office next door::<end>
 
 =>q20
-::Laverne, ma chère, l'éblouissement de l'écran qui perfore les ténèbres qui m'entourent,
+::Laverne, ma chère, éblouissement d'écran qui perce les ténèbres dévorantes autour de moi,
 
-Aidez-moi ! Je suis nul à la musique ! Je ne peux même pas jouer un air simple, sans parler de la théorie. Au secours !
+au secours ! Je suis nul en musique ! Je suis même pas capable de fredonner un air simple, alors la théorie... Au secours !
 
-Votre humble serviteur Mickey, bureau noir à côté::<end>
+Ton humble serviteur Mickey, bureau sombre d'à côté::<end>
 
 =>a21_original
 ::Next::<end>
@@ -205,12 +205,12 @@ Laverne, your mistress, office of joy, light and music next door
 :x ::<end>
 
 =>q22
-::Mon humble serviteur Mickey, victime des lumières de votre bureau
+::Mon humble serviteur Mickey, victime des lumières en rade de ton bureau
 
-il ne peut y avoir qu'un seul gagnant dans ce défi, et le gagnant peut jouer avec un canon sonique expérimental cool. Bonjour ! Qu'est-ce qui te fait croire que je voudrais aider ma compétition ?
+il n'y a de place que pour un gagnant dans ce défi, et le gagnant a le droit de jouer avec un super canon sonique expérimental. Hé ! Qu'est-ce qui te fait croire que je voudrais aider la concurrence, hm ?
 
-Laverne, ta maîtresse, bureau de joie, de lumière et de musique à côté
-:x::<end>
+Laverne, ta maîtresse, bureau de joie, de lumière et de musique d'à côté 
+:x ::<end>
 
 =>a23_original
 ::Next::<end>
@@ -230,9 +230,9 @@ Mickey, sad.::<end>
 =>q24
 ::Ma maîtresse Laverne,
 
-Je ne pouvais même pas rêver de dépasser quelqu'un de tes talents. Cependant, je serais ravi de dépasser au moins les autres, afin que je puisse me précipiter devant eux avec le code et vous attraper dans votre moment de joie triomphante alors que vous recueillez votre récompense durement gagnée.
+Je ne pourrais même pas rêver de dépasser quelqu'un de tes talents. En revanche, je serais ravi de dépasser au moins les autres, pour foncer devant eux avec le code et te surprendre au moment de ta joie triomphale, pendant que tu récupères ta récompense durement méritée.
 
-Pouvez-vous m'aider, s'il vous plaît, oh Laverne, ma maîtresse ?
+Tu m'aiderais, s'il te plaît, ô Laverne, ma maîtresse ?
 
 Mickey, triste.::<end>
 
@@ -251,11 +251,11 @@ Laverne
 :x::<end>
 
 =>q26
-::Hé triste Mickey,
+::Hé, triste Mickey,
 
-Je n'aime pas tout ce sucre que tu me piques. Ça me rend malade, et franchement, ça ne te va pas du tout. Soyez vous-même, le vrai vous... et puis je pourrais, MEUILLER penser peut-être, peut-être, Possiblement, mais pas certainement, vous aider. Même si je préfère toujours que Jeff m'attrape dans ce coffre technique.
+J'aime pas tout ce sucre que tu me déverses. Ça me donne la nausée, et franchement : ça ne te va pas du tout. Sois toi-même, le vrai toi... et alors je pourrais, POURRAIS envisager de peut-être, éventuellement, POSSIBLEMENT, mais pas sûrement, t'aider. Même si je préférerais toujours que ce soit Jeff qui me rattrape dans ce coffre technique, plutôt que toi.
 
-Laverne
+Laverne 
 :x::<end>
 
 =>a27_original
@@ -268,7 +268,7 @@ Laverne
 ::Help me with music theory, you four-eyed puck, or I'll put your electrolin in Hammond's sweaty, greasy hands!::<end>
 
 =>q28
-::Aide-moi avec la théorie de la musique, sale rondelle à quatre yeux, ou je mettrai ton électrolin dans les mains transpirantes et grasses d'Hammond !::<end>
+::Aide-moi en théorie musicale, espèce de palet à lunettes, ou je file ton électrolin dans les mains moites et grasses d'Hammond !::<end>
 
 =>a29_original
 ::Next::<end>
@@ -284,9 +284,9 @@ P.S. If there's one person worse at music in general than you, it's Hammond. Rem
 Laverne, :x::<end>
 
 =>q30
-::Ouais ! Ouais ! Ça te ressemble plus. Très bien. Je t'enverrai même quelque chose que tu peux comprendre. Heureusement, j'ai des notes à faire, ça ne prendra que quelques minutes.
+::Beurk ! BEURK ! Ça, ça te ressemble davantage. Très bien. Je vais t'envoyer un truc que même *toi* tu peux comprendre. Heureusement j'ai des notes qui traînent, ça ne prendra que quelques minutes.
 
-P.S. S'il y a une personne pire à la musique en général que toi, c'est Hammond. Tu te souviens quand il a tourné toutes les poignées d'accord sur mon électroline pour qu'ils soient dans la même direction ? "Ils n'avaient pas l'air bien," dit-il. Et puis le regard sur son visage quand j'ai activé l'auto-ajustement... oh, mon.
+P.S. S'il y a bien quelqu'un de pire que toi en musique, c'est Hammond. Tu te souviens quand il a tourné toutes les chevilles d'accordage de mon électrolin pour qu'elles pointent dans le même sens ? « Elles n'avaient pas l'air d'aller », qu'il a dit. Et ensuite sa tête quand j'ai lancé l'auto-accordage... oh là là.
 
 Laverne, :x::<end>
 
@@ -294,7 +294,7 @@ Laverne, :x::<end>
 ::Back to Mail::<end>
 
 =>a31
-::Retour au courriel::<end>
+::Retour à la messagerie::<end>
 
 =>a32_original
 ::Previous::<end>
@@ -342,7 +342,7 @@ Laverne, :x::<end>
 ::From: L. Noel. Subject: Music theory (1 Attached files)::<end>
 
 =>a39
-::De: L. Noel. Sujet: Théorie de la musique (1 fichiers joints)::<end>
+::De : L. Noel. Objet : Théorie musicale (1 fichier joint)::<end>
 
 =>q40_original
 ::I think this should be enough. Happy reading, and happy deciphering.
@@ -353,9 +353,9 @@ Laverne
 :x::<end>
 
 =>q40
-::Je pense que ça devrait suffire. Bonne lecture, et déchiffrement heureux.
+::Je pense que ça devrait suffire. Bonne lecture, et bon déchiffrement.
 
-Laisse-moi tranquille.
+Maintenant, laisse-moi tranquille.
 
 Laverne
 :x::<end>
@@ -364,13 +364,13 @@ Laverne
 ::Open attached file (Theory:Bits_and_Pieces_for_Unschooled_People.odc)::<end>
 
 =>a41
-::Ouvrir le fichier ci-joint (théorie:Bits and Pieces for Unschooled People.odc)::<end>
+::Ouvrir le fichier joint (Theory:Bits_and_Pieces_for_Unschooled_People.odc)::<end>
 
 =>q42_original
 ::Musical note - a notation representing the pitch and duration of a musical sound. In Global Music Theory there are many musical temperaments, or tuning systems, but one of the most well-known (if outmoded) is the twelve-tone equal temperament (*12TET*), in which each octave is separated into twelve equally spaced notes, also referred to as semitones or half steps. The scale comprising of all twelve notes is called a *chromatic* scale.::<end>
 
 =>q42
-::Note musicale - une notation représentant la hauteur et la durée d'un son musical. Dans la musique mondiale Théorie il y a beaucoup de tempéraments musicaux, ou systèmes de réglage, mais l'un des plus connus (si dépassé) est le tempérament égal de douze tons (*12TET*), dans lequel chaque octave est séparé en douze notes également espacées, également appelées semi-tones ou demi-pas. L'échelle comprenant les douze notes est appelée échelle *chromatique*.::<end>
+::Note musicale : notation qui représente la hauteur et la durée d'un son. En Global Music Theory, il existe de nombreux tempéraments musicaux, ou systèmes d'accordage, mais l'un des plus connus (même s'il est un peu daté) est le tempérament égal à douze tons (*12TET*), où chaque octave est découpée en douze notes également espacées, aussi appelées demi-tons (*semitones* ou *half steps*). La gamme qui rassemble les douze notes s'appelle gamme *chromatic* (chromatique).::<end>
 
 =>a43_original
 ::Next::<end>
@@ -384,9 +384,9 @@ Laverne
 Octaves are commonly represented with numbers, starting with 0 (representing the sub contra octave, although most of the octave is below the non-augmented human hearing range) and increasing by 1 with each successive octave.::<end>
 
 =>q44
-::Octave (octave parfait) - un intervalle entre huit notes (le nombre total de notes par octave dans les systèmes anciens, également appelés notes *naturelles*) où la dernière note est exactement le double de la fréquence de la première et est notée avec la même lettre mais avec un nombre d'octave augmenté (par exemple *C1* - *C2*; ces notes sont dites être *une octave à part*). Cependant, l'octave peut aussi signifier un diapason (étendue) de notes, sept notes *naturelles* et cinq *accidents* ou douze notes au total en *12TET*.
+::Octave (octave juste, *perfect octave*) : intervalle entre huit notes (le nombre total de notes par octave dans les systèmes anciens, aussi appelées notes *natural*) où la dernière note a exactement le double de la fréquence de la première, et s'écrit avec la même lettre mais un numéro d'octave plus élevé (ex. *C1* - *C2* ; on dit de ces notes qu'elles sont *an octave apart*, à une octave d'écart). L'octave peut aussi désigner une étendue (*diapason*) de notes : sept notes *natural* et cinq *accidentals*, soit douze notes au total en *12TET*.
 
-Les octaves sont souvent représentées par des nombres, commençant par 0 (représentant le sous-controctave, bien que la plupart de l'octave soit en dessous de l'intervalle auditif humain non augmenté) et augmentant de 1 avec chaque octave successive.::<end>
+Les octaves se notent généralement par des numéros, à partir de 0 (octave sous-contre, *sub contra*, dont la plus grande partie est sous le seuil d'audition humaine non augmenté), puis +1 à chaque octave suivante.::<end>
 
 =>a45_original
 ::Next::<end>
@@ -402,11 +402,11 @@ The accidentals are natural notes that have been either *sharpened* (raised by o
 Therefore, the sharpened notes are *C#*, *D#*, *F#*, *G#*, *A#*, and the flatted notes are *Db*, *Eb*, *Gb*, *Ab*, *Bb*.::<end>
 
 =>q46
-::Les notes naturelles sont *C*, *D*, *E*, *F*, *G*, *A*, *B*.
+::Les notes naturelles (*natural*) sont *C*, *D*, *E*, *F*, *G*, *A*, *B*.
 
-Les accidentellements sont des notes naturelles qui ont été soit *parsemées* (auréolées d'une demi-tonne, représentée par le symbole *#*) ou *platées* (au-dessous d'une demi-tonne, représentée par le symbole *b*) et il y en a cinq au total par octave; en essence, ils représentent des notes entre les notes naturelles, ce qui signifie que, par exemple, une note *C# *(*C-sharp*) est la même que la note *Db* (*D-flat*). Il est important de préciser qu'il n'y a pas d'accident entre les notes *E* et *F* (pas de *E-sharp* ou *F-flat*) ou *B* et *C* (pas de *C-sharp* ou *B-sharp*), car un *C* plat est techniquement égal à *B* et inversement un *B* aiguisé est égal à *C*; il en va de même pour *E* et *F*.
+Les altérations (*accidentals*) sont des notes naturelles *sharpened* (diésées : montées d'un demi-ton, symbole *#*) ou *flatted* (bémolisées : baissées d'un demi-ton, symbole *b*). Il y en a cinq par octave ; concrètement, ce sont les notes entre les notes naturelles. Ainsi, une note *C# *(*C-sharp*) est la même que *Db* (*D-flat*). Important : il n'y a pas d'altération entre *E* et *F* (pas de *E-sharp* ni de *F-flat*) ni entre *B* et *C* (pas de *C-flat* ni de *B-sharp*), parce qu'un *C* bémolisé vaut *B* et, à l'inverse, un *B* diésé vaut *C* ; même logique pour *E* et *F*.
 
-Par conséquent, les notes affûtées sont *C#*, *D#*, *F#*, *G#*, *A#*, et les notes aplaties sont *Db*, *Eb*, *Gb*, *Ab*, *Bb*.::<end>
+Donc les notes diésées sont *C#*, *D#*, *F#*, *G#*, *A#*, et les notes bémolisées sont *Db*, *Eb*, *Gb*, *Ab*, *Bb*.::<end>
 
 =>a47_original
 ::Next::<end>
@@ -421,9 +421,9 @@ Modulation - the process of changing from one key (tonal center) to the other *w
 ::<end>
 
 =>q48
-::Transposition - processus d'abaissement ou d'élévation du tonique d'une pièce musicale (sa clé, ou son centre tonal - un pas sur lequel tous les autres emplacements d'une pièce sont hiérarchiquement référencés) par un intervalle constant, de sorte que la pièce entière sonne plus haut ou plus bas. Par exemple, si une pièce écrite en C mineur est jouée en D mineur, elle est transposée plus haut par deux demi-tonnes.
+::Transposition : abaisser ou élever la tonique d'un morceau (sa tonalité, son centre tonal : une hauteur à laquelle toutes les autres hauteurs du morceau se réfèrent) d'un intervalle constant, pour que le morceau entier sonne plus haut ou plus bas. Exemple : un morceau écrit en C minor joué en D minor est transposé deux demi-tons plus haut.
 
-Modulation - le processus de changement d'une clé (centretonal) à l'autre *dans* une pièce. Par exemple, une pièce peut être écrite en C mineur, mais change en D-sharp majeur, puis en F majeur, etc. Chacun de ces changements est appelé modulation. La transposition d'une pièce ne perturbe pas les changements relatifs à l'intérieur d'une pièce, ne fait que rendre la pièce entière universellement supérieure ou inférieure.
+Modulation : changer de tonalité (centre tonal) *à l'intérieur* d'un morceau. Exemple : un morceau écrit en C minor qui passe en D-sharp major, puis en F major, etc. Chaque changement s'appelle une modulation. Une transposition ne touche pas aux changements relatifs à l'intérieur du morceau : elle le décale juste tout entier vers le haut ou vers le bas.
 ::<end>
 
 =>a49_original
@@ -452,29 +452,29 @@ These are, represented by the number of semitones they encompass:
 12 - perfect octave::<end>
 
 =>q50
-::Intervalle musical - une différence entre deux emplacements.
+::Intervalle musical : écart entre deux hauteurs.
 
-Elles sont représentées par le nombre de demi-tonnes qu'elles englobent :
+Les voici, selon le nombre de demi-tons (*semitones*) qu'ils couvrent :
 
-0 - unisson parfait (même note)
-1 - seconde mineure
-2 - deuxième majeure
-3 - mineur troisième
-4 - troisième majeure
-5 - parfait quatrième
-6 - diminution du cinquième/augmenté quatrième
-7 - parfait cinquième
-8 - mineur sixième
-9 - sixième majeure
-10 - septième mineure
-11 - septième majeure
-12 - octave parfaite::<end>
+0 - perfect unison (unisson juste, même note)
+1 - minor second (seconde mineure)
+2 - major second (seconde majeure)
+3 - minor third (tierce mineure)
+4 - major third (tierce majeure)
+5 - perfect fourth (quarte juste)
+6 - diminished fifth/augmented fourth (quinte diminuée / quarte augmentée)
+7 - perfect fifth (quinte juste)
+8 - minor sixth (sixte mineure)
+9 - major sixth (sixte majeure)
+10 - minor seventh (septième mineure)
+11 - major seventh (septième majeure)
+12 - perfect octave (octave juste)::<end>
 
 =>a51_original
 ::Read again::<end>
 
 =>a51
-::Lire à nouveau::<end>
+::Relire::<end>
 
 =>a52_original
 ::Previous::<end>
@@ -486,7 +486,7 @@ Elles sont représentées par le nombre de demi-tonnes qu'elles englobent :
 ::Back to: From: L. Noel. Subject: Music theory (1 Attached files)::<end>
 
 =>a53
-::Retour à: De: L. Noel. Sujet: Théorie de la musique (1 Fichiers joints)::<end>
+::Retour : De : L. Noel. Objet : Théorie musicale (1 fichier joint)::<end>
 
 =>a54_original
 ::Previous::<end>
@@ -516,5 +516,4 @@ Elles sont représentées par le nombre de demi-tonnes qu'elles englobent :
 ::Exit::<end>
 
 =>a58
-::Sortie::<end>
-
+::Quitter::<end>

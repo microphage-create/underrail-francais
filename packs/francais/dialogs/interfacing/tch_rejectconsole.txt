@@ -2,13 +2,13 @@
 ::This console seems to control the holding cells nearby.::<end>
 
 =>q1
-::Cette console semble contrôler les cellules de détention à proximité.::<end>
+::Cette console semble commander les cellules de détention, à côté.::<end>
 
 =>q2_original
 :: The controls are locked out and require a keycard to unlock.::<end>
 
 =>q2
-::Les commandes sont verrouillées et nécessitent une carte d'accès pour être déverrouillées.::<end>
+::Commandes verrouillées. Il faut une keycard.::<end>
 
 =>q3_original
 <end>
@@ -20,47 +20,46 @@
 ::Insert the key card.::<end>
 
 =>a4
-::Insérez la carte-clé.::<end>
+::Insérer la keycard.::<end>
 
 =>q5_original
 ::You manage to gain access to the controls by using the key card.::<end>
 
 =>q5
-::Vous parvenez à accéder aux commandes en utilisant la carte-clé.::<end>
+::Avec la keycard, vous accédez aux commandes.::<end>
 
 =>a6_original
 ::[Hacking] Attempt to hack the console.::<end>
 
 =>a6
-::[Hacking] Tentative de piratage de la console.::<end>
+::[Hacking] Tenter de pirater la console.::<end>
 
 =>q7_original
 ::You manage to hack the controls.::<end>
 
 =>q7
-::Vous parvenez à pirater les commandes.::<end>
+::Vous piratez les commandes.::<end>
 
 =>q8_original
 ::You fail to hack the controls.::<end>
 
 =>q8
-::Vous ne parvenez pas à pirater les contrôles.::<end>
+::Vous n'arrivez pas à pirater les commandes.::<end>
 
 =>a9_original
 ::Lock all holding cells.::<end>
 
 =>a9
-::Verrouillez toutes les cellules de détention.::<end>
+::Verrouiller toutes les cellules de détention.::<end>
 
 =>a10_original
 ::Unlock all holding cells.::<end>
 
 =>a10
-::Déverrouillez toutes les cellules de détention.::<end>
+::Déverrouiller toutes les cellules de détention.::<end>
 
 =>a11_original
 ::Leave.::<end>
 
 =>a11
 ::Partir.::<end>
-

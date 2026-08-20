@@ -4,7 +4,7 @@
 <end>
 
 =>q1
-::Avant que vous ne soyez une console assez inhabituelle. Son affichage affiche seulement un champ pour la séquence courante et pour les entrées. La console se compose de seulement quatre boutons marqués: L, S, soumettre la séquence et clair.::
+::Devant vous, une console assez inhabituelle. L'écran n'affiche qu'un champ pour la séquence en cours et un pour les saisies. Quatre boutons seulement, marqués : L, S, valider la séquence et effacer.::
 
 <end>
 
@@ -14,7 +14,7 @@
 <end>
 
 =>q2
-::Vous supposez que L serait pour quelque chose de long ou grand, et S serait pour court ou petit.::
+::Vous supposez que L veut dire long ou grand, et S court ou petit.::
 
 <end>
 
@@ -28,31 +28,31 @@
 ::Current sequence: $(context.loc_dun_ccResOffice_currentSequence)::<end>
 
 =>q4
-::Séquence actuelle : $(context.loc dun ccResOffice currentSequence)::<end>
+::Séquence en cours : $(context.loc_dun_ccResOffice_currentSequence)::<end>
 
 =>a5_original
 ::Press L button.::<end>
 
 =>a5
-::Appuyez sur le bouton L.::<end>
+::Appuyer sur L::<end>
 
 =>a6_original
 ::Press S button.::<end>
 
 =>a6
-::Appuyez sur le bouton S.::<end>
+::Appuyer sur S::<end>
 
 =>a7_original
 ::Submit sequence.::<end>
 
 =>a7
-::Soumettre la séquence.::<end>
+::Valider la séquence::<end>
 
 =>q8_original
 ::Mismatched sequence, please try again.::<end>
 
 =>q8
-::S'il vous plaît, essayez encore.::<end>
+::Séquence incorrecte. Réessayer.::<end>
 
 =>q9_original
 ::Letters L and S, may stand you for something that is long or large, and short or small, respectively.::
@@ -60,7 +60,7 @@
 <end>
 
 =>q9
-::Les lettres L et S, peuvent vous représenter quelque chose qui est long ou grand, et court ou petit, respectivement.::
+::Les lettres L et S peuvent désigner quelque chose de long ou de grand, et de court ou de petit, respectivement.::
 
 <end>
 
@@ -70,7 +70,7 @@
 <end>
 
 =>q10
-::Séquence assortie, donnant accès à la salle de stockage principale.::
+::Séquence reconnue. Accès à la salle de stockage principale.::
 
 <end>
 
@@ -78,23 +78,22 @@
 ::Come back in two weeks and/or contact the console administrator for further use.::<end>
 
 =>q11
-::Revenez dans deux semaines et/ou contactez l'administrateur de console pour une utilisation ultérieure.::<end>
+::Revenir dans deux semaines et/ou contacter l'administrateur de la console.::<end>
 
 =>a12_original
 ::Leave.::<end>
 
 =>a12
-::Partir.::<end>
+::Partir::<end>
 
 =>a13_original
 ::Clear.::<end>
 
 =>a13
-::Dégagez.::<end>
+::Effacer::<end>
 
 =>a14_original
 ::Leave.::<end>
 
 =>a14
-::Partir.::<end>
-
+::Partir::<end>

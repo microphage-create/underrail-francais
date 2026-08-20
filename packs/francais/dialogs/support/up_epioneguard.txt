@@ -16,7 +16,7 @@
 Welcome to Epione Lab, $(#sir/ma'am).<end>
 
 =>q3
-::Le soldat vous salue.::
+::Le soldat se met au garde-à-vous et vous salue.::
 
 Bienvenue à Epione Lab, $(#monsieur/madame).<end>
 
@@ -30,7 +30,7 @@ Bienvenue à Epione Lab, $(#monsieur/madame).<end>
 What can you tell me about Epione Lab, private?<end>
 
 =>a5
-Que pouvez-vous me dire sur Epione Lab ?<end>
+Que pouvez-vous me dire sur Epione Lab, soldat ?<end>
 
 =>q6_original
 Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
@@ -38,7 +38,7 @@ Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp faci
 That's really all I can tell you, $(#sir/ma'am).<end>
 
 =>q6
-Eh bien, $(#monsieur/madame), Epione Lab n'était qu'une installation Biocorp abandonnée - l'une des nombreuses dans Upper Underrail. Les troupes Underrail Protectorate ont emménagé récemment et occupé la zone. Il est bien sécurisé, et la proximité de Fort Apogee a jusqu'à présent été un moyen efficace de dissuasion contre toute attaque de bandit ou Free Drones.
+Eh bien, $(#monsieur/madame), Epione Lab n'était qu'une installation Biocorp abandonnée : une parmi tant d'autres dans Upper Underrail. Les troupes de l'Underrail Protectorate ont récemment pris position et occupé la zone. Le site est bien tenu, et la proximité de Fort Apogee a jusqu'ici dissuadé bandits et Free Drones de toute attaque.
 
 C'est tout ce que je peux vous dire, $(#monsieur/madame).<end>
 
@@ -46,67 +46,67 @@ C'est tout ce que je peux vous dire, $(#monsieur/madame).<end>
 Why do we have troops stationed here, private? What is so important about this facility?<end>
 
 =>a7
-Pourquoi avons-nous des troupes ici ? Qu'est-ce qui est si important dans cette installation?<end>
+Pourquoi avons-nous des troupes ici, soldat ? Qu'est-ce qui rend cette installation si importante ?<end>
 
 =>q8_original
 I'm sorry $(#sir/ma'am), but that information is classified.<end>
 
 =>q8
-Je suis désolé $(#monsieur/madame), mais cette information est classifiée.<end>
+Je suis désolé, $(#monsieur/madame), mais cette information est classifiée.<end>
 
 =>a9_original
 ::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
 
 =>a9
-::[Persuade]:: On vous a dit que je venais ici, non ? Pensez-vous que j'aurais le droit d'entrer ici, pour voir tout ce qui se passe si ce genre d'information était classifié pour moi ?<end>
+::[Persuade]:: On vous a informé de mon arrivée, n'est-ce pas ? Vous pensez qu'on me laisserait entrer ici, tout voir, si ce genre d'information m'était classifié ?<end>
 
 =>q10_original
 Um... I suppose you are right, $(#sir/ma'am)...<end>
 
 =>q10
-Euh... Vous avez raison, $(#monsieur/madame)...<end>
+Euh... Je suppose que vous avez raison, $(#monsieur/madame)...<end>
 
 =>a11_original
 So what is the problem?<end>
 
 =>a11
-Alors quel est le problème ?<end>
+Alors, quel est le problème ?<end>
 
 =>q12_original
 Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
 
 =>q12
-Ok, $(#monsieur/madame), je répondrai: Epione Lab est actuellement en cours de restauration afin qu'il puisse être utilisé comme une connexion exclusivement contrôlée par Protectorate à Lower Underrail, nous permettant de contourner complètement Core City, qui est un facteur limitatif depuis notre arrivée ici.<end>
+Bien, $(#monsieur/madame), je vais répondre : Epione Lab est en cours de restauration pour servir de liaison exclusivement sous contrôle du Protectorate vers Lower Underrail. On pourra ainsi contourner complètement Core City, un goulot d'étranglement depuis notre arrivée.<end>
 
 =>a13_original
 But, what does this facility possess that would allow us to do so?<end>
 
 =>a13
-Mais que possède cette installation qui nous permettrait de le faire?<end>
+Mais qu'est-ce que cette installation a de si particulier pour ça ?<end>
 
 =>q14_original
 The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
 
 =>q14
-L'ensemble de l'installation s'étend sur plusieurs étages jusqu'à Lower Underrail, et abrite un grand ascenseur qui pourrait être utilisé pour déplacer rapidement les troupes et l'équipement entre Upper et Lower Underrail. Les niveaux inférieurs d'Epione Lab sont toujours en ruines, et sont inaccessibles pour le moment, mais nous faisons de bons progrès, $(#monsieur/madame).<end>
+Toute l'installation s'étend sur plusieurs étages, jusqu'à Lower Underrail, et abrite un grand ascenseur : de quoi déplacer vite troupes et matériel entre Upper et Lower Underrail. Les niveaux inférieurs d'Epione Lab sont encore en ruine, inaccessibles pour l'instant, mais nous avançons bien, $(#monsieur/madame).<end>
 
 =>a15_original
 Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
 
 =>a15
-Attendez, donc, la seule façon de déplacer du personnel et de l'équipement entre Lower et Upper Underrail était jusqu'à présent par Core City?<end>
+Attendez : jusqu'ici, le seul moyen de faire passer personnel et matériel entre Lower et Upper Underrail, c'était Core City ?<end>
 
 =>q16_original
 Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
 
 =>q16
-Malheureusement, c'est exact, $(#monsieur/madame). Il n'y a pas d'autres façons de se déplacer entre les deux, et peu importe à quel point défavorable pour nous c'était la seule option disponible.<end>
+Malheureusement, c'est exact, $(#monsieur/madame). Il n'y a pas d'autre passage entre les deux. Loin d'être idéal pour nous, mais on n'avait pas le choix.<end>
 
 =>a17_original
 Thank you, private. I want to ask you something else.<end>
 
 =>a17
-Merci, privé. Je veux te demander autre chose.<end>
+Merci, soldat. Demander autre chose.<end>
 
 =>q18_original
 Yes, $(#sir/ma'am)?<end>
@@ -118,31 +118,31 @@ Oui, $(#monsieur/madame) ?<end>
 I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
 
 =>q19
-Je suis désolé, $(#monsieur/madame), mais je suis sûr que vous auriez reçu toutes les informations importantes pendant le briefing. Je ne peux rien révéler de plus que ce que je vous ai déjà dit.<end>
+Je suis désolé, $(#monsieur/madame), mais toutes les informations importantes vous auraient été communiquées au briefing. Je ne peux rien révéler de plus que ce que je vous ai déjà dit.<end>
 
 =>a20_original
 Fair enough. I had other questions for you, private.<end>
 
 =>a20
-Assez. J'avais d'autres questions pour toi, privé.<end>
+Entendu. Demander autre chose.<end>
 
 =>q21_original
 $(#Sir/Ma'am)?<end>
 
 =>q21
-$(#Monsieur/Madame)?<end>
+$(#Monsieur/Madame) ?<end>
 
 =>a22_original
 Let me ask you something else then, private.<end>
 
 =>a22
-Laissez-moi vous demander autre chose, privé.<end>
+Demander autre chose.<end>
 
 =>q23_original
 $(#Sir/Ma'am)?<end>
 
 =>q23
-$(#Monsieur/Madame)?<end>
+$(#Monsieur/Madame) ?<end>
 
 =>a24_original
 I would like to speak to Captain Blackwall. Where can I find him?<end>
@@ -154,13 +154,13 @@ Je voudrais parler au capitaine Blackwall. Où puis-je le trouver ?<end>
 Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
 
 =>q25
-Le capitaine Blackwall est situé au niveau inférieur à celui-ci, $(#monsieur/madame). Allez tout droit, prenez les portes doubles à gauche, puis descendez les escaliers.<end>
+Le capitaine Blackwall se trouve à l'étage en dessous, $(#monsieur/madame). Tout droit, les doubles portes à gauche, puis l'escalier.<end>
 
 =>q26_original
 He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
 
 =>q26
-On peut souvent le trouver près de l'ascenseur dans la partie nord du bâtiment; il y a un Dreadnought là-bas qui nettoie les décombres, de sorte que vous pouvez tout simplement suivre le son du forage.<end>
+On le trouve souvent près de l'ascenseur, dans la partie nord du bâtiment. Il y a un Dreadnought qui déblaie les gravats : suivez simplement le bruit de la foreuse.<end>
 
 =>a27_original
 Thank you, soldier. I will go find him.<end>
@@ -172,25 +172,25 @@ Merci, soldat. Je vais le trouver.<end>
 $(#Sir/Ma'am)! ::Salutes.::<end>
 
 =>q28
-$(#Monsieur/Madame)! ::Salutations.::<end>
+$(#Monsieur/Madame) ! ::Il salue.::<end>
 
 =>a29_original
 ::Return the salute and leave.::<end>
 
 =>a29
-::Rendez le salut et partez.::<end>
+::Rendre le salut et partir.::<end>
 
 =>a30_original
 ::Just walk away.::<end>
 
 =>a30
-::Laisse tomber.::<end>
+::S'éloigner.::<end>
 
 =>a31_original
 As you were, private.<end>
 
 =>a31
-Comme vous l'étiez, privé.<end>
+Repos, soldat.<end>
 
 =>q32_original
 ::The soldier salutes you.::<end>
@@ -204,7 +204,7 @@ Comme vous l'étiez, privé.<end>
 This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
 
 =>q33
-::Le soldat t'arrête.::
+::Le soldat vous arrête.::
 
 C'est une zone restreinte, citoyen. Je vais devoir vous ordonner de partir immédiatement.<end>
 
@@ -218,7 +218,7 @@ C'est une zone restreinte, citoyen. Je vais devoir vous ordonner de partir immé
 I um... was sent here from the high command to inspect this... facility... thing...<end>
 
 =>a35
-J'ai été envoyé ici du haut commandement pour inspecter cette installation...<end>
+J'ai... euh... été $(#envoyé/envoyée) ici par le haut commandement pour inspecter cette... installation... truc...<end>
 
 =>q36_original
 ::The guard points his weapon at you, looking you straight in the eyes.:: 
@@ -234,13 +234,13 @@ Vous voulez inspecter ça ?<end>
 You can't stop me, Protectorate scum! ::Attack!::<end>
 
 =>a37
-Tu ne peux pas m'arrêter, connard Protectorate ! ::Attaque!::<end>
+Vous ne pouvez pas m'arrêter, racaille du Protectorate ! ::Attaquer !::<end>
 
 =>a38_original
 Got the message! I'm off.<end>
 
 =>a38
-J'ai reçu le message ! Je m'en vais.<end>
+Message reçu ! Je m'en vais.<end>
 
 =>a39_original
 What is this place?<end>
@@ -252,7 +252,7 @@ Quel est cet endroit ?<end>
 That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
 
 =>q40
-Ça ne te regarde pas. Quittez la zone maintenant ou je serai obligé d'utiliser la force. C'est clair ?<end>
+Ça ne vous regarde pas. Quittez la zone, maintenant, ou je serai obligé d'utiliser la force. C'est clair ?<end>
 
 =>a41_original
 I understand, goodbye.<end>
@@ -264,5 +264,5 @@ Je comprends, au revoir.<end>
 I though I've made myself clear when I instructed you to leave the area.<end>
 
 =>q42
-Je vous ai dit de quitter la région.<end>
+Je croyais avoir été clair : quittez la zone.<end>
 

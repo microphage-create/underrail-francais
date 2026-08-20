@@ -8,13 +8,13 @@
 You're not supposed to be here, $(context.player.Name).<end>
 
 =>q2
-Tu n'es pas censé être ici, $(context.player.Name).<end>
+T'es pas $(#censé/censée) être ici, $(context.player.Name).<end>
 
 =>q3_original
 Please leave.<end>
 
 =>q3
-S'il te plait, partez.<end>
+S'il te plaît, pars.<end>
 
 =>q4_original
 Hey, what are you doing here?<end>
@@ -38,5 +38,5 @@ Pas maintenant.<end>
 Can't talk now, $(context.player.Name).<end>
 
 =>q7
-Je ne peux pas parler maintenant, $(context.player.Name).<end>
+Je peux pas parler là, $(context.player.Name).<end>
 

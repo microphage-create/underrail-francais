@@ -2,7 +2,7 @@
 ::No mutants allowed.::<end>
 
 =>q1
-::Pas de mutants autorisés.::<end>
+::Interdit aux mutants.::<end>
 
 =>q2_original
 <end>
@@ -14,19 +14,19 @@
 ::You had been caught with a forged ticket. ::<end>
 
 =>q3
-::Vous aviez été pris avec un faux billet.::<end>
+::Vous avez été pris avec un faux ticket.::<end>
 
 =>q4_original
 ::You need to pay a three hundred charon fine before you are allowed to travel by metro again.::<end>
 
 =>q4
-::Vous devez payer une amende de trois cents charons avant d'être autorisé à voyager en métro à nouveau.::<end>
+::Vous devez payer une amende de trois cents charons avant de pouvoir reprendre le métro.::<end>
 
 =>a5_original
 ::Pay the fine::<end>
 
 =>a5
-::Payez l'amende::<end>
+::Payer l'amende::<end>
 
 =>a6_original
 ::Leave::<end>
@@ -40,7 +40,7 @@
 Where would you like to go?::<end>
 
 =>q7
-::Voyager en métro vous coûtera vingt cinq charons. North Underrail est inaccessible jusqu'à ce que le chemin de fer soit complètement sécurisé.
+::Voyager en métro vous coûtera vingt-cinq charons. North Underrail est inaccessible tant que la voie n'est pas entièrement sécurisée.
 
 Où voulez-vous aller ?::<end>
 
@@ -48,19 +48,19 @@ Où voulez-vous aller ?::<end>
 ::[Debug] Play endgame slideshow.::<end>
 
 =>a8
-::[Debug] Jouez au diaporama de fin de jeu.::<end>
+::[Debug] Lancer le diaporama de fin::<end>
 
 =>a9_original
 ::Use a ticket::<end>
 
 =>a9
-::Utilisez un ticket::<end>
+::Utiliser un ticket::<end>
 
 =>q10_original
 ::This ticket is valid for a single journey to any destination. ::<end>
 
 =>q10
-::Ce billet est valable pour un seul voyage vers n'importe quelle destination.::<end>
+::Ce ticket est valable pour un seul voyage, destination au choix.::<end>
 
 =>q11_original
 ::North Underrail is inaccessible until the railroad has been completely secured.
@@ -68,7 +68,7 @@ Où voulez-vous aller ?::<end>
 Where would you like to go?::<end>
 
 =>q11
-::North Underrail est inaccessible jusqu'à ce que le chemin de fer soit complètement sécurisé.
+::North Underrail est inaccessible tant que la voie n'est pas entièrement sécurisée.
 
 Où voulez-vous aller ?::<end>
 
@@ -106,7 +106,7 @@ Où voulez-vous aller ?::<end>
 ::Where would you like to go?::<end>
 
 =>q17
-::Où aimerais-tu aller ?::<end>
+::Où voulez-vous aller ?::<end>
 
 =>a18_original
 ::North Underrail [Ends the game]::<end>
@@ -118,19 +118,19 @@ Où voulez-vous aller ?::<end>
 ::North Underrail [Ends the game with some important business left unfinished]::<end>
 
 =>a19
-::North Underrail [Fin du jeu avec quelques affaires importantes laissées inachevées]::<end>
+::North Underrail [Fin du jeu, affaires importantes en suspens]::<end>
 
 =>a20_original
 ::Use a forged ticket::<end>
 
 =>a20
-::Utiliser un faux billet::<end>
+::Utiliser un faux ticket::<end>
 
 =>q21_original
 ::This ticket is valid for a single journey to any destination. ::<end>
 
 =>q21
-::Ce billet est valable pour un seul voyage vers n'importe quelle destination.::<end>
+::Ce ticket est valable pour un seul voyage, destination au choix.::<end>
 
 =>q22_original
 <end>
@@ -144,7 +144,7 @@ Où voulez-vous aller ?::<end>
 Where would you like to go?::<end>
 
 =>q23
-::North Underrail est inaccessible jusqu'à ce que le chemin de fer soit complètement sécurisé.
+::North Underrail est inaccessible tant que la voie n'est pas entièrement sécurisée.
 
 Où voulez-vous aller ?::<end>
 
@@ -158,7 +158,7 @@ Où voulez-vous aller ?::<end>
 ::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
 
 =>q25
-::Le scanner de tickets clignote rouge et bips avant tout - le ticket n'a pas passé le chèque.::<end>
+::Le scanner de tickets clignote en rouge et émet un bip menaçant : le ticket n'a pas passé le contrôle.::<end>
 
 =>a26_original
 ::Rail Crossing::<end>
@@ -182,7 +182,7 @@ Où voulez-vous aller ?::<end>
 ::Where would you like to go?::<end>
 
 =>q29
-::Où aimerais-tu aller ?::<end>
+::Où voulez-vous aller ?::<end>
 
 =>a30_original
 ::North Underrail [Ends the game]::<end>
@@ -194,7 +194,7 @@ Où voulez-vous aller ?::<end>
 ::North Underrail [Ends the game with some important business left unfinished]::<end>
 
 =>a31
-::North Underrail [Fin du jeu avec quelques affaires importantes laissées inachevées]::<end>
+::North Underrail [Fin du jeu, affaires importantes en suspens]::<end>
 
 =>q32_original
 <end>
@@ -208,7 +208,7 @@ Où voulez-vous aller ?::<end>
 Where would you like to go?::<end>
 
 =>q33
-::North Underrail est inaccessible jusqu'à ce que le chemin de fer soit complètement sécurisé.
+::North Underrail est inaccessible tant que la voie n'est pas entièrement sécurisée.
 
 Où voulez-vous aller ?::<end>
 
@@ -240,7 +240,7 @@ Où voulez-vous aller ?::<end>
 ::Where would you like to go?::<end>
 
 =>q38
-::Où aimerais-tu aller ?::<end>
+::Où voulez-vous aller ?::<end>
 
 =>a39_original
 ::South Gate Station::<end>
@@ -270,11 +270,10 @@ Où voulez-vous aller ?::<end>
 ::Traveling by metro will cost you twenty five charons. Where would you like to go?::<end>
 
 =>q43
-::Voyager en métro vous coûtera vingt cinq charons. Où voulez-vous aller ?::<end>
+::Voyager en métro vous coûtera vingt-cinq charons. Où voulez-vous aller ?::<end>
 
 =>q44_original
 ::You need twenty five charons to travel by metro.::<end>
 
 =>q44
-::Vous avez besoin de vingt cinq charons pour voyager en métro.::<end>
-
+::Il faut vingt-cinq charons pour voyager en métro.::<end>

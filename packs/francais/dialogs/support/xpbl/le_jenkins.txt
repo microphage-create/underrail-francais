@@ -2,7 +2,7 @@
 I cannot speak to you now, sec-trooper.<end>
 
 =>q1
-Je ne peux pas vous parler maintenant.<end>
+Je ne peux pas vous parler maintenant, sec-trooper.<end>
 
 =>q2_original
 <end>
@@ -18,7 +18,7 @@ The standing one? Understood. Out.<end>
 =>q3
 ::La femme parle dans son navcom.::
 
-Celui qui est debout ? Compris. Dehors.<end>
+Celui qui est debout ? Compris. Terminé.<end>
 
 =>q4_original
 Sec-trooper $(context.player.Name). I'm Sec-trooper Jenkins. <end>
@@ -30,13 +30,13 @@ Sec-trooper $(context.player.Name). Je suis Sec-trooper Jenkins. <end>
 Pleased to meet you. The chief sent me here to receive the keys to one of the jet skis.<end>
 
 =>a5
-Ravi de vous rencontrer. Le chef m'a envoyé ici pour recevoir les clés d'un des jet skis.<end>
+$(#Ravi/Ravie) de vous rencontrer. Le chef m'envoie chercher les clés d'un des jet skis.<end>
 
 =>q6_original
 Have you ridden one before?<end>
 
 =>q6
-Vous en avez déjà monté un ?<end>
+Vous en avez déjà piloté un ?<end>
 
 =>q7_original
 <end>
@@ -54,7 +54,7 @@ Non.<end>
 Don't worry. While there are many different types of jet skis, the one you'll be using is fairly simple to operate. <end>
 
 =>q9
-Ne t'inquiète pas. Bien qu'il existe de nombreux types de jet skis, celui que vous utiliserez est assez simple à utiliser. <end>
+Ne vous en faites pas. Il y a pas mal de modèles, mais celui que vous aurez est assez simple à piloter. <end>
 
 =>q10_original
 You put the key into the ignition, start it, hold the bars with both hands and press the levers behind them to accelerate. Most jet skis do not have brakes; you simply release the levers and the force of the water will stop it fast. Jet skis are simple to operate, but it takes some time getting used to riding them. 
@@ -62,63 +62,63 @@ You put the key into the ignition, start it, hold the bars with both hands and p
 Also, don't make sudden turns until you gain some experience, okay?<end>
 
 =>q10
-Vous mettez la clé dans l'allumage, démarrez, maintenez les barres avec les deux mains et appuyez sur les leviers derrière eux pour accélérer. La plupart des jet skis n'ont pas de freins; vous relâchez simplement les leviers et la force de l'eau l'arrêtera rapidement. Les jet skis sont simples à utiliser, mais il faut du temps pour s'y habituer.
+Vous mettez la clé sur le contact, vous démarrez, vous tenez le guidon à deux mains et vous serrez les gâchettes derrière pour accélérer. La plupart des jet skis n'ont pas de freins : on lâche les gâchettes, et l'eau le stoppe tout de suite. C'est simple à piloter, mais il faut un moment pour prendre le coup.
 
-Aussi, ne faites pas de virages soudains jusqu'à ce que vous ayez une certaine expérience, ok ?<end>
+Aussi, pas de virages brusques tant que vous n'avez pas l'habitude, d'accord ?<end>
 
 =>q11_original
 Now, while technically you can use a variety of types of energy cells to charge a jet ski, it is best to use high-capacity fusion cells; these have been specifically designed to be used with vehicles and large machinery.<end>
 
 =>q11
-Maintenant, bien que techniquement vous pouvez utiliser une variété de types de cellules d'énergie pour charger un jet ski, il est préférable d'utiliser des cellules de fusion de haute capacité; ceux-ci ont été spécifiquement conçus pour être utilisés avec des véhicules et de grandes machines.<end>
+Techniquement, vous pouvez charger un jet ski avec pas mal de types de cellules d'énergie, mais le mieux reste les cellules de fusion haute capacité : elles sont faites pour les véhicules et les grosses machines.<end>
 
 =>q12_original
 What else, what else... Mmm, yes: If your jet ski runs out of power, don't worry - your backup generator will automatically kick in. It will allow your jet ski to move, but it is going to be very, *very* slow.<end>
 
 =>q12
-Quoi d'autre, quoi d'autre... Oui. Si votre jet ski manque de puissance, ne vous inquiétez pas - votre générateur de secours va automatiquement entrer en jeu. Il permettra à votre jet ski de se déplacer, mais il va être très, très lent.<end>
+Quoi d'autre, quoi d'autre... Mmm, oui : si votre jet ski tombe à plat, pas de panique - le générateur de secours se met en route tout seul. Le jet avancera, mais très, *très* lentement.<end>
 
 =>q13_original
 You'll be using one of the two makeshift jet skis we acquired recently.<end>
 
 =>q13
-Vous utiliserez l'un des deux jet skis de fortune que nous avons acquis récemment.<end>
+Vous aurez un des deux jet skis de fortune qu'on a récupérés récemment.<end>
 
 =>q14_original
 Yours is the <end>
 
 =>q14
-C'est à toi que revient la <end>
+Le vôtre est le <end>
 
 =>q15_original
 smaller one. <end>
 
 =>q15
-Plus petit. <end>
+plus petit. <end>
 
 =>q16_original
 Do not let their appearance deceive you; they are mechanically in good condition.<end>
 
 =>q16
-Ne laissez pas leur apparence vous tromper; ils sont mécaniquement en bon état.<end>
+Ne vous fiez pas à leur tête : mécaniquement, ils sont en bon état.<end>
 
 =>a17_original
 But I thought I was going to get one of the good ones.<end>
 
 =>a17
-Mais je croyais que j'allais en avoir un.<end>
+Je croyais que j'allais avoir un des bons.<end>
 
 =>q18_original
 They are far too valuable to be given to inexperienced personnel. For now, you will be using the one I showed you.<end>
 
 =>q18
-Ils sont beaucoup trop précieux pour être donnés au personnel inexpérimenté. Pour l'instant, vous utiliserez celui que je vous ai montré.<end>
+Ils sont bien trop précieux pour du personnel inexpérimenté. Pour l'instant, vous prendrez celui que je vous ai montré.<end>
 
 =>a19_original
 I understand. Can I get the keys now?<end>
 
 =>a19
-Je comprends. Je peux avoir les clés maintenant ?<end>
+Compris. Je peux avoir les clés ?<end>
 
 =>q20_original
 Yes. <end>
@@ -136,49 +136,49 @@ Oui. <end>
 This is it. ::She hands you key to your jet ski.::<end>
 
 =>q22
-C'est ça. ::Elle vous donne la clé de votre jet ski.::<end>
+Voilà. ::Elle vous tend la clé de votre jet ski.::<end>
 
 =>q23_original
 If you need energy cells to recharge your jet ski, see Marcus. And remember, it's best to use high-capacity fusion cells. For maintenance, repairs and technical inquiry, talk to Ladelman.<end>
 
 =>q23
-Si vous avez besoin de cellules énergétiques pour recharger votre jet ski, voir Marcus. Et rappelez-vous, il est préférable d'utiliser des cellules de fusion à haute capacité. Pour l'entretien, les réparations et l'enquête technique, parlez à Ladelman.<end>
+Pour les cellules d'énergie, voyez Marcus. Et rappelez-vous : mieux vaut des cellules de fusion haute capacité. Entretien, réparations, questions techniques : Ladelman.<end>
 
 =>q24_original
 That is all the time I have: I need to return to my patrol duty soon. Good luck, sec-trooper, and take care of your jet.<end>
 
 =>q24
-C'est tout le temps que j'ai : je dois bientôt reprendre mon service de patrouille. Bonne chance, sec-trooper, et prenez soin de votre jet.<end>
+Je n'ai plus le temps : je dois bientôt reprendre ma patrouille. Bonne chance, sec-trooper, et prenez soin de votre jet.<end>
 
 =>a25_original
 Good luck to you as well, Sec-trooper Jenkins.<end>
 
 =>a25
-Bonne chance, Sec-trooper Jenkins.<end>
+Bonne chance à vous aussi, Sec-trooper Jenkins.<end>
 
 =>q26_original
 ::She nods and leaves.::<end>
 
 =>q26
-::Elle fait signe et part.::<end>
+::Elle hoche la tête et s'en va.::<end>
 
 =>a27_original
 Don't you worry a thing, sec-trooper. I know how to handle these babies.<end>
 
 =>a27
-Ne t'inquiète pas. Je sais comment gérer ces bébés.<end>
+Inutile de vous inquiéter, sec-trooper. Je sais m'occuper de ces bébés.<end>
 
 =>a28_original
 Eh... yeah, I will.<end>
 
 =>a28
-Oui.<end>
+Eh... ouais. Je ferai gaffe.<end>
 
 =>a29_original
 I'll try. Goodbye.<end>
 
 =>a29
-Je vais essayer. Au revoir.<end>
+Je ferai de mon mieux. Au revoir.<end>
 
 =>q30_original
 ::She searches for the key but can't seem to find it.::
@@ -188,19 +188,19 @@ Odd. I am certain I had it a moment ago. I must've dropped it just after... ::Sh
 =>q30
 ::Elle cherche la clé, mais ne la trouve pas.::
 
-C'est bizarre. Je suis sûr de l'avoir eu il y a un moment. J'ai dû la laisser tomber juste après... ::Elle regarde en bas.:: Hmm.<end>
+C'est bizarre. J'étais sûre de l'avoir encore il y a un instant. J'ai dû la faire tomber juste après... ::Elle baisse les yeux.:: Hmm.<end>
 
 =>a31_original
 I'll look for it. Perhaps someone else already found it. Now, is there anything else you wanted to tell me about the jet ski?<end>
 
 =>a31
-Je vais le chercher. Quelqu'un d'autre l'a peut-être déjà trouvé. Y a-t-il autre chose que vous vouliez me dire sur le jet ski ?<end>
+Je vais la chercher. Quelqu'un l'a peut-être déjà ramassée. Autre chose à me dire sur le jet ski ?<end>
 
 =>q32_original
 Damn it... ::She looks up.:: Please do that, I am in quite a hurry. And yes, there is something else I wanted to tell you. <end>
 
 =>q32
-Merde... ::Elle lève les yeux.:: Je vous en prie, je suis pressé. Et oui, il y a autre chose que je voulais te dire. <end>
+Merde... ::Elle relève la tête.:: Oui, s'il vous plaît, je suis assez pressée. Et oui, j'avais autre chose à vous dire. <end>
 
 =>q33_original
 <end>
@@ -212,25 +212,25 @@ Merde... ::Elle lève les yeux.:: Je vous en prie, je suis pressé. Et oui, il y
 Here you are. ::She hands you the jet ski key.::<end>
 
 =>q34
-Te voilà. ::Elle te donne la clé de ski.::<end>
+Tenez. ::Elle vous tend la clé du jet ski.::<end>
 
 =>q35_original
 larger one. <end>
 
 =>q35
-Plus grande. <end>
+plus grand. <end>
 
 =>a36_original
 No, and I've heard they're difficult to ride and extremely dangerous.<end>
 
 =>a36
-Non, et j'ai entendu dire qu'ils sont difficiles à monter et extrêmement dangereux.<end>
+Non, et j'ai entendu dire que c'est dur à piloter et extrêmement dangereux.<end>
 
 =>q37_original
 Some are. Those that have been damaged, modified by non-professionals, have faulty components... But the one you'll be using has been properly maintained and is fairly simple to operate. <end>
 
 =>q37
-Certains le sont. Ceux qui ont été endommagés, modifiés par des non-professionnels, ont des composants défectueux... Mais celui que vous utiliserez a été correctement entretenu et est assez simple à utiliser. <end>
+Certains, oui. Ceux qui sont abîmés, modifiés par des amateurs, ou avec des pièces défectueuses... Mais celui que vous aurez a été bien entretenu, et il est assez simple à piloter. <end>
 
 =>a38_original
 Yes.<end>
@@ -242,25 +242,25 @@ Oui.<end>
 Good. Then I don't need to explain how to ride one. <end>
 
 =>q39
-Parfait. Alors je n'ai pas besoin d'expliquer comment monter. <end>
+Bien. Alors je n'ai pas besoin de vous expliquer comment ça se pilote. <end>
 
 =>a40_original
 I'm a pro. Just let me have one and off I go.<end>
 
 =>a40
-Je suis un pro. Laisse-moi en prendre une et je m'en vais.<end>
+Je m'y connais. Donnez-m'en un et je file.<end>
 
 =>q41_original
 Excellent then. <end>
 
 =>q41
-Parfait alors. <end>
+Parfait. <end>
 
 =>a42_original
 I came here to receive the keys to one of the jet skis.<end>
 
 =>a42
-Je suis venu ici pour recevoir les clés d'un des jet skis.<end>
+Je viens chercher les clés d'un des jet skis.<end>
 
 =>a43_original
 Where's my jet?<end>
@@ -272,17 +272,17 @@ Où est mon jet ?<end>
 It's right over there. Have you ridden a jet ski before?<end>
 
 =>q44
-C'est juste là. Avez-vous déjà monté un jet ski ?<end>
+Juste là. Vous avez déjà piloté un jet ski ?<end>
 
 =>a45_original
 What's up, yo?<end>
 
 =>a45
-Quoi de neuf ?<end>
+Yo, ça gaze ?<end>
 
 =>q46_original
 Khm. Have you ridden a jet ski before?<end>
 
 =>q46
-- Oui. Avez-vous déjà monté un jet ski ?<end>
+Khm. Vous avez déjà piloté un jet ski ?<end>
 

@@ -4,9 +4,9 @@
 Main::<end>
 
 =>q1
-::Bienvenue G. Vasilica
+::Bienvenue, G. Vasilica
 
-Principale::<end>
+Accueil::<end>
 
 =>q2_original
 <end>
@@ -18,7 +18,7 @@ Principale::<end>
 ::Access INM::<end>
 
 =>a3
-::Accès à l'INM::<end>
+::Accéder à l'INM::<end>
 
 =>q4_original
 ::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
@@ -28,10 +28,10 @@ Number of contacts: 76
 Contacts online: 0::<end>
 
 =>q4
-::Avertissement ! INM est actuellement hors ligne. Veuillez vérifier votre connexion au réseau INHE et redémarrer votre client.
-Si le problème persiste, contactez l'un des administrateurs du réseau.
+::Avertissement ! INM est hors ligne. Vérifiez la connexion au réseau INHE et redémarrez le client.
+Si le problème persiste, contactez un administrateur du réseau.
 
-Nombre de contacts: 76
+Nombre de contacts : 76
 Contacts en ligne : 0::<end>
 
 =>a5_original
@@ -56,7 +56,7 @@ Contacts en ligne : 0::<end>
 ::Log: 278666 - J. Dyson::<end>
 
 =>a8
-::Registre: 278666 - J. Dyson::<end>
+::Journal : 278666 - J. Dyson::<end>
 
 =>q9_original
 ::G. Vasilica: Hey, hey. I heard he came over to TL.
@@ -70,15 +70,15 @@ J. Dyson: I got that.
 J. Dyson: The apex technocrats have been paying us frequent visits during these few days. Parkinson said Kirill came to him the other day, Anton before that. What did he want from you?::<end>
 
 =>q9
-::G. Vasilica: Hey, hey. J'ai entendu qu'il était venu à TL.
-Qui ça ?
-G. Vasilica: Anton Matveev. Que voulait-il ?
-J. Dyson : Il s'intéressait aux fragments de psi monolithe que nous avons coupés il y a quelques jours. Et dans le Projet Eos.
+::G. Vasilica : Hé, hé. J'ai entendu dire qu'il était passé à TL.
+J. Dyson : Qui ça ?
+G. Vasilica : Anton Matveev. Il voulait quoi ?
+J. Dyson : Il s'intéressait aux fragments de monolithe psi qu'on a coupés il y a quelques jours. Et au Projet Eos.
 J. Dyson : Oh, c'est toi.
-J. Dyson : Je pensais que c'était Wasi. Et se demandait pourquoi il commencerait par "Hé, hé." J'ai besoin de repos.
-G. Vasilica : Il est passé au labo aussi. Anton, je veux dire, pas Wasi.
-J. Dyson : J'ai compris.
-J. Dyson : Les technocrates de l'apex nous rendent de fréquentes visites au cours de ces quelques jours. Parkinson a dit que Kirill est venu l'autre jour, Anton avant ça. Qu'est-ce qu'il vous voulait ?::<end>
+J. Dyson : Je croyais que c'était Wasi. Je me demandais pourquoi il commencerait par « Hé, hé ». Mec, j'ai besoin de repos.
+G. Vasilica : Il est passé au labo aussi. Anton, je veux dire. Pas Wasi.
+J. Dyson : Ouais, j'avais compris.
+J. Dyson : Les technocrates apex nous rendent visite à répétition depuis quelques jours. Parkinson a dit que Kirill était passé le voir l'autre jour, Anton avant. Qu'est-ce qu'il te voulait ?::<end>
 
 =>q10_original
 ::G. Vasilica: Yeah, I heard Kirill also called a few seemingly important meetings with Austein over at the Mutagen Tanks.
@@ -88,11 +88,11 @@ G. Vasilica: Nothing will happen. You think SAI reports to anyone anymore? Do yo
 J. Dyson: You want to test it?::<end>
 
 =>q10
-::G. Vasilica : Oui, j'ai entendu dire que Kirill a aussi appelé quelques réunions apparemment importantes avec Austein au Mutagen Tanks.
-G. Vasilica: Quant à nous, Anton est passé par notre laboratoire pendant dix minutes. Frigide comme cadavre, comme d'habitude. Interrogé quelques-uns de mes scientifiques au sujet de nos projets actuels et est parti. Je n'ai jamais parlé.
-J. Dyson : Tu devrais regarder ton écriture, mec.
-G. Vasilica : Rien ne se passera. Tu crois que SAI relève de quelqu'un ? Pensez-vous vraiment que quelqu'un se soucie encore de ce qui se passe autour de Hollow Earth ?
-Tu veux le tester ?::<end>
+::G. Vasilica : Ouais, j'ai entendu que Kirill a aussi convoqué quelques réunions soi-disant importantes avec Austein, aux Mutagen Tanks.
+G. Vasilica : Pour nous, Anton est passé dix minutes au labo. Glacial comme un cadavre, comme d'hab. Il a interrogé deux-trois de mes scientifiques sur nos projets en cours et il est parti. Il ne m'a pas adressé la parole.
+J. Dyson : Fais gaffe à ce que tu écris, mec.
+G. Vasilica : Il ne se passera rien. Tu crois que SAI rend encore des comptes à qui que ce soit ? Tu crois vraiment que quelqu'un se soucie encore de ce qui se passe autour de Hollow Earth ?
+J. Dyson : Tu veux tester ?::<end>
 
 =>q11_original
 ::G. Vasilica: Maybe. But as far as I can see, everyone is doing whatever they please around here and no one intervenes in any way.
@@ -101,22 +101,22 @@ J. Dyson: Gunter, let's stop here. I dislike them as much as you do, especially 
 G. Vasilica: Fine.::<end>
 
 =>q11
-::Peut-être. Mais pour autant que je puisse voir, tout le monde fait ce qu'il veut ici et personne n'intervient de quelque façon que ce soit.
-G. Vasilica : Même les apexes se promènent et restent concentrés uniquement sur leur propre entreprise.
-Gunter, arrêtons-nous ici. Je les déteste autant que vous, surtout après des incidents récents, mais c'est ce que c'est. La dernière chose dont j'ai besoin est que quelqu'un frappe à ma porte à cause de ça.
-G. Vasilica: Très bien.::<end>
+::G. Vasilica : Peut-être. Mais d'après ce que je vois, tout le monde fait ce qu'il veut ici et personne n'intervient.
+G. Vasilica : Même les apex se baladent et ne s'occupent que de leurs propres affaires.
+J. Dyson : Gunter, on s'arrête là. Je ne les aime pas plus que toi, surtout après les derniers incidents, mais c'est comme ça. La dernière chose dont j'ai besoin, c'est que quelqu'un vienne frapper à ma porte à cause de ça.
+G. Vasilica : Très bien.::<end>
 
 =>a12_original
 ::Back to Archive.::<end>
 
 =>a12
-::Retour aux archives.::<end>
+::Retour à l'archive::<end>
 
 =>a13_original
 ::Log: 278670 - M. Hope::<end>
 
 =>a13
-::Registre: 278670 - M. Hope::<end>
+::Journal : 278670 - M. Hope::<end>
 
 =>q14_original
 ::M. Hope: Dr. Vasilica, may I have a moment of your time.
@@ -128,13 +128,13 @@ G. Vasilica: Glad to hear it, Dr. Hope.
 M. Hope: Do understand that I have never considered you to be anything but one of the most brilliant scientists working in Hollow Earth. Even if my choice of words then might have implied otherwise. Do understand that.::<end>
 
 =>q14
-::M. Hope : Dr Vasilica, puis-je avoir un moment de votre temps.
-G. Vasilica : Qu'est-ce que je peux vous aider, Dr Hope ?
-M. Hope : C'est à propos de ce qui s'est passé entre nous deux au cours de cette réunion. Je vous dois des excuses.
-G. Vasilica : Heureux de l'entendre, Dr Hope.
-M. Hope : J'ai réalisé que mes paroles étaient mal choisies et qu'elles n'auraient jamais dû être prononcées, ni là ni ailleurs.
-G. Vasilica : Heureux de l'entendre, Dr Hope.
-M. Hope : Comprenez-vous que je ne vous ai jamais considéré comme un des scientifiques les plus brillants travaillant sur Hollow Earth. Même si mon choix de mots aurait pu impliquer le contraire. Ne le comprenez pas.::<end>
+::M. Hope : Dr Vasilica, puis-je vous prendre un instant.
+G. Vasilica : Que puis-je faire pour vous, Dr Hope ?
+M. Hope : C'est au sujet de ce qui s'est passé entre nous lors de cette réunion. Je vous dois des excuses.
+G. Vasilica : Ravi de l'entendre, Dr Hope.
+M. Hope : J'ai réalisé que mes mots étaient mal choisis, et qu'ils n'auraient jamais dû être prononcés. Ni là-bas, ni ailleurs.
+G. Vasilica : Ravi de l'entendre, Dr Hope.
+M. Hope : Comprenez bien que je ne vous ai jamais considéré autrement que comme l'un des scientifiques les plus brillants de Hollow Earth. Même si le choix de mes mots, ce jour-là, a pu laisser entendre le contraire. Comprenez-le.::<end>
 
 =>q15_original
 ::G. Vasilica: Glad to hear it, Dr. Hope.
@@ -147,20 +147,20 @@ G. Vasilica: Would that be all, Dr. Hope?
 M. Hope: That would be all, Dr. Vasilica.::<end>
 
 =>q15
-::G. Vasilica : Heureux de l'entendre, Dr Hope.
-M. Hope : Un chasseur.
+::G. Vasilica : Ravi de l'entendre, Dr Hope.
+M. Hope : Gunter.
 G. Vasilica : Oui, Dr Hope ?
-M. Hope : Tu n'as plus besoin de faire ça. Je me suis déjà excusé.
-G. Vasilica : J'accepte vos excuses, Dr Hope, mais ce qui s'est passé devant le comité n'est pas quelque chose que je vais probablement oublier.
-M. Hope : Je comprends. Je suis désolé, je sais que votre équipe a eu des problèmes qui étaient hors de votre contrôle et que mes remarques étaient la dernière chose dont vous aviez besoin, en plus d'être surestimées. Ça n'aurait pas dû arriver.
-G. Vasilica : Serait-ce tout, Dr Hope ?
+M. Hope : Vous n'avez plus à faire ça. Je me suis déjà excusée.
+G. Vasilica : J'accepte vos excuses, Dr Hope. Mais ce qui s'est passé devant le comité, ce n'est pas le genre de chose que j'oublierai de sitôt.
+M. Hope : Je comprends. Je suis désolée. Je sais que votre équipe avait des problèmes hors de votre contrôle, et que mes remarques étaient la dernière chose dont vous aviez besoin. Sans compter qu'elles étaient exagérées. Ça n'aurait pas dû arriver.
+G. Vasilica : Ce serait tout, Dr Hope ?
 M. Hope : Ce serait tout, Dr Vasilica.::<end>
 
 =>a16_original
 ::Log: 278764 - H. Kim::<end>
 
 =>a16
-::Registre: 278764 - H. Kim::<end>
+::Journal : 278764 - H. Kim::<end>
 
 =>q17_original
 ::H. Kim: Your recent report on correlation between engineered STK protein and maximum lifespan in TKS1 and TKS2 subjects is rather fascinating, Dr. Vasilica, I have to admit. It seems like your team has finally provided us with something worthy of our time.
@@ -169,16 +169,16 @@ G. Vasilica: I will come over today. Can you please tell me which methods are in
 H. Kim: We will talk in my office.::<end>
 
 =>q17
-::H. Kim: Votre récent rapport sur la corrélation entre la protéine STK d'ingénierie et la durée de vie maximale des sujets TKS1 et TKS2 est plutôt fascinant, Dr Vasilica, je dois admettre. Il semble que votre équipe nous ait enfin fourni quelque chose de digne de notre temps.
-H. Kim: Cependant, je m'inquiète de vos conclusions concernant l'ingénierie et l'application dans les sujets humains. C'est-à-dire plusieurs des méthodes proposées, je pense qu'elles sont plutôt inadéquates et mal motivées, je dirais même. Pourriez-vous venir à mon bureau pour qu'on puisse en discuter ? Je suis libre aujourd'hui autour de trois à cinq, et demain en même temps.
-G. Vasilica: Je viendrai aujourd'hui. Pouvez-vous me dire quelles méthodes sont en question, Dr Kim ?
-H. Kim : Nous parlerons dans mon bureau.::<end>
+::H. Kim : Votre dernier rapport sur la corrélation entre la protéine STK modifiée et la durée de vie maximale des sujets TKS1 et TKS2 est plutôt fascinant, Dr Vasilica, je dois l'admettre. On dirait que votre équipe nous a enfin fourni quelque chose qui mérite notre temps.
+H. Kim : En revanche, vos conclusions sur l'ingénierie et l'application chez les sujets humains m'inquiètent. Plusieurs des méthodes proposées me semblent plutôt inadéquates et, je dirais même, mal raisonnées. Pourriez-vous passer à mon bureau pour en discuter ? Je suis libre aujourd'hui entre 15 h et 17 h, et demain aux mêmes heures.
+G. Vasilica : Je passerai aujourd'hui. Pouvez-vous me dire de quelles méthodes il s'agit, Dr Kim ?
+H. Kim : Nous en parlerons dans mon bureau.::<end>
 
 =>a18_original
 ::Log: 278780 - M. Hope::<end>
 
 =>a18
-::Registre: 278780 - M. Hope::<end>
+::Journal : 278780 - M. Hope::<end>
 
 =>q19_original
 ::M. Hope: I heard Dr. Kim was giving you trouble today, Dr. Vasilica.
@@ -188,11 +188,11 @@ M. Hope: Is he giving you too much trouble, perhaps?
 G. Vasilica: I don't need any favors, Dr. Hope.::<end>
 
 =>q19
-::M. Hope : J'ai entendu dire que le Dr Kim vous a causé des ennuis aujourd'hui, Dr Vasilica.
-G. Vasilica : Nous avons discuté d'un de mes rapports, le Dr Hope. C'est tout ce qu'il y a à faire.
+::M. Hope : J'ai entendu que le Dr Kim vous avait causé des ennuis aujourd'hui, Dr Vasilica.
+G. Vasilica : Nous avons discuté de l'un de mes rapports, Dr Hope. Rien de plus.
 M. Hope : En effet.
-M. Hope: Est-ce qu'il vous donne trop de problèmes, peut-être?
-G. Vasilica: Je n'ai pas besoin de faveurs, Dr Hope.::<end>
+M. Hope : Vous pose-t-il trop de problèmes, peut-être ?
+G. Vasilica : Je n'ai besoin d'aucune faveur, Dr Hope.::<end>
 
 =>q20_original
 ::M. Hope: No, this has nothing to do with favors. It's just that, due to the current situation, Dr. Kim should perhaps move his attention to some other projects that require more of it; it is certainly within my power to influence the committee when it comes to these things.
@@ -202,9 +202,9 @@ M. Hope: Very well, Dr. Vasilica. I wish you a pleasant day.
 G. Vasilica: You too, Dr. Hope.::<end>
 
 =>q20
-::M. Hope : Non, ça n'a rien à voir avec les faveurs. C'est juste qu'en raison de la situation actuelle, M. Kim devrait peut-être attirer son attention sur d'autres projets qui en nécessitent davantage; il est certainement de mon pouvoir d'influencer le comité en ce qui concerne ces choses.
-M. Hope : J'ai simplement pensé vous le dire. Cela éliminerait la nécessité pour vous de lui soumettre d'autres rapports. C'est exact ?
-G. Vasilica : C'est exact. Si c'est ce que vous ressentez, alors je ne suis pas en position de m'opposer, Dr Hope.
+::M. Hope : Non, il ne s'agit pas de faveurs. C'est simplement que, vu la situation actuelle, le Dr Kim devrait peut-être porter son attention sur d'autres projets qui en ont plus besoin. J'ai tout à fait le pouvoir d'influencer le comité sur ce genre de choses.
+M. Hope : Je tenais simplement à vous le dire. Ça vous éviterait de lui soumettre d'autres rapports. C'est bien ça ?
+G. Vasilica : C'est ça. Si c'est ainsi que vous le voyez, je ne suis pas en position de m'y opposer, Dr Hope.
 M. Hope : Très bien, Dr Vasilica. Je vous souhaite une bonne journée.
 G. Vasilica : Vous aussi, Dr Hope.::<end>
 
@@ -216,17 +216,17 @@ M. Hope: Never mind. See you around, Gunter.
 G. Vasilica: Sure, Dr. Hope. Have a nice day.::<end>
 
 =>q21
-::M. Hope : Oh, et une dernière chose, Dr Vasilica.
-M. Hope : Le Dr Slavkovic vous a-t-il contacté ?
-G. Vasilica : Je ne crois pas. Y a-t-il une raison ?
-M. Hope : Peu importe. A bientôt, Gunter.
-G. Vasilica: Bien sûr, Dr Hope. Bonne journée.::<end>
+::M. Hope : Ah, et encore une chose, Dr Vasilica.
+M. Hope : Le Dr Slavkovic vous a-t-il contacté, par hasard ?
+G. Vasilica : Je ne crois pas. Y a-t-il une raison à ça ?
+M. Hope : Peu importe. À bientôt, Gunter.
+G. Vasilica : Bien sûr, Dr Hope. Bonne journée.::<end>
 
 =>a22_original
 ::Log: 278792 - J. Dyson::<end>
 
 =>a22
-::Registre: 278792 - J. Dyson::<end>
+::Journal : 278792 - J. Dyson::<end>
 
 =>q23_original
 ::J. Dyson: How did it go?
@@ -236,11 +236,11 @@ J. Dyson: What do you mean it got better later?
 G. Vasilica: I'll come over and tell you all about it.::<end>
 
 =>q23
-::J. Dyson : Comment ça s'est passé ?
-G. Vasilica : Ça a mal commencé. Mais ça s'est amélioré plus tard.
+::J. Dyson : Ça s'est passé comment ?
+G. Vasilica : Mal au début. Mais ça s'est arrangé ensuite.
 J. Dyson : ?
-J. Dyson : Comment ça ?
-G. Vasilica: Je viendrai vous parler de tout ça.::<end>
+J. Dyson : Comment ça, ça s'est arrangé ensuite ?
+G. Vasilica : Je passe te raconter tout ça.::<end>
 
 =>a24_original
 ::Back::<end>
@@ -252,11 +252,10 @@ G. Vasilica: Je viendrai vous parler de tout ça.::<end>
 ::Back to main::<end>
 
 =>a25
-::Retour au début::<end>
+::Retour à l'accueil::<end>
 
 =>a26_original
 ::Exit::<end>
 
 =>a26
-::Sortie::<end>
-
+::Quitter::<end>

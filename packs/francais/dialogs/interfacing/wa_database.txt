@@ -6,7 +6,7 @@ Current access level: $(context.loc_wa_accessLevel)::<end>
 =>q1
 ::Base de données Oculus
 
-Niveau d'accès actuel : $(context.loc wa accessLevel)::<end>
+Niveau d'accès actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a2_original
 ::Browse personal files::<end>
@@ -22,7 +22,7 @@ Current access level: $(context.loc_wa_accessLevel)::<end>
 =>q3
 ::Fichiers personnels
 
-Niveau d'accès actuel : $(context.loc wa accessLevel)::<end>
+Niveau d'accès actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a4_original
 ::Hadrian Tanner::<end>
@@ -45,18 +45,18 @@ There is no record of Hadrian Tanner prior to him joining SGS and all attempts t
 It is suspected that Hadrian Tanner is actually just an alias.::<end>
 
 =>q5
-::Nom complet: Hadrian Tanner
-Position: Conseiller
-Résidence actuelle: Gare South Gate
-Alignement : Gare de South Gate
+::Nom complet : Hadrian Tanner
+Fonction : Conseiller
+Résidence actuelle : South Gate Station
+Alignement : South Gate Station
 
-Hadrian Tanner est l'un des leaders du SGS. Il est largement considéré comme l'homme le plus influent de la station, bien qu'il semble qu'il prenne des efforts pour minimiser cela.
+Hadrian Tanner est l'un des dirigeants de SGS. On le tient largement pour l'homme le plus influent de la station, même s'il s'emploie visiblement à le minimiser.
 
-SGS est régulièrement monté au pouvoir depuis que Hadrian l'a rejoint.
+SGS n'a cessé de monter en puissance depuis l'arrivée d'Hadrian.
 
-Il n'y a aucune trace d'Hadrian Tanner avant qu'il rejoigne SGS et toutes les tentatives de retracer son histoire ont échoué jusqu'à présent.
+Aucune trace d'Hadrian Tanner n'existe avant son arrivée à SGS. Toutes les tentatives de retracer son passé ont échoué à ce jour.
 
-On soupçonne Hadrian Tanner d'être un pseudonyme.::<end>
+On soupçonne Hadrian Tanner de n'être qu'un alias.::<end>
 
 =>a6_original
 ::Back::<end>
@@ -84,15 +84,15 @@ Alignment: South Gate Station
 
 =>q8
 ::Nom complet : Vera Hale
-Position: Conseiller
-Résidence actuelle: Gare South Gate
-Alignement : Gare de South Gate
+Fonction : Conseillère
+Résidence actuelle : South Gate Station
+Alignement : South Gate Station
 
-- Véra. Hale est l'un des leaders du SGS. Elle est connue pour son soutien à l'idée Protectorate et United Stations.
+- Vera Hale est l'une des dirigeantes de SGS. Elle est connue pour son soutien au Protectorate et à l'idée des United Stations.
 
-- Vera a émigré de North Underrail où elle a travaillé comme députée au ministre du Commerce de United Stations. Elle a été congédiée pour des raisons inconnues.
+- Vera a émigré de North Underrail, où elle était adjointe du ministre du Commerce des United Stations. Elle a été limogée de ce poste pour des raisons inconnues.
 
-- Vera est considérée comme un négociateur pivot dans de nombreux accords commerciaux avec les communautés voisines, telles que Junkyard, Camp Hathor et Protectorate (ambassade de Junkyard et SRO). Ces accords commerciaux sont salués comme un facteur important de prospérité de la SGS.::<end>
+- On lui attribue un rôle décisif dans de nombreux accords commerciaux avec les communautés voisines : Junkyard, Camp Hathor et le Protectorate (ambassade de Junkyard et SRO). Ces accords sont considérés comme un facteur majeur de la prospérité de SGS.::<end>
 
 =>a9_original
 ::Yevgeni 'Gorsky' Zolnerowich::<end>
@@ -118,21 +118,21 @@ Alignment: South Gate Station
 - Gorsky still maintains contact with a number of minor factions of Core City, most notably the Zone Rats.::<end>
 
 =>q10
-::Nom complet: Yevgeni Zolnerowich
-Aliases: Gorsky
+::Nom complet : Yevgeni Zolnerowich
+Alias : Gorsky
 Fonction : Chef de la sécurité
-Résidence actuelle: Gare South Gate
-Alignement : Gare de South Gate
+Résidence actuelle : South Gate Station
+Alignement : South Gate Station
 
-- Yevgeni est presque exclusivement connu par son alias Gorsky. L'origine ou la signification de cet alias est inconnue.
+- Yevgeni n'est pratiquement connu que sous son alias, Gorsky. L'origine et le sens de cet alias restent inconnus.
 
-- Il était membre de plusieurs gangs avant la révolution de Core City. Peu après la révolution, il quitte Core City et finit par se retrouver à South Gate Station.
+- Il a fait partie de plusieurs gangs avant la révolution de Core City. Peu après la révolution, il a quitté Core City et a fini par atterrir à South Gate Station.
 
-- Gorsky est bien connu dans les rues de Core City et dans d'autres communautés de Lower Underrail du Sud comme un combattant audacieux qui recule rarement.
+- Gorsky est bien connu dans les rues de Core City et dans d'autres communautés du Lower Underrail, au sud, comme un combattant audacieux qui recule rarement.
 
-- On soupçonne que Gorsky a été formé comme soldat professionnel dans sa jeunesse, mais il est incertain d'où il aurait pu obtenir cette formation puisque toutes les tentatives de le lier aux forces de sécurité de Biocorp ont donné des résultats négatifs.
+- On soupçonne Gorsky d'avoir reçu, dans sa jeunesse, une formation de soldat professionnel. On ignore où : toutes les tentatives de le relier aux Biocorp Security Forces ont donné des résultats négatifs.
 
-- Gorsky reste en contact avec un certain nombre de factions mineures de Core City, notamment les Rats de Zone.::<end>
+- Gorsky reste en contact avec plusieurs factions mineures de Core City, notamment les Zone Rats.::<end>
 
 =>a11_original
 ::Silas::<end>
@@ -152,15 +152,15 @@ Alignment: Black Eels (Junkyard)
 - It is unknown whether Silas is an alias or his real name.::<end>
 
 =>q12
-::Nom complet: Silas
-Alias: Dockmaster, Silas
-Fonction: Chef de gang
-Résidence actuelle: Junkyard
-Alignement : Anguilles noires (Junkyard)
+::Nom complet : Silas
+Alias : Dockmaster, Silas
+Fonction : Chef de gang
+Résidence actuelle : Junkyard
+Alignement : Black Eels (Junkyard)
 
-- Silas est le leader de Black Eels, un gang de pourriels qui contrôle ses quais, la baie du Chancelier ainsi que The Rig, une plateforme entre Junkyard et Core City.
+- Silas dirige les Black Eels, un gang de Junkyard qui contrôle les docks, Chancer's Bay, ainsi que The Rig, une plateforme entre Junkyard et Core City.
 
-- On ignore si Silas est un pseudonyme ou son vrai nom.::<end>
+- On ignore si Silas est un alias ou son vrai nom.::<end>
 
 =>a13_original
 ::Edward Wheeler::<end>
@@ -179,12 +179,12 @@ Alignment: Scrappers (Junkyard)
 
 =>q14
 ::Nom complet : Edward Wheeler
-Alias: Eddy
-Fonction: Chef de gang
-Résidence actuelle: Junkyard
-Alignement : éponges (Junkyard)
+Alias : Eddy
+Fonction : Chef de gang
+Résidence actuelle : Junkyard
+Alignement : Scrappers (Junkyard)
 
-- Eddy est le chef de Scrappers, un gang de junkyards qui contrôle l'accès au Dépôt A, aussi connu sous le nom de Old Junkyard, le plus grand terrain de jeux de charognards.::<end>
+- Eddy dirige les Scrappers, un gang de Junkyard qui contrôle l'accès au Depot A, aussi appelé Old Junkyard, le plus grand terrain de jeu des récupérateurs.::<end>
 
 =>a15_original
 ::Herve Fontaine::<end>
@@ -201,12 +201,12 @@ Alignment: Rail Crossing
 - Herve is the captain of Rail Crossing militia and an unofficial acting mayor.::<end>
 
 =>q16
-::Nom complet: Herve Fontaine
-Fonction: Capitaine de la Milice
-Résidence actuelle: Rail Crossing
-Alignement : passage à niveau
+::Nom complet : Herve Fontaine
+Fonction : Capitaine de milice
+Résidence actuelle : Rail Crossing
+Alignement : Rail Crossing
 
-- Herve est le capitaine de la milice Rail Crossing et un maire par intérim non officiel.::<end>
+- Herve est le capitaine de la milice de Rail Crossing, et le maire de fait, sans titre officiel.::<end>
 
 =>a17_original
 ::Edgar Garnham::<end>
@@ -226,13 +226,13 @@ Alignment: Camp Hathor
 
 =>q18
 ::Nom complet : Edgar Garnham
-Fonction: Chef
-Résidence actuelle: Camp Hathor
+Fonction : Chef
+Résidence actuelle : Camp Hathor
 Alignement : Camp Hathor
 
-- Edgar Garnham est le chef du camp Hathor.
+- Edgar Garnham dirige Camp Hathor.
 
-- Il est connu comme l'un des chasseurs les plus habiles de South Underrail.::<end>
+- On le tient pour l'un des chasseurs les plus habiles de South Underrail.::<end>
 
 =>a19_original
 ::Martin Marshall::<end>
@@ -250,17 +250,17 @@ Alignment: Foundry
 
 =>q20
 ::Nom complet : Martin Marshall
-Fonction: Maire
-Résidence actuelle: Foundry
-Alignement: Fonderie
+Fonction : Maire
+Résidence actuelle : Foundry
+Alignement : Foundry
 
-- Martin est l'actuel maire de Foundry.::<end>
+- Martin est l'actuel maire élu de Foundry.::<end>
 
 =>a21_original
 ::Dalton Banner::<end>
 
 =>a21
-::Bannière de Dalton::<end>
+::Dalton Banner::<end>
 
 =>q22_original
 ::Full name: Dalton Banner
@@ -273,12 +273,12 @@ Alignment: Foundry
 
 =>q22
 ::Nom complet : Dalton Banner
-Alias : Chef
-Fonction : Chef de la Garde
-Résidence actuelle: Foundry
-Alignement: Fonderie
+Alias : Chief
+Fonction : Chef de la garde
+Résidence actuelle : Foundry
+Alignement : Foundry
 
-Dalton est l'actuel chef élu de Foundry Guard.::<end>
+- Dalton est l'actuel chef élu de la Foundry Guard.::<end>
 
 =>a23_original
 ::Rupert Simmons::<end>
@@ -299,12 +299,12 @@ Alignment: Coretech (Core City)
 =>q24
 ::Nom complet : Rupert Simmons
 Fonction : PDG
-Résidence actuelle: Ville centrale
+Résidence actuelle : Core City
 Alignement : Coretech (Core City)
 
-- Rupert était l'un des technocrates de Biocorp de haut rang avant de rejoindre la rébellion de Core City. Aujourd'hui, il est l'un des trois oligarques au pouvoir.
+- Rupert était l'un des technocrates de haut rang de Biocorp avant de rejoindre la rébellion de Core City. Aujourd'hui, il est l'un des trois oligarques au pouvoir.
 
-- Rupert et sa compagnie - Coretech, jouent un rôle clé dans l'entretien des infrastructures de l'Arena, ainsi que du Gauntlet, ce dernier étant uniquement leur création.::<end>
+- Rupert et sa compagnie, Coretech, jouent un rôle clé dans l'entretien des infrastructures de l'Arena, ainsi que du Gauntlet, ce dernier étant entièrement de leur création.::<end>
 
 =>a25_original
 ::Gunnar Edstrom::<end>
@@ -328,23 +328,23 @@ Alignment: JKK (Core City)
 
 =>q26
 ::Nom complet : Gunnar Edstrom
-Fonction: Propriétaire
-Résidence actuelle: Ville centrale
+Fonction : Propriétaire
+Résidence actuelle : Core City
 Alignement : JKK (Core City)
 
-- Gunnar est un commerçant renommé.
+- Gunnar est un négociant réputé.
 
-- Gunnar a déménagé à Core City plusieurs années après la rébellion et a réussi à travailler lui-même et sa compagnie dans l'Oligarchie au pouvoir en jouant un médiateur entre les deux principales factions conflictuelles (Coretech et Praetorian Security).
+- Gunnar s'est installé à Core City plusieurs années après la rébellion. En se posant en médiateur entre les deux grandes factions rivales (Coretech et Praetorian Security), il a réussi à hisser sa compagnie, et lui-même, dans l'oligarchie au pouvoir.
 
-- Gunnar, sa famille et ses associés sont venus de quelque part dans l'East Underrail, mais l'emplacement exact est inconnu comme sont ses entreprises antérieures. Il y a des rumeurs, cependant, qu'à un moment, avant son arrivée à Core City, il était impliqué dans la traite des esclaves.
+- Gunnar, sa famille et ses associés viennent de quelque part en East Underrail. Le lieu exact est inconnu, tout comme ses affaires antérieures. Des rumeurs veulent toutefois qu'avant d'arriver à Core City, il ait été impliqué dans la traite d'esclaves.
 
-- La compagnie de Gunnar diffuse les chaînes ArenaNow et Gauntlet et fournit également certains des défis les plus exotiques.::<end>
+- La compagnie de Gunnar diffuse les chaînes ArenaNow et Gauntlet, et fournit aussi une partie des défis les plus exotiques.::<end>
 
 =>a27_original
 ::Archibald Knight::<end>
 
 =>a27
-::Chevalier Archibald::<end>
+::Archibald Knight::<end>
 
 =>q28_original
 ::Full name: Archibald Knight
@@ -359,16 +359,16 @@ Alignment: Praetorian Security (Core City)
 - He is the majority owner of the Arena.::<end>
 
 =>q28
-::Nom complet: Archibald Knight
+::Nom complet : Archibald Knight
 Fonction : Chef
-Résidence actuelle: Ville centrale
-Alignement : Sécurité prétorienne (Core City)
+Résidence actuelle : Core City
+Alignement : Praetorian Security (Core City)
 
-- Archibald était le second commandant des forces de sécurité de la ville centrale. Après avoir envahi Biocorp dans le Nord, Archibald mène une révolte réussie contre Biocorp dans Core City.
+- Archibald était l'adjoint au commandement des Core City Security Forces. Après l'invasion de Biocorp par le Protectorate au Nord, il a mené une révolte victorieuse contre Biocorp à Core City.
 
-- C'est l'un des trois oligarques qui domine Core City et qui commande la plus grande force armée de la ville.
+- C'est l'un des trois oligarques qui dirigent Core City. Il commande la plus grande force armée de la ville.
 
-- C'est le propriétaire majoritaire de l'aréna.::<end>
+- Il est l'actionnaire majoritaire de l'Arena.::<end>
 
 =>a29_original
 ::Wit Nosek::<end>
@@ -390,15 +390,15 @@ Involved in: Phenotype Dynamics (Biocorp), Project Arima (Biocorp), Project Ark 
 
 =>q30
 ::Nom complet : Wit Nosek
-Profession : Généticienne
-Alignement: Old Biocorp, Old Biocorp Renegade
-Impliqué dans: Phénotype Dynamics (Biocorp), Projet Arima (Biocorp), Projet Ark (Biocorp), autres divers projets Biocorp
+Profession : Généticien
+Alignement : Old Biocorp, Old Biocorp Renegade
+Impliqué dans : Phenotype Dynamics (Biocorp), Project Arima (Biocorp), Project Ark (Biocorp), divers autres projets Biocorp
 
-- Wit était un scientifique du Second Circle, ce qui signifie que la plupart de ses informations personnelles et professionnelles ont été classifiées, ce qui a donné des informations très limitées sur lui aujourd'hui.
+- Wit était un scientifique du Second Circle : la plupart de ses informations personnelles et professionnelles étaient classifiées. D'où le peu de données dont nous disposons aujourd'hui.
 
-- Wit a été renvoyé d'Arima par un membre inconnu du premier cercle. Il a passé plusieurs années dans des projets mineurs avant d'être réaffecté au Projet Ark.
+- Wit a été renvoyé d'Arima par un membre inconnu du First Circle. Il a passé plusieurs années sur des projets mineurs avant d'être réaffecté au Project Ark.
 
-- Après l'incident de la Terre, Wit a défectionné de Biocorp et, à partir de ce moment, ses mouvements restent largement inconnus. Il est probable, cependant, que, en supposant qu'il est toujours vivant et scientifiquement actif, il choisirait Core City comme sa résidence où il serait hors de portée de Biocorp et Protectorate tout en ayant toujours accès à certains équipements scientifiques.::<end>
+- Après l'« incident Hollow Earth », Wit a fait défection de Biocorp. À partir de là, ses déplacements restent largement inconnus. S'il est encore vivant et actif scientifiquement, il est probable qu'il ait choisi Core City comme résidence : hors de portée de Biocorp et du Protectorate, tout en conservant un accès à du matériel scientifique.::<end>
 
 =>a31_original
 ::Anton Matveev::<end>
@@ -421,16 +421,16 @@ Involved in: Project Ascendance, Phenotype Dynamics, various projects related to
 
 =>q32
 ::Nom complet : Anton Matveev
-Aliases: Coeur
-Fonction: Apex Technocrat
+Alias : Wight
+Fonction : Apex Technocrat
 Alignement : Old Biocorp
-Impliqué dans: Projet d'Ascendance, Phénotype Dynamics, divers projets liés à la transgénique, psimorphisme et transhumanisme
+Impliqué dans : Project Ascendance, Phenotype Dynamics, divers projets liés à la transgénèse, au psimorphisme et au transhumanisme
 
-- En plus d'être souvent accusé d'avoir mené des expériences humaines incontestées, Anton a été infâme dans le Old Biocorp pour l'auto-expérimentation hideuse.
+- Outre les accusations fréquentes d'expériences humaines sans consentement, Anton était tristement célèbre, à Old Biocorp, pour d'horribles auto-expérimentations.
 
-- Anton aurait aussi été un puissant contrôleur de pensée.
+- On le disait aussi un puissant utilisateur de Thought Control.
 
-- Avec un certain nombre d'autres technocrates de haut rang, Anton a été retiré du pouvoir pendant le chaos qui a suivi l'incident de Hollow Earth, mais n'a jamais été appréhendé.::<end>
+- Avec d'autres technocrates de haut rang, Anton a été écarté du pouvoir pendant le chaos qui a suivi l'incident Hollow Earth. Il n'a jamais été arrêté.::<end>
 
 =>a33_original
 ::Kirill 'Vovin' Gavrilyuk::<end>
@@ -455,18 +455,18 @@ Involved in: Project Ascendance, various projects related to transgenics, psimor
 
 =>q34
 ::Nom complet : Kirill Gavrilyuk
-Aliases: Vovin
-Fonction: Apex Technocrat
+Alias : Vovin
+Fonction : Apex Technocrat
 Alignement : Old Biocorp
-Impliqué dans: Projet d'Ascendance, divers projets liés à la transgénique, au psimorphisme et au transhumanisme
+Impliqué dans : Project Ascendance, divers projets liés à la transgénèse, au psimorphisme et au transhumanisme
 
-- Kirill était connu comme "Vovin" (dragon) dans les cercles intérieurs de Old Biocorp, peut-être en raison de ses capacités psioniques.
+- Dans les cercles internes d'Old Biocorp, Kirill était connu sous le nom de « Vovin » (dragon), sans doute à cause de ses capacités psioniques.
 
-- Selon certains dossiers, de tous les technocrates Apex, Kirill détenait le plus de pouvoir et de nombreux projets qui ont eu lieu dans les années qui ont mené aux retombées de Biocorp ont été entrepris sur son commandement.
+- Selon certains dossiers, de tous les Apex Technocrats, Kirill détenait le plus de pouvoir. De nombreux projets menés dans les années qui ont précédé la chute de Biocorp l'ont été sur son ordre.
 
-- Avec le nombre d'autres technocrates de haut rang, Kirill a été retiré du pouvoir pendant le chaos qui a suivi l'incident de Hollow Earth, mais n'a jamais été appréhendé.
+- Avec d'autres technocrates de haut rang, Kirill a été écarté du pouvoir pendant le chaos qui a suivi l'incident Hollow Earth. Il n'a jamais été arrêté.
 
-- Plusieurs grands clients ont offert des sommes considérables en échange de l'apprentissage de l'emplacement de Kirill.::<end>
+- Plusieurs clients de haut vol ont offert des sommes considérables contre des informations sur le lieu où se trouve Kirill.::<end>
 
 =>a35_original
 ::More::<end>
@@ -482,7 +482,7 @@ Current access level: $(context.loc_wa_accessLevel)::<end>
 =>q36
 ::Fichiers personnels
 
-Niveau d'accès actuel : $(context.loc wa accessLevel)::<end>
+Niveau d'accès actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a37_original
 ::Frederick Cathcart::<end>
@@ -506,17 +506,17 @@ Alignment: Underrail Protectorate
 
 =>q38
 ::Nom complet : Frederick Cathcart
-Position: Commandant des forces d'underrail Protectorat dans South Underrail
-Classement : Colonel
-Âge: 54 ans
-Résidence actuelle: Fort Apogee, Upper Underrail
-Alignement : Protecteur sous-rail
+Fonction : Officier commandant des forces de l'Underrail Protectorate en South Underrail
+Grade : Colonel
+Âge : 54
+Résidence actuelle : Fort Apogee, Upper Underrail
+Alignement : Underrail Protectorate
 
-- Le colonel Cathcart est arrivé à South Underrail il y a cinq ans en tant que commandant de la Brigade expéditionnaire de South Underrail, mais il allait bientôt recevoir le commandement de toutes les troupes protectorates de la région, le fort Apogee étant leur principale base d'opérations. Il a été le seul commandant du fort Apogee à ce jour.
+- Le colonel Cathcart est arrivé en South Underrail il y a cinq ans, à la tête de la South Underrail Expeditionary Brigade. Il a bientôt reçu le commandement de toutes les troupes du Protectorate dans la région, Fort Apogee servant de base principale. Il est, à ce jour, le seul officier commandant que Fort Apogee ait connu.
 
-- On ne sait pas grand chose de son histoire avant la chute de la Biocorp réformée. Certaines sources affirment qu'il était un soldat ou un officier subalterne dans les rangs du Protectorat pendant la prise de contrôle, d'autres qu'il ne participait pas du tout au combat. Quelques années seulement après ces événements, son nom apparaît officiellement, précédé du grade de lieutenant.
+- On sait peu de chose de son passé avant la chute de Reformed Biocorp. Certaines sources affirment qu'il était soldat ou officier subalterne dans les rangs du Protectorate pendant la prise de contrôle ; d'autres, qu'il n'a pas pris part aux combats. Son nom n'apparaît officiellement, précédé du grade de lieutenant, que quelques années après ces événements.
 
-- Il a été marié deux fois, et tous deux ont fini par divorcer.::<end>
+- Il a été marié deux fois. Les deux unions se sont terminées par un divorce.::<end>
 
 =>a39_original
 ::Back::<end>
@@ -545,16 +545,16 @@ Alignment: United Stations, Underrail Protectorate
 
 =>q41
 ::Nom complet : Kerry Oliver
-Fonction: consul
-Âge: 42 ans
-Résidence actuelle: Fort Apogee, Upper Underrail
-Alignement : Stations unies, Protectorat sous-rail
+Fonction : Consul
+Âge : 42
+Résidence actuelle : Fort Apogee, Upper Underrail
+Alignement : United Stations, Underrail Protectorate
 
-- Kerry Oliver est le consul officiel du consulat de Fort Apogee, Upper Underrail, et il occupe ce poste depuis cinq ans. Il a été nommé à ce poste par les United Stations, alors ministre des Affaires étrangères, Nick Thompson, son ancien professeur de sciences politiques à l'Université de Dis (préprotectorat Biocorp).
+- Kerry Oliver est le consul nommé du consulat de Fort Apogee, Upper Underrail. Il occupe ce poste depuis cinq ans. Il a été proposé par Nick Thompson, alors ministre des Affaires étrangères des United Stations et son ancien professeur de sciences politiques à l'University of Dis (Biocorp d'avant le Protectorate).
 
-- S'il s'est déclaré préoccupé par certaines des activités du Protectorat à South Underrail (comme l'indiquent plusieurs correspondances interceptées avec ses collègues de United Stations), et surtout au cours de sa première année de fonction, il n'a jamais pris d'autres mesures à cet égard, et il est officiellement resté en dehors des affaires militaires.
+- S'il a fait part de ses réserves sur certaines activités du Protectorate en South Underrail (comme le montrent plusieurs correspondances interceptées avec ses collègues des United Stations), surtout durant sa première année, il n'est jamais allé plus loin et s'est officiellement tenu à l'écart des affaires militaires.
 
-- Il est marié à Linda Oliver avec qui il a deux enfants : son fils Magnus (présumé nommé d'après un vieux grand maître d'échecs du monde) et sa fille Aida (nommé d'après le vieux théâtre musical du monde du même nom).::<end>
+- Il est marié à Linda Oliver. Ils ont deux enfants : un fils, Magnus (censé porter le nom d'un grand maître d'échecs de l'ancien monde) et une fille, Aida (nommée d'après l'œuvre de théâtre musical de l'ancien monde du même nom).::<end>
 
 =>a42_original
 ::Alvin Bate::<end>
@@ -574,15 +574,15 @@ Current residence: Free Drones under-passage base
 - Little information on his life before joining the Free Drones exists. He is presumed to have arrived to South Underrail with the first Free Drones, and that he is one of the original founders of this region's primary cell. His only known family member is his alleged daughter Milla Bate, currently located in Dis, North Underrail.::<end>
 
 =>q43
-::Nom complet: Alvin Bate
-Position: Free Drones South Chef de cellule Underrail
-Lieu de naissance: North Underrail, emplacement inconnu
-Âge: Entre 30 et 40 ans
-Résidence actuelle: Free Drones sous-passage base
+::Nom complet : Alvin Bate
+Fonction : Chef de cellule Free Drones, South Underrail
+Lieu de naissance : North Underrail, lieu inconnu
+Âge : Entre 30 et 40 ans
+Résidence actuelle : Base Free Drones, under-passage
 
-- Alvin Bate est l'un des leaders de la cellule primaire des Drones Libres dans South Underrail, aux côtés de Corben Trenton et (anciennement) Marcella Green
+- Alvin Bate est l'un des chefs de la cellule principale des Free Drones en South Underrail, aux côtés de Corben Trenton et (anciennement) Marcella Green.
 
-- Il y a peu d'informations sur sa vie avant de rejoindre les Free Drones. Il est présumé être arrivé à South Underrail avec les premiers Free Drones, et qu'il est l'un des fondateurs originaux de la cellule primaire de cette région. Son seul membre connu de la famille est sa prétendue fille Milla Bate, actuellement située à Dis, North Underrail.::<end>
+- On sait peu de chose de sa vie avant les Free Drones. On présume qu'il est arrivé en South Underrail avec les premiers Free Drones, et qu'il compte parmi les fondateurs de la cellule principale de cette région. Le seul membre connu de sa famille est sa fille présumée, Milla Bate, actuellement à Dis, North Underrail.::<end>
 
 =>a44_original
 ::Corben Trenton::<end>
@@ -601,14 +601,14 @@ Current residence: Free Drones under-passage base
 - Little information on his life before joining the Free Drones exists. He is presumed to have arrived to South Underrail with the first Free Drones, and that he is one of the original founders of this region's primary cell.::<end>
 
 =>q45
-::Nom complet: Corben Trenton
-Position: Free Drones South Chef de cellule Underrail
-Lieu de naissance: North Underrail, emplacement inconnu
-Âge: Entre 35 et 40 ans
-Résidence actuelle: Free Drones sous-passage base
+::Nom complet : Corben Trenton
+Fonction : Chef de cellule Free Drones, South Underrail
+Lieu de naissance : North Underrail, lieu inconnu
+Âge : Entre 35 et 40 ans
+Résidence actuelle : Base Free Drones, under-passage
 
-- Corben Trenton est l'un des leaders de la cellule primaire Free Drones dans South Underrail, aux côtés d'Alvin Bate et (anciennement) Marcella Green
-- Il y a peu d'informations sur sa vie avant de rejoindre les Free Drones. Il est présumé être arrivé à South Underrail avec les premiers Free Drones, et qu'il est l'un des fondateurs originaux de la cellule primaire de cette région.::<end>
+- Corben Trenton est l'un des chefs de la cellule principale des Free Drones en South Underrail, aux côtés d'Alvin Bate et (anciennement) Marcella Green.
+- On sait peu de chose de sa vie avant les Free Drones. On présume qu'il est arrivé en South Underrail avec les premiers Free Drones, et qu'il compte parmi les fondateurs de la cellule principale de cette région.::<end>
 
 =>a46_original
 ::Marcella Green::<end>
@@ -633,20 +633,20 @@ Last known residence: Free Drones under-passage base
 - As of recently, a strange woman has been noticed visiting the Hanging Rat. Her visits are frequent, yet she never orders anything, and neither does she ever communicate with anyone. All she does is sit at a table and observe. This paragraph exists in this file only due to a single account mentioning her holding a "circle-A pendant" in her hand.::<end>
 
 =>q47
-::Nom complet: Marcella Green
-Position: Free Drones South Underrail chef de cellule (jusqu'à disparition)
-Lieu de naissance: South Underrail, emplacement inconnu
-Âge: Entre 25 et 35 ans
-Résidence actuelle : Inconnu
-Dernière résidence connue: Free Drones sous-passage base
+::Nom complet : Marcella Green
+Fonction : Chef de cellule Free Drones, South Underrail (jusqu'à disparition)
+Lieu de naissance : South Underrail, lieu inconnu
+Âge : Entre 25 et 35 ans
+Résidence actuelle : Inconnue
+Dernière résidence connue : Base Free Drones, under-passage
 
-- Marcella Green était l'un des trois chefs de file de la cellule primaire des Free Drones à South Underrail, aux côtés de Corben Trenton et Alvin Bate, jusqu'à sa disparition soudaine.
+- Marcella Green était l'une des trois chefs de la cellule principale des Free Drones en South Underrail, aux côtés de Corben Trenton et Alvin Bate, jusqu'à sa disparition soudaine.
 
-- Peu d'informations sur sa vie avant de rejoindre les Free Drones existent. Elle n'a aucun membre de la famille connu dans ou en dehors du mouvement, et ni son lieu de naissance ni ses résidences antérieures ne sont connus.
+- On sait peu de chose de sa vie avant les Free Drones. Elle n'a aucun proche connu, dans le mouvement ou hors de celui-ci. Ni son lieu de naissance, ni ses résidences antérieures ne sont connus.
 
-- Elle a disparu il y a environ deux mois, et on ignore où elle se trouve. Bien qu'aucun renseignement ne confirme ou nie que des tentatives d'assassinat ou d'appréhension ont été faites par Underrail Protectorate ou autrement, ou qu'elle a abandonné le mouvement pour quelque raison que ce soit, le premier est le plus probable des scénarios compte tenu du climat politique actuel. Cependant, aucun corps correspondant à sa description n'a encore été retrouvé.
+- Elle a disparu il y a environ deux mois. On ignore où elle se trouve. Aucun renseignement ne confirme ni n'infirme une tentative d'assassinat ou d'arrestation par l'Underrail Protectorate, ou qu'elle ait quitté le mouvement pour une autre raison. Le premier scénario reste le plus probable, vu le climat politique actuel. Aucun corps correspondant à son signalement n'a toutefois été retrouvé à ce jour.
 
-- Depuis peu, une femme étrange a été remarquée pour visiter le Rat suspendu. Ses visites sont fréquentes, mais elle ne commande jamais rien, et elle ne communique jamais avec personne. Elle ne fait que s'asseoir à une table et observer. Ce paragraphe n'existe dans ce dossier qu'en raison d'un seul compte dans lequel elle avait un « pendentif circle-A » dans sa main.::<end>
+- Depuis peu, une femme étrange a été vue au Hanging Rat. Elle y vient souvent, ne commande jamais rien, et ne parle à personne. Elle s'assoit à une table et observe. Ce paragraphe ne figure dans ce dossier que parce qu'un unique témoignage la mentionne tenant un « pendentif circle-A » à la main.::<end>
 
 =>a48_original
 ::Eidein::<end>
@@ -667,16 +667,16 @@ Current residence: Institute of Tchort, Upper Underrail
 - Eidein's longevity is claimed to be due to the application of research done on Tchort; since the Tchortists do not share their research data with the outside world, this claim cannot be verified in any way. It is of course possible that Eidein has been more than one person since the Institute's foundation, since his actual appearance has never been made known. Furthermore, this poses the questions of whether Eidein has remained cybernetically unenhanced - as well as whether Eidein is actually human at all.::<end>
 
 =>q49
-::Nom complet: Aiden Travers
-Aliases: Eidein
-Fonction: Chef de l'Institut de Tchort
-Lieu de naissance: Inconnu
-Âge: inconnu; supposé être plus de 100 ans
-Résidence actuelle: Institut de Tchort, Upper Underrail
+::Nom complet : Aiden Travers
+Alias : Eidein
+Fonction : Chef de l'Institute of Tchort
+Lieu de naissance : Inconnu
+Âge : Inconnu ; serait de plus de 100 ans
+Résidence actuelle : Institute of Tchort, Upper Underrail
 
-- Aucune information sur la vie d'Eidein avant la fondation de l'Institut de Tchort n'existe en dehors des sources tchortistes. Selon eux, Eidein était un scientifique de Biocorp qui - il y a environ un siècle - a découvert et interagi avec Tchort, une créature primordiale et le sujet du culte tchortiste. Comment exactement il a fondé l'Institut et la façon dont il le gère est mal comprise, mais ce qui est certain c'est qu'il a maintenu une politique secrète et isolationniste pour la plupart de l'existence de l'Institut.
+- Aucune information sur la vie d'Eidein avant la fondation de l'Institute of Tchort n'existe hors des sources Tchortist. Selon celles-ci, Eidein était un scientifique de Biocorp qui, il y a environ un siècle, a découvert Tchort et est entré en contact avec lui : une créature primordiale, objet du culte Tchortist. La façon dont il a fondé l'Institute, et dont il le dirige, reste mal connue. Ce qui est certain, c'est qu'il a mené, pendant la plus grande partie de l'existence de l'Institute, une politique secrète et isolationniste.
 
-- On prétend que la longévité d'Eidein est due à l'application de recherches sur Tchort; puisque les Tchortistes ne partagent pas leurs données de recherche avec le monde extérieur, cette affirmation ne peut être vérifiée d'aucune façon. Il est bien sûr possible qu'Eidein ait été plus d'une personne depuis la fondation de l'Institut, puisque son apparence n'a jamais été connue. De plus, cela pose la question de savoir si Eidein n'a pas été amélioré sur le plan cybernétique et si Eidein est réellement humain.::<end>
+- On attribue la longévité d'Eidein à l'application des recherches menées sur Tchort. Les Tchortists ne partageant pas leurs données avec le monde extérieur, cette affirmation est invérifiable. Il est bien sûr possible qu'Eidein n'ait pas été une seule et même personne depuis la fondation de l'Institute, puisque son apparence réelle n'a jamais été révélée. Cela pose aussi la question de savoir s'il est resté sans amélioration cybernétique, et même s'il est encore humain.::<end>
 
 =>a50_original
 ::Hank Wardell::<end>
@@ -710,17 +710,17 @@ Current residence: South Underrail, exact location unknown (although several of 
 - Confirmed to have managed to exploit various functionalities of the out-of-commission metro emergency system, which he's accessing through numerous emergency phones by means currently unknown. It is not yet clear to what extent the emergency system can be used, but what is known so far is that it can at least provide access to certain utility sites, and by extension equipment and systems.::<end>
 
 =>q53
-::Nom complet: Mit Draper
-Aliases: Scalp, Gridfix(er), Transfixer, Phreak
-Lieu de naissance: Inconnu
-Âge: Âge exact inconnu, mais supposé être dans ses années soixante
-Résidence actuelle : South Underrail, emplacement exact inconnu (bien que plusieurs de ses cachettes dans Upper Underrail aient été découvertes, elles sont actuellement vacantes)
+::Nom complet : Mit Draper
+Alias : Scalp, Gridfix(er), Transfixer, Phreak
+Lieu de naissance : Inconnu
+Âge : Âge exact inconnu ; serait dans la soixantaine
+Résidence actuelle : South Underrail, lieu exact inconnu (plusieurs de ses planques en Upper Underrail ont été découvertes ; elles sont actuellement vides)
 
-- On sait peu de choses de ses origines autres qu'il est soupçonné d'avoir travaillé au Centre Cybernétique Biocorp à Dis jusqu'à sa prise de contrôle, position exacte inconnue mais soupçonnée d'être liée à la sécurité des logiciels; un dossier incomplet suggère qu'il avait été un délinquant recherché, et que ses compétences sont ce qui a réussi à lui gagner un emploi aussi respecté.
+- On sait peu de chose de ses origines, sinon qu'il aurait travaillé au Biocorp Cybernetics Center de Dis jusqu'à sa prise de contrôle. Poste exact inconnu, probablement lié à la sécurité logicielle. Un dossier incomplet suggère qu'il était un délinquant recherché, et que ce sont ses compétences qui lui ont valu un emploi aussi prestigieux.
 
-- Ces dernières années, il a été impliqué dans de nombreuses activités souvent illégales dans South Underrail. Il s'agit notamment du piratage, de la contrefaçon de logiciels et de matériels; de la fabrication, de la modification et de la négociation de divers dispositifs de surveillance et de manipulation de la sécurité, et d'autres dispositifs similaires. Des rapports fiables indiquent que ces activités lui ont causé des problèmes avec de nombreux organismes, groupes et particuliers, dont certains étaient ses anciens clients.
+- Ces dernières années, il a été impliqué dans de nombreuses activités, souvent illégales, à travers South Underrail : piratage logiciel et matériel, faux documents ; fabrication, modification et trafic de divers outils pour forcer ou manipuler les sécurités, et activités du même ordre. Des rapports fiables indiquent que ces activités lui ont valu des ennuis auprès de nombreuses organisations, groupes et individus, dont d'anciens clients.
 
-- Confirmé avoir réussi à exploiter diverses fonctionnalités du système d'urgence métro hors-commission, auquel il accède par de nombreux téléphones d'urgence par des moyens actuellement inconnus. On ne sait pas encore dans quelle mesure le système d'urgence peut être utilisé, mais ce qu'on sait jusqu'à présent, c'est qu'il peut au moins fournir un accès à certains sites d'utilité publique, ainsi qu'à l'équipement et aux systèmes d'extension.::<end>
+- Confirmé : il a réussi à exploiter diverses fonctions du système d'urgence du métro, hors service. Il y accède via de nombreux téléphones d'urgence, par des moyens encore inconnus. On ignore encore jusqu'où ce système peut être exploité. Ce qui est établi, c'est qu'il donne au moins accès à certains sites utilitaires, et par là à de l'équipement et à des systèmes.::<end>
 
 =>a54_original
 ::Norman Hack::<end>
@@ -743,16 +743,16 @@ Involved in: Creation of Advatongue
 
 =>q55
 ::Nom complet : Norman Hack
-Lieu de naissance: North Underrail, emplacement inconnu
-Résidence actuelle: Ville centrale
-Profession: Linguiste
-Impliqué dans: Création de l'Advatongue
+Lieu de naissance : North Underrail, lieu inconnu
+Résidence actuelle : Core City
+Profession : Linguiste
+Impliqué dans : Création de l'Advatongue
 
-- Le professeur Norman Hack, qui réside actuellement à Core City, est le créateur d'Advatongue, une langue jusqu'à présent utilisée uniquement par Hack lui-même et plusieurs autres personnes, tous ses étudiants.
+- Le professeur Norman Hack, actuellement à Core City, est le créateur de l'Advatongue, une langue utilisée à ce jour uniquement par Hack lui-même et quelques autres individus, tous ses étudiants.
 
-- Hack transféré de North Underrail à South Underrail pour - comme l'indiquent les renseignements recueillis - développer et enseigner l'advatongue à plusieurs étudiants. Il semble qu'il ait connu certains problèmes à North Underrail qui l'ont forcé à déménager.
+- Hack a quitté North Underrail pour South Underrail afin, selon les renseignements recueillis, de développer l'Advatongue et de l'enseigner à plusieurs étudiants. Il semblerait qu'il ait eu des ennuis en North Underrail, ce qui l'a forcé à déménager.
 
-- Il n'y a aucune preuve que Hack s'est aligné avec aucune des factions majeures dans South Underrail, du moins pas actuellement. Néanmoins, il est important de prendre note de la langue elle-même, car elle a le potentiel d'être utilisée comme langage de code.::<end>
+- Rien n'indique que Hack se soit allié à l'une des grandes factions de South Underrail, du moins pour l'instant. La langue elle-même reste à surveiller : elle pourrait servir de code.::<end>
 
 =>a56_original
 ::Kevin Grey::<end>
@@ -770,11 +770,11 @@ Alignment: Foundry
 
 =>q57
 ::Nom complet : Kevin Grey
-Fonction: Surveillant de la garde des fonderies
-Résidence actuelle: Foundry
-Alignement: Fonderie
+Fonction : Overseer de la Foundry Guard
+Résidence actuelle : Foundry
+Alignement : Foundry
 
-- Connu pour être impliqué dans le commerce illégal d'armes, dont la plupart se déroulent à Foundry elle-même et - selon de multiples rapports - inclut également l'équipement propre de Foundry Guard.::<end>
+- Connu pour son implication dans le trafic d'armes illégal, en grande partie sur Foundry même et, selon plusieurs rapports, portant aussi sur l'équipement de la Foundry Guard.::<end>
 
 =>a58_original
 ::Edward Oldfield::<end>
@@ -800,19 +800,19 @@ Current residence: Dis, North Underrail
 
 =>q59
 ::Nom complet : Edward Oldfield
-Aliases: Aucune
-Fonction: Professeur d'histoire de la supersociété à l'Université de Dis
-Lieu de naissance: Dis, Nord Underrail
-Âge: 52 ans
-Résidence actuelle: Dis, North Underrail
+Alias : Aucun
+Fonction : Professeur d'histoire des supercorporations à l'University of Dis
+Lieu de naissance : Dis, North Underrail
+Âge : 52
+Résidence actuelle : Dis, North Underrail
 
-- Fils de David et Amelia Oldfield, chercheurs en biocorps réformés.
+- Fils de David et Amelia Oldfield, chercheurs de Reformed Biocorp.
 
-- A obtenu son doctorat à la Faculté d'histoire de l'Université de Dis, avec une thèse intitulée « Contexte sociopolitique de la période de la réforme de la biocorps », après quoi il a commencé à donner des cours d'histoire de la biocorps à l'Université de Dis.
+- A obtenu son doctorat à la Faculty of History de l'University of Dis, avec une thèse intitulée « Socio-political Context of the Biocorp Reformation Period », puis a commencé à enseigner l'histoire de Biocorp à l'University of Dis.
 
-- Au cours d'une interruption de deux ans après la dissolution de Reformed Biocorp, il concentre son travail sur l'histoire d'autres supersociétés, principalement New Frontier Technologies (NFT). Après la pause, il reprend des cours au département d'Histoire renommé sur le sujet de l'Histoire de la Supercorporation, qu'il continue à donner jusqu'à ce jour.
+- Pendant une interruption de deux ans après la dissolution de Reformed Biocorp, il oriente ses travaux vers l'histoire des autres supercorporations, principalement New Frontier Technologies (NFT). Après cette pause, il reprend l'enseignement au Department of History, désormais renommé, sur l'histoire des supercorporations, matière qu'il enseigne encore aujourd'hui.
 
-- Il dirige actuellement une expédition en mer Noire, probablement liée à ses recherches sur NFT.::<end>
+- Il dirige actuellement une expédition vers la Black Sea, très probablement liée à ses recherches sur NFT.::<end>
 
 =>a60_original
 ::Cadmus Grim::<end>
@@ -837,18 +837,18 @@ Alignment: Grim Jetters
 
 =>q61
 ::Nom complet : Cadmus Grim
-Aliases: Capitaine Grim
-Fonction: Capitaine des Grim Jetters
-Lieu de naissance: Inconnu
-Âge: Inconnu
-Résidence actuelle: Mer Noire (Hell's Gut)
+Alias : Captain Grim
+Fonction : Capitaine des Grim Jetters
+Lieu de naissance : Inconnu
+Âge : Inconnu
+Résidence actuelle : Black Sea (Hell's Gut)
 Alignement : Grim Jetters
 
-- Il est le fondateur et le leader actuel du groupe de pirates Grim Jetters.
+- Il est le fondateur et l'actuel chef du groupe de pirates Grim Jetters.
 
-- On sait peu sur le capitaine Grim. Lui et les Grim Jetters ont d'abord gagné en notoriété en attaquant avec succès des convois de la Station unie bien défendus par des tactiques navales très avancées. Après que les Grim Jetters ont absorbé les petits groupes de pirates et ont pris de la taille dans les années suivantes, Grim a à peu près complètement retiré de la descente. On présume qu'il commande maintenant tous ses subordonnés de la cachette des Grim Jetters dans la mer Noire.
+- On sait peu de chose du Captain Grim. Lui et les Grim Jetters se sont d'abord fait un nom en attaquant avec succès des convois bien défendus des United Stations, grâce à des tactiques navales très avancées. Après que les Grim Jetters ont absorbé les plus petits groupes pirates et ont grossi dans les années suivantes, Grim s'est pratiquement retiré des raids. On présume qu'il commande désormais tous ses subordonnés depuis la planque des Grim Jetters, dans la Black Sea.
 
-- Selon une source, Cadmus est arrivé de North Underrail, mais la réclamation n'a jamais été vérifiée.::<end>
+- Une source affirme que Cadmus vient de North Underrail. Cette affirmation n'a jamais été vérifiée.::<end>
 
 =>a62_original
 ::Richard Briggs::<end>
@@ -877,22 +877,22 @@ Alignment: Underrail Protectorate, Aegis Incorporated
 
 =>q63
 ::Nom complet : Richard Briggs
-Aliases: Aucune
-Fonction: Chef d'Aegis Incorporated
-Lieu de naissance: Inconnu
-Âge: 45 ans
-Résidence actuelle: Dis, North Underrail
-Alignement : Protectorat sous-rail, Aegis Incorporated
+Alias : Aucun
+Fonction : Chef d'Aegis Incorporated
+Lieu de naissance : Inconnu
+Âge : 45
+Résidence actuelle : Dis, North Underrail
+Alignement : Underrail Protectorate, Aegis Incorporated
 
-- Il est l'un des fondateurs d'Aegis Incorporated, une société de sécurité de North Underrail
+- Il est l'un des fondateurs d'Aegis Incorporated, une société de sécurité de North Underrail.
 
-- Frappé avec Underrail Protectorate contre les forces armées de Biocorp pendant la prise de contrôle de Dis. Une explosion de 30 mm a complètement détruit son bras gauche et lui a causé de graves lésions nerveuses dont il s'est remis pendant plusieurs années. Le bras a depuis été remplacé par une prothèse cybernétique.
+- Il a combattu aux côtés de l'Underrail Protectorate contre les Biocorp Armed Forces lors de la prise de Dis. Un obus explosif de 30 mm lui a entièrement détruit le bras gauche et lui a causé de graves lésions nerveuses, dont il s'est remis pendant plusieurs années. Le bras a depuis été remplacé par une prothèse cybernétique.
 
-- Après sa récupération, il a cofondé Aegis Incorporated avec Francis White, un homme d'affaires de North Underrail, et s'est nommé chef de la sécurité.
+- Après sa convalescence, il a cofondé Aegis Incorporated avec Francis White, un homme d'affaires notable de North Underrail, et s'est nommé chef de la sécurité.
 
-- Il est marié à Jane Briggs, avec qui il n'a pas d'enfant.
+- Il est marié à Jane Briggs. Ils n'ont pas d'enfant.
 
-- Il est actuellement à South Underrail, car Aegis Incorporated a été embauché pour protéger une expédition à la mer Noire qui est dirigée par le professeur Edward Oldfield de l'Université de Dis.::<end>
+- Il se trouve actuellement en South Underrail : Aegis Incorporated a été engagée pour protéger une expédition vers la Black Sea, dirigée par le professeur Edward Oldfield de l'University of Dis.::<end>
 
 =>a64_original
 ::Francis White::<end>
@@ -918,19 +918,19 @@ Current residence: Dis, North Underrail
 
 =>q65
 ::Nom complet : Francis White
-Aliases: Big Frank
-Fonction: Propriétaire de nombreuses entreprises
-Lieu de naissance: North Underrail, emplacement exact inconnu
-Âge: 59 ans
-Résidence actuelle: Dis, North Underrail
+Alias : Big Frank
+Fonction : Propriétaire de nombreuses compagnies
+Lieu de naissance : North Underrail, lieu exact inconnu
+Âge : 59
+Résidence actuelle : Dis, North Underrail
 
-- Il est un homme d'affaires prospère de North Underrail et propriétaire de nombreuses entreprises, mais surtout de petites entreprises, la plus grande étant Aegis Incorporated, une société de sécurité de North Underrail, dont il est cofondateur et copropriétaire.
+- C'est un homme d'affaires prospère de North Underrail, propriétaire de nombreuses entreprises, pour la plupart modestes. La plus grande est Aegis Incorporated, une société de sécurité de North Underrail dont il est cofondateur et copropriétaire.
 
-- Il est né dans une famille pauvre et a vécu la plupart de sa vie sur les rails, voyageant d'un endroit à l'autre. Il a travaillé plusieurs fois au fil des ans jusqu'à ce qu'il commence enfin son propre magasin d'électronique à Hexagon. Son entreprise s'est avérée lucrative, lui permettant d'acquérir progressivement d'autres petites entreprises et propriétés. Même s'il n'a jamais obtenu le statut de magnat des affaires, il est néanmoins considéré comme l'un des hommes d'affaires les plus prospères de North Underrail et un véritable exemple d'une histoire de réussite de chiffons à riches.
+- Il est né dans une famille pauvre et a passé l'essentiel de sa vie sur les rails, d'un endroit à l'autre. Il a enchaîné les petits boulots jusqu'à ouvrir sa propre boutique d'électronique à Hexagon. L'affaire s'est révélée lucrative, ce qui lui a permis d'acquérir progressivement d'autres petites entreprises et des biens. S'il n'a jamais atteint le statut de magnat, on le considère néanmoins comme l'un des hommes d'affaires les plus prospères de North Underrail, et un vrai cas d'ascension sociale.
 
-- Il a sept enfants avec Sheila Bagani, ancienne assistante personnelle et maintenant épouse.
+- Il a sept enfants avec Sheila Bagani, ancienne assistante personnelle devenue épouse.
 
-- Contrairement à son surnom, il est d'une construction assez mince, ou comme Kenneth Cramer, un journaliste Dis Today, l'a décrit - "plutôt glous."::<end>
+- Contrairement à son surnom, il est plutôt fluet. Kenneth Cramer, journaliste de Dis Today, l'a décrit comme « plutôt cadavérique ».::<end>
 
 =>a66_original
 ::Back::<end>
@@ -942,7 +942,7 @@ Résidence actuelle: Dis, North Underrail
 ::Exit::<end>
 
 =>a67
-::Sortie::<end>
+::Quitter::<end>
 
 =>a68_original
 ::Back::<end>
@@ -964,13 +964,13 @@ Current level: $(context.loc_wa_accessLevel)::<end>
 =>q70
 ::Fichiers de projet
 
-Niveau actuel : $(context.loc wa accessLevel)::<end>
+Niveau actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a71_original
 ::Project Ark (Biocorp)::<end>
 
 =>a71
-::Projet Ark (Biocorp)::<end>
+::Project Ark (Biocorp)::<end>
 
 =>q72_original
 ::Project name: (The) Ark
@@ -981,12 +981,12 @@ Locations: Panacea Lab (Upper Underrail)
 Little is known about this project aside from that it most certainly dealt with human life longevity research.::<end>
 
 =>q72
-::Nom du projet: (The) Ark
-Organisation: Ancien Biocorp
-Participants : Olexiy Macar (génétique), Wit Nosek (génétique), Njord Abbott (chimiste)
-Emplacements : Panacea Lab (Upper Underrail)
+::Nom du projet : (The) Ark
+Organisation : Old Biocorp
+Participants : Olexiy Macar (généticien), Wit Nosek (généticien), Njord Abbott (chimiste)
+Lieux : Panacea Lab (Upper Underrail)
 
-On sait peu de choses sur ce projet, outre qu'il traite très certainement de la recherche sur la longévité de la vie humaine.::<end>
+On sait peu de chose sur ce projet, sinon qu'il portait très certainement sur la recherche en longévité humaine.::<end>
 
 =>a73_original
 ::Back::<end>
@@ -998,7 +998,7 @@ On sait peu de choses sur ce projet, outre qu'il traite très certainement de la
 ::Project Arima (Biocorp)::<end>
 
 =>a74
-::Projet Arima (Biocorp)::<end>
+::Project Arima (Biocorp)::<end>
 
 =>q75_original
 ::Project name: Arima
@@ -1009,12 +1009,12 @@ Locations: Unknown
 - Purpose unknown.::<end>
 
 =>q75
-::Nom du projet: Arima
-Organisation: Ancien Biocorp
-Participants connus: Wit Nosek (génétique), Njord Abbott (chimiste)
-Emplacements : Inconnu
+::Nom du projet : Arima
+Organisation : Old Biocorp
+Participants connus : Wit Nosek (généticien), Njord Abbott (chimiste)
+Lieux : Inconnu
 
-- Objet inconnu.::<end>
+- Objectif inconnu.::<end>
 
 =>a76_original
 ::Back::<end>
@@ -1026,7 +1026,7 @@ Emplacements : Inconnu
 ::Phenotype Dynamics (Biocorp)::<end>
 
 =>a77
-::Dynamique du phénotype (Biocorp)::<end>
+::Phenotype Dynamics (Biocorp)::<end>
 
 =>q78_original
 ::Project name: Phenotype Dynamics
@@ -1037,12 +1037,12 @@ Locations: Unknown
 - What is known is that this project dealt with using mutagens to dynamically change phenotypes of a living being in its mature state. It is also known that much of the controversy that surrounded the "Hollow Earth incident" is related to this project.::<end>
 
 =>q78
-::Nom du projet: Phénotype Dynamics
-Organisation: Ancien Biocorp
-Participants connus: Wit Nosek (génétique)
-Emplacements : Inconnu
+::Nom du projet : Phenotype Dynamics
+Organisation : Old Biocorp
+Participants connus : Wit Nosek (généticien)
+Lieux : Inconnu
 
-- Ce que l'on sait, c'est que ce projet traitait de l'utilisation de mutagènes pour changer dynamiquement les phénotypes d'un être vivant dans son état de maturité. On sait aussi qu'une grande partie de la controverse qui a entouré l'incident de la Terre d'Hollow est liée à ce projet.::<end>
+- Ce que l'on sait : ce projet visait à utiliser des mutagènes pour modifier dynamiquement le phénotype d'un être vivant parvenu à maturité. On sait aussi qu'une grande partie de la controverse autour de l'« incident Hollow Earth » est liée à ce projet.::<end>
 
 =>a79_original
 ::Back::<end>
@@ -1064,13 +1064,13 @@ Current level: $(context.loc_wa_accessLevel)::<end>
 =>q81
 ::Fichiers Biocorp
 
-Niveau actuel : $(context.loc wa accessLevel)::<end>
+Niveau actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a82_original
 ::Old Biocorp::<end>
 
 =>a82
-::Ancienne biocorp::<end>
+::Old Biocorp::<end>
 
 =>q83_original
 ::When we talk about the "Old Biocorp" we are talking about the ancient organization that created and ruled Underrail for centuries. They've built, maintained and policed the entire Underrail which was, at the time, a unified place where their people lived and worked.
@@ -1078,15 +1078,15 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 Biocorp was governed by three tiers of technocrats. It is unknown whether these were elected or otherwise appointed and how long their mandates lasted. What is known, however, is that the top tier technocrats were known as "Apex Technocrats" and that they held significant executive power.::<end>
 
 =>q83
-::Lorsque nous parlons de la "Vieille Biocorp", nous parlons de l'ancienne organisation qui a créé et gouverné Underrail pendant des siècles. Ils ont construit, entretenu et surveillé tout le sous-rail qui était, à l'époque, un endroit unifié où leurs gens vivaient et travaillaient.
+::Quand on parle d'« Old Biocorp », on désigne l'organisation ancienne qui a créé Underrail et l'a gouverné pendant des siècles. Elle a construit, entretenu et assuré l'ordre dans tout Underrail, qui formait alors un territoire unifié où ses gens vivaient et travaillaient.
 
-Biocorp était régie par trois niveaux de technocrates. On ne sait pas si ces personnes ont été élues ou nommées d'une autre manière et combien de temps leur mandat a duré. Ce qu'on sait, cependant, c'est que les technocrates de premier niveau étaient connus sous le nom de « technocrates Apex » et qu'ils détenaient un pouvoir exécutif important.::<end>
+Biocorp était gouvernée par trois rangs de technocrates. On ignore s'ils étaient élus ou nommés autrement, et quelle était la durée de leurs mandats. Ce que l'on sait, en revanche, c'est que les technocrates du rang supérieur étaient appelés « Apex Technocrats » et qu'ils détenaient un pouvoir exécutif considérable.::<end>
 
 =>q84_original
 ::Biocorp ran numerous research and infrastructure projects in constant effort to improve Underrail, while at the same time pursuing increasingly isolationist attitude towards the outside world. The dangers of the world were deemed too great and the final goals was to make Underrail an environment that is completely self-sustained.::<end>
 
 =>q84
-::Biocorp a mené de nombreux projets de recherche et d'infrastructure dans un effort constant pour améliorer underrail, tout en poursuivant une attitude de plus en plus isolationniste envers le monde extérieur. Les dangers du monde ont été jugés trop grands et les objectifs finals étaient de faire d'Underrail un environnement totalement autonome.::<end>
+::Biocorp a mené de nombreux projets de recherche et d'infrastructure, dans un effort constant pour améliorer Underrail, tout en adoptant une attitude de plus en plus isolationniste vis-à-vis du monde extérieur. Les dangers du monde étaient jugés trop grands. L'objectif final était de faire d'Underrail un environnement entièrement autonome.::<end>
 
 =>q85_original
 ::Somewhere between a hundred fifty to two hundred years ago a revolt within the organization was sparked by what is known as "Hollow Earth incident". The details of why and how this revolt came to be are lacking, but it's likely to be, at least partially, brought about by the fact that Underrail could no longer support the large population that inhabited it. Questions of immoral experimentation and corruption were also raised, but to what degree these played the part in causing the revolution is unknown.
@@ -1094,15 +1094,15 @@ Biocorp était régie par trois niveaux de technocrates. On ne sait pas si ces p
 The Apex Technocrats were displaced from power, though most of them were not apprehended.::<end>
 
 =>q85
-::Quelque part entre cent cinquante et deux cents ans il y a une révolte au sein de l'organisation a été déclenchée par ce que l'on appelle l'incident de la Terre Hollow. Les détails de la raison et de la façon dont cette révolte est venue sont manquants, mais il est probable que ce soit, au moins partiellement, provoqué par le fait qu'Underrail ne pouvait plus soutenir la grande population qui l'habitait. Des questions d'expérimentation immorale et de corruption ont également été soulevées, mais dans quelle mesure elles ont joué le rôle de provoquer la révolution est inconnue.
+::Il y a cent cinquante à deux cents ans, une révolte au sein de l'organisation a été déclenchée par ce qu'on appelle l'« incident Hollow Earth ». On manque de détails sur le pourquoi et le comment, mais il est probable qu'elle ait été, au moins en partie, provoquée par le fait qu'Underrail ne pouvait plus soutenir la population trop nombreuse qui l'habitait. Des questions d'expérimentation immorale et de corruption ont aussi été soulevées, mais on ignore dans quelle mesure elles ont pesé dans le déclenchement de la révolution.
 
-Les technocrates Apex ont été déplacés du pouvoir, mais la plupart d'entre eux n'ont pas été appréhendés.::<end>
+Les Apex Technocrats ont été écartés du pouvoir. La plupart n'ont toutefois pas été arrêtés.::<end>
 
 =>q86_original
 ::Civil wars erupted all over Underrail and Biocorp dissolved into many small factions. Many technocrats, and scientists and engineers in general died in the following years. Biocorp was no more.::<end>
 
 =>q86
-::Des guerres civiles ont éclaté dans tout Underrail et Biocorp s'est dissout dans de nombreuses petites factions. De nombreux technocrates et scientifiques et ingénieurs en général sont morts dans les années suivantes. Biocorp n'était plus.::<end>
+::Des guerres civiles ont éclaté partout en Underrail, et Biocorp s'est dissoute en de nombreuses petites factions. De nombreux technocrates, et plus généralement des scientifiques et des ingénieurs, sont morts dans les années suivantes. Biocorp n'était plus.::<end>
 
 =>a87_original
 ::Back::<end>
@@ -1114,7 +1114,7 @@ Les technocrates Apex ont été déplacés du pouvoir, mais la plupart d'entre e
 ::Reformed Biocorp::<end>
 
 =>a88
-::Biocorp réformé::<end>
+::Reformed Biocorp::<end>
 
 =>q89_original
 ::Almost a hundred years have passed since Biocorp dissolved. Underrail is a chaotic and dangerous place now. Bandits roam the railways in between heavily entrenched sovereign station-states.
@@ -1124,11 +1124,11 @@ A group of scientists and engineers decided to resurrect the venerable Biocorp o
 The new Biocorp was also ruled by a council of technocrats residing in Dis. The order was kept by highly trained Biocorp Security Forces.::<end>
 
 =>q89
-::Presque cent ans se sont écoulés depuis la dissolution de Biocorp. Underrail est un endroit chaotique et dangereux maintenant. Les bandits errent dans les chemins de fer entre des stations-états souverains fortement enracinés.
+::Presque un siècle s'est écoulé depuis la dissolution de Biocorp. Underrail est désormais un lieu chaotique et dangereux. Les bandits écument les voies ferrées, entre des stations-États souveraines fortement retranchées.
 
-Un groupe de scientifiques et d'ingénieurs a décidé de ressusciter la vénérable organisation Biocorp. Ils ont restauré les anciens lieux de pouvoir - Core, Hexagon et Dis.
+Un groupe de scientifiques et d'ingénieurs a décidé de ressusciter la vénérable organisation Biocorp. Ils ont restauré les anciens sièges du pouvoir : Core, Hexagon et Dis.
 
-La nouvelle Biocorp a également été dirigée par un conseil de technocrates résidant à Dis. L'ordre a été tenu par les forces de sécurité de Biocorp hautement entraînées.::<end>
+La nouvelle Biocorp était elle aussi dirigée par un conseil de technocrates siégeant à Dis. L'ordre était maintenu par les Biocorp Security Forces, hautement entraînées.::<end>
 
 =>q90_original
 ::This period of Biocorp history is known as "New Biocorp," "Reformed Biocorp," or "Second Biocorp." It lasted a lot shorter than the Old Biocorp, however. 
@@ -1136,9 +1136,9 @@ La nouvelle Biocorp a également été dirigée par un conseil de technocrates r
 Following the Protectorate's takeover of Dis, the capital of Biocorp, the elements of discontent in the Core City's hierarchy used the opportunity to stage a revolt. This revolt was led by second-in-command of the Core City Security Forces - Archibald Knight, who was later joined in this fight by Rupert Simmons, one of the higher ranking Biocorp technocrats.::<end>
 
 =>q90
-::Cette période de l'histoire de Biocorp est connue comme « Nouvelle Biocorp », « Biocorp réformé », ou « Deuxième Biocorp ». Il a cependant duré beaucoup plus court que l'Ancienne Biocorp.
+::Cette période de l'histoire de Biocorp est connue sous les noms de « New Biocorp », « Reformed Biocorp » ou « Second Biocorp ». Elle a toutefois duré bien moins longtemps qu'Old Biocorp.
 
-Après la prise de contrôle de Dis par le Protectorat, la capitale de Biocorp, les éléments de mécontentement dans la hiérarchie de la ville centrale ont profité de l'occasion pour organiser une révolte. Cette révolte a été menée par le commandant adjoint des Forces de sécurité de la ville centrale - Archibald Knight, qui a plus tard été rejoint dans ce combat par Rupert Simmons, l'un des technocrates de Biocorp de rang supérieur.::<end>
+Après la prise de Dis, capitale de Biocorp, par le Protectorate, les mécontents dans la hiérarchie de Core City ont saisi l'occasion pour déclencher une révolte. Cette révolte était menée par l'adjoint au commandement des Core City Security Forces, Archibald Knight, rejoint ensuite par Rupert Simmons, l'un des technocrates de Biocorp de plus haut rang.::<end>
 
 =>q91_original
 ::Though Protectorate likes to claim that Biocorp's power structure was adapted and integrated into United Stations, everyone within the organization agrees that all the power players of the Reformed Biocorp were either killed or incarcerated or they fled.
@@ -1146,15 +1146,15 @@ Après la prise de contrôle de Dis par le Protectorat, la capitale de Biocorp, 
 This ended the second incarnation of Biocorp.::<end>
 
 =>q91
-::Bien que Protectorate aime prétendre que la structure de puissance de Biocorp a été adaptée et intégrée aux stations unies, tout le monde au sein de l'organisation convient que tous les joueurs de puissance de la Biocorp réformée ont été tués ou incarcérés ou qu'ils ont fui.
+::Même si le Protectorate aime prétendre que la structure de pouvoir de Biocorp a été adaptée et intégrée aux United Stations, tout le monde au sein de l'organisation s'accorde à dire que toutes les têtes de Reformed Biocorp ont été tuées, incarcérées, ou se sont enfuies.
 
-Ceci a mis fin à la deuxième incarnation de Biocorp.::<end>
+Cela a mis fin à la deuxième incarnation de Biocorp.::<end>
 
 =>a92_original
 ::Protectorate Biocorp::<end>
 
 =>a92
-::Protecteur Biocorp::<end>
+::Protectorate Biocorp::<end>
 
 =>q93_original
 ::Today what remains of Second Biocorp is completely under Protectorate's rule. Most of it is concentrated in the city of Dis, which is the capital of United Stations.
@@ -1166,13 +1166,13 @@ Core City is an independent city mostly focused on violent sport entertainment a
 The technocrats are all gone and the organization is ruled by United Stations Minister of Science who, of course, is directly appointed by Protectorate High Commander.::<end>
 
 =>q93
-::Aujourd'hui, ce qui reste de Second Biocorp est entièrement sous la règle du Protectorate. La majeure partie est concentrée dans la ville de Dis, qui est la capitale de United Stations.
+::Aujourd'hui, ce qui reste de Second Biocorp est entièrement sous la coupe du Protectorate. L'essentiel est concentré dans la ville de Dis, capitale des United Stations.
 
-L'hexagone, bien qu'autogéré en grande partie, fait aussi partie des stations unies.
+Hexagon, bien que largement autonome, fait aussi partie des United Stations.
 
-Core City est une ville indépendante principalement axée sur le divertissement sportif violent et le commerce, bien qu'une organisation locale du nom de Coretech ait hérité de certains des installations et projets de Biocorp.
+Core City est une ville indépendante, surtout tournée vers le spectacle sportif violent et le commerce. Une organisation locale, Coretech, a toutefois hérité d'une partie des installations et des projets de Biocorp.
 
-Les technocrates sont tous partis et l'organisation est dirigée par le ministre des Sciences des Stations unies qui, bien sûr, est nommé directement par le haut commandant du Protectorat.::<end>
+Les technocrates ont tous disparu. L'organisation est dirigée par le ministre des Sciences des United Stations, nommé, bien sûr, directement par le High Commander du Protectorate.::<end>
 
 =>a94_original
 ::Back::<end>
@@ -1194,13 +1194,13 @@ Current level: $(context.loc_wa_accessLevel)::<end>
 =>q96
 ::Anomalies
 
-Niveau actuel : $(context.loc wa accessLevel)::<end>
+Niveau actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>a97_original
 ::Siphoner man::<end>
 
 =>a97
-::Siphoner homme::<end>
+::Siphoner man::<end>
 
 =>q98_original
 ::Anomaly name: Siphoner man
@@ -1213,12 +1213,12 @@ Anomaly type: Undiscovered species (potential hybrid)
 -No further information is available.::<end>
 
 =>q98
-::Nom de l'anomalie: Siphoner man
-Type d'anomalie: Espèce non découverte (hybride potentiel)
+::Nom de l'anomalie : Siphoner man
+Type d'anomalie : Espèce non répertoriée (hybride potentiel)
 
-- L'information récemment acquise mentionne l'existence d'un "siphoniste". Plusieurs sources le décrivent vaguement comme une créature bipède, humanoïde, hautement intelligente et selon une source même capable d'utiliser le langage.
+- Des informations récemment obtenues mentionnent l'existence d'un « siphoner man ». Plusieurs sources le décrivent vaguement comme une créature bipède, humanoïde, très intelligente, et selon une source même capable de parler.
 
-- Jusqu'à présent, aucune preuve de son existence n'est disponible, mais le nombre croissant de ces réclamations, bien que provenant de sources peu fiables, ne devrait pas être ignoré ou traité comme un canular jusqu'à ce que plus d'informations puissent être obtenues.
+- Aucune preuve de son existence n'est disponible à ce jour. Le nombre croissant de ces témoignages, même s'ils viennent de sources peu fiables, ne devrait toutefois pas être ignoré ni traité comme un canular, tant qu'on n'en saura pas davantage.
 
 - Aucune autre information n'est disponible.::<end>
 
@@ -1238,7 +1238,7 @@ Type d'anomalie: Espèce non découverte (hybride potentiel)
 ::Use key card::<end>
 
 =>a101
-::Utiliser la carte clé::<end>
+::Utiliser la carte-clé::<end>
 
 =>q102_original
 ::Access Level Control
@@ -1248,7 +1248,7 @@ Current level: $(context.loc_wa_accessLevel)::<end>
 =>q102
 ::Contrôle du niveau d'accès
 
-Niveau actuel : $(context.loc wa accessLevel)::<end>
+Niveau actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>q103_original
 
@@ -1268,7 +1268,7 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Use the key card to increase access to level 1::<end>
 
 =>a105
-::Utilisez la carte clé pour augmenter l'accès au niveau 1::<end>
+::Utiliser la carte-clé pour passer au niveau 1::<end>
 
 =>q106_original
 ::Success.::<end>
@@ -1280,13 +1280,13 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Use the key card to increase access to level 2::<end>
 
 =>a107
-::Utilisez la carte clé pour augmenter l'accès au niveau 2::<end>
+::Utiliser la carte-clé pour passer au niveau 2::<end>
 
 =>a108_original
 ::Use the key card to increase access to level 3::<end>
 
 =>a108
-::Utilisez la carte clé pour augmenter l'accès au niveau 3::<end>
+::Utiliser la carte-clé pour passer au niveau 3::<end>
 
 =>a109_original
 ::Back::<end>
@@ -1308,7 +1308,7 @@ Current level: $(context.loc_wa_accessLevel)::<end>
 =>q111
 ::Contrôle du niveau d'accès
 
-Niveau actuel : $(context.loc wa accessLevel)::<end>
+Niveau actuel : $(context.loc_wa_accessLevel)::<end>
 
 =>q112_original
 
@@ -1328,7 +1328,7 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Hack to increase access to level 1 (50)::<end>
 
 =>a114
-::Hack pour augmenter l'accès au niveau 1 (50)::<end>
+::Hack pour passer au niveau 1 (50)::<end>
 
 =>q115_original
 ::Success.::<end>
@@ -1346,7 +1346,7 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Hack to increase access to level 2 (80)::<end>
 
 =>a117
-::Hack pour augmenter l'accès au niveau 2 (80)::<end>
+::Hack pour passer au niveau 2 (80)::<end>
 
 =>q118_original
 ::Success.::<end>
@@ -1358,7 +1358,7 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Hack to increase access to level 3 (110)::<end>
 
 =>a119
-::Hack pour augmenter l'accès au niveau 3 (110)::<end>
+::Hack pour passer au niveau 3 (110)::<end>
 
 =>q120_original
 ::Success.::<end>
@@ -1376,5 +1376,4 @@ Niveau actuel : $(context.loc wa accessLevel)::<end>
 ::Exit::<end>
 
 =>a122
-::Sortie::<end>
-
+::Quitter::<end>

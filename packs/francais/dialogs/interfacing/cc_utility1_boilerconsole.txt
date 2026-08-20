@@ -6,11 +6,11 @@ All boiling units have exceeded allowed thresholds!
 Emergency protocol is now available. Immediately disengage the heating units!::<end>
 
 =>q1
-::Avertissement, avertissement!!! Refroidissement en piscine - température critique détectée!
+::Attention, attention !!! Bassin de refroidissement - température critique !
 
-Toutes les unités d'ébullition ont dépassé les seuils autorisés !
+Toutes les chaudières ont dépassé les seuils autorisés !
 
-Le protocole d'urgence est maintenant disponible. Désactivez immédiatement les unités de chauffage !::<end>
+Protocole d'urgence disponible. Couper immédiatement les unités de chauffage !::<end>
 
 =>a2_original
 ::Disable all heating units::<end>
@@ -28,19 +28,19 @@ Le protocole d'urgence est maintenant disponible. Désactivez immédiatement les
 ::Go back.::<end>
 
 =>a4
-::Retourner.::<end>
+::Retour::<end>
 
 =>a5_original
 ::Leave.::<end>
 
 =>a5
-::Partir.::<end>
+::Partir::<end>
 
 =>a6_original
 ::Compute cooling statistics::<end>
 
 =>a6
-::Statistiques de refroidissement des calculs::<end>
+::Calculer les statistiques de refroidissement::<end>
 
 =>q7_original
 ::Error, error, error...::<end>
@@ -52,13 +52,13 @@ Le protocole d'urgence est maintenant disponible. Désactivez immédiatement les
 ::Conduct emergency protocol::<end>
 
 =>a8
-::Conduire le protocole d'urgence::<end>
+::Lancer le protocole d'urgence::<end>
 
 =>q9_original
 ::Emergency exit now available, proceed to east and take shelter within the secure room.::<end>
 
 =>q9
-::Sortie de secours maintenant disponible, aller à l'est et prendre refuge dans la pièce sécurisée.::<end>
+::Sortie de secours disponible. Aller à l'est et s'abriter dans la pièce sécurisée.::<end>
 
 =>q10_original
 ::Warning, warning!!! Waterpool cooling - critical temperature detected! 
@@ -66,21 +66,21 @@ Le protocole d'urgence est maintenant disponible. Désactivez immédiatement les
 Head east to the emergency exit and take shelter within the secure room.::<end>
 
 =>q10
-::Avertissement, avertissement!!! Refroidissement en piscine - température critique détectée!
+::Attention, attention !!! Bassin de refroidissement - température critique !
 
-Dirigez-vous vers l'est jusqu'à la sortie de secours et abritez-vous dans la pièce sécurisée.::<end>
+Aller à l'est, vers la sortie de secours. S'abriter dans la pièce sécurisée.::<end>
 
 =>q11_original
 ::The console displays ten distinct heat bars, each showing the current temperature they're operating with. Every boiling unit has its own set of controls, all of which are used to manipulate the amount of heat they can dish out. A separate section of the display shows the water level, as well as the humidity of nearby air.::<end>
 
 =>q11
-::La console affiche dix barres de chaleur distinctes, chacune montrant la température actuelle avec laquelle elles fonctionnent. Chaque unité d'ébullition a son propre ensemble de commandes, qui sont toutes utilisées pour manipuler la quantité de chaleur qu'ils peuvent arroser. Une section séparée de l'écran montre le niveau d'eau, ainsi que l'humidité de l'air à proximité.::<end>
+::La console affiche dix barres de chaleur distinctes, chacune indiquant la température actuelle. Chaque chaudière a ses propres commandes, qui règlent la chaleur dégagée. Une autre partie de l'écran montre le niveau d'eau et l'humidité de l'air ambiant.::<end>
 
 =>a12_original
 ::Adjust cooling/heating levels.::<end>
 
 =>a12
-::Régler les niveaux de refroidissement/chauffage.::<end>
+::Régler les niveaux de refroidissement/chauffage::<end>
 
 =>q13_original
 ::Error, error, error...::
@@ -90,19 +90,19 @@ Dirigez-vous vers l'est jusqu'à la sortie de secours et abritez-vous dans la pi
 =>q13
 ::Erreur, erreur, erreur...::
 
-::Un dépassement manuel est nécessaire.::<end>
+::Intervention manuelle requise.::<end>
 
 =>a14_original
 ::Go back.::<end>
 
 =>a14
-::Retourner.::<end>
+::Retour::<end>
 
 =>a15_original
 ::Compute cooling statistics::<end>
 
 =>a15
-::Statistiques de refroidissement des calculs::<end>
+::Calculer les statistiques de refroidissement::<end>
 
 =>q16_original
 ::Water levels - critical (reserves employed).
@@ -114,13 +114,13 @@ Humidity - very high (over 88%).
 Power consumption - high.::<end>
 
 =>q16
-::Niveaux d'eau critiques (réserves occupées).
+::Niveaux d'eau - critiques (réserves engagées).
 
-Température critique (point d'ébullition supérieur à l'eau).
+Température - critique (au-delà du point d'ébullition de l'eau).
 
 Humidité - très élevée (plus de 88 %).
 
-Consommation d'énergie élevée.::<end>
+Consommation - élevée.::<end>
 
 =>q17_original
 ::Water levels - low (reverves employed).
@@ -132,13 +132,13 @@ Humidity - high (over 65%).
 Power consumption - moderate/high.::<end>
 
 =>q17
-::Niveaux d'eau - faible (reverves employés).
+::Niveaux d'eau - bas (réserves engagées).
 
-Température élevée (au point d'ébullition de l'eau).
+Température - élevée (au point d'ébullition de l'eau).
 
-Humidité élevée (plus de 65%).
+Humidité - élevée (plus de 65 %).
 
-Consommation d'énergie - modérée/élevée.::<end>
+Consommation - modérée/élevée.::<end>
 
 =>q18_original
 ::Water levels - stable (reverves semi-employed).
@@ -150,13 +150,13 @@ Humidity - high (over 41%).
 Power consumption - moderate.::<end>
 
 =>q18
-::Niveaux d'eau - stables (reverves semi-employés).
+::Niveaux d'eau - stables (réserves partiellement engagées).
 
-Température - élevée (point d'ébullition de l'eau).
+Température - élevée (proche du point d'ébullition de l'eau).
 
 Humidité - élevée (plus de 41 %).
 
-Consommation d'énergie - modérée.::<end>
+Consommation - modérée.::<end>
 
 =>q19_original
 ::Water levels - nominal.
@@ -168,23 +168,23 @@ Humidity - nominal.
 Power consumption - minimal.::<end>
 
 =>q19
-::Niveaux d'eau - nominal.
+::Niveaux d'eau - nominaux.
 
-Température nominale.
+Température - nominale.
 
 Humidité - nominale.
 
-Consommation d'énergie - minimale.::<end>
+Consommation - minimale.::<end>
 
 =>a20_original
 ::Detailed Power consumption readings::<end>
 
 =>a20
-::Lectures détaillées de la consommation électrique::<end>
+::Relevés détaillés de consommation::<end>
 
 =>q21_original
 ::The screen flickers for a moment before giving up. The action has failed.::<end>
 
 =>q21
-::L'écran scintille un moment avant d'abandonner. L'action a échoué.::<end>
+::L'écran clignote un instant, puis abandonne. L'action a échoué.::<end>
 

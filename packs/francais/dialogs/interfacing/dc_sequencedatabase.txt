@@ -2,13 +2,13 @@
 ::Mutagen Sequence Database Access Terminal::<end>
 
 =>q1
-::Terminal d'accès à la base de données de séquence mutagène::<end>
+::Terminal d'accès : Mutagen Sequence Database::<end>
 
 =>a2_original
 ::Atomic Sequence Database::<end>
 
 =>a2
-::Base de données des séquences atomiques::<end>
+::Base des séquences atomiques::<end>
 
 =>q3_original
 ::Connecting to HECDB...::<end>
@@ -20,55 +20,55 @@
 ::Error 010 - Connection failed!::<end>
 
 =>q4
-::Erreur 010 - La connexion a échoué !::<end>
+::Erreur 010 : connexion échouée.::<end>
 
 =>a5_original
 ::Access local database::<end>
 
 =>a5
-::Accès à la base de données locale::<end>
+::Accéder à la base locale::<end>
 
 =>q6_original
 ::#&HF030W3rwnRFv#NVR#R)&TV#NR)#TVYN)RV#R0303ur8fjsvndnfrv3wfw33rt49nw3yn7nnnssdf#)@_)#R)Ja___)R#RJ#M*@!R(#HE:SLDPS_@L@_KODGJ<^&^@#?@!_*%(#FDkS"L{KGHqRJG#::<end>
 
 =>q6
-::#&HF030W3rwnRFv#NVR#R)&TV#NR)#TVYN)RV#R0303ur8fjsvndnfrv3wfw33rt49nw3yn7nnnssdf#)@ )#R)Ja   )R#RJ#M*@!R(#HE:SLDPS @L@ KODGJ<^&^@#?@! *%(#FDkS"L{KGHqRJG#::<end>
+::#&HF030W3rwnRFv#NVR#R)&TV#NR)#TVYN)RV#R0303ur8fjsvndnfrv3wfw33rt49nw3yn7nnnssdf#)@_)#R)Ja___)R#RJ#M*@!R(#HE:SLDPS_@L@_KODGJ<^&^@#?@!_*%(#FDkS"L{KGHqRJG#::<end>
 
 =>q7_original
 ::The screen flashes a few times, after which the console shuts down.::<end>
 
 =>q7
-::L'écran clignote quelques fois, après quoi la console s'arrête.::<end>
+::L'écran clignote quelques fois, puis la console s'éteint.::<end>
 
 =>a8_original
 ::Back to main::<end>
 
 =>a8
-::Retour au début::<end>
+::Retour au menu::<end>
 
 =>a9_original
 ::Exit::<end>
 
 =>a9
-::Sortie::<end>
+::Quitter::<end>
 
 =>a10_original
 ::Notes::<end>
 
 =>a10
-::Annexe::<end>
+::Notes::<end>
 
 =>q11_original
 ::Notes::<end>
 
 =>q11
-::Annexe::<end>
+::Notes::<end>
 
 =>a12_original
 ::Using the mutagen scanner::<end>
 
 =>a12
-::Utilisation du scanner mutagène::<end>
+::Utilisation du Mutagen Scanner::<end>
 
 =>q13_original
 ::Mutagen scanning is performed in three steps:
@@ -78,11 +78,11 @@ On the mutagen scanner console, select scan and wait for the process to complete
 After the mutagen has been scanned, its atomic sequence will be displayed on the screen. You should remove the mutagen container after each scanning.::<end>
 
 =>q13
-::La numérisation du mutagène se fait en trois étapes :
+::Le scan du mutagène se fait en trois étapes :
 
-Placez le contenant de mutagène dans la chambre de balayage, en veillant à ce que le couvercle de la chambre soit bien fermé.
-Sur la console du scanner mutagène, sélectionnez scanner et attendez que le processus soit terminé.
-Une fois le mutagène scanné, sa séquence atomique sera affichée à l'écran. Vous devez enlever le contenant mutagène après chaque balayage.::<end>
+Placer le contenant dans la chambre de scan. Vérifier que le couvercle est bien fermé.
+Sur la console du Mutagen Scanner, lancer le scan et attendre la fin du processus.
+Une fois le scan terminé, la séquence atomique s'affiche à l'écran. Retirer le contenant après chaque scan.::<end>
 
 =>q14_original
 ::Points of precaution:
@@ -93,11 +93,11 @@ Make sure that the scanning chamber lid is firmly closed before initiating the s
 ::<end>
 
 =>q14
-::Points de précaution:
+::Précautions :
 
-La chambre mutagène n'acceptera que les mutagènes qui sont solidement scellés dans des récipients HZH ou HXH standard. Ne versez pas de mutagène directement dans la chambre. Ne placez aucun autre objet étranger dans la chambre.
+La chambre n'accepte que les mutagènes scellés dans des contenants HZH ou HXH standard. Ne pas verser de mutagène directement dans la chambre. Aucun autre objet à l'intérieur.
 
-Assurez-vous que le couvercle de la chambre de balayage est fermement fermé avant de commencer le processus de numérisation. Si le couvercle n'est pas fermement fermé ou s'ouvre en raison d'un dysfonctionnement pendant le processus de numérisation, évacuer immédiatement la pièce. Dans de tels cas, le personnel d'assainissement sera envoyé automatiquement.
+Vérifier que le couvercle de la chambre de scan est bien fermé avant de lancer le processus. S'il n'est pas fermé, ou s'il s'ouvre en cours de scan, évacuer la pièce immédiatement. Une équipe de décontamination biologique est alors envoyée automatiquement.
 ::<end>
 
 =>q15_original
@@ -108,15 +108,15 @@ By default, all scanned sequences, as well as time and date stamps, will be auto
 After the scanning process is complete, make sure not to accidentally leave the container inside the scanning chamber.::<end>
 
 =>q15
-::Ne pas agiter ou déplacer de quelque façon que ce soit la chambre de numérisation pendant que le processus de numérisation a lieu.
+::Ne pas agiter ni déplacer la chambre de scan pendant le processus.
 
-Par défaut, toutes les séquences numérisées, ainsi que les timbres d'heure et de date, seront automatiquement ajoutés à la base de données locale et centralisée. La base de données est accessible depuis ce terminal. Assurez-vous que le terminal est correctement connecté à IN ou sinon les séquences atomiques ne seront pas ajoutées dans la base de données.
+Par défaut, toutes les séquences scannées, avec horodatage, sont ajoutées à la base locale et à la base centralisée. La base est accessible depuis ce terminal. Si le terminal n'est pas connecté à IN, les séquences atomiques ne seront pas enregistrées.
 
-Une fois le processus de numérisation terminé, assurez-vous de ne pas laisser accidentellement le conteneur à l'intérieur de la chambre de numérisation.::<end>
+Une fois le scan terminé, ne pas laisser le contenant dans la chambre.::<end>
 
 =>a16_original
 ::Notes::<end>
 
 =>a16
-::Annexe::<end>
+::Notes::<end>
 

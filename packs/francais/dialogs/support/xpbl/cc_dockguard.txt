@@ -2,7 +2,7 @@
 Did you speak with Chief Briggs?<end>
 
 =>q1
-Avez-vous parlé au chef Briggs ?<end>
+Vous avez parlé au chef Briggs ?<end>
 
 =>q2_original
 ::The guard stops you. You notice a badge on his chest - an orange and black shield, the colors being vertically divided at the center. At the bottom it reads: "Aegis."::
@@ -10,9 +10,9 @@ Avez-vous parlé au chef Briggs ?<end>
 Restricted area, $(#sir/ma'am). State your business.<end>
 
 =>q2
-::Le garde t'arrête. Vous remarquez un insigne sur sa poitrine - un bouclier orange et noir, les couleurs étant divisées verticalement au centre. En bas, il se lit : "Aegis."::
+::Le garde vous arrête. Vous remarquez un insigne sur sa poitrine : un bouclier orange et noir, fendu à la verticale. En bas, on lit : « Aegis. »::
 
-Zone restreinte, $(#monsieur/madame). Dis ce que tu fais.<end>
+Zone restreinte, $(#monsieur/madame). Dites ce que vous venez faire.<end>
 
 =>q3_original
 <end>
@@ -24,13 +24,13 @@ Zone restreinte, $(#monsieur/madame). Dis ce que tu fais.<end>
 I guess I am looking for work after all.<end>
 
 =>a4
-Je suppose que je cherche du travail après tout.<end>
+Je cherche du travail, finalement.<end>
 
 =>q5_original
 Good. Do you have any combat experience?<end>
 
 =>q5
-Parfait. Avez-vous une expérience de combat ?<end>
+Parfait. Avez-vous de l'expérience au combat ?<end>
 
 =>q6_original
 <end>
@@ -42,19 +42,19 @@ Parfait. Avez-vous une expérience de combat ?<end>
 Hell yeah. These hands keep getting covered in blood and I can't seem to find a way to get them clean.<end>
 
 =>a7
-Oui. Ces mains sont toujours couvertes de sang et je n'arrive pas à les nettoyer.<end>
+Carrément. Ces mains se recouvrent de sang, et je n'arrive plus à les décrasser.<end>
 
 =>q8_original
 ::The guard nods.:: <end>
 
 =>q8
-::Le gardien hoche la tête.:: <end>
+::Le garde hoche la tête.:: <end>
 
 =>q9_original
 We are Aegis Incorporated, a security company from North Underrail. We've been hired to protect scientific personnel during an important expedition to the Black Sea.<end>
 
 =>q9
-Nous sommes Aegis Incorporated, une société de sécurité de North Underrail. Nous avons été embauchés pour protéger le personnel scientifique lors d'une importante expédition au Black Sea.<end>
+Nous sommes Aegis Incorporated, une société de sécurité de North Underrail. Nous avons été engagés pour protéger le personnel scientifique lors d'une expédition importante vers la Black Sea.<end>
 
 =>q10_original
 We need highly skilled and competent individuals with sufficient combat experience. Background in personal protection, station security or similar is highly desirable but not strictly necessary. If you are capable of effectively operating alone or as part of a small, specialized team, that will greatly improve your chances of being hired. I think it is needless to say that this line of work entails great danger, but in turn know that the monetary compensation we offer will be quite appropriate.
@@ -62,9 +62,9 @@ We need highly skilled and competent individuals with sufficient combat experien
 How does all of this sound to you? Do you think you meet these requirements?<end>
 
 =>q10
-Nous avons besoin d'individus hautement qualifiés et compétents ayant une expérience de combat suffisante. Les antécédents en matière de protection personnelle, de sécurité de la station ou d'autres éléments similaires sont hautement souhaitables, mais pas strictement nécessaires. Si vous êtes capable de fonctionner efficacement seul ou dans le cadre d'une petite équipe spécialisée, cela améliorera grandement vos chances d'être embauché. Je pense qu'il est inutile de dire que cette ligne de travail comporte un grand danger, mais que la compensation monétaire que nous offrons sera tout à fait appropriée.
+Nous cherchons des profils compétents, avec une expérience du combat suffisante. Un passé en protection rapprochée, en sécurité de station ou l'équivalent est un plus, mais pas obligatoire. Si vous savez opérer efficacement seul ou au sein d'une petite équipe spécialisée, vos chances d'être engagé montent nettement. Inutile de préciser que le métier est dangereux. En contrepartie, la rémunération sera à la hauteur.
 
-Qu'est-ce que tout ça te semble ? Tu crois que tu réponds à ces exigences ?<end>
+Qu'est-ce que vous en dites ? Vous pensez remplir ces conditions ?<end>
 
 =>q11_original
 <end>
@@ -76,7 +76,7 @@ Qu'est-ce que tout ça te semble ? Tu crois que tu réponds à ces exigences ?<e
 I've spent my life staring down danger until it dragged itself away into the hole it crawled out of. So yeah, I'm your $(#guy/girl).<end>
 
 =>a12
-J'ai passé ma vie à regarder le danger jusqu'à ce qu'il se traîne dans le trou qu'il a rampé. Donc oui, je suis votre $(#gars/fille).<end>
+J'ai passé ma vie à regarder le danger dans les yeux jusqu'à ce qu'il rentre dans le trou d'où il est sorti. Alors oui, je suis votre $(#gars/fille).<end>
 
 =>q13_original
 Good. Proceed down this ramp and talk with Chief Briggs. 
@@ -86,17 +86,17 @@ Do *not* wander around the dock.
 If you interfere with anyone's work, you will be promptly removed.<end>
 
 =>q13
-Parfait. Remontez cette rampe et parlez avec le chef Briggs.
+Parfait. Descendez cette rampe et allez parler au chef Briggs.
 
-Ne errez pas autour du quai.
+N'errez *pas* sur le quai.
 
-Si vous interférez avec le travail de quelqu'un, vous serez rapidement retiré.<end>
+Si vous gênez le travail de quiconque, on vous évacuera sur-le-champ.<end>
 
 =>a14_original
 How will I recognize him?<end>
 
 =>a14
-Comment le reconnaîtrai-je ?<end>
+Comment je le reconnais ?<end>
 
 =>q15_original
 Easily. 
@@ -106,7 +106,7 @@ Easily.
 =>q15
 Facilement.
 
-::Il s'écarte.:: Vous pouvez procéder, $(#monsieur/madame).<end>
+::Il s'écarte.:: Vous pouvez passer, $(#monsieur/madame).<end>
 
 =>a16_original
 Understood. I'll go speak with him.<end>
@@ -130,25 +130,25 @@ Merci.<end>
 ::Nod and leave.::<end>
 
 =>a19
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>q20_original
 ::He nods as well.::<end>
 
 =>q20
-::Il hoche aussi.::<end>
+::Il hoche la tête, lui aussi.::<end>
 
 =>a21_original
 Yes. Where do I apply?<end>
 
 =>a21
-Oui. Où puis-je postuler?<end>
+Oui. Où est-ce que je postule ?<end>
 
 =>a22_original
 ::Shrug your shoulders.:: I suppose. Who do I see next?<end>
 
 =>a22
-::Écrase tes épaules.:: Je suppose. Qui je vois ensuite ?<end>
+::Hausser les épaules.:: Je suppose. Qui je vois ensuite ?<end>
 
 =>a23_original
 I was told you are also looking for laborers and technicians.<end>
@@ -160,49 +160,49 @@ On m'a dit que vous cherchiez aussi des ouvriers et des techniciens.<end>
 We were, but we've filled our quota in the meantime. Right now we are only looking for security personnel.<end>
 
 =>q24
-Nous l'étions, mais nous avons rempli notre quota en attendant. En ce moment, nous cherchons seulement du personnel de sécurité.<end>
+C'était le cas, mais nous avons depuis atteint notre quota. Pour l'instant, nous ne cherchons plus que du personnel de sécurité.<end>
 
 =>q25_original
 So, do you think you meet the requirements?<end>
 
 =>q25
-Tu crois que tu réponds aux exigences ?<end>
+Vous pensez remplir les conditions ?<end>
 
 =>q26_original
 Speaking of which, again, do you have any combat experience?<end>
 
 =>q26
-En parlant de quoi, encore une fois, avez-vous une expérience de combat?<end>
+À ce propos, encore une fois : avez-vous de l'expérience au combat ?<end>
 
 =>a27_original
 Actually, I don't know much about the Black Sea, so it's not quite needless to say that it is dangerous. What is out there?<end>
 
 =>a27
-En fait, je ne sais pas grand chose du Black Sea, donc ce n'est pas inutile de dire que c'est dangereux. Qu'est-ce qu'il y a dehors ?<end>
+En fait, je ne connais pas grand-chose à la Black Sea, alors ce n'est pas si inutile de préciser que c'est dangereux. Qu'est-ce qu'il y a là-bas ?<end>
 
 =>q28_original
 Mostly pirates and wildlife, as well as other hostile and potentially hostile inhabitants. We have to be ready for anything we might encounter there. That is why we need the best candidates we can find.<end>
 
 =>q28
-La plupart des pirates et des animaux sauvages, ainsi que d'autres habitants hostiles et potentiellement hostiles. Nous devons être prêts à tout ce que nous pourrions y rencontrer. C'est pourquoi nous avons besoin des meilleurs candidats que nous puissions trouver.<end>
+Surtout des pirates et de la faune, ainsi que d'autres habitants hostiles, ou potentiellement hostiles. Nous devons être prêts à tout ce que nous pourrions y trouver. C'est pour cela que nous voulons les meilleurs candidats.<end>
 
 =>a29_original
 How much money is "quite appropriate"?<end>
 
 =>a29
-Combien d'argent est « tout à fait approprié »?<end>
+C'est combien, « à la hauteur » ?<end>
 
 =>q30_original
 I am not at liberty to say that either.<end>
 
 =>q30
-Je ne suis pas libre de dire ça non plus.<end>
+Je ne suis pas habilité à vous le dire non plus.<end>
 
 =>q31_original
 I am not at liberty to say that to you.<end>
 
 =>q31
-Je ne suis pas libre de vous le dire.<end>
+Je ne suis pas habilité à vous le dire.<end>
 
 =>a32_original
 What are you looking for there?<end>
@@ -214,7 +214,7 @@ Que cherchez-vous là-bas ?<end>
 Nah, this isn't for me. Thank you for your time.<end>
 
 =>a33
-Ce n'est pas pour moi. Merci pour votre temps.<end>
+Ce n'est pas pour moi. Merci de votre temps.<end>
 
 =>q34_original
 ::He nods.:: <end>
@@ -226,25 +226,25 @@ Ce n'est pas pour moi. Merci pour votre temps.<end>
 Move along then.<end>
 
 =>q35
-Allez-y.<end>
+Circulez, alors.<end>
 
 =>a36_original
 Yes. I've done a lot of fighting.<end>
 
 =>a36
-Oui. J'ai fait beaucoup de combats.<end>
+Oui. J'ai beaucoup combattu.<end>
 
 =>a37_original
 I've seen my fair share of combat, yes.<end>
 
 =>a37
-J'ai vu ma part de combat, oui.<end>
+J'ai eu ma part de combat, oui.<end>
 
 =>a38_original
 Killing is my business... and business is good.<end>
 
 =>a38
-Tuer est mon affaire... et le business est bon.<end>
+Tuer, c'est mon affaire... et les affaires marchent.<end>
 
 =>a39_original
 Yeah, of course I do. I wouldn't be here otherwise.<end>
@@ -296,7 +296,7 @@ Pas vraiment.<end>
 I was told you are going on an expedition to the Black Sea and needed some extra hands.<end>
 
 =>a46
-On m'a dit que vous alliez en expédition au Black Sea et que vous aviez besoin de mains supplémentaires.<end>
+On m'a dit que vous partiez en expédition vers la Black Sea et que vous aviez besoin de bras.<end>
 
 =>q47_original
 ::He nods.::
@@ -306,13 +306,13 @@ You heard right. Do you have any combat experience?<end>
 =>q47
 ::Il acquiesce.::
 
-Vous avez bien entendu. Avez-vous une expérience de combat ?<end>
+Vous avez bien entendu. Avez-vous de l'expérience au combat ?<end>
 
 =>a48_original
 I heard there was some work to be had here, but I didn't catch what it's about, really.<end>
 
 =>a48
-J'ai entendu dire qu'il y avait du travail à faire ici, mais je n'ai pas compris de quoi il s'agissait, vraiment.<end>
+J'ai entendu qu'il y avait du travail ici, mais je n'ai pas trop compris de quoi il s'agissait.<end>
 
 =>a49_original
 Just passing by.<end>
@@ -324,7 +324,7 @@ Juste en passant.<end>
 You're back.<end>
 
 =>q50
-Tu es de retour.<end>
+Vous revoilà.<end>
 
 =>q51_original
 <end>
@@ -336,7 +336,7 @@ Tu es de retour.<end>
 Actually, I want to join the expedition. I think I can handle anything the Black Sea can throw at me.<end>
 
 =>a52
-En fait, je veux rejoindre l'expédition. Je pense pouvoir gérer tout ce que le Black Sea peut me lancer.<end>
+En fait, je veux rejoindre l'expédition. Je pense encaisser tout ce que la Black Sea peut m'envoyer.<end>
 
 =>a53_original
 I gotta go.<end>

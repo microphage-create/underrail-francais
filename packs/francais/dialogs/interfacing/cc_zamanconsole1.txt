@@ -8,8 +8,8 @@ Canceling update::<end>
 
 =>q1
 ::Console APB - Biocorp Core Electronics
-Version Firmware - 1.23
-Recherche de version plus récente...
+Version firmware - 1.23
+Recherche d'une version plus récente...
 
 Erreur 35 : aucune connexion
 Annulation de la mise à jour::<end>
@@ -24,7 +24,7 @@ Annulation de la mise à jour::<end>
 ::Activate backup power system::<end>
 
 =>a3
-::Activer le système de secours::<end>
+::Activer l'alimentation de secours::<end>
 
 =>q4_original
 ::Activating backup power system...
@@ -32,9 +32,9 @@ Annulation de la mise à jour::<end>
 Error 5: Unable to activate backup power system. Please contact your power supply administrator.::<end>
 
 =>q4
-::Activer le système de secours...
+::Activation de l'alimentation de secours...
 
-Erreur 5 : Impossible d'activer le système d'alimentation de secours. Veuillez contacter votre administrateur d'alimentation.::<end>
+Erreur 5 : impossible d'activer l'alimentation de secours. Contacter l'administrateur de l'alimentation électrique.::<end>
 
 =>a5_original
 ::Back::<end>
@@ -46,7 +46,7 @@ Erreur 5 : Impossible d'activer le système d'alimentation de secours. Veuillez 
 ::Activate emergency gate release::<end>
 
 =>a6
-::Activer le déverrouillage de la porte d'urgence::<end>
+::Activer le déverrouillage d'urgence des portes::<end>
 
 =>q7_original
 ::Activating emergency gate release...
@@ -58,13 +58,13 @@ Security Gate 2: Succesfully opened
 Security Gate 3: Succesfully opened::<end>
 
 =>q7
-::Activer la sortie de la porte d'urgence...
+::Activation du déverrouillage d'urgence...
 
-Échec. Erreur inconnue
-Medical Bay Gate: Ouverture réussie
-Portail de sécurité 1 : Ouverture réussie
-Porte de sécurité 2 : Ouverture réussie
-Porte de sécurité 3 : Ouverture réussie::<end>
+Porte principale : échec. Erreur inconnue
+Porte de l'infirmerie : ouverture réussie
+Porte de sécurité 1 : ouverture réussie
+Porte de sécurité 2 : ouverture réussie
+Porte de sécurité 3 : ouverture réussie::<end>
 
 =>q8_original
 <end>
@@ -82,7 +82,7 @@ Porte de sécurité 3 : Ouverture réussie::<end>
 ::Exit::<end>
 
 =>a10
-::Sortie::<end>
+::Quitter::<end>
 
 =>q11_original
 <end>
@@ -94,5 +94,5 @@ Porte de sécurité 3 : Ouverture réussie::<end>
 ::Exit::<end>
 
 =>a12
-::Sortie::<end>
+::Quitter::<end>
 

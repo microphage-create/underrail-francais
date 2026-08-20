@@ -8,7 +8,7 @@ Hydrothermal generator output: <2MW
 =>q1
 ::LEMCO LPSU-I4-LC387
 
-Puissance du générateur hydrothermal: <2MW
+Puissance générateur hydrothermal : <2MW
 
 ::<end>
 
@@ -20,9 +20,9 @@ Puissance du générateur hydrothermal: <2MW
 ::<end>
 
 =>q2
-::Puissance de sortie de l'unité de sous-station:
-Unité 1 - Sur (1MW)
-Unité 2 - Arrêt
+::Puissance sous-station :
+                Unité 1 - Marche (1MW)
+                Unité 2 - Arrêt
 
 ::<end>
 
@@ -32,9 +32,9 @@ Unité 2 - Arrêt
 Power routing protocol: Auto::<end>
 
 =>q3
-::Production totale: 1,5 MW
+::Puissance totale : 1.5 MW
 
-Protocole de routage de puissance : Auto::<end>
+Protocole d'acheminement : Auto::<end>
 
 =>q4_original
 <end>
@@ -46,13 +46,13 @@ Protocole de routage de puissance : Auto::<end>
 ::[Electronics] Attempt to boost this unit's power output.::<end>
 
 =>a5
-::[Electronics] Essayez d'augmenter la puissance de cette unité.::<end>
+::[Electronics] Tenter d'augmenter la puissance de cette unité::<end>
 
 =>q6_original
 ::You see a single panel at the front of the unit you can open, as the outer casing is made of actual stone and cannot possibly be handled by a single person. You open the panel and inspect what is inside.::<end>
 
 =>q6
-::Vous voyez un seul panneau à l'avant de l'unité que vous pouvez ouvrir, car le boîtier extérieur est fait de pierre réelle et ne peut pas être manipulé par une seule personne. Vous ouvrez le panneau et inspectez ce qui est à l'intérieur.::<end>
+::Vous voyez un seul panneau à l'avant de l'unité, que vous pouvez ouvrir : le boîtier extérieur est en vraie pierre, impossible à déplacer tout seul. Vous ouvrez le panneau et inspectez l'intérieur.::<end>
 
 =>q7_original
 ::There is no way for you to reach the generator core, as that would require the casing to be removed, but despite that you soon figure out a way to get more power out of this unit - by cannibalizing the unit next to it for replacement parts. You turn the power off so that you may work safely; the lights turn dim, but even in semi-darkness you are able to accomplish your task. 
@@ -60,15 +60,15 @@ Protocole de routage de puissance : Auto::<end>
 You immediately feel the extra power after turning the unit back on.::<end>
 
 =>q7
-::Il n'y a aucun moyen pour vous d'atteindre le noyau du générateur, car cela nécessiterait l'enlèvement du boîtier, mais malgré cela vous trouverez bientôt un moyen d'obtenir plus de puissance hors de cette unité - en cannibalisant l'unité à côté de lui pour les pièces de rechange. Vous éteignez l'alimentation pour que vous puissiez travailler en toute sécurité; les lumières s'éteignent, mais même en semi-obscurité vous êtes capable d'accomplir votre tâche.
+::Pas moyen d'atteindre le cœur du générateur : il faudrait retirer le boîtier. Malgré ça, vous trouvez vite comment tirer plus de puissance de cette unité : cannibaliser celle d'à côté pour les pièces. Vous coupez le courant pour travailler sans risque ; les lumières baissent, mais même dans la pénombre vous terminez le travail.
 
-Vous sentez immédiatement la puissance supplémentaire après avoir remis l'appareil en marche.::<end>
+Dès que vous rallumez l'unité, vous sentez le surplus de puissance.::<end>
 
 =>q8_original
 ::There is not much you can do here, unfortunately, for what you see before you is a puzzle far too complex for you to solve and far too dangerous to even try. You close the front panel and wipe the grime off your hands.::<end>
 
 =>q8
-::Il n'y a pas grand-chose que vous pouvez faire ici, malheureusement, pour ce que vous voyez avant vous est un puzzle beaucoup trop complexe pour vous résoudre et beaucoup trop dangereux pour même essayer. Fermez le panneau avant et essuyez la crasse de vos mains.::<end>
+::Il n'y a malheureusement pas grand-chose à faire ici : ce que vous avez sous les yeux est un casse-tête trop complexe à résoudre, et trop dangereux pour seulement essayer. Vous refermez le panneau avant et vous essuyez la crasse de vos mains.::<end>
 
 =>a9_original
 ::Leave::<end>
@@ -84,9 +84,9 @@ Vous sentez immédiatement la puissance supplémentaire après avoir remis l'app
 ::<end>
 
 =>q10
-::Puissance de sortie de l'unité de sous-station:
-Unité 1 - Sur (valeur maximale de 320 kW)
-Unité 2 - Arrêt
+::Puissance sous-station :
+                 Unité 1 - Marche (320 kW crête)
+                 Unité 2 - Arrêt
 
 ::<end>
 
@@ -96,7 +96,6 @@ Unité 2 - Arrêt
 Power routing protocol: Auto::<end>
 
 =>q11
-::Produit total : <1MW
+::Puissance totale : <1MW
 
-Protocole de routage de puissance : Auto::<end>
-
+Protocole d'acheminement : Auto::<end>

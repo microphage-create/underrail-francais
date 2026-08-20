@@ -5,28 +5,28 @@ Hazardous waste disposal control
 Lockdown mode initiated. Please enter security code to proceed.<end>
 
 =>q1
-:: Station d ' utilité 7 - Terminal 6
-Contrôle de l'élimination des déchets dangereux
+::Utility Station 7 - Terminal 6
+Contrôle de l'évacuation des déchets dangereux
 
-Mode de verrouillage initié. Veuillez entrer le code de sécurité pour procéder.<end>
+Mode verrouillage activé. Saisir le code de sécurité pour continuer.<end>
 
 =>a2_original
 ::Type something random::<end>
 
 =>a2
-::Tapez quelque chose au hasard::<end>
+::Taper n'importe quoi::<end>
 
 =>q3_original
 ::Invalid security code::<end>
 
 =>q3
-::Code de sécurité non valide::<end>
+::Code de sécurité invalide::<end>
 
 =>a4_original
 ::Exit::<end>
 
 =>a4
-::Sortie::<end>
+::Quitter::<end>
 
 =>q5_original
 ::Utility Station 7 - Terminal 6
@@ -36,11 +36,11 @@ Checking status...
 1 procedure(s) initialized::<end>
 
 =>q5
-::Station 7 - Terminal 6
-Contrôle de l'élimination des déchets dangereux
+::Utility Station 7 - Terminal 6
+Contrôle de l'évacuation des déchets dangereux
 
 Vérification de l'état...
-1 procédure(s) initiale(s)::<end>
+1 procédure(s) lancée(s)::<end>
 
 =>q6_original
 <end>
@@ -52,7 +52,7 @@ Vérification de l'état...
 ::Initiate toxic gas disposal procedure::<end>
 
 =>a7
-::Lancer la procédure d'élimination des gaz toxiques::<end>
+::Lancer l'évacuation des gaz toxiques::<end>
 
 =>q8_original
 ::Initiating procedure...
@@ -64,19 +64,19 @@ Dangerous breach in section C-3 of Pipeline 2 detected!
 Gas disposal procedure aborted due to safety risks.::<end>
 
 =>q8
-::Procédure d'ouverture...
-Évaluation de l'intégrité du pipeline 1...
-Évaluation de l'intégrité du pipeline 2...
+::Lancement de la procédure...
+Vérification de l'intégrité de la conduite 1... OK
+Vérification de l'intégrité de la conduite 2...
 
-Avertissement - L'évaluation de l'intégrité du pipeline 2 a échoué!
-Une brèche dangereuse dans la section C-3 du pipeline 2 a été détectée !
-Procédure d'élimination des gaz interrompue en raison de risques pour la sécurité.::<end>
+Avertissement - Échec de la vérification d'intégrité de la conduite 2 !
+Brèche dangereuse détectée, section C-3 de la conduite 2 !
+Évacuation des gaz interrompue : risques pour la sécurité.::<end>
 
 =>a9_original
 ::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
 
 =>a9
-::Effectuer un remplacement et initialiser la procédure d'élimination des gaz toxiques.::<end>
+::[Hacking] Forcer le système et lancer l'évacuation des gaz toxiques::<end>
 
 =>q10_original
 ::Initializing toxic gas disposal procedure...
@@ -88,13 +88,13 @@ Warning - gas leak detected!
 Chamber lockdown initiated!::<end>
 
 =>q10
-::Initialiser la procédure d'élimination des gaz toxiques...
+::Lancement de l'évacuation des gaz toxiques...
 
-Procédure initialisée avec succès.
+Procédure lancée.
 
-Avertissement - fuite de gaz détectée!
+Avertissement - fuite de gaz détectée !
 
-Verrouillage de la chambre initié !::<end>
+Verrouillage de la chambre activé !::<end>
 
 =>q11_original
 ::Unauthorized access blocked!
@@ -104,13 +104,13 @@ Initiating terminal 6 lockdown and sending notification to Utility Station 7 sec
 =>q11
 ::Accès non autorisé bloqué !
 
-Ouverture du terminal 6 et envoi de la notification à la station de services publics 7. Restez où vous êtes jusqu'à l'arrivée des agents de sécurité.::<end>
+Verrouillage du terminal 6 et notification à la sécurité d'Utility Station 7. Restez où vous êtes jusqu'à l'arrivée des agents de sécurité.::<end>
 
 =>a12_original
 ::Back.::<end>
 
 =>a12
-::En arrière.::<end>
+::Retour::<end>
 
 =>q13_original
 ::Utility Station 7 - Terminal 6
@@ -120,11 +120,11 @@ Checking status...
 Waste disposal system is on standby - no procedures in place::<end>
 
 =>q13
-::Station 7 - Terminal 6
-Contrôle de l'élimination des déchets dangereux
+::Utility Station 7 - Terminal 6
+Contrôle de l'évacuation des déchets dangereux
 
 Vérification de l'état...
-Système d'élimination des déchets en attente - pas de procédures en place::<end>
+Système d'évacuation des déchets en attente - aucune procédure en cours::<end>
 
 =>a14_original
 ::Unlock chamber::<end>
@@ -136,19 +136,19 @@ Système d'élimination des déchets en attente - pas de procédures en place::<
 ::Chamber unlocked successfully::<end>
 
 =>q15
-::Chambre déverrouillée avec succès::<end>
+::Chambre déverrouillée::<end>
 
 =>a16_original
 ::Toggle emergency shutters::<end>
 
 =>a16
-::Basculer les volets de secours::<end>
+::Actionner les volets d'urgence::<end>
 
 =>a17_original
 ::Toggle emergency shutters::<end>
 
 =>a17
-::Basculer les volets de secours::<end>
+::Actionner les volets d'urgence::<end>
 
 =>q18_original
 ::Warning - unable to lower emergency shutters!
@@ -156,7 +156,7 @@ Système d'élimination des déchets en attente - pas de procédures en place::<
 ::<end>
 
 =>q18
-::Avertissement - incapable de baisser les volets de secours!
+::Avertissement - impossible d'abaisser les volets d'urgence !
 
 ::<end>
 
@@ -166,7 +166,6 @@ Système d'élimination des déchets en attente - pas de procédures en place::<
 Please wait...::<end>
 
 =>q19
-::Envoyer un avis à la maintenance.
+::Envoi d'une notification à la maintenance.
 
-Attendez...::<end>
-
+Patientez...::<end>

@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::
@@ -18,19 +18,19 @@
 ::Please select one of the following options: ::<end>
 
 =>q3
-::Veuillez sélectionner l'une des options suivantes :::<end>
+::Choisir une option : ::<end>
 
 =>a4_original
 ::Toggle vault 1 gate::<end>
 
 =>a4
-::Basculer la porte du coffre-fort 1::<end>
+::Ouvrir/fermer la porte du vault 1::<end>
 
 =>a5_original
 ::Toggle vault 2 gate::<end>
 
 =>a5
-::Basculer la porte du coffre-fort 2::<end>
+::Ouvrir/fermer la porte du vault 2::<end>
 
 =>q6_original
 ::Error - mechanical malfunction detected. Unable to open gate. 
@@ -40,35 +40,35 @@ Logging and dispatching technical support...
 In case of emergency, please seek a strongman's help in order to gain access to vault 2.::<end>
 
 =>q6
-::Erreur - dysfonctionnement mécanique détecté. Impossible d'ouvrir le portail. 
+::Erreur : dysfonctionnement mécanique détecté. Impossible d'ouvrir la porte.
 
-Enregistrement et envoi du support technique...
+Journalisation et envoi du support technique...
 
-En cas d'urgence, veuillez demander l'aide d'un homme fort afin d'accéder au coffre-fort 2.::<end>
+En cas d'urgence, demander l'aide d'un strongman pour accéder au vault 2.::<end>
 
 =>a7_original
 ::Toggle elevator access gate::<end>
 
 =>a7
-::Basculer la porte d'accès à l'ascenseur::<end>
+::Ouvrir/fermer la porte d'accès à l'ascenseur::<end>
 
 =>a8_original
 ::Summon available strongman::<end>
 
 =>a8
-::Invoquer un homme fort disponible::<end>
+::Appeler un strongman disponible::<end>
 
 =>q9_original
 ::An available strongman has been summoned. Please wait.::<end>
 
 =>q9
-::Un homme fort disponible a été invoqué. S'il vous plaît, attendez.::<end>
+::Un strongman disponible a été appelé. Patientez.::<end>
 
 =>a10_original
 ::Exit::<end>
 
 =>a10
-::Sortie::<end>
+::Quitter::<end>
 
 =>q11_original
 ::Welcome, guest::
@@ -79,4 +79,3 @@ En cas d'urgence, veuillez demander l'aide d'un homme fort afin d'accéder au co
 ::Bienvenue, invité::
 
 <end>
-

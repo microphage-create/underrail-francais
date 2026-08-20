@@ -9,16 +9,16 @@
 =>q1
 ::Séance en cours.::
 
-::Total des captures : $(context. Prise de vueRangeConsoleData.TotalShots)::
-::Affichages : $(context. Tirer sur RangeConsoleData. Hits) ($(context.ShootingRangeConsoleData. Pourcentage)::
-::Mlle : $(context. ShootingRangeConsoleData.Misses) ($ (context. TournageRangeConsoleData.MissesPourcentage)%)::
-::Dommages moyens : $(context. TournageRangeConsoleData.MoyenneDamage)::<end>
+::Tirs : $(context.ShootingRangeConsoleData.TotalShots)::
+::Touches : $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Ratés : $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Dégâts moyens : $(context.ShootingRangeConsoleData.AverageDamage)::<end>
 
 =>a2_original
 ::End session::<end>
 
 =>a2
-::Fin de la session::<end>
+::Terminer la séance::<end>
 
 =>q3_original
 ::Session ended. Final statistics: ::
@@ -29,12 +29,12 @@
 ::Average damage: $(context.ShootingRangeConsoleData.AverageDamage)::<end>
 
 =>q3
-::La séance est terminée. Statistiques finales:::
+::Séance terminée. Statistiques finales : ::
 
-::Total des captures : $(context. Prise de vueRangeConsoleData.TotalShots)::
-::Affichages : $(context. Tirer sur RangeConsoleData. Hits) ($(context.ShootingRangeConsoleData. Pourcentage)::
-::Mlle : $(context. ShootingRangeConsoleData.Misses) ($ (context. TournageRangeConsoleData.MissesPourcentage)%)::
-::Dommages moyens : $(context. TournageRangeConsoleData.MoyenneDamage)::<end>
+::Tirs : $(context.ShootingRangeConsoleData.TotalShots)::
+::Touches : $(context.ShootingRangeConsoleData.Hits) ($(context.ShootingRangeConsoleData.HitsPercentage)%)::
+::Ratés : $(context.ShootingRangeConsoleData.Misses) ($(context.ShootingRangeConsoleData.MissesPercentage)%)::
+::Dégâts moyens : $(context.ShootingRangeConsoleData.AverageDamage)::<end>
 
 =>q4_original
 <end>
@@ -46,7 +46,7 @@
 ::Continue session::<end>
 
 =>a5
-::Session suivante::<end>
+::Continuer la séance::<end>
 
 =>q6_original
 ::Welcome to the Shooting Range. 
@@ -54,7 +54,7 @@
 What do you wish to do?::<end>
 
 =>q6
-::Bienvenue au champ de tir.
+::Bienvenue au stand de tir.
 
 Que voulez-vous faire ?::<end>
 
@@ -62,13 +62,13 @@ Que voulez-vous faire ?::<end>
 ::Configure target distance::<end>
 
 =>a7
-::Configurer la distance cible::<end>
+::Régler la distance des cibles::<end>
 
 =>q8_original
 ::Choose target distance.::<end>
 
 =>q8
-::Choisissez la distance cible.::<end>
+::Choisir la distance des cibles.::<end>
 
 =>a9_original
 ::5 meters::<end>
@@ -92,23 +92,22 @@ Que voulez-vous faire ?::<end>
 ::Leave it as it is::<end>
 
 =>a12
-::Laisse-le comme il est::<end>
+::Laisser tel quel::<end>
 
 =>a13_original
 ::Start new session::<end>
 
 =>a13
-::Démarrer une nouvelle session::<end>
+::Lancer une nouvelle séance::<end>
 
 =>q14_original
 Session started.<end>
 
 =>q14
-La séance a commencé.<end>
+Séance lancée.<end>
 
 =>a15_original
 ::Leave::<end>
 
 =>a15
 ::Partir::<end>
-

@@ -2,7 +2,7 @@
 ::Welcome to Joint Security Headquarters, ::<end>
 
 =>q1
-::Bienvenue au quartier général de la sécurité,::<end>
+::Bienvenue à Joint Security Headquarters, ::<end>
 
 =>q2_original
 ::P. Bridges::<end>
@@ -14,13 +14,13 @@
 ::Exit::<end>
 
 =>a3
-::Sortie::<end>
+::Quitter::<end>
 
 =>q4_original
 ::guest::<end>
 
 =>q4
-::invité::<end>
+::guest::<end>
 
 =>q5_original
 ::Welcome to Joint Security Headquarters.
@@ -28,9 +28,9 @@
 The facility is under full lockdown. Minimum clearance level required to gain access is C-4.::<end>
 
 =>q5
-::Bienvenue au quartier général de la sécurité.
+::Bienvenue à Joint Security Headquarters.
 
-L'installation est complètement fermée. Le niveau d'autorisation minimal requis pour accéder est C-4.::<end>
+L'installation est en confinement total. Niveau d'habilitation minimum requis pour y accéder : C-4.::<end>
 
 =>q6_original
 <end>
@@ -42,7 +42,7 @@ L'installation est complètement fermée. Le niveau d'autorisation minimal requi
 ::Use Phil's severed arm.::<end>
 
 =>a7
-::Utilisez le bras coupé de Phil.::<end>
+::Utiliser le bras coupé de Phil::<end>
 
 =>q8_original
 ::Authenticating...
@@ -56,7 +56,7 @@ Authorizing...::<end>
 
 Bienvenue, P. Bridges.
 
-Autoriser...::<end>
+Autorisation...::<end>
 
 =>q9_original
 ::Clearance level C-4 detected. Access granted.
@@ -64,7 +64,7 @@ Autoriser...::<end>
 Opening gate...::<end>
 
 =>q9
-::Niveau de clairance C-4 détecté. Accès accordé.
+::Niveau d'habilitation C-4 détecté. Accès accordé.
 
 Ouverture de la porte...::<end>
 
@@ -72,19 +72,19 @@ Ouverture de la porte...::<end>
 ::Your clearance level is C-2. Access denied.::<end>
 
 =>q10
-::Votre niveau d'autorisation est C-2.::<end>
+::Votre niveau d'habilitation est C-2. Accès refusé.::<end>
 
 =>a11_original
 ::Bring your hand close to it.::<end>
 
 =>a11
-::Approchez votre main.::<end>
+::Approcher la main du panneau::<end>
 
 =>a12_original
 ::Swipe across the panel.::<end>
 
 =>a12
-::Faites glisser le panneau.::<end>
+::Passer la main sur le panneau::<end>
 
 =>q13_original
 <end>
@@ -102,17 +102,16 @@ Ouverture de la porte...::<end>
 ::Punch the panel.::<end>
 
 =>a15
-::Frappe le panneau.::<end>
+::Frapper le panneau::<end>
 
 =>q16_original
 ::It's rather sturdy considering its appearance and age. Your violence, however, does nothing useful.::<end>
 
 =>q16
-::Il est plutôt robuste compte tenu de son apparence et de son âge. Mais votre violence ne sert à rien.::<end>
+::Le panneau est plutôt solide, vu son apparence et son âge. Votre violence, elle, ne sert à rien.::<end>
 
 =>a17_original
 ::Tap the panel.::<end>
 
 =>a17
-::Appuyez sur le panneau.::<end>
-
+::Taper sur le panneau::<end>

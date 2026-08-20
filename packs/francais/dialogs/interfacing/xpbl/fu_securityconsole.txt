@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::
@@ -32,39 +32,39 @@ Active Auto-artillery units: 0
 Protective Energy Dome: Offline::<end>
 
 =>q4
-::Arch Keep Defense System status:
+::État du système de défense de l'Arch Keep :
 
 Défenses automatisées :
 
-Protecteurs actifs de Naga: S/O
-Auto-turrets actifs : $(context.loc xpbl e5 lemurianTurrets actifs)
-Unités d'auto-artillerie actives: 0
+Naga Protectors actifs : N/A
+Tourelles automatiques actives : $(context.loc_xpbl_e5_lemurianTurretsActive)
+Unités d'artillerie automatique actives : 0
 
-Dome d'énergie de protection: Hors ligne::<end>
+Dôme énergétique de protection : Hors ligne::<end>
 
 =>a5_original
 ::Naga Protector control system::<end>
 
 =>a5
-::Système de contrôle du protecteur Naga::<end>
+::Système de contrôle des Naga Protectors::<end>
 
 =>a6_original
 ::Auto-turret defense system::<end>
 
 =>a6
-::Système de défense auto-turrète::<end>
+::Système de défense des tourelles automatiques::<end>
 
 =>q7_original
 ::Auto-turret defense system status: Offline::<end>
 
 =>q7
-::État du système de défense auto-turret : Hors ligne::<end>
+::État du système de défense des tourelles automatiques : Hors ligne::<end>
 
 =>a8_original
 ::Enable auto-turret defense system::<end>
 
 =>a8
-::Activer le système de défense auto-turret::<end>
+::Activer le système de défense des tourelles automatiques::<end>
 
 =>q9_original
 ::Enabling...
@@ -74,18 +74,18 @@ D6... No auto-turrets detected.
 E5... ::<end>
 
 =>q9
-::Permettre...
+::Mise en service...
 
-Pas d'auto-turrets détectés.
-Pas d'auto-turrets détectés.
-E5...::<end>
+D5... Aucune tourelle automatique détectée.
+D6... Aucune tourelle automatique détectée.
+E5... ::<end>
 
 =>q10_original
 ::2 auto-turrets detected.::
 <end>
 
 =>q10
-::2 auto-turrets détectés.::
+::2 tourelles automatiques détectées.::
 <end>
 
 =>q11_original
@@ -94,7 +94,7 @@ E5...::<end>
 
 =>q11
 
-::E6: Aucun auto-turret détecté.::<end>
+::E6: Aucune tourelle automatique détectée.::<end>
 
 =>q12_original
 ::Loading CIDFF profile and performing areal scan...
@@ -104,17 +104,17 @@ Warning: Detected targets do not match the CIDFF profile category definition: Le
 Designate as foes or update category definition?::<end>
 
 =>q12
-::Chargement du profil CIDFF et exécution du scan aréal...
+::Chargement du profil CIDFF et scan de zone...
 
-Avertissement : Les cibles détectées ne correspondent pas à la définition de la catégorie de profil CIDFF : Lemurian Security
+Avertissement : les cibles détectées ne correspondent pas à la définition de catégorie du profil CIDFF : Lemurian Security
 
-Désigner comme ennemis ou mettre à jour la définition de catégorie?::<end>
+Désigner comme ennemis ou mettre à jour la définition de catégorie ?::<end>
 
 =>a13_original
 ::Update category definition (this process will be performed automatically)::<end>
 
 =>a13
-::Mettre à jour la définition de catégorie (ce processus sera effectué automatiquement)::<end>
+::Mettre à jour la définition de catégorie (cette opération sera effectuée automatiquement)::<end>
 
 =>q14_original
 ::Collecting data... Done.
@@ -126,11 +126,11 @@ Updating definition... Done.
 ::<end>
 
 =>q14
-::Collecte de données... C'est fait.
+::Collecte des données... Terminée.
 
-Traitement... C'est fait.
+Traitement... Terminé.
 
-Mise à jour de la définition... C'est fait.
+Mise à jour de la définition... Terminée.
 
 ::<end>
 
@@ -140,15 +140,15 @@ Mise à jour de la définition... C'est fait.
 Auto-turret activation procedure completed.::<end>
 
 =>q15
-::Activer... C'est fait.
+::Activation... Terminée.
 
-Procédure d'activation automatique de la tortue terminée.::<end>
+Procédure d'activation des tourelles automatiques terminée.::<end>
 
 =>q16_original
 ::Auto-turret defense system status: Online::<end>
 
 =>q16
-::État du système de défense auto-turret: Online::<end>
+::État du système de défense des tourelles automatiques : En ligne::<end>
 
 =>a17_original
 ::Back::<end>
@@ -166,25 +166,25 @@ Procédure d'activation automatique de la tortue terminée.::<end>
 ::1 auto-turret detected.::<end>
 
 =>q19
-::1 auto-turret détecté.::<end>
+::1 tourelle automatique détectée.::<end>
 
 =>a20_original
 ::Auto-artillery defense system::<end>
 
 =>a20
-::Système de défense automatique::<end>
+::Système de défense d'artillerie automatique::<end>
 
 =>a21_original
 ::Protective Energy Dome control system::<end>
 
 =>a21
-::Énergie de protection Système de contrôle du dôme::<end>
+::Système de contrôle du dôme énergétique de protection::<end>
 
 =>a22_original
 ::Contact active security supervisor::<end>
 
 =>a22
-::Contactez le superviseur actif de la sécurité::<end>
+::Contacter le superviseur de sécurité actif::<end>
 
 =>q23_original
 ::No active security supervisors detected. There may be temporary communication problems preventing this. 
@@ -192,21 +192,21 @@ Procédure d'activation automatique de la tortue terminée.::<end>
 Please try again later.::<end>
 
 =>q23
-::Aucun superviseur de sécurité actif détecté. Il peut y avoir des problèmes de communication temporaires.
+::Aucun superviseur de sécurité actif détecté. Des problèmes de communication temporaires peuvent en être la cause.
 
-Veuillez réessayer plus tard.::<end>
+Réessayez plus tard.::<end>
 
 =>a24_original
 ::Summon available Servants::<end>
 
 =>a24
-::Invoquer les employés disponibles::<end>
+::Appeler les Servants disponibles::<end>
 
 =>a25_original
 ::Exit::<end>
 
 =>a25
-::Sortie::<end>
+::Quitter::<end>
 
 =>q26_original
 <end>
@@ -228,13 +228,13 @@ Veuillez réessayer plus tard.::<end>
 ::You do not have permission to use this console. Minimum clearance level required is C-3.::<end>
 
 =>q28
-::Vous n'êtes pas autorisé à utiliser cette console. Le niveau d’autorisation minimum requis est C-3.::<end>
+::Vous n'avez pas l'autorisation d'utiliser cette console. Niveau d'habilitation minimum requis : C-3.::<end>
 
 =>a29_original
 ::[Hacking] Gain access to the security console::<end>
 
 =>a29
-::[Hacking] Accès à la console de sécurité::<end>
+::[Hacking] Accéder à la console de sécurité::<end>
 
 =>q30_original
 <end>
@@ -247,4 +247,3 @@ Veuillez réessayer plus tard.::<end>
 
 =>q31
 ::Erreur inconnue::<end>
-

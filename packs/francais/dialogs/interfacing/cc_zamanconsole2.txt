@@ -7,12 +7,12 @@ Error 35: No Connection
 Skipping update::<end>
 
 =>q1
-::Console APB - Biocorp Core Electronique
-Version du micrologiciel - 1.23
+::Console APB - Biocorp Core Electronics
+Version firmware - 1.23
 Recherche d'une version plus récente...
 
-Erreur 35 : Pas de connexion
-Ignorer la mise à jour::<end>
+Erreur 35 : aucune connexion
+Mise à jour ignorée::<end>
 
 =>q2_original
 <end>
@@ -24,7 +24,7 @@ Ignorer la mise à jour::<end>
 ::Activate electroshock defence system::<end>
 
 =>a3
-::Activer le système de défense contre les électrochocs::<end>
+::Activer le système de défense par électrochocs::<end>
 
 =>q4_original
 ::Activating...
@@ -35,7 +35,7 @@ Unknown error::<end>
 =>q4
 ::Activation...
 
-L'activation a échoué
+Échec de l'activation
 Erreur inconnue::<end>
 
 =>a5_original
@@ -48,7 +48,7 @@ Erreur inconnue::<end>
 ::Activate Main Gate release::<end>
 
 =>a6
-::Activer la libération de la porte principale::<end>
+::Activer le déverrouillage de la porte principale::<end>
 
 =>q7_original
 ::Activating Main Gate release...
@@ -57,9 +57,10 @@ Operation successful
 ::<end>
 
 =>q7
-::Activation de la libération de la porte principale...
+::Activation du déverrouillage de la porte principale...
 
-Opération réussie::<end>
+Opération réussie
+::<end>
 
 =>a8_original
 ::Back::<end>
@@ -71,11 +72,11 @@ Opération réussie::<end>
 ::Exit::<end>
 
 =>a9
-::Sortie::<end>
+::Quitter::<end>
 
 =>a10_original
 ::Exit::<end>
 
 =>a10
-::Sortie::<end>
+::Quitter::<end>
 

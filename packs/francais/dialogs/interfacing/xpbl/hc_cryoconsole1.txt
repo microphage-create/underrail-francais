@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::
@@ -18,13 +18,13 @@
 ::Please select one of the following options: ::<end>
 
 =>q3
-::Veuillez sélectionner l'une des options suivantes :::<end>
+::Choisir une option : ::<end>
 
 =>a4_original
 ::Cryovault 1a info::<end>
 
 =>a4
-::Cryovault 1a info::<end>
+::Infos Cryovault 1a::<end>
 
 =>q5_original
 ::Cryovault 1a outer chamber cooling: off
@@ -33,8 +33,8 @@ Chamber temperature:  sensor data unavailable!
 ::<end>
 
 =>q5
-::Cryovault 1a refroidisseur extérieur:
-Température de la chambre : données de capteur non disponibles !
+::Cryovault 1a refroidissement de la chambre extérieure : arrêt
+Température de la chambre :  données de capteur indisponibles !
 
 ::<end>
 
@@ -45,8 +45,8 @@ Chamber temperature:  sensor data unavailable!
 ::<end>
 
 =>q6
-::Cryovault 1a refroidissement de la chambre intérieure:
-Température de la chambre : données de capteur non disponibles !
+::Cryovault 1a refroidissement de la chambre intérieure : marche
+Température de la chambre :  données de capteur indisponibles !
 
 ::<end>
 
@@ -55,8 +55,8 @@ Température de la chambre : données de capteur non disponibles !
 Chamber temperature: sensor data unavailable!::<end>
 
 =>q7
-::Cryovault 1a refroidisseur latéral:
-Température de la chambre : données de capteur non disponibles !::<end>
+::Cryovault 1a refroidissement de la chambre latérale : marche
+Température de la chambre : données de capteur indisponibles !::<end>
 
 =>q8_original
 <end>
@@ -68,7 +68,7 @@ Température de la chambre : données de capteur non disponibles !::<end>
 ::Activate inner chamber cooling.::<end>
 
 =>a9
-::Activer le refroidissement intérieur de la chambre.::<end>
+::Activer le refroidissement de la chambre intérieure::<end>
 
 =>q10_original
 ::Activating...
@@ -76,15 +76,15 @@ Température de la chambre : données de capteur non disponibles !::<end>
 Inner chamber cooling activated successfully.::<end>
 
 =>q10
-::Activer...
+::Activation...
 
-Le refroidissement de la chambre intérieure a été activé avec succès.::<end>
+Refroidissement de la chambre intérieure activé.::<end>
 
 =>a11_original
 ::Deactivate inner chamber cooling.::<end>
 
 =>a11
-::Désactiver le refroidissement de la chambre intérieure.::<end>
+::Désactiver le refroidissement de la chambre intérieure::<end>
 
 =>q12_original
 <end>
@@ -102,21 +102,21 @@ It takes some time for the residual cryogas to dissipate. Please be patient.::<e
 =>q13
 ::Désactivation...
 
-Refroidissement de chambre intérieure désactivé avec succès.
+Refroidissement de la chambre intérieure désactivé.
 
-Il faut du temps pour que les cryogas résiduels se dissipent. Soyez patient.::<end>
+Le cryogaz résiduel met un moment à se dissiper. Veuillez patienter.::<end>
 
 =>q14_original
 ::You do not have permission to perform this action.::<end>
 
 =>q14
-::Vous n'avez pas la permission d'effectuer cette action.::<end>
+::Vous n'avez pas l'autorisation d'effectuer cette action.::<end>
 
 =>a15_original
 ::[Hacking] Deactivate inner chamber cooling.::<end>
 
 =>a15
-::Désactivez le refroidissement de la chambre intérieure.::<end>
+::[Hacking] Désactiver le refroidissement de la chambre intérieure::<end>
 
 =>q16_original
 <end>
@@ -140,13 +140,13 @@ Il faut du temps pour que les cryogas résiduels se dissipent. Soyez patient.::<
 ::Activate outer chamber cooling.::<end>
 
 =>a19
-::Activer le refroidissement extérieur de la chambre.::<end>
+::Activer le refroidissement de la chambre extérieure::<end>
 
 =>q20_original
 ::Activating...::<end>
 
 =>q20
-::Activer...::<end>
+::Activation...::<end>
 
 =>q21_original
 ::Error: Unable to activate outer chamber cryogenic cooling. 
@@ -156,23 +156,23 @@ Logging and contacting a technician...
 Error: Unable to connect to LIN.::<end>
 
 =>q21
-::Erreur : Impossible d'activer le refroidissement cryogénique de la chambre externe.
+::Erreur : impossible d'activer le refroidissement cryogénique de la chambre extérieure.
 
-J'enregistre et je contacte un technicien...
+Journalisation et contact d'un technicien...
 
-Erreur : Impossible de se connecter au LIN.::<end>
+Erreur : connexion à LIN impossible.::<end>
 
 =>a22_original
 ::Deactivate outer chamber cooling.::<end>
 
 =>a22
-::Désactiver le refroidissement extérieur de la chambre.::<end>
+::Désactiver le refroidissement de la chambre extérieure::<end>
 
 =>a23_original
 ::Activate side chamber cooling.::<end>
 
 =>a23
-::Activer le refroidissement de la chambre latérale.::<end>
+::Activer le refroidissement de la chambre latérale::<end>
 
 =>q24_original
 <end>
@@ -186,21 +186,21 @@ Erreur : Impossible de se connecter au LIN.::<end>
 Side chamber cooling activated successfully.::<end>
 
 =>q25
-::Activer...
+::Activation...
 
-Refroidissement latéral activé avec succès.::<end>
+Refroidissement de la chambre latérale activé.::<end>
 
 =>q26_original
 ::You do not have permission to perform this action.::<end>
 
 =>q26
-::Vous n'avez pas la permission d'effectuer cette action.::<end>
+::Vous n'avez pas l'autorisation d'effectuer cette action.::<end>
 
 =>a27_original
 ::[Hacking] Activate side chamber cooling.::<end>
 
 =>a27
-::Activer le refroidissement de la chambre latérale.::<end>
+::[Hacking] Activer le refroidissement de la chambre latérale::<end>
 
 =>q28_original
 <end>
@@ -212,7 +212,7 @@ Refroidissement latéral activé avec succès.::<end>
 ::Deactivate side chamber cooling.::<end>
 
 =>a29
-::Désactiver le refroidissement latéral de la chambre.::<end>
+::Désactiver le refroidissement de la chambre latérale::<end>
 
 =>q30_original
 ::Deactivating...
@@ -224,9 +224,9 @@ It takes some time for the residual cryogas to dissipate. Please be patient.::<e
 =>q30
 ::Désactivation...
 
-Refroidissement latéral désactivé avec succès.
+Refroidissement de la chambre latérale désactivé.
 
-Il faut du temps pour que les cryogas résiduels se dissipent. Soyez patient.::<end>
+Le cryogaz résiduel met un moment à se dissiper. Veuillez patienter.::<end>
 
 =>a31_original
 ::Back::<end>
@@ -239,8 +239,8 @@ Il faut du temps pour que les cryogas résiduels se dissipent. Soyez patient.::<
 Chamber temperature: sensor data unavailable!::<end>
 
 =>q32
-::Cryovault 1a refroidissement de la chambre latérale:
-Température de la chambre : données de capteur non disponibles !::<end>
+::Cryovault 1a refroidissement de la chambre latérale : arrêt
+Température de la chambre : données de capteur indisponibles !::<end>
 
 =>q33_original
 ::Cryovault 1a inner chamber cooling: off
@@ -249,8 +249,8 @@ Chamber temperature:  sensor data unavailable!
 ::<end>
 
 =>q33
-::Cryovault 1a refroidissement de la chambre intérieure:
-Température de la chambre : données de capteur non disponibles !
+::Cryovault 1a refroidissement de la chambre intérieure : arrêt
+Température de la chambre :  données de capteur indisponibles !
 
 ::<end>
 
@@ -258,37 +258,37 @@ Température de la chambre : données de capteur non disponibles !
 ::Toggle Cryovault 1a outer gate::<end>
 
 =>a34
-::Couper Cryovault 1a porte extérieure::<end>
+::Basculer la porte extérieure du Cryovault 1a::<end>
 
 =>a35_original
 ::Toggle Cryovault 1a inner gate::<end>
 
 =>a35
-::Toggle Cryovault 1a porte intérieure::<end>
+::Basculer la porte intérieure du Cryovault 1a::<end>
 
 =>q36_original
 ::Error: Unable to open the gate remotely. Please try opening the gate manually or summoning a strongman in case of gate malfunction.::<end>
 
 =>q36
-::Erreur : Impossible d'ouvrir la porte à distance. Veuillez essayer d'ouvrir la porte manuellement ou d'appeler un homme fort en cas de défaillance de la porte.::<end>
+::Erreur : ouverture de la porte à distance impossible. Tentez d'ouvrir la porte manuellement, ou appelez un strongman en cas de panne.::<end>
 
 =>a37_original
 ::Summon available Servants::<end>
 
 =>a37
-::Invoquer les employés disponibles::<end>
+::Appeler les Servants disponibles::<end>
 
 =>q38_original
 ::No available Servants detected. Your request has been placed in a queue.::<end>
 
 =>q38
-::Pas d'agents disponibles détectés. Votre demande a été placée dans une file d'attente.::<end>
+::Aucun Servant disponible. Demande mise en file d'attente.::<end>
 
 =>a39_original
 ::Exit::<end>
 
 =>a39
-::Sortie::<end>
+::Quitter::<end>
 
 =>q40_original
 ::Welcome, guest::
@@ -299,4 +299,3 @@ Température de la chambre : données de capteur non disponibles !
 ::Bienvenue, invité::
 
 <end>
-

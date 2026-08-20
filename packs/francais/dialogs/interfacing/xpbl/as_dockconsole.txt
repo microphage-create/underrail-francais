@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges::
@@ -18,13 +18,13 @@
 ::Unable to connect to ASIN. Only local data is available.::<end>
 
 =>q3
-::Impossible de se connecter à ASIN. Seules les données locales sont disponibles.::<end>
+::Connexion à ASIN impossible. Données locales uniquement.::<end>
 
 =>a4_original
 ::Cargo traffic log::<end>
 
 =>a4
-::Registre du trafic de marchandises::<end>
+::Journal du trafic cargo::<end>
 
 =>q5_original
 ::Cargo traffic log
@@ -42,19 +42,19 @@ Date: LE 16. 10. 122. Time: 22:20. Id: 7152902. Qty: 45. Prt: 3. Destination: Aq
 Date: LE 16. 10. 122. Time: 10:15. Id: 5137437. Qty: 26. Prt: 4. Destination: Manufacturing Dome.::<end>
 
 =>q5
-::Registre du trafic de marchandises
+::Journal du trafic cargo
 
-Trié par : Priorité
+Trié par : priorité
 
-Date: LE 17. 10. 122. Heure: 10 h 35. Id: ACoNR. Qté: 1. Prt: 1. Destination: Recherche et Développement Dome.
-Date: LE 17. 10. 122. Heure: 03:25. Id: 2781081. Quantité: 7. Prt: 2. Destination: Fabrication Dome.
-Date: LE 15. 10. 122. Heure: 06:30. Id: 5451163. Quantité: 80. Prt: 2. Destination: Dome résidentiel 1.
-Date: LE 14. 10. 122. Heure: 22:55. Id: 6204910. Qté: 15. Prt: 2. Destination: Aquaponics Dome.
-Date: LE 13. 10. 122. Heure: 14:10. Id: 2133259. Qté: 2. Prt: 3. Destination: Recherche et Développement Dome.
-Date: LE 16. 10. 122. Heure: 20:15. Id: 3435710. Qté: 180. Prt: 3. Destination: Fabrication Dome.
-Date: LE 16. 10. 122. Heure: 20:15. Id: 444444. Qté: 24. Prt: 3. Destination: Dome résidentiel 1.
-Date: LE 16. 10. 122. Heure: 22:20. Id: 7152902. Qté: 45. Prt: 3. Destination: Aquaponics Dome.
-Date: LE 16. 10. 122. Heure: 10:15. Id: 5137437. Qté: 26. Prt: 4. Destination: Fabrication Dome.::<end>
+Date : LE 17. 10. 122. Heure : 10:35. Id : ACoNR. Qté : 1. Prt : 1. Destination : Research and Development Dome.
+Date : LE 17. 10. 122. Heure : 03:25. Id : 2781081. Qté : 7. Prt : 2. Destination : Manufacturing Dome.
+Date : LE 15. 10. 122. Heure : 06:30. Id : 5451163. Qté : 80. Prt : 2. Destination : Residential Dome 1.
+Date : LE 14. 10. 122. Heure : 22:55. Id : 6204910. Qté : 15. Prt : 2. Destination : Aquaponics Dome.
+Date : LE 13. 10. 122. Heure : 14:10. Id : 2133259. Qté : 2. Prt : 3. Destination : Research and Development Dome.
+Date : LE 16. 10. 122. Heure : 20:15. Id : 3435710. Qté : 180. Prt : 3. Destination : Manufacturing Dome.
+Date : LE 16. 10. 122. Heure : 20:15. Id : 4444444. Qté : 24. Prt : 3. Destination : Residential Dome 1.
+Date : LE 16. 10. 122. Heure : 22:20. Id : 7152902. Qté : 45. Prt : 3. Destination : Aquaponics Dome.
+Date : LE 16. 10. 122. Heure : 10:15. Id : 5137437. Qté : 26. Prt : 4. Destination : Manufacturing Dome.::<end>
 
 =>a6_original
 ::Back::<end>
@@ -66,19 +66,19 @@ Date: LE 16. 10. 122. Heure: 10:15. Id: 5137437. Qté: 26. Prt: 4. Destination: 
 ::Summon available strongman::<end>
 
 =>a7
-::Invoquer un homme fort disponible::<end>
+::Appeler un strongman disponible::<end>
 
 =>q8_original
 ::No available strongmen detected. Your request has been placed in a queue.::<end>
 
 =>q8
-::Aucun homme fort disponible détecté. Votre demande a été placée dans une file d'attente.::<end>
+::Aucun strongman disponible. Demande mise en file d'attente.::<end>
 
 =>a9_original
 ::Contact active security supervisor::<end>
 
 =>a9
-::Contactez le superviseur actif de la sécurité::<end>
+::Contacter le superviseur de sécurité en service::<end>
 
 =>q10_original
 ::No active security supervisors detected. There may be temporary communication problems preventing this. 
@@ -86,15 +86,15 @@ Date: LE 16. 10. 122. Heure: 10:15. Id: 5137437. Qté: 26. Prt: 4. Destination: 
 Please try again later.::<end>
 
 =>q10
-::Aucun superviseur de sécurité actif détecté. Il peut y avoir des problèmes de communication temporaires.
+::Aucun superviseur de sécurité en service. Un problème de communication temporaire peut l'expliquer.
 
-Veuillez réessayer plus tard.::<end>
+Réessayer plus tard.::<end>
 
 =>a11_original
 ::Exit::<end>
 
 =>a11
-::Sortie::<end>
+::Quitter::<end>
 
 =>q12_original
 ::Welcome, guest::
@@ -105,4 +105,3 @@ Veuillez réessayer plus tard.::<end>
 ::Bienvenue, invité::
 
 <end>
-

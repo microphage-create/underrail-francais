@@ -2,19 +2,19 @@
 'Scuse me, ya int'rested in some work?<end>
 
 =>q1
-"Scuse-moi, t'es pas venu travailler ?<end>
+S'cuse, t'es chaud pour du boulot ?<end>
 
 =>a2_original
 Always. Go on.<end>
 
 =>a2
-Toujours. Allez.<end>
+Toujours. Continuer.<end>
 
 =>q3_original
 Ah, great. <end>
 
 =>q3
-Génial. <end>
+Ah, nickel.<end>
 
 =>q4_original
 A security company from North Underrail's hirin' folks fer an expedition to the Black Sea. They're lookin' fer laborers, technicians 'n' most importantly skilled fighters - y'know, they need some extra security over there. 
@@ -22,21 +22,21 @@ A security company from North Underrail's hirin' folks fer an expedition to the 
 Whatever field o' work yer int'rested in, ya gotta be one *tough* pipeworker, 'cause the work's real hardcore - but so's the money, heeee. ::He flashes a toothless grin.::<end>
 
 =>q4
-Une compagnie de sécurité des gens d'Hirin de North Underrail fait une expédition au Black Sea. Ils cherchent des ouvriers, des techniciens et des combattants très qualifiés. Ils ont besoin d'une sécurité supplémentaire.
+Une boîte de sécu du North Underrail embauche pour une expédition vers la Black Sea. Ils cherchent des manœuvres, des techniciens, et surtout des durs qui savent se battre - tu vois, il leur faut de la sécu en plus, là-bas.
 
-Quel que soit le domaine du travail, tu dois être un pipe-worker, parce que le travail est très hardcore, mais l'argent aussi. ::Il clignote un sourire sans dents.::<end>
+Peu importe le poste, faut être un tuyauteur *solide*, parce que le boulot, c'est du hardcore - mais le fric aussi, hééé. ::Il affiche un sourire édenté.::<end>
 
 =>q5_original
 You'll find 'em over at the eastern docks if yer int'rested. <end>
 
 =>q5
-Vous les trouverez sur les quais de l'est si elle est arrêtée. <end>
+Tu les trouveras aux quais de l'est, si ça t'intéresse.<end>
 
 =>q6_original
 Just go east along this platform. Can't miss 'em.<end>
 
 =>q6
-Allez vers l'est sur cette plateforme. Ils ne peuvent pas les manquer.<end>
+Tu vas vers l'est le long de cette plateforme. Tu peux pas les rater.<end>
 
 =>q7_original
 <end>
@@ -48,13 +48,13 @@ Allez vers l'est sur cette plateforme. Ils ne peuvent pas les manquer.<end>
 Who are these people and what is the expedition about?<end>
 
 =>a8
-Qui sont ces gens et de quoi s'agit-il?<end>
+C'est qui, ces gens, et c'est quoi l'expédition ?<end>
 
 =>q9_original
 Don't know exactly what they lookin' fer over there. I was just told to direct folks to the docks. ::He shrugs.:: Frankly, I reckon they gotta be diggin' for some old world crap to show off in a museum in Dis. Who cares, long as the pay's good.<end>
 
 =>q9
-Je ne sais pas exactement ce qu'ils regardent. On m'a dit de diriger les gens vers les docks. ::Il hausse les épaules.:: Franchement, je pense qu'ils doivent être dégueulasses pour qu'un vieux monde s'affiche dans un musée à Dis. Peu importe, tant que le salaire est bon.<end>
+J'sais pas trop ce qu'ils cherchent là-bas. On m'a juste dit d'envoyer les gens aux quais. ::Il hausse les épaules.:: Franchement, à mon avis, ils doivent creuser des vieilleries du vieux monde, histoire de frimer dans un musée à Dis. Qu'est-ce que ça peut faire, tant que ça paie.<end>
 
 =>q10_original
 As for the company, it's called *Aegis Incorporated*, 'n' it's from the North. Security contractors - serious business. These guys're packin' a lotta heat, 'n' they look mighty hardcore in 'em full-body armor suits. Oh, yes, siree. 
@@ -62,15 +62,15 @@ As for the company, it's called *Aegis Incorporated*, 'n' it's from the North. S
 Makes ya... wanna join them straight away, right? Right?<end>
 
 =>q10
-Quant à l'entreprise, elle s'appelle *Aegis Incorporated*, 'n' elle vient du Nord. Entrepreneurs de sécurité - affaires sérieuses. Ces gars font beaucoup de chaleur, ils ont l'air très hardcore en costumes d'armure. Oui, siree.
+La boîte, elle s'appelle *Aegis Incorporated*, et elle vient du Nord. Sécu privée - du sérieux. Ces gars trimballent du lourd, et avec leurs armures intégrales, ils ont l'air sacrément hardcore. Oh que oui.
 
-Tu veux les rejoindre tout de suite ? Pas vrai ?<end>
+Ça donne... envie de signer direct, hein ? Hein ?<end>
 
 =>a11_original
 What can you tell me about the Black Sea?<end>
 
 =>a11
-Que pouvez-vous me dire sur le Black Sea ?<end>
+T'as quoi à dire sur la Black Sea ?<end>
 
 =>q12_original
 Dammit, $(#man/woman), ya ain't from around, are ya? Never heard of the dreaded Black Sea - the Hell's Gut? Spooky legends? Pirates? Y'know, them folks int'rceptin' vessels, zonin' out, kidnappin' plunderin', then takin' their loot to waters few are willin' to chase 'em to? 
@@ -78,7 +78,7 @@ Dammit, $(#man/woman), ya ain't from around, are ya? Never heard of the dreaded 
 Don't ring a bell?<end>
 
 =>q12
-Bordel, $(#homme/femme), tu n'es pas du coin, n'est-ce pas ? Jamais entendu parler du terrible Black Sea - le Gut de l'Enfer ? Des légendes floues ? Pirates ? Tu sais, ces gens n'acceptent pas les vaisseaux, zonent, kidnappent le pillage, puis ramenent leur butin aux eaux peu veulent les chasser ?
+Bordel, $(#gars/fille), t'es pas du coin, toi ? Jamais entendu parler de la Black Sea, la terreur - le Hell's Gut ? Les légendes à faire flipper ? Les pirates ? Tu vois, ceux qui abordent les bateaux, qui zonent, kidnappent, pillent, puis ramènent le butin dans des eaux où presque personne ose les suivre ?
 
 Ça te dit rien ?<end>
 
@@ -86,97 +86,97 @@ Bordel, $(#homme/femme), tu n'es pas du coin, n'est-ce pas ? Jamais entendu parl
 Then, well, maybe this sort of work ain't fer ya, kiddo. Just sayin'.<end>
 
 =>q13
-Alors, peut-être que ce genre de travail ne t'intéresse pas. Juste dire.<end>
+Alors, p'têt que c'est pas un boulot pour toi. J'dis ça, j'dis rien.<end>
 
 =>a14_original
 When you say *hardcore* money, how hardcore do you mean?<end>
 
 =>a14
-Quand tu dis "argent dur", tu veux dire quoi ?<end>
+Quand tu dis du fric *hardcore*, c'est hardcore jusqu'où ?<end>
 
 =>q15_original
 I wasn't told *exactly* how hardcore it is, ya dig, but by our Southern standards it's gotta be pretty hardcore. I reckon, if the job's only fer the toughest, right, then the toughest ain't gonna do it cheap. Right, heee?<end>
 
 =>q15
-On ne m'a pas dit exactement à quel point c'est hardcore, mais selon nos standards du Sud, ça doit être hardcore. Je pense que si le boulot n'est que le plus dur, alors le plus dur ne le fera pas. Pas vrai, Heee ?<end>
+On m'a pas dit *exactement* à quel point c'est hardcore, tu piges, mais pour nous autres du Sud, ça doit être sacrément hardcore. À mon avis, si le boulot c'est que pour les plus durs, hein, les plus durs vont pas le faire pour des clopinettes. Hein, hééé ?<end>
 
 =>q16_original
 I'd apply myself, but the ol' legs ain't what they used to be. Nah, they ain't. Rusty pipes they've become, eh.<end>
 
 =>q16
-Je m'appliquerais, mais les jambes ne sont pas ce qu'elles étaient. Non, ils ne le sont pas. Ils sont devenus des pipes rouillées.<end>
+J'postulerais bien, moi, mais les vieilles gambettes, c'est plus ce que c'était. Nan, vraiment plus. Des tuyaux rouillés, maintenant.<end>
 
 =>a17_original
 So, you're just standing here and directing people down to the docks?<end>
 
 =>a17
-Donc, tu es juste debout ici et tu diriges les gens vers les quais ?<end>
+Donc t'es juste planté là à envoyer les gens vers les quais ?<end>
 
 =>q18_original
 Yup. That's my job.<end>
 
 =>q18
-Oui. C'est mon boulot.<end>
+Ouais. C'est mon boulot.<end>
 
 =>q19_original
 ::He leans closer.:: That position's taken. Dig?<end>
 
 =>q19
-::Il se penche plus près.:: Cette position est prise. Pigé ?<end>
+::Il se penche plus près.:: Le poste est pris. Pigé ?<end>
 
 =>a20_original
 Got it. I'll check them out.<end>
 
 =>a20
-Compris. Je vais les vérifier.<end>
+Compris. Aller les voir.<end>
 
 =>q21_original
 Hey, got a coin or two? ::He puts his hand out.:: Eh?<end>
 
 =>q21
-Vous avez une pièce ou deux ? ::Il met sa main dehors.:: Eh ?<end>
+Hé, t'aurais une pièce ou deux ? ::Il tend la main.:: Hein ?<end>
 
 =>a22_original
 Sure. ::Give him a stygian coin.::<end>
 
 =>a22
-Bien sûr. ::Donne-lui une pièce de monnaie.::<end>
+Tiens. ::Lui donner une pièce stygienne.::<end>
 
 =>q23_original
 Cheers. <end>
 
 =>q23
-Santé. <end>
+Merci.<end>
 
 =>q24_original
 ::He turns away and scans for his next target.::<end>
 
 =>q24
-::Il se détourne et scanne sa prochaine cible.::<end>
+::Il se détourne et cherche sa prochaine cible.::<end>
 
 =>a25_original
 Here's a fiver. ::Give him 5 stygian coins.::<end>
 
 =>a25
-Voilà un cinq. ::Donnez-lui 5 pièces de style.::<end>
+Tiens, cinq. ::Lui donner 5 pièces stygiennes.::<end>
 
 =>q26_original
 Cheers! <end>
 
 =>q26
-Santé ! <end>
+Merci !<end>
 
 =>a27_original
 Here's a tenner. ::Give him 10 stygian coins.::<end>
 
 =>a27
-Voilà une dizaine. ::Donnez-lui 10 pièces de style.::<end>
+Tiens, dix. ::Lui donner 10 pièces stygiennes.::<end>
 
 =>q28_original
 Heee! ::He flashes a toothless grin.:: *Cheers*! <end>
 
 =>q28
-Oui ! ::Il clignote un sourire sans dents.:: *Santé*! <end>
+Hééé ! ::Il affiche un sourire édenté.:: *Merci* !<end>
 
 =>a29_original
 Sorry.<end>
@@ -188,107 +188,107 @@ Désolé.<end>
 Eh. <end>
 
 =>q30
-Oui. <end>
+Bah.<end>
 
 =>a31_original
 No. Beat it.<end>
 
 =>a31
-C'est pas vrai. Dégage.<end>
+Non. Dégager.<end>
 
 =>q32_original
 Drop-off! <end>
 
 =>q32
-Décrochage ! <end>
+Casse-toi !<end>
 
 =>a33_original
 ::Ignore him and leave.::<end>
 
 =>a33
-::Ignorez-le et partez.::<end>
+::L'ignorer et partir.::<end>
 
 =>a34_original
 I've learned enough.<end>
 
 =>a34
-J'en ai assez appris.<end>
+J'en sais assez.<end>
 
 =>q35_original
 Alright then. <end>
 
 =>q35
-Très bien. <end>
+Ça marche.<end>
 
 =>q36_original
 Down the main elevator, then east along the platform. Can't miss 'em.<end>
 
 =>q36
-En bas de l'ascenseur principal, puis à l'est le long de la plate-forme. Ils ne peuvent pas les manquer.<end>
+L'ascenseur principal, tu descends, puis à l'est le long de la plateforme. Tu peux pas les rater.<end>
 
 =>a37_original
 Sure. What's this about?<end>
 
 =>a37
-Bien sûr. De quoi s'agit-il ?<end>
+Vas-y. C'est à propos de quoi ?<end>
 
 =>a38_original
 Not really, but do go ahead.<end>
 
 =>a38
-Pas vraiment, mais allez-y.<end>
+Pas vraiment. Continuer quand même.<end>
 
 =>q39_original
 Hey, I'll be brief. <end>
 
 =>q39
-Je serai bref. <end>
+Hé, j'fais court.<end>
 
 =>a40_original
 No. Leave me alone.<end>
 
 =>a40
-C'est pas vrai. Laisse-moi tranquille.<end>
+Non. Fous-moi la paix.<end>
 
 =>q41_original
 It's good money! *Real* good money.<end>
 
 =>q41
-C'est de l'argent ! *Vrai* bon argent.<end>
+C'est du bon fric ! Du *vrai* bon fric.<end>
 
 =>a42_original
 On the other hand... I could hear you out. Proceed.<end>
 
 =>a42
-D'un autre côté... Je pouvais vous entendre. Continuez.<end>
+D'un autre côté... J'peux t'écouter. Continuer.<end>
 
 =>a43_original
 ::Ignore him and leave.::<end>
 
 =>a43
-::Ignorez-le et partez.::<end>
+::L'ignorer et partir.::<end>
 
 =>q44_original
 Hey! Go to the east'rn dock if you're int'rested, 'n'-- Oh, drop off.<end>
 
 =>q44
-Bonjour ! Allez à l'est du quai si vous êtes arrêté, non...<end>
+Hé ! Va au quai de l'est si ça t'intéresse, et-- Ah, casse-toi.<end>
 
 =>a45_original
 Is this about that expedition to the Black Sea? I already know.<end>
 
 =>a45
-Est-ce à propos de cette expédition au Black Sea ? Je sais déjà.<end>
+C'est pour l'expédition vers la Black Sea ? Je suis déjà au courant.<end>
 
 =>q46_original
 Oh, oh, alright then. <end>
 
 =>q46
-Très bien. <end>
+Oh, oh, très bien.<end>
 
 =>q47_original
 'Scuse me, y-- Oh, it's yer face again. ::Looks away.::<end>
 
 =>q47
-"Scuse-moi, y-- Oh, c'est encore ton visage. ::Il détourne le regard.::<end>
+S'cuse, t-- Oh, encore ta tête. ::Il détourne le regard.::<end>
 

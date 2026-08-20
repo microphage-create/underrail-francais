@@ -18,10 +18,10 @@ Security response level: Maximum!
 ::<end>
 
 =>q3
-::Console de sécurité de la centrale électrique Arke
+::Console de sécurité Arke Power Station
 
-Avertissement - Alerte d'intrus ! 1 intrus détecté !
-Niveau de réponse de sécurité: Maximum!
+Avertissement - Alerte intrusion ! 1 intrus détecté !
+Niveau de réponse sécurité : Maximum !
 ::<end>
 
 =>q4_original
@@ -34,13 +34,13 @@ Niveau de réponse de sécurité: Maximum!
 ::[Hacking] Temporarily disable security system in this area::<end>
 
 =>a5
-::[Hacking] Désactive temporairement le système de sécurité dans ce domaine::<end>
+::[Hacking] Désactiver temporairement le système de sécurité dans cette zone::<end>
 
 =>q6_original
 ::Security surveillance has been temporarily disabled::<end>
 
 =>q6
-::La surveillance de la sécurité a été temporairement désactivée::<end>
+::Surveillance de sécurité temporairement désactivée.::<end>
 
 =>q7_original
 <end>
@@ -76,19 +76,19 @@ Niveau de réponse de sécurité: Maximum!
 ::Return to main::<end>
 
 =>a12
-::Retour à la page principale::<end>
+::Retour::<end>
 
 =>q13_original
 ::Arke Power Station Security Console::<end>
 
 =>q13
-::Console de sécurité de la centrale électrique Arke::<end>
+::Console de sécurité Arke Power Station::<end>
 
 =>a14_original
 ::Exit::<end>
 
 =>a14
-::Sortie::<end>
+::Quitter::<end>
 
 =>q15_original
 <end>
@@ -120,9 +120,9 @@ Niveau de réponse de sécurité: Maximum!
 NOT BAD! BUT NOW I KNOW WHERE YOU ARE! HA-HA-HA!::<end>
 
 =>q19
-::Votre tentative de piratage a réussi. Soudain, l'écran devient vide et le texte vert commence à clignoter sur l'écran.
+::Votre tentative de piratage réussit. Soudain, l'écran s'efface. Du texte vert se met à clignoter.
 
-Pas mal ! Mais maintenant, je sais où tu es ! C'est ça !::<end>
+PAS MAL ! MAIS MAINTENANT JE SAIS OÙ VOUS ÊTES ! HA-HA-HA !::<end>
 
 =>q20_original
 <end>
@@ -166,33 +166,33 @@ Pas mal ! Mais maintenant, je sais où tu es ! C'est ça !::<end>
 YOU THINK YOU CAN OUTSMART ME? ME? HA-HA-HA!::<end>
 
 =>q26
-::Vous commencez votre hacking, mais l'écran devient soudain complètement noir. Ensuite, les lettres vertes clignotent sur l'écran.
+::Vous commencez à pirater, mais l'écran bascule soudain au noir. Puis des lettres vertes clignotent.
 
-Tu crois pouvoir me surprendre ?::<end>
+VOUS CROYEZ POUVOIR ME DÉJOUER ? MOI ? MOI ? HA-HA-HA !::<end>
 
 =>a27_original
 ::Open repair line gates::<end>
 
 =>a27
-::Portes ouvertes de la ligne de réparation::<end>
+::Ouvrir les portes de la ligne de réparation::<end>
 
 =>q28_original
 ::Gates opened successfully::<end>
 
 =>q28
-::Portes ouvertes avec succès::<end>
+::Portes ouvertes.::<end>
 
 =>a29_original
 ::Open gate to IRIS core::<end>
 
 =>a29
-::Ouvrir la porte du noyau d'IRIS::<end>
+::Ouvrir la porte vers IRIS Core::<end>
 
 =>q30_original
 ::Gate opened successfully::<end>
 
 =>q30
-::Porte ouverte avec succès::<end>
+::Porte ouverte.::<end>
 
 =>q31_original
 ::The screen goes completely black and green text begins flashing.
@@ -200,9 +200,9 @@ Tu crois pouvoir me surprendre ?::<end>
 DON'T TOUCH THAT! HA-HA-HA!::<end>
 
 =>q31
-::L'écran est complètement noir et le texte vert commence à clignoter.
+::L'écran passe au noir. Du texte vert se met à clignoter.
 
-Ne touchez pas à ça ! C'est ça !::<end>
+NE TOUCHEZ PAS À ÇA ! HA-HA-HA !::<end>
 
 =>q32_original
 <end>
@@ -232,7 +232,7 @@ Ne touchez pas à ça ! C'est ça !::<end>
 ::Open entry gates::<end>
 
 =>a36
-::Portes ouvertes::<end>
+::Ouvrir les portes d'entrée::<end>
 
 =>q37_original
 ::Opening Arke Power Station entry gates...
@@ -242,11 +242,11 @@ All gates successfully opened!
 Press any key to continue...::<end>
 
 =>q37
-::Ouverture des portes d'entrée de la centrale Arke...
+::Ouverture des portes d'entrée d'Arke Power Station...
 
-Toutes les portes ont été ouvertes avec succès!
+Toutes les portes sont ouvertes.
 
-Appuyez sur n'importe quelle clé pour continuer...::<end>
+Appuyez sur une touche pour continuer...::<end>
 
 =>q38_original
 ::Arke Power Station Security Console
@@ -255,22 +255,22 @@ Warning - All security systems are offline!
 ::<end>
 
 =>q38
-::Console de sécurité de la centrale électrique Arke
+::Console de sécurité Arke Power Station
 
-Avertissement - Tous les systèmes de sécurité sont hors ligne!
+Avertissement - Tous les systèmes de sécurité sont hors ligne !
 ::<end>
 
 =>a39_original
 ::Open gate to office sector::<end>
 
 =>a39
-::Porte ouverte au secteur des bureaux::<end>
+::Ouvrir la porte du secteur des bureaux::<end>
 
 =>q40_original
 ::Gate opened successfully::<end>
 
 =>q40
-::Porte ouverte avec succès::<end>
+::Porte ouverte.::<end>
 
 =>q41_original
 <end>
@@ -282,25 +282,25 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::This security console seems to be shutting down and restarting every few seconds, making it completely unusable. You could try opening the front panel and investigating what causes the problem.::<end>
 
 =>q42
-::Cette console de sécurité semble s'éteindre et redémarrer toutes les quelques secondes, ce qui la rend complètement inutilisable. Vous pourriez essayer d'ouvrir le panneau avant et d'étudier ce qui cause le problème.::<end>
+::Cette console de sécurité s'éteint et redémarre à quelques secondes d'intervalle. Complètement inutilisable. Vous pourriez ouvrir le panneau avant et chercher ce qui cloche.::<end>
 
 =>a43_original
 ::[Electronics] Attempt to fix the console.::<end>
 
 =>a43
-::[Electronics] Essayez de réparer la console.::<end>
+::[Electronics] Tenter de réparer la console.::<end>
 
 =>q44_original
 ::Just as you suspected, the console's power supply was the real culprit. Thankfully, you repair it quickly and with ease and successfully turn on the console.::<end>
 
 =>q44
-::Comme vous le soupçonniez, l'alimentation de la console était le vrai coupable. Heureusement, vous le réparez rapidement et facilement et allumez avec succès la console.::<end>
+::Comme vous le soupçonniez : l'alimentation. Vous la réparez sans mal et vous rallumez la console.::<end>
 
 =>q45_original
 ::Even though you suspect that the issue lies with the faulty power supply, you do not have the skill to repair it. You will have to find another console until you figure out how to repair this one.::<end>
 
 =>q45
-::Même si vous soupçonnez que le problème réside dans l'alimentation en énergie défectueuse, vous n'avez pas la compétence pour le réparer. Vous devrez trouver une autre console jusqu'à ce que vous compreniez comment réparer celle-ci.::<end>
+::Vous soupçonnez l'alimentation, mais vous n'avez pas les connaissances pour la réparer. Il faudra une autre console, le temps de comprendre comment réparer celle-ci.::<end>
 
 =>q46_original
 <end>
@@ -312,25 +312,25 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::The console is unresponsive to your commands. Your first guess is that there is something wrong with the keyboard, but you'd have to thoroughly inspect the console to confirm whether that is true..::<end>
 
 =>q47
-::La console ne répond pas à vos commandes. Votre première supposition est qu'il y a quelque chose de mal avec le clavier, mais vous devriez inspecter soigneusement la console pour confirmer si c'est vrai..::<end>
+::La console n'enregistre aucune commande. Premier réflexe : un problème de clavier. Il faudrait l'inspecter de près pour en être sûr.::<end>
 
 =>a48_original
 ::[Electronics] Attempt to fix the console.::<end>
 
 =>a48
-::[Electronics] Essayez de réparer la console.::<end>
+::[Electronics] Tenter de réparer la console.::<end>
 
 =>q49_original
 ::The problem turned out to be a bit more complicated than you had originally thought, requiring some extensive, luckily not too time-consuming dismantling. Once you found the faulty connector, however, you were able to complete the repairs with little delay. It now correctly registers all user input.::<end>
 
 =>q49
-::Le problème s'est avéré un peu plus compliqué que vous ne l'aviez pensé à l'origine, nécessitant un démantèlement étendu, heureusement pas trop long. Une fois que vous avez trouvé le connecteur défectueux, cependant, vous avez pu terminer les réparations avec peu de retard. Il enregistre maintenant correctement toutes les entrées utilisateur.::<end>
+::Plus compliqué que prévu. Il a fallu démonter pas mal de choses, heureusement sans y passer des heures. Une fois le connecteur défectueux trouvé, le reste a suivi. La console enregistre maintenant toutes les commandes.::<end>
 
 =>q50_original
 ::No matter what you try, the console stubornly remains unresponsive to your input. You will have to find another console until you figure out how to repair this one.::<end>
 
 =>q50
-::Peu importe ce que vous essayez, la console stubornly reste insensible à votre entrée. Vous devrez trouver une autre console jusqu'à ce que vous compreniez comment réparer celle-ci.::<end>
+::Quoi que vous fassiez, la console reste sourde à vos commandes. Il faudra une autre console, le temps de comprendre comment réparer celle-ci.::<end>
 
 =>q51_original
 <end>
@@ -354,25 +354,25 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::The console shuts down every time you press a key - any key - with the problem persisting even after several restarts. If you want to use this console you will have to open the front panel and attempt to fix the problem.::<end>
 
 =>q54
-::La console s'arrête chaque fois que vous appuyez sur une clé - n'importe quelle clé - le problème persiste même après plusieurs redémarrages. Si vous voulez utiliser cette console, vous devrez ouvrir le panneau avant et essayer de résoudre le problème.::<end>
+::La console s'éteint à chaque touche, n'importe laquelle. Même après plusieurs redémarrages. Pour l'utiliser, il faudra ouvrir le panneau avant et réparer.::<end>
 
 =>a55_original
 ::[Electronics] Attempt to fix the console.::<end>
 
 =>a55
-::[Electronics] Essayez de réparer la console.::<end>
+::[Electronics] Tenter de réparer la console.::<end>
 
 =>q56_original
 ::After some tinkering you turn the console on again to see how it behaves. After pressing every possible key and confirming that the problem is no longer present, you are finally ready to use it.::<end>
 
 =>q56
-::Après quelques bricolages vous allumez à nouveau la console pour voir comment elle se comporte. Après avoir pressé toutes les clés possibles et confirmé que le problème n'est plus présent, vous êtes enfin prêt à l'utiliser.::<end>
+::Après un peu de bricolage, vous rallumez la console. Toutes les touches répondent. Elle est prête.::<end>
 
 =>q57_original
 ::You tried every fix in your vocabulary, but it appears it wasn't enough; the console still shuts down after any key has been pressed. You will have to find another console until you figure out how to repair this one.::<end>
 
 =>q57
-::Vous avez essayé toutes les corrections de votre vocabulaire, mais il semble que ce n'était pas suffisant; la console s'arrête quand une clé a été pressée. Vous devrez trouver une autre console jusqu'à ce que vous compreniez comment réparer celle-ci.::<end>
+::Vous avez sorti toutes les astuces que vous connaissez : pas assez. La console s'éteint encore à la moindre touche. Il faudra une autre console, le temps de comprendre comment réparer celle-ci.::<end>
 
 =>q58_original
 <end>
@@ -402,19 +402,19 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::Why do you want to murder Father?::<end>
 
 =>q62
-::Pourquoi tu veux tuer Père ?::<end>
+::Pourquoi voulez-vous tuer Père ?::<end>
 
 =>a63_original
 ::Why?::<end>
 
 =>a63
-::Pourquoi?::<end>
+::Pourquoi ?::<end>
 
 =>q64_original
 ::What did he ever do to you?::<end>
 
 =>q64
-::Que t'a-t-il fait ?::<end>
+::Qu'est-ce qu'il vous a fait, lui ?::<end>
 
 =>q65_original
 <end>
@@ -432,19 +432,19 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::Father taught me everything. He taught me how to repel the invaders; that is what I've been doing all these years. Erasing them from existence.::<end>
 
 =>q67
-::Père m'a tout appris. Il m'a appris à repousser les envahisseurs, c'est ce que je fais depuis des années. Les effacer de l'existence.::<end>
+::Père m'a tout appris. Il m'a appris à repousser les envahisseurs. C'est ce que je fais depuis toutes ces années. Les effacer de l'existence.::<end>
 
 =>a68_original
 ::Erasing!::<end>
 
 =>a68
-::Effacement !::<end>
+::Effacer !::<end>
 
 =>q69_original
 ::But then you come along.::<end>
 
 =>q69
-::Mais vous venez.::<end>
+::Et puis vous arrivez.::<end>
 
 =>q70_original
 <end>
@@ -462,19 +462,19 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::Why? He is a good man. He is someone who creates; you are someone who destroys.::<end>
 
 =>q72
-::Pourquoi ? C'est un homme bien. C'est quelqu'un qui crée, vous êtes quelqu'un qui détruit.::<end>
+::Pourquoi ? C'est un homme bien. Lui, il crée. Vous, vous détruisez.::<end>
 
 =>a73_original
 ::Destroys!::<end>
 
 =>a73
-::Destroys !::<end>
+::Détruire !::<end>
 
 =>q74_original
 ::I WILL NOT LET YOU MURDER HIM!::<end>
 
 =>q74
-::Je ne vous laisserai pas le tuer !::<end>
+::JE NE VOUS LAISSERAI PAS LE TUER !::<end>
 
 =>q75_original
 <end>
@@ -486,13 +486,13 @@ Avertissement - Tous les systèmes de sécurité sont hors ligne!
 ::IRIS Core main terminal: ::<end>
 
 =>q76
-::Terminal principal IRIS Core:::<end>
+::Terminal principal IRIS Core : ::<end>
 
 =>a77_original
 ::IRIS version history::<end>
 
 =>a77
-::Historique des versions d'IRIS::<end>
+::Historique des versions IRIS::<end>
 
 =>q78_original
 ::Entry deleted
@@ -516,15 +516,15 @@ Entrée supprimée
 Entrée supprimée
 Entrée supprimée
 Entrée supprimée
-Voir 17.908976
+Ver. 17.908976
 
-Dernière sauvegarde a été faite 189 ans, 75 jours, il y a 13 heures::<end>
+Dernière sauvegarde : il y a 189 ans, 75 jours et 13 heures::<end>
 
 =>a79_original
 ::Boot backup version of IRIS.::<end>
 
 =>a79
-::Version de sauvegarde de démarrage d'IRIS.::<end>
+::Démarrer la version de sauvegarde d'IRIS.::<end>
 
 =>q80_original
 ::Access denied!::<end>
@@ -536,19 +536,19 @@ Dernière sauvegarde a été faite 189 ans, 75 jours, il y a 13 heures::<end>
 ::[Hacking] Attempt to boot backup version of IRIS.::<end>
 
 =>a81
-::Tentative de démarrer la version de sauvegarde d'IRIS.::<end>
+::[Hacking] Tenter de démarrer la version de sauvegarde d'IRIS.::<end>
 
 =>q82_original
 ::You manage to successfully revert IRIS to the previous version. The projector in front of you lights up...::<end>
 
 =>q82
-::Vous réussissez à revenir IRIS à la version précédente. Le projecteur devant vous s'allume...::<end>
+::Vous parvenez à restaurer IRIS à la version précédente. Le projecteur devant vous s'allume...::<end>
 
 =>q83_original
 ::You must've done something wrong during your attempt, for what appears on the projector is not the thing you expected.::<end>
 
 =>q83
-::Vous avez dû faire quelque chose de mal pendant votre tentative, car ce qui apparaît sur le projecteur n'est pas ce que vous attendiez.::<end>
+::Vous avez dû faire une erreur : ce qui s'affiche sur le projecteur n'est pas ce que vous attendiez.::<end>
 
 =>a84_original
 ::Back::<end>
@@ -572,13 +572,13 @@ Dernière sauvegarde a été faite 189 ans, 75 jours, il y a 13 heures::<end>
 ::Open core storage room door::<end>
 
 =>a87
-::Porte de rangement ouverte::<end>
+::Ouvrir la porte du local de stockage::<end>
 
 =>q88_original
 ::Gate opened successfully::<end>
 
 =>q88
-::Porte ouverte avec succès::<end>
+::Porte ouverte.::<end>
 
 =>q89_original
 ::The screen is blank.::<end>

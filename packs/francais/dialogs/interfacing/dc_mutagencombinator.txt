@@ -16,9 +16,9 @@
 ::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
 
 =>q3
-::Mélangeur de mutagène.::
+::Mutagen Combinator.::
 
-::Séquence: [$(context.dc mutagenCompoundText)]::<end>
+::Séquence : [$(context.dc_mutagenCompoundText)]::<end>
 
 =>q4_original
 
@@ -50,7 +50,7 @@
 ::$(context.loc_dc_mutagenCombinatorMessage)::<end>
 
 =>q8
-::$(context.loc dc mutagenCombinateurMessage)::<end>
+::$(context.loc_dc_mutagenCombinatorMessage)::<end>
 
 =>q9_original
 ::Mutagen Combinator.::
@@ -58,9 +58,9 @@
 ::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
 
 =>q9
-::Mélangeur de mutagène.::
+::Mutagen Combinator.::
 
-::Séquence: [$(context.dc mutagenCompoundText)]::<end>
+::Séquence : [$(context.dc_mutagenCompoundText)]::<end>
 
 =>q10_original
 <end>
@@ -72,67 +72,67 @@
 ::Insert mutagen: Ovid-1::<end>
 
 =>a11
-::Insérer le mutagène: Ovid-1::<end>
+::Insérer le mutagène : Ovid-1::<end>
 
 =>a12_original
 ::Insert mutagen: Ovid-2::<end>
 
 =>a12
-::Insérer le mutagène: Ovid-2::<end>
+::Insérer le mutagène : Ovid-2::<end>
 
 =>a13_original
 ::Insert mutagen: Ovid-3::<end>
 
 =>a13
-::Insérer le mutagène: Ovid-3::<end>
+::Insérer le mutagène : Ovid-3::<end>
 
 =>a14_original
 ::Insert mutagen: Solis-1::<end>
 
 =>a14
-::Insérer le mutagène: Solis-1::<end>
+::Insérer le mutagène : Solis-1::<end>
 
 =>a15_original
 ::Insert mutagen: Solis-2::<end>
 
 =>a15
-::Insérer le mutagène: Solis-2::<end>
+::Insérer le mutagène : Solis-2::<end>
 
 =>a16_original
 ::Insert mutagen: Echo-1::<end>
 
 =>a16
-::Insérer le mutagène: Echo-1::<end>
+::Insérer le mutagène : Echo-1::<end>
 
 =>a17_original
 ::Insert mutagen: Echo-2::<end>
 
 =>a17
-::Insérer le mutagène: Echo-2::<end>
+::Insérer le mutagène : Echo-2::<end>
 
 =>a18_original
 ::Insert mutagen: Echo-3::<end>
 
 =>a18
-::Insérer le mutagène: Echo-3::<end>
+::Insérer le mutagène : Echo-3::<end>
 
 =>a19_original
 ::Insert mutagen: Echo-4::<end>
 
 =>a19
-::Insérer le mutagène: Echo-4::<end>
+::Insérer le mutagène : Echo-4::<end>
 
 =>a20_original
 ::Insert mutagen: Io-1::<end>
 
 =>a20
-::Insérer le mutagène: Io-1::<end>
+::Insérer le mutagène : Io-1::<end>
 
 =>a21_original
 ::Insert mutagen: Io-2::<end>
 
 =>a21
-::Insérer le mutagène: Io-2::<end>
+::Insérer le mutagène : Io-2::<end>
 
 =>a22_original
 ::Insert mutagen: Io-3::<end>
@@ -144,31 +144,31 @@
 ::Insert mutagen: Helicon-1::<end>
 
 =>a23
-::Insérer le mutagène: Helicon-1::<end>
+::Insérer le mutagène : Helicon-1::<end>
 
 =>a24_original
 ::Insert mutagen: Helicon-2::<end>
 
 =>a24
-::Insérer le mutagène: Helicon-2::<end>
+::Insérer le mutagène : Helicon-2::<end>
 
 =>a25_original
 ::Insert mutagen: Helicon-3::<end>
 
 =>a25
-::Insérer le mutagène: Helicon-3::<end>
+::Insérer le mutagène : Helicon-3::<end>
 
 =>a26_original
 ::Insert mutagen: Exitus-1::<end>
 
 =>a26
-::Insérer mutagène: Exitus-1::<end>
+::Insérer le mutagène : Exitus-1::<end>
 
 =>q27_original
 ::ERROR: Prohibited compound detected::<end>
 
 =>q27
-::ERREUR: Composé interdit détecté::<end>
+::ERREUR : Composé interdit détecté::<end>
 
 =>a28_original
 ::Back::<end>
@@ -180,13 +180,13 @@
 ::Clear sequence.::<end>
 
 =>a29
-::Séquence claire.::<end>
+::Effacer la séquence.::<end>
 
 =>q30_original
 ::Sequence cleared::<end>
 
 =>q30
-::Séquence dégagée::<end>
+::Séquence effacée::<end>
 
 =>a31_original
 ::Create compound from sequence::<end>
@@ -204,25 +204,25 @@
 ::ERROR: Empty sequence::<end>
 
 =>q33
-::ERREUR: Séquence vide::<end>
+::ERREUR : Séquence vide::<end>
 
 =>a34_original
 ::Inject compound::<end>
 
 =>a34
-::Composé injectable::<end>
+::Injecter le composé::<end>
 
 =>q35_original
 ::Manufacturing agent from sequence...::<end>
 
 =>q35
-::Agent de fabrication de la séquence...::<end>
+::Fabrication de l'agent à partir de la séquence...::<end>
 
 =>q36_original
 ::Injecting agent...::<end>
 
 =>q36
-::Agent d'injection...::<end>
+::Injection de l'agent...::<end>
 
 =>q37_original
 ::Success.
@@ -244,7 +244,7 @@ Système stable.::<end>
 ::ERROR: No compound::<end>
 
 =>q39
-::ERREUR: Pas de composé::<end>
+::ERREUR : Aucun composé::<end>
 
 =>a40_original
 ::Leave::<end>

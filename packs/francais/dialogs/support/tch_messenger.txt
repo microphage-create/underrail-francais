@@ -2,7 +2,7 @@
 Hide!<end>
 
 =>q1
-Cacher!<end>
+Cachez-vous !<end>
 
 =>q2_original
 ::The pale woman addresses you, this time no less shyly or less fragile-voiced.::
@@ -10,7 +10,7 @@ Cacher!<end>
 Tchort is evolution, <end>
 
 =>q2
-::La femme pâle s'adresse à vous, cette fois pas moins timidement ou moins fragile-voilée.::
+::La femme pâle s'adresse à vous, toujours aussi timide, la voix toujours aussi fragile.::
 
 Tchort est l'évolution, <end>
 
@@ -18,13 +18,13 @@ Tchort est l'évolution, <end>
 uh... Invictus $(#Brother/Sister)?<end>
 
 =>q3
-Invictus $(#Frère/Sœur) ?<end>
+Euh... Invictus $(#Frère/Sœur) ?<end>
 
 =>a4_original
 Hardcore, sister! Evolution is Tchort.<end>
 
 =>a4
-Hardcore, ma sœur ! Evolution est Tchort.<end>
+Carrément, sœur ! L'évolution est Tchort.<end>
 
 =>q5_original
 ::She smiles, her blushing only being noticeable due to her chalk-white complexion.::
@@ -32,7 +32,7 @@ Hardcore, ma sœur ! Evolution est Tchort.<end>
 <end>
 
 =>q5
-::Elle sourit, sa rousseur n'étant perceptible qu'en raison de son teint blanc craie.::
+::Elle sourit ; sa rougeur n'est visible que grâce à son teint blanc craie.::
 
 <end>
 
@@ -42,9 +42,9 @@ I was told to bring you this, $(#brother/sister).
 ::From under her robe she produces a light container made of hard plastic and adorned with the Eye of Tchort.:: <end>
 
 =>q6
-On m'a dit de t'apporter ça, $(#frère/sœur).
+On m'a dit de vous apporter ceci, $(#frère/sœur).
 
-::Sous sa robe, elle produit un récipient léger en plastique dur et orné de l'œil de Tchort.:: <end>
+::De sous sa robe, elle sort un coffret léger en plastique dur, orné de l'Œil de Tchort.:: <end>
 
 =>q7_original
 <end>
@@ -56,31 +56,31 @@ On m'a dit de t'apporter ça, $(#frère/sœur).
 Her Eminence told me to give this to you, and to tell you it's an early stimulus before your offical acceptance to the department. She also requested of you to be discreet about it for the time being.<end>
 
 =>q8
-Son Eminence m'a dit de vous donner ça, et de vous dire que c'est un stimulant précoce avant votre acceptation officielle au département. Elle vous a aussi demandé d'être discret à ce sujet pour le moment.<end>
+Son Éminence m'a chargé de vous remettre ceci, et de vous dire que c'est un stimulus anticipé, avant votre admission officielle au département. Elle vous demande aussi de rester $(#discret/discrète) à ce sujet pour l'instant.<end>
 
 =>a9_original
 What's inside?<end>
 
 =>a9
-Qu'est-ce qu'il y a dedans ?<end>
+Qu'y a-t-il à l'intérieur ?<end>
 
 =>q10_original
 Sorry, the only thing I was told is that the instructions on how to use it are inside.<end>
 
 =>q10
-Désolé, la seule chose qui m'a été dit est que les instructions sur la façon de l'utiliser sont à l'intérieur.<end>
+Désolée, on m'a seulement dit que le mode d'emploi est à l'intérieur.<end>
 
 =>a11_original
 You may convey my sincerest gratitude to Her Eminence, sister.<end>
 
 =>a11
-Vous pouvez transmettre ma plus sincère gratitude à Son Éminence, ma sœur.<end>
+Transmettez à Son Éminence ma plus sincère gratitude, sœur.<end>
 
 =>q12_original
 I will. <end>
 
 =>q12
-Oui. <end>
+Je le ferai. <end>
 
 =>q13_original
 ::She nods.:: Tchort guide you, $(#brother/sister).<end>
@@ -92,19 +92,19 @@ Oui. <end>
 Thanks. Just what I was looking for.<end>
 
 =>a14
-C'est gentil. Juste ce que je cherchais.<end>
+Merci. Exactement ce qu'il me fallait.<end>
 
 =>a15_original
 ::Take it without saying a word.::<end>
 
 =>a15
-::Prenez-le sans dire un mot.::<end>
+::Prendre sans un mot.::<end>
 
 =>q16_original
 Um, Tchort guide you, $(#brother/sister).<end>
 
 =>q16
-Um, Tchort vous guide, $(#frère/sœur).<end>
+Euh, Tchort vous guide, $(#frère/sœur).<end>
 
 =>q17_original
 <end>
@@ -122,13 +122,13 @@ Um, Tchort vous guide, $(#frère/sœur).<end>
 Another message from Her Eminence?<end>
 
 =>a19
-Un autre message de Son Eminence ?<end>
+Encore un message de Son Éminence ?<end>
 
 =>a20_original
 Now what?<end>
 
 =>a20
-Et maintenant ?<end>
+Quoi encore ?<end>
 
 =>q21_original
 $(context.player.Name).<end>
@@ -140,7 +140,7 @@ $(context.player.Name).<end>
 Evolution is Tchort.<end>
 
 =>a22
-Evolution est Tchort.<end>
+L'évolution est Tchort.<end>
 
 =>q23_original
 ::A young woman approaches you, fully wrapped in a Tchortist robe, even her hands; only her pale face remains revealed. She looks at you and smiles shyly before speaking with a soft and fragile-sounding voice.::
@@ -148,27 +148,27 @@ Evolution est Tchort.<end>
 $(context.player.Name), I'm glad I found you. Tchort is evolution.<end>
 
 =>q23
-::Une jeune femme s'approche de vous, entièrement enveloppée d'une robe tchortiste, même ses mains ; seule sa pâle figure reste révélée. Elle vous regarde et sourit timidement avant de parler avec une voix douce et fragile.::
+::Une jeune femme s'approche de vous, entièrement enveloppée dans une robe de Tchortist, jusqu'aux mains ; seul son visage pâle reste visible. Elle vous regarde, sourit timidement, puis parle d'une voix douce et fragile.::
 
-$(context.player.Name), je suis content de t'avoir trouvé. Tchort est l'évolution.<end>
+$(context.player.Name), je suis contente de vous avoir $(#trouvé/trouvée). Tchort est l'évolution.<end>
 
 =>a24_original
 Evolution is Tchort. What do you need, sister?<end>
 
 =>a24
-Evolution est Tchort. De quoi as-tu besoin, ma sœur ?<end>
+L'évolution est Tchort. De quoi avez-vous besoin, sœur ?<end>
 
 =>q25_original
 I was instructed to find you and tell you that Her Eminence, Episkopos Lydia seeks audience with you. You should go to her office as soon as you're able to, $(#brother/sister).<end>
 
 =>q25
-On m'a demandé de te trouver et de te dire que Son Éminence, Episkopos Lydia, cherche du public avec toi. Tu devrais aller dans son bureau dès que tu peux, $(#frère/sœur).<end>
+On m'a chargé de vous trouver et de vous dire que Son Éminence, Episkopos Lydia, souhaite vous recevoir. Vous devriez vous rendre à son bureau dès que possible, $(#frère/sœur).<end>
 
 =>a26_original
 Where is her office exactly?<end>
 
 =>a26
-Où est son bureau exactement ?<end>
+Où se trouve son bureau, exactement ?<end>
 
 =>q27_original
 Climb the staircase going up from the main hall, then take another set of stairs which lie behind the double doors right in front of you. Once you have reached the top you will find Her Eminence's office to the right of the stairs you had just ascended. Or, alternatively, you can take the stairs from Preservation which will lead you to the same place.
@@ -176,7 +176,7 @@ Climb the staircase going up from the main hall, then take another set of stairs
 Tchort guide you, $(#brother/sister).<end>
 
 =>q27
-Montez l'escalier qui monte du hall principal, puis prenez un autre ensemble d'escaliers qui se trouvent derrière les portes doubles juste devant vous. Une fois que vous avez atteint le sommet, vous trouverez le bureau de Son Eminence à droite des escaliers que vous venez de monter. Ou, alternativement, vous pouvez prendre l'escalier de Préservation qui vous mènera au même endroit.
+Montez l'escalier du hall principal, puis celui derrière les doubles portes, juste en face. Une fois en haut, le bureau de Son Éminence se trouve à droite de l'escalier que vous venez de gravir. Autre chemin : l'escalier depuis Preservation mène au même endroit.
 
 Tchort vous guide, $(#frère/sœur).<end>
 
@@ -184,7 +184,7 @@ Tchort vous guide, $(#frère/sœur).<end>
 Tchort guide you, sister.<end>
 
 =>a28
-Tchort vous guide, ma sœur.<end>
+Tchort vous guide, sœur.<end>
 
 =>a29_original
 Goodbye.<end>
@@ -196,43 +196,43 @@ Au revoir.<end>
 ::Nod and leave.::<end>
 
 =>a30
-::Hochez la tête et partez.::<end>
+::Hocher la tête et partir.::<end>
 
 =>a31_original
 Thank you for the message, sister. I'll go see Her Eminence at once.<end>
 
 =>a31
-Merci pour le message, ma sœur. Je vais voir Son Eminence immédiatement.<end>
+Merci pour le message, sœur. Je vais voir Son Éminence tout de suite.<end>
 
 =>a32_original
 Understood. I'll find her when I have the time.<end>
 
 =>a32
-Compris. Je la trouverai quand j'aurai le temps.<end>
+Compris. Je la verrai quand j'aurai le temps.<end>
 
 =>a33_original
 Greetings, what can I do for you?<end>
 
 =>a33
-Salutations, que puis-je faire pour vous ?<end>
+Salutations. Que puis-je pour vous ?<end>
 
 =>a34_original
 Why doesn't anyone come up and say: "Invictus, Your Destructiveness - finally I've found you! Allow this simple messenger to kneel before your might..." You get the idea.<end>
 
 =>a34
-Pourquoi personne ne vient dire: "Invictus, Votre Destructivité - enfin je vous ai trouvé! Laissez ce simple messager s'agenouiller avant votre puissance... » Vous avez l'idée.<end>
+Pourquoi personne ne s'approche jamais pour dire : « Invictus, Votre Destructivité - enfin je vous ai $(#trouvé/trouvée) ! Permettez à cette simple messagère de s'agenouiller devant votre puissance... » Vous voyez le tableau.<end>
 
 =>q35_original
 ::She seems almost startled by your response.:: Her... Her Eminence, Epsikopos Lydia... she wishes to see you. I was, um, instructed to tell you to report to her office as soon as you have the time.<end>
 
 =>q35
-::Elle semble presque surprise par votre réponse.:: Son Eminence, Epsikopos Lydia... elle veut vous voir. J'ai reçu l'ordre de vous dire de vous présenter à son bureau dès que vous aurez le temps.<end>
+::Elle semble presque saisie par votre réponse.:: Son... Son Éminence, Episkopos Lydia... elle souhaite vous voir. On m'a, euh, chargé de vous dire de vous présenter à son bureau dès que vous aurez un moment.<end>
 
 =>a36_original
 Sorry if I startled you, sister. I'll go see Her Eminence at once.<end>
 
 =>a36
-Désolé si je t'ai surpris, ma sœur. Je vais voir Son Eminence immédiatement.<end>
+$(#Désolé/Désolée) si je vous ai surprise, sœur. Je vais voir Son Éminence tout de suite.<end>
 
 =>a37_original
 Fine.<end>
@@ -244,17 +244,17 @@ Très bien.<end>
 What is it now!? Why must people always bother me...<end>
 
 =>a38
-Qu'est-ce qu'il y a ? Pourquoi les gens doivent toujours me déranger...<end>
+Quoi encore !? Pourquoi faut-il toujours qu'on me dérange...<end>
 
 =>q39_original
 Um, have an apex day, $(#brother/sister).<end>
 
 =>q39
-Passez une bonne journée, $(#frère/sœur).<end>
+Euh, passez une journée d'apex, $(#frère/sœur).<end>
 
 =>q40_original
 Don't keep Her Eminence waiting for too long, $(#brother/sister).<end>
 
 =>q40
-Ne faites pas attendre son Eminence trop longtemps, $(#frère/sœur).<end>
+Ne faites pas trop attendre Son Éminence, $(#frère/sœur).<end>
 

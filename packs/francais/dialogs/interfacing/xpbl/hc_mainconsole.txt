@@ -2,7 +2,7 @@
 ::LEMCO LC387 - ::<end>
 
 =>q1
-::LEMCO LC387-::<end>
+::LEMCO LC387 - ::<end>
 
 =>q2_original
 ::Welcome, P. Bridges
@@ -12,7 +12,9 @@
 <end>
 
 =>q2
-::Bienvenue, P. Bridges::
+::Bienvenue, P. Bridges
+
+::
 
 <end>
 
@@ -33,20 +35,20 @@ Nursery 3 status:
    Illumination: 17 lx (avg.)::<end>
 
 =>q3
-::État de la maternelle 1 :
-Température: 43.6° (vg.)
-Humidité : données de capteur indisponibles !
-Éclairage: 24 lx (vg.)
+::État de la pépinière 1 : 
+   Température : 43,6° (moy.)
+   Humidité : données capteur indisponibles !
+   Éclairage : 24 lx (moy.)
 
-État de la crèche 2 :
-Température: 32,3° (vg.)
-Humidité: 52,7 % (vg.)
-Illumination : données de capteur non disponibles !
-
-État de la pépinière 3 :
-Température: 39,1° (vg.)
-Humidité : 57,4% (vg.)
-Éclairage: 17 lx (vg.)::<end>
+État de la pépinière 2 : 
+   Température : 32,3° (moy.)
+   Humidité : 52,7 % (moy.)
+   Éclairage : données capteur indisponibles !
+   
+État de la pépinière 3 : 
+   Température : 39,1° (moy.)
+   Humidité : 57,4 % (moy.)
+   Éclairage : 17 lx (moy.)::<end>
 
 =>q4_original
 ::Irrigation: Auto (sensor data unavailable!)
@@ -55,8 +57,8 @@ Fertilization: Auto (fertilizer mixture canisters need replacement!)
 ::<end>
 
 =>q4
-::Irrigation: Auto (données de capteur non disponibles!)
-Fertilisation: Auto (les conteneurs de mélange fertilisant ont besoin de remplacement!)
+::Irrigation : Auto (données capteur indisponibles !)
+Fertilisation : Auto (cartouches de mélange d'engrais à remplacer !)
 
 ::<end>
 
@@ -64,7 +66,7 @@ Fertilisation: Auto (les conteneurs de mélange fertilisant ont besoin de rempla
 ::Ventilation: Manual (on for all nurseries)::<end>
 
 =>q5
-::Ventilation: Manuel (pour toutes les crèches)::<end>
+::Ventilation : Manuel (marche pour toutes les pépinières)::<end>
 
 =>q6_original
 <end>
@@ -76,7 +78,7 @@ Fertilisation: Auto (les conteneurs de mélange fertilisant ont besoin de rempla
 ::Ventilation system management::<end>
 
 =>a7
-::Gestion du système de ventilation::<end>
+::Gestion de la ventilation::<end>
 
 =>q8_original
 ::Ventilation control: Manual
@@ -86,11 +88,11 @@ Nursery 2 ventilation unit: On
 Nursery 3 ventilation unit: On::<end>
 
 =>q8
-::Contrôle de ventilation: manuel
+::Contrôle ventilation : Manuel
 
-Unité de ventilation de la pépinière 1 : On
-Unité de ventilation de la pépinière 2 : On
-Unité de ventilation de la pépinière 3 : On::<end>
+Unité de ventilation, pépinière 1 : Marche
+Unité de ventilation, pépinière 2 : Marche
+Unité de ventilation, pépinière 3 : Marche::<end>
 
 =>a9_original
 ::Back::<end>
@@ -106,11 +108,11 @@ Nursery 2 ventilation unit: Off
 Nursery 3 ventilation unit: Off::<end>
 
 =>q10
-::Contrôle de ventilation: manuel
+::Contrôle ventilation : Manuel
 
-Nursery 1 unité de ventilation: Off
-Unité de ventilation de la pépinière 2 : Arrêt
-Nursery 3 unité de ventilation: Off::<end>
+Unité de ventilation, pépinière 1 : Arrêt
+Unité de ventilation, pépinière 2 : Arrêt
+Unité de ventilation, pépinière 3 : Arrêt::<end>
 
 =>a11_original
 ::Turn on ventilation units::<end>
@@ -134,21 +136,21 @@ Turning on ventilation unit for Nursery 3... Success.::<end>
 =>q13
 ::Allumage des unités de ventilation...
 
-Tourner sur l'unité de ventilation pour la pépinière 1... Succès.
-Tourner sur l'unité de ventilation pour la pépinière 2... Succès.
-Tourner sur l'unité de ventilation pour la pépinière 3... Succès.::<end>
+Allumage de l'unité de ventilation, pépinière 1... Succès.
+Allumage de l'unité de ventilation, pépinière 2... Succès.
+Allumage de l'unité de ventilation, pépinière 3... Succès.::<end>
 
 =>q14_original
 ::You do not have permission to perform this action. Minimum clearance level required is C-3.::<end>
 
 =>q14
-::Vous n'avez pas la permission d'effectuer cette action. Le niveau minimal requis est C-3.::<end>
+::Vous n'êtes pas autorisé à effectuer cette action. Habilitation minimum requise : C-3.::<end>
 
 =>a15_original
 ::[Hacking] Turn on ventilation units.::<end>
 
 =>a15
-::[Hacking] Allumez les unités de ventilation.::<end>
+::[Hacking] Allumer les unités de ventilation::<end>
 
 =>q16_original
 <end>
@@ -162,7 +164,7 @@ Tourner sur l'unité de ventilation pour la pépinière 3... Succès.::<end>
 ::<end>
 
 =>q17
-::Erreur inconnue ! Je suis en route...
+::Erreur inconnue ! Journalisation...
 
 ::<end>
 
@@ -176,13 +178,13 @@ Tourner sur l'unité de ventilation pour la pépinière 3... Succès.::<end>
 ::Main::<end>
 
 =>a19
-::Principale::<end>
+::Accueil::<end>
 
 =>a20_original
 ::Irrigation system management::<end>
 
 =>a20
-::Gestion du système d'irrigation::<end>
+::Gestion de l'irrigation::<end>
 
 =>q21_original
 ::Irrigation control: Auto
@@ -190,15 +192,15 @@ Tourner sur l'unité de ventilation pour la pépinière 3... Succès.::<end>
 Sensor data unavailable! Please contact HTS.::<end>
 
 =>q21
-::Contrôle d'irrigation: Auto
+::Contrôle irrigation : Auto
 
-Données du capteur non disponibles ! Veuillez contacter HTS.::<end>
+Données capteur indisponibles ! Contactez HTS.::<end>
 
 =>a22_original
 ::Fertilization system management::<end>
 
 =>a22
-::Gestion du système de fertilisation::<end>
+::Gestion de la fertilisation::<end>
 
 =>q23_original
 ::Fertilizer administration: Auto
@@ -216,25 +218,25 @@ Fertilizer canisters (DT3) - All empty. Please replace.
 Fertilizer canisters (DT4) - All empty. Please replace.::<end>
 
 =>q23
-::Administration d'engrais: Auto
+::Administration d'engrais : Auto
 
-Boîtes d'engrais (CH9) - Toutes vides. Veuillez remplacer.
+Cartouches d'engrais (CH9) - Toutes vides. À remplacer.
 
-Contenants d'engrais (CH9-S) - Tous vides. Veuillez remplacer.
+Cartouches d'engrais (CH9-S) - Toutes vides. À remplacer.
 
-Boîtes d'engrais (NAH5) - Toutes vides. Veuillez remplacer.
+Cartouches d'engrais (NAH5) - Toutes vides. À remplacer.
 
-Contenants d'engrais (ASO12) - Tous vides. Veuillez remplacer.
+Cartouches d'engrais (ASO12) - Toutes vides. À remplacer.
 
-Engrais (DT3) - Tous vides. Veuillez remplacer.
+Cartouches d'engrais (DT3) - Toutes vides. À remplacer.
 
-Contenants d'engrais (DT4) - Tous vides. Veuillez remplacer.::<end>
+Cartouches d'engrais (DT4) - Toutes vides. À remplacer.::<end>
 
 =>a24_original
 ::Pesticide administration system management::<end>
 
 =>a24
-::Gestion du système d'administration des pesticides::<end>
+::Gestion des pesticides::<end>
 
 =>q25_original
 ::Pesticide administration: Disabled
@@ -242,45 +244,45 @@ Contenants d'engrais (DT4) - Tous vides. Veuillez remplacer.::<end>
 Note: Automated pesticide administration disabled until further notice. All UHI-X-400 pesticide canisters (active and passive) have been moved to Cryostorage Block 1.::<end>
 
 =>q25
-::Administration des pesticides: handicapés
+::Administration des pesticides : Désactivée
 
-Remarque : L'administration automatisée de pesticides est désactivée jusqu'à nouvel ordre. Tous les contenants de pesticides UHI-X-400 (actifs et passifs) ont été transférés au bloc de cryostorage 1.::<end>
+Note : administration automatique des pesticides désactivée jusqu'à nouvel ordre. Toutes les cartouches de pesticide UHI-X-400 (actives et passives) ont été transférées au bloc de cryostockage 1.::<end>
 
 =>a26_original
 ::Summon available strongman::<end>
 
 =>a26
-::Invoquer un homme fort disponible::<end>
+::Appeler un strongman disponible::<end>
 
 =>q27_original
 ::No available strongmen detected. Your request has been placed in a queue.::<end>
 
 =>q27
-::Aucun homme fort disponible détecté. Votre demande a été placée dans une file d'attente.::<end>
+::Aucun strongman disponible détecté. Votre demande a été mise en file d'attente.::<end>
 
 =>a28_original
 ::Summon available handmaiden::<end>
 
 =>a28
-::Invoquer la servante disponible::<end>
+::Appeler une handmaiden disponible::<end>
 
 =>q29_original
 ::No available handmaidens detected. Your request has been placed in a queue.::<end>
 
 =>q29
-::Aucune servante disponible détectée. Votre demande a été placée dans une file d'attente.::<end>
+::Aucune handmaiden disponible détectée. Votre demande a été mise en file d'attente.::<end>
 
 =>a30_original
 ::Exit::<end>
 
 =>a30
-::Sortie::<end>
+::Quitter::<end>
 
 =>q31_original
 ::Ventilation: Manual (off for all nurseries)::<end>
 
 =>q31
-::Ventilation: Manuel (arrêt pour toutes les crèches)::<end>
+::Ventilation : Manuel (arrêt pour toutes les pépinières)::<end>
 
 =>q32_original
 ::Welcome, guest::
@@ -291,4 +293,3 @@ Remarque : L'administration automatisée de pesticides est désactivée jusqu'à
 ::Bienvenue, invité::
 
 <end>
-

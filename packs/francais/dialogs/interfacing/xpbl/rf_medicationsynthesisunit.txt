@@ -10,11 +10,11 @@ Please select the item you want to synthesize. The percentage of total MedSynth 
 
 =>q1
 
-::LEMCO L-MSU-P4 - Unité de synthèse des médicaments
+::LEMCO L-MSU-P4 - Unité de synthèse de médicaments
 
-Cette unité est un prototype fonctionnel et, à ce titre, peut présenter des erreurs pendant le fonctionnement. Contactez-nous à nexus.medtech.medsynth pour des informations et des suggestions.
+Cette unité est un prototype fonctionnel : des erreurs peuvent survenir. Signaler un problème ou une suggestion : nexus.medtech.medsynth.
 
-Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu chimique MedSynth nécessaire à la synthèse est affiché à côté de chaque élément.
+Choisir le produit à synthétiser. Le pourcentage de contenu chimique MedSynth requis s'affiche à côté de chaque produit.
 
 ::<end>
 
@@ -32,7 +32,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>q3
 
-::Niveau de jauge MSCC: $(context.loc xpbl rf medicationSynthesisCanisterCharge)%::<end>
+::Jauge MSCC : $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
 
 =>q4_original
 
@@ -40,7 +40,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>q4
 
-::- Veuillez remplacer la boîte chimique MedSynth.::<end>
+:: - Remplacer la cartouche chimique MedSynth.::<end>
 
 =>q5_original
 
@@ -56,7 +56,7 @@ Veuillez sélectionner l'élément à synthétiser. Le pourcentage de contenu ch
 
 =>a6
 
-::Antidote de synthèse (-5%)::<end>
+::Synthétiser antidote (-5%)::<end>
 
 =>q7_original
 
@@ -68,11 +68,11 @@ Synthesis successful. Please collect your item from the deposit tray.::<end>
 
 =>q7
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
-
-Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
+Synthèse...
+ 
+Synthèse réussie. Récupérer le produit dans le bac de dépôt.::<end>
 
 =>a8_original
 
@@ -80,7 +80,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a8
 
-::Synthétiser l'hypo (-5%)::<end>
+::Synthétiser health hypo (-5%)::<end>
 
 =>a9_original
 
@@ -88,7 +88,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a9
 
-::Synthétiser l'hypo avancé (-10%)::<end>
+::Synthétiser advanced health hypo (-10%)::<end>
 
 =>a10_original
 
@@ -96,7 +96,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a10
 
-::Synthétisation de la morphine (-10%)::<end>
+::Synthétiser morphine shot (-10%)::<end>
 
 =>a11_original
 
@@ -104,7 +104,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a11
 
-::Synthétiser la dose d'adrénaline (-10%)::<end>
+::Synthétiser adrenaline shot (-10%)::<end>
 
 =>a12_original
 
@@ -112,7 +112,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a12
 
-::Synthétiser l'amplificateur psi (-5%)::<end>
+::Synthétiser psi booster (-5%)::<end>
 
 =>a13_original
 
@@ -120,7 +120,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a13
 
-::Inhalant psionique désaturé synthétisé (-5%)::<end>
+::Synthétiser desaturated psionic inhalant (-5%)::<end>
 
 =>a14_original
 
@@ -128,7 +128,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a14
 
-::Synthétisation de l'ongle (-15%)::<end>
+::Synthétiser irongut (-15%)::<end>
 
 =>a15_original
 
@@ -136,7 +136,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a15
 
-::Synthétisation de la coagulation (-15%)::<end>
+::Synthétiser coagulation shot (-15%)::<end>
 
 =>a16_original
 
@@ -152,7 +152,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>q17
 
-::La synthèse de ces types de médicaments est actuellement désactivée. Vérifiez le journal de travail pour plus d'informations.::<end>
+::La synthèse de ces types de médicaments est désactivée. Consulter le journal de travail pour plus d'informations.::<end>
 
 =>a18_original
 
@@ -168,7 +168,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>q19
 
-::Attendez...::<end>
+::Patienter...::<end>
 
 =>q20_original
 
@@ -186,7 +186,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>q21
 
-::Avertissement : La synthèse de ces types de médicaments n'a pas été entièrement testée et pourrait entraîner des substances malsynthétiques ou même des échecs de synthèse complets !
+::Avertissement : la synthèse de ces types de médicaments n'a pas été entièrement testée. Risque de substances mal synthétisées, voire d'échec total.
 
 ::<end>
 
@@ -196,7 +196,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>q22
 
-::Niveau de jauge MSCC: $(context.loc xpbl rf medicationSynthesisCanisterCharge)%::<end>
+::Jauge MSCC : $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
 
 =>q23_original
 
@@ -204,7 +204,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>q23
 
-::- Veuillez remplacer la boîte.::<end>
+:: - Remplacer la cartouche.::<end>
 
 =>q24_original
 
@@ -220,7 +220,7 @@ Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt
 
 =>a25
 
-::Synthesize focus stim (-15%)::<end>
+::Synthétiser focus stim (-15%)::<end>
 
 =>q26_original
 
@@ -232,9 +232,9 @@ Synthesizing...
 
 =>q26
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
+Synthèse...
 
 ::<end>
 
@@ -256,11 +256,11 @@ Waste disposal successful.::<end>
 
 =>q28
 
-::Synthèse infructueuse !
+::Échec de la synthèse !
 
 Élimination des déchets...
 
-L'élimination des déchets est réussie.::<end>
+Déchets éliminés.::<end>
 
 =>q29_original
 
@@ -270,7 +270,7 @@ L'élimination des déchets est réussie.::<end>
 
 =>q29
 
-::Les données de synthèse ont été enregistrées pour évaluation.
+::Données de synthèse enregistrées pour évaluation.
 
 ::<end>
 
@@ -288,7 +288,7 @@ L'élimination des déchets est réussie.::<end>
 
 =>q31
 
-::Synthèse réussie. Veuillez récupérer votre article sur le plateau de dépôt.::<end>
+::Synthèse réussie. Récupérer le produit dans le bac de dépôt.::<end>
 
 =>a32_original
 
@@ -296,7 +296,7 @@ L'élimination des déchets est réussie.::<end>
 
 =>a32
 
-::Synthétiser l'hypo super-santé (-15%)::<end>
+::Synthétiser super health hypo (-15%)::<end>
 
 =>q33_original
 
@@ -308,9 +308,9 @@ Synthesizing...
 
 =>q33
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
+Synthèse...
 
 ::<end>
 
@@ -336,7 +336,7 @@ La synthèse...
 
 =>a36
 
-::Synthesize supersoldier médicament (-25%)::<end>
+::Synthétiser supersoldier drug (-25%)::<end>
 
 =>q37_original
 
@@ -348,9 +348,9 @@ Synthesizing...
 
 =>q37
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
+Synthèse...
 
 ::<end>
 
@@ -376,7 +376,7 @@ La synthèse...
 
 =>a40
 
-::Synthesize psi revigorer (-30%)::<end>
+::Synthétiser psi reinvigorator (-30%)::<end>
 
 =>q41_original
 
@@ -388,9 +388,9 @@ Synthesizing...
 
 =>q41
 
-::Préparation du contenant...
+::Préparation du contenant... Terminé.
 
-La synthèse...
+Synthèse...
 
 ::<end>
 
@@ -428,7 +428,7 @@ Rebooting...::<end>
 
 ::Erreur inconnue !
 
-Redémarrer...::<end>
+Redémarrage...::<end>
 
 =>a46_original
 
@@ -436,7 +436,7 @@ Redémarrer...::<end>
 
 =>a46
 
-::Synthesize focus stim (-15%)::<end>
+::Synthétiser focus stim (-15%)::<end>
 
 =>a47_original
 
@@ -444,7 +444,7 @@ Redémarrer...::<end>
 
 =>a47
 
-::Synthétiser l'hypo super-santé (-15%)::<end>
+::Synthétiser super health hypo (-15%)::<end>
 
 =>a48_original
 
@@ -452,7 +452,7 @@ Redémarrer...::<end>
 
 =>a48
 
-::Synthesize supersoldier médicament (-25%)::<end>
+::Synthétiser supersoldier drug (-25%)::<end>
 
 =>a49_original
 
@@ -460,7 +460,7 @@ Redémarrer...::<end>
 
 =>a49
 
-::Synthesize psi revigorer (-30%)::<end>
+::Synthétiser psi reinvigorator (-30%)::<end>
 
 =>a50_original
 
@@ -468,5 +468,4 @@ Redémarrer...::<end>
 
 =>a50
 
-::Sortie::<end>
-
+::Quitter::<end>

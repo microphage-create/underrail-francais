@@ -11,16 +11,16 @@ Warning! Total electric supply capacity is extremely low! (<5%)
 Current estimated capacity: <10 MW::<end>
 
 =>q1
-::Console de gestion d'énergie de la centrale électrique Arke
+::Console de gestion de puissance - Arke Power Station
 
 Biocorp Dis Electronics
 
-Puissance nominale de la centrale: 300 MW
-Avertissement ! L'efficacité estimée de la turbine est extrêmement faible! (<10%)
-L'entretien ou le remplacement des turbines est nécessaire!
-Avertissement ! La capacité totale d'alimentation électrique est extrêmement faible! (<5%)
+Puissance nominale : 300 MW
+Avertissement ! Rendement estimé des turbines extrêmement faible ! (<10%)
+Entretien ou remplacement des turbines nécessaire !
+Avertissement ! Capacité d'alimentation totale extrêmement faible ! (<5%)
 
-Capacité estimée actuelle: <10 MW::<end>
+Capacité estimée actuelle : <10 MW::<end>
 
 =>q2_original
 <end>
@@ -47,28 +47,28 @@ South Elevator: 0%
 Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
 
 =>q3
-::Dépenses courantes de puissance (%):
+::Puissance allouée (%) :
 
-Complexe de recherche : $(context.loc dc labPower)%
+Complexe de recherche : $(context.loc_dc_labPower)%
 Laboratoire Tithonus : 0%
-Réservoirs mutagènes A: $(context.loc dc mutagenPower)%
-Réservoirs de mutagène B: 0%
-Centrale électrique Arke : $(context.loc dc arkePower)%
-Bloc d'entrepôt 1: 0%
-Bloc d'entrepôt 2: $(context.loc dc warehousePower)%
-BCAF - Détachement Terres creuses : 0%
-Talos Outpost: $(context.loc dc facelessPower)%
-Caerus Bloc résidentiel: $(context.loc dc résidentialPower)%
-Prison de sécurité maximale de Tartarus: $(context.loc dc prisonPower)%
-Ascenseur Sud: 0%
+Réservoirs de mutagène A : $(context.loc_dc_mutagenPower)%
+Réservoirs de mutagène B : 0%
+Arke Power Station : $(context.loc_dc_arkePower)%
+Bloc d'entrepôt 1 : 0%
+Bloc d'entrepôt 2 : $(context.loc_dc_warehousePower)%
+BCAF - Détachement Hollow Earth : 0%
+Talos Outpost : $(context.loc_dc_facelessPower)%
+Bloc résidentiel Caerus : $(context.loc_dc_residentialPower)%
+Prison de haute sécurité Tartarus : $(context.loc_dc_prisonPower)%
+Ascenseur sud : 0%
 
-Puissance actuelle disponible pour l'allocation : $(context.loc dc TotalPower)%::<end>
+Puissance disponible à allouer : $(context.loc_dc_TotalPower)%::<end>
 
 =>a4_original
 ::Power plant management::<end>
 
 =>a4
-::Gestion des centrales électriques::<end>
+::Gestion de la centrale::<end>
 
 =>q5_original
 ::Gas turbine 1 status: on
@@ -81,13 +81,13 @@ Heat recovery steam generator (HRSG) status: on
 ::<end>
 
 =>q5
-::État de la turbine à gaz 1:
-État de la turbine à gaz 2 :
+::Turbine à gaz 1 : marche
+Turbine à gaz 2 : marche
 
-Avertissement ! L'entretien ou le remplacement des turbines est nécessaire!
+Avertissement ! Entretien ou remplacement des turbines nécessaire !
 
-État de la turbine à vapeur:
-État du générateur de vapeur de récupération de chaleur (HRSG):
+Turbine à vapeur : marche
+Générateur de vapeur à récupération de chaleur (HRSG) : marche
 ::<end>
 
 =>q6_original
@@ -96,9 +96,9 @@ Avertissement ! L'entretien ou le remplacement des turbines est nécessaire!
 Mode of operation: combined cycle (Manual config)::<end>
 
 =>q6
-::Brûleurs supplémentaires HRSG:
+::Brûleurs d'appoint HRSG : marche
 
-Mode de fonctionnement: cycle combiné (configuration manuelle)::<end>
+Mode : cycle combiné (config. manuelle)::<end>
 
 =>a7_original
 ::Back::<end>
@@ -112,15 +112,15 @@ Mode de fonctionnement: cycle combiné (configuration manuelle)::<end>
 Mode of operation: combined cycle (Auto config)::<end>
 
 =>q8
-::Brûleurs supplémentaires HRSG: éteints
+::Brûleurs d'appoint HRSG : arrêt
 
-Mode de fonctionnement: cycle combiné (configuration automatique)::<end>
+Mode : cycle combiné (config. auto)::<end>
 
 =>a9_original
 ::[Electronics] Manually configure the combined-cycle system::<end>
 
 =>a9
-::[Electronics] Configurer manuellement le système à cycle combiné::<end>
+::[Electronics] Configurer manuellement le cycle combiné::<end>
 
 =>q10_original
 ::Optimizing gas turbine air-fuel mixture... Done.
@@ -130,9 +130,9 @@ Engaging and configuring HRSG supplementary burners... Done.
 ::<end>
 
 =>q10
-::Optimisation du mélange air-carburant turbine à gaz... C'est fait.
+::Optimisation du mélange air-carburant des turbines à gaz... Terminé.
 
-Engager et configurer des brûleurs supplémentaires HRSG... C'est fait.
+Mise en service et configuration des brûleurs d'appoint HRSG... Terminé.
 
 ::<end>
 
@@ -144,11 +144,11 @@ Optimizing supercondenser operation... Done.
 Manual configuration successful. Total net power gain: 51%::<end>
 
 =>q11
-::Vérifier l'état de la turbine à vapeur... C'est fait.
+::Vérification de la turbine à vapeur... Terminé.
 
-Optimisation du fonctionnement du supercondenseur... C'est fait.
+Optimisation du supercondenseur... Terminé.
 
-Configuration manuelle réussie. Gain de puissance net total: 51 %::<end>
+Configuration manuelle réussie. Gain net total : 51%::<end>
 
 =>q12_original
 ::Warning! Steam pressure reaching unacceptable levels!
@@ -160,19 +160,19 @@ Optimizing air-fuel mixture...
 Procedure completed! (52 errors logged)::<end>
 
 =>q12
-::Avertissement ! Pression de vapeur atteignant des niveaux inacceptables!
+::Avertissement ! Pression vapeur hors limites !
 
-Revenir aux paramètres par défaut...
-Désengagement des brûleurs supplémentaires HRSG...
+Retour aux paramètres par défaut...
+Arrêt des brûleurs d'appoint HRSG...
 Optimisation du mélange air-carburant...
 
-Procédure terminée! (52 erreurs enregistrées)::<end>
+Procédure terminée ! (52 erreurs journalisées)::<end>
 
 =>a13_original
 ::Deallocate power from Arke security systems and assembly lines::<end>
 
 =>a13
-::Distribution de la puissance des systèmes de sécurité et des lignes de montage Arke::<end>
+::Retirer la puissance des systèmes de sécurité et des lignes d'assemblage Arke::<end>
 
 =>q14_original
 ::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
@@ -180,9 +180,9 @@ Procédure terminée! (52 erreurs enregistrées)::<end>
 Are you sure you want to proceed?::<end>
 
 =>q14
-::Cette procédure désactivera tous les systèmes de sécurité, y compris les lignes AMA, les systèmes de surveillance et les défenses de tourelle.
+::Cette procédure désactivera tous les systèmes de sécurité, y compris les lignes AMA, la surveillance et les tourelles.
 
-Tu es sûr de vouloir continuer ?::<end>
+Continuer ?::<end>
 
 =>a15_original
 ::Yes::<end>
@@ -203,18 +203,18 @@ Procedure completed with 1 error(s)::<end>
 =>q16
 ::Désactivation des systèmes de sécurité...
 
-Sécurité de chambre à turbine - sécurité désactivée!
-Section bureau - sécurité désactivée!
-Fabrication et montage automatisés - sécurité désactivée!
-IRIS Core - Erreur: L'accès à distance est refusé!
+Chambre des turbines - sécurité désactivée !
+Secteur bureaux - sécurité désactivée !
+Fabrication et assemblage automatisés - sécurité désactivée !
+IRIS Core - Erreur : accès distant refusé !
 
-Procédure complétée par 1 erreur(s)::<end>
+Procédure terminée avec 1 erreur(s)::<end>
 
 =>a17_original
 ::No::<end>
 
 =>a17
-::No::<end>
+::Non::<end>
 
 =>q18_original
 ::Procedure canceled::<end>
@@ -226,7 +226,7 @@ Procédure complétée par 1 erreur(s)::<end>
 ::Allocate power to Warehouse Block 2 (-5%)::<end>
 
 =>a19
-::Attribuer la puissance au bloc d'entrepôt 2 (-5%)::<end>
+::Allouer de la puissance au bloc d'entrepôt 2 (-5%)::<end>
 
 =>q20_original
 ::Power allocated successfully!::
@@ -234,7 +234,7 @@ Procédure complétée par 1 erreur(s)::<end>
 <end>
 
 =>q20
-::Puissance attribuée avec succès!::
+::Puissance allouée.::
 
 <end>
 
@@ -242,7 +242,7 @@ Procédure complétée par 1 erreur(s)::<end>
 ::Deallocate power from Warehouse Block 2 (+5%)::<end>
 
 =>a21
-::Distribution de l'énergie du bloc d'entrepôt 2 (+5%)::<end>
+::Retirer la puissance du bloc d'entrepôt 2 (+5%)::<end>
 
 =>q22_original
 ::Power deallocated successfully!::
@@ -250,7 +250,7 @@ Procédure complétée par 1 erreur(s)::<end>
 <end>
 
 =>q22
-::La distribution d'électricité est réussie !::
+::Puissance retirée.::
 
 <end>
 
@@ -258,73 +258,73 @@ Procédure complétée par 1 erreur(s)::<end>
 ::Allocate power to Hollow Earth main research complex (-60%)::<end>
 
 =>a23
-::Attribuer la puissance au complexe de recherche principal Hollow Earth (-60%)::<end>
+::Allouer de la puissance au complexe de recherche principal Hollow Earth (-60%)::<end>
 
 =>a24_original
 ::Deallocate power from Hollow Earth main research complex (+60%)::<end>
 
 =>a24
-::Répartition de la puissance du complexe de recherche principal Hollow Earth (+60%)::<end>
+::Retirer la puissance du complexe de recherche principal Hollow Earth (+60%)::<end>
 
 =>a25_original
 ::Allocate power to Mutagen Tanks A (-30%)::<end>
 
 =>a25
-::Attribuer la puissance aux réservoirs mutagènes A (-30 %)::<end>
+::Allouer de la puissance aux réservoirs de mutagène A (-30%)::<end>
 
 =>a26_original
 ::Deallocate power from Mutagen Tanks A (+30%)::<end>
 
 =>a26
-::Répartition de la puissance des réservoirs mutagènes A (+30 %)::<end>
+::Retirer la puissance des réservoirs de mutagène A (+30%)::<end>
 
 =>a27_original
 ::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
 
 =>a27
-::Attribuer la puissance aux réservoirs mutagènes B *(No 3 hors ligne)*::<end>
+::Allouer de la puissance aux réservoirs de mutagène B *(Nœud 3 hors ligne)*::<end>
 
 =>a28_original
 ::Allocate power to Caerus Residential Block (-40%)::<end>
 
 =>a28
-::Attribuer la puissance au bloc résidentiel de Caerus (-40%)::<end>
+::Allouer de la puissance au bloc résidentiel Caerus (-40%)::<end>
 
 =>q29_original
 ::Power allocated successfully!::
 <end>
 
 =>q29
-::Puissance attribuée avec succès!::
+::Puissance allouée.::
 <end>
 
 =>a30_original
 ::Deallocate power from Caerus Residential Block (+40%)::<end>
 
 =>a30
-::Répartition de la puissance de l'édifice résidentiel de Caerus (+40%)::<end>
+::Retirer la puissance du bloc résidentiel Caerus (+40%)::<end>
 
 =>a31_original
 ::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
 
 =>a31
-::Attribuer le pouvoir à la prison de sécurité maximale de Tartarus * (No 8 et 11 hors ligne)*::<end>
+::Allouer de la puissance à la prison de haute sécurité Tartarus *(Nœuds 8 et 11 hors ligne)*::<end>
 
 =>a32_original
 ::Allocate power to South Elevator *(Node 19 offline)*::<end>
 
 =>a32
-::Attribuer la puissance à l'ascenseur sud *(Node 19 hors ligne)*::<end>
+::Allouer de la puissance à l'ascenseur sud *(Nœud 19 hors ligne)*::<end>
 
 =>a33_original
 ::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
 
 =>a33
-::Attribuer la puissance à Talos Outpost *(Node 2 hors ligne)*::<end>
+::Allouer de la puissance à Talos Outpost *(Nœud 2 hors ligne)*::<end>
 
 =>a34_original
 ::Exit::<end>
 
 =>a34
-::Sortie::<end>
+::Quitter::<end>
 

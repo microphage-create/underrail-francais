@@ -2,19 +2,19 @@
 ::It's some kind of a box for power. ::<end>
 
 =>q1
-::C'est une sorte de boîte pour le pouvoir.::<end>
+::C'est une sorte de coffret électrique. ::<end>
 
 =>q2_original
 ::The lights inside it are glowing with a pleasant bluish hue.::<end>
 
 =>q2
-::Les lumières à l'intérieur brillent d'une agréable teinte bleuâtre.::<end>
+::Les lumières à l'intérieur luisent d'une teinte bleutée, plutôt agréable.::<end>
 
 =>a3_original
 ::Leave.::<end>
 
 =>a3
-::Partir.::<end>
+::Partir::<end>
 
 =>q4_original
 <end>
@@ -26,19 +26,19 @@
 ::Open it.::<end>
 
 =>a5
-::Ouvre-le.::<end>
+::Ouvrir::<end>
 
 =>q6_original
 ::There's nothing inside but cobwebs with nothing edible in them.::<end>
 
 =>q6
-::Il n'y a rien à l'intérieur que des toiles d'araignée avec rien de comestible.::<end>
+::À l'intérieur, rien que des toiles d'araignée, sans rien de comestible.::<end>
 
 =>q7_original
 ::The label indicates this to be the transformer for the nearby magnetic resonance imaging scanner. ::<end>
 
 =>q7
-::L'étiquette indique que c'est le transformateur du scanner d'imagerie par résonance magnétique à proximité.::<end>
+::L'étiquette indique que c'est le transformateur du scanner IRM à proximité. ::<end>
 
 =>q8_original
 ::The machine is fully powered.::<end>
@@ -56,19 +56,19 @@
 ::Restore power to the MRI scanner.::<end>
 
 =>a10
-::Restaurer la puissance au scanner IRM.::<end>
+::Rétablir l'alimentation du scanner IRM::<end>
 
 =>q11_original
 ::You open the power box to see nothing but a mass of cobwebs littered with dead or dying insects. You're going to have to clear the view if you hope to achieve anything.::<end>
 
 =>q11
-::Vous ouvrez la boîte électrique pour ne voir qu'une masse de toiles d'araignées jonchées d'insectes morts ou mourants. Vous allez devoir éclaircir le point de vue si vous souhaitez obtenir quelque chose.::<end>
+::Vous ouvrez le coffret : rien qu'une masse de toiles d'araignée, jonchée d'insectes morts ou mourants. Il va falloir dégager la vue si vous voulez faire quoi que ce soit.::<end>
 
 =>a12_original
 ::Clear the cobwebs.::<end>
 
 =>a12
-::Dégagez les cobwebs.::<end>
+::Dégager les toiles d'araignée::<end>
 
 =>q13_original
 ::You pick up a rusty, twenty centimeter-long rod from the ground and use it to tear the cobwebbery. Innumerable eight-leggers skitter away unhappily, and after a minute or so you are left with something resembling a macabre cotton candy.
@@ -76,27 +76,27 @@
 Now you can get to work.::<end>
 
 =>q13
-::Vous prenez une tige rouillée de vingt centimètres de long du sol et vous l'utilisez pour déchirer la toile d'araignée. D'innombrables huit-leggers s'éloignent malheureusement, et après une minute, il vous reste quelque chose qui ressemble à un bonbon de coton macabre.
+::Vous ramassez par terre une tige rouillée d'une vingtaine de centimètres et vous vous en servez pour déchirer l'amas de toiles. D'innombrables araignées décampent, visiblement pas contentes, et au bout d'une minute il vous reste quelque chose qui ressemble à une barbe à papa macabre.
 
-Tu peux aller travailler.::<end>
+Vous pouvez vous y mettre.::<end>
 
 =>a14_original
 ::[Electronics] Repair the transformer with an advanced electronic kit.::<end>
 
 =>a14
-::[Electronics] Réparer le transformateur avec un kit électronique avancé.::<end>
+::[Electronics] Réparer le transformateur avec un kit de réparation électronique avancé::<end>
 
 =>q15_original
 ::Fortunately, the winding, cores and the bushing are all in order, as troubleshooting those would be a lengthy, troublesome process. Instead, it is the electro-optical tap controller - a component which controls the output voltage - that is causing the problems. After replacing a few faulty electronic components and returning everything in their proper position, you flip the power switch and witness three columns of LEDs light up with a pleasant bluish hue.::<end>
 
 =>q15
-::Heureusement, l'enroulement, les cœurs et les douilles sont tous en ordre, car le dépannage de ceux-ci serait un processus long et pénible. Au lieu de cela, c'est le contrôleur de robinet électro-optique - un composant qui contrôle la tension de sortie - qui cause les problèmes. Après avoir remplacé quelques composants électroniques défectueux et rendu tout dans leur bonne position, vous retournez l'interrupteur d'alimentation et assistez à trois colonnes de LED s'allument avec une teinte bleutée agréable.::<end>
+::Heureusement, l'enroulement, les noyaux et la traversée sont en bon état : les diagnostiquer aurait été long et pénible. Le problème vient plutôt du changeur de prises électro-optique, le composant qui régule la tension de sortie. Après avoir remplacé quelques composants électroniques défectueux et tout remis en place, vous basculez l'interrupteur : trois colonnes de LED s'allument d'une teinte bleutée, plutôt agréable.::<end>
 
 =>q16_original
 ::The winding, cores and the bushing are all in order, and most of the electronic components seem alright as well; not even the capacitors have died out. The problem then must lie in one of the main components, but dealing with those is, unfortunately, outside of your expertise. ::<end>
 
 =>q16
-::L'enroulement, les cœurs et le douillet sont tous dans l'ordre, et la plupart des composants électroniques semblent aller aussi bien; même les condensateurs ne sont pas morts. Le problème doit alors se trouver dans l'une des composantes principales, mais gérer celles-ci est malheureusement en dehors de votre expertise.::<end>
+::L'enroulement, les noyaux et la traversée sont en bon état, et la plupart des composants électroniques aussi ; même les condensateurs n'ont pas claqué. Le problème est donc dans un des composants principaux, mais ça dépasse malheureusement vos compétences. ::<end>
 
 =>q17_original
 ::There is nothing you can do at the moment.::<end>
@@ -108,11 +108,10 @@ Tu peux aller travailler.::<end>
 ::The more you stare at the transformer, the more it seems like you've wasted your time clearing the cobwebs.::<end>
 
 =>q18
-::Plus vous regardez le transformateur, plus il semble que vous avez perdu votre temps à nettoyer les toiles d'araignée.::<end>
+::Plus vous fixez le transformateur, plus vous avez l'impression d'avoir perdu votre temps à dégager les toiles.::<end>
 
 =>q19_original
 ::It isn't receiving any power at the moment.::<end>
 
 =>q19
-::Il ne reçoit aucun pouvoir en ce moment.::<end>
-
+::Il n'est pas alimenté pour le moment.::<end>
