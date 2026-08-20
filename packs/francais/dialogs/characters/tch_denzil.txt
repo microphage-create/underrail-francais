@@ -2,7 +2,7 @@
 We will cull the Faceless!<end>
 
 =>q1
-Nous éliminerons les Faceless !<end>
+Nous purgerons les Faceless !<end>
 
 =>q2_original
 $(context.player.Name).<end>
@@ -14,7 +14,7 @@ $(context.player.Name).<end>
 Get inside. The praepostor will be with you shortly.<end>
 
 =>q3
-Entrez. La praepostor va vous rejoindre.<end>
+Entrez. La praepostor sera bientôt avec vous.<end>
 
 =>q4_original
 Follow me and don't stray away.<end>
@@ -38,13 +38,13 @@ Avez-vous tout terminé ?<end>
 I am ready. Take this. ::Give him the figurine.::<end>
 
 =>a7
-Je suis $(#prêt/prête). Prenez. ::Lui donner la figurine.::<end>
+Je suis $(#prêt/prête). Prenez ceci. ::Lui donner la figurine.::<end>
 
 =>q8_original
 ::Efreitor Denzil slowly picks up the figurine and scrutinizes it. Despite the fact that his face is covered with a mask you are certain that a pleased grin lurks beneath it. His admiration doesn't last for long though; he looks at you and signals you to follow him.::<end>
 
 =>q8
-::Efreitor Denzil saisit lentement la figurine et l'examine. Le visage est sous le masque, mais on est sûr qu'un sourire satisfait se cache dessous. L'admiration ne dure pas : il vous regarde et vous fait signe de le suivre.::<end>
+::Efreitor Denzil saisit lentement la figurine et la scrute. Son visage est couvert d'un masque, mais vous êtes $(#certain/certaine) qu'un sourire satisfait s'y cache. L'admiration ne dure pas longtemps ; il vous regarde et vous fait signe de le suivre.::<end>
 
 =>a9_original
 ::End Dialog.::<end>
@@ -62,31 +62,31 @@ Très bien. Voici le petit homme de métal. ::Lui donner la figurine.::<end>
 Can you finally tell me what's the deal with this figurine? Why is it so important to you?<end>
 
 =>a11
-Pouvez-vous enfin me dire ce qu'il en est de cette figurine ? Pourquoi compte-t-elle tant pour vous ?<end>
+Pouvez-vous enfin me dire ce qu'il y a avec cette figurine ? Pourquoi est-elle si importante pour vous ?<end>
 
 =>q12_original
 ::He sighs.:: It is a part of a larger collection which is being assembled in celebration of the Institute of Tchort's one hundredth anniversary. Indeed. Foundry was commissioned to create this beautiful work of art and send it to us. After some unfortunate delays it was due to finally arrive... but, the carriers of the figurine were intercepted. I was tasked to mobilize troops and retrieve it, and that is exactly what I did... with your help. Soon it will be back in Eidein's hands, as it should be.<end>
 
 =>q12
-::Il soupire.:: Elle fait partie d'une collection plus vaste, assemblée pour le centenaire de l'Institute of Tchort. Oui. On a chargé Foundry de créer cette belle pièce et de nous l'envoyer. Après quelques retards malheureux, elle devait enfin arriver... mais les porteurs ont été interceptés. On m'a donné pour tâche de mobiliser des troupes et de la récupérer, et c'est exactement ce que j'ai fait... avec votre aide. Bientôt elle sera de nouveau entre les mains d'Eidein, comme il se doit.<end>
+::Il soupire.:: Elle fait partie d'une plus vaste collection, assemblée pour le centenaire de l'Institute of Tchort. Tout à fait. On a chargé Foundry de créer cette belle œuvre et de nous l'envoyer. Après quelques retards malheureux, elle devait enfin arriver... mais les porteurs ont été interceptés. J'ai reçu l'ordre de mobiliser des troupes et de la récupérer, et c'est exactement ce que j'ai fait... avec votre aide. Bientôt elle sera de nouveau entre les mains d'Eidein, comme il se doit.<end>
 
 =>q13_original
 Happy? Now if you'd let me have the figurine I'd be glad to show you to the interview room.<end>
 
 =>q13
-Satisfait ? Si vous me laissiez la figurine, je serais ravi de vous conduire à la salle d'entretien.<end>
+Content ? Si vous me donniez la figurine, je serais ravi de vous conduire à la salle d'entretien.<end>
 
 =>a14_original
 I need to do something first. I'll be back soon.<end>
 
 =>a14
-Je dois d'abord faire quelque chose. Je reviens bientôt.<end>
+Je dois d'abord m'occuper d'autre chose. Je reviens bientôt.<end>
 
 =>q15_original
 Magnificent Tchort, are you joking with me? Yo-- ::He pauses.:: Alright, make it quick; I'll wait here.<end>
 
 =>q15
-Magnifique Tchort, vous plaisantez ? Vo-- ::Il s'arrête.:: Très bien, faites vite. J'attendrai ici.<end>
+Magnifique Tchort, vous plaisantez avec moi ? Vo-- ::Il s'arrête.:: Très bien, faites vite. J'attendrai ici.<end>
 
 =>a16_original
 Not yet, I just wanted to make sure you were waiting for me.<end>
@@ -98,7 +98,7 @@ Pas encore. Je voulais seulement m'assurer que vous m'attendiez.<end>
 Hurry it up, I can't just stand around!<end>
 
 =>q17
-Dépêchez-vous, je ne peux pas rester planté là !<end>
+Dépêchez-vous, je ne peux pas rester planté là à attendre !<end>
 
 =>q18_original
 ::You wait and you wait, and as more time passes you begin to wonder if Efreitor Denzil is actually going to come back. After all, he couldn't wait to get rid of you the first time you talked. But then you remember that strange metal figurine is still in your hands, the one Tchortists want so badly. You begin thinking about this strange piece of metal, about what awaits you ahead.
@@ -106,21 +106,21 @@ Dépêchez-vous, je ne peux pas rester planté là !<end>
 However, your thoughts are soon interrupted by footsteps following a hurried rhythm you have already heard before: It is Efreitor Denzil.::<end>
 
 =>q18
-::Vous attendez, et vous attendez encore. Plus le temps passe, plus vous vous demandez si Efreitor Denzil va vraiment revenir. Après tout, la première fois, il n'avait qu'une hâte : se débarrasser de vous. Puis vous vous souvenez de la figurine de métal, encore dans vos mains, celle que les Tchortistes veulent tant. Vous pensez à ce morceau de métal étrange, à ce qui vous attend.
+::Vous attendez, et vous attendez encore. Plus le temps passe, plus vous vous demandez si Efreitor Denzil va vraiment revenir. Après tout, la première fois, il n'avait qu'une hâte : se débarrasser de vous. Puis vous vous souvenez de la figurine de métal, encore dans vos mains, celle que les Tchortists veulent tant. Vous pensez à ce morceau de métal étrange, à ce qui vous attend.
 
-Vos pensées sont bientôt coupées par des pas, un rythme pressé que vous avez déjà entendu : c'est Efreitor Denzil.::<end>
+Vos pensées sont bientôt interrompues par des pas, un rythme pressé que vous avez déjà entendu : c'est Efreitor Denzil.::<end>
 
 =>q19_original
 $(context.player.Name), I have talked to... ::He catches breath.:: uh... to the mediant and explained the situation to him. Therefore, the official word is as follows: You will be allowed to enter the Insititute building, be interviewed and if deemed fit you will be offered Institute of Tchort membership. All that in exchange for the figurine you possess.<end>
 
 =>q19
-$(context.player.Name), j'ai parlé au... ::Il reprend son souffle.:: euh... au Mediant, et je lui ai expliqué la situation. Voici donc la parole officielle : vous serez $(#autorisé/autorisée) à entrer dans le bâtiment de l'Institute, à passer l'entretien, et si l'on vous juge apte, on vous proposera d'entrer à l'Institute of Tchort. Tout cela en échange de la figurine que vous avez.<end>
+$(context.player.Name), j'ai parlé au... ::Il reprend son souffle.:: euh... au Mediant, et je lui ai expliqué la situation. Voici donc la décision officielle : vous serez $(#autorisé/autorisée) à entrer dans le bâtiment de l'Institute, à passer l'entretien, et si l'on vous juge apte, on vous proposera d'entrer à l'Institute of Tchort. Tout cela en échange de la figurine que vous possédez.<end>
 
 =>q20_original
 Speaking of which, I would like to take it now. Then I'll lead you inside.<end>
 
 =>q20
-En parlant de cela, je voudrais la prendre maintenant. Ensuite je vous conduirai à l'intérieur.<end>
+À ce propos, je voudrais la prendre maintenant. Ensuite je vous conduirai à l'intérieur.<end>
 
 =>q21_original
 ::As the robed man hurriedly steps outside, all three soldiers standing in front of him simultaneously take a small bow while having their hands placed on their chests, right around the heart area. Once the salute is finally over, the middle soldier takes a single step forward and addresses him.::
@@ -128,7 +128,7 @@ En parlant de cela, je voudrais la prendre maintenant. Ensuite je vous conduirai
 Tchort is evolution, Efreitor.<end>
 
 =>q21
-::L'homme en robe sort à la hâte. Les trois soldats devant lui s'inclinent d'un même mouvement, les mains sur la poitrine, à hauteur du cœur. Le salut fini, le soldat du milieu fait un pas et lui parle.::
+::L'homme en robe sort à la hâte. Les trois soldats devant lui s'inclinent d'un même mouvement, les mains sur la poitrine, à hauteur du cœur. Une fois le salut achevé, le soldat du milieu fait un pas en avant et s'adresse à lui.::
 
 Tchort est l'évolution, Efreitor.<end>
 
@@ -140,25 +140,25 @@ Evolution is Tchort, brother. Tell me, did you manage to find anything?<end>
 =>q22
 ::L'efreitor répond par le même salut, sans l'inclination.::
 
-L'évolution est Tchort, frère. Alors, avez-vous trouvé quelque chose ?<end>
+L'évolution est Tchort, frère. Dites-moi, avez-vous trouvé quelque chose ?<end>
 
 =>q23_original
 I'm afraid not, Efreitor. We scanned the surrounding area but found nothing other than a handful of isolated groups of bandits and scavengers, and no one possessed what we seek. I'm afraid our initial reports might just be true - Lunatics must've been behind the theft. All leads simply point to those devolved inbreds.<end>
 
 =>q23
-J'ai bien peur que non, Efreitor. Nous avons fouillé les alentours. Rien, hormis quelques groupes isolés de bandits et de charognards, et personne n'avait ce que nous cherchons. J'ai bien peur que les premiers rapports soient justes : les Lunatics doivent être derrière le vol. Toutes les pistes mènent à ces consanguins dégénérés.<end>
+J'ai bien peur que non, Efreitor. Nous avons ratissé les alentours. Rien, hormis quelques groupes isolés de bandits et de charognards, et personne n'avait ce que nous cherchons. J'ai bien peur que nos premiers rapports ne soient tout simplement vrais : les Lunatics doivent être derrière le vol. Toutes les pistes mènent à ces consanguins dégénérés.<end>
 
 =>q24_original
 I will be the judge of that, brother. ::His stare passes over each and every one of the three individuals.:: Rassophores - you all deserve rest. Meanwhile, I will wait for the second unit to arrive; they should be here soon. ::He sighs.:: Magnificent Tchort...<end>
 
 =>q24
-J'en jugerai, frère. ::Son regard passe sur chacun des trois.:: Rassophores - vous avez tous mérité le repos. En attendant, je vais attendre la deuxième unité ; elle ne devrait pas tarder. ::Il soupire.:: Magnifique Tchort...<end>
+J'en jugerai, frère. ::Son regard passe sur chacun des trois.:: Rassophores : vous méritez tous du repos. Moi, j'attendrai la deuxième unité ; elle ne devrait pas tarder. ::Il soupire.:: Magnifique Tchort...<end>
 
 =>q25_original
 ::He looks at them again.:: I said: Go and get some rest - don't just stand there like you're frozen. Inside. ::He points to the big front gate.::<end>
 
 =>q25
-::Il les regarde à nouveau.:: J'ai dit : allez vous reposer. Ne restez pas plantés là comme gelés. Dedans. ::Il désigne la grande porte.::<end>
+::Il les regarde à nouveau.:: J'ai dit : allez vous reposer. Ne restez pas plantés là comme pétrifiés. Dedans. ::Il désigne la grande porte.::<end>
 
 =>q26_original
 Tchort guide you, Efreitor.<end>
@@ -184,7 +184,7 @@ Oui... Que Tchort me guide...<end>
 What is it?<end>
 
 =>q29
-::L'homme paraît mal à l'aise quand vous approchez. On ne voit pas son visage, mais le corps parle : il n'arrive pas à tenir en place, il tape du pied, croise et décroise les bras, ou jette des regards nerveux autour de lui. En vous approchant, vous remarquez un symbole sur l'uniforme : un œil circulaire d'où partent deux tentacules, semblable à celui des grandes portes derrière lui. Bientôt il parle, d'une voix tantôt tendue et pressée, tantôt froide.::
+::L'homme paraît mal à l'aise à votre approche. Vous ne voyez pas son visage, mais son corps parle : il n'arrive pas à tenir en place ; il tape du pied, croise et décroise les bras, ou jette des regards nerveux autour de lui. En vous approchant, vous remarquez un symbole sur son uniforme : un œil circulaire d'où partent deux tentacules, semblable à celui des grandes portes derrière lui. Bientôt il parle, d'une voix tantôt tendue et pressée, tantôt froide.::
 
 Qu'y a-t-il ?<end>
 
@@ -198,19 +198,19 @@ Qu'y a-t-il ?<end>
 Who are you? Are you one of the Tchortists?<end>
 
 =>a31
-Qui êtes-vous ? Êtes-vous l'un des Tchortistes ?<end>
+Qui êtes-vous ? Êtes-vous l'un des Tchortists ?<end>
 
 =>q32_original
 I'm Efreitor Denzil and yes - I am a Tchortist. In case you haven't noticed, you are standing at the entrance to Institute of Tchort, and all these robed guards - rassophores - are its members as well. We are here to preserve safety of the Institute - so be *very* careful of your actions during your time here.<end>
 
 =>q32
-Je suis Efreitor Denzil, et oui : je suis Tchortiste. Au cas où vous n'auriez pas remarqué, vous êtes à l'entrée de l'Institute of Tchort, et tous ces gardes en robe - les rassophores - en sont membres aussi. Nous sommes là pour préserver la sûreté de l'Institute. Alors soyez *très* $(#prudent/prudente) pendant votre séjour ici.<end>
+Je suis Efreitor Denzil, et oui : je suis un Tchortist. Au cas où vous n'auriez pas remarqué, vous êtes à l'entrée de l'Institute of Tchort, et tous ces gardes en robe - les rassophores - en sont membres aussi. Nous sommes là pour préserver la sécurité de l'Institute. Alors soyez *très* $(#prudent/prudente) pendant votre séjour ici.<end>
 
 =>q33_original
 You got your answer, now leave me alone.<end>
 
 =>q33
-Vous avez votre réponse. Laissez-moi maintenant.<end>
+Vous avez votre réponse. Laissez-moi tranquille.<end>
 
 =>a34_original
 Tell me about the Institute of Tchort again...<end>
@@ -222,13 +222,13 @@ Reparlez-moi de l'Institute of Tchort...<end>
 If you insist... ::He sighs.:: The Institute of Tchort is an institution centered around Tchort - a magnificent creature whose sole existence is a source of unimaginable knowledge and is an inspiration to all Tchortists. Ever since our founder - Eidein - first studied Tchort's genome, he discovered the potential to improve mankind - to direct human evolution towards new heights.<end>
 
 =>q35
-Si vous insistez... ::Il soupire.:: L'Institute of Tchort est une institution centrée sur Tchort - une créature magnifique, dont la seule existence est une source de savoir inimaginable, et une inspiration pour tous les Tchortistes. Depuis que notre fondateur - Eidein - a étudié le génome de Tchort, il a vu le moyen d'améliorer l'humanité : diriger l'évolution humaine vers de nouvelles hauteurs.<end>
+Si vous insistez... ::Il soupire.:: L'Institute of Tchort est une institution centrée sur Tchort : une créature magnifique, dont la seule existence est une source de savoir inimaginable, et une inspiration pour tous les Tchortists. Depuis que notre fondateur - Eidein - a étudié le génome de Tchort, il a découvert le potentiel d'améliorer l'humanité : diriger l'évolution humaine vers de nouveaux sommets.<end>
 
 =>q36_original
 Tchort is evolution. Evolution is Tchort. One cannot go without the other. And now, since you got a brief summary - you are going to leave me alone; I have important work to do.<end>
 
 =>q36
-Tchort est l'évolution. L'évolution est Tchort. L'un ne va pas sans l'autre. Et maintenant que vous avez un bref résumé, vous allez me laisser. J'ai un travail important.<end>
+Tchort est l'évolution. L'évolution est Tchort. L'un ne va pas sans l'autre. Et maintenant que vous avez un bref résumé, vous allez me laisser tranquille. J'ai du travail important.<end>
 
 =>a37_original
 I would like to become a member of your organization.<end>
@@ -240,25 +240,25 @@ Je voudrais devenir membre de votre organisation.<end>
 I'm sorry, but we can't accept new members at this particular time. We are... full, so to say.<end>
 
 =>q38
-Je suis désolé, mais nous ne pouvons pas accepter de nouveaux membres en ce moment. Nous sommes... complets, pour ainsi dire.<end>
+Je suis désolé, mais nous ne pouvons pas accepter de nouveaux membres en ce moment. Nous sommes... au complet, pour ainsi dire.<end>
 
 =>q39_original
 As you can see if you were to look around you, all these people here are waiting to join the Institute. But alas, as I've already mentioned, we cannot accept new members. Still, that doesn't stop them from waiting, which is to be respected. Tchort might reward their wait but... not at this time unfortunately.<end>
 
 =>q39
-Regardez autour de vous : tous ces gens attendent d'entrer à l'Institute. Hélas, comme je l'ai déjà dit, nous ne pouvons pas accepter de nouveaux membres. Cela ne les empêche pas d'attendre, et cela se respecte. Tchort récompensera peut-être leur attente, mais... pas maintenant, malheureusement.<end>
+Regardez autour de vous : tous ces gens attendent d'entrer à l'Institute. Hélas, comme je l'ai déjà dit, nous ne pouvons pas accepter de nouveaux membres. Cela ne les empêche pas d'attendre, et cela se respecte. Tchort récompensera peut-être leur attente, mais... pas en ce moment, malheureusement.<end>
 
 =>a40_original
 I don't think you understand me. I *really* want to become a Tchortist.<end>
 
 =>a40
-Je ne crois pas que vous me compreniez. Je veux *vraiment* devenir Tchortiste.<end>
+Je ne crois pas que vous me compreniez. Je veux *vraiment* devenir Tchortist.<end>
 
 =>q41_original
 What is the matter with you? Are your ears vestigial? It's like you can't hear me properly. *We. do. not. accept. new. members!* Now buzz off!<end>
 
 =>q41
-Qu'est-ce qui ne va pas chez vous ? Vos oreilles sont-elles vestigiales ? On dirait que vous ne m'entendez pas. *Nous. n'acceptons. pas. de. nouveaux. membres !* Maintenant, foutez le camp !<end>
+Qu'est-ce qui ne va pas chez vous ? Vos oreilles sont-elles vestigiales ? On dirait que vous n'arrivez pas à m'entendre. *Nous. n'acceptons. pas. de. nouveaux. membres !* Maintenant, foutez le camp !<end>
 
 =>a42_original
 No - *you* buzz off! I want to become a member of your organization and *you* are in the way. Who do you even think you are, anyway?<end>
@@ -270,13 +270,13 @@ Non - *vous*, foutez le camp ! Je veux entrer dans votre organisation, et *vous*
 Magnificent Tchort! You must be some inbred bastard who lost the ability to understand human language several generations ago. ::He makes a short pause to allow some of the steam to come out and prevent him from exploding.:: Look here - you don't want to be disturbing an efreitor. I can order these rassophores here to cull you instantly and they wouldn't even flinch!<end>
 
 =>q43
-Magnifique Tchort ! Vous devez être un de ces bâtards consanguins qui ont perdu l'usage du langage humain il y a plusieurs générations. ::Il marque une courte pause, pour laisser sortir un peu de vapeur et ne pas exploser.:: Écoutez-moi bien : on ne dérange pas un efreitor. Je peux ordonner à ces rassophores de vous éliminer sur-le-champ, et ils ne broncheront même pas !<end>
+Magnifique Tchort ! Vous devez être un de ces bâtards consanguins qui ont perdu l'usage du langage humain il y a plusieurs générations. ::Il marque une courte pause, pour laisser sortir un peu de vapeur et ne pas exploser.:: Écoutez-moi bien : on ne dérange pas un efreitor. Je peux ordonner à ces rassophores de vous purger sur-le-champ, et ils ne broncheront même pas !<end>
 
 =>a44_original
 Order them anything you want - but I'm standing my ground here. I want to join the Institute and I'm willing to do anything to achieve that goal.<end>
 
 =>a44
-Ordonnez-leur ce que vous voudrez - je ne bouge pas. Je veux entrer à l'Institute, et je suis $(#prêt/prête) à tout pour y arriver.<end>
+Ordonnez-leur ce que vous voudrez - je tiens bon. Je veux entrer à l'Institute, et je suis $(#prêt/prête) à tout pour y arriver.<end>
 
 =>q45_original
 ::Something tells you that, despite him looking "just" angry on the outside, on the inside he's probably turning into a ball of plasma - reaching temperatures high enough to ignite nuclear fusion. Suddenly he cools down, and his tone of voice becomes calmer, losing the red-hot edge.::
@@ -284,9 +284,9 @@ Ordonnez-leur ce que vous voudrez - je ne bouge pas. Je veux entrer à l'Institu
 Anything, you say? Anything... you say? Hmmm... Interestingly, there is, well, an issue we could use some help with...<end>
 
 =>q45
-::Quelque chose vous dit que, s'il a l'air « seulement » en colère dehors, à l'intérieur il est en train de devenir une boule de plasma - assez chaude pour allumer une fusion. Soudain il redescend, et le ton se calme, perd son tranchant.::
+::Quelque chose vous dit que, s'il n'a l'air « que » en colère, à l'intérieur il est en train de devenir une boule de plasma - assez chaude pour allumer une fusion nucléaire. Soudain il se calme, et le ton perd son tranchant.::
 
-Tout, vous dites ? Tout... vous dites ? Hmm... Fait intéressant : il y a, disons, un problème pour lequel nous pourrions avoir besoin d'aide...<end>
+Tout, vous dites ? Tout... vous dites ? Hmm... Justement, il y a, disons, un problème pour lequel nous pourrions avoir besoin d'aide...<end>
 
 =>a46_original
 Finally we're getting somewhere.<end>
@@ -298,13 +298,13 @@ Enfin, on avance.<end>
 We have an issue with a missing figurine - a very important metal figurine. It was stolen from us and we need it back. Now, we aren't precisely sure who did it, but we suspect those devolved Lunatic inbreds to be behind the theft. They taint everything they touch with their filthy hands.<end>
 
 =>q47
-Nous avons un problème : une figurine manquante. Une figurine de métal, très importante. On nous l'a volée, et nous voulons la récupérer. Nous ne savons pas précisément qui l'a fait, mais nous soupçonnons ces consanguins dégénérés de Lunatics. Ils souillent tout ce qu'ils touchent de leurs mains sales.<end>
+Nous avons un problème : une figurine manquante. Une figurine de métal, très importante. On nous l'a volée, et nous voulons la récupérer. Nous ne savons pas précisément qui l'a fait, mais nous soupçonnons ces Lunatics, ces consanguins dégénérés. Ils souillent tout ce qu'ils touchent de leurs mains sales.<end>
 
 =>q48_original
 The metal figurine depicts a man reaching for the Surface. ::He points up.:: Up there. If you can find it, we *might* make a deal about you joining us... $(#brother/sister).<end>
 
 =>q48
-La figurine de métal représente un homme qui tend le bras vers la Surface. ::Il désigne le haut.:: Là-haut. Si vous la trouvez, nous *pourrions* parler de votre entrée parmi nous... $(#frère/sœur).<end>
+La figurine de métal représente un homme qui tend le bras vers la Surface. ::Il désigne le haut.:: Là-haut. Si vous la trouvez, nous *pourrions* parler de vous faire entrer parmi nous... $(#frère/sœur).<end>
 
 =>q49_original
 <end>
@@ -322,7 +322,7 @@ Est-ce la figurine que vous cherchez ?<end>
 ::His voice reveals instant excitement as soon as he is presented with the figurine.:: Wait... you had it on you this whole time? Why didn't you tell me about it?<end>
 
 =>q51
-::Sa voix trahit une excitation immédiate dès qu'on lui présente la figurine.:: Attendez... vous l'aviez sur vous tout ce temps ? Pourquoi ne m'en avez-vous pas parlé ?<end>
+::Sa voix trahit une excitation immédiate dès que vous lui présentez la figurine.:: Attendez... vous l'aviez sur vous tout ce temps ? Pourquoi ne m'en avez-vous pas parlé ?<end>
 
 =>a52_original
 I didn't know you were looking for it.<end>
@@ -346,7 +346,7 @@ Dans le grand centre commercial, à l'ouest d'ici. Vous aviez raison depuis le d
 ::Unexpectedly, Denzil falls silent. He looks like he wants to say something, but perhaps can't find the right words.::<end>
 
 =>q55
-::Contre toute attente, Denzil se tait. On dirait qu'il veut dire quelque chose, mais qu'il ne trouve pas les mots.::<end>
+::Contre toute attente, Denzil se tait. Il a l'air de vouloir dire quelque chose, mais il ne trouve pas les mots.::<end>
 
 =>a56_original
 ::[Intelligence]:: Hold on! I know what you're thinking. You never thought I would be able to find and bring you the damn figurine. You just wanted me to leave you alone.<end>
@@ -358,7 +358,7 @@ Dans le grand centre commercial, à l'ouest d'ici. Vous aviez raison depuis le d
 Yes and no. Mostly yes... Look - I don't owe you an explanation, I-- Listen... ::He sighs.:: you did us a great favor, that is undeniable. It's just that I didn't REALLY expect you to be able to accomplish the given task, that is all. I'm just... astonished. But you figured that for yourself as far as I can see...<end>
 
 =>q57
-Oui et non. Surtout oui... Écoutez - je ne vous dois aucune explication, je-- Écoutez... ::Il soupire.:: vous nous avez rendu un grand service, c'est indéniable. C'est seulement que je ne m'attendais pas VRAIMENT à ce que vous puissiez accomplir la tâche. Voilà tout. Je suis simplement... stupéfait. Mais vous l'aviez déjà compris, à ce que je vois...<end>
+Oui et non. Surtout oui... Voyez : je ne vous dois aucune explication, je-- Écoutez... ::Il soupire.:: vous nous avez rendu un grand service, c'est indéniable. C'est seulement que je ne m'attendais pas VRAIMENT à ce que vous puissiez accomplir la tâche. Voilà tout. Je suis simplement... stupéfait. Mais vous l'aviez déjà compris, à ce que je vois...<end>
 
 =>a58_original
 I hope our deal still stands. You will not get this figurine otherwise.<end>
@@ -384,9 +384,9 @@ Elle reste avec moi jusqu'à votre retour. Allez d'abord parler à vos supérieu
 Wait a moment. I never caught your name.<end>
 
 =>q61
-::Les rassophores autour de vous se tournent vers vous, et l'air recommence à chauffer. Denzil, contre toute attente, le refroidit d'un seul geste de la main à ses subordonnés.:: Je suppose que c'est acceptable - mais ne quittez pas la cour. Je reviendrai bientôt. ::Au moment de partir, il se retourne encore.::
+::Les rassophores autour de vous se tournent vers vous, et l'atmosphère recommence à chauffer. Denzil, contre toute attente, la calme d'un seul geste de la main à ses subordonnés.:: Je suppose que c'est acceptable - mais ne quittez pas la cour. Je reviendrai bientôt. ::Au moment de partir, il se retourne encore.::
 
-Un instant. Je n'ai pas retenu votre nom.<end>
+Un instant. Je n'ai pas eu votre nom.<end>
 
 =>a62_original
 $(context.player.Name).<end>
@@ -398,7 +398,7 @@ $(context.player.Name).<end>
 $(context.player.Name)... Alright, $(context.player.Name). Wait in front of the Institute. *Here*. I'll be back as soon as I talk to someone. Just, just be patient. Tchort guide you.<end>
 
 =>q63
-$(context.player.Name)... Très bien, $(context.player.Name). Attendez devant l'Institute. *Ici*. Je reviendrai dès que j'aurai parlé à quelqu'un. Seulement... soyez $(#patient/patiente). Que Tchort vous guide.<end>
+$(context.player.Name)... Très bien, $(context.player.Name). Attendez devant l'Institute. *Ici*. Je reviendrai dès que j'aurai parlé à quelqu'un. Juste... soyez $(#patient/patiente). Que Tchort vous guide.<end>
 
 =>a64_original
 ::Wait for him to return.::<end>
@@ -462,7 +462,7 @@ Que pouvez-vous me dire sur les Lunatics ?<end>
 Culling material, no question about it. They are as mentally derailed as one can be and are, therefore, extremely unpredictable. Their motives, patterns of thought or anything about them is impossible to figure out. They are powerful psionics, mind you, and that's pretty much the only thing we're sure about them.<end>
 
 =>q73
-De la matière à éliminer, sans aucun doute. Ils sont aussi détraqués qu'on peut l'être, donc extrêmement imprévisibles. Leurs motifs, leurs schémas de pensée, tout le reste : impossible à cerner. Ce sont de puissants psioniques, notez-le, et c'est à peu près la seule chose dont nous soyons sûrs.<end>
+De la matière à purger, sans aucun doute. Ils sont aussi détraqués qu'on peut l'être, donc extrêmement imprévisibles. Leurs motifs, leurs schémas de pensée, tout le reste : impossible à cerner. Ce sont de puissants psioniques, je vous le dis, et c'est à peu près la seule chose dont nous soyons sûrs.<end>
 
 =>a74_original
 Why would they want that figurine?<end>
@@ -486,7 +486,7 @@ Je vois... J'ai d'autres questions.<end>
 I'm sure you do.<end>
 
 =>q77
-J'en suis sûr.<end>
+J'en étais sûr.<end>
 
 =>a78_original
 What is the deal with this figurine anyway? Why is it so important?<end>
@@ -498,7 +498,7 @@ Au fait, qu'est-ce qu'il y a avec cette figurine ? Pourquoi est-elle si importan
 I am not at liberty to reveal that information to you.<end>
 
 =>q79
-Je n'ai pas le droit de vous révéler cela.<end>
+Je ne suis pas autorisé à vous révéler cette information.<end>
 
 =>q80_original
 If you do manage to retrieve it... then you'll find out more.<end>
@@ -510,7 +510,7 @@ Si vous parvenez à la récupérer... vous en saurez davantage.<end>
 I'm on the job. I'll find that figurine and bring it here as soon as possible.<end>
 
 =>a81
-J'y vais. Je trouverai cette figurine et je l'apporterai ici dès que possible.<end>
+Je m'en charge. Je trouverai cette figurine et je l'apporterai ici dès que possible.<end>
 
 =>q82_original
 Do not speak to me unless you have the figurine. Tchort gu-- Bah!<end>
@@ -534,7 +534,7 @@ La chasse à la figurine, hein ? Je ne sais pas... si je la trouve, je l'apporte
 Do tell...<end>
 
 =>a85
-Dites donc...<end>
+Je vous écoute...<end>
 
 =>a86_original
 Fine, I see this is pointless...<end>
@@ -552,7 +552,7 @@ Très bien. Je vois que c'est inutile...<end>
 Buzz off? Is that your answer? I am so disappointed... I never even suspected that a representative of such a grand and enchanting organization such as the Institute of Tchort would say something so foul to me. I was willing to dedicate the rest of my days to Tchortism, and to happily spend those very days surrounded by men and women - brothers and sisters - who are above all the lowlife scum inhabiting the rest of Underrail.<end>
 
 =>a88
-Foutez le camp ? C'est votre réponse ? Je suis tellement $(#déçu/déçue)... Je n'aurais jamais cru qu'un représentant d'une organisation aussi grande, aussi enchanteresse que l'Institute of Tchort, me dirait quelque chose d'aussi bas. J'étais $(#prêt/prête) à consacrer le reste de mes jours au Tchortisme, et à les passer volontiers parmi des hommes et des femmes - frères et sœurs - au-dessus de toute la racaille qui peuple le reste d'Underrail.<end>
+Foutez le camp ? C'est votre réponse ? Je suis tellement $(#déçu/déçue)... Je n'aurais jamais soupçonné qu'un représentant d'une organisation aussi grande, aussi envoûtante que l'Institute of Tchort, me dirait quelque chose d'aussi ignoble. J'étais $(#prêt/prête) à consacrer le reste de mes jours au Tchortism, et à les passer volontiers parmi des hommes et des femmes - frères et sœurs - au-dessus de toute la racaille qui peuple le reste d'Underrail.<end>
 
 =>a89_original
 I see, I had other questions then...<end>
@@ -576,13 +576,13 @@ Et une autre question ?<end>
 ::He says nothing, but again his body language tells you he's not too keen on answering questions.::<end>
 
 =>q92
-::Il ne dit rien, mais son corps, encore une fois, dit qu'il n'a aucune envie de répondre.::<end>
+::Il ne dit rien, mais son attitude, encore une fois, vous dit qu'il n'a aucune envie de répondre.::<end>
 
 =>a93_original
 Can you tell me more about Tchortism and the Institute of Tchort?<end>
 
 =>a93
-Pouvez-vous m'en dire davantage sur le Tchortisme et l'Institute of Tchort ?<end>
+Pouvez-vous m'en dire davantage sur le Tchortism et l'Institute of Tchort ?<end>
 
 =>q94_original
 ::He sighs.:: No. I don't have the time for that. I'm busy.<end>
@@ -600,7 +600,7 @@ Même pas quelques mots ? Allons, je ne vous demande pas toute l'histoire de l'o
 But I really want to become a Tchortist.<end>
 
 =>a96
-Mais je veux vraiment devenir Tchortiste.<end>
+Mais je veux vraiment devenir Tchortist.<end>
 
 =>q97_original
 Again, I am sorry, but we do not accept new members. I already told you that.<end>
@@ -628,7 +628,7 @@ Oui, oui ! C'est bien la figurine ! Où l'avez-vous trouvée ?<end>
 Gotta split. Bye.<end>
 
 =>a100
-Je dois y aller. Salut.<end>
+Je dois y aller. Au revoir.<end>
 
 =>q101_original
 Yes?<end>

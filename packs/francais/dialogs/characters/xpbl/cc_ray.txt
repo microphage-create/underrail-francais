@@ -2,7 +2,7 @@
 ::The man greets you as soon as you enter his domain, smiling as he invites you further in with a wave of his hand. His smile, though, is forced, as a shroud of concern dims his eye's gleam and breaks the genuineness.::<end>
 
 =>q1
-::L'homme vous salue dès que vous entrez dans son domaine, souriant alors qu'il vous invite plus loin avec une vague de sa main. Son sourire, cependant, est forcé, comme un linceul de préoccupation diminue la lueur de son œil et rompt l'authenticité.::<end>
+::L'homme vous salue dès que vous entrez chez lui, sourire aux lèvres, et d'un geste il vous invite à avancer. Le sourire, pourtant, est forcé : le souci voile son regard et casse le naturel.::<end>
 
 =>q2_original
 ::An oily wrench lays on his desk, only an old smeared rag separating one from the other. You notice it, he notices it. An instant later, it disappears into one of his deep pockets, wrapped in the rag.::
@@ -10,15 +10,15 @@
 That should not be there. We was, um... Gib and I were fixin' one of 'em two-oh-eights for a client of ours. Field repairs. Just got back to the shop, so sorry 'bout my appearance. So, ya here for a jet? Parts? Repairs?<end>
 
 =>q2
-::Une clé huilée repose sur son bureau, seulement un vieux chiffon frotté séparant l'un de l'autre. Vous le remarquez, il le remarque. Un instant plus tard, il disparaît dans une de ses poches profondes, enveloppé dans le chiffon.::
+::Une clé à molette huileuse trône sur le bureau, un vieux chiffon taché pour seule séparation. Vous la voyez, il le voit. Une seconde plus tard, elle disparaît dans une de ses poches profondes, enroulée dans le chiffon.::
 
-Cela ne devrait pas être là. Nous étions... Gib et moi étions en train de réparer l'un d'eux deux-oh-huit pour un de nos clients. Réparations sur le terrain. Je reviens juste à la boutique, désolé pour mon apparence. Alors, tu es là pour un jet ? Des pièces ? Des réparations ?<end>
+Ça devrait pas être là. On était... euh... Gib et moi, on réparait un de ces 208 pour un client. Réparations sur le terrain. On rentre tout juste à l'atelier, désolé pour la tenue. Alors, t'es là pour un jet ? Des pièces ? Des réparations ?<end>
 
 =>a3_original
 I'm interested in purchasing a jet ski.<end>
 
 =>a3
-Je veux acheter un jet ski.<end>
+Je veux acheter un jet.<end>
 
 =>q4_original
 <end>
@@ -32,21 +32,21 @@ Je veux acheter un jet ski.<end>
 I'm sorry: Name's Raymond Cerr, the owner. Eh, ya were sayin'...? <end>
 
 =>q5
-::Tu ouvres la bouche, mais la voix qui est entendue n'est pas à toi.::
+::Vous ouvrez la bouche, mais la voix qu'on entend n'est pas la vôtre.::
 
-Je suis désolé : le nom Raymond Cerr, le propriétaire. Tu disais... <end>
+Pardon : Raymond Cerr, le proprio. Euh, tu disais... ? <end>
 
 =>q6_original
 ::You notice that the previously quite observable anxiety has quickly dissipated. His smile broadens; his countenance brightens.::<end>
 
 =>q6
-::Vous remarquez que l'anxiété précédemment très observable s'est rapidement dissipée. Son sourire s'élargit, son visage s'illumine.::<end>
+::Vous remarquez que l'inquiétude, bien visible tout à l'heure, s'est vite évaporée. Son sourire s'élargit ; le visage s'éclaire.::<end>
 
 =>a7_original
 I'm looking for some spare components.<end>
 
 =>a7
-Je cherche des pièces de rechange.<end>
+Je cherche des pièces.<end>
 
 =>a8_original
 My jet needs repairs.<end>
@@ -58,19 +58,19 @@ Mon jet a besoin de réparations.<end>
 Hardcore. Well, now, um, friend... ::He snaps his fingers.:: By the way, what do I call ya$(#, son/)? What's yer name?<end>
 
 =>q9
-Hardcore. Bon, alors, euh, l'ami... ::Il claque des doigts.:: Au fait, comment je vous appelle$(#, fiston/) ? C'est quoi votre nom ?<end>
+Hardcore. Bon, alors, euh, l'ami... ::Il claque des doigts.:: Au fait, comment je t'appelle$(#, fiston/) ? C'est quoi ton nom ?<end>
 
 =>a10_original
 That is none of your business.<end>
 
 =>a10
-Ça ne te regarde pas.<end>
+Ça te regarde pas.<end>
 
 =>q11_original
 ::He raises his hands, chest height, palms facing forward.:: No need to act all hardcore, friend. I was just askin'. Imma just call ya... friend, then.<end>
 
 =>q11
-::Il lève les mains, la poitrine, les paumes face à l'avant.:: Pas la peine de jouer les hardcore, l'ami. Je demandais, c'est tout. Je vais juste vous appeler... l'ami, alors.<end>
+::Il lève les mains à hauteur de poitrine, paumes vers l'avant.:: Pas la peine de jouer les hardcore, l'ami. Je demandais, c'est tout. J'vais juste t'appeler... l'ami, alors.<end>
 
 =>q12_original
 Now, $(context.npc_cc_ray_playerName), <end>
@@ -88,79 +88,79 @@ Maintenant, $(context.npc_cc_ray_playerName), <end>
 Imma ask ya one thing now before we proceed: Is this your first jet or have you owned or at least ridden one before?<end>
 
 =>q14
-Je vous pose une question avant qu'on continue : c'est votre premier jet, ou vous en avez déjà possédé un, ou au moins monté un ?<end>
+J'te pose une question avant qu'on continue : c'est ton premier jet, ou t'en as déjà eu un, ou au moins monté un ?<end>
 
 =>a15_original
 Never owned, never ridden one before.<end>
 
 =>a15
-Jamais possédé, jamais monté.<end>
+Jamais eu, jamais monté.<end>
 
 =>q16_original
 So - a jet virgin. Pardon the expression. ::He laughs.:: That's o-kay, $(context.npc_cc_ray_playerName).<end>
 
 =>q16
-Alors - une vierge de jet. Pardonnez l'expression. ::Il rit.:: C'est O-Kay, $(context.npc_cc_ray_playerName).<end>
+Alors, une vierge du jet. Excuse l'expression. ::Il rit.:: C'est O-kay, $(context.npc_cc_ray_playerName).<end>
 
 =>q17_original
 We got lots of different jets, $(context.npc_cc_ray_playerName). The only question is whatcha need and how much coin ya got. If yer lookin' for somethin' cheaper, somethin' to getcha from point A to point B, we offer a variety of junk jets at yer disposal. If ya, however, wanna get from point A to point B mighty fast, maybe dominate some asshats along the way, or return to haulin' lots of loot - or just cruise around with style, then maybe ya oughta take a look at somethin' a bit better.<end>
 
 =>q17
-Nous avons beaucoup de jets différents, $(context.npc_cc_ray_playerName). La seule question, c'est ce qu'il te faut et combien tu as eu. Si vous cherchez quelque chose de moins cher, quelque chose pour obtenircha du point A au point B, nous offrons une variété de jets de pourriels à disposition. Si vous voulez vous rendre du point A au point B très rapide, peut-être dominer certains abrutis le long du chemin, ou revenir à transporter 'beaucoup de butin - ou juste voyager avec style, alors peut-être que vous devriez jeter un coup d'oeil à quelque chose de mieux.<end>
+On a plein de jets différents, $(context.npc_cc_ray_playerName). La seule question, c'est de quoi t'as besoin et combien t'as de charons. Si tu cherches un truc pas cher, juste pour aller du A au B, on a toute une gamme de junk jets. Si tu veux filer du A au B à fond, peut-être dominer quelques abrutis en route, ou revenir à trimballer un max de loot - ou juste cruiser avec du style, alors jette un œil à quelque chose de mieux.<end>
 
 =>a18_original
 I was thinking of something a bit cheaper.<end>
 
 =>a18
-Je pensais à quelque chose d'un peu moins cher.<end>
+Je pensais à un truc un peu moins cher.<end>
 
 =>q19_original
 We'll find ya somethin' good, dontcha worry.<end>
 
 =>q19
-On va te trouver quelque chose de bien.<end>
+On va te trouver un truc bien, t'inquiète.<end>
 
 =>a20_original
 ::Follow him.::<end>
 
 =>a20
-::Suivez-le.::<end>
+::Le suivre.::<end>
 
 =>a21_original
 Show me the good stuff. I'm not a zoner.<end>
 
 =>a21
-Montre-moi les bonnes choses. Je ne suis pas un zoneur.<end>
+Montre-moi le bon matériel. Je suis pas un zoneur.<end>
 
 =>q22_original
 Ha-ha, that's what I like to hear. <end>
 
 =>q22
-C'est ce que j'aime entendre. <end>
+Ha-ha, ça j'aime l'entendre. <end>
 
 =>a23_original
 I rode them before, yeah.<end>
 
 =>a23
-Je les ai déjà pris.<end>
+J'en ai déjà monté, ouais.<end>
 
 =>q24_original
 Hardcore, hardcore. So ya got some experience. That's good, $(context.npc_cc_ray_playerName).<end>
 
 =>q24
-Hardcore, hardcore. Vous avez une certaine expérience. C'est bien, $(context.npc_cc_ray_playerName).<end>
+Hardcore, hardcore. T'as de l'expérience, alors. C'est bien, $(context.npc_cc_ray_playerName).<end>
 
 =>a25_original
 I'm currently using some piece of junk, more like jetsam than jet, but now I'm itching to get the real deal.<end>
 
 =>a25
-Je suis en train d'utiliser de la jaquette, plus comme jetsam que jet, mais maintenant je démange pour obtenir la vraie affaire.<end>
+Je roule un tas de ferraille, plus du jetsam qu'un jet, mais là j'ai trop envie du vrai truc.<end>
 
 =>q26_original
 That is the rite of passage we must all take, $(context.npc_cc_ray_playerName). And it ain't just the coin, nah, ya can't just hop into a beast straight away, right? Ye'll dominate yerself if ya ain't got the experience. Can't deny that.<end>
 
 =>q26
-C'est le rite de passage que nous devons tous prendre, $(context.npc_cc_ray_playerName). Et ce n'est pas juste la pièce, nah, tu ne peux pas juste sauter dans une bête tout de suite, non ? Vous vous dominerez si vous n'avez pas l'expérience. Je ne peux pas nier ça.<end>
+C'est le rite de passage, on y passe tous, $(context.npc_cc_ray_playerName). Et c'est pas juste les charons, nan, tu peux pas te jeter dans une bête comme ça d'un coup, hein ? Tu vas te dominer toi-même si t'as pas l'expérience. Ça, j'peux pas le nier.<end>
 
 =>q27_original
 <end>
@@ -172,7 +172,7 @@ C'est le rite de passage que nous devons tous prendre, $(context.npc_cc_ray_play
 we got a hardcore assortment of engines, batteries, suspensions - from cheap to coin-meltin', we got it all. Of course, we also stock cells for powerin' yer jets, ammo and all the-- Bah, enough of my yappin'. Lemme show ya what we got.<end>
 
 =>q28
-On a un assortiment de moteurs, de batteries, de suspensions, de bon marché à la fusion de pièces. Bien sûr, nous stockons aussi des cellules pour alimenter les jets, les munitions et tous les... Bah, assez de mon yappin. Lemme vous montre ce qu'on a.<end>
+on a un assortiment hardcore de moteurs, batteries, suspensions - du pas cher jusqu'à ce qui fait fondre les charons, on a tout. Bien sûr, on stocke aussi les cellules pour alimenter tes jets, les munitions et tout le-- Bah, assez parlé. Laisse-moi te montrer ce qu'on a.<end>
 
 =>a29_original
 ::Barter.::<end>
@@ -184,31 +184,31 @@ On a un assortiment de moteurs, de batteries, de suspensions, de bon marché à 
 let's talk repairs. <end>
 
 =>q30
-Parlons réparations. <end>
+parlons réparations. <end>
 
 =>q31_original
 Unless ya've suffered a breakdown, and by that I mean a malfunction which either prevents yer jet from operatin' at all, or impedes it so much ya can't drive it no more, there's no need for me to be takin' yer hard-earned coins for repairs ya could do on yer own.<end>
 
 =>q31
-Sauf si vous avez une vraie panne, je veux dire un truc qui empêche le jet de marcher du tout, ou qui le handicape tellement que vous pouvez plus le conduire, y a pas de raison que je vous prenne vos charons durement gagnés pour des réparations que vous pourriez faire vous-même.<end>
+Sauf si t'as une vraie panne, je veux dire un truc qui empêche le jet de marcher du tout, ou qui le handicape tellement que tu peux plus le conduire, y a pas de raison que je te prenne tes charons durement gagnés pour des réparations que tu pourrais faire toi-même.<end>
 
 =>q32_original
 Instead, I could just sell ya one of our vehicle repair kits. They're cheap and so simple to use it is said if ya threw it in the water to them slackjaw fishes, they'd pick it right up and start fixin' stuff. ::He laughs.:: They can be used to perform all kinds of repairs on pretty much any type of vehicle under the stalactites, be it a jet, quad... heck, maybe even a powered frame like the Protectorate Dreadnought, I dunno. Ya just follow the instructions and yer hardcore.<end>
 
 =>q32
-Je pourrais juste vous vendre un de nos kits de réparation de véhicule. Ils sont pas chers, et si simples à utiliser qu'on dit que si vous le jetez à l'eau aux slackjaws, ils le ramasseraient et se mettraient à réparer des trucs. ::Il rit.:: Ça marche pour à peu près n'importe quel véhicule sous les stalactites : jet, quad... heck, peut-être même un châssis motorisé comme le Dreadnought du Protectorate, j'en sais rien. Vous suivez les instructions, et vous êtes hardcore.<end>
+Je pourrais juste te vendre un de nos kits de réparation de véhicule. Ils sont pas chers, et si simples à utiliser qu'on dit que si tu le jetais à l'eau aux slackjaws, ils le ramasseraient et se mettraient à réparer des trucs. ::Il rit.:: Ça marche pour à peu près n'importe quel véhicule sous les stalactites : jet, quad... heck, peut-être même un châssis motorisé comme le Dreadnought du Protectorate, j'en sais rien. Tu suis les instructions, et t'es hardcore.<end>
 
 =>a33_original
 In that case, I'd like to purchase a few repair kits.<end>
 
 =>a33
-Dans ce cas, j'aimerais acheter quelques kits de réparation.<end>
+Dans ce cas, je prends quelques kits de réparation.<end>
 
 =>q34_original
 O-kay. Here...<end>
 
 =>q34
-Oui. Ici...<end>
+O-kay. Voilà...<end>
 
 =>a35_original
 I'll think about it. Let me ask you something else in the meantime.<end>
@@ -220,7 +220,7 @@ Je vais y réfléchir. Laisse-moi te demander autre chose en attendant.<end>
 O-kay.<end>
 
 =>q36
-Oui.<end>
+O-kay.<end>
 
 =>q37_original
 <end>
@@ -232,13 +232,13 @@ Oui.<end>
 I'm interested in purchasing a jet ski.<end>
 
 =>a38
-Je veux acheter un jet ski.<end>
+Je veux acheter un jet.<end>
 
 =>q39_original
 Sure, sure. Which one? Don't be afraid to ask questions, $(context.npc_cc_ray_playerName).<end>
 
 =>q39
-Bien sûr. Lequel ? N'ayez pas peur de poser des questions.<end>
+Bien sûr, bien sûr. Lequel ? Pose tes questions, t'hésite pas, $(context.npc_cc_ray_playerName).<end>
 
 =>q40_original
 <end>
@@ -250,37 +250,37 @@ Bien sûr. Lequel ? N'ayez pas peur de poser des questions.<end>
 Can I take a look at the expensive jet skis?<end>
 
 =>a41
-Puis-je jeter un oeil aux jet skis chers ?<end>
+Je peux jeter un œil aux jets chers ?<end>
 
 =>q42_original
 Sure. Follow me.<end>
 
 =>q42
-Bien sûr. Suivez-moi.<end>
+Bien sûr. Suis-moi.<end>
 
 =>a43_original
 Can I take a look at the cheap jet skis?<end>
 
 =>a43
-Je peux regarder les jet skis bon marché ?<end>
+Je peux regarder les jets pas chers ?<end>
 
 =>q44_original
 Sure. Follow me.<end>
 
 =>q44
-Bien sûr. Suivez-moi.<end>
+Bien sûr. Suis-moi.<end>
 
 =>a45_original
 ::Follow him.::<end>
 
 =>a45
-::Suivez-le.::<end>
+::Le suivre.::<end>
 
 =>a46_original
 I've decided which jet ski I want.<end>
 
 =>a46
-J'ai décidé quel jet ski je veux.<end>
+J'ai décidé quel jet je veux.<end>
 
 =>q47_original
 Which one?<end>
@@ -292,13 +292,13 @@ Lequel ?<end>
 Torpedo.<end>
 
 =>a48
-Torpille.<end>
+Torpedo.<end>
 
 =>q49_original
 It's yers for $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
 
 =>q49
-C'est pour $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
+Il est à toi pour $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
 
 =>q50_original
 <end>
@@ -310,7 +310,7 @@ C'est pour $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <en
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a51
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl torpedoFrame.AcheterPrixAvecRéduction0) pièces de style.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q52_original
 <end>
@@ -328,13 +328,13 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl torpe
 Congratulations, $(context.npc_cc_ray_playerName) - ya bought yerself a jet! <end>
 
 =>q54
-Félicitations, $(context.npc_cc_ray_playerName) - tu t'es acheté un jet ! <end>
+Félicitations, $(context.npc_cc_ray_playerName) - t'as un jet ! <end>
 
 =>q55_original
 Keep yer eyes on it real good. Them pirate sons of rats are everywhere now.<end>
 
 =>q55
-Regarde bien. Les fils de rats pirates sont partout maintenant.<end>
+Garde un œil dessus, hein. Ces fils de rats de pirates sont partout, maintenant.<end>
 
 =>q56_original
 
@@ -344,25 +344,25 @@ And here's yer key. ::He hands you a jet ski key.::<end>
 =>q56
 
 
-Et voilà la clé. ::Il vous donne une clé de ski.::<end>
+Et voilà ta clé. ::Il vous tend une clé de jet.::<end>
 
 =>a57_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a57
-::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q58_original
 Well...<end>
 
 =>q58
-Bien...<end>
+Ben...<end>
 
 =>q59_original
 I'm sorry, but I can't accept that. I wish I could, I really wish, but ya know how dominatin' life is. Yeah?<end>
 
 =>q59
-Je suis désolé, mais je ne peux pas accepter ça. J'aimerais bien, mais tu sais comment est la vie dominatrice. Oui ?<end>
+Désolé, mais je peux pas. J'aimerais, j'aimerais vraiment, mais tu sais comment c'est, la vie, ça domine. Hein ?<end>
 
 =>q60_original
 <end>
@@ -386,7 +386,7 @@ Je suis désolé, mais je ne peux pas accepter ça. J'aimerais bien, mais tu sai
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a63
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl blazerFrame.AcheterPrixWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q64_original
 <end>
@@ -404,61 +404,61 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl blaze
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a66
-::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q67_original
 Well...<end>
 
 =>q67
-Bien...<end>
+Ben...<end>
 
 =>a68_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount2)?<end>
 
 =>a68
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q69_original
 Well...<end>
 
 =>q69
-Bien...<end>
+Ben...<end>
 
 =>a70_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a70
-::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount3).<end>
 
 =>q71_original
 Well...<end>
 
 =>q71
-Bien...<end>
+Ben...<end>
 
 =>a72_original
 Actually, I think this might be too expensive for me. Mind if I choose another one?<end>
 
 =>a72
-En fait, je pense que c'est trop cher pour moi. Je peux en choisir un autre ?<end>
+En fait, c'est trop cher pour moi. Je peux en choisir un autre ?<end>
 
 =>q73_original
 O-kay. <end>
 
 =>q73
-Oui. <end>
+O-kay. <end>
 
 =>a74_original
 Or maybe I haven't decided.<end>
 
 =>a74
-Ou peut-être que je n'ai pas décidé.<end>
+Ou peut-être que j'ai pas encore choisi.<end>
 
 =>q75_original
 No need to rush, $(context.npc_cc_ray_playerName). Ya don't buy a jet every day. Just take yer time.<end>
 
 =>q75
-Pas besoin de se précipiter, $(context.npc_cc_ray_playerName). Tu n'achètes pas un jet tous les jours. Prends le temps.<end>
+Pas la peine de se presser, $(context.npc_cc_ray_playerName). On achète pas un jet tous les jours. Prends ton temps.<end>
 
 =>q76_original
 <end>
@@ -476,7 +476,7 @@ Pas besoin de se précipiter, $(context.npc_cc_ray_playerName). Tu n'achètes pa
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a78
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl phaserFrame.AcheterPrixWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q79_original
 <end>
@@ -494,37 +494,37 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl phase
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a81
-::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q82_original
 Well...<end>
 
 =>q82
-Bien...<end>
+Ben...<end>
 
 =>a83_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount2)?<end>
 
 =>a83
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q84_original
 Well...<end>
 
 =>q84
-Bien...<end>
+Ben...<end>
 
 =>a85_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a85
-::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount3).<end>
 
 =>q86_original
 Well...<end>
 
 =>q86
-Bien...<end>
+Ben...<end>
 
 =>q87_original
 <end>
@@ -542,7 +542,7 @@ Bien...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a89
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl sharkFrame.AcheterPrixWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q90_original
 <end>
@@ -560,37 +560,37 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl shark
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a92
-::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q93_original
 Well...<end>
 
 =>q93
-Bien...<end>
+Ben...<end>
 
 =>a94_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount2)?<end>
 
 =>a94
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q95_original
 Well...<end>
 
 =>q95
-Bien...<end>
+Ben...<end>
 
 =>a96_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a96
-::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount3).<end>
 
 =>q97_original
 Well...<end>
 
 =>q97
-Bien...<end>
+Ben...<end>
 
 =>q98_original
 <end>
@@ -608,7 +608,7 @@ Bien...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a100
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl glowFrame.AcheterPrixWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q101_original
 <end>
@@ -626,37 +626,37 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl glowF
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a103
-::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q104_original
 Well...<end>
 
 =>q104
-Bien...<end>
+Ben...<end>
 
 =>a105_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount2)?<end>
 
 =>a105
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q106_original
 Well...<end>
 
 =>q106
-Bien...<end>
+Ben...<end>
 
 =>a107_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a107
-::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount3).<end>
 
 =>q108_original
 Well...<end>
 
 =>q108
-Bien...<end>
+Ben...<end>
 
 =>q109_original
 <end>
@@ -674,7 +674,7 @@ Bien...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a111
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl plasmaLeviatorFrame.AcheterPrixAvecRéduction0) pièces de style.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q112_original
 <end>
@@ -692,37 +692,37 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl plasm
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a114
-::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q115_original
 Well...<end>
 
 =>q115
-Bien...<end>
+Ben...<end>
 
 =>a116_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount2)?<end>
 
 =>a116
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q117_original
 Well...<end>
 
 =>q117
-Bien...<end>
+Ben...<end>
 
 =>a118_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a118
-::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount3).<end>
 
 =>q119_original
 Well...<end>
 
 =>q119
-Bien...<end>
+Ben...<end>
 
 =>q120_original
 <end>
@@ -740,7 +740,7 @@ Bien...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a122
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl devastatorFrame.AcheterPrixAvecDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q123_original
 <end>
@@ -758,37 +758,37 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl devas
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a125
-::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q126_original
 Well...<end>
 
 =>q126
-Bien...<end>
+Ben...<end>
 
 =>a127_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount2)?<end>
 
 =>a127
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q128_original
 Well...<end>
 
 =>q128
-Bien...<end>
+Ben...<end>
 
 =>a129_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a129
-::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount3).<end>
 
 =>q130_original
 Well...<end>
 
 =>q130
-Bien...<end>
+Ben...<end>
 
 =>q131_original
 <end>
@@ -806,7 +806,7 @@ Bien...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a133
-Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl freighterFrame.AcheterPrixWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
 
 =>q134_original
 <end>
@@ -824,61 +824,61 @@ Marché conclu. Voilà l'argent. ::Donnez-lui $(context.VehicleStatus xpbl freig
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount1) is all I got.<end>
 
 =>a136
-::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount1) est tout ce que j'ai.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount1), c'est tout ce que j'ai.<end>
 
 =>q137_original
 Well...<end>
 
 =>q137
-Bien...<end>
+Ben...<end>
 
 =>a138_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount2)?<end>
 
 =>a138
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q139_original
 Well...<end>
 
 =>q139
-Bien...<end>
+Ben...<end>
 
 =>a140_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a140
-::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount3).<end>
 
 =>q141_original
 Well...<end>
 
 =>q141
-Bien...<end>
+Ben...<end>
 
 =>a142_original
 ::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount2)?<end>
 
 =>a142
-::[Mercantile]:: Trop. Et $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount2) ?<end>
+::[Mercantile]:: Trop cher. Et $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount2) ?<end>
 
 =>q143_original
 Well...<end>
 
 =>q143
-Bien...<end>
+Ben...<end>
 
 =>a144_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount3) for it.<end>
 
 =>a144
-::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0)? Ça en vaut pas la peine. Je vous donne $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount3) pour ça.<end>
+::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) ? Ça vaut pas ça. Je te donne $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount3).<end>
 
 =>q145_original
 Well...<end>
 
 =>q145
-Bien...<end>
+Ben...<end>
 
 =>a146_original
 Blazer.<end>

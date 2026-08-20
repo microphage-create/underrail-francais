@@ -4,7 +4,7 @@
 Now, what could be inside, Corporal? Hmm?<end>
 
 =>q1
-::Fraser vous accueille d'un sourire hautain.:: Caporal, caporal... comme c'est bon de vous voir arriver, et pile au bon moment. Un colis vous attend. ::Il sort une boîte de taille moyenne, aux marques du Protectorate, et la pose sur le comptoir.:: Arrivé de North Underrail il y a quelques heures.
+::Fraser vous accueille d'un sourire hautain.:: Caporal, caporal... comme c'est bon de vous voir débarquer. Et pile au bon moment. Un colis vous attend. ::Il sort une boîte de taille moyenne, aux marques du Protectorate, et la pose sur le comptoir.:: Il est arrivé de North Underrail il y a quelques heures.
 
 Alors, qu'est-ce qu'il pourrait y avoir dedans, caporal ? Hmm ?<end>
 
@@ -20,15 +20,15 @@ Il n'y a qu'une façon de le savoir, monsieur. ::Ouvrir le colis.::<end>
 Oh! I can see you have *really* earned the sympathies of Captain Mareth. Ah, Corporal, Corporal... I don't know how you do these things, but I salute you! That armor looks... mighty terrifying; I wish I had one in my possession, to be perfectly honest. ::He smirks.::<end>
 
 =>q3
-::Vous ouvrez le colis et découvrez, $(#surpris/surprise), un set d'armure Chemical Assault Unit complet, masque compris, celui, immédiatement reconnaissable et tout aussi pétrifiant, dont l'unité est connue. En dessous, un petit mot : « Pas de repos pour les méchants. » Le sergent d'état-major Fraser vous observe avec curiosité démêler ce cadeau inattendu, et lève un sourcil en voyant le contenu.::
+::Vous ouvrez le colis et découvrez, $(#surpris/surprise), une armure Chemical Assault Unit complète, masque compris : celui, immédiatement reconnaissable et tout aussi pétrifiant, dont l'unité est connue. En dessous, un petit mot : « Pas de repos pour les méchants. » Le sergent d'état-major Fraser vous observe avec curiosité déballer ce cadeau inattendu, et lève un sourcil en voyant le contenu.::
  
-Oh ! Je vois que vous avez *vraiment* gagné les sympathies du capitaine Mareth. Ah, caporal, caporal... Je ne sais pas comment vous faites, mais je vous salue ! Cette armure a l'air... terriblement terrifiante ; j'aimerais en avoir une, pour être tout à fait honnête. ::Il sourit en coin.::<end>
+Oh ! Je vois que vous avez *vraiment* su vous attirer les sympathies du capitaine Mareth. Ah, caporal, caporal... Je ne sais pas comment vous faites, mais je vous salue ! Cette armure a l'air... proprement terrifiante ; j'aimerais en avoir une, pour être tout à fait honnête. ::Il sourit en coin.::<end>
 
 =>a4_original
 Mhm. Anyway, there was something I needed of you, sir.<end>
 
 =>a4
-Mhm. Quoi qu'il en soit, j'avais besoin de quelque chose, monsieur.<end>
+Mhm. Quoi qu'il en soit, j'avais besoin de vous pour quelque chose, monsieur.<end>
 
 =>q5_original
 Yes, Corporal?<end>
@@ -52,7 +52,7 @@ Montrez-moi ce que vous avez. ::Troc.::<end>
 ::[Mercantile]:: I have a question, Staff Sergeant: Who gets access to all the high quality equipment you're hiding in your armory? The good stuff, for good soldiers. I've got all these dollars that need to be spent somewhere.<end>
 
 =>a8
-::[Mercantile]:: J'ai une question, sergent d'état-major : qui a accès à tout l'équipement de qualité que vous cachez dans l'armurerie ? Le bon matériel, pour les bons soldats. J'ai tous ces dollars qui demandent à être dépensés quelque part.<end>
+::[Mercantile]:: J'ai une question, sergent d'état-major : qui a accès à tout l'équipement de qualité que vous cachez dans l'armurerie ? Le bon matériel, pour les bons soldats. J'ai tous ces dollars qui ne demandent qu'à être dépensés quelque part.<end>
 
 =>q9_original
 Say no more, Corporal...<end>
@@ -70,7 +70,7 @@ N'en dites pas plus, caporal...<end>
 You get what you deserve, Corporal.<end>
 
 =>q11
-Vous obtenez ce que vous méritez, caporal.<end>
+Vous aurez ce que vous méritez, caporal.<end>
 
 =>a12_original
 I'd like to exchange currency.<end>
@@ -112,7 +112,7 @@ Pas de problème, caporal. Combien vous en faut-il ?<end>
 Here you go, Corporal. Spend the money well. ::He smirks.:: Is that all?<end>
 
 =>q18
-Voilà, caporal. Dépensez bien. ::Il sourit en coin.:: C'est tout ?<end>
+Voilà, caporal. Dépensez-les bien. ::Il sourit en coin.:: C'est tout ?<end>
 
 =>a19_original
 ::Trade 50 stygian coins for 20 dollars.::<end>
@@ -220,13 +220,13 @@ Vous prenez les crédits SGS, par hasard ?<end>
 SGS credits? Oh, no, only charons and united stations dollars, I'm afraid.<end>
 
 =>q36
-Les crédits SGS ? Oh non, seulement les charons et les dollars United Stations, j'en ai peur.<end>
+Les crédits SGS ? Oh non, seulement les charons et les dollars United Stations, je le crains.<end>
 
 =>q37_original
 You know, perhaps I should have mentioned that earlier, but I had forgotten you were from SGS. Heh, that is one remote place; I couldn't imagine myself ever wanting to go that far south, unless it gets a bit more "northernized". No offense. ::He smirks.::<end>
 
 =>q37
-Vous savez, j'aurais peut-être dû le dire plus tôt, mais j'avais oublié que vous veniez de SGS. Hé, c'est un trou perdu ; je ne m'imagine pas vouloir aller aussi loin au sud, à moins que ça ne se « nordise » un peu. Sans vouloir offenser. ::Il sourit en coin.::<end>
+Vous savez, j'aurais peut-être dû le dire plus tôt, mais j'avais oublié que vous veniez de SGS. Hé, c'est un trou perdu ; je ne me vois pas descendre aussi loin au sud, à moins que ça ne se « nordise » un peu. Sans offense. ::Il sourit en coin.::<end>
 
 =>a38_original
 Colonel told me to see you about my pay.<end>
@@ -244,7 +244,7 @@ Voilà, caporal, ces bleus sont à vous. ::Il vous tend 250 dollars United Stati
 Heh, go get yourself something nice. You deserve it.<end>
 
 =>q40
-Hé, allez vous offrir quelque chose de bien. Vous le méritez.<end>
+Hé, allez donc vous offrir quelque chose de bien. Vous le méritez.<end>
 
 =>a41_original
 I'm here for my pay.<end>
@@ -262,7 +262,7 @@ Je viens chercher ma solde, sergent d'état-major.<end>
 Heh... yes. I was informed of that. Let's see... two missions plus a bonus... That would be six hundred dollars, Corporal. That's a lot of blues... ::He smirks before continuing.:: What did you do, annihilate the Free Drones? Faceless? ::He laughs.::<end>
 
 =>q43
-Hé... oui. On m'en a informé. Voyons... deux missions plus un bonus... Ça fait six cents dollars, caporal. Ça fait beaucoup de bleus... ::Il sourit en coin avant de continuer.:: Qu'est-ce que vous avez fait, anéantir les Free Drones ? Les Faceless ? ::Il rit.::<end>
+Hé... oui. On m'en a informé. Voyons... deux missions plus un bonus... Ça fait six cents dollars, caporal. Ça fait beaucoup de bleus... ::Il sourit en coin avant de continuer.:: Qu'est-ce que vous avez fait ? Anéanti les Free Drones ? Les Faceless ? ::Il rit.::<end>
 
 =>a44_original
 Actually, I decimated Free Drones' main base in South Underrail, sir. Or annihilated, if you really prefer that term.<end>
@@ -274,13 +274,13 @@ En fait, j'ai décimé la base principale des Free Drones dans South Underrail, 
 ::Fraser's smirk contracts into confusion and shuts him up for a brief moment. It doesn't last long, however.:: Well... I wasn't told anything about that yet. Strange. Truly.<end>
 
 =>q45
-::Le sourire en coin de Fraser se contracte, la confusion le fait taire un instant. Ça ne dure pas.:: Eh bien... On ne m'a encore rien dit là-dessus. Étrange. Vraiment.<end>
+::Le sourire en coin de Fraser se contracte, la confusion le cloue un instant. Ça ne dure pas.:: Eh bien... On ne m'a encore rien dit là-dessus. Étrange. Vraiment.<end>
 
 =>q46_original
 Um, here are your blues, Corporal. ::He hands you 600 United Stations dollars. His stare flees yours and hides in a chart he just picked up.::<end>
 
 =>q46
-Hum, voici vos bleus, caporal. ::Il vous tend 600 dollars United Stations. Son regard fuit le vôtre et se réfugie dans une fiche qu'il vient de ramasser.::<end>
+Hum, voici vos bleus, caporal. ::Il vous tend 600 dollars United Stations. Son regard fuit le vôtre et se réfugie dans une fiche qu'il vient de saisir.::<end>
 
 =>a47_original
 Consul Oliver told me to see you.<end>
@@ -292,7 +292,7 @@ Le consul Oliver m'a dit de vous voir.<end>
 Corporal... Corporal... $(context.player.Name). Yes, I indeed have something for you here. Lots of blues, in fact.<end>
 
 =>q48
-Caporal... Caporal... $(context.player.Name). Oui, j'ai effectivement quelque chose pour vous. Beaucoup de bleus, même.<end>
+Caporal... Caporal... $(context.player.Name). Oui, j'ai effectivement quelque chose pour vous, ici. Beaucoup de bleus, même.<end>
 
 =>q49_original
 ::He counts and hands you 300 United Stations dollars.:: That's three hundred, Corporal. Heh, you must've done something to really please the good consul. Spend it well.<end>
@@ -310,13 +310,13 @@ Pourquoi avez-vous rejoint le Protectorate ?<end>
 Corporal, Corporal... That is a good question. I joined the Underrail Protectorate to become a part of the mightiest military machinery this violent world of ours had ever seen. I was born in the North, the homeland, and felt a great... hmmm, the word eludes me... a great appeal to this idea of unifying the whole Underrail under a single, powerful rule.<end>
 
 =>q51
-Caporal, caporal... Belle question. J'ai rejoint l'Underrail Protectorate pour faire partie de la machine militaire la plus puissante que ce monde violent ait jamais connue. Je suis né dans le Nord, la patrie, et j'ai ressenti un grand... hmmm, le mot m'échappe... un grand attrait pour l'idée d'unifier tout l'Underrail sous une seule règle, puissante.<end>
+Caporal, caporal... Belle question. J'ai rejoint l'Underrail Protectorate pour faire partie de la machine militaire la plus puissante que ce monde violent ait jamais connue. Je suis né dans le Nord, la patrie, et j'ai ressenti un grand... hmmm, le mot m'échappe... un grand attrait pour l'idée d'unifier tout l'Underrail sous une seule autorité, puissante.<end>
 
 =>q52_original
 No offense, but the South is not really the most sophisticated region of Underrail, isn't it true? You ought to know it better than me. Bandits, murderers, Lunatics... Tchortists? What's up with that? As your kind would say it, South Underrail seems pretty derailed to me. It needs discipline, whether the simple folk want it or not.<end>
 
 =>q52
-Sans vouloir offenser, le Sud n'est vraiment pas la région la plus raffinée d'Underrail, n'est-ce pas ? Vous devriez le savoir mieux que moi. Bandits, assassins, Lunatics... Tchortists ? Qu'est-ce que c'est que ça ? Comme dirait votre espèce, South Underrail me semble plutôt déraillé. Il lui faut de la discipline, que le petit peuple le veuille ou non.<end>
+Sans offense, le Sud n'est vraiment pas la région la plus raffinée d'Underrail, n'est-ce pas ? Vous devriez le savoir mieux que moi. Bandits, meurtriers, Lunatics... Tchortists ? Qu'est-ce que c'est que ça ? Comme dirait votre espèce, South Underrail me semble plutôt déraillé. Il lui faut de la discipline, que le petit peuple le veuille ou non.<end>
 
 =>a53_original
 What can you tell me about the Free Drones?<end>
@@ -340,13 +340,13 @@ Je pense que vous en savez assez, caporal.<end>
 Heh, Free Drones. I don't see what the big deal is about them; they are but a minor nuisance to us. Protectorate is strong enough to... wipe the ground with these anarchists.<end>
 
 =>q56
-Hé, les Free Drones. Je ne vois pas où est le problème ; ce n'est qu'une nuisance mineure, pour nous. Le Protectorate est assez fort pour... balayer ces anarchistes.<end>
+Hé, les Free Drones. Je ne vois pas ce qu'on leur trouve ; une nuisance mineure, pour nous. Le Protectorate est assez fort pour... balayer ces anarchistes.<end>
 
 =>q57_original
 Corporal, Corporal... I've already heard about the Rail Crossing situation, and I know what you did. If one - no offense - simple Southerner can stand in their way, then... Well, you understand, don't you?<end>
 
 =>q57
-Caporal, caporal... J'ai déjà entendu parler de Rail Crossing, et je sais ce que vous avez fait. Si un simple sudiste, sans vouloir offenser, peut se mettre en travers de leur chemin, alors... Eh bien, vous comprenez, n'est-ce pas ?<end>
+Caporal, caporal... J'ai déjà entendu parler de Rail Crossing, et je sais ce que vous avez fait. Si un simple sudiste, sans offense, peut se mettre en travers de leur chemin, alors... Eh bien, vous comprenez, n'est-ce pas ?<end>
 
 =>a58_original
 Did you just call me simple?<end>
@@ -358,7 +358,7 @@ Vous venez de me traiter de simple ?<end>
 No, Corporal, you must be hearing things. Besides, I don't like that tone of yours. That's not how you talk to a superior officer.<end>
 
 =>q59
-Non, caporal, vous devez entendre des choses. Et puis, je n'aime pas ce ton. Ce n'est pas ainsi qu'on parle à un officier supérieur.<end>
+Non, caporal, vous vous faites des idées. Et puis, je n'aime pas ce ton. Ce n'est pas ainsi qu'on parle à un officier supérieur.<end>
 
 =>a60_original
 I have other questions.<end>
@@ -382,7 +382,7 @@ Que pouvez-vous me dire sur le colonel Cathcart ?<end>
 An outstanding man. A truly brilliant commander, and a friend of mine, if I may say so. You've met him yourself, Corporal, I think you should've realized that by now. How can one not?<end>
 
 =>q63
-Un homme exceptionnel. Un commandant vraiment brillant, et un ami, si je puis dire. Vous l'avez rencontré vous-même, caporal, je pense que vous auriez dû le voir. Comment ne pas le voir ?<end>
+Un homme exceptionnel. Un commandant vraiment brillant, et un ami, si je puis dire. Vous l'avez rencontré vous-même, caporal, ça aurait dû vous sauter aux yeux. Comment ne pas s'en rendre compte ?<end>
 
 =>q64_original
 I could go on and on about him, but I'll choose to be concise: Without him, Underrail Protectorate wouldn't have any presence in the South. I've been here during the crucial moments, where subtle moves meant you stay in the game or you get kicked out; he played the moves right.
@@ -392,7 +392,7 @@ That's all you need to hear from me.<end>
 =>q64
 Je pourrais en parler longtemps, mais je serai concis : sans lui, l'Underrail Protectorate n'aurait aucune présence dans le Sud. J'étais là aux moments décisifs, où un geste subtil décidait si on restait dans le jeu ou si on se faisait jeter ; il a joué les bons coups.
 
-C'est tout ce que vous avez besoin d'entendre de moi.<end>
+Voilà tout ce que vous avez à entendre de moi.<end>
 
 =>a65_original
 What can you tell me about Consul Oliver?<end>
@@ -404,7 +404,7 @@ Que pouvez-vous me dire sur le consul Oliver ?<end>
 The consul is our compatriot, a true Northerner: Educated, intelligent, honest... a good-natured man. Perhaps even too good-natured sometimes. This is South Underrail after all, and here you have to have your claws sharpened, whether you come as a Protectorate soldier or a United Stations diplomat.<end>
 
 =>q66
-Le consul est notre compatriote, un vrai Nordiste : instruit, intelligent, honnête... un homme de bonne nature. Peut-être trop, parfois. C'est South Underrail, après tout, et ici il faut avoir les griffes aiguisées, que l'on vienne en soldat du Protectorate ou en diplomate United Stations.<end>
+Le consul est notre compatriote, un vrai Nordiste : instruit, intelligent, honnête... un homme de bon naturel. Peut-être trop bon, parfois. C'est South Underrail, après tout, et ici il faut avoir les griffes aiguisées, que l'on vienne en soldat du Protectorate ou en diplomate United Stations.<end>
 
 =>q67_original
 Most Southerners are so... unrefined and decadent, Corporal. Diplomacy gets incredibly difficult when you're dealing with people who aren't on the same level as you.<end>
@@ -444,7 +444,7 @@ Hé... Attendez, de qui parlez-vous ? ::Il s'arrête une seconde.:: Luka... Luka
 ::He erupts into laughter.:: How funny of you to *actually* think I'd socialize with someone like him! Ah... Anyway, I can't tell you anything at all about the man, Corporal. He is... under the radar to me, so to say.<end>
 
 =>q72
-::Il éclate de rire.:: Comme c'est drôle, de penser *vraiment* que je fréquenterais quelqu'un comme lui ! Ah... Enfin, je ne peux rien vous dire sur cet homme, caporal. Il est... hors de mon radar, pour ainsi dire.<end>
+::Il éclate de rire.:: Comme c'est drôle, que vous pensiez *vraiment* que je fréquenterais quelqu'un comme lui ! Ah... Enfin, je ne peux rien vous dire sur cet homme, caporal. Il passe... sous mon radar, pour ainsi dire.<end>
 
 =>a73_original
 What can you tell me about Anastasia?<end>
@@ -456,13 +456,13 @@ Que pouvez-vous me dire sur Anastasia ?<end>
 Corporal, that woman is a diamond. She is a far greater hero than any one of us here, no matter how surprising that might seem to you. Her train was assaulted by the Free Drones, those barbarians, and they hurt her. And she was traveling to Fort Apogee to help our soldiers. And her reward for such a big heart? She suffered chemical burns on her body as well as pernament voice damage from the toxic gas.<end>
 
 =>q74
-Caporal, cette femme est un diamant. C'est une bien plus grande héroïne que n'importe lequel d'entre nous, ici, aussi surprenant que ça puisse paraître. Son train a été attaqué par les Free Drones, ces barbares, et ils l'ont blessée. Elle se rendait à Fort Apogee pour aider nos soldats. Et sa récompense, pour un si grand cœur ? Des brûlures chimiques sur le corps, et des dégâts permanents à la voix, à cause du gaz toxique.<end>
+Caporal, cette femme est un diamant. C'est une bien plus grande héroïne que n'importe lequel d'entre nous, ici, aussi surprenant que ça puisse paraître. Son train a été attaqué par les Free Drones, ces barbares, et ils l'ont blessée. Elle se rendait à Fort Apogee pour aider nos soldats. Et sa récompense, pour un si grand cœur ? Des brûlures chimiques sur le corps, et une voix définitivement abîmée, à cause du gaz toxique.<end>
 
 =>q75_original
 Heh, and do you know what she did after that, Corporal? Do you? She carried on. She knew brave Protectorate soldiers needed her help and she stayed here all these years, despite being offered to return to the homeland and retire. All on Protectorate expense.<end>
 
 =>q75
-Hé, et savez-vous ce qu'elle a fait après ça, caporal ? Vous savez ? Elle a continué. Elle savait que les courageux soldats du Protectorate avaient besoin d'elle, et elle est restée toutes ces années, alors qu'on lui proposait de rentrer au pays et de prendre sa retraite. Le tout aux frais du Protectorate.<end>
+Hé, et savez-vous ce qu'elle a fait après ça, caporal ? Vous savez ? Elle a continué. Elle savait que les courageux soldats du Protectorate avaient besoin d'elle, et elle est restée toutes ces années, alors qu'on lui proposait de rentrer au pays et de prendre sa retraite, le tout aux frais du Protectorate.<end>
 
 =>q76_original
 It takes true bravery and commitment to do that, Corporal. She's a true Northerner and an inspiration to us all.<end>
@@ -480,7 +480,7 @@ Que pouvez-vous me dire sur Case ?<end>
 ::He sighs.:: Look, Corporal, if you feel the need to ask me about various people from Fort Apogee, ask about someone important... and someone who's not a ratter, preferably. Especially not someone who is named Justin. Case. ::He laughs.::<end>
 
 =>q78
-::Il soupire.:: Voyez, caporal, si vous tenez à me poser des questions sur divers gens de Fort Apogee, parlez de quelqu'un d'important... et de préférence de quelqu'un qui n'est pas un ratier. Surtout pas de quelqu'un qui s'appelle Justin. Case. ::Il rit.::<end>
+::Il soupire.:: Écoutez, caporal, si vous tenez à me poser des questions sur les gens de Fort Apogee, parlez-moi de quelqu'un d'important... et de préférence de quelqu'un qui n'est pas un ratier. Surtout pas de quelqu'un qui s'appelle Justin. Case. ::Il rit.::<end>
 
 =>q79_original
 What a stupid name. Oh, well, what would you expect...<end>
@@ -498,13 +498,13 @@ Que pouvez-vous me dire sur le CAU ?<end>
 You've met Captain Mareth, I see. I admire that man, greatly, as well as his whole unit. They are highly trained in small arms combat, hand-to-hand combat, demolitions, chemical weapon combat - obviously ... What more can I say?.<end>
 
 =>q81
-Vous avez rencontré le capitaine Mareth, je vois. J'admire beaucoup cet homme, ainsi que toute son unité. Ils sont hautement entraînés au combat d'armes légères, au corps à corps, aux démolitions, au combat chimique, évidemment... Que dire de plus ?<end>
+Vous avez rencontré le capitaine Mareth, je vois. J'admire beaucoup cet homme, ainsi que toute son unité. Ils sont hautement entraînés au combat aux armes légères, au corps à corps, aux démolitions, au combat chimique, évidemment... Que dire de plus ?<end>
 
 =>q82_original
 Ah, Corporal... Corporal, I remember one time when they were dispatched from the homeland... When was it... Two, three years ago? I met him, he was a lieutenant back then, and a marvelous man he was. Highly intelligent and to-the-point kind of man. Highly disciplined. All their missions here, as I recall, were done with great precision and efficiency.<end>
 
 =>q82
-Ah, caporal... caporal, je me souviens d'une fois où on les a envoyés de la patrie... Quand était-ce... Il y a deux, trois ans ? Je l'ai rencontré, il était lieutenant à l'époque, et quel homme. Très intelligent, et direct. Très discipliné. Toutes leurs missions ici, si je me souviens bien, ont été menées avec une grande précision, une grande efficacité.<end>
+Ah, caporal... caporal, je me souviens d'une fois où on les a dépêchés depuis la patrie... Quand était-ce... Il y a deux, trois ans ? Je l'ai rencontré, il était lieutenant à l'époque, et quel homme. Très intelligent, droit au but. Très discipliné. Toutes leurs missions ici, si je me souviens bien, ont été menées avec une grande précision, une grande efficacité.<end>
 
 =>q83_original
 Heh, now that I think of it... they should come here more often. They are efficient.<end>
@@ -522,13 +522,13 @@ Que pouvez-vous me dire sur les Faceless ?<end>
 They are not to be toyed with, Corporal, and we all understand it. They never made any hostile moves against us, at least not directly, but Port Zenith in Core City is under Protectorate control, and if the Faceless make the wrong move, they might just taste the bitter end of it. We are ready for everything, as always.<end>
 
 =>q85
-Il ne faut pas jouer avec eux, caporal, et nous le savons tous. Ils n'ont jamais fait de geste hostile contre nous, du moins pas directement, mais Port Zenith, à Core City, est sous contrôle du Protectorate, et si les Faceless font le mauvais mouvement, ils pourraient en goûter le bout amer. Nous sommes prêts à tout, comme toujours.<end>
+Ils ne sont pas à prendre à la légère, caporal, et nous le savons tous. Ils n'ont jamais fait de geste hostile contre nous, du moins pas directement, mais Port Zenith, à Core City, est sous contrôle du Protectorate, et si les Faceless font un faux pas, ils pourraient en payer le prix. Nous sommes prêts à tout, comme toujours.<end>
 
 =>q86_original
 The South is really a freak show, isn't it? But, you know this very well already, so that comment was redundant, I suppose.<end>
 
 =>q86
-Le Sud est vraiment un freak show, n'est-ce pas ? Mais vous le savez déjà très bien, donc ce commentaire était superflu, je suppose.<end>
+Le Sud est vraiment un cirque, n'est-ce pas ? Mais vous le savez déjà très bien, ce commentaire était donc superflu, je suppose.<end>
 
 =>a87_original
 ::Salute and leave.::<end>
@@ -540,7 +540,7 @@ Le Sud est vraiment un freak show, n'est-ce pas ? Mais vous le savez déjà trè
 Thank you, sir. I'm glad the captain didn't forget about me. Now, there was something else I needed of you. <end>
 
 =>a88
-Merci, monsieur. Je suis $(#content/contente) que le capitaine ne m'ait pas $(#oublié/oubliée). Maintenant, j'avais encore besoin de vous. <end>
+Merci, monsieur. Je suis $(#content/contente) que le capitaine ne m'ait pas $(#oublié/oubliée). Maintenant, j'avais encore besoin de vous pour autre chose. <end>
 
 =>a89_original
 I'd love to chat, sir, but I have to leave. ::Salute and leave.::<end>
@@ -558,13 +558,13 @@ J'aimerais discuter, monsieur, mais je dois y aller. ::Saluer et partir.::<end>
 Heh, who are you? Actually, it doesn't matter anyway. ::He waves you away.::<end>
 
 =>q91
-Hé, qui êtes-vous ? En fait, ça n'a aucune importance. ::Il vous fait signe de partir.::<end>
+Hé, qui êtes-vous ? De toute façon, ça n'a aucune importance. ::Il vous fait signe de partir.::<end>
 
 =>q92_original
 Corporal. I'm sure you'd be delighted to know that I've received new equipment you can spend your blues on.<end>
 
 =>q92
-Caporal. Je suis sûr que vous serez $(#ravi/ravie) d'apprendre que j'ai reçu du nouvel équipement, pour vos bleus.<end>
+Caporal. Je suis sûr que vous serez $(#ravi/ravie) d'apprendre que j'ai reçu du matériel neuf, pour vos bleus.<end>
 
 =>a93_original
 Show me what you got. ::Barter.::<end>
@@ -590,7 +590,7 @@ Oh ?<end>
 At ease, Corporal. I'm Staff Sergeant Eric Fraser. I am the quartermaster here at Fort Apogee, so if you need equipment or need to exchange currency, I am the one to come to. Now, Corporal... what'll it be?<end>
 
 =>q96
-::Vous vous approchez de l'homme que vous croyez être le sergent d'état-major Fraser. Vous vous tenez droit, vous le saluez, il vous rend le salut. Pendant ce bref échange, vous avez tous les deux le temps de vous regarder. La première chose que vous remarquez : un nez fin, d'une longueur impressionnante, entre deux yeux marron. En dessous, des lèvres irrégulières se plient lentement en un sourire condescendant : lui aussi a dû voir quelque chose chez vous qui a provoqué ce rictus. Puis il ouvre la bouche, et c'est une voix aiguë, nasillarde, qui frôle le féminin. La conversation commence.::
+::Vous vous approchez de l'homme que vous croyez être le sergent d'état-major Fraser. Vous vous tenez droit, vous le saluez, il vous rend le salut. Pendant ce bref échange, vous avez tous les deux le temps de vous dévisager. La première chose que vous remarquez : un nez fin, d'une longueur impressionnante, planté entre deux yeux marron. En dessous, des lèvres anguleuses se plient lentement en un sourire condescendant : lui aussi a dû voir quelque chose chez vous qui a provoqué ce rictus. Puis il ouvre la bouche, et c'est une voix aiguë, nasillarde, qui frôle le féminin. La conversation commence.::
 
 Repos, caporal. Sergent d'état-major Eric Fraser. Je suis le quartier-maître de Fort Apogee : équipement, change de devises, c'est à moi qu'il faut s'adresser. Alors, caporal... qu'est-ce que ce sera ?<end>
 

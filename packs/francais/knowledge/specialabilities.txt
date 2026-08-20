@@ -26,9 +26,9 @@ Une fois caché de quelqu'un, il lui faut un jet de Perception pour te détecter
 +{0}% vitesse de déplacement pendant {1} secondes.
 
 ::LocusOfControl
-Active : retire et immunise contre stun, peur, incapacité et contrôle mental pendant {0}.
+Active : retire et immunise contre l'étourdissement, la peur, l'incapacité et le contrôle mental pendant {0}.
 
-Pendant l'effet, tout pouvoir de contrôle mental peut être lancé en AoE, ce qui termine l'effet.
+Pendant l'effet, tout pouvoir Thought Control peut être lancé en AoE, ce qui termine l'effet.
 
 ::Premeditation-Old
 Active : prochain pouvoir psi gratuit en psi et +{0} portée.
@@ -46,13 +46,13 @@ Active : prochain carreau spécial gratuit en PA. Hors combat uniquement.
 Cri intimidant : réduit la préparation au combat des ennemis autour et les sort de furtif. Skills de combat -{0} pendant {1}.
 
 ::YellMonstrous
-En plus, tous les ennemis affectés ont {0}% de chances d'être submergés de peur et de fuir en panique pendant {1}.
+En plus, tous les ennemis affectés ont {0}% de chances de partir en panique pendant {1}.
 
 ::UncannyDodge
 Active : tu esquives les prochaines {0} attaques de mêlée (normales ou spéciales) contre toi.
 
 ::EvasiveManeuvers
-Convertit tous les PM restants en évitement au taux de {0}% pendant {1}.
+Convertit tous les PM restants en Evasion au taux de {0}% pendant {1}.
 
 ::QuickTinkering
 Active : prochain piège armé instantanément, même en combat (coût {0} PA).
@@ -67,19 +67,19 @@ Active : tes PV repassent temporairement au max pendant {0}. À la fin, PV = 1.
 Projette {0} blobs d'acide sur la cible ({1} dégâts par blob) et laisse des flaques d'acide au sol.
 
 ::AcidSpray_Rusting
-Projette {0} blobs d'acide rouillant sur la cible ({1} dégâts + 1 stack Rouille par blob) et laisse des flaques d'acide au sol.
+Projette {0} blobs d'acide rouillant sur la cible ({1} dégâts + 1 stack Rusting par blob) et laisse des flaques d'acide au sol.
 
-Rouille : -{2} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {3}. Stack {4} fois.
+Rusting : -{2} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {3}. Stack {4} fois.
 
 +{5}% dégâts d'acide rouillant contre véhicules et machines.
 
 ::AcidBlobAttack
-Crache un gros blob d'acide sur la cible : {0} dégâts et enchevêtrement acide pendant {1} si touche. En enchevêtrement : +{2} dégâts d'acide par tour.
+Crache un gros blob d'acide sur la cible : {0} dégâts et enchevêtrement acide pendant {1} si ça touche. En enchevêtrement : +{2} dégâts d'acide par tour.
 
 ::AcidBlobAttack_Rusting
-Crache un gros blob d'acide rouillant : {0} dégâts, enchevêtrement pendant {1} et debuff Rouille si touche. En enchevêtrement : +{2} dégâts d'acide et +{3} stacks Rouille par tour.
+Crache un gros blob d'acide rouillant : {0} dégâts, enchevêtrement pendant {1} et debuff Rusting si ça touche. En enchevêtrement : +{2} dégâts d'acide et +{3} stacks Rusting par tour.
 
-Rouille : -{4} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {5}. Stack {6} fois.
+Rusting : -{4} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {5}. Stack {6} fois.
 
 +{7}% dégâts d'acide rouillant contre véhicules et machines.
 
@@ -102,13 +102,13 @@ Tire une roquette Harp-1 sur la zone : {0} et {1} dégâts dans un rayon de {2} 
 Consomme instantanément {0} énergie du véhicule : +{1}% vitesse et PM, +{2}% conso d'énergie pendant {3}. Bonus seulement si le véhicule n'est pas en surcharge.
 
 ::ChangeTrigger
-Doigt sur l'autre détente du fusil à pompe double canon, prêt à tirer l'autre cartouche en premier.
+Place le doigt sur l'autre détente du fusil à pompe double canon, prêt à tirer l'autre cartouche en premier.
 
 ::Fend
-Gagne immédiatement l'effet Garde de lance, qui bloque {0}% de dégâts en plus (lance et skill actuels : {1}).
+Gagne immédiatement l'effet Spear Guard, qui bloque {0}% de dégâts en plus (lance et compétence actuelles : {1}).
 
 ::ThrowSpear
-Lance la lance sur la cible : {0}% + {1}% par unité de distance des dégâts d'arme normaux. Précision = skill Lancer.
+Lance la lance sur la cible : {0}% + {1}% par case de distance des dégâts d'arme normaux. Précision = Throwing.
 
 ::ShootLeviatorPlasmaCannon
 Tire l'un des canons plasma : {0} et {1} dégâts sur la cible. Consomme {2} énergie du véhicule.
@@ -120,7 +120,11 @@ Tire le canon à fusion : {0} et {1} dégâts dans un rayon de {2} cases. Consom
 Tire rapidement {0} coups des lasers jumelés : {1} par coup. Consomme {2} énergie du véhicule.
 
 ::ElectroshockAura
-Active : draine {0} énergie de l'armure et frappe les personnages adjacents pour {1} dégâts en fin de chaque tour, pour {2} énergie supplémentaire par personnage. Se produit en début de tour du porteur au lieu de la fin. De plus, chaque attaque de mêlée reçue frappe l'attaquant des mêmes dégâts électriques au même coût d'énergie. À chaque dégât électrique de l'aura : {3}% de chances de stun pendant {4}.
+Active : draine {0} énergie de l'armure. En début de chaque tour du porteur, frappe les personnages adjacents pour {1} dégâts ({2} énergie de plus par personnage).
+
+Chaque attaque de mêlée reçue inflige les mêmes dégâts électriques à l'attaquant, au même coût d'énergie.
+
+À chaque dégât électrique de l'aura : {3}% de chances d'étourdir pendant {4}.
 
 ::MetallineEnergization
 Active : draine {1} énergie par tour pour -{0}% malus d'armure global du porteur.
@@ -149,28 +153,28 @@ Remorque un autre jet ski ou véhicule naval.
 Arrête le remorquage en cours.
 
 ::EmpoweredInvocation
-Active : +{1}% au skill {0} jusqu'à la fin du tour, puis vide tous les points psi restants.
+Active : +{1}% {0} jusqu'à la fin du tour, puis vide tous les points psi restants.
 
 ::PickUpThrownSpear
 Ramasse la lance lancée la plus proche au sol.
 
 ::Hypnotize
-Tente d'incapaciter une cible humanoïde pendant {0}. Chance de réussite selon Persuasion de l'invoqueur et sang-froid de la cible. Coûte {1} énergie.
+Tente d'incapaciter une cible humanoïde pendant {0}. Chance de réussite selon Persuasion du lanceur et sang-froid de la cible. Coûte {1} énergie.
 
 ::Vanish
 Entre immédiatement en furtif, disparaît de la vue de tous, et convertit tous les PA restants en PM.
 
 ::WirelessChargingAura
-Active : transfère jusqu'à {0} énergie à {1}% d'efficacité de l'objet source vers tous les autres objets équipés à recharger, énergie répartie également.
+Active : transfère jusqu'à {0} énergie à {1}% d'efficacité de l'objet source vers tous les autres objets équipés qui se rechargent, à parts égales.
 
 ::HelmetLanternAura
 Active : draine immédiatement {0} énergie puis {1} par tour pour éclairer jusqu'à {2} cases devant le porteur.
 
 ::ExoskeletonDrillAttack
-Tu tentes de frapper la cible {0} fois avec le foret monté pour {1} dégâts. Seulement si la combinaison est sous tension. Coûte {2} énergie.
+Tu tentes de frapper la cible {0} fois avec le foret monté pour {1} dégâts. Seulement si l'exosquelette est sous tension. Coûte {2} énergie.
 
 ::IndustrialExoskeletonAura
-+{0} Force, +{1} PM, annule les malus de vitesse et d'Agilité de l'armure. Active : draine immédiatement {2} énergie puis {3} par tour, +{4} énergie par case de déplacement.
++{0} Strength, +{1} PM, annule les malus de vitesse et d'Agility de l'armure. Active : draine immédiatement {2} énergie puis {3} par tour, +{4} énergie par case de déplacement.
 
 ::ShootingSpree
 Active : ton prochain tir de sniper rembourse 100% de son coût PA s'il tue. Expire en fin de tour si inutilisé.
@@ -179,19 +183,19 @@ Active : ton prochain tir de sniper rembourse 100% de son coût PA s'il tue. Exp
 Active : tes deux prochains tirs de sniper remboursent 100% de leur coût PA s'ils tuent leur cible. Expire en fin de tour si inutilisés.
 
 ::BulletTime
-Active : -{0}% PA pour tirer aux pistolets à feu jusqu'à la fin du tour.
+Active : -{0}% PA sur les tirs de pistolets à feu jusqu'à la fin du tour.
 
 ::EnergySiphon
-Attaque de mêlée au contact : draine {0}-{1} énergie de l'équipement de la cible, utilise {2}% de cette énergie pour recharger ton stuff, et inflige des dégâts électriques irrésistibles égaux à {3}% de l'énergie drainée. Contre une machine : {4} dégâts irrésistibles à la place, {5}% convertis en énergie pour recharger ton stuff. Coûte {6} énergie.
+Attaque de mêlée au contact : draine {0}-{1} énergie de l'équipement de la cible, utilise {2}% de cette énergie pour recharger ton équipement, et inflige des dégâts électriques irrésistibles égaux à {3}% de l'énergie drainée. Contre une machine : {4} dégâts irrésistibles à la place, {5}% de ces dégâts convertis en énergie pour recharger ton équipement. Coûte {6} énergie.
 
 ::CatLaser
 Provoque le chat pour qu'il tire un laser sur une cible : {0} dégâts pour {1} énergie.
 
 ::CombatExoskeletonAura
-+{0} Force, +{1} PM, annule les malus de vitesse et d'Agilité de l'armure. Active : draine immédiatement {2} énergie puis {3} par tour, +{4} énergie par case de déplacement.
++{0} Strength, +{1} PM, annule les malus de vitesse et d'Agility de l'armure. Active : draine immédiatement {2} énergie puis {3} par tour, +{4} énergie par case de déplacement.
 
 ::TechnomedicExoskeletonRecharge
-Utilise {0} énergie ou plus pour recharger l'équipement électronique de la cible à {1} d'efficacité, énergie répartie également.
+Utilise {0} énergie ou plus pour recharger l'équipement électronique de la cible à {1} d'efficacité, à parts égales.
 
 ::TechnomedicExoskeletonRegenerativeInjection
-Injecte une cible vivante d'un mélange régénératif : soigne {0} par tour, -{1} dégâts mécaniques et de chaleur. Durée {2}. Coûte {3} énergie et requiert une ampoule spéciale de Catalyseur de régénération parafibrotique.
+Injecte un mélange régénératif à une cible vivante : soigne {0} par tour, -{1} dégâts mécaniques et de chaleur. Durée {2}. Coûte {3} énergie et requiert une ampoule spéciale de Catalyseur de régénération parafibrotique.

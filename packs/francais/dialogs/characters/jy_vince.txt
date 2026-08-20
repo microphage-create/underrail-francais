@@ -4,9 +4,9 @@
 Hold't right thar, $(#jack/sister). This alley 'ere is belong to us. You wanna pass through, you gotta pay a one-time fee. Mhm.<end>
 
 =>q1
-::Un homme bien bâti se place devant vous, les bras croisés, les jambes un peu écartées. En même temps, il vous parle d'une voix légère, râpeuse.::
+::Un homme bien bâti se plante devant toi, bras croisés, jambes un peu écartées. En même temps, il te parle d'une voix légère, râpeuse.::
 
-Bouge plus, $(#gars/sœurette). Cette ruelle-là, c'est à nous. Tu veux passer, tu paies un droit. Une fois. Mhm.<end>
+Toi, tu bouges plus, $(#gars/sœurette). Cette ruelle-là, c'est à nous. Tu veux passer, tu paies. Une fois. Mhm.<end>
 
 =>q2_original
 <end>
@@ -36,13 +36,13 @@ Comment tu-- ? Je-- ::Il commence à suer.::<end>
 Hey, why did you not say you is *His* friend, huh? Psionic boy's. Go on through, yeah - go on through.<end>
 
 =>q6
-Hé, pourquoi t'as pas dit que t'étais l'ami de *Lui*, hein ? Le gars psi. Passe, ouais - passe.<end>
+Hé, pourquoi t'as pas dit que t'étais $(#un ami/une amie) à *Lui*, hein ? Du gars psi. Passe, ouais - passe.<end>
 
 =>a7_original
 Alright, I'll pay. ::Pay 5 stygian coins.::<end>
 
 =>a7
-Bon, je paie. ::Payer 5 pièces stygiennes.::<end>
+Bon, je paie. ::Payer 5 charons.::<end>
 
 =>q8_original
 Good decision. You can pass now.<end>
@@ -60,7 +60,7 @@ C'est combien, le droit ?<end>
 For a pretty girl like you... ::It takes a few seconds before his stare travels all over your body.:: make it five charons. Mhm.<end>
 
 =>q10
-Pour une jolie fille comme toi... ::Il lui faut quelques secondes avant que son regard vous parcoure de haut en bas.:: on va dire cinq charons. Mhm.<end>
+Pour une jolie fille comme toi... ::Il lui faut quelques secondes pour te toiser de haut en bas.:: on va dire cinq charons. Mhm.<end>
 
 =>q11_original
 It's five charons.<end>
@@ -78,7 +78,7 @@ C'est cinq charons.<end>
 Yeah, right you did. Then how come you didn't know what the fee were, eh? Don't play no games with me, punk.<end>
 
 =>q13
-Ouais, bien sûr. Alors comment se fait-il que tu savais pas combien c'était, hein ? Joue pas au malin avec moi, p'tit con.<end>
+Ouais, c'est ça. Alors comment se fait-il que tu savais pas le tarif, hein ? Joue pas au malin avec moi, $(#petit con/petite conne).<end>
 
 =>q14_original
 I don't think so. I would've remembered your mug.<end>
@@ -96,7 +96,7 @@ Je portais un masque, à ce moment-là. J'ai payé tes trois charons.<end>
 Ha, nice try, but that ain't the fee. No, no. It's five charons. Now get your ass outta 'ere and come back with some shinies.<end>
 
 =>q16
-Ha, bien essayé, mais c'est pas le tarif. Non, non. C'est cinq charons. Maintenant fous le camp d'ici et reviens avec des brillants.<end>
+Ha, bien essayé, mais c'est pas le tarif. Non, non. C'est cinq charons. Maintenant fous le camp d'ici et reviens avec du fric.<end>
 
 =>a17_original
 Well you have bad memory then, because I paid your five charons already.<end>
@@ -126,7 +126,7 @@ Bon.<end>
 Come back when you got some shinies. Mhm.<end>
 
 =>q21
-Reviens quand t'auras des brillants. Mhm.<end>
+Reviens quand t'as du fric. Mhm.<end>
 
 =>q22_original
 I ain't fallin' for that one.<end>
@@ -144,25 +144,25 @@ Je suis en mission officielle de South Gate Station. J'ai pas à payer de droit.
 You is gonna pay like everyone else, southgater. Besides, what's a couple shinies for you SGS folk?<end>
 
 =>q24
-Tu vas payer comme tout le monde, gars de SGS. En plus, c'est quoi quelques brillants, pour vous autres de SGS ?<end>
+Tu vas payer comme tout le monde, $(#gars/fille) de SGS. En plus, c'est quoi deux-trois sous, pour vous autres de SGS ?<end>
 
 =>a25_original
 ::[Intimidate]:: I'm not paying you anything, you mangy street rat. Now step aside before I turn your brain into graffiti.<end>
 
 =>a25
-::[Intimidate]:: Je te paie rien, sale rat des rues. Maintenant pousse-toi, avant que je te transforme le cerveau en graffiti.<end>
+::[Intimidate]:: Je te paie rien, sale rat galeux. Maintenant pousse-toi, avant que je te transforme le cerveau en graffiti.<end>
 
 =>q26_original
 You either very brave or very stupid, $(#jack/sister), threatening me on my home turf.<end>
 
 =>q26
-T'es soit très gonflé, soit très con, $(#gars/sœurette), à me menacer sur mon terrain.<end>
+T'es soit très $(#gonflé/gonflée), soit très $(#con/conne), $(#gars/sœurette), à me menacer sur mon terrain.<end>
 
 =>a27_original
 ::[Intimidate]:: I don't need to be brave. I've got enough firepower to blow you and your little cardboard city to Upper Underrail. I'll be passing through here now unless you want a demonstration?<end>
 
 =>a27
-::[Intimidate]:: J'ai pas besoin d'être gonflé. J'ai assez de feu pour vous envoyer, toi et ta petite ville en carton, jusqu'à Upper Underrail. Je passe, maintenant, à moins que tu veuilles une démo ?<end>
+::[Intimidate]:: J'ai pas besoin d'être $(#gonflé/gonflée). J'ai assez de feu pour vous envoyer, toi et ta petite ville en carton, jusqu'à Upper Underrail. Je passe, maintenant, à moins que tu veuilles une démo ?<end>
 
 =>q28_original
 ::His stare is nothing but anger, but after exchanging it with his comrades, he motions you to pass.:: 
@@ -170,7 +170,7 @@ T'es soit très gonflé, soit très con, $(#gars/sœurette), à me menacer sur m
 You good to pass.<end>
 
 =>q28
-::Son regard n'est que de la colère, mais après l'avoir échangé avec ses camarades, il vous fait signe de passer.:: 
+::Son regard n'est que de la colère, mais après un échange avec ses gars, il te fait signe de passer.:: 
 
 Tu peux passer.<end>
 
@@ -190,7 +190,7 @@ It won't be your turf for long. ::Attack!::<end>
 You ain't even gonna have time to regret what you just said. Get this idiot!<end>
 
 =>q31
-T'auras même pas le temps de regretter ce que t'as dit. Attrapez cet idiot !<end>
+T'auras même pas le temps de regretter ce que t'as dit. Attrapez $(#cet idiot/cette idiote) !<end>
 
 =>a32_original
 Forget it. I'll take another way around.<end>
@@ -208,7 +208,7 @@ Y a pas d'autre chemin. Tu reviendras. Mhm.<end>
 Oops, I think I got lost. I'll be going now.<end>
 
 =>a34
-Oups, je crois que je me suis perdu. Je m'en vais.<end>
+Oups, je crois que je me suis $(#perdu/perdue). Je m'en vais.<end>
 
 =>q35_original
 We got no more business to do. Move along, $(#jack/sister).<end>
@@ -220,4 +220,4 @@ On a plus d'affaires ensemble. Circule, $(#gars/sœurette).<end>
 Shinies - got 'em?<end>
 
 =>q36
-Des brillants - t'en as ?<end>
+Du fric - t'en as ?<end>

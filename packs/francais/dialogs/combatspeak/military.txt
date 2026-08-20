@@ -26,7 +26,7 @@ Bouclier stable.<end>
 Shield up.<end>
 
 =>q5
-Protégez-vous.<end>
+Bouclier actif.<end>
 
 =>q6_original
 Shield emitter still active.<end>
@@ -38,7 +38,7 @@ Shield emitter still active.<end>
 You should've trained harder.<end>
 
 =>q7
-Tu aurais dû t'entraîner plus dur.<end>
+Vous auriez dû vous entraîner plus.<end>
 
 =>q8_original
 Denied.<end>
@@ -50,7 +50,7 @@ Refusé.<end>
 That is not going to work.<end>
 
 =>q9
-Cela ne fonctionnera pas.<end>
+Ça ne passera pas.<end>
 
 =>q10_original
 I'm hit!<end>
@@ -62,7 +62,7 @@ Je suis touché !<end>
 I've been hit!<end>
 
 =>q11
-J'ai été touché !<end>
+J'ai pris un coup !<end>
 
 =>q12_original
 Hhhhh...<end>
@@ -92,13 +92,13 @@ Ahhh...<end>
 Medic!<end>
 
 =>q16
-Médical!<end>
+Médecin !<end>
 
 =>q17_original
 Taking a lot of heat here!<end>
 
 =>q17
-On prend beaucoup de chaleur ici !<end>
+On se fait allumer, ici !<end>
 
 =>q18_original
 ::Pukes blood.::<end>
@@ -110,25 +110,25 @@ On prend beaucoup de chaleur ici !<end>
 Need a medic over here! ASAP!<end>
 
 =>q19
-Besoin d'un médecin ici ! DÈS QUE POSSIBLE!<end>
+Médecin, ici ! Au plus vite !<end>
 
 =>q20_original
 Ooof!<end>
 
 =>q20
-Ouf !<end>
+Ooof !<end>
 
 =>q21_original
 You got lucky.<end>
 
 =>q21
-Tu as eu de la chance.<end>
+Vous avez eu de la chance.<end>
 
 =>q22_original
 Ooogh...<end>
 
 =>q22
-Ooooh...<end>
+Ooogh...<end>
 
 =>q23_original
 Ah--<end>
@@ -146,7 +146,7 @@ Arr--<end>
 Taking fire!<end>
 
 =>q25
-Prendre le feu !<end>
+On prend des tirs !<end>
 
 =>q26_original
 It burns!<end>
@@ -158,7 +158,7 @@ It burns!<end>
 The... burning...<end>
 
 =>q27
-Le... brûlant...<end>
+Ça... brûle...<end>
 
 =>q28_original
 C-c-c...<end>
@@ -170,7 +170,7 @@ C-c-c...<end>
 Brrr...<end>
 
 =>q29
-Brr...<end>
+Brrr...<end>
 
 =>q30_original
 The c-c-cold...<end>
@@ -182,7 +182,7 @@ Le c-c-froid...<end>
 I'm... Hnnnn...<end>
 
 =>q31
-Je suis... Hnnnn...<end>
+Je... Hnnnn...<end>
 
 =>q32_original
 Mmm... hmhmh...<end>
@@ -194,19 +194,19 @@ Mmm... hmhmh...<end>
 It's freez-z-z-z...<end>
 
 =>q33
-C'est freez-z-z-z...<end>
+Ça gè-è-èle...<end>
 
 =>q34_original
 Can't... aim...<end>
 
 =>q34
-Je ne peux pas... viser...<end>
+Je... peux plus... viser...<end>
 
 =>q35_original
 Unable... to... focus...<end>
 
 =>q35
-Incapable... de... se concentrer...<end>
+Incapable... de... me concentrer...<end>
 
 =>q36_original
 Flashed!<end>
@@ -248,7 +248,7 @@ J'en ai pris... un au genou !<end>
 My knee... Medic!<end>
 
 =>q42
-Mon genou... Docteur !<end>
+Mon genou... Médecin !<end>
 
 =>q43_original
 It went through my boot!<end>
@@ -260,7 +260,7 @@ It went through my boot!<end>
 Caltrops!<end>
 
 =>q44
-Caltropes !<end>
+Chausse-trapes !<end>
 
 =>q45_original
 Watch the ground!<end>
@@ -272,13 +272,13 @@ Attention au sol !<end>
 It got my leg!<end>
 
 =>q46
-Ça m'a pris la jambe !<end>
+Ça m'a eu la jambe !<end>
 
 =>q47_original
 We got snappers!<end>
 
 =>q47
-Nous avons des vivaneaux !<end>
+Pièges à mâchoires !<end>
 
 =>q48_original
 ::Coughs.::<end>
@@ -290,19 +290,19 @@ Nous avons des vivaneaux !<end>
 Gas! G-g... ::Coughs.::<end>
 
 =>q49
-Gaz! G-g... ::Tousse.::<end>
+Gaz ! G-g... ::Tousse.::<end>
 
 =>q50_original
 Can't... breathe...<end>
 
 =>q50
-Je ne peux pas... respirer...<end>
+Je... peux plus... respirer...<end>
 
 =>q51_original
 Masks!<end>
 
 =>q51
-Des masques !<end>
+Masques !<end>
 
 =>q52_original
 M-medic...<end>
@@ -320,13 +320,13 @@ Condition... critical...<end>
 We're... being... overrun...<end>
 
 =>q54
-Nous sommes... en train d'être... dépassés...<end>
+On est... en train... d'être submergés...<end>
 
 =>q55_original
 Requesting... med... m-m-m...<end>
 
 =>q55
-Je demande... med... m-m-m...<end>
+Demande... méd... m-m-m...<end>
 
 =>q56_original
 I am on fire!<end>
@@ -344,13 +344,13 @@ It burns!<end>
 ::Frantically tries to pat the fire out.::<end>
 
 =>q58
-::Essaie frénétiquement d'éteindre le feu.::<end>
+::Essaie d'étouffer le feu, en panique.::<end>
 
 =>q59_original
 Mobility... hindered...<end>
 
 =>q59
-La mobilité... entravée...<end>
+Mobilité... réduite...<end>
 
 =>q60_original
 Cold...<end>
@@ -368,13 +368,13 @@ Froid...<end>
 I've been immobilized!<end>
 
 =>q62
-J'ai été immobilisé !<end>
+Je suis immobilisé !<end>
 
 =>q63_original
 Unable to move! Requesting assistance!<end>
 
 =>q63
-Impossible de bouger ! Demander de l'aide !<end>
+Immobilisé ! Demande de soutien !<end>
 
 =>q64_original
 ::Struggles to move.::<end>
@@ -386,13 +386,13 @@ Impossible de bouger ! Demander de l'aide !<end>
 I'm surrounded! Tangos attacking from all directions!<end>
 
 =>q65
-Je suis entouré ! Des tangos qui attaquent de toutes parts !<end>
+Je suis encerclé ! Des tangos de tous les côtés !<end>
 
 =>q66_original
 Free-fire zone!<end>
 
 =>q66
-Zone de tir libre !<end>
+Zone de tir libre !<end>
 
 =>q67_original
 Unable... to... aim... properly...<end>
@@ -410,13 +410,13 @@ Tout... tourne...<end>
 Squad, retreat!<end>
 
 =>q69
-Escouade, battez-vous !<end>
+Escouade, repli !<end>
 
 =>q70_original
 Fall back!<end>
 
 =>q70
-Retomber!<end>
+Reculez !<end>
 
 =>q71_original
 Hnnn... My chest!<end>
@@ -434,19 +434,19 @@ Hnnn... Ma poitrine !<end>
 No! NO! I feel it in my head!<end>
 
 =>q73
-Non! NON! Je le sens dans ma tête !<end>
+Non ! NON ! Je le sens dans ma tête !<end>
 
 =>q74_original
 Intruders... in... my... aghhhh...<end>
 
 =>q74
-Des intrus... dans... mon... aghhhh...<end>
+Des intrus... dans... ma... aghhhh...<end>
 
 =>q75_original
 Medic! Need bandaging!<end>
 
 =>q75
-Médical! Besoin d'un pansement !<end>
+Médecin ! Faut bander !<end>
 
 =>q76_original
 I'm bleeding!<end>
@@ -458,13 +458,13 @@ Je saigne !<end>
 I'm hemorrhaging. Medic!<end>
 
 =>q77
-J'ai une hémorragie. Médical!<end>
+Hémorragie. Médecin !<end>
 
 =>q78_original
 Squad, form up!<end>
 
 =>q78
-Escouade, formez-vous !<end>
+Escouade, rassemblement !<end>
 
 =>q79_original
 Hostiles, my sector.<end>
@@ -476,13 +476,13 @@ Hostiles, mon secteur.<end>
 Clear the area!<end>
 
 =>q80
-Dégagez la zone !<end>
+Nettoyez la zone !<end>
 
 =>q81_original
 Got my eyes on the enemy.<end>
 
 =>q81
-J'ai les yeux rivés sur l'ennemi.<end>
+J'ai l'œil sur l'ennemi.<end>
 
 =>q82_original
 Hostiles in sight.<end>
@@ -494,7 +494,7 @@ Hostiles en vue.<end>
 Flank 'em!<end>
 
 =>q83
-Flanquez-les !<end>
+Prenez-les de flanc !<end>
 
 =>q84_original
 In position.<end>
@@ -506,25 +506,25 @@ En position.<end>
 Stay alert, squad!<end>
 
 =>q85
-Restez vigilant, équipe !<end>
+Restez en alerte, escouade !<end>
 
 =>q86_original
 Orders received.<end>
 
 =>q86
-Commandes reçues.<end>
+Ordres reçus.<end>
 
 =>q87_original
 You're done for.<end>
 
 =>q87
-Vous êtes fini.<end>
+C'est fini pour vous.<end>
 
 =>q88_original
 It's permanent rack time for you.<end>
 
 =>q88
-C'est l'heure du rack permanent pour vous.<end>
+Pour vous, c'est le repos définitif.<end>
 
 =>q89_original
 You had nothing on us.<end>
@@ -536,49 +536,49 @@ Vous n'aviez rien contre nous.<end>
 Surrender... to death.<end>
 
 =>q90
-Abandonnez-vous... à la mort.<end>
+Rendez-vous... à la mort.<end>
 
 =>q91_original
 Chill.<end>
 
 =>q91
-Froideur.<end>
+Du froid.<end>
 
 =>q92_original
 Freezing the enemy.<end>
 
 =>q92
-Geler l'ennemi.<end>
+On gèle l'ennemi.<end>
 
 =>q93_original
 Incinerating the enemy.<end>
 
 =>q93
-Incinérer l'ennemi.<end>
+On incinère l'ennemi.<end>
 
 =>q94_original
 Burn!<end>
 
 =>q94
-Brûler!<end>
+Brûlez !<end>
 
 =>q95_original
 Stand by for cremation.<end>
 
 =>q95
-Attendez-vous à la crémation.<end>
+Préparez-vous à la crémation.<end>
 
 =>q96_original
 Enemy engulfed in flames.<end>
 
 =>q96
-Ennemi en proie aux flammes.<end>
+Ennemi enveloppé de flammes.<end>
 
 =>q97_original
 Burn.<end>
 
 =>q97
-Brûler.<end>
+Brûlez.<end>
 
 =>q98_original
 Target immobilized.<end>
@@ -590,19 +590,19 @@ Cible immobilisée.<end>
 No retreat for you.<end>
 
 =>q99
-Pas de retraite pour vous.<end>
+Pas de repli, pour vous.<end>
 
 =>q100_original
 Enemy incapacitated.<end>
 
 =>q100
-Ennemi neutralisé.<end>
+Ennemi hors de combat.<end>
 
 =>q101_original
 Target's out. Move in!<end>
 
 =>q101
-La cible est retirée. Emménagez !<end>
+Cible hors combat. En avant !<end>
 
 =>q102_original
 Target is reacting to the toxin.<end>
@@ -614,13 +614,13 @@ La cible réagit à la toxine.<end>
 Target's hemorrhaging profusely.<end>
 
 =>q103
-La cible a une hémorragie abondante.<end>
+La cible se vide. Hémorragie massive.<end>
 
 =>q104_original
 Bleed.<end>
 
 =>q104
-Saigner.<end>
+Saignez.<end>
 
 =>q105_original
 Incompetent.<end>
@@ -632,49 +632,49 @@ Incompétent.<end>
 Missed.<end>
 
 =>q106
-Manqué.<end>
+Raté.<end>
 
 =>q107_original
 Unsat.<end>
 
 =>q107
-Insatisfait.<end>
+Insuffisant.<end>
 
 =>q108_original
 You got nothing.<end>
 
 =>q108
-Tu n'as rien.<end>
+Vous n'avez rien.<end>
 
 =>q109_original
 That's the stuff.<end>
 
 =>q109
-C'est ça le truc.<end>
+Ça, c'est du bon.<end>
 
 =>q110_original
 Back in action.<end>
 
 =>q110
-De retour en action.<end>
+De retour au combat.<end>
 
 =>q111_original
 Administering painkillers...<end>
 
 =>q111
-Administrer des analgésiques...<end>
+Administration d'analgésiques...<end>
 
 =>q112_original
 Outstanding.<end>
 
 =>q112
-Remarquable.<end>
+Excellent.<end>
 
 =>q113_original
 That's more like it.<end>
 
 =>q113
-C'est plutôt ça.<end>
+Voilà qui est mieux.<end>
 
 =>q114_original
 Administering psi stimulants...<end>
@@ -686,25 +686,25 @@ Administration de stimulants psi...<end>
 Yeah, that's it.<end>
 
 =>q115
-Ouais, c'est ça.<end>
+Ouais, voilà.<end>
 
 =>q116_original
 Ugh!<end>
 
 =>q116
-Pouah!<end>
+Ugh !<end>
 
 =>q117_original
 Need eva--<end>
 
 =>q117
-J'ai besoin d'Eva...<end>
+Besoin d'éva--<end>
 
 =>q118_original
 Man d--<end>
 
 =>q118
-Mec...<end>
+Homme à t--<end>
 
 =>q119_original
 Aaaaah!<end>
@@ -716,25 +716,25 @@ Aaaaah !<end>
 Hnnnn... Ugh...<end>
 
 =>q120
-Hnnnn... Pouah...<end>
+Hnnnn... Ugh...<end>
 
 =>q121_original
 Takin--<end>
 
 =>q121
-Prendre...<end>
+On prend--<end>
 
 =>q122_original
 We're dy--<end>
 
 =>q122
-Nous sommes morts...<end>
+On crè--<end>
 
 =>q123_original
 Engaging enemy!<end>
 
 =>q123
-Ennemi engageant !<end>
+On engage l'ennemi !<end>
 
 =>q124_original
 Move, move, move!<end>
@@ -746,49 +746,49 @@ Bougez, bougez, bougez !<end>
 Neutralizing target!<end>
 
 =>q125
-Cible neutralisante !<end>
+On neutralise la cible !<end>
 
 =>q126_original
 Engaging...<end>
 
 =>q126
-Engageant...<end>
+Engagement...<end>
 
 =>q127_original
 Get some!<end>
 
 =>q127
-Obtenez-en!<end>
+Mangez-en !<end>
 
 =>q128_original
 Drop 'em!<end>
 
 =>q128
-Lâchez-les !<end>
+Descendez-les !<end>
 
 =>q129_original
 No quarter given.<end>
 
 =>q129
-Aucun quart donné.<end>
+Pas de quartier.<end>
 
 =>q130_original
 Engaging in CQC.<end>
 
 =>q130
-S'engager dans le CQC.<end>
+Passage au CQC.<end>
 
 =>q131_original
 You're going down.<end>
 
 =>q131
-Vous descendez.<end>
+Vous allez tomber.<end>
 
 =>q132_original
 Eat dirt!<end>
 
 =>q132
-Mangez de la terre !<end>
+Mangez la terre !<end>
 
 =>q133_original
 Dodge this.<end>
@@ -800,25 +800,25 @@ Esquivez ça.<end>
 Mauling enemy.<end>
 
 =>q134
-Mutiler l'ennemi.<end>
+On massacre l'ennemi.<end>
 
 =>q135_original
 Have some of this!<end>
 
 =>q135
-Prends-en un peu !<end>
+Prenez ça !<end>
 
 =>q136_original
 You're getting sliced.<end>
 
 =>q136
-Vous êtes tranché.<end>
+On vous tranche.<end>
 
 =>q137_original
 Engaging in knife combat.<end>
 
 =>q137
-S'engager dans un combat au couteau.<end>
+Passage au couteau.<end>
 
 =>q138_original
 Have a taste of my blade.<end>
@@ -830,13 +830,13 @@ Goûtez à ma lame.<end>
 Retreat!<end>
 
 =>q139
-Retraite!<end>
+Repli !<end>
 
 =>q140_original
 This one's just for you.<end>
 
 =>q140
-Celui-ci est juste pour vous.<end>
+Celui-là, c'est pour vous.<end>
 
 =>q141_original
 Eat lead.<end>
@@ -848,31 +848,31 @@ Mangez du plomb.<end>
 Fire!<end>
 
 =>q142
-Feu!<end>
+Feu !<end>
 
 =>q143_original
 Tag 'em and bag 'em.<end>
 
 =>q143
-Étiquetez-les et mettez-les dans un sac.<end>
+On les descend, on les ramasse.<end>
 
 =>q144_original
 Rock and roll!<end>
 
 =>q144
-Rock-and-roll !<end>
+Rock and roll !<end>
 
 =>q145_original
 Delivering heat!<end>
 
 =>q145
-Délivrer de la chaleur !<end>
+On envoie du chaud !<end>
 
 =>q146_original
 Establishing kill zone.<end>
 
 =>q146
-Établir une zone de mise à mort.<end>
+Zone de tir établie.<end>
 
 =>q147_original
 Wait for the flash.<end>
@@ -884,55 +884,55 @@ Attendez le flash.<end>
 Embrace the glow.<end>
 
 =>q148
-Embrassez la lueur.<end>
+Prenez la lueur.<end>
 
 =>q149_original
 Tagged for annihilation.<end>
 
 =>q149
-Étiqueté pour annihilation.<end>
+Marqué pour annihilation.<end>
 
 =>q150_original
 Disintegrating enemy combatant.<end>
 
 =>q150
-Désintégration d'un combattant ennemi.<end>
+On désintègre le combattant ennemi.<end>
 
 =>q151_original
 Breaking down enemy resistance.<end>
 
 =>q151
-Briser la résistance ennemie.<end>
+On brise la résistance ennemie.<end>
 
 =>q152_original
 We'll need a cleanup crew after this.<end>
 
 =>q152
-Nous aurons besoin d'une équipe de nettoyage après ça.<end>
+Faudra une équipe de nettoyage après ça.<end>
 
 =>q153_original
 Liquefying enemy.<end>
 
 =>q153
-Ennemi liquéfiant.<end>
+On liquéfie l'ennemi.<end>
 
 =>q154_original
 Elements rule the battlefield.<end>
 
 =>q154
-Les éléments gouvernent le champ de bataille.<end>
+Les éléments font la loi sur le champ de bataille.<end>
 
 =>q155_original
 Fully equipped for chemical warfare.<end>
 
 =>q155
-Entièrement équipé pour la guerre chimique.<end>
+Équipé pour la guerre chimique.<end>
 
 =>q156_original
 Catch!<end>
 
 =>q156
-Attraper!<end>
+Attrapez !<end>
 
 =>q157_original
 Target immobilized.<end>
@@ -944,61 +944,61 @@ Cible immobilisée.<end>
 Fire in the hole!<end>
 
 =>q158
-Feu dans le trou !<end>
+Ça va sauter !<end>
 
 =>q159_original
 Grenade out!<end>
 
 =>q159
-Grenade dehors !<end>
+Grenade partie !<end>
 
 =>q160_original
 Grenade!<end>
 
 =>q160
-Grenade!<end>
+Grenade !<end>
 
 =>q161_original
 Fire in the hole!<end>
 
 =>q161
-Feu dans le trou !<end>
+Ça va sauter !<end>
 
 =>q162_original
 Napalm!<end>
 
 =>q162
-Napalm!<end>
+Napalm !<end>
 
 =>q163_original
 Incendiary out!<end>
 
 =>q163
-Incendiaire sorti !<end>
+Incendiaire partie !<end>
 
 =>q164_original
 Depowering!<end>
 
 =>q164
-Dépuissance!<end>
+Coupure d'énergie !<end>
 
 =>q165_original
 EMP!<end>
 
 =>q165
-EMP !<end>
+EMP !<end>
 
 =>q166_original
 Engaging hostiles!<end>
 
 =>q166
-Engager les hostiles !<end>
+On engage les hostiles !<end>
 
 =>q167_original
 Fire in the hole!<end>
 
 =>q167
-Feu dans le trou !<end>
+Ça va sauter !<end>
 
 =>q168_original
 Visors down!<end>
@@ -1010,79 +1010,79 @@ Visières baissées !<end>
 Flash out!<end>
 
 =>q169
-Flashez-vous !<end>
+Flash parti !<end>
 
 =>q170_original
 Target designated for recycling.<end>
 
 =>q170
-Cible désignée pour le recyclage.<end>
+Cible désignée pour recyclage.<end>
 
 =>q171_original
 You're in for field disassembly.<end>
 
 =>q171
-Vous êtes prêt pour le démontage sur le terrain.<end>
+On va vous démonter sur place.<end>
 
 =>q172_original
 You're scrap.<end>
 
 =>q172
-Vous êtes de la ferraille.<end>
+Vous n'êtes plus que de la ferraille.<end>
 
 =>q173_original
 Engaging hostile bot.<end>
 
 =>q173
-Engager un bot hostile.<end>
+On engage le bot hostile.<end>
 
 =>q174_original
 Targeting hostile creature.<end>
 
 =>q174
-Cibler une créature hostile.<end>
+On cible la créature hostile.<end>
 
 =>q175_original
 Engaging feral.<end>
 
 =>q175
-Engager sauvage.<end>
+On engage la bête.<end>
 
 =>q176_original
 Engaging enemy combatant. Requesting reinforcements.<end>
 
 =>q176
-Engager un combattant ennemi. Demander des renforts.<end>
+On engage un combattant ennemi. Demande de renforts.<end>
 
 =>q177_original
 Hostiles detected. Need backup.<end>
 
 =>q177
-Hostiles détectés. Besoin de sauvegarde.<end>
+Hostiles détectés. Besoin de renfort.<end>
 
 =>q178_original
 Tangos in sight. Send backup.<end>
 
 =>q178
-Tangos en vue. Envoyer une sauvegarde.<end>
+Tangos en vue. Envoyez du renfort.<end>
 
 =>q179_original
 Need backup!<end>
 
 =>q179
-Besoin de renfort !<end>
+Besoin de renfort !<end>
 
 =>q180_original
 Contact!<end>
 
 =>q180
-Contact!<end>
+Contact !<end>
 
 =>q181_original
 I need some backup over here!<end>
 
 =>q181
-J'ai besoin de renfort ici !<end>
+J'ai besoin de renfort, ici !<end>
 
 =>q182_original
 Hmm...<end>
@@ -1100,23 +1100,22 @@ J'entends quelque chose.<end>
 What was that?<end>
 
 =>q184
-Ca c'était quoi?<end>
+C'était quoi, ça ?<end>
 
 =>q185_original
 Smile for the shotty.<end>
 
 =>q185
-Souriez au tireur.<end>
+Souriez pour le fusil à pompe.<end>
 
 =>q186_original
 Distributing flak.<end>
 
 =>q186
-Distribuer des flak.<end>
+On envoie de la grenaille.<end>
 
 =>q187_original
 Shell shock!<end>
 
 =>q187
 Choc d'obus !<end>
-

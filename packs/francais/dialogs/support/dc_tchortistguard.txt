@@ -2,7 +2,7 @@
 I knew it! Get out of here before I put a bullet through your skull!<end>
 
 =>q1
-Je le savais ! Sors d'ici avant que je te mette une balle dans le crâne !<end>
+Je le savais ! Sortez d'ici avant que je vous mette une balle dans le crâne !<end>
 
 =>q2_original
 ::One of the rassophores lifts his weapon at the very first sight of your indistinguishable contour, shouting for the rest of the guards.::
@@ -10,9 +10,9 @@ Je le savais ! Sors d'ici avant que je te mette une balle dans le crâne !<end>
 The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
 
 =>q2
-::L'un des rasophores lève son arme à la première vue de votre contour indiscutable, criant pour le reste des gardes.::
+::L'un des rassophores lève son arme dès qu'il aperçoit votre silhouette indistincte, et hurle pour alerter le reste des gardes.::
 
-Le Faceless - ils attaquent à nouveau! C'est bon ! Feu ! Feu !<end>
+Les Faceless - ils attaquent encore ! CULL ! Feu ! FEU !<end>
 
 =>q3_original
 ::Before he gets the chance to unleash a hail of bullets he seems so keen on unleashing, one of the other, significantly taller rassophore guards stops him.::
@@ -20,9 +20,9 @@ Le Faceless - ils attaquent à nouveau! C'est bon ! Feu ! Feu !<end>
 Hold it, brother - that could be one of our own!<end>
 
 =>q3
-::Avant d'avoir la chance de déclencher une grêle de balles, il semble si désireux de se déchaîner, l'un des autres, des gardes rasophore beaucoup plus grands l'arrête.::
+::Avant qu'il n'ait le temps de déchaîner la grêle de balles qu'il a visiblement hâte de lâcher, un autre garde rassophore, nettement plus grand, l'arrête.::
 
-Tiens, mon frère, ça pourrait être l'un des nôtres !<end>
+Halte, frère - ça pourrait être l'un des nôtres !<end>
 
 =>q4_original
 ::The edgy rassophore slowly lowers his weapon, while his comrade turns to you.::
@@ -30,15 +30,15 @@ Tiens, mon frère, ça pourrait être l'un des nôtres !<end>
 You there, identify yourself!<end>
 
 =>q4
-::Le rasophore d'Edgy abaisse lentement son arme, tandis que son camarade se tourne vers vous.::
+::Le rassophore à cran abaisse lentement son arme, tandis que son camarade se tourne vers vous.::
 
-Vous là, identifiez-vous !<end>
+Vous, là ! Identifiez-vous !<end>
 
 =>a5_original
 I am one of you, brothers. I come from the Institute. Didn't the rassophores I helped tell you about me?<end>
 
 =>a5
-Je suis l'un de vous, frères. Je viens de l'Institut. Les rassophores que j'ai aidé à vous parler de moi ne l'ont pas fait ?<end>
+Je suis des vôtres, frères. Je viens de l'Institute. Les rassophores que j'ai aidés ne vous ont pas parlé de moi ?<end>
 
 =>q6_original
 ::The two of them look at each other.:: 
@@ -48,13 +48,13 @@ Yes, but there was only one rassophore. The rest didn't make it. Come closer - b
 =>q6
 ::Les deux se regardent.::
 
-Oui, mais il n'y avait qu'un seul rasophore. Le reste n'est pas arrivé. Approchez-vous, mais lentement. On ne peut prendre aucun risque.<end>
+Oui, mais il n'y avait qu'un seul rassophore. Les autres n'ont pas survécu. Approchez-vous - mais lentement. Nous ne prenons aucun risque.<end>
 
 =>a7_original
 ::Approach the barricade.::<end>
 
 =>a7
-::Approchez la barricade.::<end>
+::S'approcher de la barricade.::<end>
 
 =>q8_original
 ::The two of them look at each other.:: 
@@ -64,13 +64,13 @@ Yes, they have made it safely. Come closer - but slowly. We can't take any chanc
 =>q8
 ::Les deux se regardent.::
 
-Oui, ils ont réussi. Approchez-vous, mais lentement. On ne peut prendre aucun risque.<end>
+Oui, ils sont arrivés sains et saufs. Approchez-vous - mais lentement. Nous ne prenons aucun risque.<end>
 
 =>a9_original
 I am a Tchortist, brothers, just like you. I come from the Institute.<end>
 
 =>a9
-Je suis un Tchortist, frères, comme vous. Je viens de l'Institut.<end>
+Je suis Tchortist, frères, comme vous. Je viens de l'Institute.<end>
 
 =>q10_original
 ::The two of them look at each other.:: 
@@ -86,7 +86,7 @@ Approchez-vous, mais faites-le lentement.<end>
 ::Turn around and try to run away.::<end>
 
 =>a11
-::Tournez-vous et essayez de fuir.::<end>
+::Faire demi-tour et tenter de fuir.::<end>
 
 =>q12_original
 ::The edgy rassophore raises his weapon.::
@@ -94,51 +94,51 @@ Approchez-vous, mais faites-le lentement.<end>
 I knew it! Faceless infiltrator! CULL $(#HIM/HER)!<end>
 
 =>q12
-::Le rasophore d'Edgy lève son arme.::
+::Le rassophore à cran lève son arme.::
 
-Je le savais ! infiltrateur Faceless ! CULL $(#lui/elle) !<end>
+Je le savais ! Infiltrateur Faceless ! ABATTEZ-$(#le/la) !<end>
 
 =>a13_original
 ::Fight!::<end>
 
 =>a13
-::Combattre::<end>
+::Combattre.::<end>
 
 =>a14_original
 I am *not* one of the Faceless. I just need help!<end>
 
 =>a14
-Je ne suis pas un des Faceless. J'ai juste besoin d'aide !<end>
+Je ne fais *pas* partie des Faceless. J'ai juste besoin d'aide !<end>
 
 =>q15_original
 Then you are in the wrong place, whoever you are. We can't help you. Turn away and leave, or we will open fire.<end>
 
 =>q15
-Alors vous êtes au mauvais endroit, qui que vous soyez. On ne peut pas vous aider. Tourne-toi et pars, ou on va ouvrir le feu.<end>
+Alors vous êtes au mauvais endroit, qui que vous soyez. Nous ne pouvons pas vous aider. Faites demi-tour et partez, ou nous ouvrons le feu.<end>
 
 =>a16_original
 You don't understand - I am a Tchortist, and I come from the Institute.<end>
 
 =>a16
-Vous ne comprenez pas - je suis un Tchortist, et je viens de l'Institut.<end>
+Vous ne comprenez pas - je suis Tchortist, et je viens de l'Institute.<end>
 
 =>a17_original
 But I need food, medicine and supplies.<end>
 
 =>a17
-Mais j'ai besoin de nourriture, de médicaments et de fournitures.<end>
+Mais j'ai besoin de nourriture, de médicaments et de matériel.<end>
 
 =>q18_original
 We can't help you. Now - I repeat - leave or we *will* open fire.<end>
 
 =>q18
-On ne peut pas vous aider. Maintenant - je répète - partez ou nous allons ouvrir le feu.<end>
+Nous ne pouvons pas vous aider. Maintenant - je répète - partez, ou nous *ouvrirons* le feu.<end>
 
 =>a19_original
 Fine, I understand. I will be leaving now.<end>
 
 =>a19
-Très bien, je comprends. Je vais partir.<end>
+Très bien, je comprends. Je m'en vais.<end>
 
 =>q20_original
 ::The edgy rassophore raises his weapon.::
@@ -146,51 +146,51 @@ Très bien, je comprends. Je vais partir.<end>
 What if this is a diversion? What if the Faceless are watching us RIGHT NOW!?<end>
 
 =>q20
-::Le rasophore d'Edgy lève son arme.::
+::Le rassophore à cran lève son arme.::
 
-Et si c'était une diversion ? Et si le Faceless nous regarde maintenant ?<end>
+Et si c'était une diversion ? Et si les Faceless nous observaient EN CE MOMENT ?!<end>
 
 =>q21_original
 ::One moment of hesitation from the taller rassophore was enough for the edgy one to lose his calm and open fire. Luckily, all bullets harmlessly fly around you, but it becomes clear that talking is no longer an option.::<end>
 
 =>q21
-::Un moment d'hésitation de la part du rasophore plus grand était suffisant pour que l'impératif perde son feu calme et ouvert. Heureusement, toutes les balles volent inoffensivement autour de vous, mais il devient clair que parler n'est plus une option.::<end>
+::Un instant d'hésitation du rassophore le plus grand a suffi au nerveux pour perdre son calme et ouvrir le feu. Par chance, toutes les balles sifflent autour de vous sans vous toucher, mais il devient clair que la discussion n'est plus une option.::<end>
 
 =>a22_original
 You deluded Tchortists should have taken your shots when you had the chance. Now YOU. WILL. DIE! ::Attack!::<end>
 
 =>a22
-Vous avez trompé Tchortists aurait dû prendre vos photos quand vous aviez la chance. Maintenant, vous. Ça va. Allez ! ::Attaque!::<end>
+Espèces de Tchortistes illuminés, vous auriez dû tirer quand vous en aviez l'occasion. Maintenant, VOUS. ALLEZ. MOURIR ! ::Attaquer.::<end>
 
 =>a23_original
 I don't want any trouble. I'll be leaving now.<end>
 
 =>a23
-Je ne veux pas de problèmes. Je m'en vais.<end>
+Je ne veux pas d'ennuis. Je m'en vais.<end>
 
 =>q24_original
 That's good enough! ::As you come to a full stop, all eyes fall on you in an act of great scrutiny.::<end>
 
 =>q24
-Ça suffit ! ::Alors que vous arrivez à un arrêt complet, tous les yeux tombent sur vous dans un acte de grande attention.::<end>
+Ça ira ! ::Vous vous arrêtez net ; tous les regards se posent sur vous, scrutateurs.::<end>
 
 =>q25_original
 $(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
 
 =>q25
-$(#Il/Elle) correspond à la description. C'est un soulagement ! Vous pouvez entrer dans Cytosine Outpost, $(#frère/sœur). Tchort est Evolution.<end>
+$(#Il/Elle) correspond à la description. Quel soulagement ! Vous pouvez entrer dans Cytosine Outpost, $(#frère/sœur). Tchort est l'évolution.<end>
 
 =>a26_original
 I would like to talk with whoever is in charge here.<end>
 
 =>a26
-Je voudrais parler à celui qui est en charge ici.<end>
+Je voudrais parler à la personne qui commande ici.<end>
 
 =>q27_original
 His Excellency, Harmost Stavros can be found in his office; go straight then left to get to it. I'm sure he'd want to know what is going on over at the Institute.<end>
 
 =>q27
-Son Excellence, Harmost Stavros peut être trouvé dans son bureau; aller tout droit puis à gauche pour y arriver. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
+Son Excellence Harmost Stavros se trouve dans son bureau ; allez tout droit, puis à gauche. Je suis sûr qu'il voudra savoir ce qui se passe à l'Institute.<end>
 
 =>q28_original
 Tchort guide you, $(#brother/sister).<end>
@@ -208,25 +208,25 @@ Tchort vous guide aussi.<end>
 See ya.<end>
 
 =>a30
-A bientôt.<end>
+À bientôt.<end>
 
 =>a31_original
 I need food, supplies and medical attention, brothers.<end>
 
 =>a31
-J'ai besoin de nourriture, de fournitures et de soins médicaux, frères.<end>
+J'ai besoin de nourriture, de matériel et de soins, frères.<end>
 
 =>q32_original
 You will be taken care of, $(#brother/sister), but first talk with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
 
 =>q32
-Vous serez pris en charge, $(#frère/sœur), mais d'abord parler avec Son Excellence, Harmost Stavros; aller tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
+On s'occupera de vous, $(#frère/sœur), mais parlez d'abord à Son Excellence Harmost Stavros ; allez tout droit, puis à gauche jusqu'à son bureau. Je suis sûr qu'il voudra savoir ce qui se passe à l'Institute.<end>
 
 =>q33_original
 Well, $(#he/she) looks like one of us... Tchort is evolution, $(#brother/sister).<end>
 
 =>q33
-Et bien, $(#il/elle) ressemble à l'un de nous... Tchort est l'évolution, $(#frère/sœur).<end>
+Bon, $(#il/elle) a l'air d'être des nôtres... Tchort est l'évolution, $(#frère/sœur).<end>
 
 =>a34_original
 Yes.<end>
@@ -238,13 +238,13 @@ Oui.<end>
 ::The edgy rassophore shouts.:: $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
 
 =>q35
-::Les cris de rasophore.:: $(#Il/Elle) ne connaît pas l'accueil ! CULLEZ l'infiltrateur Faceless ! C'est bon !<end>
+::Le rassophore à cran hurle.:: $(#Il/Elle) ne connaît pas la salutation ! Abattez l'infiltrateur Faceless ! CULL !<end>
 
 =>a36_original
 Eidein is great.<end>
 
 =>a36
-Eidein est génial.<end>
+Eidein est grand.<end>
 
 =>a37_original
 Tchort is evolution.<end>
@@ -256,49 +256,49 @@ Tchort est l'évolution.<end>
 ::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
 
 =>q38
-::Les cris de rasophore.:: Vous avez entendu ? $(#Il/Elle) l'a répété ! $(#Il/Elle) ne connaît pas l'accueil ! CULLEZ l'infiltrateur Faceless ! C'est bon !<end>
+::Le rassophore à cran hurle.:: Vous avez entendu ? $(#Il/Elle) l'a répété ! $(#Il/Elle) ne connaît pas la salutation ! Abattez l'infiltrateur Faceless ! CULL !<end>
 
 =>a39_original
 Evolution is Tchort.<end>
 
 =>a39
-Evolution est Tchort.<end>
+L'évolution est Tchort.<end>
 
 =>q40_original
 Good! Now, if you ca--<end>
 
 =>q40
-Parfait ! Maintenant, si vous...<end>
+Bien ! Maintenant, si vous pou--<end>
 
 =>q41_original
 I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
 
 =>q41
-Je ne suis pas convaincu ! Les consanguins connaissent nos salutations, mon frère ! Demandons $(#le/la) quelque chose que SEULEMENT un Tchortist saurait, quelque chose qui prouvera sûrement $(#il/elle) est l'un de nous !<end>
+Je ne suis pas convaincu ! Les consanguins connaissent forcément nos salutations, frère ! Posons-lui une question que SEUL un Tchortist saurait, quelque chose qui prouvera que $(#il/elle) est des nôtres !<end>
 
 =>q42_original
 ::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
 
 =>q42
-::Le rasophore plus grand médite un moment avant de vous poser la question.:: Quel était le nom de famille du capitaine des forces armées Biocorp qui a escorté Eidein à Deep Caverns pendant leur expédition? Seuls ceux qui ont lu le rapport initial peuvent connaître la réponse.<end>
+::Le rassophore le plus grand réfléchit un instant avant de vous poser la question.:: Quel était le nom de famille du capitaine des forces armées de Biocorp qui a escorté Eidein jusqu'à Deep Caverns lors de leur expédition ? Seuls ceux qui ont lu l'Original Report peuvent en connaître la réponse.<end>
 
 =>a43_original
 Brandon.<end>
 
 =>a43
-C'est Brandon.<end>
+Brandon.<end>
 
 =>q44_original
 See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
 
 =>q44
-Tu vois, mon frère ? $(#Il/Elle) ne sait pas - $(#il/elle) n'a jamais lu le rapport original! Complétez l'INFILTRATEUR !<end>
+Vous voyez, frère ? $(#Il/Elle) ne sait pas - $(#il/elle) n'a jamais lu l'Original Report ! ABATTEZ L'INFILTRATEUR FACELESS !<end>
 
 =>a45_original
 Bradock.<end>
 
 =>a45
-C'est Bradock.<end>
+Bradock.<end>
 
 =>a46_original
 Giacomo.<end>
@@ -316,7 +316,7 @@ Marcial.<end>
 Sagan.<end>
 
 =>a48
-C'est Sagan.<end>
+Sagan.<end>
 
 =>q49_original
 That is correct; I think that is all the proof we need. 
@@ -324,7 +324,7 @@ That is correct; I think that is all the proof we need.
 You can enter Cytosine Outpost, $(#brother/sister).<end>
 
 =>q49
-C'est exact; je pense que c'est toute la preuve dont nous avons besoin.
+C'est exact ; je pense que nous avons toute la preuve qu'il nous faut.
 
 Vous pouvez entrer dans Cytosine Outpost, $(#frère/sœur).<end>
 
@@ -338,7 +338,7 @@ Enfin, il était temps.<end>
 $(#Brother/Sister), I suggest you go and speak with His Excellency, Harmost Stavros; go straight then left to get to his office. I'm sure he'd want to know what is going on over at the Institute.<end>
 
 =>q51
-$(#Frère/Sœur), je vous suggère d'aller parler avec Son Excellence Harmost Stavros; allez tout droit puis à gauche pour aller à son bureau. Je suis sûr qu'il voudrait savoir ce qui se passe à l'Institut.<end>
+$(#Frère/Sœur), je vous suggère d'aller parler à Son Excellence Harmost Stavros ; allez tout droit, puis à gauche jusqu'à son bureau. Je suis sûr qu'il voudra savoir ce qui se passe à l'Institute.<end>
 
 =>a52_original
 ::[Intelligence]:: Sagan.<end>
@@ -350,13 +350,13 @@ $(#Frère/Sœur), je vous suggère d'aller parler avec Son Excellence Harmost St
 Hristofor.<end>
 
 =>a53
-C'est Hristofor.<end>
+Hristofor.<end>
 
 =>a54_original
 Peter.<end>
 
 =>a54
-C'est Peter.<end>
+Peter.<end>
 
 =>a55_original
 $(context.player.Name).<end>
@@ -374,13 +374,13 @@ $(context.player.Name).<end>
 Tchort is great.<end>
 
 =>a57
-Tchort est génial.<end>
+Tchort est grand.<end>
 
 =>a58_original
 Faceless must die!<end>
 
 =>a58
-Faceless doit mourir !<end>
+Les Faceless doivent mourir !<end>
 
 =>a59_original
 Nine.<end>
@@ -392,7 +392,7 @@ Neuf.<end>
 Nine? Wha--<end>
 
 =>q60
-Neuf ? Qu...<end>
+Neuf ? Qu--<end>
 
 =>q61_original
 Where is your robe, $(#brother/sister)?<end>
@@ -404,7 +404,7 @@ Où est votre robe, $(#frère/sœur) ?<end>
 ::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
 
 =>a62
-::[Persuade]:: Seul un idiot porterait une robe Tchortist dans les grottes infestées de Faceless ; je ne veux pas être abattu à vue. De plus, leur attaque contre l'Institut a été soudaine et je n'ai pas eu le temps de prendre ma robe.<end>
+::[Persuade]:: Seul un idiot porterait une robe de Tchortist dans des grottes infestées de Faceless ; je n'ai pas envie de me faire abattre à vue. Et puis leur attaque contre l'Institute a été soudaine, je n'ai pas eu le temps de prendre ma robe.<end>
 
 =>q63_original
 That makes sense... Tchort is evolution, $(#brother/sister).<end>
@@ -416,13 +416,13 @@ C'est logique... Tchort est l'évolution, $(#frère/sœur).<end>
 And only a Faceless infiltrator would be able to survive in Deep Caverns! I'm not buying any of this! Cull the liar! CULL!<end>
 
 =>q64
-Et seul un infiltrateur Faceless pourrait survivre dans Deep Caverns ! Je n'achète rien ! Coupez le menteur ! C'est bon !<end>
+Et seul un infiltrateur Faceless pourrait survivre dans Deep Caverns ! Je n'avale rien de tout ça ! Abattez le menteur ! CULL !<end>
 
 =>a65_original
 I... uh... it's drying.<end>
 
 =>a65
-C'est un séchage.<end>
+Je... euh... elle sèche.<end>
 
 =>q66_original
 <end>
@@ -446,11 +446,11 @@ $(#Frère/Sœur).<end>
 I would've shot you, you know.<end>
 
 =>q69
-Je vous aurais tiré dessus.<end>
+Je vous aurais tiré dessus, vous savez.<end>
 
 =>q70_original
 I'm watching you, $(#brother/sister).<end>
 
 =>q70
-Je te regarde, $(#frère/sœur).<end>
+Je vous ai à l'œil, $(#frère/sœur).<end>
 

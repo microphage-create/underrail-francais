@@ -2,7 +2,7 @@
 Welcome to Talloski Manor, $(context.player.Name). You may enter.<end>
 
 =>q1
-Bienvenue chez Talloski Manor, $(context.player.Name). Vous pouvez entrer.<end>
+Bienvenue au manoir Talloski, $(context.player.Name). Vous pouvez entrer.<end>
 
 =>q2_original
 ::The guard signals you to stop.::
@@ -10,9 +10,9 @@ Bienvenue chez Talloski Manor, $(context.player.Name). Vous pouvez entrer.<end>
 Excuse me, $(#sir/ma'am), this is private property. State your business here.<end>
 
 =>q2
-::Le garde vous signale d'arrêter.::
+::Le garde vous fait signe de vous arrêter.::
 
-Excusez-moi, $(#monsieur/madame), c'est une propriété privée. Expliquez vos affaires ici.<end>
+Excusez-moi, $(#monsieur/madame). Propriété privée. Quel est l'objet de votre visite ?<end>
 
 =>q3_original
 <end>
@@ -30,13 +30,13 @@ Quel est cet endroit ?<end>
 This property belongs to the Talloski family, and access to the general public is strictly prohibited. Unless, of course, you've been invited by one of the family members.<end>
 
 =>q5
-Cette propriété appartient à la famille Talloski et l'accès au grand public est strictement interdit. Sauf si, bien sûr, vous avez été invité par un des membres de la famille.<end>
+Cette propriété appartient à la famille Talloski. L'accès au public y est strictement interdit. Sauf invitation de l'un des membres de la famille, bien entendu.<end>
 
 =>q6_original
 In which case you'd have to give me your name so that I can verify that you're on the list.<end>
 
 =>q6
-Dans ce cas, tu devrais me donner ton nom pour que je puisse vérifier que tu es sur la liste.<end>
+Dans ce cas, il me faudra votre nom pour vérifier que vous figurez sur la liste.<end>
 
 =>a7_original
 Can I come in?<end>
@@ -48,7 +48,7 @@ Je peux entrer ?<end>
 ::He pulls out a mobile computer.:: Your name?<end>
 
 =>q8
-::Il sort un ordinateur mobile.:: Votre nom ?<end>
+::Il sort un petit ordinateur.:: Votre nom ?<end>
 
 =>a9_original
 $(context.player.Name).<end>
@@ -62,9 +62,9 @@ $(context.player.Name).<end>
 One word of warning, though: Your movement is restricted only to the first floor. Unless specified otherwise, getting caught anywhere else in the manor will have serious consequences. Enjoy your stay.<end>
 
 =>q10
-::Il tape sur l'appareil quelques fois avant de parler à nouveau.:: Vous êtes sur la liste, ce qui signifie que vous êtes libre d'entrer. Bienvenue dans le manoir de Talloski.
+::Il tape quelques fois sur l'appareil, puis reprend.:: Vous figurez sur la liste. Vous pouvez entrer. Bienvenue au manoir Talloski.
 
-Un avertissement, cependant: Votre mouvement est limité au premier étage. Sauf indication contraire, se faire prendre ailleurs dans le manoir aura de graves conséquences. Bon séjour.<end>
+Un mot d'avertissement, toutefois : vous n'avez le droit de circuler qu'au premier étage. Sauf consigne contraire, vous faire prendre ailleurs dans le manoir aura de sérieuses conséquences. Profitez de votre séjour.<end>
 
 =>q11_original
 ::He taps the device a few times before speaking again.::
@@ -72,15 +72,15 @@ Un avertissement, cependant: Votre mouvement est limité au premier étage. Sauf
 I'm sorry, but I don't see your name on the list, which means I can't allow you to enter. Not on the list - not getting in.<end>
 
 =>q11
-::Il tape sur l'appareil quelques fois avant de parler à nouveau.::
+::Il tape quelques fois sur l'appareil, puis reprend.::
 
-Je suis désolé, mais je ne vois pas votre nom sur la liste, ce qui signifie que je ne peux pas vous permettre d'entrer. Pas sur la liste - ne pas entrer.<end>
+Je suis désolé, mais votre nom ne figure pas sur la liste. Je ne peux pas vous laisser entrer. Pas sur la liste, pas d'entrée.<end>
 
 =>a12_original
 Do the owners of this place offer any work? I'm looking to earn some coin.<end>
 
 =>a12
-Les propriétaires de cet endroit offrent-ils du travail ? Je cherche à gagner une pièce.<end>
+Les propriétaires proposent-ils du travail ? Je cherche à gagner quelques charons.<end>
 
 =>q13_original
 I'm afraid not.<end>
@@ -104,5 +104,5 @@ Désolé de vous déranger. Au revoir.<end>
 How may I help you?<end>
 
 =>q16
-Comment puis-je vous aider ?<end>
+Que puis-je faire pour vous ?<end>
 

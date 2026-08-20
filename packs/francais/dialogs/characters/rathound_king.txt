@@ -2,7 +2,7 @@
 ::A familiar silhouette towers over you once again. This encounter with the Rathound King greatly reminds you of the first time you met him, for all the previous elements are still present: the king, the throne, the palace, the servants. Yet, the image has been watered down by the flow of events that had occurred. The king bears scars all over his body as well as over - how it appeared then - his granite-solid pride; the throne is an improvised shadow of its former self; the palace, nothing but a grimy, cold cave that stinks of downfall. The servants have been the least affected by the unfortunate relocation, still maintaining the same impression of loyal guards sitting by their king's side.::<end>
 
 =>q1
-::Une silhouette familière vous toise, encore une fois. Cette rencontre avec le Rathound King rappelle trop la première : le roi, le trône, le palais, les serviteurs. Tout y est. Et pourtant le tableau a pâli sous le passage des événements. Le roi porte des cicatrices partout, sur le corps et sur cette fierté qui, à l'époque, paraissait taillée dans le granit. Le trône n'est plus qu'une ombre bricolée de ce qu'il était. Le palais : une grotte crasse, froide, qui pue la chute. Les serviteurs, eux, ont le moins souffert du déménagement. Ils donnent toujours cette impression de gardes fidèles, assis aux côtés de leur roi.::<end>
+::Une silhouette familière se dresse encore au-dessus de vous. Cette rencontre avec le Rathound King vous ramène tout droit à la première : le roi, le trône, le palais, les serviteurs. Tout y est. Pourtant le tableau a pâli, délavé par le cours des événements. Le roi porte des cicatrices partout, sur le corps et sur cette fierté qui, alors, paraissait taillée dans le granit. Le trône n'est plus qu'une ombre bricolée de ce qu'il était. Le palais : une grotte crasse, froide, qui pue la chute. Les serviteurs, eux, ont le moins souffert de cette relégation. Ils donnent toujours cette impression de gardes fidèles, assis aux côtés de leur roi.::<end>
 
 =>q2_original
 ::Speaking of the king, you can almost feel his big hands strangling you through an ocular proxy - a glare full of contempt by which he begins communicating his silent monologue. Everything he had to go through was your fault - of course - so for that he must demonstrate what happens when the mighty Rathound King gets disrespected, and he will feel no displeasure in executing it in the most violent manner known to him.
@@ -10,7 +10,7 @@
 His monologue then ends, and the battle begins.::<end>
 
 =>q2
-::Quant au roi, on dirait presque que ses grandes mains vous étranglent à travers le regard : un coup d'œil chargé de mépris, le début d'un monologue muet. Tout ce qu'il a subi, c'était de votre faute, évidemment. Alors il va montrer ce qui arrive quand on manque de respect au puissant Rathound King. Et ça ne lui coûtera rien de le faire de la façon la plus violente qu'il connaisse.
+::Quant au roi, on dirait presque que ses grandes mains vous étranglent, rien qu'avec le regard : un regard chargé de mépris, par lequel il entame son monologue muet. Tout ce qu'il a subi, c'était de votre faute, évidemment. Alors il va montrer ce qui arrive quand on manque de respect au puissant Rathound King. Et il le fera sans la moindre gêne, de la façon la plus violente qu'il connaisse.
 
 Le monologue s'arrête. Le combat commence.::<end>
 
@@ -18,13 +18,13 @@ Le monologue s'arrête. Le combat commence.::<end>
 ::Fight!::<end>
 
 =>a3
-::Combattre::<end>
+::Combattre !::<end>
 
 =>q4_original
 HA! You truly amaze me, $(context.player.Name): You captured Sarine!<end>
 
 =>q4
-HA ! Vous m'étonnez vraiment, $(context.player.Name) : vous avez capturé Sarine !<end>
+HA ! Vous m'épatez vraiment, $(context.player.Name) : vous avez capturé Sarine !<end>
 
 =>q5_original
 ::He looks at her with pride.:: Welcome to my lair, woman. You--<end>
@@ -40,13 +40,13 @@ ARGH! ::She kicks her cell's door with all her might but to no effect.::<end>
 =>q6
 Espèce de loque humaine, laide, *répugnante*, *pathétique* ! Je t'arrache le cœur si tu oses seulement penser à me toucher avec tes doigts crades !
 
-ARGH ! ::Elle frappe la porte de sa cellule de toutes ses forces. Rien.::<end>
+ARGH ! ::Elle envoie un coup de pied dans la porte de sa cellule de toutes ses forces. Rien.::<end>
 
 =>q7_original
 You will *learn* to love it here, woman, and you will stay in that very cell until you come to your senses. Your beloved Beck is without you, and I hope he dies from sorrow like a spineless worm that he is. The Sud family lineage will end - while mine will flourish, just as it should be!<end>
 
 =>q7
-Tu *apprendras* à aimer cet endroit, femme, et tu resteras dans cette cellule jusqu'à ce que tu retrouves la raison. Ton cher Beck n'est plus avec toi, et j'espère qu'il crèvera de chagrin, comme le ver sans échine qu'il est. La lignée des Sud s'arrêtera là. La mienne, elle, s'épanouira. Comme il se doit !<end>
+Tu *apprendras* à aimer cet endroit, femme, et tu resteras dans cette cellule jusqu'à ce que tu te fasses une raison. Ton cher Beck n'est plus avec toi, et j'espère qu'il crèvera de chagrin, comme le ver sans échine qu'il est. La lignée des Sud s'arrêtera là. La mienne, elle, s'épanouira. Comme il se doit !<end>
 
 =>q8_original
 ::The Rathound King turns to you with a pleased grin on his face.:: As for you, you've done me a great service. You deserve this. ::He hands you a curious suit of leather armor.:: 
@@ -70,7 +70,7 @@ $(context.player.Name), thank you. First you bring me the woman I desired, then 
 What a glorious day to be... the Rathound King. ::He laughs.::<end>
 
 =>q10
-$(context.player.Name), merci. D'abord vous m'apportez la femme que je désirais, puis vous m'amenez - sans le savoir, mais quand même - le fils de mon pire ennemi, à massacrer comme le tas d'os qu'il est. L'imbécile ! HA !
+$(context.player.Name), merci. D'abord vous m'apportez la femme que je désirais, puis vous m'amenez - sans le savoir, mais quand même - le fils de mon pire ennemi, à massacrer comme le sac d'os qu'il est. L'imbécile ! HA !
 
 Quelle journée glorieuse pour être... le Rathound King. ::Il rit.::<end>
 
@@ -90,7 +90,7 @@ Comment êtes-vous devenu le Rathound King ?<end>
 Become? I've always been the Rathound King, for it is in my blood. These rathounds here are my brothers and sisters - my pack. Make no mistake, I may be their king and my will may be above theirs, but our respect is mutual and our bond is strong. We hunt together, we eat together, and we kill all those who dare disturb us - together.<end>
 
 =>q13
-Devenu ? J'ai toujours été le Rathound King. C'est dans le sang. Ces rathounds, ici, ce sont mes frères et sœurs. Ma meute. Ne vous y trompez pas : je suis leur roi, ma volonté passe avant la leur, mais le respect est mutuel et le lien est solide. On chasse ensemble, on mange ensemble, et on tue ensemble tous ceux qui osent nous déranger.<end>
+Devenu ? J'ai toujours été le Rathound King. C'est dans le sang. Ces rathounds, ici, ce sont mes frères et sœurs. Ma meute. Ne vous y trompez pas : je suis leur roi, ma volonté passe avant la leur, mais le respect est mutuel et le lien est solide. On chasse ensemble, on mange ensemble, et on tue tous ceux qui osent nous déranger - ensemble.<end>
 
 =>a14_original
 And who might that be?<end>
@@ -102,7 +102,7 @@ Et qui donc ?<end>
 Evil men and women of Camp Hathor, of course! They despise us, want us gone from this world. Those people have no respect for me, my rathounds, my land. They call themselves hunters, but I spit on that - they're nothing but weaklings! Coal diggers who think they have it all figured out. I'll kill every single one of them who dares enter my land. ::He grins.:: My traps have already taken many of their lives, and every death pleases me.<end>
 
 =>q15
-Les salauds de Camp Hathor, évidemment ! Ils nous méprisent. Ils veulent qu'on disparaisse. Ces gens n'ont aucun respect, ni pour moi, ni pour mes rathounds, ni pour ma terre. Ils se disent chasseurs. Je crache dessus. Des mauviettes, rien de plus. Des creuseurs de charbon qui croient tout savoir. Je tuerai chacun d'eux qui osera mettre le pied sur mes terres. ::Il sourit.:: Mes pièges ont déjà pris beaucoup des leurs. Chaque mort me réjouit.<end>
+Les ordures de Camp Hathor, évidemment ! Ils nous méprisent. Ils veulent qu'on disparaisse de ce monde. Ces gens n'ont aucun respect, ni pour moi, ni pour mes rathounds, ni pour ma terre. Ils se disent chasseurs. Je crache dessus. Des mauviettes, rien de plus. Des creuseurs de charbon qui croient tout savoir. Je tuerai chacun d'eux qui osera mettre le pied sur mes terres. ::Il ricane.:: Mes pièges ont déjà pris beaucoup des leurs. Chaque mort me réjouit.<end>
 
 =>q16_original
 <end>
@@ -138,7 +138,7 @@ On dirait qu'ils vous causent pas mal de problèmes.<end>
 Do I? Maybe because they have. I only wanted to be left alone and live with my pack on *our* land. But, those of Camp Hathor just wouldn't leave me be. Especially one man, their former leader - Gideon. ::The name is snarled rather than spoken normally, and a deep, angular frown appears on his forehead like a crack on a smooth rock.:: That coward, that pathetic excuse for a man. <end>
 
 =>q21
-Vraiment ? Peut-être parce que c'est le cas. Je voulais seulement qu'on me laisse tranquille, vivre avec ma meute sur *notre* terre. Mais ceux de Camp Hathor n'ont pas lâché. Surtout un homme : leur ancien chef, Gideon. ::Le nom est grondé plus que prononcé, et un froncement anguleux lui fend le front, comme une fissure dans un roc lisse.:: Ce lâche. Cette excuse pathétique d'homme. <end>
+Ah bon ? Peut-être parce que c'est le cas. Je voulais seulement qu'on me laisse tranquille, vivre avec ma meute sur *notre* terre. Mais ceux de Camp Hathor n'ont pas lâché. Surtout un homme : leur ancien chef, Gideon. ::Le nom est grogné plus que prononcé, et un froncement anguleux lui fend le front, comme une fissure dans un roc lisse.:: Ce lâche. Cette loque d'homme, pathétique. <end>
 
 =>q22_original
 He claimed I was trespassing their hunting grounds and stealing their game, while it belonged to me long before they stopped digging coal and decided to turn to hunting. My rathounds - my "dirty" rathounds - were vermin to him, insisting they were attacking and hurting the people of Camp Hathor. FOOL!<end>
@@ -156,13 +156,13 @@ Mais cet imbécile est mort maintenant. Pas de ces mains-là, hélas. Et le pire
 Why would you want to kill innocent people?<end>
 
 =>a24
-Pourquoi tuer des innocents ?<end>
+Pourquoi vouloir tuer des innocents ?<end>
 
 =>q25_original
 Innocent, you say? They are scum. I only wanted to be left alone and live with my pack on *our* land. But, those of Camp Hathor just wouldn't leave me be. Especially one man, their former leader - Gideon. ::The name is snarled rather than spoken normally, and a deep, angular frown appears on his forehead like a crack on a smooth rock.:: That coward, that pathetic excuse for a man.<end>
 
 =>q25
-Innocents, vous dites ? Ce sont des ordures. Je voulais seulement qu'on me laisse tranquille, vivre avec ma meute sur *notre* terre. Mais ceux de Camp Hathor n'ont pas lâché. Surtout un homme : leur ancien chef, Gideon. ::Le nom est grondé plus que prononcé, et un froncement anguleux lui fend le front, comme une fissure dans un roc lisse.:: Ce lâche. Cette excuse pathétique d'homme.<end>
+Innocents, vous dites ? Ce sont des ordures. Je voulais seulement qu'on me laisse tranquille, vivre avec ma meute sur *notre* terre. Mais ceux de Camp Hathor n'ont pas lâché. Surtout un homme : leur ancien chef, Gideon. ::Le nom est grogné plus que prononcé, et un froncement anguleux lui fend le front, comme une fissure dans un roc lisse.:: Ce lâche. Cette loque d'homme, pathétique.<end>
 
 =>a26_original
 Who dares disturb you, Rathound King?<end>
@@ -192,19 +192,19 @@ Ils ont accepté vos conditions.<end>
 That sounds good, but with Sarine's kidnapping, the truce is impossible now. Things turned out differently than I had originally anticipated.<end>
 
 =>q30
-Ça sonne bien. Mais avec l'enlèvement de Sarine, plus question de trêve. Les choses n'ont pas tourné comme je l'avais prévu.<end>
+Fort bien. Mais avec l'enlèvement de Sarine, plus question de trêve. Les choses n'ont pas tourné comme je l'avais prévu.<end>
 
 =>q31_original
 The negotiations are now meaningless, and a man must adapt to the new situation.<end>
 
 =>q31
-Les négociations n'ont plus aucun sens. Un homme s'adapte.<end>
+Les négociations n'ont plus aucun sens. Un homme s'adapte à la situation.<end>
 
 =>q32_original
 Good, but I'm still keeping my eyes open. ::He stops to look at you for a second.:: You've done well. I don't know why you did all this, but I respect it nonetheless. And I thank you. I don't have any money to give you, but I can give you this instead. ::He hands you a curious suit of leather armor.:: Welcome to the Pack.<end>
 
 =>q32
-Bien. Mais je reste aux aguets. ::Il s'arrête une seconde pour vous regarder.:: Vous avez bien fait. Je ne sais pas pourquoi vous avez fait tout ça, mais je respecte ça quand même. Et je vous remercie. Je n'ai pas d'argent à vous donner. Ceci, par contre. ::Il vous tend une curieuse armure de cuir.:: Bienvenue dans la Meute.<end>
+Bien. Mais je reste aux aguets. ::Il s'arrête une seconde pour vous regarder.:: Vous avez bien fait. Je ne sais pas pourquoi vous avez fait tout ça, mais je le respecte tout de même. Et je vous remercie. Je n'ai pas d'argent à vous donner. Ceci, par contre. ::Il vous tend une curieuse armure de cuir.:: Bienvenue dans la meute.<end>
 
 =>q33_original
 And as far as Sarine is concerned... forget about everything. Things have changed.<end>
@@ -228,7 +228,7 @@ Avez-vous essayé de conclure une trêve avec Camp Hathor ?<end>
 Truce? After taking Sarine? ::He laughs.:: It's impossible. Besides, those weaklings have no honor anyway. They proved that to me a long, long time ago.<end>
 
 =>q36
-Une trêve ? Après avoir pris Sarine ? ::Il rit.:: Impossible. Et puis ces mauviettes n'ont de toute façon aucun honneur. Ils me l'ont prouvé il y a bien, bien longtemps.<end>
+Une trêve ? Après avoir pris Sarine ? ::Il rit.:: Impossible. Et puis ces mauviettes n'ont aucun honneur. Ils me l'ont prouvé il y a bien, bien longtemps.<end>
 
 =>q37_original
 Truce... HA!<end>
@@ -240,19 +240,19 @@ Une trêve... HA !<end>
 Don't be a fool. There's no way I'll negotiate with those honorless weaklings. I am not putting myself in the position of a stunned crawler prey, just waiting for a final stab to end my life. They showed their true face to me a long, long time ago.<end>
 
 =>q38
-Ne soyez pas idiot. Pas question de négocier avec ces mauviettes sans honneur. Je ne vais pas me mettre dans la peau d'une proie de crawler, sonnée, à attendre le coup de grâce. Ils m'ont montré leur vrai visage il y a bien, bien longtemps.<end>
+Ne soyez pas idiot. Pas question de négocier avec ces mauviettes sans honneur. Je ne vais pas me mettre dans la position d'une proie de crawler, sonnée, à attendre le coup de grâce. Ils m'ont montré leur vrai visage il y a bien, bien longtemps.<end>
 
 =>a39_original
 ::[Persuade]:: What if I can help? You know, act like a mediator. As you said, Gideon is dead, and the new leader could perhaps listen to what you have to say. You can't say it won't work until you've tried it.<end>
 
 =>a39
-::[Persuade]:: Et si je pouvais aider ? Jouer les médiateurs, vous voyez. Comme vous l'avez dit, Gideon est mort, et le nouveau chef écoutera peut-être. Vous ne pouvez pas dire que ça ne marchera pas tant que vous n'avez pas essayé.<end>
+::[Persuade]:: Et si je peux aider ? Jouer les médiateurs, vous voyez. Comme vous l'avez dit, Gideon est mort, et le nouveau chef écoutera peut-être. Vous ne pouvez pas dire que ça ne marchera pas tant que vous n'avez pas essayé.<end>
 
 =>q40_original
 ::He pauses to think, and you can almost hear his mind's gears turning inside his head. After a bit of thought, a smile surfaces on his face and he gives you an answer you were waiting for.:: What you say is true. Perhaps... perhaps Gideon's successor is someone who can be reasoned with. Hmmm... I accept your proposal. *You* will negotiate with Camp Hathor in my name, as you suggested.<end>
 
 =>q40
-::Il s'arrête pour réfléchir. On dirait presque entendre les rouages tourner dans sa tête. Après un moment, un sourire lui vient, et il vous donne la réponse que vous attendiez.:: Vous dites vrai. Peut-être... peut-être que le successeur de Gideon est quelqu'un à qui on peut parler. Hmmm... J'accepte. *Vous* négocierez avec Camp Hathor en mon nom, comme vous l'avez proposé.<end>
+::Il s'arrête pour réfléchir. On croirait presque entendre les rouages tourner dans sa tête. Après un moment, un sourire lui vient, et il vous donne la réponse que vous attendiez.:: Vous dites vrai. Peut-être... peut-être que le successeur de Gideon est quelqu'un à qui on peut parler. Hmmm... J'accepte. *Vous* négocierez avec Camp Hathor en mon nom, comme vous l'avez proposé.<end>
 
 =>q41_original
 My demands are simple: I want them to leave me alone. There will be no trespassing on my land, and that includes these caves to the south of Camp Hathor, and the south part of hunting grounds across the river. I don't want to see them there. If they can agree on that, then I won't kill their hunters on sight anymore, I will remove my traps near their land and won't disturb them in any way. Tell them they have the word of a king.<end>
@@ -270,7 +270,7 @@ Très bien. Je vais parler à Edgar, leur chef actuel.<end>
 Just know this: I'm not letting my guard down for a second. If I sense any trickery, any trickery at all - you will all die. Even if an agreement is made, I will still keep my eyes wide open. I'd be a fool otherwise.<end>
 
 =>q43
-Sachez juste ceci : je ne baisse pas ma garde une seconde. Si je flaire la moindre combine, la moindre - vous mourrez tous. Même s'il y a un accord, je garderai les yeux grands ouverts. Sinon je serais un idiot.<end>
+Sachez juste ceci : je ne baisse pas ma garde une seconde. Si je flaire la moindre combine, la moindre - vous mourrez tous. Même s'il y a un accord, je garderai les yeux grands ouverts. Autrement, je serais un idiot.<end>
 
 =>q44_original
 One more thing, before you leave: Check the north wall, right in front of my lair. You'll find a hidden passage that will allow you to avoid all my traps. 
@@ -284,7 +284,7 @@ Encore une chose, avant que vous partiez : regardez le mur nord, juste en face d
 
 Vous pensiez vraiment que je traverse le labyrinthe à chaque sortie ? Ha !
 
-Allez-y, $(context.player.Name).<end>
+Allez, $(context.player.Name).<end>
 
 =>a45_original
 Understood. I'll see you later.<end>
@@ -350,7 +350,7 @@ Des nouvelles de Sarine ?<end>
 She still spits at me, throws food I give her, curses with language more poisonous than a crawler stinger and still threatens to rip my arm off and beat me to death with it. ::He laughs.:: She has energy, and she is stubborn. She will need more time than I had anticipated, but in the end, she will realize that there is no point in resisting and will accept her position.<end>
 
 =>q55
-Elle me crache encore dessus, elle jette la bouffe que je lui donne, elle jure plus venimeux qu'un dard de crawler, et elle menace toujours de m'arracher le bras pour m'assommer avec. ::Il rit.:: Elle a de l'énergie. Elle est têtue. Il lui faudra plus de temps que je ne pensais. Mais à la fin, elle verra que résister ne sert à rien, et elle acceptera sa place.<end>
+Elle me crache encore dessus, elle jette la bouffe que je lui donne, elle jure d'une langue plus venimeuse qu'un dard de crawler, et elle menace toujours de m'arracher le bras pour m'en écraser le crâne. ::Il rit.:: Elle a de l'énergie. Elle est têtue. Il lui faudra plus de temps que je ne pensais. Mais à la fin, elle verra que résister ne sert à rien, et elle acceptera sa place.<end>
 
 =>q56_original
 Unless she wants to rot in that cell. It's her choice.<end>
@@ -380,7 +380,7 @@ Souvenez-vous-en.<end>
 ::The Rathound King yawns.:: You know what? You bore me. So much talk, yet so little has been said. I want you to leave now. You've had the privilege of talking to the Rathound King himself, but now's the time for my hospitality to end. Out of my lair!<end>
 
 =>q60
-::Le Rathound King bâille.:: Vous savez quoi ? Vous m'ennuyez. Tant de paroles, et si peu dit. Je veux que vous partiez. Vous avez eu le privilège de parler au Rathound King en personne. Maintenant, l'hospitalité s'arrête. Hors de mon antre !<end>
+::Le Rathound King bâille.:: Vous savez quoi ? Vous m'ennuyez. Tant de paroles, et si peu dit. Je veux que vous partiez. Vous avez eu le privilège de parler au Rathound King en personne. Maintenant, mon hospitalité s'arrête. Hors de mon antre !<end>
 
 =>a61_original
 Wait, wait, I had more questions.<end>
@@ -398,7 +398,7 @@ Assez ! Vous avez eu votre chance. Ne me mettez pas en colère, mauviette. Si vo
 I'd like to see you try. ::Fight!::<end>
 
 =>a63
-J'aimerais vous voir essayer. ::Combattre::<end>
+J'aimerais vous voir essayer. ::Combattre !::<end>
 
 =>a64_original
 If you say so, Rathound King. Goodbye.<end>
@@ -422,7 +422,7 @@ Il y a une reine Rathound ?<end>
 No, there is not. No woman I've ever met was worthy of being my queen. ::He makes a short pause, but quickly proceeds.:: Well, except for one. There is a young woman in Camp Hathor called Sarine. She's the only one worthy of mention in that wretched place. She is stronger than most men, cunning, ferocious, beautiful. She would make a perfect woman to bear my children!<end>
 
 =>q67
-Non. Aucune femme que j'ai rencontrée n'était digne d'être ma reine. ::Il marque une courte pause, puis reprend tout de suite.:: Enfin, sauf une. Une jeune femme à Camp Hathor, Sarine. La seule qui vaille la peine d'être mentionnée dans ce trou. Plus forte que la plupart des hommes. Rusée, féroce, belle. Elle ferait la femme parfaite pour porter mes enfants !<end>
+Non. Aucune femme que j'ai rencontrée n'était digne d'être ma reine. ::Il marque une courte pause, puis reprend tout de suite.:: Enfin, sauf une. Une jeune femme à Camp Hathor, Sarine. La seule qui vaille d'être nommée dans ce trou. Plus forte que la plupart des hommes. Rusée, féroce, belle. Elle serait la femme parfaite pour porter mes enfants !<end>
 
 =>q68_original
 But, I'm done with Camp Hathor, so I have no interest in her anymore.<end>
@@ -434,7 +434,7 @@ Mais j'en ai fini avec Camp Hathor. Elle ne m'intéresse plus.<end>
 ::He grins.::<end>
 
 =>q69
-::Il sourit.::<end>
+::Il ricane.::<end>
 
 =>a70_original
 I've met this Sarine. Saw her together with some guy called Beck, and the two seemed... close.<end>
@@ -470,7 +470,7 @@ Si vous la voulez à ce point, je pourrais vous aider. Je pourrais même vous l'
 Really now? And why would you want to do that? Bringing her here would certainly be against her will, and that alone makes the task difficult, considering the things I just told you about her.<end>
 
 =>q75
-Vraiment ? Et pourquoi feriez-vous ça ? L'amener ici irait clairement contre sa volonté, et ça seul rend la chose difficile, vu ce que je viens de vous dire d'elle.<end>
+Vraiment ? Et pourquoi feriez-vous ça ? L'amener ici irait clairement contre sa volonté, et ça, à soi seul, rend la tâche difficile, vu ce que je viens de vous dire d'elle.<end>
 
 =>a76_original
 It sounds fun.<end>
@@ -490,7 +490,7 @@ Vous prenez du plaisir à enlever des femmes ? Hmmm... <end>
 After that, she will learn to love me and accept me as her king. She must. But first you must bring her here.<end>
 
 =>q78
-::Il s'arrête pour réfléchir.:: Votre proposition m'intrigue, $(context.player.Name). J'ai déjà vu cette femme prouver sa valeur, et je suis certain qu'elle a ce qu'il faut pour être ma reine. Qu'elle soit d'accord ou non, maintenant, ça ne me concerne pas. Amenez-la-moi, et vous serez récompensé.
+::Il s'arrête pour réfléchir.:: Votre proposition m'intrigue, $(context.player.Name). J'ai déjà vu cette femme prouver sa valeur, et je suis certain qu'elle a ce qu'il faut pour être ma reine. Qu'elle soit d'accord ou non, pour l'instant, ça ne me concerne pas. Amenez-la-moi, et vous aurez votre récompense.
 
 Après ça, elle apprendra à m'aimer et à m'accepter comme son roi. Elle le doit. Mais d'abord, vous devez l'amener ici.<end>
 
@@ -504,7 +504,7 @@ Marché conclu, Rathound King. Je reviendrai avec elle.<end>
 Good, I'll be waiting. Before you leave, I think now's a good time to tell you about the hidden passage that allows you to avoid all my traps. Ha! Did you really think I walk through the labyrinth every time I want to go out? ::He laughs.:: It's right in front of my lair. Check the north wall, you'll find it there. Now go, $(context.player.Name).<end>
 
 =>q80
-Bien. J'attendrai. Avant que vous partiez, autant vous parler du passage caché qui permet d'éviter tous mes pièges. Ha ! Vous pensiez vraiment que je traverse le labyrinthe à chaque sortie ? ::Il rit.:: C'est juste en face de mon antre. Mur nord. Vous le trouverez. Allez-y, $(context.player.Name).<end>
+Bien. J'attendrai. Avant que vous partiez, autant vous parler du passage caché qui permet d'éviter tous mes pièges. Ha ! Vous pensiez vraiment que je traverse le labyrinthe à chaque sortie ? ::Il rit.:: C'est juste en face de mon antre. Mur nord. Vous le trouverez. Allez, $(context.player.Name).<end>
 
 =>q81_original
 <end>
@@ -552,13 +552,13 @@ HA ! Là, vous parlez. <end>
 That sounds a bit disturbing. How about we change the subject?<end>
 
 =>a88
-Ça sonne un peu malsain. Et si on changeait de sujet ?<end>
+C'est un peu malsain. Et si on changeait de sujet ?<end>
 
 =>q89_original
 Disturbing? It might sound disturbing to you, but to me that would mean the perfect revenge. ::He grins.::<end>
 
 =>q89
-Malsain ? Ça peut vous paraître malsain. Pour moi, ce serait la vengeance parfaite. ::Il sourit.::<end>
+Malsain ? Ça peut vous paraître malsain. Pour moi, ce serait la vengeance parfaite. ::Il ricane.::<end>
 
 =>a90_original
 Don't know his last name, but I suppose a place like Camp Hathor doesn't have a lot of Beck's.<end>
@@ -624,7 +624,7 @@ Les pièges sont là pour empêcher les intrus d'entrer dans mon antre. Beaucoup
 Which is quite admirable, $(context.player.Name).<end>
 
 =>q100
-C'est admirable, $(context.player.Name).<end>
+Voilà qui est admirable, $(context.player.Name).<end>
 
 =>q101_original
 Any more boring questions?<end>
@@ -648,7 +648,7 @@ Désolé, mais non. La seule personne à qui j'enseignerais l'art des pièges, c
 I expect of you to understand.<end>
 
 =>q104
-J'attends de vous que vous le compreniez.<end>
+Je compte sur vous pour le comprendre.<end>
 
 =>q105_original
 I have no intention of doing anything like that. The only person I'd ever teach my trapping skills is my heir.<end>
@@ -708,25 +708,25 @@ Un rathound entre dans un bar... et le tavernier lui met une balle ! Vous voyez,
 ::The Rathound King stares at you, eyes confounded. For some reason you have a feeling that the joke didn't land as well as you had hoped. Maybe he didn't like it? Maybe he didn't understand it? It's a mystery that might never be solved. Whatever the reason, there are more pressing matters you need to focus on right now, like the fact that the Rathound King is drawing his weapon, and you need to...::<end>
 
 =>q114
-::Le Rathound King vous fixe, l'œil perdu. Pour une raison ou une autre, vous sentez que la blague n'a pas atterri comme prévu. Il n'a pas aimé ? Il n'a pas compris ? Mystère. Quoi qu'il en soit, il y a plus urgent : le Rathound King dégaine, et vous feriez bien de...::<end>
+::Le Rathound King vous fixe, l'œil perdu. Pour une raison ou une autre, vous sentez que la blague est tombée à plat. Il n'a pas aimé ? Il n'a pas compris ? Mystère. Quoi qu'il en soit, il y a plus urgent : le Rathound King dégaine, et vous feriez bien de...::<end>
 
 =>a115_original
 ::Fight!::<end>
 
 =>a115
-::Combattre::<end>
+::Combattre !::<end>
 
 =>a116_original
 What does a cell about to undergo mitosis say to an interested geneticist? "I hope I have your divided attention!"<end>
 
 =>a116
-Que dit une cellule sur le point de se diviser par mitose à un généticien intéressé ? « J'espère avoir votre attention. Divisée, si possible ! »<end>
+Que dit une cellule sur le point de se diviser par mitose à un généticien intéressé ? « J'espère avoir votre attention. Divisée ! »<end>
 
 =>q117_original
 ::The Rathound King scratches his head in confusion.:: Metasis? Geneticisist? I don't understand any of that. Bah! I want to be amused, not bore me with things I don't understand.<end>
 
 =>q117
-::Le Rathound King se gratte la tête, perdu.:: Métase ? Généticisiste ? Je ne comprends rien à tout ça. Bah ! Je veux qu'on m'amuse, pas qu'on m'ennuie avec des trucs que je ne pige pas.<end>
+::Le Rathound King se gratte la tête, perdu.:: Métase ? Généticisiste ? Je ne comprends rien à tout ça. Bah ! Je veux qu'on m'amuse, pas qu'on m'ennuie avec des trucs que je ne comprends pas.<end>
 
 =>q118_original
 So you better tell me a good joke and stop wasting my time.<end>
@@ -768,7 +768,7 @@ Je vous laisse. Adieu.<end>
 ::You find yourself face-to-face with a towering, muscular man. In fact, describing him simply as muscular is a great understatement, because this man has the physique of someone chiseled out of a giant block of granite. One of the two rathounds by his sides - the gray-furred goliath which stares at you with its hollow eyes - might as well have come from the same block, judging by its powerful, bone-chilling appearance. There is another rathound present beside the two guard hounds, yet its purpose is a different one: Its glossy hide is proudly being worn by this king of the rathounds, a title which he uses to introduce himself once he addresses you with his cavernous voice.::<end>
 
 =>q124
-::Vous vous retrouvez nez à nez avec un homme massif, musclé. Musclé, d'ailleurs, c'est trop peu dire : ce type a le physique de quelqu'un taillé dans un bloc de granit. L'un des deux rathounds à ses côtés - le goliath à la fourrure grise, qui vous fixe de ses yeux creux - pourrait bien venir du même bloc, à voir cette allure puissante, glaciale. Il y a un autre rathound, en plus des deux gardes, mais son rôle n'est pas le même : c'est sa peau luisante que ce roi des rathounds porte fièrement. Un titre qu'il s'accorde dès qu'il vous adresse la parole, de sa voix de cave.::<end>
+::Vous vous retrouvez face à un homme massif, musculeux. Musculeux, d'ailleurs, c'est trop peu dire : cet homme a le physique de quelqu'un taillé dans un bloc de granit. L'un des deux rathounds à ses côtés - le goliath à la fourrure grise, qui vous fixe de ses yeux creux - pourrait bien venir du même bloc, à voir cette allure puissante, glaciale. Il y a un autre rathound, en plus des deux molosses de garde, mais son rôle n'est pas le même : c'est sa peau luisante que ce roi des rathounds porte fièrement. Un titre qu'il s'accorde dès qu'il vous adresse la parole, de sa voix caverneuse.::<end>
 
 =>q125_original
 Who dares disturb the Rathound King? Tell me your name, or I'll have my rathounds tear you apart. Speak!<end>
@@ -788,7 +788,7 @@ Well, $(context.player.Name), the only reason you're still standing is because y
 Tell me, why are you here?<end>
 
 =>q127
-Eh bien, $(context.player.Name), la seule raison pour laquelle vous tenez encore debout, c'est que vous êtes le premier à avoir évité tous mes pièges, bien placés, et à arriver ici avec tous vos membres. Je respecte ça. Seuls les plus rusés atteignent mon antre. Les cadavres des mauviettes, eux, calment la faim de mes rathounds. ::Il sourit.::
+Eh bien, $(context.player.Name), la seule raison pour laquelle vous tenez encore debout, c'est que vous êtes le premier à avoir évité tous mes pièges bien placés et à arriver ici avec tous vos membres. Je respecte ça. Seuls les plus rusés atteignent mon antre. Les cadavres des mauviettes, eux, calment la faim de mes rathounds. ::Il ricane.::
 
 Dites-moi : pourquoi êtes-vous ici ?<end>
 
@@ -806,13 +806,13 @@ Now, my amusing guest - let us speak! ::He laughs.::<end>
 =>q129
 Ha ! Juste explorer ? Si vous le dites. Votre visite m'amuse, alors je vous autorise à rester. Mais sachez que si vous me manquez de respect, à moi ou à mes rathounds, vous le paierez.
 
-À présent, mon invité amusant - parlons. ::Il rit.::<end>
+À présent, mon invité amusant - parlons ! ::Il rit.::<end>
 
 =>a130_original
 To take your head, you stinking savage! ::Attack!::<end>
 
 =>a130
-Pour vous prendre la tête, sauvage puant ! ::Attaquer::<end>
+Pour vous couper la tête, sauvage puant ! ::Attaquer !::<end>
 
 =>q131_original
 Not if I take yours first, weakling! ::He lets out a terrifying roar as he attacks you.::<end>
@@ -824,7 +824,7 @@ Pas si je prends la vôtre d'abord, mauviette ! ::Il pousse un rugissement terri
 ::Fight!::<end>
 
 =>a132
-::Combattre::<end>
+::Combattre !::<end>
 
 =>a133_original
 My name is $(context.player.Name). I bow down to you, Rathound King. ::Bow down.::<end>
@@ -838,7 +838,7 @@ HA! You bow down to me? ::He bursts out laughing.:: This is all very amusing. A 
 So, $(context.player.Name), why are you here? Why come to my lair?<end>
 
 =>q134
-HA ! Vous vous inclinez devant moi ? ::Il éclate de rire.:: Tout ça m'amuse beaucoup. $(#Un homme/Une femme) évite tous mes pièges, bien placés, entre dans mon antre comme si de rien n'était, et s'incline devant MOI ? Je n'ai jamais rien vu de pareil. HA !
+HA ! Vous vous inclinez devant moi ? ::Il éclate de rire.:: Tout ça m'amuse beaucoup. $(#Un homme/Une femme) évite tous mes pièges bien placés, entre dans mon antre comme si de rien n'était, et s'incline devant MOI ? Je n'ai jamais rien vu de pareil. HA !
 
 Alors, $(context.player.Name), pourquoi êtes-vous ici ? Pourquoi venir dans mon antre ?<end>
 
@@ -854,7 +854,7 @@ HA! That was pitiful. ::The Rathound King unleashes an almost deafening, blood-c
 Why are you here?<end>
 
 =>q136
-HA ! C'était pitoyable. ::Le Rathound King lâche un rugissement presque assourdissant, à glacer le sang. Le rathound à la fourrure rouge rentre la tête, soumis, tandis que le vieux gris, à ses côtés, se met à hurler avec lui.:: VOILÀ comment on plante la peur dans le cœur d'un homme. VOILÀ comment on réduit ses ennemis à de simples sauteurs, prêts pour l'abattoir. Votre voix fluette n'est pas plus féroce qu'un chiot qui couine après le lait de sa mère. Malgré ça, vous avez évité mes pièges et atteint mon antre, ce que seuls les plus rusés savent faire. Je respecte ça. C'est pour ça que vos os ne sont pas encore rongés par mes rathounds. Pas encore.
+HA ! C'était pitoyable. ::Le Rathound King lâche un rugissement presque assourdissant, à glacer le sang. Le rathound à la fourrure rouge rentre la tête, soumis, tandis que le vieux gris, à ses côtés, se met à hurler avec lui.:: VOILÀ comment on enfonce la peur dans le cœur d'un homme. VOILÀ comment on réduit ses ennemis à de simples sauteurs, prêts pour l'abattoir. Votre voix fluette n'est pas plus féroce qu'un chiot qui couine après le lait de sa mère. Malgré ça, vous avez évité mes pièges et atteint mon antre, ce que seuls les plus rusés savent faire. Je respecte ça. C'est pour ça que vos os ne sont pas encore rongés par mes rathounds. Pas encore.
 
 Pourquoi êtes-vous ici ?<end>
 
@@ -862,23 +862,23 @@ Pourquoi êtes-vous ici ?<end>
 I am $(context.player.Name), and that's going to be the last name you'll ever hear. Time to hang that deluded head of yours on a wall. ::Fight.::<end>
 
 =>a137
-Je suis $(context.player.Name), et ce sera le dernier nom que vous entendrez. Il est temps d'accrocher votre tête d'illuminé au mur. ::Combattre.::<end>
+Je suis $(context.player.Name), et ce sera le dernier nom que vous entendrez. Il est temps d'accrocher cette tête d'égaré au mur. ::Combattre.::<end>
 
 =>q138_original
 How foolish of you to challenge my patience. Die!<end>
 
 =>q138
-Quelle folie, de tester ma patience. Mourez !<end>
+Quelle folie, de défier ma patience. Mourez !<end>
 
 =>q139_original
 This is your final warning: Leave or feel my wrath!<end>
 
 =>q139
-Dernier avertissement : partez, ou subissez ma colère !<end>
+Dernier avertissement : partez, ou sentez mon courroux !<end>
 
 =>q140_original
 Ah! It is good to see you again, $(context.player.Name). Know that you are always welcome to the lair.<end>
 
 =>q140
-Ah ! C'est bon de vous revoir, $(context.player.Name). Sachez que l'antre vous est toujours ouvert.<end>
+Ah ! Quel plaisir de vous revoir, $(context.player.Name). Sachez que l'antre vous est toujours ouvert.<end>
 

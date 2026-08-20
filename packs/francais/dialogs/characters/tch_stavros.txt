@@ -8,7 +8,7 @@ Dehors.<end>
 ::A man wearing an intricately decorated Preservation uniform stands behind the large desk. Immediately, your eyes are drawn to a symbol on his robe - an all-familiar eye surrounded with equidistant tentacles; four in this instance. A hulking guard in the room stands still in silence - silence which consumes the room as His Excellency patiently awaits your salutation.::<end>
 
 =>q2
-::Un homme portant un uniforme de préservation décoré avec soin se tient derrière le grand bureau. Immédiatement, vos yeux sont attirés vers un symbole sur sa robe - un œil tout-familiaire entouré de tentacules équidistants; quatre dans ce cas. Dans la pièce se tient un garde en silence - silence qui consume la pièce tandis que Son Excellence attend patiemment votre salutation.::<end>
+::Un homme en uniforme Preservation richement orné se tient derrière le grand bureau. Aussitôt, le regard se porte sur un symbole de sa robe : l'œil familier, entouré de tentacules à égale distance ; quatre, ici. Un garde massif reste immobile dans le silence - un silence qui emplit la pièce tandis que Son Excellence attend patiemment votre salut.::<end>
 
 =>a3_original
 ::Place your hand on your chest and bow down slightly.:: Tchort is Evolution, Your Excellency.<end>
@@ -22,7 +22,7 @@ Dehors.<end>
 <end>
 
 =>q4
-::Harmost Stavros répond d'une voix confiante et en plein essor d'un homme d'âge moyen.::
+::Harmost Stavros répond d'une voix confiante et retentissante, celle d'un homme d'âge mûr.::
 
 <end>
 
@@ -36,25 +36,25 @@ Dehors.<end>
 Evolution is Tchort. I am Harmost Stavros. I've already been informed where you're from and that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q6
-L'évolution est Tchort. Je suis Harmost Stavros. On m'a déjà informé d'où vous venez, et que vous avez eu le courage de libérer nos rassophores des griffes des consanguins. <end>
+L'évolution est Tchort. Je suis Harmost Stavros. On m'a déjà informé d'où vous venez, et que c'est vous qui avez eu le courage de tirer nos rassophores des griffes des consanguins. <end>
 
 =>q7_original
 Sadly, only one rassophore returned. But, it is still better than none, and is a good thing for morale, if only a bit.<end>
 
 =>q7
-Malheureusement, un seul rassophore est revenu. Mais, c'est encore mieux que personne, et c'est une bonne chose pour le moral, si seulement un peu.<end>
+Malheureusement, un seul rassophore est revenu. C'est tout de même mieux que rien, et cela aide un peu le moral, ne serait-ce que modestement.<end>
 
 =>a8_original
 Glad to hear so. Anyway, my name is $(context.player.Name).<end>
 
 =>a8
-Heureux de l'entendre. Bref, mon nom est $(context.player.Name).<end>
+$(#Heureux/Heureuse) de l'entendre. Quoi qu'il en soit, je m'appelle $(context.player.Name).<end>
 
 =>q9_original
 Pleased to meet you. Now, $(context.player.Name), I would like you to tell me what in Tchort's magnificence is happening at the Institute building?<end>
 
 =>q9
-Ravi de vous rencontrer. Maintenant, $(context.player.Name), je voudrais que vous me disiez ce qui se passe dans la magnificence de Tchort dans le bâtiment de l'Institut ?<end>
+Enchanté. À présent, $(context.player.Name), j'aimerais que vous me disiez, par la magnificence de Tchort, ce qui se passe dans le bâtiment de l'Institut ?<end>
 
 =>q10_original
 <end>
@@ -66,7 +66,7 @@ Ravi de vous rencontrer. Maintenant, $(context.player.Name), je voudrais que vou
 The Faceless attacked the Institute, but, while it might've been sudden, it was nothing our brave brothers and sisters couldn't handle. The Faceless advance has been halted, for now.<end>
 
 =>a11
-Le Faceless a attaqué l'Institut, mais, bien que cela ait pu être soudain, ce n'était rien que nos braves frères et sœurs n'aient pu gérer. L'avance Faceless a été interrompue pour le moment.<end>
+Les Faceless ont attaqué l'Institut, mais, aussi soudain que ça ait pu être, nos braves frères et sœurs ont su y faire face. Leur avance est stoppée, pour l'heure.<end>
 
 =>q12_original
 Sadly, their attack here was devastating in comparison. What you see here is almost everything left of active Preservation Forces in Deep Caverns.
@@ -74,9 +74,9 @@ Sadly, their attack here was devastating in comparison. What you see here is alm
 I presume Eidein is safe?<end>
 
 =>q12
-Malheureusement, leur attaque ici a été dévastatrice en comparaison. Ce que vous voyez ici, c'est presque tout ce qui reste des forces de préservation actives dans Deep Caverns.
+Malheureusement, leur attaque ici a été dévastatrice, par comparaison. Ce que vous voyez ici, c'est à peu près tout ce qu'il reste des forces de Preservation actives dans Deep Caverns.
 
-Je suppose que Eidein est en sécurité ?<end>
+Je présume qu'Eidein est sain et sauf ?<end>
 
 =>q13_original
 <end>
@@ -88,7 +88,7 @@ Je suppose que Eidein est en sécurité ?<end>
 I have bad news. Eidein seem to have been their primary target, and, sadly, they managed to reach him and take his life.<end>
 
 =>a14
-J'ai de mauvaises nouvelles. Eidein semble avoir été leur cible principale, et, malheureusement, ils ont réussi à l'atteindre et à prendre sa vie.<end>
+J'ai de mauvaises nouvelles. Eidein semble avoir été leur cible principale, et ils ont réussi, hélas, à l'atteindre et à lui ôter la vie.<end>
 
 =>q15_original
 ::Harmost Stavros lowers his head slightly.::
@@ -106,15 +106,15 @@ Non...<end>
 The information regarding Eidein's death must *not* leave this room. Are we clear? Morale is already too low for us to further bury it into the ground. If anyone asks you - Eidein is still alive and is resisting the Faceless with the rest of Preservation Forces.<end>
 
 =>q16
-::Il se tourne vers le seul gardien de la pièce, et leurs regards se rencontrent. Alors, il te regarde directement.::
+::Il se tourne vers le seul garde de la pièce ; leurs regards se croisent. Puis il vous fixe.::
 
-Les informations concernant la mort de Eidein ne doivent pas sortir de cette pièce. C'est clair ? Morale est déjà trop bas pour qu'on l'enterre encore plus dans le sol. Si quelqu'un vous demande - Eidein est toujours en vie et résiste au Faceless avec le reste des forces de préservation.<end>
+La nouvelle de la mort d'Eidein ne doit *pas* quitter cette pièce. Sommes-nous d'accord ? Le moral est déjà trop bas pour qu'on l'enfonce encore. Si l'on vous interroge : Eidein est toujours en vie, et il résiste aux Faceless avec le reste des forces de Preservation.<end>
 
 =>q17_original
 Again, are we clear on that, $(context.player.Name)?<end>
 
 =>q17
-Encore une fois, sommes-nous clairs à ce sujet, $(context.player.Name)?<end>
+Encore une fois, est-ce bien clair, $(context.player.Name) ?<end>
 
 =>a18_original
 Yes, Your Excellency.<end>
@@ -132,7 +132,7 @@ Très bien. Très bien...<end>
 So, to summarize: Eidein is dead, and we can expect no reinforcements, no one to relieve us. Basically, we are... alone.<end>
 
 =>q20
-Donc, pour résumer : Eidein est mort, et nous ne pouvons nous attendre à aucun renfort, personne pour nous soulager. En gros, nous sommes... seuls.<end>
+Donc, pour résumer : Eidein est mort, et nous n'avons à attendre ni renforts, ni relève. En somme, nous sommes... seuls.<end>
 
 =>a21_original
 Yes.<end>
@@ -144,37 +144,37 @@ Oui.<end>
 Fine. We will then have to deal with the situation to the best of our abilities. Adapt and overcome.<end>
 
 =>q22
-Très bien. Nous devrons alors gérer la situation au mieux de nos capacités. Adapter et surmonter.<end>
+Soit. Nous devrons donc affronter la situation du mieux que nous pourrons. S'adapter et surmonter.<end>
 
 =>q23_original
 One more question, $(context.player.Name), before we are finished. How did you manage to get down here, and are you alone?<end>
 
 =>q23
-Une dernière question, $(context.player.Name), avant que nous ayons fini. Comment avez-vous réussi à descendre ici, et êtes-vous seul ?<end>
+Une dernière question, $(context.player.Name), avant d'en terminer. Comment êtes-vous $(#parvenu/parvenue) jusqu'ici, et êtes-vous $(#seul/seule) ?<end>
 
 =>a24_original
 I was sent down here by Eidein to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.<end>
 
 =>a24
-J'ai été envoyé ici par Eidein pour aider à la défense de Tchort. Et je suis seul. L'ascenseur a cessé de fonctionner pendant la descente, mais une ouverture chanceuse dans le mur m'a sauvé.<end>
+Eidein m'a envoyé$(#/e) ici pour aider à la défense de Tchort. Et je suis $(#seul/seule). L'ascenseur a cessé de fonctionner pendant la descente, mais une brèche providentielle dans le mur m'a sauvé$(#/e).<end>
 
 =>q25_original
 I see. The Faceless must've disabled the elevator in order to cut us off. <end>
 
 =>q25
-Je vois. Le Faceless a dû désactiver l'ascenseur pour nous couper. <end>
+Je vois. Les Faceless ont dû désactiver l'ascenseur pour nous couper du reste. <end>
 
 =>q26_original
 However, who are you to earn yourself Eidein's trust enough for him to send you alone? I've never seen you before, so you must've joined the Institute of Tchort during my - relatively short - absence, and I've too never seen Eidein so favorable toward a novitiate?<end>
 
 =>q26
-Cependant, qui êtes-vous pour gagner la confiance de Eidein assez pour qu'il vous envoie seul? Je ne vous ai jamais vu auparavant, donc vous devez avoir rejoint le Institute of Tchort pendant mon absence - relativement courte - et je n'ai trop jamais vu Eidein si favorable au noviciat ?<end>
+Cependant, qui êtes-vous pour avoir mérité assez la confiance d'Eidein qu'il vous envoie $(#seul/seule) ? Je ne vous ai jamais vu$(#/e), vous avez donc dû rejoindre l'Institute of Tchort pendant mon absence - relativement brève - et je n'ai jamais non plus vu Eidein aussi bien disposé envers un noviciat ?<end>
 
 =>a27_original
 A lot has happened during your absence. Let's leave it at that.<end>
 
 =>a27
-Beaucoup de choses se sont passées pendant votre absence. Laisse tomber.<end>
+Beaucoup de choses se sont passées pendant votre absence. Restons-en là.<end>
 
 =>q28_original
 ::He looks at you for a few quiet moments before continuing.::
@@ -182,15 +182,15 @@ Beaucoup de choses se sont passées pendant votre absence. Laisse tomber.<end>
 A lot *has* happened... that I cannot deny, $(context.player.Name). <end>
 
 =>q28
-::Il vous regarde quelques instants tranquilles avant de continuer.::
+::Il vous regarde quelques instants, en silence, avant de reprendre.::
 
-Il s'est passé beaucoup de choses que je ne peux nier, $(context.player.Name). <end>
+Beaucoup de choses *se sont* passées... je ne peux le nier, $(context.player.Name). <end>
 
 =>q29_original
 Now, did Eidein make any attempts at coming down with you? According to emergency plan we had, he was supposed to go to Tchort, but from what you told me I somehow draw a conclusion that he didn't make any such attempts.<end>
 
 =>q29
-Est-ce que Eidein a tenté de venir avec vous ? Selon le plan d'urgence que nous avions, il devait aller à Tchort, mais d'après ce que vous m'avez dit, j'en tire une conclusion qu'il n'a pas fait de telles tentatives.<end>
+Eidein a-t-il tenté de descendre avec vous ? Selon le plan d'urgence que nous avions, il devait se rendre auprès de Tchort, mais d'après ce que vous m'avez dit, je conclus qu'il n'a rien entrepris de tel.<end>
 
 =>q30_original
 <end>
@@ -202,25 +202,25 @@ Est-ce que Eidein a tenté de venir avec vous ? Selon le plan d'urgence que nous
 I really don't know. I suppose the plan has changed. What I've already told you is all I know.<end>
 
 =>a31
-Je ne sais vraiment pas. Je suppose que le plan a changé. Ce que je t'ai déjà dit, c'est tout ce que je sais.<end>
+Je ne sais vraiment pas. Je suppose que le plan a changé. Ce que je vous ai déjà dit est tout ce que je sais.<end>
 
 =>q32_original
 Right... <end>
 
 =>q32
-Oui... <end>
+Bien... <end>
 
 =>q33_original
 ::He sighs.:: Alright, $(context.player.Name), you have earned yourself some rest. Should you need supplies, speak to Rassophore Prevlic in the armory. A word of caution, though: He had been injured during the battle with the devolved, and is still severely traumatized. He is very unstable, so do *not* speak with him about the current events so not to upset him. Am I clear? Keep the talk minimal and watch what you say.<end>
 
 =>q33
-::Il soupire.:: Très bien, $(context.player.Name), vous avez gagné du repos. Si vous avez besoin de fournitures, parlez à Rassophore Prevlic dans l'armurerie. Un mot de prudence, cependant: Il avait été blessé pendant la bataille avec les dévolus, et est encore gravement traumatisé. Il est très instable, alors ne lui parlez pas des événements actuels, et ne le dérangez pas. C'est clair ? Gardez la conversation minimale et regardez ce que vous dites.<end>
+::Il soupire.:: Très bien, $(context.player.Name), vous avez mérité un peu de repos. Si vous avez besoin de ravitaillement, adressez-vous à Rassophore Prevlic, à l'armurerie. Un avertissement, toutefois : il a été blessé pendant le combat contre les dégénérés, et il reste gravement traumatisé. Il est très instable, donc ne lui parlez *pas* des événements en cours, pour ne pas l'agiter. Est-ce clair ? Parlez peu, et surveillez vos propos.<end>
 
 =>q34_original
 And also remember: The official word is that Eidein is alive and well and that the situation at the Institute of Tchort is stable. If that is clear, you are free to leave unless you have further questions.<end>
 
 =>q34
-Et rappelez-vous aussi: Le mot officiel est que Eidein est vivant et bien et que la situation au Institute of Tchort est stable. Si c'est clair, vous pouvez partir à moins d'avoir d'autres questions.<end>
+Et souvenez-vous aussi : la version officielle, c'est qu'Eidein est vivant et en bonne santé, et que la situation à l'Institute of Tchort est stable. Si c'est clair, vous êtes libre de partir, sauf si vous avez d'autres questions.<end>
 
 =>q35_original
 <end>
@@ -232,19 +232,19 @@ Et rappelez-vous aussi: Le mot officiel est que Eidein est vivant et bien et que
 I think I've proven to be of much assistance since my arrival. I'm going to need supplies and some better equipment if you want me to remain effective.<end>
 
 =>a36
-Je crois que j'ai été très utile depuis mon arrivée. Je vais avoir besoin de fournitures et d'un meilleur équipement si vous voulez que je reste efficace.<end>
+Je crois avoir largement fait mes preuves depuis mon arrivée. Il me faudra du ravitaillement et un meilleur équipement si vous voulez que je reste efficace.<end>
 
 =>q37_original
 You are correct about that. And you do seem to find your way around Deep Caverns very well. ::He pauses.:: The storage building right outside my office - the keycode is 778901. I cannot give you ammo or weapons, for we are low ourselves, but there are some thing in that storage which you might find useful. Take anything you wish from it.<end>
 
 =>q37
-Vous avez raison. Et vous semblez trouver votre chemin autour de Deep Caverns très bien. ::Il fait une pause.:: Le bâtiment de stockage juste devant mon bureau - le code clé est 778901. Je ne peux pas vous donner de munitions ou d'armes, car nous sommes bas nous-mêmes, mais il y a quelque chose dans ce stockage que vous pourriez trouver utile. Prends tout ce que tu veux.<end>
+Vous avez raison. Et vous semblez fort bien vous orienter dans Deep Caverns. ::Il marque une pause.:: Le bâtiment de stockage juste devant mon bureau : le code est 778901. Je ne peux pas vous donner de munitions ni d'armes, nous en manquons nous-mêmes, mais il y a dans ce dépôt quelques objets qui pourraient vous être utiles. Prenez-y ce que vous voulez.<end>
 
 =>a38_original
 778901. Got it. I'll go check it out.<end>
 
 =>a38
-778901. Compris. Je vais vérifier.<end>
+778901. Compris. J'irai voir.<end>
 
 =>q39_original
 Tchort guide you.<end>
@@ -280,49 +280,49 @@ Parlez-moi du complexe Hollow Earth.<end>
 Hollow Earth used to be a secret Biocorp research complex. Scientists specialized in numerous fields worked here, and the vast complex was protected by the most elite soldiers. The area just outside Cytosine Outpost used to be where most of the laboratories were located, now nothing but ruin. <end>
 
 =>q44
-Hollow Earth était un complexe de recherche secret Biocorp. Des scientifiques spécialisés dans de nombreux domaines travaillaient ici, et le vaste complexe était protégé par les soldats les plus élites. La zone juste à l'extérieur de Cytosine Outpost était l'endroit où se trouvaient la plupart des laboratoires, maintenant rien que la ruine. <end>
+Hollow Earth était un complexe de recherche secret de Biocorp. Des scientifiques de nombreuses spécialités y travaillaient, et le vaste complexe était protégé par les soldats d'élite. La zone juste à l'extérieur de Cytosine Outpost abritait la plupart des laboratoires ; il n'en reste plus que des ruines. <end>
 
 =>q45_original
 Of course, over the years we, Institute of Tchort, have managed to extract useful research data which accelerated our own efforts.<end>
 
 =>q45
-Bien sûr, au fil des ans, nous, Institute of Tchort, avons réussi à extraire des données de recherche utiles qui ont accéléré nos propres efforts.<end>
+Bien sûr, au fil des ans, nous, l'Institute of Tchort, avons su extraire des données de recherche utiles, qui ont accéléré nos propres travaux.<end>
 
 =>a46_original
 Anything else you can tell me about it?<end>
 
 =>a46
-Tu peux me dire autre chose ?<end>
+Pouvez-vous m'en dire davantage ?<end>
 
 =>q47_original
 Not much you'll find immediately useful. This section of the complex is the only location that is under the control of Preservation Forces, and is probably the safest, outside a few shelters scattered throughout the complex which you can use in case the Faceless make another push.<end>
 
 =>q47
-Pas grand chose que vous trouverez immédiatement utile. Cette section du complexe est le seul endroit qui est sous le contrôle des forces de préservation, et est probablement le plus sûr, à l'extérieur de quelques abris dispersés dans le complexe que vous pouvez utiliser au cas où le Faceless faire une autre poussée.<end>
+Pas grand-chose qui vous sera immédiatement utile. Cette section du complexe est le seul secteur encore sous le contrôle des forces de Preservation, et probablement le plus sûr, hors quelques abris dispersés dans le complexe, auxquels vous pourrez recourir si les Faceless relancent une offensive.<end>
 
 =>q48_original
 Also know that, even though Tchort's minions will not harm a Tchortist, as its will dictates, be careful if moving to the north, close to Nucleus, as that is where they are most numerous. In these abnormal conditions, and you being unfamiliar to Tchort, you might risk getting attacked.<end>
 
 =>q48
-Sachez également que, même si les minions de Tchort ne feront pas de mal à un Tchortist, comme sa volonté le dicte, soyez prudent si vous vous déplacez au nord, près de Nucleus, car c'est là qu'ils sont le plus nombreux. Dans ces conditions anormales, et vous n'êtes pas familier avec Tchort, vous pourriez risquer d'être attaqué.<end>
+Sachez aussi que, même si les serviteurs de Tchort ne s'en prendront pas à un Tchortist, telle est sa volonté, soyez prudent$(#/e) si vous allez vers le nord, près du Nucleus : c'est là qu'ils sont le plus nombreux. Dans ces conditions anormales, et vous étant encore inconnu$(#/e) de Tchort, vous risquez d'être attaqué$(#/e).<end>
 
 =>a49_original
 Tell me about the warehouse block.<end>
 
 =>a49
-Parlez-moi de l'entrepôt.<end>
+Parlez-moi du bloc d'entrepôts.<end>
 
 =>q50_original
 Eight years ago there were two warehouse blocks east of here, currently under Faceless control. However, a cave-in buried one of them, Warehouse Block 1, while leaving Warehouse Block 2 intact.<end>
 
 =>q50
-Il y a huit ans, il y avait deux entrepôts à l'est d'ici, actuellement sous le contrôle de Faceless. Cependant, une grotte a enterré l'un d'eux, le bloc d'entrepôt 1, tout en laissant intact le bloc d'entrepôt 2.<end>
+Il y a huit ans, il y avait deux blocs d'entrepôts à l'est d'ici, aujourd'hui sous contrôle Faceless. Un éboulement a enseveli l'un d'eux, Warehouse Block 1, en laissant Warehouse Block 2 intact.<end>
 
 =>q51_original
 Preservation Forces during the early years of the Institute of Tchort retrieved much of the Warehouse Block 1 supplies, all left over from Biocorp. The other block we've left largely intact, but I have no doubt that the Faceless have scavenged through it by now. Whatever the case, both blocks were loaded with weapons, ammo and various other supplies.<end>
 
 =>q51
-Les forces de préservation durant les premières années du Institute of Tchort ont récupéré une grande partie des fournitures du bloc d'entrepôt 1, toutes laissées de Biocorp. L'autre bloc que nous avons laissé en grande partie intact, mais je ne doute pas que le Faceless l'ait déjà traversé. Quoi qu'il en soit, les deux blocs étaient chargés d'armes, de munitions et d'autres fournitures.<end>
+Dans les premières années de l'Institute of Tchort, les forces de Preservation ont récupéré une grande partie des stocks de Warehouse Block 1, tout ce que Biocorp y avait laissé. L'autre bloc, nous l'avons laissé largement intact, mais je ne doute pas que les Faceless l'aient déjà fouillé. Quoi qu'il en soit, les deux blocs étaient chargés d'armes, de munitions et de ravitaillement divers.<end>
 
 =>a52_original
 Tell me about the Caerus Residential Block.<end>
@@ -334,37 +334,37 @@ Parlez-moi du quartier résidentiel de Caerus.<end>
 It is where Biocorp scientists and other personnel resided up until the Hollow Earth Incident. It consists of four large buildings and sits just past the SE3 checkpoint; that's Hollow Earth's south-eastern exit.<end>
 
 =>q53
-C'est là que les scientifiques et autres employés Biocorp résidaient jusqu'à l'incident Hollow Earth. Il se compose de quatre grands bâtiments et se trouve juste après le point de contrôle SE3, soit la sortie sud-est de Hollow Earth.<end>
+C'est là que les scientifiques Biocorp et le reste du personnel résidaient jusqu'à l'incident de Hollow Earth. Il se compose de quatre grands bâtiments, juste après le poste de contrôle SE3 ; la sortie sud-est de Hollow Earth.<end>
 
 =>a54_original
 What else can you tell me about it?<end>
 
 =>a54
-Que pouvez-vous me dire d'autre ?<end>
+Que pouvez-vous m'en dire de plus ?<end>
 
 =>q55_original
 Not much else, I'm afraid, other than the fact that the last time our recon units scouted the buildings they had been infested with coil spiders. It was thirty years ago, but I doubt much has changed.<end>
 
 =>q55
-Pas grand-chose d'autre, j'en ai bien peur, sauf que la dernière fois que nos unités de reconnaissance ont repéré les bâtiments qu'elles avaient été infestées d'araignées à bobines. C'était il y a trente ans, mais je doute que beaucoup ait changé.<end>
+Pas grand-chose d'autre, hélas, sinon que la dernière fois que nos unités de reconnaissance ont inspecté les bâtiments, ils étaient infestés d'araignées à bobines. C'était il y a trente ans, mais je doute que grand-chose ait changé.<end>
 
 =>a56_original
 Tell me about Arke Power Station.<end>
 
 =>a56
-Parlez-moi de la centrale Arke.<end>
+Parlez-moi d'Arke Power Station.<end>
 
 =>q57_original
 It lies to the north of Warehouse Block 2. It is a gas turbine power station that used to power the whole Hollow Earth complex. As you saw on your way here, the complex is dark.<end>
 
 =>q57
-Il se trouve au nord du bloc d'entrepôt 2. C'est une centrale à turbine à gaz qui alimentait l'ensemble du complexe Hollow Earth. Comme vous l'avez vu ici, le complexe est sombre.<end>
+Elle se trouve au nord de Warehouse Block 2. C'est une centrale à turbines à gaz qui alimentait tout le complexe Hollow Earth. Comme vous l'avez vu en venant, le complexe est plongé dans le noir.<end>
 
 =>a58_original
 How do you get your power?<end>
 
 =>a58
-Comment avez-vous votre pouvoir ?<end>
+D'où tirez-vous votre énergie ?<end>
 
 =>q59_original
 We have our own generators. <end>
@@ -376,43 +376,43 @@ Nous avons nos propres générateurs. <end>
 Has anyone ever been there?<end>
 
 =>a60
-Quelqu'un y est déjà allé ?<end>
+Quelqu'un y est-il déjà allé ?<end>
 
 =>q61_original
 Long ago, before I was even born. Eidein's Library contained several rassophore reports regarding their recon of the area. As far as I remember, the plant was heavily defended by automated security systems at the time, preventing further advance. Our forces managed to retreat without casualties, luckily, but no further attempts were made at penetrating the defenses and entering the building.<end>
 
 =>q61
-Il y a longtemps, avant même ma naissance. La bibliothèque de Eidein contenait plusieurs rapports de rassophore concernant leur reconfiguration de la région. Pour autant que je me souvienne, l'usine a été fortement défendue par des systèmes de sécurité automatisés à l'époque, ce qui a empêché d'avancer. Nos forces ont réussi à se retirer sans pertes, mais aucune autre tentative n'a été faite pour pénétrer les défenses et entrer dans le bâtiment.<end>
+Il y a longtemps, avant même ma naissance. La bibliothèque d'Eidein contenait plusieurs rapports de rassophores sur leur reconnaissance de la zone. Pour autant que je me souvienne, la centrale était alors lourdement défendue par des systèmes de sécurité automatisés, ce qui a empêché d'aller plus loin. Nos forces ont pu se replier sans pertes, heureusement, mais on n'a plus tenté de percer les défenses ni d'entrer dans le bâtiment.<end>
 
 =>a62_original
 Why not? It seems like an important location to have under one's control.<end>
 
 =>a62
-Pourquoi pas ? Il semble être un endroit important pour avoir sous son contrôle.<end>
+Pourquoi ? Ça semble un site important à tenir.<end>
 
 =>q63_original
 We were able to provide power to all critical locations in Deep Caverns even without the power station. Most of our generators are situated in the Nucleus. They are safest there, and that is also where the power is most necessary.<end>
 
 =>q63
-Nous avons été en mesure de fournir de l'énergie à tous les endroits critiques dans Deep Caverns même sans la centrale. La plupart de nos générateurs sont situés dans le Nucleus. Ils sont plus sûrs là-bas, et c'est aussi là que le pouvoir est le plus nécessaire.<end>
+Nous pouvions alimenter tous les sites critiques de Deep Caverns même sans la centrale. La plupart de nos générateurs sont au Nucleus. C'est là qu'ils sont le plus en sécurité, et c'est aussi là que l'énergie est le plus nécessaire.<end>
 
 =>a64_original
 I'd like to ask you about some other location.<end>
 
 =>a64
-J'aimerais vous demander un autre endroit.<end>
+J'aimerais vous interroger sur un autre lieu.<end>
 
 =>a65_original
 Are there any more exits out of Deep Caverns other than Cytosine Outpost elevator?<end>
 
 =>a65
-Y a-t-il d'autres sorties de Deep Caverns autres que l'ascenseur Cytosine Outpost ?<end>
+Y a-t-il d'autres sorties de Deep Caverns que l'ascenseur de Cytosine Outpost ?<end>
 
 =>q66_original
 There are two more elevators, but both are out of order.<end>
 
 =>q66
-Il y a deux autres ascenseurs, mais les deux sont hors service.<end>
+Il y a deux autres ascenseurs, mais tous deux sont hors service.<end>
 
 =>a67_original
 Can you tell me where to find them?<end>
@@ -424,31 +424,31 @@ Pouvez-vous me dire où les trouver ?<end>
 ::He nods.:: One is to the north of here, just past the vehicle park; you passed through the park on your way here. The other is south-west from Caerus. The first one collapsed decades ago, while the second remains mostly intact.<end>
 
 =>q68
-::Il acquiesce.:: L'un est au nord d'ici, juste après le parc de véhicules; vous avez traversé le parc sur votre chemin ici. L'autre est au sud-ouest de Caerus. La première s'est effondrée il y a des décennies, tandis que la seconde reste pour la plupart intacte.<end>
+::Il hoche la tête.:: L'un est au nord d'ici, juste après le parc de véhicules ; vous l'avez traversé en venant. L'autre est au sud-ouest de Caerus. Le premier s'est effondré il y a des décennies ; le second est resté à peu près intact.<end>
 
 =>a69_original
 Have you ever used it?<end>
 
 =>a69
-Tu l'as déjà utilisé ?<end>
+L'avez-vous déjà utilisé ?<end>
 
 =>q70_original
 No. We never had the need to, although if I'm not mistaken, many decades ago it was attached to our power grid. As far as I am aware, it leads to Lower Underrail, but I cannot confirm it.<end>
 
 =>q70
-C'est pas vrai. Nous n'avons jamais eu le besoin, bien que si je ne me trompe pas, il y a plusieurs décennies il était attaché à notre réseau électrique. Pour autant que je sache, cela mène à Lower Underrail, mais je ne peux pas le confirmer.<end>
+Non. Nous n'en avons jamais eu besoin, bien que, si je ne me trompe, il ait été raccordé à notre réseau électrique il y a plusieurs décennies. Pour autant que je sache, il mène à Lower Underrail, mais je ne peux pas le confirmer.<end>
 
 =>a71_original
 That's good enough for me. I'd like to ask you something else now.<end>
 
 =>a71
-Ça me suffit. J'aimerais vous demander autre chose.<end>
+Ça me suffit. J'aimerais vous poser une autre question.<end>
 
 =>a72_original
 I'd like to ask you something else.<end>
 
 =>a72
-J'aimerais vous demander autre chose.<end>
+J'aimerais vous poser une autre question.<end>
 
 =>q73_original
 I'm listening.<end>
@@ -460,31 +460,31 @@ J'écoute.<end>
 Can you tell me more about Tchort's minions?<end>
 
 =>a74
-Pouvez-vous me dire plus sur les minions de Tchort ?<end>
+Pouvez-vous m'en dire plus sur les serviteurs de Tchort ?<end>
 
 =>q75_original
 Certainly. Tchort's minions are the physical manifestation of Tchort's will. To explain: As you already know, Tchort is capable of developing traits most appropriate for the environment it is in, the ones that are most likely to secure its survival. Some of these traits are only expressed once the physical form underwent a complete regeneration cycle; others, however, related to Tchort's mental capacity and will are always present.<end>
 
 =>q75
-Certainement. Les minions de Tchort sont la manifestation physique de la volonté de Tchort. Pour expliquer : Comme vous le savez déjà, Tchort est capable de développer les traits les plus appropriés pour l'environnement dans lequel il se trouve, ceux qui sont les plus susceptibles d'assurer sa survie. Certains de ces traits ne sont exprimés qu'une fois que la forme physique a subi un cycle complet de régénération; d'autres, cependant, sont liés à la capacité mentale de Tchort et seront toujours présents.<end>
+Certainement. Les serviteurs de Tchort sont la manifestation physique de sa volonté. Pour expliquer : comme vous le savez déjà, Tchort est capable de développer les traits les mieux adaptés à son environnement, ceux qui ont le plus de chances d'assurer sa survie. Certains de ces traits ne s'expriment qu'une fois que la forme physique a achevé un cycle complet de régénération ; d'autres, liés à la capacité mentale et à la volonté de Tchort, sont toujours présents.<end>
 
 =>q76_original
 We aren't yet sure when Tchort developed the ability to manipulate organic matter and mold it into living creatures - it could've been a recent trend, for all we know - and we have only scratched the surface of the exact mechanisms whereby the process is being accomplished. What we do know is that it is an extremely effective device for Tchort's preservation, making it yet another proof of its magnificence.<end>
 
 =>q76
-Nous ne sommes pas encore sûrs quand Tchort a développé la capacité de manipuler la matière organique et de la mouler en créatures vivantes - cela aurait pu être une tendance récente, pour tout ce que nous savons - et nous avons seulement gratté la surface des mécanismes exacts où le processus est accompli. Ce que nous savons, c'est qu'il s'agit d'un dispositif extrêmement efficace pour la préservation de Tchort, ce qui en fait une nouvelle preuve de sa magnificence.<end>
+Nous ne savons pas encore quand Tchort a développé la capacité de manipuler la matière organique et de la façonner en créatures vivantes - cela pourrait n'être, pour autant que nous sachions, qu'une tendance récente - et nous n'avons fait qu'effleurer les mécanismes exacts de ce processus. Ce que nous savons, c'est que c'est un dispositif extrêmement efficace pour la préservation de Tchort, et donc une preuve de plus de sa magnificence.<end>
 
 =>a77_original
 Where does Tchort get the organic matter to produce such a number of minions?<end>
 
 =>a77
-Où Tchort obtient la matière organique pour produire un tel nombre de minions?<end>
+Où Tchort prend-il la matière organique pour produire autant de serviteurs ?<end>
 
 =>q78_original
 It is easily obtainable from local sources: wildlife, fungus and even - but rarely due to their scarcity - plants. As I said, we haven't yet investigated these mechanisms completely, but just imagine the applications if we could-- ::He stops abruptly.:: I won't proceed. There are more important matters to attend to right now, $(context.player.Name). Let's leave these dreams for after we've gotten ourselves safely out of this mess.<end>
 
 =>q78
-Il est facilement accessible auprès de sources locales : faune, champignon et même - mais rarement en raison de leur rareté - plantes. Comme je l'ai dit, nous n'avons pas encore enquêté sur ces mécanismes, mais imaginons les applications si nous pouvions... ::Il s'arrête brusquement.:: Je ne vais pas continuer. Il y a des questions plus importantes à traiter maintenant, $(context.player.Name). Laissons ces rêves après qu'on soit sortis de ce bordel.<end>
+Elle est facile à obtenir sur place : faune, champignons, et même - mais rarement, vu leur rareté - des plantes. Comme je l'ai dit, nous n'avons pas encore élucidé ces mécanismes, mais imaginez les applications si nous pouvions... ::Il s'interrompt net.:: Je n'irai pas plus loin. Il y a plus urgent à traiter, $(context.player.Name). Gardons ces rêves pour quand nous serons sortis de cette épreuve.<end>
 
 =>a79_original
 I had other questions.<end>
@@ -496,13 +496,13 @@ J'avais d'autres questions.<end>
 ::He nods.::<end>
 
 =>q80
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>a81_original
 Do you have any tasks for me, Your Excellency?<end>
 
 =>a81
-Avez-vous des tâches pour moi, Votre Excellence ?<end>
+Avez-vous une mission pour moi, Votre Excellence ?<end>
 
 =>q82_original
 You have already helped us enough. <end>
@@ -514,13 +514,13 @@ Vous nous avez déjà assez aidés. <end>
 I had considered sending you on a recon mission, but the rassophores you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
 
 =>q83
-J'avais envisagé de vous envoyer en mission de reconnaissance, mais les rassophores que vous avez sauvés m'ont donné assez d'informations sur le positionnement Faceless, le personnel et l'équipement disponible.<end>
+J'avais envisagé de vous envoyer en reconnaissance, mais les rassophores que vous avez sauvés m'ont donné assez d'informations sur le dispositif des Faceless, leurs effectifs et leur matériel.<end>
 
 =>q84_original
 Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if the current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.<end>
 
 =>q84
-Excellent travail jusqu'ici, $(context.player.Name). Au moins, nous avons maintenant une meilleure idée de ce contre quoi nous sommes confrontés, même si la situation actuelle ne nous laisse pas beaucoup de place pour agir. L'important est qu'ils sont en dehors de Hollow Earth, du moins pour l'instant.<end>
+Excellent travail jusqu'ici, $(context.player.Name). Nous avons désormais une meilleure idée de ce à quoi nous avons affaire, même si la situation actuelle nous laisse peu de marge de manœuvre. L'essentiel, c'est qu'ils sont hors de Hollow Earth, pour l'instant du moins.<end>
 
 =>q85_original
 <end>
@@ -532,109 +532,109 @@ Excellent travail jusqu'ici, $(context.player.Name). Au moins, nous avons mainte
 I had considered sending you on a recon mission, but the rassophore you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
 
 =>q86
-J'avais envisagé de vous envoyer en mission de reconnaissance, mais le rassophore que vous avez sauvé m'a donné assez d'informations sur le positionnement Faceless, le personnel et l'équipement disponible.<end>
+J'avais envisagé de vous envoyer en reconnaissance, mais le rassophore que vous avez sauvé m'a donné assez d'informations sur le dispositif des Faceless, leurs effectifs et leur matériel.<end>
 
 =>q87_original
 What are you good at doing?<end>
 
 =>q87
-Qu'est-ce que tu fais ?<end>
+En quoi excellez-vous ?<end>
 
 =>a88_original
 I am a skilled individual. I can deal with a lot of difficult situations.<end>
 
 =>a88
-Je suis une personne compétente. Je peux gérer beaucoup de situations difficiles.<end>
+Je suis quelqu'un de compétent. Je peux affronter bien des situations difficiles.<end>
 
 =>q89_original
 My rassophores are demoralized, tired, and some even traumatized by the recent events. On the other hand, you seem rather enthusiastic and capable. I might just have the perfect assignment for you.<end>
 
 =>q89
-Mes rassophores sont démoralisés, fatigués et certains même traumatisés par les événements récents. D'autre part, vous semblez plutôt enthousiaste et capable. J'ai peut-être la mission parfaite pour toi.<end>
+Mes rassophores sont démoralisés, fatigués, et certains même traumatisés par les événements récents. Vous, en revanche, paraissez plutôt enthousiaste et capable. J'aurais peut-être la mission qu'il vous faut.<end>
 
 =>q90_original
 The situation is, as you are perfectly aware, very grim. We need every man, woman, turret, rifle and bullet if we're going to overcome what fell upon us. But, even all that won't help us unless we have the right information. Knowing the whereabouts of your enemy and planning for his next move can turn the tide of any conflict. So, this is what I need you to do.<end>
 
 =>q90
-La situation est, comme vous le savez parfaitement, très sombre. Nous avons besoin de chaque homme, femme, tourelle, fusil et balle si nous voulons vaincre ce qui est tombé sur nous. Mais, même tout ce qui ne nous aidera que si nous avons les bonnes informations. Connaître l'endroit où se trouve votre ennemi et planifier son prochain mouvement peut renverser la marée de tout conflit. C'est ce que tu dois faire.<end>
+La situation, comme vous le savez parfaitement, est très sombre. Il nous faut chaque homme, chaque femme, chaque tourelle, chaque fusil et chaque balle si nous voulons surmonter ce qui s'est abattu sur nous. Mais tout cela ne servira à rien sans les bons renseignements. Connaître la position de l'ennemi et anticiper son prochain mouvement peut renverser n'importe quel conflit. Voici donc ce que je vous demande.<end>
 
 =>q91_original
 I need you to move out of Cytosine Outpost as soon as you are able and perform reconnaissance of the Hollow Earth complex as well as the areas east of it; that is the direction where all major Faceless attacks have come from and I would presume that they have set up a base of operations from which they are launching these attacks.<end>
 
 =>q91
-J'ai besoin que vous partiez de l'avant-poste Cytosine dès que vous serez en mesure d'effectuer la reconnaissance du complexe Hollow Earth ainsi que des zones à l'est de celui-ci; c'est la direction d'où toutes les attaques majeures Faceless sont venues et je suppose qu'elles ont mis en place une base d'opérations à partir de laquelle elles lancent ces attaques.<end>
+Je veux que vous quittiez Cytosine Outpost dès que vous le pourrez et que vous effectuiez une reconnaissance du complexe Hollow Earth, ainsi que des zones à l'est ; c'est de ce côté qu'ont été lancées toutes les attaques Faceless d'importance, et je présume qu'ils y ont établi une base d'opérations.<end>
 
 =>q92_original
 This base - or bases - should be your primary reconnaissance targets if possible. The Battle of the Nucleus, despite happening nearly sixty years ago, taught us that the Faceless are capable of performing brutal cybernetic augmentation procedures on captives in order to turn them into corrupted, mindless war machines. I doubt that doctrine has changed since. If you encounter any captured rassophores - do try and save them from such fate.<end>
 
 =>q92
-Cette base - ou bases - devrait être vos principales cibles de reconnaissance si possible. La bataille du Nucleus, malgré ce qui s'est passé il y a près de soixante ans, nous a appris que le Faceless est capable d'effectuer des procédures d'augmentation cybernétique brutales sur les captifs afin de les transformer en machines de guerre corrompues et sans esprit. Je doute que la doctrine ait changé depuis. Si vous rencontrez des rassophores capturés - essayez de les sauver de ce sort.<end>
+Cette base - ou ces bases - devrait être votre cible principale de reconnaissance, si possible. La bataille du Nucleus, bien qu'elle date de près de soixante ans, nous a appris que les Faceless sont capables de soumettre des captifs à d'atroces procédures d'augmentation cybernétique, pour en faire des machines de guerre corrompues et sans esprit. Je doute que cette doctrine ait changé. Si vous croisez des rassophores capturés, tâchez de les sauver d'un tel sort.<end>
 
 =>q93_original
 I am asking a lot of you and know that it is a tremendously difficult task, but our options are limited. <end>
 
 =>q93
-Je vous demande beaucoup et je sais que c'est une tâche extrêmement difficile, mais nos options sont limitées. <end>
+Je vous en demande beaucoup, et je sais que la tâche est immense, mais nos options sont limitées. <end>
 
 =>a94_original
 I have already been to one of these bases.<end>
 
 =>a94
-Je suis déjà allé dans une de ces bases.<end>
+Je suis déjà allé$(#/e) dans l'une de ces bases.<end>
 
 =>q95_original
 You have? Excellent work, $(context.player.Name). I am interested in its location, defenses, manpower. Everything you can tell me.<end>
 
 =>q95
-Vraiment ? Excellent travail, $(context.player.Name). Je suis intéressé par son emplacement, ses défenses, ses effectifs. Tout ce que tu peux me dire.<end>
+Vraiment ? Excellent travail, $(context.player.Name). L'emplacement, les défenses, les effectifs m'intéressent. Tout ce que vous pourrez me dire.<end>
 
 =>a96_original
 It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area.<end>
 
 =>a96
-C'est la seule base que j'ai pu trouver jusqu'ici. Il se trouve à l'extrême est, derrière le bloc d'entrepôt et est fortement défendu par les tourelles et un grand nombre de troupes. Basé sur ce que j'ai vu, et qui correspond à ce que vous soupçonniez, c'est leur base principale d'opérations dans la région.<end>
+C'est la seule base que j'ai pu trouver jusqu'ici. Elle se trouve tout à l'est, derrière le bloc d'entrepôts, et elle est lourdement défendue par des tourelles et de nombreuses troupes. D'après ce que j'ai vu, et ça confirme vos soupçons, c'est leur base d'opérations principale dans le secteur.<end>
 
 =>q97_original
 Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.<end>
 
 =>q97
-Excellent travail jusqu'ici, $(context.player.Name). Au moins, nous avons maintenant une meilleure idée de ce contre quoi nous sommes confrontés, même si la situation actuelle ne nous laisse pas beaucoup de place pour agir. L'important est qu'ils sont en dehors de Hollow Earth, du moins pour l'instant.<end>
+Excellent travail jusqu'ici, $(context.player.Name). Nous avons désormais une meilleure idée de ce à quoi nous avons affaire, même si la situation actuelle nous laisse peu de marge de manœuvre. L'essentiel, c'est qu'ils sont hors de Hollow Earth, pour l'instant du moins.<end>
 
 =>a98_original
 There is one more thing I have to report.<end>
 
 =>a98
-Il y a encore une chose que je dois signaler.<end>
+Il y a encore une chose à signaler.<end>
 
 =>q99_original
 Yes?<end>
 
 =>q99
-Oui?<end>
+Oui ?<end>
 
 =>a100_original
 I failed to find any captured rassophores.<end>
 
 =>a100
-J'ai échoué à trouver des rassophores capturés.<end>
+Je n'ai trouvé aucun rassophore capturé.<end>
 
 =>q101_original
 You did excellent in any case. It would've been a great boost to morale had you found, and even possibly rescued them, but that is how things are. Well done, $(context.player.Name).<end>
 
 =>q101
-Tu t'es bien débrouillée. Ça aurait été un grand coup de pouce au moral si tu avais trouvé, et même si tu pouvais les sauver, mais c'est comme ça. Bien joué, $(context.player.Name).<end>
+Vous avez de toute façon fait un excellent travail. Ça aurait grandement relevé le moral si vous les aviez trouvés, et peut-être même délivrés, mais les choses sont ainsi. Bien joué, $(context.player.Name).<end>
 
 =>a102_original
 I have found a few captured rassophores held inside the base, but I haven't found a way to help them out.<end>
 
 =>a102
-J'ai trouvé quelques rassophores capturés à l'intérieur de la base, mais je n'ai pas trouvé un moyen de les aider.<end>
+J'ai trouvé quelques rassophores captifs dans la base, mais je n'ai pas trouvé le moyen de les extraire.<end>
 
 =>q103_original
 You did? Excellent. In that case, I have another task for you - find a way to get those rassophores out of the clutches of the corrupted. Every man counts, but if you do manage to rescue the captives, a boost in morale will increase our effectiveness even more.<end>
 
 =>q103
-Vraiment ? Parfait. Dans ce cas, j'ai une autre tâche pour vous - trouver un moyen de sortir ces rassophores des embrayages des corrompus. Chaque homme compte, mais si vous réussissez à sauver les captifs, un renforcement du moral augmentera notre efficacité encore plus.<end>
+Vraiment ? Parfait. Dans ce cas, j'ai une autre tâche pour vous : trouvez un moyen de tirer ces rassophores des griffes des corrompus. Chaque homme compte, mais si vous parvenez à délivrer les captifs, le regain de moral renforcera encore notre efficacité.<end>
 
 =>a104_original
 Yes, Your Excellency.<end>
@@ -652,61 +652,61 @@ Compris.<end>
 I found a few captured rassophores, but sadly I wasn't able to get them out alive.<end>
 
 =>a106
-J'ai trouvé quelques rassophores capturés, mais malheureusement je n'ai pas pu les faire sortir vivants.<end>
+J'ai trouvé quelques rassophores captifs, mais je n'ai malheureusement pas pu les extraire vivants.<end>
 
 =>q107_original
 Magnificent Tchort, that is sad news. It would've been a great boost to morale had you managed to rescued them, but that is how things are. Well done for trying, $(context.player.Name), but what you just told me cannot leave this room. Am I clear?<end>
 
 =>q107
-Magnifique Tchort, voilà une triste nouvelle. Ça aurait été un grand coup de pouce au moral si vous aviez réussi à les sauver, mais c'est comme ça. Bien joué pour essayer, $(context.player.Name), mais ce que vous venez de me dire ne peut pas quitter cette pièce. C'est clair ?<end>
+Magnifique Tchort, voilà une triste nouvelle. Ça aurait grandement relevé le moral si vous aviez réussi à les sauver, mais les choses sont ainsi. Bien joué d'avoir essayé, $(context.player.Name), mais ce que vous venez de me dire ne doit pas quitter cette pièce. Est-ce clair ?<end>
 
 =>q108_original
 Good work in any case, $(context.player.Name).<end>
 
 =>q108
-Bon travail en tout cas, $(context.player.Name).<end>
+Bon travail, quoi qu'il en soit, $(context.player.Name).<end>
 
 =>a109_original
 It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area. Ehm... it was until I took care of it.<end>
 
 =>a109
-C'est la seule base que j'ai pu trouver jusqu'ici. Il se trouve à l'extrême est, derrière le bloc d'entrepôt et est fortement défendu par les tourelles et un grand nombre de troupes. Basé sur ce que j'ai vu, et qui correspond à ce que vous soupçonniez, c'est leur base principale d'opérations dans la région. C'était jusqu'à ce que je m'en occupe.<end>
+C'est la seule base que j'ai pu trouver jusqu'ici. Elle se trouve tout à l'est, derrière le bloc d'entrepôts, et elle est lourdement défendue par des tourelles et de nombreuses troupes. D'après ce que j'ai vu, et ça confirme vos soupçons, c'est leur base d'opérations principale dans le secteur. Euh... elle l'était, jusqu'à ce que je m'en occupe.<end>
 
 =>q110_original
 Can you... repeat that last part? You "took care of it"?<end>
 
 =>q110
-Pouvez-vous... répéter cette dernière partie ? Tu t'en es occupé ?<end>
+Pouvez-vous... répéter cette dernière partie ? Vous vous en êtes « occupé$(#/e) » ?<end>
 
 =>a111_original
 Yes. I eliminated the base commander and all his troops. All of them.<end>
 
 =>a111
-Oui. J'ai éliminé le commandant de la base et toutes ses troupes. Tous.<end>
+Oui. J'ai éliminé le commandant de la base et toutes ses troupes. Toutes.<end>
 
 =>q112_original
 Your words sound almost unreal. Magnificent Tchort! How can one $(#man/woman) be such a force of destruction?<end>
 
 =>q112
-Vos mots semblent presque irréels. Magnifique Tchort ! Comment un $(#frère/sœur) peut-il être une telle force de destruction ?<end>
+Vos propos semblent presque irréels. Magnifique Tchort ! Comment $(#un homme/une femme) peut-$(#il/elle) être une telle force de destruction ?<end>
 
 =>a113_original
 It was simply a matter of quality over quantity, Your Excellency.<end>
 
 =>a113
-C'était simplement une question de qualité sur la quantité, Votre Excellence.<end>
+C'était simplement une question de qualité plutôt que de quantité, Votre Excellence.<end>
 
 =>q114_original
 I am nothing short of amazed by your actions. You have tipped the odds in our favor completely. While we are not out of the depths yet, you have demonstrated that the Faceless are not as superior as we had originally thought. Excellent work!<end>
 
 =>q114
-Je suis tout simplement étonné par vos actions. Tu as tout donné en notre faveur. Bien que nous ne soyons pas encore hors des profondeurs, vous avez démontré que les Faceless ne sont pas aussi supérieurs que nous l'avions pensé à l'origine. Excellent travail !<end>
+Je suis tout simplement stupéfait par vos actes. Vous avez fait basculer les chances entièrement de notre côté. Nous ne sommes pas encore sortis des profondeurs, mais vous avez montré que les Faceless ne sont pas aussi supérieurs que nous le pensions. Excellent travail !<end>
 
 =>a115_original
 All it took was some skill, some luck, and most importantly - a lot of guts.<end>
 
 =>a115
-Tout ce qu'il fallait, c'était de la compétence, de la chance, et surtout, beaucoup de tripes.<end>
+Il a suffi d'un peu de talent, d'un peu de chance, et surtout - de beaucoup de cran.<end>
 
 =>a116_original
 You haven't seen anything yet.<end>
@@ -718,25 +718,25 @@ Vous n'avez encore rien vu.<end>
 This is all I'm going to say: I am Invictus!<end>
 
 =>a117
-C'est tout ce que je vais dire : je suis Invictus !<end>
+Je n'ajouterai qu'une chose : je suis Invictus !<end>
 
 =>a118_original
 I just murdered everyone I could find. It was easy - like skinning a cave hopper.<end>
 
 =>a118
-Je viens de tuer tous ceux que je pouvais trouver. C'était facile - comme la peau d'une sauteur de caverne.<end>
+Je viens de tuer tous ceux que je trouvais. C'était facile - comme d'écorcher un sauteur.<end>
 
 =>a119_original
 I'm on the job.<end>
 
 =>a119
-Je travaille.<end>
+Je m'en charge.<end>
 
 =>q120_original
 Good luck and Tchort guide you.<end>
 
 =>q120
-Bonne chance et Tchort vous guident.<end>
+Bonne chance, et Tchort vous guide.<end>
 
 =>a121_original
 I understand everything, Your Excellency.<end>
@@ -760,37 +760,37 @@ Tout.<end>
 A bold statement, $(context.player.Name). <end>
 
 =>q124
-Une mention en caractères gras, $(context.player.Name). <end>
+Voilà qui est audacieux, $(context.player.Name). <end>
 
 =>a125_original
 Cooking and killing! That's the best combo!<end>
 
 =>a125
-Cuisiner et tuer ! C'est le meilleur combo !<end>
+Cuisiner et tuer ! Le meilleur combo !<end>
 
 =>q126_original
 Interesting. Rassophore Jeremy, our best cook was killed recently, but let's ignore that for a moment; I have something else in mind. <end>
 
 =>q126
-Intéressant. Rassophore Jeremy, notre meilleur cuisinier a été tué récemment, mais ignorons cela pendant un moment; j'ai autre chose en tête. <end>
+Intéressant. Rassophore Jeremy, notre meilleur cuisinier, a été tué récemment, mais passons ; j'ai autre chose en tête. <end>
 
 =>a127_original
 About those captives...<end>
 
 =>a127
-A propos de ces prisonniers...<end>
+Au sujet des captifs...<end>
 
 =>q128_original
 Yes?<end>
 
 =>q128
-Oui?<end>
+Oui ?<end>
 
 =>a129_original
 I'm afraid I wasn't able to rescue the rassophores. They are all dead.<end>
 
 =>a129
-Je n'ai pas pu sauver les rassophores. Ils sont tous morts.<end>
+Hélas, je n'ai pas pu sauver les rassophores. Ils sont tous morts.<end>
 
 =>a130_original
 Actually, nothing.<end>
@@ -808,13 +808,13 @@ En fait, rien.<end>
 I'm here for a reconnaissance report.<end>
 
 =>a132
-Je suis là pour un rapport de reconnaissance.<end>
+Je viens faire mon rapport de reconnaissance.<end>
 
 =>q133_original
 There is no need for that now. I have already been told everything I need to know about the Faceless.<end>
 
 =>q133
-Ce n'est pas nécessaire maintenant. On m'a déjà dit tout ce que je dois savoir sur le Faceless.<end>
+Ce n'est plus nécessaire. On m'a déjà dit tout ce que je dois savoir sur les Faceless.<end>
 
 =>q134_original
 I'm listening.<end>
@@ -826,39 +826,39 @@ J'écoute.<end>
 I have been to the Faceless base.<end>
 
 =>a135
-Je suis allé à la base Faceless.<end>
+Je suis allé$(#/e) à la base Faceless.<end>
 
 =>a136_original
 I have scouted the areas outside of Hollow Earth.<end>
 
 =>a136
-J'ai repéré les zones en dehors de Hollow Earth.<end>
+J'ai reconnu les zones hors de Hollow Earth.<end>
 
 =>q137_original
 And?<end>
 
 =>q137
-Et alors ?<end>
+Et ?<end>
 
 =>a138_original
 The Faceless have numerous heavily-armed patrols just outside of the edge of the complex.<end>
 
 =>a138
-Les Faceless ont de nombreuses patrouilles lourdement armées juste en dehors du bord du complexe.<end>
+Les Faceless ont de nombreuses patrouilles lourdement armées, juste aux abords du complexe.<end>
 
 =>q139_original
 Just as I suspected, but it doesn't take a good strategist to figure that out. Tchort is what is keeping them away, and I only hope they don't discover a way to shield themselves from its influence. 
 Have you managed to reach any of their bases yet? That's what interests me the most.<end>
 
 =>q139
-Comme je le soupçonnais, mais il ne faut pas un bon stratège pour comprendre ça. Tchort est ce qui les éloigne, et j'espère seulement qu'ils ne découvrent pas un moyen de se protéger de son influence.
-Avez-vous réussi à atteindre leurs bases ? C'est ce qui m'intéresse le plus.<end>
+Comme je m'en doutais, mais il n'est pas besoin d'être un fin stratège pour le voir. C'est Tchort qui les tient à distance, et j'espère seulement qu'ils ne trouveront pas le moyen de se soustraire à son influence.
+Avez-vous réussi à atteindre l'une de leurs bases ? C'est ce qui m'intéresse le plus.<end>
 
 =>a140_original
 Indeed, I was able to get close enough to one of their bases.<end>
 
 =>a140
-En effet, j'ai pu me rapprocher assez de l'une de leurs bases.<end>
+Oui, j'ai pu m'approcher assez près de l'une d'elles.<end>
 
 =>a141_original
 Not yet, but I am working on it.<end>
@@ -870,7 +870,7 @@ Pas encore, mais j'y travaille.<end>
 Good work so far. Report back when you have more information.<end>
 
 =>q142
-Bon travail jusqu'ici. Revenez lorsque vous avez plus d'informations.<end>
+Bon travail jusqu'ici. Revenez me voir quand vous aurez davantage.<end>
 
 =>a143_original
 I have nothing to report.<end>
@@ -882,19 +882,19 @@ Je n'ai rien à signaler.<end>
 Is this a joke, $(context.player.Name)? Return to me only if you have something useful to say. Am I clear?<end>
 
 =>q144
-C'est une blague, $(context.player.Name) ? Revenez à moi seulement si vous avez quelque chose d'utile à dire. C'est clair ?<end>
+Est-ce une plaisanterie, $(context.player.Name) ? Ne revenez me voir que si vous avez quelque chose d'utile à dire. Est-ce clair ?<end>
 
 =>a145_original
 I've been experiencing this aching sensation in my head ever since I came to this place. Why is that so?<end>
 
 =>a145
-J'ai vécu cette sensation douloureuse dans ma tête depuis mon arrivée ici. Pourquoi ?<end>
+J'ai cette douleur dans la tête depuis que je suis arrivé$(#/e) ici. Pourquoi ?<end>
 
 =>q146_original
 I see. I presume you haven't been prepared for your descent, so I understand why you've been feeling these sensations. It takes some time for Tchort to probe the minds of those who wander into its domain, and the process might feel uncomfortable for the untrained Tchortists such as yourself. However, for *others* - those whom Tchort perceives as threats, or as simply unwanted - for those the effects would be much more severe.<end>
 
 =>q146
-Je vois. Je suppose que vous n'avez pas été préparé pour votre descente, donc je comprends pourquoi vous avez ressenti ces sensations. Il faut du temps pour Tchort pour sonder les esprits de ceux qui errent dans son domaine, et le processus pourrait se sentir mal à l'aise pour les Tchortistes non formés comme vous. Cependant, pour *autres* - ceux que Tchort perçoit comme des menaces, ou tout simplement indésirables - pour ceux-là les effets seraient beaucoup plus graves.<end>
+Je vois. Je présume que l'on ne vous a pas préparé$(#/e) à la descente, aussi je comprends ces sensations. Tchort met un certain temps à sonder l'esprit de ceux qui pénètrent son domaine, et le processus peut être inconfortable pour un Tchortist peu entraîné, comme vous. En revanche, pour *les autres* - ceux que Tchort perçoit comme une menace, ou simplement comme indésirables - pour ceux-là, les effets seraient bien plus graves.<end>
 
 =>a147_original
 Can you tell me more about Tchort?<end>
@@ -906,19 +906,19 @@ Pouvez-vous m'en dire plus sur Tchort ?<end>
 Tchort is formless, you know that, but not mindless. It can exert its mental influence over this whole area of Deep Caverns - Cytosine Outpost, whole Hollow Earth and of course Nucleus - and does so by controlling its minions, who follow its will and, in this case, helped us fight the Faceless; you have probably encountered some already, they are everywhere. It is the same ability it uses to speak to Eidein, who is most attuned to Tchort's mind, and understands it the best.<end>
 
 =>q148
-Tchort est sans forme, vous le savez, mais pas sans esprit. Il peut exercer son influence mentale sur toute cette zone de Deep Caverns - Cytosine Outpost, tout Hollow Earth et bien sûr Nucleus - et le fait en contrôlant ses minions, qui suivent sa volonté et, dans ce cas, nous a aidés à combattre le Faceless ; vous avez probablement déjà rencontré certains, ils sont partout. Il est la même capacité qu'il utilise pour parler à Eidein, qui est le plus adapté à l'esprit de Tchort, et le comprend le mieux.<end>
+Tchort est sans forme, vous le savez, mais il n'est pas sans esprit. Il peut exercer son influence mentale sur tout ce secteur de Deep Caverns - Cytosine Outpost, Hollow Earth tout entier, et bien sûr le Nucleus - et il le fait en contrôlant ses serviteurs, qui suivent sa volonté et, en l'occurrence, nous ont aidés à combattre les Faceless ; vous en avez probablement déjà rencontré, ils sont partout. C'est la même faculté dont il se sert pour parler à Eidein, le plus en phase avec l'esprit de Tchort, et celui qui le comprend le mieux.<end>
 
 =>q149_original
 The sole reason why Eidein is the *only* one allowed to enter the Nucleus is because Tchort simply wouldn't let anyone else so close to itself; it is its will, and we must abide. <end>
 
 =>q149
-La seule raison pour laquelle Eidein est le *seulement* autorisé à entrer dans le Nucleus est parce que Tchort simplement ne laisserait personne si proche de lui ; c'est sa volonté, et nous devons rester. <end>
+La seule raison pour laquelle Eidein est le *seul* autorisé à entrer dans le Nucleus, c'est que Tchort ne laisserait simplement personne d'autre s'approcher autant ; c'est sa volonté, et nous devons nous y plier. <end>
 
 =>q150_original
 All this shows the magnificence of Tchort: Even in its most vulnerable phase, during its regeneration, it has a way to defend itself, to influence all that is around it. There were traitors in the past who spoke of Tchort as if it is a mere fabrication, and told that a trip to Deep Caverns would only prove their claims. Ironically for them, it proves exactly the opposite - it proves Tchort's magnificence.<end>
 
 =>q150
-Tout cela montre la magnificence de Tchort : Même dans sa phase la plus vulnérable, pendant sa régénération, il a un moyen de se défendre, d'influencer tout ce qui l'entoure. Il y avait des traîtres dans le passé qui parlaient de Tchort comme s'il s'agissait d'une simple fabrication, et disaient qu'un voyage à Deep Caverns ne ferait que prouver leurs revendications. Ironiquement pour eux, il prouve exactement le contraire - il prouve la magnificence de Tchort.<end>
+Tout cela montre la magnificence de Tchort : même dans sa phase la plus vulnérable, pendant sa régénération, il a de quoi se défendre, d'influencer tout ce qui l'entoure. Il y a eu des traîtres, par le passé, qui parlaient de Tchort comme d'une simple invention, et affirmaient qu'un voyage à Deep Caverns ne ferait que le confirmer. Ironie du sort : cela prouve exactement le contraire - cela prouve la magnificence de Tchort.<end>
 
 =>a151_original
 Actually, I had other questions.<end>
@@ -930,7 +930,7 @@ En fait, j'avais d'autres questions.<end>
 Then ask, $(context.player.Name).<end>
 
 =>q152
-Alors demandez, $(context.player.Name).<end>
+Alors posez-les, $(context.player.Name).<end>
 
 =>a153_original
 What can you tell me about the Faceless invasion?<end>
@@ -942,7 +942,7 @@ Que pouvez-vous me dire sur l'invasion Faceless ?<end>
 First of all, we haven't had contact with the inbreds in decades, so hearing about their invasion of Core City lifted a few eyebrows in Preservation. When I discussed the matter with Eidein, we came to a decision that it is best if I descend to Deep Caverns with - initially - several more rassophore combat units in order to make sure Cytosine Outpost and Nucleus are well defended.<end>
 
 =>q154
-Tout d'abord, nous n'avons pas eu de contact avec les consanguins depuis des décennies, donc en entendant parler de leur invasion de Core City, nous avons soulevé quelques sourcils dans la préservation. Lorsque j'ai discuté de la question avec Eidein, nous avons décidé qu'il valait mieux que je descende à Deep Caverns avec - initialement - plusieurs unités de combat de rassophore afin de s'assurer que Cytosine Outpost et Nucleus sont bien défendus.<end>
+Tout d'abord, nous n'avions plus eu de contact avec les consanguins depuis des décennies, donc la nouvelle de leur invasion de Core City a fait lever quelques sourcils, à Preservation. Quand j'en ai discuté avec Eidein, nous avons jugé préférable que je descende à Deep Caverns avec - dans un premier temps - plusieurs unités de combat rassophores supplémentaires, afin d'assurer la défense de Cytosine Outpost et du Nucleus.<end>
 
 =>a155_original
 If you were prepared, how did they manage to overwhelm you?<end>
@@ -954,49 +954,49 @@ Si vous étiez prêts, comment ont-ils réussi à vous submerger ?<end>
 Sadly, it seems we greatly underestimated their forces. Decades ago Faceless were as far off from being a match for us, as history has shown. Now, they outnumber us not only in armed personnel but in mechanization as well, as their tunneling machines allow such mobility and support that we were unable to match them. Their tactics are - and I'm not glad to admit this - but they proved to be extremely effective.<end>
 
 =>q156
-Malheureusement, il semble que nous ayons beaucoup sous-estimé leurs forces. Il y a des décennies, Faceless était aussi loin d'être un match pour nous, comme l'histoire l'a montré. Maintenant, ils nous surpassent non seulement dans le personnel armé, mais aussi dans la mécanisation, car leurs machines de tunnel permettent une telle mobilité et un tel soutien que nous n'avons pas pu les égaler. Leurs tactiques sont - et je ne suis pas content de l'admettre - mais elles se sont avérées extrêmement efficaces.<end>
+Hélas, il semble que nous ayons largement sous-estimé leurs forces. Il y a des décennies, les Faceless étaient loin de faire le poids, l'histoire l'a montré. Aujourd'hui, ils nous dépassent non seulement en effectifs armés, mais aussi en mécanisation : leurs machines de forage leur donnent une mobilité et un soutien auxquels nous n'avons pas pu répondre. Leurs tactiques sont - et ça me coûte de l'admettre - mais elles se sont révélées extrêmement efficaces.<end>
 
 =>q157_original
 Simultaneous flanking attacks made sure the outside perimeter was quickly breached. Their initial push might've even allowed them to reach Cytosine Outpost itself, but our minefields were enough to slow them down, allowing our forces to regroup and form another line of defense, which proved effective for a time; however, no matter how many inbreds we culled, their troops just kept receiving reinforcements.<end>
 
 =>q157
-Les attaques simultanées de flancs ont fait en sorte que le périmètre extérieur ait été rapidement brisé. Leur poussée initiale leur aurait même permis d'atteindre Cytosine Outpost lui-même, mais nos champs de mines ont suffi à les ralentir, permettant à nos forces de se regrouper et de former une autre ligne de défense, qui s'est avérée efficace pendant un certain temps; cependant, peu importe le nombre de consanguins que nous avons abattus, leurs troupes n'ont cessé de recevoir des renforts.<end>
+Des attaques de flanc simultanées ont vite percé le périmètre extérieur. Leur poussée initiale aurait même pu les mener jusqu'à Cytosine Outpost, mais nos champs de mines ont suffi à les ralentir, ce qui a permis à nos forces de se regrouper et de former une nouvelle ligne de défense, efficace un temps ; toutefois, quel que fût le nombre de consanguins que nous abattions, leurs troupes ne cessaient de recevoir des renforts.<end>
 
 =>q158_original
 A combination of excellent maneuvering and overwhelming numbers meant that eventually they were going to breach our defensive lines. And so they did. They made it to our final defensive position, as you can see by their corpses just beyond the base walls.<end>
 
 =>q158
-Une combinaison d'excellentes manoeuvres et de nombres écrasants signifiait qu'ils finiraient par franchir nos lignes défensives. Et ils l'ont fait. Ils sont arrivés à notre position défensive finale, comme vous pouvez le voir par leurs cadavres juste au-delà des murs de base.<end>
+Un mélange d'excellentes manœuvres et d'effectifs écrasants faisait qu'ils finiraient par percer nos lignes. Et c'est ce qu'ils ont fait. Ils ont atteint notre dernière position défensive, comme vous pouvez le voir à leurs cadavres, juste au-delà des murs de la base.<end>
 
 =>a159_original
 Wait, didn't Tchort's minions help you fight the Faceless?<end>
 
 =>a159
-Les minions de Tchort ne vous ont pas aidé à combattre la Faceless ?<end>
+Attendez, les serviteurs de Tchort ne vous ont-ils pas aidés contre les Faceless ?<end>
 
 =>q160_original
 Tchort's minions were one of the reasons we are still alive, as their numbers, if nothing else, matched that of the Faceless. What secured our victory was the fact that the Faceless ultimately couldn't withstand the magnificence of Tchort's mind. I saw the effects myself: Some of them were dropping their weapons and falling to the ground, shaking and rolling until finally coming to eternal rest. Soon after these incidents began to occur, and naturally reduced their combat effectiveness, they retreated.<end>
 
 =>q160
-Les minions de Tchort étaient l'une des raisons pour lesquelles nous sommes encore en vie, car leur nombre, sinon rien d'autre, correspondait à celui de Faceless. Ce qui a assuré notre victoire, c'est que le Faceless n'a finalement pas pu résister à la magnificence de l'esprit de Tchort. J'ai vu les effets moi-même : certains d'entre eux laissaient tomber leurs armes et tombaient au sol, tremblant et roulant jusqu'à enfin venir au repos éternel. Peu après que ces incidents ont commencé à se produire et ont naturellement réduit leur efficacité au combat, ils ont reculé.<end>
+Les serviteurs de Tchort sont l'une des raisons pour lesquelles nous sommes encore en vie : leur nombre, à défaut d'autre chose, égalait celui des Faceless. Ce qui a scellé notre victoire, c'est que les Faceless n'ont finalement pas supporté la magnificence de l'esprit de Tchort. J'en ai vu les effets de mes yeux : certains laissaient tomber leurs armes et s'effondraient, tremblant et se roulant au sol jusqu'à trouver le repos éternel. Peu après le début de ces incidents, qui ont naturellement réduit leur efficacité au combat, ils ont battu en retraite.<end>
 
 =>q161_original
 They haven't made any advances since then.<end>
 
 =>q161
-Ils n'ont pas avancé depuis.<end>
+Ils n'ont plus avancé depuis.<end>
 
 =>a162_original
 Why do you think the Faceless invaded half of Underrail at this particular time?<end>
 
 =>a162
-Pourquoi pensez-vous que le Faceless a envahi la moitié du Underrail en ce moment ?<end>
+Pourquoi, selon vous, les Faceless ont-ils envahi la moitié d'Underrail à ce moment-là ?<end>
 
 =>q163_original
 One might argue that they have finally grown strong enough to do so, but there is one little detail which explains it, and had I been aware of it earlier, things would've turned out differently.<end>
 
 =>q163
-On pourrait dire qu'ils ont finalement été assez forts pour le faire, mais il y a un petit détail qui l'explique, et si j'avais été au courant de cela plus tôt, les choses auraient tourné différemment.<end>
+On pourrait soutenir qu'ils sont enfin devenus assez forts pour le faire, mais un petit détail l'explique, et si j'en avais eu conscience plus tôt, les choses auraient tourné autrement.<end>
 
 =>a164_original
 The artifact.<end>
@@ -1008,7 +1008,7 @@ L'artefact.<end>
 Artifact? You know about that?<end>
 
 =>q165
-Un artéfact ? Vous êtes au courant ?<end>
+Un artefact ? Vous êtes au courant ?<end>
 
 =>a166_original
 I heard about it.<end>
@@ -1020,7 +1020,7 @@ J'en ai entendu parler.<end>
 Regardless, I believe this object is the reason for everything that had happened starting with Core City invasion up until now. And had I made that connection earlier, we might've been more prepared to deal with the Faceless.<end>
 
 =>q167
-Quoi qu'il en soit, je crois que cet objet est la raison de tout ce qui s'est passé à partir de l'invasion Core City jusqu'à maintenant. Et si j'avais fait ce lien plus tôt, nous aurions pu être plus prêts à gérer le Faceless.<end>
+Quoi qu'il en soit, je crois que cet objet est la cause de tout ce qui s'est produit, depuis l'invasion de Core City jusqu'à maintenant. Et si j'avais fait ce lien plus tôt, nous aurions peut-être été mieux préparés à affronter les Faceless.<end>
 
 =>a168_original
 How so?<end>
@@ -1034,21 +1034,21 @@ I wasn't aware where the artifact came from. I was only told by the investigator
 I wonder why Eidein hasn't made that same connection, but what happened, happened.<end>
 
 =>q169
-Je ne savais pas d'où venait l'artefact. Les enquêteurs m'ont seulement dit que Eidein l'avait ordonné à Nucleus. Une seule information m'a été nécessaire pour me rendre compte qu'un objet, celui technologiquement avancé, existant dans Core City au moment de l'invasion Faceless, était aussi loin d'une coïncidence que possible.
+J'ignorais d'où venait l'artefact. Les investigators ne m'avaient dit que ceci : Eidein avait ordonné de l'envoyer au Nucleus. Un seul élément m'a suffi à comprendre qu'un objet aussi avancé technologiquement, présent à Core City au moment de l'invasion Faceless, ne pouvait être une coïncidence.
 
-Je me demande pourquoi Eidein n'a pas fait la même connexion, mais ce qui s'est passé, c'est arrivé.<end>
+Je me demande pourquoi Eidein n'a pas fait le même lien, mais ce qui est fait est fait.<end>
 
 =>a170_original
 But you do know it came from Core City, you just said it.<end>
 
 =>a170
-Mais vous savez que ça vient de Core City, vous venez de le dire.<end>
+Mais vous savez bien qu'il vient de Core City, vous venez de le dire.<end>
 
 =>q171_original
 I realized that far too late once I've spoken to one of the surviving investigators. Magnificent Tchort, had I only paid more attention. We wouldn't have moved everyone to Deep Caverns; Preservation Forces as a single whole could've repelled the Faceless, but we were split.<end>
 
 =>q171
-J'ai réalisé que trop tard quand j'ai parlé à un des enquêteurs survivants. Magnifique Tchort, si seulement j'avais fait plus attention. Nous n'aurions pas déplacé tout le monde à Deep Caverns ; les forces de préservation en tant qu'ensemble auraient pu repousser le Faceless, mais nous étions séparés.<end>
+Je m'en suis rendu compte bien trop tard, après avoir parlé à l'un des investigators survivants. Magnifique Tchort, si seulement j'avais été plus attentif. Nous n'aurions pas tout déplacé à Deep Caverns ; les forces de Preservation, réunies, auraient pu repousser les Faceless, mais nous étions divisés.<end>
 
 =>a172_original
 Why was the artifact brought to Tchort?<end>
@@ -1060,25 +1060,25 @@ Pourquoi l'artefact a-t-il été apporté à Tchort ?<end>
 That you would need to ask Eidein. I know nothing other than it is something... exceptional. I can only assume that it is something worthy of Tchort's attention. Many such objects have found their way to the Nucleus, and if we preserve it, many more will.<end>
 
 =>q173
-Que vous devriez demander Eidein. Je ne sais rien d'autre que quelque chose d'exceptionnel. Je ne peux que supposer que c'est quelque chose qui mérite l'attention de Tchort. Beaucoup de ces objets ont trouvé leur chemin vers le Nucleus, et si nous le conservons, beaucoup plus de volonté.<end>
+Il faudrait le demander à Eidein. Je ne sais rien, sinon que c'est quelque chose... d'exceptionnel. Je ne peux que supposer que cela mérite l'attention de Tchort. Beaucoup d'objets de ce genre ont trouvé le chemin du Nucleus, et si nous le préservons, beaucoup d'autres suivront.<end>
 
 =>a174_original
 One single detail changes everything. I need to ask you something else.<end>
 
 =>a174
-Un seul détail change tout. Je dois te demander autre chose.<end>
+Un seul détail change tout. J'ai une autre question.<end>
 
 =>a175_original
 What is it?<end>
 
 =>a175
-Qu'est-ce que c'est?<end>
+Qu'est-ce que c'est ?<end>
 
 =>q176_original
 It is some sort of a strange object which was brought down to Deep Caverns just recently.<end>
 
 =>q176
-C'est une sorte d'objet étrange qui a été ramené à Deep Caverns tout récemment.<end>
+C'est une sorte d'objet étrange, descendu à Deep Caverns tout récemment.<end>
 
 =>a177_original
 What can you tell me about this artifact?<end>
@@ -1090,7 +1090,7 @@ Que pouvez-vous me dire à propos de cet artefact ?<end>
 It is a strange polyhedron with even stranger markings; one of the investigators only showed it to me, but I know of its use very little.<end>
 
 =>q178
-C'est un étrange polyèdre avec même des marques étrangères; l'un des enquêteurs me l'a seulement montré, mais je sais très peu de choses de son utilisation.<end>
+C'est un étrange polyèdre, couvert de marques plus étranges encore ; l'un des investigators me l'a seulement montré, mais je ne sais presque rien de son usage.<end>
 
 =>a179_original
 I have some other questions for you.<end>
@@ -1114,13 +1114,13 @@ Que pouvez-vous me dire sur Cytosine Outpost ?<end>
 Its purpose is to provide a base of operations for all Preservation Forces in Deep Caverns, and serves as a connection to the Institute of Tchort building. We are well equipped for the time being, but we cannot afford to be wasteful during this crisis.<end>
 
 =>q182
-Son but est de fournir une base d'opérations pour toutes les forces de préservation dans Deep Caverns, et sert de connexion au bâtiment Institute of Tchort. Nous sommes bien équipés pour le moment, mais nous ne pouvons nous permettre d'être gaspillés pendant cette crise.<end>
+Il sert de base d'opérations à toutes les forces de Preservation dans Deep Caverns, et de liaison avec le bâtiment de l'Institute of Tchort. Nous sommes bien équipés pour le moment, mais nous ne pouvons pas nous permettre de gaspiller pendant cette crise.<end>
 
 =>q183_original
 Other than that, there isn't much I can or wish to tell you about Cytosine Outpost.<end>
 
 =>q183
-À part ça, je ne peux pas vous parler de Cytosine Outpost.<end>
+À part cela, il n'y a pas grand-chose que je puisse, ou que je souhaite, vous dire sur Cytosine Outpost.<end>
 
 =>a184_original
 What can you tell me about the surrounding areas?<end>
@@ -1132,31 +1132,31 @@ Que pouvez-vous me dire sur les environs ?<end>
 The most I can tell you is about the Hollow Earth research complex. Outside of it is mostly Faceless territory now, but there are a few points of interest, like the warehouse block, Caerus residential block and Arke Power Station. Everything else is, to our knowledge, wild territory.<end>
 
 =>q185
-Le plus que je puisse vous dire, c'est le complexe de recherche Hollow Earth. En dehors de lui est principalement Faceless territoire maintenant, mais il ya quelques points d'intérêt, comme le bloc d'entrepôt, Caerus bloc résidentiel et Arke Power Station. Tout le reste est, à notre connaissance, un territoire sauvage.<end>
+Le plus que je puisse vous dire, c'est au sujet du complexe de recherche Hollow Earth. Au-delà, c'est désormais surtout du territoire Faceless, mais il reste quelques points d'intérêt : le bloc d'entrepôts, le quartier résidentiel de Caerus et Arke Power Station. Tout le reste est, à notre connaissance, territoire sauvage.<end>
 
 =>a186_original
 How can I get to Nucleus?<end>
 
 =>a186
-Comment puis-je aller à Nucleus ?<end>
+Comment puis-je me rendre au Nucleus ?<end>
 
 =>q187_original
 It is to the north, but all entrances are sealed at the moment.<end>
 
 =>q187
-Il est au nord, mais toutes les entrées sont scellées en ce moment.<end>
+C'est au nord, mais toutes les entrées sont scellées pour le moment.<end>
 
 =>a188_original
 Sealed?<end>
 
 =>a188
-Scellé ?<end>
+Scellées ?<end>
 
 =>q189_original
 Yes, the gate leading to Tchort is closed. Thankfully, the Faceless haven't even managed to come anywhere near it, let alone breach it.<end>
 
 =>q189
-Oui, la porte menant à Tchort est fermée. Heureusement, le Faceless n'a même pas réussi à s'approcher de lui, et encore moins à le briser.<end>
+Oui, la porte qui mène à Tchort est close. Heureusement, les Faceless n'ont même pas réussi à s'en approcher, et encore moins à la forcer.<end>
 
 =>a190_original
 Can it be opened?<end>
@@ -1174,19 +1174,19 @@ Seulement par Tchort.<end>
 You mean, Tchort can control the gate?<end>
 
 =>a192
-Tchort peut contrôler la porte ?<end>
+Vous voulez dire que Tchort contrôle la porte ?<end>
 
 =>q193_original
 You can say that. In fact, Tchort's influence is the reason we have successfully resisted all the recent Faceless attacks, even if just barely.<end>
 
 =>q193
-On peut dire ça. En fait, c'est l'influence de Tchort qui nous a permis de tenir face à toutes les attaques récentes des Faceless, même de justesse.<end>
+On peut le dire. En fait, c'est l'influence de Tchort qui nous a permis de résister à toutes les attaques Faceless récentes, même de justesse.<end>
 
 =>a194_original
 What exactly do you mean?<end>
 
 =>a194
-Que veux-tu dire exactement ?<end>
+Que voulez-vous dire, exactement ?<end>
 
 =>a195_original
 Have you ever seen Tchort?<end>
@@ -1198,19 +1198,19 @@ Avez-vous déjà vu Tchort ?<end>
 No. Tchort only allows Eidein near it, no one else.<end>
 
 =>q196
-C'est pas vrai. Tchort permet seulement Eidein près d'elle, personne d'autre.<end>
+Non. Tchort n'autorise qu'Eidein à s'approcher, personne d'autre.<end>
 
 =>q197_original
 His death makes everything much more complicated now. But, we will adapt and overcome, as the saying goes. Tchort must be preserved, that is our top priority. We will have to postpone our worries until after we drive the Faceless off.<end>
 
 =>q197
-Sa mort rend tout plus compliqué maintenant. Mais nous nous adapterons et nous surmonterons, comme le dit le proverbe. Tchort doit être préservé, c'est notre priorité absolue. Nous devrons reporter nos soucis jusqu'à ce que nous conduisions le Faceless.<end>
+Sa mort complique grandement les choses. Mais nous nous adapterons et nous surmonterons, comme le veut le dicton. Tchort doit être préservé, c'est notre priorité. Nous remettrons le reste à plus tard, une fois les Faceless chassés.<end>
 
 =>q198_original
 And I am sure he well come here with reinforcements as soon as possible, as soon as he's able.<end>
 
 =>q198
-Et je suis sûr qu'il va bien venir ici avec des renforts dès que possible, dès qu'il pourra.<end>
+Et je suis sûr qu'il viendra ici avec des renforts dès que possible, dès qu'il le pourra.<end>
 
 =>a199_original
 Tchort guide you, Your Excellency.<end>
@@ -1228,61 +1228,61 @@ Au revoir.<end>
 You are free to leave unless you have further questions.<end>
 
 =>q201
-Vous pouvez partir à moins d'avoir d'autres questions.<end>
+Vous êtes libre de partir, sauf si vous avez d'autres questions.<end>
 
 =>a202_original
 I'm sure Eidein knows why he acted like he did.<end>
 
 =>a202
-Je suis sûr que Eidein sait pourquoi il a agi comme lui.<end>
+Je suis $(#sûr/sûre) qu'Eidein sait pourquoi il a agi ainsi.<end>
 
 =>a203_original
 No, not as far as I know.<end>
 
 =>a203
-Non, pas autant que je sache.<end>
+Non, pas à ma connaissance.<end>
 
 =>q204_original
 In the end, I suppose that is the least relevant thing now. <end>
 
 =>q204
-En fin de compte, je suppose que c'est la chose la moins pertinente maintenant. <end>
+En fin de compte, j'imagine que c'est le moins important, à présent. <end>
 
 =>a205_original
 He did, but he never made it.<end>
 
 =>a205
-Il l'a fait, mais il ne l'a jamais fait.<end>
+Il l'a fait, mais il n'y est jamais parvenu.<end>
 
 =>a206_original
 I'm sure he'll have an explanation once the Faceless have been dealt with.<end>
 
 =>a206
-Je suis sûr qu'il aura une explication une fois que le Faceless aura été traité.<end>
+Je suis $(#sûr/sûre) qu'il aura une explication une fois les Faceless réglés.<end>
 
 =>q207_original
 Still, why didn't Eidein himself come to the Nucleus? According to my knowledge, that was the emergency plan?<end>
 
 =>q207
-Pourquoi Eidein n'est-il pas venu au Nucleus ? Selon moi, c'était le plan d'urgence ?<end>
+Tout de même, pourquoi Eidein n'est-il pas venu lui-même au Nucleus ? D'après ce que je savais, c'était le plan d'urgence.<end>
 
 =>a208_original
 Eidein sent a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.<end>
 
 =>a208
-Eidein a envoyé un groupe d'entre nous pour descendre à l'aide de l'ascenseur, mais la défaillance de l'ascenseur mi-descente ainsi que la mort subséquente d'autres m'ont laissé comme seul survivant.<end>
+Eidein a envoyé un groupe d'entre nous descendre par l'ascenseur, mais la panne en cours de descente, puis la mort des autres, ont fait de moi l$(#e seul/a seule) survivant$(#/e).<end>
 
 =>a209_original
 Before his death, Eidein sent me to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.<end>
 
 =>a209
-Avant sa mort, Eidein m'a envoyé pour aider à la défense de Tchort. Et je suis seul. L'ascenseur a cessé de fonctionner pendant la descente, mais une ouverture chanceuse dans le mur m'a sauvé.<end>
+Avant de mourir, Eidein m'a envoyé$(#/e) aider à la défense de Tchort. Et je suis $(#seul/seule). L'ascenseur a cessé de fonctionner pendant la descente, mais une brèche providentielle dans le mur m'a sauvé$(#/e).<end>
 
 =>a210_original
 Before his death, Eidein instructed a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.<end>
 
 =>a210
-Avant sa mort, Eidein a ordonné à un groupe d'entre nous de descendre à l'aide de l'ascenseur, mais l'échec de l'ascenseur mi-descente ainsi que la mort subséquente d'autres m'ont laissé comme seul survivant.<end>
+Avant de mourir, Eidein a ordonné à un groupe d'entre nous de descendre par l'ascenseur, mais la panne en cours de descente, puis la mort des autres, ont fait de moi l$(#e seul/a seule) survivant$(#/e).<end>
 
 =>a211_original
 I fled the Institute during the fighting.<end>
@@ -1298,19 +1298,19 @@ I knew there was something odd about you, $(context.player.Name), and now I know
 =>q212
 ::Plusieurs longues secondes passent avant d'obtenir une réponse.::
 
-Je savais qu'il y avait quelque chose de bizarre chez toi, $(context.player.Name), et maintenant je sais ce que c'était. Et dire votre trahison si calmement... un vrai Evdok que vous êtes.<end>
+Je savais qu'il y avait quelque chose de louche chez vous, $(context.player.Name), et maintenant je sais quoi. Et avouer votre trahison avec un tel calme... vous êtes $(#un vrai/une vraie) Evdok.<end>
 
 =>q213_original
 You are not worthy of calling yourself a Tchortist, and no matter how valuable every man and woman are right now, a traitor once - a traitor always. I cannot take any risk, so I order you to leave Cytosine Outpost. Resistance will be met with forceful removal.<end>
 
 =>q213
-Vous n'êtes pas digne de vous appeler un Tchortist, et peu importe la valeur que chaque homme et chaque femme sont en ce moment, un traître une fois - un traître toujours. Je ne peux prendre aucun risque, donc je vous ordonne de quitter Cytosine Outpost. La résistance se heurtera à un retrait forcé.<end>
+Vous n'êtes pas digne de vous dire Tchortist, et peu importe ce que valent en ce moment chaque homme et chaque femme : traître un jour, traître toujours. Je ne peux prendre aucun risque, je vous ordonne donc de quitter Cytosine Outpost. Toute résistance sera réprimée par la force.<end>
 
 =>a214_original
 Allow me to explain...<end>
 
 =>a214
-Permettez-moi d'expliquer...<end>
+Permettez-moi de m'expliquer...<end>
 
 =>q215_original
 ::He interrupts you.::
@@ -1326,25 +1326,25 @@ Dehors !<end>
 I will leave.<end>
 
 =>a216
-Je vais partir.<end>
+Je m'en vais.<end>
 
 =>q217_original
 ::He does not reply. Instead, he simply stands still and waits for you to leave.::<end>
 
 =>q217
-::Il ne répond pas. Au lieu de cela, il se tient calme et vous attend à partir.::<end>
+::Il ne répond pas. Il reste immobile et attend que vous partiez.::<end>
 
 =>a218_original
 Sad to say so.<end>
 
 =>a218
-C'est triste à dire.<end>
+Hélas, oui.<end>
 
 =>q219_original
 While Eidein's death is a serious blow to the Institute of Tchort, at least you bear us some good news. Hopefully our brothers and sisters will find a way to reinforce us, because we are unable to repair the elevator from here.<end>
 
 =>q219
-Alors que la mort de Eidein est un grave coup porté au Institute of Tchort, au moins vous nous donnez de bonnes nouvelles. Espérons que nos frères et sœurs trouveront un moyen de nous renforcer, parce que nous sommes incapables de réparer l'ascenseur d'ici.<end>
+La mort d'Eidein est un coup très dur pour l'Institute of Tchort, mais vous nous apportez au moins une bonne nouvelle. Espérons que nos frères et sœurs trouveront le moyen de nous envoyer des renforts, car nous ne pouvons pas réparer l'ascenseur d'ici.<end>
 
 =>a220_original
 ::Nod.::<end>
@@ -1362,19 +1362,19 @@ Ils ne méritent pas de connaître la vérité ?<end>
 Not yet if we all wish to survive. Again, are we clear?<end>
 
 =>q222
-Pas encore si nous voulons tous survivre. Encore une fois, est-ce clair ?<end>
+Pas encore, si nous voulons tous survivre. Encore une fois, est-ce clair ?<end>
 
 =>a223_original
 I am sad to inform you that Eidein was killed by the Faceless. He was involved in the combat and, despite him fighting the invaders bravely, did not make it out alive.<end>
 
 =>a223
-Je suis triste de vous informer que Eidein a été tué par le Faceless. Il était impliqué dans le combat et, malgré sa lutte courageuse contre les envahisseurs, il n'est pas sorti vivant.<end>
+J'ai le regret de vous informer qu'Eidein a été tué par les Faceless. Il a pris part au combat et, malgré sa bravoure face aux envahisseurs, il n'en a pas réchappé.<end>
 
 =>a224_original
 Don't worry, Eidein is alive and well.<end>
 
 =>a224
-Ne vous inquiétez pas, Eidein est vivant et bien.<end>
+Ne vous inquiétez pas, Eidein se porte bien.<end>
 
 =>q225_original
 That is excellent news, $(context.player.Name). The situation was looking very grim up to this point, but now things have changed. Thank you for this excellent news. I will be sure to inform our rassophores of this, maybe it'll help the weak morale.
@@ -1382,7 +1382,7 @@ That is excellent news, $(context.player.Name). The situation was looking very g
 <end>
 
 =>q225
-C'est une excellente nouvelle, $(context.player.Name). La situation était très sombre jusqu'ici, mais maintenant les choses ont changé. Merci pour cette excellente nouvelle. Je vais être sûr d'informer nos rassophores de ceci, peut-être que cela aidera le moral faible.
+Voilà d'excellentes nouvelles, $(context.player.Name). La situation était très sombre jusqu'ici, mais tout a changé. Merci pour ces nouvelles. Je ne manquerai pas d'en informer nos rassophores ; cela aidera peut-être le moral, déjà bien bas.
 
 <end>
 
@@ -1390,7 +1390,7 @@ C'est une excellente nouvelle, $(context.player.Name). La situation était très
 When can we expect reinforcements? I am perfectly aware the elevator was badly damaged by the Faceless and that it's out of action, but I expect you were sent here with some information, at least?<end>
 
 =>q226
-Quand peut-on attendre des renforts ? Je sais parfaitement que l'ascenseur a été gravement endommagé par le Faceless et qu'il est hors de service, mais j'espère que vous avez été envoyé ici avec quelques informations, au moins ?<end>
+Quand pouvons-nous attendre des renforts ? Je sais parfaitement que l'ascenseur a été gravement endommagé par les Faceless et qu'il est hors service, mais j'imagine que l'on vous a tout de même envoyé$(#/e) avec quelques informations ?<end>
 
 =>a227_original
 Very soon, Your Excellency. As soon as the elevator becomes operational again.<end>
@@ -1408,37 +1408,37 @@ Excellent, $(context.player.Name). C'est une bonne nouvelle.<end>
 I can't tell you anything yet. We can only hope that reinforcements will come soon.<end>
 
 =>a229
-Je ne peux rien vous dire. Nous ne pouvons qu'espérer que des renforts viendront bientôt.<end>
+Je ne peux encore rien vous dire. Nous ne pouvons qu'espérer que des renforts arriveront bientôt.<end>
 
 =>q230_original
 I understand. We are in no position to repair the elevator from here; therefore, all depends on what mechanics can accomplish up there before we can get our hopes up.<end>
 
 =>q230
-Je comprends. Nous ne sommes pas en mesure de réparer l'ascenseur d'ici; par conséquent, tout dépend de ce que les mécaniciens peuvent accomplir là-haut avant de pouvoir espérer.<end>
+Je comprends. Nous ne sommes pas en mesure de réparer l'ascenseur d'ici ; tout dépend donc de ce que les mécaniciens pourront accomplir là-haut, avant que nous osions y croire.<end>
 
 =>q231_original
 Still, your arrival at least came with some illumination regarding this whole situation.<end>
 
 =>q231
-Pourtant, votre arrivée est venue avec un peu d'éclairage sur toute cette situation.<end>
+Votre arrivée a toutefois apporté un peu de clarté sur toute cette affaire.<end>
 
 =>a232_original
 As you said, the elevator is badly damaged, so I wouldn't expect reinforcements very soon.<end>
 
 =>a232
-Comme vous l'avez dit, l'ascenseur est gravement endommagé, donc je ne m'attends pas à des renforts très bientôt.<end>
+Comme vous l'avez dit, l'ascenseur est gravement endommagé, je n'attendrais donc pas de renforts de sitôt.<end>
 
 =>a233_original
 The Faceless launched a full-scale attack on the Institute. Battle was still raging during the time of my descent, so I'm unsure of its outcome.<end>
 
 =>a233
-Le Faceless a lancé une attaque à grande échelle contre l'Institut. La bataille faisait toujours rage pendant ma descente, donc je ne suis pas sûr de son issue.<end>
+Les Faceless ont lancé une attaque d'envergure contre l'Institut. La bataille faisait encore rage au moment de ma descente, je n'en connais donc pas l'issue.<end>
 
 =>a234_original
 The Faceless attack on the Institute of Tchort was devastating. They left no one alive.<end>
 
 =>a234
-L'attaque Faceless contre le Institute of Tchort a été dévastatrice. Ils n'ont laissé personne en vie.<end>
+L'attaque Faceless contre l'Institute of Tchort a été dévastatrice. Ils n'ont laissé personne en vie.<end>
 
 =>q235_original
 ::He stops for moment before resuming with an unchanged tone of voice.::
@@ -1446,7 +1446,7 @@ L'attaque Faceless contre le Institute of Tchort a été dévastatrice. Ils n'on
 No one? Eidein?<end>
 
 =>q235
-::Il s'arrête un instant avant de reprendre avec un ton de voix inchangé.::
+::Il s'arrête un instant, puis reprend sur le même ton.::
 
 Personne ? Eidein ?<end>
 
@@ -1460,7 +1460,7 @@ Personne, même pas Eidein.<end>
 Hell.<end>
 
 =>a237
-Mon Dieu.<end>
+L'enfer.<end>
 
 =>q238_original
 ::He pauses.::
@@ -1468,27 +1468,27 @@ Mon Dieu.<end>
 Is it really that grim?<end>
 
 =>q238
-::Il fait une pause.::
+::Il marque une pause.::
 
-C'est vraiment si triste ?<end>
+C'est vraiment si sombre ?<end>
 
 =>a239_original
 Everything is destroyed, everyone killed - including Eidein. So yes, I'd say it's grim.<end>
 
 =>a239
-Tout est détruit, tout le monde est tué - y compris Eidein. Donc oui, je dirais que c'est sombre.<end>
+Tout est détruit, tout le monde est mort - y compris Eidein. Donc oui, je dirais que c'est sombre.<end>
 
 =>q240_original
 They have all made it back safely and are ready for action.<end>
 
 =>q240
-Ils sont tous revenus en toute sécurité et sont prêts à agir.<end>
+Ils sont tous rentrés sains et saufs, et prêts à l'action.<end>
 
 =>q241_original
 Tchort is evolution. I am Harmost Stavros. I've already been informed that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q241
-Tchort est l'évolution. Je suis Harmost Stavros. On m'a déjà informé que vous avez eu le courage de libérer nos rassophores des griffes des consanguins. <end>
+Tchort est l'évolution. Je suis Harmost Stavros. On m'a déjà informé que c'est vous qui avez eu le courage de tirer nos rassophores des griffes des consanguins. <end>
 
 =>q242_original
 Evolution is Tchort. I am Harmost Stavros. Welcome to Cytosine Outpost. <end>
@@ -1512,13 +1512,13 @@ Tchort est l'évolution. On m'a déjà informé d'où vous venez. Je suis Harmos
 I come straight from the Institute of Tchort, Your Excellency.<end>
 
 =>a245
-Je viens directement du Institute of Tchort, Votre Excellence.<end>
+Je viens tout droit de l'Institute of Tchort, Votre Excellence.<end>
 
 =>a246_original
 I notice you are silent, Your Excellency. I wonder if you can maintain it when start ripping your heart out of your squirming body! ::Attack!::<end>
 
 =>a246
-Vous êtes silencieux, Votre Excellence. Je me demande si vous pouvez le maintenir quand vous commencez à vous arracher le cœur de votre corps ébouriffant ! ::Attaque!::<end>
+Je vous vois silencieux, Votre Excellence. Je me demande si vous le resterez quand je commencerai à vous arracher le cœur de ce corps qui se tordra ! ::Attaquer !::<end>
 
 =>q247_original
 ::Harmost Stavros spits out a torrent of words as soon as you enter his office.:: 
@@ -1528,7 +1528,7 @@ Are you out of your vestigial mind, $(context.player.Name)!? Didn't I specifical
 =>q247
 ::Harmost Stavros crache un torrent de mots dès que vous entrez dans son bureau.::
 
-Êtes-vous hors de votre esprit vestige, $(context.player.Name)!? Je ne t'ai pas spécifiquement demandé de prendre des précautions extrêmes en parlant avec Rassophore Prevlic ? Vous n'êtes pas censé bouleverser mes hommes au point d'être presque inutiles !<end>
+Êtes-vous hors de votre esprit vestigial, $(context.player.Name) !? Ne vous avais-je pas expressément ordonné de faire extrêmement attention en parlant à Rassophore Prevlic ? Vous n'êtes pas censé$(#/e) pousser mes hommes à un tel point qu'ils en deviennent presque inutiles !<end>
 
 =>q248_original
 ::He takes a moment to calm down.:: 
@@ -1538,13 +1538,13 @@ I know you have done a lot since you arrived here, but I would like to make myse
 =>q248
 ::Il prend un moment pour se calmer.::
 
-Je sais que vous avez fait beaucoup depuis votre arrivée ici, mais je voudrais me faire comprendre maintenant, $(context.player.Name), et vous feriez mieux d'écouter attentivement: J'ai besoin que tout le monde dans Cytosine Outpost soit aussi capable et aussi prêt qu'il le peut - et vous étouffez tous mes efforts. Cependant, précisément parce que j'ai besoin de *tout le monde* est la même raison pour laquelle vous ne serez pas puni en ce moment. Si tu refais quelque chose de semblable...<end>
+Je sais que vous avez beaucoup fait depuis votre arrivée, mais je veux que ce soit clair, $(context.player.Name), et vous feriez bien d'écouter attentivement : j'ai besoin que chacun, à Cytosine Outpost, soit aussi capable et aussi prêt que possible - et vous piétinez tous mes efforts. Toutefois, c'est précisément parce que j'ai besoin de *tout le monde* que vous ne serez pas puni$(#/e) pour l'instant. Si vous recommencez... eh bien...<end>
 
 =>q249_original
 Am I clear enough, $(context.player.Name)?<end>
 
 =>q249
-Suis-je assez clair, $(context.player.Name) ?<end>
+Est-ce assez clair, $(context.player.Name) ?<end>
 
 =>a250_original
 Yes, Your Excellency.<end>
@@ -1556,25 +1556,25 @@ Oui, Votre Excellence.<end>
 Excellent. Now, tell me what you needed of me?<end>
 
 =>q251
-Parfait. Dites-moi ce que vous vouliez de moi ?<end>
+Parfait. Dites-moi maintenant ce que vous me vouliez.<end>
 
 =>a252_original
 Crystal clear.<end>
 
 =>a252
-C'est clair.<end>
+Parfaitement clair.<end>
 
 =>a253_original
 I have had enought of this! Time to show you who's the boss around here! ::Attack!::<end>
 
 =>a253
-J'en ai assez ! Il est temps de vous montrer qui est le patron ici ! ::Attaque!::<end>
+J'en ai assez ! Il est temps de vous montrer qui commande ici ! ::Attaquer !::<end>
 
 =>a254_original
 No one tells me - the Invictus - what to do! I will raze this place to the ground for your insolence! ::Attack!::<end>
 
 =>a254
-Personne ne me dit - les Invictus - quoi faire! Je vais raser cet endroit pour votre insolence ! ::Attaque!::<end>
+Personne ne dicte sa conduite à l'Invictus ! Je raserai cet endroit pour votre insolence ! ::Attaquer !::<end>
 
 =>q255_original
 ::He takes a moment to calm down.:: 
@@ -1584,7 +1584,7 @@ I would like to make myself clear now, $(context.player.Name), and you better li
 =>q255
 ::Il prend un moment pour se calmer.::
 
-Je voudrais me dire clairement maintenant, $(context.player.Name), et vous feriez mieux d'écouter attentivement: j'ai besoin que tout le monde dans Cytosine Outpost soit aussi capable et aussi prêt qu'il peut l'être - et vous étouffez tous mes efforts. Cependant, précisément parce que j'ai besoin de *tout le monde* est la même raison pour laquelle vous ne serez pas puni en ce moment. Si tu refais quelque chose de semblable...<end>
+Je veux que ce soit clair, $(context.player.Name), et vous feriez bien d'écouter attentivement : j'ai besoin que chacun, à Cytosine Outpost, soit aussi capable et aussi prêt que possible - et vous piétinez tous mes efforts. Toutefois, c'est précisément parce que j'ai besoin de *tout le monde* que vous ne serez pas puni$(#/e) pour l'instant. Si vous recommencez... eh bien...<end>
 
 =>q256_original
 Excellent work, $(context.player.Name). <end>
@@ -1596,7 +1596,7 @@ Excellent travail, $(context.player.Name). <end>
 The rassophores which you have rescued have made it back to Cytosine Outpost.<end>
 
 =>q257
-Les rassophores que vous avez sauvés sont revenus à Cytosine Outpost.<end>
+Les rassophores que vous avez sauvés sont rentrés à Cytosine Outpost.<end>
 
 =>q258_original
 <end>
@@ -1608,19 +1608,19 @@ Les rassophores que vous avez sauvés sont revenus à Cytosine Outpost.<end>
 They have armed themselves and are ready to face the Faceless... ::He stops briefly.:: once more.<end>
 
 =>q259
-Ils se sont armés et sont prêts à affronter le Faceless... ::Il s'arrête brièvement.:: encore une fois.<end>
+Ils se sont armés et sont prêts à affronter les Faceless... ::Il s'interrompt un instant.:: une fois encore.<end>
 
 =>q260_original
 Despite that, the rassophore is armed and ready to face the Faceless... ::He stops briefly.:: once more.<end>
 
 =>q260
-Malgré cela, le rassophore est armé et prêt à affronter le Faceless... ::Il s'arrête brièvement.:: encore une fois.<end>
+Malgré tout, le rassophore est armé et prêt à affronter les Faceless... ::Il s'interrompt un instant.:: une fois encore.<end>
 
 =>q261_original
 The rassophore which you have rescued made it back to Cytosine Outpost. Sadly, the other two captives weren't able to make it.<end>
 
 =>q261
-Le rassophore que vous avez sauvé est revenu à Cytosine Outpost. Malheureusement, les deux autres prisonniers n'ont pas pu y arriver.<end>
+Le rassophore que vous avez sauvé est rentré à Cytosine Outpost. Hélas, les deux autres captifs n'ont pas pu en réchapper.<end>
 
 =>q262_original
 Tchort is evolution, $(context.player.Name).<end>

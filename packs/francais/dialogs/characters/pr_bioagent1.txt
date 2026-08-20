@@ -12,17 +12,17 @@ Corporal... You're alive. I thought we'd lost you. ::He pauses as he takes a goo
 I see you're not a revolting green husk of your former self... which is a positive thing.<end>
 
 =>q2
-::Le capitaine Mareth a l'air surpris de vous voir.::
+::Le capitaine Mareth semble surpris de vous voir.::
 
-Caporal... Vous êtes $(#vivant/vivante). Je pensais qu'on vous avait $(#perdu/perdue). ::Il s'arrête, vous dévisage.::
+Caporal... Vous êtes $(#vivant/vivante). Je pensais qu'on vous avait $(#perdu/perdue). ::Il s'arrête et vous dévisage.::
 
-Je vois que vous n'êtes pas une enveloppe verte répugnante de vous-même... ce qui est une bonne chose.<end>
+Je vois que vous n'êtes pas $(#devenu/devenue) une loque verte répugnante... c'est déjà ça.<end>
 
 =>a3_original
 You left me there to die, Captain. Is that how you treat everyone, or just us Southerners?<end>
 
 =>a3
-Vous m'avez $(#laissé/laissée) mourir là-bas, capitaine. C'est comme ça que vous traitez tout le monde, ou seulement nous, les sudistes ?<end>
+Vous m'avez $(#laissé/laissée) mourir là, capitaine. C'est comme ça que vous traitez tout le monde, ou seulement nous, les sudistes ?<end>
 
 =>q4_original
 Calm down, Corporal. Remember who you're talking to. It's your fault you let an incompetent mongrel rig those gas cans. If everything had been properly done, we could have avoided that mishap easily and wouldn't be having this conversation.
@@ -30,21 +30,21 @@ Calm down, Corporal. Remember who you're talking to. It's your fault you let an 
 What matters the most is that the Free Drones are gone. Well, not all of them, sure, as some are still scattered throughout South Underrail. But their main... lair is gone for good. No one would want to go there anymore.<end>
 
 =>q4
-Calmez-vous, caporal. Souvenez-vous à qui vous parlez. C'est votre faute si vous avez laissé un bâtard incompétent truquer ces bidons de gaz. Si tout avait été fait correctement, on aurait évité l'incident sans mal, et on n'aurait pas cette conversation.
+Calmez-vous, caporal. Souvenez-vous à qui vous parlez. C'est de votre faute : vous avez laissé un bâtard incompétent truquer ces bidons de gaz. Si tout avait été fait comme il faut, on aurait évité cette bavure sans mal, et on n'en serait pas à cette conversation.
 
-Ce qui compte, c'est que les Free Drones aient disparu. Pas tous, certes, il en reste de dispersés dans South Underrail. Mais leur... repaire principal a disparu pour de bon. Plus personne n'aura envie d'y aller.<end>
+Ce qui compte le plus, c'est que les Free Drones aient disparu. Pas tous, certes : il en reste, éparpillés dans South Underrail. Mais leur... repaire principal a disparu pour de bon. Plus personne n'y mettra les pieds.<end>
 
 =>q5_original
 As for us, we were just saying goodbye. Our work here is done. Right, Dess?<end>
 
 =>q5
-Quant à nous, on disait juste au revoir. Notre travail ici est terminé. N'est-ce pas, Dess ?<end>
+Quant à nous, on prenait congé. Notre travail ici est fini. Pas vrai, Dess ?<end>
 
 =>q6_original
 ::She giggles.:: I want to get as far away from these ratters as I can. I feel like I'm gonna get a... disease or somethin'.<end>
 
 =>q6
-::Elle glousse.:: Je veux m'éloigner le plus possible de ces ratiers. J'ai l'impression que je vais chopper une... maladie, ou un truc du genre.<end>
+::Elle glousse.:: Je veux m'éloigner le plus possible de ces ratiers. J'ai l'impression que je vais choper une... maladie, un truc comme ça.<end>
 
 =>q7_original
 Charming, isn't she?
@@ -54,19 +54,19 @@ Oh, and would you mind telling me the name of that idiot that rigged the mutagen
 =>q7
 Charmante, n'est-ce pas ?
 
-Ah, et ça vous dérangerait de me donner le nom de l'idiot qui a truqué le mutagène ? Pour qu'on s'assure qu'il ne recommence pas ?<end>
+Ah, et ça vous dérangerait de me donner le nom de l'idiot qui a truqué le mutagène ? Histoire qu'on s'assure qu'il ne fasse pas la même erreur ?<end>
 
 =>a8_original
 Actually, someone from outside Fort Apogee did it.<end>
 
 =>a8
-En fait, c'est quelqu'un de l'extérieur de Fort Apogee.<end>
+En fait, c'est quelqu'un de l'extérieur, pas de Fort Apogee.<end>
 
 =>q9_original
 Oh? Why would you... Never mind, I hope you've learned from your mistakes.<end>
 
 =>q9
-Oh ? Pourquoi auriez-vous... Peu importe. J'espère que vous avez appris de vos erreurs.<end>
+Oh ? Pourquoi donc... Peu importe. J'espère que vous avez tiré les leçons de vos erreurs.<end>
 
 =>q10_original
 Are we leaving, Julius?<end>
@@ -80,7 +80,7 @@ The lady is impatient. We have to move on, I'm afraid. ::He chuckles.:: No rest 
 So, do you have any more questions before we leave?<end>
 
 =>q11
-La dame s'impatiente. Il faut y aller, j'en ai peur. ::Il rit.:: Pas de repos pour les méchants.
+La dame s'impatiente. Il va falloir y aller. ::Il ricane.:: Pas de repos pour les méchants.
 
 Alors, d'autres questions avant qu'on parte ?<end>
 
@@ -94,7 +94,7 @@ Alors, d'autres questions avant qu'on parte ?<end>
 You said you needed to see me?<end>
 
 =>a13
-Vous avez dit que vous aviez besoin de me voir ?<end>
+Vous aviez besoin de me voir ?<end>
 
 =>q14_original
 Yes, I did say that. You know, Corporal, there are two reasons why I picked you to help me with our little problem: The first one is, well, because you've demonstrated that you can get things done, and quite efficiently; you being a local also helps, as I've already explained earlier. The second reason... ::He pauses.::
@@ -102,27 +102,27 @@ Yes, I did say that. You know, Corporal, there are two reasons why I picked you 
 No, I won't reveal that - not yet, at least.<end>
 
 =>q14
-Oui, je l'ai dit. Vous savez, caporal, il y a deux raisons pour lesquelles je vous ai $(#choisi/choisie) pour m'aider sur notre petit problème : la première, c'est que vous avez montré que vous saviez faire avancer les choses, et plutôt efficacement ; le fait d'être du cru aide aussi, comme je l'ai déjà expliqué. La seconde... ::Il s'arrête.::
+Oui, je l'ai dit. Vous savez, caporal, il y a deux raisons pour lesquelles je vous ai $(#choisi/choisie) pour m'aider à régler notre petit problème. La première : vous avez montré que vous saviez faire le boulot, et plutôt efficacement. Être du cru aide aussi, comme je l'ai déjà expliqué. La seconde... ::Il s'arrête.::
 
-Non, je ne la dirai pas. Pas encore, du moins.<end>
+Non. Je ne révélerai pas ça. Pas encore, du moins.<end>
 
 =>q15_original
 No rest for the wicked, Corporal - let's talk business! These mongrels, the Free Drones, they are going to pay dearly for their insolence. They are going to suffer, for it will be their punishment and a sign to their comrades in the North as to what awaits them too should they continue with their meaningless efforts.<end>
 
 =>q15
-Pas de repos pour les méchants, caporal. Parlons affaires. Ces bâtards, les Free Drones, vont payer cher leur insolence. Ils vont souffrir : ce sera leur punition, et un signal pour leurs camarades du Nord, de ce qui les attend s'ils continuent leurs efforts inutiles.<end>
+Pas de repos pour les méchants, caporal. Parlons affaires. Ces bâtards, les Free Drones, vont payer cher leur insolence. Ils vont souffrir : ce sera leur punition, et un signal à leurs camarades du Nord. Voilà ce qui les attend, eux aussi, s'ils persistent dans leurs efforts vains.<end>
 
 =>q16_original
 ::He pauses to observe you for a moment, then continues.:: People say that CAU, or chems, how we're often called, is a unit characterized with inhumanness and brutality. We melt our enemies, we gas them - burn them. But they are wrong on one important point, and that is that we have never killed a single human being. We've only dealt with dogs, mongrels. And their lives certainly cannot be valued the same as ours.<end>
 
 =>q16
-::Il s'arrête pour vous observer un instant, puis reprend.:: On dit que le CAU, ou les chems, comme on nous appelle souvent, est une unité d'inhumanité et de brutalité. On fait fondre nos ennemis, on les gaze, on les brûle. Mais ils se trompent sur un point important : nous n'avons jamais tué un seul être humain. On n'a eu affaire qu'à des chiens, des bâtards. Et leur vie n'a certainement pas la même valeur que la nôtre.<end>
+::Il s'arrête pour vous observer un instant, puis reprend.:: On dit que la CAU, ou les chems, comme on nous appelle souvent, est une unité inhumaine et brutale. On fait fondre nos ennemis, on les gaze, on les brûle. Mais ils se trompent sur un point important : nous n'avons jamais tué un seul être humain. On n'a eu affaire qu'à des chiens, des bâtards. Et leur vie n'a pas la même valeur que la nôtre, c'est certain.<end>
 
 =>a17_original
 There are numerous problems with what you just said.<end>
 
 =>a17
-Il y a de nombreux problèmes dans ce que vous venez de dire.<end>
+Il y a un tas de problèmes dans ce que vous venez de dire.<end>
 
 =>q18_original
 I see none, Corporal. ::He laughs.::<end>
@@ -140,7 +140,7 @@ We need mutagen.<end>
 =>q19
 Comme je l'ai dit : pas de repos pour les méchants. Il est temps d'abattre les chiens.
 
-Le plan est prêt. Il manque un ingrédient, toutefois, pour corser le tout, caporal, pour vraiment montrer à ces bâtards anarchistes à qui ils ont affaire.
+Le plan est prêt. Il manque un ingrédient, toutefois, pour corser le tout, caporal. Pour vraiment montrer à ces bâtards anarchistes à qui ils ont affaire.
 
 Il nous faut du mutagène.<end>
 
@@ -154,7 +154,7 @@ Du mutagène ?<end>
 Yes, Corporal, mutagen. We will use it to strike at the Free Drones hideout. From what I understand, they are hidden in some... passages, under-passages, whatever it is. That's narrow space, confined.<end>
 
 =>q21
-Oui, caporal, du mutagène. On s'en servira pour frapper la cachette des Free Drones. D'après ce que je comprends, ils sont planqués dans des... passages, des sous-passages, peu importe. Un espace étroit, confiné.<end>
+Oui, caporal, du mutagène. On s'en servira pour frapper le repaire des Free Drones. D'après ce que je comprends, ils sont planqués dans des... passages, des under-passages, peu importe. Un espace étroit, confiné.<end>
 
 =>a22_original
 You're going to gas them? What is this mutagen going to do to them exactly?<end>
@@ -168,9 +168,9 @@ Vous allez les gazer ? Qu'est-ce que ce mutagène va leur faire, exactement ?<en
 So, relax and let them get a taste of their past misbehavior.<end>
 
 =>q23
-::Il rit.:: Ne soyez pas si tendre, caporal. Vous croyez qu'ils se souciaient de nos soldats, quand ils ont fait sauter Epione Lab ? Bien sûr que non. Tuer, c'est une des choses de la vie qui n'a pas de règles, et quiconque essaie d'en imposer est un imbécile. En plus, les Drones ont déjà utilisé des armes biochimiques. Vous ne le saviez pas ?
+::Il rit.:: Ne soyez pas si tendre, caporal. Vous croyez qu'ils se sont souciés de nos soldats, quand ils ont fait sauter Epione Lab ? Bien sûr que non. Tuer, c'est une des choses de la vie qui n'a pas de règles, et quiconque essaie d'en poser est un imbécile. En plus, les Drones ont déjà utilisé des armes biochimiques. Vous ne le saviez pas ?
 
-Alors détendez-vous, et laissez-les goûter à leur mauvaise conduite passée.<end>
+Alors détendez-vous, et laissez-les goûter à ce qu'ils ont fait.<end>
 
 =>a24_original
 So, you want me to obtain some mutagen for you?<end>
@@ -184,9 +184,9 @@ Indeed. We'll need at least two standard mutagen cans. Just to be on the safe si
 Obtaining it, well, could be a problem; however, we do know of *one* location where this mutagen could possibly be found.<end>
 
 =>q25
-En effet. Il nous faudra au moins deux bidons de mutagène standard. Pour être sûrs. 
+En effet. Il nous faudra au moins deux bidons de mutagène standard. Pour être sûrs.
 
-S'en procurer, eh bien, ça pourrait poser problème ; toutefois, on connaît *un* endroit où on pourrait éventuellement en trouver.<end>
+S'en procurer, eh bien, ça pourrait poser problème. Cela dit, on connaît *un* endroit où on pourrait éventuellement en trouver.<end>
 
 =>a26_original
 Is this it? ::Show him the two mutagen cans.::<end>
@@ -198,7 +198,7 @@ C'est ça ? ::Lui montrer les deux bidons de mutagène.::<end>
 ::He takes the mutagen cans from you, holding one in each hand and inspecting them.:: I'm impressed, Corporal. This is what we need. What else do you carry around with you? Do you happen to have some secret super weapon humanity is yet unaware of? ::He laughs.::<end>
 
 =>q27
-::Il vous prend les bidons de mutagène, un dans chaque main, et les inspecte.:: Je suis impressionné, caporal. C'est ce qu'il nous faut. Qu'est-ce que vous trimballez d'autre ? Vous n'auriez pas, par hasard, une super-arme secrète dont l'humanité n'aurait pas encore entendu parler ? ::Il rit.::<end>
+::Il vous prend les bidons de mutagène, un dans chaque main, et les inspecte.:: Je suis impressionné, caporal. C'est ce qu'il nous faut. Qu'est-ce que vous trimballez d'autre ? Vous n'auriez pas, par hasard, une super-arme secrète dont l'humanité n'a pas encore entendu parler ? ::Il rit.::<end>
 
 =>q28_original
 Yes, these will do just fine. D5 - perfect! That is perfect, Corporal. Exactly what we need. 
@@ -222,7 +222,7 @@ Now we just need to prepare the mutagen, as we can't use it like this. We need a
 One minute should do the trick, got it?<end>
 
 =>q30
-Il ne reste plus qu'à préparer le mutagène, on ne peut pas s'en servir comme ça. Il nous faut un mécanisme qui libère le gaz après un délai, une fois qu'on sera... loin. ::Il sourit.::
+Il ne reste plus qu'à préparer le mutagène : on ne peut pas le lâcher tel quel. Il nous faut un mécanisme qui libère le gaz après un délai, une fois qu'on sera... loin. ::Il sourit.::
 
 Une minute devrait suffire. Compris ?<end>
 
@@ -236,7 +236,7 @@ Qui peut faire un truc pareil ?<end>
 I'm sure there's someone in Fort Apogee competent enough to perform this job. Actually, I *hope* there is.<end>
 
 =>q32
-Je suis sûr qu'il y a quelqu'un à Fort Apogee assez compétent pour ça. En fait, j'*espère* qu'il y a.<end>
+Je suis sûr qu'il y a quelqu'un à Fort Apogee assez compétent pour ça. En fait, j'*espère* qu'il y en a un.<end>
 
 =>a33_original
 I'll go find someone.<end>
@@ -256,9 +256,9 @@ Once you have everything ready, go to the Rail Crossing under-passage entrance. 
 What are you waiting for, Corporal? Get your Southerner legs moving.<end>
 
 =>q35
-Quand tout sera prêt, rendez-vous à l'entrée du sous-passage de Rail Crossing. On y va tout de suite, pour reconnaître le secteur avant que vous arriviez.
+Quand tout sera prêt, rendez-vous à l'entrée des under-passages de Rail Crossing. On y va tout de suite, pour reconnaître le secteur avant que vous arriviez.
 
-Qu'est-ce que vous attendez, caporal ? Faites bouger vos jambes de sudiste.<end>
+Qu'est-ce que vous attendez, caporal ? Bougez-moi ces jambes de sudiste.<end>
 
 =>a36_original
 Will do.<end>
@@ -270,7 +270,7 @@ Compris.<end>
 Why do *I* have to do all the hard work?<end>
 
 =>a37
-Pourquoi c'est *moi* qui dois faire tout le sale boulot ?<end>
+Pourquoi c'est *moi* qui dois me coltiner tout le boulot ?<end>
 
 =>q38_original
 Because *I* said so. Must I remind you of my rank, must I remind you who sent me here and why? 
@@ -278,7 +278,7 @@ Because *I* said so. Must I remind you of my rank, must I remind you who sent me
 Really... Corporal. Now go!<end>
 
 =>q38
-Parce que *je* l'ai dit. Dois-je vous rappeler mon grade, qui m'a envoyé ici, et pourquoi ?
+Parce que *je* l'ai dit. Faut-il vous rappeler mon grade ? Qui m'a envoyé ici, et pourquoi ?
 
 Vraiment... caporal. Allez-y, maintenant !<end>
 
@@ -286,13 +286,13 @@ Vraiment... caporal. Allez-y, maintenant !<end>
 What does "D5" mean?<end>
 
 =>a39
-Que signifie « D5 » ?<end>
+D5, ça veut dire quoi ?<end>
 
 =>q40_original
 It's a type of mutagen. A very nice type, I must say. I don't want to spoil anything. You'll see it in action soon enough.<end>
 
 =>q40
-C'est un type de mutagène. Un très joli type, je dois dire. Je ne veux rien gâcher. Vous le verrez à l'œuvre assez tôt.<end>
+C'est une variété de mutagène. Une très belle, je dois dire. Je ne veux rien gâcher. Vous le verrez à l'œuvre bien assez tôt.<end>
 
 =>a41_original
 You are really enjoying all of this, aren't you?<end>
@@ -306,21 +306,21 @@ Every second of it, yes. Got anything against it, Corporal? Don't you want to se
 I'm just doing my duty... with a wicked smile on my face.<end>
 
 =>q42
-Chaque seconde, oui. Vous y voyez un inconvénient, caporal ? Vous ne voulez pas voir les Drones disparaître, caporal ?
+Chaque seconde, oui. Ça vous pose un problème, caporal ? Vous ne voulez pas voir les Drones disparaître, caporal ?
 
-Je fais simplement mon devoir... avec un sourire méchant.<end>
+Je fais simplement mon devoir... le sourire du méchant aux lèvres.<end>
 
 =>a43_original
 Where is that?<end>
 
 =>a43
-Où est-ce ?<end>
+Où ça ?<end>
 
 =>q44_original
 It's some... ancient facility, long abandoned, as they all are. One of Biocorp's disposal facilities. I mean... they have these little outposts, bases, installations all over Underrail. Who knows what gems still remain hidden?<end>
 
 =>q44
-C'est une... vieille installation, abandonnée depuis longtemps, comme elles le sont toutes. Un des sites d'élimination de Biocorp. Je veux dire... ils ont ces petits avant-postes, bases, installations un peu partout dans l'Underrail. Qui sait quelles pépites restent encore cachées ?<end>
+C'est une... vieille installation, abandonnée depuis longtemps, comme elles le sont toutes. Un des sites d'élimination de Biocorp. Je veux dire... ils ont ces petits avant-postes, bases, installations un peu partout dans Underrail. Qui sait quelles pépites restent encore cachées ?<end>
 
 =>a45_original
 How do I find it and what kind of mutagen am I looking for?<end>
@@ -332,7 +332,7 @@ Comment je le trouve, et quel type de mutagène je cherche ?<end>
 The only thing I know it's in the cave system north of Rail Crossing. The rest is up to you. You're the Southerner, you know how to get around better than I do.<end>
 
 =>q46
-La seule chose que je sache, c'est que c'est dans le système de grottes au nord de Rail Crossing. Le reste, c'est à vous. Vous êtes sudiste, vous savez mieux vous déplacer que moi.<end>
+La seule chose que je sache, c'est que c'est dans le système de grottes au nord de Rail Crossing. Le reste, c'est à vous. Vous êtes sudiste, vous connaissez le terrain mieux que moi.<end>
 
 =>q47_original
 As for what you need, mutagen marked as *D4* or *D5* is what we need. 
@@ -360,7 +360,7 @@ Il y a beaucoup de mutants dans Old Junkyard. C'est ça que vous vouliez dire ?<
 I know little about it. Never went that far south. No, we located a different place. <end>
 
 =>q50
-J'en sais peu. Je ne suis jamais allé aussi loin au sud. Non, on a localisé un autre endroit. <end>
+J'en sais peu. Je ne suis jamais allé aussi loin au sud. Non, on a localisé un autre endroit.<end>
 
 =>a51_original
 I see the distinction you're making.<end>
@@ -372,7 +372,7 @@ Je vois la distinction que vous faites.<end>
 I'm glad, Corporal, and I'll remember that you do. It is important.<end>
 
 =>q52
-Je suis content, caporal, et je m'en souviendrai. C'est important.<end>
+Je suis content, caporal, et je me souviendrai que vous la voyez. C'est important.<end>
 
 =>a53_original
 Dogs are humans too!<end>
@@ -402,13 +402,13 @@ Où se trouve exactement la base des Free Drones ?<end>
 If the intel Colonel gave me - which came from the snitch that went silent before Epione was attacked - is correct, they are hiding in these... passages, under-passage, whatever it's called. You're local, you know it better than I do, Corporal.<end>
 
 =>q57
-Si le renseignement que le colonel m'a donné, et qui vient de la balance qui s'est tue avant l'attaque d'Epione, est correct, ils se cachent dans ces... passages, sous-passage, peu importe le nom. Vous êtes du cru, vous le savez mieux que moi, caporal.<end>
+Si le renseignement que le colonel m'a donné, et qui vient du mouchard qui s'est tu avant l'attaque d'Epione, est correct, ils se cachent dans ces... passages, under-passages, peu importe le nom. Vous êtes du cru, vous le savez mieux que moi, caporal.<end>
 
 =>q58_original
 The mutts have a lair over there. They think it's safe. Soon enough, though, we'll show them not to show their teeth to Underrail Protectorate. We can bite harder.<end>
 
 =>q58
-Les cabots ont un repaire, là-bas. Ils se croient en sécurité. Bientôt, on leur montrera qu'il ne faut pas montrer les dents à l'Underrail Protectorate. On mord plus fort.<end>
+Les cabots ont un repaire, là-bas. Ils se croient en sécurité. Bientôt, on leur apprendra à ne pas montrer les dents à l'Underrail Protectorate. On peut mordre plus fort.<end>
 
 =>a59_original
 How do you plan to use the mutagen against the Free Drones?<end>
@@ -432,19 +432,19 @@ Dites-le-moi quand même.<end>
 Suit yourself. Well, we plan to introduce the deadly mutagen into the Free Drones lair through a convenient ventilation system present throughout these passages. The mutagen we'll be using is in gaseous form, so with the right placement the mongrels will find themselves trapped, unable to escape the gas around them. After they come in contact with the gas they will suffer horrific mutations. What kinds of mutations? That I won't spoil.<end>
 
 =>q62
-Comme vous voudrez. Eh bien, on compte introduire le mutagène mortel dans le repaire des Free Drones, par un système de ventilation bien pratique, dans ces passages. Le mutagène qu'on utilisera est gazeux : avec le bon emplacement, les bâtards se retrouveront coincés, incapables d'échapper au gaz autour d'eux. Au contact du gaz, ils subiront d'horribles mutations. Quels types ? Ça, je ne le gâcherai pas.<end>
+Comme vous voudrez. Eh bien, on compte envoyer le mutagène mortel dans le repaire des Free Drones, par le système de ventilation qui court dans ces passages. Le mutagène qu'on utilisera est gazeux : avec le bon emplacement, les bâtards se retrouveront coincés, sans moyen d'échapper au gaz. Au contact, ils subiront d'horribles mutations. Quels types ? Ça, je ne gâche pas la surprise.<end>
 
 =>q63_original
 It'll serve the mutts right; they'd do it to us if they could. Now, I think it's fairly obvious we can't just stroll into their territory and do our business. Therefore, I still need to study these plans I've been given to find the most appropriate location from which to enter the ventilation system. I'll know more once I do so.<end>
 
 =>q63
-Bien fait pour les cabots ; ils nous le feraient s'ils pouvaient. Maintenant, il est assez évident qu'on ne peut pas se balader sur leur territoire et faire notre affaire. Il me faut donc encore étudier les plans qu'on m'a donnés, pour trouver le meilleur point d'entrée dans la ventilation. J'en saurai plus une fois que ce sera fait.<end>
+Bien fait pour les cabots ; ils nous le feraient s'ils pouvaient. Maintenant, il est assez évident qu'on ne peut pas débarquer sur leur territoire comme ça et faire ce qu'on a à faire. Il me faut donc encore étudier les plans qu'on m'a donnés, pour trouver le meilleur point d'entrée dans la ventilation. J'en saurai plus une fois que ce sera fait.<end>
 
 =>a64_original
 Actually, I'll wait and see.<end>
 
 =>a64
-En fait, je vais attendre et voir.<end>
+En fait, je vais attendre de voir.<end>
 
 =>q65_original
 ::He nods.::<end>
@@ -462,7 +462,7 @@ Parlez-moi de Dess.<end>
 Dess? Corporal, Dess completes the unit. She's young and very enthusiastic about being a part of CAU, unlike anyone else I've worked with so far; Void doesn't really show it as much, although his actions speak for him. Now Dess, she is one proficient and efficient assassin. She is obedient and I've never had to worry that she will second-guess any order or back away from anything.<end>
 
 =>q67
-Dess ? Caporal, Dess complète l'unité. Elle est jeune, et très enthousiaste d'être au CAU, plus que quiconque avec qui j'ai travaillé ; Void le montre moins, même si ses actes parlent pour lui. Dess, elle, c'est une assassine compétente et efficace. Obéissante. Je n'ai jamais eu à craindre qu'elle discute un ordre ou qu'elle recule.<end>
+Dess ? Caporal, Dess complète l'unité. Elle est jeune, et très enthousiaste de faire partie de la CAU, plus que quiconque avec qui j'ai travaillé jusqu'ici. Void le montre moins, même si ses actes parlent pour lui. Dess, elle, c'est une assassine compétente et efficace. Obéissante. Je n'ai jamais eu à craindre qu'elle discute un ordre ou qu'elle recule.<end>
 
 =>q68_original
 ::Surprisingly, his tone turns serious.:: With that said, she can sometimes get a bit too carried away. I mean, I have no sympathy for the dogs we usually deal with, but there were a few instances where her... overzealousness almost cost us our lives.
@@ -470,7 +470,7 @@ Dess ? Caporal, Dess complète l'unité. Elle est jeune, et très enthousiaste d
 It all lies in her past, Corporal.<end>
 
 =>q68
-::Étonnamment, son ton devient sérieux.:: Cela dit, elle peut parfois s'emballer un peu trop. Je n'ai aucune sympathie pour les chiens dont on s'occupe d'habitude, mais il y a eu quelques cas où son... zèle nous a presque coûté la vie.
+::Étonnamment, son ton devient sérieux.:: Cela dit, elle peut parfois s'emballer un peu trop. Je n'ai aucune sympathie pour les chiens dont on s'occupe d'habitude, mais il y a eu quelques cas où son... excès de zèle nous a presque coûté la vie.
 
 Tout ça vient de son passé, caporal.<end>
 
@@ -484,7 +484,7 @@ Son passé ?<end>
 ::He hesitates a bit but continues.:: I think you'll find this hard to believe, Corporal, but, she used to be a math teacher in one private school in Hexagon. She never told me that herself, I read that from her record. Most exemplary citizen she was, and one of the best teachers the school has ever had. I don't know what happened, but one day she didn't show up for work. Two days later, she was found stabbing her ex husband not too far from Dis.<end>
 
 =>q70
-::Il hésite un peu, puis continue.:: Vous aurez du mal à le croire, caporal, mais elle a été prof de maths dans une école privée, à Hexagon. Elle ne me l'a jamais dit elle-même, je l'ai lu dans son dossier. Citoyenne des plus exemplaires, et l'une des meilleures enseignantes que l'école ait eues. Je ne sais pas ce qui s'est passé, mais un jour elle n'est pas venue travailler. Deux jours plus tard, on l'a trouvée en train de poignarder son ex-mari, pas loin de Dis.<end>
+::Il hésite un peu, puis continue.:: Vous aurez du mal à le croire, caporal, mais elle a été prof de maths dans une école privée, à Hexagon. Elle ne me l'a jamais dit elle-même, je l'ai lu dans son dossier. Citoyenne modèle, et l'une des meilleures enseignantes que l'école ait eues. Je ne sais pas ce qui s'est passé, mais un jour elle n'est pas venue travailler. Deux jours plus tard, on l'a trouvée en train de poignarder son ex-mari, pas loin de Dis.<end>
 
 =>q71_original
 Whatever triggered the transformation, no one knows. And many wondered. Now, she is with us - and everyone is happy. 
@@ -492,7 +492,7 @@ Whatever triggered the transformation, no one knows. And many wondered. Now, she
 We'll be changing the subject now, Corporal.<end>
 
 =>q71
-Ce qui a déclenché la transformation, personne ne le sait. Et beaucoup se sont posé la question. Maintenant, elle est avec nous, et tout le monde est content. 
+Ce qui a déclenché la transformation, personne ne le sait. Et beaucoup se sont posé la question. Maintenant, elle est avec nous, et tout le monde est ravi.
 
 On change de sujet, caporal.<end>
 
@@ -532,21 +532,21 @@ No, it is not, Corporal. He never told me his real name. He can speak, though, h
 He never objected to the name.<end>
 
 =>q77
-Non, caporal. Il ne m'a jamais dit son vrai nom. Il peut parler, simplement il choisit de ne pas le faire, la plupart du temps. On l'appelle Void parce que c'est la seule chose qu'on voit, dans ses yeux.
+Non, caporal. Il ne m'a jamais dit son vrai nom. Il peut parler, simplement il choisit de ne pas le faire, la plupart du temps. On l'appelle Void parce que c'est la seule chose qu'on voit dans ses yeux.
 
-Il n'a jamais objecté au nom.<end>
+Il n'a jamais rien dit contre ce nom.<end>
 
 =>a78_original
 What can you tell me about the Chemical Assault Unit?<end>
 
 =>a78
-Que pouvez-vous me dire sur le Chemical Assault Unit ?<end>
+Que pouvez-vous me dire sur la Chemical Assault Unit ?<end>
 
 =>q79_original
 We do the dirty work, Corporal. Unfortunately, when mess like the one with Epione happens, someone has to clear it all up. Now, we can't repair the damage that's been done, unfortunately for us, but... we can make sure that those dogs, the Free Drones, never make the same mistake.<end>
 
 =>q79
-On fait le sale boulot, caporal. Malheureusement, quand un dégât comme Epione arrive, il faut bien que quelqu'un nettoie. On ne peut pas réparer les dégâts, malheureusement pour nous, mais... on peut s'assurer que ces chiens, les Free Drones, ne recommenceront pas.<end>
+On fait le sale boulot, caporal. Malheureusement, quand un gâchis comme celui d'Epione arrive, il faut bien que quelqu'un nettoie. On ne peut pas réparer les dégâts déjà faits, malheureusement pour nous, mais... on peut s'assurer que ces chiens, les Free Drones, ne recommenceront pas.<end>
 
 =>a80_original
 What mistake?<end>
@@ -578,7 +578,7 @@ Never heard of him... Will... stupid name. Like Todd.
 We'll take care of it, Corporal, don't worry.<end>
 
 =>q84
-Jamais entendu parler... Will... nom stupide. Comme Todd. 
+Jamais entendu parler... Will... nom stupide. Comme Todd.
 
 On s'en occupera, caporal, ne vous inquiétez pas.<end>
 
@@ -596,7 +596,7 @@ Forget I... ::He continues laughing.:: forget I said anything... Ah, Corporal, l
 =>q86
 ::Le capitaine éclate de rire.::
 
-Oubliez que... ::Il continue de rire.:: oubliez ce que j'ai dit... Ah, caporal, la vie peut être si extraordinaire, parfois. N'est-ce pas ?<end>
+Oubliez que... ::Il continue de rire.:: oubliez ce que j'ai dit... Ah, caporal, la vie peut être si incroyable, parfois. N'est-ce pas ?<end>
 
 =>a87_original
 That's because I'm the Invictus. I am invincible.<end>
@@ -610,15 +610,15 @@ Oh, it must be some southern thing I don't understand. Oh wait... you're talking
 Whatever you say, Corporal; you are really amusing.<end>
 
 =>q88
-Oh, ça doit être un truc du Sud que je ne comprends pas. Oh attendez... vous parlez de... l'Arena ? ::Il rit.::
+Oh, ça doit être un truc du Sud que je ne comprends pas. Oh, attendez... vous parlez de... l'Arena ? ::Il rit.::
 
-Quoi que vous disiez, caporal ; vous êtes vraiment $(#amusant/amusante).<end>
+Quoi que vous disiez, caporal. Vous êtes vraiment $(#amusant/amusante).<end>
 
 =>q89_original
 In the end, what matters the most is that the Free Drones are gone. Well, not all of them, some are scattered throughout South Underrail, but their main... lair is gone for good.<end>
 
 =>q89
-Au bout du compte, ce qui compte, c'est que les Free Drones aient disparu. Pas tous, il en reste de dispersés dans South Underrail, mais leur... repaire principal a disparu pour de bon.<end>
+Au bout du compte, ce qui compte, c'est que les Free Drones aient disparu. Pas tous : il en reste, éparpillés dans South Underrail, mais leur... repaire principal a disparu pour de bon.<end>
 
 =>a90_original
 I'm not a dog, Captain. I'm a $(#man/woman).<end>
@@ -636,7 +636,7 @@ J'aime votre choix de mots, caporal. Vraiment. Vous avez fait preuve d'une belle
 Meh... Not a challenge for me...<end>
 
 =>a92
-Meh... Pas un défi, pour moi...<end>
+Meh... Même pas un défi, pour moi...<end>
 
 =>q93_original
 You weren't so confident in those vents... but whatever you say, Corporal. In all honesty, you have proven to be quite resilient. As our cowardly consul would say - bravo!
@@ -674,7 +674,7 @@ Suivez-moi.<end>
 ::Captain Mareth awaits you with obvious impatience.:: You sure took your time, Corporal. Did you do as I ordered?<end>
 
 =>q98
-::Le capitaine Mareth vous attend, visiblement impatient.:: Vous avez bel et bien pris votre temps, caporal. Avez-vous fait ce que j'ai ordonné ?<end>
+::Le capitaine Mareth vous attend, visiblement impatient.:: Vous avez mis le temps, caporal. Vous avez fait ce que j'ai ordonné ?<end>
 
 =>a99_original
 Yes, sir. Here it is. ::Show him the rigged mutagen cans.::<end>
@@ -686,13 +686,13 @@ Oui, monsieur. Les voici. ::Lui montrer les bidons de mutagène truqués.::<end>
 Good enough. Corporal, the show's almost starting - so get ready.<end>
 
 =>q100
-Ça ira. Caporal, le spectacle va bientôt commencer. Préparez-vous.<end>
+Bien. Caporal, le spectacle va bientôt commencer. Préparez-vous.<end>
 
 =>q101_original
 The plan is simple: We've studied the maps we've managed to gather, and located the perfect spot to release the mutagen. It's in the ventilation system right behind this door. Once placed, the gas will find its way right into the lair of those hounds and... exterminate them.<end>
 
 =>q101
-Le plan est simple : on a étudié les cartes qu'on a pu rassembler, et on a trouvé l'endroit idéal pour relâcher le mutagène. Dans la ventilation, juste derrière cette porte. Une fois en place, le gaz ira tout droit dans le repaire de ces chiens et... les exterminera.<end>
+Le plan est simple : on a étudié les cartes qu'on a pu rassembler, et on a trouvé l'endroit idéal pour relâcher le mutagène. Dans la ventilation, juste derrière cette porte. Une fois en place, le gaz ira tout droit dans le repaire de ces cabots et... les exterminera.<end>
 
 =>q102_original
 I think everything is clear. ::He turns to Void.::
@@ -702,7 +702,7 @@ Void, open the gate.<end>
 =>q102
 Je pense que tout est clair. ::Il se tourne vers Void.::
 
-Void, ouvrez la porte.<end>
+Void, ouvre la porte.<end>
 
 =>a103_original
 I'm ready to go, Captain.<end>
@@ -720,7 +720,7 @@ Je suis $(#prêt/prête) à y aller, capitaine.<end>
 ::Watch.::<end>
 
 =>a105
-::Observer.::<end>
+::Regarder.::<end>
 
 =>a106_original
 Wait... I'm not ready.<end>
@@ -732,7 +732,7 @@ Attendez... Je ne suis pas $(#prêt/prête).<end>
 ::He chuckles, then motions Void to open the gate.::<end>
 
 =>q107
-::Il rit, puis fait signe à Void d'ouvrir la porte.::<end>
+::Il ricane, puis fait signe à Void d'ouvrir la porte.::<end>
 
 =>a108_original
 Not yet, I'll be back later.<end>

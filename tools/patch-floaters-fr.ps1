@@ -23,6 +23,9 @@ $replacements = @(
   @{ En = 'Locking successful.'; Fr = 'Verrouillage OK.' }              # 19 -> 17
   @{ En = 'Lock disabled successfully.'; Fr = ('Serrure d' + $e + 'sactiv' + $e + 'e.') } # 27 -> 20
   @{ En = 'Unlocked.'; Fr = 'Ouvert.' }                                 # 9 -> 7
+  @{ En = 'Item sold: '; Fr = 'Vendu : ' }                              # 11 -> 8
+  @{ En = 'Item purchased: '; Fr = ('Achet' + $e + ' : ') }             # 16 -> 9
+  @{ En = "You've bumped into another character and stumbled out of stealth."; Fr = ("Tu rentres dans quelqu'un. Plus de furtivit" + $e + ".") } # 65
 )
 
 function Find-Utf16([byte[]]$bytes, [string]$text) {

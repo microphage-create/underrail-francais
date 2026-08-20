@@ -4,9 +4,9 @@
 Take that!<end>
 
 =>q1
-::En vous approchant de Constantine, vous entendez un craquement inhabituel, dehors, le temps d'un instant. Pas assourdissant, mais assez fort pour vous faire sursauter. Une seconde plus tard, autre bruit : un cadavre qui dégringole le long du mur extérieur. Puis plus rien. Constantine se contente de rire de la scène.::
+::En vous approchant de Constantine, vous entendez un craquement inhabituel, dehors, le temps d'un instant. Pas assourdissant, mais assez fort pour vous faire sursauter. Une seconde plus tard, autre bruit : un cadavre qui dégringole le long du mur extérieur. Puis plus rien. Constantine, lui, se marre.::
 
-Tiens, prends ça !<end>
+Prends ça !<end>
 
 =>q2_original
 <end>
@@ -18,13 +18,13 @@ Tiens, prends ça !<end>
 Show me what you have in store. ::Barter::<end>
 
 =>a3
-Voir ce que vous avez. ::Troc::<end>
+Voir ce que vous avez en stock. ::Troc::<end>
 
 =>a4_original
 ::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
 
 =>a4
-::[Mercantile]:: Disons... et si vous me montriez le vrai bon matos, hein ? Être relativement nouveau ici veut pas dire que je suis fauché.<end>
+::[Mercantile]:: Dites... et si vous me sortiez le vrai bon matos, hein ? Être nouveau ici, ça veut pas dire que je suis fauché.<end>
 
 =>q5_original
 What makes you think I have the "good stuff"?<end>
@@ -36,7 +36,7 @@ Qu'est-ce qui vous fait croire que j'ai le « bon matos » ?<end>
 Being observant is a requirement here if I'm not mistaken.<end>
 
 =>a6
-Être observateur, ici, c'est un prérequis, si je me trompe pas.<end>
+Faut avoir l'œil, ici, si je me trompe pas.<end>
 
 =>q7_original
 Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
@@ -54,7 +54,7 @@ Observateur, vous dites... ::Il s'arrête.:: Ça, vous l'êtes, c'est sûr, $(co
 No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
 
 =>q9
-Non, ça veut pas dire ça. Ça veut pas dire que vous êtes riche non plus. De toute façon, j'ai rien d'autre pour vous.<end>
+Non, effectivement. Mais ça veut pas dire que vous êtes riche non plus. De toute façon, j'ai rien d'autre pour vous.<end>
 
 =>a10_original
 How and why did you join Oculus?<end>
@@ -66,7 +66,7 @@ Comment et pourquoi vous avez rejoint Oculus ?<end>
 Well, we all go through a similar phase. You do small jobs, then, if they like you, they give you bigger jobs, those that require more of your skills. You've been through it all, you know it.<end>
 
 =>q11
-On passe tous par à peu près la même phase. Petits boulots d'abord, et s'ils vous aiment bien, des plus gros, ceux qui demandent plus de compétences. Vous êtes passé par là, vous savez.<end>
+On passe tous par à peu près la même phase. Petits boulots d'abord, et s'ils vous aiment bien, des plus gros, ceux qui demandent plus de compétences. Vous êtes passé par là, vous savez ce que c'est.<end>
 
 =>q12_original
 As to *why* I joined...
@@ -76,7 +76,7 @@ As to *why* I joined...
 =>q12
 Quant à *pourquoi* j'ai rejoint...
 
-::Il élève la voix.:: Pour rester planté toute la journée sur cette putain de plateforme 2x2 au fond de cette putain de pyramide... Arrrgh !<end>
+::Il élève la voix.:: Pour rester coincé toute la journée sur cette putain de, cette putain de plateforme 2x2 au fond de la pyramide... Arrrgh !<end>
 
 =>q13_original
 ::Clears throat.:: I apologize. Um... It was a pursuit of... work. Work brings money, money can be used to buy food and equipment. So, now I'm here. Selling... equipment...
@@ -84,7 +84,7 @@ Quant à *pourquoi* j'ai rejoint...
 For money!<end>
 
 =>q13
-::Il s'éclaircit la gorge.:: Je m'excuse. Euh... C'était une quête de... travail. Le travail rapporte de l'argent, l'argent achète de la bouffe et du matériel. Alors me voilà. À vendre... du matériel...
+::Il s'éclaircit la gorge.:: Je m'excuse. Euh... C'était pour... le boulot. Le boulot rapporte de l'argent, l'argent achète de la bouffe et du matos. Alors me voilà. À vendre... du matos...
 
 Pour de l'argent !<end>
 
@@ -92,19 +92,19 @@ Pour de l'argent !<end>
 So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cramped in here?<end>
 
 =>a14
-Alors, ça fait quoi, de travailler au plus bas niveau d'Oculus ? C'est pas un peu... étroit, ici ?<end>
+Alors, ça fait quoi, de travailler tout en bas d'Oculus ? C'est pas un peu... à l'étroit, ici ?<end>
 
 =>q15_original
 Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
 
 =>q15
-Bien sûr que c'est étroit, vous croyez vraiment que j'ai pas remarqué ? Je peux même pas bouger un pied sans me taper dans un truc ! Toutes ces putain de caisses, j'aimerais toutes les envoyer dans le vide d'un coup de pied ! Arggh !<end>
+Bien sûr que c'est à l'étroit, vous croyez vraiment que j'ai pas remarqué ? Je peux même pas avancer d'un pas sans me taper dans un truc ! Toutes ces putains de caisses, j'aimerais toutes les balancer dans le vide d'un coup de pied ! Arggh !<end>
 
 =>q16_original
 ::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
 
 =>q16
-::Il s'éclaircit la gorge.:: Je m'excuse, vous n'auriez pas dû voir ça. Je suis d'accord, l'endroit est un peu... hmm, limité côté place, et en plus, tout en bas d'Oculus, j'entends... des choses qui essaient d'entrer.<end>
+::Il s'éclaircit la gorge.:: Je m'excuse, vous auriez pas dû voir ça. Je suis d'accord, l'endroit est un peu... hmm, limité côté place, et en plus, tout en bas d'Oculus, j'entends... des choses qui essaient d'entrer.<end>
 
 =>a17_original
 What things?<end>
@@ -116,7 +116,7 @@ Quelles choses ?<end>
 Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
 
 =>q18
-Des Crawlers, par exemple. Je les entends grimper aux murs. Un bruit faible, tout en bas d'Oculus, qui se rapproche doucement... et qui grossit. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là. Peut-être qu'elle entend qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qu'on peut... consommer.<end>
+Des crawlers, par exemple. Je les entends grimper aux murs. Un bruit faible, tout en bas d'Oculus, qui se rapproche doucement... et qui grossit. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là. Peut-être qu'elle entend qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qu'on peut... dévorer.<end>
 
 =>q19_original
 But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
@@ -136,7 +136,7 @@ Si vous entendez des trucs bizarres, c'est peut-être le moment de lâcher la bi
 Khm, I hope you were joking... I don't drink.<end>
 
 =>q21
-::Dès qu'il entend ces mots, sa mâchoire se serre et son visage vire au rouge, lentement. Son regard perce comme une radiation haute fréquence qui vous déchirerait les tissus. Il se calme vite, expire lentement, retrouve sa couleur.::
+::Dès qu'il entend ces mots, sa mâchoire se serre et son visage vire au rouge, lentement. Son regard perce comme une radiation haute fréquence qui vous déchire les tissus. Il se calme vite, expire lentement, retrouve sa couleur.::
 
 Khm. J'espère que vous plaisantiez... Je bois pas.<end>
 
@@ -144,7 +144,7 @@ Khm. J'espère que vous plaisantiez... Je bois pas.<end>
 I was talking about crawlers, not something I imagined, as you... *jokingly* implied. I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
 
 =>q22
-Je parlais de Crawlers, pas d'un truc que j'aurais imaginé, comme vous... *en plaisantant* l'avez laissé entendre. Je les entends grimper aux murs. Un bruit faible, tout en bas d'Oculus, qui se rapproche doucement... et qui grossit. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là. Peut-être qu'elle entend qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qu'on peut... consommer.<end>
+Je parlais de crawlers, pas d'un truc que j'aurais imaginé, comme vous... *en plaisantant* l'avez laissé entendre. Je les entends grimper aux murs. Un bruit faible, tout en bas d'Oculus, qui se rapproche doucement... et qui grossit. Puis ça s'arrête... Vous oubliez la créature, mais elle est toujours là. Peut-être qu'elle entend qu'il y a quelque chose à l'intérieur, quelque chose de vivant... quelque chose qu'on peut... dévorer.<end>
 
 =>a23_original
 What is EDS?<end>
@@ -156,13 +156,13 @@ C'est quoi, EDS ?<end>
 Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
 
 =>q24
-Electric Defense System. Pas le nom officiel, hein. L'original, il n'est connu que de... de ceux qui ont construit Oculus.<end>
+Electric Defense System. Pas le nom officiel, hein. L'original, y a que... ceux qui ont construit Oculus qui le connaissent.<end>
 
 =>q25_original
 I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
 
 =>q25
-Aucune idée de comment ça marche, mais en gros, ça envoie une décharge dans tout ce qu'il juge dangereux, et ça grille. Et c'est malin : le système sait ce qui doit mourir et ce qui doit pas. Ça peut, bon, distraire, des fois... entendre des Lunatics en feu hurler et dégringoler dans le vide. Mais encore une fois, ça me fait aussi sourire.<end>
+Aucune idée de comment ça marche, mais en gros, ça envoie une décharge dans tout ce qu'il juge dangereux, et ça grille. Et c'est malin : le système sait ce qui doit mourir et ce qui doit pas. Ça peut, bon, distraire, des fois... entendre des Lunatics en feu hurler et dégringoler dans le vide. Mais ça me fait aussi sourire.<end>
 
 =>q26_original
 'Cause I hate those bastards!<end>
@@ -180,7 +180,7 @@ Vous avez parlé des Lunatics. C'est qui ?<end>
 You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
 
 =>q28
-Vous savez pas qui sont les Lunatics ? Restez un peu, vous le saurez peut-être. Enfin, vous les entendrez essayer de grimper Oculus : ils vivent tout près du fond. Contrairement aux Crawlers, les Lunatics arrivent toujours en groupe.<end>
+Vous savez pas qui sont les Lunatics ? Restez un peu, vous le saurez peut-être. Enfin, vous les entendrez essayer de grimper le long d'Oculus : ils vivent tout près du fond. Contrairement aux crawlers, les Lunatics arrivent toujours en groupe.<end>
 
 =>a29_original
 Do they bother you often?<end>
@@ -192,7 +192,7 @@ Ils vous embêtent souvent ?<end>
 Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
 
 =>q30
-S'ils m'embêtent ? S'ils m'embêtent ? Putain, oui ! On dirait que je suis maudit par ça, cet orbe d'agacement qui me tourne autour de la tête et qui fait arriver toutes sortes de, de trucs exaspérants !<end>
+S'ils m'embêtent ? S'ils m'embêtent ? Putain, oui ! On dirait que je suis maudit par ça, cette... cette boule d'emmerdes qui me tourne autour de la tête et qui fait arriver toutes sortes de, de trucs rageants !<end>
 
 =>q31_original
 "WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
@@ -202,13 +202,13 @@ They just... have to give it another go! And another, and another...<end>
 =>q31
 « WHAAAAAAAAAAAA ! On va rentrer, même s'il y a un tas de cadavres carbonisés sous Oculus. »
 
-Ils peuvent pas... s'empêcher de réessayer ! Et encore, et encore...<end>
+Ils peuvent pas... s'empêcher de retenter ! Et encore, et encore...<end>
 
 =>q32_original
 Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
 
 =>q32
-Khm... je m'excuse. Ces trucs me tapent vraiment sur les nerfs, des fois, et je... réagis un peu trop, parfois.<end>
+Khm... Je m'excuse. Ces trucs me tapent vraiment sur les nerfs, des fois, et je... m'emballe un peu, parfois.<end>
 
 =>a33_original
 You still didn't tell me who these Lunatics actually are.<end>

@@ -10,7 +10,7 @@ Nous n'y survivrons pas.<end>
 Tchort is evolution. I am Investigator Kiro. Who are you?<end>
 
 =>q2
-::Cet homme mince ne semble pas s'intéresser à vous : son visage ne change pas d'un trait quand il voit que vous voulez parler, et son corps non plus. Ce qui frappe, c'est qu'il ne lâche presque jamais votre regard. Heureusement, il cligne des yeux à intervalles réguliers, sans quoi ce stare mécanique serait encore plus gênant. Le ton, lui, est aussi plat que l'intérêt qu'il porte à la conversation.::
+::Cet homme mince semble, au premier abord, indifférent. Son visage ne change pas d'un trait quand il voit que vous voulez parler, et son corps non plus : même attitude, même immobilité. Ce qui frappe aussi, c'est qu'il ne rompt presque jamais le contact visuel ; il le maintient pendant toute la conversation. Heureusement, il cligne des yeux à intervalles réguliers, sans quoi ce regard mécanique serait encore plus gênant. Son ton, comme on pouvait s'y attendre, est aussi plat que l'intérêt qu'il porte à l'échange.::
 
 Tchort est l'évolution. Je suis Investigator Kiro. Qui êtes-vous ?<end>
 
@@ -24,7 +24,7 @@ L'évolution est Tchort, frère. Je suis $(context.player.Name), et je voulais v
 No problem at all, $(#brother/sister). What is on your mind?<end>
 
 =>q4
-Aucun problème, $(#frère/sœur). Qu'avez-vous à l'esprit ?<end>
+Aucun problème, $(#frère/sœur). Qu'aviez-vous en tête ?<end>
 
 =>q5_original
 <end>
@@ -36,13 +36,13 @@ Aucun problème, $(#frère/sœur). Qu'avez-vous à l'esprit ?<end>
 ::[Mechanics]:: Do you happen to have any spare super steel sheets that aren't going to be used in the particle accelerator? I might need them for... constructing certain things.<end>
 
 =>a6
-::[Mechanics]:: Auriez-vous des plaques de super steel de rechange, qui ne serviront pas à l'accélérateur de particules ? J'en aurais besoin pour... construire certaines choses.<end>
+::[Mechanics]:: Auriez-vous des plaques de super steel de rechange qui ne seront pas utilisées dans l'accélérateur de particules ? J'en aurais besoin pour... construire certaines choses.<end>
 
 =>q7_original
 Super steel components for the particle accelerator are costly and take time to manufacture to our apex standards. Since the production is limited and demand great, I cannot spare a single one of those, $(#brother/sister).<end>
 
 =>q7
-Les pièces en super steel de l'accélérateur coûtent cher, et leur fabrication à nos normes apex prend du temps. La production est limitée, la demande est forte : je ne peux pas en céder une seule, $(#frère/sœur).<end>
+Les composants en super steel de l'accélérateur de particules coûtent cher, et leur fabrication à nos normes apex prend du temps. La production est limitée, la demande est forte : je ne peux en céder un seul, $(#frère/sœur).<end>
 
 =>q8_original
 However, sheets are sometimes replaced after a certain number of particular experiments. They degrade in quality and are no longer suitable for testing. We either recycle them or repurpose them.
@@ -50,9 +50,9 @@ However, sheets are sometimes replaced after a certain number of particular expe
 These I can spare. You may take a look at them if you wish.<end>
 
 =>q8
-En revanche, les plaques sont parfois changées après un certain nombre d'expériences. Elles se dégradent, elles ne conviennent plus aux tests. On les recycle, ou on leur trouve un autre usage.
+En revanche, les plaques sont parfois remplacées après un certain nombre d'expériences particulières. Elles se dégradent et ne conviennent plus aux tests. Nous les recyclons, ou nous leur trouvons un autre usage.
 
-Celles-là, je peux les céder. Vous pouvez les regarder, si vous voulez.<end>
+Celles-là, je peux les céder. Vous pouvez les examiner, si vous le souhaitez.<end>
 
 =>a9_original
 ::Barter.::<end>
@@ -64,13 +64,13 @@ Celles-là, je peux les céder. Vous pouvez les regarder, si vous voulez.<end>
 Principal Investigator Schteff told me I could purchase high-tech stuff from you.<end>
 
 =>a10
-Principal Investigator Schteff m'a dit que je pouvais vous acheter du matériel high-tech.<end>
+Principal Investigator Schteff m'a dit que je pouvais vous acheter du matériel de pointe.<end>
 
 =>q11_original
 Of course, $(#brother/sister). Please wait a moment and I will show you what is available.<end>
 
 =>q11
-Bien sûr, $(#frère/sœur). Un instant, je vous montre ce qui est disponible.<end>
+Bien sûr, $(#frère/sœur). Un instant, je vais vous montrer ce qui est disponible.<end>
 
 =>a12_original
 I would like to purchase something.<end>
@@ -82,13 +82,13 @@ Je voudrais acheter quelque chose.<end>
 I am in need of some high-tech gadgetry and components. I guess this would be the right place to ask...<end>
 
 =>a13
-J'ai besoin de gadgets et de composants high-tech. J'imagine que c'est le bon endroit pour demander...<end>
+J'ai besoin d'appareils et de composants de pointe. J'imagine que c'est le bon endroit pour demander...<end>
 
 =>q14_original
 There are components and devices that I may be able to offer you for purchase, but I must have PI Schteff's permission before I can actually do so. You can go ask him.<end>
 
 =>q14
-Il y a des composants et des appareils que je pourrais vous vendre, mais j'ai besoin de l'autorisation de PI Schteff. Allez lui demander.<end>
+Il y a des composants et des appareils que je pourrais vous proposer, mais j'ai besoin de l'autorisation de PI Schteff avant de le faire. Vous pouvez aller le lui demander.<end>
 
 =>a15_original
 Okay, just tell me where can I find him?<end>
@@ -100,13 +100,13 @@ Très bien. Où puis-je le trouver ?<end>
 His office is the one with double doors, just by the resonant transformer. Hard to miss it, $(#brother/sister).<end>
 
 =>q16
-Son bureau est celui à double porte, juste à côté du transformateur résonant. Difficile à rater, $(#frère/sœur).<end>
+Son bureau est celui aux doubles portes, juste à côté du transformateur résonant. Vous ne pouvez pas le manquer, $(#frère/sœur).<end>
 
 =>a17_original
 I'll ask him that, but I had other questions first.<end>
 
 =>a17
-Je lui demanderai. J'avais d'abord d'autres questions.<end>
+Je lui demanderai, mais j'avais d'abord d'autres questions.<end>
 
 =>q18_original
 Of course, $(#brother/sister).<end>
@@ -124,25 +124,25 @@ Je vais lui demander, alors. Je reviens.<end>
 Can you tell me who's in charge here?<end>
 
 =>a20
-Pouvez-vous me dire qui commande ici ?<end>
+Pouvez-vous me dire qui dirige ici ?<end>
 
 =>q21_original
 That would be Principal Investigator Schteff; he runs the Department of Physics. He should be in his office in case you need him.<end>
 
 =>q21
-Principal Investigator Schteff. Il dirige le Department of Physics. Il doit être dans son bureau, si vous en avez besoin.<end>
+Ce serait Principal Investigator Schteff ; il dirige le Department of Physics. Il doit être dans son bureau, si vous avez besoin de lui.<end>
 
 =>q22_original
 Anything else on your mind, $(#brother/sister)?<end>
 
 =>q22
-Autre chose à l'esprit, $(#frère/sœur) ?<end>
+Autre chose, $(#frère/sœur) ?<end>
 
 =>a23_original
 What's that machine you're working on?<end>
 
 =>a23
-C'est quoi, cette machine sur laquelle vous travaillez ?<end>
+Qu'est-ce que c'est, cette machine sur laquelle vous travaillez ?<end>
 
 =>q24_original
 This is our particle accelerator.<end>
@@ -166,13 +166,13 @@ Précisément, $(#frère/sœur). <end>
 What you see before you is only one part of the machine - the rest is a five-hundred-meter-long circular *track* looping through the Institute building. This allows us to propel particles around until they reach sufficient speed, and then we steer them, guide them - like Tchort guides us - with superconducting magnets.<end>
 
 =>q27
-Ce que vous voyez n'est qu'une partie de la machine. Le reste est une *piste* circulaire de cinq cents mètres, qui boucle à travers le bâtiment de l'Institute. On y propulse les particules jusqu'à ce qu'elles aient assez de vitesse, puis on les dirige, on les guide - comme Tchort nous guide - avec des aimants supraconducteurs.<end>
+Ce que vous voyez devant vous n'est qu'une partie de la machine. Le reste est une *piste* circulaire de cinq cents mètres, qui boucle à travers le bâtiment de l'Institute. Cela nous permet de propulser les particules jusqu'à ce qu'elles atteignent une vitesse suffisante, puis de les diriger, de les guider - comme Tchort nous guide - avec des aimants supraconducteurs.<end>
 
 =>q28_original
 The particles form beams, and then we can collide them or aim them at fixed targets.<end>
 
 =>q28
-Les particules forment des faisceaux. Ensuite, on les fait entrer en collision, ou on les vise sur des cibles fixes.<end>
+Les particules forment des faisceaux. Ensuite, nous pouvons les faire entrer en collision, ou les diriger vers des cibles fixes.<end>
 
 =>a29_original
 By Tchort!<end>
@@ -190,7 +190,7 @@ Apex, n'est-ce pas ?<end>
 What do you learn from all of this?<end>
 
 =>a31
-Qu'est-ce que vous en apprenez ?<end>
+Qu'apprenez-vous de tout cela ?<end>
 
 =>q32_original
 We can study how the particles react during collision, what kind of radiation gets released - we can observe the effects it has on materials and tissue. It can be used for many things. Currently we use it to simulate Surface radiation, or what we hypothesize it could be like. 
@@ -198,15 +198,15 @@ We can study how the particles react during collision, what kind of radiation ge
 Or, we will be using it after the replacement super steel sheets are installed inside the track.<end>
 
 =>q32
-On étudie la réaction des particules à l'impact, le type de radiation libérée - les effets sur les matériaux et les tissus. Ça sert à beaucoup de choses. Pour l'instant, on s'en sert pour simuler la radiation de Surface, ou ce que nous supposons qu'elle pourrait être.
+Nous pouvons étudier la réaction des particules à la collision, le type de radiation libérée - observer les effets sur les matériaux et les tissus. Cela sert à de nombreuses applications. Pour l'instant, nous nous en servons pour simuler la radiation de Surface, ou ce que nous supposons qu'elle pourrait être.
 
-Ou plutôt : on s'en servira une fois les plaques de super steel de rechange installées dans la piste.<end>
+Du moins, nous nous en servirons une fois les plaques de super steel de rechange installées dans la piste.<end>
 
 =>q33_original
 We are fortunate to have inherited it from the original engineers of this building. We can maintain it - but constructing one today would be nigh impossible.<end>
 
 =>q33
-Nous avons eu la chance de l'hériter des ingénieurs d'origine de ce bâtiment. Nous savons l'entretenir. En construire un aujourd'hui serait presque impossible.<end>
+Nous avons eu la chance de l'hériter des ingénieurs qui ont conçu ce bâtiment. Nous savons l'entretenir. En construire un aujourd'hui serait pratiquement impossible.<end>
 
 =>a34_original
 What do you use it for?<end>
@@ -254,7 +254,7 @@ Bonjour. Je m'appelle $(context.player.Name), et je me demandais si vous pouviez
 I do have the time, $(#brother/sister). What is on your mind?<end>
 
 =>q41
-J'ai le temps, $(#frère/sœur). Qu'avez-vous à l'esprit ?<end>
+J'ai le temps, $(#frère/sœur). Qu'aviez-vous en tête ?<end>
 
 =>a42_original
 Hey there, Kiro. $(context.player.Name) is the name I go by, and I had a couple of questions if I that's okay with you.<end>
@@ -266,10 +266,10 @@ Salut, Kiro. On m'appelle $(context.player.Name). J'avais deux ou trois question
 These constant tremors are really distracting.<end>
 
 =>q43
-Ces tremblements constants sont vraiment gênants.<end>
+Ces tremblements constants sont vraiment perturbants.<end>
 
 =>q44_original
 What is on your mind, $(#brother/sister)?<end>
 
 =>q44
-Qu'avez-vous à l'esprit, $(#frère/sœur) ?<end>
+Qu'aviez-vous en tête, $(#frère/sœur) ?<end>

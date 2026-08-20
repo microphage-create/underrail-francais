@@ -4,7 +4,7 @@
 Finally, one man speaks with a fragile, dry voice.::<end>
 
 =>q1
-::Un groupe d'hommes en lambeaux. Sales, maigres comme des rails, on dirait que vous venez de les déterrer. Ils restent là, silencieux, à regarder $(#un homme/une femme) piloter un Dreadnought, incrédules. Certains se frottent les yeux, comme pour se demander s'ils n'hallucinent pas encore, mais à chaque seconde la bête de métal devant eux paraît plus réelle.
+::Vous voyez un groupe d'hommes en piteux état. Sales, décharnés, on dirait que vous venez de les sortir d'une tombe. Ils restent là, silencieux, à fixer $(#un homme/une femme) aux commandes d'un Dreadnought, dans une incrédulité totale. Quelques-uns se frottent les yeux, comme pour s'assurer qu'ils n'hallucinent pas encore, mais à chaque seconde qui passe, la bête de métal dressée devant eux paraît de plus en plus réelle.
 
 Enfin, un homme parle, d'une voix fragile, sèche.::<end>
 
@@ -12,19 +12,19 @@ Enfin, un homme parle, d'une voix fragile, sèche.::<end>
 You... You found our Dreadnought... You are here... to rescue us... Rescue has arrived! ::The men cheer.::<end>
 
 =>q2
-Vous... Vous avez trouvé notre Dreadnought... Vous êtes là... pour nous sortir de là... Les secours sont arrivés ! ::Les hommes poussent des hourras.::<end>
+Vous... Vous avez trouvé notre Dreadnought... Vous êtes là... pour nous tirer d'ici... Les secours sont arrivés ! ::Les hommes poussent des hourras.::<end>
 
 =>a3_original
 I'm Corporal $(context.player.Name), and yes, I'm here to get you out of this hell hole.<end>
 
 =>a3
-Caporal $(context.player.Name). Oui, je suis là pour vous sortir de ce trou à rats.<end>
+Caporal $(context.player.Name). Oui, je suis là pour vous sortir de cet enfer.<end>
 
 =>q4_original
 I'm Private Brady Homan, $(#sir/ma'am)... ::He salutes you slowly and with great effort.:: and you... you're... magnificent! Ahhh, magnificent... We've been stuck here for... for... for a month, I don't even know... We were cornered by those filthy bugs. They swarmed us when the earthquake rocked this place... $(#sir/ma'am)...<end>
 
 =>q4
-Soldat Brady Homan, $(#monsieur/madame)... ::Il vous salue lentement, avec un gros effort.:: et vous... vous êtes... magnifique ! Ahhh, magnifique... On est coincés ici depuis... depuis... depuis un mois, je ne sais même plus... Ces sales bestioles nous avaient coincés. Elles se sont abattues sur nous quand le tremblement de terre a secoué l'endroit... $(#monsieur/madame)...<end>
+Soldat Brady Homan, $(#monsieur/madame)... ::Il vous salue lentement, à grand-peine.:: et vous... vous êtes... magnifique ! Ahhh, magnifique... On est coincés ici depuis... depuis... depuis un mois, je ne sais même plus... Ces sales bestioles nous avaient acculés. Elles se sont abattues sur nous quand le tremblement de terre a secoué l'endroit... $(#monsieur/madame)...<end>
 
 =>q5_original
 We are out of food, drinking water... almost out of ammo. ::He drifts off for a moment, but recomposes himself and continues.:: But now you're here, $(#sir/ma'am)! Thank you... THANK YOU!
@@ -32,7 +32,7 @@ We are out of food, drinking water... almost out of ammo. ::He drifts off for a 
 Are the burrowers... gone... $(#sir/ma'am)?<end>
 
 =>q5
-Plus de bouffe, plus d'eau... presque plus de munitions. ::Il décroche un instant, se reprend et continue.:: Mais maintenant vous êtes là, $(#monsieur/madame) ! Merci... MERCI !
+Plus rien à manger, plus d'eau... presque plus de munitions. ::Il part dans le vague un instant, se reprend et continue.:: Mais maintenant vous êtes là, $(#monsieur/madame) ! Merci... MERCI !
 
 Les fouisseurs sont... partis... $(#monsieur/madame) ?<end>
 
@@ -52,7 +52,7 @@ La voie est libre. Il est temps de rentrer, soldats.<end>
 ::The men, who have dried up so much that they look as if they'd turn to dust by merely moving, now pick up their things in such a lively fashion that it makes you feel nothing short of amazement. Their freedom, now so close and so tasty, appears to have unleashed the last reserves of energy they've saved up only for this particular moment. They all nod at you as a thank you, some smiling, some even crying, as they hurriedly flee their prison.::<end>
 
 =>q8
-::Ces hommes, si desséchés qu'on dirait qu'un geste les réduirait en poussière, ramassent maintenant leurs affaires avec une vivacité qui vous laisse $(#stupéfait/stupéfaite). Leur liberté, si proche, si savoureuse, a lâché les dernières réserves d'énergie qu'ils gardaient pour cet instant. Ils vous remercient d'un hochement de tête, certains sourient, d'autres pleurent même, et ils s'enfuient en hâte de leur prison.::<end>
+::Ces hommes, si desséchés qu'on dirait qu'un simple geste les réduirait en poussière, ramassent maintenant leurs affaires avec une vivacité qui force l'étonnement. Leur liberté, si proche qu'ils en sentent déjà le goût, a libéré les dernières réserves d'énergie qu'ils gardaient pour cet instant. Ils vous remercient d'un hochement de tête, certains sourient, d'autres pleurent même, et ils fuient en hâte leur prison.::<end>
 
 =>a9_original
 ::Wait for them to leave.::<end>
@@ -70,19 +70,19 @@ Vous êtes les seuls encore en vie ?<end>
 Yes, $(#sir/ma'am), I'm afraid so. Some were killed by the falling... falling rocks... some killed by the bugs...<end>
 
 =>q11
-Oui, $(#monsieur/madame), j'en ai peur. Certains sont morts sous les... les chutes de pierres... d'autres sous les bestioles...<end>
+Oui, $(#monsieur/madame), je le crains. Certains sont morts sous les... les chutes de pierres... d'autres, c'est les bestioles...<end>
 
 =>q12_original
 Just get us the hell out of here, $(#sir/ma'am)...<end>
 
 =>q12
-Sortez-nous d'ici, $(#monsieur/madame)...<end>
+Sortez-nous de cet enfer, $(#monsieur/madame)...<end>
 
 =>a13_original
 Did you manage to find anything of use in this facility?<end>
 
 =>a13
-Vous avez trouvé quelque chose d'utile dans l'installation ?<end>
+Vous avez réussi à trouver quelque chose d'utile, dans l'installation ?<end>
 
 =>q14_original
 Nothing... just nothing, $(#sir/ma'am). Only junk...<end>
@@ -94,7 +94,7 @@ Rien... rien du tout, $(#monsieur/madame). Que du rebut...<end>
 It was a waste of resources and lives... this whole operation. A waste.<end>
 
 =>q15
-Un gâchis de ressources et de vies... toute l'opération. Un gâchis.<end>
+C'était un gâchis de ressources et de vies... toute l'opération. Un gâchis.<end>
 
 =>a16_original
 I saw a dead man at the entrance, is he one of yours?<end>
@@ -106,7 +106,7 @@ J'ai vu un mort à l'entrée. C'est l'un des vôtres ?<end>
 Yes... he is... We were desperate, $(#sir/ma'am). We had the tools to cut the pipe over there... and it was big enough for a slim man like him to enter. We thought he could get help, or at least reach the lobby... and the Dreadnought there...<end>
 
 =>q17
-Oui... c'est lui... On était au bout, $(#monsieur/madame). On avait de quoi couper le tuyau, là-bas... assez large pour qu'un homme mince comme lui s'y glisse. On se disait qu'il pourrait trouver de l'aide, ou au moins atteindre le hall... et le Dreadnought...<end>
+Oui... c'est lui... On était au bout, $(#monsieur/madame). On avait de quoi couper le tuyau, là-bas... assez large pour qu'un homme mince comme lui s'y glisse. On se disait qu'il pourrait aller chercher de l'aide, ou au moins atteindre le hall... et le Dreadnought...<end>
 
 =>a18_original
 Why did you leave your Dreadnought there? You could've used it to kill the burrowers.<end>
@@ -118,19 +118,19 @@ Pourquoi avez-vous laissé votre Dreadnought là-bas ? Vous auriez pu vous en se
 When we... first arrived here... the area was deserted... empty... There were no bugs, no nothing. At least not as big as these. Getting around the narrow hallways is... tricky in that machine. So we left it in a small room near the lobby. It stayed there for a week, we... had no need for it.<end>
 
 =>q19
-Quand on... est arrivés ici... le secteur était désert... vide... Pas de bestioles, rien. Du moins, pas aussi grosses que celles-là. Se faufiler dans les couloirs étroits... c'est délicat, dans cette machine. On l'a laissée dans une petite pièce près du hall. Elle y est restée une semaine, on... n'en avait pas besoin.<end>
+Quand on... est arrivés ici... le secteur était désert... vide... Pas de bestioles, rien. Du moins, pas aussi grosses que celles-là. Se faufiler dans les couloirs étroits... c'est pas simple, dans cette machine. On l'a laissé dans une petite pièce près du hall. Il y est resté une semaine, on... n'en avait pas besoin.<end>
 
 =>q20_original
 When this happened... the earthquake and... the bugs, we were cut off from it, $(#sir/ma'am). ::He sighs.::<end>
 
 =>q20
-Quand ça s'est produit... le tremblement de terre et... les bestioles, on s'est retrouvés coupés d'elle, $(#monsieur/madame). ::Il soupire.::<end>
+Quand ça s'est produit... le tremblement de terre et... les bestioles, on s'est retrouvés coupés du Dreadnought, $(#monsieur/madame). ::Il soupire.::<end>
 
 =>a21_original
 Let me ask you something else.<end>
 
 =>a21
-Autre chose.<end>
+J'avais autre chose à demander.<end>
 
 =>q22_original
 ::He nods.::<end>
@@ -142,19 +142,19 @@ Autre chose.<end>
 The area has not been secured yet, private. I'll return to you when it has.<end>
 
 =>a23
-Le secteur n'est pas encore sécurisé, soldat. Je reviendrai quand il le sera.<end>
+Le secteur n'est pas encore sécurisé, soldat. Je reviendrai vers vous quand il le sera.<end>
 
 =>q24_original
 $(#Sir/Ma'am)... we are too weak to fight. You will have to clear the whole path for us. Please... please hurry.<end>
 
 =>q24
-$(#Monsieur/Madame)... on est trop faibles pour se battre. Il va falloir nous ouvrir tout le chemin. S'il vous plaît... dépêchez-vous.<end>
+$(#Monsieur/Madame)... on est trop faibles pour se battre. Il va falloir nous ouvrir tout le chemin. S'il vous plaît... s'il vous plaît, dépêchez-vous.<end>
 
 =>a25_original
 I was expecting to find nothing but corpses, but I'm glad you're alive, if barely. I'm Corporal $(context.player.Name).<end>
 
 =>a25
-Je m'attendais à ne trouver que des cadavres. Je suis $(#content/contente) que vous soyez en vie, même tout juste. Caporal $(context.player.Name).<end>
+Je m'attendais à ne trouver que des cadavres. Je suis $(#content/contente) de vous voir encore en vie, même de justesse. Caporal $(context.player.Name).<end>
 
 =>q26_original
 ::You see a group of battered men. Dirty and thin as rails, they appear as if you've just dug them out of a grave. They stand there, staring at you. It's silent for a few moments, as if the men are unsure whether you're real or not; maybe you're the savior they've waited for so long, or maybe you're just another hallucination.
@@ -162,7 +162,7 @@ Je m'attendais à ne trouver que des cadavres. Je suis $(#content/contente) que 
 One of the men speaks to you with a weak and dry-sounding voice.::<end>
 
 =>q26
-::Un groupe d'hommes en lambeaux. Sales, maigres comme des rails, on dirait que vous venez de les déterrer. Ils restent là, à vous regarder. Quelques secondes de silence, comme s'ils ne savaient pas si vous étiez $(#réel/réelle) ; peut-être $(#le sauveur/la sauveuse) qu'ils attendent depuis si longtemps, peut-être encore une hallucination.
+::Vous voyez un groupe d'hommes en piteux état. Sales, décharnés, on dirait que vous venez de les sortir d'une tombe. Ils restent là, à vous fixer. Quelques secondes de silence, comme s'ils ne savaient pas si vous étiez $(#réel/réelle) ; peut-être $(#le sauveur/la sauveuse) qu'ils attendent depuis si longtemps, peut-être encore une hallucination.
 
 L'un d'eux vous parle d'une voix faible, sèche.::<end>
 
@@ -176,4 +176,4 @@ Je le savais... l'équipe de secours est arrivée ! ::Les hommes poussent des ho
 Are we safe to move out... $(#sir/ma'am)?<end>
 
 =>q28
-On peut sortir sans risque... $(#monsieur/madame) ?<end>
+On peut y aller sans danger... $(#monsieur/madame) ?<end>

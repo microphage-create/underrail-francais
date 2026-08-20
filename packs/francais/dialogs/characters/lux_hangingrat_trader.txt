@@ -4,9 +4,9 @@
 Heya. Ya must be new around here, cause I ain't seen yer ugly face before. I'm Rob. I'll call ya $(#Ugly Joe/Ugly Jane) from now on. Whaddya want?<end>
 
 =>q1
-::Vous surprenez le barman en train d'essuyer un verre avec un torchon, qui colle pile à la couleur de ses cheveux ; voulu ou pas, vous n'en saviez rien. C'est un homme petit mais nerveux, couvert de tatouages. Il porte des bagues plein les doigts, la plupart on dirait de l'argent, avec quelques-unes dorées dans le lot. Quand il a posé le verre, maintenant brillant, et le torchon, il vous parle.::
+::Tu surprends le barman en train d'essuyer un verre avec un torchon, qui colle pile à la couleur de ses cheveux ; voulu ou pas, tu sais pas trop. C'est un homme petit mais sec, tout en tendons, couvert de tatouages. Il a des bagues plein les doigts : la plupart on dirait de l'argent, avec quelques-unes dorées dans le tas. Quand il a posé le verre, maintenant brillant, et le torchon, il te parle.::
 
-Hé. T'es forcément nouveau, par ici, parce que j'avais jamais vu ta sale gueule. Je suis Rob. Je t'appellerai $(#Ugly Joe/Ugly Jane), à partir de maintenant. Tu veux quoi ?<end>
+Hé. T'es forcément $(#nouveau/nouvelle) par ici : j'avais jamais vu ta sale gueule. Moi c'est Rob. À partir de maintenant, t'es $(#Ugly Joe/Ugly Jane). Tu veux quoi ?<end>
 
 =>q2_original
 <end>
@@ -24,13 +24,13 @@ Montre-moi ce que t'as en stock. ::Troc.::<end>
 You don't seem to have a problem with me killing one of your patrons.<end>
 
 =>a4
-Ça a pas l'air de te poser un problème, que j'aie tué un de tes clients.<end>
+Ça a pas l'air de te poser un problème, que j'ai buté un de tes clients.<end>
 
 =>q5_original
 Problem? He attacked ya; ya killed him; ya *didn't* trash the bar: No problem.<end>
 
 =>q5
-Un problème ? Il t'a attaqué ; tu l'as tué ; t'as *pas* défoncé le bar : pas de problème.<end>
+Un problème ? Il t'a attaqué$(#/e) ; tu l'as tué ; t'as *pas* défoncé le bar : pas de problème.<end>
 
 =>q6_original
 I've cleaned up worse things...<end>
@@ -118,13 +118,13 @@ Pourquoi Hangin' Rat ?<end>
 I liked the sound of it. It's got hangin' in it... and rats... Yeah, just say it.<end>
 
 =>q19
-J'aimais le son. Y a hangin' là-dedans... et des rats... Ouais, dis-le, juste.<end>
+J'aimais le son. Y a hangin' là-dedans... et des rats... Ouais. Allez, dis-le.<end>
 
 =>q20_original
 Hangin' Rat... Hangin' Rat... Do ya hear it? Naaaah, yer ugly *and* have no sense of what a good bar name should sound like.<end>
 
 =>q20
-Hangin' Rat... Hangin' Rat... T'entends ? Naaaah, t'es moche *et* t'as aucun sens de ce que devrait sonner un bon nom de bar.<end>
+Hangin' Rat... Hangin' Rat... T'entends ? Naaaah. T'es moche *et* t'as zéro oreille pour un nom de bar qui claque.<end>
 
 =>a21_original
 Well, you're ugly too. Even rathounds run away from you when they see that mug.<end>
@@ -142,7 +142,7 @@ T'es tellement moche que la terre s'est mise à chialer si fort que ça a causé
 You're so ugly, my eyes caught on fire when I saw you.<end>
 
 =>a23
-T'es tellement moche que mes yeux ont pris feu quand je t'ai vu.<end>
+T'es tellement moche que mes yeux ont pris feu quand je t'ai vu$(#/e).<end>
 
 =>q24_original
 Burn baby! 
@@ -158,7 +158,7 @@ Assez, $(#Ugly Joe/Ugly Jane), tu veux quoi ?<end>
 You're so ugly, you'd have to tie a cave hopper steak around your neck to get your dog to play with you.<end>
 
 =>a25
-T'es tellement moche qu'il te faudrait attacher un steak de sauteur des caves autour du cou pour que ton chien joue avec toi.<end>
+T'es tellement moche qu'il te faudrait attacher un steak de sauteur autour du cou pour que ton chien joue avec toi.<end>
 
 =>q26_original
 Actually, my dog prefers pork! 
@@ -182,7 +182,7 @@ The joke's on ya, I don't even have a mirror.
 Enough of this! Whaddya want, $(#Ugly Joe/Ugly Jane)?<end>
 
 =>q28
-La blague est sur toi : j'ai même pas de miroir.
+Tant pis pour toi : j'ai même pas de miroir.
 
 Assez ! Tu veux quoi, $(#Ugly Joe/Ugly Jane) ?<end>
 
@@ -190,7 +190,7 @@ Assez ! Tu veux quoi, $(#Ugly Joe/Ugly Jane) ?<end>
 You're so ugly, someone could smash your face with a rock and you'd end up prettier.<end>
 
 =>a29
-T'es tellement moche que si on te cassait la gueule avec un caillou, t'en sortirais plus joli.<end>
+T'es tellement moche que si on te cassait la gueule avec un caillou, t'en sortirais $(#plus joli/plus jolie).<end>
 
 =>q30_original
 So that's why my wife always tries to do it! 
@@ -248,7 +248,7 @@ Wait? Ya serious?<end>
 =>q36
 C'est pas un ma--
 
-Attends ? T'es sérieux ?<end>
+Attends. T'es $(#sérieux/sérieuse) ?<end>
 
 =>a37_original
 ::Leave.::<end>
@@ -314,7 +314,7 @@ T'as pas peur de perdre des clients, à force d'être aussi mal élevé ?<end>
 Losin' customers? Bwahaha! ::He stops laughing for a second to look at you.:: Bwahaha!<end>
 
 =>q47
-Perdre des clients ? Bwahaha ! ::Il s'arrête de rire une seconde pour vous regarder.:: Bwahaha !<end>
+Perdre des clients ? Bwahaha ! ::Il s'arrête de rire une seconde pour te regarder.:: Bwahaha !<end>
 
 =>q48_original
 I haven't laughed like this since Joel tripped over a chair and broke his nose. :: He continues laughing.::<end>
@@ -374,7 +374,7 @@ Bravo. Sur cent femmes dans ce trou, t'as montré la bonne.<end>
 ::He looks around the bar.:: I only see one... Wait, that was supposed to be a sarcastic remark! Well, 'scuse me, $(#Mister/Miss) Wiseass Uglington, didn't recognize ya there! Anyway, I don't talk about my guests. How'd ya like if someone came here and asked about yer ugly face? Somethin' like, "Hey, who's the $(#guy/girl) with the ugly mug?"<end>
 
 =>q57
-::Il jette un œil autour du bar.:: J'en vois qu'une... Attends, c'était censé être sarcastique ! Bon, 'scuse-moi, $(#Monsieur/Mademoiselle) Wiseass Uglington, je t'avais pas reconnu ! Bref, je cause pas de mes invités. T'aimerais, toi, qu'un type débarque et pose des questions sur ta sale gueule ? Du genre : « Hé, c'est qui, $(#le gars/la fille) à la gueule de cauchemar ? »<end>
+::Il jette un œil autour du bar.:: J'en vois qu'une... Attends, c'était censé être sarcastique ! Bon, 'scuse-moi, $(#Monsieur/Mademoiselle) Wiseass Uglington, je t'avais pas reconnu$(#/e) ! Bref, je cause pas de mes invités. T'aimerais, toi, qu'un type débarque et pose des questions sur ta sale gueule ? Du genre : « Hé, c'est qui, $(#le gars/la fille) à la gueule de cauchemar ? »<end>
 
 =>a58_original
 Do you know anything about a man called Ethan Lanford?<end>

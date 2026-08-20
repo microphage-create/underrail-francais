@@ -10,9 +10,9 @@ Au revoir.<end>
 Speaking of motions, the creature stops making any, instead turning nearly frozen yet still maintaining the amazed stare.::<end>
 
 =>q2
-::Cette créature humanoïde tourne la tête pour vous regarder de ses yeux sombres, vides. Après une hésitation, elle s'approche lentement et vous inspecte de haut en bas. Les tentacules qui lui poussent sur la tête bougent chacun de leur côté, comme des vers qui sortent d'une poignée de terre, indépendants du reste de son corps.
+::Cette créature humanoïde tourne la tête pour vous regarder de ses yeux sombres, vides. Après une hésitation, il s'approche lentement de vous et vous inspecte de haut en bas. Les tentacules qui lui poussent sur la tête bougent chacun de leur côté, comme des vers qui sortent d'une poignée de terre, complètement à part du reste de ses mouvements.
 
-Quant aux mouvements, elle n'en fait plus aucun : elle se fige presque, tout en gardant ce regard étonné.::<end>
+Justement, les mouvements : il n'en fait plus. Il se fige presque, le regard toujours ébahi.::<end>
 
 =>a3_original
 Can you speak?<end>
@@ -26,7 +26,7 @@ Vous pouvez parler ?<end>
 Yes.<end>
 
 =>q4
-::La réponse arrive dans une voix humide, gargouillante.::
+::La réponse vient d'une voix humide, gargouillante.::
 
 Oui.<end>
 
@@ -34,7 +34,7 @@ Oui.<end>
 Who... or what are you?<end>
 
 =>a5
-Qui... ou qu'êtes-vous ?<end>
+Qui... ou qu'est-ce que vous êtes ?<end>
 
 =>q6_original
 ::It makes a brief pause.::
@@ -50,7 +50,7 @@ Je suis moi.<end>
 Yes, but *what* are you? Are you... human?<end>
 
 =>a7
-Oui, mais *qu'*êtes-vous ? Êtes-vous... humain ?<end>
+Oui, mais *qu'est-ce que* vous êtes ? Vous êtes... humain ?<end>
 
 =>q8_original
 ::The creature thinks about your question; the tentacles still move and twist around on its head, symbolizing its thought process in a peculiar way.::
@@ -58,9 +58,9 @@ Oui, mais *qu'*êtes-vous ? Êtes-vous... humain ?<end>
 *Human*? We were never called *human* before. The Keepers often call us... *Rejects*. Is that the answer you were looking for?<end>
 
 =>q8
-::La créature réfléchit ; les tentacules bougent encore, se tordent sur sa tête, d'une façon étrange, comme si ça pensait à sa place.::
+::La créature réfléchit à votre question ; les tentacules bougent encore, se tordent sur sa tête, comme si c'était ça, sa façon de penser.::
 
-*Humain* ? On ne nous a jamais appelés *humain*. Les Keepers nous appellent souvent... *Rejects*. C'est la réponse que vous cherchiez ?<end>
+*Humain* ? On ne nous a jamais appelés *humain*, avant. Les Keepers nous appellent souvent... *Rejects*. C'est la réponse que vous cherchiez ?<end>
 
 =>q9_original
 ::It doesn't wait for your answer before proceeding.::
@@ -68,7 +68,7 @@ Oui, mais *qu'*êtes-vous ? Êtes-vous... humain ?<end>
 <end>
 
 =>q9
-::Elle n'attend pas votre réponse pour continuer.::
+::Il n'attend pas votre réponse pour continuer.::
 
 <end>
 
@@ -82,31 +82,31 @@ Vous ressemblez à un Keeper, mais vous n'agissez pas comme un Keeper <end>
 - you are different. What will you do to me?<end>
 
 =>q11
-- vous êtes $(#différent/différente). Qu'allez-vous me faire ?<end>
+- vous êtes $(#différent/différente). Qu'est-ce que vous allez me faire ?<end>
 
 =>a12_original
 I mean you no harm.<end>
 
 =>a12
-Je ne vous veux aucun mal.<end>
+Je ne vous veux pas de mal.<end>
 
 =>q13_original
 Then... why are you here? And where are the Keepers?<end>
 
 =>q13
-Alors... pourquoi êtes-vous ici ? Et où sont les Keepers ?<end>
+Alors... pourquoi vous êtes ici ? Et où sont les Keepers ?<end>
 
 =>a14_original
 They won't be bothering us for a while.<end>
 
 =>a14
-Ils ne vont pas nous déranger, pour un moment.<end>
+Ils ne vont pas nous déranger de sitôt.<end>
 
 =>q15_original
 I don't understand. Why are you here?<end>
 
 =>q15
-Je ne comprends pas. Pourquoi êtes-vous ici ?<end>
+Je ne comprends pas. Pourquoi vous êtes ici ?<end>
 
 =>q16_original
 <end>
@@ -126,7 +126,7 @@ Je ne comprends pas. Pourquoi êtes-vous ici ?<end>
 <end>
 
 =>q18
-::La créature est immobile, à part les tentacules sur sa tête et un clignement, de temps en temps. Elle se décide vite, pourtant.::
+::La créature ne bouge plus, à part les tentacules sur sa tête et un clignement, de temps en temps. Pourtant, il se décide vite.::
 
 <end>
 
@@ -140,13 +140,13 @@ Je ne comprends pas. Pourquoi êtes-vous ici ?<end>
 You haven't hurt us *yet,* and despite me being... afraid, I will trust you. But how will we get out? Is there a way?<end>
 
 =>q20
-Vous ne nous avez pas fait de mal *pour l'instant*, et même si j'ai... peur, je vais vous faire confiance. Mais comment sortir ? Il y a un moyen ?<end>
+Vous ne nous avez pas fait de mal *encore*, et même si j'ai... peur, je vais vous faire confiance. Mais comment sortir ? Il y a un moyen ?<end>
 
 =>a21_original
 There is a ventilation shaft in a corner just down the corridor. You can use it to escape. Once you go through it you will find yourself in a dark place. It is dangerous, but if you escape from there you will be able to enjoy your freedom.<end>
 
 =>a21
-Il y a une gaine de ventilation, dans un coin, un peu plus loin dans le couloir. Vous pouvez l'utiliser pour fuir. Une fois de l'autre côté, vous serez dans un endroit sombre. C'est dangereux, mais si vous en sortez, vous pourrez profiter de votre liberté.<end>
+Il y a une gaine de ventilation, dans un coin, un peu plus loin dans le couloir. Vous pouvez l'utiliser pour fuir. Une fois de l'autre côté, vous vous retrouverez dans un endroit sombre. C'est dangereux, mais si vous en sortez, vous pourrez profiter de votre liberté.<end>
 
 =>q22_original
 How will we escape?<end>
@@ -158,7 +158,7 @@ Comment allons-nous fuir ?<end>
 There is a large hole in one of the floors that leads to freedom. It is approximately to the west from where you emerge from the ventilation shaft, but you will have to go around to the south first.<end>
 
 =>a23
-Il y a un grand trou dans un des planchers, qui mène à la liberté. À peu près à l'ouest de là où vous sortez de la gaine, mais il faudra d'abord faire le tour par le sud.<end>
+Il y a un grand trou dans un des planchers, qui mène à la liberté. C'est à peu près à l'ouest de là où vous sortez de la gaine, mais il faudra d'abord faire le tour par le sud.<end>
 
 =>q24_original
 I understand. I hope we are doing the right thing.<end>
@@ -176,7 +176,7 @@ Merci et... au revoir. Dites au revoir aux Keepers, pour nous.<end>
 ::[Stealth]:: Goodbye. I'll sneak you to the vent one by one, then you're on your own. You first...<end>
 
 =>a26
-::[Stealth]:: Au revoir. Je vous emmène à la gaine, un par un, en furtif. Ensuite, vous vous débrouillez. Vous d'abord...<end>
+::[Stealth]:: Au revoir. Je vous emmène à la gaine, un par un, sans vous faire voir. Ensuite, vous vous débrouillez. Vous d'abord...<end>
 
 =>a27_original
 Goodbye and good luck.<end>
@@ -188,7 +188,7 @@ Au revoir, et bonne chance.<end>
 You wait here while I figure that out. I'll get back to you.<end>
 
 =>a28
-Attendez ici pendant que je trouve. Je reviens.<end>
+Attendez ici, le temps que je vois ça. Je reviens.<end>
 
 =>q29_original
 We will. <end>
@@ -200,7 +200,7 @@ Nous attendrons. <end>
 ::The creature raises its malformed hand and waves you goodbye.::<end>
 
 =>q30
-::La créature lève sa main malformée et vous fait au revoir.::<end>
+::La créature lève sa main malformée et vous fait un signe d'au revoir.::<end>
 
 =>a31_original
 I don't know. That is up to you.<end>
@@ -212,7 +212,7 @@ Je ne sais pas. C'est à vous de voir.<end>
 We will try to find it. You have already helped us more than enough.<end>
 
 =>q32
-Nous allons essayer de le trouver. Vous nous avez déjà assez aidés.<end>
+Nous allons essayer de le trouver. Vous nous avez déjà plus qu'assez aidés.<end>
 
 =>a33_original
 I'll find you a safe way out. I promise.<end>
@@ -274,7 +274,7 @@ Euh... il y a un peu de tout.<end>
 I don't want to be here. I don't want to be anywhere else. I... don't know what is best for me, or for us. And my siblings... they are like me.<end>
 
 =>q42
-::C'est à ce moment-là que vous voyez quelque chose dans ses yeux noirs, et cette chose, c'est la peur.::
+::C'est à ce moment-là que vous voyez quelque chose dans ses yeux noirs d'encre, et cette chose, c'est la peur.::
 
 Je ne veux pas être ici. Je ne veux pas être ailleurs. Je... ne sais pas ce qui est le mieux pour moi, ni pour nous. Et mes frères et sœurs... ils sont comme moi.<end>
 
@@ -294,13 +294,13 @@ Je vais vous trouver une sortie. Tenez bon.<end>
 What happened to you and why are you locked in here?<end>
 
 =>a45
-Que vous est-il arrivé, et pourquoi êtes-vous enfermés ici ?<end>
+Qu'est-ce qui vous est arrivé, et pourquoi vous êtes enfermés ici ?<end>
 
 =>q46_original
 We were always like this, since the day we began. It's what we are. And we are locked because... ::It pauses.:: The Keepers do not allow us to go anywhere. The Keepers tell us that we will get ourselves hurt... or hurt others, that we are not yet ready to leave.<end>
 
 =>q46
-Nous avons toujours été comme ça, depuis le jour où nous avons commencé. C'est ce que nous sommes. Et on nous enferme parce que... ::Elle s'arrête.:: Les Keepers ne nous laissent aller nulle part. Les Keepers disent qu'on va se faire mal... ou faire mal aux autres, qu'on n'est pas encore prêts à partir.<end>
+Nous avons toujours été comme ça, depuis le jour où nous avons commencé. C'est ce que nous sommes. Et on nous enferme parce que... ::Il s'arrête.:: Les Keepers ne nous laissent aller nulle part. Les Keepers disent qu'on va se faire mal... ou faire mal aux autres, qu'on n'est pas encore prêts à partir.<end>
 
 =>q47_original
 But I don't like it here. The Keepers sometimes hurt us... or end some of us. Not all of them; some treat us well, but most do not.<end>
@@ -318,7 +318,7 @@ Qu'est-ce qu'ils vous font, exactement, ici ?<end>
 They mostly keep us in these spaces. ::It points to the cell it is in.:: Once between two rests we are fed, led to walk and run, and every three or four rests they bring us to a bigger space and take bits of us and make us do "tests." We must obey, or else we are punished.<end>
 
 =>q49
-Ils nous gardent surtout dans ces espaces. ::Elle désigne la cellule où elle se trouve.:: Une fois entre deux repos, on nous nourrit, on nous fait marcher et courir, et tous les trois ou quatre repos ils nous amènent dans un plus grand espace, prennent des morceaux de nous, et nous font faire des « tests ». Nous devons obéir, sinon on nous punit.<end>
+Ils nous gardent surtout dans ces espaces. ::Il désigne la cellule où il se trouve.:: Une fois entre deux repos, on nous nourrit, on nous fait marcher et courir, et tous les trois ou quatre repos ils nous amènent dans un plus grand espace, prennent des morceaux de nous, et nous font faire des « tests ». Nous devons obéir, sinon on nous punit.<end>
 
 =>q50_original
 Some siblings are led away by the Keepers to be ended, but new siblings always come. Always.<end>
@@ -360,25 +360,25 @@ Je suis $(context.player.Name).<end>
 I have been called many names so far: Reject, Bastard, Freak, Inbred... but I don't like any of those. The tone they were said in sounded harsh. One Keeper once said I was, "pretty sharp for a Reject," so my siblings started calling me... Sharp.<end>
 
 =>q56
-On m'a appelé beaucoup de noms : Reject, bâtard, monstre, consanguin... mais je n'aime aucun de ceux-là. Le ton était dur. Un Keeper a dit un jour que j'étais « plutôt vif, pour un Reject », alors mes frères et sœurs ont commencé à m'appeler... Sharp.<end>
+On m'a déjà appelé beaucoup de noms : Reject, bâtard, monstre, consanguin... mais je n'aime aucun de ceux-là. Le ton était dur. Un Keeper a dit un jour que j'étais « plutôt vif, pour un Reject », alors mes frères et sœurs ont commencé à m'appeler... Sharp.<end>
 
 =>q57_original
 I like that a lot more.<end>
 
 =>q57
-J'aime ça, beaucoup plus.<end>
+J'aime ça beaucoup plus.<end>
 
 =>a58_original
 I asked you first.<end>
 
 =>a58
-J'ai demandé $(#le premier/la première).<end>
+C'est moi qui ai demandé $(#le premier/la première).<end>
 
 =>a59_original
 How old are you?<end>
 
 =>a59
-Quel âge avez-vous ?<end>
+Vous avez quel âge ?<end>
 
 =>q60_original
 I don't know what you mean.<end>
@@ -390,7 +390,7 @@ Je ne sais pas ce que vous voulez dire.<end>
 Your age; how many years have passed since you were born.<end>
 
 =>a61
-Votre âge ; combien d'années depuis que vous êtes $(#né/née).<end>
+Votre âge : combien d'années ont passé depuis que vous êtes $(#né/née).<end>
 
 =>q62_original
 I don't know how long a "year" lasts; I have heard the word. But if it means something to you, I am the oldest one of us here.<end>
@@ -432,7 +432,7 @@ Je comprends. J'avais d'autres questions.<end>
 ::Its dark eyes are watching you.::<end>
 
 =>q68
-::Ses yeux sombres vous observent.::<end>
+::Ses yeux sombres restent sur vous.::<end>
 
 =>a69_original
 I get it, I get it... I'll be leaving you now.<end>
@@ -450,7 +450,7 @@ De vrais visages ?<end>
 ::It pauses to think.:: Real like... theirs... uncovered. That is what I mean.<end>
 
 =>q71
-::Elle s'arrête pour réfléchir.:: Vrais comme... les leurs... découverts. C'est ce que je veux dire.<end>
+::Il s'arrête pour réfléchir.:: Vrais comme... les leurs... découverts. C'est ce que je veux dire.<end>
 
 =>a72_original
 I see... I had other questions.<end>
@@ -468,7 +468,7 @@ Des questions ?<end>
 Is there more of you other than the few here?<end>
 
 =>a74
-Il y en a d'autres, à part ceux d'ici ?<end>
+Il y en a d'autres, à part les quelques-uns d'ici ?<end>
 
 =>q75_original
 Yes. I have seen more siblings before, but sometimes only for a short time, then never again.<end>
@@ -510,4 +510,4 @@ Vous n'êtes pas comme les Keepers <end>
 ::It cautiously observes you.::<end>
 
 =>q81
-::Elle vous observe, prudente.::<end>
+::Il vous observe, prudent.::<end>

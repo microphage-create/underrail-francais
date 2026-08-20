@@ -8,7 +8,7 @@
 ::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
 
 =>q2
-::La grande officière se tourne vers vous. Elle vous frappe d'emblée par un physique trop masculin : larges épaules, lignes anguleuses, et l'attitude va dans le même sens. Impossible d'échapper à l'impression qu'elle a dû briser un sacré nombre d'egos masculins. Même son regard d'acier a quelque chose d'écrasant, qui transperce la confiance en soi comme une stalactite qui s'abat sur le crâne d'un spéléologue imprudent, et le réduit en miettes.:: <end>
+::La grande officière se tourne vers vous. Tout en elle paraît trop masculin, d'emblée : les larges épaules, les lignes anguleuses, jusqu'à l'attitude. Impossible d'échapper à l'impression qu'elle a dû briser plus d'un ego masculin. Même son regard d'acier irradie une autorité dominante qui transperce la confiance en soi comme une stalactite qui s'abat sur le crâne d'un spéléologue imprudent, et le réduit en miettes.:: <end>
 
 =>q3_original
 <end>
@@ -30,7 +30,7 @@ At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
 =>q5
 ::Elle rend le salut et répond d'un ton direct, inflexible, parfaitement officiel.::
 
-Repos, caporal. Lieutenant Branwen. Quelle est votre affaire ici ?<end>
+Repos, caporal. Lieutenant Branwen. Que venez-vous faire ici ?<end>
 
 =>q6_original
 <end>
@@ -48,13 +48,13 @@ Du nouveau, madame ?<end>
 Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
 
 =>q8
-Rien, caporal. Informez le colonel Cathcart qu'il recevra son rapport dès qu'il se passera quelque chose qui vaille un rapport.<end>
+Rien, caporal. Informez le colonel Cathcart qu'il recevra son rapport dès qu'il y aura quelque chose à rapporter.<end>
 
 =>q9_original
 That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
 
 =>q9
-C'est tout ce que j'ai pour vous. Transmettez mes salutations au colonel Cathcart. Rompez.<end>
+Ce sera tout. Transmettez mes respects au colonel Cathcart. Rompez.<end>
 
 =>a10_original
 Yes, ma'am, I will. ::Salute and leave.::<end>
@@ -66,7 +66,7 @@ Oui, madame. ::Saluer et partir.::<end>
 I am here to check on the development of the current situation, ma'am.<end>
 
 =>a11
-Je suis ici pour m'enquérir de l'évolution de la situation, madame.<end>
+Je suis ici pour faire le point sur la situation, madame.<end>
 
 =>q12_original
 Were you sent by Colonel Cathcart?<end>
@@ -84,7 +84,7 @@ Oui, il m'a $(#envoyé/envoyée) ici en personne.<end>
 Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
 
 =>q14
-Alors il semble vous faire plus confiance qu'au rapport que je lui ai envoyé il y a peu. Quoi qu'il en soit, la situation n'a pas changé : toujours aucun signe de Tchortists, ni de ce qui se passe vraiment à l'intérieur de l'Institute. Des coups de feu et des cris ont été entendus à quelques reprises, rien de plus. La présence Faceless n'est toujours pas confirmée.<end>
+Alors il semble vous faire plus confiance qu'au rapport que je lui ai envoyé récemment. Quoi qu'il en soit, la situation n'a pas changé : toujours aucun signe de Tchortists, ni de ce qui se passe exactement à l'intérieur de l'Institute. Des coups de feu et des cris ont été entendus à de rares reprises, rien de plus. La présence Faceless n'est toujours pas confirmée.<end>
 
 =>a15_original
 No, no one sent me.<end>
@@ -96,7 +96,7 @@ Non, personne ne m'a $(#envoyé/envoyée).<end>
 ::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
 
 =>q16
-::Son regard gagne en intensité.:: Alors je n'ai aucune obligation de vous rendre compte, caporal. Vous ne devriez pas plutôt vous occuper d'autres devoirs, au lieu de vous renseigner sur des affaires qui ne vous regardent pas ? Je parlerai à vos supérieurs dès mon retour à Fort Apogee. Hors de ma vue, caporal. Rompez.<end>
+::Son regard s'intensifie.:: Alors je n'ai aucune obligation de vous rendre compte, caporal. Ne devriez-vous pas plutôt vous occuper d'autres devoirs, au lieu de vous mêler d'affaires qui ne vous regardent pas ? Je parlerai à vos supérieurs dès mon retour à Fort Apogee. Hors de ma vue, caporal. Rompez.<end>
 
 =>a17_original
 Yes, ma'am. ::Salute and leave.::<end>
@@ -126,7 +126,7 @@ Oui, madame. ::Saluer et partir.::<end>
 You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
 
 =>q21
-Vous n'avez rien à faire ici, $(#citoyen/citoyenne). Je vous suggère de quitter le secteur, sinon je serai obligée de faire procéder à votre expulsion.<end>
+Vous n'avez rien à faire ici, $(#citoyen/citoyenne). Je vous suggère de quitter le secteur, sinon je serai obligée d'ordonner qu'on vous en expulse.<end>
 
 =>a22_original
 I had some questions about what is happening here.<end>
@@ -138,7 +138,7 @@ J'avais des questions sur ce qui se passe ici.<end>
 ::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
 
 =>q23
-::Son regard perçant dit bien mieux le message que les mots qui suivent.:: Faut-il que je me répète, $(#citoyen/citoyenne) ?<end>
+::Son regard perçant en dit plus long que les mots qui suivent.:: Dois-je me répéter, $(#citoyen/citoyenne) ?<end>
 
 =>a24_original
 But I *really* need to know what is going on here.<end>
@@ -154,7 +154,7 @@ Not a word more. *Leave.*
 ::She turns her back to you.::<end>
 
 =>q25
-::Elle vous coupe au milieu de la phrase.:: 
+::Elle vous coupe en pleine phrase.:: 
 
 Pas un mot de plus. *Partez.*
 
@@ -170,7 +170,7 @@ Personne ne me parle comme ça, espèce d'idiote...<end>
 ::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
 
 =>q27
-::Elle se retourne lentement, l'expression inchangée ; mais ses yeux racontent autre chose : le regard d'acier fond, se dissipe, passe au blanc. Un seul geste de sa part, et tous les soldats du Protectorate se tournent vers vous, hostiles.::<end>
+::Elle se retourne lentement, l'expression inchangée ; mais ses yeux racontent une autre histoire : le regard d'acier fond, se dissipe, porté à blanc. Un seul geste de sa part, et tous les soldats du Protectorate se tournent vers vous, hostiles.::<end>
 
 =>a28_original
 ::Fight!::<end>
@@ -194,7 +194,7 @@ Je suppose que non... Je ferais mieux d'y aller.<end>
 My business is your death, Protectorate swine! ::Attack!::<end>
 
 =>a31
-Votre mort, voilà mon affaire, porc du Protectorate ! ::Attaquer.::<end>
+Votre mort, voilà ce que j'ai à faire ici, porc du Protectorate ! ::Attaquer.::<end>
 
 =>a32_original
 I won't bother you anymore. Goodbye.<end>

@@ -4,21 +4,21 @@
 $(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
 
 =>q1
-::La femme se tourne vers vous, lentement, sans brusquerie. Elle vous regarde avec des yeux sans émotion, vous salue d'un visage impassible, et vous parle d'une voix plate.::
+::La femme se tourne vers vous, lentement, posément. Elle vous regarde avec des yeux sans émotion, vous salue d'un visage impassible, et vous parle d'une voix plate.::
 
-$(context.player.Name). Je m'appelle Phyllis. Je répare tous les oculites, ou si vous préférez un autre terme, je propose des « soins médicaux ».<end>
+$(context.player.Name). Je suis Phyllis. J'effectue les réparations sur tous les oculites, ou si vous préférez un autre terme, je propose des « soins médicaux ».<end>
 
 =>a2_original
 Nice to meet you, Phyllis.<end>
 
 =>a2
-Enchanté, Phyllis.<end>
+$(#Enchanté/Enchantée), Phyllis.<end>
 
 =>q3_original
 The pleasure is mine. If you get damaged, do not hesitate to see me. During my time here, not a single one of my patients expired.<end>
 
 =>q3
-Le plaisir est pour moi. Si vous êtes endommagé, n'hésitez pas à venir me voir. Depuis que je suis ici, pas un seul de mes patients n'a expiré.<end>
+Le plaisir est pour moi. Si vous êtes $(#endommagé/endommagée), n'hésitez pas à venir me voir. Depuis que je suis ici, pas un seul de mes patients n'a expiré.<end>
 
 =>a4_original
 Expired?<end>
@@ -30,19 +30,19 @@ Expiré ?<end>
 Dead, deceased, departed... One that has ceased to be.<end>
 
 =>q5
-Mort, défunt, disparu... Celui qui a cessé d'être.<end>
+Mort, défunt, disparu... Ce qui a cessé d'être.<end>
 
 =>a6_original
 I have no wish to expire. I'll see you if I need help.<end>
 
 =>a6
-J'ai pas envie d'expirer. Je passerai si j'ai besoin d'aide.<end>
+Je n'ai aucune envie d'expirer. Je passerai vous voir si j'ai besoin d'aide.<end>
 
 =>q7_original
 Please do. All treatment will be free of charge.<end>
 
 =>q7
-Je vous en prie. Tous les soins sont gratuits.<end>
+Je vous en prie. Tous les soins seront gratuits.<end>
 
 =>q8_original
 <end>
@@ -60,25 +60,25 @@ Voir ce que vous avez à vendre. ::Troc.::<end>
 Could you take a look at my injuries?<end>
 
 =>a10
-Vous pourriez jeter un œil à mes blessures ?<end>
+Pourriez-vous jeter un œil à mes blessures ?<end>
 
 =>q11_original
 You are severely damaged, $(context.player.Name). I will fix you up.<end>
 
 =>q11
-Vous êtes gravement endommagé, $(context.player.Name). Je vais vous réparer.<end>
+Vous êtes gravement $(#endommagé/endommagée), $(context.player.Name). Je vais vous réparer.<end>
 
 =>a12_original
 ::Let her treat you.::<end>
 
 =>a12
-::La laisser vous soigner.::<end>
+::Se laisser soigner.::<end>
 
 =>q13_original
 You are lightly damaged. The repairs will not take too long.<end>
 
 =>q13
-Vous êtes légèrement endommagé. Les réparations ne prendront pas longtemps.<end>
+Vous êtes légèrement $(#endommagé/endommagée). Les réparations ne prendront pas trop longtemps.<end>
 
 =>a14_original
 You mentioned "repairing" Oculites...<end>
@@ -90,31 +90,31 @@ Vous avez parlé de « réparer » les oculites...<end>
 Yes, that is what I said. Why? Is that term bothering you in that particular context?<end>
 
 =>q15
-Oui, c'est ce que j'ai dit. Pourquoi ? Ce terme vous gêne, dans ce contexte-là ?<end>
+Oui, c'est ce que j'ai dit. Pourquoi ? Ce terme vous gêne, dans ce contexte particulier ?<end>
 
 =>a16_original
 It does, actually. How can you say that you "repair" human beings? Unless there's something I'm missing here...<end>
 
 =>a16
-Oui, en fait. Comment on peut dire qu'on « répare » des êtres humains ? À moins qu'il me manque un truc...<end>
+Oui, en fait. Comment pouvez-vous dire que vous « réparez » des êtres humains ? À moins qu'il me manque quelque chose...<end>
 
 =>q17_original
 You are not the first person to tell me that. Let me explain to you why I use such terminology.<end>
 
 =>q17
-Vous n'êtes pas le premier à me le dire. Laissez-moi vous expliquer pourquoi j'emploie ce vocabulaire.<end>
+Vous n'êtes pas la première personne à me le dire. Laissez-moi vous expliquer pourquoi j'emploie cette terminologie.<end>
 
 =>q18_original
 I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
 
 =>q18
-Je comprends que nous, les humains, nous croyons être en quelque sorte spéciaux, en quelque sorte uniques, que nous possédons en quelque sorte une certaine propriété, peut-être... une âme, si vous voulez. Certains diraient même que nous avons été créés par une puissance supérieure. Dans tous les cas, ça revient à notre manque de compréhension, ou mieux, à notre manque de connaissances sur les humains et les autres créatures vivantes. C'est ça qui nous fait penser ça.<end>
+Je comprends que nous, les humains, croyons être en quelque sorte spéciaux, en quelque sorte uniques, que nous possédons en quelque sorte une certaine propriété, peut-être... une âme, si vous voulez. Certains diraient même que nous avons été créés par une puissance supérieure. Quelle que soit la version, tout cela se ramène à notre manque de compréhension, ou mieux, à notre manque de connaissances sur les humains et les autres créatures vivantes. C'est cela qui nous fait le croire.<end>
 
 =>q19_original
 From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
 
 =>q19
-De mon point de vue, la réalité est autre. Quand je regarde un corps vivant, je vois des muscles qui se contractent pour tirer les tendons qui plient le bras. Je vois un cœur, une simple pompe, l'organe le plus facile à remplacer, qui fait exactement ça : pomper du fluide. Je vois ce même fluide chargé de globules rouges, qui contiennent de l'hémoglobine, qui contient des molécules de fer qui se lient à l'oxygène, ensuite transporté jusqu'aux cellules pour les alimenter avec cet oxygène. Du carburant.<end>
+De mon point de vue, la réalité est autre. Quand je regarde un corps vivant, je vois des muscles qui se contractent pour tirer les tendons qui plient le bras. Je vois un cœur, une simple pompe, l'organe le plus facile à remplacer, qui fait exactement cela : pomper du fluide. Je vois ce même fluide, contenant des globules rouges, qui contiennent de l'hémoglobine, qui contient des molécules de fer qui se lient à l'oxygène, ensuite transporté jusqu'aux cellules pour les alimenter avec cet oxygène même. Du carburant.<end>
 
 =>q20_original
 It is all these... mechanisms, chemical reactions, electrical signals... within our bodies that make it function. And it is all these smaller living beings that make up a whole, larger being that falsely considers itself a unique entity - one of a kind. It is made of flesh, true, but in essence, it is nothing but a complex machinery, and those I repair. 
@@ -123,16 +123,16 @@ And only if I see it as such - a living machine - will I be able to reach a new 
 <end>
 
 =>q20
-Ce sont tous ces... mécanismes, réactions chimiques, signaux électriques... dans nos corps qui les font fonctionner. Et ce sont tous ces êtres vivants plus petits qui forment un tout, un être plus grand, qui se prend à tort pour une entité unique, une pièce à part. C'est fait de chair, c'est vrai, mais dans l'essence ce n'est qu'une machinerie complexe. Et ça, je le répare.
+Ce sont tous ces... mécanismes, réactions chimiques, signaux électriques... dans nos corps qui les font fonctionner. Et ce sont tous ces êtres vivants plus petits qui composent un tout, un être plus grand, qui se prend à tort pour une entité unique, sans équivalent. C'est fait de chair, c'est vrai, mais par essence ce n'est qu'une machinerie complexe. Et c'est cela que je répare.
 
-Et c'est seulement si je le vois comme ça, une machine vivante, que je pourrai monter d'un cran, ouvrir de nouvelles frontières en médecine... et peut-être un jour « réparer » quelque chose que nous n'osions pas toucher, parce que nous l'observions sous le mauvais angle, la perception encombrée de faux présupposés.
+Et ce n'est qu'en le voyant ainsi, une machine vivante, que je pourrai atteindre un autre niveau, ouvrir de nouvelles frontières en médecine... et peut-être un jour « réparer » quelque chose que nous n'osions pas toucher, parce que nous l'observions sous le mauvais angle, notre perception entravée par de faux présupposés.
 <end>
 
 =>q21_original
 There you are. And one more thing that I like to point out whenever this discussion gets brought up: All living things, including us human beings, are mainly made from some of the most common chemical elements: hydrogen, oxygen, carbon and nitrogen. If we were somehow special... somehow unique or, yes, even *created* by something or someone greater - in case you believe something like that - then why aren't we made from, say, polonium? Or bismuth, yes... That would make us *very* unique, don't you think?<end>
 
 =>q21
-Voilà. Et encore une chose que j'aime rappeler chaque fois que cette discussion revient : tous les êtres vivants, nous y compris, sont surtout faits de quelques-uns des éléments chimiques les plus banals. Hydrogène, oxygène, carbone, azote. Si nous étions en quelque sorte spéciaux... en quelque sorte uniques, ou même *créés* par quelque chose ou quelqu'un de plus grand, si vous croyez à ce genre de chose, alors pourquoi ne sommes-nous pas faits, disons, de polonium ? Ou de bismuth, oui... Ça, ça nous rendrait *très* uniques, vous ne trouvez pas ?<end>
+Voilà. Et encore une chose que je tiens à souligner chaque fois que cette discussion revient : tous les êtres vivants, nous y compris, sont principalement composés de quelques-uns des éléments chimiques les plus banals. Hydrogène, oxygène, carbone, azote. Si nous étions en quelque sorte spéciaux... en quelque sorte uniques, ou même *créés* par quelque chose ou quelqu'un de plus grand, si vous croyez à ce genre de chose, alors pourquoi ne sommes-nous pas faits, disons, de polonium ? Ou de bismuth, oui... Cela nous rendrait *très* uniques, vous ne trouvez pas ?<end>
 
 =>q22_original
 Think about it. I have not told you anything untrue.<end>
@@ -156,31 +156,31 @@ Dans ce cas, je vais vous donner une explication, $(context.player.Name).<end>
 It doesn't bother me, not at all. I just suspect that there is a reason for using that specific word in that context, and I'd like to hear it.<end>
 
 =>a25
-Ça me gêne pas, pas du tout. Je soupçonne juste qu'il y a une raison d'employer ce mot-là, dans ce contexte-là, et j'aimerais l'entendre.<end>
+Ça ne me gêne pas, pas du tout. Je soupçonne simplement qu'il y a une raison d'employer ce mot précis dans ce contexte, et j'aimerais l'entendre.<end>
 
 =>a26_original
 What can you tell me about Oculus?<end>
 
 =>a26
-Vous pouvez me dire quoi sur Oculus ?<end>
+Que pouvez-vous me dire sur Oculus ?<end>
 
 =>q27_original
 As far as I am aware, unknown beings, dubbed Godmen by Azif, built Oculus for purposes... unknown. I have inquired about this subject on numerous occasions, but most of the answers can be summed up with, "We're not sure, but we think..."<end>
 
 =>q27
-Pour autant que je sache, des êtres inconnus, qu'Azif appelle Godmen, ont construit Oculus à des fins... inconnues. J'ai posé la question plus d'une fois. La plupart des réponses se résument à : « On n'est pas sûrs, mais on pense... »<end>
+Pour autant que je sache, des êtres inconnus, qu'Azif appelle Godmen, ont construit Oculus à des fins... inconnues. J'ai posé des questions sur ce sujet à de nombreuses reprises. La plupart des réponses se résument à : « On n'est pas sûrs, mais on pense... »<end>
 
 =>q28_original
 Living in a place you know little about can be both fascinating and frightening. And yes, I have emotions, despite what *you* may think of me; I noticed your stare. Now, fascinating, I think it is obvious why. Oculus is so much more advanced than anything what you will find outside of it. Also, every new discovery we make opens new possibilities and knowledge. Frightening, I think it's also obvious why...<end>
 
 =>q28
-Vivre dans un endroit qu'on connaît mal, ça peut être fascinant et effrayant à la fois. Et oui, j'ai des émotions, quoi que *vous* pensiez de moi. J'ai vu votre regard. Fascinant : la raison me paraît évidente. Oculus est bien plus avancé que tout ce que vous trouverez dehors. Et chaque découverte ouvre de nouvelles possibilités, de nouveaux savoirs. Effrayant : ça aussi, je pense que c'est évident...<end>
+Vivre dans un endroit que l'on connaît mal peut être à la fois fascinant et effrayant. Et oui, j'ai des émotions, quoi que *vous* pensiez de moi. J'ai vu votre regard. Fascinant : la raison me paraît évidente. Oculus est bien plus avancé que tout ce que vous trouverez à l'extérieur. Et chaque nouvelle découverte ouvre de nouvelles possibilités, de nouveaux savoirs. Effrayant : là aussi, la raison me paraît évidente...<end>
 
 =>q29_original
 Ignoring the deadly drop - if you trip and fall into the darkness - which, granted, never destroyed any oculites so far - who knows what else we will find here. Maybe one day, our curiosity will lead us to our destruction. No one can tell for certain.<end>
 
 =>q29
-Sans même parler de la chute mortelle, si vous trébuchez et tombez dans le noir, ce qui, certes, n'a encore détruit aucun oculite, qui sait ce qu'on trouvera d'autre ici. Peut-être qu'un jour, la curiosité nous mènera à notre perte. Personne ne peut le dire.<end>
+Sans même parler de la chute mortelle, si vous trébuchez et tombez dans le noir, ce qui, certes, n'a encore détruit aucun oculite, qui sait ce que nous trouverons d'autre ici. Peut-être qu'un jour, notre curiosité nous mènera à notre perte. Personne ne peut le dire avec certitude.<end>
 
 =>a30_original
 Are you a machine?<end>

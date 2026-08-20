@@ -8,7 +8,7 @@
 We are looking for a suspicious $(context.npc_cc_ray_describeBreakIn_finalDescription). If you have any useful info, let us know.<end>
 
 =>q2
-Nous cherchons un $(context.npc_cc_ray_describeBreakIn_finalDescription) suspect. Si vous avez des informations utiles, faites-nous savoir.<end>
+Nous recherchons un $(context.npc_cc_ray_describeBreakIn_finalDescription) suspect. Si vous avez des infos, dites-le-nous.<end>
 
 =>q3_original
 <end>
@@ -20,25 +20,25 @@ Nous cherchons un $(context.npc_cc_ray_describeBreakIn_finalDescription) suspect
 Enforcer. Someone causing trouble?<end>
 
 =>q4
-Enforceur. Quelqu'un qui cause des ennuis ?<end>
+Enforcer. Un problème ?<end>
 
 =>a5_original
 Some hobo is digging through trash right in front of my house and is making a huge mess.<end>
 
 =>a5
-Un clochard creuse dans les poubelles juste devant ma maison et fait un énorme désordre.<end>
+Un clochard fouille les poubelles juste devant chez moi et salit tout.<end>
 
 =>q6_original
 ::Takes a closer look at you.:: <end>
 
 =>q6
-::Je te regarde de plus près.:: <end>
+::Vous examine de plus près.:: <end>
 
 =>q7_original
 $(#Sir/Ma'am)! I'm sorry, I didn't recognize you right away.<end>
 
 =>q7
-$(#Monsieur/Madame) ! Désolé, je ne vous ai pas reconnu tout de suite.<end>
+$(#Monsieur/Madame) ! Pardon, je ne vous avais pas reconnu tout de suite.<end>
 
 =>q8_original
 In any case, <end>
@@ -50,7 +50,7 @@ En tout cas, <end>
 I think I know exactly who you're talking about: It is an elderly, balding man wearing a green jacket. Is that correct?<end>
 
 =>q9
-Je crois savoir exactement de qui vous parlez : C'est un homme chauve âgé portant une veste verte. Est-ce exact ?<end>
+Je crois savoir exactement de qui vous parlez : un vieil homme dégarni, veste verte. C'est bien ça ?<end>
 
 =>a10_original
 That is correct.<end>
@@ -62,7 +62,7 @@ C'est exact.<end>
 Very well, we'll deal with the situation right away.<end>
 
 =>q11
-Très bien, nous allons régler la situation tout de suite.<end>
+Très bien. Nous nous en occupons tout de suite.<end>
 
 =>q12_original
 ::Salutes you.:: $(#Sir/Ma'am). Order through strength.<end>
@@ -86,37 +86,37 @@ L'ordre par la force.<end>
 With Praetorian Security around, you have nothing to worry about. Oh, and welcome to the neighborhood.<end>
 
 =>q15
-Avec Praetorian Security autour, vous n'avez rien à craindre. Oh, et bienvenue dans le quartier.<end>
+Avec Praetorian Security, vous n'avez rien à craindre. Et bienvenue dans le quartier.<end>
 
 =>a16_original
 Thank you, enforcer. Have a nice day.<end>
 
 =>a16
-Merci, l'exécuteur. Bonne journée.<end>
+Merci, Enforcer. Bonne journée.<end>
 
 =>a17_original
 And smells like he hasn't taken a bath since his birth. Yes, that is him.<end>
 
 =>a17
-Et il sent comme s'il n'avait pas pris de bain depuis sa naissance. Oui, c'est lui.<end>
+Et il pue comme s'il n'avait jamais pris de bain. Oui, c'est lui.<end>
 
 =>q18_original
 You are new in the neighbourhood, right? Wardell residence? Yes, I've seen you entering it recently.<end>
 
 =>q18
-Vous êtes nouveau dans le quartier, non ? Résidence Wardell ? Oui, je vous ai vu entrer récemment.<end>
+Vous êtes $(#nouveau/nouvelle) dans le quartier, non ? Résidence Wardell ? Oui, je vous ai vu y entrer récemment.<end>
 
 =>q19_original
 In any case, what you described is considered a public offense - and I think I know exactly who you're talking about: It's an elderly, balding man wearing a green jacket; is that correct?<end>
 
 =>q19
-En tout cas, ce que vous avez décrit est considéré comme une infraction publique - et je pense que je sais exactement de qui vous parlez: C'est un homme chauve âgé portant une veste verte, n'est-ce pas ?<end>
+En tout cas, ce que vous décrivez est une infraction publique. Et je crois savoir de qui vous parlez : un vieil homme dégarni, veste verte. C'est bien ça ?<end>
 
 =>a20_original
 Never mind, sorry for disturbing you.<end>
 
 =>a20
-Oubliez, désolé de vous déranger.<end>
+Laisser tomber. Désolé de vous déranger.<end>
 
 =>q21_original
 How can I help you?<end>
@@ -134,7 +134,7 @@ Comment puis-je vous aider ?<end>
 Pipeworking vagabond psionics...<end>
 
 =>q23
-Des psys vagabonds...<end>
+Des psis vagabonds... des tuyauteurs...<end>
 
 =>q24_original
 Order through strength.<end>
@@ -146,7 +146,7 @@ L'ordre par la force.<end>
 I've seen *so* many fights on this square. Some of those were even better than the ones in the Arena.<end>
 
 =>q25
-J'ai vu beaucoup de combats sur cette place. Certains étaient même meilleurs que ceux de l'aréna.<end>
+J'ai vu *tellement* de bagarres sur cette place. Certaines valaient mieux que celles de l'Arena.<end>
 
 =>q26_original
 Congratulations on your promotion, $(#sir/ma'am).<end>
@@ -158,7 +158,7 @@ Félicitations pour votre promotion, $(#monsieur/madame).<end>
 Wish I was protecting that fa-- wealthy citizen on his yacht. Then again, the waterways stink.<end>
 
 =>q27
-J'aimerais protéger ce fa... riche citoyen sur son yacht. Encore une fois, les voies navigables puent.<end>
+J'aimerais protéger ce gro... ce riche citoyen sur son yacht. Après, les voies d'eau, ça pue.<end>
 
 =>q28_original
 Need something?<end>
@@ -170,25 +170,25 @@ Besoin de quelque chose ?<end>
 We are ready for the Faceless. They make another assault - they all die. ::Laughs.::<end>
 
 =>q29
-Nous sommes prêts pour le Faceless. Ils font une autre agression - ils meurent tous. ::Rit.::<end>
+On est prêts pour les Faceless. Ils retentent un assaut, ils meurent tous. ::Rit.::<end>
 
 =>q30_original
 Enforcer.<end>
 
 =>q30
-Exécuteur.<end>
+Enforcer.<end>
 
 =>q31_original
 The Foundry Guard got nothing on us.<end>
 
 =>q31
-La Garde Foundry n'a rien sur nous.<end>
+La Foundry Guard, c'est rien à côté de nous.<end>
 
 =>q32_original
 If you need our help, Praetorian Security headquarters is located on the upper level of Core City.<end>
 
 =>q32
-Si vous avez besoin de notre aide, le quartier général Praetorian Security est situé au niveau supérieur de Core City.<end>
+Si vous avez besoin de nous, le QG Praetorian Security est au niveau supérieur de Core City.<end>
 
 =>q33_original
 ::Salutes you.::<end>
@@ -200,65 +200,64 @@ Si vous avez besoin de notre aide, le quartier général Praetorian Security est
 All enforcers must go through rigorous training.<end>
 
 =>q34
-Tous les agents d'exécution doivent suivre une formation rigoureuse.<end>
+Tous les Enforcers passent un entraînement sévère.<end>
 
 =>q35_original
 Welcome to Core City. If you're here for the Arena, it's on the middle level; use the main elevator to get there.<end>
 
 =>q35
-Bienvenue à Core City. Si vous êtes ici pour l'aréna, c'est au niveau intermédiaire; utilisez l'ascenseur principal pour y arriver.<end>
+Bienvenue à Core City. L'Arena, c'est au niveau intermédiaire. Prenez l'ascenseur principal.<end>
 
 =>q36_original
 ::Laughs.:: Coretech thought they were sneaky with their "hidden" research facility. But even those damned Tchortists found them. Hardcore, just hardcore.<end>
 
 =>q36
-::Rit.:: Coretech pensait qu'ils étaient sournois avec leur centre de recherche « caché ». Mais même ces damnés Tchort les ont trouvés. Hardcore, juste hardcore.<end>
+::Rit.:: Coretech se croyait malin avec son labo « secret ». Même ces satanés Tchortists l'ont trouvé. Hardcore. Juste hardcore.<end>
 
 =>q37_original
 Everyone in Praetorian Security feels true sadness about Edmund's death. Such a tragedy.<end>
 
 =>q37
-Tout le monde dans Praetorian Security ressent une vraie tristesse à propos de la mort d'Edmund. Une telle tragédie.<end>
+Toute Praetorian Security ressent une vraie tristesse pour la mort d'Edmund. Quelle tragédie.<end>
 
 =>q38_original
 De Pacino's band of mercenaries is no more.<end>
 
 =>q38
-La bande de mercenaires de De Pacino n'est plus.<end>
+Les mercenaires de De Pacino, c'est fini.<end>
 
 =>q39_original
 Look at them. It's always crowded here.<end>
 
 =>q39
-Regarde-les. C'est toujours bondé ici.<end>
+Regardez-les. Toujours bondé, ici.<end>
 
 =>q40_original
 Avoid Drop Zone.<end>
 
 =>q40
-Éviter Drop Zone.<end>
+Évitez Drop Zone.<end>
 
 =>q41_original
 Civilians sometimes start actual fights when their favorite gladiators are duking it out.<end>
 
 =>q41
-Les civils commencent parfois des combats réels quand leurs gladiateurs préférés le durent.<end>
+Les civils se tapent parfois pour de vrai quand leurs gladiateurs se mettent dessus.<end>
 
 =>q42_original
 Damn Lurkers. Derailed bastards...<end>
 
 =>q42
-Merde Lurkers. Des salauds déraillés...<end>
+Putain de Lurkers. Salauds déraillés...<end>
 
 =>q43_original
 We drove those freaks off. Order through domination.<end>
 
 =>q43
-On a chassé ces monstres. Ordre par domination.<end>
+On a dégagé ces tarés. L'ordre par la domination.<end>
 
 =>q44_original
 Foundry had a major prison break recently. Who's hardcore now?<end>
 
 =>q44
-Foundry a récemment connu une importante évasion. Qui est hardcore maintenant ?<end>
-
+Foundry a eu une grosse évasion, récemment. Qui est hardcore, maintenant ?<end>

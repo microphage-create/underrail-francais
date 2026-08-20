@@ -8,7 +8,7 @@ Adaptez-vous et surmontez !<end>
 Please enter the room, $(context.player.Name). Someone will be with you shortly.<end>
 
 =>q2
-Veuillez entrer, $(context.player.Name). On va s'occuper de vous.<end>
+Veuillez entrer, $(context.player.Name). Quelqu'un va vous rejoindre sous peu.<end>
 
 =>q3_original
 This way, $(context.player.Name).<end>
@@ -22,7 +22,7 @@ Par ici, $(context.player.Name).<end>
 Tchort is evolution, $(context.player.Name). My name is Theresa. Would you be so kind to follow me and answer a few questions?<end>
 
 =>q4
-::La rassophore attend que vous approchiez, puis vous salue poliment.::
+::La rassophore attend que vous approchiez avant de vous saluer poliment.::
 
 Tchort est l'évolution, $(context.player.Name). Je m'appelle Theresa. Auriez-vous l'amabilité de me suivre et de répondre à quelques questions ?<end>
 
@@ -36,13 +36,13 @@ De quoi s'agit-il ?<end>
 It's a security related matter; we just need to ask you a couple of questions and you will be free to return to your work, $(#brother/sister).<end>
 
 =>q6
-C'est une affaire de sécurité. Quelques questions, et vous pourrez reprendre votre travail, $(#frère/sœur).<end>
+Il s'agit d'une affaire de sécurité. Nous avons juste quelques questions à vous poser, puis vous pourrez reprendre votre travail, $(#frère/sœur).<end>
 
 =>a7_original
 Whatever, let's get this over with as soon as possible. I've got a lot of work to do.<end>
 
 =>a7
-Très bien, finissons-en au plus vite. J'ai du travail.<end>
+Peu importe. Finissons-en au plus vite. J'ai beaucoup de travail.<end>
 
 =>q8_original
 It won't take long, I promise. Right this way, $(#brother/sister).<end>
@@ -60,7 +60,7 @@ It won't take long, I promise. Right this way, $(#brother/sister).<end>
 Sure. Lead the way, sister.<end>
 
 =>a10
-Bien. Montrez le chemin, sœur.<end>
+D'accord. Montrez le chemin, sœur.<end>
 
 =>a11_original
 I don't really feel like answering a bunch of questions...<end>
@@ -72,13 +72,13 @@ Je n'ai pas vraiment envie de répondre à un tas de questions...<end>
 Please, $(context.player.Name), this is an important issue. It won't take too much of your time.<end>
 
 =>q12
-Je vous en prie, $(context.player.Name), c'est important. Ça ne vous prendra pas trop de temps.<end>
+Je vous en prie, $(context.player.Name), c'est une affaire importante. Ça ne vous prendra pas trop de temps.<end>
 
 =>a13_original
 Can we do this later, perhaps?<end>
 
 =>a13
-On ne peut pas faire ça plus tard ?<end>
+On ne pourrait pas faire ça plus tard ?<end>
 
 =>q14_original
 $(context.player.Name), please... there is nothing to worry about. Follow me. This won't take too long.<end>
@@ -90,13 +90,13 @@ $(context.player.Name), je vous en prie... il n'y a pas de quoi s'inquiéter. Su
 But why take me down here? Why couldn't we do this somewhere else?<end>
 
 =>a15
-Pourquoi m'emmener ici ? On n'aurait pas pu faire ça ailleurs ?<end>
+Pourquoi m'emmener ici en bas ? On n'aurait pas pu faire ça ailleurs ?<end>
 
 =>q16_original
 An important security issue is at question, $(context.player.Name), and certain protocols need to be followed. Everything will be explained to you. Now, I will ask you one more time: Would you kindly follow me?<end>
 
 =>q16
-Une affaire de sécurité importante est en jeu, $(context.player.Name), et certains protocoles s'imposent. Tout vous sera expliqué. Je vous le demande encore une fois : auriez-vous la gentillesse de me suivre ?<end>
+Il s'agit d'une affaire de sécurité importante, $(context.player.Name), et certains protocoles doivent être respectés. Tout vous sera expliqué. Je vous le demande encore une fois : auriez-vous la gentillesse de me suivre ?<end>
 
 =>a17_original
 No.<end>
@@ -114,13 +114,13 @@ Non ?<end>
 Nope.<end>
 
 =>a19
-Non.<end>
+Non, c'est non.<end>
 
 =>q20_original
 ::Your words are met with silence and a concealed stare. The motionlessness is broken as soon as she raises her rifle.::<end>
 
 =>q20
-::Vos paroles se heurtent à un silence, et à un regard qu'on ne voit pas. L'immobilité casse dès qu'elle lève son fusil.::<end>
+::Elle accueille vos paroles par un silence et un regard dissimulé. L'immobilité se brise dès qu'elle lève son fusil.::<end>
 
 =>a21_original
 ::Fight!::<end>
@@ -132,13 +132,13 @@ Non.<end>
 You heard what I said. Whatcha gonna do about it?<end>
 
 =>a22
-Vous avez entendu. Qu'est-ce que vous allez faire ?<end>
+Vous m'avez entendu. Qu'est-ce que vous allez y faire ?<end>
 
 =>a23_original
 Alright, alright! Let's get this over with as already.<end>
 
 =>a23
-Très bien, très bien ! Finissons-en.<end>
+Bon, bon ! Finissons-en.<end>
 
 =>a24_original
 Fine. Lead the way sister.<end>

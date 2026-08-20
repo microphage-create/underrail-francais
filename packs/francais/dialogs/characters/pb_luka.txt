@@ -2,7 +2,7 @@
 ::This rather portly man appears to be working on some complicated-looking mechanical part. All his mental capacity seems to be focused on it, as to him you aren't there. Granted, there is a lot of noise in the room, which makes it difficult to hear someone approach. And yours has been, so far, met only with the backside of a worn shirt marked with burn marks, oil splotches and a few torn spots.::<end>
 
 =>q1
-::Cet homme plutôt corpulent a l'air de travailler sur une pièce mécanique d'allure compliquée. Toute sa tête est là-dessus : pour lui, vous n'existez pas. Il faut dire qu'il y a un sacré bruit dans la pièce, difficile d'entendre quelqu'un arriver. Pour l'instant, votre arrivée n'a rencontré que le dos d'une chemise usée, brûlures, taches d'huile, quelques déchirures.::<end>
+::Cet homme plutôt corpulent a l'air de travailler sur une pièce mécanique d'allure compliquée. Toute son attention est collée dessus : pour lui, vous n'existez pas. Il faut dire qu'il y a un sacré bruit dans la pièce, difficile d'entendre quelqu'un arriver. Pour l'instant, vous n'avez droit qu'au dos d'une chemise usée : brûlures, taches d'huile, quelques déchirures.::<end>
 
 =>a2_original
 Excuse me?<end>
@@ -18,7 +18,7 @@ Gee, you startled me, $(#sir/ma'am). Oh, oh... I'm sorry, I was focused on repai
 =>q3
 ::Il sursaute un instant, lâche son tournevis. Il se retourne, le visage passe de la confusion à un sourire.::
 
-Eh ben, vous m'avez fait sursauter, $(#monsieur/madame). Oh, oh... Pardon, j'étais tellement sur les stabilisateurs de la jambe droite que j'ai même pas vu qu'il y avait quelqu'un. ::Il rit.:: Eh ben...<end>
+Eh ben, vous m'avez fait sursauter, $(#monsieur/madame). Oh, oh... Pardon, j'étais tellement pris sur les stabilisateurs de la jambe droite que j'ai même pas vu qu'il y avait quelqu'un. ::Il rit.:: Eh ben...<end>
 
 =>a4_original
 I'm sorry, I didn't mean to startle you.<end>
@@ -32,9 +32,9 @@ No need to apologize, $(#sir/ma'am)! It's my fault, I forget myself sometimes. I
 Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
 
 =>q5
-Pas la peine de vous excuser, $(#monsieur/madame) ! C'est ma faute, je m'oublie parfois. Faut que je remette ce Dreadnought sur pied, alors je suis tout... enfin... ::Il s'essuie les mains noires.::
+Pas la peine de vous excuser, $(#monsieur/madame) ! C'est ma faute, je m'oublie parfois. Faut que je remette ce Dreadnought en route, alors je suis tout... enfin... ::Il s'essuie les mains noires.::
 
-D'abord, je me présente : Luka Giotto, chef mécanicien. Vous êtes là pour acheter des pièces, ou vous faites juste connaissance avec la base ?<end>
+D'abord, je me présente : Luka Giotto, chef mécanicien. Vous êtes là pour acheter des pièces, ou c'est juste pour visiter la base ?<end>
 
 =>q6_original
 <end>
@@ -52,7 +52,7 @@ Voyons ce que vous avez. ::Troc.::<end>
 I need these mutagen cans rigged in a specific way. Can you help me?<end>
 
 =>a8
-J'ai besoin que ces bidons de mutagène soient truqués d'une certaine façon. Vous pouvez m'aider ?<end>
+J'ai besoin que ces bidons de mutagène soient bricolés d'une certaine façon. Vous pouvez m'aider ?<end>
 
 =>q9_original
 Gee, Corporal, I'd love to help you, but I'm too...
@@ -90,7 +90,7 @@ Très bien, je vais lui parler.<end>
 ::He nods.::<end>
 
 =>q13
-::Il acquiesce.::<end>
+::Il hoche la tête.::<end>
 
 =>a14_original
 No, you misheard me. I asked you a completely different question.<end>
@@ -102,7 +102,7 @@ Non, vous m'avez mal entendu. Je vous ai posé une tout autre question.<end>
 Oh... Oh! ::He laughs.:: It must have been because of the noise. Could you repeat the question, perhaps?<end>
 
 =>q15
-Oh... Oh ! ::Il rit.:: Ça doit être le bruit. Vous pourriez répéter la question ?<end>
+Oh... Oh ! ::Il rit.:: Ça doit être à cause du bruit. Vous pourriez répéter la question ?<end>
 
 =>a16_original
 What can you tell me about Dreadnoughts?<end>
@@ -122,13 +122,13 @@ Eh ben, si vous me donnez deux jours, je vous tape une encyclopédie, $(#monsieu
 
 Mais regardez-en un : si imposant, si... puissant. Hardcore ! Juste hardcore. Le nom « officiel », c'est APF-99 Dreadnought, APF pour Armored Powered Frame.
 
-Ces bêtes embarquent des turbines WPE de 1000 kW, et leurs fusion cores tiennent des années sans remplacement.<end>
+Ces bêtes embarquent des turbines WPE de 1000 kW, et leurs noyaux de fusion tiennent des années sans remplacement.<end>
 
 =>q18_original
 Of course, the most dominating part about them is their weaponry! They pack an SBA-75 chaingun, attached to one arm; a powerful 80 series drill on the other; and a 30mm rocket launcher sitting on their shoulder. Gee, some models even had a system installed that allowed them to use smart rockets, but that's been out of use for several years.<end>
 
 =>q18
-Évidemment, le plus dominating, c'est l'armement ! Un chaingun SBA-75 sur un bras, une foreuse série 80 costaud de l'autre, et un lance-roquettes 30 mm sur l'épaule. Eh ben, certains modèles avaient même un système pour les smart rockets, mais ça se fait plus depuis des années.<end>
+Évidemment, le plus dominating, c'est l'armement ! Un chaingun SBA-75 sur un bras, une foreuse série 80 balèze de l'autre, et un lance-roquettes 30 mm sur l'épaule. Eh ben, certains modèles avaient même un système pour les roquettes intelligentes, mais ça se fait plus depuis des années.<end>
 
 =>a19_original
 Can I pilot one by any chance?<end>
@@ -140,7 +140,7 @@ Je peux en piloter un, par hasard ?<end>
 ::He raises his eyebrows.:: No! No, no, no! Only trained pilots can use Dreadnoughts. If I let you use one, I'd be back on the rails. Or worse. Gee...<end>
 
 =>q20
-::Il hausse les sourcils.:: Non ! Non, non, non ! Seuls les pilotes formés ont le droit. Si je vous en laisse un, je me retrouve sur les rails. Ou pire. Eh ben...<end>
+::Il hausse les sourcils.:: Non ! Non, non, non ! Seuls les pilotes formés ont le droit de les piloter. Si je vous en laisse un, je me retrouve sur les rails. Ou pire. Eh ben...<end>
 
 =>a21_original
 That's truly interesting. But before this gets out of hand, we better move on to something else.<end>
@@ -164,7 +164,7 @@ Pourquoi avez-vous rejoint le Protectorate ?<end>
 I haven't been asked that question in a long time. I don't know if you're familiar with the history of Core City, but, I was living there when all the... riots and death were at their peak. Gee, $(#sir/ma'am), those were some rough times. It was like a war on the streets, everyone was dying as gangs ran amok. I had to get out of there. <end>
 
 =>q24
-Ça fait longtemps qu'on me pose pas la question. Je sais pas si vous connaissez l'histoire de Core City, mais j'habitais là-bas quand les... émeutes et les morts étaient à leur pic. Eh ben, $(#monsieur/madame), c'était dur. Une guerre dans les rues, tout le monde crevait, les gangs se déchaînaient. Fallait que je sorte de là. <end>
+Ça fait longtemps qu'on me pose pas la question. Je sais pas si vous connaissez l'histoire de Core City, mais j'habitais là-bas quand les... émeutes et les morts battaient leur plein. Eh ben, $(#monsieur/madame), c'était dur. Une guerre dans les rues, tout le monde crevait, les gangs se déchaînaient. Fallait que je sorte de là. <end>
 
 =>q25_original
 It got a bit better over the years, but some parts are still just falling apart. You've heard of Drop Zone? No? I lived there. Worst part of the city barring the sewers, I'd say.
@@ -172,9 +172,9 @@ It got a bit better over the years, but some parts are still just falling apart.
 Then... pfft, five years ago, Protectorate moved in. I told myself, nothing keeps me in Core City, I can get protection and food here, and Protectorate seemed like, like the good guys. Let's give it a shot, I thought! I enlisted as a private, and soon enough, I saw those machines...<end>
 
 =>q25
-Ça s'est un peu calmé avec les années, mais y a des coins qui tombent encore en morceaux. Vous avez entendu parler de Drop Zone ? Non ? J'y habitais. Le pire quartier de la ville, hors les égouts, à mon avis.
+Ça s'est un peu calmé avec les années, mais y a des coins qui tombent encore en morceaux. Vous avez entendu parler de Drop Zone ? Non ? J'y habitais. Le pire quartier de la ville, à part les égouts, à mon avis.
 
-Puis... pfft, il y a cinq ans, le Protectorate a débarqué. Je me suis dit : rien me retient à Core City, ici j'aurai la protection et à manger, et le Protectorate, ça avait l'air... l'air des gentils. On tente le coup, que je me suis dit ! Je me suis engagé comme soldat, et assez vite, j'ai vu ces machines...<end>
+Puis... pfft, il y a cinq ans, le Protectorate a débarqué. Je me suis dit : rien me retient à Core City, ici j'aurai la protection et à manger, et le Protectorate, ça avait l'air... l'air d'être les gentils. On tente le coup, que je me suis dit ! Je me suis engagé comme simple soldat, et assez vite, j'ai vu ces machines...<end>
 
 =>q26_original
 I was dominated. ::He laughs.:: They wouldn't let me train to be a pilot, sadly, maybe because I was a Southerner, I don't know. But, I was good at fixin' stuff. You can guess what happens next. ::He laughs.::
@@ -182,7 +182,7 @@ I was dominated. ::He laughs.:: They wouldn't let me train to be a pilot, sadly,
 There. That's my story.<end>
 
 =>q26
-J'étais plié. Dominé. ::Il rit.:: Ils m'ont pas laissé m'entraîner pour pilote, malheureusement, peut-être parce que je suis sudiste, j'en sais rien. Mais j'étais doué pour réparer. Vous pouvez deviner la suite. ::Il rit.::
+J'étais plié. Dominé. ::Il rit.:: Ils m'ont pas laissé m'entraîner pour pilote, malheureusement, peut-être parce que je suis sudiste, j'en sais rien. Mais j'étais doué pour réparer les trucs. Vous pouvez deviner la suite. ::Il rit.::
 
 Voilà. C'est mon histoire.<end>
 
@@ -196,7 +196,7 @@ Que pouvez-vous me dire sur les Free Drones ?<end>
 Drones? I spit on those bloody pipeworkers. They can zone out of Underrail and into the very bowels of the earth... Bastards.<end>
 
 =>q28
-Les Drones ? Je crache sur ces foutus tuyautiers. Qu'ils zonent hors d'Underrail, jusqu'aux entrailles de la terre... Salauds.<end>
+Les Drones ? Je crache sur ces foutus pipeworkers. Qu'ils zonent hors d'Underrail, jusqu'aux entrailles de la terre... Salauds.<end>
 
 =>a29_original
 You really hate them, I see.<end>
@@ -214,13 +214,13 @@ Vous trouvez que je devrais pas ? Eh ben, $(#monsieur/madame), c'est la peste. I
 I heard the CAU gassed their main hideout in the passages. Serves the bastards right. <end>
 
 =>q31
-J'ai entendu que le CAU avait gazé leur cachette principale, dans les passages. Bien fait pour ces salauds. <end>
+J'ai entendu dire que le CAU avait gazé leur planque principale, dans les passages. Bien fait pour ces salauds. <end>
 
 =>q32_original
 I heard you met them before, I hope you got to kill some of those bastards.<end>
 
 =>q32
-J'ai entendu que vous les aviez déjà croisés. J'espère que vous en avez descendu, des salauds.<end>
+J'ai entendu dire que vous les aviez déjà croisés. J'espère que vous en avez descendu, des salauds.<end>
 
 =>a33_original
 Yeah, to hell with those stinking anarchists.<end>
@@ -232,19 +232,19 @@ Ouais, au diable ces anarchistes puants.<end>
 That's what I'm talking about, $(#sir/ma'am). I've lost friends to those zon--... those bastards. And just look at what they did to our doctor. To me, they are just like regular bandits and raiders, with a bit more propaganda involved. They go from station to station and drag what we stand for through mud, how we are conquerors and what not. Gee... what a load of pipeworks.<end>
 
 =>q34
-Voilà ce que je dis, $(#monsieur/madame). J'ai perdu des amis à cause de ces zon... de ces salauds. Et regardez ce qu'ils ont fait à notre médecin. Pour moi, c'est comme des bandits et des pillards ordinaires, avec un peu plus de propagande. Ils vont de station en station, ils traînent dans la boue ce qu'on défend, qu'on est des conquérants et tout le reste. Eh ben... quel tas de tuyauterie.<end>
+Voilà ce que je dis, $(#monsieur/madame). J'ai perdu des amis à cause de ces zon... de ces salauds. Et regardez ce qu'ils ont fait à notre médecin. Pour moi, c'est comme des bandits et des pillards ordinaires, avec un peu plus de propagande. Ils vont de station en station, ils traînent dans la boue ce qu'on défend, qu'on est des conquérants et tout le reste. Eh ben... quel tas de pipeworks.<end>
 
 =>a35_original
 Where in Fort Apogee can I exchange currencies?<end>
 
 =>a35
-Où puis-je changer des devises, à Fort Apogee ?<end>
+Où est-ce que je peux changer des devises, à Fort Apogee ?<end>
 
 =>q36_original
 Oh, yeah, you should see Staff Sergeant Fraser about that.<end>
 
 =>q36
-Ah oui, voyez le sergent d'état-major Fraser pour ça.<end>
+Ah oui, faut voir le sergent d'état-major Fraser pour ça.<end>
 
 =>q37_original
 You can find him near the base entrance, $(#sir/ma'am).<end>
@@ -316,7 +316,7 @@ Que pouvez-vous me dire sur Fraser ?<end>
 ::His face turns slightly sour.:: Please, $(#sir/ma'am), don't get me started on that big-nosed rathound-siphoner offspring. He's a hardcore pain in the rear, like accidentally sitting on a stalagmite coated in crawler venom. He hates us Southerners with burning passion, people like me, Case and point, if he hasn't treated you like an inferior - he will. Just give him time.<end>
 
 =>q48
-::Son visage se pince un peu.:: S'il vous plaît, $(#monsieur/madame), me lancez pas sur ce rejeton de rathound-siphoner au gros nez. C'est un hardcore casse-pieds, genre s'asseoir par accident sur une stalagmite enduite de venin de crawler. Il nous déteste avec une passion brûlante, nous les sudistes, les gens comme moi. Case, tiens, pour prendre un exemple. S'il ne vous a pas encore $(#traité/traitée) comme $(#un inférieur/une inférieure), il le fera. Donnez-lui le temps.<end>
+::Son visage se pince un peu.:: S'il vous plaît, $(#monsieur/madame), me lancez pas sur ce rejeton de rathound-siphoner au gros nez. C'est une plaie hardcore, genre s'asseoir par accident sur une stalagmite enduite de venin de crawler. Il nous déteste avec une passion brûlante, nous les sudistes, les gens comme moi. Case, l'exemple même. S'il ne vous a pas encore $(#traité/traitée) comme $(#un inférieur/une inférieure), il le fera. Donnez-lui le temps.<end>
 
 =>q49_original
 Gee, everyone hates him, $(#sir/ma'am), Northerners or not, because he's so stuck up and retarded. And more stupid than a slackjaw. I wish I could tell him to zone out, at least once...<end>
@@ -376,13 +376,13 @@ C'est pas parce qu'il est sudiste comme moi, non, $(#monsieur/madame). Et c'est 
 We were Southerners, and we're always under a microscope. We have to prove that we're worth a damn. And we stick together; we're stronger that way. So, we gradually built a friendship, a good friendship. A dominating friendship! ::He laughs.::<end>
 
 =>q58
-On était sudistes, et on est toujours sous le microscope. Faut prouver qu'on vaut quelque chose. Et on reste collés ; on est plus forts comme ça. Alors on a construit une amitié, une vraie. Une amitié dominating ! ::Il rit.::<end>
+On était sudistes, et on est toujours sous la loupe. Faut prouver qu'on vaut vraiment quelque chose. Et on reste collés ; on est plus forts comme ça. Alors on a construit une amitié, une vraie. Une amitié dominating ! ::Il rit.::<end>
 
 =>q59_original
 I just want to clarify one thing, $(#sir/ma'am): A large number of Northerners don't care where you're from; your personality and what you are able to do is what's important to them, just like any sane person. But some derailed idiots here *still* consider us inferior. You'll meet some soon enough, if you haven't already...<end>
 
 =>q59
-Je veux juste clarifier un truc, $(#monsieur/madame) : beaucoup de Nordistes s'en fichent d'où vous venez ; c'est votre tête et ce que vous savez faire qui compte, comme pour n'importe qui de sensé. Mais y a des idiots déraillés, ici, qui nous prennent *encore* pour des inférieurs. Vous en rencontrerez assez vite, si c'est pas déjà fait...<end>
+Je veux juste clarifier un truc, $(#monsieur/madame) : beaucoup de Nordistes s'en fichent d'où vous venez ; c'est ce que vous êtes et ce que vous savez faire qui compte, comme pour n'importe qui de sensé. Mais y a des idiots déraillés, ici, qui nous prennent *encore* pour des inférieurs. Vous en rencontrerez assez vite, si c'est pas déjà fait...<end>
 
 =>a60_original
 What can you tell me about Anastasia?<end>
@@ -394,13 +394,13 @@ Que pouvez-vous me dire sur Anastasia ?<end>
 Gee, $(#sir/ma'am), she's great. I know her well; we like talking to each other and hanging out at the mess, during meal time. She's very intelligent but... she's been through a lot.<end>
 
 =>q61
-Eh ben, $(#monsieur/madame), elle est géniale. Je la connais bien ; on aime bien parler, traîner au mess, à l'heure des repas. Elle est très intelligente, mais... elle en a vu.<end>
+Eh ben, $(#monsieur/madame), elle est géniale. Je la connais bien ; on aime bien parler, traîner au mess, à l'heure des repas. Elle est très intelligente, mais... elle en a bavé.<end>
 
 =>q62_original
 Her train was attacked several years ago by Free Drones. The bastards used chemical weapons-- Oh, and it was a civilian train, mind you. Hardcore bastards. Doc survived, obviously, but she was hurt real bad. But if you think that'd stop her - you were wrong!<end>
 
 =>q62
-Son train a été attaqué il y a plusieurs années, par les Free Drones. Les salauds ont utilisé des armes chimiques... Oh, et c'était un train civil, hein. Des salauds hardcore. Doc a survécu, évidemment, mais elle a été blessée très, très mal. Si vous croyez que ça l'aurait arrêtée : vous vous trompiez !<end>
+Son train a été attaqué il y a plusieurs années, par les Free Drones. Les salauds ont utilisé des armes chimiques... Oh, et c'était un train civil, hein. Des salauds hardcore. Doc a survécu, évidemment, mais elle a été amochée, vraiment amochée. Si vous croyez que ça l'aurait arrêtée, vous vous trompez !<end>
 
 =>q63_original
 She knew what she had to do, and here she is now, saving lives. Gee, $(#sir/ma'am), I once heard one crippled soldier say that he thought his life was over; he lost a leg, it's all over! He was zoned to the bone! But after he saw how Anastasia moved forward despite what happened to her, he realized a limb is just a limb, and that things that matter to you in life don't get blown away with it.
@@ -410,7 +410,7 @@ Zone out, man, you only get one life, that's what he said. Paraphrased.<end>
 =>q63
 Elle savait ce qu'elle avait à faire, et la voilà, à sauver des vies. Eh ben, $(#monsieur/madame), j'ai entendu un soldat estropié dire qu'il croyait sa vie finie ; une jambe en moins, c'est fini ! Il était zoné jusqu'à l'os ! Mais après avoir vu comment Anastasia avançait, malgré ce qui lui était arrivé, il a compris qu'un membre, c'est un membre, et que ce qui compte dans la vie part pas avec.
 
-Zone, mec, t'as qu'une vie, c'est ce qu'il a dit. Paraphrasé.<end>
+Zone, mec, t'as qu'une vie, c'est ce qu'il a dit. Enfin, c'est l'idée.<end>
 
 =>a64_original
 What can you tell me about CAU?<end>
@@ -422,19 +422,19 @@ Que pouvez-vous me dire sur le CAU ?<end>
 You don't want to know what I think about them... and I'm lucky I don't have to deal with them. They ain't right in the head. Hardcore derailed lunatics. They are cruel: I've heard how they used corrosive chemicals to torture their prisoners, how they enjoy killing people in some of the most violent ways. Corporal, I know they are efficient soldiers, but they make my stomach turn.<end>
 
 =>q65
-Vous voulez pas savoir ce que j'en pense... et j'ai de la chance de pas avoir à les fréquenter. Ils sont pas nets. Des fous dézonés, hardcore. Cruels : j'ai entendu qu'ils torturaient leurs prisonniers avec des produits corrosifs, qu'ils aimaient tuer les gens de la façon la plus violente. Caporal, je sais que ce sont des soldats efficaces, mais ils me retournent l'estomac.<end>
+Vous voulez pas savoir ce que j'en pense... et j'ai de la chance de pas avoir à les fréquenter. Ils sont pas nets. Des fous déraillés, hardcore. Cruels : j'ai entendu qu'ils torturaient leurs prisonniers avec des produits corrosifs, qu'ils aimaient tuer les gens des façons les plus violentes. Caporal, je sais que ce sont des soldats efficaces, mais ils me retournent l'estomac.<end>
 
 =>q66_original
 Luckily, they aren't here anymore, so that I don't have to see their scary masks.<end>
 
 =>q66
-Heureusement, ils sont plus là. Je suis pas obligé de voir leurs masques à faire peur.<end>
+Heureusement, ils sont plus là, comme ça je suis pas obligé de voir leurs masques à faire peur.<end>
 
 =>q67_original
 I hope they get out of here. The sooner the better. Gee...<end>
 
 =>q67
-J'espère qu'ils décolleront d'ici. Le plus tôt sera le mieux. Eh ben...<end>
+J'espère qu'ils dégagent d'ici. Le plus tôt sera le mieux. Eh ben...<end>
 
 =>a68_original
 What can you tell me about the Faceless?<end>
@@ -476,9 +476,9 @@ Oh, you did. You... you did. Hardcore. ::He smiles.:: But, serves me right, I fo
 Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
 
 =>q73
-Oh, oui. Vous... vous l'avez fait. Hardcore. ::Il sourit.:: Mais c'est bien fait pour moi, je m'oublie parfois. Faut que je remette ce Dreadnought sur pied, alors je suis tout... enfin... ::Il s'essuie les mains noires.::
+Oh, oui. Vous... vous l'avez fait. Hardcore. ::Il sourit.:: Mais c'est bien fait pour moi, je m'oublie parfois. Faut que je remette ce Dreadnought en route, alors je suis tout... enfin... ::Il s'essuie les mains noires.::
 
-D'abord, je me présente : Luka Giotto, chef mécanicien. Vous êtes là pour acheter des pièces, ou vous faites juste connaissance avec la base ?<end>
+D'abord, je me présente : Luka Giotto, chef mécanicien. Vous êtes là pour acheter des pièces, ou c'est juste pour visiter la base ?<end>
 
 =>a74_original
 ::Leave.::<end>
@@ -490,4 +490,4 @@ D'abord, je me présente : Luka Giotto, chef mécanicien. Vous êtes là pour ac
 ::He salutes you.:: What can I do for you, Corporal?<end>
 
 =>q75
-::Il vous salue.:: Que puis-je faire pour vous, caporal ?<end>
+::Il vous salue.:: Qu'est-ce que je peux faire pour vous, caporal ?<end>

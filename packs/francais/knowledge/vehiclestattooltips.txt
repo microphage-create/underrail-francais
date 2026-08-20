@@ -1,25 +1,25 @@
 ::Durability
-Affiche les points de durabilité actuels et max du véhicule. À zéro, le véhicule est détruit et le conducteur meurt. Beaucoup de pièces, d'objets du coffre et le conducteur lui-même risquent d'être purement et simplement anéantis.
+Durabilité actuelle et max. À zéro, le véhicule est détruit et le conducteur meurt. Pièces, contenu du coffre et conducteur risquent d'être détruits avec.
 
 ::Energy
-Affiche l'énergie stockée et la capacité max de la batterie. À sec, le véhicule bascule en alimentation auxiliaire et avance extrêmement lentement.
+Énergie stockée et capacité max de la batterie. À sec, le véhicule passe en alimentation auxiliaire et avance extrêmement lentement.
 
 ::EnginePower
-La puissance moteur détermine la vitesse du véhicule selon le poids. Le chiffre indique le poids total max (pièces, coffre et conducteur inclus) que le véhicule peut porter tout en roulant à sa vitesse nominale pour son type.
+La puissance moteur fixe la vitesse selon le poids. Le chiffre est le poids total max (pièces, coffre et conducteur inclus) que le véhicule peut porter tout en roulant à sa vitesse nominale.
 
-Un excédent ou un déficit de puissance modifie la vitesse en conséquence.
+Un surplus ou un manque de puissance change la vitesse d'autant.
 
 ::Consumption
-Certains moteurs sont plus efficaces que d'autres. Le chiffre représente la puissance moteur effective pour le calcul de la conso d'énergie.
+Certains moteurs sont plus efficaces que d'autres. Le chiffre est la puissance moteur retenue pour le calcul de la conso d'énergie.
 
 ::EnergyPerTile
-Quantité d'énergie consommée pour un kilomètre parcouru. Certains moteurs sont plus efficaces que d'autres.
+Énergie consommée pour un kilomètre parcouru. Certains moteurs sont plus efficaces que d'autres.
 
 ::Weight
 Poids du véhicule = châssis + pièces installées. Poids total = poids véhicule + contenu du coffre + poids du conducteur s'il est à bord.
 
 ::BaseSpeed
-Vitesse de base pour le type de véhicule (ex. jet ski à l'arrêt). Modifiée ensuite par la puissance moteur, le poids chargé et l'aéro/hydrodynamisme du châssis.
+Vitesse de base du type de véhicule (ex. un jet ski). Modifiée ensuite par la puissance moteur, le poids chargé et l'aéro/hydrodynamisme du châssis.
 
 ::SpeedModifier
 Modificateur de vitesse du châssis actuel. Certains modèles sont plus aéro/hydrodynamiques que d'autres.
@@ -27,13 +27,13 @@ Modificateur de vitesse du châssis actuel. Certains modèles sont plus aéro/hy
 Les modificateurs positifs ne s'appliquent que si le véhicule a encore de l'énergie et ne dépasse pas le poids que son moteur peut normalement soutenir.
 
 ::UnmannedSpeed
-Vitesse théorique actuelle sans conducteur et modificateur d'évitement (liés à la vitesse et à la manœuvrabilité du véhicule).
+Vitesse théorique actuelle sans conducteur, et modificateur d'Evasion (selon la vitesse et la manœuvrabilité du véhicule).
 
 ::MannedSpeed
-Vitesse réelle actuelle avec conducteur et modificateur d'évitement (liés à la vitesse et à la manœuvrabilité du véhicule).
+Vitesse réelle actuelle avec conducteur, et modificateur d'Evasion (selon la vitesse et la manœuvrabilité du véhicule).
 
 ::Stability
-La stabilité indique à quel point il est stable et facile de combattre depuis le véhicule. Elle influence la précision à distance, en mêlée (un peu moins) et au lancer. La précision en mêlée est aussi modifiée par la manœuvrabilité ; celle des armes de mêlée courte (couteaux et armes de poings) ainsi que des attaques à mains nues subit en plus un malus de 10 %.
+Indique à quel point on combat facilement depuis le véhicule. Influe sur la précision à distance, en mêlée (un peu moins) et au lancer. La précision en mêlée dépend aussi de la manœuvrabilité. Couteaux, armes de poings et attaques à mains nues : malus de 10 % en plus.
 
 ::MeleeDamageBonus
 Bonus aux dégâts de mêlée depuis ce véhicule, grâce à sa vitesse.
@@ -44,25 +44,25 @@ Chance que l'attaque entrante touche le véhicule plutôt que le conducteur.
 En AoE, indique la part de dégâts que le véhicule encaisse à la place du conducteur.
 
 ::ResistanceDescription
-L'armure absorbe soit le pourcentage indiqué, soit le montant fixe, selon ce qui absorbe le plus. Le reste réduit la durabilité du véhicule.
+L'armure absorbe soit le pourcentage indiqué, soit le montant fixe, selon ce qui absorbe le plus. Le reste entame la durabilité du véhicule.
 
 ::ResistanceMechanical
-Quantité de dégâts mécaniques que l'armure du véhicule peut absorber.
+Dégâts mécaniques absorbés par l'armure du véhicule.
 
 ::ResistanceHeat
-Quantité de dégâts de chaleur que l'armure du véhicule peut absorber.
+Dégâts de chaleur absorbés par l'armure du véhicule.
 
 ::ResistanceCold
-Quantité de dégâts de froid que l'armure du véhicule peut absorber.
+Dégâts de froid absorbés par l'armure du véhicule.
 
 ::ResistanceElectricity
-Quantité de dégâts électriques que l'armure du véhicule peut absorber.
+Dégâts électriques absorbés par l'armure du véhicule.
 
 ::ResistanceAcid
-Quantité de dégâts d'acide que l'armure du véhicule peut absorber.
+Dégâts d'acide absorbés par l'armure du véhicule.
 
 ::ResistanceEnergy
-Quantité de dégâts d'énergie que l'armure du véhicule peut absorber.
+Dégâts d'énergie absorbés par l'armure du véhicule.
 
 ::ResistanceBio
-Quantité de dégâts bio que l'armure du véhicule peut absorber.
+Dégâts bio absorbés par l'armure du véhicule.

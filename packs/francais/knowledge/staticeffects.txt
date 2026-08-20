@@ -2,7 +2,7 @@
 Vision nocturne
 
 ::immunity
-Immunité à {0}.
+Immunisé contre {0}.
 
 ::ModifyActionPoints_Positive
 PA augmentés de {0}{1}
@@ -14,22 +14,22 @@ PA réduits de {0}{1}
 hors furtivité
 
 ::ModifyAggregateWeaponSubtypeAttackSpeed_Positive
-Coût en PA des attaques {0} augmenté de {1}.
+Coût en PA des attaques de type {0} augmenté de {1}.
 
 ::ModifyAggregateWeaponSubtypeAttackSpeed_Negative
-Coût en PA des attaques {0} réduit de {1}.
+Coût en PA des attaques de type {0} réduit de {1}.
 
 ::ModifyAggregateWeaponSubtypeBonusDamage_Positive
-Accorde {1} % de dégâts bonus aux attaques {0}.
+Dégâts bonus des attaques de type {0} augmentés de {1} %.
 
 ::ModifyAggregateWeaponSubtypeBonusDamage_Negative
-Réduit les dégâts bonus des attaques {0} de {1} %.
+Dégâts bonus des attaques de type {0} réduits de {1} %.
 
 ::ModifyAggregateWeaponSubtypeCriticalHitChance_Positive
-Taux de crit des attaques {0} augmenté de {1} %.
+Taux de crit des attaques de type {0} augmenté de {1} %.
 
 ::ModifyAggregateWeaponSubtypeCriticalHitChance_Negative
-Taux de crit des attaques {0} réduit de {1} %.
+Taux de crit des attaques de type {0} réduit de {1} %.
 
 ::ModifyArmorPenalty_Increased
 Malus d'armure augmenté de {0} %
@@ -47,10 +47,10 @@ Malus d'armure réduit de {0} %
 {0} augmenté de {1} %
 
 ::ModifyBulletReloadingSpeed_Increased
-Coût en PA du rechargement des armes à feu à balles augmenté de {0} %
+Coût en PA du rechargement des armes à balles augmenté de {0} %
 
 ::ModifyBulletReloadingSpeed_Decreased
-Coût en PA du rechargement des armes à feu à balles réduit de {0} %
+Coût en PA du rechargement des armes à balles réduit de {0} %
 
 ::ModifyCapabilityDamagePercentage_Increased
 Dégâts {0} augmentés de {1} %
@@ -65,10 +65,10 @@ Capacité de port augmentée de {0}
 Capacité de port réduite de {0}
 
 ::ModifyChanceToAvoidImmobilization_Increased
-Accorde {0} % de chance d'éviter l'immobilisation de la plupart des effets
+{0} % de chance d'éviter l'immobilisation (la plupart des effets)
 
 ::ModifyChanceToAvoidImmobilization_Decreased
-Réduit de {0} % la chance d'éviter l'immobilisation de la plupart des effets
+Chance d'éviter l'immobilisation réduite de {0} % (la plupart des effets)
 
 ::ModifyCooldownFlat_Increased
 Recharge de {0} augmentée de {1}
@@ -119,40 +119,40 @@ Détection augmentée de {0} %
 Détection réduite de {0} %
 
 ::ModifyDodgeFlat_Increased
-Esquive augmentée de {0}
+Dodge augmenté de {0}
 
 ::ModifyDodgeFlat_Decreased
-Esquive réduite de {0}
+Dodge réduit de {0}
 
 ::ModifyDodgePercentage_Increased
-Esquive augmentée de {0} %
+Dodge augmenté de {0} %
 
 ::ModifyDodgePercentage_Decreased
-Esquive réduite de {0} %
+Dodge réduit de {0} %
 
 ::ModifyEvasionFlat_Increased
-Évitement augmenté de {0}
+Evasion augmentée de {0}
 
 ::ModifyEvasionFlat_Decreased
-Évitement réduit de {0}
+Evasion réduite de {0}
 
 ::ModifyEvasionPercentage_Increased
-Évitement augmenté de {0} %
+Evasion augmentée de {0} %
 
 ::ModifyEvasionPercentage_Decreased
-Évitement réduit de {0} %
+Evasion réduite de {0} %
 
 ::ModifyExplosionDamageTaken_Increased
-Dégâts d'explosions subis augmentés de {0} %
+Dégâts d'explosion subis augmentés de {0} %
 
 ::ModifyExplosionDamageTaken_Decreased
-Dégâts d'explosions subis réduits de {0} %
+Dégâts d'explosion subis réduits de {0} %
 
 ::ModifyFirearmPistolsAttackSpeed_Increased
-Coût en PA des attaques au pistolet à feu augmenté de {0}
+Coût en PA des attaques au pistolet à munitions augmenté de {0}
 
 ::ModifyFirearmPistolsAttackSpeed_Decreased
-Coût en PA des attaques au pistolet à feu réduit de {0}
+Coût en PA des attaques au pistolet à munitions réduit de {0}
 
 ::ModifyFirearmReloadingSpeed_Increased
 Coût en PA du rechargement des armes à feu augmenté de {0} %
@@ -173,10 +173,10 @@ Coût en PA du rechargement du lance-grenades augmenté de {0} %
 Coût en PA du rechargement du lance-grenades réduit de {0} %
 
 ::ModifyHealingEffectiveness_Increased
-Tous les soins augmentés de {0} %
+Tous les soins reçus augmentés de {0} %
 
 ::ModifyHealingEffectiveness_Decreased
-Tous les soins réduits de {0} %
+Tous les soins reçus réduits de {0} %
 
 ::ModifyHealthFlat_Increased
 PV augmentés de {0}
@@ -197,16 +197,16 @@ Initiative augmentée de {0}
 Initiative réduite de {0}
 
 ::ModifyMedicineUsageCost_Increased
-Coût en PA de l'usage de médicaments augmenté de {0} %
+Coût en PA des médicaments augmenté de {0} %
 
 ::ModifyMedicineUsageCost_Decreased
-Coût en PA de l'usage de médicaments réduit de {0} %
+Coût en PA des médicaments réduit de {0} %
 
 ::ModifyMeleeWeaponAttackHitChance_Increased
-Chances de toucher en mêlée et à mains nues augmentées de {0} %
+Chance de toucher en mêlée et à mains nues augmentée de {0} %
 
 ::ModifyMeleeWeaponAttackHitChance_Decreased
-Chances de toucher en mêlée et à mains nues réduites de {0} %
+Chance de toucher en mêlée et à mains nues réduite de {0} %
 
 ::ModifyMovementPoints_Increased
 PM augmentés de {0}{1}

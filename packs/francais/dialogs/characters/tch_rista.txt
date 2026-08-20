@@ -2,19 +2,19 @@
 Indeed... the Faceless... ::Sighs.::<end>
 
 =>q1
-En effet... les Faceless... ::Il soupire.::<end>
+En effet... les Faceless... ::Elle soupire.::<end>
 
 =>q2_original
 Out you inbred! You ruined years and years of work! Magnificent Tchort!<end>
 
 =>q2
-Dehors, consanguin ! Vous avez ruiné des années et des années de travail ! Magnifique Tchort !<end>
+Dehors, espèce de consanguin ! Vous avez ruiné des années et des années de travail ! Magnifique Tchort !<end>
 
 =>q3_original
 What is going on, $(#bro/sis)? Everybody is in some sort of a hurry...<end>
 
 =>q3
-Qu'est-ce qui se passe, $(#frère/sœur) ? Tout le monde est pressé...<end>
+Que se passe-t-il, $(#frère/sœur) ? Tout le monde se précipite...<end>
 
 =>q4_original
 Is it done?<end>
@@ -26,7 +26,7 @@ C'est fait ?<end>
 I'm afraid that Psycho is dead.<end>
 
 =>a5
-J'ai peur que Psycho soit mort.<end>
+J'ai bien peur que Psycho soit mort.<end>
 
 =>q6_original
 What?<end>
@@ -44,7 +44,7 @@ Il est... mort.<end>
 Um... it sounded like you said Psycho is dead?<end>
 
 =>q8
-On dirait que vous avez dit que Psycho était mort ?<end>
+Euh... vous venez de dire que Psycho était mort ?<end>
 
 =>a9_original
 Yes. That's what I have just said.<end>
@@ -62,7 +62,7 @@ Dehors.<end>
 What?<end>
 
 =>a11
-Quoi?<end>
+Quoi ?<end>
 
 =>q12_original
 I said out!<end>
@@ -74,7 +74,7 @@ J'ai dit dehors !<end>
 Um... It sounded like you told me to get out?<end>
 
 =>a13
-Euh... On dirait que vous m'avez dit de sortir ?<end>
+Euh... vous venez de me dire de sortir ?<end>
 
 =>q14_original
 Yes. That's what I have just said! OUT!<end>
@@ -110,7 +110,7 @@ C'est fait. J'ai posé le pacifieur neural sur la tête de la créature. Elle es
 Very good! Very good! I am pleased! I will send someone to take care of that and you... um... your name was...?<end>
 
 =>q19
-Très bien ! Très bien ! Je suis content ! Je vais envoyer quelqu'un s'en occuper et vous... votre nom était... ?<end>
+Très bien ! Très bien ! Je suis contente ! Je vais envoyer quelqu'un s'en occuper, et vous... euh... votre nom était... ?<end>
 
 =>a20_original
 $(context.player.Name).<end>
@@ -122,13 +122,13 @@ $(context.player.Name).<end>
 $(context.player.Name)? I heard that just recently, um... Figurine? Did...? You...? Yes, oh, yes... Now I understand everything!<end>
 
 =>q21
-$(context.player.Name) ? J'ai entendu ça récemment... Figurine ? Vraiment ? Vous...? Oui, oh oui... Maintenant je comprends tout !<end>
+$(context.player.Name) ? J'ai entendu ça, récemment... euh... la figurine ? Vous... ? C'est vous ? Oui, oh, oui... Maintenant je comprends tout !<end>
 
 =>q22_original
 I... I would like to apologize for my earlier behavior. Magnificent Tchort, it's always just... I have a lot of work here - an incredible amount of work, and every time someone enters my office something goes horribly awry! It directly translates to more trouble. And all that before I'd even get the chance to drink my first cup of mushroom tea of the day...<end>
 
 =>q22
-Je voudrais m'excuser pour mon comportement de tout à l'heure. Magnifique Tchort, c'est toujours... J'ai énormément de travail, ici - une quantité incroyable - et chaque fois que quelqu'un entre dans mon bureau, quelque chose tourne horriblement mal ! Ça se traduit directement par plus d'ennuis. Et tout ça avant même d'avoir pu boire ma première tasse de thé aux champignons de la journée...<end>
+Je... je voudrais m'excuser pour mon comportement de tout à l'heure. Magnifique Tchort, c'est toujours... J'ai énormément de travail, ici - une quantité incroyable - et chaque fois que quelqu'un entre dans mon bureau, quelque chose tourne horriblement mal ! Ça se traduit tout de suite par plus d'ennuis. Et tout ça avant même d'avoir pu boire ma première tasse de thé aux champignons de la journée...<end>
 
 =>q23_original
 ::He sighs.:: Well, you did good! Indeed! And for that - here is something for you. ::He hands you 400 stygian coins.::
@@ -136,7 +136,7 @@ Je voudrais m'excuser pour mon comportement de tout à l'heure. Magnifique Tchor
 If you seek more work, why not drop by my office sometime, $(#bro/sis). I think I've got some stuff for a $(#man/woman) like yourself.<end>
 
 =>q23
-::Il soupire.:: Vous avez bien fait ! En effet ! Et pour ça, voilà quelque chose pour vous. ::Il vous tend 400 charons.::
+::Elle soupire.:: Vous avez bien fait ! En effet ! Et pour ça, voilà quelque chose pour vous. ::Elle vous tend 400 charons.::
 
 Si vous cherchez encore du travail, passez à mon bureau un de ces jours, $(#frère/sœur). J'ai de quoi occuper $(#un homme/une femme) comme vous.<end>
 
@@ -150,19 +150,19 @@ Si vous cherchez encore du travail, passez à mon bureau un de ces jours, $(#fr�
 Do you have any more work for me?<end>
 
 =>a25
-Vous avez du travail pour moi ?<end>
+Avez-vous encore du travail pour moi ?<end>
 
 =>q26_original
 Indeed I do. I have two jobs for you as a matter of fact, $(#bro/sis). The first requires you to take a ferry ride to a pretty remote place in Lower Underrail... and the second one is about a genetics disease resistance project.<end>
 
 =>q26
-En effet. J'ai deux tâches pour vous, en fait, $(#frère/sœur). La première : un trajet en ferry jusqu'à un endroit assez reculé du Lower Underrail... et la seconde, un projet de résistance aux maladies génétiques.<end>
+En effet. J'ai deux missions pour vous, $(#frère/sœur). La première : un trajet en ferry jusqu'à un endroit assez reculé du Lower Underrail... et la seconde, un projet de résistance aux maladies génétiques.<end>
 
 =>q27_original
 Interested in any one of the two? Or both perhaps?<end>
 
 =>q27
-L'un des deux ? Ou les deux ?<end>
+L'un des deux vous intéresse ? Les deux, peut-être ?<end>
 
 =>a28_original
 I have a skull of a giant beast from Foundry. I think you might find it interesting.<end>
@@ -190,7 +190,7 @@ My department is busy. *I* am busy. I have nothing to add to that.<end>
 =>q31
 ::Rista répond vite.::
 
-Mon département est occupé. *Moi* je suis occupé. Je n'ai rien à ajouter.<end>
+Mon département est occupé. *Moi*, je suis occupée. Je n'ai rien à ajouter.<end>
 
 =>a32_original
 I changed my mind. I'll be keeping this.<end>
@@ -202,7 +202,7 @@ J'ai changé d'avis. Je vais garder ça.<end>
 ::Somewhat agitated, he responds with relative calmness.:: Fine. I don't entirely understand what you're doing right now, but fine. Do as you wish.<end>
 
 =>q33
-::Un peu agité, il répond avec un calme relatif.:: Bien. Je ne comprends pas tout à fait ce que vous faites là, mais bien. Faites comme vous voudrez.<end>
+::Un peu agitée, elle répond avec un calme relatif.:: Bien. Je ne comprends pas tout à fait ce que vous faites là, mais bien. Faites comme vous voudrez.<end>
 
 =>a34_original
 ::Show him the Beast's head.::<end>
@@ -216,7 +216,7 @@ J'ai changé d'avis. Je vais garder ça.<end>
 I like it. Not the smell, but other than that - I like it!<end>
 
 =>q35
-::En sortant le crâne carbonisé de la Bête, autrefois puissante, un sourire satisfait se forme sur le visage de Rista. L'odeur infecte de métal fondu mêlé à l'os emplit la pièce d'un coup ; il fronce les sourcils, mais le sourire reste.::
+::En sortant le crâne carbonisé de la Bête, autrefois puissante, un sourire satisfait se forme sur le visage de Rista. L'odeur infecte de métal fondu mêlé à l'os emplit la pièce d'un coup ; elle fronce les sourcils, mais le sourire reste.::
 
 J'aime ça. Pas l'odeur, mais à part ça, j'aime ça !<end>
 
@@ -224,7 +224,7 @@ J'aime ça. Pas l'odeur, mais à part ça, j'aime ça !<end>
 ::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Now I remember what you were talking about; honestly, I wasn't paying all that much attention to what you were saying. Eh, sorry. How-ever, I do like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
 
 =>q36
-::Il commence à l'examiner.:: Attendez, c'est un psimorphe ? Ça ressemble à un psimorphe, mais je n'ai jamais vu cette adaptation. Je me souviens maintenant de ce dont vous parliez ; honnêtement, je n'écoutais pas vraiment. Désolé. J'aime bien la tournure que ça prend. J'aimerais avoir ça dans notre laboratoire. Indubitablement !<end>
+::Elle commence à l'examiner.:: Attendez, c'est un psimorphe ? Ça ressemble à un psimorphe, mais je n'ai jamais vu cette adaptation. Je me souviens maintenant de ce dont vous parliez ; honnêtement, je n'écoutais pas vraiment. Désolée. Cependant, j'aime bien la tournure que ça prend. J'aimerais avoir ça dans notre laboratoire. Indubitablement !<end>
 
 =>q37_original
 <end>
@@ -242,13 +242,13 @@ Voilà. N'oubliez pas de mentionner qui vous l'a donnée, quand vous rédigerez 
 I will! In the name of our whole department I thank you for this apex donation. ::He grins.:: Indeed!<end>
 
 =>q39
-Oui ! Au nom de tout le département, je vous remercie pour ce don apex. ::Il sourit.:: En effet !<end>
+Oui ! Au nom de tout le département, je vous remercie pour ce don. Apex. ::Elle sourit.:: En effet !<end>
 
 =>q40_original
 I will hand this over to our investigators at once.<end>
 
 =>q40
-Je vais tout de suite remettre ça à nos investigateurs.<end>
+Je vais tout de suite remettre ça à nos investigators.<end>
 
 =>a41_original
 If you could give me, say, three hundred charons, then I'd hand it over. It's a small price for something this important.<end>
@@ -260,7 +260,7 @@ Si vous pouviez me donner trois cents charons, je vous le donnerais. C'est un pe
 No problem. That won't affect our budget at all. Here you go. ::He gives you 300 stygian coins.::<end>
 
 =>q42
-Pas de problème. Ça n'affectera pas notre budget. Voilà. ::Il vous tend 300 charons.::<end>
+Pas de problème. Ça n'affectera pas notre budget. Voilà. ::Elle vous tend 300 charons.::<end>
 
 =>a43_original
 ::[Mercantile]:: I need five hundred charons to cover some costs. I think that's fair.<end>
@@ -272,13 +272,13 @@ Pas de problème. Ça n'affectera pas notre budget. Voilà. ::Il vous tend 300 c
 That's a small price to pay for something so apex. Here you go. ::He gives you 500 stygian coins.::<end>
 
 =>q44
-C'est un petit prix à payer pour quelque chose d'aussi apex. Voilà. ::Il vous tend 500 charons.::<end>
+C'est un petit prix à payer pour quelque chose d'aussi apex. Voilà. ::Elle vous tend 500 charons.::<end>
 
 =>q45_original
 I'm sorry, $(#bro/sis), but I don't think I'm willing to spend that much funds if I don't have to. Is there any other way we can negotiate this?<end>
 
 =>q45
-Je suis désolé, $(#frère/sœur), mais je ne compte pas dépenser autant si je peux l'éviter. On peut négocier autrement ?<end>
+Je suis désolée, $(#frère/sœur), mais je ne compte pas dépenser autant si je peux l'éviter. Peut-on négocier autrement ?<end>
 
 =>a46_original
 ::[Mercantile]:: Sure, I'll hand it over for eight hundred charons. I had to get through a lot to get this thing.<end>
@@ -290,7 +290,7 @@ Je suis désolé, $(#frère/sœur), mais je ne compte pas dépenser autant si je
 Understandable. That is a lot of charons, but... . Here you go. ::He gives you 800 stygian coins.::<end>
 
 =>q47
-Je comprends. C'est beaucoup de charons, mais... Voilà. ::Il vous tend 800 charons.::<end>
+Je comprends. C'est beaucoup de charons, mais... Voilà. ::Elle vous tend 800 charons.::<end>
 
 =>a48_original
 ::[Mercantile]:: I risked a lot for this, so I'd have to ask for a lot of money for it. One thousand five hundred, to be exact.<end>
@@ -302,7 +302,7 @@ Je comprends. C'est beaucoup de charons, mais... Voilà. ::Il vous tend 800 char
 One thou-- ::He scratches his head.:: That would be a big hit on the department's budget... But I am certain *our* department cannot run out of funds. Here you go. ::He gives you 1500 stygian coins.::<end>
 
 =>q49
-Mille cin... ::Il se gratte la tête.:: Ce serait un sacré coup pour le budget du département... Mais je suis certain que *notre* département ne peut pas se retrouver à sec. Voilà. ::Il vous tend 1500 charons.::<end>
+Mille cin... ::Elle se gratte la tête.:: Ce serait un sérieux coup pour le budget du département... Mais je suis certaine que *notre* département ne peut pas se retrouver à sec. Voilà. ::Elle vous tend 1500 charons.::<end>
 
 =>a50_original
 I changed my mind. I'll keep it for now.<end>
@@ -320,7 +320,7 @@ Très bien. Je ne comprends pas vraiment pourquoi, mais d'accord. Si vous change
 ::He begins inspecting it.:: Wait, is this a psimorph? It looks like a psimorph, but I've never seen this adaptation. Foundry, you said... Hmmm, I like where this is going. I'd love to have this in our laboratory. Indubitably!<end>
 
 =>q52
-::Il commence à l'examiner.:: Attendez, c'est un psimorphe ? Ça ressemble à un psimorphe, mais je n'ai jamais vu cette adaptation. Foundry, vous avez dit... J'aime bien la tournure que ça prend. J'aimerais avoir ça dans notre laboratoire. Indubitablement !<end>
+::Elle commence à l'examiner.:: Attendez, c'est un psimorphe ? Ça ressemble à un psimorphe, mais je n'ai jamais vu cette adaptation. Foundry, vous avez dit... J'aime bien la tournure que ça prend. J'aimerais avoir ça dans notre laboratoire. Indubitablement !<end>
 
 =>a53_original
 I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
@@ -356,7 +356,7 @@ Si je vous apporte un échantillon ou un spécimen vivant, allez-vous le regarde
 Did... Lydia send you here? ::He leans a bit forward, anticipating your answer.::<end>
 
 =>q58
-Est-ce que... Lydia vous envoie ? ::Il se penche un peu, dans l'attente de votre réponse.::<end>
+Est-ce que... Lydia vous envoie ? ::Elle se penche un peu, dans l'attente de votre réponse.::<end>
 
 =>a59_original
 Yes.<end>
@@ -368,19 +368,19 @@ Oui.<end>
 ::He leans even more toward you, peering into your honesty.:: Then I'd like to see that in writing. You don't have it, do you? Indeed you don't... <end>
 
 =>q60
-::Il se penche encore, comme pour jauger votre sincérité.:: Alors j'aimerais le voir par écrit. Vous ne l'avez pas, n'est-ce pas ? En effet, vous ne l'avez pas... <end>
+::Elle se penche encore, comme pour jauger votre sincérité.:: Alors j'aimerais le voir par écrit. Vous ne l'avez pas, n'est-ce pas ? En effet, vous ne l'avez pas... <end>
 
 =>q61_original
 This department is far too busy, $(#bro/sis), and I am not encumbering myself or my investigators with anything unless I have been directly ordered to do so or if it's something of some unwitnessed magnificence. I am sorry.<end>
 
 =>q61
-Ce département est beaucoup trop occupé, $(#frère/sœur), et je ne vais pas m'encombrer, ni encombrer mes investigateurs, sauf ordre direct, ou si c'est quelque chose d'une magnificence jamais vue. Je suis désolé.<end>
+Ce département est beaucoup trop occupé, $(#frère/sœur), et je ne vais pas m'encombrer, ni encombrer mes investigators, sauf ordre direct, ou si c'est quelque chose d'une magnificence jamais vue. Je suis désolée.<end>
 
 =>a62_original
 I'm only asking for one investigator to take a look at it, man, not for a team to study it for the years to come.<end>
 
 =>a62
-Je ne demande qu'un enquêteur pour y jeter un coup d'œil, pas une équipe pour l'étudier pendant les années à venir.<end>
+Je ne demande qu'un investigator pour y jeter un coup d'œil, pas une équipe pour l'étudier pendant des années.<end>
 
 =>q63_original
 ::He frowns.:: Magnificent Tchort, didn't you hear the word of what I said? My investigators are busy. They've got work to do. Science. And if they're late with their projects, Eidein pardon them, then my ass is on the line. And Lydia's the one with the barbed whip. And - she doesn't have the whip literally - and what you wish from us is... if nothing else it is going to have to wait a while, $(#bro/sis).
@@ -388,9 +388,9 @@ Je ne demande qu'un enquêteur pour y jeter un coup d'œil, pas une équipe pour
 I'll let you know.<end>
 
 =>q63
-::Il fronce les sourcils.:: Magnifique Tchort, vous n'avez pas entendu ce que je viens de dire ? Mes investigateurs sont occupés. Ils ont du travail. De la science. S'ils sont en retard sur leurs projets, qu'Eidein leur pardonne, c'est mon cul qui est en jeu. Et c'est Lydia qui tient le fouet barbelé. Enfin - elle n'a pas le fouet, au sens propre - et ce que vous nous demandez... ça devra attendre, au moins un moment, $(#frère/sœur).
+::Elle fronce les sourcils.:: Magnifique Tchort, vous n'avez pas entendu ce que je viens de dire ? Mes investigators sont occupés. Ils ont du travail. De la science. S'ils sont en retard sur leurs projets, qu'Eidein leur pardonne, c'est ma tête qui est en jeu. Et c'est Lydia qui tient le fouet barbelé. Enfin - elle n'a pas le fouet, au sens propre - et ce que vous nous demandez... ça devra attendre, au moins un moment, $(#frère/sœur).
 
-Je vous ferai signe.<end>
+Je vous tiendrai au courant.<end>
 
 =>a64_original
 I wanted to ask you something else, seeing that we're done with this.<end>
@@ -402,7 +402,7 @@ Je voulais vous demander autre chose, vu qu'on en a fini avec ça.<end>
 Just be quick about it, please.<end>
 
 =>q65
-Faites vite.<end>
+Faites vite, je vous prie.<end>
 
 =>a66_original
 Why did I expect anything else? Fine. Goodbye.<end>
@@ -414,7 +414,7 @@ Pourquoi j'attendais autre chose ? Très bien. Au revoir.<end>
 ::He nods.::<end>
 
 =>q67
-::Il acquiesce.::<end>
+::Elle acquiesce.::<end>
 
 =>a68_original
 I understand. Tchort guide you, Rista. I have to be on my way.<end>
@@ -432,7 +432,7 @@ Non.<end>
 ::He nods with a smile.:: Yes. Then I won't be able to help you. <end>
 
 =>q70
-::Il hoche la tête avec un sourire.:: Oui. Alors je ne pourrai pas vous aider. <end>
+::Elle hoche la tête avec un sourire.:: Oui. Alors je ne pourrai pas vous aider. <end>
 
 =>a71_original
 They look like worms, with weird heads shaped like small drills.<end>
@@ -444,7 +444,7 @@ Ils ressemblent à des vers, avec des têtes bizarres en forme de petits forets.
 About Beast's skull...<end>
 
 =>a72
-À propos du crâne de Beast...<end>
+À propos du crâne de la Bête...<end>
 
 =>q73_original
 Yes?<end>
@@ -462,19 +462,19 @@ C'était quoi, la résistance aux maladies génétiques ?<end>
 Well, it's something I got from the top; you know what I mean, someone comes into my office and drops some stuff on my desk whether I like it or not. I am the PI of the busiest department in Institute of Tchort so things like that are unavoidable, I guess. Magnificent Tchort...<end>
 
 =>q75
-Eh bien, ça m'est tombé d'en haut. Vous voyez ce que je veux dire : quelqu'un entre dans mon bureau et me pose des dossiers sur le bureau, que ça me plaise ou non. Je suis le Principal Investigator du département le plus occupé de l'Institute of Tchort, alors ce genre de chose est inévitable, j'imagine. Magnifique Tchort...<end>
+Eh bien, ça m'est tombé d'en haut. Vous voyez ce que je veux dire : quelqu'un entre dans mon bureau et me dépose un tas de dossiers, que ça me plaise ou non. Je suis Principal Investigator du département le plus occupé de l'Institute of Tchort, alors ce genre de chose est inévitable, j'imagine. Magnifique Tchort...<end>
 
 =>q76_original
 So, what I got was about a project on genetic disease resistance: I have to find some subjects who have shown great resilience to deadly disease. Yeah, that's what I was told! What that means is - I, ::He points to himself.:: *I,* the principal investigator have to worry about subjects when I have the pacification project on my hands, Tchortist recombination paperwork to finish, Georgis' protein design data to review... even study some devolved psimorphs from Deep Caverns that were recently brought in.<end>
 
 =>q76
-Donc, ce qu'on m'a collé, c'est un projet sur la résistance aux maladies génétiques : je dois trouver des sujets qui ont montré une grande résistance à des maladies mortelles. Oui, c'est ce qu'on m'a dit ! Ce que ça veut dire : moi, ::Il se pointe du doigt.:: *moi*, le Principal Investigator, je dois me soucier de sujets alors que j'ai le projet de pacification sur les bras, la paperasse de recombinaison Tchortist à finir, les données de Georgis sur le design de protéines à relire... et même quelques psimorphes dégénérés des Deep Caverns, ramenés récemment, à étudier.<end>
+Donc, le projet qu'on m'a confié, c'est la résistance aux maladies génétiques : je dois trouver des sujets qui ont montré une grande résistance à des maladies mortelles. Oui, c'est ce qu'on m'a dit ! Ce que ça veut dire : moi, ::Elle se pointe du doigt.:: *moi*, Principal Investigator, je dois me soucier de sujets alors que j'ai le projet de pacification sur les bras, la paperasse de recombinaison Tchortist à finir, les données de Georgis sur le design de protéines à relire... et même quelques psimorphes dégénérés des Deep Caverns, ramenés récemment, à étudier.<end>
 
 =>q77_original
 What I need of you is the following: Walk outside the Institute - there is a bunch of people there - and ask around if anyone exhibits what we require. If not, well, we did our best - let someone else deal with it. If you do find someone - even better; since they are already here, they would be easy to convince to come here and do some simple tests, nothing painful.<end>
 
 =>q77
-Voici ce que j'attends de vous : sortez de l'Institute - il y a du monde, devant - et demandez si quelqu'un présente ce dont nous avons besoin. Sinon, tant pis, on a fait ce qu'on pouvait - que quelqu'un d'autre s'en charge. Si vous trouvez quelqu'un - encore mieux ; puisqu'ils sont déjà là, ils seront faciles à convaincre de venir pour quelques tests simples, rien de douloureux.<end>
+Voici ce que j'attends de vous : sortez dans la cour de l'Institute - il y a du monde, là - et demandez si quelqu'un présente ce dont nous avons besoin. Sinon, tant pis, on a fait ce qu'on pouvait - que quelqu'un d'autre s'en charge. Si vous trouvez quelqu'un - encore mieux ; puisqu'ils sont déjà là, ils seront faciles à convaincre de venir pour quelques tests simples, rien de douloureux.<end>
 
 =>q78_original
 That is all regarding the matter. Indeed.<end>
@@ -492,7 +492,7 @@ Je vais voir ce que je peux faire.<end>
 I am on it, brother! Tchort guide you.<end>
 
 =>a80
-Je m'en occupe, frère ! Tchort vous guide.<end>
+Je m'en occupe, sœur ! Tchort vous guide.<end>
 
 =>a81_original
 I had other questions.<end>
@@ -504,7 +504,7 @@ J'avais d'autres questions.<end>
 ::He nods.::<end>
 
 =>q82
-::Il acquiesce.::<end>
+::Elle acquiesce.::<end>
 
 =>a83_original
 I talked to a man called Detritus who had survived a plague that hit Core City's Drop Zone several years ago. He said he is willing to become a subject.<end>
@@ -522,19 +522,19 @@ Detritus, hein ? Parlez-moi de cet homme, $(#frère/sœur).<end>
 Well, he is a zoner whom I found right in front of the Institute; his whole family died from the plague yet he survived. He also told me he was rarely if ever ill in his life.<end>
 
 =>a85
-Eh bien, c'est un zoneur que j'ai trouvé devant l'Institut ; toute sa famille est morte de la peste mais il a survécu. Il m'a aussi dit qu'il était rarement malade, voire jamais.<end>
+Eh bien, c'est un zoneur que j'ai trouvé devant l'Institute ; toute sa famille est morte de la peste, mais il a survécu. Il m'a aussi dit qu'il était rarement malade, voire jamais.<end>
 
 =>q86_original
 Never ill? And you said his whole family died? Fair enough, I think we are onto something here. ::He makes a brief pause.:: By the Tchort, I think he is who we are looking for! If what you say is true we might not even need other subjects at all.<end>
 
 =>q86
-Jamais malade ? Et vous avez dit que toute sa famille était morte ? Très bien, je crois qu'on tient quelque chose. ::Il marque une courte pause.:: Par Tchort, je crois que c'est lui que nous cherchons ! Si ce que vous dites est vrai, nous n'avons même pas besoin d'autres sujets.<end>
+Jamais malade ? Et vous avez dit que toute sa famille était morte ? Très bien, je crois qu'on tient quelque chose. ::Elle marque une courte pause.:: Par Tchort, je crois que c'est lui que nous cherchons ! Si ce que vous dites est vrai, nous n'avons même pas besoin d'autres sujets.<end>
 
 =>q87_original
 Couldn't be better! I don't think anyone will bug me for a while regarding that project. Apex! I just need to contact someone to bring him in and... job is done! ::He laughs.::<end>
 
 =>q87
-Ça ne peut pas mieux tomber ! Je ne pense pas qu'on vienne m'embêter avec ce projet de sitôt. Apex ! Il me suffit de faire ramener le type et... affaire classée ! ::Il rit.::<end>
+Ça ne peut pas mieux tomber ! Je ne pense pas qu'on vienne m'embêter avec ce projet de sitôt. Apex ! Il me suffit de le faire ramener et... affaire classée ! ::Elle rit.::<end>
 
 =>a88_original
 It's an honor to serve Institute of Tchort, Principal Investigator.<end>
@@ -552,7 +552,7 @@ Indubitablement ! Vous avez gagné quelques charons pour ça - et vous n'avez m�
 Here are two hundred charons. ::He gives you 200 stygian coins.:: And that is all regarding the matter. Thank you very much!<end>
 
 =>q90
-Voici deux cents charons. ::Il vous tend 200 charons.:: Et voilà pour cette affaire. Merci beaucoup !<end>
+Voici deux cents charons. ::Elle vous tend 200 charons.:: Et voilà pour cette affaire. Merci beaucoup !<end>
 
 =>a91_original
 Everything for science.<end>
@@ -594,7 +594,7 @@ Oui, je connais ça.<end>
 Apex, so you already know all about it and the Behemoth; which is good because I don't have to explain it.<end>
 
 =>q97
-Apex, donc vous savez déjà tout ça, et le Behemoth ; tant mieux, je n'ai pas à l'expliquer.<end>
+Apex, donc vous savez déjà tout, et le Behemoth aussi ; tant mieux, je n'ai pas à l'expliquer.<end>
 
 =>q98_original
 So what I wish you to do is basically this: Go to the island, find someone who is crazy enough to take you there; see if the creature exists and bring me a sample of it. There is a possiblity it is the only of its kind so try not to cull it, for we might return later and try and capture it. Simple, $(#bro/sis), really simple. The pay is good; six hundred and fifty charons is, in my opinion very good and you'll receive it once you come back from the island. What do you say?<end>
@@ -624,13 +624,13 @@ L'île est complètement déserte. Aucune trace de Behemoth, seulement quelques 
 Mhm, so it was a waste of time basically. Well, that was slightly disappointing... It would have been apex to find a very rare creature there; it would be an amazing find.<end>
 
 =>q102
-Mhm, donc une perte de temps, en gros. Un peu décevant... Ç'aurait été apex de trouver une créature très rare là-bas ; une belle découverte.<end>
+Mhm, donc une perte de temps, en gros. Légèrement décevant... Ç'aurait été apex de trouver une créature très rare là-bas ; une belle découverte.<end>
 
 =>q103_original
 However, I'm not paying you from my own pocket so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation. That is all regarding the matter.<end>
 
 =>q103
-Cependant, ce n'est pas ma poche qui vous paie, donc ma déception personnelle est le seul inconvénient de votre excursion. ::Il rit.:: En effet ! Voici vos charons, $(#frère/sœur), comme promis. ::Il vous tend 650 charons.:: Ça couvre le transport, j'en suis sûr. Voilà pour cette affaire.<end>
+Cependant, ce n'est pas ma poche qui vous paie, donc ma déception personnelle est le seul inconvénient de votre excursion. ::Elle rit.:: En effet ! Voici vos charons, $(#frère/sœur), comme promis. ::Elle vous tend 650 charons.:: Ça couvre le transport, j'en suis sûre. Voilà pour cette affaire.<end>
 
 =>q104_original
 <end>
@@ -648,13 +648,13 @@ Il y avait deux femmes sur l'île, ce qui, vous l'aurez compris, veut dire qu'il
 Two women? Magnificent Tchort, what are they doin— actually I don't care. What I care about is that there isn't a very rare creature there, as I had hoped; it would be an apex find.<end>
 
 =>q106
-Deux femmes ? Magnifique Tchort, qu'est-ce qu'elles fon— en fait, je m'en fiche. Ce qui m'importe, c'est qu'il n'y a pas de créature très rare là-bas, comme je l'espérais ; ça aurait été une découverte apex.<end>
+Deux femmes ? Magnifique Tchort, qu'est-ce qu'elles fon— en fait, peu m'importe. Ce qui m'importe, c'est qu'il n'y a pas de créature très rare là-bas, comme je l'espérais ; ça aurait été une découverte apex.<end>
 
 =>a107_original
 I found two psionic women living on the island. They were driven out of their community when they were young which made them abandon society and set off to live on the Forsaken Island. They use their psionic abilities to create roars and effects to further scare away potential visitors.<end>
 
 =>a107
-J'ai trouvé deux femmes psioniques sur l'île. On les a chassées de leur communauté, toutes jeunes, alors elles ont quitté la société et sont allées vivre sur Forsaken Island. Elles se servent de leurs pouvoirs psi pour créer des rugissements et des effets, histoire d'éloigner les visiteurs.<end>
+J'ai trouvé deux femmes psioniques sur l'île. On les a chassées de leur communauté, toutes jeunes, alors elles ont quitté la société et sont allées vivre sur Forsaken Island. Elles se servent de leurs pouvoirs psi pour créer des rugissements et des effets, pour éloigner les visiteurs.<end>
 
 =>q108_original
 So that's what's been going on! Indubitably this fire display made those who saw it imagine a dragon-like being. Interesting, it really is, but that right there is the evidence that Behemoth is basically just an effect - a deterrent, not an actual living creature.<end>
@@ -666,7 +666,7 @@ Alors voilà ce qui se passait ! Indubitablement, ce spectacle de flammes a fait
 ::He sighs.:: Well, as disappointing as it is - it's the truth. Luckily, I'm not paying you from my own pocket, so my personal disappointment is the only downside of your excursion. ::He laughs.:: Indeed! Here are your charons, $(#bro/sis), as promised. ::He hands you 650 stygian coins.:: I'm sure that covers the cost of the transportation and the like. That's all regarding this matter.<end>
 
 =>q109
-::Il soupire.:: Aussi décevant que ce soit, c'est la vérité. Heureusement, ce n'est pas ma poche qui vous paie, donc ma déception personnelle est le seul inconvénient de votre excursion. ::Il rit.:: En effet ! Voici vos charons, $(#frère/sœur), comme promis. ::Il vous tend 650 charons.:: Ça couvre le transport et le reste, j'en suis sûr. Voilà pour cette affaire.<end>
+::Elle soupire.:: Aussi décevant que ce soit, c'est la vérité. Heureusement, ce n'est pas ma poche qui vous paie, donc ma déception personnelle est le seul inconvénient de votre excursion. ::Elle rit.:: En effet ! Voici vos charons, $(#frère/sœur), comme promis. ::Elle vous tend 650 charons.:: Ça couvre le transport et le reste, j'en suis sûre. Voilà pour cette affaire.<end>
 
 =>a110_original
 I found two women living alone on the island and, while there is no living monster, found something almost as good - a skeleton of a giant lizard-like creature.<end>
@@ -684,31 +684,31 @@ Apex, il y a donc du vrai dans l'histoire du Behemoth, après tout ! Je commenç
 Unfortunately, it was in a difficult to reach place; I could only see it from a distance.<end>
 
 =>a112
-Malheureusement, c'était dans un endroit difficile à atteindre; je ne pouvais le voir qu'à distance.<end>
+Malheureusement, c'était dans un endroit difficile à atteindre ; je ne pouvais le voir qu'à distance.<end>
 
 =>q113_original
 Hmmm, I was hoping for a sample but, hmmm.... I guess I'll bring this to Lydia; perhaps I can convince her to send an expedition there to dig up that fossil. Yes, indubitably... As for the women, they are easy to deal with.<end>
 
 =>q113
-J'espérais un échantillon, mais... Je pense que je vais apporter ça à Lydia ; peut-être que je peux la convaincre d'envoyer une expédition là-bas pour creuser ce fossile. Oui, sans doute... Quant aux femmes, elles sont faciles à gérer.<end>
+J'espérais un échantillon, mais... Je pense que je vais apporter ça à Lydia ; peut-être que je peux la convaincre d'envoyer une expédition là-bas pour extraire ce fossile. Oui, indubitablement... Quant aux femmes, elles sont faciles à gérer.<end>
 
 =>a114_original
 I'm glad to be have been of use, brother.<end>
 
 =>a114
-Je suis $(#heureux/heureuse) d'avoir été utile, frère.<end>
+Je suis $(#heureux/heureuse) d'avoir été utile, sœur.<end>
 
 =>q115_original
 I'm happy. ::He laughs.:: And that is rare...<end>
 
 =>q115
-Je suis content. ::Il rit.:: Et c'est rare...<end>
+Je suis contente. ::Elle rit.:: Et c'est rare...<end>
 
 =>q116_original
 ::He hands you 650 stygian coins.:: This is yours, and as far as I'm concerned you're done with this. I'll relay your findings to Lydia, as I've said.<end>
 
 =>q116
-::Il vous tend 650 charons.:: C'est à vous, et pour moi, vous en avez fini. Je transmettrai vos constatations à Lydia, comme je l'ai dit.<end>
+::Elle vous tend 650 charons.:: C'est à vous, et pour moi, vous en avez fini. Je transmettrai vos constatations à Lydia, comme je l'ai dit.<end>
 
 =>a117_original
 Do as you please, I just want my charons.<end>
@@ -720,7 +720,7 @@ Faites comme vous voudrez, je veux juste mes charons.<end>
 Indeed you do! Why else would you go there but for the charons. No, I'm not being sarcastic - it's what you do, right? Anyway, here. ::He hands you 650 stygian coins.:: As I promised. And that is all regarding this matter as far as I'm concerned. <end>
 
 =>q118
-En effet ! Pour quelle autre raison y iriez-vous, sinon pour les charons ? Non, je ne suis pas sarcastique - c'est ce que vous faites, n'est-ce pas ? Enfin, tenez. ::Il vous tend 650 charons.:: Comme promis. Voilà pour cette affaire, en ce qui me concerne. <end>
+En effet ! Pour quelle autre raison y iriez-vous, sinon pour les charons ? Non, je ne suis pas sarcastique - c'est ce que vous faites, n'est-ce pas ? Enfin, tenez. ::Elle vous tend 650 charons.:: Comme promis. Voilà pour cette affaire, en ce qui me concerne. <end>
 
 =>a119_original
 I already visited that island.<end>
@@ -750,7 +750,7 @@ Bonne chance et Tchort vous guide, $(#frère/sœur).<end>
 Tchort guide you, brother.<end>
 
 =>a123
-Tchort vous guide, frère.<end>
+Tchort vous guide, sœur.<end>
 
 =>a124_original
 Goodbye, Rista.<end>
@@ -786,7 +786,7 @@ Il n'y a pas de honte à ça. Permettez-moi d'expliquer ce que c'est...<end>
 The Forsaken Island is a remote island situated somewhere between Core City, approximately south-east of it, and the more southern parts of Lower Underrail. It is, people say, surrounded by violent currents which makes it an unpopular place for tourism. ::He laughs.:: However, there is something else there, $(#bro/sis) - The Forsaken Behemoth!<end>
 
 =>q129
-Forsaken Island est une île isolée, quelque part entre Core City, à peu près au sud-est, et les parties plus au sud du Lower Underrail. Elle est, dit-on, entourée de courants violents, ce qui n'en fait pas un lieu de tourisme. ::Il rit.:: Cependant, il y a autre chose, $(#frère/sœur) : le Forsaken Behemoth !<end>
+Forsaken Island est une île isolée, quelque part entre Core City, à peu près au sud-est, et les parties plus au sud du Lower Underrail. Elle est, dit-on, entourée de courants violents, ce qui n'en fait pas un lieu de tourisme. ::Elle rit.:: Cependant, il y a autre chose, $(#frère/sœur) : le Forsaken Behemoth !<end>
 
 =>q130_original
 Now, I've heard some exaggerated stories about it's appearance and behavior; it breathes fire, it shoots lasers from its eyes; it has seven heads; various nonsense. I mean, the creature - if real - might have some psionic abilities - I don't deny that - it's just that some of the things I've heard take it too far. However, what is consistent in all those stories can be summarized like this: It is a big lizard. A very, very big lizard. And if it really exists, I want a piece of it... erm - not *fight* it - but rather a sample of its skin or whatever else you can find.<end>
@@ -810,7 +810,7 @@ J'en ai peut-être entendu parler... quelque part... à un moment donné.<end>
 I have been to Forsaken Island.<end>
 
 =>a133
-Je suis allé à Forsaken Island.<end>
+Je suis $(#allé/allée) à Forsaken Island.<end>
 
 =>a134_original
 How do I get to Forsaken Island?<end>
@@ -846,7 +846,7 @@ Que pouvez-vous me dire sur cette pacification neuronale ?<end>
 I am going to be very concise, $(#bro/sis): Neural Pacification project is our most recent achievement in the field of neural manipulation, and only this year have we performed our first successful pacification procedure on an actual living subject. It was one of the coil spiders you have probably seen by now.<end>
 
 =>q139
-Je vais être très concis, $(#frère/sœur) : le projet Neural Pacification est notre plus récente avancée dans la manipulation neurale, et c'est seulement cette année que nous avons réussi notre première procédure de pacification sur un sujet vivant. C'était l'une des araignées à bobines que vous avez probablement déjà vues.<end>
+Je vais être très concise, $(#frère/sœur) : le projet Neural Pacification est notre plus récente avancée dans la manipulation neurale, et c'est seulement cette année que nous avons réussi notre première procédure de pacification sur un sujet vivant. C'était l'une des araignées à bobines que vous avez probablement déjà vues.<end>
 
 =>q140_original
 Now, the basic idea behind the project is to find a way to influence the behavior of anything with a brain. Indeed. There are two ways to perform the procedure: The safer way is to get it done on the operating table, but if that's not possible, as in the case of Psycho, a portable neural pacifier is necessary. No matter the option, the end result is one docile - or pacified - creature that you can - as you can see for yourself - safely keep close to humans without the risk of injury or death. I really don't wish to go into details of the procedure, partially because it is confidential, but mostly because I don't feel like talking that much.<end>
@@ -888,7 +888,7 @@ D'accord.<end>
 Why did you join the Institute of Tchort?<end>
 
 =>a146
-Pourquoi avez-vous rejoint le Institute of Tchort ?<end>
+Pourquoi avez-vous rejoint l'Institute of Tchort ?<end>
 
 =>q147_original
 $(#Bro/Sis), don't take this the wrong way, but I am currently not in the mood to discuss my personal history and motives.<end>
@@ -912,13 +912,13 @@ Que pouvez-vous me dire à propos de ces tremblements ?<end>
 It is making my job more difficult than it should be - and it's already difficult enough. Indeed! With that said, I get this somewhat odd feeling about it all. There is... there is something foreboding about it. I don't know, I can't explain it.<end>
 
 =>q150
-Ça rend mon travail plus difficile qu'il ne devrait - et il l'est déjà assez. En effet ! Cela dit, j'ai un sentiment bizarre, à propos de tout ça. Il y a... quelque chose de menaçant. Je ne sais pas. Je ne peux pas l'expliquer.<end>
+Ça rend mon travail plus difficile qu'il ne devrait - et il l'est déjà assez. En effet ! Cela dit, j'ai un sentiment étrange, à propos de tout ça. Il y a... quelque chose de menaçant. Je ne sais pas. Je ne peux pas l'expliquer.<end>
 
 =>q151_original
 ::He sighs.:: I just hope it ends soon.<end>
 
 =>q151
-::Il soupire.:: J'espère que ça se terminera bientôt.<end>
+::Elle soupire.:: J'espère que ça se terminera bientôt.<end>
 
 =>a152_original
 Investigator Vuk told me to see you about permission to purchase something from him.<end>
@@ -930,7 +930,7 @@ Investigator Vuk m'a dit de venir vous voir pour l'autorisation d'acheter chez l
 What do you need from him?<end>
 
 =>q153
-De quoi avez-vous besoin, de sa part ?<end>
+De quoi avez-vous besoin ?<end>
 
 =>a154_original
 Organs, tissue and stuff like that.<end>
@@ -942,7 +942,7 @@ Des organes, des tissus et des trucs comme ça.<end>
 I don't see why not. Rip it from his body any time you like. ::He laughs.:: Anyway, we have those in large quantities. You have my permission.<end>
 
 =>q155
-Je ne vois pas pourquoi pas. Arrachez-les-lui du corps, quand vous voudrez. ::Il rit.:: Enfin, on en a de grandes quantités. Vous avez ma permission.<end>
+Je ne vois pas pourquoi. Arrachez-les-lui du corps, quand vous voudrez. ::Elle rit.:: Enfin, on en a de grandes quantités. Vous avez ma permission.<end>
 
 =>a156_original
 Thank you, I'll go see him now.<end>
@@ -974,7 +974,7 @@ Que dit une cellule sur le point d'entrer en mitose à un investigator intéress
 Great! Apex! Did you come up with it on your own or...? I never heard that one before.<end>
 
 =>q160
-::Après un instant pour digérer, il éclate de rire, la tête rejetée en arrière. Au bout de dix-quinze secondes, il vous regarde à nouveau.::
+::Après un instant pour digérer, elle éclate de rire, la tête rejetée en arrière. Au bout de dix-quinze secondes, elle vous regarde à nouveau.::
 
 Génial ! Apex ! Vous l'avez inventée $(#tout seul/toute seule), ou... ? Je ne l'avais jamais entendue.<end>
 
@@ -994,13 +994,13 @@ Apex ! Vous avez un sens de l'humour bien développé. En effet !<end>
 Actually, I heard it from one of the genetics investigators.<end>
 
 =>a163
-En fait, je l'ai entendu de l'un des chercheurs en génétique.<end>
+En fait, je l'ai entendue de l'un des investigators en génétique.<end>
 
 =>q164_original
 Eh? Strange that no one told the joke to me... hmmm... Never mind. It's... never mind. Um, where were we?<end>
 
 =>q164
-Et alors ? Étrange que personne ne m'ait dit la blague... Laisse tomber. C'est... peu importe. Où en étions-nous ?<end>
+Et alors ? Étrange que personne ne me l'ait racontée... Peu importe. C'est... peu importe. Où en étions-nous ?<end>
 
 =>a165_original
 I actually never had the chance to introduce myself. $(context.player.Name) is the name.<end>
@@ -1012,13 +1012,13 @@ En fait, je n'ai jamais eu l'occasion de me présenter. $(context.player.Name) e
 What do I need to do again?<end>
 
 =>a166
-Je dois faire quoi, déjà ?<end>
+Que dois-je faire, déjà ?<end>
 
 =>q167_original
 Pay attention this time! *Weaken* the creature first and incapacitate it, then place the neural pacifier I gave you on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Then - once lined up - press the only button on the device and stand back. That is all.<end>
 
 =>q167
-Écoutez bien, cette fois. *Affaiblissez* d'abord la créature, mettez-la hors de combat, puis posez le pacifieur neural que je vous ai donné sur la tête de Psycho ; alignez les marqueurs de l'appareil sur l'endroit où les deux moitiés de la carapace s'ouvrent et laissent voir le cerveau. Une fois aligné, appuyez sur le seul bouton de l'appareil, et reculez. C'est tout.<end>
+Écoutez-moi bien, cette fois. *Affaiblissez* d'abord la créature, mettez-la hors de combat, puis posez le pacifieur neural que je vous ai donné sur la tête de Psycho ; alignez les marqueurs de l'appareil sur l'endroit où les deux moitiés de la carapace s'ouvrent et laissent voir le cerveau. Une fois aligné, appuyez sur le seul bouton de l'appareil, et reculez. C'est tout.<end>
 
 =>q168_original
 Now go!<end>
@@ -1036,7 +1036,7 @@ Je m'en occupe.<end>
 Not yet, I'm on it.<end>
 
 =>a170
-Pas encore, je suis dessus.<end>
+Pas encore, j'y travaille.<end>
 
 =>q171_original
 Indubitably...<end>
@@ -1068,7 +1068,7 @@ Very good! Here is the device. ::He gives you a portable neural pacifier.:: As s
 <end>
 
 =>q175
-Très bien ! Voici l'appareil. ::Il vous tend un pacifieur neural portable.:: Dès que vous pourrez vous en servir, posez-le sur la tête de Psycho ; alignez les marqueurs de l'appareil sur l'endroit où les deux moitiés de la carapace s'ouvrent et laissent voir le cerveau. Une fois aligné, appuyez sur le seul bouton, et reculez. Le reste est automatique : écartez-vous, et tout ira bien.
+Très bien ! Voici l'appareil. ::Elle vous tend un pacifieur neural portable.:: Dès que vous pourrez vous en servir, posez-le sur la tête de Psycho ; alignez les marqueurs de l'appareil sur l'endroit où les deux moitiés de la carapace s'ouvrent et laissent voir le cerveau. Une fois aligné, appuyez sur le seul bouton, et reculez. Le reste est automatique : écartez-vous, et tout ira bien.
 
 <end>
 
@@ -1076,7 +1076,7 @@ Très bien ! Voici l'appareil. ::Il vous tend un pacifieur neural portable.:: D�
 Follow the corridor past the holding pens and go down the stairs. Ironically, the lower level is full of dark passages which will, no doubt, make the job a tad more difficult. Tchort guide you! Oh, and do not try to open any cells there unless you wish to be culled on the spot.<end>
 
 =>q176
-Suivez le couloir, au-delà des enclos, et descendez les escaliers. Ironiquement, le niveau inférieur est plein de passages sombres, ce qui ne va pas arranger les choses. Que Tchort vous guide ! Oh, et n'essayez pas d'ouvrir les cellules, là-bas, à moins de vouloir être éliminé sur place.<end>
+Suivez le couloir, au-delà des enclos, et descendez les escaliers. Ironiquement, le niveau inférieur est plein de passages sombres, ce qui ne va pas arranger les choses. Que Tchort vous guide ! Oh, et n'essayez pas d'ouvrir les cellules, là-bas, à moins de vouloir être $(#éliminé/éliminée) sur place.<end>
 
 =>a177_original
 Nothing, just checking on you. Goodbye.<end>
@@ -1104,7 +1104,7 @@ Ouf... désolé de vous déranger, Investigator... ouf, je sais que vous aviez d
 Oh really... Oh really? Well thank this $(#mister/miss) here for stepping into my office and causing all this chaos. ::He shrugs.:: It's $(#his/her) fault!<end>
 
 =>q180
-Oh vraiment... Vraiment ? Eh bien, remerciez $(#ce monsieur/cette dame) d'être $(#entré/entrée) dans mon bureau et d'avoir semé tout ce chaos. ::Il hausse les épaules.:: C'est sa faute !<end>
+Oh vraiment... Vraiment ? Eh bien, remerciez $(#ce monsieur/cette dame) d'être $(#entré/entrée) dans mon bureau et d'avoir semé tout ce chaos. ::Elle hausse les épaules.:: C'est sa faute !<end>
 
 =>q181_original
 ::He turns toward you.:: See? This is what I have been talking about: Every time someone walks into my office - problem! Why can't people let me work in peace? Why, Tchort, why!?
@@ -1112,7 +1112,7 @@ Oh vraiment... Vraiment ? Eh bien, remerciez $(#ce monsieur/cette dame) d'être 
 And then people complain when I lock the door...<end>
 
 =>q181
-::Il se tourne vers vous.:: Vous voyez ? C'est exactement ce que je disais : chaque fois que quelqu'un entre dans mon bureau - problème ! Pourquoi les gens ne peuvent-ils pas me laisser travailler en paix ? Pourquoi, Tchort, pourquoi ?
+::Elle se tourne vers vous.:: Vous voyez ? C'est exactement ce que je disais : chaque fois que quelqu'un entre dans mon bureau - problème ! Pourquoi les gens ne peuvent-ils pas me laisser travailler en paix ? Pourquoi, Tchort, pourquoi ?
 
 Et après, les gens se plaignent quand je ferme à clé...<end>
 
@@ -1198,7 +1198,7 @@ That seems very complicated.<end>
 I know. It is. But I'm sure you'll be able to do it. The better question is: Will you?<end>
 
 =>q195
-Je sais. Ça l'est. Mais je suis sûr que vous y arriverez. La vraie question, c'est : le ferez-vous ?<end>
+Je sais. Ça l'est. Mais je suis sûre que vous y arriverez. La vraie question, c'est : le ferez-vous ?<end>
 
 =>a196_original
 I'll do it. Let me have the neural pacifier.<end>
@@ -1222,7 +1222,7 @@ Quoi ? Vous plaisantez ? C'est une urgence !<end>
 Sorry, you are right. I'll do it.<end>
 
 =>a199
-Désolé, vous avez raison. Je vais le faire.<end>
+$(#Désolé/Désolée), vous avez raison. Je vais le faire.<end>
 
 =>a200_original
 Nope. Bye.<end>
@@ -1290,9 +1290,9 @@ Let's hear what this is all about first and discuss who's responsible for it lat
 ::He sighs.:: Tchort is evolution. I'm Principal Investigator Rista and I *sincerely* hope you weren't sent by Lydia.<end>
 
 =>q210
-::Vous vous approchez d'un homme qui semble étudier des papiers. Quand il lève la tête vers vous, vous sentez tout de suite qu'il n'apprécie pas votre présence dans son bureau. C'est le long soupir, trop appuyé, qui vous a donné cette impression ? Peut-être... Le regard fatigué, peu accueillant, dont vous avez le sentiment qu'il pourrait vous expulser assez fort pour vous jeter à terre ? Peut-être... Ou ce poing qui se serre et qui, si l'on n'y prend pas garde, pourrait faire très mal ? Qui sait... Quoi qu'il en soit, pendant que vous réfléchissez, l'homme décide de parler le premier, d'une voix grave et profonde.::
+::Vous vous approchez d'une femme qui semble étudier des papiers. Quand elle lève la tête vers vous, vous sentez tout de suite qu'elle n'apprécie pas votre présence dans son bureau. C'est le long soupir, trop appuyé, qui vous a donné cette impression ? Peut-être... Le regard fatigué, peu accueillant, dont vous avez le sentiment qu'il pourrait vous expulser assez fort pour vous jeter à terre ? Peut-être... Ou ce poing qui se serre et qui, si l'on n'y prend pas garde, pourrait faire très mal ? Qui sait... Quoi qu'il en soit, pendant que vous réfléchissez, elle décide de parler la première, d'une voix grave et sèche.::
 
-::Il soupire.:: Tchort est l'évolution. Je suis Principal Investigator Rista, et j'espère *sincèrement* que Lydia ne vous a pas $(#envoyé/envoyée).<end>
+::Elle soupire.:: Tchort est l'évolution. Je suis Principal Investigator Rista, et j'espère *sincèrement* que Lydia ne vous a pas $(#envoyé/envoyée).<end>
 
 =>a211_original
 I wasn't, don't worry.<end>
@@ -1310,7 +1310,7 @@ Mais je dois m'inquiéter ! Chaque fois que quelqu'un entre dans mon bureau, ça
 Magnificent Tchort! It's either a sudden symposium I have to prepare for in a hurry, or some new project with an unrealistic deadline. Or some other problem... or a DISASTER in the lab!<end>
 
 =>q213
-Magnifique Tchort ! C'est soit un symposium soudain que je dois préparer à la hâte, soit un nouveau projet avec une deadline irréaliste. Ou un autre problème... ou un *DÉSASTRE* au labo !<end>
+Magnifique Tchort ! C'est soit un symposium soudain que je dois préparer à la hâte, soit un nouveau projet avec un délai irréaliste. Ou un autre problème... ou un *DÉSASTRE* au labo !<end>
 
 =>a214_original
 I am not here to give you work, so you can relax. In fact, I was hoping for the opposite - I'm the one looking for work.<end>
@@ -1334,7 +1334,7 @@ Je ne suis pas là pour vous donner du travail, vous pouvez vous détendre. En f
 Oh come on, quit whining! It can't be like that.<end>
 
 =>a217
-Arrête de pleurnicher ! C'est impossible.<end>
+Arrêtez de râler ! Ce n'est pas possible.<end>
 
 =>a218_original
 I feel for you man... I know *exactly* how it's like! "Do this! Do that!" - I hear it all the time! When will it end!?<end>
@@ -1346,13 +1346,13 @@ Je vous plains... Je sais *exactement* ce que c'est ! « Faites ci ! Faites ça 
 No, I just go around and meet various people of the Institute.<end>
 
 =>a219
-Non, je vais juste rencontrer diverses personnes de l'Institut.<end>
+Non, je fais seulement le tour, je rencontre des gens de l'Institute.<end>
 
 =>q220_original
 That is good news INDEED! But still, every time someone enters my office it equals either more work or more problems.<end>
 
 =>q220
-Ça, c'est vraiment une bonne nouvelle ! Mais quand même, chaque fois que quelqu'un entre dans mon bureau, ça veut dire soit plus de travail, soit plus d'ennuis.<end>
+Ça, c'est EN EFFET une bonne nouvelle ! Mais quand même, chaque fois que quelqu'un entre dans mon bureau, ça veut dire soit plus de travail, soit plus d'ennuis.<end>
 
 =>a221_original
 Lydia? Who is that?<end>
@@ -1364,7 +1364,7 @@ Lydia ? Qui est-ce ?<end>
 She's our Chief Investigator but... wait... you're that new $(#bro/sis)? The one who got the figurine, yes. Still... every time someone enters my office it equals either more work or more problems! It is how the universe works. Proven - over and over again!<end>
 
 =>q222
-C'est notre Chief Investigator, mais... attendez... vous êtes $(#le nouveau/la nouvelle) $(#frère/sœur) ? $(#Celui/Celle) de la figurine, oui. Enfin... chaque fois que quelqu'un entre dans mon bureau, ça veut dire plus de travail, ou plus d'ennuis ! C'est comme ça que l'univers marche. Prouvé. Encore et encore.<end>
+C'est notre Chief Investigator, mais... attendez... vous êtes $(#le nouveau/la nouvelle) $(#frère/sœur) ? $(#Celui/Celle) de la figurine, oui. Enfin... chaque fois que quelqu'un entre dans mon bureau, ça veut dire plus de travail, ou plus d'ennuis ! C'est comme ça que l'univers marche. Prouvé - encore et encore !<end>
 
 =>q223_original
 Did something in my head become loose or is there an earthquake every minute or so?<end>

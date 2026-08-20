@@ -8,13 +8,13 @@
 Good day to be a Praetorian. Isn't it, Enforcer?<end>
 
 =>q2
-Bonne journée pour être prétorien. N'est-ce pas ?<end>
+Belle journée pour un Praetorian. Pas vrai, Enforcer ?<end>
 
 =>q3_original
 Praetorian Security has no tolerance for imbeciles like you. Goodbye.<end>
 
 =>q3
-Praetorian Security n'a aucune tolérance pour les imbéciles comme vous. Au revoir.<end>
+Praetorian Security ne tolère pas les imbéciles comme vous. Au revoir.<end>
 
 =>q4_original
 <end>
@@ -26,25 +26,25 @@ Praetorian Security n'a aucune tolérance pour les imbéciles comme vous. Au rev
 My apologies, $(#sir/ma'am). Our source has just confirmed that you have, in fact, joined another major Core City organization. Due to strict rules here in Praetorian Security, I must decline your request.<end>
 
 =>q5
-Toutes mes excuses, $(#monsieur/madame). Notre source vient de confirmer que vous avez, en fait, rejoint une autre grande organisation Core City. En raison des règles strictes ici dans Praetorian Security, je dois refuser votre demande.<end>
+Toutes mes excuses, $(#monsieur/madame). Notre source vient de confirmer que vous avez rejoint une autre grande organisation de Core City. Les règles de Praetorian Security sont strictes : je dois décliner votre demande.<end>
 
 =>a6_original
 Thank you, goodbye.<end>
 
 =>a6
-Merci, au revoir.<end>
+Merci. Au revoir.<end>
 
 =>a7_original
 A bunch of idiots you are. ::Leave.::<end>
 
 =>a7
-Vous êtes des idiots. ::Partir.::<end>
+Bande d'idiots. ::Partir.::<end>
 
 =>q8_original
 You're clear. Go up these stairs, then take the first left. There you'll find Lieutenant Stratford. Talk to him and he'll explain everything you need to know. <end>
 
 =>q8
-C'est bon. Montez ces escaliers, puis prenez la première à gauche. Voilà le lieutenant Stratford. Parlez-lui et il vous expliquera tout ce que vous devez savoir. <end>
+Vous pouvez passer. Montez ces escaliers, puis première à gauche. Vous y trouverez le lieutenant Stratford. Parlez-lui, il vous expliquera tout ce qu'il faut savoir. <end>
 
 =>a9_original
 Got it.<end>
@@ -56,7 +56,7 @@ Compris.<end>
 Hold it! You are approaching a restricted area. Only employees and recruits are allowed past this point.<end>
 
 =>q10
-Attendez ! Vous approchez d'une zone restreinte. Seuls les employés et les recrues sont autorisés à passer ce point.<end>
+Halte ! Vous approchez d'une zone interdite. Seuls les employés et les recrues sont autorisés au-delà de ce point.<end>
 
 =>q11_original
 <end>
@@ -68,7 +68,7 @@ Attendez ! Vous approchez d'une zone restreinte. Seuls les employés et les recr
 I'd like to join Praetorian Security.<end>
 
 =>a12
-J'aimerais rejoindre Praetorian Security.<end>
+Rejoindre Praetorian Security.<end>
 
 =>q13_original
 Your name?<end>
@@ -86,13 +86,13 @@ $(context.player.Name).<end>
 Thank you. Would you please wait here. I'll be back soon.<end>
 
 =>q15
-Je vous remercie. Veuillez attendre ici. Je reviens bientôt.<end>
+Merci. Attendez ici, s'il vous plaît. Je reviens.<end>
 
 =>a16_original
 ::Wait.::<end>
 
 =>a16
-::Attendez.::<end>
+::Attendre.::<end>
 
 =>a17_original
 What is this place?<end>
@@ -104,7 +104,7 @@ Quel est cet endroit ?<end>
 This is Praetorian Security headquarters, one of the most notable buildings in Core City. I'm guessing you're not from around here?<end>
 
 =>q18
-C'est le siège Praetorian Security, l'un des bâtiments les plus remarquables de Core City. Je suppose que vous n'êtes pas d'ici ?<end>
+Ici, c'est le QG de Praetorian Security, un des bâtiments les plus connus de Core City. Vous n'êtes pas d'ici, j'imagine ?<end>
 
 =>a19_original
 Nope, I come from SGS.<end>
@@ -116,7 +116,7 @@ Non, je viens de SGS.<end>
 Yes, I am familiar with SGS. Praetorian Security is the largest defensive force in Core City. Our duty is to protect all those who live in Core City from internal and external threats.<end>
 
 =>q20
-Oui, je connais SGS. Praetorian Security est la plus grande force défensive de Core City. Notre devoir est de protéger tous ceux qui vivent dans Core City des menaces internes et externes.<end>
+Oui, je connais SGS. Praetorian Security est la plus grande force de défense de Core City. Notre devoir, c'est de protéger tous ceux qui y vivent, des menaces internes comme externes.<end>
 
 =>q21_original
 Any more questions?<end>
@@ -134,7 +134,7 @@ Vous avez raison, je ne suis pas d'ici.<end>
 I see. Praetorian Security is the largest defensive force in Core City. Our duty is to protect all those who live in Core City from internal and external threats.<end>
 
 =>q23
-Je vois. Praetorian Security est la plus grande force défensive de Core City. Notre devoir est de protéger tous ceux qui vivent dans Core City des menaces internes et externes.<end>
+Je vois. Praetorian Security est la plus grande force de défense de Core City. Notre devoir, c'est de protéger tous ceux qui y vivent, des menaces internes comme externes.<end>
 
 =>a24_original
 Recruits?<end>
@@ -146,25 +146,25 @@ Des recrues ?<end>
 Yes, recruits who come here to apply for Preatorian Security training program.<end>
 
 =>q25
-Oui, des recrues qui viennent ici pour postuler au programme de formation sur la sécurité des Preatoriens.<end>
+Oui, des recrues qui viennent postuler au programme de formation de Praetorian Security.<end>
 
 =>q26_original
 We are always accepting brave and committed individuals into our ranks. Of course, they need to go through rigorous training first.<end>
 
 =>q26
-Nous acceptons toujours des individus courageux et engagés dans nos rangs. Bien sûr, ils doivent d'abord suivre une formation rigoureuse.<end>
+Nous acceptons toujours dans nos rangs les volontaires courageux et déterminés. Ils passent d'abord par une formation rigoureuse.<end>
 
 =>a27_original
 My bad, I'll turn around.<end>
 
 =>a27
-Je vais me retourner.<end>
+Pardon, je fais demi-tour.<end>
 
 =>q28_original
 Need something, $(#sir/ma'am)?<end>
 
 =>q28
-Besoin de quelque chose, $(#monsieur/madame) ?<end>
+Besoin de quelque chose, $(#monsieur/madame) ?<end>
 
 =>q29_original
 <end>
@@ -176,23 +176,22 @@ Besoin de quelque chose, $(#monsieur/madame) ?<end>
 I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
 
 =>a30
-J'ai besoin d'informations sur un ancien officier Praetorian Security appelé Patrick Pierce.<end>
+J'ai besoin d'informations sur un ancien officier de Praetorian Security, Patrick Pierce.<end>
 
 =>q31_original
 I'm afraid we can't share such information with the public, $(#sir/ma'am).<end>
 
 =>q31
-Nous ne pouvons pas partager ces informations avec le public, $(#monsieur/madame).<end>
+Malheureusement, nous ne communiquons pas ce genre d'informations au public, $(#monsieur/madame).<end>
 
 =>q32_original
 That sort of information would be available only for those working for Praetorian Security.<end>
 
 =>q32
-Ce genre d'information ne serait disponible que pour ceux qui travaillent pour Praetorian Security.<end>
+Ce genre d'informations n'est accessible qu'aux employés de Praetorian Security.<end>
 
 =>a33_original
 Goodbye.<end>
 
 =>a33
 Au revoir.<end>
-

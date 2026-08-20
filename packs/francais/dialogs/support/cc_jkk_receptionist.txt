@@ -2,7 +2,7 @@
 I though you said you didn't want this "stupid" job? Get lost.<end>
 
 =>q1
-Tu as dit que tu ne voulais pas de ce boulot ? Allez-vous-en.<end>
+Vous aviez dit que vous n'en vouliez pas, de ce boulot « stupide » ? Fichez le camp.<end>
 
 =>q2_original
 ::The man stops typing and looks at you.::
@@ -10,9 +10,9 @@ Tu as dit que tu ne voulais pas de ce boulot ? Allez-vous-en.<end>
 Welcome to JKK headquarters, $(#Mister/Miss)...?<end>
 
 =>q2
-::Il arrête de taper et te regarde.::
+::L'homme arrête de taper et vous regarde.::
 
-Bienvenue au siège du JKK, $(#Monsieur/Mademoiselle)...?<end>
+Bienvenue au siège de JKK, $(#Monsieur/Mademoiselle)... ?<end>
 
 =>a3_original
 $(context.player.Name).<end>
@@ -24,7 +24,7 @@ $(context.player.Name).<end>
 $(#Mister/Miss) $(context.player.Name), nice to meet you. My name is Van. How can I help you?<end>
 
 =>q4
-$(#Monsieur/Mademoiselle) $(context.player.Name), ravi de vous rencontrer. Mon nom est Van. Comment puis-je vous aider ?<end>
+$(#Monsieur/Mademoiselle) $(context.player.Name), ravi de vous rencontrer. Je m'appelle Van. Comment puis-je vous aider ?<end>
 
 =>q5_original
 <end>
@@ -36,55 +36,55 @@ $(#Monsieur/Mademoiselle) $(context.player.Name), ravi de vous rencontrer. Mon n
 I'm looking for some work.<end>
 
 =>a6
-Je cherche du travail.<end>
+Je cherche du boulot.<end>
 
 =>q7_original
 Very good. And what kind of work are you looking for?<end>
 
 =>q7
-Très bien. Et quel genre de travail cherchez-vous ?<end>
+Très bien. Et vous cherchez quel genre de boulot ?<end>
 
 =>a8_original
 Something fun that pays good.<end>
 
 =>a8
-Quelque chose d'amusant qui paie bien.<end>
+Un boulot marrant, bien payé.<end>
 
 =>q9_original
 ::He laughs.:: Aren't we all! Well, if you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
 
 =>q9
-::Il rit.:: Nous ne sommes pas tous ! Si vous voulez bien m'excuser un instant, je vais voir s'il nous reste quelque chose.<end>
+::Il rit.:: Comme tout le monde ! Bon, si vous voulez bien m'excuser un instant, je vais voir si on a quelque chose.<end>
 
 =>q10_original
 ::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times. The man remains almost expressionless, yet you somehow catch that there's something wrong. After several minutes, the conversation ends.::<end>
 
 =>q10
-::Van appuie sur un bouton sur son casque et commence à parler à quelqu'un. Vous prétendez ne pas écouter, mais vous pouvez entendre votre nom être mentionné quelques fois. L'homme reste presque sans expression, mais tu sais que quelque chose ne va pas. Après plusieurs minutes, la conversation se termine.::<end>
+::Van appuie sur un bouton de son oreillette et se met à parler à quelqu'un. Vous faites semblant de ne pas écouter, mais vous l'entendez citer votre nom à plusieurs reprises. L'homme reste presque impassible, et pourtant vous captez que quelque chose cloche. Après plusieurs minutes, la conversation s'arrête.::<end>
 
 =>q11_original
 $(#Mister/Miss) $(context.player.Name), I'm very sorry, but we can't offer you a working position here at JKK at the moment. The reason for this is, if I've been told correctly, that you are already working for a different organization. I apologize again, and wish you a dominating day.<end>
 
 =>q11
-$(#Monsieur/Mademoiselle) $(context.player.Name), je suis désolé, mais nous ne pouvons pas vous offrir un poste de travail ici à JKK pour le moment. La raison en est que, si on m'a dit correctement, vous travaillez déjà pour une organisation différente. Je m'excuse encore et je vous souhaite une journée de domination.<end>
+$(#Monsieur/Mademoiselle) $(context.player.Name), je suis vraiment désolé, mais nous n'avons pas de poste à vous proposer ici, à JKK, pour le moment. D'après ce qu'on m'a dit, vous travaillez déjà pour une autre organisation. Toutes mes excuses, et je vous souhaite une journée Dominating.<end>
 
 =>a12_original
 Thank you for your time. Goodbye.<end>
 
 =>a12
-Merci pour votre temps. Au revoir.<end>
+Merci d'avoir pris le temps. Au revoir.<end>
 
 =>a13_original
 Well, I didn't even want this stupid job. So long.<end>
 
 =>a13
-Je ne voulais même pas de ce boulot stupide. Au revoir.<end>
+J'en voulais même pas, de ce boulot stupide. Salut.<end>
 
 =>q14_original
 ::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times, and also notice that the man nods his head several times, as if he's agreeing with something that's been said. After several minutes, the conversation ends.::<end>
 
 =>q14
-::Van appuie sur un bouton sur son casque et commence à parler à quelqu'un. Vous prétendez ne pas écouter, mais vous pouvez entendre votre nom être mentionné quelques fois, et aussi remarquer que l'homme hoche la tête plusieurs fois, comme s'il était d'accord avec quelque chose qui a été dit. Après plusieurs minutes, la conversation se termine.::<end>
+::Van appuie sur un bouton de son oreillette et se met à parler à quelqu'un. Vous faites semblant de ne pas écouter, mais vous l'entendez citer votre nom à plusieurs reprises, et vous voyez l'homme hocher la tête, comme s'il était d'accord avec ce qu'on lui dit. Après plusieurs minutes, la conversation s'arrête.::<end>
 
 =>q15_original
 Sorry to keep you waiting, but in return, I have some good news: It might seem like a coincidence, but we are in need of a capable individual, and *you* just might be the one. If you're still interested, I'll let you through to Miss Vivian Young. You'll find her right near the entrance, just beyond this door.
@@ -92,33 +92,33 @@ Sorry to keep you waiting, but in return, I have some good news: It might seem l
 And before I forget: You can only move about the first floor of the building. Access to other areas is forbidden to visitors. Just to be clear.<end>
 
 =>q15
-Désolé de vous avoir fait attendre, mais en retour, j'ai de bonnes nouvelles : Cela peut sembler une coïncidence, mais nous avons besoin d'un individu capable, et *vous* juste pourrait être celui. Si vous êtes toujours intéressé, je vous laisse passer Mlle Vivian Young. Vous la trouverez juste à côté de l'entrée, juste au-delà de cette porte.
+Désolé de l'attente, mais j'ai de bonnes nouvelles en échange : on dirait un hasard, mais on a besoin de quelqu'un de capable, et *vous* pourriez bien être la personne qu'il nous faut. Si ça vous dit toujours, je vous fais passer auprès de Mlle Vivian Young. Vous la trouverez juste à l'entrée, derrière cette porte.
 
-Et avant que j'oublie : vous ne pouvez bouger que vers le premier étage du bâtiment. L'accès à d'autres zones est interdit aux visiteurs. Juste pour être clair.<end>
+Et avant que j'oublie : vous n'avez le droit de circuler qu'au premier étage. L'accès au reste du bâtiment est interdit aux visiteurs. Qu'on soit bien d'accord.<end>
 
 =>a16_original
 Thank you. I will go see Miss Young now.<end>
 
 =>a16
-Je vous remercie. Je vais voir Mlle Young.<end>
+Merci. Je vais voir Mlle Young.<end>
 
 =>a17_original
 Got it. See ya.<end>
 
 =>a17
-Compris. A bientôt.<end>
+Compris. À plus.<end>
 
 =>a18_original
 I don't know, what do you have available?<end>
 
 =>a18
-Je ne sais pas, qu'avez-vous disponible ?<end>
+Je sais pas, vous avez quoi ?<end>
 
 =>q19_original
 We might have something... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
 
 =>q19
-On pourrait avoir quelque chose... Si vous voulez bien m'excuser un instant, je vais voir s'il nous reste quelque chose.<end>
+On a peut-être quelque chose... Si vous voulez bien m'excuser un instant, je vais voir ce qu'on a.<end>
 
 =>a20_original
 I have no idea. Literally.<end>
@@ -130,43 +130,43 @@ Aucune idée. Littéralement.<end>
 Perhaps there is something for you... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
 
 =>q21
-Il y a peut-être quelque chose pour vous... Si vous voulez bien m'excuser un instant, je vais voir s'il nous reste quelque chose.<end>
+Il y a peut-être quelque chose pour vous... Si vous voulez bien m'excuser un instant, je vais voir ce qu'on a.<end>
 
 =>a22_original
 On the other hand, I need to ask you something else.<end>
 
 =>a22
-D'un autre côté, je dois te demander autre chose.<end>
+Autrement, j'avais autre chose à vous demander.<end>
 
 =>q23_original
 Definitely. Ask me anything.<end>
 
 =>q23
-Absolument. Demande-moi n'importe quoi.<end>
+Bien sûr. Demandez-moi ce que vous voulez.<end>
 
 =>a24_original
 What can you tell me about JKK?<end>
 
 =>a24
-Que pouvez-vous me dire sur JKK ?<end>
+Vous pouvez me dire quoi, sur JKK ?<end>
 
 =>q25_original
 JKK is *the* major broadcasting organization in Core City. We make sure every Arena match is brought to the people of both South and North Underrail. Even the poorest zoners get the chance to experience the brutality of the Arena. <end>
 
 =>q25
-JKK est la principale organisation de radiodiffusion de Core City. Nous nous assurons que chaque match d'aréna est apporté aux gens du Sud et du Nord Underrail. Même les plus pauvres ont la chance de vivre la brutalité de l'aréna. <end>
+JKK, c'est *la* grande société de diffusion de Core City. On fait en sorte que chaque match de l'Arena arrive jusqu'aux gens du South Underrail comme du North Underrail. Même les zoners les plus fauchés peuvent goûter à la brutalité de l'Arena.<end>
 
 =>q26_original
 Moreover, for those interested in betting on the Arena matches, JKK is the organization responsible for it, and much more. Without JKK, Core City would not be what it is today.<end>
 
 =>q26
-De plus, pour ceux qui souhaitent parier sur les matchs de l'aréna, JKK en est l'organisation responsable, et bien plus encore. Sans JKK, Core City ne serait pas ce qu'il est aujourd'hui.<end>
+Et pour ceux qui veulent parier sur les matchs de l'Arena, c'est aussi JKK qui s'en occupe, et bien plus encore. Sans JKK, Core City ne serait pas ce qu'elle est aujourd'hui.<end>
 
 =>a27_original
 So long.<end>
 
 =>a27
-Au revoir.<end>
+À plus.<end>
 
 =>q28_original
 What's up, $(context.player.Name)?<end>

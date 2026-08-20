@@ -2,7 +2,7 @@
 I'm sorry I almost killed ya, $(#sir/ma'am)...<end>
 
 =>q1
-Je suis désolé de vous avoir presque $(#tué/tuée), $(#monsieur/madame)...<end>
+Désolé de vous avoir presque $(#tué/tuée), $(#monsieur/madame)...<end>
 
 =>q2_original
 ::You approach a man working on a console next to one of the Dreadnoughts. The oil splotches on his coveralls quickly yank your attention toward them; the more and more you stare, the more separate and interesting shapes you manage to identify: There's a three-legged rathound, a mushroom, a stalagmite, a bat, a blob and a larger blob. However, you are interrupted when the man notices you staring at his clothes.::
@@ -10,21 +10,21 @@ Je suis désolé de vous avoir presque $(#tué/tuée), $(#monsieur/madame)...<en
 Whatcha... whatcha doing there, $(#sir/ma'am)?<end>
 
 =>q2
-::Vous vous approchez d'un homme qui travaille sur une console, à côté d'un Dreadnought. Les taches d'huile sur sa combinaison vous sautent aux yeux ; plus vous les regardez, plus vous distinguez des formes : un rathound à trois pattes, un champignon, une stalagmite, une chauve-souris, une tache, une plus grosse tache. L'homme remarque que vous fixez ses vêtements et vous coupe.::
+::Vous vous approchez d'un homme qui travaille sur une console, à côté d'un des Dreadnoughts. Les taches d'huile sur sa salopette vous sautent aux yeux ; plus vous les fixez, plus des formes se détachent : un rathound à trois pattes, un champignon, une stalagmite, une chauve-souris, un pâté, un plus gros pâté. L'homme remarque que vous fixez ses vêtements. Il vous interrompt.::
 
-Vous... vous faites quoi, là, $(#monsieur/madame) ?<end>
+Qu'est-ce que... qu'est-ce que vous foutez là, $(#monsieur/madame) ?<end>
 
 =>a3_original
 The oil splotches on your overalls form some truly interesting shapes.<end>
 
 =>a3
-Les taches d'huile sur votre combinaison forment des silhouettes vraiment intéressantes.<end>
+Les taches d'huile sur votre salopette font des formes vraiment intéressantes.<end>
 
 =>q4_original
 ::He laughs, revealing the few teeth he's got.:: Look over 'ere: I found Staff Sergeant Fraser on me bum! Somehow, some oil spilled on a chair, 'n' I sat on it. ::He shows you an ugly blot on his rear, one that looks like a man with a greatly oversized nose.::<end>
 
 =>q4
-::Il rit, et montre les quelques dents qui lui restent.:: Regardez par ici : j'ai le sergent d'état-major Fraser sur le cul ! De l'huile a coulé sur une chaise, et je me suis assis dessus. ::Il vous montre une vilaine tache sur son derrière, qui ressemble à un homme au nez démesuré.::<end>
+::Il rit, découvrant les quelques dents qui lui restent.:: Regardez par là : j'ai le sergent d'état-major Fraser sur le cul ! Y a de l'huile qui a coulé sur une chaise, et je me suis assis dessus. ::Il vous montre une vilaine tache sur son derrière, qui ressemble à un homme au nez énorme.::<end>
 
 =>a5_original
 Look at that beak!<end>
@@ -38,9 +38,9 @@ Regardez-moi ce bec !<end>
 Hey, name's Will, $(#sir/ma'am).<end>
 
 =>q6
-::Il rit.:: C'est ce que je me suis dit. Oh, la plus belle tache de ma vie !
+::Il rit.:: C'est ce que je me suis dit, au début. Oh, la plus belle tache de ma vie !
 
-Hé, c'est Will, $(#monsieur/madame).<end>
+Hé, moi c'est Will, $(#monsieur/madame).<end>
 
 =>a7_original
 I have some questions for you, Will.<end>
@@ -52,7 +52,7 @@ J'ai quelques questions, Will.<end>
 I'm afraid, I don't have much time to chat, $(#sir/ma'am). If ya need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
 
 =>q8
-J'ai pas trop le temps de causer, $(#monsieur/madame). Si vous avez besoin que je fasse un truc, ça va, mais sinon, causer, c'est pas travailler.<end>
+Désolé, j'ai pas trop le temps de causer, $(#monsieur/madame). Si vous avez besoin que je fasse un truc, ça va, mais sinon, causer, c'est pas travailler.<end>
 
 =>q9_original
 <end>
@@ -64,7 +64,7 @@ J'ai pas trop le temps de causer, $(#monsieur/madame). Si vous avez besoin que j
 I need this mutagen cans rigged in a specific way. Can you help me?<end>
 
 =>a10
-J'ai besoin que ces bidons de mutagène soient truqués d'une certaine façon. Vous pouvez m'aider ?<end>
+Il me faut ces bidons de mutagène truqués d'une certaine façon. Vous pouvez m'aider ?<end>
 
 =>q11_original
 ::He inspects the cans.:: But - this is mutagen!<end>
@@ -88,13 +88,13 @@ Je peux, $(#monsieur/madame). Faut juste que je sache exactement ce que vous vou
 I need you to create a mechanism that will release the gas from these two cans *exactly* one minute after it's been activated. Of course, that means you have to bind them together.<end>
 
 =>a14
-Il me faut un mécanisme qui libère le gaz de ces deux bidons *exactement* une minute après activation. Et donc les relier ensemble, bien sûr.<end>
+Il me faut un mécanisme qui libère le gaz de ces deux bidons *exactement* une minute après l'avoir activé. Et les relier ensemble, bien sûr.<end>
 
 =>q15_original
 ::Will carefully inspects the cans.:: 'Kay, $(#sir/ma'am), I can do it. It'll take some time. Ya don't mind waitin'?<end>
 
 =>q15
-::Will inspecte les bidons avec soin.:: D'accord, $(#monsieur/madame), je peux le faire. Ça va prendre un moment. Ça vous dérange d'attendre ?<end>
+::Will inspecte les bidons avec soin.:: OK, $(#monsieur/madame), je peux le faire. Ça va prendre un moment. Ça vous dérange pas d'attendre ?<end>
 
 =>a16_original
 Not at all, Will. ::Wait.::<end>
@@ -108,9 +108,9 @@ Pas du tout, Will. ::Attendre.::<end>
 'Ere ya go, $(#sir/ma'am). Just as ya told me.<end>
 
 =>q17
-::Heureusement, Will termine vite. Il vérifie encore une fois que tout est bien branché, puis vous tend les bidons de mutagène truqués.::
+::Heureusement pour vous, Will termine vite. Il vérifie encore une fois que tout est bien branché, puis vous tend les bidons de mutagène truqués.::
 
-Voilà, $(#monsieur/madame). Comme vous m'avez dit.<end>
+Voilà, $(#monsieur/madame). Pile comme vous m'avez dit.<end>
 
 =>a18_original
 Thank you very much. See you around, Will.<end>
@@ -126,25 +126,25 @@ What's it for?<end>
 =>q19
 ::Il vous arrête au moment de partir.:: Excusez-moi, $(#monsieur/madame)... c'est, euh... j'avais une question, si ça vous dérange pas.
 
-C'est pour quoi ?<end>
+C'est pour faire quoi ?<end>
 
 =>a20_original
 This? I'm gonna use it to kill some Free Drones, Will. Take care.<end>
 
 =>a20
-Ça ? Je vais m'en servir pour tuer des Free Drones, Will. Prenez soin de vous.<end>
+Ça ? Je vais m'en servir pour tuer des Free Drones, Will. Faites gaffe.<end>
 
 =>q21_original
 O', well good luck with that, $(#sir/ma'am)!<end>
 
 =>q21
-Oh, ben bonne chance, $(#monsieur/madame) !<end>
+Oh, ben bonne chance pour ça, $(#monsieur/madame) !<end>
 
 =>a22_original
 I can't tell you, Will. It's top secret. Take care.<end>
 
 =>a22
-Je ne peux pas vous le dire, Will. Top secret. Prenez soin de vous.<end>
+Je ne peux pas vous le dire, Will. Top secret. Faites gaffe.<end>
 
 =>q23_original
 If ya say so, $(#sir/ma'am). Good luck anyway.<end>
@@ -186,7 +186,7 @@ Désolé, $(#monsieur/madame). Pas le temps de causer, y a du boulot.<end>
 Although... me tummy is showing signs of emptiness...<end>
 
 =>q29
-Quoique... le ventre commence à crier famine...<end>
+Quoique... mon bide commence à montrer des signes de vide...<end>
 
 =>q30_original
 No, no... I'll eat later. Gotta finish this thing 'ere.<end>
@@ -198,49 +198,49 @@ Non, non... je mangerai plus tard. Faut que je finisse ce truc, là.<end>
 Damn it, Will! You nearly killed me!<end>
 
 =>a31
-Bon sang, Will ! Vous avez failli me tuer !<end>
+Bordel, Will ! Vous avez failli me tuer !<end>
 
 =>q32_original
 ::Will turns pale. It takes a moment for him to answer with a trembling voice.:: Almost killed ya? No, no, no! Wha-- what did I do wrong?<end>
 
 =>q32
-::Will pâlit. Il lui faut un moment pour répondre, d'une voix tremblante.:: J'ai failli vous tuer ? Non, non, non ! Qu-- qu'est-ce que j'ai mal fait ?<end>
+::Will pâlit. Il lui faut un moment pour répondre, d'une voix tremblante.:: Failli vous tuer ? Non, non, non ! Qu-- qu'est-ce que j'ai mal fait ?<end>
 
 =>a33_original
 You messed up the mutagen timer or something like that. It went off as soon as I activated it. I specifically instructed you to make it release the gas exactly one minute after activation.<end>
 
 =>a33
-Vous avez foiré le minuteur du mutagène, ou un truc du genre. Ça a pété dès que je l'ai activé. Je vous avais pourtant dit de faire libérer le gaz exactement une minute après l'activation.<end>
+Vous avez foiré le minuteur du mutagène, ou un truc du genre. Ça a pété dès que je l'ai activé. Je vous avais pourtant dit de le régler pour que le gaz se libère exactement une minute après l'activation.<end>
 
 =>q34_original
 But... That's what I did, $(#sir/ma'am). Or, at least I though I did... Please forgive me, it was a mistake, $(#sir/ma'am). Please! I didn't mean to kill ya... Please forgive me! I'm sorry I messed up!<end>
 
 =>q34
-Mais... c'est ce que j'ai fait, $(#monsieur/madame). Ou du moins, je croyais... Pardonnez-moi, c'était une erreur, $(#monsieur/madame). S'il vous plaît ! Je voulais pas vous tuer... Pardonnez-moi ! Je suis désolé d'avoir foiré !<end>
+Mais... c'est ce que j'ai fait, $(#monsieur/madame). Ou du moins, je croyais... Pardonnez-moi, c'était une erreur, $(#monsieur/madame). S'il vous plaît ! Je voulais pas vous tuer... Pardonnez-moi ! Désolé, j'ai foiré !<end>
 
 =>a35_original
 Look, I forgive you. Just don't expect me to ask for your help again, okay? Goodbye, Will. Take care.<end>
 
 =>a35
-Écoutez, je vous pardonne. Ne vous attendez pas à ce que je vous redemande de l'aide, d'accord ? Au revoir, Will. Prenez soin de vous.<end>
+Écoutez, je vous pardonne. Comptez pas sur moi pour vous redemander de l'aide, d'accord ? Au revoir, Will. Faites gaffe.<end>
 
 =>q36_original
 Thank you, $(#sir/ma'am), thank you. Ya, ya take care too. ::You see the color slowly returning to his face. After a second or two, he turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
 
 =>q36
-Merci, $(#monsieur/madame), merci. Ouais, vous aussi, faites gaffe. ::La couleur lui revient peu à peu au visage. Au bout d'une ou deux secondes, il se retourne comme pour reprendre le travail, mais vous voyez bien qu'il ne fait que fixer la console.::<end>
+Merci, $(#monsieur/madame), merci. Ouais, ouais, vous aussi, faites gaffe. ::La couleur lui revient peu à peu au visage. Au bout d'une ou deux secondes, il se retourne comme pour reprendre le travail, mais vous voyez bien qu'il ne fait que fixer la console.::<end>
 
 =>a37_original
 You're an incompetent idiot, Will. I will report what happened here. We'll see how that works out for ya. Goodbye.<end>
 
 =>a37
-Vous êtes un idiot incompétent, Will. Je ferai rapport de ce qui s'est passé. On verra comment ça tourne pour vous. Au revoir.<end>
+Vous êtes un idiot incompétent, Will. Je vais faire un rapport sur ce qui s'est passé. On verra comment ça tourne pour vous. Au revoir.<end>
 
 =>q38_original
 ::Pale and speechless, Will lethargically turns around as if he is going to continue his work, but you notice he is only staring at the console.::<end>
 
 =>q38
-::Pâle, sans voix, Will se retourne mollement comme pour reprendre le travail, mais vous voyez bien qu'il ne fait que fixer la console.::<end>
+::Pâle, sans voix, Will se retourne sans énergie, comme pour reprendre le travail, mais vous voyez bien qu'il ne fait que fixer la console.::<end>
 
 =>a39_original
 I'll leave you to your work, Will.<end>
@@ -252,7 +252,7 @@ Je vous laisse à votre travail, Will.<end>
 That is very rude of you. Staff Sergeant's nose is not *that* big.<end>
 
 =>a40
-C'est très impoli. Le nez du sergent d'état-major n'est pas *si* gros.<end>
+C'est très impoli de votre part. Le nez du sergent d'état-major n'est pas *si* gros.<end>
 
 =>q41_original
 ::He laughs.:: Still, it's very close! Look at it, it's huge!
@@ -260,9 +260,9 @@ C'est très impoli. Le nez du sergent d'état-major n'est pas *si* gros.<end>
 By the way, name's Will, $(#sir/ma'am).<end>
 
 =>q41
-::Il rit.:: Quand même, c'est tout comme ! Regardez-moi ça, c'est énorme !
+::Il rit.:: Quand même, ça y ressemble un max ! Regardez-moi ça, c'est énorme !
 
-Au fait, c'est Will, $(#monsieur/madame).<end>
+Au fait, moi c'est Will, $(#monsieur/madame).<end>
 
 =>a42_original
 Okay, let's stop right here. Tell me your name?<end>
@@ -274,7 +274,7 @@ Bon, on s'arrête là. Votre nom ?<end>
 ::The man slightly bows his head.:: It's Will, $(#sir/ma'am)... I was merely joking, didn't mean no harm. It's just for fun, you know.<end>
 
 =>q43
-::L'homme baisse un peu la tête.:: C'est Will, $(#monsieur/madame)... Je plaisantais, je voulais pas de mal. C'est juste pour rire, vous savez.<end>
+::L'homme baisse un peu la tête.:: C'est Will, $(#monsieur/madame)... Je plaisantais, c'était pas méchant. C'est juste pour rire, vous savez.<end>
 
 =>a44_original
 Oh... Nothing, nothing. I had some questions for you.<end>
@@ -286,7 +286,7 @@ Oh... Rien, rien. J'avais quelques questions.<end>
 Will's the name, $(#sir/ma'am). I'd love to chat, but I got lots o' work to do. If you need me to do somethin', it's okay, but otherwise, chattin' means not workin'.<end>
 
 =>q45
-Will, $(#monsieur/madame). J'aimerais bien causer, mais j'ai du boulot. Si vous avez besoin que je fasse un truc, ça va, mais sinon, causer, c'est pas travailler.<end>
+Moi c'est Will, $(#monsieur/madame). J'aimerais bien causer, mais j'ai un max de boulot. Si vous avez besoin que je fasse un truc, ça va, mais sinon, causer, c'est pas travailler.<end>
 
 =>q46_original
 Need help with somethin', $(#sir/ma'am)?<end>

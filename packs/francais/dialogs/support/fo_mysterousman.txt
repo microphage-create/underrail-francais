@@ -2,7 +2,7 @@
 Leave.<end>
 
 =>q1
-Partir.<end>
+Partez.<end>
 
 =>q2_original
 ::Nods.::<end>
@@ -16,9 +16,9 @@ Partir.<end>
 Who goes there?<end>
 
 =>q3
-::Une silhouette mince vous gêne.::
+::Une silhouette mince vous barre le passage.::
 
-Qui y va ?<end>
+Qui va là ?<end>
 
 =>a4_original
 The neophyte.<end>
@@ -42,7 +42,7 @@ Personne.<end>
 Leave.<end>
 
 =>q7
-Partir.<end>
+Partez.<end>
 
 =>a8_original
 $(context.player.Name).<end>
@@ -54,7 +54,7 @@ $(context.player.Name).<end>
 Just let me through.<end>
 
 =>a9
-Laisse-moi passer.<end>
+Me laisser passer.<end>
 
 =>a10_original
 Invictus!<end>
@@ -66,11 +66,11 @@ Invictus !<end>
 I'm... uh... the one who wants to see what's behind the door.<end>
 
 =>a11
-C'est moi qui veux voir ce qui est derrière la porte.<end>
+Je suis... euh... je veux voir ce qu'il y a derrière la porte.<end>
 
 =>a12_original
 I'll just go.<end>
 
 =>a12
-J'y vais.<end>
+Partir.<end>
 

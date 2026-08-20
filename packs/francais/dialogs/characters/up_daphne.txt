@@ -16,15 +16,15 @@ Laissez-moi tranquille !<end>
 Hi, stranger. Are you also here to join the Tchortists?<end>
 
 =>q3
-::Une jeune femme, petite, semble perdue dans ses pensées, le regard fixé quelque part loin derrière vous. Quand vous vous approchez, elle lève les yeux et sourit : ses joues s'arrondissent. Sa voix a un timbre plutôt agréable, mais un grain râpeux revient par moments, comme si elle avait un peu abîmé les cordes.::
+::Une petite jeune femme semble perdue dans ses pensées, le regard fixé quelque part loin derrière vous. Quand vous vous approchez, elle lève les yeux et sourit : ses joues s'arrondissent. Sa voix a un timbre plutôt agréable, mais un grain râpeux revient par moments, comme si les cordes avaient un peu souffert.::
 
-Salut. Vous aussi, vous venez pour les Tchortistes ?<end>
+Salut. Vous aussi, vous venez pour les Tchortists ?<end>
 
 =>a4_original
 Maybe. What can you tell me about them?<end>
 
 =>a4
-Peut-être. Vous pouvez m'en dire quoi, sur eux ?<end>
+Peut-être. Vous m'en dites quoi ?<end>
 
 =>q5_original
 Oh. Well then... if you are - join the line, hah!
@@ -32,7 +32,7 @@ Oh. Well then... if you are - join the line, hah!
 But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
 
 =>q5
-Oh. Dans ce cas... si c'est ça, rangez-vous dans la file, hah !
+Oh. Dans ce cas... si c'est ça, mettez-vous dans la file, hah !
 
 Mais d'abord, je me présente. Daphne. Enchantée... euh... ?<end>
 
@@ -46,7 +46,7 @@ Mais d'abord, je me présente. Daphne. Enchantée... euh... ?<end>
 It's $(context.player.Name). Nice to meet you too, Daphne.<end>
 
 =>a7
-$(context.player.Name). Enchanté aussi, Daphne.<end>
+$(context.player.Name). $(#Enchanté/Enchantée) aussi, Daphne.<end>
 
 =>q8_original
 $(context.player.Name). Got it.
@@ -54,7 +54,7 @@ $(context.player.Name). Got it.
 Okay, $(context.player.Name), let's talk.<end>
 
 =>q8
-$(context.player.Name). C'est noté.
+$(context.player.Name). D'accord.
 
 Bon, $(context.player.Name), on discute.<end>
 
@@ -74,7 +74,7 @@ Vous pouvez me parler de vous ?<end>
 I am a geneticist from Foundry.<end>
 
 =>q11
-Je suis généticienne, de Foundry.<end>
+Je suis généticienne. De Foundry.<end>
 
 =>a12_original
 What exactly do you mean by that?<end>
@@ -88,7 +88,7 @@ You see, Foundry is a station, town - call it however you will - that revolves a
 Anyway, I had to get outta there.<end>
 
 =>q13
-Voilà : Foundry, c'est une station, une ville, appelez ça comme vous voulez, et ça tourne autour d'une seule chose. La mine. Bon, extraire, traiter, fabriquer avec le minerai, d'accord. Mais le vrai problème, c'est qu'un endroit comme ça n'a pas de place pour, disons, une biologiste. C'est comme... comme... un pêcheur dans une gare : il n'a rien à faire, hah !
+Voilà : Foundry, c'est une station, une ville, appelez ça comme vous voulez, et ça tourne autour d'une seule chose. La mine. Bon, extraire, traiter, fabriquer avec le minerai, d'accord. Mais le vrai problème, c'est qu'un endroit comme ça n'a pas de place pour, disons, une biologiste. C'est comme... comme... un pêcheur dans une gare : il a rien à faire, hah !
 
 Bref. Fallait que je me tire de là.<end>
 
@@ -102,7 +102,7 @@ Comment vous vous êtes retrouvée là-bas, au départ ?<end>
 My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
 
 =>q15
-Mes parents m'y ont amenée toute petite. L'argent était bon, d'accord, mais si on était allés à South Gate ou Rail Crossing, on aurait été tranquilles. Enfin... je me suis retrouvée là-bas. Les années ont passé, j'ai grandi. « Plus question de gâcher ma vie dans ce trou », je me suis dit. J'ai des ambitions. Je vais étudier autant que je peux, sortir de ce trou, et avancer !<end>
+Mes parents m'y ont amenée toute petite. L'argent était bon, d'accord, mais si on était allés à South Gate ou Rail Crossing, on aurait été à l'aise. Enfin... je me suis retrouvée là-bas. Les années ont passé, j'ai grandi. « Plus question de gâcher mon temps dans ce bled », je me suis dit. J'ai des ambitions. Je vais étudier autant que je peux, sortir de ce trou, et avancer !<end>
 
 =>a16_original
 Isn't it a bit dangerous to travel around alone?<end>
@@ -120,7 +120,7 @@ Techniquement, c'est plus dangereux de vivre à Foundry, hah. J'exagère pas, $(
 Well said. Now, let me ask you something else.<end>
 
 =>a18
-Bien vu. Autre chose, du coup.<end>
+Bien dit. Autre question.<end>
 
 =>q19_original
 Why not, $(context.player.Name). What did you have in mind?<end>
@@ -138,19 +138,19 @@ Et... ?<end>
 Actually, that tells me all I need to know. Let me ask you something else.<end>
 
 =>a21
-En fait, ça me dit tout ce que j'ai besoin de savoir. Autre question.<end>
+En fait, j'en sais assez. Autre question.<end>
 
 =>q22_original
 Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
 
 =>q22
-Rien. Je peux, je ne le ferai pas. Pourquoi je vous filerais des infos perso si vous n'avez même pas la décence de vous présenter ?<end>
+Rien. Je peux, mais je le ferai pas. Pourquoi je vous filerais des infos perso si vous avez même pas eu la décence de vous présenter ?<end>
 
 =>q23_original
 It was rhetorical; Don't answer it...<end>
 
 =>q23
-C'était rhétorique. Ne répondez pas...<end>
+C'était rhétorique. Répondez pas...<end>
 
 =>a24_original
 Why are you here and what can you tell me about this place?<end>

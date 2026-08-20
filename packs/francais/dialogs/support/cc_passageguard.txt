@@ -2,55 +2,55 @@
 You! Hold it! Let me take a look at you...<end>
 
 =>q1
-Toi ! Attendez ! Laisse-moi te regarder...<end>
+Vous ! On s'arrête ! Laissez-moi vous jeter un œil...<end>
 
 =>q2_original
 Enforcer. Wasn't notified we had patrols in the under-passages. Could've shot you in this darkness.<end>
 
 =>q2
-Enforceur. On n'a pas été prévenus qu'on avait des patrouilles dans les passages souterrains. J'aurais pu te tuer dans cette obscurité.<end>
+Enforcer. On m'a pas prévenu qu'on avait des patrouilles dans les under-passages. J'aurais pu vous descendre dans le noir.<end>
 
 =>a3_original
 It's Senior Enforcer $(context.player.Name).<end>
 
 =>a3
-C'est le maître $(context.player.Name).<end>
+C'est Senior Enforcer $(context.player.Name).<end>
 
 =>q4_original
 Ah, yes, $(#sir/ma'am). ::He salutes you.:: I thought I recognized you but wasn't exactly sure. <end>
 
 =>q4
-Ah, oui, $(#monsieur/madame). ::Il vous salue.:: Je croyais te reconnaître, mais je n'étais pas sûr. <end>
+Ah, oui, $(#monsieur/madame). ::Il vous salue.:: Je croyais vous reconnaître, mais j'étais pas sûr. <end>
 
 =>q5_original
 Anyway, we're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through these passages. You're free to pass, of course.<end>
 
 =>q5
-Quoi qu'il en soit, nous sommes inquiets pour Lurkers donc nous devons être prudents avec toute âme pauvre qui vient à Core City à travers ces passages. Vous pouvez passer, bien sûr.<end>
+Bref, les Lurkers nous inquiètent, alors on fait gaffe à tout pauvre type qui débarque à Core City par ces passages. Vous pouvez passer, évidemment.<end>
 
 =>a6_original
 Who are these Lurkers you're talking about?<end>
 
 =>a6
-De qui sont ces Lurker ?<end>
+C'est qui, ces Lurkers dont vous parlez ?<end>
 
 =>q7_original
 You want to tell me you traveled through the under-passages and you don't know about Lurkers!? You're pretty damn lucky you didn't find out the hard way. They are a large, extremely brutal gang that lives in these passages.<end>
 
 =>q7
-Vous voulez me dire que vous avez voyagé à travers les passages souterrains et vous ne savez pas pour Lurkers!? Vous avez de la chance de ne pas avoir trouvé la voie difficile. C'est un grand gang extrêmement brutal qui vit dans ces passages.<end>
+Vous me dites que vous avez traversé les under-passages sans jamais entendre parler des Lurkers !? Vous avez eu un putain de bol de pas l'apprendre à vos dépens. C'est un gros gang, extrêmement brutal, qui vit dans ces passages.<end>
 
 =>q8_original
 They capture people, mutilate them... all sorts of horrible stuff. Supposedly they even *eat* their prisoners. Just... sick... Avoid them at all costs if you value the flesh on your bones.<end>
 
 =>q8
-Ils capturent les gens, les mutilent... toutes sortes de choses horribles. Ils devraient même manger leurs prisonniers. Juste... malade... Évitez-les à tout prix si vous appréciez la chair sur vos os.<end>
+Ils capturent les gens, les mutilent... tout un tas d'horreurs. On raconte même qu'ils *mangent* leurs prisonniers. Juste... dégueulasse... Évitez-les à tout prix si vous tenez à la chair sur vos os.<end>
 
 =>a9_original
 Thanks for the warning. I'll get going now.<end>
 
 =>a9
-Merci pour l'avertissement. Je vais y aller.<end>
+Merci du tuyau. J'y vais.<end>
 
 =>a10_original
 Thank you very much. Goodbye.<end>
@@ -62,7 +62,7 @@ Merci beaucoup. Au revoir.<end>
 I'm off duty, actually, so I'm exploring them in my own free time.<end>
 
 =>a11
-Je suis hors service, en fait, donc je les explore dans mon temps libre.<end>
+Je suis pas en service, en fait. J'explore les passages sur mon temps libre.<end>
 
 =>q12_original
 I... see. <end>
@@ -74,55 +74,55 @@ Je... vois. <end>
 Tell me about it. I didn't know there was a checkpoint here!<end>
 
 =>a13
-Parle-moi de ça. Je ne savais pas qu'il y avait un point de contrôle ici !<end>
+Sans blague. Je savais même pas qu'il y avait un poste ici !<end>
 
 =>q14_original
 ::He chuckles and shakes his head.:: It's always the same story. And then they wonder why we got so much friendly fire.<end>
 
 =>q14
-::Il se branle la tête.:: C'est toujours la même histoire. Et ils se demandent pourquoi nous avons eu tant de feu amical.<end>
+::Il ricane et secoue la tête.:: C'est toujours la même histoire. Et après ils se demandent pourquoi on se met autant de tirs amis.<end>
 
 =>q15_original
 You look kinda familiar... Didn't I see you somewhere before?<end>
 
 =>q15
-Vous semblez familier... Je ne t'ai pas vu quelque part avant ?<end>
+Vous me dites quelque chose... On se serait pas déjà croisés ?<end>
 
 =>a16_original
 I am Senior Enforcer $(context.player.Name) of Praetorian Security.<end>
 
 =>a16
-Je suis l'exécuteur principal $(context.player.Name) de Praetorian Security.<end>
+Je suis Senior Enforcer $(context.player.Name), Praetorian Security.<end>
 
 =>a17_original
 I am Enforcer $(context.player.Name) of Praetorian Security.<end>
 
 =>a17
-Je suis l'exécuteur $(context.player.Name) de Praetorian Security.<end>
+Je suis Enforcer $(context.player.Name), Praetorian Security.<end>
 
 =>q18_original
 Yes, yes... I've seen you back in the headquarters before, that's right. <end>
 
 =>q18
-Oui, oui... Je vous ai déjà vu au QG avant, c'est ça. <end>
+Oui, oui... On s'est déjà croisés au QG, c'est ça. <end>
 
 =>a19_original
 I don't think so.<end>
 
 =>a19
-Je ne crois pas.<end>
+Je crois pas.<end>
 
 =>q20_original
 Hmmm... Okay, you're good to go. We're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through the passages. Welcome to Core City, and have a nice stay.<end>
 
 =>q20
-- Oui. Ok, c'est bon. Nous sommes inquiets pour Lurkers, donc nous devons être prudents avec toute âme pauvre qui vient à Core City à travers les passages. Bienvenue à Core City, et passer un bon séjour.<end>
+Hmmm... Bon, vous pouvez passer. Les Lurkers nous inquiètent, alors on fait gaffe à tout pauvre type qui débarque à Core City par les passages. Bienvenue à Core City, et bon séjour.<end>
 
 =>q21_original
 All clear. You're good to go. We're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through these passages. Welcome to Core City, and have a nice stay.<end>
 
 =>q21
-C'est bon. C'est bon. Nous sommes inquiets pour Lurkers donc nous devons être prudents avec toute âme pauvre qui vient à Core City à travers ces passages. Bienvenue à Core City, et passer un bon séjour.<end>
+Rien à signaler. Vous pouvez passer. Les Lurkers nous inquiètent, alors on fait gaffe à tout pauvre type qui débarque à Core City par ces passages. Bienvenue à Core City, et bon séjour.<end>
 
 =>q22_original
 <end>
@@ -134,19 +134,19 @@ C'est bon. C'est bon. Nous sommes inquiets pour Lurkers donc nous devons être p
 I think I need a vacation.<end>
 
 =>q23
-Je pense que j'ai besoin de vacances.<end>
+Il me faudrait des vacances.<end>
 
 =>q24_original
 There's a motioner in that room over there. We often hear him talking to himself, something about doors...<end>
 
 =>q24
-Il y a un motioner dans cette pièce. On l'entend souvent parler à lui-même, quelque chose sur les portes...<end>
+Y a un motioner dans la pièce là-bas. On l'entend souvent parler tout seul, un truc sur les portes...<end>
 
 =>q25_original
 The under-passages are extremely dangerous. Avoid at all costs.<end>
 
 =>q25
-Les passages inférieurs sont extrêmement dangereux. Éviter à tout prix.<end>
+Les under-passages sont extrêmement dangereux. À éviter à tout prix.<end>
 
 =>q26_original
 Order through strength.<end>
@@ -164,5 +164,4 @@ L'ordre par la force.<end>
 Bloody Lurkers...<end>
 
 =>q28
-Le sang Lurkers...<end>
-
+Putains de Lurkers...<end>
