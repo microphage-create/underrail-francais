@@ -58,7 +58,7 @@ Dominating ! On commence... <end>
 ::Let him teach you.::<end>
 
 =>a9
-::Le laisser vous apprendre.::<end>
+::Le laisser enseigner.::<end>
 
 =>a10_original
 You don't seem like you're from around here.<end>
@@ -284,7 +284,7 @@ Hello, $(context.player.Name). I'm Boyd, Edgar's deputy. I gotta thank you for d
 =>q46
 ::Face à vous, un jeune homme fluet. Il retire un instant son respirateur : un beau visage, rasé de près. Ses bras, eux, sont presque entièrement recouverts d'un collage de tatouages chaotiques, sauf quelques plages où un fer rouge a brûlé la peau. Chaque tatouage est une marque, et chacun représente un gang différent. Il voit bien où se posent vos yeux, mais il n'en tient pas compte. Il vous parle, poli.::
 
-Bonjour, $(context.player.Name). Boyd, adjoint d'Edgar. Je dois vous remercier d'avoir réglé le problème des fouisseurs. Du travail Dominating, et on vous en doit une sacrée. Alors, de quoi avez-vous besoin ?<end>
+Bonjour, $(context.player.Name). Boyd, adjoint d'Edgar. Je dois vous remercier d'avoir réglé le problème des fouisseurs. Du boulot dominating, et on vous en doit une belle. Alors, de quoi avez-vous besoin ?<end>
 
 =>q47_original
 Yeah?<end>

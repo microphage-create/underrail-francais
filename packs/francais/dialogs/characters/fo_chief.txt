@@ -884,7 +884,7 @@ Dans tous les cas, merci pour l'aide. Garder Foundry aussi sûr que possible, c'
 Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
 
 =>q146
-Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, de toutes les personnes, ait été capable de meurtres aussi monstrueux. Vous avez eu de la chance d'en réchapper. Mes hommes viennent de l'arrêter, ils l'interrogeront dès que possible. D'autres sont encore sur place.<end>
+Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, ait été capable de meurtres aussi monstrueux. Vous avez eu de la chance d'en réchapper. Mes hommes viennent de l'arrêter, ils l'interrogeront dès que possible. D'autres sont encore sur place.<end>
 
 =>q147_original
 Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
@@ -896,7 +896,7 @@ Ils ont aussi trouvé cette clé sur elle. Vous en aurez besoin, j'imagine, pour
 Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
 
 =>q148
-Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, de toutes les personnes, ait été capable de meurtres aussi monstrueux. Vous avez eu de la chance d'en réchapper. Mes hommes ont trouvé son cadavre, ils sont encore sur les lieux. Vous êtes libre de partir : vous avez agi en légitime défense.<end>
+Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, ait été capable de meurtres aussi monstrueux. Vous avez eu de la chance d'en réchapper. Mes hommes ont trouvé son cadavre, ils sont encore sur les lieux. Vous êtes libre de partir : vous avez agi en légitime défense.<end>
 
 =>q149_original
 You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
@@ -908,7 +908,7 @@ Vous avez sauvé des vies en la démasquant, et pour ça, une petite récompense
 Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
 
 =>q150
-Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, de toutes les personnes, ait été capable de meurtres aussi monstrueux. Mes hommes sont encore sur place, et vous, je vous remercie de nous avoir prévenus. Qui sait combien d'hommes de plus auraient pu y passer. Je n'ose pas y penser. Une petite récompense pour le dérangement. ::Il vous tend 250 charons.::<end>
+Incroyable. Un bunker caché, plein de cadavres. J'ai du mal à croire qu'Evelyn, elle, ait été capable de meurtres aussi monstrueux. Mes hommes sont encore sur place, et vous, je vous remercie de nous avoir prévenus. Qui sait combien d'hommes de plus auraient pu y passer. Je n'ose pas y penser. Une petite récompense pour le dérangement. ::Il vous tend 250 charons.::<end>
 
 =>q151_original
 You are free to go.<end>
@@ -920,7 +920,7 @@ Vous êtes libre de partir.<end>
 $(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
 
 =>q152
-$(context.player.Name), jusqu'ici vous m'avez prouvé que vous étiez un $(#homme/femme) en qui je peux avoir confiance. C'est pour ça que j'ai un petit boulot pour vous.<end>
+$(context.player.Name), jusqu'ici vous m'avez prouvé que vous étiez $(#un homme/une femme) en qui je peux avoir confiance. C'est pour ça que j'ai un petit boulot pour vous.<end>
 
 =>q153_original
 The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
@@ -944,7 +944,7 @@ En fait, je leur ai déjà parlé.<end>
 I took care of them. They are all dead.<end>
 
 =>a156
-Je m'en suis occupé. Ils sont tous morts.<end>
+Je m'en suis $(#occupé/occupée). Ils sont tous morts.<end>
 
 =>a157_original
 I wanted to talk to you about something first.<end>

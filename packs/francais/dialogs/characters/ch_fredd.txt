@@ -100,7 +100,7 @@ Hein ?<end>
 I would like to see your wares. ::Barter.::<end>
 
 =>a16
-J'aimerais voir tes marchandises. ::Troc.::<end>
+J'aimerais voir tes marchandises. ::Troquer.::<end>
 
 =>a17_original
 About that helmet...<end>
@@ -140,7 +140,7 @@ Non, désolé. Je veux dire, je l'ai fabriqué moi-même et... Non. Non, désol�
 I'm willing to pay good money.<end>
 
 =>a22
-Je suis prêt à mettre le prix.<end>
+Je suis $(#prêt/prête) à mettre le prix.<end>
 
 =>q23_original
 ::He repeats the previous ritual, but a response comes a bit more quickly.::
@@ -312,7 +312,7 @@ Bon, j'ai aucune idée de ce que t'en sais déjà mais, en gros, c'est un roc, u
 The guy ain't a push-over, so if you ever run into him, either move those legs of yours as fast as ya can or get ready to be slaughtered. I ain't, you know, makin' this up, he *is* that dangerous, and bein' a quaker in that situation is better than bein' dead. Even some of our best couldn't bring his head, so, just take care.<end>
 
 =>q50
-Le type c'est pas une victime, alors si tu tombes jamais sur lui, tu files à toutes jambes ou tu te prépares à te faire massacrer. J'invente pas, tu vois, il *est* aussi dangereux que ça, et dans cette situation, trembler comme une feuille c'est mieux que d'être mort. Même quelques-uns de nos meilleurs ont pas ramené sa tête, alors fais gaffe.<end>
+Le type, c'est pas un cadeau, alors si tu tombes jamais sur lui, tu files à toutes jambes ou tu te prépares à te faire massacrer. J'invente pas, tu vois, il *est* aussi dangereux que ça, et dans cette situation, trembler comme une feuille c'est mieux que d'être mort. Même quelques-uns de nos meilleurs ont pas ramené sa tête, alors fais gaffe.<end>
 
 =>a51_original
 What can you tell me about Camp Hathor?<end>
@@ -336,7 +336,7 @@ Tu peux me parler de Camp Hathor ?<end>
 Ah, yes... Many, many years ago, an expedition came from the west, led by a man called Isaac Hathor. You know, later known as Hathor the Coalbringer. As they were makin' their way here, they ran into deadly beasts of different kinds: burrowers, crawlers, even Tunnelers, hm. And as they bravely fought their way through, they found this place, and with that - they discovered the richest coal deposits they'd ever seen! So, Camp Hathor was constructed, constructed by his holy hands, black from all the coal...<end>
 
 =>q54
-Ah, oui... Il y a bien, bien des années, une expédition est arrivée de l'ouest, menée par un homme appelé Isaac Hathor. Tu vois, plus tard connu comme Hathor the Coalbringer. En chemin, ils sont tombés sur des bêtes mortelles de toutes sortes : Burrowers, Crawlers, même des Tunnelers, hm. Et en se battant comme des braves, ils ont trouvé cet endroit, et avec ça - les gisements de charbon les plus riches qu'ils avaient jamais vus ! Alors Camp Hathor a été construit, construit par ses saintes mains, noires de tout ce charbon...<end>
+Ah, oui... Il y a bien, bien des années, une expédition est arrivée de l'ouest, menée par un homme appelé Isaac Hathor. Tu vois, plus tard connu comme Hathor the Coalbringer. En chemin, ils sont tombés sur des bêtes mortelles de toutes sortes : fouisseurs, crawlers, même des Tunnelers, hm. Et en se battant comme des braves, ils ont trouvé cet endroit, et avec ça - les gisements de charbon les plus riches qu'ils avaient jamais vus ! Alors Camp Hathor a été construit, construit par ses saintes mains, noires de tout ce charbon...<end>
 
 =>a55_original
 ::What have I gotten myself into? He won't stop talking. I'll take a short standing nap.::<end>
@@ -678,5 +678,5 @@ Désolé de t'avoir fait poireauter, fallait finir celui-là, $(#gars/fille). Mo
 Ah, me favorite customer.<end>
 
 =>q109
-Ah, mon client préféré.<end>
+Ah, $(#mon client préféré/ma cliente préférée).<end>
 

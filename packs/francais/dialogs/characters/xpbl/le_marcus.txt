@@ -26,13 +26,13 @@ Bonne chance, sec-trooper.<end>
 Let's kick some... *pipeworkin'* ass.<end>
 
 =>q5
-On va leur botter le... cul *pipeworkin'*.<end>
+On va botter du cul... *dans les tuyaux*.<end>
 
 =>q6_original
 Tone... I'll show those pipeworkers.<end>
 
 =>q6
-Tone... Je vais leur montrer, à ces pipeworkers.<end>
+Tone... Je vais leur montrer, à ces tuyautiers.<end>
 
 =>q7_original
 We're under attack! Get to your position!<end>
@@ -92,7 +92,7 @@ C'est vous !<end>
 Hello. I've got to inspect some equipment, so how about catching me a bit later, okay? Thank you.<end>
 
 =>q16
-Bonjour. Je dois inspecter du matériel. Repassez un peu plus tard, d'accord ? Merci.<end>
+Bonjour. Faut que j'inspecte du matériel. Repassez un peu plus tard, d'accord ? Merci.<end>
 
 =>q17_original
 <end>
@@ -119,16 +119,16 @@ $(context.player.Name). Anything you need before I pack it all up?
 <end>
 
 =>q20
-::Vous le trouvez en train de ranger du matériel dans une caisse. Il la pousse de côté un instant et s'adresse à vous d'une voix lasse.::
+::Vous le trouvez en train d'emballer du matériel dans une caisse. Il la pousse de côté un instant et s'adresse à vous, la voix lasse.::
 
-$(context.player.Name). Vous avez besoin de quelque chose avant que je range tout ?
+$(context.player.Name). Il vous faut quelque chose avant que j'emballe tout ?
 <end>
 
 =>a21_original
 I need some supplies. ::Barter.::<end>
 
 =>a21
-Il me faut du ravitaillement. ::Troc.::<end>
+Il me faut du ravitaillement. ::Troquer.::<end>
 
 =>a22_original
 I came to collect my paycheck.<end>
@@ -148,7 +148,7 @@ Yes. Here you go. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian 
 That should be everything Aegis Incorporated owes you.<end>
 
 =>q24
-Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.::
+Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) charons.::
 
 Ça devrait être tout ce qu'Aegis Incorporated vous doit.<end>
 
@@ -162,13 +162,13 @@ Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygi
 I need some supplies. ::Barter.::<end>
 
 =>a26
-Il me faut du ravitaillement. ::Troc.::<end>
+Il me faut du ravitaillement. ::Troquer.::<end>
 
 =>a27_original
 All I can say now is goodbye, Marcus.<end>
 
 =>a27
-Là, tout ce que je peux dire, c'est au revoir, Marcus.<end>
+Je peux juste vous dire au revoir, Marcus.<end>
 
 =>q28_original
 What can I say... it was a pleasure, $(context.player.Name). Sad it had to end this way, after so many lives were lost.
@@ -176,7 +176,7 @@ What can I say... it was a pleasure, $(context.player.Name). Sad it had to end t
 ::He sighs.:: So long.<end>
 
 =>q28
-Qu'est-ce que je peux dire... Ça a été un plaisir, $(context.player.Name). Triste que ça se termine comme ça, après tant de vies perdues.
+Qu'est-ce que je peux dire... Ça a été un plaisir, $(context.player.Name). C'est triste que ça se termine comme ça, après toutes ces vies perdues.
 
 ::Il soupire.:: Salut.<end>
 
@@ -196,7 +196,7 @@ Qu'est-ce que je peux dire... Ça a été un plaisir, $(context.player.Name). Tr
 I don't have anything for you. You've been paid in full.<end>
 
 =>q31
-Je n'ai rien pour vous. Votre paie est soldée.<end>
+J'ai rien pour vous. On vous a tout versé.<end>
 
 =>a32_original
 No. Just came to say goodbye.<end>
@@ -238,7 +238,7 @@ armure, un casque et un navcom.<end>
 First I'll need some supplies before I leave the camp. ::Barter.::<end>
 
 =>a38
-D'abord du ravitaillement, avant de quitter le camp. ::Troc.::<end>
+D'abord, j'ai besoin de ravitaillement avant de quitter le camp. ::Troquer.::<end>
 
 =>a39_original
 It's all here. ::Give him the armor, helmet and navcom.::<end>
@@ -260,7 +260,7 @@ Tout est là.<end>
 And here's your pay. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian coins.:: That should be everything we owe you.<end>
 
 =>q41
-Et voici votre paie. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.:: Ça devrait être tout ce qu'on vous doit.<end>
+Et voici votre paie. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) charons.:: Ça devrait être tout ce qu'on vous doit.<end>
 
 =>q42_original
 And... that's everything. What can I say... it was a pleasure, $(context.player.Name).<end>
@@ -278,13 +278,13 @@ Et... c'est tout. Qu'est-ce que je peux dire... Ça a été un plaisir, $(contex
 I can't believe that uncultured pipeworker fired the Invictus $(#himself/herself)! Come on, man!<end>
 
 =>q44
-J'arrive pas à croire que ce pipeworker inculte ait viré l'Invictus $(#lui-même/elle-même) ! Allez, sérieux !<end>
+J'arrive pas à croire que ce tuyautier inculte ait viré l'Invictus $(#lui-même/elle-même) ! Sérieux !<end>
 
 =>q45_original
 Sucks to see you go, $(context.npc_xpbl_ladelman_playerName). I liked your style. ::He fist bumps you.::<end>
 
 =>q45
-Ça craint de vous voir filer, $(context.npc_xpbl_ladelman_playerName). J'aimais bien votre style. ::Il vous tape dans le poing.::<end>
+Ça craint de te voir filer, $(context.npc_xpbl_ladelman_playerName). J'aimais bien ton style. ::Il vous tape dans le poing.::<end>
 
 =>q46_original
 ::He hesitates, then fists bumps you too but does it somewhat awkwardly.::<end>
@@ -302,7 +302,7 @@ Sucks to see you go, $(context.npc_xpbl_ladelman_playerName). I liked your style
 I deserved it. I should be getting sacked.<end>
 
 =>a48
-Je l'ai mérité. Je devais me faire virer.<end>
+Je l'ai mérité. Je méritais de me faire virer.<end>
 
 =>q49_original
 ::He pauses, nods, then proceeds.:: <end>
@@ -350,7 +350,7 @@ J'ai pas fini, ici, vous savez.<end>
 I must advise you not to interfere with our work here. However you may feel now, doing something like that will only end badly for you.<end>
 
 =>q56
-Je dois vous conseiller de ne pas interférer avec notre travail. Quoi que vous ressentiez, ce genre de geste ne peut que mal finir pour vous.<end>
+Je vous déconseille de vous mêler de notre boulot, ici. Peu importe ce que vous ressentez : un coup comme ça, ça ne peut que mal finir pour vous.<end>
 
 =>a57_original
 Yeah, well... ::Shrug your shoulders.:: whatcha gonna do.<end>
@@ -374,7 +374,7 @@ Et j'ai tellement fait pour cette expédition de merde.<end>
 I can't believe he fired you, $(context.npc_xpbl_ladelman_playerName) $(#himself/herself). You don't get gladiators workin' for you every day, for pipe's sake. <end>
 
 =>q60
-J'arrive pas à croire qu'il vous ait viré, $(context.npc_xpbl_ladelman_playerName) $(#lui-même/elle-même). On n'a pas un gladiateur sous la main tous les jours, nom de pipe. <end>
+J'arrive pas à croire qu'il t'ait viré, $(context.npc_xpbl_ladelman_playerName) $(#lui-même/elle-même). On n'a pas un gladiateur sous la main tous les jours, nom de pipe. <end>
 
 =>q61_original
 <end>
@@ -386,7 +386,7 @@ J'arrive pas à croire qu'il vous ait viré, $(context.npc_xpbl_ladelman_playerN
 You've already been paid for your work, so were clean.<end>
 
 =>q62
-On vous a déjà payé pour le boulot, on est quittes.<end>
+On a déjà payé votre boulot, on est quittes.<end>
 
 =>a63_original
 Is this really necessary?<end>
@@ -422,7 +422,7 @@ J'ai tout laissé dans mon casier. Je reviens.<end>
 Well, go get it for me, please. I need to have everything accounted for.<end>
 
 =>q68
-Allez me le chercher, s'il vous plaît. Il me faut tout inventorier.<end>
+Allez me le chercher. Faut que tout soit au compte.<end>
 
 =>q69_original
 You owe me one <end>
@@ -440,7 +440,7 @@ Salut. ::Hoche la tête.::<end>
 ::You find him packing his equipment.:: $(context.player.Name). Anything you need before the laborers start taking things out?<end>
 
 =>q71
-::Vous le trouvez en train d'emballer son matériel.:: $(context.player.Name). Vous avez besoin de quelque chose avant que les ouvriers commencent à tout sortir ?<end>
+::Vous le trouvez en train d'emballer son matériel.:: $(context.player.Name). Il vous faut quelque chose avant que les ouvriers commencent à tout sortir ?<end>
 
 =>a72_original
 You okay, Marcus?<end>
@@ -454,7 +454,7 @@ Well, the tent feels somewhat quiet and without a doubt a lot less raunchy, but 
 This sea... it sure took many victims.<end>
 
 =>q73
-La tente est devenue étrangement calme, et clairement beaucoup moins graveleuse, mais c'est comme ça.
+La tente est devenue bizarrement calme, et clairement beaucoup moins crade, mais c'est comme ça.
 
 Cette mer... elle a fait beaucoup de victimes.<end>
 
@@ -462,7 +462,7 @@ Cette mer... elle a fait beaucoup de victimes.<end>
 I hope you haven't packed everything yet. ::Barter.::<end>
 
 =>a74
-J'espère que vous n'avez pas encore tout emballé. ::Troc.::<end>
+J'espère que vous n'avez pas encore tout emballé. ::Troquer.::<end>
 
 =>a75_original
 There was something I wanted to ask you.<end>
@@ -486,7 +486,7 @@ Oui ?<end>
 Show me some hi-tech stuff. ::Barter.::<end>
 
 =>a78
-Montrez-moi du matos high-tech. ::Troc.::<end>
+Montrez-moi du matos de pointe. ::Troquer.::<end>
 
 =>a79_original
 I'm here to collect my paycheck.<end>
@@ -504,13 +504,13 @@ D'accord, $(context.player.Name), voyons voir...<end>
 Yes. Here you go. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian coins.::<end>
 
 =>q81
-Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) pièces stygiennes.::<end>
+Oui. Voilà. ::Il vous tend $(context.loc_xpbl_le_currentPaycheck) charons.::<end>
 
 =>q82_original
 I've yet to get used to these stygian coins. I still think in terms of blues; United Stations dollars, I mean.<end>
 
 =>q82
-Je m'y fais pas encore, à ces pièces stygiennes. Je compte toujours en blues : des dollars United Stations, je veux dire.<end>
+Je m'y fais pas encore, à ces charons. Je compte toujours en blues : des dollars United Stations, je veux dire.<end>
 
 =>q83_original
 <end>
@@ -534,25 +534,25 @@ Oh. Je vois. ::Il hoche la tête.:: Ses pièces brillent plus que les miennes. E
 Wait... You should've gotten more coins. Marcus, you swipin' zoner.<end>
 
 =>q86
-Attendez... Vous auriez dû toucher plus de pièces. Marcus, espèce de zoner, tu piques.<end>
+Attends... T'aurais dû toucher plus de pièces. Marcus, espèce de zoner, tu piques.<end>
 
 =>q87_original
 Do waste it on brew and hookers, bwahaha.<end>
 
 =>q87
-Allez, claquez-moi ça en bibine et en putes, bwahaha.<end>
+Allez, claque-moi ça en bibine et en putes, bwahaha.<end>
 
 =>q88_original
 I'll keep your coins safe... for coins. One-to-one deal. Who can say no to that?<end>
 
 =>q88
-Je vous les garde au chaud... contre des pièces. Un pour un. Qui refuserait ?<end>
+Je te les garde au chaud... contre des pièces. Un pour un. Qui dirait non à ça ?<end>
 
 =>q89_original
 Clean those coins well. I saw where he kept them.<end>
 
 =>q89
-Nettoyez bien ces pièces. J'ai vu où il les gardait.<end>
+Nettoie bien ces pièces. J'ai vu où il les gardait.<end>
 
 =>q90_original
 Anything else?<end>
@@ -564,7 +564,7 @@ Autre chose ?<end>
 No. I have nothing for you, I'm afraid.<end>
 
 =>q91
-Non. Je n'ai rien pour vous, malheureusement.<end>
+Non. J'ai rien pour vous, désolé.<end>
 
 =>a92_original
 I'd like to exchange dollars for charons.<end>
@@ -582,7 +582,7 @@ Bien sûr. <end>
 I'll give you one and a half stygian coins per dollar.<end>
 
 =>q94
-Je vous donne une pièce stygienne et demie par dollar.<end>
+Je vous donne un charon et demi par dollar.<end>
 
 =>q95_original
 <end>
@@ -594,7 +594,7 @@ Je vous donne une pièce stygienne et demie par dollar.<end>
 ::Trade 2 dollars for 3 stygian coins.::<end>
 
 =>a96
-::Échanger 2 dollars contre 3 pièces stygiennes.::<end>
+::Échanger 2 dollars contre 3 charons.::<end>
 
 =>q97_original
 ::He hands you your charons.:: Here you go, $(context.player.Name).<end>
@@ -606,19 +606,19 @@ Je vous donne une pièce stygienne et demie par dollar.<end>
 ::Trade 20 dollars for 30 stygian coins.::<end>
 
 =>a98
-::Échanger 20 dollars contre 30 pièces stygiennes.::<end>
+::Échanger 20 dollars contre 30 charons.::<end>
 
 =>a99_original
 ::Trade 200 dollars for 300 stygian coins.::<end>
 
 =>a99
-::Échanger 200 dollars contre 300 pièces stygiennes.::<end>
+::Échanger 200 dollars contre 300 charons.::<end>
 
 =>a100_original
 ::Trade 2000 dollars for 3000 stygian coins.::<end>
 
 =>a100
-::Échanger 2000 dollars contre 3000 pièces stygiennes.::<end>
+::Échanger 2000 dollars contre 3000 charons.::<end>
 
 =>a101_original
 That would be all.<end>
@@ -642,7 +642,7 @@ Il y a quelqu'un ici qui échange des dollars United Stations contre des charons
 I can do it for you, $(context.player.Name). In fact, you can also pay in dollars when purchasing items from me or Doctor Savage. <end>
 
 =>q104
-Je peux le faire pour vous, $(context.player.Name). D'ailleurs, vous pouvez aussi payer en dollars pour ce que vous m'achetez, ou au docteur Savage. <end>
+Je peux le faire pour vous, $(context.player.Name). D'ailleurs, vous pouvez aussi payer en dollars chez moi ou chez le docteur Savage. <end>
 
 =>q105_original
 <end>
@@ -654,7 +654,7 @@ Je peux le faire pour vous, $(context.player.Name). D'ailleurs, vous pouvez auss
 But not from me. No, siree. I still haven't gotten used to handlin' them Northern blue bills; it messes up my, uh, calculation. Besides, dollars look like Monorail money - real steel is where it's at, baby, real super *hardcore* steel.<end>
 
 =>q106
-Mais pas chez moi. Ah ça non. J'ai toujours pas l'habitude de tripoter ces billets bleus du Nord ; ça me fausse, euh, les comptes. Et puis les dollars, on dirait de la monnaie Monorail - le vrai acier, c'est ça le délire, bébé, le vrai acier super *hardcore*.<end>
+Mais pas chez moi. Ah ça non. J'ai toujours pas l'habitude de tripoter ces billets bleus du Nord ; ça me fausse, euh, les comptes. Et puis les dollars, on dirait de la monnaie Monorail - le vrai acier, c'est ça bébé, le vrai acier super *hardcore*.<end>
 
 =>q107_original
 Yes, well... Anyway, <end>
@@ -666,7 +666,7 @@ Oui, enfin... Bref, <end>
 I found this floatie-talkie. This is not a standard issue comm device, as far as I'm aware.<end>
 
 =>a108
-J'ai trouvé ce floatie-talkie. C'est pas un comm réglementaire, à ma connaissance.<end>
+J'ai trouvé ce floatie-talkie. C'est pas un comm réglementaire, que je sache.<end>
 
 =>q109_original
 Let me see. ::He inspects the device.:: It looks like a Biocorp Electronics North three-hundred series, waterproof. But this one seems to be made by Coretech.<end>
@@ -684,7 +684,7 @@ J'en avais un, du temps où je posais des bouées. On pouvait balancer ce vieux 
 Where did you say you got this?<end>
 
 =>q111
-Où avez-vous dit que vous l'aviez trouvé ?<end>
+Vous l'avez trouvé où, déjà ?<end>
 
 =>a112_original
 That overweight technician, um, dropped it.<end>
@@ -696,7 +696,7 @@ Ce technicien enrobé l'a, euh, fait tomber.<end>
 I'll take it from here. There is no reason anyone should be using a different comm. We don't issue these, so that technician either brought it himself, found it, or was given the comm by someone.<end>
 
 =>q113
-Je m'en occupe. Personne n'a de raison d'utiliser un autre comm. On ne fournit pas ceux-là, donc ce technicien l'a soit apporté lui-même, soit trouvé, soit reçu de quelqu'un.<end>
+Je m'en occupe. Y a pas de raison que quiconque utilise un autre comm. On fournit pas ceux-là, donc ce technicien l'a soit amené lui-même, soit trouvé, soit reçu de quelqu'un.<end>
 
 =>q114_original
 I'll get to the bottom of this. Thanks. If you ever notice anything suspicious, let me know.<end>
@@ -722,9 +722,9 @@ Hey, one of my crab sandwiches went missin'. Was that you as well, $(context.npc
 Oh, wait - it went missin' in my belly, bwahaha. Khm, carry on.<end>
 
 =>q117
-Hé, un de mes sandwichs au crabe a disparu. C'était vous aussi, $(context.npc_xpbl_ladelman_playerName) ?
+Hé, un de mes sandwichs au crabe a disparu. C'était toi aussi, $(context.npc_xpbl_ladelman_playerName) ?
 
-Oh, attends : il a disparu dans mon ventre, bwahaha. Khm, continuez.<end>
+Oh, attends : il a disparu dans mon ventre, bwahaha. Khm, continue.<end>
 
 =>a118_original
 Chief Briggs told me to see you about collecting my gear.<end>
@@ -742,7 +742,7 @@ Tout de suite.<end>
 Hey, Tone, would you mind handing me one of the suits?<end>
 
 =>q120
-Hé, Tone, tu me passerais une des tenues ?<end>
+Hé, Tone, tu me passes une des tenues ?<end>
 
 =>q121_original
 Right away.<end>
@@ -754,13 +754,13 @@ Tout de suite.<end>
 Meanwhile, take this. ::He hands you a device.:: Here's a navcom - a navigation and communication device. Its communication range is substantial and should cover the entire Black Sea; still, I can't tell you how it is going to behave once you move beyond that or go into other cave systems or NFT facilities.<end>
 
 =>q122
-En attendant, prenez ça. ::Il vous tend un appareil.:: Voici un navcom : un appareil de navigation et de communication. Sa portée radio est large, elle devrait couvrir toute la Black Sea. Par contre, je ne peux pas vous dire comment il se comportera plus loin, ou dans d'autres systèmes de grottes, ou dans les installations NFT.<end>
+En attendant, prenez ça. ::Il vous tend un appareil.:: Voici un navcom : un appareil de navigation et de communication. Sa portée radio est largement suffisante, elle devrait couvrir toute la Black Sea. Par contre, je ne peux pas vous dire comment il se comportera plus loin, ou dans d'autres grottes, ou dans les installations NFT.<end>
 
 =>q123_original
 As for navigation, it's fairly simple: The screen will display the grid square of the currently loaded coordinate system you're in. Now, pay attention here: The coordinate system currently displayed is the one recovered from an NFT device. This means that the coordinates you read on NFT devices are the ones your navcom can point you to. We'll all be using those coordinates during the expedition, so we'll all understand each other. Hopefully. ::He smiles.::<end>
 
 =>q123
-Pour la navigation, c'est assez simple : l'écran affiche le carré de grille du système de coordonnées actuellement chargé, celui dans lequel vous vous trouvez. Attention, là : le système affiché vient d'un appareil NFT. Donc les coordonnées que vous lisez sur les appareils NFT, votre navcom peut vous y mener. On utilisera tous ces coordonnées pendant l'expédition, comme ça on se comprendra. En principe. ::Il sourit.::<end>
+Pour la navigation, c'est assez simple : l'écran affiche le carré de grille du système de coordonnées chargé, celui où vous êtes. Attention, là : le système affiché vient d'un appareil NFT. Donc les coordonnées lues sur les appareils NFT, votre navcom peut vous y emmener. On utilisera tous ces coordonnées pendant l'expédition, comme ça on se comprendra. Espérons. ::Il sourit.::<end>
 
 =>q124_original
 ::He points to the navcom's display.:: Right now we're in D6, as you can see. Just to make it clear: Letters represent your position along the east-west axis, numbers along your north-south axis.<end>
@@ -778,7 +778,7 @@ Voilà. ::Tony s'approche avec une armure de combat Aegis Incorporated complète
 There's your armor. I don't think I should explain how to put it on. You have your own weapons - or that's what I've been told - but if you need anything from our armory, talk to that guy over there. ::He points to Ladelman.::<end>
 
 =>q126
-Voilà votre armure. Je ne vais pas vous expliquer comment la mettre. Vous avez vos propres armes - c'est ce qu'on m'a dit - mais si vous avez besoin de quelque chose de l'armurerie, parlez à ce type, là-bas. ::Il désigne Ladelman.::<end>
+Voilà votre armure. Je pense pas avoir à vous expliquer comment la mettre. Vous avez vos propres armes - c'est ce qu'on m'a dit - mais si vous avez besoin de quelque chose à l'armurerie, parlez à ce type, là-bas. ::Il désigne Ladelman.::<end>
 
 =>q127_original
 That's me!<end>
@@ -792,7 +792,7 @@ That's him. He's also got weapon attachments, spare parts and a plethora of othe
 And that should be... Oh, yes, wait, let's just check if the comm is working properly. Push that button, that one there, and say something.<end>
 
 =>q128
-C'est lui. Il a aussi des accessoires d'armes, des pièces détachées et tout un tas d'autres trucs du même genre. Si vous avez besoin d'armes à énergie ou de high-tech, par contre, c'est moi.
+C'est lui. Il a aussi des accessoires d'armes, des pièces détachées et tout un tas d'autres trucs du même genre. Si vous avez besoin d'armes à énergie ou de matos de pointe, par contre, c'est moi.
 
 Et ça devrait être... Oh, oui, attendez, vérifions si le comm marche. Appuyez sur ce bouton, là, et dites quelque chose.<end>
 
@@ -826,7 +826,7 @@ Très bien, tout a l'air en ordre. L'appareil affiche un nom à côté de chaque
 That's it. You got your gear and I hope everything was clear.<end>
 
 =>q132
-Voilà. Vous avez votre équipement, j'espère que tout était clair.<end>
+Voilà. Vous avez votre équipement, j'espère que c'était clair.<end>
 
 =>a133_original
 Tchort is evolution. Evolution is Tchort.<end>
@@ -854,7 +854,7 @@ Mort aux Cans !<end>
 You shouldn't be joking with that, $(context.player.Name). Especially not around Chief Briggs.<end>
 
 =>q136
-Vous ne devriez pas plaisanter avec ça, $(context.player.Name). Surtout pas près du chef Briggs.<end>
+Faut pas plaisanter avec ça, $(context.player.Name). Surtout pas près du chef Briggs.<end>
 
 =>a137_original
 I zoned out Carnifex!<end>
@@ -880,7 +880,7 @@ He cannot. ::He smiles.::
 <end>
 
 =>q140
-Il ne peut pas. ::Il sourit.::
+Il peut pas. ::Il sourit.::
 
 <end>
 
@@ -888,7 +888,7 @@ Il ne peut pas. ::Il sourit.::
 $(context.player.Name) here.<end>
 
 =>a141
-$(context.player.Name) à l'appareil.<end>
+Ici $(context.player.Name).<end>
 
 =>a142_original
 I am a sec-trooper now.<end>
@@ -946,7 +946,7 @@ Où avez-vous entendu ça ? C'est soit « à vous », soit « terminé ». « À
 What happened to the traitor?<end>
 
 =>a150
-Qu'est-il arrivé au traître ?<end>
+Qu'est-ce qui est arrivé au traître ?<end>
 
 =>q151_original
 He's in custody. <end>
@@ -970,7 +970,7 @@ Où le gardez-vous exactement ?<end>
 We canned the pipeworker.<end>
 
 =>q154
-On a mis le pipeworker en boîte.<end>
+On a viré le tuyautier.<end>
 
 =>q155_original
 ::He glances at Ladelman.:: <end>
@@ -982,7 +982,7 @@ On a mis le pipeworker en boîte.<end>
 We've got an empty shipping container. It's the best place to keep him in right now. It's secure, and he's out of the way.<end>
 
 =>q156
-On a un conteneur d'expédition vide. C'est le meilleur endroit pour le garder, pour l'instant. C'est sécurisé, et il est hors de nos pattes.<end>
+On a un conteneur vide. C'est le meilleur endroit pour le garder, pour l'instant. C'est sécurisé, et il est à l'écart.<end>
 
 =>q157_original
 <end>
@@ -1018,7 +1018,7 @@ Ouaaaais. Puis il s'est pris une raclée hardcore et il a arrêté, le rodworker
 What if he starts hitting his head against the wall?<end>
 
 =>a162
-Et s'il se met à frapper la tête contre le mur ?<end>
+Et s'il se tape la tête contre le mur ?<end>
 
 =>q163_original
 I saw the sec-troops pad the walls with some mattreses and stuff, and he's shackled in there, I think.<end>
@@ -1038,9 +1038,9 @@ Damn it, $(context.npc_xpbl_ladelman_playerName), now I'm imaginin' a fat guy sq
 I don't know! He's got somethin'.<end>
 
 =>q165
-Bon sang, $(context.npc_xpbl_ladelman_playerName), maintenant je vous vois, un gros gars accroupi au-dessus d'un seau, à cause de vous !
+Bon sang, $(context.npc_xpbl_ladelman_playerName), maintenant j'imagine un gros gars accroupi au-dessus d'un seau, à cause de toi !
 
-Je ne sais pas ! Il a un truc.<end>
+Je sais pas ! Il a un truc.<end>
 
 =>a166_original
 So, what's going to happen to him after all of this?<end>
@@ -1070,7 +1070,7 @@ Le chef n'avait pas tranché, et nous non plus.<end>
 Good. There was something else I wanted to ask...<end>
 
 =>a170
-Parfait. Il y avait autre chose que je voulais demander...<end>
+Bien. Il y avait autre chose que je voulais demander...<end>
 
 =>q171_original
 What do you need?<end>
@@ -1094,19 +1094,19 @@ On l'interroge encore.<end>
 Anything I can do to help with the camp's defenses?<end>
 
 =>a174
-Je peux vous aider à défendre le camp ?<end>
+Je peux faire quelque chose pour les défenses du camp ?<end>
 
 =>q175_original
 There is something you can do. The NFT had plenty of automated defenses deployed on this island. Most of it is destroyed, but perhaps there is something we can still use if we knew how, and that is something you can potentially discover during the course of your assignments.<end>
 
 =>q175
-Il y a quelque chose que vous pouvez faire. La NFT avait pas mal de défenses automatisées déployées sur cette île. La plupart sont détruites, mais on peut peut-être encore en tirer quelque chose si on savait comment. Et ça, vous pouvez éventuellement le découvrir au fil de vos missions.<end>
+Il y a quelque chose que vous pouvez faire. La NFT avait pas mal de défenses automatisées sur cette île. La plupart sont détruites, mais on peut peut-être encore en tirer quelque chose, si on savait comment. Et ça, vous pouvez le découvrir au fil de vos missions.<end>
 
 =>q176_original
 You can go and zone out the savages. That'd solve our problems.<end>
 
 =>q176
-Vous pouvez aller zoner les sauvages. Ça réglerait nos problèmes.<end>
+Tu peux aller zoner les sauvages. Ça réglerait nos problèmes.<end>
 
 =>q177_original
 Tone, you can't expect $(#him/her) to attack the natives all on $(#his/her) own.<end>
@@ -1142,7 +1142,7 @@ C'est mince, je sais, mais avec un peu de chance, on trouvera quelque chose.<end
 I found some old naval mines we could deploy around the island.<end>
 
 =>a182
-J'ai trouvé de vieilles mines navales que nous pourrions déployer autour de l'île.<end>
+J'ai trouvé de vieilles mines navales qu'on pourrait déployer autour de l'île.<end>
 
 =>q183_original
 Yeeeeeah! About time someone gets us some boomy floaty zone-outers, bwahahaha.<end>
@@ -1164,13 +1164,13 @@ Où les avez-vous trouvées, $(context.player.Name) ?<end>
 At J1. They appear to be in good condition. I just need you to send someone to pick them up.<end>
 
 =>a185
-À J1. Elles ont l'air en bon état. J'ai juste besoin que vous envoyiez quelqu'un les chercher.<end>
+À J1. Elles ont l'air en bon état. Faut juste que vous envoyiez quelqu'un les chercher.<end>
 
 =>q186_original
 We don't have any sec-troopers left to spare. <end>
 
 =>q186
-Il ne nous reste plus de sec-troopers à détacher. <end>
+On n'a plus de sec-troopers à envoyer. <end>
 
 =>q187_original
 Especially considering they'd have to go through pirate territory. <end>
@@ -1228,7 +1228,7 @@ Sortir des sec-troopers du camp, à un moment pareil, c'est beaucoup trop risqu�
 I don't know... It's too dangerous to go through the pirate territory.<end>
 
 =>q195
-Je ne sais pas... C'est trop dangereux de traverser le territoire des pirates.<end>
+Je ne sais pas... C'est trop dangereux de traverser le territoire pirate.<end>
 
 =>a196_original
 I've negotiated a deal with the pirates. You'll have to pay a toll, and there can't be any armed men on the boats.<end>
@@ -1240,7 +1240,7 @@ J'ai négocié un accord avec les pirates. Vous devrez payer un péage, et il ne
 That sounds far too risky...<end>
 
 =>q197
-Ça semble beaucoup trop risqué...<end>
+Ça a l'air beaucoup trop risqué...<end>
 
 =>a198_original
 They allowed me passage through their territory.<end>
@@ -1312,7 +1312,7 @@ J'ai négocié un accord avec les pirates pour qu'on puisse récupérer ces mine
 The way to J1 is pirate-free. We can now get those mines.<end>
 
 =>a209
-Le chemin vers J1 est libre de pirates. On peut récupérer ces mines.<end>
+Le chemin vers J1 est dégagé. Plus de pirates. On peut récupérer ces mines.<end>
 
 =>a210_original
 Have you managed to discover anything useful in the Keep about the island's defenses?<end>
@@ -1324,7 +1324,7 @@ Avez-vous trouvé quelque chose d'utile dans le Keep, sur les défenses de l'îl
 Yes, we did. The Keep gave us great insight into how the defenders organized and managed their defenses, as well as how the automated defense system functioned. <end>
 
 =>q211
-Oui. Le Keep nous a bien éclairés sur la façon dont les défenseurs organisaient et géraient leurs défenses, et sur le fonctionnement du système de défense automatisé. <end>
+Oui. Le Keep nous a bien renseignés sur la façon dont les défenseurs organisaient et géraient leurs défenses, et sur le fonctionnement du système de défense automatisé. <end>
 
 =>q212_original
 You already know about the turrets <end>
@@ -1350,7 +1350,7 @@ There's no point discussing the island's fortifications, so I'll go straight to 
 At this stage, the turrets would target weak points or, based on their priorities, select other targets or to a limited degree complement the active protection system.<end>
 
 =>q215
-Inutile de parler des fortifications de l'île, je passe directement aux défenses automatisées : les petites tourelles plasma, façon statue, et les canons plasma plus gros, plus puissants. Apparemment, leur tactique principale : les petites tourelles, cadences plus élevées, grillaient les boucliers énergétiques des navires ennemis, pour que les projectiles plus lourds passent une fois les boucliers tombés.
+Inutile de parler des fortifications de l'île, je passe directement aux défenses automatisées : les petites tourelles plasma, façon statue, et les canons plasma plus gros, plus puissants. Apparemment, leur tactique principale, c'était d'utiliser les petites tourelles, plus cadencées, pour épuiser les boucliers énergétiques des navires ennemis, histoire que les projectiles plus lourds passent une fois les boucliers tombés.
 
 À ce stade, les tourelles ciblaient les points faibles ou, selon leurs priorités, prenaient d'autres cibles, ou, dans une certaine mesure, venaient en appui du système de protection active.<end>
 
@@ -1376,7 +1376,7 @@ There are two components to the APS system, the *hard-kill* and *soft-kill* coun
 And whatever got past the APS still had powerful energy shields to contend with.<end>
 
 =>q218
-Le système APS a deux composantes, les contre-mesures *hard-kill* et *soft-kill* : le hard-kill, c'est empêcher missiles et autres projectiles d'atteindre leurs cibles - les cibles des défenseurs - en les interceptant et en les détruisant physiquement, comme les abattre avec les tourelles, même s'il y avait d'autres unités APS. Le soft-kill, c'est de l'interférence, électromagnétique ou acoustique, qui vise les capteurs à l'intérieur des projectiles.
+Le système APS a deux composantes, les contre-mesures *hard-kill* et *soft-kill* : le hard-kill, c'est intercepter et détruire physiquement les missiles et autres projectiles avant qu'ils ne touchent le camp des défenseurs - les abattre avec les tourelles, par exemple, même s'il y avait d'autres unités APS. Le soft-kill, c'est de l'interférence, électromagnétique ou acoustique, qui vise les capteurs à l'intérieur des projectiles.
 
 Et ce qui passait quand même l'APS se retrouvait face à de puissants boucliers énergétiques.<end>
 
@@ -1384,7 +1384,7 @@ Et ce qui passait quand même l'APS se retrouvait face à de puissants boucliers
 All in all, the NFT truly had a highly advanced system, with some unique solutions. Like contemporary systems, everything could both be centrally controlled or could function autonomously. Combat statues were also a part of the system, sending and receiveing their targeting information.<end>
 
 =>q219
-Au total, la NFT avait vraiment un système très avancé, avec des solutions uniques. Comme les systèmes contemporains, tout pouvait être contrôlé de façon centrale, ou fonctionner en autonome. Les statues de combat faisaient aussi partie du système : elles envoyaient et recevaient leurs infos de ciblage.<end>
+Dans l'ensemble, la NFT avait vraiment un système très avancé, avec des solutions uniques. Comme les systèmes d'aujourd'hui, tout pouvait être piloté depuis le centre, ou tourner en autonome. Les statues de combat faisaient aussi partie du système : elles envoyaient et recevaient leurs infos de ciblage.<end>
 
 =>q220_original
 Damn, Marky, I couldn't understand half of what you were sayin'! The only active protection system I use is not takin' a bath, bwahahaha!<end>
@@ -1490,7 +1490,7 @@ Au revoir, $(context.player.Name). Vous avez été un sacré sec-trooper.<end>
 Anything you need before the laborers start taking things out?<end>
 
 =>q236
-Vous avez besoin de quelque chose avant que les ouvriers commencent à tout sortir ?<end>
+Il vous faut quelque chose avant que les ouvriers commencent à tout sortir ?<end>
 
 =>q237_original
 Not now, $(context.player.Name). Please.<end>
@@ -1538,13 +1538,13 @@ Je viens de me souvenir : le chef Briggs a besoin de vous voir. C'est urgent.<en
 Good work, $(context.player.Name). Anything we can do to boost our defenses will help save the lives of our sec-troopers and our staff. <end>
 
 =>q244
-Bon travail, $(context.player.Name). Tout ce qu'on peut faire pour renforcer nos défenses, ça aidera à sauver nos sec-troopers et notre personnel. <end>
+Bon travail, $(context.player.Name). Tout ce qu'on peut faire pour renforcer nos défenses, ça aidera à sauver la vie de nos sec-troopers et de notre personnel. <end>
 
 =>q245_original
 However, I think we've done all we can regarding this island's security systems. Focus on your other assignments for now, and let me know if anything new comes up.<end>
 
 =>q245
-Cela dit, je pense qu'on a fait le tour des systèmes de sécurité de l'île. Concentrez-vous sur vos autres missions pour l'instant, et prévenez-moi s'il y a du nouveau.<end>
+Bon, je pense qu'on a fait le tour des systèmes de sécurité de l'île. Concentrez-vous sur vos autres missions pour l'instant, et prévenez-moi s'il y a du nouveau.<end>
 
 =>q246_original
 There is a bonus waiting for you as well.<end>
@@ -1592,7 +1592,7 @@ J'ai d'abord une mauvaise nouvelle, <end>
 $(context.player.Name): The camp's running low on electronic supplies. We're in no position to make supply trips back for more, so make the most use of what's available.<end>
 
 =>q253
-$(context.player.Name) : le camp commence à manquer de fournitures électroniques. On n'est pas en mesure de faire un aller-retour pour se réapprovisionner, alors tirez le maximum de ce qu'il reste.<end>
+$(context.player.Name) : le camp commence à manquer de matos électronique. On n'est pas en mesure de rentrer se réapprovisionner, alors tirez le maximum de ce qu'il reste.<end>
 
 =>q254_original
 ::He greets you with a downhearted tone of voice.:: <end>
@@ -1610,7 +1610,7 @@ $(context.player.Name) : le camp commence à manquer de fournitures électroniqu
 Tone, Chief... Hard to believe they're gone. <end>
 
 =>q256
-Tone, chef... Dur à croire qu'ils sont partis. <end>
+Tone, chef... Dur à croire qu'on les a perdus. <end>
 
 =>q257_original
 What've we gotten ourselves into, $(context.player.Name)?<end>
@@ -1664,13 +1664,13 @@ Gardez la tête haute, sec-trooper. On s'en sortira.<end>
 Hard to believe the chief is gone. <end>
 
 =>q265
-Dur à croire que le chef est parti. <end>
+Dur à croire qu'on a perdu le chef. <end>
 
 =>q266_original
 Hard to believe Tone is gone. <end>
 
 =>q266
-Dur à croire que Tone est parti. <end>
+Dur à croire qu'on a perdu Tone. <end>
 
 =>q267_original
 <end>

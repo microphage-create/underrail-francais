@@ -18,13 +18,13 @@ Prends ça !<end>
 Show me what you have in store. ::Barter::<end>
 
 =>a3
-Voir ce que vous avez en stock. ::Troc::<end>
+Voir ce que vous avez en stock. ::Troquer.::<end>
 
 =>a4_original
 ::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
 
 =>a4
-::[Mercantile]:: Dites... et si vous me sortiez le vrai bon matos, hein ? Être nouveau ici, ça veut pas dire que je suis fauché.<end>
+::[Mercantile]:: Dites... et si vous me sortiez le vrai bon matos, hein ? Être $(#nouveau/nouvelle) ici, ça veut pas dire que je suis $(#fauché/fauchée).<end>
 
 =>q5_original
 What makes you think I have the "good stuff"?<end>
@@ -36,19 +36,19 @@ Qu'est-ce qui vous fait croire que j'ai le « bon matos » ?<end>
 Being observant is a requirement here if I'm not mistaken.<end>
 
 =>a6
-Faut être observateur, ici, si je me trompe pas.<end>
+Faut être $(#observateur/observatrice), ici, si je me trompe pas.<end>
 
 =>q7_original
 Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
 
 =>q7
-Observateur, vous dites... ::Il s'arrête.:: Ça, vous l'êtes, c'est sûr, $(context.player.Name). Regardez ça.<end>
+$(#Observateur/Observatrice), vous dites... ::Il s'arrête.:: Ça, vous l'êtes, c'est sûr, $(context.player.Name). Regardez ça.<end>
 
 =>a8_original
 ::Barter.::<end>
 
 =>a8
-::Troc.::<end>
+::Troquer.::<end>
 
 =>q9_original
 No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
@@ -434,7 +434,7 @@ Hé, j'ai du nouveau matos pour vous.<end>
 Show it to me. ::Barter.::<end>
 
 =>a69
-Voir ça. ::Troc.::<end>
+Voir ça. ::Troquer.::<end>
 
 =>a70_original
 Good. But let me ask you something first.<end>

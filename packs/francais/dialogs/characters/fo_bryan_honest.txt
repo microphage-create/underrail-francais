@@ -10,7 +10,7 @@ Well, hello stranger. How's it going, huh? I know what you're thinking: "Why did
 
 Il vous parle sans quitter son sourire.::
 
-Bonjour, l'étranger. Ça va, hein ? Je sais ce que vous pensez : « Pourquoi je suis venu dans cette station morne ? L'air est horriblement pollué, les gens sont sales, ennuyeux, et y a absolument rien à faire, ici. » Cassez pas votre pic, cher client : Foundry, c'est plus que ce qu'on voit d'abord.<end>
+Bonjour, $(#l'étranger/l'étrangère). Ça va, hein ? Je sais ce que vous pensez : « Pourquoi je suis $(#venu/venue) dans cette station morne ? L'air est horriblement pollué, les gens sont sales, ennuyeux, et y a absolument rien à faire, ici. » Cassez pas votre pioche, $(#cher client/chère cliente) : Foundry, c'est plus que ce qu'on voit d'abord.<end>
 
 =>a2_original
 I'd--<end>
@@ -22,7 +22,7 @@ J'allais--<end>
 I feel it, oh, valued customer. I feel what you want to tell me so desperately. Don't say it. Shush! I know, you're searching for something special, for something that will make your day - your week - your *life*! You've found it. I'm not joking. Do you know what it is, valued customer? Do you know what I have here? What I'm willing to offer to you, for almost nothing?<end>
 
 =>q3
-Je le sens, oh, cher client. Je sens ce que vous voulez me dire, si désespérément. Ne le dites pas. Chut ! Je sais, vous cherchez quelque chose de spécial, quelque chose qui va vous faire la journée - la semaine - la *vie* ! Vous l'avez trouvé. Je ne plaisante pas. Vous savez ce que c'est, cher client ? Vous savez ce que j'ai, là ? Ce que je suis prêt à vous offrir, pour presque rien ?<end>
+Je le sens, oh, $(#cher client/chère cliente). Je sens ce que vous voulez me dire, si désespérément. Ne le dites pas. Chut ! Je sais, vous cherchez quelque chose de spécial, quelque chose qui va vous changer la journée - la semaine - la *vie* ! Vous l'avez trouvé. Je ne plaisante pas. Vous savez ce que c'est, $(#cher client/chère cliente) ? Vous savez ce que j'ai, là ? Ce que je suis prêt à vous offrir, pour presque rien ?<end>
 
 =>q4_original
 You're thinking I'm pulling your leg, aren't you? If so - then you're wrong. This is an offer you can't resist and you know it. I have something you desire and you know what it is. So tell me. Tell me!<end>
@@ -64,7 +64,7 @@ Moi, Bryan Honest, je tiens le plus grand magasin de Foundry, et le seul, spéci
 Alright, let me see what you have in store. ::Barter.::<end>
 
 =>a10
-Très bien, montrez-moi le stock. ::Troc.::<end>
+Très bien, montrez-moi le stock. ::Troquer.::<end>
 
 =>a11_original
 Can you tell me something about Foundry?<end>
@@ -82,7 +82,7 @@ Foundry n'avait jamais eu un vrai magasin de composants mécaniques, avant que j
 And now I'm here, valued customer.<end>
 
 =>q13
-Et maintenant je suis là, cher client.<end>
+Et maintenant je suis là, $(#cher client/chère cliente).<end>
 
 =>a14_original
 Do you know anything about creatures from the mine?<end>
@@ -112,7 +112,7 @@ Vous en pensez quoi, de ce fou qui hurle dehors ?<end>
 He never entered my store, and I don't listen to his rambling. We get along quite nicely. On the other hand, you are *in* my store, valued customer, and I feel obliged to listen to your unspoken words which are telling me you long for some of the components I offer.<end>
 
 =>q18
-Il n'est jamais entré chez moi, et je n'écoute pas son baratin. On s'entend très bien. Vous, par contre, vous êtes *dans* ma boutique, cher client, et je me sens obligé d'écouter ce que vous ne dites pas : que vous avez envie de certains des composants que je propose.<end>
+Il n'est jamais entré chez moi, et je n'écoute pas son baratin. On s'entend très bien. Vous, par contre, vous êtes *dans* ma boutique, $(#cher client/chère cliente), et je me sens obligé d'écouter ce que vous ne dites pas : que vous avez envie de certains des composants que je propose.<end>
 
 =>q19_original
 I am ready to accept your purchase; I am Bryan Honest.<end>
@@ -142,7 +142,7 @@ Continuer.<end>
 The $(#man/woman) who brought that beauty into my store was you, valued customer. You revealed to me the most striking thing in the world: Your true shopper's heart! It brings... it brings a tear of joy to my eye. I won't delay it anymore - I'll show you what I have to offer. ::He whispers.:: Just say the words.<end>
 
 =>q23
-$(#L'homme/La femme) qui a apporté cette beauté dans ma boutique, c'était vous, cher client. Vous m'avez révélé la chose la plus frappante au monde : votre vrai cœur d'acheteur ! Ça me monte... ça me monte une larme de joie. Je ne vais plus tarder : je vais vous montrer ce que j'ai. ::Il murmure.:: Dites seulement les mots.<end>
+$(#L'homme/La femme) qui a apporté cette beauté dans ma boutique, c'était vous, $(#cher client/chère cliente). Vous m'avez révélé la chose la plus frappante au monde : votre vrai cœur d'$(#acheteur/acheteuse) ! Ça me monte... ça me monte une larme de joie. Je ne vais plus tarder : je vais vous montrer ce que j'ai. ::Il murmure.:: Dites seulement les mots.<end>
 
 =>a24_original
 I should have known! Forget about it. I'm gone.<end>
@@ -154,7 +154,7 @@ J'aurais dû m'en douter ! Laissez tomber. Je m'en vais.<end>
 Don't forget about my store. You'll regret it, valued customer.<end>
 
 =>q25
-N'oubliez pas ma boutique. Vous le regretterez, cher client.<end>
+N'oubliez pas ma boutique. Vous le regretterez, $(#cher client/chère cliente).<end>
 
 =>a26_original
 You're not the sanest man around here, are you?<end>
@@ -190,7 +190,7 @@ L'affaire de la mine, c'était temporaire, et tout est rentré dans l'ordre. Dan
 You know I'm right, valued customer.<end>
 
 =>q31
-Vous savez que j'ai raison, cher client.<end>
+Vous savez que j'ai raison, $(#cher client/chère cliente).<end>
 
 =>a32_original
 I'll leave now, goodbye.<end>
@@ -274,7 +274,7 @@ Je m'en v--<end>
 Your search ends right here, valued customer.<end>
 
 =>q45
-Votre recherche s'arrête ici, cher client.<end>
+Votre recherche s'arrête ici, $(#cher client/chère cliente).<end>
 
 =>q46_original
 Shop at Bryan Honest and live your life to the fullest.<end>

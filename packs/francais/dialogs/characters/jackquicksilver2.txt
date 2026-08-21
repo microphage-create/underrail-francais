@@ -20,7 +20,7 @@ Je savais qu'on me surveillait. Il me fallait un leurre, le temps de sortir le v
 But it is as I promised: A man was waiting to pay you for the delivery. I never said who the man would be. ::He hands you some credits.::<end>
 
 =>q4
-Mais j'ai tenu parole : un homme attendait pour vous payer la livraison. Je n'ai jamais dit qui. ::Il vous tend des crédits.::<end>
+Mais j'ai tenu parole : un homme attendait pour vous payer la livraison. Je n'ai jamais dit qui. ::Il vous tend des charons.::<end>
 
 =>q5_original
 <end>
@@ -32,7 +32,7 @@ Mais j'ai tenu parole : un homme attendait pour vous payer la livraison. Je n'ai
 Yeah, show me what you have. ::Barter.::<end>
 
 =>a6
-Voir ce que vous avez. ::Troc.::<end>
+Voir ce que vous avez. ::Troquer.::<end>
 
 =>a7_original
 Why did you wait for me if you expected me to die?<end>
@@ -80,7 +80,7 @@ Moi aussi. J'ai le sentiment qu'on se reverra, $(context.player.Name). Je l'esp�
 You used me as a decoy.<end>
 
 =>a14
-Vous vous êtes servi de moi comme leurre.<end>
+Vous vous êtes $(#servi/servie) de moi comme leurre.<end>
 
 =>q15_original
 That I did. <end>
@@ -98,7 +98,7 @@ Vous vouliez acheter quelque chose, avant que je parte ?<end>
 Yeah, show me what you have. ::Barter.::<end>
 
 =>a17
-Voir ce que vous avez. ::Troc.::<end>
+Voir ce que vous avez. ::Troquer.::<end>
 
 =>a18_original
 No, never mind.<end>

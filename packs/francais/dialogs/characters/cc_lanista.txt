@@ -7,7 +7,7 @@ L-Look at me - I'm completely bamboozled! What you did was... amazing! Brutal! H
 =>q1
 Wow, wow, WOW ! Je... ::Il s'arrête.:: Je... sais plus quoi dire. Carnifex ? Quoi ? Quand ? Euh... vous avez tué mon gladiateur préféré ! Je... je...
 
-R-Regardez-moi : je suis complètement sidéré ! Ce que vous avez fait... c'était dingue ! Brutal ! Hardcore ! ::Il s'arrête.:: Et... je vais devoir... devoir m'habituer à vous appeler Invictus, maintenant. Bordel...
+R-Regardez-moi : je suis complètement à l'ouest ! Ce que vous avez fait... c'était dingue ! Brutal ! Hardcore ! ::Il s'arrête.:: Et... je vais devoir... devoir m'habituer à vous appeler Invictus, maintenant. Bordel...
 <end>
 
 =>q2_original
@@ -36,7 +36,7 @@ Vous en voulez encore ? ::Il sourit.:: $(#Un vrai gladiateur/Une vraie gladiatri
 Few are willing to fight the Invictus, and considering you dominated a fair number of the top gladiators in such a short time... You get some rest and enjoy your success for a while. Time for new matches will come, don't worry.<end>
 
 =>q5
-Peu de gens veulent affronter l'Invictus, et vu le tas de gladiateurs du haut de l'affiche que vous avez dominés en si peu de temps... Reposez-vous, profitez un peu. Les nouveaux matchs arriveront, ne vous inquiétez pas.<end>
+Peu de gens veulent affronter l'Invictus, et vu tous ces gladiateurs du haut de l'affiche que vous avez dominés en si peu de temps... Reposez-vous, profitez un peu. Les nouveaux matchs arriveront, inquiétez-vous pas.<end>
 
 =>q6_original
 <end>
@@ -102,7 +102,7 @@ Prochain adversaire... Master Exploder ! C'est votre premier combat en tant que 
 This guy is no halfwit, believe me! Chemical Agent is his name, and if you've seen any of his fights you know only a pile of melted goo remains of his opponents once he's done with them. But, don't let that scare you! You can do this.<end>
 
 =>q16
-Celui-là, c'est pas un demeuré, croyez-moi ! Chemical Agent, c'est son nom, et si vous avez vu un de ses combats, vous savez qu'il ne reste qu'un tas de bouillie fondue une fois qu'il a fini. Mais ne vous laissez pas impressionner ! Vous pouvez le faire.<end>
+Celui-là, c'est pas un demeuré, croyez-moi ! Chemical Agent, c'est son nom, et si vous avez vu un de ses combats, vous savez qu'à la fin, de ses adversaires, il reste plus qu'un tas de bouillie fondue. Mais laissez-vous pas impressionner ! Vous pouvez le faire.<end>
 
 =>a17_original
 ::Start the match.::<end>
@@ -114,13 +114,13 @@ Celui-là, c'est pas un demeuré, croyez-moi ! Chemical Agent, c'est son nom, et
 I have some news for you: The death of Chemical Agent caused some serious ruckus up there - in a positive sense. Everyone keeps talking about you and your dominating matches. You're becoming a big player now - don't forget that!<end>
 
 =>q18
-J'ai des nouvelles : la mort de Chemical Agent a mis un sacré bordel là-haut. Dans le bon sens. Tout le monde parle de vous et de vos matchs de domination. Vous devenez un gros poisson, n'oubliez pas ça !<end>
+J'ai des nouvelles : la mort de Chemical Agent a mis un sacré bordel là-haut, dans le bon sens. Tout le monde parle de vous et de vos matchs, de cette façon que vous avez de tout dominer. Vous devenez un gros poisson, oubliez pas ça !<end>
 
 =>q19_original
 Anyhow, you're up against the Surgeon. Now this guy can be described as, I dunno - a freakin' psychopath! You think the fans are the only bloodthirsty maniacs around here? Think again, $(context.playerArenaTitle)...<end>
 
 =>q19
-Bref, vous affrontez Surgeon. Celui-là, on peut dire, je sais pas... un putain de psychopathe ! Vous croyez que les fans sont les seuls fous de sang ici ? Détrompez-vous, $(context.playerArenaTitle)...<end>
+Bref, vous affrontez Surgeon. Celui-là, on peut dire, je sais pas... un putain de psychopathe ! Vous croyez que les fans sont les seuls assoiffés de sang, ici ? Détrompez-vous, $(context.playerArenaTitle)...<end>
 
 =>a20_original
 ::Start the match.::<end>
@@ -132,7 +132,7 @@ Bref, vous affrontez Surgeon. Celui-là, on peut dire, je sais pas... un putain 
 Hey, you're up against Zap. Now that guy is one nasty zoner, let me tell you that! He just dominated his way through anything with a pulse! If that wasn't enough - he brought a plasma sentry with him and, I dunno - dominated some more! But he's not better than you, so go in there and waste the pipeworker and send his junkbots to the scrapyard.<end>
 
 =>q21
-Hé, vous affrontez Zap. Celui-là, c'est un zoneur vicieux, je vous le dis ! Il a dominé tout ce qui a un pouls ! Et comme si ça suffisait pas : il a amené une sentinelle plasma, et, je sais pas, il a encore dominé ! Mais il n'est pas meilleur que vous. Allez là-dedans, descendez ce tuyauteur, et envoyez ses junkbots à la casse.<end>
+Hé, vous affrontez Zap. Celui-là, c'est un zoneur vicieux, je vous le dis ! Il a tout dominé sur son passage, tout ce qui a un pouls ! Et comme si ça suffisait pas : il a amené une sentinelle plasma, et, je sais pas, il a encore dominé ! Mais il est pas meilleur que vous. Allez là-dedans, descendez ce tuyauteur, et envoyez ses junkbots à la casse.<end>
 
 =>a22_original
 ::Start the match.::<end>
@@ -144,7 +144,7 @@ Hé, vous affrontez Zap. Celui-là, c'est un zoneur vicieux, je vous le dis ! Il
 You're running low on opponents; not many gladiators are willing to stand before you as of late. As a matter of fact, only one gladiator is still willing to fight you, and he's a tough opponent...<end>
 
 =>q23
-Vous commencez à manquer d'adversaires. Plus beaucoup de gladiateurs veulent se tenir en face, ces temps-ci. En fait, il n'en reste qu'un, et c'est un dur...<end>
+Vous commencez à manquer d'adversaires. Plus beaucoup de gladiateurs veulent encore vous affronter, ces temps-ci. En fait, il en reste qu'un, et c'est un dur...<end>
 
 =>q24_original
 The Stygian Exorcist - at the moment second only to Dread Lord, the Invictus. And I'm not gonna lie to you, he's one tough bastard. Good luck!<end>
@@ -180,7 +180,7 @@ Vous aimez les psi beetles ? En fait, je m'en fiche, vous les combattez de toute
 Guess what's next in line for you? No guess? ::He grins.:: Siphoners!<end>
 
 =>q29
-Devinez ce qui vous attend ? Rien ? ::Il sourit.:: Des Siphoners !<end>
+Devinez ce qui vous attend ? Pas d'idée ? ::Il sourit.:: Des Siphoners !<end>
 
 =>a30_original
 ::Start the match.::<end>
@@ -192,7 +192,7 @@ Devinez ce qui vous attend ? Rien ? ::Il sourit.:: Des Siphoners !<end>
 This is gonna be a tough one: you're about to fight some nasty burrowers. I mean, you and two other challengers, as usual. Good luck, hal-- $(context.player.Name). <end>
 
 =>q31
-Ça va être dur : vous allez affronter de vilains burrowers. Vous, et deux autres challengers, comme d'habitude. Bonne chance, dem-- $(context.player.Name). <end>
+Ça va être dur : vous allez affronter de sales burrowers. Vous, et deux autres challengers, comme d'habitude. Bonne chance, dem-- $(context.player.Name). <end>
 
 =>a32_original
 ::Start the match.::<end>
@@ -204,7 +204,7 @@ This is gonna be a tough one: you're about to fight some nasty burrowers. I mean
 Good news! Or bad, I dunno, depends on the perspective. No more beasts for you. You're gonna fight Pulverizer.<end>
 
 =>q33
-Bonne nouvelle ! Ou mauvaise, je sais pas, ça dépend d'où on regarde. Plus de bêtes pour vous. Vous allez affronter Pulverizer.<end>
+Bonne nouvelle ! Ou mauvaise, je sais pas, ça dépend du point de vue. Plus de bêtes pour vous. Vous allez affronter Pulverizer.<end>
 
 =>a34_original
 Who's that?<end>
@@ -222,7 +222,7 @@ C'était un sacré gladiateur, à l'époque. Puis il a commencé à cracher sur 
 He's not a prime time fighter anymore... He has dropped down to fighting halfwits lik-- khm, challengers like you. If you dominate him, you might just put yourself under the spotlight.<end>
 
 =>q36
-Il n'est plus un combattant de prime time... Il est retombé à se battre contre des demeurés comm-- hem, des challengers comme vous. Si vous le dominez, vous pourriez bien vous mettre sous les projecteurs.<end>
+Il n'est plus un combattant de prime time... Il est retombé à se battre contre des demeurés comm-- hem, des challengers comme vous. Si vous le dominez, vous pourriez bien passer sous les projecteurs.<end>
 
 =>a37_original
 ::Start the match.::<end>
@@ -234,7 +234,7 @@ Il n'est plus un combattant de prime time... Il est retombé à se battre contre
 Whoever he is, he's about to get hurt!<end>
 
 =>a38
-Qui qu'il soit, il va avoir mal !<end>
+Qui qu'il soit, il va prendre cher !<end>
 
 =>q39_original
 I like your enthusiasm! Let's get you in there then.<end>
@@ -274,37 +274,37 @@ Je voudrais m'inscrire au Gauntlet.<end>
 Sure, you need to go to a different building though. To get there, go past Hardcore City Bar, then take a turn to the north, then west over a small bridge. I dunno, it's very hard to miss.<end>
 
 =>q44
-Bien sûr. Faut aller dans un autre bâtiment, par contre. Pour y arriver : vous passez devant le Hardcore City Bar, vous tournez au nord, puis à l'ouest, un petit pont. Je sais pas, c'est dur à rater.<end>
+Bien sûr. Faut aller dans un autre bâtiment, par contre. Pour y arriver : vous passez devant le Hardcore City Bar, vous tournez au nord, puis à l'ouest vous traversez un petit pont. Je sais pas, c'est dur à rater.<end>
 
 =>q45_original
 Just don't expect a flashy building; unlike the Arena, the Gauntlet has no live audience so there is no need for anything “grandiose.” The personnel there should recognize you easily, so just find miss Andrea and she'll explain everything to you.<end>
 
 =>q45
-Attendez-vous pas à un bâtiment tape-à-l'œil. Contrairement à l'Arena, le Gauntlet n'a pas de public en salle, donc pas besoin de « grandiose ». Le personnel devrait vous reconnaître sans mal. Trouvez mademoiselle Andrea, elle vous expliquera tout.<end>
+Attendez-vous pas à un bâtiment tape-à-l'œil. Contrairement à l'Arena, le Gauntlet n'a pas de public sur place, donc pas besoin de « grandiose ». Le personnel devrait vous reconnaître sans mal. Trouvez mademoiselle Andrea, elle vous expliquera tout.<end>
 
 =>q46_original
 Sure, I'll contact Andrea and tell her you're coming. You need to go to a different building though. To get there, go past Hardcore City Bar, then take a turn to the north, then west over a small bridge. I dunno, it's very hard to miss.<end>
 
 =>q46
-Bien sûr, je contacte Andrea, je lui dis que vous arrivez. Faut aller dans un autre bâtiment, par contre. Pour y arriver : vous passez devant le Hardcore City Bar, vous tournez au nord, puis à l'ouest, un petit pont. Je sais pas, c'est dur à rater.<end>
+Bien sûr, je contacte Andrea, je lui dis que vous arrivez. Faut aller dans un autre bâtiment, par contre. Pour y arriver : vous passez devant le Hardcore City Bar, vous tournez au nord, puis à l'ouest vous traversez un petit pont. Je sais pas, c'est dur à rater.<end>
 
 =>q47_original
 Don't expect a flashy building; unlike the Arena, the Gauntlet has no live audience so there is no need for anything “grandiose.” Anyway, just talk to miss Andrea there and she will explain everything.<end>
 
 =>q47
-Attendez-vous pas à un bâtiment tape-à-l'œil. Contrairement à l'Arena, le Gauntlet n'a pas de public en salle, donc pas besoin de « grandiose ». Bref, parlez à mademoiselle Andrea, elle expliquera tout.<end>
+Attendez-vous pas à un bâtiment tape-à-l'œil. Contrairement à l'Arena, le Gauntlet n'a pas de public sur place, donc pas besoin de « grandiose ». Bref, parlez à mademoiselle Andrea, elle expliquera tout.<end>
 
 =>q48_original
 Hold on halfwit, you can't just apply to the Gauntlet. It's not like the Arena where anyone can just, I dunno, go in there and fight... and probably die. The Gauntlet is highly challenging; only those who have already proven themselves to be hardcore enough can become runners.<end>
 
 =>q48
-Attendez un peu, $(#demeuré/demeurée). Vous pouvez pas juste vous inscrire au Gauntlet. C'est pas l'Arena, où n'importe qui peut, je sais pas, entrer et se battre... et probablement crever. Le Gauntlet, c'est costaud. Seuls ceux qui ont déjà prouvé qu'ils étaient assez hardcore peuvent devenir runners.<end>
+Pas si vite, $(#demeuré/demeurée). Vous pouvez pas juste vous inscrire au Gauntlet. C'est pas l'Arena, où n'importe qui peut, je sais pas, entrer et se battre... et probablement crever. Le Gauntlet, c'est costaud. Seuls ceux qui ont déjà prouvé qu'ils étaient assez hardcore peuvent devenir coureurs.<end>
 
 =>q49_original
 And you haven't. Yet...<end>
 
 =>q49
-Et vous, pas encore...<end>
+Et vous, vous l'avez pas encore prouvé...<end>
 
 =>a50_original
 I came here to fight.<end>
@@ -328,7 +328,7 @@ $(context.player.Name).<end>
 Good. Now, I dunno... ::He scratches his head.:: unless you've been living in Deep Caverns or something like that, you should be familiar with how the Arena works? Right?<end>
 
 =>q53
-Bien. Alors, je sais pas... ::Il se gratte la tête.:: sauf si vous avez vécu dans les Deep Caverns ou un truc du genre, vous devez savoir comment marche l'Arena ? Non ?<end>
+Bien. Alors, je sais pas... ::Il se gratte la tête.:: sauf si vous avez vécu dans les Deep Caverns ou un truc du genre, vous devez savoir comment marche l'Arena, hein ?<end>
 
 =>a54_original
 Some explaining wouldn't hurt.<end>
@@ -342,7 +342,7 @@ Un peu d'explication ne ferait pas de mal.<end>
 At first you'll be fighting various beasts, and then - if you survive through that - you get to fight other challengers. Next: Once a fight is over, you come to me and receive your reward. Now, if the crowd likes you *and* you manage to survive a couple of matches, you could earn some pretty good money out of this.<end>
 
 =>q55
-::Il soupire.:: C'est simple : une fois inscrit comme challenger, vous entrez et vous vous battez. Soit vous tombez raide, soit vous dominez l'adversaire. La foule peut décider de votre sort si vous vous rendez, ou si vous pouvez plus finir le combat. La plupart du temps, ils vous voudront mort. Ouais.
+::Il soupire.:: C'est simple : une fois inscrit comme challenger, vous entrez et vous vous battez. Soit vous tombez raide mort, soit vous dominez l'adversaire. La foule peut décider de votre sort si vous vous rendez, ou si vous pouvez plus finir le combat. La plupart du temps, ils vous voudront mort. Ouais.
 
 Au début, vous combattez des bêtes. Ensuite, si vous survivez à ça, vous affrontez d'autres challengers. Après un combat, vous venez me voir, vous touchez votre récompense. Si la foule vous aime *et* que vous survivez à quelques matchs, vous pouvez vous faire un sacré paquet de charons.<end>
 
@@ -366,7 +366,7 @@ Anyway, if you can make it to prime time, you get to fight gladiators. If you ki
 =>q58
 ::Il soupire encore plus fort qu'avant.:: Essayez de survivre à au moins quelques matchs, que ça fasse pas une perte de temps totale.
 
-Bref, si vous arrivez en prime time, vous affrontez des gladiateurs. Vous tuez un gladiateur, vous en devenez $(#un/une). C'est pas donné : il faut être $(#bon/bonne), il faut être hardcore, et la foule doit accrocher à votre façon de vous battre. Si vous y arrivez, je sais pas, plus de charons, mais aussi des matchs plus durs. Le titre le plus haut, c'est l'*Invictus*... mais c'est vraiment, vraiment loin.<end>
+Bref, si vous arrivez en prime time, vous affrontez des gladiateurs. Vous tuez un gladiateur, vous devenez $(#gladiateur/gladiatrice). C'est pas donné : il faut être $(#bon/bonne), il faut être hardcore, et la foule doit accrocher à votre façon de vous battre. Si vous y arrivez, je sais pas, plus de charons, mais aussi des matchs plus durs. Le titre le plus haut, c'est l'*Invictus*... mais c'est vraiment, vraiment loin.<end>
 
 =>q59_original
 And that covers the basics. If you understood all that, just sign here. ::He hands you a piece of paper.:: If you don't know how to write your whole name, just put "X" instead.<end>
@@ -436,7 +436,7 @@ Donc, une chose avant le premier match. Signez ici. ::Il vous tend un bout de pa
 Let's skip the talk - and start the fighting!<end>
 
 =>a69
-On zappe le blabla. On se bat.<end>
+Zapper le blabla. Passer au combat.<end>
 
 =>q70_original
 Good, good, good! ::He smiles.:: This is gonna be quick! There is just one thing before you can start your first match: Sign here! ::He hands you a piece of paper.:: If you don't know how to write your whole name, just write "x."<end>
@@ -454,7 +454,7 @@ Vous pouvez me parler de ce docteur, là-bas ?<end>
 Filibert? Well, I dunno, let's see... He's our mortician physician, which means he takes care of the living, as well as the dead. We had some halfwit called... what was it... Fixer, yeah. Junkyarder, I believe. Had a wild stare. He used to work here a couple of years ago; the idiot used to throw folks who were *still* alive down the chute while laughing maniacally!<end>
 
 =>q72
-Filibert ? Eh bien, je sais pas, voyons... C'est notre médecin-légiste. Il s'occupe des vivants, et des morts. On a eu un demeuré qui s'appelait... c'était quoi déjà... Fixer, ouais. Un gars du Junkyard, je crois. Un regard de taré. Il bossait ici il y a quelques années. L'idiot balançait des gens *encore* vivants dans la goulotte, en riant comme un fou !<end>
+Filibert ? Eh bien, je sais pas, voyons... C'est notre toubib-croque-mort. Il s'occupe des vivants, et des morts. On a eu un demeuré qui s'appelait... c'était quoi déjà... Fixer, ouais. Un gars du Junkyard, je crois. Un regard de taré. Il bossait ici il y a quelques années. L'idiot balançait des gens *encore* vivants dans la goulotte, en riant comme un fou !<end>
 
 =>q73_original
 So we kicked that pipeworker out and got Doc Filibert, who does a very good job. And does it with such passion!<end>
@@ -490,13 +490,13 @@ Vous pouvez me dire les bases pour combattre dans l'Arena ?<end>
 It's simple: you go in there and engage in a fight till death. Some challengers and gladiators fight beasts, some fight between themselves. If a challenger defeats a gladiator, he or she earns the title of a gladiator. Nearly all gladiators come up with cool names, because, I dunno, people love seeing Mad Butchers and Deathhammers crushing each other's skulls.<end>
 
 =>q78
-C'est simple : vous entrez, et vous vous battez jusqu'à la mort. Certains challengers et gladiateurs affrontent des bêtes, d'autres se tapent entre eux. Si un challenger bat un gladiateur, il gagne le titre. Presque tous les gladiateurs se trouvent des noms classe, parce que, je sais pas, les gens adorent voir des Mad Butcher et des Deathhammer s'exploser le crâne.<end>
+C'est simple : vous entrez, et vous vous battez jusqu'à la mort. Certains challengers et gladiateurs affrontent des bêtes, d'autres se tapent entre eux. Si un challenger bat un gladiateur, il gagne le titre de gladiateur. Presque tous les gladiateurs se trouvent des noms qui claquent, parce que, je sais pas, les gens adorent voir des Mad Butcher et des Deathhammer s'exploser le crâne.<end>
 
 =>q79_original
 If one is really good, he or she can confront the current Invictus - which is the highest title one can achieve in the Arena - and take the title after Invictus' dead corpse hits the ground. There can be only *one* Invictus, after all. ::He grins.:: Whoever becomes the Invictus - he or she wins at life. Literally! You know what I'm talking about: fame, money - whatever you may desire!<end>
 
 =>q79
-Si on est vraiment bon, on peut affronter l'Invictus en titre, le plus haut titre de l'Arena, et le prendre quand le cadavre de l'Invictus touche le sol. Il n'y en a qu'*un*, après tout. ::Il sourit.:: Celui qui devient l'Invictus a réussi sa vie. Littéralement ! Vous voyez le tableau : la gloire, le fric, tout ce que vous voulez !<end>
+Si on est vraiment bon, on peut affronter l'Invictus en titre, le plus haut titre de l'Arena, et récupérer le titre dès que le cadavre de l'Invictus touche le sol. Il n'y en a qu'*un*, après tout. ::Il sourit.:: Celui qui devient l'Invictus a réussi sa vie. Littéralement ! Vous voyez le tableau : la gloire, le fric, tout ce que vous voulez !<end>
 
 =>a80_original
 How did the Arena come to be?<end>
@@ -510,7 +510,7 @@ Well, I dunno, the story begins some ten or so years ago when this place was in 
 There was no Arena building back then - just hardcore ruins. People gathered to watch those, and even cheered for their favorites! So - you guessed it - someone had an idea to make it commercial and earn some good coin off it!<end>
 
 =>q81
-Eh bien, je sais pas. L'histoire commence il y a une dizaine d'années, quand cet endroit était l'enfer. Vous voyez : après la chute de Biocorp. Les gens se battaient, se dominaient *partout* dans la ville. Les gangs ont tout débordé. Hardcore carnage, c'était le nom du jeu. Puis les choses se sont un peu calées, les forces de sécu ont repris les rues, et pile ici, là où on se tient, les gens se sont tapés dessus pour... je sais pas, des raisons diverses. Encore une fois, tout ça a commencé il y a une dizaine d'années.
+Eh bien, je sais pas. L'histoire commence il y a une dizaine d'années, quand cet endroit était l'enfer. Vous voyez : après la chute de Biocorp. Les gens se battaient, se dominaient *partout* dans la ville. Les gangs ont déferlé. Le jeu, c'était le carnage hardcore. Puis ça s'est un peu calmé, les forces de sécu ont repris le contrôle des rues, et pile ici, là où on se tient, les gens se sont tapés dessus pour... je sais pas, des raisons diverses. Encore une fois, tout ça a commencé il y a une dizaine d'années.
 
 Y avait pas de bâtiment Arena, à l'époque. Juste des ruines hardcore. Les gens se rassemblaient pour regarder, et ils encourageaient même leurs favoris ! Donc, vous l'avez deviné : quelqu'un a eu l'idée d'en faire un commerce, et de se faire des charons là-dessus !<end>
 
@@ -522,7 +522,7 @@ The man responsible for that was Archibald Knight, the majority owner of Arena, 
 =>q82
 L'idée, c'était ça : tout le monde règle ses comptes en combat, et si vous voulez regarder, vous payez ! Les gens voulaient tellement voir du sang que ça a cartonné tout de suite !
 
-L'homme derrière ça, c'était Archibald Knight, proprio majoritaire de l'Arena, chef de Praetorian Security, *et* un des oligarques. Ouais... dans les années qui ont suivi, avec l'aide de Coretech et de JKK, l'Arena a été modernisée, diffusée dans tout Underrail, et elle ramène tellement de charons dans cette ville que ça ferait tourner la tête jusqu'à la faire tomber. ::Il rit.::<end>
+L'homme derrière ça, c'était Archibald Knight, proprio majoritaire de l'Arena, chef de Praetorian Security, *et* un des oligarques. Ouais... dans les années qui ont suivi, avec l'aide de Coretech et de JKK, l'Arena a été modernisée, diffusée dans tout Underrail, et elle ramène tellement de charons dans cette ville que ça vous ferait tourner la tête... jusqu'à la faire tomber. ::Il rit.::<end>
 
 =>q83_original
 And just recently, less than a year ago, the Gauntlet was built. And the people fell in love with it instantly! That's it - short history of our Arena. ::He laughs.:: Hardcore, isn't it?<end>
@@ -540,13 +540,13 @@ Vous pouvez me parler de Carnifex ?<end>
 Oh - he's the most hardcore gladiator ever! With over two hundred victories, he holds the highest kill count of all gladiators! This living-legend became Invictus about three years ago, and defeated all who dared challenge his title since then. He was loved so much for his skill, showmanship and brutality that even after his retirement he is still considered *the* Invictus by the public.<end>
 
 =>q85
-Oh, c'est le gladiateur le plus hardcore de tous les temps ! Plus de deux cents victoires, le plus gros compteur de kills de tous les gladiateurs ! Cette légende vivante est devenue Invictus il y a environ trois ans, et elle a battu tous ceux qui ont osé défier le titre depuis. On l'aimait tellement pour son talent, son show et sa brutalité que même à la retraite, le public le voit encore comme *l'*Invictus.<end>
+Oh, c'est le gladiateur le plus hardcore de tous les temps ! Plus de deux cents victoires, le plus gros compteur de kills de tous les gladiateurs ! Légende vivante : il est devenu Invictus il y a environ trois ans, et il a battu tous ceux qui ont osé défier le titre depuis. On l'aimait tellement pour son talent, son sens du spectacle et sa brutalité que même à la retraite, le public le voit encore comme *l'*Invictus.<end>
 
 =>q86_original
 ::He leans closer to you.:: I have nearly all ArenaNow broadcasts of his fights, even some extra rare videos. I dunno, I just like seeing that man dominate. So much... domination.<end>
 
 =>q86
-::Il se penche vers vous.:: J'ai presque toutes les diffusions ArenaNow de ses combats, même des vidéos extra rares. Je sais pas, j'aime juste voir cet homme dominer. Tellement... de domination.<end>
+::Il se penche vers vous.:: J'ai presque toutes les diffusions ArenaNow de ses combats, même des vidéos ultra rares. Je sais pas, j'aime juste voir cet homme dominer. Tellement... de domination.<end>
 
 =>a87_original
 What happens if I defeat everyone?<end>
@@ -558,7 +558,7 @@ Et si je bats tout le monde ?<end>
 Well, you can't defeat "everyone"! There will always be new beasts, challengers and gladiators dominating each other in the Arena.<end>
 
 =>q88
-Vous pouvez pas battre « tout le monde » ! Il y aura toujours de nouvelles bêtes, des challengers et des gladiateurs qui se dominent dans l'Arena.<end>
+Vous pouvez pas battre « tout le monde » ! Il y aura toujours de nouvelles bêtes, des challengers et des gladiateurs qui se dominent les uns les autres dans l'Arena.<end>
 
 =>q89_original
 That's just the way it is - and no one is complaining. ::He laughs.::<end>
@@ -594,19 +594,19 @@ Vous pouvez me parler du Gauntlet ?<end>
 The Gauntlet was built, I dunno, less than a year ago... ten months maybe. The Oligarchy needed something fresh - something exciting. And oh, did they come up with something: with the help of Coretech they devised a huge and complex elevator system which transports Gauntlet runners to randomly chosen rooms, each of which contains various challenges for them to complete.<end>
 
 =>q94
-Le Gauntlet a été construit, je sais pas, il y a moins d'un an... dix mois, peut-être. L'oligarchie voulait du frais, du piquant. Et oh, ils ont trouvé : avec l'aide de Coretech, ils ont pondu un énorme système d'ascenseurs qui envoie les runners du Gauntlet dans des salles tirées au hasard, chacune avec des épreuves à finir.<end>
+Le Gauntlet a été construit, je sais pas, il y a moins d'un an... dix mois, peut-être. L'oligarchie voulait du frais, du piquant. Et oh, ils ont trouvé : avec l'aide de Coretech, ils ont concocté un énorme système d'ascenseurs qui envoie les coureurs du Gauntlet dans des salles tirées au hasard, chacune avec des épreuves à finir.<end>
 
 =>q95_original
 Just like in Arena, it's all till death. Only the runner that completes the Gauntlet first gets to live. I mean, who would wanna have it any other way? Eh?<end>
 
 =>q95
-Comme à l'Arena, c'est jusqu'à la mort. Seul le runner qui finit le Gauntlet en premier reste en vie. Qui voudrait que ce soit autrement, hein ?<end>
+Comme à l'Arena, c'est jusqu'à la mort. Seul le coureur qui finit le Gauntlet en premier reste en vie. Qui voudrait que ce soit autrement, hein ?<end>
 
 =>a96_original
 Let's discuss something else.<end>
 
 =>a96
-Parlons d'autre chose.<end>
+Parler d'autre chose.<end>
 
 =>q97_original
 ::He nods.::<end>
@@ -630,7 +630,7 @@ See you later.<end>
 Thank you, Lanista. I appreciate it. What happens now?<end>
 
 =>a100
-Merci, Lanista. J'apprécie. Et maintenant ?<end>
+Merci, Lanista. C'est gentil. Et maintenant ?<end>
 
 =>q101_original
 Well, I can try to arrange some fights for you. But, there is nothing available at the moment.<end>
@@ -654,7 +654,7 @@ Vous devriez vous reposer. Je pense pas pouvoir vous arranger d'autres matchs po
 You should get some rest while I set up the match.<end>
 
 =>q104
-Vous devriez vous reposer pendant que je monte le match.<end>
+Vous devriez vous reposer pendant que je cale le match.<end>
 
 =>q105_original
 Good, good, good, $(context.playerArenaTitle)! You are now one step away from becoming the Invictus! This is the reward for this match. ::Hands you 800 stygian coins.::<end>
@@ -676,7 +676,7 @@ Venez me voir plus tard.<end>
 Ran out of batteries! ::He laughs.:: Damn it Jerry, you sure have a good sense of humor, hah. As for you, $(context.playerArenaTitle), that was hardcore - but that was to be expected from you. Still, take some advice from me: don't let all these victories go to your head; no one is invincible, got it? ::He hands you 700 stygian coins.::<end>
 
 =>q107
-Plus de batteries ! ::Il rit.:: Bon sang Jerry, t'as un sacré sens de l'humour, ha. Quant à vous, $(context.playerArenaTitle), c'était hardcore. Mais on s'attendait à ça, venant de vous. Quand même, un conseil : laissez pas toutes ces victoires vous monter à la tête. Personne n'est invincible, compris ? ::Il vous tend 700 charons.::<end>
+Plus de batteries ! ::Il rit.:: Bon sang Jerry, t'as un sacré sens de l'humour, ha ha. Quant à vous, $(context.playerArenaTitle), c'était hardcore. Mais on s'attendait à ça, venant de vous. Quand même, un conseil : laissez pas toutes ces victoires vous monter à la tête. Personne n'est invincible, compris ? ::Il vous tend 700 charons.::<end>
 
 =>q108_original
 Wow! I'm not even gonna say anything. Just... take this. ::He hands you 600 stygian coins.::<end>
@@ -692,13 +692,13 @@ Oh, one important thing: I talked to some people and, long story short, I think 
 =>q109
 Vous devenez vraiment $(#bon/bonne) à ça ! Chemical Agent et ses chiots sont restés invaincus jusqu'à ce que vous débarquiez et les dominiez. ::Il vous tend 500 charons.::
 
-Oh, une chose importante : j'ai parlé à des gens et, pour faire court, je pense que vous feriez un malheur au Gauntlet. Si ça vous dit de devenir runner, parlez-m'en.<end>
+Oh, une chose importante : j'ai parlé à des gens et, pour faire court, je pense que vous feriez un malheur au Gauntlet. Si ça vous dit de devenir coureur, parlez-m'en.<end>
 
 =>q110_original
 ::He laughs.:: Good, good, good! I guess you weren't blown away by Master Exploder! ::He continues laughing.:: You know the drill; take this. ::He gives you 400 stygian coins.::<end>
 
 =>q110
-::Il rit.:: Bien, bien, bien ! Je suppose que Master Exploder ne vous a pas soufflé ! ::Il continue de rire.:: Vous connaissez la musique, prenez. ::Il vous tend 400 charons.::<end>
+::Il rit.:: Bien, bien, bien ! Master Exploder vous a pas soufflé, on dirait ! ::Il continue de rire.:: Vous connaissez la musique, prenez. ::Il vous tend 400 charons.::<end>
 
 =>q111_original
 You halfwit! ::He laughs.:: I can't believe it, you sure know how to entertain the crowd! They all yelled $(context.playerArenaTitle)! Do you know how rare it is for a challenger to be so loved by the audience during $(#his/her) first fight with a gladiator? Do you?<end>
@@ -716,7 +716,7 @@ Je m'en fiche, c'était génial !<end>
 Listen to me carefully: you gotta keep this thing going. You're a gladiator now, the crowd loves you, and don't you dare pull out now when you've got the heads rolling. Do you hear me, halfwit?<end>
 
 =>q113
-Écoutez-moi bien : faut que ça continue. Vous êtes $(#gladiateur/gladiatrice), maintenant, la foule vous adore, et vous allez pas vous retirer pile au moment où les têtes roulent. Vous m'entendez, $(#demeuré/demeurée) ?<end>
+Écoutez-moi bien : faut que ça continue. Vous êtes $(#gladiateur/gladiatrice), maintenant, la foule vous adore, et vous allez pas vous défiler maintenant que les têtes commencent à tomber. Vous m'entendez, $(#demeuré/demeurée) ?<end>
 
 =>q114_original
 Some people would kill to get to the place where... um... yeah... ::Laughs.:: Here's your money. And it's gonna get better and better from now on. ::Hands you 300 stygian coins.::<end>
@@ -764,7 +764,7 @@ C'était un putain de combat ! Beau boulot, $(context.player.Name). Accrochez-vo
 ::He makes a dramatic pause.:: You're gonna be a prime time challenger! Not a gladiator yet, you gotta defeat one to earn that title. But this is big anyway! And to think I almost threw away that application form you signed!<end>
 
 =>q121
-::Il fait une pause dramatique.:: Vous allez passer challenger de prime time ! Pas encore $(#gladiateur/gladiatrice), faut en battre un pour le titre. Mais c'est déjà énorme ! Et dire que j'ai failli jeter le formulaire que vous avez signé !<end>
+::Il fait une pause dramatique.:: Vous passez challenger de prime time ! Pas encore $(#gladiateur/gladiatrice), faut en battre un pour le titre. Mais c'est déjà énorme ! Et dire que j'ai failli jeter le formulaire que vous avez signé !<end>
 
 =>q122_original
 Now, I'm gonna schedule your first prime time match. You come back later and get ready for some real domination!<end>
@@ -778,7 +778,7 @@ Je vais caler votre premier match de prime time. Vous revenez plus tard, et vous
 Oh, I forgot your reward! Why didn't you say something? ::Hands you 200 stygian coins.:: There, now get some rest and see you later.<end>
 
 =>q123
-::Il vous dévisage quelques secondes, l'air perdu, comme s'il se demandait pourquoi vous ne partiez pas. Puis il lève les sourcils, l'idée lui arrive.::
+::Il vous fixe quelques secondes, l'air perdu, comme s'il se demandait pourquoi vous ne partiez pas. Puis il lève les sourcils : il a pigé.::
 
 Oh, j'ai oublié votre récompense ! Pourquoi vous avez rien dit ? ::Il vous tend 200 charons.:: Voilà. Reposez-vous, et à plus tard.<end>
 
@@ -792,13 +792,13 @@ Félicitations, la plupart des challengers arrivent pas jusque-là. Les demeuré
 I'm starting to like you... you're turning out better than I originally thought. I apologize if I ever called you a halfwit! Here's some coins, as usual. ::He gives you 100 stygian coins.::<end>
 
 =>q125
-Je commence à vous aimer... vous sortez mieux que ce que je pensais. Désolé si je vous ai jamais $(#traité de demeuré/traitée de demeurée) ! Voilà des charons, comme d'habitude. ::Il vous tend 100 charons.::<end>
+Je commence à vous aimer bien... vous vous débrouillez mieux que ce que je pensais. Désolé si je vous ai jamais $(#traité de demeuré/traitée de demeurée) ! Voilà des charons, comme d'habitude. ::Il vous tend 100 charons.::<end>
 
 =>q126_original
 Listen, $(context.player.Name), that wasn't bad at all! Here's your reward. ::He gives you 75 stygian coins.:: You still have your limbs attached, which is always good. ::He laughs.::<end>
 
 =>q126
-Écoutez, $(context.player.Name), c'était pas mal du tout ! Voilà votre récompense. ::Il vous tend 75 charons.:: Vous avez encore vos membres accrochés, c'est toujours ça. ::Il rit.::<end>
+Écoutez, $(context.player.Name), c'était pas mal du tout ! Voilà votre récompense. ::Il vous tend 75 charons.:: Vous avez encore tous vos membres, c'est déjà ça. ::Il rit.::<end>
 
 =>q127_original
 Good, good, good. You survived; you're not such a halfwit after all. Here's your reward. ::He gives you 50 stygian coins.:: 
@@ -844,7 +844,7 @@ J'en suis sûr...<end>
 Here comes another one... Hey there, welcome to the Arena. Are you lost or are you here to fight?<end>
 
 =>q132
-::Votre approche transforme le visage anguleux de l'homme en une expression terne, encore appuyée par le long soupir qui suit. Le costaud se lève mollement de derrière son bureau et vous salue avec un enthousiasme déjà annoncé par les premières secondes. Même ses premiers mots, après deux bonnes secondes à se gratter la barbe, ont l'air de sortir du lit et de trébucher en chemin. Dès la deuxième phrase, pourtant, la voix se pose, ample, articulée, à la mesure du bonhomme.::
+::Quand vous approchez, le visage anguleux de l'homme se fige dans une expression terne, encore appuyée par le long soupir qui suit. Le costaud se lève mollement de derrière son bureau et vous salue avec exactement l'enthousiasme que les premières secondes laissaient déjà voir. Même ses premiers mots, après deux bonnes secondes à se gratter la barbe, ont l'air de sortir du lit et de trébucher en chemin. Dès la deuxième phrase, pourtant, la voix se pose, ample, articulée, à la mesure du bonhomme.::
 
 En voilà $(#un autre/une autre)... Hé, bienvenue à l'Arena. Vous êtes $(#perdu/perdue), ou vous êtes là pour vous battre ?<end>
 

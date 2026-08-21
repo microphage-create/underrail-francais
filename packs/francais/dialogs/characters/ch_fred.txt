@@ -6,7 +6,7 @@ Hello traveler, and welcome to Camp Hathor. My name is Fred, and I've got medica
 =>q1
 ::L'homme face à vous porte une chemise simple et un sourire tout aussi simple. Rien d'extraordinaire, sauf peut-être cette pilosité de bras, comme transplantée d'un gros rathound.::
 
-Salut voyageur, et bienvenue à Camp Hathor. Moi c'est Fred, j'ai du matos médical à vendre. T'as besoin de quelque chose ?<end>
+Salut, $(#voyageur/voyageuse), et bienvenue à Camp Hathor. Moi c'est Fred, j'ai du matos médical à vendre. T'as besoin de quelque chose ?<end>
 
 =>q2_original
 <end>
@@ -18,7 +18,7 @@ Salut voyageur, et bienvenue à Camp Hathor. Moi c'est Fred, j'ai du matos médi
 Show me what you have for sale. ::Barter.::<end>
 
 =>a3
-Voir tes marchandises. ::Troc.::<end>
+Voir tes marchandises. ::Troquer.::<end>
 
 =>a4_original
 What can you tell me about Camp Hathor?<end>
@@ -64,13 +64,13 @@ Mais tu te bats ! T'es un mindshroom costaud, et tu vas finir par trouver la tan
 I'm ready for the joke.<end>
 
 =>a10
-Je suis prêt pour la blague.<end>
+Je suis $(#prêt/prête) pour la blague.<end>
 
 =>q11_original
 Great. Here goes: A rathound walks into a bar. ::He pauses briefly, appearing as if he's going to explode from laughter.:: Oh, it walks in... and the barkeeper shoots it! ::And then he erupts, startling everyone in the vicinity. It takes but a moment before tears begin rolling down his face - a shroomberry on the cake of visceral amusement.:: You dig? Because no one likes those dirty rathounds. That's why he shot it. You dig?<end>
 
 =>q11
-Génial. Ça donne : Un rathound entre dans un bar. ::Il s'arrête un instant, on dirait qu'il va exploser de rire.:: Oh, il entre... et le tavernier lui tire dessus ! ::Et là il explose, faisant sursauter tout le monde autour. En une seconde les larmes lui coulent sur le visage - une shroomberry sur le gâteau de l'hilarité viscérale.:: Tu piges ? Parce que personne n'aime ces sales rathounds. C'est pour ça qu'il a tiré. Tu piges ?<end>
+Génial. Ça donne : Un rathound entre dans un bar. ::Il s'arrête un instant, on dirait qu'il va exploser de rire.:: Oh, il entre... et le barman lui tire dessus ! ::Et là il explose, faisant sursauter tout le monde autour. En une seconde les larmes lui coulent sur le visage - une shroomberry sur le gâteau de l'hilarité viscérale.:: Tu piges ? Parce que personne n'aime ces sales rathounds. C'est pour ça qu'il a tiré. Tu piges ?<end>
 
 =>a12_original
 That joke is so bad it made me depressed.<end>
@@ -94,7 +94,7 @@ Ooh, j'avais des antidépresseurs hier, mais j'ai plus rien. Je peux t'offrir au
 Thanks, $(#man/sister). I worked hard on that one. Took me a while. Whooh. One day I'm gonna make a joke so funny the earth's gona crack... up! ::He laughs.::<end>
 
 =>q15
-Merci, $(#gars/sœurette). J'ai trimé sur celle-là. Ça m'a pris un moment. Whooh. Un jour je vais pondre une blague tellement drôle que la terre va se fendre... de rire ! ::Il rit.::<end>
+Merci, $(#gars/sœurette). J'ai trimé sur celle-là. Ça m'a pris un moment. Ouah. Un jour je vais pondre une blague tellement drôle que la terre va se fendre... de rire ! ::Il rit.::<end>
 
 =>a16_original
 Yes. Funny. Yes. Now, I'd like to talk to you about something else.<end>
@@ -166,7 +166,7 @@ Calme-toi. Qu'est-ce qui te prend ?<end>
 ::Fred starts laughting.:: Relax, $(# man/sister), I'm messing with ya. I won't hurt you. Of course we're not brothers.<end>
 
 =>q27
-::Fred se met à rire.:: Relax, $(#gars/sœurette), je déconne. Je te ferai pas de mal. Bien sûr qu'on est pas frères.<end>
+::Fred se met à rire.:: Tranquille, $(#gars/sœurette), je déconne. Je te ferai pas de mal. Bien sûr qu'on est pas frères.<end>
 
 =>a28_original
 Please don't kill me!<end>
@@ -214,7 +214,7 @@ J'ai rien d'autre à dire. Vraiment.<end>
 With that caveman *and* the burrowers gone, we're going to have a much easier time around here, you dig. It's gonna be easier to sleep at night when you don't have to worry about rathounds killing your fellow Hathorians.<end>
 
 =>q35
-Avec ce troglodyte *et* les Burrowers partis, on va avoir la vie beaucoup plus facile ici, tu piges. Ça va être plus simple de dormir la nuit sans se demander si des rathounds sont en train de buter tes copains d'Hathor.<end>
+Avec ce troglodyte *et* les fouisseurs partis, on va avoir la vie beaucoup plus facile ici, tu piges. Ça va être plus simple de dormir la nuit sans se demander si des rathounds sont en train de buter tes copains d'Hathor.<end>
 
 =>q36_original
 ::After a pause, his eyes focus on the right side of your face.:: Is that a cut on your cheek? Need a bandage and some painkillers for that?<end>

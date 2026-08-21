@@ -24,7 +24,7 @@ Je vois que t'as trouvé le chemin de ma petite boutique. Blaine. T'es là pour 
 Let me see what you got for sale. ::Barter.::<end>
 
 =>a4
-Montre-moi ce que t'as à vendre. ::Troc.::<end>
+Montre-moi ce que t'as à vendre. ::Troquer.::<end>
 
 =>q5_original
 One thing first: <end>
@@ -48,7 +48,7 @@ La prochaine fois que tu viens à ma boutique, tu sonnes deux coups courts, un l
 I dig. ::Barter.::<end>
 
 =>a8
-Pigé. ::Troc.::<end>
+Pigé. ::Troquer.::<end>
 
 =>a9_original
 ::Nod and barter.::<end>
@@ -78,7 +78,7 @@ Pigé.<end>
 Let me see what you got for sale. ::Barter.::<end>
 
 =>a13
-Montre-moi ce que t'as à vendre. ::Troc.::<end>
+Montre-moi ce que t'as à vendre. ::Troquer.::<end>
 
 =>a14_original
 Why do you keep a shop down here? Do you even get any customers?<end>
@@ -126,7 +126,7 @@ Un peu de tout... du matos pas facile à trouver, pour une raison ou une autre. 
 Then show me what you've got. ::Barter.::<end>
 
 =>a21
-Alors montre-moi ce que t'as. ::Troc.::<end>
+Alors montre-moi ce que t'as. ::Troquer.::<end>
 
 =>q22_original
 That's not for your eyes, $(#jack/sister).<end>
@@ -150,7 +150,7 @@ Aucune raison...<end>
 Actually, I came here to ask you a question about the Old Junkyard.<end>
 
 =>a25
-En fait, je suis venu te poser une question sur Old Junkyard.<end>
+En fait, je suis $(#venu/venue) te poser une question sur Old Junkyard.<end>
 
 =>q26_original
 Is that so? I don't deal in information usually. That business is messy. Besides, there are others who do that kind of thing much better.<end>
@@ -470,7 +470,7 @@ Ouais, y a vraiment des gens prêts à payer pour ta sale gueule. Va comprendre.
 No, I was just curious.<end>
 
 =>a77
-Non, j'étais juste curieux.<end>
+Non, j'étais juste $(#curieux/curieuse).<end>
 
 =>q78_original
 Good.<end>
@@ -626,13 +626,13 @@ J'ai du nouveau matos qui pourrait t'intéresser, $(#gars/sœurette).<end>
 Interesting. Let's see what you got. ::Barter.::<end>
 
 =>a103
-Intéressant. Voyons ce que t'as. ::Troc.::<end>
+Intéressant. Voyons ce que t'as. ::Troquer.::<end>
 
 =>a104_original
 I came here to ask you a few questions, actually.<end>
 
 =>a104
-En fait, je suis venu te poser quelques questions.<end>
+En fait, je suis $(#venu/venue) te poser quelques questions.<end>
 
 =>q105_original
 Ask.<end>

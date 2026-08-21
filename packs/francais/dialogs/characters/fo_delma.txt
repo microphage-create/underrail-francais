@@ -20,7 +20,7 @@ Oh, aren't you $(context.player.Name)? It is a pleasure to finally meet you. I'm
 Whatever it is you need, I will do my best to help you.<end>
 
 =>q3
-Oh, c'est vous, $(context.player.Name) ? C'est un plaisir de vous rencontrer enfin. Je suis Delma Ward, la WARDienne de la prison de Foundry. J'en profite pour dire qu'on est tous très reconnaissants pour ce que vous avez fait. Nous débarrasser de ces créatures de pierre, tout ça.
+Oh, c'est vous, $(context.player.Name) ? C'est un plaisir de vous rencontrer enfin. Je suis Delma Ward, la directrice de la prison de Foundry. J'en profite pour dire qu'on est tous très reconnaissants de ce que vous avez fait : nous débarrasser de ces créatures de pierre, tout ça.
 
 Pour tout ce dont vous aurez besoin, je ferai de mon mieux.<end>
 
@@ -102,7 +102,7 @@ Allez. Après tout ce que j'ai fait pour Foundry, vous vous méfiez ? J'aurais p
 Never mind, can you repeat the question you asked me a moment ago?<end>
 
 =>q16
-::Votre réponse provoque un long silence.:: Euh, désolée. Je ne sais pas ce qui m'a pris, $(#amigo/chica). Ça m'a semblé...
+::Votre réponse provoque un long silence.:: Euh, désolée. Je ne sais pas ce qui m'a pris, $(#gars/fille). Ça m'a semblé...
 
 Laissez tomber. Vous pouvez répéter la question que vous m'avez posée à l'instant ?<end>
 
@@ -212,7 +212,7 @@ J'ai changé d'avis. Je dois d'abord faire quelque chose.<end>
 As you wish $(#amigo/chica).<end>
 
 =>q34
-Comme vous voulez, $(#amigo/chica).<end>
+Comme vous voulez, $(#gars/fille).<end>
 
 =>q35_original
 I'm sorry, but you've already talked to him. I can't allow more visits for the time being.<end>
@@ -236,7 +236,7 @@ Que pouvez-vous me dire sur cet endroit ?<end>
 You mean Foundry? Well, I don't know, $(#amigo/chica), I'm a prison warden, and most of the time I'm making sure murderers, thieves and other criminals stay locked up or do their community service. It's always the bad side of Foundry I see and deal with on a daily basis.<end>
 
 =>q38
-Vous voulez dire Foundry ? Je ne sais pas, $(#amigo/chica). Je suis directrice de prison. La plupart du temps, je m'assure que les meurtriers, les voleurs et les autres restent enfermés, ou qu'ils fassent leurs travaux d'intérêt général. C'est toujours le mauvais côté de Foundry que je vois, et que je gère, tous les jours.<end>
+Vous voulez dire Foundry ? Je ne sais pas, $(#gars/fille). Je suis directrice de prison. La plupart du temps, je m'assure que les meurtriers, les voleurs et les autres restent enfermés, ou qu'ils fassent leurs travaux d'intérêt général. C'est toujours le mauvais côté de Foundry que je vois, et que je gère, tous les jours.<end>
 
 =>q39_original
 On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there, especially now with the infestation of some very, very aggressive creatures. That's life in Foundry from their perspective. 
@@ -246,7 +246,7 @@ Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The
 =>q39
 D'un autre côté, si vous posez la même question aux mineurs, ils vous parleront des blessures et des morts dans la mine, des dangers du métier, surtout maintenant, avec cette infestation de créatures très, très agressives. C'est la vie à Foundry, vue de leur côté.
 
-Bon sang, ça sonnait morose. ::Elle sourit.:: Il y a du positif aussi. La mine rapporte beaucoup d'argent et de marchandises, et Foundry est un des endroits les plus sûrs du sud d'Underrail, grâce à la Garde Foundry. Donc il y a du bon, aussi.<end>
+Bon sang, ça faisait morose. ::Elle sourit.:: Il y a du positif aussi. La mine rapporte beaucoup d'argent et de marchandises, et Foundry est un des endroits les plus sûrs du sud d'Underrail, grâce à la Garde Foundry. Donc il y a du bon, aussi.<end>
 
 =>q40_original
 On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
@@ -256,7 +256,7 @@ Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The
 =>q40
 D'un autre côté, si vous posez la même question aux mineurs, ils vous parleront des blessures et des morts dans la mine, des dangers du métier. C'est la vie à Foundry, vue de leur côté.
 
-Bon sang, ça sonnait morose. ::Elle sourit.:: Il y a du positif aussi. La mine rapporte beaucoup d'argent et de marchandises, et Foundry est un des endroits les plus sûrs du sud d'Underrail, grâce à la Garde Foundry. Donc il y a du bon, aussi.<end>
+Bon sang, ça faisait morose. ::Elle sourit.:: Il y a du positif aussi. La mine rapporte beaucoup d'argent et de marchandises, et Foundry est un des endroits les plus sûrs du sud d'Underrail, grâce à la Garde Foundry. Donc il y a du bon, aussi.<end>
 
 =>a41_original
 I see you like growing flowers.<end>
@@ -280,13 +280,13 @@ Elles sont magnifiques. Les fleurs sont déjà rares, alors des comme ça...<end
 Thank you very much! I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
 
 =>q44
-Merci beaucoup. J'aime beaucoup avoir des fleurs au bureau, $(#amigo/chica). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
+Merci beaucoup. J'aime beaucoup avoir des fleurs au bureau, $(#gars/fille). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
 
 =>q45_original
 And during that time, while I'm relaxing in my office, all is well! Then, someone brings in a guy who killed his brother with a jackhammer. A signal it's time to get back to work! I swear, people just get more and more violent these days.<end>
 
 =>q45
-Et pendant ce temps, pendant que je me détends dans mon bureau, tout va bien. Puis on amène un type qui a tué son frère au marteau-piqueur. Signal : retour au travail. Je vous jure, les gens n'arrêtent pas de devenir plus violents.<end>
+Et pendant ce temps, pendant que je me détends dans mon bureau, tout va bien. Puis on amène un type qui a tué son frère au marteau-piqueur. Signal : retour au travail. Je vous jure, les gens sont de plus en plus violents.<end>
 
 =>a46_original
 They are okay, I suppose.<end>
@@ -298,7 +298,7 @@ Elles sont correctes, je suppose.<end>
 Well, I really like them. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
 
 =>q47
-Moi, je les aime vraiment. J'aime beaucoup avoir des fleurs au bureau, $(#amigo/chica). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
+Moi, je les aime vraiment. J'aime beaucoup avoir des fleurs au bureau, $(#gars/fille). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
 
 =>a48_original
 Nah, I hate flowers myself. Thankfully, there aren't many of those around.<end>
@@ -310,7 +310,7 @@ Non, moi je déteste les fleurs. Heureusement, il n'y en a pas beaucoup par ici.
 Ah, well, I'm very sorry to hear that. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
 
 =>q49
-Ah. Je suis désolée de l'entendre. J'aime beaucoup avoir des fleurs au bureau, $(#amigo/chica). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
+Ah. Je suis désolée de l'entendre. J'aime beaucoup avoir des fleurs au bureau, $(#gars/fille). Quand j'ai besoin de souffler, je m'assieds et je les regarde. Toute leur beauté. J'aime ces couleurs qu'on ne voit plus autour de nous. Je les observe en silence, rien d'autre. Mes œuvres ! ::Un sourire lui échappe un instant.::<end>
 
 =>q50_original
 You should try it! Get yourself a plant if you can, water it, watch it grow and blossom. Trust me, there is something... magical about it. It's, it's hard to explain.<end>
@@ -334,13 +334,13 @@ Euh, la Garde Foundry est en alerte maximale à cause de ces choses. Apparemment
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
 
 =>q53
-Mon conseil, $(#amigo/chica) : évitez la mine, et restez près des gens armés jusqu'à ce que ça se calme. On a signalé des meurtres violents dans le quartier résidentiel, et même si on sait maintenant qu'une partie, c'était Evelyn Ingram, quand même... certaines créatures pourraient se faufiler. Les yeux ouverts, compris ? <end>
+Mon conseil, $(#gars/fille) : évitez la mine, et restez près des gens armés jusqu'à ce que ça se calme. On a signalé des meurtres violents dans le quartier résidentiel, et même si on sait maintenant qu'une partie, c'était Evelyn Ingram, quand même... certaines créatures pourraient se faufiler. Les yeux ouverts, compris ? <end>
 
 =>q54_original
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
 
 =>q54
-Mon conseil, $(#amigo/chica) : évitez la mine, et restez près des gens armés jusqu'à ce que ça se calme. On a signalé des meurtres violents dans le quartier résidentiel, et les créatures pourraient en être responsables. Les yeux ouverts, compris ? <end>
+Mon conseil, $(#gars/fille) : évitez la mine, et restez près des gens armés jusqu'à ce que ça se calme. On a signalé des meurtres violents dans le quartier résidentiel, et les créatures pourraient en être responsables. Les yeux ouverts, compris ? <end>
 
 =>a55_original
 How do you feel now that the mine has been reopened?<end>
@@ -352,7 +352,7 @@ Comment vous sentez-vous, maintenant que la mine a rouvert ?<end>
 Foundry is back on its feet, alive and kicking. We got rid of the Beast, with your help of course, $(#amigo/chica). ::She laughs.::<end>
 
 =>q56
-Foundry est debout à nouveau, bien vivant. On s'est débarrassés de la Bête, avec votre aide, bien sûr, $(#amigo/chica). ::Elle rit.::<end>
+Foundry est debout à nouveau, bien vivant. On s'est débarrassés de la Bête, avec votre aide, bien sûr, $(#gars/fille). ::Elle rit.::<end>
 
 =>q57_original
 We still have to deal with the pollution and an increase in violent crimes, though. It's one step at a time, I suppose.<end>
@@ -378,7 +378,7 @@ Foundry prides itself with being a station of justice; all prisoners go through 
 Those who end up here usually do community service, which includes mining and other types of work.<end>
 
 =>q60
-Foundry s'enorgueillit d'être une station de justice. Tous les prisonniers ont droit à un vrai procès, ce qui est rare aujourd'hui, $(#amigo/chica). D'habitude, c'est : « T'as l'air coupable... BANG ! Au suivant. » Triste, mais vrai.
+Foundry s'enorgueillit d'être une station de justice. Tous les prisonniers ont droit à un vrai procès, ce qui est rare aujourd'hui, $(#gars/fille). D'habitude, c'est : « T'as l'air coupable... BANG ! Au suivant. » Triste, mais vrai.
 
 Ceux qui finissent ici font en général des travaux d'intérêt général. La mine, et d'autres boulots.<end>
 
@@ -394,7 +394,7 @@ Sure I can, $(#amigo/chica). All prisoners are required to perform community ser
 All is well, we never have problems with prisoners outside of the prison. They know they couldn't outsmart and escape the Foundry Guard anyway, so no one even bothered trying.<end>
 
 =>q62
-Bien sûr, $(#amigo/chica). Tous les détenus doivent faire des travaux d'intérêt général. Foundry tourne autour de la mine, alors tous ceux qui tiennent le coup physiquement y vont. C'est comme un vrai boulot, sauf qu'on est moins payé... en fait on n'est pas payé du tout. Ceux qui ne peuvent pas descendre, on leur trouve autre chose. Ça dépend de ce qu'ils savaient faire, de leur forme, le reste.
+Bien sûr, $(#gars/fille). Tous les détenus doivent faire des travaux d'intérêt général. Foundry tourne autour de la mine, alors tous ceux qui tiennent le coup physiquement y vont. C'est comme un vrai boulot, sauf qu'on est moins payé... en fait on n'est pas payé du tout. Ceux qui ne peuvent pas descendre, on leur trouve autre chose. Ça dépend de ce qu'ils savaient faire, de leur forme, le reste.
 
 Tout va bien. On n'a jamais de problèmes avec les prisonniers dehors. Ils savent qu'ils ne rouleraient pas la Garde Foundry, alors personne n'a même essayé.<end>
 
@@ -482,7 +482,7 @@ That's none of your business, woman.<end>
 Who are you?<end>
 
 =>q76
-::Elle fronce les sourcils.:: Vous êtes dans ma prison, $(#amigo/chica). Si je demande votre nom, vous me répondez correctement, pas avec une vanne. On recommence. D'accord ?
+::Elle fronce les sourcils.:: Vous êtes dans ma prison, $(#gars/fille). Si je demande votre nom, vous me répondez correctement, pas avec une vanne. On recommence. D'accord ?
 
 Qui êtes-vous ?<end>
 
@@ -518,7 +518,7 @@ C'est fini. Sortez de mon bureau, ou vous allez vous attirer de vrais ennuis.<en
 $(#Amigo/Chica), good to see you.<end>
 
 =>q81
-$(#Amigo/Chica), contente de vous voir.<end>
+$(#Gars/Fille), contente de vous voir.<end>
 
 =>q82_original
 Yes? What can I do to help you?<end>

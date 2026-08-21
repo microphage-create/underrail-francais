@@ -44,16 +44,16 @@ Tire rapidement {0} balles à précision réduite. Attaque spéciale incondition
 Tire rapidement {0} balles à précision réduite.
 
 ::BurrowerPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison de burrower ({0} dégâts par tour, jusqu'à {1} tours). Stack {2} fois.
+Si l'attaque traverse l'armure : poison de burrower ({0} dégâts par tour, jusqu'à {1} tours). S'empile {2} fois.
 
 ::BurrowerPoisonItemEffect_Cap
-Applique {0} de poison de burrower sur une arme de mêlée adaptée : {1} dégâts par tour, jusqu'à {2} tours. Stack {3} fois.
+Applique {0} de poison de burrower sur une arme de mêlée adaptée : {1} dégâts par tour, jusqu'à {2} tours. S'empile {3} fois.
 
 ::ShootPoisonBolt
 Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours.
 
 ::ShootPoisonBoltStackable
-Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours. Stack {3} fois.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0} qui inflige {1} dégâts par tour, jusqu'à {2} tours. S'empile {3} fois.
 
 ::CaveEarPoisonItemEffect_Applied
 Si l'attaque traverse l'armure : poison d'oreille des caves (+{0}% dégâts biologiques subis, -{1} Perception, jusqu'à {2}).
@@ -74,40 +74,40 @@ Applique {0} de poison d'esprit sur une arme de mêlée adaptée : {1} dégâts 
 Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}, -{2}% sang-froid). S'il n'est pas retiré avant expiration, invoque un doppelgänger psionique de la victime si humanoïde.
 
 ::BlackDragonPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison dragon noir (inhibition psionique : pas d'invocation psi ni de regen psi pendant {0}).
+Si l'attaque traverse l'armure : poison dragon noir (inhibition psionique : pas d'invocation psi ni de régén. psi pendant {0}).
 
 ::BlackDragonPoisonItemEffect_Cap
-Applique {0} de poison dragon noir sur une arme de mêlée adaptée : inhibition psionique (pas d'invocation psi ni de regen psi pendant {1}).
+Applique {0} de poison dragon noir sur une arme de mêlée adaptée : inhibition psionique (pas d'invocation psi ni de régén. psi pendant {1}).
 
 ::ShootBlackDragonPoisonBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + poison (inhibition psionique : pas d'invocation psi ni de regen psi). Durée {0}.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison (inhibition psionique : pas d'invocation psi ni de régén. psi). Durée {0}.
 
 ::BlindingPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison aveuglant ({0} dégâts par tour jusqu'à {1}, -{2} Perception). Stack {3} fois.
+Si l'attaque traverse l'armure : poison aveuglant ({0} dégâts par tour jusqu'à {1}, -{2} Perception). S'empile {3} fois.
 
 ::BlindingPoisonItemEffect_Cap
-Applique {0} de poison aveuglant sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, -{3} Perception. Stack {4} fois.
+Applique {0} de poison aveuglant sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, -{3} Perception. S'empile {4} fois.
 
 ::ShootBlindingPoisonBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, -{2} Perception). Stack {3} fois.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, -{2} Perception). S'empile {3} fois.
 
 ::LeperPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison de lépreux ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
+Si l'attaque traverse l'armure : poison de lépreux ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). S'empile {3} fois.
 
 ::LeperPoisonItemEffect_Cap
-Applique {0} de poison de lépreux sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, +{3}% dégâts mécaniques subis. Stack {4} fois.
+Applique {0} de poison de lépreux sur une arme de mêlée adaptée : {1} dégâts par tour jusqu'à {2}, +{3}% dégâts mécaniques subis. S'empile {4} fois.
 
 ::ShootLeperPoisonBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). Stack {3} fois.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour jusqu'à {1}, +{2}% dégâts mécaniques subis). S'empile {3} fois.
 
 ::HeartbreakPoisonItemEffect_Applied
-Si l'attaque traverse l'armure : poison Heartbreak ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+Si l'attaque traverse l'armure : poison Heartbreak ({0} dégâts par tour pendant {1}). S'empile {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les cumuls.
 
 ::HeartbreakPoisonItemEffect_Cap
-Applique {0} de poison Heartbreak sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. Stack {3} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+Applique {0} de poison Heartbreak sur une arme de mêlée adaptée : {1} dégâts par tour pendant {2}. S'empile {3} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les cumuls.
 
 ::ShootHeartbreakPoisonBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). Stack {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les stacks.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + poison ({0} dégâts par tour pendant {1}). S'empile {2} fois. S'il expire naturellement, inflige d'énormes dégâts qui montent très vite avec les cumuls.
 
 ::CrawlerPoisonItemEffect_Applied
 Si l'attaque traverse l'armure : poison de crawler ({0} dégâts par tour pendant {1}). S'il n'est pas retiré avant expiration, étourdissement pendant {2}.
@@ -136,10 +136,10 @@ Enflammer une cible vivante la met en panique extrême.
 Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}.
 
 ::ShootCorrosiveAcidBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, debuff Corrodé (-{1}% toutes résistances et seuils pendant {2}). Stack {3} fois.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, effet Corrodé (-{1}% toutes résistances et seuils pendant {2}). S'empile {3} fois.
 
 ::ShootRustingAcidBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, debuff Rouille (-{1} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {2}). Stack {3} fois. +{4}% dégâts d'acide contre véhicules et machines.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, effet Rouille (-{1} durabilité de tous les objets mécaniques de la cible par cumul, chaque tour pendant {2}). S'empile {3} fois. +{4}% dégâts d'acide contre véhicules et machines.
 
 ::ShootSerratedBolt
 Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie saignante ({0}% des dégâts d'origine sur {1}). Plus faible contre l'armure : +{2}% du seuil mécanique de la cible.
@@ -148,7 +148,7 @@ Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie sai
 Tire ce carreau d'arbalète : dégâts d'arme normaux. Cible vivante : plaie saignante ({0}% des dégâts d'origine sur {1}). Plus faible contre l'armure : +{2}% du seuil mécanique de la cible.
 
 ::ShootVoidBolt
-Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, applique {2} stacks de Pourriture du vide ({1} dégâts d'énergie par stack). Stack {2} fois.
+Tire ce carreau d'arbalète : dégâts de carreau normaux + {0}, applique {2} cumuls de Pourriture du vide ({1} dégâts d'énergie par cumul). S'empile {2} fois.
 
 ::Execute
 Attaque spéciale à courte portée au pistolet : {0}% dégâts d'arme contre cibles étourdies ou incapacitées.
@@ -164,7 +164,7 @@ Attaque spéciale à la barre à mine dans le dos : ignore résistances et boucl
 Tu dois être caché de la cible en furtif, ou elle doit être incapacitée. Humanoïdes uniquement.
 
 ::ChuckAttack
-Roundhouse kick puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
+Coup circulaire puissant : {0}% dégâts à mains nues, chance de casser des côtes (humains) : -{1} PA pendant {2}.
 
 ::Pummel
 Attaque spéciale à la masse : {0}% dégâts d'arme, n'ignore pas le seuil de dégâts, met les cibles vivantes hors d'équilibre pendant {1} si elle touche.
@@ -183,7 +183,7 @@ Peu importe l'arme équipée.
 Attaque spéciale au bouclier anti-émeute : {0} dégâts si touche + étourdissement pendant {1}.
 
 ::CripplingStrike
-Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Strength si ça traverse l'armure. Durée {2}. Stack {3} fois.
+Attaque mains nues, arme de poings ou couteau : {0}% dégâts et -{1} Strength si ça traverse l'armure. Durée {2}. S'empile {3} fois.
 
 Cibles vivantes uniquement.
 
@@ -215,17 +215,17 @@ Attaque spéciale inconditionnelle : tire les deux cartouches d'un coup sur la c
 Attaque spéciale à la lance : crit auto si elle touche.
 
 ::Flurry
-Lance {0} attaques d'épée consécutives. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+Lance {0} attaques d'épée consécutives. Chaque attaque -{1} PA aux prochaines activations de Flurry (s'empile {2} fois) jusqu'à la fin du tour suivant.
 
 Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
 
 ::Flurry-Old
-Lance {0} attaques d'épée consécutives à précision réduite. Chaque attaque -{1} PA aux prochaines activations de Flurry (stack {2} fois) jusqu'à la fin du tour suivant.
+Lance {0} attaques d'épée consécutives à précision réduite. Chaque attaque -{1} PA aux prochaines activations de Flurry (s'empile {2} fois) jusqu'à la fin du tour suivant.
 
 Si une attaque rate ou ne fait aucun dégât, la rafale s'arrête, passe en recharge {3} et le malus de coût est retiré.
 
 ::Decapitate
-Attaque spéciale à l'épée : {0}% des dégâts d'arme. Kill instantané d'une cible vivante si plus de {1}% des PV restants (tête exposée requise).
+Attaque spéciale à l'épée : {0}% des dégâts d'arme. Tue instantanément une cible vivante si plus de {1}% des PV restants (tête exposée requise).
 
 ::DecapitateCritModIncreased
 Taux de crit de cette attaque +{0}%.

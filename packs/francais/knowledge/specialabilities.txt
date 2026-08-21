@@ -28,7 +28,7 @@ Une fois caché de quelqu'un, il lui faut un jet de Perception pour te détecter
 ::LocusOfControl
 Active : retire et immunise contre l'étourdissement, la peur, l'incapacité et le contrôle mental pendant {0}.
 
-Pendant l'effet, tout pouvoir Thought Control peut être lancé en AoE, ce qui termine l'effet.
+Pendant l'effet, tout pouvoir Thought Control peut être lancé en zone, ce qui termine l'effet.
 
 ::Premeditation-Old
 Active : prochain pouvoir psi gratuit en psi et +{0} portée.
@@ -67,9 +67,9 @@ Active : tes PV repassent temporairement au max pendant {0}. À la fin, PV = 1.
 Projette {0} blobs d'acide sur la cible ({1} dégâts par blob) et laisse des flaques d'acide au sol.
 
 ::AcidSpray_Rusting
-Projette {0} blobs d'acide rouillant sur la cible ({1} dégâts + 1 stack Rusting par blob) et laisse des flaques d'acide au sol.
+Projette {0} blobs d'acide rouillant sur la cible ({1} dégâts + 1 cumul de Rouille par blob) et laisse des flaques d'acide au sol.
 
-Rusting : -{2} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {3}. Stack {4} fois.
+Rouille : -{2} durabilité de tous les objets mécaniques de la cible par cumul, chaque tour pendant {3}. S'empile {4} fois.
 
 +{5}% dégâts d'acide rouillant contre véhicules et machines.
 
@@ -77,9 +77,9 @@ Rusting : -{2} durabilité de tous les objets mécaniques de la cible par stack,
 Crache un gros blob d'acide sur la cible : {0} dégâts et enchevêtrement acide pendant {1} si ça touche. En enchevêtrement : +{2} dégâts d'acide par tour.
 
 ::AcidBlobAttack_Rusting
-Crache un gros blob d'acide rouillant : {0} dégâts, enchevêtrement pendant {1} et debuff Rusting si ça touche. En enchevêtrement : +{2} dégâts d'acide et +{3} stacks Rusting par tour.
+Crache un gros blob d'acide rouillant : {0} dégâts, enchevêtrement pendant {1} et effet Rouille si ça touche. En enchevêtrement : +{2} dégâts d'acide et +{3} cumuls de Rouille par tour.
 
-Rusting : -{4} durabilité de tous les objets mécaniques de la cible par stack, chaque tour pendant {5}. Stack {6} fois.
+Rouille : -{4} durabilité de tous les objets mécaniques de la cible par cumul, chaque tour pendant {5}. S'empile {6} fois.
 
 +{7}% dégâts d'acide rouillant contre véhicules et machines.
 
@@ -105,7 +105,7 @@ Consomme instantanément {0} énergie du véhicule : +{1}% vitesse et PM, +{2}% 
 Place le doigt sur l'autre détente du fusil à pompe double canon, prêt à tirer l'autre cartouche en premier.
 
 ::Fend
-Gagne immédiatement l'effet Spear Guard, qui bloque {0}% de dégâts en plus (lance et compétence actuelles : {1}).
+Gagne immédiatement l'effet Garde à la lance, qui bloque {0}% de dégâts en plus (lance et compétence actuelles : {1}).
 
 ::ThrowSpear
 Lance la lance sur la cible : {0}% + {1}% par case de distance des dégâts d'arme normaux. Précision = Throwing.

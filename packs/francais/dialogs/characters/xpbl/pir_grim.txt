@@ -1392,7 +1392,7 @@ Un groupe de raid est en route. Les Jetters ont les crocs pour le butin. On veut
 ::[Persuade]:: I can secure a ferry all on my own. If you'd be willing to give me a chance to prove it, you'll be amazed by my performance, I guarantee it.<end>
 
 =>a222
-::[Persuade]:: Je peux sécuriser un ferry tout seul. Si tu me donnes ma chance de le prouver, tu seras étonné, je te le garantis.<end>
+::[Persuade]:: Je peux sécuriser un ferry tout seul. Si tu me donnes ma chance de le prouver, tu seras $(#étonné/étonnée), je te le garantis.<end>
 
 =>q223_original
 ::He ponders for a moment, rubbing his beard, then responds.::
@@ -3330,7 +3330,7 @@ J'en ai marre de ces conneries - les tiennes et les leurs. Je passe solo ! ::Att
 ::End Dialog.::<end>
 
 =>a534
-::Fin du dialogue.::<end>
+::Terminer.::<end>
 
 =>q535_original
 <end>
@@ -3777,7 +3777,7 @@ Everyone was involved in this raid, Razor: From plannin', to collectin' data, se
 Tout le monde a participé à ce raid, Razor : du plan, à la collecte d'infos, au montage, jusqu'à l'exécution.<end>
 
 =>q605_original
-$(#Messieurs/Mesdames et messieurs), <end>
+$(#Gentlemen/Ladies and gentlemen), <end>
 
 =>q605
 $(#Messieurs/Mesdames), <end>
@@ -4050,7 +4050,7 @@ Voilà la situation, $(context.player.Name) : un navire Protectorate, l'UPCSS Ar
 It ain't only loads of weapons an' ammo, mate, but energy shields, hi-tech energy weaponry - could be even a couple of Dreadnoughts.<end>
 
 =>q650
-C'est pas que des armes et des munitions, mate, mais des boucliers énergétiques, de l'armement high-tech - peut-être même deux-trois Dreadnoughts.<end>
+C'est pas que des armes et des munitions, gars, mais des boucliers énergétiques, de l'armement de pointe - peut-être même deux-trois Dreadnoughts.<end>
 
 =>a651_original
 I drove a Dreadnought once during my service. Amazing machines.<end>
@@ -4204,7 +4204,7 @@ Oui, Cap'n.<end>
 The lootin' waters will be yours, mate.<end>
 
 =>q675
-Les eaux du pillage seront à toi, mate.<end>
+Les eaux du pillage seront à toi, gars.<end>
 
 =>a676_original
 Challenge.<end>
@@ -4318,7 +4318,7 @@ On sait quelque chose des défenses du navire ?<end>
 Expect the usual, mate: turrets, armed Cans, maybe Dreadnoughts.<end>
 
 =>q694
-Attends-toi à l'habitude, mate : tourelles, Cans armés, peut-être des Dreadnoughts.<end>
+Attends-toi à l'habitude, gars : tourelles, Cans armés, peut-être des Dreadnoughts.<end>
 
 =>q695_original
 Bring a few extra emp grenades. I know I will.<end>

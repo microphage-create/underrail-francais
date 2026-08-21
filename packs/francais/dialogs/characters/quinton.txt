@@ -16,7 +16,7 @@ I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<en
 =>q2
 ::Bientôt il revient, un vrai sourire au visage, débordant d'excitation. Il ne perd pas une seconde.::
 
-Me revoilà, $(context.player.Name). J'espère que vous ne vous êtes pas endormi en m'attendant.<end>
+Me revoilà, $(context.player.Name). J'espère que vous ne vous êtes pas $(#endormi/endormie) en m'attendant.<end>
 
 =>a3_original
 You seem happy. I hope you've got something good for me.<end>
@@ -76,7 +76,7 @@ Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so h
 Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
 
 =>q11
-Eh bien, pour le psi en général, Ezra est le meilleur expert de SGS, donc c'est à lui qu'il faut amener cette bestiole, hm. S'il ne peut pas vous aider... vous serez coincé.
+Eh bien, pour le psi en général, Ezra est le meilleur expert de SGS, donc c'est à lui qu'il faut amener cette bestiole, hm. S'il ne peut pas vous aider... vous serez $(#coincé/coincée).
 
 Bon, voilà... ::Il vous tend la caisse.:: Tenez. Petite chose captivante, celle-là. Et fougueuse.<end>
 
@@ -136,13 +136,13 @@ Bien sûr.<end>
 ::Barter.::<end>
 
 =>a20
-::Troc.::<end>
+::Troquer.::<end>
 
 =>a21_original
 Let's trade. ::Barter.::<end>
 
 =>a21
-Troquer. ::Troc.::<end>
+Troquer.<end>
 
 =>a22_original
 Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>

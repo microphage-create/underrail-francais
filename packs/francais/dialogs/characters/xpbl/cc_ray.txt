@@ -10,7 +10,7 @@
 That should not be there. We was, um... Gib and I were fixin' one of 'em two-oh-eights for a client of ours. Field repairs. Just got back to the shop, so sorry 'bout my appearance. So, ya here for a jet? Parts? Repairs?<end>
 
 =>q2
-::Une clé à molette huileuse trône sur le bureau, un vieux chiffon taché pour seule séparation. Vous la voyez, il le voit. Une seconde plus tard, elle disparaît dans une de ses poches profondes, enroulée dans le chiffon.::
+::Une clé à molette huileuse trône sur le bureau, un vieux chiffon taché pour seule séparation. Vous la voyez, il la voit. Une seconde plus tard, elle disparaît dans une de ses poches profondes, enroulée dans le chiffon.::
 
 Ça devrait pas être là. On était... euh... Gib et moi, on réparait un de ces 208 pour un client. Réparations sur le terrain. On rentre tout juste à l'atelier, désolé pour la tenue. Alors, t'es là pour un jet ? Des pièces ? Des réparations ?<end>
 
@@ -100,13 +100,13 @@ Jamais eu, jamais monté.<end>
 So - a jet virgin. Pardon the expression. ::He laughs.:: That's o-kay, $(context.npc_cc_ray_playerName).<end>
 
 =>q16
-Alors, une vierge du jet. Excuse l'expression. ::Il rit.:: C'est O-kay, $(context.npc_cc_ray_playerName).<end>
+Alors, vierge des jets. Excuse l'expression. ::Il rit.:: C'est O-kay, $(context.npc_cc_ray_playerName).<end>
 
 =>q17_original
 We got lots of different jets, $(context.npc_cc_ray_playerName). The only question is whatcha need and how much coin ya got. If yer lookin' for somethin' cheaper, somethin' to getcha from point A to point B, we offer a variety of junk jets at yer disposal. If ya, however, wanna get from point A to point B mighty fast, maybe dominate some asshats along the way, or return to haulin' lots of loot - or just cruise around with style, then maybe ya oughta take a look at somethin' a bit better.<end>
 
 =>q17
-On a plein de jets différents, $(context.npc_cc_ray_playerName). La seule question, c'est de quoi t'as besoin et combien t'as de charons. Si tu cherches un truc pas cher, juste pour aller du A au B, on a toute une gamme de junk jets. Si tu veux filer du A au B à fond, peut-être dominer quelques abrutis en route, ou revenir à trimballer un max de loot - ou juste cruiser avec du style, alors jette un œil à quelque chose de mieux.<end>
+On a plein de jets différents, $(context.npc_cc_ray_playerName). La seule question, c'est de quoi t'as besoin et combien t'as de charons. Si tu cherches un truc pas cher, juste pour aller d'un point A à un point B, on a toute une gamme de junk jets. Si tu veux filer d'un point A à un point B à fond, peut-être dominer quelques abrutis en route, ou revenir à trimballer un max de loot - ou juste te la jouer avec du style, alors jette un œil à quelque chose de mieux.<end>
 
 =>a18_original
 I was thinking of something a bit cheaper.<end>
@@ -130,7 +130,7 @@ On va te trouver un truc bien, t'inquiète.<end>
 Show me the good stuff. I'm not a zoner.<end>
 
 =>a21
-Montre-moi le bon matériel. Je suis pas un zoneur.<end>
+Montrer le bon matériel. Je suis pas un zoneur.<end>
 
 =>q22_original
 Ha-ha, that's what I like to hear. <end>
@@ -154,13 +154,13 @@ Hardcore, hardcore. T'as de l'expérience, alors. C'est bien, $(context.npc_cc_r
 I'm currently using some piece of junk, more like jetsam than jet, but now I'm itching to get the real deal.<end>
 
 =>a25
-Je roule un tas de ferraille, plus du jetsam qu'un jet, mais là j'ai trop envie du vrai truc.<end>
+Je roule un tas de ferraille, plus de l'épave que du jet, mais là j'ai trop envie du vrai truc.<end>
 
 =>q26_original
 That is the rite of passage we must all take, $(context.npc_cc_ray_playerName). And it ain't just the coin, nah, ya can't just hop into a beast straight away, right? Ye'll dominate yerself if ya ain't got the experience. Can't deny that.<end>
 
 =>q26
-C'est le rite de passage, on y passe tous, $(context.npc_cc_ray_playerName). Et c'est pas juste les charons, nan, tu peux pas te jeter dans une bête comme ça d'un coup, hein ? Tu vas te dominer toi-même si t'as pas l'expérience. Ça, j'peux pas le nier.<end>
+C'est le rite de passage, on y passe tous, $(context.npc_cc_ray_playerName). Et c'est pas juste les charons, nan, tu peux pas te jeter dans une bête comme ça d'un coup, hein ? Tu vas te faire dominer tout seul si t'as pas l'expérience. Ça, j'peux pas le nier.<end>
 
 =>q27_original
 <end>
@@ -190,13 +190,13 @@ parlons réparations. <end>
 Unless ya've suffered a breakdown, and by that I mean a malfunction which either prevents yer jet from operatin' at all, or impedes it so much ya can't drive it no more, there's no need for me to be takin' yer hard-earned coins for repairs ya could do on yer own.<end>
 
 =>q31
-Sauf si t'as une vraie panne, je veux dire un truc qui empêche le jet de marcher du tout, ou qui le handicape tellement que tu peux plus le conduire, y a pas de raison que je te prenne tes charons durement gagnés pour des réparations que tu pourrais faire toi-même.<end>
+Sauf si t'as une vraie panne, je veux dire un truc qui empêche le jet de marcher du tout, ou qui le handicape tellement que tu peux plus le conduire, y a pas de raison que je te prenne tes charons durs à choper pour des réparations que tu pourrais faire toi-même.<end>
 
 =>q32_original
 Instead, I could just sell ya one of our vehicle repair kits. They're cheap and so simple to use it is said if ya threw it in the water to them slackjaw fishes, they'd pick it right up and start fixin' stuff. ::He laughs.:: They can be used to perform all kinds of repairs on pretty much any type of vehicle under the stalactites, be it a jet, quad... heck, maybe even a powered frame like the Protectorate Dreadnought, I dunno. Ya just follow the instructions and yer hardcore.<end>
 
 =>q32
-Je pourrais juste te vendre un de nos kits de réparation de véhicule. Ils sont pas chers, et si simples à utiliser qu'on dit que si tu le jetais à l'eau aux slackjaws, ils le ramasseraient et se mettraient à réparer des trucs. ::Il rit.:: Ça marche pour à peu près n'importe quel véhicule sous les stalactites : jet, quad... heck, peut-être même un châssis motorisé comme le Dreadnought du Protectorate, j'en sais rien. Tu suis les instructions, et t'es hardcore.<end>
+Je pourrais juste te vendre un de nos kits de réparation de véhicule. Ils sont pas chers, et si simples à utiliser qu'on dit que si tu le jetais à l'eau aux slackjaws, ils le ramasseraient et se mettraient à réparer des trucs. ::Il rit.:: Ça marche pour à peu près n'importe quel véhicule sous les stalactites : jet, quad... putain, peut-être même un châssis motorisé comme le Dreadnought du Protectorate, j'en sais rien. Tu suis les instructions, et t'es hardcore.<end>
 
 =>a33_original
 In that case, I'd like to purchase a few repair kits.<end>
@@ -310,7 +310,7 @@ Il est à toi pour $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscoun
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a51
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q52_original
 <end>
@@ -386,7 +386,7 @@ Désolé, mais je peux pas. J'aimerais, j'aimerais vraiment, mais tu sais commen
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a63
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q64_original
 <end>
@@ -476,7 +476,7 @@ Pas la peine de se presser, $(context.npc_cc_ray_playerName). On achète pas un 
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a78
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q79_original
 <end>
@@ -542,7 +542,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a89
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q90_original
 <end>
@@ -608,7 +608,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a100
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q101_original
 <end>
@@ -674,7 +674,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a111
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q112_original
 <end>
@@ -740,7 +740,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a122
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q123_original
 <end>
@@ -806,7 +806,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) stygian coins.::<end>
 
 =>a133
-Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) charons.::<end>
 
 =>q134_original
 <end>
@@ -1004,7 +1004,7 @@ Il est à toi pour 600.<end>
 Deal. Here's the money. ::Give him 600 stygian coins.::<end>
 
 =>a166
-Marché conclu. Voilà l'argent. ::Lui donner 600 pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner 600 charons.::<end>
 
 =>q167_original
 <end>
@@ -1052,7 +1052,7 @@ Désolé, trop bas. Même pour un jet comme ça.<end>
 Deal. Here's the money. ::Give him 1100 stygian coins.::<end>
 
 =>a174
-Marché conclu. Voilà l'argent. ::Lui donner 1100 pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner 1100 charons.::<end>
 
 =>q175_original
 <end>
@@ -1094,7 +1094,7 @@ En fait, c'était l'autre.<end>
 Deal. Here's the money. ::Give him 2700 stygian coins.::<end>
 
 =>a181
-Marché conclu. Voilà l'argent. ::Lui donner 2700 pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner 2700 charons.::<end>
 
 =>q182_original
 <end>
@@ -1142,7 +1142,7 @@ Ben...<end>
 Deal. Here's the money. ::Give him 3200 stygian coins.::<end>
 
 =>a189
-Marché conclu. Voilà l'argent. ::Lui donner 3200 pièces stygiennes.::<end>
+Marché conclu. Voilà l'argent. ::Lui donner 3200 charons.::<end>
 
 =>q190_original
 <end>
@@ -1238,7 +1238,7 @@ Fallait y réfléchir avant de me le vendre.<end>
 Tell me about the Torpedo.<end>
 
 =>a205
-Parle-moi du Torpedo.<end>
+Parler du Torpedo.<end>
 
 =>q206_original
 Speed. That's all there is to the Torpedo - speed. It's one of the finest examples of Hexagon engineering. It's twice as fast as a normal jet, twice as light, comes equipped with XG Turbopower 999 electric turbochargers which brings ya from naught to hardcore in the time it takes ya to press that sweet "turbo" button. It got two engines, baby, and almost no weight. This jet, this very jet, is *the* fastest jet in South Underrail. Let me repeat that: The *fastest* jet in South Underrail. Can't deny that.<end>
@@ -1262,13 +1262,13 @@ La vitesse, si c'est tout ce qui compte : prends le Torpedo.<end>
 Tell me about the Blazer.<end>
 
 =>a209
-Parle-moi du Blazer.<end>
+Parler du Blazer.<end>
 
 =>q210_original
 This baby's a speeder. It's fast, light, reliable, has turbo - and it looks freakin' hardcore. My dad always used to tell me: "Son, if it got flames on it, it's badass." And so far he's been right. This is one *mean* machine, and it ain't a production machine. It's unique, one of a kind. Custom-built by skilled hands and a racer's heart.<end>
 
 =>q210
-Celui-là, c'est un speeder. Rapide, léger, fiable, turbo - et ça a une gueule hardcore. Mon père me disait toujours : « Fils, s'il y a des flammes dessus, c'est badass. » Jusqu'ici, il avait raison. C'est une *sale* machine, et c'est pas de la série. Unique, un seul exemplaire. Fait main par des doigts qui savent et un cœur de coureur.<end>
+Celui-là, c'est un bolide. Rapide, léger, fiable, turbo - et ça a une gueule hardcore. Mon père me disait toujours : « Fils, s'il y a des flammes dessus, ça déchire. » Jusqu'ici, il avait raison. C'est une *sale* machine, et c'est pas de la série. Unique, un seul exemplaire. Fait main par des doigts qui savent et un cœur de coureur.<end>
 
 =>q211_original
 Didja know, back in the golden days of jet racin', before pirates started infestin' the waters and Protectorate started stickin' their nose everywhere, Mike Burnwater, the most hardcore jet racer that ever was used to dominate these waters. No one could touch him. He died, sadly, when his steerin' crapped out on him durin' a race around the Core Ring against the Great Jetso, his arch-nemesis, and he hit a wall and died in the explosion. This jet, the Blazer, was his brother's spare jet, but Mike himself did its flamin' paintjob.<end>
@@ -1286,7 +1286,7 @@ C'est pas qu'une machine - ce bébé a une âme. Ça, j'peux pas le nier.<end>
 Tell me about the Phaser.<end>
 
 =>a213
-Parle-moi du Phaser.<end>
+Parler du Phaser.<end>
 
 =>q214_original
 Another marvel from Hexagon. Even folks who don't like Hexagon aesthetics appreciate Phaser's mesmerizin' brilliance. There's somethin' hardcore about seein' a stream of lights shoot past ya in the dark, and that's what Phaser does best - movin' fast and lookin' stylish. Bein' the second-fastest jet I can offer ya, I think it's clear that this thing has a light frame, lotsa power and an electric turbocharger. Ya engage that and off ya go blindin' unsuspectin' folks.<end>
@@ -1298,13 +1298,13 @@ Encore une merveille Hexagon. Même ceux qui aiment pas l'esthétique Hexagon ki
 If ya want style and speed, this is the jet for ya. However, this ain't the jet ya wanna be bangin' about South Underrail. Most of the frame's been made from X1-class thermoplastic which reduces weight but makes the jet a lot less resistant to damage.<end>
 
 =>q215
-Si tu veux du style et de la vitesse, c'est le jet qu'il te faut. Par contre, c'est pas le jet pour te taper South Underrail. Le châssis est surtout en thermoplastique classe X1 : ça allège, mais le jet encaisse beaucoup moins.<end>
+Si tu veux du style et de la vitesse, c'est le jet qu'il te faut. Par contre, c'est pas le jet pour te frotter à South Underrail. Le châssis est surtout en thermoplastique classe X1 : ça allège, mais le jet encaisse beaucoup moins.<end>
 
 =>a216_original
 Tell me about the Shark.<end>
 
 =>a216
-Parle-moi du Shark.<end>
+Parler du Shark.<end>
 
 =>q217_original
 The Shark is a jet with probably the oddest backstory I have in my shop. It's a custom-made jet that belonged to this vigilante from Junkyard, Gizzy McGold, who used to go huntin' for pirates before the Black Eels started suppressin' them. Stories say 'is wife had been zoned out by the pirates, which is why he went derailed and started killin' 'em.<end>
@@ -1316,7 +1316,7 @@ Le Shark, c'est probablement le jet avec l'histoire la plus cheloue de l'atelier
 From what I know, it started out as yer typical junk jet, maybe an old SL model frame, but he put some decent armor on it, installed this triple rocket launcher - which uses Harp-1 rockets, and I got them for sale - good components... and then he went huntin'. Its speed is o-kay, but whatcha really want it for is its good armor and dominatin' firepower.<end>
 
 =>q218
-D'après ce que je sais, ça a commencé comme un junk jet tout ce y a de plus classique, un vieux châssis SL peut-être, mais il a mis une armure correcte, un lance-roquettes triple - qui prend des Harp-1, et j'en vends - de bons composants... et puis il est parti à la chasse. La vitesse est O-kay, mais ce que tu veux vraiment, c'est l'armure et la puissance de feu qui domine.<end>
+D'après ce que je sais, ça a commencé comme un junk jet tout c'qu'y a de plus classique, un vieux châssis SL peut-être, mais il a mis une armure correcte, un lance-roquettes triple - qui prend des Harp-1, et j'en vends - de bons composants... et puis il est parti à la chasse. La vitesse est O-kay, mais ce que tu veux vraiment, c'est l'armure et la puissance de feu qui domine.<end>
 
 =>q219_original
 Gizzy got zoned out a long time ago - not by pirates but by some teenage thug at The Rig - after which his jet went from hand to hand before it reached me.<end>
@@ -1328,13 +1328,13 @@ Gizzy s'est fait zoner il y a longtemps - pas par des pirates, par un voyou ado 
 Tell me about the Glow.<end>
 
 =>a220
-Parle-moi du Glow.<end>
+Parler du Glow.<end>
 
 =>q221_original
 If Blazer's been made to speed in style, Glow's been made to zone out in style. Its whole frame has been made, or more specifically "additively manufactured," from the high-quality X3 thermoplastic which offers great durability and - due to the advantages of basically printin' a vehicle - a uniquely hardcore appearance. And o-kay speed, considerin' the weight of the frame.<end>
 
 =>q221
-Si le Blazer a été fait pour filer avec style, le Glow a été fait pour zoner avec style. Tout le châssis est fabriqué - plus précisément « en fabrication additive » - en thermoplastique X3 de haute qualité : une durabilité costaud et, grâce aux avantages d'imprimer un véhicule, une gueule unique, hardcore. Et une vitesse O-kay, vu le poids du châssis.<end>
+Si le Blazer a été fait pour filer avec style, le Glow a été fait pour se la couler douce avec du style. Tout le châssis est fabriqué - plus précisément « en fabrication additive » - en thermoplastique X3 de haute qualité : une durabilité costaude et, grâce aux avantages d'imprimer un véhicule, une gueule unique, hardcore. Et une vitesse O-kay, vu le poids du châssis.<end>
 
 =>q222_original
 It comes with XL 55 twin lasers which draw power from the jet's primary battery. Ya gotta watch out not to use up all yer juice when shootin' those things. 
@@ -1350,7 +1350,7 @@ Le seul vrai défaut, c'est qu'il te laisse un peu à découvert. Mais à part �
 Tell me about the Plasma Leviator.<end>
 
 =>a223
-Parle-moi du Plasma Leviator.<end>
+Parler du Plasma Leviator.<end>
 
 =>q224_original
 Glow's bigger brother. The Plasma Leviator is yet another hardcore jet hailin' from good ol' Hexagon. This thing is definitely not as stylish as Glow, but it packs a bigger punch without a question. Instead of lasers, this thing's got XP 39 twin plasma cannons which draw power from the jet's batteries. Yeah, it's got two, since this thing's a power hog.<end>
@@ -1368,13 +1368,13 @@ Assez lent à cause de l'armure lourde. Le bon choix si tu préfères échanger 
 Tell me about the Devastator.<end>
 
 =>a226
-Parle-moi du Devastator.<end>
+Parler du Devastator.<end>
 
 =>q227_original
 Devastator. The name says it all. Devastator. Manufactured by Biocorp Armory, Devastators were designed to be tanks on water and were to be used by the Underrail Protectorate. Equipped with a single state-of-the-art FC-2 fusion cannon, there isn't a vessel in this world short of a battleship that can come up against this ridable domination.<end>
 
 =>q227
-Devastator. Le nom dit tout. Devastator. Fabriqué par Biocorp Armory, les Devastators étaient conçus pour être des tanks sur l'eau, à l'usage du Protectorate d'Underrail. Un seul canon de fusion FC-2 dernier cri : y a pas un vaisseau dans ce monde, à part un cuirassé, qui peut tenir face à cette domination sur flotteurs.<end>
+Devastator. Le nom dit tout. Devastator. Fabriqué par Biocorp Armory, les Devastators étaient conçus pour être des tanks sur l'eau, à l'usage du Protectorate d'Underrail. Un seul canon de fusion FC-2 dernier cri : y a pas un vaisseau dans ce monde, à part un cuirassé, qui tient face à cette bête une fois que t'es dessus.<end>
 
 =>q228_original
 However, it turns out the cost of makin' one of these, primarily because of the fusion cannon, was too high for Biocorp Armory to mass produce, especially once they figured out they rarely needed anythin' better than their old trusty Cruiser. Around ten of these have been made, and a few have been purchased by some dominatingly wealthy gentlemen in North Underrail. Eventually, one of those ended up here.<end>
@@ -1392,7 +1392,7 @@ Qu'est-ce que je peux dire de plus ? C'est lent même avec deux moteurs, c'est d
 Tell me about the Freighter.<end>
 
 =>a230
-Parle-moi du Freighter.<end>
+Parler du Freighter.<end>
 
 =>q231_original
 This jet is for those who got a lot of heavy baggage and a lot of time on their hands. The Biocorp Industries Freighter is a sturdy, affordable jet with two engines and two batteries, and o-kay protection. It's heavy and it's slow, but even with stock components it'll never struggle no matter how much stuff you've stuffed in it.<end>
@@ -1438,7 +1438,7 @@ What really makes the junk jets are their components. They might not be able to 
 =>q237
 Ensuite y a le « skimmer », le plus petit des jets assis, et le « scooter », le plus grand. Les jets assis sont en général plus costauds, mais plus lents.
 
-Ce qui fait vraiment les junk jets, c'est les composants. Ils rivalisent pas avec les marques ou les customs de haute volée, mais tu peux les tweaker et les régler pour obtenir un truc vraiment bien pour pas cher.<end>
+Ce qui fait vraiment les junk jets, c'est les composants. Ils rivalisent pas avec les marques ou les customs de haute volée, mais tu peux les bricoler et les régler pour obtenir un truc vraiment bien pour pas cher.<end>
 
 =>a238_original
 What are some important things I need to know when choosing a jet ski?<end>
@@ -1450,7 +1450,7 @@ Qu'est-ce que je dois savoir pour choisir un jet ?<end>
 Well, it depends on whatcha want from yer jet, but basically ya can break it down into four parts ya gotta consider: the frame - that's the most important one - the engine, the battery and the suspension. There's a bunch of stuff ya can get for yer jet, accessories and what not, but these four are the pipes and barrels.<end>
 
 =>q239
-Ben, ça dépend de ce que tu veux de ton jet, mais en gros tu peux le découper en quatre : le châssis - le plus important - le moteur, la batterie et la suspension. Y a un tas de trucs à mettre sur un jet, accessoires et compagnie, mais ces quatre-là, c'est le dur du dur.<end>
+Ben, ça dépend de ce que tu veux de ton jet, mais en gros tu peux le découper en quatre : le châssis - le plus important - le moteur, la batterie et la suspension. Y a un tas de trucs à mettre sur un jet, accessoires et compagnie, mais ces quatre-là, c'est le vrai truc.<end>
 
 =>q240_original
 <end>
@@ -1462,25 +1462,25 @@ Ben, ça dépend de ce que tu veux de ton jet, mais en gros tu peux le découper
 Tell me more about frames.<end>
 
 =>a241
-Parle-moi des châssis.<end>
+Parler des châssis.<end>
 
 =>q242_original
 The frame is the jet itself. Ya can exchange engines and batteries - with limitations, of course - and tune yer jet to yer likin', but ya change the frame and it ain't the same jet no more. Ya want a speeder? Ya get a light, slick, sexy frame. Ya want a fighter? Ya want it to be sturdy, to have guns and armor. Ya wanna haul loot? Room for a big engine so ya got a lotta power.<end>
 
 =>q242
-Le châssis, c'est le jet lui-même. Tu peux changer moteurs et batteries - avec des limites, bien sûr - et régler le jet à ton goût, mais tu changes le châssis et c'est plus le même jet. Tu veux un speeder ? Tu prends un châssis léger, slick, sexy. Un fighter ? Faut qu'il soit costaud, avec des canons et de l'armure. Tu veux trimballer du loot ? De la place pour un gros moteur, pour avoir de la puissance.<end>
+Le châssis, c'est le jet lui-même. Tu peux changer moteurs et batteries - avec des limites, bien sûr - et régler le jet à ton goût, mais tu changes le châssis et c'est plus le même jet. Tu veux un bolide ? Tu prends un châssis léger, racé, sexy. Un jet de combat ? Faut qu'il soit costaud, avec des canons et de l'armure. Tu veux trimballer du loot ? De la place pour un gros moteur, pour avoir de la puissance.<end>
 
 =>q243_original
 Speakin' of that, weight of the frame is a very important thing, 'cuz no matter how hardcore yer engine is, if that thing's too heavy, ya ain't gonna be doin' any racin' with it. Some frames can support certain components which others cannot, and some can even support multiple engines and batteries. So ya gotta be thinkin' about that as well if ya wanna upgrade yer jet.<end>
 
 =>q243
-En parlant de ça, le poids du châssis, c'est important, parce que peu importe à quel point ton moteur est hardcore, si le truc est trop lourd, tu vas pas faire de course avec. Certains châssis prennent des composants que d'autres prennent pas, et certains peuvent même prendre plusieurs moteurs et batteries. Faut y penser aussi si tu veux upgrader ton jet.<end>
+En parlant de ça, le poids du châssis, c'est important, parce que peu importe à quel point ton moteur est hardcore, si le truc est trop lourd, tu vas pas faire de course avec. Certains châssis prennent des composants que d'autres prennent pas, et certains peuvent même prendre plusieurs moteurs et batteries. Faut y penser aussi si tu veux améliorer ton jet.<end>
 
 =>a244_original
 Tell me more about engines.<end>
 
 =>a244
-Parle-moi des moteurs.<end>
+Parler des moteurs.<end>
 
 =>q245_original
 The engine is what makes yer jet move. Now, before I continue, I work with electrics only. I say that 'cuz there are ass-joes out there that do build jets - and vehicles in general - that got internal combustion engines. Yeah, yeah. Mhm. People use what people got layin' about, eh?<end>
@@ -1504,7 +1504,7 @@ Plus le moteur est bon, plus ton jet a de puissance et plus ça file. Y a des li
 Tell me more about batteries.<end>
 
 =>a248
-Parle-moi des batteries.<end>
+Parler des batteries.<end>
 
 =>q249_original
 A jet ain't gonna run on love and carin' - it needs juice. The battery's what provides that very juice. Pretty much all jet batteries got the same voltage, so they are interchangeable, therefore the differences between batteries lie primarily in their size and their capacity. <end>
@@ -1522,7 +1522,7 @@ Plus la capacité est haute, plus tu peux rouler avant de recharger. Si la batte
 Tell me more about suspension.<end>
 
 =>a251
-Parle-moi de la suspension.<end>
+Parler de la suspension.<end>
 
 =>q252_original
 The suspension is what keeps yer jet stable and easier to control. Technically, ya can do without it, but let's face it - life's a lot better if ya got it. Water is an uneven surface, where even when there aren't any waves yer still ridin' on somethin' that's providin' a lot of resistance.<end>
@@ -1606,7 +1606,7 @@ Alors, qu'est-ce qui t'intéresse ?<end>
 Show me what you got. ::Barter.::<end>
 
 =>a265
-Montre-moi ce que tu as. ::Troc.::<end>
+Montrer ce que tu as. ::Troc.::<end>
 
 =>a266_original
 Is that all you got in your inventory, Ray? I expected a better selection from the only jet ski shop in South Underrail.<end>
@@ -1756,7 +1756,7 @@ $(context.npc_cc_ray_playerName), marché conclu.<end>
 Oh, and if ya think ya might've forgotten somethin' in yer jet, check that gray locker in the corner of my office. I put everythin' I find there. Okay?<end>
 
 =>q290
-Oh, et si tu crois avoir oublié un truc dans ton jet, check le casier gris dans le coin du bureau. J'y mets tout ce que je trouve. O-kay ?<end>
+Oh, et si tu crois avoir oublié un truc dans ton jet, va voir le casier gris dans le coin du bureau. J'y mets tout ce que je trouve. O-kay ?<end>
 
 =>a291_original
 ::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease1) and it's yours.<end>
@@ -2488,7 +2488,7 @@ Tu me donnes combien pour le Protectorate Cruiser ?<end>
 Whoa, whoa, hold down a second here. I can't just purchase some random military or, or law enforcement jets. These things can get a man in a lotta trouble, especially if their background ain't as clear as it should be.<end>
 
 =>q412
-Whoa, whoa, tu poses ça une seconde. J'peux pas acheter n'importe quel jet militaire ou, ou de flics. Ces trucs-là, ça peut mettre un homme dans un sacré pétrin, surtout si le passé est pas aussi clean qu'il devrait.<end>
+Hé, hé, tu poses ça une seconde. J'peux pas acheter n'importe quel jet militaire ou, ou de flics. Ces trucs-là, ça peut mettre un homme dans un sacré pétrin, surtout si le passé est pas aussi net qu'il devrait.<end>
 
 =>a413_original
 It's not like you don't sell military jets already.<end>
@@ -2536,7 +2536,7 @@ Reef Glider.<end>
 Never heard of it. <end>
 
 =>q420
-Je n'en ai jamais entendu parler. <end>
+J'en ai jamais entendu parler. <end>
 
 =>q421_original
 What kind of a jet is it?<end>
@@ -2756,7 +2756,7 @@ Franchement, je n'en ai aucune idée.<end>
 Ya didn't steal it?<end>
 
 =>q456
-Tu ne l'as pas volé ?<end>
+T'as pas volé, au moins ?<end>
 
 =>a457_original
 No.<end>
@@ -2854,7 +2854,7 @@ Ce fils de rat <end>
 What can you tell me about the man who was hanging outside of your shop?<end>
 
 =>a471
-Qu'est-ce que tu peux me dire du gars qui trainait devant ta boutique ?<end>
+Qu'est-ce que tu peux me dire du gars qui traînait devant ta boutique ?<end>
 
 =>a472_original
 What can you tell me about the Arena?<end>
@@ -2868,7 +2868,7 @@ Arena? Well, it's the pipes and barrels of Core City. Blood, gore, bone, guts, e
 JETS! It ain't got jet combat!<end>
 
 =>q473
-L'Arena ? Ben, c'est le dur du dur de Core City. Sang, gore, os, tripes, explosions, feu, empalement, décapitation... qu'est-ce qu'il lui manque ?
+L'Arena ? Ben, c'est le vrai truc de Core City. Sang, gore, os, tripes, explosions, feu, empalement, décapitation... qu'est-ce qu'il lui manque ?
 
 LES JETS ! Y a pas de combat en jet !<end>
 
@@ -2876,7 +2876,7 @@ LES JETS ! Y a pas de combat en jet !<end>
 Listen to this idea: A brand new arena, filled with water. The gladiators arrive on their jets, say, in two teams - the Ghastly Marauders versus Waves of Terror. The crowd cheers. Chompers are then released into the water. The crowd cheers even harder! Someone throws in a cat and the water starts bubblin' and turns red! The match begins at last: Bullets ventilate one of the jets and it blows up. Kaboom! ::He makes burning and splashing sounds.:: The gladiator jumps off in time - straight into the jaws of chompers. The crowd cheers! And then total mayhem ensues...<end>
 
 =>q474
-Écoute cette idée : une arène toute neuve, pleine d'eau. Les gladiateurs arrivent sur leurs jets, disons, en deux équipes - les Ghastly Marauders contre les Waves of Terror. La foule hurle. On lâche les chompers dans l'eau. La foule hurle encore plus ! Quelqu'un balance un chat, l'eau se met à bouillonner et vire au rouge ! Le match commence enfin : les balles ventilent un des jets, ça explose. Kaboom ! ::Il imite des bruits de feu et d'éclaboussures.:: Le gladiateur saute à temps - droit dans les mâchoires des chompers. La foule hurle ! Et après, c'est le chaos total...<end>
+Écoute cette idée : une arène toute neuve, pleine d'eau. Les gladiateurs arrivent sur leurs jets, disons, en deux équipes - les Ghastly Marauders contre les Waves of Terror. La foule hurle. On lâche les croqueurs dans l'eau. La foule hurle encore plus ! Quelqu'un balance un chat, l'eau se met à bouillonner et vire au rouge ! Le match commence enfin : les balles ventilent un des jets, ça explose. Kaboom ! ::Il imite des bruits de feu et d'éclaboussures.:: Le gladiateur saute à temps - droit dans les mâchoires des croqueurs. La foule hurle ! Et après, c'est le chaos total...<end>
 
 =>q475_original
 Minutes later - silence. Everything's calm. Water's red. Bones and debris are floatin' on the surface. The crowd erupts! Everybody's cheerin' for the lone victor, wounded but hardcore, who then raises one of 'is enemy's head before droppin' it for the chompers to feast on.
@@ -2884,7 +2884,7 @@ Minutes later - silence. Everything's calm. Water's red. Bones and debris are fl
 Who's gonna say no to that? It dominates!<end>
 
 =>q475
-Quelques minutes plus tard : silence. Tout est calme. L'eau est rouge. Os et débris flottent à la surface. La foule explose ! Tout le monde acclame le seul vainqueur, blessé mais hardcore, qui lève une tête d'ennemi avant de la lâcher pour que les chompers se régalent.
+Quelques minutes plus tard : silence. Tout est calme. L'eau est rouge. Os et débris flottent à la surface. La foule explose ! Tout le monde acclame le seul vainqueur, blessé mais hardcore, qui lève une tête d'ennemi avant de la lâcher pour que les croqueurs se régalent.
 
 Qui va dire non à ça ? Ça domine !<end>
 
@@ -2954,7 +2954,7 @@ If I, Ray, if I was a zoner, I'd abandon that damned place and go live somewhere
 Got no further comments.<end>
 
 =>q486
-Si moi, Ray, si j'étais un zoneur, j'abandonnerais cet endroit maudit et j'irais vivre ailleurs. Ils s'en porteraient mieux, c'est sûr, au lieu de tout mettre sur le dos de l'Oligarchy. La vie *est* dure, mais c'est *toi* seul qui peux te sortir des Pipeworks à la griffe.
+Si moi, Ray, si j'étais un zoneur, j'abandonnerais cet endroit maudit et j'irais vivre ailleurs. Ils s'en porteraient mieux, c'est sûr, au lieu de tout mettre sur le dos de l'Oligarchy. La vie *est* dure, mais c'est *toi* seul qui peux t'arracher des Pipeworks.
 
 Rien d'autre à dire.<end>
 
@@ -2968,7 +2968,7 @@ Qu'est-ce que tu peux me dire de l'Oligarchy ?<end>
 Core City folks like complainin' about the Oligarchy. Anythin' wrong that happens in this grindin' city and it's their fault. Arena ticket's too expensive - Oligarchy's fault. Zoners robin' my apartment - Oligarchy's fault. My soup's too cold - Oligarchy's fault. Buncha pipeworkin' ass-juicers.<end>
 
 =>q488
-Les gens de Core City aiment se plaindre de l'Oligarchy. Tout ce qui tourne mal dans cette ville à grind, c'est de leur faute. Le billet d'Arena trop cher - faute à l'Oligarchy. Des zoneurs me cambriolent l'appart - faute à l'Oligarchy. Ma soupe est trop froide - faute à l'Oligarchy. Bande d'enfoirés de Pipeworks.<end>
+Les gens de Core City aiment se plaindre de l'Oligarchy. Tout ce qui tourne mal dans cette ville qui t'use, c'est de leur faute. Le billet d'Arena trop cher - faute à l'Oligarchy. Des zoneurs me cambriolent l'appart - faute à l'Oligarchy. Ma soupe est trop froide - faute à l'Oligarchy. Bande d'enfoirés de Pipeworks.<end>
 
 =>q489_original
 Look, things ain't perfect. Can't deny that. I wish taxes were a bit lower, for example. Ownin' a store like this ain't cheap. But ya work hard and ya pay yer dues, and ya respect the Man... and things'll work out eventually.<end>
@@ -3028,7 +3028,7 @@ $(context.npc_cc_ray_moneyStolen) de l'argent que j'avais dans mon bureau a ét�
 A lotta stuff's been stolen. I haven't checked my whole inventory, but a lot went missin'. <end>
 
 =>q498
-Y a un max de trucs de volés. J'ai pas tout checké l'inventaire, mais y a du manque. <end>
+Y a un max de trucs de volés. J'ai pas tout fouillé dans l'inventaire, mais y a du manque. <end>
 
 =>q499_original
 That's all I've noticed so far.<end>
@@ -3056,7 +3056,7 @@ On laisse ça de côté, on parle d'autre chose. Qu'est-ce que je peux faire pou
 Some items have been stolen. I haven't checked my whole inventory, but already I noticed that certain things went missin'. <end>
 
 =>q502
-Y a des objets de volés. J'ai pas tout checké l'inventaire, mais j'ai déjà vu que certains trucs manquaient. <end>
+Y a des objets de volés. J'ai pas tout fouillé dans l'inventaire, mais j'ai déjà vu que certains trucs manquaient. <end>
 
 =>q503_original
 $(context.npc_cc_ray_jetsStolen_number) of my jets have been stolen. <end>
@@ -3074,7 +3074,7 @@ Un de mes jets a été volé. <end>
 I haven't noticed yet if anythin's been stolen. But even if nothin's been stolen - what if somethin's been planted!? What if there's a bom' tickin' somewhere in my store? Or if it's an assassin and he's waitin' to zone me out?<end>
 
 =>q505
-J'ai pas encore vu si y avait du volé. Mais même si y a rien de volé - et si on a planté un truc ? Et s'il y a une bombe qui tic quelque part dans la boutique ? Ou si c'est un assassin qui attend de me zoner ?<end>
+J'ai pas encore vu si y avait du volé. Mais même si y a rien de volé - et si on a planté un truc ? Et s'il y a une bombe qui fait tic-tac quelque part dans la boutique ? Ou si c'est un assassin qui attend de me zoner ?<end>
 
 =>q506_original
 I'm sorry, but I'd rather, ya know, I'd rather not talk about it, $(context.npc_cc_ray_playerName).<end>
@@ -3298,7 +3298,7 @@ Heh, t'as une de ces peaux de rathound, toi aussi. Elles sont plus à la mode qu
 Thank ya so, so much. If they catch the person ya just described Imma give you a hardcore discount on the next jet ya purchase from me. It's a dominatin' deal, can't deny that. It's the least I could do, $(context.npc_cc_ray_playerName).<end>
 
 =>q541
-Merci, merci vraiment. S'ils coincent la personne que tu viens de décrire, je te fais une remise hardcore sur le prochain jet que tu m'achètes. C'est un deal qui domine, ça j'peux pas le nier. C'est le moins que je puisse faire, $(context.npc_cc_ray_playerName).<end>
+Merci, merci vraiment. S'ils coincent la personne que tu viens de décrire, je te fais une remise hardcore sur le prochain jet que tu m'achètes. C'est une affaire qui domine, ça j'peux pas le nier. C'est le moins que je puisse faire, $(context.npc_cc_ray_playerName).<end>
 
 =>q542_original
 O-kay... So the suspect is a... $(context.npc_cc_ray_describeBreakIn_finalDescription). If I give this to the Praetorians they'll laugh at me.<end>
@@ -3604,7 +3604,7 @@ Je crois que j'ai laissé quelque chose dans le coffre d'un jet que je t'ai vend
 I told ya already: Check that gray locker in the corner of my office.<end>
 
 =>q592
-Je te l'ai déjà dit : check le casier gris dans le coin du bureau.<end>
+Je te l'ai déjà dit : va voir le casier gris dans le coin du bureau.<end>
 
 =>q593_original
 I can't be remember who forgot what, ya know. Unless... unless it's a chopped up body or somethin' like that...<end>
@@ -3694,7 +3694,7 @@ Bob, alors.<end>
 Tell that to my parents.<end>
 
 =>a607
-Dis ça à mes parents.<end>
+Dire ça à mes parents.<end>
 
 =>a608_original
 It's short for Bobbette.<end>
@@ -3814,7 +3814,7 @@ Salut, l'ami. Entre, entre, on est ouverts. Qu'est-ce que je peux faire pour toi
 That should not be there. ::He chuckles.:: We... Gib and I were fixin' one of 'em two-oh-eights for a client of ours. Field repairs. Just got back to the shop, so sorry 'bout my appearance. So, ya here for a jet? Parts? Repairs?<end>
 
 =>q626
-::Une clé à molette huileuse trône sur le bureau, un vieux chiffon taché pour seule séparation. Vous la voyez, il le voit. Une seconde plus tard, elle disparaît dans une de ses poches profondes, enroulée dans le chiffon. Le sourire, lui, n'a jamais quitté son visage.::
+::Une clé à molette huileuse trône sur le bureau, un vieux chiffon taché pour seule séparation. Vous la voyez, il la voit. Une seconde plus tard, elle disparaît dans une de ses poches profondes, enroulée dans le chiffon. Le sourire, lui, n'a jamais quitté son visage.::
 
 Ça devrait pas être là. ::Il ricane.:: On... Gib et moi, on réparait un de ces 208 pour un client. Réparations sur le terrain. On rentre tout juste à l'atelier, désolé pour la tenue. Alors, t'es là pour un jet ? Des pièces ? Des réparations ?<end>
 
@@ -3830,7 +3830,7 @@ Here they are, $(context.npc_cc_ray_playerName). I keep these inside 'cuz I don'
 Ya know, ya came at the right time, as we really slashed them prices recently. Still, do know that some of these can set ya back by tens of thousands of charons. So take yer pick. <end>
 
 =>q628
-Les voilà, $(context.npc_cc_ray_playerName). Je les garde à l'intérieur, j'veux pas qu'un fils de rat sans cul les pique. Comme tu vois, c'est des sales machines. On a des speeders, des fighters, des freighters...
+Les voilà, $(context.npc_cc_ray_playerName). Je les garde à l'intérieur, j'veux pas qu'un fils de rat sans cul les pique. Comme tu vois, c'est des sales machines. On a des bolides, des jets de combat, des cargos...
 
 Tu sais, t'arrives au bon moment, on a vraiment cassé les prix récemment. Quand même, sache que certains peuvent te coûter des dizaines de milliers de charons. Alors, à toi de choisir. <end>
 

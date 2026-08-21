@@ -13,14 +13,14 @@ Restaure immédiatement {0} points de psi depuis les réserves. Si les réserves
 À l'expiration : épuisé.
 
 ::MindDart
-Restaure immédiatement {0} psi et {1} psi supplémentaires chaque tour pendant {2}. Stack jusqu'à {3} fois.
+Restaure immédiatement {0} psi et {1} psi supplémentaires chaque tour pendant {2}. S'empile jusqu'à {3} fois.
 
-Provoque un sevrage psionique à l'expiration. L'intensité dépend du nombre de stacks, et de si tu étais déjà sous l'effet.
+Provoque un sevrage psionique à l'expiration. L'intensité dépend du nombre de cumuls, et de si tu étais déjà sous l'effet.
 
 ::MindDart-Old
-Augmente la régénération de psi de {0}% plus {1} pendant {2} secondes. Stack jusqu'à {3} fois.
+Augmente la régénération de psi de {0}% plus {1} pendant {2} secondes. S'empile jusqu'à {3} fois.
 
-Provoque un sevrage psionique à l'expiration. L'intensité dépend du nombre de stacks, et de si tu étais déjà sous l'effet.
+Provoque un sevrage psionique à l'expiration. L'intensité dépend du nombre de cumuls, et de si tu étais déjà sous l'effet.
 
 ::RestoreItemEnergy
 Recharge un objet de {0} d'énergie.
@@ -32,7 +32,7 @@ Recharge l'arme à énergie actuelle de {0} d'énergie.
 Recharge un grand stockage d'énergie de {0} d'énergie.
 
 ::Antidote
-Retire jusqu'à {0} stacks de poison.
+Retire jusqu'à {0} cumuls de poison.
 
 ::Bandage
 Restaure {0} points de vie sur {1} secondes. Les PV doivent être au-dessus de {2}% pour que les bandages soient efficaces.

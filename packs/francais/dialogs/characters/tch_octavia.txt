@@ -24,7 +24,7 @@ Je suis $(context.player.Name). J'espère que vous n'êtes pas trop occupée pou
 No problem. What I'm doing can wait, $(#brother/sister). What did you have in mind?<end>
 
 =>q4
-Pas de problème. Ce que je fais peut attendre, $(#frère/sœur). Qu'aviez-vous en tête ?<end>
+Pas de problème. Ce que je fais peut attendre, $(#frère/sœur). Que voulez-vous ?<end>
 
 =>q5_original
 <end>
@@ -58,7 +58,7 @@ Je vois que vous avez déjà une protection. Regardez ça...<end>
 ::Barter.::<end>
 
 =>a9
-::Troc.::<end>
+::Troquer.::<end>
 
 =>q10_original
 Put on some protective gloves and take a look at this...<end>
@@ -396,7 +396,7 @@ J'attends.<end>
 ::Remain silent.::<end>
 
 =>a64
-::Rester silencieux.::<end>
+::Garder le silence.::<end>
 
 =>a65_original
 I would like to purchase chemicals.<end>

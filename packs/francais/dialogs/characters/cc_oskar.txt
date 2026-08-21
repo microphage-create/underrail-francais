@@ -24,7 +24,7 @@ Alors t'es au bon endroit ! Bienvenue à Oskar's Armory.<end>
 Show me what you have. ::Barter.::<end>
 
 =>a4
-Voir le stock. ::Troc.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a5_original
 I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
@@ -138,13 +138,13 @@ Je voudrais voir le document sur les Spectres.<end>
 ::Give him 100 stygian coins.::<end>
 
 =>a23
-::Lui donner 100 pièces stygiennes.::<end>
+::Lui donner 100 charons.::<end>
 
 =>q24_original
 ::He takes the stygian coins.:: Hardcore, let me find the document, and it's yours to view. You're not leaving the store with it, though!<end>
 
 =>q24
-::Il prend les pièces stygiennes.:: Hardcore, laisse-moi retrouver le document, et tu pourras le lire. Tu sors pas du magasin avec, par contre !<end>
+::Il prend les charons.:: Hardcore, laisse-moi retrouver le document, et tu pourras le lire. Tu sors pas du magasin avec, par contre !<end>
 
 =>q25_original
 ::It takes him a brief moment to search for the document and then hands it to you. He carefully watches you while you read it.::<end>
@@ -242,7 +242,7 @@ Ils sont pas hardcore, ces types ? Putain, leur technique... Dominating, carrém
 ::[Persuade]:: How about you pretend I gave you the money, and I'll pretend you didn't tell me about stealing important documents from Praetorian Security.<end>
 
 =>a33
-:::[Persuade]:: Et si tu faisais comme si je t'avais donné l'argent, et moi comme si tu ne m'avais pas parlé de voler des documents importants à Praetorian Security.<end>
+::[Persuade]:: Et si tu faisais comme si je t'avais donné l'argent, et moi comme si tu ne m'avais pas parlé de voler des documents importants à Praetorian Security.<end>
 
 =>q34_original
 I'm not sure if you... hmmm... I don't feel like risking it. Fine, I'll let you see the document. But you're not leaving the store with it, though!<end>
@@ -260,7 +260,7 @@ On va pas faire comme ça, $(#gars/sœurette). Je propose un service, et j'ai be
 ::[Intimidate]:: Listen, Oskar, I'll drag you all the way to Praetorian Security headquarters and tell them what you got here. Or... let me see the document.<end>
 
 =>a36
-:::[Intimidate]:: Écoute, Oskar, je te trimballe jusqu'au QG de Praetorian Security et je leur dis ce que t'as là. Ou... tu me montres le document.<end>
+::[Intimidate]:: Écoute, Oskar, je te trimballe jusqu'au QG de Praetorian Security et je leur dis ce que t'as là. Ou... tu me montres le document.<end>
 
 =>q37_original
 You seem serious, hardcore serious...<end>
@@ -458,7 +458,7 @@ Bref, l'alcool est hardcore, la foule est hardcore, et même les chaises sont ha
 What can you tell me about Tchortists?<end>
 
 =>a69
-Tu peux me dire un mot sur les Tchortists ?<end>
+Tu peux me dire un mot sur les Tchortistes ?<end>
 
 =>q70_original
 Well, first of all, they are not hardcore. They preach some evolution-knowledge-genetic mumbo-jumbo my brain can't seem to digest. Who cares about that stuff anyway? They should just drop off our backs and go back to Upper Underrail. They do hate the Faceless, which is decent, but not hardcore enough.<end>

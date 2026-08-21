@@ -12,7 +12,7 @@ Tchort is evolution. My name is Jerre Franz and I am an Investigator of Medicine
 =>q2
 ::De cet homme imposant s'élève une voix étonnamment fluette, presque timide. Il parle assez fort pour qu'on l'entende, et pourtant on ne peut se défaire de l'impression qu'une humble mouche glissant dans la pièce couvrirait sa voix. Heureusement, rien de tel pendant sa présentation.::
 
-Tchort est l'évolution. Je m'appelle Jerre Franz, Investigator of Medicine et protophysician de l'Institute. Vous devez être $(context.player.Name). Les Tchortistes m'appellent généralement IM, et je n'y vois pas d'inconvénient. En quoi puis-je vous être utile ?<end>
+Tchort est l'évolution. Je m'appelle Jerre Franz, Investigator of Medicine et protophysicien de l'Institute. Vous devez être $(context.player.Name). Les Tchortistes m'appellent généralement IM, et je n'y vois pas d'inconvénient. En quoi puis-je vous être utile ?<end>
 
 =>q3_original
 <end>
@@ -36,7 +36,7 @@ Je peux vous aider, $(#frère/sœur). Je vais vous montrer ce que j'ai...<end>
 ::Barter.::<end>
 
 =>a6
-::Barter.::<end>
+::Troquer.::<end>
 
 =>a7_original
 I would like to purchase medication.<end>
@@ -66,7 +66,7 @@ Bien sûr, c'est pour cela que je suis là. L'examen médical et le traitement c
 Here you go. ::Give him 20 stygian coins.::<end>
 
 =>a11
-Voilà. ::Lui donner 20 pièces stygiennes.::<end>
+Voilà. ::Lui donner 20 charons.::<end>
 
 =>q12_original
 Alright, $(#brother/sister), let me see what is causing you pain...<end>
@@ -132,7 +132,7 @@ Ah, c'est une longue histoire...<end>
 Go on, I have the time.<end>
 
 =>a22
-Poursuivez. J'ai le temps.<end>
+Continuer. J'ai le temps.<end>
 
 =>q23_original
 I become a Tchortist about seven years ago - either in year ninety-two or ninety-three, one of the two - and it was all due to a single fortunate event of me meeting with a former colleague of mine who had just returned from South Underrail where he was on some, well, private business of his. Oh yes, I forgot to mention that I am from the North Underrail, and the meeting also took place there. In Dis, to be precise. <end>
@@ -144,7 +144,7 @@ Je suis devenu Tchortiste il y a environ sept ans - en l'an quatre-vingt-douze o
 Thomas Harding, the man I spoke with, informed me how dreadful the living conditions were in the south; of persistent and ever growing bandit menace, poverty, as well as the rise of violent sports in Core City. Naturally, the bottom line is that the south is a place of decadence and should be avoided at all costs.<end>
 
 =>q24
-Thomas Harding, l'homme avec qui je m'entretenais, m'a décrit combien les conditions de vie étaient affreuses au sud : une menace de bandits persistante, qui ne cesse de croître, la pauvreté, et la montée des sports violents à Core City. Naturellement, le fond de l'affaire, c'est que le sud est un lieu de décadence, à éviter à tout prix.<end>
+Thomas Harding, l'homme avec qui je m'entretenais, m'a décrit combien les conditions de vie étaient affreuses au sud : les bandits qui pullulent, de plus en plus, la misère, et la montée des sports violents à Core City. Naturellement, le fond de l'affaire, c'est que le sud est un lieu de décadence, à éviter à tout prix.<end>
 
 =>q25_original
 Except... there was one thing he mentioned in a positive light - the Institute of Tchort. He had the, in his words, pleasure to speak to several Tchortists during his stay here, in Upper Underrail - and in fact, one of those Tchortists was none other than Minister Percival himself! Well, Assistant Minister back then.

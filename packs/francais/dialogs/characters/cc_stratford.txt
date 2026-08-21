@@ -60,7 +60,7 @@ Recruit. I am Lieutenant Nigel Stratford. I have been told that you are interest
 =>q10
 ::Vous vous approchez d'un homme de haute taille, dont l'armure porte les marques d'un rang supérieur. Il arbore avec une fierté évidente une moustache superbe, impeccablement taillée. Les nombreuses cicatrices qui parsèment son visage vieillissant valent, vous le sentez, bien plus que n'importe quelle médaille. Sans perdre une seconde, sa mâchoire anguleuse se met en mouvement : le ton, sans surprise, est autoritaire.::
 
-Recrue. Je suis Lieutenant Nigel Stratford. On m'a dit que vous souhaitiez rejoindre Praetorian Security. Est-ce exact ?<end>
+Recrue. Je suis le lieutenant Nigel Stratford. On m'a dit que vous souhaitiez rejoindre Praetorian Security. Est-ce exact ?<end>
 
 =>a11_original
 That is correct.<end>
@@ -222,7 +222,7 @@ Parfait.<end>
 I'd like to see what you have in the armory. ::Barter.::<end>
 
 =>a35
-J'aimerais voir ce que vous avez à l'armurerie. ::Troc.::<end>
+J'aimerais voir ce que vous avez à l'armurerie. ::Troquer.::<end>
 
 =>a36_original
 For some reason I still haven't gotten my uniform.<end>
@@ -276,7 +276,7 @@ Même si je n'ai pas reçu d'autorisation explicite, je ne pense pas que le chef
 Thank you, sir. Can I see the equipment now? ::Barter.::<end>
 
 =>a44
-Merci, monsieur. Puis-je voir l'équipement maintenant ? ::Troc.::<end>
+Merci, monsieur. Puis-je voir l'équipement maintenant ? ::Troquer.::<end>
 
 =>q45_original
 I am sorry, but your armory access level will stay unchanged for now. It is my opinion that what is already available to you is more than enough to meet the demands of your current duties.
@@ -284,7 +284,7 @@ I am sorry, but your armory access level will stay unchanged for now. It is my o
 Anything else?<end>
 
 =>q45
-Je suis au regret, mais votre niveau d'accès à l'armurerie restera inchangé pour le moment. À mon avis, ce qui est déjà à votre disposition suffit largement aux exigences de vos fonctions actuelles.
+Je suis désolé, mais votre niveau d'accès à l'armurerie restera inchangé pour le moment. À mon avis, ce qui est déjà à votre disposition suffit largement aux exigences de vos fonctions actuelles.
 
 Autre chose ?<end>
 
@@ -1204,7 +1204,7 @@ du nouvel équipement est arrivé à l'armurerie de Praetorian Security.<end>
 I'd like to see it straight away, sir. ::Barter.::<end>
 
 =>a189
-J'aimerais le voir tout de suite, monsieur. ::Troc.::<end>
+J'aimerais le voir tout de suite, monsieur. ::Troquer.::<end>
 
 =>a190_original
 It'll have to wait a bit, sir. I came here to ask you something.<end>

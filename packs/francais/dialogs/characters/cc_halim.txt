@@ -6,7 +6,7 @@ I welcome you to my store, traveler. Halim is my name, and I am at your service.
 =>q1
 ::Maigre ; grosse tête. Voilà ce qui vous frappe d'abord. Sa peau marquée par l'âge est couverte de vêtements simples, modestes ; seul un bracelet de métal orné, à la main droite, tranche avec le reste. Son sourire, lui aussi, est modeste. Puis il parle, d'une voix légère, posée.::
 
-Bienvenue dans ma boutique, voyageur. Halim est mon nom, et je suis à votre service.<end>
+Bienvenue dans ma boutique, $(#voyageur/voyageuse). Halim est mon nom, et je suis à votre service.<end>
 
 =>q2_original
 <end>
@@ -18,7 +18,7 @@ Bienvenue dans ma boutique, voyageur. Halim est mon nom, et je suis à votre ser
 Show me what you have. ::Barter.::<end>
 
 =>a3
-Montrer le stock. ::Troc.::<end>
+Montrer le stock. ::Troquer.::<end>
 
 =>a4_original
 You do sell some powerful weapons for someone who seems to dislike violence.<end>
@@ -66,13 +66,13 @@ J'ai besoin d'informations sur un ancien officier de Praetorian Security, Patric
 Man you speak of is not known to me.<end>
 
 =>q11
-L'homme dont vous parlez m'est inconnu.<end>
+Je ne connais pas l'homme dont vous parlez.<end>
 
 =>q12_original
 Oskar, merchant just up ahead, he was once a member of Praetorian Security. Maybe he knows him.<end>
 
 =>q12
-Oskar, le marchand un peu plus loin. Il a fait partie de Praetorian Security. Peut-être le connaît-il.<end>
+Oskar, le marchand un peu plus loin. Il a fait partie de Praetorian Security. Il le connaît peut-être.<end>
 
 =>a13_original
 I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
@@ -120,7 +120,7 @@ Que pouvez-vous me dire sur Drop Zone ?<end>
 Ignore everything else, Drop Zone is the true face of Core City. It is the place of poor. It is the place of unwanted.<end>
 
 =>q20
-Oubliez le reste. Drop Zone, c'est le vrai visage de Core City. Le lieu des pauvres. Le lieu des indésirables.<end>
+Oubliez le reste. Drop Zone, c'est le vrai visage de Core City. Le quartier des pauvres. Celui des indésirables.<end>
 
 =>q21_original
 Oligarchs can show off shiny tech made by Coretech, draw people to Arena and create an illusion of a functional society. No. It is not the real truth, it draws eyes away from the real truth. To understand any society, you must look how they treat those who cannot serve it, but instead need help.<end>
@@ -156,7 +156,7 @@ Que pouvez-vous me dire sur le Gauntlet ?<end>
 They call it best new thing, "hardcore" entertainment. No. It is not. It is as violent as Arena, it is inharmonious, it celebrates torment. Watch people get killed in rooms full of traps?<end>
 
 =>q26
-Ils appellent ça la grande nouveauté, du divertissement « hardcore ». Non. Ça n'en est pas. Aussi violent que l'Arena. Inharmonieux. Ça célèbre le tourment. Regarder des gens mourir dans des salles pleines de pièges ?<end>
+Ils appellent ça la grande nouveauté, du divertissement « hardcore ». Non. Ça n'en est pas. Aussi violent que l'Arena. Discordant. Ça célèbre le tourment. Regarder des gens mourir dans des salles pleines de pièges ?<end>
 
 =>q27_original
 Monstrous! I have nothing more to say of it.<end>

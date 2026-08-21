@@ -20,7 +20,7 @@ Ouais ?<end>
 Show me what you've got for trade. ::Barter.::<end>
 
 =>a4
-Voir ce que vous avez. ::Troc.::<end>
+Voir ce que vous avez. ::Troquer.::<end>
 
 =>a5_original
 I have done everything you asked. Now what?<end>
@@ -78,7 +78,7 @@ Bien sûr que si. On attend tous quelque chose. Pas vrai ? C'est tout ce que j'a
 Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
 
 =>q13
-En effet. Et de façon optimale, qui plus est. Ça n'est pas passé inaperçu.<end>
+En effet. Et nickel, qui plus est. Ça n'est pas passé inaperçu.<end>
 
 =>q14_original
 There's someone who wishes to speak with you.<end>
@@ -234,7 +234,7 @@ J'ai besoin d'aide pour les missions que vous m'avez données.<end>
 $(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
 
 =>q39
-$(context.player.Name), je n'ai pas grand-chose qui puisse vous aider. C'est à vous de comprendre ce qu'il faut faire, et de le faire. De préférence, de façon optimale. Cela dit, un conseil ne ferait pas de mal.<end>
+$(context.player.Name), je n'ai pas grand-chose qui puisse vous aider. C'est à vous de comprendre ce qu'il faut faire, et de le faire. De préférence, proprement. Cela dit, un conseil ne ferait pas de mal.<end>
 
 =>q40_original
 And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
@@ -450,7 +450,7 @@ Ouais ?<end>
 Let's barter. ::Barter.::<end>
 
 =>a73
-Troc. ::Troc.::<end>
+Troquer. ::Troquer.::<end>
 
 =>a74_original
 Where are you from, Jack?<end>
@@ -492,7 +492,7 @@ Entre autres, oui. Vous voulez troquer ?<end>
 Show me what you got. ::Barter.::<end>
 
 =>a80
-Voir ce que vous avez. ::Troc.::<end>
+Voir ce que vous avez. ::Troquer.::<end>
 
 =>a81_original
 Maybe later.<end>

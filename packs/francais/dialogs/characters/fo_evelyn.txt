@@ -2,7 +2,7 @@
 ::Evelyn says nothing, instead letting her angry, deranged stare do the talking.::<end>
 
 =>q1
-::Evelyn ne dit rien. Elle laisse son regard furieux, dérangé, parler à sa place.::<end>
+::Evelyn ne dit rien. Elle laisse son regard furieux, dément, parler pour elle.::<end>
 
 =>q2_original
 ::You find yourself in Evelyn's bedroom, feeling a strong headache and dizziness after a mere two drinks that weren't that strong at all - let alone enough for you to lose consciousness. As the dark curtain slowly lifts from your eyes, you are presented with a bone-chilling image: Evelyn is standing before you, pointing a large knife right at your face. 
@@ -10,9 +10,9 @@
 The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
 
 =>q2
-::Vous vous retrouvez dans la chambre d'Evelyn, le crâne en étau, la tête qui tourne, après deux verres qui n'avaient rien de fort. Rien qui justifie de vous être évanoui. Le rideau noir se lève lentement sur vos yeux, et l'image qui apparaît vous glace le sang : Evelyn est là, debout, un grand couteau pointé droit sur votre visage.
+::Vous vous retrouvez dans la chambre d'Evelyn, le crâne en étau, la tête qui tourne, après seulement deux verres qui n'avaient rien de fort. Rien qui justifie de vous être évanoui. Le voile noir se lève lentement de vos yeux, et l'image qui apparaît vous glace le sang : Evelyn est là, debout, un grand couteau pointé droit sur votre visage.
 
-L'état semi-drogué, nauséeux, ne fait qu'aggraver sa métamorphose, de la beauté à la bête, et rend le tout encore plus irréel. Ses yeux gentils sont devenus des fours en fusion, assez chauds pour liquéfier votre peau. Son sourire charmant : un broyeur à ferraille qui ricane devant votre fin. Et ses cheveux, doux, fournis : des fils de métal en fusion qui jaillissent du sommet de son crâne et coulent le long de son visage.::<end>
+L'état semi-drogué, nauséeux, ne fait qu'amplifier sa métamorphose, beauté devenue bête, et rend le tout encore plus irréel. Ses yeux doux sont devenus des fournaises, assez chaudes pour liquéfier votre peau. Son sourire charmant : un broyeur à ferraille qui ricane devant votre fin. Et ses cheveux, doux, abondants : des mèches de métal en fusion qui jaillissent du sommet de son crâne et coulent le long de son visage.::<end>
 
 =>q3_original
 ::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
@@ -20,15 +20,15 @@ L'état semi-drogué, nauséeux, ne fait qu'aggraver sa métamorphose, de la bea
 Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
 
 =>q3
-::Ce n'est qu'en reculant que vous réalisez : on vous a presque entièrement $(#déshabillé/déshabillée). Ça n'arrange rien. Elle vous regarde patauger un moment, puis elle décide enfin de parler.::
+::Ce n'est qu'en reculant que vous réalisez : on vous a presque entièrement $(#déshabillé/déshabillée). Ça n'arrange vraiment rien. Elle vous regarde vous débattre un moment, puis elle décide enfin de parler.::
 
-Oh, $(#mon doux/ma douce) $(context.player.Name), comme on peut être $(#naïf/naïve). Maintenant que je t'ai, on va bien s'amuser. Enfin, moi surtout. Évidemment. ::Elle serre son couteau et s'avance vers vous.::<end>
+Oh, $(#mon doux/ma douce) $(context.player.Name), quelle naïveté. Maintenant que je te tiens, on va bien s'amuser. Enfin, moi surtout. Évidemment ! ::Elle resserre sa prise sur le couteau et s'avance vers vous.::<end>
 
 =>a4_original
 ::End Dialog.::<end>
 
 =>a4
-::Fin du dialogue.::<end>
+::Partir.::<end>
 
 =>q5_original
 ::The young, attractive woman seems to be the only person present in this quiet home. Even at first sight it is clear that this woman shines as bright as a diamond in a bucket of coal when compared to other women you've seen in Foundry so far. Her beautifully elongated face and her slim yet curvy figure form a striking image which is sadly smudged by one tiny imperfection - mild swelling and blackness around her tired green eyes. 
@@ -38,7 +38,7 @@ She is the first one to speak.::
 Good day. May I help you somehow?<end>
 
 =>q5
-::La jeune femme, séduisante, a l'air d'être la seule personne dans cette maison tranquille. Dès le premier regard, elle brille comme un diamant dans un seau de charbon, à côté des autres femmes que vous avez vues à Foundry. Un visage allongé, très beau, une silhouette mince mais galbée : une image nette, gâchée par un tout petit défaut. Un léger gonflement, des cernes noirs autour de ses yeux verts fatigués.
+::La jeune femme, séduisante, semble être la seule personne dans cette maison tranquille. Dès le premier regard, elle brille comme un diamant dans un tas de charbon, à côté des autres femmes que vous avez vues à Foundry. Un visage allongé, d'une grande beauté, une silhouette mince mais galbée : une image saisissante, gâchée par un tout petit défaut. Un léger gonflement, des cernes noirs autour de ses yeux verts fatigués.
 
 C'est elle qui parle la première.::
 
@@ -48,13 +48,13 @@ Bonjour. Je peux vous aider ?<end>
 Hi, my name's $(context.player.Name), I apologize if I'm disturbing you, but I'd just like to ask you a couple of questions.<end>
 
 =>a6
-Bonjour, je m'appelle $(context.player.Name). Désolé si je vous dérange, j'aimerais juste vous poser quelques questions.<end>
+Bonjour, je m'appelle $(context.player.Name). $(#Désolé/Désolée) si je vous dérange, j'aimerais juste vous poser quelques questions.<end>
 
 =>q7_original
 ::She smiles.:: Well, since you're so polite I suppose I'll have to indulge you. My name is Evelyn Ingram, $(context.player.Name). What would you like to talk to me about?<end>
 
 =>q7
-::Elle sourit.:: Puisque vous êtes si $(#poli/polie), je suppose que je vais devoir vous écouter. Je m'appelle Evelyn Ingram, $(context.player.Name). De quoi vouliez-vous me parler ?<end>
+::Elle sourit.:: Puisque vous êtes si $(#poli/polie), je suppose que je vais bien me prêter au jeu. Je m'appelle Evelyn Ingram, $(context.player.Name). De quoi vouliez-vous me parler ?<end>
 
 =>q8_original
 <end>
@@ -84,25 +84,25 @@ Je ne sais pas trop quoi dire sur moi... J'étais la femme de l'ancien chef de l
 I'm very sorry to hear that.<end>
 
 =>a12
-Je suis désolé.<end>
+Je suis vraiment $(#désolé/désolée) d'apprendre ça.<end>
 
 =>q13_original
 I was really shocked when he died. All was well until one day he suddenly fell, dying before he hit the floor. Doctor Stevenson told me that it was a heart attack; apparently he'd been overworked and overstressed and... slept too little. Not to mention the "quality" of living conditions here. In the end, all that got to him, leaving me to cope with... loneliness.<end>
 
 =>q13
-J'ai été vraiment choquée quand il est mort. Tout allait bien, et un jour il s'est écroulé. Mort avant de toucher le sol. Le docteur Stevenson m'a dit que c'était une crise cardiaque. Apparemment il était surmené, trop stressé, et... il dormait trop peu. Sans parler de la « qualité » de vie, ici. Au bout du compte, tout ça l'a eu. Et moi, il m'a fallu vivre avec... la solitude.<end>
+J'ai été vraiment choquée quand il est mort. Tout allait bien, et un jour il s'est écroulé. Mort avant de toucher le sol. Le docteur Stevenson m'a dit que c'était une crise cardiaque. Apparemment il était surmené, trop stressé, et... il dormait trop peu. Sans parler de la « qualité » des conditions de vie, ici. Au bout du compte, tout ça l'a eu. Et moi, il a fallu que je vive avec... la solitude.<end>
 
 =>q14_original
 Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
 
 =>q14
-Perdre un homme que j'aimais comme ça, ça m'a laissé un trou dans le cœur. Je ne pense pas pouvoir le reboucher. Je ne sais pas... qui sait, peut-être qu'il est temps d'avancer. Je *suis* jeune. J'ai encore tellement à vivre...<end>
+Perdre un homme que j'aimais comme ça, ça m'a laissé un trou dans le cœur. Je ne pense pas que je pourrai jamais le combler. Je ne sais pas... qui sait, peut-être qu'il est temps de passer à autre chose. Je *suis* jeune. J'ai encore tellement à vivre...<end>
 
 =>q15_original
 ::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
 
 =>q15
-::Elle soupire.:: C'est... compliqué. On a assez parlé de ça, peut-être.<end>
+::Elle soupire.:: C'est... compliqué. Assez parlé de ça, peut-être.<end>
 
 =>a16_original
 I'm sorry. Maybe we should change the subject.<end>
@@ -140,9 +140,9 @@ Une belle femme comme vous ne devrait pas rester seule chez elle à se faner. Je
 ::She pauses, letting her seductive stare convey her unspoken thoughts. After a few quiet moments, she turns away to grab a bottle of some seemingly expensive drink and shows it to you.:: Care for a drink?<end>
 
 =>q21
-::Un sourire charmant apparaît lentement sur son visage.:: Pas du tout. Merci pour le compliment, mais je ne me trouve pas *si* belle. Jolie, ça irait mieux. Par contre, vous avez raison pour la solitude... c'est vrai, malheureusement.
+::Un sourire charmant apparaît lentement sur son visage.:: Pas du tout. Merci pour le compliment, mais je ne me trouve pas *si* belle. Jolie irait mieux. Par contre, vous avez raison pour la solitude... c'est vrai, malheureusement.
 
-::Elle s'arrête. Son regard, séducteur, dit le reste. Quelques secondes de silence, puis elle se tourne, attrape une bouteille qui a l'air chère, et vous la montre.:: Un verre ?<end>
+::Elle s'arrête. Son regard séducteur dit le reste. Quelques secondes de silence, puis elle se tourne, attrape une bouteille qui a l'air chère, et vous la montre.:: Un verre ?<end>
 
 =>a22_original
 ::Have a drink with Evelyn.::<end>
@@ -166,13 +166,13 @@ Voyons voir... ::Elle sourit.:: D'abord, j'aimerais que vous preniez un bon verr
 Sorry, but I'm going to have to say no.<end>
 
 =>a25
-Désolé, mais je vais devoir dire non.<end>
+$(#Désolé/Désolée), mais je vais devoir dire non.<end>
 
 =>q26_original
 ::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
 
 =>q26
-::Toute la séduction s'évapore de son visage. Il ne reste que la déception.:: Dans ce cas, c'est *moi* qui devrais m'excuser. C'était peut-être vraiment un malentendu. Une femme comme moi peut se sentir seule dans un trou ennuyeux comme ça, vous savez. Je m'excuse pour... ça.<end>
+::Toute la séduction s'évapore net de son visage. Il ne reste que la déception.:: Dans ce cas, c'est *moi* qui devrais m'excuser. C'était peut-être vraiment un malentendu. Une femme comme moi peut se sentir seule dans un endroit aussi ennuyeux, vous savez. Je m'excuse pour... ça.<end>
 
 =>q27_original
 Anyway, is there anything else you wanted or are we done?<end>
@@ -190,7 +190,7 @@ Comment vous sentez-vous, maintenant que la mine a rouvert ?<end>
 Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
 
 =>q29
-Tiens, tiens. Voilà le « boss » en personne. Le maire et le chef veulent la gloire, mais *moi*, je sais qui a fait le sale boulot. Il faut un homme courageux, fort, capable, pour faire ce que vous avez fait. Si jamais vous trouvez une pause entre deux exploits, vous pourriez peut-être me raconter tout ça.<end>
+Tiens, tiens. Voilà le « boss » en personne. Le maire et le chef veulent la plus grosse part de gloire, mais *moi*, je sais qui a fait le sale boulot. Il faut un homme courageux, fort, capable, pour faire ce que vous avez fait. Si jamais vous trouvez un moment entre deux exploits, vous pourriez peut-être me raconter tout ça.<end>
 
 =>q30_original
 I'd really love to hear it.<end>
@@ -220,19 +220,19 @@ Que pouvez-vous me dire sur Foundry ?<end>
 About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
 
 =>q34
-Foundry ? Foundry est connue dans tout Underrail pour sa mine riche, et parce qu'on est le plus gros exportateur de fer de la région. Ça nous paie une défense solide, et on en a besoin contre les pillards. Malheureusement, Foundry est aussi la station la plus polluée du coin... et l'espérance de vie n'est pas terrible non plus. <end>
+Foundry ? Foundry est connue dans tout Underrail pour sa mine très riche, et parce qu'on est le plus gros exportateur de fer de la région. On peut se payer une défense solide, et on en a besoin contre les pillards. Malheureusement, Foundry est aussi la station la plus polluée du coin... et l'espérance de vie n'est pas terrible non plus. <end>
 
 =>q35_original
 To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
 
 =>q35
-Pour vous dire, je me fiche pas mal de cet endroit. Je partirais, si je pouvais.<end>
+Pour tout vous dire, je me fiche pas mal de cet endroit. Je partirais, si je pouvais.<end>
 
 =>q36_original
 You know, I don't feel like being a tour guide right now. Foundry has a rich mine, strong defence, pollution.<end>
 
 =>q36
-Vous savez, je n'ai pas envie de faire le guide, là. Foundry a une mine riche, une défense solide, de la pollution.<end>
+Vous savez, je n'ai pas envie de faire la guide, là. Foundry a une mine abondante, une défense solide, de la pollution.<end>
 
 =>q37_original
 That's all there is to it.<end>
@@ -244,13 +244,13 @@ C'est tout.<end>
 What was I thinking! I'd like to have a drink with you - if the offer still stands?<end>
 
 =>a38
-Qu'est-ce qui m'a pris. J'aimerais boire un verre avec vous, si l'offre tient toujours ?<end>
+Qu'est-ce qui m'a pris ! J'aimerais boire un verre avec vous, si l'offre tient toujours ?<end>
 
 =>q39_original
 ::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
 
 =>q39
-::Elle croise les bras et vous toise un moment avant de parler.:: Vous vous attendez vraiment à ce que je vous offre encore un verre, après ce que vous m'avez fait ?<end>
+::Elle croise les bras et vous toise un moment avant de parler.:: Vous vous attendez vraiment à ce que je vous offre encore un verre, après ce que vous m'avez fait tout à l'heure ?<end>
 
 =>a40_original
 Yes.<end>
@@ -266,7 +266,7 @@ I think today is your lucky day, $(context.player.Name). Usually I would not giv
 =>q41
 ::Elle s'arrête plusieurs secondes, vous regarde, détourne les yeux, pèse vos mots. Enfin, elle parle.::
 
-Je crois que c'est votre jour de chance, $(context.player.Name). D'habitude je ne redonne pas de seconde chance, après ce que vous avez fait. Mais il y a quelque chose... de spécial, chez vous...<end>
+Je crois que c'est votre jour de chance, $(context.player.Name). D'habitude, je ne donne pas de seconde chance à personne, après ce que vous avez fait. Mais il y a quelque chose... de spécial, chez vous...<end>
 
 =>a42_original
 Well, no. You are right to be mad.<end>
@@ -278,7 +278,7 @@ Non. Vous avez raison d'être en colère.<end>
 I'm really, really sorry. I'll be good this time.<end>
 
 =>a43
-Je suis vraiment, vraiment désolé. Je serai sage, cette fois.<end>
+Je suis vraiment, vraiment $(#désolé/désolée). Je serai sage, cette fois.<end>
 
 =>a44_original
 Do you know anything about creatures from the mine?<end>
@@ -290,7 +290,7 @@ Vous savez quelque chose sur les créatures de la mine ?<end>
 Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
 
 =>q45
-Pas grand-chose. J'ai surtout entendu dire que ces choses avaient l'air faites de pierre, ou un truc comme ça. C'est tout. Heureusement, je n'en ai jamais croisé une, alors je ne saurai pas si c'est vrai.<end>
+Pas grand-chose. J'ai surtout entendu dire que ces choses avaient l'air faites de pierre, ou un truc comme ça. C'est tout. Heureusement, je n'ai jamais eu l'occasion d'en croiser une, alors je ne saurai pas si c'est vrai.<end>
 
 =>q46_original
 And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
@@ -308,7 +308,7 @@ Les gens des taudis vous dérangent ? Vous vivez juste à côté, je veux dire.<
 Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
 
 =>q48
-Ils sortent rarement, et quand ils sortent, ils ne me dérangent pas. Messer, par contre, notre boucher, a quelques... difficultés avec eux, à l'entendre. Vous voyez bien pourquoi une bande de clodos affamés irait embêter un boucher qui a un enclos plein de cochons derrière.<end>
+Hmmm, ils sortent rarement, et quand ils sortent, ils ne me dérangent pas. Messer, par contre, notre boucher, a quelques... difficultés avec eux, à l'entendre. Vous voyez bien pourquoi une bande de clodos affamés irait embêter un boucher qui a un enclos plein de cochons derrière.<end>
 
 =>q49_original
 And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>

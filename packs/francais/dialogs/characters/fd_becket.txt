@@ -32,7 +32,7 @@ Trenton m'a dit de te préparer du bon matos. Fais ton choix : armure, armes, ou
 Show me the weapons.<end>
 
 =>a6
-Montre-moi les armes.<end>
+Voir les armes.<end>
 
 =>q7_original
 Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
@@ -56,7 +56,7 @@ fusils de chasse, machettes, lances, <end>
 sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
 
 =>q10
-masses, couteaux de combat et gants de combat. Harry « the Supplier » Becket a tout ! ::Il rit.::<end>
+masses, couteaux de combat et gants de combat. Harry « le Fournisseur » Becket a tout ! ::Il rit.::<end>
 
 =>a11_original
 I'll take a pistol.<end>
@@ -218,7 +218,7 @@ Tu sors faire des conneries ? ::Il rit.:: Tiens, salaud. Fais payer les Cans pou
 So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
 
 =>q37
-Alors... c'est cinq charges et un détonateur, si je me plante pas. Attends voir... un... deux... trois, quatre... où je t'ai mis... ah, le voilà : cinq ! Détonateur : check ! Voilà. T'as tout ce qu'il te faut. ::Il te tend les explosifs et le détonateur.::<end>
+Alors... c'est cinq charges et un détonateur, si je me plante pas. Attends voir... un... deux... trois, quatre... où je t'ai mis... ah, le voilà : cinq ! Détonateur : OK ! Voilà. T'as tout ce qu'il te faut. ::Il te tend les explosifs et le détonateur.::<end>
 
 =>a38_original
 Oh, I will make them pay, Becket. I'm on fire!<end>
@@ -256,7 +256,7 @@ Right! She arranged for you to get some extra gear. But shush - not a word to an
 Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
 
 =>q43
-Exact ! Elle a arrangé pour que tu aies du matos en plus. Mais chut. Pas un mot à personne. ::Il rit.:: Euh... merci de l'avoir sortie. C'est une, euh, une amie chère, et... c'était dur sans elle. Je suis juste content qu'elle soit de nouveau avec nous.
+Exact ! Elle a prévu du matos en plus pour toi. Mais chut. Pas un mot à personne. ::Il rit.:: Euh... merci de l'avoir sortie. C'est une, euh, une amie chère, et... c'était dur sans elle. Je suis juste content qu'elle soit de nouveau avec nous.
 
 Khm. Bref, pour l'instant je peux te filer de l'armure, des armes, ou si t'es du psi, j'ai de la came pour ça aussi.<end>
 
@@ -264,7 +264,7 @@ Khm. Bref, pour l'instant je peux te filer de l'armure, des armes, ou si t'es du
 Show me what you got. ::Barter.::<end>
 
 =>a44
-Montre-moi ce que t'as. ::Troc.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a45_original
 ::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
@@ -282,7 +282,7 @@ Montre-moi ce que t'as. ::Troc.::<end>
 ::Barter.::<end>
 
 =>a47
-::Troc.::<end>
+::Troquer.::<end>
 
 =>q48_original
 ::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
@@ -666,13 +666,13 @@ Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket
 =>q109
 ::L'homme retire son masque dès que vous approchez. Il sourit, et ça montre un bel ensemble de dents pourries, plantées dans une mâchoire carrée sous une barbe de plusieurs jours. Ses fringues sont rapiécées par endroits, déchirées ailleurs. Quant à sa voix, elle est rude, mais clairement amicale.::
 
-Hé, magnifique salaud ! Bienvenue dans les sous-passages ! Harry Becket, et sans moi, tous ces déraillés iraient chercher les Cans avec des cailloux et un peu d'espoir ! ::Il rit.::<end>
+Hé, magnifique salaud ! Bienvenue dans les under-passages ! Harry Becket, et sans moi, tous ces déraillés iraient chercher les Cans avec des cailloux et un peu d'espoir ! ::Il rit.::<end>
 
 =>q110_original
 I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
 
 =>q110
-J'ai aussi entendu que t'étais un $(#gars/nana) féroce ! Ces putains de Lurkers ont jamais su ce qui leur tombait dessus ! ::Il rit.:: T'as débarqué pile sur leur territoire et t'as sorti nos potes !<end>
+J'ai aussi entendu que t'étais $(#un gars féroce/une nana féroce) ! Ces putains de Lurkers ont jamais su ce qui leur tombait dessus ! ::Il rit.:: T'as débarqué pile sur leur territoire et t'as sorti nos potes !<end>
 
 =>a111_original
 Thank you, but it wasn't exactly like that...<end>
@@ -738,7 +738,7 @@ J'ai du nouveau matos, tu devrais jeter un œil. Assure-toi d'avoir les charons 
 Let's check it out. ::Barter.::<end>
 
 =>a121
-On jette un œil. ::Troc.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a122_original
 I wanted to ask you something first.<end>
@@ -756,7 +756,7 @@ Qu'est-ce que tu veux me demander ?<end>
 Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
 
 =>q124
-Hé, tu as vu la nouvelle ? Izumi en solde ! ::Il part d'un rire qui dure bien dix secondes.::<end>
+Hé, t'as vu la nouvelle ? Izumi en solde ! ::Il part d'un rire qui dure bien dix secondes.::<end>
 
 =>q125_original
 Just kidd'n! <end>

@@ -2,7 +2,7 @@
 Welcome to Depot B, stranger. Lookin' for some explosives, ammo or just some random junk? I got ya covered.<end>
 
 =>q1
-Bienvenue au Depot B, étranger. T'es là pour des explosifs, des munitions, ou juste de la ferraille ? T'es au bon endroit.<end>
+Bienvenue au Depot B, $(#étranger/étrangère). T'es là pour des explosifs, des munitions, ou juste de la ferraille ? T'es au bon endroit.<end>
 
 =>q2_original
 <end>
@@ -14,7 +14,7 @@ Bienvenue au Depot B, étranger. T'es là pour des explosifs, des munitions, ou 
 Show me what you got, junk keeper. ::Barter.::<end>
 
 =>a3
-Voir le stock, ferrailleur. ::Troc.::<end>
+Voir le stock, ferrailleur. ::Troquer.::<end>
 
 =>a4_original
 Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
@@ -86,7 +86,7 @@ Eddy, c'est le grand chef, par ici. Il tient le gang et il gère l'endroit.<end>
 What do you do with all the junk?<end>
 
 =>a15
-Vous en faites quoi, de toute cette ferraille ?<end>
+T'en fais quoi, de toute cette ferraille ?<end>
 
 =>q16_original
 We sell it, of course. <end>

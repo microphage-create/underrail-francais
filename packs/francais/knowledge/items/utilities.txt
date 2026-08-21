@@ -68,16 +68,16 @@ Tenter de brouiller le cortex IA d'un robot : il devient hostile à tout le mond
 Lancer la fiole sur la cible : ignore le bouclier énergétique et inflige {0} dégâts si elle touche.
 
 ::ThrowCorrosiveAcidVial
-Lancer la fiole sur la cible : ignore le bouclier énergétique et inflige {0} dégâts si elle touche, et applique {1} stacks de Corrodé (toutes résistances et seuils -{2}% par stack pendant {3}). S'empile {4} fois.
+Lancer la fiole sur la cible : ignore le bouclier énergétique et inflige {0} dégâts si elle touche, et applique {1} cumuls de Corrodé (toutes résistances et seuils -{2}% par cumul pendant {3}). S'empile {4} fois.
 
 ::ThrowRustingAcidVial
-Lancer la fiole sur la cible : ignore le bouclier énergétique et inflige {0} dégâts si elle touche, et applique {1} stacks de Rouille (durabilité de tous les objets mécaniques de la cible -{2} par stack chaque tour pendant {3}). S'empile {4} fois. Dégâts d'acide +{5}% contre véhicules et machines.
+Lancer la fiole sur la cible : ignore le bouclier énergétique et inflige {0} dégâts si elle touche, et applique {1} cumuls de Rouille (durabilité de tous les objets mécaniques de la cible -{2} par cumul chaque tour pendant {3}). S'empile {4} fois. Dégâts d'acide +{5}% contre véhicules et machines.
 
 ::UseSuicideBomberBelt
 Activer tout de suite une grenade de chaque type sur la ceinture.
 
 ::Exsurge
-Retire tout de suite les effets d'incapacité et de Mental Breakdown. Utilisable même sous ces effets, mais Chilled ou Frozen désactive cette capacité.
+Retire tout de suite les effets d'incapacité et de Mental Breakdown. Utilisable même sous ces effets, mais Transi ou Gelé désactive cette capacité.
 
 ::HeadTrapAttack
 Attaque de mêlée au contact : pose un piège crânien sadique sur une cible humanoïde. Inflige {0} dégâts sur {1} (ignore la résistance), réduit Perception de {2} et la met en panique jusqu'à {3}. On peut ensuite retrouver le piège sur elle.

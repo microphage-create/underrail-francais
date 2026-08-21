@@ -8,7 +8,7 @@ Sauvez-vous, $(#frère/sœur) !<end>
 Can't talk right now, $(#brother/sister) - something important is happening!<end>
 
 =>q2
-Je ne peux pas parler maintenant, $(#frère/sœur) - il se passe quelque chose d'important !<end>
+Pas maintenant, $(#frère/sœur) - il se passe quelque chose d'important !<end>
 
 =>q3_original
 ::He yawns.:: Um, Tchort is evolution, $(context.player.Name)...<end>
@@ -44,13 +44,13 @@ Oui, voilà - ça sonne apex. Excellent !<end>
 Unfortunately - or fortunately - no one in the department or otherwise was there to see how dedicated we were to science, I... think, that is...<end>
 
 =>q8
-Malheureusement - ou heureusement - personne du département, ni d'ailleurs, n'était là pour voir à quel point nous étions dévoués à la science. Enfin, je... crois...<end>
+Malheureusement - ou heureusement - personne du département, ni personne d'autre, n'était là pour voir à quel point nous étions dévoués à la science. Enfin, je... crois...<end>
 
 =>q9_original
 I got some good results which I will analyze them later, once my head is well again. As for you, $(context.player.Name), your input was incredibly valuable and, therefore, I give you this. ::He hands you three hundred stygian coins.:: Thank you for your time and dedication. It is... appreciated.<end>
 
 =>q9
-J'ai obtenu de bons résultats, que j'analyserai plus tard, une fois la tête remise. Quant à vous, $(context.player.Name), votre contribution a été d'une grande valeur, et c'est pourquoi je vous donne ceci. ::Il vous tend trois cents pièces stygiennes.:: Merci pour votre temps et votre dévouement. C'est... apprécié.<end>
+J'ai obtenu de bons résultats, que j'analyserai plus tard, une fois la tête claire. Quant à vous, $(context.player.Name), votre contribution a été d'une grande valeur, et c'est pourquoi je vous donne ceci. ::Il vous tend trois cents charons.:: Merci pour votre temps et votre dévouement. C'est... apprécié.<end>
 
 =>q10_original
 ::He yawns.:: Do you need anything else?<end>
@@ -86,7 +86,7 @@ $(#Frère/Sœur), nous faisons un travail scientifique important - nous ne faiso
 I am sorry, but I don't drink alcohol. Therefore I would be very bad at helping you.<end>
 
 =>a15
-$(#Désolé/Désolée), mais je ne bois pas d'alcool. Je serais donc très $(#mauvais/mauvaise) pour vous aider.<end>
+$(#Désolé/Désolée), mais je ne bois pas d'alcool. Je ne vous serais donc d'aucune aide.<end>
 
 =>q16_original
 Ah, that *is* unfortunate news. I guess I got a bit different impression of you...<end>
@@ -110,7 +110,7 @@ Je cherche du travail.<end>
 Oh, interested in becoming an investigator? That is apex! Excellent! Institute of Tchort welcomes young and prosperous $(#men/women) such as yourself. You know... an old quote by Illustrious Eidein just sprang to my mind: "Tchortists are like nucleotides from which DNA is composed - small building blocks that together form something truly great." Actions of each individual lead to the creation of something better. Every piece of the puzzle is important.<end>
 
 =>q19
-Oh, ça vous dirait de devenir investigator ? C'est apex ! Excellent ! L'Institute of Tchort accueille les jeunes $(#hommes prometteurs tels/femmes prometteuses telles) que vous. Vous savez... une vieille citation de l'illustre Eidein me revient : « Les Tchortistes sont comme les nucléotides dont l'ADN est composé - de petits blocs qui, ensemble, forment quelque chose de vraiment grand. » Les actes de chacun mènent à la création de quelque chose de meilleur. Chaque pièce du puzzle compte.<end>
+Oh, ça vous dirait de devenir investigator ? C'est apex ! Excellent ! L'Institute of Tchort accueille les jeunes $(#hommes prometteurs tels/femmes prometteuses telles) que vous. Vous savez... une vieille citation de l'illustre Eidein me revient : « Les Tchortistes sont comme les nucléotides dont l'ADN est composé - de petits blocs qui, ensemble, forment quelque chose de vraiment grand. » Les actes de chacun mènent à la création de quelque chose de meilleur. Chaque brique compte.<end>
 
 =>q20_original
 If you are willing to become a piece just like the rest of us then together we *will* complete the puzzle. Yes... 
@@ -118,7 +118,7 @@ If you are willing to become a piece just like the rest of us then together we *
 In any case, I have some work just for you!<end>
 
 =>q20
-Si vous êtes $(#prêt/prête) à devenir une pièce comme nous autres, alors ensemble, nous *terminerons* le puzzle. Oui...
+Si vous êtes $(#prêt/prête) à devenir une brique comme nous autres, alors ensemble, nous *achèverons* l'édifice. Oui...
 
 Dans tous les cas, j'ai du travail rien que pour vous !<end>
 
@@ -192,7 +192,7 @@ Vous avez encore du travail pour moi ?<end>
 Well... huh... yes, why not! I do have something for you, $(context.player.Name). I need a-- ::He yawns.:: a test subject.<end>
 
 =>q32
-Eh bien... huh... oui, pourquoi pas ! J'ai quelque chose pour vous, $(context.player.Name). J'ai besoin d'un-- ::Il bâille.:: d'un sujet d'expérience.<end>
+Eh bien... euh... oui, pourquoi pas ! J'ai quelque chose pour vous, $(context.player.Name). J'ai besoin d'un-- ::Il bâille.:: d'un sujet d'expérience.<end>
 
 =>a33_original
 What are you going to inject me with?<end>
@@ -228,7 +228,7 @@ Et vous avez besoin d'un sujet d'expérience parce que... ?<end>
 Hold on, I'm not finished. Uh, where was I.... Yes, right! Now, there aren't many natural ingredients containing adequate amounts of sugar to convert to alcohol during the distillation process - not that are available to me at least. I mean, there are *some* mushrooms which can be used, technically, but Tchort's tentacles pull me down and strangle me, those produce dreadful results. I have no idea how Underrail folk can consume that... swill. Eidein pardon me, but that thing's worse than boiled rathound urine!<end>
 
 =>q38
-Attendez, je n'ai pas fini. Euh, où en étais-je... Oui, voilà ! Il n'y a pas beaucoup d'ingrédients naturels assez sucrés pour convertir le sucre en alcool à la distillation - du moins pas parmi ceux auxquels j'ai accès. Il y a *certains* champignons qu'on peut utiliser, techniquement, mais les tentacules de Tchort me tirent vers le bas et m'étranglent : le résultat est affreux. Je ne vois pas comment les gens d'Underrail peuvent avaler cette... piquette. Qu'Eidein me pardonne, mais c'est pire que de l'urine de rathound bouillie !<end>
+Attendez, je n'ai pas fini. Euh, où en étais-je... Oui, voilà ! Il n'y a pas beaucoup d'ingrédients naturels assez sucrés pour convertir le sucre en alcool à la distillation - du moins pas parmi ceux auxquels j'ai accès. Il y a *certains* champignons qu'on peut utiliser, techniquement, mais les tentacules de Tchort me serrent la gorge : le résultat est affreux. Je ne vois pas comment les gens d'Underrail peuvent avaler cette... piquette. Qu'Eidein me pardonne, mais c'est pire que de l'urine de rathound bouillie !<end>
 
 =>q39_original
 To get to the point, the liquor I make is synthetic - but the aim is to produce a very pleasant result, as if it was a nature's gift and not, well, laboratory meddling. Good enough even for our illustrious Eidein himself! But one needs to be an expert, for even small mistakes can cause the end result to be... *disastrous*!<end>
@@ -348,7 +348,7 @@ Oui, voilà, vous n'avez pas tort. Si on s'arrête à chaque obstacle, on n'ira 
 This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.:: XAL, XAL... magnificent Tchort.<end>
 
 =>q58
-C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.:: XAL, XAL... magnifique Tchort.<end>
+C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents charons.:: XAL, XAL... magnifique Tchort.<end>
 
 =>q59_original
 <end>
@@ -360,7 +360,7 @@ C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes
 So, do I get something for my work?<end>
 
 =>a60
-Alors, j'ai quelque chose pour mon travail ?<end>
+Et pour mon travail, je reçois quelque chose ?<end>
 
 =>q61_original
 Yes, right! Thanks for reminding me.<end>
@@ -426,7 +426,7 @@ Je suis $(#désolé/désolée), mais c'est comme ça. Je n'y pouvais rien.<end>
 I apologize for reacting that way; Eidein pardon me. The next version of the weapon will be better, I promise. This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.::<end>
 
 =>q71
-Pardonnez-moi d'avoir réagi comme ça ; qu'Eidein me pardonne. La prochaine version de l'arme sera meilleure, je vous le promets. C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.::<end>
+Pardonnez-moi d'avoir réagi comme ça ; qu'Eidein me pardonne. La prochaine version de l'arme sera meilleure, je vous le promets. C'est pour vous, $(#frère/sœur). ::Il vous tend trois cents charons.::<end>
 
 =>a72_original
 I risked my life to test that worthless junk and all you do is complain?<end>
@@ -468,7 +468,7 @@ Vraiment ? Oh, c'est apex, $(#frère/sœur) ! Je transmets ça tout de suite à 
 And this is for you, $(#brother/sister). ::He gives you three hundred stygian coins.:: I will mention this to Episkopos Lydia at the next symposium, have no fear. Listen, if you keep this up, you might have a good future in Investigation. Honestly.<end>
 
 =>q78
-Et ceci est pour vous, $(#frère/sœur). ::Il vous tend trois cents pièces stygiennes.:: J'en parlerai à Episkopos Lydia au prochain symposium, n'ayez crainte. Écoutez : si vous continuez comme ça, vous pourriez avoir un bel avenir en Investigation. Honnêtement.<end>
+Et ceci est pour vous, $(#frère/sœur). ::Il vous tend trois cents charons.:: J'en parlerai à Episkopos Lydia au prochain symposium, n'ayez crainte. Écoutez : si vous continuez comme ça, vous pourriez avoir un bel avenir en Investigation. Honnêtement.<end>
 
 =>q79_original
 <end>
@@ -492,7 +492,7 @@ Ah, apex ! Le voici dans toute sa gloire. ::Il vous tend le pistolet chimique.::
 ::The moment you are receive the chemical pistol you start inspecting it in great detail. You do so out of curiosity; you have substantial knowledge of mechanics and chemistry and are interested in the way weapons like this work. It doesn't take long, however, to spot a potential problem.::<end>
 
 =>q82
-::Au moment où vous recevez le pistolet chimique, vous vous mettez à l'inspecter dans le détail. Par curiosité : vous avez de solides connaissances en mécanique et en chimie, et ce genre d'arme vous intéresse. Il ne faut pourtant pas longtemps pour repérer un problème potentiel.::<end>
+::Au moment où vous recevez le pistolet chimique, vous l'inspectez dans le détail. Par curiosité : vous avez de solides connaissances en mécanique et en chimie, et ce genre d'arme vous intéresse. Il ne faut pourtant pas longtemps pour repérer un problème potentiel.::<end>
 
 =>q83_original
 ::Namely, you are able to notice that the design of the sprayer, most importantly its small diameter, is unfit for the weapon with an increased rate of fire such as this, as described by Georgis. While it might work without problems in a safe environment, combat use would most certainly cause a jam after a short period of time due to dirt and other small particle accumulation. The consequence of this would be the build-up of pressure inside the weapon with potentially disastrous results.::<end>
@@ -558,7 +558,7 @@ Cette arme pose problème.<end>
 Problem? Magnificent Tchort; I don't think you can just find a problem.<end>
 
 =>q93
-Un problème ? Magnifique Tchort ; je ne pense pas qu'on tombe sur un problème comme ça, simplement.<end>
+Un problème ? Magnifique Tchort ; je ne pense pas qu'on trouve un défaut comme ça, d'un coup.<end>
 
 =>a94_original
 ::Explain your findings.::<end>
@@ -582,7 +582,7 @@ Oui, voilà... ça tient la route, en fait. On a vraiment loupé ça, *et* ça e
 Here, ::He hands you three hundred stygian coins.:: take this, $(#brother/sister). You earned it within mere minutes! ::He smiles.:: Apex, just apex.<end>
 
 =>q97
-Tenez, ::Il vous tend trois cents pièces stygiennes.:: prenez ça, $(#frère/sœur). Gagné en quelques minutes ! ::Il sourit.:: Apex, rien que de l'apex.<end>
+Tenez, ::Il vous tend trois cents charons.:: prenez ça, $(#frère/sœur). Gagné en quelques minutes ! ::Il sourit.:: Apex, rien que de l'apex.<end>
 
 =>a98_original
 Excuse me, I need something analyzed. ::Show him the broken-off spike.::<end>
@@ -600,7 +600,7 @@ Portez ça à Octavia, $(#frère/sœur). Elle fera l'analyse.<end>
  ::He yawns.:: Now...<end>
 
 =>q100
- ::Il bâille.:: Maintenant...<end>
+::Il bâille.:: Maintenant...<end>
 
 =>a101_original
 Tell me more about that experimental chemical pistol.<end>
@@ -636,7 +636,7 @@ Ce qui nous amène à - <end>
 XAL-001! That is short for - Experimental Acid Launcher. It offers a great improvement in terms of fire rate and ergonomics over all available models currently in use - *and* we are planning further attachments to increase capacity and to help the processing of raw chemicals in the field, yada, yada, yada... To sum it up - we believe it to be a truly apex design!<end>
 
 =>q106
-XAL-001 ! Pour Experimental Acid Launcher. Grande amélioration de la cadence de tir et de l'ergonomie par rapport à tous les modèles en service - *et* on prévoit des accessoires pour augmenter la capacité et aider à traiter les produits bruts sur le terrain, bla bla bla... Pour résumer : on le croit vraiment apex, ce design !<end>
+XAL-001 ! Pour Experimental Acid Launcher. Grande amélioration de la cadence de tir et de l'ergonomie par rapport à tous les modèles en service - *et* on prévoit des accessoires pour augmenter la capacité et aider à traiter les produits bruts sur le terrain, bla bla bla... Pour résumer : on croit vraiment que c'est un modèle apex !<end>
 
 =>a107_original
 Again, where do I come in?<end>
@@ -798,7 +798,7 @@ C'était il y a longtemps ; une quinzaine d'années. Je travaillais comme chimis
 So I left Core City and sought the, at the time extremely unfamiliar, Institute of Tchort. I've heard of it from some friends of mine, and I came upon those same entrance gates. Yes... I remember it still. The moment I stepped through the gate I felt something. From a bleak outlook on life I suddenly felt my ambitions waking up again.<end>
 
 =>q131
-Alors j'ai quitté Core City et j'ai cherché l'Institute of Tchort, à l'époque parfaitement inconnu. Des amis m'en avaient parlé, et je me suis retrouvé devant ces mêmes grilles. Oui... je m'en souviens encore. En franchissant le portail, j'ai senti quelque chose. D'une vision bien sombre, mes ambitions se sont remises à bouger.<end>
+Alors j'ai quitté Core City et j'ai cherché l'Institute of Tchort, à l'époque parfaitement inconnu. Des amis m'en avaient parlé, et je me suis retrouvé devant ces mêmes grilles. Oui... je m'en souviens encore. En franchissant le portail, j'ai senti quelque chose. J'avais une vision bien sombre de la vie ; d'un coup, mes ambitions se sont réveillées.<end>
 
 =>q132_original
 And I guess I managed to realize those ambitions: Investigation was a natural choice for me, and therefore I started as an assistant chemist. Few years later and after a lot of hard work I became a proper investigator and led some of my own projects; Then finally in year ninety-two I became a Principal Investigator. Next stop: Episkopos Georgis. ::He laughs.::
@@ -838,7 +838,7 @@ Y a-t-il un moyen de mettre la main sur des produits chimiques, par ici ?<end>
 Hmmm, it is rare for someone to come with that request. But I don't see why not. Go talk to Investigator Octavia, she can sell you some of the chemicals we have in excess. Just tell her I gave you permission.<end>
 
 =>q137
-Hmmm, on ne vient pas souvent avec cette demande. Mais je ne vois pas pourquoi pas. Allez voir Investigator Octavia, elle peut vous vendre une partie de ce qu'on a en trop. Dites-lui que je vous y autorise.<end>
+Hmmm, on ne vient pas souvent avec cette demande. Mais je ne vois pas de raison de refuser. Allez voir Investigator Octavia, elle peut vous vendre une partie de ce qu'on a en trop. Dites-lui que je vous y autorise.<end>
 
 =>a138_original
 Where can I find her?<end>
@@ -1098,7 +1098,7 @@ J'ai vu des Tchortistes voler ce, eh, truc dans un labo de Core City, et je suis
 ::He almost pushes you over with a confused stare, before turning the same one to the half-empty bottle on the table.:: I don't think I'll drrrrink this batch again. Yeah... it causes people to... say funny things. Not apex! Eidein pardon me for m-aking it...<end>
 
 =>q179
-::Il vous bouscule presque d'un regard perdu, avant de poser le même sur la bouteille à moitié vide.:: Je ne crois pas que je vais re-boiiiire ce lot. Ouais... ça fait dire des... trucs drôles. Pas apex ! Qu'Eidein me pardonne de l'avoir f-abriqué...<end>
+::Il vous bouscule presque, le regard perdu, avant de poser le même sur la bouteille à moitié vide.:: Je ne crois pas que je vais re-boiiiire ce lot. Ouais... ça fait dire des... trucs drôles. Pas apex ! Qu'Eidein me pardonne de l'avoir f-abriqué...<end>
 
 =>q180_original
 Well, time to sample the next... erm sample.<end>
@@ -1628,7 +1628,7 @@ Non - il faut sentir d'abord. Goût et odorat vont ensemble ; en sentant, vous p
 Oh, oh, oh. Hello, $(#brother/sister). Tchort is evolution, Tchort is evolution. I am Principal Investigator Georgis, and I run the Department of Chemistry... a part of the Investigation, in case you didn't know.<end>
 
 =>q267
-::Dès qu'il vous remarque, l'homme en blouse blanche referme un dossier qu'il s'acharnait à lire et vous salue d'une poignée de main ferme. Ses yeux injectés de sang se noient dans la fatigue ; il se les frotte de temps à autre, ça ne l'ôte pas, ça soulage un instant. Il reste pourtant alerte, concentré, et surtout amical.::
+::Dès qu'il vous remarque, l'homme en blouse blanche referme un dossier qu'il s'acharnait à lire et vous salue d'une poignée de main ferme. Ses yeux injectés de sang se noient dans la fatigue ; il se les frotte de temps à autre, ça ne les fait pas disparaître, ça soulage un instant. Il reste pourtant alerte, concentré, et surtout amical.::
 
 Oh, oh, oh. Bonjour, $(#frère/sœur). Tchort est l'évolution, Tchort est l'évolution. Je suis Principal Investigator Georgis, et je dirige le Department of Chemistry... une branche d'Investigation, au cas où.<end>
 

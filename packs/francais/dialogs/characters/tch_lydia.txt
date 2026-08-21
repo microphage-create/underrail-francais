@@ -98,7 +98,7 @@ But I digress, Eidein pardon me. Now, the time has come for you: I am offering y
 Interested, $(context.player.Name)? Mmm?<end>
 
 =>q16
-Mais je m'égare. Qu'Eidein me pardonne. L'heure est venue : je vous offre un poste d'assistant investigator dans le département de votre choix. Vous pourrez choisir vos propres projets, et les mener avec des investigators à part entière.
+Mais je m'égare. Qu'Eidein me pardonne. L'heure est venue : je vous offre un poste d'$(#assistant/assistante) investigator dans le département de votre choix. Vous pourrez choisir vos propres projets, et les mener avec des investigators à part entière.
 
 Cela vous intéresse, $(context.player.Name) ? Mmm ?<end>
 
@@ -112,7 +112,7 @@ Depuis que je suis $(#arrivé/arrivée) ici, Votre Éminence. Être investigator
 ::She nods.:: Mmm, $(context.player.Name). In that case, the only thing left for me to say is this: I will arrange a meeting with his illustriousness himself - Eidein. Speak to him about becoming an assistant investigator; after that it's all a matter of paperwork.<end>
 
 =>q18
-::Elle acquiesce.:: Mmm, $(context.player.Name). Dans ce cas, il ne me reste qu'à dire ceci : je vais vous fixer une entrevue avec Son Illustrissime en personne - Eidein. Parlez-lui de devenir assistant investigator. Ensuite, ce n'est plus qu'une affaire de paperasse.<end>
+::Elle acquiesce.:: Mmm, $(context.player.Name). Dans ce cas, il ne me reste qu'à dire ceci : je vais vous fixer une entrevue avec Son Illustrissime en personne - Eidein. Parlez-lui de devenir $(#assistant/assistante) investigator. Ensuite, ce n'est plus qu'une affaire de paperasse.<end>
 
 =>q19_original
 I will inform the protonotary to allow you entry to Eidein's office. His office is just across from mine. Do not keep him waiting, $(context.player.Name).<end>
@@ -154,7 +154,7 @@ Je ne suis pas encore $(#sûr/sûre). Peut-être que l'Institute of Tchort a aut
 ::She nods.:: Mmm, that is understandable $(context.player.Name); think it through. Should you change your mind and decide that you wish to become an assistant investigator, speak to his illustriousness  - Eidein. After that it's only a matter of paperwork.<end>
 
 =>q25
-::Elle acquiesce.:: Mmm, c'est compréhensible, $(context.player.Name). Prenez le temps d'y réfléchir. Si vous changez d'avis et décidez de devenir assistant investigator, parlez-en à Son Illustrissime - Eidein. Ensuite, ce n'est plus qu'une affaire de paperasse.<end>
+::Elle acquiesce.:: Mmm, c'est compréhensible, $(context.player.Name). Prenez le temps d'y réfléchir. Si vous changez d'avis et décidez de devenir $(#assistant/assistante) investigator, parlez-en à Son Illustrissime - Eidein. Ensuite, ce n'est plus qu'une affaire de paperasse.<end>
 
 =>a26_original
 I know I made a mistake and I am very sorry for it. But I don't think all the blame should rest on me.<end>

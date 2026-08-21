@@ -4,7 +4,7 @@
 
 =>q1
 
-::Il fronce les sourcils.:: J'ai rien à vous dire. Rien.<end>
+::Il fronce les sourcils.:: J'ai rien à te dire. Rien.<end>
 
 =>q2_original
 
@@ -12,7 +12,7 @@
 
 =>q2
 
-::Jonas semble perdu dans des pensées sombres. Quand vous lui parlez, il se secoue et retrouve vite son air enjoué habituel.:: Toujours à courir partout, je vois ? Ah, vous les jeunes, vous débordez d'énergie.<end>
+::Jonas semble perdu dans des pensées sombres. Quand tu lui parles, il se secoue et retrouve vite son sourire habituel.:: Toujours à courir partout, hein ? Ah, les jeunes, y a de l'énergie à revendre.<end>
 
 =>q3_original
 
@@ -28,7 +28,7 @@ I think I found your watch. ::Show him the old watch you found.::<end>
 
 =>a4
 
-Je crois que j'ai trouvé votre montre. ::Lui montrer la vieille montre.::<end>
+Lui montrer la vieille montre.<end>
 
 =>q5_original
 
@@ -44,7 +44,7 @@ Where'd you find it?<end>
 
 =>q6
 
-Où l'avez-vous trouvée ?<end>
+Où t'as trouvé ça ?<end>
 
 =>a7_original
 
@@ -52,7 +52,7 @@ You really don't want to know.<end>
 
 =>a7
 
-Vous ne voulez vraiment pas savoir.<end>
+T'as vraiment pas envie de savoir.<end>
 
 =>q8_original
 
@@ -60,7 +60,7 @@ It's covered with... ugh, you're right - best that I don't know.<end>
 
 =>q8
 
-C'est couvert de... beuh, vous avez raison. Autant que je reste dans le noir.<end>
+C'est couvert de... beuh. T'as raison. Autant rester dans le noir.<end>
 
 =>q9_original
 
@@ -78,7 +78,7 @@ So what's it gonna be?<end>
 
 =>q10
 
-J'ai quelques trucs spéciaux à vous proposer en échange. ::Il fouille dans son sac.:: Voilà une mitraillette costaude, nickel, en parfait état... un lot d'hypos de santé... ça, ça vous ira bien ; et ces bottes-là, regardez-moi ça. Du beau travail.
+J'ai quelques trucs spéciaux à te proposer en échange. ::Il fouille dans son sac.:: Voilà une mitraillette costaude, nickel... un lot d'hypos de santé... ça, ça te fera du bien ; et ces bottes-là, regarde-moi ça. Du beau travail.
 
 Alors, qu'est-ce que ça sera ?<end>
 
@@ -88,7 +88,7 @@ That's alright, Jonas. You can just have it.<end>
 
 =>a11
 
-C'est bon, Jonas. Gardez-la, c'est tout.<end>
+Laisser la montre à Jonas.<end>
 
 =>q12_original
 
@@ -98,9 +98,9 @@ From now on you're gettin' only the best deals for whatever item I scavenge.<end
 
 =>q12
 
-::Il sourit.:: Merci, jeune. Cette montre a une valeur sentimentale, vous savez.
+::Il sourit.:: Merci, $(#gamin/gamine). Cette montre, elle a une valeur sentimentale, tu sais.
 
-À partir de maintenant, vous n'aurez que les meilleurs prix sur ce que je ramène.<end>
+À partir de maintenant, sur ce que je ramène, t'auras que les meilleurs prix.<end>
 
 =>a13_original
 
@@ -108,7 +108,7 @@ Now, there was something I wanted to ask you.<end>
 
 =>a13
 
-J'avais autre chose à vous demander.<end>
+Poser une autre question.<end>
 
 =>q14_original
 
@@ -116,7 +116,7 @@ Sure, youngster.<end>
 
 =>q14
 
-Allez-y, jeune.<end>
+Vas-y, $(#gamin/gamine).<end>
 
 =>a15_original
 
@@ -132,7 +132,7 @@ I'll have the submachine gun.<end>
 
 =>a16
 
-Je prends la mitraillette.<end>
+Prendre la mitraillette.<end>
 
 =>q17_original
 
@@ -140,7 +140,7 @@ Here you go. May it serve you well.<end>
 
 =>q17
 
-Voilà. Qu'elle vous serve bien.<end>
+Voilà. Qu'elle te serve bien.<end>
 
 =>q18_original
 
@@ -156,7 +156,7 @@ Give me those hypos; can never have too many of those.<end>
 
 =>a19
 
-Donnez-moi ces hypos. On n'en a jamais trop.<end>
+Prendre les hypos.<end>
 
 =>q20_original
 
@@ -172,7 +172,7 @@ I needed a new pair of boots anyway.<end>
 
 =>a21
 
-Il me fallait une paire de bottes, de toute façon.<end>
+Prendre les bottes.<end>
 
 =>q22_original
 
@@ -180,7 +180,7 @@ You're in luck then. May they serve you for many miles.<end>
 
 =>q22
 
-Vous tombez bien, alors. Qu'elles vous tiennent encore longtemps.<end>
+T'as de la chance, alors. Qu'elles te tiennent encore des kilomètres.<end>
 
 =>a23_original
 
@@ -188,7 +188,7 @@ I'll trade it for all of it.<end>
 
 =>a23
 
-Je l'échange contre le lot.<end>
+Échanger contre le lot.<end>
 
 =>q24_original
 
@@ -204,7 +204,7 @@ You heard me. It's all or nothing.<end>
 
 =>a25
 
-Vous m'avez entendu. Tout, ou rien.<end>
+T'as entendu. Tout, ou rien.<end>
 
 =>q26_original
 
@@ -236,7 +236,7 @@ On se reverra, vieux.<end>
 
 =>a29
 
-::[Mercantile]:: C'est juste, voyons. C'est une sacrée bonne montre, et en échange vous me sortez : une vieille mitraillette rouillée, une paire de bottes usées jusqu'à la corde, ou des hypos de santé, dont j'ai déjà plein les poches.<end>
+::[Mercantile]:: C'est juste, voyons. C'est une sacrée bonne montre, et en échange tu me sors : une vieille mitraillette rouillée, une paire de bottes usées jusqu'à la corde, ou des hypos de santé, dont j'ai déjà plein les poches.<end>
 
 =>q30_original
 
@@ -244,7 +244,7 @@ You drive a hard bargain, $(context.player.Name). ::He sighs.:: Well, alright, I
 
 =>q30
 
-Vous négociez serré, $(context.player.Name). ::Il soupire.:: Bon, d'accord. J'ai pas trop le choix. Voilà.<end>
+Tu négocies serré, $(context.player.Name). ::Il soupire.:: Bon. J'ai pas trop le choix. Voilà.<end>
 
 =>a31_original
 
@@ -252,7 +252,7 @@ Just kidding. What were my choices again?<end>
 
 =>a31
 
-Je plaisante. C'était quoi, les choix, déjà ?<end>
+Plaisanter. Rappeler les choix.<end>
 
 =>a32_original
 
@@ -260,7 +260,7 @@ You know, this is a nice looking watch. I think I'll keep it for myself.<end>
 
 =>a32
 
-Vous savez, elle est plutôt belle, cette montre. Je vais la garder.<end>
+Garder la montre.<end>
 
 =>q33_original
 
@@ -292,7 +292,7 @@ I think your watch has been given a second chance, old man. ::Show him the old w
 
 =>a36
 
-Je crois que votre montre a eu une seconde chance, vieux. ::Lui montrer la vieille montre.::<end>
+Ta montre a eu une seconde chance, vieux. ::Lui montrer la vieille montre.::<end>
 
 =>q37_original
 
@@ -316,7 +316,7 @@ Remember that watch you mentioned earlier. I think I found it.<end>
 
 =>a39
 
-Vous vous souvenez de la montre dont vous parliez ? Je crois l'avoir trouvée.<end>
+Rendre la montre dont il parlait.<end>
 
 =>a40_original
 
@@ -340,7 +340,7 @@ What are you doing here?<end>
 
 =>a42
 
-Qu'est-ce que vous faites ici ?<end>
+Qu'est-ce que tu fais ici ?<end>
 
 =>q43_original
 
@@ -348,7 +348,7 @@ Just sortin' through some goods I scavenged today. Wanna take a look, see if the
 
 =>q43
 
-Je trie ce que j'ai ramassé aujourd'hui. Vous voulez jeter un œil, voir s'il y a un truc qui vous plaît, avant que je ramène le tout à la station ? Je fais un prix honnête.<end>
+Je trie ce que j'ai ramassé aujourd'hui. Tu veux jeter un œil, voir s'il y a un truc qui te plaît, avant que je ramène le tout à la station ? Je fais un prix honnête.<end>
 
 =>a44_original
 
@@ -356,7 +356,7 @@ Sure. Let me see what you have. ::Barter.::<end>
 
 =>a44
 
-Allez. Montrez-moi ce que vous avez. ::Troc.::<end>
+Voir le stock. ::Troquer.::<end>
 
 =>a45_original
 
@@ -364,7 +364,7 @@ Perhaps later.<end>
 
 =>a45
 
-Peut-être plus tard.<end>
+Plus tard.<end>
 
 =>q46_original
 
@@ -372,7 +372,7 @@ Suit yourself.<end>
 
 =>q46
 
-Comme vous voulez.<end>
+Comme tu veux.<end>
 
 =>a47_original
 
@@ -380,7 +380,7 @@ I hear you are very knowledgeable of the tunnels and I could use some advice.<en
 
 =>a47
 
-On dit que vous connaissez les tunnels mieux que personne. J'aurais besoin de conseils.<end>
+Demander des conseils sur les tunnels.<end>
 
 =>q48_original
 
@@ -388,7 +388,7 @@ Been crawlin' through them tunnels all my life. What do you want to know?<end>
 
 =>q48
 
-J'rampe dans ces tunnels depuis toujours. Qu'est-ce que vous voulez savoir ?<end>
+J'rampe dans ces tunnels depuis toujours. Qu'est-ce que tu veux savoir ?<end>
 
 =>q49_original
 
@@ -404,7 +404,7 @@ Do you know how I can get to that Junkyard place?<end>
 
 =>a50
 
-Vous savez comment aller jusqu'au Junkyard ?<end>
+Tu sais comment aller jusqu'au Junkyard ?<end>
 
 =>q51_original
 
@@ -412,7 +412,7 @@ Off to do some junk diggin', eh? Just go to the far side of Mushroom Cove and ta
 
 =>q51
 
-Vous allez fouiller dans la ferraille, hein ? Traversez Mushroom Cove jusqu'au bout, puis prenez les tunnels vers le nord. Si les rathounds vous laissent en un seul morceau et que les coléoptères psi vous explosent pas le crâne, vous finirez par arriver au Junkyard. Le bac qui traverse Chancer's Bay, c'est plus sûr, par contre. Y en a un aux docks de SGS.<end>
+Tu vas fouiller dans la ferraille, hein ? Tu vas au bout de Mushroom Cove, et tu prends les tunnels vers le nord. Si les rathounds te laissent en un seul morceau et que les coléoptères psi t'explosent pas le crâne, tu finiras par arriver au Junkyard. Le bac de Chancer's Bay, c'est plus sûr, par contre. Y en a un aux docks de SGS.<end>
 
 =>a52_original
 
@@ -446,7 +446,7 @@ Thus they've been given a "second chance."<end>
 
 =>q55
 
-Vous savez ce que c'est, les marchandises de seconde chance, même si vous les appelez pas comme ça. Prenez cet exemple : un type achète une paire de bottes chez un marchand. De belles bottes en cuir, confortables. Il sort les essayer dans les grottes, et des brutes lui tombent dessus. Tabassé et dépouillé, ou juste volé. Les brutes, de préférence à la solde du marchand qui les lui a vendues, ramènent les bottes pour qu'il puisse les revendre.
+Tu sais ce que c'est, les marchandises de seconde chance, même si tu les appelles pas comme ça. Prends cet exemple : un type achète une paire de bottes chez un marchand. De belles bottes en cuir, confortables. Il sort les essayer dans les grottes, et des brutes lui tombent dessus. Tabassé et dépouillé, ou juste volé. Les brutes, de préférence à la solde du marchand qui les lui a vendues, ramènent les bottes pour qu'il puisse les revendre.
 
 Voilà. On leur a donné une « seconde chance ».<end>
 
@@ -456,7 +456,7 @@ Heh. Pretty common stuff in Junkyard, as you'd expect. Hence the bay's name - th
 
 =>q56
 
-Héhé. Courant au Junkyard, comme on peut s'y attendre. D'où le nom de la baie : Chancer's Bay.<end>
+Héhé. Courant au Junkyard, comme tu t'en doutes. D'où le nom de la baie : Chancer's Bay.<end>
 
 =>a57_original
 
@@ -472,7 +472,7 @@ Now you're overthinkin' it. They're second chance goods no matter how many chanc
 
 =>q58
 
-Vous compliquez trop. C'est de la seconde chance, peu importe le nombre de chances. Vous pigez ?<end>
+Tu compliques trop. C'est de la seconde chance, peu importe le nombre de chances. Tu piges ?<end>
 
 =>a59_original
 
@@ -480,7 +480,7 @@ Vous compliquez trop. C'est de la seconde chance, peu importe le nombre de chanc
 
 =>a59
 
-::Hocher la tête.:: Autre chose, maintenant.<end>
+::Hocher la tête.:: Autre chose.<end>
 
 =>q60_original
 
@@ -504,7 +504,7 @@ What can you tell me about the abandoned outposts nearby?<end>
 
 =>a62
 
-Qu'est-ce que vous pouvez me dire des avant-postes abandonnés, par ici ?<end>
+Qu'est-ce que tu peux me dire des avant-postes abandonnés, par ici ?<end>
 
 =>q63_original
 
@@ -520,7 +520,7 @@ Oh, if you are heading there, could you do me a favor? I was scavengin' near tho
 
 =>q64
 
-Tiens, si vous y allez, vous pourriez me rendre un service ? J'étais en train de fouiller près de ces avant-postes, y a un moment, et je crois que j'y ai perdu ma vieille montre numérique. De cette taille, à peu près, en métal. Pas de bracelet, je la garde dans ma poche.<end>
+Tiens, si tu y vas, tu pourrais me rendre un service ? J'étais en train de fouiller près de ces avant-postes, y a un moment, et je crois que j'y ai perdu ma vieille montre numérique. De cette taille, à peu près, en métal. Pas de bracelet, je la garde dans ma poche.<end>
 
 =>q65_original
 
@@ -528,7 +528,7 @@ It must have fallen out somewhere. Could you keep an eye out for it? If you brin
 
 =>q65
 
-Elle a dû glisser quelque part. Vous pourriez garder un œil ouvert ? Si vous me la ramenez, je vous ferai un bon prix.<end>
+Elle a dû glisser quelque part. Tu pourrais garder un œil ouvert ? Si tu me la ramènes, je te ferai un bon prix.<end>
 
 =>a66_original
 
@@ -536,7 +536,7 @@ You mean like this one?<end>
 
 =>a66
 
-Vous voulez dire, comme celle-ci ?<end>
+Comme celle-ci ?<end>
 
 =>a67_original
 
@@ -544,7 +544,7 @@ Metal detectors on! I'll have your watch back in no time.<end>
 
 =>a67
 
-Détecteurs de métaux allumés ! Je vous ramène ça en deux temps trois mouvements.<end>
+Chercher la montre. Détecteurs de métaux allumés.<end>
 
 =>q68_original
 
@@ -560,7 +560,7 @@ I'll keep a look out, but I can't promise anything.<end>
 
 =>a69
 
-Je garderai un œil ouvert, mais je promets rien.<end>
+Garder un œil, sans promettre.<end>
 
 =>q70_original
 
@@ -576,7 +576,7 @@ Sorry but I've got more important things to do than look for your watch.<end>
 
 =>a71
 
-Désolé, j'ai mieux à faire que de chercher votre montre.<end>
+Refuser de chercher la montre.<end>
 
 =>q72_original
 
@@ -584,7 +584,7 @@ Désolé, j'ai mieux à faire que de chercher votre montre.<end>
 
 =>q72
 
-::Il soupire un peu.:: J'imagine, oui.<end>
+::Il soupire un peu.:: J'imagine, ouais.<end>
 
 =>q73_original
 
@@ -608,7 +608,7 @@ Is it really true that you descended to the bottom of Deep Caverns?<end>
 
 =>a75
 
-C'est vrai que vous êtes descendu au fond des Deep Caverns ?<end>
+C'est vrai que t'es descendu au fond des Deep Caverns ?<end>
 
 =>q76_original
 
@@ -616,7 +616,7 @@ C'est vrai que vous êtes descendu au fond des Deep Caverns ?<end>
 
 =>q76
 
-::Il rit.:: Écoutez, jeune, y a pas un recoin de ce sous-monde maudit où ces vieilles jambes sont pas allées. Je suis descendu aussi bas qu'on peut descendre, et j'ai même jeté un œil dans les fameuses cuves mutagènes, et...<end>
+::Il rit.:: Écoute, $(#gamin/gamine), y a pas un recoin de ce sous-monde maudit où ces vieilles jambes sont pas allées. Je suis descendu aussi bas qu'on peut descendre, et j'ai même jeté un œil dans les fameuses cuves mutagènes, et...<end>
 
 =>q77_original
 
@@ -624,7 +624,7 @@ Well, it's somewhat of a long story. You sure you wanna hear it?<end>
 
 =>q77
 
-C'est une assez longue histoire. Vous êtes sûr de vouloir l'entendre ?<end>
+C'est une assez longue histoire. T'es $(#sûr/sûre) de vouloir l'entendre ?<end>
 
 =>a78_original
 
@@ -640,7 +640,7 @@ It happened a long time ago, and my memory's a bit... fuzzy, but here goes: I wa
 
 =>q79
 
-Ça s'est passé il y a longtemps, et ma mémoire est un peu... brouillée, mais voilà : j'étais jeune, fort et beau. Un beau gosse, héhé. Ferrailleur dans l'âme, je le suis toujours, un spéléo qui a tapé presque toutes les grottes du South Underrail. Un jour, j'ai eu l'occasion d'aller plus bas. Dans les Deep Caverns.<end>
+Ça s'est passé il y a longtemps, et ma mémoire est un peu... brouillée, mais voilà : j'étais jeune, fort et beau. Un beau gosse, héhé. La récup, c'est dans le sang, encore aujourd'hui. Un spéléo. J'ai tapé presque toutes les grottes du South Underrail. Un jour, j'ai eu l'occasion d'aller plus bas. Dans les Deep Caverns.<end>
 
 =>q80_original
 
@@ -656,7 +656,7 @@ Anyway, I took a ride down and soon enough I arrived to an old ruined Biocorp co
 
 =>q81
 
-Bref, j'ai pris l'ascenseur, et pas longtemps après j'arrivais dans un vieux compound Biocorp en ruine, bâti dans une série de grandes cavernes.<end>
+Bref, j'ai pris l'ascenseur, et peu après je déboulais dans un vieux compound Biocorp en ruine, planté dans une série de grandes cavernes.<end>
 
 =>q82_original
 
@@ -672,7 +672,7 @@ Should've seen me back in those days. I was at the top of my game.<end>
 
 =>q83
 
-Fallait me voir, à l'époque. J'étais au sommet de ma forme.<end>
+Fallait me voir, à l'époque. J'étais au top.<end>
 
 =>q84_original
 
@@ -736,7 +736,7 @@ Aucune idée.<end>
 
 =>a91
 
-::[Intelligence]:: Le choc vous a fait oublier ?<end>
+::[Intelligence]:: Le choc t'a fait oublier ?<end>
 
 =>q92_original
 
@@ -744,7 +744,7 @@ I guess so, and I'm glad for it.<end>
 
 =>q92
 
-J'imagine, oui. Et j'en suis bien content.<end>
+J'imagine, ouais. Et j'en suis bien content.<end>
 
 =>q93_original
 
@@ -768,7 +768,7 @@ The thing you saw was probably Tchort, a mutated giant pile of flesh with one bi
 
 =>a95
 
-Ce que vous avez vu, c'était probablement Tchort. Un tas de chair géant muté, un gros œil, des tentacules, et qui se prend pour un dieu.<end>
+Ce que t'as vu, c'était probablement Tchort. Un tas de chair géant muté, un gros œil, des tentacules, et qui se prend pour un dieu.<end>
 
 =>q96_original
 
@@ -832,7 +832,7 @@ Meh, you wouldn't be sayin' that if it happened to you.<end>
 
 =>q103
 
-Mouais. Vous diriez pas ça si ça vous était arrivé.<end>
+Mouais. Tu dirais pas ça si ça t'était arrivé.<end>
 
 =>a104_original
 
@@ -872,7 +872,7 @@ Not right now, no.<end>
 
 =>a108
 
-Pas maintenant, non.<end>
+Pas maintenant.<end>
 
 =>q109_original
 
@@ -880,7 +880,7 @@ Suit yourself.<end>
 
 =>q109
 
-Comme vous voulez.<end>
+Comme tu veux.<end>
 
 =>q110_original
 
@@ -888,7 +888,7 @@ Well, maybe I'll tell you more over a drink sometime.<end>
 
 =>q110
 
-Peut-être que je vous en dirai plus autour d'un verre, un de ces jours.<end>
+Peut-être que je t'en dirai plus autour d'un verre, un de ces jours.<end>
 
 =>a111_original
 
@@ -896,7 +896,7 @@ You promised to tell me about your descent into the Deep Caverns.<end>
 
 =>a111
 
-Vous aviez promis de me parler de votre descente dans les Deep Caverns.<end>
+Rappeler la descente dans les Deep Caverns.<end>
 
 =>q112_original
 
@@ -904,7 +904,7 @@ Look, youngster, I don't want to know anythin' about any giant mutated eldritch 
 
 =>q112
 
-Écoutez, jeune, je veux rien savoir sur des tas de chair géants, mutés, contre nature. Si c'est ça que j'ai vu en bas, tant mieux si je m'en souviens pas.<end>
+Écoute, $(#gamin/gamine), je veux rien savoir sur des tas de chair géants, mutés, d'un autre monde. Si c'est ça que j'ai vu en bas, tant mieux si je m'en souviens pas.<end>
 
 =>a113_original
 
@@ -912,7 +912,7 @@ You can't remember it?<end>
 
 =>a113
 
-Vous ne vous en souvenez pas ?<end>
+Tu t'en souviens pas ?<end>
 
 =>q114_original
 
@@ -928,7 +928,7 @@ I understand.<end>
 
 =>a115
 
-Je comprends.<end>
+Comprendre.<end>
 
 =>q116_original
 
@@ -944,7 +944,7 @@ Eh, what do you need to hear my story for? You got one of your own now.<end>
 
 =>q117
 
-Eh, pourquoi vous voulez entendre la mienne ? Vous en avez une, maintenant.<end>
+Eh, pourquoi tu veux entendre la mienne ? T'en as une, maintenant.<end>
 
 =>a118_original
 
@@ -952,7 +952,7 @@ Maybe we can compare experiences.<end>
 
 =>a118
 
-On pourrait comparer.<end>
+Proposer de comparer.<end>
 
 =>q119_original
 
@@ -961,7 +961,7 @@ I'd rather not. You know, there are some parts of my "experience," as you say, t
 
 =>q119
 
-Je préfère pas. Vous savez, y a des morceaux de mon « expérience », comme vous dites, dont je me souviens pas. Et c'est sans doute mieux comme ça. Je veux pas que votre histoire m'aide à me souvenir.
+Je préfère pas. Tu sais, y a des morceaux de mon « expérience », comme tu dis, dont je me souviens pas. Et c'est sans doute mieux comme ça. Je veux pas que ton histoire m'aide à me souvenir.
 <end>
 
 =>a120_original
@@ -970,7 +970,7 @@ I guess you're right.<end>
 
 =>a120
 
-Vous avez sans doute raison.<end>
+Acquiescer.<end>
 
 =>q121_original
 
@@ -1002,7 +1002,7 @@ The passage to the lake is clear, though, if you're up for some fishin' or somet
 
 =>q124
 
-Le passage vers le lac est libre, par contre, si vous avez envie de pêcher ou un truc du genre.<end>
+Le passage vers le lac est libre, par contre, si t'as envie de pêcher ou un truc du genre.<end>
 
 =>a125_original
 
@@ -1010,7 +1010,7 @@ Can you tell me a bit about creatures that inhabit these tunnels?<end>
 
 =>a125
 
-Vous pouvez me parler des créatures qui vivent dans ces tunnels ?<end>
+Tu peux me parler des créatures qui vivent dans ces tunnels ?<end>
 
 =>q126_original
 
@@ -1018,7 +1018,7 @@ Well, there's cave hoppers, mole crickets, rathounds, psi beetles... and rarely 
 
 =>q126
 
-Y a les sauteurs des caves, les courtilières, les rathounds, les coléoptères psi... et, plus rarement, les crawlers de l'ombre. Quelle bête vous intéresse ?<end>
+Y a les sauteurs des caves, les courtilières, les rathounds, les coléoptères psi... et, plus rarement, les shadow crawlers. Quelle bête t'intéresse ?<end>
 
 =>q127_original
 
@@ -1034,7 +1034,7 @@ Tell me about cave hoppers.<end>
 
 =>a128
 
-Parlez-moi des sauteurs des caves.<end>
+Les sauteurs des caves.<end>
 
 =>q129_original
 
@@ -1042,7 +1042,7 @@ They are harmless little critters; quite tasty if cooked properly too. You'll ge
 
 =>q129
 
-Des petites bêtes inoffensives. Et plutôt bonnes, si on les cuit comme il faut. Vous les trouverez surtout près des lacs et dans les grottes humides : c'est là que pousse leur plat préféré, le champignon de lac.<end>
+Des petites bêtes inoffensives. Et plutôt bonnes, si on les cuit comme il faut. Tu les trouves surtout près des lacs et dans les grottes humides : c'est là que pousse leur plat préféré, le champignon de lac.<end>
 
 =>q130_original
 
@@ -1050,7 +1050,7 @@ They can be hard to hunt down sometimes because they are fast little buggers and
 
 =>q130
 
-Des fois c'est galère à chasser : ces petites pestes sont rapides, et elles se faufilent dans des fentes où vous croiriez jamais qu'elles passent.<end>
+Des fois c'est galère à chasser : ces petites pestes sont rapides, et elles se faufilent dans des fentes où tu croirais jamais qu'elles passent.<end>
 
 =>q131_original
 
@@ -1058,7 +1058,7 @@ If you're looking to catch or kill one, best tactic is to hide near a patch of l
 
 =>q131
 
-Si vous voulez en attraper ou en tuer un, le mieux c'est de vous planquer près d'un tapis de champignons de lac et de les attendre à l'affût quand ils viennent manger.<end>
+Si tu veux en attraper ou en tuer un, le mieux c'est de te planquer près d'un tapis de champignons de lac et de les attendre à l'affût quand ils viennent manger.<end>
 
 =>a132_original
 
@@ -1066,7 +1066,7 @@ What do you know about mole crickets?<end>
 
 =>a132
 
-Qu'est-ce que vous savez des courtilières ?<end>
+Qu'est-ce que tu sais des courtilières ?<end>
 
 =>q133_original
 
@@ -1074,7 +1074,7 @@ They're probably the smallest of the big insects. They are aggressive and will a
 
 =>q133
 
-C'est probablement les plus petites des gros insectes. Elles sont agressives, elles vous sautent dessus si vous approchez, mais c'est pas si dangereux. En général vous pouvez juste les écraser au pied, ou les exploser au pied-de-biche, un truc comme ça.<end>
+C'est probablement les plus petites du lot, parmi les gros insectes. Elles sont agressives, elles te sautent dessus si t'approches, mais c'est pas si dangereux. En général tu peux juste les écraser au pied, ou les exploser au pied-de-biche, un truc comme ça.<end>
 
 =>q134_original
 
@@ -1082,7 +1082,7 @@ Their bites are weak and you should be fine as long as you have *some* armor on 
 
 =>q134
 
-Leurs morsures sont faibles, vous devriez tenir tant que vous avez *un peu* d'armure. Mais c'est acide : laissez-les pas grignoter trop longtemps, ou vous allez sentir la brûlure.<end>
+Leurs morsures sont faibles, tu devrais tenir tant que t'as *un peu* d'armure. Mais c'est acide : laisse-les pas grignoter trop longtemps, ou tu vas sentir la brûlure.<end>
 
 =>a135_original
 
@@ -1098,7 +1098,7 @@ Rathounds are ugly, smelly, mangy, disease ridden dog-sized rats. You can find t
 
 =>q136
 
-Les rathounds, c'est des rats laids, puants, galeux, bourrés de maladies, de la taille d'un chien. Vous les trouvez partout. Et si vous les trouvez pas quelque part, sachez qu'ils y arriveront, tôt ou tard. <end>
+Les rathounds, c'est des rats laids, puants, galeux, bourrés de maladies, de la taille d'un chien. Tu les trouves partout. Et si tu les trouves pas quelque part, sache qu'ils y arriveront, tôt ou tard. <end>
 
 =>q137_original
 
@@ -1106,7 +1106,7 @@ Individually they are not so tough, but they usually move around in packs, somet
 
 =>q137
 
-Tout seuls, ils sont pas si costauds. Mais ils se déplacent en meute, des fois en horde. De sacrés chasseurs de meute. Laissez-les pas vous cerner.<end>
+Tout seuls, ils sont pas si costauds. Mais ils se déplacent en meute, des fois en horde. De sacrés chasseurs de meute. Laisse-les pas te cerner.<end>
 
 =>q138_original
 
@@ -1114,7 +1114,7 @@ If you are in a pinch, throw flares, they are deathly afraid of fire.<end>
 
 =>q138
 
-Si ça tourne mal, jetez des fusées. Ils ont une peur bleue du feu.<end>
+Si ça tourne mal, jette des fusées éclairantes. Ils ont une peur bleue du feu.<end>
 
 =>a139_original
 
@@ -1130,7 +1130,7 @@ Now that's a critter you just want to steer clear of.<end>
 
 =>q140
 
-Ça, c'est une bête dont vous voulez rester loin. Loin.<end>
+Ça, tu veux rester loin de cette bête. Loin.<end>
 
 =>q141_original
 
@@ -1138,7 +1138,7 @@ Scientists call them azure-something, because of their blue stripes, but the res
 
 =>q141
 
-Les scientifiques les appellent azur-quelque chose, à cause des rayures bleues. Nous, on dit coléoptères psi, ou cafards psi, pour une raison évidente : ce sont des insectes qui vous envoient toutes sortes de psi dans la figure.<end>
+Les scientifiques les appellent azur-quelque chose, à cause des rayures bleues. Nous, on dit coléoptères psi, ou cafards psi, pour une raison évidente : ce sont des insectes qui t'envoient toutes sortes de psi dans la figure.<end>
 
 =>q142_original
 
@@ -1146,7 +1146,7 @@ If you bump into one, you might be able to take it, but it'll literally give you
 
 =>q142
 
-Si vous en croisez un, vous pouvez peut-être le gérer. Mais il va vraiment vous filer mal à la tête.<end>
+Si t'en croises un, tu peux peut-être t'en sortir. Mais il va vraiment te filer mal à la tête.<end>
 
 =>q143_original
 
@@ -1154,7 +1154,7 @@ If you run into two of them, you better start retreatin' while you can. At least
 
 =>q143
 
-Si vous en croisez deux, vous feriez bien de battre en retraite tant que c'est possible. Au moins ils sont pas trop rapides, vous devriez pouvoir les distancer.<end>
+Si t'en croises deux, tu ferais bien de battre en retraite tant que tu peux. Au moins ils sont pas trop rapides, tu devrais pouvoir les distancer.<end>
 
 =>q144_original
 
@@ -1162,7 +1162,7 @@ If you run into three, it's probably already too late.<end>
 
 =>q144
 
-Si vous en croisez trois, c'est probablement déjà trop tard.<end>
+Si t'en croises trois, c'est probablement déjà trop tard.<end>
 
 =>q145_original
 
@@ -1170,7 +1170,7 @@ You see, the weird thing is, not only do they hit you harder when they are in a 
 
 =>q145
 
-Vous voyez, le truc bizarre : non seulement ils tapent plus fort en groupe, mais plus ils sont nombreux, plus ils vous envoient des trucs de plus en plus tordus. Et s'il y a un goliath dans le tas, là vous êtes en enfer psionique.<end>
+Tu vois, le truc bizarre : non seulement ils tapent plus fort en groupe, mais plus ils sont nombreux, plus ils t'envoient des trucs de plus en plus tordus. Et s'il y a un goliath dans le tas, là t'es en enfer psionique.<end>
 
 =>q146_original
 
@@ -1178,7 +1178,7 @@ If you absolutely must fight them, try to get close and personal. They are not c
 
 =>q146
 
-Si vous devez absolument les combattre, approchez, au contact. Ils aiment pas exposer leur gros cerveau pour lancer du psi quand y a du monde à côté. Même pas les goliaths. À la place, ils essaient de prendre de la distance, ou ils vous mordent. Et leur morsure est bien moins dangereuse que leur psi. Les goliaths ont de grosses cornes, par contre, et ça traverse un homme facilement.<end>
+Si tu dois absolument les combattre, approche, au contact. Ils aiment pas exposer leur gros cerveau pour lancer du psi quand y a du monde à côté. Même pas les goliaths. À la place, ils essaient de prendre de la distance, ou ils te mordent. Et leur morsure est bien moins dangereuse que leur psi. Les goliaths ont de grosses cornes, par contre, et ça traverse un homme facilement.<end>
 
 =>q147_original
 
@@ -1186,7 +1186,7 @@ The psi beetles usually hang around mindshrooms, so if you're in an area where t
 
 =>q147
 
-Les coléoptères psi traînent souvent près des mindshrooms. Si vous êtes dans un coin où y en a plein, restez sur vos gardes.<end>
+Les coléoptères psi traînent souvent près des mindshrooms. Si t'es dans un coin où y en a plein, reste sur tes gardes.<end>
 
 =>a148_original
 
@@ -1194,7 +1194,7 @@ What are these shadow crawlers?<end>
 
 =>a148
 
-C'est quoi, ces crawlers de l'ombre ?<end>
+C'est quoi, ces shadow crawlers ?<end>
 
 =>q149_original
 
@@ -1202,7 +1202,7 @@ Vile, awful insects that crawl around them cave walls, all quiet and sneaky. The
 
 =>q149
 
-Des insectes viles, dégueulasses, qui rampent sur les parois, tout doux, tout sournois. Ils surprennent leurs victimes d'une bonne dose de venin paralysant, puis ils reculent dans l'ombre jusqu'à ce que le poison vous fige raide comme un rail. Et après, ils vous bouffent.<end>
+Des insectes immondes, dégueulasses, qui rampent sur les parois, tout doux, tout sournois. Ils surprennent leurs victimes d'une bonne dose de venin paralysant, puis ils reculent dans l'ombre jusqu'à ce que le poison te fige raide comme un rail. Et après, ils te bouffent.<end>
 
 =>q150_original
 
@@ -1212,9 +1212,9 @@ In case you notice things are gettin' a bit too quiet - be on the lookout.<end>
 
 =>q150
 
-::Il ricane.:: Tremblez pas tout de suite : près de SGS, on les voit rarement. Mais là-bas...
+::Il ricane.:: Tremble pas tout de suite : près de SGS, on les voit rarement. Mais là-bas...
 
-Si vous sentez que ça devient un peu trop calme, ouvrez l'œil.<end>
+Si tu sens que ça devient un peu trop calme, ouvre l'œil.<end>
 
 =>a151_original
 
@@ -1222,7 +1222,7 @@ Never mind. Let me ask you something else.<end>
 
 =>a151
 
-Laissez tomber. Autre chose.<end>
+Laisser tomber. Autre chose.<end>
 
 =>q152_original
 
@@ -1230,7 +1230,7 @@ Yeah?<end>
 
 =>q152
 
-Oui ?<end>
+Ouais ?<end>
 
 =>a153_original
 
@@ -1254,7 +1254,7 @@ Some say that they have a huge city in the middle of the Deep Caverns that you c
 
 =>q155
 
-Certains disent qu'ils ont une énorme cité au milieu des Deep Caverns, et que vous y arrivez si vous suivez le plus long de leurs tunnels.<end>
+Certains disent qu'ils ont une énorme cité au milieu des Deep Caverns, et que tu y arrives si tu suis le plus long de leurs tunnels.<end>
 
 =>q156_original
 
@@ -1262,7 +1262,7 @@ Some also call them "the Faceless" because they believe that under their huge ma
 
 =>q156
 
-D'autres les appellent « les Faceless », parce qu'ils croient que sous leurs énormes masques, y a pas de visage. Les superstitieux aiment pas qu'on dise ce mot, par contre. Ils disent que ça peut attirer leur attention sur vous.<end>
+D'autres les appellent « les Faceless », parce qu'ils croient que sous leurs énormes masques, y a pas de visage. Les superstitieux aiment pas qu'on dise ce mot, par contre. Ils disent que ça peut attirer leur attention sur toi.<end>
 
 =>a157_original
 
@@ -1294,7 +1294,7 @@ So you've met some personally?<end>
 
 =>a160
 
-Vous en avez croisé, vous, en personne ?<end>
+T'en as croisé, toi, en personne ?<end>
 
 =>q161_original
 
@@ -1310,7 +1310,7 @@ Dang it, old man, you always hold back on the important parts.<end>
 
 =>a162
 
-Zut, vieux. Vous gardez toujours le meilleur pour la fin.<end>
+Bon sang, vieux. Tu gardes toujours le meilleur pour la fin.<end>
 
 =>q163_original
 
@@ -1318,7 +1318,7 @@ Haha, a good storyteller always leaves his public wantin' for more.<end>
 
 =>q163
 
-Haha. Un bon conteur laisse toujours son public en vouloir plus.<end>
+Haha. Un bon conteur, il te laisse toujours sur ta faim.<end>
 
 =>a164_original
 
@@ -1326,7 +1326,7 @@ Ok, thanks for the info.<end>
 
 =>a164
 
-D'accord. Merci pour les infos.<end>
+Merci pour les infos.<end>
 
 =>q165_original
 
@@ -1334,7 +1334,7 @@ No problem, but you owe me a drink.<end>
 
 =>q165
 
-Y a pas de quoi. Mais vous me devez un verre.<end>
+Y a pas de quoi. Mais tu me dois un verre.<end>
 
 =>a166_original
 
@@ -1342,7 +1342,7 @@ Ok, thanks for the info.<end>
 
 =>a166
 
-D'accord. Merci pour les infos.<end>
+Merci pour les infos.<end>
 
 =>a167_original
 
@@ -1350,7 +1350,7 @@ You mean like: Faceless, Faceless, Faceless...?<end>
 
 =>a167
 
-Vous voulez dire : Faceless, Faceless, Faceless... ?<end>
+Tu veux dire : Faceless, Faceless, Faceless... ?<end>
 
 =>q168_original
 
@@ -1358,7 +1358,7 @@ Haha, yes, but I think that's just silly.<end>
 
 =>q168
 
-Haha, oui. Mais je trouve ça un peu bête.<end>
+Haha, oui. Mais je trouve ça un peu con.<end>
 
 =>a169_original
 
@@ -1374,7 +1374,7 @@ Ok, thanks for the info.<end>
 
 =>a170
 
-D'accord. Merci pour les infos.<end>
+Merci pour les infos.<end>
 
 =>a171_original
 
@@ -1382,7 +1382,7 @@ Ok, thanks for the info.<end>
 
 =>a171
 
-D'accord. Merci pour les infos.<end>
+Merci pour les infos.<end>
 
 =>a172_original
 
@@ -1390,7 +1390,7 @@ Never mind. Let's talk about something else.<end>
 
 =>a172
 
-Laissez tomber. Parlons d'autre chose.<end>
+Laisser tomber. Parler d'autre chose.<end>
 
 =>q173_original
 
@@ -1398,7 +1398,7 @@ Alright, youngster.<end>
 
 =>q173
 
-Très bien, jeune.<end>
+Ça marche, $(#gamin/gamine).<end>
 
 =>a174_original
 
@@ -1406,7 +1406,7 @@ I got more questions about the tunnels for you.<end>
 
 =>a174
 
-J'ai d'autres questions sur les tunnels.<end>
+Poser d'autres questions sur les tunnels.<end>
 
 =>q175_original
 
@@ -1414,7 +1414,7 @@ Shoot.<end>
 
 =>q175
 
-Allez-y.<end>
+Vas-y.<end>
 
 =>a176_original
 
@@ -1422,7 +1422,7 @@ You said the outposts are to the north, right? How exactly do I get my bearings 
 
 =>a176
 
-Vous avez dit que les avant-postes étaient au nord, c'est ça ? Comment on se repère, ici, dans les tunnels ? C'est où, le nord ?<end>
+T'as dit que les avant-postes étaient au nord, c'est ça ? Comment on se repère, ici, dans les tunnels ? C'est où, le nord ?<end>
 
 =>q177_original
 
@@ -1430,7 +1430,7 @@ I think I got one of them, eh, compasses somewhere 'round here if you're interes
 
 =>q177
 
-Je crois que j'en ai une, euh, une boussole, quelque part par là, si le troc vous dit.<end>
+Je crois que j'en ai une, euh, une boussole, quelque part par là, si le troc te dit.<end>
 
 =>a178_original
 
@@ -1438,7 +1438,7 @@ That'd be useful. What do you want for it?<end>
 
 =>a178
 
-Ça m'irait. Vous en voulez quoi ?<end>
+Ça m'irait. T'en veux quoi ?<end>
 
 =>a179_original
 
@@ -1446,7 +1446,7 @@ I'll find my way around somehow.<end>
 
 =>a179
 
-Je me débrouillerai.<end>
+Se débrouiller.<end>
 
 =>q180_original
 
@@ -1454,7 +1454,7 @@ Je me débrouillerai.<end>
 
 =>q180
 
-::Il ricane.:: Comme vous voulez.<end>
+::Il ricane.:: Comme tu veux.<end>
 
 =>a181_original
 
@@ -1462,7 +1462,7 @@ I'm looking for an old friend of yours, Blaine. You got any idea where he might 
 
 =>a181
 
-Je cherche un de vos vieux amis. Blaine. Vous savez où il pourrait être ?<end>
+Chercher Blaine.<end>
 
 =>q182_original
 
@@ -1470,7 +1470,7 @@ Je cherche un de vos vieux amis. Blaine. Vous savez où il pourrait être ?<end>
 
 =>q182
 
-::Il vous lance un regard méfiant.:: Pourquoi vous cherchez Blaine ?<end>
+::Il te lance un regard méfiant.:: Pourquoi tu cherches Blaine ?<end>
 
 =>a183_original
 
@@ -1478,7 +1478,7 @@ I've got some questions for him.<end>
 
 =>a183
 
-J'ai des questions pour lui.<end>
+Poser des questions.<end>
 
 =>q184_original
 
@@ -1502,7 +1502,7 @@ Do you at least have any hints as to where I should look for him?<end>
 
 =>a186
 
-Vous avez au moins une piste, un endroit où je pourrais le chercher ?<end>
+Demander une piste.<end>
 
 =>q187_original
 
@@ -1526,7 +1526,7 @@ Pourquoi pas les slums du Junkyard ? Il traînait souvent par là, ouais.<end>
 
 =>a189
 
-::[Persuade]:: Écoutez, je lui veux pas de mal. Je prépare une virée de récup' et je veux juste lui poser quelques questions sur Old Junkyard. C'est tout.<end>
+::[Persuade]:: Écoute, je lui veux pas de mal. Je prépare une virée de récup' et je veux juste lui poser quelques questions sur Old Junkyard. C'est tout.<end>
 
 =>q190_original
 
@@ -1534,7 +1534,7 @@ Pourquoi pas les slums du Junkyard ? Il traînait souvent par là, ouais.<end>
 
 =>q190
 
-::Il se tait quelques secondes, il vous jauge.:: D'accord. Mais je vous prends au mot.<end>
+::Il se tait quelques secondes, il te jauge.:: Bon. Mais je te prends au mot.<end>
 
 =>q191_original
 
@@ -1542,7 +1542,7 @@ You can find him in the under-passages not too far from SGS. Just head out north
 
 =>q191
 
-Vous le trouverez dans les under-passages, pas trop loin de SGS. Sortez au nord, passez la station, et prenez un des escaliers vers le bas. Cherchez sa boutique, en bas. Pour entrer, y a qu'un moyen : bipper l'interphone deux fois court, une fois long, puis deux fois court encore. Vous pigez ? Deux fois court, une fois long, deux fois court encore.<end>
+Tu le trouveras dans les under-passages, pas trop loin de SGS. Sors au nord, passe la station, et prends un des escaliers vers le bas. Cherche sa boutique, en bas. Pour entrer, y a qu'un moyen : bipper l'interphone deux fois court, une fois long, puis deux fois court encore. Tu piges ? Deux fois court, une fois long, deux fois court encore.<end>
 
 =>a192_original
 
@@ -1558,7 +1558,7 @@ Look, look, I told you already - I don't know where he is.<end>
 
 =>q193
 
-Hé, hé. Je vous l'ai déjà dit : je sais pas où il est.<end>
+Hé, hé. Je te l'ai déjà dit : je sais pas où il est.<end>
 
 =>a194_original
 
@@ -1566,7 +1566,7 @@ Never mind.<end>
 
 =>a194
 
-Laissez tomber.<end>
+Laisser tomber.<end>
 
 =>a195_original
 
@@ -1582,7 +1582,7 @@ I'm looking for some advice on Old Junkyard.<end>
 
 =>a196
 
-J'aurais besoin de conseils sur Old Junkyard.<end>
+Demander des conseils sur Old Junkyard.<end>
 
 =>a197_original
 
@@ -1590,7 +1590,7 @@ That's none of your business.<end>
 
 =>a197
 
-Ça ne vous regarde pas.<end>
+Ça te regarde pas.<end>
 
 =>a198_original
 
@@ -1598,7 +1598,7 @@ About your friend Blaine...<end>
 
 =>a198
 
-À propos de votre ami Blaine...<end>
+À propos de Blaine...<end>
 
 =>q199_original
 
@@ -1614,7 +1614,7 @@ What do you know about Patrick Pierce's death?<end>
 
 =>a200
 
-Qu'est-ce que vous savez de la mort de Patrick Pierce ?<end>
+Qu'est-ce que tu sais de la mort de Patrick Pierce ?<end>
 
 =>q201_original
 
@@ -1630,7 +1630,7 @@ Nothin'. Still couldn't figure it out. Now, Doc's far too busy saving people's l
 
 =>q202
 
-Rien. Toujours rien compris. Le Doc est bien trop occupé à sauver des vivants pour passer trop de temps sur les morts, vous pigez. Y a tellement de trucs que la médecine, en tant que science, a même pas encore effleurés. Je vois pourquoi, des fois, il faut tracer la ligne. C'est triste, mais on peut pas avoir *toutes* les réponses. C'était pas une maladie contagieuse, ni un autre diable. Et c'est le plus important.<end>
+Rien. Toujours rien compris. Le Doc est bien trop occupé à sauver des vivants pour passer trop de temps sur les morts, tu piges. Y a tellement de trucs que la médecine a même pas encore effleurés. Ça se comprend, des fois, qu'il faille savoir s'arrêter. C'est triste, mais on peut pas avoir *toutes* les réponses. C'était pas une maladie contagieuse, ni un autre fléau. Et c'est le plus important.<end>
 
 =>a203_original
 
@@ -1638,7 +1638,7 @@ Can you tell me what he was like as a person?<end>
 
 =>a203
 
-Vous pouvez me dire comment il était, lui, comme personne ?<end>
+Comment il était, lui, comme personne ?<end>
 
 =>q204_original
 
@@ -1662,7 +1662,7 @@ Damn shame, though. Damn shame.<end>
 
 =>q206
 
-Fichu gâchis, quand même. Fichu gâchis.<end>
+Quel gâchis, quand même. Quel gâchis.<end>
 
 =>a207_original
 
@@ -1670,7 +1670,7 @@ Let's barter. ::Barter.::<end>
 
 =>a207
 
-On troque. ::Troc.::<end>
+Troquer. ::Troquer.::<end>
 
 =>q208_original
 
@@ -1686,7 +1686,7 @@ Take a seat, youngster, have yourself a drink. You don't need to be rushin' abou
 
 =>q209
 
-Asseyez-vous, jeune. Prenez un verre. Pas besoin de courir tout le temps.<end>
+Assieds-toi, $(#gamin/gamine). Prends un verre. Pas besoin de courir tout le temps.<end>
 
 =>q210_original
 
@@ -1694,7 +1694,7 @@ Back again? What can Old Jonas do for you, youngster?<end>
 
 =>q210
 
-Encore vous ? Qu'est-ce qu'Old Jonas peut faire pour vous, jeune ?<end>
+Encore toi ? Qu'est-ce qu'Old Jonas peut faire pour toi, $(#gamin/gamine) ?<end>
 
 =>q211_original
 
@@ -1706,5 +1706,5 @@ Oh, it's the young $(context.player.Name). Off to do some huntin'?<end>
 
 ::Un vieil homme en vieux manteau, vieux pantalon et vieilles bottes se présente avec un sourire amical.::
 
-Ah, $(#le/la) jeune $(context.player.Name). On va à la chasse ?<end>
+Ah, $(#le/la) jeune $(context.player.Name). T'as l'air de partir à la chasse ?<end>
 

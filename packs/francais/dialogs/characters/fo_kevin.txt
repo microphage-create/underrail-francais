@@ -36,13 +36,13 @@ Je... ne vois pas de quoi vous parlez. Peut-être devriez-vous voir un marchand 
 Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
 
 =>q6
-Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions de qualité militaire. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
+Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions militaires. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
 
 =>a7_original
 Show me what you've got. ::Barter.::<end>
 
 =>a7
-Montrez-moi ça. ::Troc.::<end>
+Montrez-moi ça. ::Troquer.::<end>
 
 =>q8_original
 Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
@@ -60,7 +60,7 @@ Je ne peux rien pour vous, je suis vraiment désolé. Vous vouliez me demander a
 Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
 
 =>q10
-Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions de qualité militaire. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
+Bon, bon. Vous avez bien entendu : je peux vous fournir des armes et des munitions militaires. Mais soyons clairs : pas un mot à personne. Compris ? Oui ?<end>
 
 =>q11_original
 I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
@@ -84,7 +84,7 @@ Comme quoi ?<end>
 ::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
 
 =>a14
-::[Mercantile]:: Je suis un acheteur sérieux, Kevin, et je pense que vous ne l'avez pas encore compris. Pourquoi je dis ça ? Parce que je n'ai toujours pas vu le vrai haut de gamme que quelqu'un comme vous devrait proposer.<end>
+::[Mercantile]:: Je suis $(#un acheteur sérieux/une acheteuse sérieuse), Kevin, et je pense que vous ne l'avez pas encore compris. Pourquoi je dis ça ? Parce que je n'ai toujours pas vu le vrai haut de gamme que quelqu'un comme vous devrait proposer.<end>
 
 =>q15_original
 <end>
@@ -96,7 +96,7 @@ Comme quoi ?<end>
 Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
 
 =>q16
-Eh bien... Un acheteur sérieux devrait avoir des charons sur $(#lui/elle). Bon, bon. Je vais vous montrer le reste de mon stock. Mais vous connaissez la règle : vous restez discret, et c'est nickel. Oui ?<end>
+Eh bien... $(#Un acheteur sérieux/Une acheteuse sérieuse) devrait avoir des charons sur $(#lui/elle). Bon, bon. Je vais vous montrer le reste de mon stock. Mais vous connaissez la règle : vous restez $(#discret/discrète), et c'est nickel. Oui ?<end>
 
 =>q17_original
 Alright. Check this out.<end>
@@ -108,7 +108,7 @@ Très bien. Regardez ça.<end>
 ::Barter.::<end>
 
 =>a18
-::Troc.::<end>
+::Troquer.::<end>
 
 =>q19_original
 What you see is what you get. I've got nothing else to show you.<end>

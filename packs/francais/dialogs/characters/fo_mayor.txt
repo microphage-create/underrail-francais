@@ -50,7 +50,7 @@ Mais les morts ne sont pas les seuls à mériter vos hommages.<end>
 This young $(#man/woman) played an important role in helping the Foundry Guard slay the largest of these beasts, and the one that was responsible for most deaths. ::He turns to you.:: $(context.PlayerNameCaps)!<end>
 
 =>q9
-Ce jeune $(#homme/femme) a joué un rôle important en aidant la Garde Foundry à abattre la plus grande de ces bêtes, celle qui a fait le plus de morts. ::Il se tourne vers vous.:: $(context.PlayerNameCaps) !<end>
+$(#Ce jeune homme/Cette jeune femme) a joué un rôle important en aidant la Garde Foundry à abattre la plus grande de ces bêtes, celle qui a fait le plus de morts. ::Il se tourne vers vous.:: $(context.PlayerNameCaps) !<end>
 
 =>q10_original
 ::The crowd cheers.::<end>
@@ -86,7 +86,7 @@ Bien dit. Merci, $(context.player.Name), et merci à tous d'être venus aujourd'
 ::End Dialog.::<end>
 
 =>a15
-::Fin du dialogue.::<end>
+::Terminer.::<end>
 
 =>a16_original
 Foundry rules! It's a pleasure to be here.<end>
@@ -634,7 +634,7 @@ Non, elle ne l'est pas.<end>
 ::He shakes his head.:: Well, at least you made it out alive, but that creature is unstoppable. The Foundry Guard already tried nearly everything: The guardsmen shot it, burned it, used grenades. Nothing! It's hard rock, as you probably noticed for yourself.<end>
 
 =>q103
-::Il secoue la tête.:: Au moins t'en es sorti vivant, mais cette créature, rien ne l'arrête. La Garde Foundry a déjà presque tout essayé : tirs, flammes, grenades. Rien. Du roc, vous l'avez sans doute vu par vous-même.<end>
+::Il secoue la tête.:: Au moins vous en êtes $(#sorti vivant/sortie vivante), mais cette créature, rien ne l'arrête. La Garde Foundry a déjà presque tout essayé : tirs, flammes, grenades. Rien. Du roc, vous l'avez sans doute vu par vous-même.<end>
 
 =>a104_original
 I wanted to take it on the Beast all by myself.<end>

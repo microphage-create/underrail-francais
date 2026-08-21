@@ -22,7 +22,7 @@ Oh, bienvenue dans mon magasin d'électronique, mon ami. Moi c'est George West. 
 What've you got? ::Barter.::<end>
 
 =>a3
-Qu'est-ce que vous avez ? ::Troc.::<end>
+Qu'est-ce que vous avez ? ::Troquer.::<end>
 
 =>a4_original
 I need help fixing an electric arc furnace.<end>
@@ -40,7 +40,7 @@ Si c'est un problème électrique, alors oui, je peux vous aider. Où faut-il qu
 It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
 
 =>a6
-C'est un grand four près de l'entrée de la mine. Celui dont un certain Bernard a l'air très attaché.<end>
+C'est un grand four près de l'entrée de la mine. Celui auquel un certain Bernard tient beaucoup.<end>
 
 =>q7_original
 Hmm.<end>
@@ -94,13 +94,13 @@ Eh bien, je demande cinq cents charons. Je pense pas qu'un esprit sain le ferait
 It's a deal. Here's five hundred. ::Give him 500 stygian coins.::<end>
 
 =>a15
-Marché conclu. Voici cinq cents. ::Lui donner 500 pièces stygiennes.::<end>
+Marché conclu. Voici cinq cents. ::Lui donner 500 charons.::<end>
 
 =>q16_original
 Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.<end>
 
 =>q16
-Bien. J'y vais dès que j'ai fini de souder ce truc. J'espère seulement que Bernard va pas me casser mes oreilles friables.<end>
+Bien. J'y vais dès que j'ai fini de souder ce truc. J'espère seulement que Bernard va pas me casser les oreilles. Elles sont déjà friables.<end>
 
 =>a17_original
 Right, catch you later.<end>
@@ -128,13 +128,13 @@ J'ai dû dérailler pour accepter ça, mais soit : quatre cents charons, d'accor
 ::Give him 400 stygian coins.::<end>
 
 =>a20
-::Lui donner 400 pièces stygiennes.::<end>
+::Lui donner 400 charons.::<end>
 
 =>q21_original
 I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.<end>
 
 =>q21
-Désolé, mais ça c'est votre problème. Comme je l'ai dit : personne de sain d'esprit le ferait pour moins de quatre cents.<end>
+Désolé, mais ça c'est votre problème. Comme je l'ai dit : personne de sain d'esprit ne le ferait pour moins de quatre cents.<end>
 
 =>a22_original
 I need to think about it.<end>
@@ -194,7 +194,7 @@ Oui ?<end>
 I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
 
 =>a31
-Je l'achète pour mille deux cents. ::Lui donner 1200 pièces stygiennes.::<end>
+Je l'achète pour mille deux cents. ::Lui donner 1200 charons.::<end>
 
 =>q32_original
 ::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
@@ -230,7 +230,7 @@ Moi non plus je le porte pas. Je ferai en sorte que les gars de la Core City Hou
 Here you go. ::Give him 800 stygian coins.::<end>
 
 =>a37
-Voilà. ::Lui donner 800 pièces stygiennes.::<end>
+Voilà. ::Lui donner 800 charons.::<end>
 
 =>q38_original
 ::He shakes his head.:: No.<end>
@@ -282,7 +282,7 @@ Vous savez où je pourrais en trouver un comme ça ?<end>
 I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
 
 =>q45
-Non. Je sais que je suis pas d'une grande aide, mais... ::Il hausse les épaules.:: Je peux rien pour vous, mon ami.<end>
+Non. Je sais que je suis pas d'une grande aide, mais... ::Il hausse les épaules.:: Je peux rien faire pour vous, mon ami.<end>
 
 =>a46_original
 Never mind then. I'll look for another one.<end>
@@ -318,7 +318,7 @@ Très bien. Maintenant, l'autre version.<end>
 ::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
 
 =>q51
-::Il laisse échapper un long soupir.:: La pollution de l'air... c'est vraiment mauvais, mon ami. ::Il tousse.:: Vous voyez ce que je veux dire ? Mon nez, ma gorge et mes poumons se font lentement ronger par la crasse de l'air, comme presque tout le monde. Je plains ceux qui bossent *dans* la mine, ou ceux qui transpirent dans la métallurgie, et je suis bien content de pas être à leur place.<end>
+::Il laisse échapper un long soupir.:: L'air... c'est vraiment pourri, mon ami. ::Il tousse.:: Vous voyez ce que je veux dire ? Mon nez, ma gorge et mes poumons se font lentement ronger par la crasse de l'air, comme presque tout le monde. Je plains ceux qui bossent *dans* la mine, ou ceux qui transpirent dans la métallurgie, et je suis bien content de pas être à leur place.<end>
 
 =>q52_original
 But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
@@ -364,7 +364,7 @@ Qu'est-ce qu'il y avait dans la boîte ?<end>
 It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
 
 =>q58
-C'est difficile à décrire. ::Il tousse.:: Je sais pas... imaginez un polyèdre à vingt faces, gravé de marques d'allure alien. On aurait dit une sorte d'appareil électronique, avec des fentes bizarres - des embases. Mais pris dans son ensemble, ça ressemblait à rien de ce que j'avais déjà vu. Je sais pas à quoi ça sert, et je crois que ces gens en savaient encore moins. Quand même, le type voulait me le vendre pour un tas de charons.<end>
+C'est difficile à décrire. ::Il tousse.:: Je sais pas... imaginez un polyèdre à vingt faces, gravé de signes d'allure inconnue. On aurait dit une sorte d'appareil électronique, avec des fentes bizarres - des embases. Mais pris dans son ensemble, ça ressemblait à rien de ce que j'avais déjà vu. Je sais pas à quoi ça sert, et je crois que ces gens en savaient encore moins. Quand même, le type voulait me le vendre pour un tas de charons.<end>
 
 =>q59_original
 First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>

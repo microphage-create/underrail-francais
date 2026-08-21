@@ -4,7 +4,7 @@
 Hi, $(context.player.Name), remember me? Essie?<end>
 
 =>q1
-::Une femme svelte retire son respirateur et laisse voir le sourire en dessous. Vous vous souvenez lui avoir parlé, la première fois que vous êtes passé ici, mais son nom vous échappe, là, tout de suite, si tant est qu'elle l'ait donné. Sa voix de soprano, légère, se charge de vous le rappeler.::
+::Une femme svelte retire son respirateur et laisse voir le sourire en dessous. Vous vous souvenez lui avoir parlé, la première fois que vous êtes $(#passé/passée) ici, mais son nom vous échappe, là, tout de suite, si tant est qu'elle l'ait donné. Sa voix de soprano, légère, se charge de vous le rappeler.::
 
 Bonjour, $(context.player.Name), vous vous souvenez de moi ? Essie ?<end>
 
@@ -30,7 +30,7 @@ Bien.<end>
 Well, you've been admitted to the station, so I reckon it can't be bad, right? Right?<end>
 
 =>q5
-Bon, on vous a admis dans la station, donc ça ne peut pas être si mal, si ? Si ?<end>
+Bon, on vous a $(#admis/admise) dans la station, donc ça ne peut pas être si mal, si ? Si ?<end>
 
 =>q6_original
 So, you need some help? Directions, to be a bit more specific?<end>

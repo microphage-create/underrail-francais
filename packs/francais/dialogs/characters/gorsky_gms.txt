@@ -50,7 +50,7 @@ Catch you later, $(context.player.Name).<end>
 =>q7
 On plie bagage, les gars.
 
-On se voit, $(context.player.Name).<end>
+À plus, $(context.player.Name).<end>
 
 =>a8_original
 ::Continue::<end>
@@ -116,7 +116,7 @@ Ouais ?<end>
 I've found the key card that should open that vault.<end>
 
 =>a18
-J'ai la carte. Ça devrait ouvrir le vault.<end>
+J'ai la carte. Ça devrait ouvrir la chambre forte.<end>
 
 =>q19_original
 Good work. Let's give it a try.<end>
@@ -134,7 +134,7 @@ Beau boulot. On essaie.<end>
 There are people on the lower levels of the compound.<end>
 
 =>a21
-Y a des gens en bas, dans le compound.<end>
+Y a des gens en bas, dans le complexe.<end>
 
 =>q22_original
 So?<end>
@@ -176,7 +176,7 @@ Tu vas pas les aider ?<end>
 Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
 
 =>q28
-Pourquoi ? C'est leur problème, pas le nôtre. Tu veux risquer ta peau pour des inconnus, vas-y. Moi je veux la carte pour ouvrir ce vault. Point barre.<end>
+Pourquoi ? C'est leur problème, pas le nôtre. Tu veux risquer ta peau pour des inconnus, vas-y. Moi je veux la carte pour ouvrir cette chambre forte. Point barre.<end>
 
 =>a29_original
 I just wanted to inform you.<end>
@@ -218,7 +218,7 @@ Ben continue de chercher.<end>
 ::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
 
 =>a35
-::[Persuade]:: Écoute. Je suis allé tout en bas. Rien. Y a aucun moyen d'ouvrir ce vault.<end>
+::[Persuade]:: Écoute. Je suis allé tout en bas. Rien. Y a aucun moyen d'ouvrir cette chambre forte.<end>
 
 =>q36_original
 Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
@@ -368,13 +368,13 @@ C'est quoi, exactement, ici ?<end>
 We're trying to break into that vault over there, but it's not going too well.<end>
 
 =>q60
-On essaie de forcer ce vault, là-bas. Ça marche pas trop.<end>
+On essaie de forcer cette chambre forte, là-bas. Ça marche pas trop.<end>
 
 =>a61_original
 What's so important about that vault?<end>
 
 =>a61
-Pourquoi ce vault compte autant ?<end>
+Pourquoi cette chambre forte compte autant ?<end>
 
 =>q62_original
 Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>

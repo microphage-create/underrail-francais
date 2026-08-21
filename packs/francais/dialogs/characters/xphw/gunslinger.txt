@@ -50,7 +50,7 @@ Il a du mal à trouver la sortie : ses lunettes clignotent.::<end>
 What... happened?<end>
 
 =>q8
-::Maintenant au clair, il lui faut un moment pour enlever et réinitialiser ses lunettes. Il se retourne et voit le carnage.::
+::Une fois à l'abri, il lui faut un moment pour enlever et réinitialiser ses lunettes. Il se retourne et voit le carnage.::
 
 Qu'est-ce... qui s'est passé ?<end>
 
@@ -100,7 +100,7 @@ On dirait que c'est toi et moi contre ce qui sonnait comme une tonne d'artilleri
 I like those chances. Ready or not, here I come.<end>
 
 =>a14
-J'aime bien ces chances. Prêt ou pas, j'arrive.<end>
+J'aime bien nos chances. $(#Prêt/Prête) ou pas, j'arrive.<end>
 
 =>q15_original
 Lead the way.<end>
@@ -442,13 +442,13 @@ D'abord, faut bouger. On est des sauteurs à découvert, ici.<end>
 To hell with this! I'm getting out of here, even if I have to walk back to South Underrail.<end>
 
 =>a71
-Au diable ça ! Je sors d'ici, même s'il faut que je rentre à pied au Sud Underrail.<end>
+Au diable ! Je sors d'ici, même s'il faut que je rentre à pied à South Underrail.<end>
 
 =>a72_original
 That's all the help you're getting. I work alone. And we better split before whoever's out there gets to us.<end>
 
 =>a72
-C'est toute l'aide que tu auras. Je bosse seul. Et on ferait mieux de se séparer avant que ceux qui sont dehors nous tombent dessus.<end>
+C'est toute l'aide que tu auras. Je bosse $(#seul/seule). Et on ferait mieux de se séparer avant que ceux qui sont dehors nous tombent dessus.<end>
 
 =>q73_original
 ::He looks around where to go.::
@@ -470,7 +470,7 @@ Bouge, on est des sauteurs à découvert, ici.<end>
 Sorry, but that's just how I roll.<end>
 
 =>a75
-Désolé, mais c'est comme ça que je roule.<end>
+$(#Désolé/Désolée), mais c'est comme ça que je fonctionne.<end>
 
 =>a76_original
 ::Leave.::<end>

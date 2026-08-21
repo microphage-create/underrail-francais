@@ -2,7 +2,7 @@
 He's dead. The savage is finally dead. I have to thank you for making this happen, $(context.player.Name). If you hadn't brought us here, who knows how much longer this conflict would have lasted.<end>
 
 =>q1
-Il est mort. Le sauvage est enfin mort. Je dois te remercier d'avoir rendu ça possible, $(context.player.Name). Si tu nous avais pas amenés ici, qui sait combien de temps encore ça aurait duré.<end>
+Il est mort. Le sauvage est enfin mort. Je te dois ça, $(context.player.Name). Si tu nous avais pas amenés ici, ça aurait duré encore je sais pas combien de temps.<end>
 
 =>a2_original
 It was difficult, but we got him.<end>
@@ -14,7 +14,7 @@ C'était dur, mais on l'a eu.<end>
 We sure did. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King, and thus made our lives a lot easier. First, take this. ::He hands you 300 charons.::<end>
 
 =>q3
-C'est sûr. Il me reste une chose à faire. T'as tellement fait pour nous : tu nous as débarrassés des bestioles et du Rathound King, et tu nous as rendu la vie bien plus simple. D'abord, prends ça. ::Il te tend 300 charons.::<end>
+C'est sûr. Reste plus qu'à régler ça. T'as fait un sacré bout pour nous : les bestioles, le Rathound King, tu nous as vraiment allégés. D'abord, prends ça. ::Il te tend 300 charons.::<end>
 
 =>q4_original
 This is not your only reward, of course. You are one of us now. Come see me when you have the time and I'll teach you a few things that a *hunter* like you might find useful. Not many get the opportunity.<end>
@@ -26,13 +26,13 @@ C'est pas ta seule récompense, évidemment. T'es des nôtres, maintenant. Passe
 ::End Dialog.::<end>
 
 =>a5
-::Fin du dialogue.::<end>
+::Terminer.::<end>
 
 =>a6_original
 ::End Dialog.::<end>
 
 =>a6
-::Fin du dialogue.::<end>
+::Terminer.::<end>
 
 =>a7_original
 Meh, piece of cake. I could have killed him without anyone's help.<end>
@@ -44,7 +44,7 @@ Bof. Du gâteau. J'aurais pu le tuer sans l'aide de personne.<end>
 I'm amazed how you make everything look so easy. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::Hands you 300 charons.::<end>
 
 =>q8
-Ça m'étonne, comment tu rends tout si facile. Il me reste une chose à faire. T'as tellement fait pour nous : tu nous as débarrassés des bestioles et du Rathound King, et tu nous as rendu la vie bien plus simple. D'abord, prends ça. ::Il te tend 300 charons.::<end>
+Ça m'étonne, comment tu rends tout si facile. Reste plus qu'à régler ça. T'as fait un sacré bout pour nous : les bestioles, le Rathound King, tu nous as vraiment allégés. D'abord, prends ça. ::Il te tend 300 charons.::<end>
 
 =>q9_original
 Finally we stand face to face! Time to fix our vermin problem once and for all.<end>
@@ -76,9 +76,9 @@ On termine. J'ai plus rien à te dire, bête.<end>
 Greetings, traveler. Edgar Garnham's the name, and I'm the leader of Camp Hathor. We're in a bit of an emergency, so state your business quickly.<end>
 
 =>q13
-::L'homme assis derrière son bureau hoche la tête à votre approche. Vous l'avez visiblement interrompu en train de nettoyer son pistolet : il le remonte en quelques gestes vifs, le range dans le bureau, puis se concentre sur vous. Il se lève, croise les bras, se fait plus large, même si sans la pose ses épaules suffisaient déjà à passer le message. Un regard plus tard, il vous parle.::
+::L'homme assis derrière son bureau hoche la tête à votre approche. Vous l'avez visiblement coupé en train de nettoyer son pistolet : il le remonte en quelques gestes vifs, le range, puis se concentre sur vous. Il se lève, croise les bras, se fait plus large - même sans la pose, les épaules suffisaient. Puis il vous parle.::
 
-Salutations, voyageur. Edgar Garnham. Je dirige Camp Hathor. On est dans une urgence, alors va droit au but.<end>
+Salut, voyageur. Edgar Garnham. Je dirige Camp Hathor. On a une urgence, alors va droit au but.<end>
 
 =>q14_original
 <end>
@@ -120,7 +120,7 @@ J'ai réussi à entrer dans son antre, au sud d'ici. J'ai traversé des grottes 
 Amazing! $(context.player.Name), there's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::He hands you 300 charons.:: <end>
 
 =>q20
-Incroyable ! $(context.player.Name), il me reste une chose à faire. T'as tellement fait pour nous : tu nous as débarrassés des bestioles et du Rathound King, et tu nous as rendu la vie bien plus simple. D'abord, prends ça. ::Il te tend 300 charons.:: <end>
+Incroyable ! $(context.player.Name), reste plus qu'à régler ça. T'as fait un sacré bout pour nous : les bestioles, le Rathound King, tu nous as vraiment allégés. D'abord, prends ça. ::Il te tend 300 charons.:: <end>
 
 =>a21_original
 I found his lair south of here. I went past some caves filled with rathounds, then found an abandoned building that turned out to be the entrance to his lair. It was heavily trapped, but I managed to get inside and got to talk to him.<end>
@@ -288,7 +288,7 @@ Souhaite-nous bonne chance, $(context.player.Name).<end>
 ::End Dialog::<end>
 
 =>a46
-::Fin du dialogue.::<end>
+::Terminer.::<end>
 
 =>a47_original
 Yes. But there's a secret entrance we could use to avoid all traps.<end>
@@ -466,7 +466,7 @@ Ce salaud de menteur. Et dire qu'on a failli faire une trêve avec lui.<end>
 You did excellent. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::Hands you 300 charons.:: <end>
 
 =>q75
-T'as fait du très bon boulot. Il me reste une chose à faire. T'as tellement fait pour nous : tu nous as débarrassés des bestioles et du Rathound King, et tu nous as rendu la vie bien plus simple. D'abord, prends ça. ::Il te tend 300 charons.:: <end>
+T'as fait du très bon boulot. Reste plus qu'à régler ça. T'as fait un sacré bout pour nous : les bestioles, le Rathound King, tu nous as vraiment allégés. D'abord, prends ça. ::Il te tend 300 charons.:: <end>
 
 =>a76_original
 And they didn't.<end>
@@ -522,7 +522,7 @@ Yes. You improved our lives, to put it mildly, so the least I could do to thank 
 You ready?<end>
 
 =>q84
-Oui. T'as amélioré nos vies, pour le dire doucement, alors le moins que je puisse faire, c'est de partager quelques techniques de chasse. Même si t'es déjà un chasseur qui se débrouille. Je suis sûr que tu vas piger ça vite.
+Oui. T'as pas mal changé nos vies, pour rester poli. Le moins que je puisse faire, c'est de te filer quelques techniques de chasse. Même si t'es déjà un chasseur qui se débrouille. Je suis sûr que tu vas piger ça vite.
 
 T'es prêt ?<end>
 
@@ -544,7 +544,7 @@ Excellent. I feel relieved. We need to be careful still, of course, but somehow 
 This is not your only reward of course. You are one of us now. Come see me when you have the time and I'll teach you a few things that a *hunter* like you might find useful. Not many get this here fine opportunity.<end>
 
 =>q87
-Parfait. Je suis soulagé. Faudra rester prudents, évidemment, mais j'ai l'impression que ça peut marcher. Maintenant, $(context.player.Name), il me reste une chose à faire. T'as tellement fait pour nous : tu nous as débarrassés des bestioles et du Rathound King, et tu nous as rendu la vie bien plus simple. D'abord, prends ça. ::Il te tend 300 charons.::
+Parfait. Je suis soulagé. Faudra rester prudents, évidemment, mais j'ai l'impression que ça peut marcher. Maintenant, $(context.player.Name), reste plus qu'à régler ça. T'as fait un sacré bout pour nous : les bestioles, le Rathound King, tu nous as vraiment allégés. D'abord, prends ça. ::Il te tend 300 charons.::
 
 C'est pas ta seule récompense, évidemment. T'es des nôtres, maintenant. Passe me voir quand t'auras le temps, je t'apprendrai deux-trois trucs qu'un *chasseur* comme toi pourrait trouver utiles. Y en a pas beaucoup qui ont cette belle occasion, ici.<end>
 
@@ -576,7 +576,7 @@ Le reste tourne comme d'habitude. On chasse, on exporte la viande au même rythm
 Tell that to Bret and that we send our sincerest greetings.<end>
 
 =>q92
-Dis ça à Bret, et qu'on lui envoie nos plus sincères salutations.<end>
+Dis ça à Bret. Et passe-lui le bonjour de notre part.<end>
 
 =>q93_original
 Now, we've got a bug-related emergency which ain't gonna be so easy to handle.<end>
@@ -690,7 +690,7 @@ Je suis l'invictus. Ça te suffit ?<end>
 I see... you are one of them... what's the name... what's the damn name... role-playing people. I remember another Arena cretin coming here claiming he was Carnifex. Drowned after he fell in the water and his metal armor was too damn heavy for him to swim. Oh, I'll tell the guards to let you through. Good luck out there. Come and see me afterwards - if you make it.<end>
 
 =>q111
-Je vois... t'es un de ces... c'est quoi le nom... c'est quoi déjà... les gens qui jouent un rôle. Je me souviens d'un autre crétin de l'Arena qui était venu ici en prétendant qu'il était Carnifex. Il s'est noyé. Tombé dans l'eau, et son armure de métal était trop lourde pour nager. Bon, je dirai aux gardes de te laisser passer. Bonne chance, là-bas. Reviens me voir après. Si t'en reviens.<end>
+Je vois... t'es un de ces... c'est quoi déjà... les types qui se prennent pour leur perso. Je me souviens d'un autre crétin de l'Arena, venu ici en prétendant qu'il était Carnifex. Il s'est noyé. Tombé à l'eau, armure trop lourde pour nager. Bon, je dirai aux gardes de te laisser passer. Bonne chance, là-bas. Reviens me voir après. Si t'en reviens.<end>
 
 =>a112_original
 I'm willing to go there and take care of your problem, but my services cost.<end>
@@ -828,7 +828,7 @@ J'ai fait sauter des rochers qui bouchaient complètement une rivière souterrai
 We're all in your debt. Thank you so much. I find it quite impressive to witness what one $(#man/woman) can do.<end>
 
 =>q134
-On est tous en dette envers toi. Merci, vraiment. C'est impressionnant, de voir ce qu'un $(#homme/femme) tout seul peut faire.<end>
+On t'en doit une. Merci, vraiment. C'est impressionnant, ce qu'$(#un homme/une femme) peut faire tout$(# seul/e seule).<end>
 
 =>q135_original
 As a thank you, I offer you a monetary reward, about two hundred coins, and on top of that, since I am very pleased by your work, one of the following: <end>

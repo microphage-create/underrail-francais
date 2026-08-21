@@ -12,7 +12,7 @@ Those are my instructions. I have full confidence that you will perform your dut
 =>q2
 ::Eidein et Mediant Samuel hochent brièvement la tête, prenant acte de votre présence. Peu après, Eidein se tourne à nouveau vers le Mediant.::
 
-Telles sont mes instructions. J'ai toute confiance en vous : vous accomplirez votre devoir avec le plus entier dévouement. Vous avez été choisi comme Mediant pour une bonne raison, Samuel ; vous ne *manquerez pas* à Tchort, j'en suis certain.<end>
+Telles sont mes instructions. J'ai toute confiance en vous : vous accomplirez votre devoir avec le plus grand dévouement. Vous avez été choisi comme Mediant pour une bonne raison, Samuel ; vous ne *manquerez pas* à Tchort, j'en suis certain.<end>
 
 =>q3_original
 ::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
@@ -48,7 +48,7 @@ You started your Tchortist journey by challenging the devolved and successfully 
 =>q6
 ::Eidein tourne la tête vers vous d'un seul mouvement élégant. Il vous fixe un instant, sans un mot. Vous n'avez toujours aucune idée de ce qui se cache derrière le masque sinistre, et s'il descend vraiment dans les Deep Caverns, vous ne le saurez peut-être jamais, vous dites-vous. Mais une fois de plus, vos pensées sont interrompues par sa voix profonde et étouffée.::
 
-Vous avez commencé votre parcours Tchortist en défiant les dégénérés, et en les vainquant. J'espère seulement que ce parcours ne s'achèvera pas par leur victoire. Bientôt ils arriveront, affamés de chair Tchortist, assoiffés de sang Tchortist. Ne les laissez pas y goûter.<end>
+Vous avez commencé votre voie Tchortist en défiant les dégénérés, et vous les avez vaincus. J'espère seulement que cette voie ne s'achèvera pas par leur victoire. Bientôt ils arriveront, affamés de chair Tchortist, assoiffés de sang Tchortist. Ne les laissez pas y goûter.<end>
 
 =>a7_original
 I want to go to Deep Caverns with you.<end>
@@ -116,7 +116,7 @@ Si les Faceless osent seulement montrer ici leurs corps déformés, je les abatt
 I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
 
 =>q16
-Pardonnez-moi, mais je ne peux vous parler en cet instant : j'ai des données à examiner d'urgence, ici, dans la bibliothèque. Nous reprendrons cet entretien à un moment plus opportun.<end>
+Pardonnez-moi, mais je ne peux vous parler en cet instant : j'ai des données à examiner d'urgence ici, dans la bibliothèque. Nous reprendrons cet entretien à un moment plus opportun.<end>
 
 =>a17_original
 I am sorry if I bothered you. Tchort guide you.<end>
@@ -158,7 +158,7 @@ Pardonnez-moi, mais je ne peux vous parler en cet instant : je médite sur des q
 I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
 
 =>q23
-Pardonnez-moi, mais je ne peux vous parler en cet instant : je suis venu superviser le département et m'entretenir de certaines affaires avec les investigateurs. Je suis néanmoins certain que nous reprendrons cet entretien dès que l'occasion s'en présentera.<end>
+Pardonnez-moi, mais je ne peux vous parler en cet instant : je suis venu superviser le département et m'entretenir de certaines affaires avec les investigators. Je suis néanmoins certain que nous reprendrons cet entretien dès que l'occasion s'en présentera.<end>
 
 =>q24_original
 ::Once the tremors die down, Eidein drops his gaze back to you.::
@@ -174,7 +174,7 @@ Voilà qui est inattendu ; Investigation ne m'avait donné aucun avertissement c
 Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
 
 =>q25
-Revenons-en à nos affaires : vous serez $(#prévenu/prévenue) le moment venu. Aviez-vous d'autres questions pour moi ?<end>
+Revenons-en à nos affaires : vous serez $(#prévenu/prévenue) le moment venu. Avez-vous d'autres questions pour moi ?<end>
 
 =>q26_original
 <end>
@@ -186,7 +186,7 @@ Revenons-en à nos affaires : vous serez $(#prévenu/prévenue) le moment venu. 
 Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
 
 =>a27
-Eidein, j'ai des nouvelles importantes. Je suis $(#allé/allée) à l'aile ouest et j'ai trouvé un tunneler Faceless chargé de troupes entièrement armées !<end>
+Eidein, j'ai des nouvelles importantes. Je suis $(#allé/allée) à la West Wing et j'ai trouvé un tunneler Faceless chargé de troupes entièrement armées !<end>
 
 =>q28_original
 ::He answers without delay.:: That is the cause of these tremors - Faceless.
@@ -214,7 +214,7 @@ Fort bien, $(context.player.Name). Les Faceless corrompus ne méritent nulle sym
 However, were you able see or hear anything regarding the motives behind their arrival?<end>
 
 =>q31
-Avez-vous toutefois vu ou entendu quoi que ce soit sur les raisons de leur venue ?<end>
+Avez-vous vu ou entendu quoi que ce soit, toutefois, sur les raisons de leur venue ?<end>
 
 =>a32_original
 I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
@@ -230,7 +230,7 @@ You were warned about the invasion? I find that highly implausible: Why would th
 =>q33
 ::Il ne bouge pas, ne dit mot, du moins pas tout de suite. Sa réponse vient après cette pause troublante.::
 
-On vous a $(#prévenu/prévenue) de l'invasion ? Je trouve cela hautement invraisemblable : pourquoi les Faceless révéleraient-ils d'eux-mêmes leurs plans ? S'entretenir avec quiconque hors de leur espèce est déjà difficile à concevoir, comme le prouve leur nature corrompue. Je n'ai toutefois aucune raison de douter de vous, aussi étrange que la situation puisse paraître.<end>
+On vous a $(#prévenu/prévenue) de l'invasion ? Cela me paraît invraisemblable : pourquoi les Faceless révéleraient-ils d'eux-mêmes leurs plans ? S'entretenir avec quiconque hors de leur espèce est déjà difficile à concevoir, comme le prouve leur nature corrompue. Je n'ai toutefois aucune raison de douter de vous, aussi étrange que la situation puisse paraître.<end>
 
 =>q34_original
 Was there anything else?<end>
@@ -260,7 +260,7 @@ Que se passe-t-il maintenant ?<end>
 Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
 
 =>q38
-Nous devons à présent prendre une contre-mesure appropriée : Tchort doit être préservé à tout prix ! D'abord, mobiliser toutes les Preservation Forces disponibles. Ensuite, alerter Harmost Stavros et ses rassophores dans les Deep Caverns. La communication avec le Cytosine Outpost et le Nucleus a été rendue difficile après le séisme : quelqu'un devra descendre.<end>
+Il nous faut maintenant une contre-mesure à la hauteur : Tchort doit être préservé à tout prix ! D'abord, mobiliser toutes les Preservation Forces disponibles. Ensuite, alerter Harmost Stavros et ses rassophores dans les Deep Caverns. La communication avec le Cytosine Outpost et le Nucleus a été rendue difficile après le séisme : quelqu'un devra descendre.<end>
 
 =>q39_original
 It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
@@ -278,7 +278,7 @@ Comment irez-vous dans les Deep Caverns ?<end>
 This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
 
 =>q41
-Ce bâtiment possède un ascenseur sous ce bureau ; c'est le seul point d'accès aux Deep Caverns.<end>
+Ce bâtiment a un ascenseur sous ce bureau : c'est le seul accès disponible aux Deep Caverns.<end>
 
 =>q42_original
 The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
@@ -286,7 +286,7 @@ The elevator at the back of my office will take us to the chamber below; the ele
 Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
 
 =>q42
-L'ascenseur au fond de mon bureau nous mènera à la chambre en contrebas ; l'ascenseur vers les Deep Caverns s'y trouve. Peu ont le droit d'y accéder, pourtant, vu la situation dans laquelle vous vous trouvez, vous serez parmi ces quelques élus.
+L'ascenseur au fond de mon bureau nous mènera à la chambre en contrebas ; l'ascenseur vers les Deep Caverns s'y trouve. Peu ont le droit d'y accéder, pourtant, vu les circonstances, vous serez parmi ces quelques élus.
 
 Suivez-moi, $(context.player.Name). J'ai encore quelques mots à vous dire avant de partir.<end>
 
@@ -364,7 +364,7 @@ Pas vraiment...<end>
 I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
 
 =>q54
-Je veux que vous y retourniez et tâchiez de découvrir leur dessein, et si d'autres doivent suivre. Soyez $(#discret/discrète) : la panique est la dernière chose dont nous ayons besoin.<end>
+Je vous demande d'y retourner et de tâcher de découvrir leur dessein, et si d'autres doivent suivre. Soyez $(#discret/discrète) : la panique est la dernière chose dont nous ayons besoin.<end>
 
 =>a55_original
 I will not fail you, illustrious Eidein. Tchort guide you.<end>
@@ -394,7 +394,7 @@ Je les avais espionnés avant de partir. Je ne pense pas qu'ils m'aient $(#vu/vu
 If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
 
 =>q59
-S'ils l'avaient fait, nous n'aurions pas cet entretien. Les Faceless n'ont ni pitié, ni émotion. Guère différents de machines. Ne l'oubliez jamais.<end>
+S'ils l'avaient fait, nous n'aurions pas cet entretien. Les Faceless n'ont ni pitié, ni émotion. Guère différents des machines. Ne l'oubliez jamais.<end>
 
 =>a60_original
 I initiated combat, but had to retreat and seek help.<end>
@@ -424,19 +424,19 @@ Mediant Samuel m'a $(#envoyé/envoyée) ici pour vous parler de mon admission of
 Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
 
 =>q64
-Oui, $(context.player.Name), Mediant Samuel m'a déjà informé de vos hauts faits. Il a affirmé que vous possédiez tous les traits d'un véritable rassophore : quelqu'un qui usera de tous les moyens pour préserver cette institution, ainsi que Tchort.<end>
+Oui, $(context.player.Name), Mediant Samuel m'a déjà informé de ce que vous avez accompli. Il a affirmé que vous possédiez toutes les qualités d'un véritable rassophore : quelqu'un qui usera de tous les moyens pour préserver cette institution, ainsi que Tchort.<end>
 
 =>q65_original
 If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
 
 =>q65
-Si c'est ce que vous souhaitez, sachez alors que votre place parmi les rassophores sera aussi certaine que la magnificence de Tchort. Nous devrons toutefois honorer la tradition et attendre le retour du Harmost des Deep Caverns : il doit assister à la cérémonie où vous et d'autres novices recevrez vos nouveaux titres - et de nouveaux devoirs.<end>
+Si c'est ce que vous souhaitez, sachez alors que votre place parmi les rassophores sera aussi certaine que la magnificence de Tchort. Nous devrons toutefois honorer la tradition et attendre le retour d'Harmost des Deep Caverns : il doit assister à la cérémonie où vous et d'autres novitiates recevrez vos nouveaux titres - et de nouveaux devoirs.<end>
 
 =>q66_original
 If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
 
 =>q66
-Si c'est ce que vous cherchez, $(context.player.Name)... Êtes-vous $(#sûr/sûre) que c'est la voie que vous êtes $(#prêt/prête) à emprunter ? Ou peut-être votre cœur vous mène-t-il ailleurs. Il n'est pas trop tard pour reconsidérer. Il y a plus d'une façon d'atteindre sa destination.<end>
+Si c'est ce que vous cherchez, $(context.player.Name)... Êtes-vous $(#sûr/sûre) que c'est la voie que vous êtes $(#prêt/prête) à emprunter ? Ou peut-être votre cœur vous porte-t-il ailleurs. Il n'est pas trop tard pour changer d'avis. Il y a plus d'une façon d'atteindre sa destination.<end>
 
 =>a67_original
 This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
@@ -454,7 +454,7 @@ Fort bien, $(context.player.Name). Je ne doute pas que vous accomplirez votre de
 However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
 
 =>q69
-Je dois toutefois vous demander d'être encore un peu $(#patient/patiente) : le retour du Harmost n'est pas trop loin. Alors vous ne serez plus novice, mais rassophore.<end>
+Je dois toutefois vous demander encore un peu de patience : le retour d'Harmost n'est plus très loin. Alors vous ne serez plus novitiate, mais rassophore.<end>
 
 =>a70_original
 I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
@@ -466,13 +466,13 @@ J'aimerais aller dans les Deep Caverns et garder Tchort en personne, si vous le 
 Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
 
 =>q71
-Tchort n'est gardé que par l'élite des Preservation Forces. Même si vous possédez la volonté, que j'admire et reconnais, il vous manque encore certaines compétences et certaines connaissances. Les Deep Caverns sont un lieu menaçant, peuplé d'une faune vorace comme vous n'en avez jamais vue, infesté de Faceless corrompus aussi habiles à semer la ruine chez autrui que chez eux-mêmes.<end>
+Tchort n'est gardé que par l'élite des Preservation Forces. Même si vous possédez la volonté, que j'admire et que je reconnais, il vous manque encore certaines compétences et certaines connaissances. Les Deep Caverns sont un lieu menaçant, peuplé d'une faune vorace comme vous n'en avez jamais vue, infesté de Faceless corrompus aussi prompts à semer la ruine chez autrui que chez eux-mêmes.<end>
 
 =>q72_original
 In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
 
 =>q72
-Avec le temps, toutefois, si vous vous montrez digne de ce devoir, je n'hésiterais pas à vous y dépêcher, et je pourrais m'en remettre : Tchort aurait alors la meilleure protection que je puisse lui offrir.<end>
+Avec le temps, toutefois, si vous vous montrez digne de ce devoir, je vous y enverrais volontiers, l'esprit en paix : Tchort aurait alors la meilleure protection que je puisse lui offrir.<end>
 
 =>a73_original
 Thank you very much, Eidein. I can't wait for the ceremony.<end>
@@ -486,7 +486,7 @@ I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to ge
 To get accustomed to it.<end>
 
 =>q74
-J'en suis certain. En attendant, voyez Efreitor Hanna : rien n'interdit de récupérer votre uniforme cérémoniel avant l'heure.
+J'en suis certain. En attendant, voyez Efreitor Hanna : rien n'empêche de récupérer votre uniforme cérémoniel en avance.
 
 Pour vous y habituer.<end>
 
@@ -500,7 +500,7 @@ Je crois qu'il n'y a plus rien à dire à ce sujet. Vous serez $(#prévenu/prév
 ::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
 
 =>q76
-::Eidein s'arrête brusquement de parler. Vous ne savez pas pourquoi d'abord, puis vient cette sensation : vos entrailles vibrent. C'est si ténu que vous n'êtes pas $(#sûr/sûre) d'imaginer. La réaction d'Eidein dit que non : ce n'est pas imaginaire. Il incline la tête vers le haut, pour le reste parfaitement immobile et calme, en silence. Bientôt, les vibrations s'intensifient... ::<end>
+::Eidein s'arrête net. Vous ne comprenez pas tout de suite, puis cette sensation : vos entrailles vibrent. C'est si ténu que vous ne savez plus si vous l'imaginez. La réaction d'Eidein tranche : ce n'est pas imaginaire. Il relève la tête, pour le reste parfaitement immobile et calme, en silence. Bientôt, les vibrations s'intensifient... ::<end>
 
 =>a77_original
 ::Wait.::<end>
@@ -526,7 +526,7 @@ Rest, consider, decide - then see me once you are certain.
 Would that be all, $(context.player.Name)?<end>
 
 =>q80
-Reposez-vous, considérez, décidez - puis venez me voir une fois $(#certain/certaine).
+Reposez-vous, réfléchissez, décidez - puis venez me voir une fois $(#certain/certaine).
 
 Serait-ce tout, $(context.player.Name) ?<end>
 
@@ -534,13 +534,13 @@ Serait-ce tout, $(context.player.Name) ?<end>
 I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
 
 =>a81
-Episkopos Lydia m'a $(#envoyé/envoyée) ici pour vous parler de mon admission comme $(#assistant investigateur/assistante investigatrice).<end>
+Episkopos Lydia m'a $(#envoyé/envoyée) ici pour vous parler de mon admission comme $(#assistant investigator/assistante investigator).<end>
 
 =>q82_original
 Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
 
 =>q82
-Oui, $(context.player.Name), Episkopos Lydia m'a informé à l'avance de votre arrivée. Elle m'a dit que les investigateurs principaux vous considéraient comme $(#un assistant très utile et dévoué/une assistante très utile et dévouée). Elle a même cité Monsignor Lenora en comparaison directe avec vous.<end>
+Oui, $(context.player.Name), Episkopos Lydia m'a informé à l'avance de votre arrivée. Elle m'a dit que les Principal Investigators vous considéraient comme $(#un assistant investigator très utile et dévoué/une assistante investigator très utile et dévouée). Elle a même rapproché votre nom de celui de Monsignor Lenora.<end>
 
 =>q83_original
 If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
@@ -548,7 +548,7 @@ If becoming assistant investigator is your wish, you'd need not wait for long, $
 The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
 
 =>q83
-Si devenir $(#assistant investigateur/assistante investigatrice) est votre souhait, vous n'aurez pas longtemps à attendre, $(context.player.Name) ; d'ici quelques jours, vous travaillerez sur votre premier projet, et vous résoudrez vos premiers problèmes en tant qu'$(#investigateur/investigatrice).
+Si devenir $(#assistant investigator/assistante investigator) est votre souhait, vous n'aurez pas longtemps à attendre, $(context.player.Name) ; d'ici quelques jours, vous travaillerez sur votre premier projet, et vous résoudrez vos premiers problèmes en tant qu'investigator.
 
 L'Institute of Tchort a toujours besoin $(#d'hommes dévoués/de femmes dévouées) comme vous, et je suis satisfait de savoir que nous en avons.<end>
 
@@ -556,7 +556,7 @@ L'Institute of Tchort a toujours besoin $(#d'hommes dévoués/de femmes dévoué
 If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
 
 =>q84
-Si c'est ce que vous cherchez, $(context.player.Name)... Êtes-vous $(#sûr/sûre) que c'est la voie que vous êtes $(#prêt/prête) à emprunter ? Ou peut-être votre cœur vous mène-t-il ailleurs. Il n'est pas trop tard pour reconsidérer. Il y a plus d'une façon d'atteindre sa destination.<end>
+Si c'est ce que vous cherchez, $(context.player.Name)... Êtes-vous $(#sûr/sûre) que c'est la voie que vous êtes $(#prêt/prête) à emprunter ? Ou peut-être votre cœur vous porte-t-il ailleurs. Il n'est pas trop tard pour changer d'avis. Il y a plus d'une façon d'atteindre sa destination.<end>
 
 =>a85_original
 That is what I want, and I can't wait to start working on my first project!<end>
@@ -568,7 +568,7 @@ C'est ce que je veux, et j'ai hâte de commencer mon premier projet !<end>
 Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
 
 =>q86
-Fort bien, $(context.player.Name). Je ne doute pas que vous accomplirez votre devoir avec un grand zèle : vos actes parlent déjà de votre dévouement exceptionnel.<end>
+Fort bien, $(context.player.Name). Je ne doute pas que vous accomplirez votre devoir avec un grand zèle : vos actes témoignent déjà de votre dévouement exceptionnel.<end>
 
 =>q87_original
 Before we end the conversation, do tell me which department are you most interested in working for?<end>
@@ -586,7 +586,7 @@ Pour être honnête, mon souhait est de travailler près de Tchort dans les Deep
 To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
 
 =>q89
-Au Nucleus ? Admirable. Vous n'êtes pourtant pas encore $(#prêt/prête) pour une telle tâche, ni pour porter la responsabilité qui l'accompagne. Seuls nos investigateurs choisis, nos troupes d'élite et moi-même avons le droit d'approcher Tchort - et moi seul puis m'en approcher directement. Plus tard, toutefois, le privilège de descendre dans les Deep Caverns, et de vous rapprocher de Tchort, pourrait aussi vous être accordé.<end>
+Au Nucleus ? Admirable. Vous n'êtes pourtant pas encore $(#prêt/prête) pour une telle tâche, ni pour porter la responsabilité qui l'accompagne. Seuls nos meilleurs investigators, nos troupes d'élite et moi-même avons le droit d'approcher Tchort - et moi seul puis m'en approcher directement. Plus tard, toutefois, le privilège de descendre dans les Deep Caverns, et de vous rapprocher de Tchort, pourrait aussi vous être accordé.<end>
 
 =>q90_original
 Other than working in Nucleus, however, what department are you most interested in?<end>
@@ -598,7 +598,7 @@ Hormis le Nucleus, quel département vous intéresse le plus ?<end>
 Department of Physics.<end>
 
 =>a91
-Département de Physique.<end>
+Department of Physics.<end>
 
 =>q92_original
 I will remember what you said, $(context.player.Name). It will be taken care of.<end>
@@ -616,7 +616,7 @@ Vous êtes libre de partir, $(context.player.Name). J'en parlerai à Episkopos L
 Department of Genetics.<end>
 
 =>a94
-Département de Génétique.<end>
+Department of Genetics.<end>
 
 =>q95_original
 Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
@@ -624,7 +624,7 @@ Despite your "incident" with Principal Investigator Rista? Interesting... I will
 <end>
 
 =>q95
-Malgré votre « incident » avec Principal Investigator Rista ? Intéressant... Il me faudra la convoquer dès que l'occasion s'en présentera, et m'entretenir en privé de votre dissonance.
+Malgré votre « incident » avec Principal Investigator Rista ? Intéressant... Il me faudra la convoquer dès que l'occasion s'en présentera, et m'entretenir en privé du désaccord qui vous oppose.
 
 <end>
 
@@ -632,7 +632,7 @@ Malgré votre « incident » avec Principal Investigator Rista ? Intéressant...
 Department of Chemistry.<end>
 
 =>a96
-Département de Chimie.<end>
+Department of Chemistry.<end>
 
 =>a97_original
 Well, maybe I should still think about it.<end>
@@ -644,7 +644,7 @@ Bon, peut-être devrais-je encore y réfléchir.<end>
 I have decided: I want to become an assistant investigator.<end>
 
 =>a98
-J'ai décidé : je veux devenir $(#assistant investigateur/assistante investigatrice).<end>
+J'ai décidé : je veux devenir $(#assistant investigator/assistante investigator).<end>
 
 =>a99_original
 I have made my decision: I want to be a rassophore.<end>
@@ -718,7 +718,7 @@ Le symbole ?<end>
 May I have the Acorn, $(context.player.Name)?<end>
 
 =>q110
-::Il se tourne vers vous.::
+::Son visage se tourne vers vous.::
 
 Puis-je avoir l'Acorn, $(context.player.Name) ?<end>
 
@@ -744,7 +744,7 @@ Je ne peux qu'en deviner le sens, mais je n'avais jamais entendu ce mot.<end>
 An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
 
 =>q114
-Une ancienne espèce de plantes épaisses et gigantesques, qui poussaient autrefois sur la Surface, produisait une sorte unique de fruits secs. On les appelait acorns, et ils ressemblaient exactement au symbole gravé sur *cet* Acorn. Leurs coques dures protégeaient les graines tendres à l'intérieur ; celles-ci, en tombant de ces plantes - des chênes, les appelait-on - préservaient le fruit jusqu'à ce qu'un nouveau chêne en naisse.<end>
+Une ancienne espèce de plantes épaisses et gigantesques, qui poussaient autrefois sur la Surface, produisait une sorte unique de fruits secs. On les appelait acorns, et ils ressemblaient exactement au symbole gravé sur *cet* Acorn. Leurs coques dures protégeaient les graines tendres à l'intérieur ; celles-ci, en tombant de ces plantes - des chênes, ainsi les nommait-on - préservaient le fruit jusqu'à ce qu'un nouveau chêne en naisse.<end>
 
 =>q115_original
 ::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
@@ -756,7 +756,7 @@ That is: Underrail and the Surface.<end>
 =>q115
 ::Il regarde l'Acorn dans ses mains.:: ACoNR. Un gland de cette ère.
 
-Il est possible, $(context.player.Name), qu'avec la guidance de Tchort, le chêne robuste - et robustes ils étaient - qui émergera de la coque impénétrable de l'Acorn relie ce monde à l'ancien monde des chênes.
+Il est possible, $(context.player.Name), que sous la conduite de Tchort, le chêne robuste - et ils l'étaient, ces chênes - qui émergera de la coque impénétrable de l'Acorn relie ce monde à l'ancien monde des chênes.
 
 C'est-à-dire : Underrail et la Surface.<end>
 
@@ -806,7 +806,7 @@ For something like this... it is acceptable.
 <end>
 
 =>q122
-Pour quelque chose comme ça... c'est acceptable.
+Pour un tel objet... c'est acceptable.
 
 <end>
 
@@ -822,7 +822,7 @@ Pour quelque chose comme ça... c'est acceptable.
 <end>
 
 =>q124
-::Après un court délai, le rassophore revient avec vos charons. Vous remettez ensuite l'Acorn à Eidein.::
+::Peu après, le rassophore revient avec vos charons. Vous remettez ensuite l'Acorn à Eidein.::
 
 <end>
 
@@ -978,7 +978,7 @@ Encore à propos de l'Acorn...<end>
 What about it?<end>
 
 =>q149
-À quel propos ?<end>
+Que voulez-vous en dire ?<end>
 
 =>a150_original
 I have the Acorn. ::Show him the Acorn.::<end>
@@ -996,7 +996,7 @@ Vous avez mentionné que la figurine faisait partie d'un ensemble. Pouvez-vous m
 I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
 
 =>q152
-Je ne peux vous en dire que peu : l'ensemble doit être dévoilé au centième anniversaire de l'Institute of Tchort. Il s'appelle Conquering the Surface, et se compose de pièces entièrement façonnées dans les plus fins matériaux. La dernière pièce qui devait arriver - celle que vous avez récupérée - s'appelle Reaching Man. Pour le reste, vous devrez être $(#patient/patiente) encore un peu, $(context.player.Name).<end>
+Je ne peux vous en dire grand-chose : l'ensemble doit être dévoilé au centième anniversaire de l'Institute of Tchort. Il s'appelle Conquering the Surface, et se compose de pièces entièrement façonnées dans les plus fins matériaux. La dernière pièce qui devait arriver - celle que vous avez récupérée - s'appelle Reaching Man. Pour le reste, vous devrez être $(#patient/patiente) encore un peu, $(context.player.Name).<end>
 
 =>a153_original
 Can you tell me more about that anniversary celebration?<end>
@@ -1038,7 +1038,7 @@ Pouvez-vous me décrire Tchort ?<end>
 It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
 
 =>q159
-Ce serait fort difficile, $(context.player.Name). Tchort est sans forme ; une fois son cycle de régénération achevé, toutefois, il se sera transformé en un être digne de la plus belle et magnifique description. Comme je suis le seul à qui fut accordé le privilège de le voir de mes propres yeux, vous devrez vous contenter d'une réponse aussi minimaliste.<end>
+Ce serait fort difficile, $(context.player.Name). Tchort est sans forme ; une fois son cycle de régénération achevé, toutefois, il se sera transformé en un être digne de la plus belle, de la plus magnifique description. Comme je suis le seul à qui fut accordé le privilège de le voir de mes propres yeux, vous devrez vous contenter d'une réponse aussi minimale.<end>
 
 =>a160_original
 Is there a picture of it, at least?<end>
@@ -1080,13 +1080,13 @@ Pouvez-vous m'en dire plus sur la Surface ? L'avez-vous vue ? C'est comment, là
 No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
 
 =>q166
-Non, mais elle existe. Les preuves de l'ancien monde ne livrent que de vagues indices sur son apparence ; la seule certitude, toutefois, est qu'elle est aujourd'hui inhabitable. Nous désirons la repeupler, et pour y parvenir nous devons changer en nous-mêmes, nous élever - évoluer - afin de supporter ses conditions de vie.<end>
+Non, mais elle existe. Les preuves de l'ancien monde ne livrent que de vagues indices sur son apparence ; la seule certitude, toutefois, est qu'elle est aujourd'hui inhabitable. Nous désirons la repeupler, et pour y parvenir il nous faut changer de l'intérieur, nous élever - évoluer - pour affronter ses conditions de vie.<end>
 
 =>q167_original
 Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
 
 =>q167
-Tchort possède cette capacité : il l'a exercée pendant des millénaires, s'adaptant délibérément chaque fois qu'il le fallait pour perpétuer son existence. Dans la nature, cela s'accomplit sur de nombreuses générations, et par le hasard. Tchort, toutefois, est différent. C'est un trait hautement désirable, que nous pouvons et devons appliquer si nous voulons un jour conquérir la Surface.<end>
+Tchort possède cette capacité : il l'a exercée pendant des millénaires, s'adaptant délibérément chaque fois qu'il le fallait pour perpétuer son existence. Dans la nature, cela s'accomplit sur de nombreuses générations, et par le hasard. Tchort, toutefois, est différent. C'est un trait des plus désirables, que nous pouvons et devons appliquer si nous voulons un jour conquérir la Surface.<end>
 
 =>a168_original
 How old are you exactly?<end>
@@ -1098,19 +1098,19 @@ Quel âge avez-vous exactement ?<end>
 ::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
 
 =>q169
-::Sa réponse vient après un léger délai.:: Révéler mon âge serait comme révéler celui de Tchort : totalement inutile. Je suis certain que vous avez déjà déduit que j'ai plus d'un siècle, et je suppose que ce qui vous intéresse davantage, c'est la façon dont j'ai réussi à vivre aussi longtemps. Ai-je raison, $(context.player.Name) ?<end>
+::Sa réponse vient après un court silence.:: Révéler mon âge serait comme révéler celui de Tchort : totalement inutile. Je suis certain que vous avez déjà déduit que j'ai plus d'un siècle, et je suppose que ce qui vous intéresse davantage, c'est la façon dont j'ai réussi à vivre aussi longtemps. Ai-je raison, $(context.player.Name) ?<end>
 
 =>a170_original
 Actually, I was just about to ask you that.<end>
 
 =>a170
-En fait, j'allais justement vous demander ça.<end>
+En fait, j'allais justement vous demander cela.<end>
 
 =>q171_original
 My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
 
 =>q171
-Mon âge est le témoignage de la magnificence de Tchort, et le produit d'une évolution dirigée. Grâce à Tchort, nous avons considérablement prolongé la durée de vie humaine moyenne, en analysant ses capacités régénératrices afin d'en appliquer au moins une part directement au génome humain. Nous y sommes parvenus par une technique spéciale, qui permet l'ingénierie génétique de cette ampleur sur des organismes multicellulaires matures. Le résultat : une durée de vie triplée. Triplée, du moins selon nos estimations actuelles. Ce qui est fort bien, vous en conviendrez.<end>
+Mon âge témoigne de la magnificence de Tchort ; il est le produit d'une évolution dirigée. Grâce à Tchort, nous avons considérablement prolongé la durée de vie humaine moyenne, en analysant ses capacités régénératrices afin d'en appliquer au moins une part directement au génome humain. Nous y sommes parvenus par une technique spéciale, qui permet l'ingénierie génétique de cette ampleur sur des organismes multicellulaires matures. Le résultat : une durée de vie triplée. Triplée, du moins selon nos estimations actuelles. Ce qui est fort bien, vous en conviendrez.<end>
 
 =>a172_original
 So, is everyone in the Institute going to live to be as old as you?<end>
@@ -1122,7 +1122,7 @@ Donc, tout le monde à l'Institute va vivre aussi vieux que vous ?<end>
 Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
 
 =>q173
-Pas encore, $(context.player.Name). L'ingénierie génétique pose problème par son retour d'information extraordinairement tardif. Prenons un exemple simple : vous voulez changer une ampoule ; vous en vissez une dans sa douille, vous actionnez l'interrupteur, et vous savez immédiatement si elle fonctionne. Simple. À l'opposé, quand on travaille sur des sujets vivants, en perpétuel changement, il faut attendre au moins une génération, sinon davantage, qu'ils achèvent leur cycle de vie, et les surveiller avec soin, avant de pouvoir être certain que les modifications du génome n'ont pas d'effets indésirables - voire désastreux. C'est un processus lent, hélas.<end>
+Pas encore, $(context.player.Name). L'ingénierie génétique pose problème pour une seule raison : le résultat se fait attendre extraordinairement longtemps. Prenons un exemple simple : vous voulez changer une ampoule ; vous en vissez une dans sa douille, vous actionnez l'interrupteur, et vous savez immédiatement si elle fonctionne. Simple. À l'opposé, quand on travaille sur des sujets vivants, en perpétuel changement, il faut attendre au moins une génération, sinon davantage, qu'ils achèvent leur cycle de vie, et les surveiller avec soin, avant de pouvoir être certain que les modifications du génome n'ont pas d'effets indésirables - voire désastreux. C'est un processus lent, hélas.<end>
 
 =>q174_original
 In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
@@ -1130,7 +1130,7 @@ In this case - I am the test subject. My genome was manipulated well into my mat
 I hope that was a satisfying response.<end>
 
 =>q174
-Dans ce cas, je suis le sujet d'expérience. Mon génome a été manipulé bien après ma maturité, et même après un siècle, nous devons encore surveiller mon état jusqu'à en être satisfaits. Nous ignorons, par exemple, comment les modifications affecteraient un sujet si on les appliquait dès la conception.
+Dans ce cas, je suis le sujet d'expérience. Mon génome a été manipulé alors que j'étais déjà pleinement adulte, et même après un siècle, nous devons encore surveiller mon état jusqu'à en être satisfaits. Nous ignorons, par exemple, comment les modifications affecteraient un sujet si on les appliquait dès la conception.
 
 J'espère que cette réponse vous satisfait.<end>
 
@@ -1156,7 +1156,7 @@ Oui. Je suis le seul à pouvoir entrer dans sa chambre, au Nucleus, sans trop le
 While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
 
 =>q178
-Un nombreux personnel d'Investigation et de Preservation est présent au Nucleus ; personne d'autre que moi n'a toutefois le droit de s'approcher directement de Tchort, ni même d'entrer dans sa chambre. Et jusqu'ici, personne n'a même essayé. Ce qui est fort bien.<end>
+Le personnel d'Investigation et de Preservation est nombreux au Nucleus ; personne d'autre que moi n'a toutefois le droit de s'approcher directement de Tchort, ni même d'entrer dans sa chambre. Et jusqu'ici, personne n'a même essayé. Ce qui est fort bien.<end>
 
 =>a179_original
 How do you go to Deep Caverns?<end>
@@ -1192,13 +1192,13 @@ J'ai remarqué que tout le monde vous appelle simplement « Eidein », sans jama
 Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
 
 =>q184
-Excellente question, $(context.player.Name), mais un détail vous a échappé : Eidein est à la fois mon titre et mon nom.<end>
+Voilà une excellente question, $(context.player.Name), mais un détail vous a échappé : Eidein est à la fois mon titre et mon nom.<end>
 
 =>q185_original
 The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
 
 =>q185
-Le mot « eidein » signifie connaissance intellectuelle, et ce nom m'a d'abord été donné par les tout premiers membres de l'Institute. La raison est simple : mes frères et sœurs Tchortists ont senti, et sentent encore - je ne peux le nier - que je suis celui qui leur transmet le savoir, principalement celui qui entoure Tchort, mais aussi d'autres champs scientifiques. J'ai fièrement accepté ce nom, et l'ai substitué à l'ancien.<end>
+Le mot « eidein » signifie connaissance intellectuelle, et ce nom m'a d'abord été donné par les tout premiers membres de l'Institute. La raison est simple : mes frères et sœurs Tchortists ont senti, et sentent encore - je ne peux le nier - que je suis celui qui leur transmet le savoir, surtout celui qui touche Tchort, mais aussi d'autres champs scientifiques. J'ai fièrement accepté ce nom, et l'ai substitué à l'ancien.<end>
 
 =>a186_original
 What was your real name then?<end>
@@ -1222,7 +1222,7 @@ Que pensez-vous de la présence du Protectorate dans l'Upper Underrail ?<end>
 Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
 
 =>q189
-L'Underrail Protectorate ne représente aucune menace pour nous : nous occupons des parties diamétralement opposées de l'Upper Underrail, et n'avons que peu ou pas d'interaction. Du moins, tel est l'état actuel des affaires. Leurs visées expansionnistes, trop évidentes, ne peuvent être ignorées, et, après les avoir observées à l'œuvre depuis leur arrivée, nous nous sommes préparés à contrer efficacement toute avancée indésirable.<end>
+L'Underrail Protectorate ne représente aucune menace pour nous : nous occupons des parties diamétralement opposées de l'Upper Underrail, et n'avons que peu ou pas d'interaction. Du moins, tel est l'état des choses, pour l'heure. Leurs visées expansionnistes, trop évidentes, ne peuvent être ignorées, et, après les avoir observées à l'œuvre depuis leur arrivée, nous nous sommes préparés à contrer efficacement toute avancée indésirable.<end>
 
 =>q190_original
 The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
@@ -1230,7 +1230,7 @@ The Free Drones are a painful thorn in their side, mostly in the North, dare the
 It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
 
 =>q190
-Les Free Drones sont une épine douloureuse dans leur flanc, surtout au Nord, qu'ils l'admettent ou non. Aussi Harmost Stavros et moi estimons-nous qu'ils concentreront l'essentiel de leurs efforts sur la sécurisation du sud du Lower Underrail - Junkyard et Rail Crossing, qui grouillent d'activité Free Drone. De plus, l'inefficacité du transport de troupes et de personnel à travers le Core - Core City - est un autre obstacle majeur qu'ils doivent surmonter.
+Les Free Drones sont une épine dans leur flanc, surtout au Nord, qu'ils l'admettent ou non. Aussi Harmost Stavros et moi estimons-nous qu'ils concentreront l'essentiel de leurs efforts sur la sécurisation du sud du Lower Underrail - Junkyard et Rail Crossing, qui grouillent d'activité Free Drone. De plus, l'inefficacité du transport de troupes et de personnel à travers le Core - Core City - est un autre obstacle majeur qu'ils doivent surmonter.
 
 Il faudra encore quelques années au moins, selon nos estimations, avant que nous ayons à les tenir pour une menace réelle. Nous serons toujours un pas devant eux.<end>
 
@@ -1238,13 +1238,13 @@ Il faudra encore quelques années au moins, selon nos estimations, avant que nou
 What is your opinion of the Free Drones?<end>
 
 =>a191
-Quelle est votre opinion des Free Drones ?<end>
+Quelle est votre opinion sur les Free Drones ?<end>
 
 =>q192_original
 They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
 
 =>q192
-Ils sont l'antithèse du Protectorate : une force agissant en sens inverse. C'est la nature de la politique - une guerre éternelle d'idéologies adverses, menée par les entités qui les incarnent. Même si les Free Drones perdent la guerre, l'idéologie ne disparaîtra pas : son élément le plus fondamental - la négation du contrôle et de l'oppression - servira de graine à un autre groupe, une autre organisation, une autre entité. Détruire une telle impulsion ne pourrait s'accomplir que par la destruction de l'humanité.<end>
+Ils sont l'antithèse du Protectorate : une force agissant en sens inverse. C'est la nature de la politique - une guerre éternelle d'idéologies adverses, menée par les entités qui les incarnent. Même si les Free Drones perdent la guerre, l'idéologie ne disparaîtra pas : son élément le plus fondamental - la négation du contrôle et de l'oppression - servira de graine à un autre groupe, une autre organisation, une autre entité. Détruire une telle impulsion ne serait possible qu'en détruisant l'humanité.<end>
 
 =>q193_original
 But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
@@ -1276,15 +1276,15 @@ Je dois partir maintenant. Au revoir.<end>
 He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
 
 =>q197
-::Un visage de cauchemar vous fixe de ses yeux vides ; des extensions tentaculaires pendent du bas du masque et ne font qu'ajouter à la vision déjà intimidante. Ce n'est qu'un masque, pourtant il paraît naturel de se demander si ce qui se trouve dessous pourrait être encore plus effrayant. Cette silhouette haute et imposante est Eidein - fondateur de l'Institute of Tchort, il n'y a aucun doute. Il porte une longue robe ornée, dont le drapé sinistre accompagne chacun de ses mouvements, tous contrôlés, tous délibérés ; un œil d'où poussent cinq tentacules y est imprimé, marque du plus haut rang que vous ayez vu chez un Tchortist.
+::Un visage de cauchemar vous fixe de ses yeux vides ; des appendices tentaculaires pendent du bas du masque et rendent la vision encore plus intimidante. Ce n'est qu'un masque, pourtant il paraît naturel de se demander si ce qui se trouve dessous pourrait être encore plus effrayant. Cette silhouette haute et imposante est Eidein - fondateur de l'Institute of Tchort, il n'y a aucun doute. Il porte une longue robe ornée, dont le drapé sinistre accompagne chacun de ses mouvements, tous contrôlés, tous délibérés ; un œil d'où poussent cinq tentacules y est imprimé : le plus haut rang que vous ayez vu chez un Tchortist.
 
-Il baisse la tête pour vous regarder, et prononce ses mots d'une voix profondément grave, à peine entravée par le masque terrifiant.::<end>
+Il baisse la tête vers vous, et sa voix, profondément grave, n'est que légèrement voilée par le masque terrifiant.::<end>
 
 =>q198_original
 Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
 
 =>q198
-Tchort est l'évolution, $(context.player.Name) ; enfin nous nous rencontrons. Je me présente officiellement : je suis Eidein. Je n'avais pas encore eu l'occasion de vous remercier d'avoir rendu la pièce de l'ensemble à l'Institute of Tchort ; si elle était restée entre les mains des dégénérés, j'aurais été grandement déçu. Fort bien.<end>
+Tchort est l'évolution, $(context.player.Name) ; enfin nous nous rencontrons. Je me présente officiellement : je suis Eidein. Je n'avais pas encore eu l'occasion de vous remercier d'avoir rendu la pièce de l'ensemble à l'Institute of Tchort ; si elle était restée entre les mains des dégénérés, j'aurais été grandement déçu. C'est fort bien.<end>
 
 =>a199_original
 Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
@@ -1308,7 +1308,7 @@ Je n'en doute pas, $(context.player.Name). Nous avons rarement l'occasion d'assi
 Make yourself comfortable and let us begin. What do you seek of me?<end>
 
 =>q202
-Mettez-vous à l'aise, et commençons. Que me demandez-vous ?<end>
+Mettez-vous à l'aise, et commençons. Que cherchez-vous auprès de moi ?<end>
 
 =>q203_original
 <end>
@@ -1326,7 +1326,7 @@ Hé, j'ai eu l'occasion de faire mal à ces tarés dégénérés *et* de rejoind
 I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
 
 =>q205
-Votre enthousiasme me satisfait. Nous avons rarement l'occasion d'assister à un effort aussi vaillant de la part de ceux qui ne font pas encore partie de notre institution.<end>
+Je suis fort satisfait de votre enthousiasme. Nous avons rarement l'occasion d'assister à un effort aussi vaillant de la part de ceux qui ne font pas encore partie de notre institution.<end>
 
 =>a206_original
 It was nothing but pleasure.<end>
@@ -1386,4 +1386,4 @@ Revenez dès que vous saurez, $(context.player.Name). Que Tchort vous guide.<end
 Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
 
 =>q215
-Tchort est l'évolution. Bienvenue dans mon bureau. Que me demandez-vous, $(context.player.Name) ?<end>
+Tchort est l'évolution. Bienvenue dans mon bureau. Que cherchez-vous, $(context.player.Name) ?<end>

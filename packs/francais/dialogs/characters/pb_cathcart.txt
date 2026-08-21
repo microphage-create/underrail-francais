@@ -10,7 +10,7 @@ Corporal, I was informed by Captain Mareth that the mission was a complete succe
 As for you, you deserve some R&R. Payment for both missions done under Captain Mareth's command is waiting for you, plus a... small bonus. You know where to collect it, Corporal.<end>
 
 =>q2
-Caporal, le capitaine Mareth m'a informé que la mission a été un vrai succès. Je suis heureux que vous soyez $(#vivant/vivante), soldat. C'est ce que j'aime voir : $(#un survivant/une survivante). Et le CAU partira bientôt, s'ils ne sont pas déjà partis. ::Il se penche plus près.:: Bon débarras !
+Caporal, le capitaine Mareth m'a informé que la mission a été un vrai succès. Je suis heureux que vous soyez $(#vivant/vivante), soldat. C'est ce que j'aime voir : $(#un survivant/une survivante). Et la CAU partira bientôt, si ce n'est déjà fait. ::Il se penche plus près.:: Bon débarras !
 
 Quant à vous, vous méritez une permission. Le paiement des deux missions menées sous le commandement du capitaine Mareth vous attend, plus... un petit bonus. Vous savez où le récupérer, caporal.<end>
 
@@ -30,19 +30,19 @@ Je suis $(#revenu/revenue) d'Hephaestus Research, monsieur.<end>
 I can see that, Corporal, and I see you've done excellent work. The missing crew just preceded you, or at least what is left of it, sadly. They are now being examined by our medical staff and will most certainly need a lot of rest to recuperate from the hell they've gone through.<end>
 
 =>q5
-Je vois ça, caporal. Et vous avez fait un excellent travail. L'équipage disparu vient de vous précéder, ou du moins ce qu'il en reste, malheureusement. Notre personnel médical les examine en ce moment. Ils auront certainement besoin de beaucoup de repos pour se remettre de l'enfer qu'ils ont traversé.<end>
+Je vois ça, caporal. Et vous avez fait un excellent travail. L'équipage disparu est arrivé juste avant vous, ou du moins ce qu'il en reste, malheureusement. Notre personnel médical les examine en ce moment. Ils auront certainement besoin de beaucoup de repos pour se remettre de l'enfer qu'ils ont traversé.<end>
 
 =>q6_original
 Mission accomplished, Corporal. The staff sergeant will have your payment.<end>
 
 =>q6
-Mission accomplie, caporal. Le sergent d'état-major aura votre paiement.<end>
+Mission accomplie, caporal. Le sergent d'état-major vous versera votre solde.<end>
 
 =>q7_original
 That is all for now, Corporal. There are certain matters I need to discuss with Consul Oliver.<end>
 
 =>q7
-C'est tout pour le moment, caporal. J'ai des affaires à régler avec le consul Oliver.<end>
+C'est tout pour le moment, caporal. Je dois m'entretenir avec le consul Oliver.<end>
 
 =>q8_original
 Colonel, I don't see why the corporal shouldn't be present in our conversation. $(#He'll/She'll) learn of the issue at hand very soon anyway.<end>
@@ -58,7 +58,7 @@ I don't see why not. Corporal, listen up: A major issue has come up while you we
 =>q9
 ::Le colonel Cathcart tarde à répondre. D'abord, il se contente de vous jeter un regard. Vous n'attendez toutefois pas longtemps.::
 
-Je ne vois pas d'objection. Caporal, écoutez-moi bien : un gros problème est survenu pendant que vous étiez à Hephaestus Research.<end>
+Je ne vois pas d'objection. Caporal, écoutez-moi bien : un problème majeur est survenu pendant que vous étiez à Hephaestus Research.<end>
 
 =>a10_original
 What happened, sir?<end>
@@ -70,13 +70,13 @@ Que s'est-il passé, monsieur ?<end>
 We lost Epione Lab to the Free Drones.<end>
 
 =>q11
-Nous avons perdu Epione Lab aux Free Drones.<end>
+Nous avons perdu Epione Lab aux mains des Free Drones.<end>
 
 =>q12_original
 A group of Drone saboteurs were able to destroy the support pillars of the facility, making the construction unstable and... it collapsed, killing everyone in it. Even the saboteurs themselves.<end>
 
 =>q12
-Un groupe de saboteurs des Drones a réussi à détruire les piliers porteurs de l'installation. La structure est devenue instable et... elle s'est effondrée. Tout le monde est mort. Y compris les saboteurs.<end>
+Un groupe de saboteurs Free Drones a réussi à détruire les piliers porteurs de l'installation. La structure est devenue instable et... elle s'est effondrée. Tout le monde est mort. Y compris les saboteurs.<end>
 
 =>q13_original
 Our loss is so great, I can't even begin to explain it to you, Corporal.<end>
@@ -94,7 +94,7 @@ C'est peut-être le moment d'expliquer au caporal à quoi servait Epione Lab. Vo
 ::You notice Colonel is not pleased by Consul Oliver's words. It's apparent that the tension rises between the two.:: Please, Consul, I don't need you to tell me if and when I should discuss *confidential* military subjects with *my* subordinates. <end>
 
 =>q15
-::Vous remarquez que le colonel n'apprécie pas les paroles du consul Oliver. La tension monte nettement entre les deux.:: Je vous en prie, Consul. Je n'ai pas besoin que vous me disiez si et quand je dois aborder des sujets militaires *confidentiels* avec *mes* subordonnés. <end>
+::Vous remarquez que le colonel n'apprécie pas les paroles du consul Oliver. La tension monte nettement entre les deux.:: Je vous en prie, Consul. Je n'ai pas besoin que vous me disiez si, et quand, je dois aborder des sujets militaires *confidentiels* avec *mes* subordonnés. <end>
 
 =>q16_original
 ::The Consul remains silent.::<end>
@@ -111,14 +111,14 @@ You've seen the facility itself, when you were reporting to the late Captain Bla
 =>q17
 Oui... ::Il se tourne vers vous.:: Eh bien, caporal, écoutez. Epione Lab devait servir à déplacer rapidement les forces du Protectorate d'Upper Underrail vers Lower Underrail. Permettez-moi de préciser :
 
-Vous avez vu l'installation vous-même, quand vous vous êtes $(#présenté/présentée) au défunt capitaine Blackwall. Ce que vous avez vu n'est que le niveau supérieur. Il y a plusieurs étages en dessous, jusqu'à Lower Underrail.
+Vous avez vu l'installation, quand vous vous êtes $(#présenté/présentée) au défunt capitaine Blackwall. Ce que vous avez vu n'est que le niveau supérieur. Il y a plusieurs étages en dessous, jusqu'à Lower Underrail.
 <end>
 
 =>q18_original
 So, since the Underrail Protectorate became tired of being at the mercy of Core City, we decided to repair and expand the facility's elevator shaft to take us straight down. We would have had our own way to Lower Underrail, Corporal. Reinforcing SRO would've been much more effective, and we would have had the opportunity to make some more progress in Lower Underrail.<end>
 
 =>q18
-Le Underrail Protectorate en avait assez d'être à la merci de Core City. Nous avons donc décidé de réparer et d'agrandir le puits d'ascenseur de l'installation, pour descendre tout droit. Nous aurions eu notre propre accès à Lower Underrail, caporal. Renforcer SRO aurait été bien plus efficace, et nous aurions pu progresser davantage en Lower Underrail.<end>
+Le Protectorate en avait assez d'être à la merci de Core City. Nous avons donc décidé de réparer et d'agrandir le puits d'ascenseur de l'installation, pour descendre tout droit. Nous aurions eu notre propre accès à Lower Underrail, caporal. Renforcer SRO aurait été bien plus efficace, et nous aurions pu progresser davantage en Lower Underrail.<end>
 
 =>q19_original
 Our diplomatic missions would also be a lot easier, let's not forget. But, alas, Corporal, all is lost now.
@@ -132,7 +132,7 @@ Nos missions diplomatiques en auraient aussi été bien plus simples, n'oublions
 
 ::Il se tourne vers le colonel Cathcart.::
 
-Les Drones nous ont tous eu. Et je m'étonne que Red Snake ne nous ait pas prévenus.<end>
+Les Drones nous ont tous joués. Et je m'étonne que Red Snake ne nous ait pas prévenus.<end>
 
 =>a20_original
 Red Snake?<end>
@@ -144,7 +144,7 @@ Red Snake ?<end>
 Red Snake is the pseudonym for our informant, Corporal. He's one of the Free Drones who had so far leaked important information concerning their activities, and was considered reliable. Although, he's been silent for some time. He could've been compromised; we are still unsure.<end>
 
 =>q21
-Red Snake, c'est le pseudonyme de notre informateur, caporal. C'est l'un des Free Drones. Jusqu'ici, il nous a fuité des informations importantes sur leurs activités, et on le tenait pour fiable. Il se tait depuis un moment. Il a pu être compromis ; on n'en est pas encore sûrs.<end>
+Red Snake, c'est le pseudonyme de notre informateur, caporal. C'est l'un des Free Drones. Jusqu'ici, il a fait fuiter des informations importantes sur leurs activités, et on le tenait pour fiable. Il se tait depuis un moment. Il a pu être compromis ; on n'en est pas encore sûrs.<end>
 
 =>a22_original
 So, you had an informant all along?<end>
@@ -186,7 +186,7 @@ Les Faceless ont-ils attaqué, monsieur ?<end>
 No, Corporal. We detected no Faceless activity in Upper Underrail. ::He pauses.:: We lost Epione Lab to Free Drones.<end>
 
 =>q28
-Non, caporal. Aucune activité Faceless détectée en Upper Underrail. ::Il s'arrête.:: Nous avons perdu Epione Lab aux Free Drones.<end>
+Non, caporal. Aucune activité Faceless détectée en Upper Underrail. ::Il s'arrête.:: Nous avons perdu Epione Lab aux mains des Free Drones.<end>
 
 =>a29_original
 Did the Free Drones attack, sir?<end>
@@ -234,7 +234,7 @@ Ce n'est pas votre faute, caporal. Vous avez fait ce qu'on vous demandait, c'est
 The staff sergeant will have your payment.<end>
 
 =>q36
-Le sergent d'état-major aura votre paiement.<end>
+Le sergent d'état-major vous versera votre solde.<end>
 
 =>a37_original
 That is not my fault, sir!<end>
@@ -246,7 +246,7 @@ Ce n'est pas ma faute, monsieur !<end>
 Of course it isn't, Corporal, I don't see why you feel the need to defend yourself. You did what was asked of you, that's what's important. Let me worry about the rest.<end>
 
 =>q38
-Bien sûr que non, caporal. Je ne vois pas pourquoi vous éprouvez le besoin de vous défendre. Vous avez fait ce qu'on vous demandait, c'est ça qui compte. Laissez-moi m'occuper du reste.<end>
+Bien sûr que non, caporal. Je ne vois pas pourquoi vous vous défendez. Vous avez fait ce qu'on vous demandait, c'est ça qui compte. Laissez-moi m'occuper du reste.<end>
 
 =>a39_original
 They were killed by burrowers, sir, I'm afraid.<end>
@@ -280,13 +280,13 @@ Et maintenant, monsieur ? Les Free Drones espionnaient visiblement Epione Lab.<e
 Let me worry about that, Corporal. We will call a meeting and discuss the Free Drones situation.<end>
 
 =>q43
-Laissez-moi m'en occuper, caporal. Nous convoquerons une réunion et nous discuterons de la situation Free Drones.<end>
+Laissez-moi m'en occuper, caporal. Nous convoquerons une réunion et nous discuterons de la situation des Free Drones.<end>
 
 =>q44_original
 Anyway, I have another mission for you.<end>
 
 =>q44
-Quoi qu'il en soit, j'ai une autre mission pour vous.<end>
+Bref, j'ai une autre mission pour vous.<end>
 
 =>a45_original
 Thank you, sir.<end>
@@ -342,7 +342,7 @@ You are to report to the captain and assist him with this little problem. Once y
 Am I clear so far?<end>
 
 =>q53
-Vous vous présenterez au capitaine et vous l'aiderez à régler ce petit problème. Une fois que vous en aurez fini avec lui, vous me ferez votre rapport.
+Vous vous présenterez au capitaine et vous l'aiderez à régler ce petit problème. Quand vous aurez terminé auprès de lui, vous me ferez rapport.
 
 C'est clair, jusqu'ici ?<end>
 
@@ -410,7 +410,7 @@ Well, Corporal, I was told this Southgater could prove to be an excellent ally. 
 I was told of your bravery, everything about that missing train; it all sounded too good to be true.<end>
 
 =>q63
-On m'a dit que ce Southgater pourrait s'avérer un excellent allié. $(#Il/Elle) a montré de l'intérêt *et* du dévouement, et une adhésion à notre programme. C'est ce qu'on m'a dit, du moins.
+On m'a dit que ce Southgater pourrait s'avérer un excellent allié. $(#Il/Elle) a montré de l'intérêt *et* du dévouement, et adhère à nos objectifs. C'est ce qu'on m'a dit, du moins.
 
 On m'a parlé de votre courage, de toute cette affaire du train disparu. Tout ça sonnait trop beau pour être vrai.<end>
 
@@ -428,7 +428,7 @@ Je n'en ai plus besoin, ici, caporal... J'en ai déjà assez. Si on les écoutai
 But... I may have misjudged you. You are a soldier, and that's the only thing I want from you. We live in a world, Corporal, where when you have a bullet flying towards you at a thousand meters per second, you want someone to dodge it and fire back, not talk to it while it's mid-air.<end>
 
 =>q65
-Mais... je vous ai peut-être mal jugé. Vous êtes un soldat, et c'est tout ce que je vous demande. Nous vivons dans un monde, caporal, où quand une balle vous arrive dessus à mille mètres par seconde, on veut quelqu'un qui l'évite et qui rende le feu. Pas quelqu'un qui lui parle en plein vol.<end>
+Mais... je vous ai peut-être mal $(#jugé/jugée). Vous êtes un soldat, et c'est tout ce que je vous demande. Nous vivons dans un monde, caporal, où quand une balle vous arrive dessus à mille mètres par seconde, on veut quelqu'un qui l'évite et qui rende le feu. Pas quelqu'un qui lui parle en plein vol.<end>
 
 =>q66_original
 ::He clears throat.:: Now, let's get back to the problem at hand. Listen up. 
@@ -450,7 +450,7 @@ Je n'ai jamais entendu parler de cet endroit, monsieur.<end>
 I can forgive you for not knowing about all these abandoned Biocorp facilites; I know very little, too, to be honest. Biocorp has been around for a few hundred years, and they've left us with innumerable abandoned sites. This one, though, when I was told about it, and what was done there, I realized it was worth checking, Corporal.<end>
 
 =>q68
-Je vous pardonne de ne pas connaître tous ces sites Biocorp à l'abandon ; pour être honnête, moi non plus, je n'en sais pas grand-chose. Biocorp a tenu quelques siècles, et nous a laissé d'innombrables installations abandonnées. Celle-ci, pourtant : quand on m'en a parlé, et de ce qu'on y faisait, j'ai compris que ça valait le détour, caporal.<end>
+Je vous pardonne de ne pas connaître tous ces sites Biocorp à l'abandon ; pour être honnête, moi non plus, je n'en sais pas grand-chose. Biocorp a tenu quelques siècles, et nous a laissé d'innombrables installations abandonnées. Celle-ci, pourtant : quand on m'en a parlé, et de ce qu'on y faisait, j'ai compris que ça valait d'y aller voir, caporal.<end>
 
 =>a69_original
 Care to elaborate, sir?<end>
@@ -494,7 +494,7 @@ That is all the usable information regarding its location I can give you.<end>
 =>q74
 C'est un peu délicat à expliquer, caporal, mais je vais faire de mon mieux. D'après les derniers messages de l'expédition, ils sont entrés dans le réseau de grottes au nord du GMS, désormais abandonné. Ils ont creusé vers le sud et ont trouvé l'entrée de l'installation après un jour ou deux. Donc ça ne devait pas être loin de l'entrée de la grotte.
 
-C'est tout ce que je peux vous donner d'exploitable sur l'emplacement.<end>
+C'est tout ce que j'ai d'utilisable sur l'emplacement.<end>
 
 =>q75_original
 If everything is clear, I wish you good luck, Corporal. I sincerely hope those men are still alive down there.<end>
@@ -676,7 +676,7 @@ C'est exactement comme sur la photo.<end>
 I reckon the captain has produced the information you needed, sir?<end>
 
 =>a99
-Je pense que le capitaine a fourni les informations dont vous aviez besoin, monsieur ?<end>
+Le capitaine vous a envoyé ce qu'il vous fallait, monsieur ?<end>
 
 =>q100_original
 ::He answers you, still squinting at the screen.::
@@ -700,7 +700,7 @@ Quote: "Each ACoNR unit is thus of immeasurable value and must be kept under hig
 The rest is irrelevant. <end>
 
 =>q101
-Le fichier indique que la technologie et les unités ACoNR ont été produites par la supercorporation New Frontier Technology, période non précisée. Rien sur le fonctionnement lui-même, mais les quelques phrases du dossier laissent entendre que c'est une pièce maîtresse dans la réalisation de *mégaprojets de haute technologie* de toutes sortes.
+Le fichier indique que la technologie et les unités ACoNR ont été produites par la supercorporation New Frontier Technology, période non précisée. Aucune information sur le fonctionnement de la technologie elle-même, mais les quelques phrases du dossier laissent entendre que c'est une pièce maîtresse dans la réalisation de *mégaprojets de haute technologie* de toutes sortes.
 
 Citation : « Chaque unité ACoNR a donc une valeur incommensurable et doit être gardée sous la plus haute sécurité. Le signal codé nécessaire à son activation n'est disponible que pour un petit nombre de personnes triées sur le volet. »
 
@@ -732,7 +732,7 @@ I have to admit, my interest in this thing is growing the more I hear and read a
 =>q105
 Ce sont des renseignements classifiés, caporal, mais voilà : vous ne courez pas après un sauteur introuvable.
 
-Je dois l'admettre : plus j'en entends et plus j'en lis, plus cette chose m'intéresse. Ne nous emballons pas pour autant. Tenez-vous-en à vos devoirs, et tenez-moi au courant dès que vous aurez du nouveau sur l'Acorn.<end>
+Je dois l'admettre : plus j'en entends et plus j'en lis, plus cette chose m'intéresse. Ne nous emballons pas pour autant. Restez $(#concentré/concentrée) sur vos fonctions, et tenez-moi au courant dès que vous aurez du nouveau sur l'Acorn.<end>
 
 =>q106_original
 Well done, Corporal, well done. Now to have it put in a safe place. ::He reaches for his phone.::<end>
@@ -780,7 +780,7 @@ Vous n'avez pas changé d'avis sur le thé aux champignons, caporal ? Une tasse 
 What the hell. I'll take one, sir.<end>
 
 =>a111
-Tant pis. J'en prends une, monsieur.<end>
+Allez. J'en prends une, monsieur.<end>
 
 =>q112_original
 ::He presses a button on his phone.::
@@ -840,7 +840,7 @@ Maintenant que le blocus est levé, l'Acorn part vers le Nord avec les premiers 
 In the meantime, I'll have this locked away and under guard.<end>
 
 =>q119
-En attendant, je le fais mettre sous clé, sous garde.<end>
+En attendant, je le fais mettre sous clé, sous bonne garde.<end>
 
 =>q120_original
 ::A soldier arrives with your money. The colonel points to you, and the soldier hands it over, salutes and leaves.::
@@ -858,7 +858,7 @@ They deployed humanoid warbots, multi-legged all-terrain walkers, aircraft rangi
 ::He looks at the Acorn, then at you again, then chuckles.:: Seems unreal, doesn't it?<end>
 
 =>q121
-Ils déployaient des warbots humanoïdes, des marcheurs tout-terrain à plusieurs pattes, des appareils allant du drone de recon miniature jusqu'aux porteurs de structures massifs, plus des vaisseaux d'une taille et d'un armement inconcevables... Et tout ça, entièrement autonome : une armée de warbots sans émotion, obéissant au doigt et à l'œil. Auto-réplicante, d'après le général.
+Ils déployaient des warbots humanoïdes, des marcheurs tout-terrain à plusieurs pattes, des appareils allant du drone de reconnaissance miniature jusqu'aux porteurs de structures massifs, plus des vaisseaux d'une taille et d'un armement inconcevables... Et tout ça, entièrement autonome : une armée de warbots sans émotion, obéissant au doigt et à l'œil. Auto-réplicante, d'après le général.
 
 ::Il regarde l'Acorn, puis vous, puis rit.:: Ça paraît irréel, n'est-ce pas ?<end>
 
@@ -876,7 +876,7 @@ Assez bavardé, caporal. Reprenez vos fonctions. Mais si tout se passe bien, vou
 As soon the blockade is cleared I'm going to request a wartrain to carry this to North Underrail. <end>
 
 =>q123
-Dès que le blocus sera levé, je demanderai un wartrain pour porter ça en North Underrail. <end>
+Dès que le blocus sera levé, je demanderai un wartrain pour l'acheminer en North Underrail. <end>
 
 =>q124_original
 three thousand dollars <end>
@@ -906,7 +906,7 @@ mille deux cents <end>
 Your efforts wouldn't have gone unrewarded in any case, Corporal. Besides, you obtained the Acorn without relying on Protectorate resources. You must've had some expenses.<end>
 
 =>q128
-Vos efforts n'auraient de toute façon pas été sans récompense, caporal. Et vous avez obtenu l'Acorn sans puiser dans les ressources du Protectorate. Vous avez dû avoir des frais.<end>
+Vous n'auriez de toute façon pas travaillé pour rien, caporal. Et vous avez obtenu l'Acorn sans puiser dans les ressources du Protectorate. Vous avez dû avoir des frais.<end>
 
 =>q129_original
 <end>
@@ -988,7 +988,7 @@ Une somme modeste de mille deux cents dollars devrait tout couvrir, monsieur.<en
 You understand, sir. In that case, I won't try to influence my payment. ::Give him the Acorn.::<end>
 
 =>a141
-Vous comprenez, monsieur. Dans ce cas, je n'essaierai pas d'influer sur ma solde. ::Donner l'Acorn.::<end>
+Vous comprenez, monsieur. Dans ce cas, je n'essaierai pas de négocier ma solde. ::Donner l'Acorn.::<end>
 
 =>a142_original
 I'll have one, sir.<end>
@@ -1092,7 +1092,7 @@ Pas encore, mais j'y travaille.<end>
 Don't let it detract you from your other duties, Corporal. In the meantime, <end>
 
 =>q157
-Ne vous laissez pas distraire de vos autres fonctions, caporal. En attendant, <end>
+Ne laissez pas ça vous détourner de vos autres fonctions, caporal. En attendant, <end>
 
 =>q158_original
 I'll wait for some verified information from Captain Travis. Then we'll discuss this further.
@@ -1102,7 +1102,7 @@ If you do learn anything new, report to me.<end>
 =>q158
 j'attends des informations vérifiées du capitaine Travis. On en reparlera ensuite.
 
-Si vous apprenez du nouveau, faites-m'en rapport.<end>
+Si vous apprenez du nouveau, faites-moi rapport.<end>
 
 =>a159_original
 No. I just heard about it and wondered if you knew something that could help me.<end>
@@ -1156,7 +1156,7 @@ C'est un superordinateur qui commande des nanobots. Ils prélèvent des matéria
 Never mind. There was something else I wanted to ask you.<end>
 
 =>a167
-Laisser tomber. J'avais autre chose à vous demander.<end>
+Laissez tomber. J'avais autre chose à vous demander.<end>
 
 =>q168_original
 Speed it up, Corporal. I haven't got the time.<end>
@@ -1174,7 +1174,7 @@ Encore au sujet de l'Acorn...<end>
 Spill it already, Corporal.<end>
 
 =>q170
-Allez, caporal. Crachez le morceau.<end>
+Allez, caporal. Parlez.<end>
 
 =>a171_original
 Any information on the Acorn, sir?<end>
@@ -1210,7 +1210,7 @@ Il y a deux façons d'y aller, depuis Fort Apogee. Si vous prenez vers le nord, 
 You know you're on the right track if you follow the blue metro line. It will lead you to the train station that takes you to Epione Lab.<end>
 
 =>q176
-Vous saurez que vous êtes sur la bonne voie si vous suivez la ligne de métro bleue. Elle vous mènera à la gare qui dessert Epione Lab.<end>
+Suivez la ligne de métro bleue : vous serez sur la bonne voie. Elle mène à la gare qui dessert Epione Lab.<end>
 
 =>a177_original
 About the renegade soldiers, sir...<end>
@@ -1266,7 +1266,7 @@ Question suivante.<end>
 Let me ask you something else.<end>
 
 =>a184
-Laissez-moi vous demander autre chose.<end>
+J'avais autre chose à vous demander.<end>
 
 =>q185_original
 I'm listening, Corporal.<end>
@@ -1284,7 +1284,7 @@ Pourquoi n'avez-vous pas envoyé des troupes pour les appréhender, monsieur ?<e
 Corporal, the penalty for desertion is death. Has been, and always will be, hopefully. If this were anything else, I'd have sent troops to apprehend the deserters without delay and court-martial them. If they couldn't be apprehended, well, they would be executed. Pure and simple.<end>
 
 =>q187
-Caporal, la désertion se paie de la mort. Ça l'a toujours été, et ça le restera, je l'espère. Pour n'importe quoi d'autre, j'aurais envoyé des troupes sans délai pour appréhender les déserteurs et les traduire en cour martiale. S'ils ne pouvaient pas être appréhendés, eh bien, on les aurait exécutés. Point final.<end>
+Caporal, la désertion est punie de mort. Ça a toujours été le cas, et ça le restera, je l'espère. Pour n'importe quoi d'autre, j'aurais envoyé des troupes sans délai pour appréhender les déserteurs et les traduire en cour martiale. S'ils ne pouvaient pas être appréhendés, eh bien, on les aurait exécutés. Point final.<end>
 
 =>q188_original
 But... Tim Holloway is a decorated veteran who has served his duty with excellent dedication and results, so I'm willing to be... ::He struggles to find the right word.:: a bit more tolerant. *If,* and only if they surrender immediately!
@@ -1308,7 +1308,7 @@ Tim is a decorated veteran. He and his men are some of the best in the force. Th
 Yet, they deserted the Protectorate, and did so in a critical period.<end>
 
 =>q190
-Tim est un vétéran décoré. Lui et ses hommes sont parmi les meilleurs de la force. Ils ont encaissé beaucoup de missions dangereuses, parfois l'enfer pur, et ils ont fait preuve de dévouement, de courage et d'honneur.
+Tim est un vétéran décoré. Lui et ses hommes sont parmi les meilleurs de la force. Ils ont fait beaucoup de missions dangereuses, parfois l'enfer, et ils ont fait preuve de dévouement, de courage et d'honneur.
 
 Pourtant, ils ont déserté le Protectorate. Et en pleine période critique.<end>
 
@@ -1318,7 +1318,7 @@ Some officers told me he was starting to lose it, but... I don't know. The only 
 Punishment awaits them, that is certain, but if they show reason, it might mitigate their sentence. <end>
 
 =>q191
-Certains officiers m'ont dit qu'il commençait à disjoncter, mais... je ne sais pas. La seule raison pour laquelle nous tentons de négocier, c'est le dossier de son escouade. Rien d'autre.
+Certains officiers m'ont dit qu'il commençait à craquer, mais... je ne sais pas. La seule raison pour laquelle nous tentons de négocier, c'est le dossier de son escouade. Rien d'autre.
 
 La sanction les attend, c'est certain. Mais s'ils font preuve de raison, ça pourrait atténuer leur peine. <end>
 
@@ -1356,7 +1356,7 @@ Removed? Well, Corporal, I don't know what would happen. Those men are loyal to 
 Or, they could decide to go out in a blaze of glory. One can never be sure.<end>
 
 =>q197
-Ou ils pourraient choisir de partir dans un feu d'artifice. On n'en est jamais sûr.<end>
+Ou ils pourraient choisir de finir dans un baroud d'honneur. On n'en est jamais sûr.<end>
 
 =>a198_original
 I have other questions about the renegade soldiers, sir.<end>
@@ -1394,7 +1394,7 @@ Vraiment ? Qu'est-ce qu'il a dit ?<end>
 So, that's his story. I must admit I was surprised at some of the things you just told me, Corporal. I don't remember ordering any innocent civilians to be killed.<end>
 
 =>q203
-::Le colonel vous écoute avec attention, tandis que vous lui rappelez, mot pour mot, ce que Holloway vous a dit. Quand vous avez fini, vous le voyez peser la situation en silence. Son visage n'en dit pas plus. Puis il parle.::
+::Le colonel vous écoute avec attention, tandis que vous lui racontez, mot pour mot, ce que Holloway vous a dit. Quand vous avez fini, vous le voyez peser la situation en silence. Son visage n'en dit pas plus. Puis il parle.::
 
 Voilà donc son histoire. J'avoue que certaines choses que vous venez de me dire m'ont surpris, caporal. Je ne me souviens pas d'avoir ordonné de tuer des civils innocents.<end>
 
@@ -1468,13 +1468,13 @@ Bonne chance.<end>
 What can you tell me about Fort Apogee?<end>
 
 =>a213
-Que pouvez-vous me dire sur Fort Apogee ?<end>
+Que pouvez-vous me dire sur Fort Apogee ?<end>
 
 =>q214_original
 Corporal, as you can witness for yourself, Fort Apogee is the main Protectorate base in South Underrail. It's been five years since Protectorate first arrived to the South, and we plan to stay here until law and order is brought to this... hell. It is hell, Corporal, you know it yourself. There were many obstacles in our way; some are still present, but Fort Apogee still stands.<end>
 
 =>q214
-Caporal, vous le voyez vous-même : Fort Apogee est la principale base du Protectorate en South Underrail. Ça fait cinq ans que le Protectorate est arrivé au Sud, et nous comptons rester jusqu'à ce que la loi et l'ordre soient rétablis dans cet... enfer. C'est l'enfer, caporal, vous le savez. Il y a eu beaucoup d'obstacles. Certains sont encore là. Fort Apogee, lui, tient toujours.<end>
+Caporal, vous le voyez vous-même : Fort Apogee est la principale base du Protectorate en South Underrail. Ça fait cinq ans que le Protectorate est arrivé dans le Sud, et nous comptons rester jusqu'à ce que la loi et l'ordre soient rétablis dans cet... enfer. C'est l'enfer, caporal, vous le savez. Il y a eu beaucoup d'obstacles. Certains sont encore là. Fort Apogee, lui, tient toujours.<end>
 
 =>q215_original
 True, we are being resisted by anarchists, bandits and the like, but those are easy to deal with most of the time, due to our military superiority. Logistics... that is a bigger issue, but the bad public opinion of the Protectorate is perhaps the largest obstacle we have to overcome, unfortunately.
@@ -1482,7 +1482,7 @@ True, we are being resisted by anarchists, bandits and the like, but those are e
 Fort Apogee should be the symbol of law, order, protection - not tyranny and oppression, as anarchists constantly claim. And it is something we are working hard on, Corporal.<end>
 
 =>q215
-Oui, nous essuyons la résistance d'anarchistes, de bandits et consorts. La plupart du temps, notre supériorité militaire suffit. La logistique... ça, c'est plus dur. Mais la mauvaise opinion publique sur le Protectorate est peut-être l'obstacle le plus sérieux. Malheureusement.
+Oui, anarchistes, bandits et consorts nous résistent. La plupart du temps, notre supériorité militaire suffit. La logistique... ça, c'est plus dur. Mais la mauvaise réputation du Protectorate auprès du public, c'est peut-être l'obstacle le plus sérieux. Malheureusement.
 
 Fort Apogee devrait être le symbole de la loi, de l'ordre, de la protection. Pas de la tyrannie et de l'oppression, comme le répètent les anarchistes. Et c'est là-dessus que nous travaillons, caporal.<end>
 
@@ -1520,13 +1520,13 @@ Heureusement, dans ces situations, c'est moi qui tranche. Même quand c'est diff
 What can you tell me about CAU?<end>
 
 =>a221
-Que pouvez-vous me dire sur le CAU ?<end>
+Que pouvez-vous me dire sur la CAU ?<end>
 
 =>q222_original
 ::He frowns before replying.:: The Chemical Assault Unit is a special task force that is usually dispatched on difficult missions. While they mostly operate in the North... they were dispatched here after the attack on Epione Lab, as you can see for yourself. To tell you the truth, Corporal, the existence of such a unit is... ::He makes a long pause.:: Let's say we could do without them, Corporal.<end>
 
 =>q222
-::Il fronce les sourcils avant de répondre.:: La Chemical Assault Unit est une force spéciale, généralement dépêchée sur des missions difficiles. Ils opèrent surtout au Nord... mais on les a envoyés ici après l'attaque sur Epione Lab, comme vous pouvez le constater. Pour vous dire la vérité, caporal, l'existence d'une telle unité... ::Il marque une longue pause.:: Disons que nous pourrions nous passer d'eux, caporal.<end>
+::Il fronce les sourcils avant de répondre.:: La Chemical Assault Unit est une force spéciale, généralement dépêchée sur des missions difficiles. Ils opèrent surtout au Nord... mais on les a envoyés ici après l'attaque sur Epione Lab, comme vous pouvez le constater. Pour vous dire la vérité, caporal, l'existence d'une telle unité... ::Il marque une longue pause.:: Disons que nous pourrions nous en passer, caporal.<end>
 
 =>q223_original
 While their efficiency was never in question, for they are indeed highly trained individuals... it's their methods that are extreme. Too extreme, as far as I'm concerned, and give the Protectorate a bad name. 
@@ -1534,9 +1534,9 @@ While their efficiency was never in question, for they are indeed highly trained
 But, often we have to deal with certain things whether we like it or not, so CAU is here to stay.<end>
 
 =>q223
-Leur efficacité n'a jamais été en cause : ce sont des individus extrêmement bien formés... Ce sont leurs méthodes qui sont extrêmes. Trop, à mon goût, et ça colle une mauvaise réputation au Protectorate.
+Leur efficacité n'a jamais fait de doute : ce sont des individus extrêmement bien formés... Ce sont leurs méthodes qui sont extrêmes. Trop, à mon goût, et ça colle une mauvaise réputation au Protectorate.
 
-Mais il faut souvent s'occuper de certaines choses, qu'on le veuille ou non. Donc le CAU est là pour rester.<end>
+Mais il faut souvent s'occuper de certaines choses, qu'on le veuille ou non. Donc il va falloir faire avec la CAU.<end>
 
 =>q224_original
 That is all I have to say, Corporal.<end>
@@ -1554,25 +1554,25 @@ Qui est ce Red Snake dont vous avez parlé ?<end>
 Red Snake is a Free Drone who had decided to aid the Protectorate in our fight against the anarchists. I suspect he saw their real face and decided to double-cross them and become a Protectorate spy. His information were always incredibly accurate and reliable, and proved crucial in exposing multiple Free Drones hideouts. He warned us about their operations so that we could act in time, and generally leaked information regarding important figures within the anarchist movement.<end>
 
 =>q226
-Red Snake est un Free Drone qui a décidé d'aider le Protectorate dans notre lutte contre les anarchistes. Je soupçonne qu'il a vu leur vrai visage, qu'il les a doublés, et qu'il s'est fait espion du Protectorate. Ses informations ont toujours été d'une précision et d'une fiabilité remarquables. Elles ont été décisives pour exposer plusieurs cachettes Free Drones. Il nous prévenait de leurs opérations à temps pour agir, et fuitait, en général, des renseignements sur des figures importantes du mouvement anarchiste.<end>
+Red Snake est un Free Drone qui a décidé d'aider le Protectorate dans notre lutte contre les anarchistes. Je soupçonne qu'il a vu leur vrai visage, qu'il les a trahis, et qu'il s'est fait espion du Protectorate. Ses informations ont toujours été d'une précision et d'une fiabilité remarquables. Elles ont été décisives pour démasquer plusieurs cachettes Free Drones. Il nous prévenait de leurs opérations à temps pour agir, et faisait fuiter, en général, des renseignements sur des figures importantes du mouvement anarchiste.<end>
 
 =>a227_original
 ::[Persuade]:: Pardon me, sir, but I somehow doubt that he simply "realized" he had been working for the bad guys and decided to switch sides. I think I've earned enough respect by now to know more about the matter.<end>
 
 =>a227
-::[Persuade]:: Pardonnez-moi, monsieur, mais j'ai du mal à croire qu'il ait simplement « réalisé » qu'il travaillait pour les méchants et qu'il ait changé de camp. Je pense avoir gagné assez de respect, à présent, pour en savoir davantage.<end>
+::[Persuade]:: Pardonnez-moi, monsieur, mais j'ai du mal à croire qu'il ait simplement « réalisé » qu'il travaillait pour les méchants et qu'il ait changé de camp. Je pense avoir gagné assez de respect, à présent, pour en savoir plus.<end>
 
 =>q228_original
 ::Colonel Cathcart pauses for a few moments before replying.:: You are absolutely right, Corporal, I haven't told you everything. I suppose I could, though... but it would be best if this were to stay between you and me.<end>
 
 =>q228
-::Le colonel Cathcart s'arrête quelques instants avant de répondre.:: Vous avez tout à fait raison, caporal. Je ne vous ai pas tout dit. Je suppose que je pourrais... mais ce serait mieux si ça restait entre vous et moi.<end>
+::Le colonel Cathcart s'arrête quelques instants avant de répondre.:: Vous avez tout à fait raison, caporal. Je ne vous ai pas tout dit. Je pourrais vous le dire... mais ça devrait rester entre vous et moi.<end>
 
 =>q229_original
 Red Snake is not just some common anarchist - he is one of the high-ranking members of the Free Drones, and shares command over the South Underrail "cell," as they refer to it. You understand that bringing a man like that to the other side is no simple feat, but some "persuasion" had proven enough for him to betray his comrades.<end>
 
 =>q229
-Red Snake n'est pas un anarchiste de base. C'est l'un des cadres des Free Drones, et il partage le commandement de la « cellule » de South Underrail, comme ils disent. Vous comprenez qu'amener un homme de ce calibre de l'autre côté, ce n'est pas rien. Mais un peu de « persuasion » a suffi pour qu'il trahisse les siens.<end>
+Red Snake n'est pas un anarchiste quelconque. C'est l'un des cadres des Free Drones, et il partage le commandement de la « cellule » de South Underrail, comme ils disent. Vous comprenez que retourner un homme de ce calibre, ce n'est pas rien. Mais un peu de « persuasion » a suffi pour qu'il trahisse les siens.<end>
 
 =>a230_original
 Persuasion?<end>
@@ -1584,7 +1584,7 @@ Persuasion ?<end>
 ::After a second of hesitation, he continues.:: Free Drones are a kind of people who either completely sever ties to their families when they become anarchists, or they bring their whole families with them. Red Snake, real name Alvin Bate, did neither. Our intelligence agency learned of a teenage girl who was suspected of being contacted by one of the Free Drones. It turned out she was Bate's daughter, and he soon fell into a trap we had set up for him.<end>
 
 =>q231
-::Après une seconde d'hésitation, il reprend.:: Les Free Drones, c'est le genre de gens qui, une fois anarchistes, coupent tout lien avec leur famille, ou qui l'emmènent tout entière avec eux. Red Snake, de son vrai nom Alvin Bate, n'a fait ni l'un ni l'autre. Nos services ont eu vent d'une adolescente soupçonnée d'être contactée par un Free Drone. C'était la fille de Bate. Il est vite tombé dans le piège qu'on lui avait tendu.<end>
+::Après une seconde d'hésitation, il reprend.:: Les Free Drones, c'est le genre de gens qui, une fois anarchistes, coupent tout lien avec leur famille, ou qui l'emmènent tout entière avec eux. Red Snake, de son vrai nom Alvin Bate, n'a fait ni l'un ni l'autre. Nos services ont eu vent d'une adolescente soupçonnée d'être en contact avec un Free Drone. C'était la fille de Bate. Il est vite tombé dans le piège qu'on lui avait tendu.<end>
 
 =>a232_original
 So you gave him an ultimatum.<end>
@@ -1624,7 +1624,7 @@ Pourquoi a-t-il cessé d'envoyer des informations ?<end>
 We... are not sure. We received no warning that Epione Lab would come under attack, let alone that the results would be so disastrous for us. I suspect that he had been compromised somehow and possibly executed by the anarchists.<end>
 
 =>q237
-Nous... n'en sommes pas sûrs. Aucun avertissement avant l'attaque sur Epione Lab. Encore moins que le résultat serait si désastreux. Je soupçonne qu'il a été compromis, et peut-être exécuté par les anarchistes.<end>
+Nous... n'en sommes pas sûrs. Aucun avertissement qu'Epione Lab serait attaqué. Encore moins que le résultat serait si désastreux. Je soupçonne qu'il a été compromis, et peut-être exécuté par les anarchistes.<end>
 
 =>q238_original
 Whatever the reason, it doesn't really matter anymore.<end>
@@ -1654,7 +1654,7 @@ Parfait ! Du bel ouvrage, de leur part. Réunir ce genre d'informations n'a pas 
 I can only imagine myself. <end>
 
 =>q242
-Je n'ose l'imaginer. <end>
+J'imagine bien. <end>
 
 =>q243_original
 You will know what I decide you should know, Corporal. Now stop asking me about Red Snake's motives.<end>
@@ -1676,7 +1676,7 @@ Yes?
 =>q245
 Oui ?
 
-::Dit l'homme derrière la table, d'une voix grave et puissante. C'est un monsieur d'un certain âge, de haut rang, à en juger par son allure. Vous le voyez plisser les yeux vers vous : son regard peine à vous garder au point, l'image nette. Sa vue n'est plus aussi précise qu'autrefois, sans doute. Pour le reste, il a l'air en bonne forme, pour un homme de son âge.::<end>
+::L'homme derrière la table a une voix grave, puissante. C'est un monsieur d'un certain âge, de haut rang, à en juger par son allure. Vous le voyez plisser les yeux vers vous : il a du mal à vous garder au point. Sa vue n'est plus aussi précise qu'autrefois, sans doute. Pour le reste, il a l'air en bonne forme, pour un homme de son âge.::<end>
 
 =>q246_original
 <end>
@@ -1712,7 +1712,7 @@ Je n'en doute pas. <end>
 After you're finished with the consul - come see me. I'll be in the office.<end>
 
 =>q251
-Quand vous aurez fini avec le consul, venez me voir. Je serai au bureau.<end>
+Quand vous aurez fini avec le consul, venez me voir. Je serai là.<end>
 
 =>a252_original
 Thank you, and sorry for disturbing you.<end>
@@ -1732,7 +1732,7 @@ So, that part is done. Good, very good. And now, allow me to properly introduce 
 Hmmm... care for a cup of mushroom tea?<end>
 
 =>q254
-Voilà pour cette étape. Bien. Très bien. Permettez-moi maintenant de me présenter comme il se doit : colonel Frederick Cathcart, commandant de Fort Apogee, quartier général des opérations militaires du Underrail Protectorate en South Underrail. Votre nom m'est déjà connu, $(context.player.Name). J'ai beaucoup entendu parler de vous. Reste à vérifier si tout ça est vrai.
+Voilà, ça c'est fait. Bien. Très bien. Permettez-moi maintenant de me présenter comme il se doit : colonel Frederick Cathcart, commandant de Fort Apogee, quartier général des opérations militaires de l'Underrail Protectorate en South Underrail. Votre nom m'est déjà connu, $(context.player.Name). J'ai beaucoup entendu parler de vous. Reste à vérifier si tout ça est vrai.
 
 Hmmm... une tasse de thé aux champignons ?<end>
 
@@ -1746,7 +1746,7 @@ Oui, une tasse de thé. Merci.<end>
 That's what I like to hear. $(context.player.Name). ::He lifts the phone from the base and presses a few buttons.:: Miss Trey, would you be so kind to order two cups of mushroom tea for me and my guest? Excellent... in my office, right. Good. ::He hangs up.::<end>
 
 =>q256
-C'est ce que j'aime entendre, $(context.player.Name). ::Il soulève le combiné et appuie sur quelques boutons.:: Mademoiselle Trey, auriez-vous l'obligeance de commander deux tasses de thé aux champignons, pour moi et mon invité ? Excellent... dans mon bureau, c'est ça. Bien. ::Il raccroche.::<end>
+C'est ce que j'aime entendre, $(context.player.Name). ::Il soulève le combiné et appuie sur quelques boutons.:: Mademoiselle Trey, auriez-vous l'obligeance de commander deux tasses de thé aux champignons, pour nous deux ? Excellent... dans mon bureau, c'est ça. Bien. ::Il raccroche.::<end>
 
 =>q257_original
 ::He leans back into his chair.:: Aaah, now we wait. Where were we? Yes...
@@ -1756,7 +1756,7 @@ From what I understand, you want to join the Protectorate forces? Why is that, $
 =>q257
 ::Il s'adosse à son dossier.:: Aaah. On attend. Où en étions-nous ? Oui...
 
-D'après ce que je comprends, vous voulez rejoindre les forces du Protectorate ? Pourquoi, $(context.player.Name) ? Quelle est votre lecture de cet enfer où nous vivons ? Parmi toutes ces... organisations différentes que vous pourriez choisir... pourquoi le Underrail Protectorate ?<end>
+D'après ce que je comprends, vous voulez rejoindre les forces du Protectorate ? Pourquoi, $(context.player.Name) ? Comment voyez-vous cet enfer où nous vivons ? Parmi toutes ces... organisations différentes que vous pourriez choisir... pourquoi l'Underrail Protectorate ?<end>
 
 =>a258_original
 I see the Protectorate as the future of Underrail. I believe unifying the stations under a single rule is the proper way to make Underrail safe and prosperous.<end>
@@ -1770,7 +1770,7 @@ Correct. What you said is true, $(context.player.Name). Just, let me tell you on
 It is true, we want the world to be unified, safe and... as you put it, prosperous. But, if you have any dreams of it being done in a completely diplomatic way, you are wrong. The reason Protectorate exists is so that those who can not be reasoned with can be stopped from undoing what we're building here. Like those Free Drones. They are anarchists. Do you know what anarchism is?<end>
 
 =>q259
-Exact. Ce que vous dites est vrai, $(context.player.Name). Laissez-moi toutefois vous préciser une chose. J'ai l'impression qu'il pourrait y avoir un malentendu.
+Exact. Ce que vous dites est vrai, $(context.player.Name). Laissez-moi toutefois vous dire une chose. J'ai l'impression qu'il y a un malentendu.
 
 Oui, nous voulons un monde unifié, sûr et... comme vous dites, prospère. Mais si vous rêvez que ça se fasse en toute diplomatie, vous vous trompez. Le Protectorate existe pour empêcher ceux avec qui on ne peut pas raisonner de défaire ce que nous construisons ici. Les Free Drones, par exemple. Ce sont des anarchistes. Savez-vous ce qu'est l'anarchisme ?<end>
 
@@ -1782,7 +1782,7 @@ We are not savages, we don't abuse our power. But when diplomacy can't be applie
 =>q260
 Le chaos. Le chaos total. On ne négocie pas avec ça. Donc, dans ce cas extrême, il faut agir en conséquence.
 
-Nous ne sommes pas des sauvages. Nous n'abusons pas de notre pouvoir. Mais quand la diplomatie ne s'applique pas, la force, si.<end>
+Nous ne sommes pas des sauvages. Nous n'abusons pas de notre pouvoir. Mais quand la diplomatie ne passe pas, c'est la force.<end>
 
 =>q261_original
 ::The woman you saw out front enters the office.::<end>
@@ -1806,7 +1806,7 @@ Well, now that the tea is here, how about I explain to you your duties here and 
 So, listen up...<end>
 
 =>q263
-Le thé est là. Je vais vous expliquer vos devoirs, et le reste de ce qu'il faut savoir. ::Il prend une gorgée.:: Ooh. Bien. Bien. Bien chaud.
+Le thé est là. Je vais vous expliquer vos devoirs ici, et le reste. ::Il prend une gorgée.:: Ooh. Bien, bien. Bien chaud.
 
 Alors, écoutez-moi...<end>
 
@@ -1816,9 +1816,9 @@ $(context.player.Name), you will, should you chose so, become a member of the Un
 So, does that sound acceptable to you? Will you join the Protectorate?<end>
 
 =>q264
-$(context.player.Name), si vous le choisissez, vous deviendrez membre du Underrail Protectorate. Vous ne ferez partie d'aucune force existante. Votre rôle sera un peu plus spécialisé. Je serai votre officier commandant, et vous ne répondrez qu'à moi. Ma parole fait loi, ici. Souvenez-vous-en.
+$(context.player.Name), si vous acceptez, vous deviendrez membre de l'Underrail Protectorate. Vous ne ferez partie d'aucune force existante. Votre rôle sera un peu plus spécialisé. Je serai votre officier commandant, et vous ne répondrez qu'à moi. Ma parole fait loi, ici. Souvenez-vous-en.
 
-Ça vous convient ? Rejoignez-vous le Protectorate ?<end>
+Ça vous convient ? Allez-vous rejoindre le Protectorate ?<end>
 
 =>a265_original
 It is acceptable. I'm ready to join the Protectorate.<end>
@@ -1858,7 +1858,7 @@ And with that, you are allowed nearly full access to Fort Apogee, its food servi
 Do note that you will need United Stations dollars to purchase anything in Fort Apogee. Staff Sergeant can also help you with that.<end>
 
 =>q269
-Et avec ça, on vous accorde un accès quasi complet à Fort Apogee : le mess, l'armurerie, l'atelier mécanique, les quartiers, l'entraînement, et le reste. Tant qu'on y est, je vous conseille d'aller voir le sergent d'état-major Fraser quand vous aurez un moment. C'est lui qui gère votre solde, et vous pouvez lui acheter du matériel à tout moment.
+Vous aurez ainsi un accès quasi complet à Fort Apogee : le mess, l'armurerie, l'atelier mécanique, les dortoirs, les salles d'entraînement, et le reste. Tant qu'on y est, je vous conseille d'aller voir le sergent d'état-major Fraser quand vous aurez un moment. C'est lui qui gère votre solde, et vous pouvez lui acheter du matériel à tout moment.
 
 Notez que vous aurez besoin de dollars United Stations pour acheter quoi que ce soit à Fort Apogee. Le sergent d'état-major peut aussi vous aider là-dessus.<end>
 
@@ -1892,7 +1892,7 @@ Anyway, for your assistance in the recovery of the captured train, and for dedic
 =>q273
 Monsieur. Oui, monsieur. Souvenez-vous de ce que je vous ai dit. Je ne le répéterai pas.
 
-Quoi qu'il en soit, pour votre aide dans la récupération du train capturé, et pour votre dévouement au Protectorate, vous êtes $(#promu/promue) au grade de caporal.<end>
+Bref, pour votre aide dans la récupération du train capturé, et pour votre dévouement au Protectorate, vous êtes $(#promu/promue) au grade de caporal.<end>
 
 =>a274_original
 Kind of...<end>
@@ -1908,7 +1908,7 @@ Anyway, for your assistance in the recovery of the captured train, and for dedic
 =>q275
 Monsieur. En quelque sorte, monsieur. Souvenez-vous de ce que je vous ai dit. Je ne le répéterai pas.
 
-Quoi qu'il en soit, pour votre aide dans la récupération du train capturé, et pour votre dévouement au Protectorate, vous êtes $(#promu/promue) au grade de caporal.<end>
+Bref, pour votre aide dans la récupération du train capturé, et pour votre dévouement au Protectorate, vous êtes $(#promu/promue) au grade de caporal.<end>
 
 =>a276_original
 Hell yeah! It sounds perfect!<end>
@@ -1970,7 +1970,7 @@ In that case, you won't be bored here. Very good. Straight to the point, that's 
 =>q284
 ::Le colonel lève le sourcil gauche.::
 
-Dans ce cas, vous ne vous ennuierez pas ici. Très bien. Droit au but, c'est ce que j'aime entendre. Notre cher ambassadeur, le consul aussi, croient qu'on peut tout régler par la diplomatie. Vous savez que ce n'est pas vrai. Comment négocie-t-on avec des pillards... ou des Free Drones ? Les Faceless ? Eux, peut-être qu'on peut encore leur parler. Mais les Free Drones ? Ce sont des anarchistes. Savez-vous ce qu'est l'anarchisme ?<end>
+Dans ce cas, vous ne vous ennuierez pas ici. Très bien. Droit au but, c'est ce que j'aime entendre. Notre cher ambassadeur, et le consul aussi, croient qu'on peut tout régler par la diplomatie. Vous savez que ce n'est pas vrai. Comment négocie-t-on avec des pillards... ou des Free Drones ? Les Faceless ? Eux, peut-être qu'on peut encore leur parler. Mais les Free Drones ? Ce sont des anarchistes. Savez-vous ce qu'est l'anarchisme ?<end>
 
 =>a285_original
 Protectorate is the largest and most powerful faction in Underrail. It can offer me safety, a steady job and respect.<end>
@@ -2000,7 +2000,7 @@ Tant que la solde est bonne, je suis $(#prêt/prête) à tout. Et le Protectorat
 Honest and straightforward, I have to say. You could have told me anything at all, any one of the stock responses regarding creating a better future and all of that. Yet you chose that very response. <end>
 
 =>q289
-Honnête et direct, je dois le dire. Vous auriez pu me servir n'importe quoi, n'importe laquelle des réponses toutes faites sur un avenir meilleur et tout le reste. Pourtant, vous avez choisi celle-là. <end>
+Honnête, et sans détour. Vous auriez pu me servir n'importe quoi, n'importe laquelle des réponses toutes faites sur un avenir meilleur et tout le reste. Pourtant, vous avez choisi celle-là. <end>
 
 =>a290_original
 I had no other place to go to.<end>
@@ -2016,7 +2016,7 @@ The only way I can interpret that is... well, that things in SGS aren't the best
 =>q291
 ::Le colonel lève le sourcil gauche.::
 
-La seule façon d'interpréter ça... eh bien, c'est que les choses à SGS ne vont pas au mieux. Du moins pas pour vous. J'apprécie votre honnêteté, mais la façon dont vous l'avez dite... ça sent la faiblesse. Comme si vous fuyiez quelque chose. Ici, au Underrail Protectorate, on affronte tout ce qui nous tombe dessus. Et ce n'est pas seulement les Free Drones et le banditisme ordinaire.<end>
+La seule façon d'interpréter ça... eh bien, c'est que les choses à SGS ne vont pas au mieux. Du moins pas pour vous. J'apprécie votre honnêteté, mais la façon dont vous l'avez dite... ça sent la faiblesse. Comme si vous fuyiez quelque chose. Ici, au Protectorate, on affronte tout ce qui nous tombe dessus. Et ce n'est pas seulement les Free Drones et le banditisme ordinaire.<end>
 
 =>q292_original
 But, I was assured by both the ambassador and the consul, even Major Clifton, that you have no lack of courage, that you show great potential. We'll see. We will see.<end>
@@ -2068,5 +2068,5 @@ Oui ?<end>
 At ease, Corporal.<end>
 
 =>q299
-À l'aise, caporal.<end>
+Repos, caporal.<end>
 

@@ -52,7 +52,7 @@ $(context.player.Name), vous avez fait votre part, et je vous en remercie. Si ja
 ::End Dialog.::<end>
 
 =>a8
-::Partir::<end>
+::Partir.::<end>
 
 =>q9_original
 Sorry. ::Shakes her head.::<end>
@@ -68,7 +68,7 @@ Hello, traveler. My name is Aliza Boudreau, but you can just call me Doc. Are yo
 =>q10
 ::Vous voyez une femme épuisée - les yeux à peine ouverts, les gestes lents - retirer ses gants chirurgicaux tachés de sang et les jeter dans une poubelle au contenu surtout rouge. Il lui faut une seconde pour réaliser qu'elle n'est pas seule. Elle parvient à peine à sourire avant de vous adresser la parole.::
 
-Bonjour, voyageur. Je m'appelle Aliza Boudreau, mais appelez-moi Doc. Vous êtes blessé ?<end>
+Bonjour, $(#voyageur/voyageuse). Je m'appelle Aliza Boudreau, mais appelez-moi Doc. Vous êtes $(#blessé/blessée) ?<end>
 
 =>q11_original
 <end>
@@ -80,7 +80,7 @@ Bonjour, voyageur. Je m'appelle Aliza Boudreau, mais appelez-moi Doc. Vous êtes
 Do you have anything to trade? ::Barter.::<end>
 
 =>a12
-Vous avez quelque chose à vendre ? ::Troc.::<end>
+Vous avez quelque chose à vendre ? ::Troquer.::<end>
 
 =>a13_original
 Can you check my wounds?<end>
@@ -170,7 +170,7 @@ Mais... j'ai d'autres problèmes. ::Elle met un moment avant de continuer, mais 
 Have you talked to the captain? I'm sure he could send some men here to guard the door.<end>
 
 =>a27
-Vous en avez parlé au capitaine ? Je suis sûr qu'il pourrait envoyer des hommes ici pour garder la porte.<end>
+Vous en avez parlé au capitaine ? Je suis $(#sûr/sûre) qu'il pourrait envoyer des hommes ici pour garder la porte.<end>
 
 =>q28_original
 Oh my, yes, yes... I turned to the captain on many occasions. Guards have been posted here plenty of times, but the thing is, we live in dangerous territory, and we are short of men; we can't have people stand here day and night when there are so many threats lurking around Rail Crossing that require as many watchful eyes as we can spare.<end>
@@ -408,7 +408,7 @@ Vous avez fait votre part, et je vous en remercie. Si jamais vous avez besoin de
 ::End Dialog.::<end>
 
 =>a66
-::Partir::<end>
+::Partir.::<end>
 
 =>a67_original
 He's in the supply room, said he won't try to escape.<end>

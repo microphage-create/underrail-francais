@@ -4,14 +4,16 @@
 Tout le `knowledge/` (UI, skills, attributs, rules, feats, psi, quests, maps, items, status effects, enums, tooltips…)  
 Sauf `items.txt` vide (comme l’EN).
 
-## Dialogs — **DONE** (couverture) / **nickel partiel**
-**1042 / 1042** fichiers loc.
+## Dialogs — **DONE** (couverture) / **voix en second-pass**
+**1042 / 1042** fichiers loc. Inventaire nickel : 0 `mt`.
 
 Passe mécanique 2026-08-19 (pack-wide) : Acorn, checks `::[Skill]::` remis EN, tokens genre, CTA, hypos, hopper≠trémie.
 
-Passe voix nickel (même jour) : SGS early (Jonas, Pasquale, Essie, Quinton, Ezra, Newton, Tanner, Gorsky, Harold, Bret, Lucas, garde Cove, intro, tuto), JKK/Ola/Vivian, oligarques Acorn, Azif, Junkyard hub (Silas, Katherine, Grover, Cliff, Fixer, Eddy), Arena/Cornell/Sophie/Jookhela, Institute core, Expedition (Oldfield, Briggs, Marcus, Yahota, Ethan, Yngwar, pirates), Foundry/Drones/Edgar, HD (Rag, Buck, Gunslinger), Mordre + Forger (partiel).
+Passe voix : SGS early, JKK/Ola/Vivian, oligarques Acorn, Azif, Junkyard hub, Arena, Institute core, Expedition, Foundry/Drones/Edgar, HD, Mordre.
 
-Le reste des dialogues = encore MT + correctifs mécaniques.
+Second-pass 2026-08-21 (gros fichiers encore MT en queue) : **Phreak/forger** (fini : plus de croustilles, tu stable, run≠chips), Dude, Kokoschka, Cathcart, Ethan, Briggs, Marcus, Eidein, Georgis, Rista, Stavros.
+
+Reste : knowledge noms EN (skip), Steam-mod **périmé** vs `francais/`. Pas de sync Steam cette session.
 
 ## Qualité
 - Noms skills/attributs/feats : **EN**

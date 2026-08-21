@@ -12,7 +12,7 @@ Depot B est à nous !<end>
 Now, well, guess I'll be takin' over for the time bein', now that we ain't got a dockmaster. Shame it had to be this way, though. We'll see what happens next.<end>
 
 =>q2
-Bon, ben, je prends le relais pour l'instant, maintenant qu'on a plus de dockmaster. Dommage que ça ait dû finir comme ça. On verra la suite.<end>
+Bon, ben, je prends le relais pour l'instant, maintenant qu'on a plus de chef de quai. Dommage que ça ait dû finir comme ça. On verra la suite.<end>
 
 =>q3_original
 Now, about *you*... ::He hands you 700 stygian coins.:: Here. Yer share of the loot.
@@ -20,7 +20,7 @@ Now, about *you*... ::He hands you 700 stygian coins.:: Here. Yer share of the l
 Ya did us a massive favor, $(#jack/lady). Wouldn't have done it without ya. Consider yerself our ally, and know we got yer back when yer out there on the streets of Junkyard.<end>
 
 =>q3
-Maintenant, à propos de *toi*... ::Il te tend 700 pièces stygiennes.:: Tiens. Ta part du butin.
+Maintenant, à propos de *toi*... ::Il te tend 700 charons.:: Tiens. Ta part du butin.
 
 T'as rendu un sacré service, $(#gars/fille). On aurait pas pu sans toi. T'es des nôtres, et sache qu'on te couvre quand t'es dans les rues de Junkyard.<end>
 
@@ -40,7 +40,7 @@ Montre-moi ce que t'as. ::Troquer.::<end>
 Merchants here only accept stygian coins? How do I get some of those?<end>
 
 =>a6
-Les marchands d'ici n'acceptent que les pièces stygiennes ? Comment j'en obtiens ?<end>
+Les marchands d'ici n'acceptent que les charons ? Comment j'en obtiens ?<end>
 
 =>q7_original
 Glad ya asked. I can change them into charons at a decent rate. Just show me what ya got and I'll make ya a deal.<end>
@@ -52,7 +52,7 @@ T'as bien fait de demander. Je peux te les changer en charons à un taux correct
 I want to buy some stygian coins.<end>
 
 =>a8
-Je veux acheter des pièces stygiennes.<end>
+Je veux acheter des charons.<end>
 
 =>q9_original
 Whatcha got?<end>
@@ -82,31 +82,31 @@ Je te donne un charon pour quatre crédits SGS. Ça te va ? <end>
 ::Trade 4 SGS credits for 1 stygian coin.::<end>
 
 =>a13
-::Échanger 4 crédits SGS contre 1 pièce stygienne.::<end>
+::Échanger 4 crédits SGS contre 1 charon.::<end>
 
 =>q14_original
 ::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
 
 =>q14
-::Tu échanges des crédits SGS contre des pièces stygiennes.:: Toujours un plaisir de faire affaire. Autre chose ?<end>
+::Tu échanges des crédits SGS contre des charons.:: Toujours un plaisir de faire affaire. Autre chose ?<end>
 
 =>a15_original
 ::Trade 40 SGS credits for 10 stygian coins.::<end>
 
 =>a15
-::Échanger 40 crédits SGS contre 10 pièces stygiennes.::<end>
+::Échanger 40 crédits SGS contre 10 charons.::<end>
 
 =>a16_original
 ::Trade 400 SGS credits for 100 stygian coins.::<end>
 
 =>a16
-::Échanger 400 crédits SGS contre 100 pièces stygiennes.::<end>
+::Échanger 400 crédits SGS contre 100 charons.::<end>
 
 =>a17_original
 ::Trade 4000 SGS credits for 1000 stygian coins.::<end>
 
 =>a17
-::Échanger 4000 crédits SGS contre 1000 pièces stygiennes.::<end>
+::Échanger 4000 crédits SGS contre 1000 charons.::<end>
 
 =>a18_original
 Maybe later.<end>
@@ -136,31 +136,31 @@ Je te donne un charon pour cinq crédits SGS. Ça te va ? <end>
 ::Trade 5 SGS credits for 1 stygian coin.::<end>
 
 =>a22
-::Échanger 5 crédits SGS contre 1 pièce stygienne.::<end>
+::Échanger 5 crédits SGS contre 1 charon.::<end>
 
 =>q23_original
 ::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
 
 =>q23
-::Tu échanges des crédits SGS contre des pièces stygiennes.:: Toujours un plaisir de faire affaire. Autre chose ?<end>
+::Tu échanges des crédits SGS contre des charons.:: Toujours un plaisir de faire affaire. Autre chose ?<end>
 
 =>a24_original
 ::Trade 50 SGS credits for 10 stygian coins.::<end>
 
 =>a24
-::Échanger 50 crédits SGS contre 10 pièces stygiennes.::<end>
+::Échanger 50 crédits SGS contre 10 charons.::<end>
 
 =>a25_original
 ::Trade 500 SGS credits for 100 stygian coins.::<end>
 
 =>a25
-::Échanger 500 crédits SGS contre 100 pièces stygiennes.::<end>
+::Échanger 500 crédits SGS contre 100 charons.::<end>
 
 =>a26_original
 ::Trade 5000 SGS credits for 1000 stygian coins.::<end>
 
 =>a26
-::Échanger 5000 crédits SGS contre 1000 pièces stygiennes.::<end>
+::Échanger 5000 crédits SGS contre 1000 charons.::<end>
 
 =>a27_original
 ::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to the Scrappers?<end>
@@ -196,7 +196,7 @@ Vas-y. J'doute que quelqu'un te fasse un meilleur prix.<end>
 No way, that's not even close to a fair deal.<end>
 
 =>a32
-Hors de question, c'est même pas l'ombre d'un deal correct.<end>
+Hors de question, c'est même pas l'ombre d'un marché correct.<end>
 
 =>q33_original
 Sorry, can't go any lower than that.<end>
@@ -226,7 +226,7 @@ Happens all the time.<end>
 Would you happen to, by any chance, have an Armadillo class drill rotor circuit board?<end>
 
 =>a37
-T'aurais pas, par hasard, une carte de circuit de rotor de foreuse classe Armadillo ?<end>
+T'aurais pas, par hasard, une carte de rotor de foreuse classe Armadillo ?<end>
 
 =>q38_original
 No. I've got lots of junk, but I ain't got any Armadillo parts. Doubt any merchant here got those either.<end>
@@ -386,7 +386,7 @@ Comment ça ?<end>
 Talk to Silas, the dockmaster. Tell him Colton sent ya and that yer interested in the "wormhole." He'll tell ya more about it.<end>
 
 =>q63
-Parle à Silas, le dockmaster. Dis-lui que Colton t'envoie et que t'es $(#intéressé/intéressée) par le "wormhole". Il t'en dira plus.<end>
+Parle à Silas, le chef de quai. Dis-lui que Colton t'envoie et que t'es $(#intéressé/intéressée) par le wormhole. Il t'en dira plus.<end>
 
 =>a64_original
 I'll keep that in mind.<end>

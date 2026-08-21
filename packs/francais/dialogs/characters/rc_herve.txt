@@ -36,13 +36,13 @@ Je n'ai pas d'argent, pour le moment.<end>
 Ah. So that's the core of the issue. <end>
 
 =>q6
-Ah. Voilà le nœud. <end>
+Ah. Voilà le fond du problème. <end>
 
 =>q7_original
 Listen, South Gate Station and Rail Crossing have established pretty good relations over the years. Should we allow petty issues like this to divide us?<end>
 
 =>q7
-Écoutez. South Gate Station et Rail Crossing ont noué de très bonnes relations, au fil des années. Allons-nous laisser des histoires de cette taille nous diviser ?<end>
+Écoutez. South Gate Station et Rail Crossing ont noué de très bonnes relations, au fil des années. Allons-nous laisser des broutilles nous diviser ?<end>
 
 =>q8_original
 You've already helped this station so much, which is something I and this whole station are very grateful for. I will personally pay for your debt, $(context.player.Name). Let's forget this... incident ever happened. Very good.<end>
@@ -100,7 +100,7 @@ Je vois que les provisions sont enfin arrivées.<end>
 Yes! And not a moment too soon. I've been receiving more and more reports of Ironhead activity near Rail Crossing. It even seems that several different clans are converging on this location. These Ironheads, they are like packs of rathounds: They've sensed blood in the air and are moving in for the kill.<end>
 
 =>q16
-Oui ! Et pas trop tôt. Je reçois de plus en plus de rapports d'activité Ironhead près de Rail Crossing. Il semble même que plusieurs clans différents convergent vers ici. Ces Ironheads, c'est comme des meutes de rathounds : ils ont senti le sang, et ils se rabattent pour tuer.<end>
+Oui ! Et pas trop tôt. Je reçois de plus en plus de rapports d'activité Ironhead près de Rail Crossing. Il semble même que plusieurs clans différents convergent vers ici. Ces Ironheads, c'est comme des meutes de rathounds : ils ont senti le sang, et ils foncent pour achever.<end>
 
 =>q17_original
 We are still short on men, but at least we have some serious firepower in our hands. I hope that will be enough.<end>
@@ -220,7 +220,7 @@ Il n'y en a plus. J'ai essayé de combattre les détourneurs, mais l'un d'eux a 
 What? WHAT? Damn it! This is unbelievable. Why did you have to do it all alone? Why didn't you contact us or the Protectorate?<end>
 
 =>q36
-Quoi ? QUOI ? Bon sang. C'est inouï. Pourquoi avez-vous dû tout faire seul ? Pourquoi ne pas nous avoir contactés, nous ou le Protectorate ?<end>
+Quoi ? QUOI ? Bon sang. C'est inouï. Pourquoi avez-vous dû tout faire $(#seul/seule) ? Pourquoi ne pas nous avoir contactés, nous ou le Protectorate ?<end>
 
 =>a37_original
 I had no choice at the moment. I couldn't tell them to wait while I get reinforcements.<end>
@@ -244,7 +244,7 @@ Je n'avais pas le choix, sur le moment. Je ne pouvais pas leur dire d'attendre q
 It's how I do things. Alone.<end>
 
 =>a40
-C'est comme ça que je fais. Tout seul.<end>
+C'est comme ça que je fais. $(#Tout seul/Toute seule).<end>
 
 =>q41_original
 ::The captain lowers his head.:: Well, that worked out beautifully. Just leave me alone, you've done enough.<end>
@@ -282,7 +282,7 @@ Oh, le major vous a-t-il dit quand les provisions arriveraient ?<end>
 Wait. I have one more favor to ask of you...<end>
 
 =>q46
-::Le sourire tient un moment, puis un ver de doute le ronge, lentement. L'inquiétude lui monte au visage, et juste au moment où vous alliez partir, il vous retient.::
+::Le sourire tient un moment, puis le doute le ronge, lentement. L'inquiétude lui monte au visage, et juste au moment où vous alliez partir, il vous retient.::
 
 Attendez. J'ai encore une faveur à vous demander...<end>
 
@@ -342,7 +342,7 @@ Je comprends. Même une simple information suffirait.<end>
 It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. I came here for reinforcements.<end>
 
 =>a55
-C'est au sud de Rail Crossing. Un virage vers l'ouest, dans une grotte, vers ce qui ressemble à un entrepôt. Je suis venu chercher des renforts.<end>
+C'est au sud de Rail Crossing. Un virage vers l'ouest, dans une grotte, vers ce qui ressemble à un entrepôt. Je suis $(#venu/venue) chercher des renforts.<end>
 
 =>q56_original
 Great, go to South Railroad Outpost about that. If they said it's their investigation, then they should deal with the hijackers. And they are far better equipped for it anyway.<end>
@@ -366,7 +366,7 @@ Les Free Drones ont détourné le train.<end>
 Free Drones? Are you sure?<end>
 
 =>q59
-Les Free Drones ? Vous êtes sûr ?<end>
+Les Free Drones ? Vous êtes $(#sûr/sûre) ?<end>
 
 =>a60_original
 Yes. I think all this was an act against Protectorate, rather than against Rail Crossing.<end>
@@ -566,7 +566,7 @@ Les Free Drones ont détourné le train.<end>
 Free Drones? Are you sure?<end>
 
 =>q91
-Les Free Drones ? Vous êtes sûr ?<end>
+Les Free Drones ? Vous êtes $(#sûr/sûre) ?<end>
 
 =>a92_original
 They are fighting against the Protectorate, claiming that they're oppressors.<end>
@@ -644,7 +644,7 @@ Je ne le pense pas. ::Il s'arrête.:: Mais même si c'était vrai, on ne peut ri
 I'm on the case.<end>
 
 =>a104
-J'y vais.<end>
+Je m'en occupe.<end>
 
 =>q105_original
 I knew I could count on you. Good luck.<end>
@@ -740,7 +740,7 @@ Vous avez dû entendre les rapports, maintenant. Les Faceless qui envahissent Co
 They busted in with one of their tunnelers down the track south and occupied Buzzer's shop. We tried to blitz them back before they'd set up but that ended badly. They killed three of my men and badly wounded one.<end>
 
 =>q120
-Ils ont déboulé avec un de leurs tunnelers par la voie sud, et ils ont occupé la boutique de Buzzer. On a essayé de les déloger avant qu'ils s'installent. Ça s'est mal fini. Ils ont tué trois de mes hommes et en ont blessé un, gravement.<end>
+Ils ont déboulé avec un de leurs Tunnelers par la voie sud, et ils ont occupé la boutique de Buzzer. On a essayé de les déloger avant qu'ils s'installent. Ça s'est mal fini. Ils ont tué trois de mes hommes et en ont blessé un, gravement.<end>
 
 =>a121_original
 Why do you think they occupied Buzzer's shop?<end>
@@ -800,7 +800,7 @@ Je viens de SGS, en fait. Tanner m'envoie vous donner un coup de main.<end>
 Ah, I did put out a distress call to SGS. Are you the only one they could spare? I guess you people have your own problems.<end>
 
 =>q130
-Ah, j'avais bien lancé un appel de détresse à SGS. Vous êtes le seul qu'ils ont pu détacher ? Vous devez avoir vos propres problèmes, j'imagine.<end>
+Ah, j'avais bien lancé un appel de détresse à SGS. Vous êtes $(#le seul/la seule) qu'ils ont pu détacher ? Vous devez avoir vos propres problèmes, j'imagine.<end>
 
 =>q131_original
 As I said. Storming the shop is not an option anymore, so you'll have to figure out something else.<end>
@@ -824,7 +824,7 @@ Nous, les humains, on devrait tenir ensemble contre cette offensive Faceless. Si
 I'd expect to be paid, of course.<end>
 
 =>a134
-Je m'attends à être payé, évidemment.<end>
+Je m'attends à être $(#payé/payée), évidemment.<end>
 
 =>q135_original
 That I can understand. If you can somehow make the Faceless leave or take them all out I'll pay you three hundred charons. If you can get Buzzer out of there alive, assuming he still is, I'll throw in extra one hundred charons. Sound good?<end>
@@ -1080,7 +1080,7 @@ Ils cherchent un objet. Je ne sais pas lequel, mais il ne faut pas être un gén
 ::He shrugs.:: Plenty, actually. But I don't keep track of who visits Buzzer. You could still ask around the station. Maybe you'll find some clue. My mind is preoccupied with other things now, however, so you're on your own in this.<end>
 
 =>q176
-::Il hausse les épaules.:: Plein, en fait. Mais je ne tiens pas le registre de qui passe chez Buzzer. Vous pouvez encore demander dans la station. Vous tomberez peut-être sur un indice. J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes seul.<end>
+::Il hausse les épaules.:: Plein, en fait. Mais je ne tiens pas le registre de qui passe chez Buzzer. Vous pouvez encore demander dans la station. Vous tomberez peut-être sur un indice. J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes $(#seul/seule).<end>
 
 =>a177_original
 Can I ask you a few more questions before I leave?<end>
@@ -1110,7 +1110,7 @@ Je comprends. Je vais aller demander un peu, dans la station.<end>
 How can you be so sure?<end>
 
 =>q181
-Comment pouvez-vous en être si sûr ?<end>
+Comment pouvez-vous en être si $(#sûr/sûre) ?<end>
 
 =>a182_original
 I am not, but you said something yourself - he deals in strange electronics. I think the most plausible explanation is that someone brought this device to his store; it likely didn't exchange hands, as the Faceless would've found it by now.<end>
@@ -1122,7 +1122,7 @@ Je n'en suis pas sûr, mais vous l'avez dit vous-même : il trafique de l'élect
 You could ask around, but Buzzer had a lot of customers, and a lot of them were weird folks. ::He shrugs.:: My mind is preoccupied with other things now, however, so you're on your own in this.<end>
 
 =>q183
-Vous pouvez demander autour, mais Buzzer avait beaucoup de clients, et beaucoup étaient des types bizarres. ::Il hausse les épaules.:: J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes seul.<end>
+Vous pouvez demander autour, mais Buzzer avait beaucoup de clients, et beaucoup étaient des types bizarres. ::Il hausse les épaules.:: J'ai l'esprit ailleurs, maintenant. Sur ce coup-là, vous êtes $(#seul/seule).<end>
 
 =>a184_original
 Nothing useful, unfortunately.<end>
